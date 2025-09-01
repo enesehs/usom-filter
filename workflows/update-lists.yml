@@ -1,0 +1,216 @@
+name: Update USOM Lists
+
+on:
+  schedule:
+    # Her gün saat 06:00 UTC'de çalış
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Manuel tetikleme imkanı
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-lists:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Create output directory
+      run: mkdir -p output
+      
+    - name: Run USOM processor
+      run: python generator.py
+      
+    - name: Check if files were generated
+      run: |
+        ls -la output/
+        echo "Generated files:"
+        find output -name "*.txt" -exec wc -l {} \;
+        
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add changes
+        git add output/
+        git add *.log || true
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        
+        # Commit with timestamp
+        TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+        git commit -m "Update USOM lists - $TIMESTAMP"
+        git push
+
+  deploy-pages:
+    needs: update-lists
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+      
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        ref: main # Son committen çek
+        
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Generate index.html
+      run: |
+        cat > index.html << 'EOF'
+        <!DOCTYPE html>
+        <html lang="tr">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>USOM Zararlı URL Listeleri</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+                .container { max-width: 800px; margin: 0 auto; }
+                .file-list { background: #f4f4f4; padding: 20px; border-radius: 5px; }
+                .file-item { margin: 10px 0; }
+                .file-item a { text-decoration: none; color: #0066cc; font-weight: bold; }
+                .file-item a:hover { text-decoration: underline; }
+                .description { color: #666; font-size: 0.9em; }
+                .stats { background: #e8f4fd; padding: 15px; border-radius: 5px; margin: 20px 0; }
+                .update-time { color: #888; font-style: italic; }
+                .header { text-align: center; margin-bottom: 30px; }
+                .footer { margin-top: 40px; text-align: center; font-size: 0.9em; color: #666; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h1>🛡️ USOM Zararlı URL Listeleri</h1>
+                    <p>T.C. İçişleri Bakanlığı Siber Güvenlik Kurumu tarafından yayınlanan zararlı URL listelerinin işlenmiş halleri</p>
+                </div>
+
+                <div class="stats">
+                    <h3>📊 İstatistikler</h3>
+                    <div id="stats-content">Yükleniyor...</div>
+                </div>
+
+                <div class="file-list">
+                    <h3>📁 Mevcut Dosyalar</h3>
+                    
+                    <div class="file-item">
+                        <a href="output/ips.txt" download>📄 ips.txt</a>
+                        <div class="description">Zararlı IP adresleri listesi (düz metin)</div>
+                    </div>
+                    
+                    <div class="file-item">
+                        <a href="output/urls.txt" download>📄 urls.txt</a>
+                        <div class="description">Zararlı URL listesi (düz metin)</div>
+                    </div>
+                    
+                    <div class="file-item">
+                        <a href="output/urls_pihole.txt" download>📄 urls_pihole.txt</a>
+                        <div class="description">Pi-hole için domain listesi</div>
+                    </div>
+                    
+                    <div class="file-item">
+                        <a href="output/urls_UBL.txt" download>📄 urls_UBL.txt</a>
+                        <div class="description">uBlock Origin / AdBlock için filtre listesi</div>
+                    </div>
+                </div>
+
+                <div class="update-time">
+                    <p><strong>Son Güncelleme:</strong> <span id="last-update">Bilinmiyor</span></p>
+                    <p><strong>Güncelleme Sıklığı:</strong> Günlük (06:00 UTC)</p>
+                </div>
+
+                <div class="footer">
+                    <p>Bu listeler <a href="https://www.usom.gov.tr/url-list.txt" target="_blank">USOM resmi kaynağından</a> otomatik olarak işlenmektedir.</p>
+                    <p>Proje GitHub'da: <a href="https://github.com/[KULLANICI-ADI]/[REPO-ADI]" target="_blank">Kaynak Kod</a></p>
+                </div>
+            </div>
+
+            <script>
+                // Dosya istatistiklerini yükle
+                async function loadStats() {
+                    try {
+                        const files = [
+                            { name: 'IP Adresleri', file: 'output/ips.txt' },
+                            { name: 'URL\'ler', file: 'output/urls.txt' },
+                            { name: 'Pi-hole Domainleri', file: 'output/urls_pihole.txt' },
+                            { name: 'Adblock Kuralları', file: 'output/urls_UBL.txt' }
+                        ];
+
+                        let statsHtml = '<ul>';
+                        let lastUpdate = null;
+
+                        for (const fileInfo of files) {
+                            try {
+                                const response = await fetch(fileInfo.file);
+                                if (response.ok) {
+                                    const text = await response.text();
+                                    const lines = text.split('\n').filter(line => 
+                                        line.trim() && !line.trim().startsWith('#')
+                                    );
+                                    statsHtml += `<li><strong>${fileInfo.name}:</strong> ${lines.length.toLocaleString('tr-TR')} entry</li>`;
+                                    
+                                    // Son güncelleme tarihini al
+                                    const updateMatch = text.match(/# Son Güncelleme: (.*)/);
+                                    if (updateMatch && !lastUpdate) {
+                                        lastUpdate = updateMatch[1];
+                                    }
+                                }
+                            } catch (e) {
+                                statsHtml += `<li><strong>${fileInfo.name}:</strong> Yüklenemedi</li>`;
+                            }
+                        }
+
+                        statsHtml += '</ul>';
+                        document.getElementById('stats-content').innerHTML = statsHtml;
+                        
+                        if (lastUpdate) {
+                            document.getElementById('last-update').textContent = lastUpdate;
+                        }
+                    } catch (error) {
+                        document.getElementById('stats-content').innerHTML = '<p>İstatistikler yüklenirken hata oluştu.</p>';
+                    }
+                }
+
+                // Sayfa yüklendiğinde istatistikleri yükle
+                document.addEventListener('DOMContentLoaded', loadStats);
+            </script>
+        </body>
+        </html>
+        EOF
+        
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: .
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
