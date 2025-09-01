@@ -113,12 +113,12 @@ pihole restartdns
 1. uBlock Origin ayarlarına erişim
 2. "Filter lists" bölümüne geçiş
 3. "Import" seçeneğini kullanma
-4. URL ekleme: `https://[KULLANICI-ADI].github.io/[REPO-ADI]/output/urls_UBL.txt`
+4. URL ekleme: `https://enesehs.github.io/usom-filter/output/urls_UBL.txt`
 
 ### Güvenlik Duvarı Entegrasyonu (IP Engelleme)
 
 ```bash
-curl -s https://[KULLANICI-ADI].github.io/[REPO-ADI]/output/ips.txt | \
+curl -s https://enesehs.github.io/usom-filter/output/urls_UBL.txt | \
 grep -v '^#' | while read ip; do
      iptables -I INPUT -s $ip -j DROP
 done
