@@ -104,7 +104,7 @@ async with USOMProcessor() as processor:
 ### Pi-hole Entegrasyonu
 
 ```bash
-curl -o /etc/pihole/custom.list https://[KULLANICI-ADI].github.io/[REPO-ADI]/output/urls_pihole.txt
+curl -o /etc/pihole/custom.list https://enesehs.github.io/usom-filter/output/urls_UBL.txt
 pihole restartdns
 ```
 
