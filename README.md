@@ -1,8 +1,35 @@
 # 🛡️ USOM Zararlı URL Listesi Engelleme Sistemi
 
+<div align="center">
+    <a href="./requirements.txt"><img alt="Python" src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white"></a>&nbsp;
+    <a href="#lisans"><img alt="License" src="https://img.shields.io/badge/License-MIT-success"></a>&nbsp;
+    <a href="https://github.com/enesehs/usom-filter/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/enesehs/usom-filter?logo=github"></a>&nbsp;
+    <a href="https://github.com/enesehs/usom-filter/issues"><img alt="Issues" src="https://img.shields.io/github/issues/enesehs/usom-filter"></a>&nbsp;
+    <img alt="Status" src="https://img.shields.io/badge/Status-Active-22c55e">&nbsp;
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/enesehs/usom-filter">&nbsp;
+    <a href="https://enesehs.me/usom-filter"><img alt="Website" src="https://img.shields.io/badge/Website-enesehs.me%2Fusom--filter-3b82f6"></a>
+</div>
+
 Bu proje, T.C. Ulaştırma ve Altyapı Bakanlığı Siber Güvenlik Daire Başkanlığı (USOM) tarafından yayınlanan [zararlı URL listesini](https://www.usom.gov.tr/url-list.txt) çeşitli güvenlik araçları için uygun formatlara dönüştürmektedir.
 
-## 📁 Çıktı Dosyaları
+Canlı web sayfası: https://enesehs.me/usom-filter
+
+## İçindekiler
+
+- [📁 Çıktı Dosyaları](#-çıktı-dosyaları)
+- [🚀 Temel Özellikler](#-temel-özellikler)
+- [🛠️ Kurulum ve Kullanım](#️-kurulum-ve-kullanım)
+- [📋 Sistem Mimarisi](#-sistem-mimarisi)
+- [🔧 Yapılandırma](#-yapılandırma)
+- [📖 API Dokümantasyonu](#-api-dokümantasyonu)
+- [🌐 Entegrasyon Örnekleri](#-entegrasyon-örnekleri)
+- [📈 GitHub Actions Otomasyonu](#-github-actions-otomasyonu)
+- [🤝 Katkı Sağlama](#-katkı-sağlama)
+- [� Lisans](#lisans)
+- [🔗 İlgili Kaynaklar](#-ilgili-kaynaklar)
+- [⚠️ Yasal Uyarı](#️-yasal-uyarı)
+
+## �📁 Çıktı Dosyaları
 
 | Dosya Adı | Açıklama | Kullanım Alanları |
 |-----------|----------|-------------------|
@@ -30,18 +57,21 @@ Bu proje, T.C. Ulaştırma ve Altyapı Bakanlığı Siber Güvenlik Daire Başka
 - `aiohttp` kütüphanesi
 - `tldextract` kütüphanesi
 
-### Manuel Çalıştırma
+### Manuel Çalıştırma (Windows PowerShell)
 
-```bash
-pip install -r requirements.txt
-```
+```powershell
+# (İsteğe bağlı) Sanal ortam
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 
-```bash
-python generator.py
-```
+# Bağımlılıklar
+pip install -r .\requirements.txt
 
-```bash
-ls output/
+# Çalıştırma
+python .\generator.py
+
+# Çıktıları listele
+Get-ChildItem .\output\
 ```
 
 ## 📋 Sistem Mimarisi
