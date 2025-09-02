@@ -2,8 +2,8 @@ name: Update USOM Lists
 
 on:
   schedule:
-    # Her gün saat 06:00 UTC'de çalış
-    - cron: '0 6 * * *'
+    # Her 1 saatte bir çalış
+    - cron: '0 * * * *'
   workflow_dispatch: # Manuel tetikleme imkanı
   push:
     branches: [ main ]
@@ -144,7 +144,7 @@ jobs:
 
                 <div class="update-time">
                     <p><strong>Son Güncelleme:</strong> <span id="last-update">Bilinmiyor</span></p>
-                    <p><strong>Güncelleme Sıklığı:</strong> Günlük (06:00 UTC)</p>
+                    <p><strong>Güncelleme Sıklığı:</strong> Saatlik (her saatin başında)</p>
                 </div>
 
                 <div class="footer">

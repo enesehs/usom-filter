@@ -178,7 +178,19 @@ class USOMProcessor:
             'ips': f"# USOM Zararlı IP Listesi\n# Son Güncelleme: {timestamp}\n# Toplam: {{count}} IP\n\n",
             'urls': f"# USOM Zararlı URL Listesi\n# Son Güncelleme: {timestamp}\n# Toplam: {{count}} URL\n\n",
             'domains_pihole': f"# USOM Zararlı Domain Listesi (Pi-hole Format)\n# Son Güncelleme: {timestamp}\n# Toplam: {{count}} Domain\n\n",
-            'domains_adblock': f"# USOM Zararlı Domain Listesi (Adblock/uBlock Format)\n# Son Güncelleme: {timestamp}\n# Toplam: {{count}} Rule\n\n"
+            'domains_adblock': (
+                f"[Adblock Plus 2.0]\n"
+                f"! Title: USOM-Filter\n"
+                f"! Author: Enesehs | https://enesehs.me/\n"
+                f"! Version: 1.0\n"
+                f"! Homepage: https://github.com/reek/anti-adblock-killer/\n"
+                f"! Twitter: https://twitter.com/antiadbkiller\n"
+                f"! Contact: https://enesehs.me#contact\n"
+                f"! WritingRules: https://adblockplus.org/filters\n"
+                f"! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html\n"
+                f"! Last modified: {timestamp}\n"
+                f"! Total: {{count}} rules\n\n"
+            )
         }
         
         for category, filename in file_mapping.items():
