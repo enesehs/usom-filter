@@ -183,7 +183,7 @@ class USOMProcessor:
                 f"! Title: USOM-Filter\n"
                 f"! Author: Enesehs | https://enesehs.me/\n"
                 f"! Version: 1.0\n"
-                f"! Homepage: https://github.com/reek/anti-adblock-killer/\n"
+                f"! Homepage: https://enesehs.me/usom-filter\n"
                 f"! Twitter: https://twitter.com/antiadbkiller\n"
                 f"! Contact: https://enesehs.me#contact\n"
                 f"! WritingRules: https://adblockplus.org/filters\n"
