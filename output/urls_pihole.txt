@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-06 21:02:49 UTC
-# Toplam: 407108 Domain
+# Son Güncelleme: 2025-09-06 22:03:54 UTC
+# Toplam: 407111 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -168423,6 +168423,7 @@ gxrntttigxxxzrizaaaa2023.net
 gxrxntibbvx.duckdns.org
 gxrxntibxnkyaninda.duckdns.org
 gxrxnticxzumleri1295.com
+gxrxxntiibbvxx.duckdns.org
 gxscv.com
 gxsjm2g2m8sxyp18e.ddns.net
 gxttvcmall.com
@@ -217013,6 +217014,8 @@ kampanyalarda-buyukyilsonu-firsati.shop
 kampanyalardabugun.ct.ws
 kampanyalardabugunlerde.cfd
 kampanyalardabugunlerde.sbs
+kampanyalardabuhafatalardasongun.cfd
+kampanyalardabuhafatalardasongun.sbs
 kampanyalardaburadaburayabak.cfd
 kampanyalardaburadaburayabak.sbs
 kampanyalardadakifirsatlarinadresi.cfd
