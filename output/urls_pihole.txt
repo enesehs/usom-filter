@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-07 13:13:31 UTC
-# Toplam: 407162 Domain
+# Son Güncelleme: 2025-09-07 14:02:50 UTC
+# Toplam: 407163 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -398364,6 +398364,7 @@ yerhgs.sg-host.com
 yerhgsz.com
 yerifest.com
 yerigerigeldik.net
+yerinde-firsat-tr-com.cfd
 yerindenalirim.sg-host.com
 yerindenbirryuklerim.sg-host.com
 yerindenbiyuklerim.sg-host.com
