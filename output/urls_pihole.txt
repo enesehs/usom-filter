@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-07 21:01:47 UTC
-# Toplam: 407199 Domain
+# Son Güncelleme: 2025-09-07 22:07:25 UTC
+# Toplam: 407208 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39135,6 +39135,7 @@ aldinaldinkampanyaliredmifirsatlaricin.cyou
 aldinaldinkampanyaliredmifirsatlaricin.sbs
 aldinaldinkampanyaliredmifirsatlaricin.xyz
 aldinaldinkampanyaliredmiyeri.cfd
+aldinaldinkampanyaliredmiyerleri.cfd
 aldinaldinkampanyasindan.com
 aldinaldinkampanyastokk100.com
 aldinaldinkampanyatr.online
@@ -54492,6 +54493,7 @@ bamex.com.pk
 bamfon2.ddns.net
 bamjcllixg.net
 bammboo.ddns.net
+bampeta.click
 bamsit.com.tr
 bamtaklamclaransda.com
 bamtaklslcarsds.com
@@ -152357,6 +152359,7 @@ g987k.rvideco.com
 g98g2lasd2.online
 g9Ve5b6T4.cn
 g9bw02m.duckdns.org
+g9gqwd12agagasdwqds.sbs
 g9k52b5.duckdns.org
 g9kv5857w.duckdns.org
 g9mk2vq.duckdns.org
@@ -156180,6 +156183,7 @@ garipislem.mywire.org
 garkrd082.online
 garkrd120.online
 garlascoenergie.it
+garlhahmencene.com
 garlicdinosaur.top
 garlicdisclosure.top
 garliclunarcigartrap.click
@@ -216755,6 +216759,7 @@ kampanyadunyasii.online
 kampanyadunyasiii.online
 kampanyadunyasinahosgeldin.site
 kampanyadunyasinahosgeldiniz.site
+kampanyaduragi.com
 kampanyadurumusorgula-paribucom.tk
 kampanyaduyurusu.com
 kampanyaduzenlemeleri.com
@@ -315095,6 +315100,7 @@ seloxcon.co
 seloxcon.com
 seloxon.net
 selpakcepte.tv.tr
+selpakcepte.web.tr
 selstomerselo1.zapto.org
 seltakipin.fun
 seltyrat.ddns.net
@@ -327105,6 +327111,7 @@ sonnguunstok100.com
 sonniiadegunleri.com
 sonnkazzandiraanfirsatlarrr.com.tr
 sonnkazzandiraanfirsatlarrr.online
+sonnktadabrayaynlrsnzs.monster
 sonnoktakta.com
 sonnyelectric.com
 sonoara.duckdns.org
@@ -393104,6 +393111,7 @@ yamenswash.com
 yamleg.fu8.com
 yamotrax.com
 yamyamrav.shop
+yamyeba.click
 yan-yukleme.22web.org
 yanagi.co.kr
 yanaislem.xyz
@@ -402134,6 +402142,7 @@ yuzbirsadeceonlineozel.com
 yuzbirsakcne.duckdns.org
 yuzbirsenedirberaberiz.duckdns.org
 yuzbirsiparis.click
+yuzbirsiparisn.click
 yuzbirswewa.click
 yuzbirtencrefristlarikmcz.com
 yuzbiryazfirsatiklimaa.com
