@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-07 16:08:31 UTC
-# Toplam: 407168 Domain
+# Son Güncelleme: 2025-09-07 17:01:51 UTC
+# Toplam: 407175 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17640,6 +17640,7 @@
 7escif0i.duckdns.org
 7ev0cic.duckdns.org
 7exkrmapazzxxleriekcodlsps.com
+7eyluldebiseylerypmaliyizi.cloud
 7eylulegirdiksipyokamk.cloud
 7ez93ejjf.duckdns.org
 7f29wmm.irbalif.ru
@@ -36931,6 +36932,8 @@ akt.10agostos-pazarda.art
 akt.1eylul-firsatlarburada.site
 akt.3agustos-indrm.com
 akt.5eylul-deonline.site
+akt.6deylul-com.site
+akt.6eylul-com.site
 akt.cuma-onlinefirsatz.com
 akt.cumamrkt-3213.com
 akt.cumartesi-agustsindrm.net
@@ -84662,6 +84665,7 @@ cagrielamanigold.com.tr
 cagrihizmetleri.net
 cagriik.com
 cagriisilani.com
+cagrikarsilama.com
 cagrimerkeziaile.ml
 cagrimerkeziden.net
 cagrimerkezimiz.net
@@ -142773,6 +142777,7 @@ farklikampanyazamanlariii.shop
 farklilar.name.tr
 farklimsihayati.site
 farkliurun.name.tr
+farkyaratanfirsatlardaaysonu.xyz
 farlaresdghaerads.com
 farm-sharing.at
 farmaciacairoli.eu
@@ -223098,6 +223103,7 @@ kilometrehizli.shop
 kilometrehizli.web.app
 kilometrehizmetidalton.shop
 kilometrehspc.web.app
+kilometreiscvlem.web.app
 kilometreislemlerinden.web.app
 kilometreislemleriniz.web.app
 kilometreislemptt.web.app
@@ -287999,6 +288005,7 @@ promosyonweb.com
 promosyonyaninda.com
 promosyonyapikredi.com
 promosyonyaptirmazamasi.com
+promosyonyenisi.com
 promosyonzaman.shop
 promosyonzamani.shop
 promosyonzir.com
