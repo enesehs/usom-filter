@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-07 22:07:25 UTC
-# Toplam: 407208 Domain
+# Son Güncelleme: 2025-09-07 23:07:24 UTC
+# Toplam: 407220 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11479,6 +11479,7 @@
 36884456647878.com.tr
 36884456647878.online
 36902.xc.chuairan.com
+3696832.cloud
 36970.url.9xiazaiqi.com
 369852147.cloud
 36992.xc.chuairan.com
@@ -39136,6 +39137,7 @@ aldinaldinkampanyaliredmifirsatlaricin.sbs
 aldinaldinkampanyaliredmifirsatlaricin.xyz
 aldinaldinkampanyaliredmiyeri.cfd
 aldinaldinkampanyaliredmiyerleri.cfd
+aldinaldinkampanyaliredmiyerleri.sbs
 aldinaldinkampanyasindan.com
 aldinaldinkampanyastokk100.com
 aldinaldinkampanyatr.online
@@ -85135,6 +85137,8 @@ campusteen.ru
 campusveterinario.com
 campusvoltaire.com
 campyrix.xyz
+camreba.click
+camseta.click
 camsigorta.net
 camsigorta.site
 camstane.com
@@ -86525,6 +86529,7 @@ cautran.id.vn
 cavaliersales.com
 cavalodetroia.duckdns.org
 cavalodomado.com
+cavaxa.click
 cavazzoniassociati.it
 cavbelavirre.site
 caveinmove.com
@@ -103146,6 +103151,7 @@ denetlemekurumu.com
 denetlemekurumu.tk
 denetlerm-hztia-gzt.online
 denetok.site
+deneyeceksinkardes.com
 deneyedurduktefikcdkti.com.tr
 deneyelimduyuruya.net
 deneyen-bilir-burasi-heryerden-daha-sizinle.com
@@ -107090,6 +107096,7 @@ denizmobil-online.ru.com
 denizmobil-online.sa.com
 denizmobil-online.za.com
 denizmobil-sube.ru.com
+denizmobil-sube.sa.com
 denizmobil-subegirism.tk
 denizmobil.blogspot.com
 denizmobil.net
@@ -151118,6 +151125,7 @@ frstksfskfsmofsjgsksfjsgskgfsjqkwejwkewlqdwlqkfksa.online
 frstlamkcmzsktabykindrmbzmle.click
 frstlar-heran-burada.com
 frstlarayagndagelenlerbrda.com
+frstlarfkmasieyll.duckdns.org
 frstlarhemnkapnda1o1.com
 frstlaricinsonguntukenyr1o1.shop
 frstlarkapindaburda1o1.shop
@@ -174271,6 +174279,7 @@ harcaharcaindirimlerbitmez.cfd
 harcaharcaindirimlerbitmez.sbs
 harcaharcakampanyaliredmiyeri.cfd
 harcaharcakampanyaliredmiyeri.sbs
+harcaharcakampanyaliredmiyerleri.cfd
 harcaharcarharharcabitmez.com.tr
 harcaharcarharharcabitmez.online
 harcaharcasizlerle.net
@@ -217866,6 +217875,7 @@ kamparas.xyz
 kamparixo.xyz
 kampasorgula2022.com
 kampavio.xyz
+kampaxor.xyz
 kampaya-online-bizde-form-online-com.ml
 kampayaarburada.com.tr
 kampayaarburada.online
@@ -225244,6 +225254,7 @@ kmsorgulamagovv-tr.duckdns.org
 kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamagulyan.shop
 kmsorgulamakicin.blogspot.com
+kmsorgulamalalrnzhizlica.web.app
 kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarihizlicageliyor.duckdns.org
 kmsorgulamalariis.web.app
@@ -351639,6 +351650,7 @@ trinketiket.xyz
 trinkinizisisiz.online
 trinkkolay.digital
 trinknakit.com
+trinkpara.digital
 trinksor.net
 trinksorgu.xyz
 trinksorgula.xyz
