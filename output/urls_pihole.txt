@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-08 14:09:34 UTC
-# Toplam: 407304 Domain
+# Son Güncelleme: 2025-09-08 15:05:02 UTC
+# Toplam: 407314 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8485,6 +8485,7 @@
 222-444-666-2.com
 2220212548220.duckdns.org
 222135434.cloud
+222152145212511.duckdns.org
 2221545225622.duckdns.org
 22221220223.cloud
 22222-22221111.cloud
@@ -40758,6 +40759,7 @@ aloepttinteraktif.com
 aloepttinteraktiif.com
 aloesyavarmi.app
 aloftagony.top
+alogeldiklog.cfd
 aloha.fekeigawy.com
 aloha1.xyz
 alohgss.com
@@ -77259,6 +77261,7 @@ bolbolikramiye.com
 bolbolkampanya.com
 bold-accepts-wide-te.trycloudflare.com
 bold-bartik.20-199-66-103.plesk.page
+bold-dhawan.45-139-104-115.plesk.page
 bold-easley.16-171-34-6.plesk.page
 bold-mclaren.45-91-169-60.plesk.page
 bold-smoke-56007.pktriot.net
@@ -131874,6 +131877,7 @@ elgatodecheshire.ddns.net
 elgazzar.zapto.org
 elgen1.zapto.org
 elginseyahathgs.com
+elgondipa.jagoserver.my.id
 elgringoformatch24242.com
 elheisenberg.ddns.net
 elhemzelhem.cyou
@@ -149063,6 +149067,7 @@ flrsatherolursaolsadagelebilir.shop
 flrsatherzamandaolsaolurda.site
 flrsatherzamanindirimlerivardirfakat.store
 flrsatherzamanolsadaazraolur.shop
+flrsatherzamanolsadanahadilobi.world
 flrsatherzamanolsasanada.store
 flrsathherkeslehadelosanhayolmaz.world
 flrsathherkesleolmadnsatenneder.world
@@ -206791,6 +206796,7 @@ istkartdolum.net
 istkartdolum.online
 istkartdolumu.net
 istkartdolumyeri.online
+istkartfml.online
 istkartim.net
 istkartimatlatyukle.net
 istkartimdrbu.com
@@ -252999,6 +253005,7 @@ muhtarabisi.net
 muhtaramca.net
 muhtarcim.com
 muhtarhalasi.net
+muhtemelenagliyosunuz.cfd
 muhtemelenfirsat7.com
 muhtemelfirsatlar.com
 muhtemesemkampanlar.cfd
@@ -312848,6 +312855,7 @@ sdweaqew2.blogspot.com
 sdwfaw.icu
 sdwghdtwww.click
 sdwjvtmvsgkh.pw
+sdwtadw.sbs
 sdxcvxccxcxxc.s3.eu-central-1.amazonaws.com
 sdxkawda.blogspot.com
 sdxsxsx.click
@@ -367271,6 +367279,7 @@ vb-dijital.net
 vb-dijital.xyz
 vb-dijitalgirismobilim.tk
 vb-dijitallgirismobilim.tk
+vb-dunyasi.xyz
 vb-firsat.xyz
 vb-firsatlar.xyz
 vb-giriiskatlllmmobil.online
@@ -385326,6 +385335,7 @@ wwwgaranti250tlbonus-com-tr.tk
 wwwgarantibank-bbvacom-tr.tk
 wwwgarantibank-iade.com
 wwwgarantibank-iadeniz.com
+wwwgarantibank.click
 wwwgarantibankam-250bonus-com.tk
 wwwgarantibankasi-bbva-com-tr.tk
 wwwgarantibankasifirsatcomtr.tk
