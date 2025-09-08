@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-08 21:07:49 UTC
-# Toplam: 407353 Domain
+# Son Güncelleme: 2025-09-08 22:08:42 UTC
+# Toplam: 407374 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14182,6 +14182,7 @@
 523152152152.shop
 523242.site
 523253253225901255.com.tr
+52332623qe.duckdns.org
 523454.cc
 5235.hopto.org
 523523523525.xyz
@@ -38049,6 +38050,7 @@ aktuelperrreekende.site
 aktuelpersembefirsatlari.com
 aktuelprimfirsat.net
 aktuelramadanindirim.net
+aktuelredmialimlariburadaalisveris.sbs
 aktuelsaldinadlin.online
 aktuelsanalmarket-101.com
 aktuelsefirsatda.net
@@ -39110,6 +39112,7 @@ aldinaldinhemen.shop
 aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
 aldinaldinidnrimgunleri.sbs
+aldinaldinindiirmlerrindebuay.sbs
 aldinaldinindirimleri.cfd
 aldinaldinindirimleri.icu
 aldinaldinindirimleri.lat
@@ -39175,6 +39178,8 @@ aldinaldinonline.com.tr
 aldinaldinonlineozel.com.tr
 aldinaldinramazan.shop
 aldinaldinramazann.shop
+aldinaldinredmialisverisleryeri.cfd
+aldinaldinredmialisverisleryeri.sbs
 aldinaldinsalitestere.shop
 aldinaldinsantimelerin.com
 aldinaldinsimdi.icu
@@ -40073,6 +40078,7 @@ alisverisler.org
 alisverisleranindakapinda.online
 alisverislerdekiindirimligunler.cfd
 alisverislerdekiindirimligunler.sbs
+alisverislerderedmialdinaldinyeri.sbs
 alisverislerdesonguneylul.sbs
 alisverislerguvenilir.space
 alisverislerguvenilir.store
@@ -84700,6 +84706,7 @@ cagliaricity.it
 cagrat.duckdns.org
 cagri.info
 cagribasvuru.com
+cagriekip.com
 cagrielamanigold.com.tr
 cagrihizmetleri.net
 cagriik.com
@@ -85726,6 +85733,7 @@ cardmarket.biz
 cardslump.top
 cardspectrum.top
 cardzstorezone.com
+careeffoursa.com
 careefour.sa.com
 careefourr.sa.com
 careerfinder.ro
@@ -107793,6 +107801,7 @@ denizsosyalyardim.xyz
 denizsubbayramda.com
 denizsube-acikdenizcekilisbasvuru.com
 denizsube-kanal.click
+denizsube-mobil.click
 denizsube-mobil.sa.com
 denizsube-mobilgirism.tk
 denizsube-online.ru.com
@@ -123238,6 +123247,7 @@ e-pttgov.top
 e-pttgovtr.com
 e-ptthlgsislemleriniz.com
 e-pttkurumsal-gentr.com
+e-pttmobil.org
 e-qibode.net
 e-qnb-cardfinans.com
 e-qnb-finans-online.com
@@ -141555,6 +141565,7 @@ eylulfirsatlarinikacirmadanal.online
 eylulfirsatlarinikacirmadanal.xyz
 eylulfirsatlarinikacrma.duckdns.org
 eylulflrsatlariburda.com
+eylulflrsatlariii.com
 eylulformonay.org
 eylulhediyekampanyasi.com
 eyluliadeler-sekmesi.xyz
@@ -157497,6 +157508,8 @@ gelaglarlaixmregle.net
 gelal1okamimdi.online
 gelalburdafrstlr.shop
 gelaldinaldin1001le.online
+gelalfirsaltari101le.xyz
+gelalfirsayanda101.online
 gelalfirsayanda101.xyz
 gelalgitsokta.biz.tr
 gelalindirimlerihftsnu.com
@@ -175448,7 +175461,9 @@ hayalindeki-ucuzluk-kapiniza-geliyor.com
 hayalindeki-yasam-burada-gerceklesiyor.com
 hayalindeki-yenilikler-yuzune-nese-getirdi.com
 hayalindekiguzellikler.top
+hayalindekikapinageldi.cfd
 hayalinden-daha-fazlasi-seni-bekliyor.com
+hayalinegidenyoldayaninda.com
 hayalini-duslerle-birlikte-yasa-artik.com
 hayalini-gercege-tasiyan-adres-burada.com
 hayalinizdetombalik.xyz
@@ -216996,6 +217011,7 @@ kampanyahediyelerisizlereozel.online
 kampanyahepsiiburada.com
 kampanyahepsiiburadam.com
 kampanyahepsiiburadam.online
+kampanyaherkesinhakki101.cfd
 kampanyahgs3d.xyz
 kampanyahgsodeme.xyz
 kampanyahic-bitmiyor.shop
@@ -230504,6 +230520,7 @@ l4ry0erx.duckdns.org
 l4vs8qxx3.duckdns.org
 l4wu3x.duckdns.org
 l52uws.duckdns.org
+l55polis155polisi.online
 l55polisitr155tr.online
 l55polistr.online
 l570m1qef.duckdns.org
@@ -306031,6 +306048,7 @@ saf-safee-wqfvzvd-tteew.xyz
 saf12q3fqwfsaf.com
 saf1qfqwfasfxafv.com
 safaa19991999.zapto.org
+safabronz.com
 safada.ddns.net
 safafashinasftra.com
 safagadgsgdf.click
@@ -351767,6 +351785,7 @@ trinkburada.click
 trinkburada.digital
 trinkcebinde.digital
 trinketiket.xyz
+trinkheryerde.click
 trinkinizisisiz.online
 trinkkolay.digital
 trinknakit.com
@@ -395511,6 +395530,7 @@ yaptigimiz-guzellikler-buraya-kadar-surdu.com
 yaptigimseyleriuykundadile.net
 yaptikflowglmdksana.net
 yaptiklarimzcrfrsda.com
+yaptiklarimzcrfrsda.online
 yaptimodemem.com
 yaptiryaptiryap.duckdns.org
 yaptklarmaytrmakln.com
@@ -396090,6 +396110,7 @@ yatirim.turkmenkuldegerler.net
 yatirimakli.world
 yatirimanaliz.org
 yatirimbasvuru.site
+yatirimbaykar.com
 yatirimbilgisi.info
 yatirimbulutu.com
 yatirimcilogin.com
