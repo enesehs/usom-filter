@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-07 23:07:24 UTC
-! Total: 324109 rules
+! Last modified: 2025-09-08 00:42:50 UTC
+! Total: 324113 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35758,6 +35758,7 @@
 *://*.avoilekirala.com/*
 *://*.avokiralama.store/*
 *://*.avondalemclarenparts.com/*
+*://*.avonkatilim.space/*
 *://*.avorcpd.top/*
 *://*.avordic.site/*
 *://*.avowvoice.com/*
@@ -82325,6 +82326,7 @@
 *://*.denizmobil-internetsube.com/*
 *://*.denizmobil-islemler.com/*
 *://*.denizmobil-islemlerim.com/*
+*://*.denizmobil-sube.click/*
 *://*.denizmobil-subegirism.tk/*
 *://*.denizmobil.net/*
 *://*.denizmobil.shop/*
@@ -144254,6 +144256,7 @@
 *://*.heyecan-dolusu-gunler-sizleri-bekliyor.online/*
 *://*.heyecan.club/*
 *://*.heyecan.xyz/*
+*://*.heyecandoluherseysimdi.cfd/*
 *://*.heyecankalesi.top/*
 *://*.heyegesssetech.site/*
 *://*.heygames.club/*
@@ -273092,6 +273095,7 @@
 *://*.termosfrsstlrgunu.online/*
 *://*.termosindirimleriqaea101.shop/*
 *://*.termoslndrlmslerideavama101.shop/*
+*://*.termosstanley.store/*
 *://*.termosstanleyinizburdasd.com/*
 *://*.termosstanleyteklifisdsl.com/*
 *://*.termosstanleyteklifisdsl.store/*
