@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-08 12:23:17 UTC
-! Total: 324165 rules
+! Last modified: 2025-09-08 13:24:26 UTC
+! Total: 324173 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -59760,6 +59760,7 @@
 *://*.bravo-dog.com/*
 *://*.bravomovies.net/*
 *://*.bravori.com/*
+*://*.braxiow.com/*
 *://*.brayaynlynrzbrdndrlmvr.my/*
 *://*.brazabaya.com/*
 *://*.braziliancoat.com/*
@@ -112156,6 +112157,7 @@
 *://*.eylulindirimleribitmez.com.tr/*
 *://*.eylulindirimleribitmez.online/*
 *://*.eylulindirimleribitmez.xyz/*
+*://*.eylulkampanyalariefsane.com/*
 *://*.eylulkasimfirsatlari.shop/*
 *://*.eylulkataloglariniperakendegoruntuleveyararlan.com/*
 *://*.eylullaktuelkampanyalari.com/*
@@ -120184,6 +120186,7 @@
 *://*.fullvehdvideoplayerizlemesitesi9672.xyz/*
 *://*.fullvehdvideoplayerr48.asia/*
 *://*.fullvehdvideopleyer125.xyz/*
+*://*.fullwise.cfd/*
 *://*.fullyversiontec.beer/*
 *://*.fulodeme.net/*
 *://*.fulujam.com/*
@@ -122859,6 +122862,7 @@
 *://*.garantim-com-tr.tk/*
 *://*.garantim-knlinesubem.org/*
 *://*.garantim.cf/*
+*://*.garantim.click/*
 *://*.garantim.ga/*
 *://*.garantim.gq/*
 *://*.garantim.ml/*
@@ -143661,6 +143665,7 @@
 *://*.hepucuza101ekstrra.cfd/*
 *://*.hepucuza101ekstrra.click/*
 *://*.hepucuza101ekstrra.icu/*
+*://*.hepucuzaktuel.cfd/*
 *://*.hepucuzaktuel.cyou/*
 *://*.hepucuzcokucuzal.sbs/*
 *://*.hepucuzcokucuzindirimler.cfd/*
@@ -166940,6 +166945,7 @@
 *://*.istnblskrt.net/*
 *://*.istnblstabasvr.click/*
 *://*.istnblstarbsvra.com/*
+*://*.istnblstknlslns.online/*
 *://*.istnblxkart.net/*
 *://*.istnblxkrt.net/*
 *://*.istnblykle.net/*
@@ -211996,6 +212002,7 @@
 *://*.odnydigit.quest/*
 *://*.odoishsaj.com/*
 *://*.odoncrol.com/*
+*://*.odoo.com/*
 *://*.odorousretrospect.top/*
 *://*.odosadkjaskjdas.com/*
 *://*.odourconfederation.top/*
@@ -287816,6 +287823,7 @@
 *://*.unbdr.com/*
 *://*.unbjksepy.com/*
 *://*.unblock-coinbase.com/*
+*://*.unbodiliness.com/*
 *://*.unbosomer.com/*
 *://*.unboxingtoycon.mx/*
 *://*.uncacophonous.org/*
