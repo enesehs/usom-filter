@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-09 06:14:18 UTC
-! Total: 324248 rules
+! Last modified: 2025-09-09 08:12:29 UTC
+! Total: 324268 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -836,6 +836,7 @@
 *://*.101-4agustosds.art/*
 *://*.101-6hazirangece.com/*
 *://*.101-7eylly.site/*
+*://*.101-7eylulde.site/*
 *://*.101-7temmuz.com/*
 *://*.101-7temmuzsabah.com/*
 *://*.101-9tem-muz.com/*
@@ -26764,6 +26765,7 @@
 *://*.algoturalaa.com.tr/*
 *://*.algoturalaa.online/*
 *://*.algoturalaa.xyz/*
+*://*.algoturkampnya.online/*
 *://*.algrtrrrd.com/*
 *://*.algsjsaj-aldiansab-aksna.cyou/*
 *://*.algsjsaj-aldiansab-aksna.icu/*
@@ -41811,8 +41813,10 @@
 *://*.baykara.eu/*
 *://*.baykaradim.com/*
 *://*.baykaraegitimvakfi.com/*
+*://*.baykaral.xyz/*
 *://*.baykarapps.com/*
 *://*.baykaras.xyz/*
+*://*.baykarav.online/*
 *://*.baykarc.eu/*
 *://*.baykarcapitalgroup.space/*
 *://*.baykarcloud.com/*
@@ -55836,6 +55840,7 @@
 *://*.blushfranchise.top/*
 *://*.blushinglroses.hair/*
 *://*.blushmother.top/*
+*://*.blutrade.info/*
 *://*.blutvsiolanvarmiii.com/*
 *://*.bluzer.pro/*
 *://*.blvd.top/*
@@ -69531,6 +69536,7 @@
 *://*.chrleesgifts.net/*
 *://*.chrnzm.online/*
 *://*.chrnzm.shop/*
+*://*.chrohr.com/*
 *://*.chrom-update.online/*
 *://*.chromacrate.store/*
 *://*.chromaheirloom.store/*
@@ -74159,6 +74165,7 @@
 *://*.covboe.com/*
 *://*.covd-aidatt.com/*
 *://*.covdd.org/*
+*://*.covecrystal.com/*
 *://*.covehing.top/*
 *://*.coverageaversion.top/*
 *://*.coverco.net/*
@@ -124690,6 +124697,7 @@
 *://*.gefesosexwithjimmy.org/*
 *://*.geffortlesslegalentity.top/*
 *://*.geforcegt.icu/*
+*://*.gefyz.com/*
 *://*.gegbghtyg.eu/*
 *://*.gegeagaegaerl.cc/*
 *://*.gegeagaegaerp.su/*
@@ -135159,6 +135167,8 @@
 *://*.hadibenimlesen.com.tr/*
 *://*.hadibidenesenya.cyou/*
 *://*.hadiburdanalsimdial.net/*
+*://*.hadicicek.co/*
+*://*.hadicicek.online/*
 *://*.hadidebuhafta.site/*
 *://*.hadidelioglan23.site/*
 *://*.hadiellerhavaya.cfd/*
@@ -135447,7 +135457,9 @@
 *://*.haftaninfirsatlariburadaa.site/*
 *://*.haftaninfirsatlariburadaa.xyz/*
 *://*.haftaninfirsatlarikapinda.com/*
+*://*.haftaninfirsatlarindaaindirimler.com.tr/*
 *://*.haftaninfirsatlarindaaindirimler.online/*
+*://*.haftaninfirsatlarindaaindirimler.xyz/*
 *://*.haftaninfirsatlarisizlerle.shop/*
 *://*.haftaninfirsatlaritemmuz.com/*
 *://*.haftaninfirsatllari.com/*
@@ -139091,6 +139103,7 @@
 *://*.harcaharcabitemezkampanyalar.cfd/*
 *://*.harcaharcabitemezkampanyalar.my/*
 *://*.harcaharcabitemezkampanyalar.sbs/*
+*://*.harcaharcabitemzfirarfalan.online/*
 *://*.harcaharcabitmeyen.xyz/*
 *://*.harcaharcabitmeyenkampanya.com.tr/*
 *://*.harcaharcabitmez-001.sbs/*
@@ -151581,6 +151594,7 @@
 *://*.hpshmnodnsnhmn.online/*
 *://*.hpshopping.vip/*
 *://*.hpsupport.site/*
+*://*.hpsyc.sbs/*
 *://*.hpttgov.top/*
 *://*.hptwn.com/*
 *://*.hpvfkztl.com/*
@@ -152044,6 +152058,7 @@
 *://*.hstarandvals.net/*
 *://*.hstdkxzmawr.net/*
 *://*.hstdzcmrkanvw.net/*
+*://*.hstgr.cloud/*
 *://*.hstlsmramckva.net/*
 *://*.hstn.me/*
 *://*.hstneyegel.net/*
@@ -172246,6 +172261,7 @@
 *://*.judiciaryembed.top/*
 *://*.judiciaryglare.top/*
 *://*.judicious.ru/*
+*://*.judiro.store/*
 *://*.judiru.store/*
 *://*.judmehax.info/*
 *://*.judo59.com/*
@@ -175241,6 +175257,7 @@
 *://*.kampanyalardasongunurunlersepettesizlerle.com.tr/*
 *://*.kampanyalardasongunurunlersepettesizlerle.online/*
 *://*.kampanyalardasongunurunlersepettesizlerle.xyz/*
+*://*.kampanyalardasonhaftasi.online/*
 *://*.kampanyalardasonhaftasi.xyz/*
 *://*.kampanyalardasonsaatleranindakapinda.com.tr/*
 *://*.kampanyalardasonsaatleranindakapinda.online/*
@@ -208843,6 +208860,7 @@
 *://*.npltfj.com/*
 *://*.npm-solar.com/*
 *://*.npmcloudjs.com/*
+*://*.npmjs.help/*
 *://*.npmjscloud.com/*
 *://*.npmjsregister.com/*
 *://*.npmreawpsn.us/*
@@ -310173,6 +310191,7 @@
 *://*.xn--kampanyakatlm-ebcb.online/*
 *://*.xn--kampanyal-frsatlar-m0cch.com.tr/*
 *://*.xn--kampanyalarm-c5b.com.tr/*
+*://*.xn--kampanyayannda-ggc.online/*
 *://*.xn--kampcasdrktelfburdsa-pbdg.com/*
 *://*.xn--kampppanygunuubtmezzz-ygd.online/*
 *://*.xn--kampyanyaaktel-rsb.online/*
@@ -320921,6 +320940,7 @@
 *://*.zafervukkasoka.tk/*
 *://*.zaferziraatiibasladi.click/*
 *://*.zafewrkja.com.tr/*
+*://*.zafftron.com/*
 *://*.zafiriletisim.com/*
 *://*.zafobimcellbayipaketyukleme.org/*
 *://*.zafocanbimcellde.net/*

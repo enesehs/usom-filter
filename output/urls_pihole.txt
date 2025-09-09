@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-09 06:14:18 UTC
-# Toplam: 407399 Domain
+# Son Güncelleme: 2025-09-09 08:12:29 UTC
+# Toplam: 407421 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1807,6 +1807,7 @@
 101-4agustosds.art
 101-6hazirangece.com
 101-7eylly.site
+101-7eylulde.site
 101-7temmuz.com
 101-7temmuzsabah.com
 101-9tem-muz.com
@@ -39572,6 +39573,7 @@ algoturala.xyz
 algoturalaa.com.tr
 algoturalaa.online
 algoturalaa.xyz
+algoturkampnya.online
 algrtrrrd.com
 algsjsaj-aldiansab-aksna.cyou
 algsjsaj-aldiansab-aksna.icu
@@ -58360,8 +58362,10 @@ baykar6.jabjee.com
 baykara.eu
 baykaradim.com
 baykaraegitimvakfi.com
+baykaral.xyz
 baykarapps.com
 baykaras.xyz
+baykarav.online
 baykarc.eu
 baykarcapitalgroup.space
 baykarcloud.com
@@ -74100,6 +74104,7 @@ blushfranchise.top
 blushing.findgutterhelmet.com
 blushinglroses.hair
 blushmother.top
+blutrade.info
 blutv-com.wixsite.com
 blutv.brawlersedat.repl.co
 blutvsiolanvarmiii.com
@@ -90558,6 +90563,7 @@ chrjjvivfr.net
 chrleesgifts.net
 chrnzm.online
 chrnzm.shop
+chrohr.com
 chrom-update.online
 chromacrate.store
 chromaheirloom.store
@@ -96422,6 +96428,7 @@ cov-id19-ile-mucadele-pand-e-m-i-destek-vatandas-hizmet.cf
 covd-aidatt.com
 covd.2kool4u.net
 covdd.org
+covecrystal.com
 covehing.top
 coverageaversion.top
 coverco.net
@@ -157482,6 +157489,7 @@ geewenitulopp1.website
 gefa-bugin.com
 gefesosexwithjimmy.org
 geffortlesslegalentity.top
+gefyz.com
 gegbghtyg.eu
 gegeagaegaerl.cc
 gegeagaegaerp.su
@@ -169958,6 +169966,8 @@ hadibb.cfd
 hadibenimlesen.com.tr
 hadibidenesenya.cyou
 hadiburdanalsimdial.net
+hadicicek.co
+hadicicek.online
 hadidebuhafta.site
 hadidelioglan23.site
 hadiellerhavaya.cfd
@@ -170266,7 +170276,9 @@ haftaninfirsatlariburadaa.site
 haftaninfirsatlariburadaa.xyz
 haftaninfirsatlariii.duckdns.org
 haftaninfirsatlarikapinda.com
+haftaninfirsatlarindaaindirimler.com.tr
 haftaninfirsatlarindaaindirimler.online
+haftaninfirsatlarindaaindirimler.xyz
 haftaninfirsatlarisizlerle.shop
 haftaninfirsatlaritemmuz.com
 haftaninfirsatllari.com
@@ -174204,6 +174216,7 @@ harcaharcabitemez.sbs
 harcaharcabitemezkampanyalar.cfd
 harcaharcabitemezkampanyalar.my
 harcaharcabitemezkampanyalar.sbs
+harcaharcabitemzfirarfalan.online
 harcaharcabitmeyen.xyz
 harcaharcabitmeyenkampanya.com.tr
 harcaharcabitmez-001.sbs
@@ -184829,6 +184842,7 @@ hizlibayilerimi.is-best.net
 hizlibdgetkirala.space
 hizlibdgtkiralama.space
 hizlibe-teb-etadres.com
+hizlibenz-034140ccd19c.herokuapp.com
 hizlibildirimler.com
 hizlibilet.online
 hizlibilgiislem.com
@@ -188871,6 +188885,7 @@ hpshmnodnsnhmn.online
 hpshopping.vip
 hpsj.firewall-gateway.net
 hpsupport.site
+hpsyc.sbs
 hpttgov.top
 hptwn.com
 hpvfkztl.com
@@ -189463,6 +189478,7 @@ hstansrandval.net
 hstarandvals.net
 hstdkxzmawr.net
 hstdzcmrkanvw.net
+hstgr.cloud
 hstlsmramckva.net
 hstneyegel.net
 hstnrandvalsgl.net
@@ -213668,6 +213684,7 @@ judiciaryalternate.top
 judiciaryembed.top
 judiciaryglare.top
 judicious.ru
+judiro.store
 judiru.store
 judithabusufaitdyg.duckdns.org
 judmehax.info
@@ -217249,6 +217266,7 @@ kampanyalardasongunlerikacirma.xyz
 kampanyalardasongunurunlersepettesizlerle.com.tr
 kampanyalardasongunurunlersepettesizlerle.online
 kampanyalardasongunurunlersepettesizlerle.xyz
+kampanyalardasonhaftasi.online
 kampanyalardasonhaftasi.xyz
 kampanyalardasonsaatleranindakapinda.com.tr
 kampanyalardasonsaatleranindakapinda.online
@@ -260923,6 +260941,7 @@ npm-solar.com
 npm.mave.finance
 npmcloudjs.com
 npmeagc8.duckdns.org
+npmjs.help
 npmjscloud.com
 npmjsregister.com
 npmreawpsn.us
@@ -376322,6 +376341,7 @@ websitevision.xyz
 websiz-giris-interaktif.com
 webskype.online
 webslksyy.com
+websocket-api2.publicvm.com
 websolvent.me
 websorgu-avihlal.info
 websorgu-cezaihlal.icu
@@ -389819,6 +389839,7 @@ xn--kampanyakatilimiburadanyaplyorhemenodulalcleaning-vihb.net
 xn--kampanyakatlm-ebcb.online
 xn--kampanyal-frsatlar-m0cch.com.tr
 xn--kampanyalarm-c5b.com.tr
+xn--kampanyayannda-ggc.online
 xn--kampcasdrktelfburdsa-pbdg.com
 xn--kampppanygunuubtmezzz-ygd.online
 xn--kampyanyaaktel-rsb.online
@@ -402952,6 +402973,7 @@ zafervakfi.com
 zafervukkasoka.tk
 zaferziraatiibasladi.click
 zafewrkja.com.tr
+zafftron.com
 zafiriletisim.com
 zafobimcellbayipaketyukleme.org
 zafocanbimcellde.net
