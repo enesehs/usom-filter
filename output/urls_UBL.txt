@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-09 08:12:29 UTC
-! Total: 324268 rules
+! Last modified: 2025-09-09 09:10:13 UTC
+! Total: 324278 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -18079,6 +18079,7 @@
 *://*.acilv2denizbanka.com/*
 *://*.acilyolyardimturkiye.xyz/*
 *://*.acimapoolcok.site/*
+*://*.acimaz.cfd/*
 *://*.acimueicxvraahcl.com/*
 *://*.acinhalindenacanlar.online/*
 *://*.acintyaenergy.com/*
@@ -131817,6 +131818,7 @@
 *://*.guncelbayrmetkinlikleri.net/*
 *://*.guncelbelgemaktif.com/*
 *://*.guncelbetebet.net/*
+*://*.guncelbfinansla.com/*
 *://*.guncelbilgin.name.tr/*
 *://*.guncelbnnnrsac.online/*
 *://*.guncelbnnrcsatrgiris.online/*
@@ -143182,6 +143184,7 @@
 *://*.hemenversipsr.click/*
 *://*.hemenvexne.net/*
 *://*.hemenvezneler.net/*
+*://*.hemenvkfbeninle.com/*
 *://*.hemenyakala.xyz/*
 *://*.hemenyakalaburamazanfirsatinisende.info/*
 *://*.hemenyapilandir.ml/*
@@ -182948,6 +182951,7 @@
 *://*.koscgbdevlet.net/*
 *://*.kosdage.asia/*
 *://*.kosel.com.tr/*
+*://*.kosendeagla.cfd/*
 *://*.kosfzv.com/*
 *://*.kosgebiskur.com/*
 *://*.kosgep-halkbank.com/*
@@ -219039,6 +219043,7 @@
 *://*.ott2hgs-tr.org/*
 *://*.ottmekes.com/*
 *://*.ottocap.org/*
+*://*.ottoman-angle.live/*
 *://*.ottomanheritage.site/*
 *://*.ottomanorganic.online/*
 *://*.otukenyardim.com/*
@@ -226900,6 +226905,7 @@
 *://*.petturk.info/*
 *://*.pettyheave.top/*
 *://*.pettyintercourse.top/*
+*://*.petunyabodrum.com/*
 *://*.petwoofs.com/*
 *://*.pevoqiyo.com/*
 *://*.pewasslare.com/*
@@ -258479,6 +258485,7 @@
 *://*.sndbndensinglbaki.art/*
 *://*.sndbnlrdrpymcbkglgtt.cfd/*
 *://*.sndbnmgbiolmamlisin.cfd/*
+*://*.sndbrdasngeldnasd.icu/*
 *://*.sndbrdngmnkpmlsin.icu/*
 *://*.snde-basvurtakipkampanyasina.com/*
 *://*.snde-hemenbasvurbizekatilkmpanyasi.com/*
@@ -280822,6 +280829,7 @@
 *://*.trinkburada.digital/*
 *://*.trinkcebinde.digital/*
 *://*.trinketiket.xyz/*
+*://*.trinkgeldi.click/*
 *://*.trinkheryerde.click/*
 *://*.trinkinizisisiz.online/*
 *://*.trinkkolay.digital/*
@@ -296234,6 +296242,7 @@
 *://*.vkfgirisonlinekrediweblogin.click/*
 *://*.vkfgirisonlineweblogin.click/*
 *://*.vkfgirispagesayfasikredi.click/*
+*://*.vkfgnlerden.click/*
 *://*.vkfhaber.club/*
 *://*.vkfhaber.site/*
 *://*.vkfhaber.website/*
@@ -296922,6 +296931,7 @@
 *://*.vowsk.com/*
 *://*.vowyrym.com/*
 *://*.voxder.at/*
+*://*.voxdreamz.com/*
 *://*.voxglider.com/*
 *://*.voxly.top/*
 *://*.voyage-omra.com/*
