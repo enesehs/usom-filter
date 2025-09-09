@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-09 04:11:08 UTC
-# Toplam: 407393 Domain
+# Son Güncelleme: 2025-09-09 05:09:04 UTC
+# Toplam: 407395 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15547,6 +15547,7 @@
 6223646723742.com
 62237453981d0595033c23.com
 6231231245214321.cloud
+623236d.duckdns.org
 62326436546.shop
 6234234234523.com
 623632123562135123.online
@@ -40080,6 +40081,7 @@ alisverisler.org
 alisverisleranindakapinda.online
 alisverislerdekiindirimligunler.cfd
 alisverislerdekiindirimligunler.sbs
+alisverislerderedmialdinaldinyeri.cfd
 alisverislerderedmialdinaldinyeri.sbs
 alisverislerdesonguneylul.sbs
 alisverislerguvenilir.space
