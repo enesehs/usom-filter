@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-09 21:07:37 UTC
-! Total: 324323 rules
+! Last modified: 2025-09-09 22:01:56 UTC
+! Total: 324328 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -64830,6 +64830,7 @@
 *://*.caglayanadliyesi.xyz/*
 *://*.cagliaricity.it/*
 *://*.cagri.info/*
+*://*.cagrialimi.com/*
 *://*.cagribasvuru.com/*
 *://*.cagriekip.com/*
 *://*.cagrielamanigold.com.tr/*
@@ -86765,6 +86766,7 @@
 *://*.dijitalgiristrweb-denizacik.com/*
 *://*.dijitalgirisweb-denizacik.com/*
 *://*.dijitalgirisweb-ziraat.com/*
+*://*.dijitalgirisweb-ziraatkampanya.com/*
 *://*.dijitalgirisweb-ziraatmobil.com/*
 *://*.dijitalgiriswebmobil-ziraatbireysel.com/*
 *://*.dijitalgiriswebtr-denizacik.com/*
@@ -112194,6 +112196,7 @@
 *://*.eylulfirsatlarinikacirmadanal.xyz/*
 *://*.eylulflrsatlariburda.com/*
 *://*.eylulflrsatlariii.com/*
+*://*.eylulflrsatlaronlne.com/*
 *://*.eylulformonay.org/*
 *://*.eylulhediyekampanyasi.com/*
 *://*.eyluliadeler-sekmesi.xyz/*
@@ -247062,6 +247065,7 @@
 *://*.sali-onlinefirstlar.com/*
 *://*.sali-onlinefxrsatn.com/*
 *://*.sali-onlinehizmet.com/*
+*://*.sali-onlinemarketim.com/*
 *://*.sali-onlineozel.com/*
 *://*.sali-onlinesiparis.com/*
 *://*.sali-onlineyzbugun.com/*
@@ -262791,6 +262795,7 @@
 *://*.sponsorlumedyaajansi12.xyz/*
 *://*.sponsorlumedyaajansi18.xyz/*
 *://*.sponsorluonay.net/*
+*://*.sponsorlupromosyon.com/*
 *://*.sponsorlureklam-16.xyz/*
 *://*.sponsorlureklam-30.xyz/*
 *://*.sponsorlureklam-31.online/*
