@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-10 15:09:00 UTC
-# Toplam: 407643 Domain
+# Son Güncelleme: 2025-09-10 16:10:38 UTC
+# Toplam: 407645 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -142597,6 +142597,7 @@ faizsizdevletimindestegibu92481241.net
 faizsizdunyadan.com
 faizsizevlilik.com.tr
 faizsizfirsat.cfd
+faizsizfirsat.club
 faizsizfirsatimak.com.tr
 faizsizfirsatlar.net
 faizsizfirsatlar.online
@@ -155458,6 +155459,7 @@ garantimobil-com-tr.tk
 garantimobil-hediye.com
 garantimobil-online.com
 garantimobil.cfd
+garantimobil.faizsizfirsat.club
 garantimobil.live
 garantimobil.ml
 garantimobil.org
