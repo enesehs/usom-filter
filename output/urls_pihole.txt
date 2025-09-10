@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-10 18:12:19 UTC
-# Toplam: 407649 Domain
+# Son Güncelleme: 2025-09-10 19:07:53 UTC
+# Toplam: 407657 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51885,6 +51885,7 @@ aynenknk.xyz
 aynersekc.click
 aynh0d.duckdns.org
 aynhkbkcmtwtn.com
+aynignteslimat1o1.xyz
 aynigun-kapinda.com.tr
 aynigunalisverislersenibekliyor.online
 aynigunalisverislersenibekliyor.xyz
@@ -131802,6 +131803,7 @@ elektronik-alim-online.com.tr
 elektronik-alim-sepeti.online
 elektronik-alim-servisi.online
 elektronik-alim-servisim.online
+elektronik-alim-servisin.online
 elektronik-alim-tr.com.tr
 elektronik-alim.com
 elektronik-alim.online
@@ -149146,6 +149148,7 @@ flrsatdolukampanyalardangeldik.art
 flrsaterkeslegulsendeoluriyok.world
 flrsatgunleri1o1.com
 flrsathadibakalimdedicagkeb.store
+flrsathadibuseferklazanacazbizbi.world
 flrsathadiolmazolsundaolmadandad.store
 flrsathadisenledeolmazsadanebilim.world
 flrsathadisensposabahgelnbaslagit.world
@@ -225368,6 +225371,7 @@ kmpnyak.ru.com
 kmpnyalarimizdevam.online
 kmpnyalarimm-bradaa-nline.com
 kmpnyalariniz.click
+kmpnyalrbitiyr1o1.xyz
 kmpnyalrmzlasn.net
 kmpnyambuaakdakrdm.top
 kmpnyasizlerle.blogspot.com
@@ -247469,6 +247473,7 @@ mobil-vakifim-islemlerim.online
 mobil-vakifonline.ml
 mobil-vatandasonline-yapi-formu-com.ml
 mobil-vb-dijitall-v.tk
+mobil-vb.xyz
 mobil-veznem.xyz
 mobil-veznem10.xyz
 mobil-veznem2.xyz
@@ -247900,6 +247905,7 @@ mobildeniz-dijitalkredi.top
 mobildeniz-dijitalsube.top
 mobildeniz-dijitalsubev2.tk
 mobildeniz-emekli-kredi.buzz
+mobildeniz-eylul-firsatlari.cloudns.pro
 mobildeniz-firsat-basvuru.top
 mobildeniz-firsat-deniz.buzz
 mobildeniz-firsat-deniz.top
@@ -322620,6 +322626,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
 siparislerin30temmuzda.cloud
+siparislerin9bucukeylulden.cloud
 siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
@@ -375162,6 +375169,7 @@ webbnsdkkrmdirmn.com
 webbs.live
 webbsbayrntilrmiziip25.xyz
 webbsbayrntilrmizil32.xyz
+webbsbayrntilrmizim33.xyz
 webbsbayrntilrmizim356.xyz
 webbsbayrntilrmizim456.xyz
 webbsbayrntilrmizimm5.xyz
