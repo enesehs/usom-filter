@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-10 13:24:25 UTC
-# Toplam: 407626 Domain
+# Son Güncelleme: 2025-09-10 15:09:00 UTC
+# Toplam: 407643 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -111677,6 +111677,7 @@ dijital-76-yil-firsatlari.top
 dijital-acil-kredi.com
 dijital-aidat-iadeleri.duckdns.org
 dijital-bankacilik.com
+dijital-basvur.xyz
 dijital-basvuru-islemi.click
 dijital-basvuru.com
 dijital-bildirim-kanali.xyz
@@ -115649,6 +115650,7 @@ domisnossopicason.tk
 domisnossopicasozn.tk
 domisnossopicasozvn.tk
 domkalkayaklan.site
+domlarkestasdasheajk.duckdns.org
 domlavergodelsl.com
 dommemnsda.wiki
 dommusic-kassa.ru
@@ -129365,6 +129367,7 @@ eficy4real.xyz
 efiging.com
 efiigbo9.duckdns.org
 efiiuehdiahiuediaugu.info
+efiko1.sambal.web.id
 efildrcxq.com
 efinans2019internet.com
 efinans2019kayit.com
@@ -146928,6 +146931,7 @@ firsaticincadirindirimim.online
 firsaticincadirindirimim.xyz
 firsaticinsonanlarkacirma.online
 firsaticinsongunlerbasladi.store
+firsatidogrula.com
 firsatigar.com
 firsatigeldi-kapida.shop
 firsatihazir.com
@@ -147814,6 +147818,7 @@ firsatlarsanagelsinsokmarket2.click
 firsatlarsanagelsinsokmarket3.click
 firsatlarsanagelsinsokmarket4.click
 firsatlarsanagelsinsokmarket5.click
+firsatlarsanagelsinsokmarket6.click
 firsatlarsende.com.tr
 firsatlarsenibekliyor.com.tr
 firsatlarseninle.com
@@ -170479,6 +170484,7 @@ haftaninyonlendiricifirsatcilar.cyou
 haftaninyonlendiricifirsatcilar.pics
 haftaninyonlendiricifirsatcilar.sbs
 haftaninyonlendiricifirsatcilar.xyz
+haftaniyildizikisaltmalis.vip
 haftaniyildizurunleri.com.tr
 haftanizinbasini.com
 haftanizinbasiozel.com
@@ -171438,6 +171444,7 @@ halbkonline.com
 halbnkr.site
 halcasigorta.net
 halecepfsadg.xyz
+halecicek.com
 halemarketim.com
 halenor.quest
 halepebagis.com
@@ -187281,6 +187288,7 @@ hn85sg.duckdns.org
 hnafub9.duckdns.org
 hnahnsnahn.net
 hnaqrkzjt.com
+hnasmanbslfasdsafhatazdmnsy.xyz
 hnasnmasnmasmhashasmnasnmash2334.xyz
 hnbdfasgva.net
 hnbdv374367.click
@@ -204412,7 +204420,9 @@ iscep-mob1lbreysel.sbs
 iscep-mobil-sube-tr.com
 iscep-mobil-sube.com
 iscep-mobil-tr.com
+iscep-mobil.click
 iscep-mobil.com
+iscep-mobil.sa.com
 iscep-mobile.com
 iscep-mobilsube-tr.com
 iscep-mobilsube.com
@@ -257517,6 +257527,7 @@ net-tr.website
 net-verification.online
 net-verify.site
 net-verify.website
+net-webtr.za.com
 net-yayinlama.site
 net.tm.ro
 net.todayaniversarygifts.info
@@ -268419,6 +268430,7 @@ online-sorgulamalariniz-bu-ekrandan.site
 online-sorgulamamobil-portal.tk
 online-sorguservisi2025.my
 online-source-validate.com
+online-stokta-com-tr.cfd
 online-storage.live
 online-sube-basvuru.net
 online-sube-basvuru.org
@@ -282886,6 +282898,7 @@ pffd4dy.xyz
 pffdaayvkh.duckdns.org
 pffeazzzjo.duckdns.org
 pffffer.icu
+pffgcv.sbs
 pffgeberdik.click
 pfgcr.onestevur.ru
 pfgdbmjutr.duckdns.org
@@ -292230,6 +292243,7 @@ pttlgovtr.xyz
 pttlhgslavml.click
 pttligov.top
 pttljhugov.ink
+pttlk.life
 pttlkargo.com
 pttlmna.life
 pttlmna.top
@@ -315839,6 +315853,7 @@ sendekatilbukampanyalarahemen.wiki
 sendekatilfba.net
 sendekatilhemenkazan.space
 sendekatilhemenyakalafrisati.life
+sendekatilhissederek.cfd
 sendekatilhmenfrsatlardunyasi.xyz
 sendekatiliade.net
 sendekatilirakkazan.cfd
@@ -322607,6 +322622,7 @@ siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlandiryarinda29.cloud
 siparislerinhizlanir20bucukda.cloud
 siparislerinhizlanir9da.cloud
+siparislerinhizlanir9eylulde.cloud
 siparislerinhizli17de.cloud
 siparislerinhizli5bucuk.cloud
 siparislerinhizli6agusotao.net
@@ -403762,6 +403778,7 @@ zefirone.site
 zefnpi.top
 zeghlach.zapto.org
 zegocf.com
+zegrobay.com
 zegypue.com
 zehir.xyz
 zehircheck.online
