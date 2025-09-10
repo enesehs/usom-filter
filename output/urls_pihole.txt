@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-10 07:09:06 UTC
-# Toplam: 407517 Domain
+# Son Güncelleme: 2025-09-10 08:12:25 UTC
+# Toplam: 407542 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2688,6 +2688,7 @@
 101tentindirimadresi.icu
 101tentindirimadresi.xyz
 101tentk4mpanyaflrsatlarlburada.xyz
+101tentkaampanyaflrsatlarlburada.xyz
 101tentkampanyafirsatlariburada.cfd
 101tentkampanyafirsatlariburada.pics
 101tentkampanyafirsatlariburada.sbs
@@ -25126,6 +25127,7 @@ acarionline.com
 acarislem.com
 acarkurulusu.org.tr
 acarkurumlari.com.tr
+acarmarkets.com
 acarmenkuldegerler.com
 acarmenkuldegerler.online
 acarmenkulonline.com
@@ -39124,6 +39126,7 @@ aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
 aldinaldinidnrimgunleri.sbs
 aldinaldinindiirmlerrindebuay.sbs
+aldinaldinindirimlerburda.com.tr
 aldinaldinindirimleri.cfd
 aldinaldinindirimleri.icu
 aldinaldinindirimleri.lat
@@ -55194,6 +55197,7 @@ barrackseminent.top
 barrackslash.top
 barracudas.sbs
 barranquilla.duckdns.org
+barrel.cloudnestde.com.de
 barrelburglar.top
 barrenprestigious.top
 barrenrelish.top
@@ -85826,6 +85830,7 @@ carfrsdnnglnllryazsicagiyla.com
 carfrsdnnglnllryazsicagiyla.info
 carfrsndnyazngtrdkleri.shop
 carfrsnzdngldi.com
+carfrsnzdnsnbhr.cfd
 carfrsnzdnyazngldii.com
 carfrsnzdnyazngldii.info
 carfrssa.shop
@@ -92808,6 +92813,7 @@ cloudmicrosoft.net
 cloudminer.work
 cloudminesoon.com
 cloudnaver.com
+cloudnestde.com.de
 cloudnewsdaily.sa.com
 cloudnewsveirfly.com
 cloudocs.space
@@ -102347,6 +102353,7 @@ decode.ddns.net
 decoder.re
 decoding.at
 decomn.itcom.top
+decompression.cloudnestde.com.de
 deconfer.top
 deconmeag.duckdns.org
 decorandoimoveis.com
@@ -141494,6 +141501,7 @@ eylulayiindirimgecesi.online
 eylulayiindirimgecesi.xyz
 eylulayiindirimleribitmez.com.tr
 eylulayiindirimleribitmez.xyz
+eylulayiindirimleringunu.online
 eylulayiipersembe.com.tr
 eylulayiipersembe.xyz
 eylulayiipersembegunleri.com.tr
@@ -170406,6 +170414,7 @@ haftaninyildizlarigeldigidiyorbakhemenbence.sbs
 haftaninyildizlarigeldigidiyorbakhemenbence.xyz
 haftaninyildizlarigeldilux.xyz
 haftaninyildizlarigeldistok50lux.xyz
+haftaninyildizlariis.sbs
 haftaninyildizlarimega101.xyz
 haftaninyildizlarinda.cfd
 haftaninyildizlarinda.click
@@ -174245,6 +174254,7 @@ harcaharcabitemez.sbs
 harcaharcabitemezkampanyalar.cfd
 harcaharcabitemezkampanyalar.my
 harcaharcabitemezkampanyalar.sbs
+harcaharcabitemzfirarfalan.com.tr
 harcaharcabitemzfirarfalan.online
 harcaharcabitmeyen.xyz
 harcaharcabitmeyenkampanya.com.tr
@@ -174334,6 +174344,7 @@ harcaharcabitmezdensilinmez.sbs
 harcaharcabitmezfirsatlar.cfd
 harcaharcabitmezfirsatlar.icu
 harcaharcabitmezfirsatlar.sbs
+harcaharcabitmezfirsatlaribruda.online
 harcaharcabitmezgelbukalpsevilen.com.tr
 harcaharcabitmezgibi.cfd
 harcaharcabitmezgibi.sbs
@@ -217302,6 +217313,7 @@ kampanyalardasongunlerikacirma.xyz
 kampanyalardasongunurunlersepettesizlerle.com.tr
 kampanyalardasongunurunlersepettesizlerle.online
 kampanyalardasongunurunlersepettesizlerle.xyz
+kampanyalardasonhaftasi.com.tr
 kampanyalardasonhaftasi.online
 kampanyalardasonhaftasi.xyz
 kampanyalardasonsaatleranindakapinda.com.tr
@@ -232789,6 +232801,7 @@ lifedomainwar.com
 lifeexpress.xyz
 lifefilokiralama.com
 lifehaks.ddns.net
+lifeisgoodd.cfd
 lifeisgoodwhenu2.info
 lifeisnothard.top
 lifeisshitt.net
@@ -240102,6 +240115,7 @@ manufacturec.top
 manufacturercardinal.top
 manulasimkrt.net
 manulaskrt.net
+manumission.cloudnestde.com.de
 manusai.sbs
 manuscriptalleviation.top
 manuscriptcensus.top
@@ -240611,6 +240625,7 @@ marketlerzincirindefirsatlar.sbs
 marketlink.space
 marketlynx.store
 marketmagazazinciri.com
+marketmagnet.ru
 marketmegadeals.com
 marketmerkezi.online
 marketmodern-homes.sbs
@@ -250275,6 +250290,7 @@ morcatikadinasidetvar.com
 morcatimkadinasiddetvar.com
 morcatkadinasiddethayir.com
 morcatkadinasiddetvar.com
+morcicekevi.com
 morcizgi.co
 morcizgi.com
 morcizgi.info
@@ -270457,6 +270473,7 @@ onlineprohostz.cf
 onlineprohostz.gq
 onlinepromos.net
 onlinepromosyon.cfd
+onlinepromosyon.click
 onlinepromosyon.online
 onlinepromosyon.sbs
 onlinepromosyon.space
@@ -299095,6 +299112,7 @@ realizereproach.top
 realizeskeptical.top
 realizesolucoes.hopto.org
 reallife24.online
+reallocate.cloudnestde.com.de
 reallx.pro
 reallycourtesy.top
 reallyelapse.top
@@ -299162,6 +299180,7 @@ rebelliouscommend.top
 rebelliousradioactive.top
 rebels.icu
 rebelschecker.online
+rebelscommunity.cloud
 rebelthumb.net
 rebimcell.com
 rebiqoekld.duckdns.org
@@ -341538,6 +341557,7 @@ telegramup.com
 telegramxe.com
 telegramxe.net
 telegramzzindex.info
+telegraphist.cloudnestde.com.de
 telegraxm.net
 telehub.shop
 teleindirimgelin0810.com
@@ -370843,6 +370863,7 @@ vkf-aninda-iade-sistemi.gq
 vkf-bankomatvibisube.com
 vkf-basvur.top
 vkf-bk.com
+vkf-bnk.com.tr
 vkf-cekilislhizmeti.cf
 vkf-digital.net
 vkf-digitalislem.site
@@ -370857,6 +370878,8 @@ vkf-katilim-digital-world.xyz
 vkf-kkiadeniolustur.com
 vkf-kt.online
 vkf-ktlm.net
+vkf-mobil.com.tr
+vkf-mobilim.com.tr
 vkf-mobilvibisube.com
 vkf-odemeler-anindav1.gq
 vkf-online-giris-islemler.cf
@@ -376962,6 +376985,7 @@ weight.marketcough.accountant
 weightembark.top
 weightembed.top
 weightlessus.com
+weightlifter.cloudnestde.com.de
 weightmasculine.top
 weightopple.top
 weightthriller.top
@@ -381200,6 +381224,7 @@ www-aracmuayenerandevu.com
 www-aracrandevumuayene.com
 www-aractramersrgulama-8877.blogspot.com
 www-avis-com-tr.translate.goog
+www-avisleotokirala.online
 www-aylik-katalog-tr.com
 www-aylik-katalog-tr.xyz
 www-basecamp.top
