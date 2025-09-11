@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-11 15:08:59 UTC
-# Toplam: 407788 Domain
+# Son Güncelleme: 2025-09-11 16:10:22 UTC
+# Toplam: 407802 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4930,6 +4930,7 @@
 16523326.site
 165384.cloud
 165415651565261945654890.xyz
+165415651565261945654894.xyz
 165423508873246.com
 1654377445.cloud
 16546689498.com
@@ -82005,6 +82006,7 @@ buralardafirsatlarbitmez.xyz
 buralardahomestler.click
 buralardayim.click
 buralardayiz.com.tr
+buralardaykaldik.duckdns.org
 buralardinrimlerbitemdi.online
 buralardndbnsjdjfuoksnm.website
 buralari-aktarinca-seven-buladarini-fazladan-bitiririz.top
@@ -136777,6 +136779,7 @@ erkhgsv.com
 erkin.pro
 erkin.space
 erkinhorshiden.onedumb.com
+erkintek.workers.dev
 erkjkuwgospdxkw.ru
 erknemkllk.net
 erknmklklk.net
@@ -144446,6 +144449,7 @@ fetihnamesubesindeler.online
 fetihyardimvakfi.com
 fetisov-arena.com
 fetonav134.ddns.net
+fetraa.com
 fette6.duckdns.org
 fettucinealfredo123.xyz
 fetyemcangezdence.site
@@ -146169,6 +146173,7 @@ finxiio.com
 finyze.info
 fioha1.net
 fiollool.ga
+fionamcleod.net
 fiookee.com
 fiordmoss.ddns.net
 fiorentcamcycle.redirectme.net
@@ -156495,6 +156500,7 @@ garntikampany.online
 garntikmpnyadaa.com.tr
 garntikrdisibasvur.online
 garntikredibasvurum.vercel.app
+garntikshvenom.duckdns.org
 garntim.vercel.app
 garntimkredi.vercel.app
 garntimkredis.vercel.app
@@ -286093,6 +286099,7 @@ powerikj.biz
 powerimminent.top
 powermakerting-work.com
 powernoderesources.com
+powerontheroad.org
 powerpbnsitemain.ch
 powerplanting.com
 powerplaymingle.com
@@ -286983,6 +286990,7 @@ premiumosm.com
 premiumperpetual.top
 premiumplattform.site
 premiumplus.icu
+premiumsatici.com.tr
 premiumservis.xyz
 premiumservisler.xyz
 premiumsevicess34.blogspot.com
@@ -306474,6 +306482,7 @@ safgrehgre.xyz
 safguzellik.name.tr
 safhhfhfqwwqfbmxfas.shop
 safhjsaffsanmfwqmnmwfq.fun
+safiasol.com
 safinafyou.zapto.org
 safinaz1.com
 safira.cc
@@ -313272,6 +313281,7 @@ seallysl.site
 sealmramazzn.com.tr
 sealmramazzn.online
 sealmramazzn.xyz
+sealtribute.org
 seanexusx.com
 seanhenning-101.ddns.net
 seanowy.com
@@ -319281,6 +319291,7 @@ shipment-docspdf.surge.sh
 shipmentcapsule.top
 shipmentdome.top
 shipmentretaliate.top
+shipperzone.online
 shippfromus.com
 shipping-05usps.hopto.org
 shippingupdate1.hopto.org
@@ -322412,6 +322423,7 @@ singularnerve.top
 singularoptimum.top
 singyrcgpjbpg5.duckdns.org
 sinhc.icu
+sinhluc.net
 sinhnhat6tuoi.ddns.net
 sinhnhat6tuoiff.ddns.net
 sini4ka.hopto.org
@@ -344264,6 +344276,7 @@ theturkiyem.com
 theturkplan.org
 theturkpltf.com
 thetuvturkrandevu.com
+theuklg.com
 theulti.zapto.org
 theultimateinnovation.online
 theunitedhomeland.com
@@ -350738,6 +350751,7 @@ travelblissfulholidays.live
 travelbooknow.org
 travelconfidently.com
 traveldials.com
+traveldog.org
 traveliteislem.com
 travelkezen.com
 travellingilove.com

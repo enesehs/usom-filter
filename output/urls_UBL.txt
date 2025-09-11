@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-11 15:08:59 UTC
-! Total: 324555 rules
+! Last modified: 2025-09-11 16:10:22 UTC
+! Total: 324565 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3390,6 +3390,7 @@
 *://*.16523326.site/*
 *://*.165384.cloud/*
 *://*.165415651565261945654890.xyz/*
+*://*.165415651565261945654894.xyz/*
 *://*.165423508873246.com/*
 *://*.1654377445.cloud/*
 *://*.16546689498.com/*
@@ -114275,6 +114276,7 @@
 *://*.fetihnamesubesindeler.online/*
 *://*.fetihyardimvakfi.com/*
 *://*.fetisov-arena.com/*
+*://*.fetraa.com/*
 *://*.fettucinealfredo123.xyz/*
 *://*.fetyemcangezdence.site/*
 *://*.feuerwehr-stadt-riesa.de/*
@@ -115651,6 +115653,7 @@
 *://*.finyze.info/*
 *://*.fioha1.net/*
 *://*.fiollool.ga/*
+*://*.fionamcleod.net/*
 *://*.fiookee.com/*
 *://*.fipa5anksube.ga/*
 *://*.fipahizmetonlinetr.tk/*
@@ -229484,6 +229487,7 @@
 *://*.powerimminent.top/*
 *://*.powermakerting-work.com/*
 *://*.powernoderesources.com/*
+*://*.powerontheroad.org/*
 *://*.powerpbnsitemain.ch/*
 *://*.powerplanting.com/*
 *://*.powerplaymingle.com/*
@@ -230248,6 +230252,7 @@
 *://*.premiumperpetual.top/*
 *://*.premiumplattform.site/*
 *://*.premiumplus.icu/*
+*://*.premiumsatici.com.tr/*
 *://*.premiumservis.xyz/*
 *://*.premiumservisler.xyz/*
 *://*.premiumsistem.xyz/*
@@ -244956,6 +244961,7 @@
 *://*.safguzellik.name.tr/*
 *://*.safhhfhfqwwqfbmxfas.shop/*
 *://*.safhjsaffsanmfwqmnmwfq.fun/*
+*://*.safiasol.com/*
 *://*.safinaz1.com/*
 *://*.safira.cc/*
 *://*.safirbetuygulama9.com/*
@@ -249242,6 +249248,7 @@
 *://*.sealmramazzn.com.tr/*
 *://*.sealmramazzn.online/*
 *://*.sealmramazzn.xyz/*
+*://*.sealtribute.org/*
 *://*.seanexusx.com/*
 *://*.seanowy.com/*
 *://*.seaorlakegaranti.buzz/*
@@ -256229,6 +256236,7 @@
 *://*.singularnerve.top/*
 *://*.singularoptimum.top/*
 *://*.sinhc.icu/*
+*://*.sinhluc.net/*
 *://*.siniormaintl.ml/*
 *://*.sinip.es/*
 *://*.sinirdisibimcell.com/*
@@ -274337,6 +274345,7 @@
 *://*.theturkplan.org/*
 *://*.theturkpltf.com/*
 *://*.thetuvturkrandevu.com/*
+*://*.theuklg.com/*
 *://*.theultimateinnovation.online/*
 *://*.theunitedhomeland.com/*
 *://*.thevakvebalhsbwajshgwh.click/*
@@ -279847,6 +279856,7 @@
 *://*.travelclothes.org/*
 *://*.travelconfidently.com/*
 *://*.traveldials.com/*
+*://*.traveldog.org/*
 *://*.traveliteislem.com/*
 *://*.travelkezen.com/*
 *://*.travellingilove.com/*
