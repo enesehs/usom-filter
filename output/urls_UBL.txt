@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-11 11:01:51 UTC
-! Total: 324507 rules
+! Last modified: 2025-09-11 13:22:52 UTC
+! Total: 324547 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11289,6 +11289,7 @@
 *://*.8138838a1353a851.shop/*
 *://*.81512323232.cloud/*
 *://*.81552.com/*
+*://*.81678115fan.com/*
 *://*.81758-coinbase.com/*
 *://*.817c05fbabd4.com/*
 *://*.818181123223232.cloud/*
@@ -12363,6 +12364,7 @@
 *://*.9bi.us/*
 *://*.9bimcl.net/*
 *://*.9bis.com/*
+*://*.9bucukeylukdesiparisker.cloud/*
 *://*.9c0db1f0a1d4.com/*
 *://*.9c3cc93b3893a3ac16c54acc3463bf38.com/*
 *://*.9cantronnfit.com/*
@@ -25083,6 +25085,7 @@
 *://*.aktuelaldinaldin.com/*
 *://*.aktuelaldinaldin.shop/*
 *://*.aktuelalisveris.com.tr/*
+*://*.aktuelassursinn.vip/*
 *://*.aktuelbaglantinoktasi.online/*
 *://*.aktuelbasladi.com/*
 *://*.aktuelbenaktuela101.com/*
@@ -25269,6 +25272,7 @@
 *://*.aktuelinvakti.com/*
 *://*.aktueliramazan101.online/*
 *://*.aktuelislemler-guvende.com/*
+*://*.aktuelizletessin.vip/*
 *://*.aktuelkampanya.online/*
 *://*.aktuelkampanya.shop/*
 *://*.aktuelkampanyaguncel.online/*
@@ -26472,6 +26476,8 @@
 *://*.aldinaldinonlineozel.com.tr/*
 *://*.aldinaldinramazan.shop/*
 *://*.aldinaldinramazann.shop/*
+*://*.aldinaldinredmialimiburadan.cfd/*
+*://*.aldinaldinredmialimiburadan.sbs/*
 *://*.aldinaldinredmialimlariburada.sbs/*
 *://*.aldinaldinredmialisverisleryeri.cfd/*
 *://*.aldinaldinredmialisverisleryeri.sbs/*
@@ -27244,6 +27250,7 @@
 *://*.alisverisler.net/*
 *://*.alisverisler.org/*
 *://*.alisverisleranindakapinda.online/*
+*://*.alisverislerbitmezredmifirsatlari.cfd/*
 *://*.alisverislerdekiindirimligunler.cfd/*
 *://*.alisverislerdekiindirimligunler.sbs/*
 *://*.alisverislerderedmialdinaldinyeri.cfd/*
@@ -27416,6 +27423,7 @@
 *://*.alkampanyadan.sbs/*
 *://*.alkampanyalari.online/*
 *://*.alkampanyatg.com/*
+*://*.alkampnya.online/*
 *://*.alkampnyalari.online/*
 *://*.alkanbeyreklam.com/*
 *://*.alkankurtyreklam.online/*
@@ -35221,6 +35229,7 @@
 *://*.avantajsenin.click/*
 *://*.avantajsitelerim.site/*
 *://*.avantajvefirsatzamanisimdi.com/*
+*://*.avantajveren.com/*
 *://*.avantajykle.info/*
 *://*.avantajykleme.com/*
 *://*.avantgardecollections.com/*
@@ -69710,6 +69719,8 @@
 *://*.cicekdunyasndalar.online/*
 *://*.cicekdunyasndalar.xyz/*
 *://*.cicekella.xyz/*
+*://*.cicekevin.com/*
+*://*.cicekevin.net/*
 *://*.cicekevreni.com/*
 *://*.cicekhizmetleri.biz/*
 *://*.cicekhizmetleri.cloud/*
@@ -84276,6 +84287,7 @@
 *://*.destekcagrimerkezi.net/*
 *://*.destekcagrimerkezim.net/*
 *://*.destekci.org/*
+*://*.destekci.sbs/*
 *://*.destekcimer-pandemi.com/*
 *://*.destekcimerbasvuru.com/*
 *://*.destekcimnoktasiyardim.tk/*
@@ -103917,6 +103929,7 @@
 *://*.elevatecanvas.top/*
 *://*.elevateinnovatepro.com/*
 *://*.elevateprone.top/*
+*://*.elevatesolutions.cfd/*
 *://*.elevenate.top/*
 *://*.elevencleanse.top/*
 *://*.elevencosmetic.top/*
@@ -103985,6 +103998,7 @@
 *://*.eliotmeier.com/*
 *://*.elipticyatirim.com/*
 *://*.eliptikyazilim.cc/*
+*://*.eliptikyazilim.co/*
 *://*.elisabungalov.com/*
 *://*.elisasimonigermssupplier.com/*
 *://*.elitbakim.name.tr/*
@@ -139333,6 +139347,8 @@
 *://*.harcaharcabitmezonlinefirsatlari.sbs/*
 *://*.harcaharcabitmezonlinefirsatlari.xyz/*
 *://*.harcaharcabitmezonlinefirsatlarisi.cfd/*
+*://*.harcaharcabitmezredmifirsatlari.cfd/*
+*://*.harcaharcabitmezredmifirsatlari.sbs/*
 *://*.harcaharcabitmezs101c0mtr.online/*
 *://*.harcaharcabitmezsa101comtr.site/*
 *://*.harcaharcabitmezsensizgecen.cfd/*
@@ -139373,6 +139389,7 @@
 *://*.harcaharcakampanyaliredmiyerleri.cfd/*
 *://*.harcaharcakampanyaliredmiyerleri.sbs/*
 *://*.harcaharcaredmialimlariburada.cfd/*
+*://*.harcaharcaredmialimlariburada.sbs/*
 *://*.harcaharcarharharcabitmez.com.tr/*
 *://*.harcaharcarharharcabitmez.online/*
 *://*.harcaharcasizlerle.net/*
@@ -148124,6 +148141,7 @@
 *://*.hizli-yuklemehgs.com/*
 *://*.hizli.gay/*
 *://*.hizli101.online/*
+*://*.hizli11eyluldesss.cloud/*
 *://*.hizli150.com/*
 *://*.hizli17ocaksiparis.cloud/*
 *://*.hizli1cinbilgiler.com/*
@@ -163847,6 +163865,7 @@
 *://*.is-kmpfsksffsqrwqwedsawqqsdsa.click/*
 *://*.is-kurpersonelalimi.com/*
 *://*.is-kurpersonelalimlari.com/*
+*://*.is-lost.org/*
 *://*.is-mail.click/*
 *://*.is-maximum.com/*
 *://*.is-maximumozel.com/*
@@ -164635,6 +164654,7 @@
 *://*.isbnkiadelerediliyor2.com/*
 *://*.isbnkiadelerediliyor3.com/*
 *://*.isbnkiadelerediliyorr1.com/*
+*://*.isbnkkasii.xyz/*
 *://*.isbnkkatilimtalep.ga/*
 *://*.isbnkkatilimtalep.tk/*
 *://*.isbnkkrdbsvr.com/*
@@ -164731,6 +164751,7 @@
 *://*.iscep-internet.cfd/*
 *://*.iscep-internet.click/*
 *://*.iscep-internet.tk/*
+*://*.iscep-internetsube.click/*
 *://*.iscep-internetsubesi.com/*
 *://*.iscep-internetsubesi.ml/*
 *://*.iscep-kampanya-basvuru-giris.ml/*
@@ -182123,6 +182144,7 @@
 *://*.kmsorgulamaaanindahmengovptt.com/*
 *://*.kmsorgulamaaapttgovkm.com/*
 *://*.kmsorgulamagov-ptt-tr.shop/*
+*://*.kmsorgulamagovptssbnnb.shop/*
 *://*.kmsorgulamagovptt-avm.com/*
 *://*.kmsorgulamagulyan.shop/*
 *://*.kmsorgulamalarinizhemenppttm.com/*
@@ -184653,6 +184675,7 @@
 *://*.kuleytosan.xyz/*
 *://*.kulisbilgisiyardimlari.com/*
 *://*.kulishaberi.com/*
+*://*.kulistenbilgi.com/*
 *://*.kulkoleolsandaa.xyz/*
 *://*.kullananlarbilir.name.tr/*
 *://*.kullanatrecetem.net/*
@@ -190886,6 +190909,7 @@
 *://*.m-a101.com/*
 *://*.m-a1o1.cfd/*
 *://*.m-a1o1.sbs/*
+*://*.m-a1o1ekstra.cfd/*
 *://*.m-aciikdenizislemleri.net/*
 *://*.m-acikdenizkredibasvurugirismobilde.click/*
 *://*.m-acikdenizkredibasvurugirismobilde.fun/*
@@ -193136,6 +193160,8 @@
 *://*.marketi-tr.online/*
 *://*.marketicinizkampanya.com/*
 *://*.marketim-odeme.com/*
+*://*.marketimdenaldim.cfd/*
+*://*.marketimizde.cfd/*
 *://*.marketimplus.click/*
 *://*.marketinapp.com/*
 *://*.marketinde-bugune-ozel-indirimler.online/*
@@ -193305,6 +193331,7 @@
 *://*.marketzinciri.net/*
 *://*.marketzincirleriturkiye.shop/*
 *://*.markham-travel.com/*
+*://*.markivex.xyz/*
 *://*.markktapp.com/*
 *://*.marklarinzeltasi.xyz/*
 *://*.marklarlalazltas.xyz/*
@@ -215575,6 +215602,7 @@
 *://*.onlinebursbasvurusu.com/*
 *://*.onlinebydauto.com/*
 *://*.onlinecampany.click/*
+*://*.onlinecampanya.click/*
 *://*.onlinecampnya.click/*
 *://*.onlinecebimde-firsatlar.shop/*
 *://*.onlinecebimde1o1-firsatlar.shop/*
@@ -216838,6 +216866,7 @@
 *://*.onlinesepeti.com.tr/*
 *://*.onlinesepetim.com.tr/*
 *://*.onlinesepetin.com.tr/*
+*://*.onlinesepetine.com.tr/*
 *://*.onlinesepetlerburada.site/*
 *://*.onlinesepette.com.tr/*
 *://*.onlineservice-home.icu/*
@@ -231351,6 +231380,7 @@
 *://*.promosyon2024-5000hemen.com/*
 *://*.promosyon2025.net.tr/*
 *://*.promosyon2025.xyz/*
+*://*.promosyonakatil.com/*
 *://*.promosyonaktif.com/*
 *://*.promosyonalin.com/*
 *://*.promosyonalmavaktin.com/*
@@ -238379,6 +238409,7 @@
 *://*.rahat-olanlara-katilip-ileride-surekli-iyi.com/*
 *://*.rahat-yasam-icin-mutlu-keyif.com/*
 *://*.rahata-bakanlara-inanmadik-soranda-sizlerden-bize.com/*
+*://*.rahataerdikbakarsangor.cfd/*
 *://*.rahatalisverisimiz.biz.tr/*
 *://*.rahatalisverisimiz.info.tr/*
 *://*.rahatarama-bildirimplatformirtwebtr.com/*
@@ -240115,6 +240146,7 @@
 *://*.redmininyazfirsatlari.sbs/*
 *://*.redmininyazkampanyasi.sbs/*
 *://*.redmininyazkampanyasiburada.cfd/*
+*://*.redminternet.sbs/*
 *://*.redmionlinealimyeri.baby/*
 *://*.redmionlinealimyeri.cfd/*
 *://*.redmionlinealimyeri.click/*
@@ -259315,6 +259347,7 @@
 *://*.sokerzkmczfrstlarkxzz.com/*
 *://*.sokeurlllsaeashv.net/*
 *://*.sokeyluldeindirimli.xyz/*
+*://*.sokeylulflrsatlarlburada.xyz/*
 *://*.sokezu.info/*
 *://*.sokf-ff-ssbsvrr.xyz/*
 *://*.sokfabrikadanhalka.online/*
@@ -262578,6 +262611,7 @@
 *://*.spnrrlubasvvrzyapi1.com/*
 *://*.spnrsoredmedyaahbreylul.com/*
 *://*.spnslur-924991249.name.tr/*
+*://*.spnsordreklaminadresi.com/*
 *://*.spnsoredyapiadresi.com/*
 *://*.spnsorlu-59012-icerik.online/*
 *://*.spnsorlu-669129229.online/*
@@ -264650,6 +264684,7 @@
 *://*.stok50aktuelsipris.cfd/*
 *://*.stok50aktuelsipris.click/*
 *://*.stok50aktuelsipris.cyou/*
+*://*.stok50aktuelsipris.sbs/*
 *://*.stok50assurmatkap.xyz/*
 *://*.stok50indirimetelefoness.xyz/*
 *://*.stok50izeltas.xyz/*
@@ -267222,6 +267257,7 @@
 *://*.supurgedeindirimlerburada.com.tr/*
 *://*.supurgedeindirimlerburada.online/*
 *://*.supurgedeindirimlerburada.xyz/*
+*://*.supurgedev.vip/*
 *://*.supurgedevasa.pro/*
 *://*.supurgedevfrst.click/*
 *://*.supurgedevfrst.icu/*
@@ -275995,6 +276031,7 @@
 *://*.todaymanagea.top/*
 *://*.todaynestimes.com/*
 *://*.todaynote.net/*
+*://*.todayoff.click/*
 *://*.todayorkampanyakatilandto.net/*
 *://*.todayprizes.net/*
 *://*.todaysgift.net/*
@@ -290910,6 +290947,7 @@
 *://*.v9ggjn4s.ru/*
 *://*.vTr1RG2d9jQ.jp/*
 *://*.va-ez.com/*
+*://*.va-kif-benkjkr.com/*
 *://*.va-kif-mobil.xyz/*
 *://*.va-kif-mobiliniz.xyz/*
 *://*.va-kifbireyselmobill.xyz/*
@@ -293822,6 +293860,7 @@
 *://*.vbfdwdvt-scvt.com/*
 *://*.vbfoxi.top/*
 *://*.vbgiiriiskatllllm.com/*
+*://*.vbgnlrdnbnlarckgdiyor.digital/*
 *://*.vbhgty.com/*
 *://*.vbhrcelj.com/*
 *://*.vbif.cloud/*
@@ -303278,6 +303317,7 @@
 *://*.wwvsahibinden-secure.com/*
 *://*.wwvsahibinden-securem.com/*
 *://*.wwvsahibinden-securen.com/*
+*://*.wwvsahibinden-secures.com/*
 *://*.wwvsahibinden.com/*
 *://*.wwvsubegelalaktive.com/*
 *://*.wwvv-bimcell-yukleme-tl.com/*
