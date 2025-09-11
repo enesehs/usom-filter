@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-11 21:02:19 UTC
-! Total: 324578 rules
+! Last modified: 2025-09-11 22:08:30 UTC
+! Total: 324592 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -597,6 +597,7 @@
 *://*.1-odeme.online/*
 *://*.1-ortakplatform.com/*
 *://*.1-ortaktrf.dev/*
+*://*.1-s-b4ck-x4sh.online/*
 *://*.1-sfrstlmbrdao1.sbs/*
 *://*.1-subat-kampanyalari.com/*
 *://*.1-tele.xyz/*
@@ -3391,6 +3392,7 @@
 *://*.165384.cloud/*
 *://*.165415651565261945654890.xyz/*
 *://*.165415651565261945654894.xyz/*
+*://*.165415651565261945654896.xyz/*
 *://*.165423508873246.com/*
 *://*.1654377445.cloud/*
 *://*.16546689498.com/*
@@ -26561,6 +26563,7 @@
 *://*.aldinizsimdi101.online/*
 *://*.aldinkactinfirsatlari.online/*
 *://*.aldinkapidafrsattlar1o1.com/*
+*://*.aldinkapidafrsattlar1o1.online/*
 *://*.aldinligunler.com/*
 *://*.aldinmatkaps505.xyz/*
 *://*.aldinmialdin.online/*
@@ -66943,6 +66946,7 @@
 *://*.cebinde-sok-market-subat-indirimleri.org/*
 *://*.cebinde-sokbavul.com.tr/*
 *://*.cebinde.app/*
+*://*.cebindeeylul.biz.tr/*
 *://*.cebindeeylul.info.tr/*
 *://*.cebindeeylul.net.tr/*
 *://*.cebindeeylul.org.tr/*
@@ -74869,6 +74873,7 @@
 *://*.crfsdnglnceolnoldbzlere.com/*
 *://*.crfsdnglnleriyklaozmn.com/*
 *://*.crfsdnolckglmcolmadn.com/*
+*://*.crfsdnsonbhraa.cfd/*
 *://*.crfsdnyklydklarinz.com/*
 *://*.crfsdnzhizlicagldiler.com/*
 *://*.crfsdnzhizlicagldiler.info/*
@@ -112246,6 +112251,7 @@
 *://*.eylulekimayiindirimgunleri.xyz/*
 *://*.eylulekimayiindirimleri.com/*
 *://*.eylulekimayiindirimleri.xyz/*
+*://*.eyluleozel.click/*
 *://*.eyluleozel.com/*
 *://*.eyluleozelbasvurusu-binnce.tech/*
 *://*.eyluleozelkampanyabugun.tech/*
@@ -112274,6 +112280,7 @@
 *://*.eylulfirsatlarinikacirmadanal.xyz/*
 *://*.eylulflrsatlariburda.com/*
 *://*.eylulflrsatlariii.com/*
+*://*.eylulflrsatlariiii.com/*
 *://*.eylulflrsatlaronlne.com/*
 *://*.eylulflrsatlaryildizi.com/*
 *://*.eylulformonay.org/*
@@ -112459,6 +112466,7 @@
 *://*.f-karcahome.shop/*
 *://*.f-lens.ru/*
 *://*.f-otosan.com/*
+*://*.f-phlilips.com/*
 *://*.f-pttgov.top/*
 *://*.f-tqn.com/*
 *://*.f0.tel/*
@@ -115742,6 +115750,7 @@
 *://*.firhgss.com/*
 *://*.firima.cfd/*
 *://*.firima.sbs/*
+*://*.firiricokiyitermosunual.click/*
 *://*.firlama.name.tr/*
 *://*.firm352621.xyz/*
 *://*.firm4alarsardi4.click/*
@@ -129378,6 +129387,7 @@
 *://*.gonnv.top/*
 *://*.gonoluluis.icu/*
 *://*.gonulbahari.org/*
+*://*.gonulbasvuru.online/*
 *://*.gonulburada.pw/*
 *://*.gonulbursdestek.com/*
 *://*.gonulbursdestk.online/*
@@ -139486,6 +139496,7 @@
 *://*.hargotsinlitt.com/*
 *://*.harharcabitmezhaftasiidnirimleri.com.tr/*
 *://*.harharcabitmezhaftasiidnirimleri.online/*
+*://*.harharcaindirimgunlr.online/*
 *://*.hari-bo.com/*
 *://*.hariakalargunuburda.pics/*
 *://*.hariakalargunuburda.sbs/*
@@ -176004,6 +176015,7 @@
 *://*.kampanyasizgunyok.xyz/*
 *://*.kampanyasizinicinhemenbasvurunuyap.cloud/*
 *://*.kampanyasizlericinak2.cloud/*
+*://*.kampanyasok.click/*
 *://*.kampanyason.com/*
 *://*.kampanyasongunu101.online/*
 *://*.kampanyasongunu24.online/*
@@ -231455,6 +231467,7 @@
 *://*.promosyonlarla.com.tr/*
 *://*.promosyonlarla.cyou/*
 *://*.promosyonlarla.xyz/*
+*://*.promosyonpanosu.com/*
 *://*.promosyonpazarin.com/*
 *://*.promosyonramazanozel.xyz/*
 *://*.promosyonramazanozell.xyz/*
@@ -243059,6 +243072,7 @@
 *://*.ropcova.click/*
 *://*.roperluzeq.com/*
 *://*.ropperaningone.com/*
+*://*.ropzuva.click/*
 *://*.rorhgss.com/*
 *://*.rorymartin8.info/*
 *://*.rosacriativa.shop/*
