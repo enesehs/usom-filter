@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-10 23:01:57 UTC
-! Total: 324460 rules
+! Last modified: 2025-09-11 00:40:05 UTC
+! Total: 324463 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65016,6 +65016,7 @@
 *://*.callatonsjopa.com/*
 *://*.callcar.com.pk/*
 *://*.callcenterim.com/*
+*://*.callcenteris.com/*
 *://*.callcenternet.com/*
 *://*.callcenters.online/*
 *://*.callconsiderable.net/*
@@ -112245,6 +112246,7 @@
 *://*.eylulindim07.shop/*
 *://*.eylulindiri.site/*
 *://*.eylulindirimfirsatzamani.com/*
+*://*.eylulindirimi.click/*
 *://*.eylulindirimleribitmez.com.tr/*
 *://*.eylulindirimleribitmez.online/*
 *://*.eylulindirimleribitmez.xyz/*
@@ -214667,6 +214669,7 @@
 *://*.online-mobilbasvurukampanyasi-com.tk/*
 *://*.online-mobildevletgiris-portal.tk/*
 *://*.online-mobile-banking.com/*
+*://*.online-mobile.click/*
 *://*.online-mobilegiris-portal.tk/*
 *://*.online-mobileozel-kampanyalar.com/*
 *://*.online-mobileozel-kampanyalar.xyz/*
