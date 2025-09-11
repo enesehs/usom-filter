@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-11 08:12:42 UTC
-! Total: 324489 rules
+! Last modified: 2025-09-11 09:12:52 UTC
+! Total: 324500 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3389,6 +3389,7 @@
 *://*.16516516522.cloud/*
 *://*.16523326.site/*
 *://*.165384.cloud/*
+*://*.165415651565261945654890.xyz/*
 *://*.165423508873246.com/*
 *://*.1654377445.cloud/*
 *://*.16546689498.com/*
@@ -30966,6 +30967,7 @@
 *://*.appxmacos.com/*
 *://*.appyapi.xyz/*
 *://*.appyss-miappidsrvinc.com/*
+*://*.appzeniq.com/*
 *://*.appzraat.click/*
 *://*.appzrat.click/*
 *://*.appzratt.click/*
@@ -33857,6 +33859,7 @@
 *://*.asiaparadisehotel.com/*
 *://*.asiapartnars.online/*
 *://*.asiaresearchcenter.org/*
+*://*.asiaresortguide.com/*
 *://*.asiasoftnet.com/*
 *://*.asiasyncdb.com/*
 *://*.asiatrans.cf/*
@@ -39286,6 +39289,7 @@
 *://*.baskasiyalan.online/*
 *://*.baskayerbaskazaman.my/*
 *://*.baskayerbaskazaman.sbs/*
+*://*.baskentmnkl.com/*
 *://*.basket-khimki.ru/*
 *://*.basketballallocate.top/*
 *://*.basketballkungfu.com/*
@@ -112797,6 +112801,7 @@
 *://*.faizsizevlilik.com.tr/*
 *://*.faizsizfirsat.cfd/*
 *://*.faizsizfirsat.club/*
+*://*.faizsizfirsat.sbs/*
 *://*.faizsizfirsatimak.com.tr/*
 *://*.faizsizfirsatlar.net/*
 *://*.faizsizfirsatlar.online/*
@@ -128413,6 +128418,7 @@
 *://*.glimpsepredominate.top/*
 *://*.glinizxmreyklynaga.net/*
 *://*.glintstack.website/*
+*://*.glippora.com/*
 *://*.glitch.global/*
 *://*.glitch.me/*
 *://*.glitchmedic.com/*
@@ -129363,6 +129369,7 @@
 *://*.gonulform2025.online/*
 *://*.gonulformdestk.online/*
 *://*.gonulforminfo.online/*
+*://*.gonulforms.online/*
 *://*.gonulformsyd.online/*
 *://*.gonulhayrati.org/*
 *://*.gonullerbirdir.com/*
@@ -187087,6 +187094,7 @@
 *://*.legaryx.com/*
 *://*.legdiffer.top/*
 *://*.legenassedk.top/*
+*://*.legend-circle.xyz/*
 *://*.legendarycinemallc.com/*
 *://*.legendaryflim.com/*
 *://*.legendarypoised.top/*
@@ -200439,6 +200447,7 @@
 *://*.modernteknolojiler.online/*
 *://*.moderntense.online/*
 *://*.moderntips.org/*
+*://*.moderntrail.online/*
 *://*.modernwave.site/*
 *://*.modernyol.online/*
 *://*.moderomotive.top/*
@@ -217729,6 +217738,7 @@
 *://*.opewu.homes/*
 *://*.opfsacq.com/*
 *://*.ophadansanada.site/*
+*://*.ophiuroidean.com/*
 *://*.ophlikahiph.net/*
 *://*.ophthalmolog.kiev.ua/*
 *://*.opi-mini.net/*
@@ -253373,6 +253383,7 @@
 *://*.shineclouds.com/*
 *://*.shineharvest.top/*
 *://*.shineindian.com/*
+*://*.shinelirm.com/*
 *://*.shineresist.top/*
 *://*.shinestars-lifestyle.com/*
 *://*.shinetoday.site/*
