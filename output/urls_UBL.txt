@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-12 20:08:47 UTC
-! Total: 324705 rules
+! Last modified: 2025-09-12 21:01:49 UTC
+! Total: 324711 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2057,6 +2057,7 @@
 *://*.1126betturkey.com/*
 *://*.11284684682741116-verify.net/*
 *://*.112acilkiyafetler.com/*
+*://*.112bucukeyluldesiparilerin.cloud/*
 *://*.112cfrstlrr.xyz/*
 *://*.113442819483232.online/*
 *://*.1135923-777.com/*
@@ -2336,6 +2337,8 @@
 *://*.1243124234.store/*
 *://*.12432535435.xyz/*
 *://*.12435132342543.com/*
+*://*.124512121544125155493331.xyz/*
+*://*.124512121544125155493332.xyz/*
 *://*.124513114.xyz/*
 *://*.1247-164288-5164-3200.com.tr/*
 *://*.1247-164288-5164-3230.xyz/*
@@ -9543,6 +9546,7 @@
 *://*.56232476345345.com/*
 *://*.5625263.cloud/*
 *://*.563464343654363443.cloud/*
+*://*.564164565296549.cfd/*
 *://*.564168416543545348.site/*
 *://*.5643esrhse46466566shrser.com/*
 *://*.5646150000.cloud/*
@@ -58960,6 +58964,7 @@
 *://*.bonuslafirsatlar.ga/*
 *://*.bonuslafirsatlar.gq/*
 *://*.bonuslafirsatlar.tk/*
+*://*.bonuslagel.click/*
 *://*.bonuslakampanyalar.cf/*
 *://*.bonuslakampanyalar.gq/*
 *://*.bonuslakampanyalar.ml/*
@@ -231519,6 +231524,7 @@
 *://*.promosyondegerlendirme.com/*
 *://*.promosyondeniz.online/*
 *://*.promosyondurumu.com/*
+*://*.promosyonduyurulari.com/*
 *://*.promosyonduyurusu.com/*
 *://*.promosyonekrani-garantim.com/*
 *://*.promosyonemekli.com/*
