@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-12 18:11:23 UTC
-# Toplam: 407954 Domain
+# Son Güncelleme: 2025-09-12 19:01:48 UTC
+# Toplam: 407958 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -112256,6 +112256,7 @@ dijitalgiris-webdenizacik.com
 dijitalgiris-ziraatbireysel.com
 dijitalgiris-ziraatdijital.com
 dijitalgiris-ziraatkampanya.com
+dijitalgiris-ziraatkampanyaweb.com
 dijitalgiris-ziraatmobil.com
 dijitalgiris-ziraatmobilweb.com
 dijitalgiris-ziraatweb.com
@@ -147473,6 +147474,7 @@ firsatlar2022.net
 firsatlar2232.com.tr
 firsatlara-basvur.online
 firsatlara.duckdns.org
+firsatlara101indirim.xyz
 firsatlaradahilolunhemen.xyz
 firsatlaragel.com
 firsatlarageldiginin.xyz
@@ -322888,6 +322890,7 @@ siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
 siparislerindenagustostaaa24.cloud
+siparislerindenhizlansinfd.cloud
 siparislerindenhizlnir.cloud
 siparislerinhizlandi25temmuzda.cloud
 siparislerinhizlandiryarinda29.cloud
@@ -330227,6 +330230,7 @@ sponsorlumedyaekonomi.duckdns.org
 sponsorlumedyav12.duckdns.org
 sponsorluonay.net
 sponsorlupromosyon.com
+sponsorlureferans.com
 sponsorlureklam-16.xyz
 sponsorlureklam-30.xyz
 sponsorlureklam-31.online
