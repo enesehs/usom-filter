@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-12 21:01:49 UTC
-! Total: 324711 rules
+! Last modified: 2025-09-12 22:07:56 UTC
+! Total: 324720 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26447,6 +26447,7 @@
 *://*.aldinaldinizkampanyalar.site/*
 *://*.aldinaldinkacirma.net/*
 *://*.aldinaldinkacmazbunlar.sbs/*
+*://*.aldinaldinkamoanyalardakigunler.com.tr/*
 *://*.aldinaldinkampanya.com.tr/*
 *://*.aldinaldinkampanya.online/*
 *://*.aldinaldinkampanya.shop/*
@@ -55883,6 +55884,7 @@
 *://*.bluetek1.com/*
 *://*.bluetick.systems/*
 *://*.bluetreewater.com/*
+*://*.bluewave.cfd/*
 *://*.bluewaves.ae/*
 *://*.bluey.online/*
 *://*.blueytocket.com/*
@@ -60462,6 +60464,7 @@
 *://*.brxxfd54s5bo.com/*
 *://*.bryagdrekhytndgstrmelsn.sbs/*
 *://*.bryagiderknmtluolmalsn.digital/*
+*://*.bryagttgnddhrsyfrkliolmali.digital/*
 *://*.bryaynlendkbzmrslerdensznz.shop/*
 *://*.bryaynlrdksnzburdabzvrd.shop/*
 *://*.bryaynlyrsnzbrdanbrdan.bond/*
@@ -81172,6 +81175,7 @@
 *://*.denizcep-iadeler.com/*
 *://*.denizcep-kampanya.click/*
 *://*.denizcep-onayy.com/*
+*://*.denizcep-online.click/*
 *://*.denizcep.com/*
 *://*.denizcep.org/*
 *://*.denizcepacik-tr.com/*
@@ -165248,6 +165252,7 @@
 *://*.iskiresmi.net/*
 *://*.iskmablerstet.net/*
 *://*.iskmifaturam.net/*
+*://*.isknbnka.xyz/*
 *://*.iskolaygirisservisi.com/*
 *://*.iskrtdldr.net/*
 *://*.iskrtlaryukleleler.net/*
@@ -191502,6 +191507,7 @@
 *://*.magazam-sahibinden-param-guvende-com.tk/*
 *://*.magazam.sbs/*
 *://*.magazama1o1.com/*
+*://*.magazamsanal.store/*
 *://*.magazamturkcell.com/*
 *://*.magazan-cepte.com.tr/*
 *://*.magazan-cepte.info.tr/*
@@ -225359,6 +225365,7 @@
 *://*.pasajimocak-yeni.site/*
 *://*.pasajkampanyalari.info/*
 *://*.pasajkampanyalari.online/*
+*://*.pasajkampanyalari.store/*
 *://*.pasajmagaza.com.tr/*
 *://*.pasajmagaza.com/*
 *://*.pasajmagazalar.com/*
@@ -280921,6 +280928,7 @@
 *://*.trget-paranguvende.com/*
 *://*.trgfgdvch.com/*
 *://*.trghakkinizdasikayetlervar.com/*
+*://*.trgir-web-land.click/*
 *://*.trgiris-hazir-anweblogintr.xyz/*
 *://*.trgiris-onlinebntrncnne.com/*
 *://*.trgiris-pari.com/*
@@ -294036,6 +294044,7 @@
 *://*.vbnbvb.online/*
 *://*.vbnkd.com/*
 *://*.vbnmasdnmv.app/*
+*://*.vbnmbnlrdnndnhbrmykki.digital/*
 *://*.vbnunydm22.xyz/*
 *://*.vbnvbcekvell.com/*
 *://*.vbokpokdlcbcpxj.su/*

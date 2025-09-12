@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-12 21:01:49 UTC
-# Toplam: 407969 Domain
+# Son Güncelleme: 2025-09-12 22:07:56 UTC
+# Toplam: 407980 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39179,6 +39179,7 @@ aldinaldinizkampanyalar.org
 aldinaldinizkampanyalar.site
 aldinaldinkacirma.net
 aldinaldinkacmazbunlar.sbs
+aldinaldinkamoanyalardakigunler.com.tr
 aldinaldinkampanya.com.tr
 aldinaldinkampanya.online
 aldinaldinkampanya.shop
@@ -74155,6 +74156,7 @@ bluestarpaymentsolutions.com
 bluetek1.com
 bluetick.systems
 bluetreewater.com
+bluewave.cfd
 bluewaves.ae
 bluey.online
 blueyesimane.ddns.net
@@ -79566,6 +79568,7 @@ brxxgodzila.ddns.net
 bry6anih2cker854.ddns.net
 bryagdrekhytndgstrmelsn.sbs
 bryagiderknmtluolmalsn.digital
+bryagttgnddhrsyfrkliolmali.digital
 bryangeorgia.hopto.org
 bryaynlendkbzmrslerdensznz.shop
 bryaynlrdksnzburdabzvrd.shop
@@ -105841,10 +105844,12 @@ denizcekilsleri.net
 denizcep-iadeler.com
 denizcep-kampanya.click
 denizcep-onayy.com
+denizcep-online.click
 denizcep-online.ru.com
 denizcep-online.sa.com
 denizcep-online.za.com
 denizcep-sube.sa.com
+denizcep-sube.za.com
 denizcep.com
 denizcep.org
 denizcepacik-tr.com
@@ -205105,6 +205110,7 @@ iskiodeme.org
 iskiresmi.net
 iskmablerstet.net
 iskmifaturam.net
+isknbnka.xyz
 iskolaygirisservisi.com
 iskredibasvurularim.vercel.app
 iskredifirsatimizla.duckdns.org
@@ -238215,6 +238221,7 @@ magazam-dyson.com.tr
 magazam-sahibinden-param-guvende-com.tk
 magazam.sbs
 magazama1o1.com
+magazamsanal.store
 magazamturkcell.com
 magazan-cepte.com.tr
 magazan-cepte.info.tr
@@ -280879,6 +280886,7 @@ pasajhemenpt-tal.cfd
 pasajimocak-yeni.site
 pasajkampanyalari.info
 pasajkampanyalari.online
+pasajkampanyalari.store
 pasajmagaza.com
 pasajmagazalar.com
 pasajmagazam.com
@@ -352001,6 +352009,7 @@ trget-paranguvende.com
 trgfbvsav.duckdns.org
 trgfgdvch.com
 trghakkinizdasikayetlervar.com
+trgir-web-land.click
 trgiris-hazir-anweblogintr.xyz
 trgiris-onlinebntrncnne.com
 trgiris-pari.com
@@ -358158,6 +358167,7 @@ tuvturkmuaynebenzinh.web.app
 tuvturkmuaynehzmtlr.net
 tuvturkmuayneistasy0nu.com
 tuvturkmuaynerandevu.shop
+tuvturkmuaynerandvuhzmt.web.app
 tuvturkmuaynesi.com
 tuvturkmuyanealmaprn.web.app
 tuvturkmuyanehzmetarac.net
@@ -367972,6 +367982,7 @@ vbmobilvibimerkez.com
 vbnbvb.online
 vbnkd.com
 vbnmasdnmv.app
+vbnmbnlrdnndnhbrmykki.digital
 vbnmob.ddns.net
 vbnunydm22.xyz
 vbnvbcekvell.com
