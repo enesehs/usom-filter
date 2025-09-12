@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-11 23:01:56 UTC
-# Toplam: 407836 Domain
+# Son Güncelleme: 2025-09-12 00:38:59 UTC
+# Toplam: 407843 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -87321,9 +87321,11 @@ cebinde.basvurular-burada.in
 cebinde.sok-serinleten-yaz.com
 cebindeeylul.biz.tr
 cebindeeylul.info.tr
+cebindeeylul.name.tr
 cebindeeylul.net.tr
 cebindeeylul.org.tr
 cebindeeylul.tv.tr
+cebindeeylul.web.tr
 cebindehalk.tk
 cebindeki-mutluluk-dolusu-yaninda-olacak.com
 cebindekiaidat.com
@@ -105801,6 +105803,7 @@ denizcekilsleri.net
 denizcep-iadeler.com
 denizcep-onayy.com
 denizcep-online.sa.com
+denizcep-online.za.com
 denizcep.com
 denizcep.org
 denizcepacik-tr.com
@@ -215320,6 +215323,7 @@ kadada.xyz
 kadadvt-dsvlt.com
 kadaheanteaa1.net
 kadakada.ddns.net
+kadapto-randv.online
 kadastrotapnu.app
 kadavra.cfd
 kaddiinasddetehayiir.xyz
@@ -288547,6 +288551,7 @@ promsyondenizi.com
 promsyonlar.com.tr
 promsyonlar.cyou
 promtechnolak.ru
+promyzor.xyz
 promzeus.com
 pronatb.online
 prone.one
@@ -348625,6 +348630,7 @@ tr-links.site
 tr-linkurun.online
 tr-lng.com
 tr-lock-docs-build.net
+tr-login-grup.digital
 tr-login-yapi.glitch.me
 tr-m-e-devlet-aidat-cep-iadeler.com
 tr-m-e-devlet-aidatlar-ve-iade.cf
@@ -375345,6 +375351,7 @@ webbnsdkkrmdirmn.com
 webbs.live
 webbsbayrntilrmiziip25.xyz
 webbsbayrntilrmizil32.xyz
+webbsbayrntilrmizim045.xyz
 webbsbayrntilrmizim33.xyz
 webbsbayrntilrmizim356.xyz
 webbsbayrntilrmizim456.xyz
