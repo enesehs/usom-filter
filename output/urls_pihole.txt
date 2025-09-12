@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-12 09:09:33 UTC
-# Toplam: 407871 Domain
+# Son Güncelleme: 2025-09-12 10:02:05 UTC
+# Toplam: 407877 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4934,6 +4934,7 @@
 165415651565261945654894.xyz
 165415651565261945654896.xyz
 165415651565261945654897.xyz
+165415651565261945654898.xyz
 165423508873246.com
 1654377445.cloud
 16546689498.com
@@ -70542,6 +70543,8 @@ birgeciss.22web.org
 birgelecektur.net
 birggqocpq.duckdns.org
 birgorus.name.tr
+birgundegkargo1011.com
+birgundegkargo1011.online
 birgundekapinagelmezseiade.shop
 birguneldebetodels.net
 birgunhuzur.com
@@ -79206,6 +79209,7 @@ britstep.digital
 brixc.hopto.org
 brixxxpizza.com
 brizalor.com
+brizolance.com
 brjbcqiwbe.duckdns.org
 brjuanglahsndiri81852tnpabtnuang.duckdns.org
 brjyukleme.22web.org
@@ -101227,6 +101231,7 @@ dap-ypmahlan.bounceme.net
 daparian.top
 dapdz-pttavm.is-best.net
 dapekosuio.at
+dapesoteric.org
 dapoerwedding.com
 dappadar.bio
 dappadar.community
@@ -165806,6 +165811,7 @@ gucluyarinlaravakfi.com.tr
 gucuhm.com
 gucunug.com
 gucunuzu-gosterin.com
+gucunuzyetmez.cfd
 gucydbkmlz.duckdns.org
 gud819.hopto.org
 gudangdrakor.com
