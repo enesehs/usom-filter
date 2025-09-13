@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-13 04:09:39 UTC
-# Toplam: 408005 Domain
+# Son Güncelleme: 2025-09-13 05:07:57 UTC
+# Toplam: 408011 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1862,6 +1862,7 @@
 101-eylulgecesii13.net
 101-eylulgecesii13.store
 101-eylulurunleri.info
+101-eylulurunleri.shop
 101-firsat.com.tr
 101-firsatimcepte.name.tr
 101-firsatindm.com
@@ -19726,6 +19727,7 @@
 94357.click
 943752.cloud
 944279.parkingcrew.net
+945467274.cloud
 945505162443118756.com
 9457-7-34---34-63-45-34-52-35-234-234-1.pro
 94616666.cloud
@@ -39171,6 +39173,7 @@ aldinaldinhemen.shop
 aldinaldinherseykapinda.online
 aldinaldiniadeni.com.tr
 aldinaldinidnrimgunleri.sbs
+aldinaldinind.xyz
 aldinaldinindiirmlerrindebuay.sbs
 aldinaldinindirimlerburda.com.tr
 aldinaldinindirimleri.cfd
@@ -200686,6 +200689,7 @@ int-net-sub.shop
 int-net-subecik.click
 int-net-subecik.ru.com
 int-net-subecik.za.com
+int-net.click
 int-net.sa.com
 int-net.za.com
 int-news.life
@@ -335484,6 +335488,7 @@ supermario6969.ddns.net
 supermarioprohozhdenie.ru
 supermarket-eptt-alisverismerkezleri.online
 supermarketcomic.top
+supermarketeylul.click
 supermarketindulgence.top
 supermarketrecur.top
 supermarketshorthand.top
@@ -399676,6 +399681,7 @@ yikamazamanims.shop
 yikamazsiniz.cfd
 yikamsaurunleri.com
 yikilanhayallerim.xyz
+yikildiikti.xyz
 yikilmayiz.sbs
 yiknzeqzb.duckdns.org
 yil-basi-kampanyasi.shop
