@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-14 12:13:52 UTC
-# Toplam: 408077 Domain
+# Son Güncelleme: 2025-09-14 13:12:39 UTC
+# Toplam: 408092 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -76214,6 +76214,7 @@ bnktrjet.app
 bnkver1f1y.hopto.org
 bnkvocu.duckdns.org
 bnlapothecary.biz
+bnlardzmnndasizekydrmadimi.sbs
 bnlarsdcszlereozlolmali.shop
 bnlast3dayscloudexpression.net
 bnlcell.blogspot.com
@@ -78784,6 +78785,7 @@ brainy-example.auto.playit.gg
 brakalalrakds.xyz
 brakefortnight.top
 brakfastpaque.top
+bralardansnkzbrayaynlyrz.bond
 bralardansnkzynlynrz.sbs
 bralntree.com
 bramloosveld.be
@@ -122178,6 +122180,7 @@ e-hizmetkapisi-turkiyegovtr.com
 e-hizmetkapisigirisi-turkiyegovtr.com
 e-hizmetleerdesb2024.tech
 e-hizmetler-devlet.com
+e-hizmetler-guvnde.online
 e-hizmetler-tr.com.tr
 e-hizmetler-turkeygovtr.com
 e-hizmetler-turkiyegovtr.com
@@ -141507,6 +141510,7 @@ eykbasvuru.com
 eykfdplcr.com
 eykhgsm.com
 eylaylaribitmesin.online
+eylaylaribitmesinn.online
 eylbilgi.com
 eylbilgiler.com
 eylbilgim.com
@@ -163662,6 +163666,7 @@ gordukgelmediz.net
 gorduklerin-razileri-olupta-buralara-ugrayanlara.com
 gorduklerine-ilkdefa-inanmayanlara-buralara-kaldiklarinda.top
 gordukleriniz-fazla-kalmaz-hemen-almaya-bakim.com
+gordumbuldum.xyz
 gordumkapiverdim.xyz
 gordumsepeteattim.top
 gordun-kacmasin-bence.com
@@ -169881,6 +169886,7 @@ haberleriniz21.club
 haberleriniz21.online
 haberleriniz21.site
 haberleriniz21.website
+haberlerisimdioku.sbs
 haberlers.site
 haberlersende.site
 haberlersonline.site
@@ -178771,6 +178777,7 @@ hemenceyukle.22web.org
 hemenci.mertcanbaab.click
 hemencicek.biz
 hemencicek.me
+hemencicek.site
 hemencicek.xyz
 hemencici.click
 hemencislem.mooo.com
@@ -186089,6 +186096,7 @@ hizlisevilenharikagunlersizinle.xyz
 hizlisevilenkampanyalarsizlerle.com.tr
 hizlisevilenkampanyalarsizlerle.xyz
 hizlisevilenmarket.online
+hizlisiapraisler13eylulde.cloud
 hizlisiggortacim.com.tr
 hizlisiggortacim.gen.tr
 hizlisiggortacim.net.tr
@@ -261818,6 +261826,7 @@ ntrzbbjeik.duckdns.org
 nts.comnmaherheles.egnyte.com
 ntsclouds.com
 ntservicepack.com
+ntsfl0rt.info
 ntsfl0rt.net
 ntsfl0rt.store
 ntspl.duckdns.org
@@ -283450,6 +283459,7 @@ philipxturner.com
 philiso87162.ddns.net
 philkassa-spb.com
 philliesmgir.pw
+phillipis.cfd
 phillips679.xyz
 phillipys.com
 philliyps.com
@@ -297400,6 +297410,7 @@ r435t.calab0.com
 r45ssshgs.is-best.net
 r45w45e56464hw.no-ip.biz
 r462fq148u.s504w.ru
+r465s32.ntsfl0rt.info
 r473x7r3m3.ddns.net
 r48gj6y8.duckdns.org
 r48nggv6g.duckdns.org
@@ -306478,6 +306489,7 @@ sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadeceonllinea1o1.duckdns.org
+sadeceonlndsfirsat.sbs
 sadeceonlneozelfrsatlara1o1.duckdns.org
 sadeceonlnkamp.duckdns.org
 sadecepera.fun
@@ -307848,6 +307860,7 @@ sahibinden-ile-param-guvende-odeme.com
 sahibinden-ile-param-guvende.gq
 sahibinden-ile-param-guvende.online-bireysel-hizmetlerimiz.com
 sahibinden-ile-satin-al.com
+sahibinden-jet.e-hizmetler-guvnde.online
 sahibinden-kategori-ikinci-el-ve-sifir-alisveris-get-odeme-tr.ga
 sahibinden-kurumsal-aktiflesstirme.com
 sahibinden-kurumsal-param-guvende.com.tr
@@ -384496,6 +384509,7 @@ www-turkiye-finans-katilim-com.tk
 www-turkiye-finans.com
 www-turkiye-giris-edevlet-cimmer.com
 www-turkiye-gov-tr-aidat.akmarket.com.tr
+www-turkiye-gov-tr-ebd-ek-55337.netlify.app
 www-turkiye-gov-tr.com
 www-turkiye-govtr-aidatiade.com
 www-turkiye-govtr.com
@@ -403639,6 +403653,7 @@ zahaol.net
 zahibinden.com
 zahidaigig.net
 zahidelt.sbs
+zahin.net
 zahlung-dhl8272.ddns.net
 zahlung-erhalten.ddns.net
 zahlung-hilfe.ddns.net
