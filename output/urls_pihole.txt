@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-14 15:02:03 UTC
-# Toplam: 408102 Domain
+# Son Güncelleme: 2025-09-14 16:08:01 UTC
+# Toplam: 408108 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3622,6 +3622,7 @@
 124512121544125155493331.xyz
 124512121544125155493332.xyz
 124512121544125155493333.xyz
+124512121544125155493337.xyz
 124513114.xyz
 124683357.corolain.ru
 1247-164288-5164-3200.com.tr
@@ -149363,6 +149364,7 @@ flrsatherkesleolsadanerletmedensen.world
 flrsatherkesleolsandaolmasadaherkesl.life
 flrsatherkesleolsapazartesigel.rip
 flrsatherkesleolursasenolmalaan.shop
+flrsatherkeslepazarteshemensalw.world
 flrsatherklessokkosaldiyebagir.store
 flrsatherolursaolsadagelebilir.shop
 flrsatherzamandaolsaolurda.site
@@ -150769,6 +150771,7 @@ frail89revokke202.ddns.net
 frailesy.com
 fraisau.com
 frak.mcdir.ru
+fralardnbirsylergctimihmn.bond
 frame3d.de
 frameclasp.top
 framecommonwealth.top
@@ -153341,6 +153344,7 @@ garanonline.tk
 garanreklam25.click
 garansnnnststss.com.tr
 garansntttss.com.tr
+garant-250-000.xyz
 garant-bank.cf
 garant-banka.com
 garant-bbva-ramazan-firsati.duckdns.org
@@ -253788,6 +253792,7 @@ mumdaninesi.site
 mumeizama.com
 mumii-troll.ru
 mumkun-sizin-aradiginiz-hersey-burada.xyz
+mumkundegilacamazsiniz.cfd
 mummy111.duckdns.org
 mumo.cf
 mumtazandbrohi.com
@@ -358280,6 +358285,7 @@ tuvturkmuaynebenzing.web.app
 tuvturkmuaynebenzinh.web.app
 tuvturkmuaynehzmtlr.net
 tuvturkmuayneistasy0nu.com
+tuvturkmuaynelerburda.web.app
 tuvturkmuaynerandevu.shop
 tuvturkmuaynerandvuhzmt.web.app
 tuvturkmuaynesi.com
