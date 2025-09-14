@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-14 14:01:57 UTC
-! Total: 324818 rules
+! Last modified: 2025-09-14 15:02:03 UTC
+! Total: 324823 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7709,6 +7709,7 @@
 *://*.34.94.205.91/*
 *://*.34070675484.org/*
 *://*.340965421.com/*
+*://*.341231543214142523.com/*
 *://*.341321756.online/*
 *://*.3415254462.cloud/*
 *://*.3421gfcxxf234.digital/*
@@ -18222,6 +18223,7 @@
 *://*.aclsikgortam.com.tr/*
 *://*.aclsiqortasirketim.xyz/*
 *://*.acmanets.com/*
+*://*.acmanizaimkanyok.cfd/*
 *://*.acmdlkzdj.site/*
 *://*.acmecepl.com/*
 *://*.acmemultan.com/*
@@ -27449,6 +27451,7 @@
 *://*.aliverispromo54.xyz/*
 *://*.alivesensational.top/*
 *://*.aliviateconmigo.com.co/*
+*://*.alivockrepi.click/*
 *://*.aliydshoyow.com/*
 *://*.aliyenicenidengons.site/*
 *://*.aliyorsanindirimdenal.com.tr/*
@@ -53287,6 +53290,7 @@
 *://*.bittikyetti.top/*
 *://*.bittingaros74.com/*
 *://*.bittingores71.com/*
+*://*.bittiniz.cfd/*
 *://*.bittiodemem.net/*
 *://*.bittnar.info/*
 *://*.bittor.pw/*
@@ -87409,6 +87413,7 @@
 *://*.dijitalwebmobil-ziraat.com/*
 *://*.dijitalwebmobil-ziraatbireyselgiris.com/*
 *://*.dijitalwebmobil-ziraatgiris.com/*
+*://*.dijitalwebmobil-ziraatkampanya.com/*
 *://*.dijitalwebmobil-ziraatkredi.com/*
 *://*.dijitalwebnet-ziraatbireysel.com/*
 *://*.dijitalwebonlinesistem-com.tk/*

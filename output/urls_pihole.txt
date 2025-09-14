@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-14 14:01:57 UTC
-# Toplam: 408093 Domain
+# Son Güncelleme: 2025-09-14 15:02:03 UTC
+# Toplam: 408102 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14246,6 +14246,7 @@
 5247-coinbase.com
 52521215905219012525215.com.tr
 525215543.istanbul
+5252352rqm.duckdns.org
 5253523gtr.duckdns.org
 525554564.cloud
 525554646.cloud
@@ -29178,6 +29179,7 @@ acloudg.cyou
 aclsikgortam.com.tr
 aclsiqortasirketim.xyz
 acmanets.com
+acmanizaimkanyok.cfd
 acmdlkzdj.site
 acmecepl.com
 acmemultan.com
@@ -40314,6 +40316,7 @@ aliverisguvende-get.com
 aliverispromo54.xyz
 alivesensational.top
 aliviateconmigo.com.co
+alivockrepi.click
 aliwork.zapto.org
 aliydshoyow.com
 aliyenicenidengons.site
@@ -69628,6 +69631,7 @@ bireysel.acikdenizv2idenizbank.com
 bireysel.acikmobil.mobildeniz.18-219-65-232.plesk.page
 bireysel.acillsigorrta.site
 bireysel.aytld.com
+bireysel.basvuru.bizde.alivockrepi.click
 bireysel.com.de
 bireysel.deniz.bank.4-231-235-170.plesk.page
 bireysel.giris-web.tr
@@ -71175,6 +71179,7 @@ bittibitttiyor101.duckdns.org
 bittikyetti.top
 bittingaros74.com
 bittingores71.com
+bittiniz.cfd
 bittiodemem.net
 bittmartloogn.webflow.io
 bittnar.info
@@ -112849,6 +112854,7 @@ dijitalwebmobil-denizacik.com
 dijitalwebmobil-ziraat.com
 dijitalwebmobil-ziraatbireyselgiris.com
 dijitalwebmobil-ziraatgiris.com
+dijitalwebmobil-ziraatkampanya.com
 dijitalwebmobil-ziraatkredi.com
 dijitalwebnet-ziraatbireysel.com
 dijitalwebonlinesistem-com.tk
@@ -144452,6 +144458,7 @@ ferdinesleresmen.com
 ferdiozkance.xyz
 ferdisistemler.com
 ferdo.xyz
+ferede.my-homeip.com
 feredei.com
 ferentthankf35.xyz
 feresse4.net
@@ -154956,6 +154963,7 @@ garantibonus.2212435486384.com
 garantibonus.2342621454264434.com
 garantibonus.32132492092123423.com
 garantibonus.324564242343246.com
+garantibonus.341231543214142523.com
 garantibonus.3463234236435234.com
 garantibonus.3463572325723454234.com
 garantibonus.357844667879666.com
@@ -223660,6 +223668,7 @@ kilometrenisorgulagulyan.shop
 kilometrenisorgulama.fun
 kilometreniziogrenin.web.app
 kilometreniziogrenins.web.app
+kilometreniziogreninsd.web.app
 kilometrenizisorgulayingencler.web.app
 kilometrenizogrenin.web.app
 kilometrenizsmdican.web.app
