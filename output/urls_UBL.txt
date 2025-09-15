@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-15 05:09:48 UTC
-! Total: 324873 rules
+! Last modified: 2025-09-15 06:14:58 UTC
+! Total: 324879 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2873,6 +2873,7 @@
 *://*.145155445588998899.xyz/*
 *://*.14515579416.cloud/*
 *://*.145214515456589598099890.xyz/*
+*://*.145214515456589598099891.xyz/*
 *://*.145215554455887770.xyz/*
 *://*.145215554455887771.xyz/*
 *://*.145215554455887772.xyz/*
@@ -118485,6 +118486,7 @@
 *://*.flrsathadihepberaberyolumuzu.world/*
 *://*.flrsathadiolmazolsundaolmadandad.store/*
 *://*.flrsathadiolsahemenlerolsanmada.world/*
+*://*.flrsathadisenbeniettinyasenkazanma.world/*
 *://*.flrsathadisenledeolmazsadanebilim.world/*
 *://*.flrsathadisensposabahgelnbaslagit.world/*
 *://*.flrsathadisenyakaladanbver.world/*
@@ -189712,6 +189714,7 @@
 *://*.lorimartwork.com/*
 *://*.lornatesta.ru/*
 *://*.lornointwonbt.org/*
+*://*.lorowexo.org/*
 *://*.lorryhypocrisy.top/*
 *://*.lortuis.icu/*
 *://*.lortuis.xyz/*
@@ -197557,6 +197560,7 @@
 *://*.mipolatr.top/*
 *://*.miprojector.shop/*
 *://*.mipropia.com/*
+*://*.miqihunigs.info/*
 *://*.mirabionix.com/*
 *://*.miracbxmcllseninle.com/*
 *://*.miraccell1.cf/*
@@ -299489,6 +299493,7 @@
 *://*.web-myntvuk.net/*
 *://*.web-mysntvk.net/*
 *://*.web-mysntvuk.net/*
+*://*.web-net-online.site/*
 *://*.web-nvrandevu.online/*
 *://*.web-online-basvuru-form-olustur-ucret-kesinti-odemeler.xyz/*
 *://*.web-online-basvuru-giris-sayfasi.xyz/*
@@ -317044,6 +317049,7 @@
 *://*.yenibenzsd.net/*
 *://*.yeniberaber.net/*
 *://*.yenibildirihkkbro.top/*
+*://*.yenibilgilerigor.com/*
 *://*.yenibimclburada.net/*
 *://*.yenibirgun.name.tr/*
 *://*.yenibirhikaye.sbs/*
