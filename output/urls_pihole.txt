@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-15 15:09:51 UTC
-# Toplam: 408270 Domain
+# Son Güncelleme: 2025-09-15 16:10:50 UTC
+# Toplam: 408272 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -134530,6 +134530,7 @@ enigmax.online
 enigmax.sbs
 enigmax.shop
 enigmax.space
+enigmonse.sambal.web.id
 enikieylulind.xyz
 enikos.news
 enimaterials.com
@@ -327523,6 +327524,7 @@ sonfirsatlarbuguneozelkacirma.com.tr
 sonfirsatlarbuguneozelkacirma.online
 sonfirsatlarbuguneozelkacirma.xyz
 sonfirsatlarburda.shop
+sonfirsatlareylul.net.tr
 sonfirsatlarikacirma.duckdns.org
 sonfirsatlarikacirmaadansatinal.com.tr
 sonfirsatlarikacirmaadansatinal.online
