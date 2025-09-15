@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-15 16:10:50 UTC
-# Toplam: 408272 Domain
+# Son Güncelleme: 2025-09-15 17:07:44 UTC
+# Toplam: 408284 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34507,6 +34507,7 @@ aishield.shop
 aiside.shop
 aisimple.top
 aisirif-sfriaiis-sifieidi.lol
+aisizhushou.com
 aisksdjsijdsknshak.icu
 aisleosymn.com
 aisoraplus.com
@@ -80830,6 +80831,7 @@ bucheignaton.top
 buchgsyolcu.is-best.net
 buchnation.com
 buckar.ddns.net
+bucket00716.s3.ap-southeast-2.amazonaws.com
 bucket49.xyz
 bucketconcise.top
 bucketdissertation.top
@@ -84517,6 +84519,7 @@ c4h659.duckdns.org
 c4i29yf.duckdns.org
 c4ishere.ddns.net
 c4los1.xyz
+c4p11.shop
 c4r6ykg82.duckdns.org
 c4r84vd6.duckdns.org
 c4sd1pchctqfo430k0o4mp3.ddns.net
@@ -102656,6 +102659,7 @@ deepface.pro
 deepgraphics.co.za
 deephq.store
 deepislem.22web.org
+deepl-fanyi.com
 deeplearng-deep.com
 deeplemonc.zapto.org
 deeplyseak.top
@@ -222991,6 +222995,7 @@ kexntkrt.net
 kexntkrtuykleme.net
 key-office.ddns.net
 key-said.net
+key2025.oss-cn-hongkong.aliyuncs.com
 key88secu7.wordpress.com
 keya1o1.net
 keyauth.ddns.net
@@ -225565,6 +225570,7 @@ kmhgfgfh.shop
 kmhgfgfs.shop
 kmhgfvgbn.shop
 kmhhgfgh.shop
+kmhhla.top
 kmhizmett.shop
 kmhjythtyrfg.shop
 kmhk.kmsrglm-baskysorglma.click
@@ -327525,6 +327531,7 @@ sonfirsatlarbuguneozelkacirma.online
 sonfirsatlarbuguneozelkacirma.xyz
 sonfirsatlarburda.shop
 sonfirsatlareylul.net.tr
+sonfirsatlareylul.org.tr
 sonfirsatlarikacirma.duckdns.org
 sonfirsatlarikacirmaadansatinal.com.tr
 sonfirsatlarikacirmaadansatinal.online
@@ -342200,6 +342207,7 @@ telegrambackups.com
 telegrambots.me
 telegramco.org
 telegramdesktop.com
+telegramni.com
 telegramos.org
 telegramplus.com.tr
 telegramreport.me
@@ -387998,6 +388006,8 @@ xiaomiprojektor.shop
 xiatcowcao.duckdns.org
 xiaudpvmes.net
 xiazai.muzhiwan.com
+xiazai1.aisizhushou.io
+xiazai2.aisizhushou.io
 xibfkg.top
 xibql.com
 xibsgtusd-yklee.net
@@ -401918,6 +401928,7 @@ youcy2222.codns.com
 youdad.ru
 youdaoah.top
 youdaomjsyu.icu
+youdaoselw.icu
 youdontcare.com
 youdubashi.484100.cn
 youedao.com
@@ -407203,6 +407214,7 @@ znjpebeqb.org
 znjyyfapdz.duckdns.org
 znoy51.duckdns.org
 znqjdnqzdqzfqmfqmkfq.site
+znrce3z.oss-ap-southeast-1.aliyuncs.com
 znre8eisy.duckdns.org
 znrzblgg.duckdns.org
 znse4x.duckdns.org
