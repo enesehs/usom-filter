@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-16 14:15:07 UTC
-! Total: 325090 rules
+! Last modified: 2025-09-16 15:09:15 UTC
+! Total: 325110 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -977,6 +977,7 @@
 *://*.101-sadece-online.app/*
 *://*.101-saliaksam.shop/*
 *://*.101-saliaksms.com/*
+*://*.101-salieylul.site/*
 *://*.101-selank2ee.click/*
 *://*.101-sepetimz.com/*
 *://*.101-site.com.tr/*
@@ -52491,6 +52492,7 @@
 *://*.bireyselnetsubegirisleri.com/*
 *://*.bireyselnettengiristr.com/*
 *://*.bireyselnettrsube.com/*
+*://*.bireyselodeme.com.tr/*
 *://*.bireyselogin.com/*
 *://*.bireyselonline-kampanyakatilim-ozel.ml/*
 *://*.bireyselonline-puankampanya-basvurm-com.cf/*
@@ -88588,6 +88590,7 @@
 *://*.dndenbguneeniylerbrda.cfd/*
 *://*.dndenizbank.com/*
 *://*.dndenoncgldkkmpnnyyial.com/*
+*://*.dndhub.xyz/*
 *://*.dndzh457thdhjk.at/*
 *://*.dndznesdddffzad2023cklis.net/*
 *://*.dnemetest34.tk/*
@@ -90857,6 +90860,7 @@
 *://*.dsgkskklsnjjrcfav.org/*
 *://*.dsgljmlgdsjmls.co.uk/*
 *://*.dsglobal.online/*
+*://*.dsgnfwd.xyz/*
 *://*.dsgregfdb.xyz/*
 *://*.dsgsaldi.com/*
 *://*.dsgsaldi.shop/*
@@ -91634,6 +91638,7 @@
 *://*.dyanoe.com/*
 *://*.dyapikredi.com/*
 *://*.dyaxrotwj.com/*
+*://*.dybep.fun/*
 *://*.dychtech.shop/*
 *://*.dyclaosaurus.info/*
 *://*.dydexchange.website/*
@@ -104319,6 +104324,7 @@
 *://*.elpetronline.xyz/*
 *://*.elpgtextil.com/*
 *://*.elppete.ir/*
+*://*.elprogresofood.com/*
 *://*.elpsfvcbvvvw.xyz/*
 *://*.elpyatirim.com/*
 *://*.elquijotebanquetes.com/*
@@ -112826,6 +112832,7 @@
 *://*.facebookupdate2.com/*
 *://*.facebookupgrade.pro/*
 *://*.facebookxl.com/*
+*://*.facebrowserbonustr.cfd/*
 *://*.facechord.top/*
 *://*.facedomainpc.com/*
 *://*.facedomaintv.com/*
@@ -158023,6 +158030,7 @@
 *://*.iletisim-com.gq/*
 *://*.iletisim-cumhurbaskanligi.com/*
 *://*.iletisim-edevletgirisgovtr.tk/*
+*://*.iletisim-haber-sorgu.cyou/*
 *://*.iletisim-hizli-geri-aktarma.store/*
 *://*.iletisim-hizmetlerim-porta.tk/*
 *://*.iletisim-hzmtleri.art/*
@@ -194054,6 +194062,7 @@
 *://*.masterbrush.top/*
 *://*.mastercarfilo.com/*
 *://*.mastercheck.online/*
+*://*.mastercompu.com/*
 *://*.masterconsultas-secure.com/*
 *://*.masterdow.com/*
 *://*.masterfluence.com.br/*
@@ -196434,6 +196443,7 @@
 *://*.meta-paribu.ml/*
 *://*.meta-payment.xyz/*
 *://*.meta-reklamkutuphanesi.cfd/*
+*://*.meta-software-worldwide.com/*
 *://*.meta-spy.help/*
 *://*.meta-spy365.com/*
 *://*.meta-sso.com/*
@@ -198044,6 +198054,7 @@
 *://*.mksijortam.xyz/*
 *://*.mkstq.top/*
 *://*.mksyynmaska.com/*
+*://*.mktblend.monster/*
 *://*.mktmelo.com/*
 *://*.mkuspt.com/*
 *://*.mkuveytturk.com/*
@@ -234783,6 +234794,7 @@
 *://*.pttgtuv.top/*
 *://*.pttgtv.life/*
 *://*.pttgtv.vip/*
+*://*.pttguiv.com/*
 *://*.pttguiv.top/*
 *://*.pttguncelgiristikla.sbs/*
 *://*.pttguuv.site/*
@@ -239881,6 +239893,7 @@
 *://*.raysubsidise.top/*
 *://*.raytracingengine.com/*
 *://*.razabana.com/*
+*://*.razdy.com/*
 *://*.razesu.com/*
 *://*.razorgap.top/*
 *://*.razorplentiful.top/*
@@ -264744,6 +264757,7 @@
 *://*.stateapis100.com/*
 *://*.statefarmsdispensary.com/*
 *://*.statefinancebank.com/*
+*://*.stategiq.quest/*
 *://*.stateincorporate.com/*
 *://*.stateinfospace.com/*
 *://*.statementquo.com/*
@@ -264753,6 +264767,7 @@
 *://*.statesbi.com/*
 *://*.statesmanintuitive.top/*
 *://*.statesmanuranium.top/*
+*://*.stathub.quest/*
 *://*.static-addtoany.com/*
 *://*.static-cdn-349.net/*
 *://*.static-cdn1.com/*
@@ -274317,6 +274332,7 @@
 *://*.thanhancompony.com/*
 *://*.thanhnienthegioi.com/*
 *://*.thanhowl.cyou/*
+*://*.thanjainatural.com/*
 *://*.thankfragrance.top/*
 *://*.thankfulencyclopedia.top/*
 *://*.thankfulperish.top/*
@@ -281488,6 +281504,7 @@
 *://*.tribepresentaitsi.shop/*
 *://*.tribesdao.com/*
 *://*.tribetrumpet.top/*
+*://*.tribinence.com/*
 *://*.tribncadestektr.com/*
 *://*.triboro-fcv.org/*
 *://*.tribosgroup.com/*
@@ -302112,6 +302129,9 @@
 *://*.windows-patch.ml/*
 *://*.windows-patch.tk/*
 *://*.windows-rars.shop/*
+*://*.windows-software-downloads.com/*
+*://*.windows-software-updates.cc/*
+*://*.windows-software-updates.com/*
 *://*.windows-updata.tk/*
 *://*.windows-updater.com/*
 *://*.windows-updates.com/*
