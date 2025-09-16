@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-16 21:02:03 UTC
-! Total: 325158 rules
+! Last modified: 2025-09-16 22:07:55 UTC
+! Total: 325167 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26472,6 +26472,7 @@
 *://*.aldinaldinfirsatlariredmiyeridi.cyou/*
 *://*.aldinaldinfirsatlarisiredmiburada.sbs/*
 *://*.aldinaldinfirsatlarisiremdiburada.cfd/*
+*://*.aldinaldinfirsats.xyz/*
 *://*.aldinaldinfrsatgitttigdiyorrr.online/*
 *://*.aldinaldingunleri.cfd/*
 *://*.aldinaldingunleri.my/*
@@ -36397,6 +36398,7 @@
 *://*.aybasivdodeme.net/*
 *://*.aybc.so/*
 *://*.aybenimaykizim.cfd/*
+*://*.aybitimi.sbs/*
 *://*.aybsicrrfrsazmni.com/*
 *://*.aycanlar.bid/*
 *://*.aycarskiralama.com/*
@@ -112538,6 +112540,7 @@
 *://*.eylulpereakendekampanyalari.com/*
 *://*.eylulsonfirsatlar.shop/*
 *://*.eylulsonu.com.tr/*
+*://*.eylulsonu.info.tr/*
 *://*.eylulsonu.net.tr/*
 *://*.eylulsonu.org.tr/*
 *://*.eylulsurprizleridevamediyor1.com/*
@@ -132551,6 +132554,7 @@
 *://*.gunceltarife.com/*
 *://*.gunceltasitvergisiodeme.com/*
 *://*.gunceltelefonindirm.online/*
+*://*.gunceltrendyoladres.com/*
 *://*.gunceltrendyoladresim.com/*
 *://*.gunceltrsikayet.net/*
 *://*.gunceltrsikayetler-157.sbs/*
@@ -135907,6 +135911,7 @@
 *://*.haftaninyildizicryptermahserwsynx.me/*
 *://*.haftaninyildizimatkapaaldinaldin.xyz/*
 *://*.haftaninyildizindirime.sbs/*
+*://*.haftaninyildizindirimekle.sbs/*
 *://*.haftaninyildizionlinecampny.xyz/*
 *://*.haftaninyildizisadece.online/*
 *://*.haftaninyildizisinirlicampanyler.xyz/*
@@ -198901,6 +198906,7 @@
 *://*.mobil-siparislerle.com/*
 *://*.mobil-site.com.tr/*
 *://*.mobil-sitesi.com.tr/*
+*://*.mobil-sokteslimatsubesi.cfd/*
 *://*.mobil-sonuc-osym.com.tr/*
 *://*.mobil-sosyaldevletdestegi.com/*
 *://*.mobil-sparamguvende.online/*
@@ -284195,6 +284201,7 @@
 *://*.turkcellsanalmagazalari.com/*
 *://*.turkcellsanalmagazasi.com/*
 *://*.turkcellsanalmarket.com/*
+*://*.turkcellsanalmarket.xyz/*
 *://*.turkcellsanalmarketi.com/*
 *://*.turkcellservices.com/*
 *://*.turkcellservis.net/*
@@ -307224,6 +307231,7 @@
 *://*.wwwbimcelllsonhaber.net/*
 *://*.wwwbimtrcell.com/*
 *://*.wwwbinancecom.com/*
+*://*.wwwbinancetr.mom/*
 *://*.wwwbireyselpayfix.com.tr/*
 *://*.wwwbireyselpayfix.com/*
 *://*.wwwbitci.com/*
@@ -321773,6 +321781,7 @@
 *://*.zaaf.pro/*
 *://*.zaaf.us/*
 *://*.zaafcheck.fun/*
+*://*.zaafcheck.info/*
 *://*.zaafcheck.online/*
 *://*.zaafchecker.xyz/*
 *://*.zaafsizol.online/*
