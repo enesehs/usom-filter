@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-16 15:09:15 UTC
-! Total: 325110 rules
+! Last modified: 2025-09-16 16:11:21 UTC
+! Total: 325123 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1092,6 +1092,7 @@
 *://*.101alisverisredmiburasi.sbs/*
 *://*.101alisverisredmiburasidir.sbs/*
 *://*.101anindakapinda-com-tr.cfd/*
+*://*.101anindakapinda-com-tr.sbs/*
 *://*.101anindakapinda-com.cfd/*
 *://*.101aonlinegiris.app/*
 *://*.101aonlinesepet.com.tr/*
@@ -41485,6 +41486,7 @@
 *://*.basvurusuyap.site/*
 *://*.basvurusuyap.xyz/*
 *://*.basvurusuyapailegenc.pro/*
+*://*.basvurutakip.org/*
 *://*.basvurutakipciniz.com/*
 *://*.basvurutakipsistem.tk/*
 *://*.basvurutalep-tradresi.com/*
@@ -73773,6 +73775,7 @@
 *://*.cooksalution.top/*
 *://*.cooksolicitor.top/*
 *://*.cooktime.click/*
+*://*.cooktools.pro/*
 *://*.cooktracking.com/*
 *://*.cookzoo.xyz/*
 *://*.cool-group.ae/*
@@ -115327,6 +115330,7 @@
 *://*.finans-bank-tr.com/*
 *://*.finans-bankankethediyesi.com/*
 *://*.finans-bankonline.com/*
+*://*.finans-basvuru.cloud/*
 *://*.finans-basvuru.com/*
 *://*.finans-basvurugiris.com/*
 *://*.finans-beyni.online/*
@@ -135936,6 +135940,7 @@
 *://*.haftaninyildizlarindasongunbugun.xyz/*
 *://*.haftaninyildizlarindebugunler.cfd/*
 *://*.haftaninyildizlarindebugunler.sbs/*
+*://*.haftaninyildizlarinideneyin.com/*
 *://*.haftaninyildizlerien.cfd/*
 *://*.haftaninyildizlerien.click/*
 *://*.haftaninyildizlerien.sbs/*
@@ -136729,6 +136734,7 @@
 *://*.hakold.ru/*
 *://*.hakoorned34.net/*
 *://*.hakozye.com/*
+*://*.hakreklam.lol/*
 *://*.haksikayetvar.com/*
 *://*.haksuara.com/*
 *://*.haktalepbasvuru.com/*
@@ -157820,6 +157826,7 @@
 *://*.ile-guvenli-odemeniyap.com/*
 *://*.ile-guvenli-odemeyap.com/*
 *://*.ile-guvenli-siparis-ver.com/*
+*://*.ile-guvenli-siparisver.com/*
 *://*.ile-guvenlial.com/*
 *://*.ile-guvenlialisverisyap.com/*
 *://*.ile-guvenlice-islemini-yap.com/*
@@ -193973,6 +193980,7 @@
 *://*.masalignler.xyz/*
 *://*.masallahbufaysbooka.org/*
 *://*.masallahbumetaya.org/*
+*://*.masallahreklam.lat/*
 *://*.masallahs.net/*
 *://*.masaltombalikhikayeleri.xyz/*
 *://*.masalyardimlasmavakfi.site/*
@@ -200717,6 +200725,7 @@
 *://*.mobisummer.com/*
 *://*.mobito.net/*
 *://*.mobitr-ilan.com.tr/*
+*://*.mobitr-ilanlar.com.tr/*
 *://*.mobius-group.com/*
 *://*.mobjl-web.shop/*
 *://*.mobjldenizim.net/*
@@ -245680,6 +245689,7 @@
 *://*.saglikuygulamasi4.com/*
 *://*.saglikuygulamasi5.com/*
 *://*.saglikvedestekzamani.com/*
+*://*.sagolasin.help/*
 *://*.sagotravel.com.tr/*
 *://*.sagrko.tw/*
 *://*.sagsaglimbionayalsaydkkiyidibeaha.xyz/*
@@ -275605,6 +275615,7 @@
 *://*.tiqqcdn.com/*
 *://*.tiramisu.it/*
 *://*.tiramoprio.net/*
+*://*.tirbinance.com.tr/*
 *://*.tircekici.com/*
 *://*.tire1.top/*
 *://*.tirechinecarpet.pw/*
@@ -299679,6 +299690,7 @@
 *://*.web-kapimizda.com.tr/*
 *://*.web-kapinizda.com.tr/*
 *://*.web-katilim.one/*
+*://*.web-katilim.online/*
 *://*.web-kayit-internet.site/*
 *://*.web-kayit-login.xyz/*
 *://*.web-kredibasvuruformu.ml/*
@@ -300068,6 +300080,7 @@
 *://*.webden-aidat-odemeleri.net/*
 *://*.webden-aidat-odemeleri.org/*
 *://*.webden-basvuru-3000tl-sosyaldestek.com/*
+*://*.webden-basvurun.online/*
 *://*.webden-edevlet-iadesi-govtr.com/*
 *://*.webden-giris-devlet-aidatt-iadesi-gov-tr.com/*
 *://*.webden-girisim-devlet-aidatt-iadesi-gov-tr.com/*
