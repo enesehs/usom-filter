@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-16 17:07:32 UTC
-# Toplam: 408451 Domain
+# Son Güncelleme: 2025-09-16 18:13:16 UTC
+# Toplam: 408455 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -141629,6 +141629,7 @@ eylemvakfi.org
 eylhgsm.com
 eylibby-giseotoyoletiket.is-best.net
 eyll-frst.site
+eylldekarcada.com
 eyllfirsatlinda1709indirimlerimiz.com
 eyllilerkazancli.com
 eylll-frst.site
@@ -175183,6 +175184,7 @@ harikalardiyarikampnayasi.icu
 harikalardiyarikampnayasi.my
 harikalardiyarinageldin.blogspot.com
 harikalardiyarindangelen.cfd
+harikalardiyariyaninda.top
 harikalargunufirsatlari.cfd
 harikalargunufirsatlari.pics
 harikalargunukampanaar.cfd
@@ -266255,6 +266257,7 @@ ogotewxtcyrbuhtnx.pw
 ogp.sakran.tech
 ogpeiwnuxaoxu.ddns.net
 ograniitsllemeenum.com
+ogren-srgula-sistemden.cyou
 ogrenci-sistem-odeme.online
 ogrenci-sistem-odeme.shop
 ogrencibasvuru-hizmeti.org
@@ -292101,6 +292104,7 @@ pttgovg184.top
 pttgovgoc.buzz
 pttgovgoc.cfd
 pttgovgoc.top
+pttgovhelpstr.help
 pttgovhelptr.help
 pttgovhomes.help
 pttgovi-tr.cc
