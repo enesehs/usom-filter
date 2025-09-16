@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-16 07:02:04 UTC
-# Toplam: 408333 Domain
+# Son Güncelleme: 2025-09-16 08:12:46 UTC
+# Toplam: 408349 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9425,6 +9425,7 @@
 278-7-7-1-1.com
 27802482-46-20180725142719.webstarterz.com
 2781chinookwindsdrive.com
+278395671.cloud
 2785c40f.dkje92kw.shop
 2793130-4310498.com
 279484.cloud
@@ -14615,6 +14616,7 @@
 56017t872r77340.duckdns.org
 560glqg.duckdns.org
 560npmc8n.duckdns.org
+5612165489231321.store
 561236521.site
 5612wpktcpkdsfu.ddns.net
 5614198s61ad6s48a916.site
@@ -37087,6 +37089,7 @@ aktarim-hizmetleri.site
 aktarim-sorgula-ve-al.site
 aktarim-sorgulama-ekrani.online
 aktarim-yapma-ekrani.site
+aktarim.sbs
 aktarimekrani.cfd
 aktarimeportali.duckdns.org
 aktarimhizmetlerigirispageiade.site
@@ -38515,6 +38518,7 @@ alaneeq.zapto.org
 alangirisakontrol.app
 alanhaber.club
 alanhaber.website
+alanindaenhizli.sbs
 alankacanfirsat.com.tr
 alankacanfirsat.online
 alankacanfirsat.xyz
@@ -55279,6 +55283,7 @@ bargainthoughtful.top
 bargestdy.top
 barigec.is-best.net
 barillacia.org
+barillamagaza.cfd
 barillastore.cfd
 baris-yukleme.22web.org
 barisevim.com
@@ -112897,6 +112902,7 @@ dijitalwebgiris-isbankbireysel.com
 dijitalwebgiris-ziraat.com
 dijitalwebgiris-ziraatbireysel.com
 dijitalwebgiris-ziraatkampanya.com
+dijitalwebgiris-ziraatkampanyamobil.com
 dijitalwebgiris-ziraatmobil.com
 dijitalwebgirisin-denizacik.com
 dijitalwebgirisler-ziraatmobil.com
@@ -170734,6 +170740,7 @@ haftaninyildiziaktuel.shop
 haftaninyildizicampany.xyz
 haftaninyildizicryptermahserwsynx.me
 haftaninyildizimatkapaaldinaldin.xyz
+haftaninyildizindirime.sbs
 haftaninyildizionlinecampny.xyz
 haftaninyildizisadece.online
 haftaninyildizisinirlicampanyler.xyz
@@ -180149,6 +180156,7 @@ herkese10gbhediyeinternet.digital
 herkese20gbveriyoruz.com
 herkese5000tldestek.epizy.com
 herkeseacikhaldegelecekhaber.co.vu
+herkesebildiri.com
 herkesebirden.com
 herkesebizden20gbnet.com
 herkesedestek5000tl.com
@@ -300447,6 +300455,7 @@ redmideindirimdesongun.cfd
 redmideindirimdesongun.icu
 redmideindirimdesongun.my
 redmideindirimdesongun.sbs
+redmieylul16.club
 redmieylul16.online
 redmifirsatlari.com.tr
 redmifirsatlari.xyz
@@ -300561,6 +300570,7 @@ reesconsulting.co.za
 reetutrutttttttttttr.cfd
 reevakogpeoxivu.ddns.net
 reeven-22389.portmap.host
+ref.redmieylul16.info
 ref.tbfull.com
 refa.thetupaus.com
 refaccionarialobo.com
@@ -300922,6 +300932,7 @@ reklamlara1o1sinirli.duckdns.org
 reklamlardamn.xyz
 reklamlarhayat.net
 reklamlink26.vercel.app
+reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
 reklamm.cf
 reklamnurgaz.icu
@@ -325028,6 +325039,7 @@ slfhksfhs.click
 slfkmkcmkrmtkrmckzmntmdmsmt.xyz
 slflkckmcllzkfkmckzmm.store
 slfmhdglsfmjdgs.com
+slfrsstlarerstlarkpidaalddladnnkrgorcastsz.tech
 slfsdvtt-dvtl.com
 slfze.com
 slfzoidyxw.duckdns.org
@@ -348964,6 +348976,7 @@ tr-jamerbayidyson.online
 tr-jethizmet.com.tr
 tr-jetsiparisler.com.tr
 tr-jzdanlabasla.com
+tr-k-a-m-p.sbs
 tr-kadinasiddetehayir.epizy.com
 tr-kadinasiddeteson.gq
 tr-kampanya-a.website
@@ -353603,6 +353616,7 @@ trpttgovf.cc
 trpttgovgv.cc
 trpttgovi.cc
 trpttgovk.cc
+trpttgovkx.cc
 trpttgovl.cc
 trpttgovmv.cc
 trpttgovo.cc
@@ -371796,6 +371810,7 @@ vkflaiaddenburadahazir.net
 vkflaiaddenekhazir.com
 vkflaiaddennebassvur.com
 vkflaideelerinbasladi.com
+vkflarkadester.com
 vkflgeml.duckdns.org
 vkflhilanuran.com
 vkfloginkredihesabim.click
@@ -377191,6 +377206,7 @@ website6262552.nicepage.io
 website6313040.nicepage.io
 website6495249.nicepage.io
 website6563297.nicepage.io
+website6565812.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
 websitekampanyasi.tk
