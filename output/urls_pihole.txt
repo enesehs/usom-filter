@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 21:02:04 UTC
-# Toplam: 408708 Domain
+# Son Güncelleme: 2025-09-17 22:08:15 UTC
+# Toplam: 408717 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -55227,6 +55227,7 @@ baolresnacamits.duckdns.org
 baomoi.vnptnet.info
 baoshlda.com
 bap19w.duckdns.org
+bapfess.click
 bapi-binance.com
 bapkkau-amz2021.ddns.net
 baploipsi.site
@@ -78500,6 +78501,7 @@ bots.gxz.me
 botscriptshop.com
 botslabturkiye.com
 botslabturkiye.online
+botsunuz.cfd
 botsworkingnets.net
 bottassa.site
 bottastr.top
@@ -107422,6 +107424,7 @@ denizligunlerv1v2kredimonay.co.vu
 denizlihankidofederasyonu.com
 denizlihayatlar.com
 denizliherzamanyaninda.com
+denizliikart.net
 denizliindirim.store
 denizlikart.tk
 denizlikartyukle.net
@@ -129900,6 +129903,7 @@ efsanekasimburada.gtxpros.best
 efsanekasimgeldi.shop
 efsanekasimindirimleri-online-alisveris-ozel-indirimler.online
 efsanekasimindirimleri-online-alisveris-ozel-indirimler.shop
+efsanekasimindirmleribizdebasladi.online
 efsanekasimkatilimkampanyasi.com
 efsanekasimsonufirsatlari.com
 efsanekatilimfirsatlarin.com
@@ -149536,6 +149540,7 @@ flrsatcumartisndnedengeldi.store
 flrsatdedikgeldikgittiksonsuz.shop
 flrsatdolukampanyalardangeldik.art
 flrsaterkeslegulsendeoluriyok.world
+flrsatgelsinmisana.duckdns.org
 flrsatgunleri1o1.com
 flrsathabersizhelesenkimsindebanauat.world
 flrsathadibakalimdedicagkeb.store
@@ -238126,6 +238131,7 @@ m23kemal1923.com
 m24i0uv4r.duckdns.org
 m269acx40dw.gleeze.com
 m283xs7rz.mloteprac.ru
+m2anabasbasbnc-2025.click
 m2d4berdzej8x1o.info
 m2er5hmpkdwpifctm21j7p7.ddns.net
 m2fes-apicookies.com
@@ -306894,6 +306900,7 @@ sadecefgirstlaridszass.blogspot.com
 sadecefirsat101de.duckdns.org
 sadecefirsatlar.com
 sadecefirsatlar1o1de.duckdns.org
+sadecefrstldburdsa.duckdns.org
 sadecegeldifirsat.duckdns.org
 sadecegir.gq
 sadecegunlukalisveris.com.tr
@@ -306949,6 +306956,7 @@ sadeceonllinea1o1.duckdns.org
 sadeceonlndsfirsat.sbs
 sadeceonlneozelfrsatlara1o1.duckdns.org
 sadeceonlnkamp.duckdns.org
+sadeceonlnsdfirsatlarsa.duckdns.org
 sadecepera.fun
 sadecesanaozelindirimler.com
 sadecesen.online
@@ -355979,6 +355987,7 @@ turkcellsanalmagaza.xyz
 turkcellsanalmagazalari.com
 turkcellsanalmagazasi.com
 turkcellsanalmarket.com
+turkcellsanalmarket.sbs
 turkcellsanalmarket.xyz
 turkcellsanalmarketi.com
 turkcellservices.com

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 21:02:04 UTC
-! Total: 325334 rules
+! Last modified: 2025-09-17 22:08:15 UTC
+! Total: 325340 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -39122,6 +39122,7 @@
 *://*.baolehome.com/*
 *://*.baoshlda.com/*
 *://*.baossdigital.com/*
+*://*.bapfess.click/*
 *://*.bapi-binance.com/*
 *://*.baploipsi.site/*
 *://*.baptistown-nj.com/*
@@ -59598,6 +59599,7 @@
 *://*.botscriptshop.com/*
 *://*.botslabturkiye.com/*
 *://*.botslabturkiye.online/*
+*://*.botsunuz.cfd/*
 *://*.botsworkingnets.net/*
 *://*.bottassa.site/*
 *://*.bottastr.top/*
@@ -82598,6 +82600,7 @@
 *://*.denizlihankidofederasyonu.com/*
 *://*.denizlihayatlar.com/*
 *://*.denizliherzamanyaninda.com/*
+*://*.denizliikart.net/*
 *://*.denizliindirim.store/*
 *://*.denizlikart.tk/*
 *://*.denizlikartyukle.net/*
@@ -102055,6 +102058,7 @@
 *://*.efsanekasimgeldi.shop/*
 *://*.efsanekasimindirimleri-online-alisveris-ozel-indirimler.online/*
 *://*.efsanekasimindirimleri-online-alisveris-ozel-indirimler.shop/*
+*://*.efsanekasimindirmleribizdebasladi.online/*
 *://*.efsanekasimkatilimkampanyasi.com/*
 *://*.efsanekasimsonufirsatlari.com/*
 *://*.efsanekatilimfirsatlarin.com/*
@@ -191621,6 +191625,7 @@
 *://*.m1yds8goup.com/*
 *://*.m2.tc/*
 *://*.m23kemal1923.com/*
+*://*.m2anabasbasbnc-2025.click/*
 *://*.m2d4berdzej8x1o.info/*
 *://*.m2fes-apicookies.com/*
 *://*.m2hyon.com/*
@@ -284357,6 +284362,7 @@
 *://*.turkcellsanalmagazalari.com/*
 *://*.turkcellsanalmagazasi.com/*
 *://*.turkcellsanalmarket.com/*
+*://*.turkcellsanalmarket.sbs/*
 *://*.turkcellsanalmarket.xyz/*
 *://*.turkcellsanalmarketi.com/*
 *://*.turkcellservices.com/*
