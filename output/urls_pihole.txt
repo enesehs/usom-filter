@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 19:01:50 UTC
-# Toplam: 408705 Domain
+# Son Güncelleme: 2025-09-17 20:09:10 UTC
+# Toplam: 408706 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -163913,6 +163913,7 @@ gorduklerine-ilkdefa-inanmayanlara-buralara-kaldiklarinda.top
 gordukleriniz-fazla-kalmaz-hemen-almaya-bakim.com
 gordumbuldum.xyz
 gordumkapiverdim.xyz
+gordumkaptim.xyz
 gordumsepeteattim.top
 gordun-kacmasin-bence.com
 gordun-kimin-icin-oldugunu.com
