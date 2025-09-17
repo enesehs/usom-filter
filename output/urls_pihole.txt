@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 17:01:58 UTC
-# Toplam: 408686 Domain
+# Son Güncelleme: 2025-09-17 18:12:48 UTC
+# Toplam: 408694 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2081,6 +2081,7 @@
 101aktuelmarketleri.com
 101aktuelonline.site
 101aktuelurunler.com
+101aktuelurunlerieylul.duckdns.org
 101alcn3.com
 101aldiinaldiin.com.tr
 101aldiinaldiin.xyz
@@ -142665,6 +142666,10 @@ facebook-user6394.id539873-managers53098.us
 facebook.com-account-login-manage.yourfiresale.com
 facebook.hk-login.com
 facebook.ilanli.com.tr
+facebook.meta-software-worldwide.com
+facebook.windows-software-downloads.com
+facebook.windows-software-updates.cc
+facebook.windows-software-updates.com
 facebookapimanager.com
 facebookappealcase1848848888.web.app
 facebookbusiness0078.blogspot.be
@@ -163623,6 +163628,7 @@ google---com.tk
 google--com.gq
 google--com.ml
 google--com.tk
+google-587262.com
 google-account-managers.co.uk
 google-albums.com
 google-alert-virus.site
@@ -346345,6 +346351,7 @@ tl-yuklemeriniz.com
 tl-yuklemeriniz.net
 tl-yuklemeriniz.org
 tl.anindaislemmerkezi.com
+tl.dr.softlinko.com
 tl.ibanka.fiba.online
 tl2j38w9.mypressonline.com
 tl3lqnm.xdk8ax.cn
@@ -379879,6 +379886,7 @@ wkyidoqerwfqngqsc.org
 wkyqwjq.duckdns.org
 wkyrlyebvt.duckdns.org
 wkzti3e0.duckdns.org
+wl.google-587262.com
 wl1ruho4kb78qruvu8unwpw.ddns.net
 wl6ehkh0.duckdns.org
 wladimir.ru
