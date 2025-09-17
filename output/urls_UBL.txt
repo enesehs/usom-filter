@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 07:01:42 UTC
-! Total: 325181 rules
+! Last modified: 2025-09-17 09:09:49 UTC
+! Total: 325200 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1256,6 +1256,7 @@
 *://*.101frsatlararwq.click/*
 *://*.101frsatlararwq.com/*
 *://*.101frsatlararwq.live/*
+*://*.101frsatlargeldi101.online/*
 *://*.101gecmarket.com/*
 *://*.101geldi.online/*
 *://*.101geldikapida.com/*
@@ -2801,6 +2802,7 @@
 *://*.1425165546698999889993443433341.xyz/*
 *://*.1425165546698999889993443433342.xyz/*
 *://*.1425165546698999889993443433343.xyz/*
+*://*.1425165546698999889993443433348.xyz/*
 *://*.1425415588560.xyz/*
 *://*.1425462659652960.xyz/*
 *://*.1425516554564480.xyz/*
@@ -13177,6 +13179,7 @@
 *://*.a101-ekonomikfiyatadresleri.xyz/*
 *://*.a101-ekonomiksahaneindirimler.com/*
 *://*.a101-extra-alisverisyap.com/*
+*://*.a101-eylulden-firsatlar.online/*
 *://*.a101-eylulfirsatlari.site/*
 *://*.a101-eylulsanalmarketim.com/*
 *://*.a101-eylulsanalmarketim.net/*
@@ -14093,6 +14096,7 @@
 *://*.a101onlinemarketim.com/*
 *://*.a101onlinemobil.com/*
 *://*.a101onlinemobil.xyz/*
+*://*.a101onlineozel.cfd/*
 *://*.a101onlineozel.com/*
 *://*.a101onlineozel.online/*
 *://*.a101onlineozelim.com/*
@@ -23638,6 +23642,7 @@
 *://*.akbiryslkmpnya.com/*
 *://*.akbizmezbitemez.com/*
 *://*.akbkatilimtalebleriniz.com/*
+*://*.akbknkk.xyz/*
 *://*.akbkonline.com/*
 *://*.akbktk.com/*
 *://*.akbktr.com/*
@@ -26547,6 +26552,7 @@
 *://*.aldinaldinkatalog.info/*
 *://*.aldinaldinkatalog.sbs/*
 *://*.aldinaldinkatalog.xyz/*
+*://*.aldinaldinkeredmiyerisi.cfd/*
 *://*.aldinaldinkeredmiyerisi.sbs/*
 *://*.aldinaldinn-a101.sbs/*
 *://*.aldinaldinn.com.tr/*
@@ -105732,6 +105738,7 @@
 *://*.enclosely.info/*
 *://*.enclosureconserve.top/*
 *://*.enclosureedcible.top/*
+*://*.encokkampanya.com/*
 *://*.encoksevilenurunlersizlerlesepette.com.tr/*
 *://*.encoksevilenurunlersizlerlesepette.xyz/*
 *://*.enconfhz.com/*
@@ -118729,6 +118736,7 @@
 *://*.flrstlrkacirmayi9tmmz.xyz/*
 *://*.flrstlrlkacirmayitemmuz.xyz/*
 *://*.flrstnburda.shop/*
+*://*.flrstrkapinizagelmis.click/*
 *://*.flrsttrrhemenkapinagelmis.click/*
 *://*.flrtsapersembedeamaolsadahem.store/*
 *://*.flrtsapersembedeasasdmaolsadahem.store/*
@@ -132075,6 +132083,7 @@
 *://*.guncel-basvurularburda.org/*
 *://*.guncel-bilgi.site/*
 *://*.guncel-bonuspuan-tr.space/*
+*://*.guncel-buradan-sorgulama.cyou/*
 *://*.guncel-checkout.ml/*
 *://*.guncel-deniz-islemlerim.net/*
 *://*.guncel-deniz-webislemleri.net/*
@@ -163187,6 +163196,8 @@
 *://*.intrekatifvergindairesi.net/*
 *://*.intrekatifvergindaresi.net/*
 *://*.intrenet-basvur.click/*
+*://*.intrenet-basvur.info/*
+*://*.intrenet-basvurum.click/*
 *://*.intrenetbireysel.com/*
 *://*.intrenetbireysellsubeler.com/*
 *://*.intrenetcrm.com/*
@@ -184628,6 +184639,7 @@
 *://*.kriptobagis.com/*
 *://*.kriptoberksite.site/*
 *://*.kriptoex.com/*
+*://*.kriptofirsatlarinikacirma.store/*
 *://*.kriptofirsatlarinikacirma.xyz/*
 *://*.kriptogelecek.top/*
 *://*.kriptogundem.top/*
@@ -203690,6 +203702,7 @@
 *://*.muhtarcim.com/*
 *://*.muhtarhalasi.net/*
 *://*.muhtemelenagliyosunuz.cfd/*
+*://*.muhtemelenevet.cfd/*
 *://*.muhtemelenfirsat7.com/*
 *://*.muhtemelfirsatlar.com/*
 *://*.muhtemesemkampanlar.cfd/*
@@ -213425,6 +213438,7 @@
 *://*.oldublbusfrgldkndlrms.cfd/*
 *://*.oldubuseferreess.cyou/*
 *://*.oldumanim.top/*
+*://*.oldumusimdi.quest/*
 *://*.oldunification.top/*
 *://*.oled8kultra.ru/*
 *://*.oled8kultra.site/*
@@ -234301,6 +234315,7 @@
 *://*.pttgov-trf.top/*
 *://*.pttgov-trg.top/*
 *://*.pttgov-trgova.cyou/*
+*://*.pttgov-trgovai.click/*
 *://*.pttgov-trh.top/*
 *://*.pttgov-trhg.top/*
 *://*.pttgov-tri.top/*
@@ -261518,6 +261533,7 @@
 *://*.soprodns.ru/*
 *://*.soqbzbbb.com/*
 *://*.soquare.com/*
+*://*.sor-bekle-aktar.cyou/*
 *://*.sor-odemeler.online/*
 *://*.soranada-bizlerde-uzaktaydik-simdide-geliriz.com/*
 *://*.soranobest.space/*
@@ -261890,6 +261906,7 @@
 *://*.sorguveodemesistemi.com/*
 *://*.sorguveodemesistemleri.com/*
 *://*.sorguweb-tr.online/*
+*://*.sorgux.com/*
 *://*.sorgux.pro/*
 *://*.sorguxproject.xyz/*
 *://*.sorguyap.com/*
@@ -282503,6 +282520,7 @@
 *://*.trpttgovl.cc/*
 *://*.trpttgovmv.cc/*
 *://*.trpttgovo.cc/*
+*://*.trpttgovot.cc/*
 *://*.trpttgovp.cc/*
 *://*.trpttgovres.help/*
 *://*.trpttgovrr.ink/*
@@ -307654,6 +307672,7 @@
 *://*.wwwpariburipplehediyeniz.com/*
 *://*.wwwparibushibahediye.com/*
 *://*.wwwparibuyilsonukampanyagiris123.com/*
+*://*.wwwpolis155tr.online/*
 *://*.wwwprbkatilimkampanya.com/*
 *://*.wwwprbramazanozeletknlk.com/*
 *://*.wwwpro-btcturk.com/*
