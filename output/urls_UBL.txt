@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 11:01:44 UTC
-! Total: 325201 rules
+! Last modified: 2025-09-17 13:23:22 UTC
+! Total: 325226 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1256,6 +1256,8 @@
 *://*.101frsatlararwq.click/*
 *://*.101frsatlararwq.com/*
 *://*.101frsatlararwq.live/*
+*://*.101frsatlargeldi.com/*
+*://*.101frsatlargeldi.xyz/*
 *://*.101frsatlargeldi101.online/*
 *://*.101gecmarket.com/*
 *://*.101geldi.online/*
@@ -29772,6 +29774,7 @@
 *://*.anindavakifkredipara.xyz/*
 *://*.anindavergiodeme.net/*
 *://*.anindayatirim.xyz/*
+*://*.anindayatirimkredimonayli.site/*
 *://*.anindayukleme.com/*
 *://*.anindayukleme.net/*
 *://*.anindayuklemebonusu.net/*
@@ -36456,6 +36459,7 @@
 *://*.aydinyarinlar.org/*
 *://*.aydngunclgiris.shop/*
 *://*.aydogdumdanree.xyz/*
+*://*.aydonumnoktasi.sbs/*
 *://*.aydytdati-oinlinlneilsmler.xyz/*
 *://*.ayegitmkurumlari.net/*
 *://*.ayeminesnoniesdies.site/*
@@ -36583,6 +36587,7 @@
 *://*.aynigunmarket.com.tr/*
 *://*.aynigunmarket.online/*
 *://*.aynigunode.com/*
+*://*.aynigunsanagelsin.cfd/*
 *://*.aynigunsorgula.net/*
 *://*.aynigunteslimatlisiparislerinizihemensiparisedinalingelsin.net/*
 *://*.ayniigun-kapindaa.com/*
@@ -40170,6 +40175,7 @@
 *://*.basvursnr.xyz/*
 *://*.basvursnx.com.tr/*
 *://*.basvursnx.xyz/*
+*://*.basvursnz.xyz/*
 *://*.basvursorgulafastgir.com/*
 *://*.basvurspn.xyz/*
 *://*.basvurspr.online/*
@@ -53853,6 +53859,7 @@
 *://*.bizimilerandeval.com/*
 *://*.bizimilerandeval.net/*
 *://*.bizimilerandeval.org/*
+*://*.bizimislemapp.com/*
 *://*.bizimislemleronline.com/*
 *://*.bizimkatilim.com/*
 *://*.bizimkiler.site/*
@@ -60894,6 +60901,7 @@
 *://*.bsvrrkmpnyaaaprmsyn.click/*
 *://*.bsvrrkmpnyaaaprmsynn.click/*
 *://*.bsvrrprmsynnnkmpnyaa.click/*
+*://*.bsvrrrkmpnyaaaafinnss.click/*
 *://*.bsvrrrkmpnyaaaqnbb.click/*
 *://*.bsvrrrkmpnyaaprmsynn.click/*
 *://*.bsvrrrkmpnyaaqnb.click/*
@@ -67278,6 +67286,7 @@
 *://*.cekilis-ziraatte.com/*
 *://*.cekilis.app/*
 *://*.cekilis.fun/*
+*://*.cekilis.lat/*
 *://*.cekilis.xyz/*
 *://*.cekilis1.lat/*
 *://*.cekilis2020deniz.com/*
@@ -77765,6 +77774,7 @@
 *://*.datingassassin.top/*
 *://*.datingautgraphic.top/*
 *://*.datinggirlsweetmy.info/*
+*://*.datingpride.com/*
 *://*.datingwork.top/*
 *://*.datos-cliente.com/*
 *://*.datos.com.tw/*
@@ -115865,6 +115875,7 @@
 *://*.finnewstoday.com/*
 *://*.finnflowtech.com/*
 *://*.finnigans.org.uk/*
+*://*.finnnnnasabsvr.click/*
 *://*.finnsbanksa.click/*
 *://*.finnsbnkgrshmnoekdksmsk.click/*
 *://*.finnsktlmislemlerim.com/*
@@ -143812,6 +143823,7 @@
 *://*.hepbirliktekazanalim.com/*
 *://*.hepbirlikteturkiyemiz20gb.com/*
 *://*.hepbirlikteturkiyeyiz.com/*
+*://*.hepbitki.online/*
 *://*.hepbonus.click/*
 *://*.hepdestek-tamdestek.com/*
 *://*.hepdestektamdestek.ga/*
@@ -149491,6 +149503,7 @@
 *://*.hizlisigortanyeni.com.tr/*
 *://*.hizlisiiparis1agustos.cloud/*
 *://*.hizlisilemadresinizadiatburda.online/*
+*://*.hizlisilemrsnede.xyz/*
 *://*.hizlisipairslerindne21temmuz.cloud/*
 *://*.hizlisipariler18bucukda.cloud/*
 *://*.hizlisipariousturunanlik.cloud/*
@@ -150855,6 +150868,7 @@
 *://*.hokkabazakjzdanisflesk.cloud/*
 *://*.hokkakbryselfnansbsvuru.store/*
 *://*.hokkakbryselfnansbsvuru.xyz/*
+*://*.hokkkicanonlinegrnti.cloud/*
 *://*.hokkobaz.host/*
 *://*.hokkoriidol.com/*
 *://*.hokustiverglodit.net/*
@@ -163198,6 +163212,7 @@
 *://*.intrenet-basvur.click/*
 *://*.intrenet-basvur.info/*
 *://*.intrenet-basvurum.click/*
+*://*.intrenet-bsvrm.click/*
 *://*.intrenetbireysel.com/*
 *://*.intrenetbireysellsubeler.com/*
 *://*.intrenetcrm.com/*
@@ -171310,6 +171325,7 @@
 *://*.jadakennel.com/*
 *://*.jaddbdopkbswsca.ru/*
 *://*.jadecoal.cyou/*
+*://*.jadefjord.com/*
 *://*.jadeluminate.site/*
 *://*.jadewoodfarm.com/*
 *://*.jadl-or.com/*
@@ -213545,6 +213561,7 @@
 *://*.olsunbudabizdenolsun.net/*
 *://*.olsundugelindeberaberolsun.net/*
 *://*.olsungelsindebitsin.xyz/*
+*://*.olsunyahu.homes/*
 *://*.oltadabaharkampanyasis101.xyz/*
 *://*.oltali.com.tr/*
 *://*.oluchezstur19subattsasip.cloud/*
@@ -219920,6 +219937,7 @@
 *://*.overdriventool.ru/*
 *://*.overduesalutation.top/*
 *://*.overduesyndrome.top/*
+*://*.overend.online/*
 *://*.overflowdetergent.top/*
 *://*.overflowindictment.top/*
 *://*.overflowtub.top/*
@@ -240074,6 +240092,7 @@
 *://*.rdhrmdkdjd.com/*
 *://*.rdhwy.com/*
 *://*.rdingex10.com/*
+*://*.rdisp.my/*
 *://*.rdjpmr.top/*
 *://*.rdmhml.top/*
 *://*.rdmsi.com/*
@@ -256957,6 +256976,7 @@
 *://*.siparis-onayli-115553.com/*
 *://*.siparis-onayli-115554.com/*
 *://*.siparis-onayli-115555.com/*
+*://*.siparis-onayli-115556.com/*
 *://*.siparis-onayli-115558.com/*
 *://*.siparis-paramguvende.com/*
 *://*.siparis-pay.online/*
@@ -269409,6 +269429,7 @@
 *://*.takipsorgu-ihlal-tr.online/*
 *://*.takipsorgu-ihlal.online/*
 *://*.takipsorgu.online/*
+*://*.takipsorgula.club/*
 *://*.takipsorgula.com/*
 *://*.takipsorgulamalari.online/*
 *://*.takipsorgulamasi.online/*
@@ -274113,6 +274134,7 @@
 *://*.tescillisorgu.xyz/*
 *://*.tesckkallfrubdf.ru/*
 *://*.tesecuuweqo.shop/*
+*://*.tesekkurler.baby/*
 *://*.tesembor.ru/*
 *://*.tesets.live/*
 *://*.tesivisi11.top/*
@@ -282522,6 +282544,7 @@
 *://*.trpttgovmv.cc/*
 *://*.trpttgovo.cc/*
 *://*.trpttgovot.cc/*
+*://*.trpttgovou.cc/*
 *://*.trpttgovp.cc/*
 *://*.trpttgovres.help/*
 *://*.trpttgovrr.ink/*
@@ -287522,6 +287545,7 @@
 *://*.txxtxraxxmecxer.net/*
 *://*.txy1d0b1f.sbs/*
 *://*.txybabatop1de.sbs/*
+*://*.txyfirarda.sbs/*
 *://*.ty-aidat-iade.ml/*
 *://*.ty-alimlar.com.tr/*
 *://*.ty-hizmet.online/*
@@ -310342,6 +310366,7 @@
 *://*.xn--flyps-z1a.com/*
 *://*.xn--fnanskeyfi-87a.com/*
 *://*.xn--formbasvuru-annda-pvc.com/*
+*://*.xn--frsaarara-vpb.com/*
 *://*.xn--frsat-1-0-1-zzb.com.tr/*
 *://*.xn--frsat-dunyasinda-inanilmaz-indirimler-hrf.online/*
 *://*.xn--frsat-dunyasinda-inanilmaz-indirimler-hrf.store/*
