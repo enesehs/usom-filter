@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 05:01:57 UTC
-# Toplam: 408504 Domain
+# Son Güncelleme: 2025-09-17 06:14:17 UTC
+# Toplam: 408508 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39287,6 +39287,7 @@ aldinaldinkatalog.com
 aldinaldinkatalog.info
 aldinaldinkatalog.sbs
 aldinaldinkatalog.xyz
+aldinaldinkeredmiyerisi.sbs
 aldinaldinklimakampanyasi.nicepage.io
 aldinaldinkmpnay.hopto.org
 aldinaldinn-a101.sbs
@@ -216826,6 +216827,7 @@ kampanayalardasonsaatler.cfd
 kampanayalardasonsaatler.icu
 kampanayalardasonsaatler.my
 kampanayalradasongunlerinyeri.icu
+kampanayalradasongunlerinyeri.sbs
 kampanaykardaburadabak.cfd
 kampanaykardaburadabak.icu
 kampanaylardasoncare.my
@@ -302826,6 +302828,7 @@ revrflactonlinesevricscure19.duckdns.org
 rew222333.ddns.net
 rew2235.ddns.net
 rew2248.ddns.net
+rew523235235.dpdns.org
 rewahyttjg.ddns.net
 rewal.ch
 rewaoffice.hopto.org
@@ -347178,6 +347181,7 @@ tokibasvuruturkiyedevleti.com
 tokibasvuruu.blogspot.com
 tokibasvuruum.net
 tokibasvuruumm.com
+tokibasvuruyap.com
 tokibasvuruyumsendegel.blogspot.com
 tokibasvvuru.blogspot.com
 tokibbasvurrularii.com
