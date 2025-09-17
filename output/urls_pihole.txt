@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 20:09:10 UTC
-# Toplam: 408706 Domain
+# Son Güncelleme: 2025-09-17 21:02:04 UTC
+# Toplam: 408708 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -180326,6 +180326,7 @@ herkesepandemi.club
 herkesepandemi.xyz
 herkeseyardimvar.com
 herkeseyekredi.com
+herkesfaydalandi.com
 herkesgelirsfedtgdgider.com
 herkesgelsinberaber.online
 herkesgibi-oralardan-yillarca-iyisini-getirdikleri.top
@@ -185443,6 +185444,7 @@ hizlibe-teb-etadres.com
 hizlibenz-034140ccd19c.herokuapp.com
 hizlibildirimler.com
 hizlibilet.online
+hizlibilgialmak.com
 hizlibilgiislem.com
 hizlibilgiislemleri.com
 hizlibilgil.online
