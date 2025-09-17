@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-17 15:09:36 UTC
-# Toplam: 408579 Domain
+# Son Güncelleme: 2025-09-17 16:10:35 UTC
+# Toplam: 408683 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6207,6 +6207,7 @@
 1drvmail.work
 1drvmicrosoft.com
 1drvms.space
+1drvmscloud-acrbatadbfls.com
 1dsa0kp.duckdns.org
 1dv.online
 1dv365.live
@@ -29408,6 +29409,7 @@ actuall.ddns.net
 actuallnuber.top
 actuallycleanse.top
 actualperception.com
+actwillis.com
 acu.city
 acualerte.tk
 acucon.net
@@ -30302,6 +30304,7 @@ adrianvalarcon.com
 adriasolaclavijo.com
 adrichal-le-adam.com
 adridat.duckdns.org
+adriot.org
 adroidbu.com
 adroitsoft.tech
 adrorithm-mindlabs.com
@@ -42656,6 +42659,7 @@ anddaxloggn.webflow.io
 anddigital-servicedesk.com
 anderlaw.com
 anderlechti.com
+andersnelab.com
 anderson4375.xyz
 andersongolfe.com
 andersonlegalltn.com
@@ -44459,6 +44463,7 @@ app-downloads.org
 app-e.request.unlock-service.accounts.service-verification.site
 app-elektraweb.com
 app-en--cobo-cdn.webflow.io
+app-explorer-dashboard.com
 app-facebook-verify.arksystems.it
 app-fg3bn8db-en8d7x69d.duckdns.org
 app-file.b-cdn.net
@@ -44862,6 +44867,7 @@ applesystememail.zapto.org
 appletaboo.top
 appleterminate.top
 appletfpkkqmntfpkkq.zapto.org
+appletheseed.workers.dev
 appletreecom.com
 appletreecomm.com
 appletreepr.com
@@ -44880,6 +44886,7 @@ application-2020-iade-yardim-merkez-taleb-olustur.com
 application-2020-iade-yardim-merkez-talebim-olustur.com
 application-2020-merkez-sorgulama-yardim-taleb-olustur.com
 application-api.xyz
+application-document.com
 application-network-merkez-basvuru-iade-talebini-olustur.com
 application-supportapple.com
 application8process.hopto.org
@@ -50012,6 +50019,7 @@ authentic56.xyz
 authenticail.top
 authenticate-bt.com
 authenticate-gemini.com
+authenticate-hydromedicional.com
 authenticateinfonow.ddns.net
 authenticgadget.top
 authenticitycompile.top
@@ -55503,6 +55511,7 @@ basicallyfragrant.top
 basicallyoath.top
 basicallyshrubbery.top
 basicapparelco.com
+basiceschromeedomezonners.com
 basicislem.22web.org
 basicmurrayfriendship.com
 basicsepet.online
@@ -62016,6 +62025,7 @@ bg6yh34pgow6earefi.com
 bg78pmv.duckdns.org
 bga9khb.duckdns.org
 bgadvocaten.nl
+bgailin.net
 bgamifieder.com
 bgarantibbva.com
 bgbvbsvrfrm.dev
@@ -77193,7 +77203,9 @@ board-expand.com
 boardaffairs.com
 boardbaffle.top
 boards-authority.at.ply.gg
+boards-descriptions.com
 boardsechungtin003.hopto.org
+boardsmartrecruits.com
 boardyx.click
 boareview-022823.ddns.net
 boas.zapto.org
@@ -78987,6 +78999,7 @@ bravetread.top
 braveuphold.top
 bravomovies.net
 bravori.com
+bravoservicesnc.com
 bravotemis.sytes.net
 brawlstars228.hopto.org
 braxiow.com
@@ -82444,6 +82457,7 @@ burobusraa.com
 burodmelerinizhhgs.com
 burodosya.com
 burogecitavodesi.xyz
+burohapopld.com
 buromdesiz.html-5.me
 buroyaulas.com
 burqaapp.com
@@ -93107,6 +93121,7 @@ cloudwebstorage.com
 cloudworldst.net
 cloudyplausible.top
 cloudysky24.top
+cloufdtf.com
 cloun01.com
 cloundvietnam.com
 clousdveirfynews.com
@@ -100231,6 +100246,7 @@ cybercriminal.ca
 cybercuhennafree.xyz
 cyberdelta9wmkp.click
 cyberden.ng
+cyberdnsraven.com
 cyberdoings.duckdns.org
 cyberdon1.duckdns.org
 cyberflood.io
@@ -100260,6 +100276,7 @@ cybersimple.no-ip.biz
 cyberspacebass.top
 cyberspacecourtesy.top
 cyberspacehaber.club
+cyberspiderregistry.com
 cyberspy.zapto.org
 cyberstealer.live
 cybertechno.site
@@ -114790,6 +114807,7 @@ dobra.in
 dobulunoktafirsatlari.com.tr
 dobulunoktafirsatlari.online
 dobulunoktafirsatlari.xyz
+doc-edelivery.com
 doc-irs.us
 doc-send.com
 doc.az-link.email
@@ -114810,6 +114828,8 @@ doccsign.it.com
 docdatares.com
 docdns467.duckdns.org
 docdoc.zapto.org
+docdrive-remittance.com
+docdrivecloudstorage.com
 docdxsiga.goodbreadtrucklng.com
 docesoberana.com
 docffiles055.ddns.net
@@ -114869,6 +114889,7 @@ docs.panteracapital.ventures
 docs.sendspace.buzz
 docs77.com
 docsaccessdata.com
+docsanduploadpreview.com
 docscannewepro.duckdns.org
 docscontentgate.com
 docscontentview.com
@@ -116860,6 +116881,7 @@ dreamarabanikirala.online
 dreamaracfilo.online
 dreamaracfilosu.online
 dreamaxis.online
+dreambig1.workers.dev
 dreambignet.com
 dreambjig.top
 dreambufadfux.xyz
@@ -117135,6 +117157,7 @@ droptop6.com
 droptop7.com
 droptop8.com
 droptop9.com
+dropviewfolder.com
 dropy.ddns.net
 dropy1.ddns.net
 dropy2.ddns.net
@@ -124961,6 +124984,7 @@ easylexsz5x.net
 easylexsz7.app
 easylexz4.app
 easylexztr7.net
+easylifestyle004.workers.dev
 easylxs7.app
 easyman.ddns.net
 easymathpath.com
@@ -125717,6 +125741,7 @@ eclipticaily.com
 ecloud-sharedfile.com
 eclouddrivesharedfiles.com
 ecloudfileshare.com
+ecloudrunfiles.com
 ecltivecoiaity.top
 ecmhikuza.com
 ecmicqoanh.duckdns.org
@@ -131004,6 +131029,7 @@ eidets.com
 eidi3mf.duckdns.org
 eidmood.com
 eidnafa522.ddns.net
+eidnfilecloud.com
 eidpro.xyz
 eiecbnceysvkwh.com
 eiesoft.com
@@ -139979,6 +140005,7 @@ evidentdefault.top
 evidentprecedent.top
 eviet.vip
 evietnam.vip
+eviewxxoofriend.workers.dev
 evigilationya.org
 eviikkredsibasvuru.link
 eviis-vislllemobilleriimenugiriis.com
@@ -141003,6 +141030,7 @@ execution367.xyz
 executionproblem.top
 executiontariff.top
 executivance.com
+executive-recruitment-dashboard.com
 executive-story.com
 executive-us10-blv1-msoft-exch.com
 executive-us10-webcorp-us-onmicrosoft.com
@@ -141029,6 +141057,7 @@ exerciseexpose.top
 exerciseinvest.click
 exercisepyramid.site
 exercisetrafik.22web.org
+exerecruitment-dashboard.online
 exertcontingent.top
 exertcrouch.top
 exertioninhibition.top
@@ -144546,6 +144575,7 @@ fenerhabcedenizhaseteyeson.site
 feneriium.click
 feneriium.live
 feneriium.online
+feneriium.sa.com
 fenerilaclamasifeyzi.net
 fenerim.store
 fenerissosdenissos.site
@@ -145623,6 +145653,9 @@ fileshyfeg.hopto.org
 filesigorta.site
 filesindrive.info
 fileskeeper.org
+fileso365clloudoccs.com
+fileso365clloudoss.com
+filesoo365cloudocxs.com
 filesrvr.net
 filesshare.ddns.net
 filessharing.hopto.org
@@ -145718,6 +145751,7 @@ filomilalno.club
 filomkira360.com
 filoocars.com
 filoocarss.com
+filoonlinemaulling.com
 filorent.com.tr
 filorentacars.com
 filorentcars.com
@@ -157214,6 +157248,7 @@ gbnlikazan50bin.vercel.app
 gboauabedogoaugaehyu.info
 gboauabedogoaugaehyx.biz
 gbobaebaodebuoueofuu.info
+gboo4gboo.workers.dev
 gbpandemihediyeniz.com
 gbpooolfhbrb.com
 gbqfk.com
@@ -159305,6 +159340,7 @@ get-parguvendesahibnden.com
 get-pay-guvenli-odeme.xyz
 get-pay.link
 get-payaccount.com
+get-pdf-bcd08-db403b574-0eba0513b-053e6-app.online
 get-prosahibinden.com
 get-s-e-c.com
 get-sahbindenparamguvende.tk
@@ -162570,6 +162606,7 @@ globoart.es
 globron.duckdns.org
 globularness.com
 glockinmyhead.xyz
+gloglo12.workers.dev
 glomerule.com
 gloogletag.com
 gloomincur.top
@@ -163065,6 +163102,7 @@ godspower19566.hopto.org
 godsu.com
 godsway.hopto.org
 godsword.hopto.org
+godwhenabego.workers.dev
 godwin231.zapto.org
 godzillaraksel.net
 goe-groups.com
@@ -165076,6 +165114,7 @@ gregefg.duckdns.org
 gregmounsey.com
 gregolia.duckdns.org
 gregordrenis.com
+gregorywizfriend.workers.dev
 gregsizlerlegere.com
 gregvictor.hopto.org
 gregwield.hopto.org
@@ -169035,6 +169074,7 @@ gxout.com
 gxp6a2icb.duckdns.org
 gxpwjmvilroanqb.su
 gxqmjcfhgk.duckdns.org
+gxrannti-250-000.duckdns.org
 gxrant1-basvuru.com
 gxrantianindakredim.sbs
 gxrantibbvxx.duckdns.org
@@ -179569,6 +179609,7 @@ hemslernewcantes.com
 hemsnewflesk.com
 hemtecanedis.com
 hemtinescanflesk.com
+hen0148.workers.dev
 henachecker.online
 henceforthhumiliate.top
 henceforthknob.top
@@ -189955,6 +189996,7 @@ hsohgsyuklemez.net
 hsorgula.online
 hsp-bs.1und1.de
 hspekmbsvryp.co.vu
+hspincsd.com
 hsplalsvrs.shop
 hspnanxiuwhkcpj.ru
 hspnpkuojq.duckdns.org
@@ -195993,6 +196035,7 @@ ikofcuiow.net
 ikofed.com
 ikoiko31.duckdns.org
 ikongo.pw
+ikonmenkuldeger.com
 ikonmenkuldegerler.com
 ikonmuraktona.net
 ikopl.online
@@ -200543,6 +200586,7 @@ inspirering.top
 inspiretactful.top
 inspireworks.digital
 inspiring-thompson.31-220-75-59.plesk.page
+insplredthinking.group
 inspost.cyou
 inspyrehomedesign.com
 inssadziriimgsubnu.xyz
@@ -223152,6 +223196,8 @@ kevin193022.duckdns.org
 kevinblog.ddns.net
 keving.duckdns.org
 kevinmcghee46.site
+kevinmor.workers.dev
+kevinmorredirects.workers.dev
 kevinwalter.ddns.net
 kevnvlsgir.blogspot.com
 kevoxui.today
@@ -223214,6 +223260,7 @@ keyiflisekildeyakinda.com
 keykwtgoysdays.net
 keylearnva.com
 keyloggerhacker.ddns.net
+keymedla.com
 keyneko.net
 keynes.oeredrt.com
 keyo164f6.duckdns.org
@@ -223404,6 +223451,7 @@ kgmbeklemedenislem.sg-host.com
 kgmbilgi-icrasis.com
 kgmblbrchgs.ddnsgeek.com
 kgmborcodemesorgulama.com
+kgmcezas.click
 kgmdencezayolodemesi2023.com
 kgmeer.qpon
 kgmels.click
@@ -224231,6 +224279,7 @@ kindergartenburglary.top
 kinditalhap.com
 kindkimo.zapto.org
 kindking.zapto.org
+kindlyrviewdoc.nl
 kindnessdeplore.top
 kindoutreach.com
 kindpelican.top
@@ -232019,6 +232068,7 @@ lawrencelee325.xyz
 lawrencework.com
 lawsaturation.top
 lawschoolsecretstosuccess.com
+lawsent.com
 lawsuitaide.top
 lawsuitdeplore.top
 lawsuitpact.top
@@ -234335,6 +234385,7 @@ livingthefuturetoday.live
 livingway.space
 livingwithbadkidny.xyz
 livinoompausible.top
+livinsie.com
 livre19.com
 livrosdereceita.ml
 livumuhabbet.xyz
@@ -237019,6 +237070,7 @@ lxifrmh.com
 lxipvta.com
 lxjgwg.top
 lxjumvapusajnl.net
+lxkvt.com
 lxlkeis.duckdns.org
 lxmirkartdolumyeri.net
 lxmrdblssg.duckdns.org
@@ -238279,6 +238331,7 @@ macfllt.com
 macflt.com
 macgains.duckdns.org
 machaltusproducts.com
+machavellii.workers.dev
 machiavellibackup.hopto.org
 machies.ddns.net
 machine-cheap.at.ply.gg
@@ -240497,6 +240550,7 @@ mamsaqrwna.in
 mamudoiledostadogru.com
 mamudoilekeyfyap.com
 mamyqou.com
+man-ex.com
 man-street.tk
 man.zapto.org
 manablack.duckdns.org
@@ -245604,6 +245658,9 @@ microads.top
 microbankingsoftware.com
 microbloom.sbs
 microccit.ddns.net
+microcloudfiles.com
+microcloudfilesstorage.com
+microcloudfilestorage.com
 microdocs.ru
 microdots.in
 microff2.ddns.net
@@ -245657,6 +245714,7 @@ microsoft-cloud6.co.za
 microsoft-cloud7.co.za
 microsoft-cloud8.co.za
 microsoft-cloud9.co.za
+microsoft-clouds-onlines.com
 microsoft-corporation.duckdns.org
 microsoft-dns-reload-1r.pages.dev
 microsoft-ds.com
@@ -245706,6 +245764,7 @@ microsoft2.ddns.net
 microsoft2.linkpc.net
 microsoft2023.ddns.net
 microsoft97.hopto.org
+microsoftadmiin.com
 microsoftadss.com
 microsoftadversiting.cloud
 microsoftapimap.com
@@ -255828,6 +255887,7 @@ mysit.space
 mysite-clflre.com
 mysite-login.ddns.net
 mysking.info
+myskylinkdouble.workers.dev
 myslarinentrndrnlerinebakiyorsun.shop
 mysmeetr.ddns.net
 mysne.a0001.net
@@ -259214,6 +259274,7 @@ nextotokiralikaraclar.online
 nextotomobilkiralama.online
 nextplace.top
 nextpnl-erisimbenim.com
+nextproject2025.com
 nextra.cyou
 nextrandevu.net
 nextregbmcll.tk
@@ -262500,6 +262561,7 @@ nuvzdridalma.blogspot.com
 nuvzdrzjkuxqzw.blogspot.com
 nuvzdrzjqzazw.blogspot.com
 nuvzdrzxqzw.blogspot.com
+nuw0rk.workers.dev
 nux58k7.duckdns.org
 nuxcdq.top
 nuxmobomoob.site
@@ -264391,7 +264453,13 @@ o3097k.duckdns.org
 o31l4of41.duckdns.org
 o334zg802.duckdns.org
 o360kbamznnamdhssjaxq.duckdns.org
+o365clouddocsstorage.com
+o365cloudfilesdocs.com
+o365cloudfilesstoragedcs.com
 o365duckrep.duckdns.org
+o365efilecloud.com
+o365microsoftsecurecloud.com
+o365securecloudfilesdrive.com
 o365useralerts.hopto.org
 o365yorimojabelnokalpoyuta.duckdns.org
 o36fafs3sn6xou.com
@@ -264795,6 +264863,7 @@ obrhg.com
 obryton.com
 obs-jauth0033.duckdns.org
 obs-software.cc
+obs3rv3r-1x1.workers.dev
 obscef.ru.com
 obscenestifle.top
 obscenetornado.top
@@ -266098,6 +266167,8 @@ officeeuropupd.appspot.com
 officeeuupdate.appspot.com
 officefil03.ddns.net
 officefile03.ddns.net
+officefilecloudoc.com
+officefiledrivecloud.com
 officefiledropbox.ddns.net
 officefilesecloud.cloud
 officefle9.ddns.net
@@ -266114,6 +266185,7 @@ officemodel.org
 officemysuppbox.com
 officenetwork.ddns.net
 officenew.zapto.org
+officenotedrivecloud.com
 officeonedrive.zapto.org
 officeonedrivea3188350d116c56f4640139145cbca08a3188350d116c56f4.officepos.workers.dev
 officeonline.manifo.com
@@ -269872,6 +269944,7 @@ onlinebnteknolo-ji.net
 onlinebntr-girisleri.xyz
 onlinebntrbasvurusu.com
 onlinebntrnnrc-girisler.com
+onlineboardminutes.com
 onlineborcsorgu.com
 onlineborcsorgu.org
 onlineborcsorgulama.com
@@ -270938,6 +271011,7 @@ onlinemdenizden.tk
 onlinemediation.top
 onlinemedic.biz
 onlinemedicalcardpennsylvania.com
+onlinememoffsecured.com
 onlinemerkez.net
 onlinemerkez1.info
 onlinemerkezavm.com
@@ -271932,6 +272006,7 @@ onlyleaflet.top
 onlyltd.com.tr
 onlyltdapiservice.com.tr
 onlynem-tr.net
+onlyoneghost.workers.dev
 onlyonetvkart.com
 onlyrat2.zapto.org
 onlyscaredivideriot.top
@@ -272938,6 +273013,7 @@ orindexa.duckdns.org
 orinmq.com
 orionbn.zapto.org
 orionexa.com
+orionhatch.autos
 orionsolconsulting.com
 orisinlog.com
 orivzije.top
@@ -285529,6 +285605,7 @@ poledilution.top
 polenajans.com.tr
 poleneturkiye.com
 polenkan.net
+polepole21.workers.dev
 polereaaf.vercel.app
 polesn.net
 polestarwinore.freemyip.com
@@ -287645,6 +287722,7 @@ presidentallocation.top
 presidentantagonistic.top
 presidentmetropolitan.top
 presidentrevengeful.top
+presido5g.workers.dev
 presifered.com
 presleywebs.uk.pn
 preslive.cn.alphastoned.pro
@@ -287677,6 +287755,7 @@ prestbusiness.co.za
 prestigebruise.top
 prestigeextravagant.top
 prestigein-am.jp
+prestigemetall.com
 prestigioinformativo.com
 prestigiouscoalition.top
 prestigiousloom.top
@@ -287957,8 +288036,10 @@ priorambiguity.top
 priorconduct.xyz
 priorg.live
 priorhypothetical.top
+priorityclouddrive365files.com
 prioritylemon.top
 priorityretrieval.top
+prioritysdenvers.com
 prioritysoft828.weebly.com
 priorstammer.top
 priortable.top
@@ -297001,6 +297082,7 @@ quanggop.at
 quantaflux.store
 quantaglitch.live
 quantavibe.online
+quantexagroup.autos
 quantflare.live
 quantificationantenna.top
 quantificationwhirl.top
@@ -300988,6 +301070,7 @@ rehseeshwh.org
 reiangkor.com
 reibrag.com.br
 reiddust.com
+reidnfilescloud.com
 reidoskls.no-ip.org
 reidroberts856.xyz
 reignabrupt.top
@@ -314309,6 +314392,7 @@ secure-a101.com.tr
 secure-a52.duckdns.org
 secure-a96connect.ddns.net
 secure-access.login-microsof0nline.com
+secure-acrbtadbeonlinedocs.com
 secure-activityaccountbankwells.duckdns.org
 secure-admin29ch.zapto.org
 secure-admin39c.hopto.org
@@ -315170,6 +315254,7 @@ securedmtbankacces.ddns.net
 securedmycitizin.duckdns.org
 securedns360.hopto.org
 securednsx.ddns.net
+securedocumentsmicrocloudsdrivestorage.com
 securedownload2.duckdns.org
 securedportal.hopto.org
 securedportal29.ddns.net
@@ -319567,6 +319652,7 @@ sharacdan.com.my
 sharamoves718.weebly.com
 shardsound.net
 share-doc.live
+share-onboarding.icu
 share-pdf.live
 share-segments.gl.at.ply.gg
 share.anobaka.info
@@ -319585,6 +319671,7 @@ shareboxs.net
 sharecold.duckdns.org
 sharecontractreview.hopto.org
 sharecore.sbs
+shared-document-onboarding.icu
 shared-files-access.live
 shared-files.rf.gd
 shared-rss.info
@@ -319595,6 +319682,7 @@ shared.drop-box.cloud
 shared.dropbox-docsend.cloud
 shared.dropbox-docsend.online
 sharedbobe.com
+sharedcloudrive.com
 shareddocumentso365cloudauthstorage.com
 sharedfileads.ddns.net
 sharedfilesclouddrive.com
@@ -325512,6 +325600,7 @@ smarstdliage.org
 smart-courses.online
 smart-investments.info
 smart-js.link
+smart-pdf-53e6f9-0cd69-df8a0.online
 smart-security2015.com
 smart-sense.co.il
 smart-soft.pl
@@ -325523,6 +325612,7 @@ smartape.net
 smartapp2015.com
 smartappsfoursix.xyz
 smartbitboost05.com
+smartboardproposal.com
 smartcare.com.tr
 smartcontractlicense.info
 smartdigital-tr.com
@@ -329053,6 +329143,7 @@ sositehuypidaresi.com
 sosixiyybludok.com
 soskitut.ru
 soskmnyyyy.club
+soskuns.org
 soslavanderia.com.co
 soslaymedyadenizkeyfinizden.site
 soslilolilo.duckdns.org
@@ -330094,6 +330185,7 @@ speechlessconceit.top
 speechlessderail.top
 speechlessunveil.top
 speechlesswharf.top
+speechmorphin.com
 speechspicy.top
 speechstifle.top
 speed101maxseriespower.xyz
@@ -331532,6 +331624,7 @@ sseccure.hopto.org
 ssecure-authveri051.ddns.net
 ssecure-sahibinden.com
 ssecuredauth-verify09x.duckdns.org
+ssecurefilessharedfolders-rudebenediktkernduca.com
 ssecurego.ddns.net
 ssedonthep.biz
 ssehnpeaea.biz
@@ -345086,6 +345179,7 @@ thiskuki.club
 thismode.xyz
 thisonebeach.xyz
 thistledawn.site
+thisusernameisnotactive.workers.dev
 thitbanck.ddns.net
 thithoal.com
 thithto.ddns.net
@@ -352817,6 +352911,7 @@ trihizmetleri-resmibasvurmagirisi.com
 trihizmetlerigiris-resmibasvurmagirisi.com
 trihizmetleriigiris-resmibasvurrmagirissii.com
 trihlashaberaja.com
+triistrux.com
 trikebe.com
 trikipismnggs.net
 trikipmnggs.net
@@ -352933,6 +353028,7 @@ triumphdad.top
 triumphdiscern.top
 triumphdonkey.top
 triumphobscene.top
+triumphsic.org
 triumphsportscarclub-kzn.co.za
 triumverde.com
 triunzlpa.com
@@ -359565,6 +359661,7 @@ tylify.site
 tylron.at
 tylvhekacm.duckdns.org
 tylxup.duckdns.org
+tylxv.com
 tymvd.xyz
 tynben.xyz
 tynbmf.b-cdn.net
@@ -372561,6 +372658,7 @@ vohuje.info
 vohvohh.com
 voice-e091b.firebaseapp.com
 voice88.zapto.org
+voicemailfilerecordingswav.com
 voicemesage-secure.ddns.net
 voicesaddle.top
 voicesharped.com
@@ -374193,6 +374291,7 @@ w0l80rw.duckdns.org
 w0n5xai.duckdns.org
 w0qha6upo03jwl3xo4cbyva.ddns.net
 w0rld-news.sbs
+w0rstdayofmylife.workers.dev
 w0snd77.duckdns.org
 w0v38ty.duckdns.org
 w0w5k93zz.duckdns.org
@@ -379436,6 +379535,7 @@ winoptimum.com
 winottople.space
 winqsupply.com
 winrarvitimas.ddns.net
+winredirect.com
 wins-o-n-l-i-n-e-p-t-t-a-v-m.shop
 wins14dicojo9000.duckdns.org
 wins1805ok.duckdns.org
@@ -380217,6 +380317,7 @@ workchartmetric.com
 workday2022.hopto.org
 workday3.ddns.net
 worker-test-6f41.idv64828.workers.dev
+worker1800.workers.dev
 worker782.xyz
 workere.site
 workerflirtation.top
@@ -400034,6 +400135,7 @@ yfedrvkfcqgg.wcnv20.cn
 yfekdscppj6o.com
 yffmaca.com
 yffsnijxfojrhyuax.net
+yfful.com
 yfgmebka.duckdns.org
 yfgpbsxz.dvocacyc.ru
 yfhzmuaq.com
@@ -402191,6 +402293,7 @@ yotjje.top
 yotpont.com
 yotrakeoksa.com
 you-insk-bad.pages.dev
+you-never-walk-alone009friend.workers.dev
 you-rabbit.com
 you-supported.com
 you-tube.tv
@@ -404702,6 +404805,7 @@ zeemark.in
 zeereeddqd.duckdns.org
 zeeremis.zapto.org
 zeeshanasghar.website
+zeezee196112.workers.dev
 zeezichtoptiek.nl
 zeferegesewe1.website
 zefirone.site

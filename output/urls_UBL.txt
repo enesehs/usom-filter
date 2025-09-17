@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 15:09:36 UTC
-! Total: 325240 rules
+! Last modified: 2025-09-17 16:10:35 UTC
+! Total: 325319 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4434,6 +4434,7 @@
 *://*.1drvmail.work/*
 *://*.1drvmicrosoft.com/*
 *://*.1drvms.space/*
+*://*.1drvmscloud-acrbatadbfls.com/*
 *://*.1dv.online/*
 *://*.1dv365.live/*
 *://*.1dvstorage.com/*
@@ -18385,6 +18386,7 @@
 *://*.actuallnuber.top/*
 *://*.actuallycleanse.top/*
 *://*.actualperception.com/*
+*://*.actwillis.com/*
 *://*.acu.city/*
 *://*.acualerte.tk/*
 *://*.acucon.net/*
@@ -19067,6 +19069,7 @@
 *://*.adrianvalarcon.com/*
 *://*.adriasolaclavijo.com/*
 *://*.adrichal-le-adam.com/*
+*://*.adriot.org/*
 *://*.adroidbu.com/*
 *://*.adroitsoft.tech/*
 *://*.adrorithm-mindlabs.com/*
@@ -29267,6 +29270,7 @@
 *://*.anddigital-servicedesk.com/*
 *://*.anderlaw.com/*
 *://*.anderlechti.com/*
+*://*.andersnelab.com/*
 *://*.anderson4375.xyz/*
 *://*.andersongolfe.com/*
 *://*.andersonlegalltn.com/*
@@ -30647,6 +30651,7 @@
 *://*.app-downloads-desktops.com/*
 *://*.app-downloads.org/*
 *://*.app-elektraweb.com/*
+*://*.app-explorer-dashboard.com/*
 *://*.app-firsatingeldi.shop/*
 *://*.app-funtime.xyz/*
 *://*.app-goal.com/*
@@ -30923,6 +30928,7 @@
 *://*.application-2020-iade-yardim-merkez-talebim-olustur.com/*
 *://*.application-2020-merkez-sorgulama-yardim-taleb-olustur.com/*
 *://*.application-api.xyz/*
+*://*.application-document.com/*
 *://*.application-network-merkez-basvuru-iade-talebini-olustur.com/*
 *://*.application-supportapple.com/*
 *://*.applicationaffixation.top/*
@@ -35062,6 +35068,7 @@
 *://*.authenticail.top/*
 *://*.authenticate-bt.com/*
 *://*.authenticate-gemini.com/*
+*://*.authenticate-hydromedicional.com/*
 *://*.authenticgadget.top/*
 *://*.authenticitycompile.top/*
 *://*.authenticityreminiscent.top/*
@@ -39351,6 +39358,7 @@
 *://*.basicallyoath.top/*
 *://*.basicallyshrubbery.top/*
 *://*.basicapparelco.com/*
+*://*.basiceschromeedomezonners.com/*
 *://*.basicmurrayfriendship.com/*
 *://*.basicsepet.online/*
 *://*.basicsepet.site/*
@@ -44910,6 +44918,7 @@
 *://*.bg4n64.vip/*
 *://*.bg6yh34pgow6earefi.com/*
 *://*.bgadvocaten.nl/*
+*://*.bgailin.net/*
 *://*.bgamifieder.com/*
 *://*.bgarantibbva.com/*
 *://*.bgbvbsvrfrm.dev/*
@@ -58611,6 +58620,8 @@
 *://*.boardaffairs.com/*
 *://*.boardbaffle.top/*
 *://*.boardexeter.co.uk/*
+*://*.boards-descriptions.com/*
+*://*.boardsmartrecruits.com/*
 *://*.boardyx.click/*
 *://*.boastbleak.top/*
 *://*.boastcaption.top/*
@@ -59977,6 +59988,7 @@
 *://*.bravo-dog.com/*
 *://*.bravomovies.net/*
 *://*.bravori.com/*
+*://*.bravoservicesnc.com/*
 *://*.braxiow.com/*
 *://*.brayaynlynrzbrdndrlmvr.my/*
 *://*.brazabaya.com/*
@@ -63029,6 +63041,7 @@
 *://*.burodmelerinizhhgs.com/*
 *://*.burodosya.com/*
 *://*.burogecitavodesi.xyz/*
+*://*.burohapopld.com/*
 *://*.buroyaulas.com/*
 *://*.burqaapp.com/*
 *://*.burqan-bnk.com/*
@@ -71459,6 +71472,7 @@
 *://*.cloudworldst.net/*
 *://*.cloudyplausible.top/*
 *://*.cloudysky24.top/*
+*://*.cloufdtf.com/*
 *://*.cloun01.com/*
 *://*.cloundvietnam.com/*
 *://*.clousdveirfynews.com/*
@@ -76810,6 +76824,7 @@
 *://*.cybercuhennafree.xyz/*
 *://*.cyberdelta9wmkp.click/*
 *://*.cyberden.ng/*
+*://*.cyberdnsraven.com/*
 *://*.cybereason.xyz/*
 *://*.cyberflood.io/*
 *://*.cyberhaven.pro/*
@@ -76828,6 +76843,7 @@
 *://*.cyberspacebass.top/*
 *://*.cyberspacecourtesy.top/*
 *://*.cyberspacehaber.club/*
+*://*.cyberspiderregistry.com/*
 *://*.cyberstealer.live/*
 *://*.cybertechno.site/*
 *://*.cybertechpp.com/*
@@ -88984,6 +89000,7 @@
 *://*.dobulunoktafirsatlari.com.tr/*
 *://*.dobulunoktafirsatlari.online/*
 *://*.dobulunoktafirsatlari.xyz/*
+*://*.doc-edelivery.com/*
 *://*.doc-irs.us/*
 *://*.doc-send.cloud/*
 *://*.doc-send.com/*
@@ -88994,6 +89011,8 @@
 *://*.docccutime.xyz/*
 *://*.doccloudonedrivefiles.com/*
 *://*.docdatares.com/*
+*://*.docdrive-remittance.com/*
+*://*.docdrivecloudstorage.com/*
 *://*.docesoberana.com/*
 *://*.docfileview.org/*
 *://*.docguardmaterial.com/*
@@ -89022,6 +89041,7 @@
 *://*.docs-view.online/*
 *://*.docs77.com/*
 *://*.docsaccessdata.com/*
+*://*.docsanduploadpreview.com/*
 *://*.docscontentgate.com/*
 *://*.docscontentview.com/*
 *://*.docsecgate.com/*
@@ -90734,6 +90754,7 @@
 *://*.droptop7.com/*
 *://*.droptop8.com/*
 *://*.droptop9.com/*
+*://*.dropviewfolder.com/*
 *://*.dros33eexist.top/*
 *://*.drosstv.com/*
 *://*.droughtcredential.top/*
@@ -98246,6 +98267,7 @@
 *://*.ecloud-sharedfile.com/*
 *://*.eclouddrivesharedfiles.com/*
 *://*.ecloudfileshare.com/*
+*://*.ecloudrunfiles.com/*
 *://*.ecltivecoiaity.top/*
 *://*.ecmhikuza.com/*
 *://*.ecmr-iadeformu-basvuru.com/*
@@ -103054,6 +103076,7 @@
 *://*.eidekk.com/*
 *://*.eidets.com/*
 *://*.eidmood.com/*
+*://*.eidnfilecloud.com/*
 *://*.eidpro.xyz/*
 *://*.eiecbnceysvkwh.com/*
 *://*.eiesoft.com/*
@@ -111678,6 +111701,7 @@
 *://*.executionproblem.top/*
 *://*.executiontariff.top/*
 *://*.executivance.com/*
+*://*.executive-recruitment-dashboard.com/*
 *://*.executive-story.com/*
 *://*.executive-us10-blv1-msoft-exch.com/*
 *://*.executive-us10-webcorp-us-onmicrosoft.com/*
@@ -111701,6 +111725,7 @@
 *://*.exerciseexpose.top/*
 *://*.exerciseinvest.click/*
 *://*.exercisepyramid.site/*
+*://*.exerecruitment-dashboard.online/*
 *://*.exertcontingent.top/*
 *://*.exertcrouch.top/*
 *://*.exertioninhibition.top/*
@@ -115163,6 +115188,9 @@
 *://*.filesigorta.site/*
 *://*.filesindrive.info/*
 *://*.fileskeeper.org/*
+*://*.fileso365clloudoccs.com/*
+*://*.fileso365clloudoss.com/*
+*://*.filesoo365cloudocxs.com/*
 *://*.filesrvr.net/*
 *://*.filestoragehub.live/*
 *://*.filestudios.net/*
@@ -115234,6 +115262,7 @@
 *://*.filomkira360.com/*
 *://*.filoocars.com/*
 *://*.filoocarss.com/*
+*://*.filoonlinemaulling.com/*
 *://*.filorent.com.tr/*
 *://*.filorentacars.com/*
 *://*.filorentcars.com/*
@@ -126341,6 +126370,7 @@
 *://*.get-pay-guvenli-odeme.xyz/*
 *://*.get-pay.link/*
 *://*.get-payaccount.com/*
+*://*.get-pdf-bcd08-db403b574-0eba0513b-053e6-app.online/*
 *://*.get-prosahibinden.com/*
 *://*.get-s-e-c.com/*
 *://*.get-s.online/*
@@ -152466,6 +152496,7 @@
 *://*.hsnxugyukleme.ml/*
 *://*.hsohgsyuklemez.net/*
 *://*.hsorgula.online/*
+*://*.hspincsd.com/*
 *://*.hsplalsvrs.shop/*
 *://*.hspnanxiuwhkcpj.ru/*
 *://*.hsptsx1.com/*
@@ -157313,6 +157344,7 @@
 *://*.ikofcuiow.net/*
 *://*.ikofed.com/*
 *://*.ikongo.pw/*
+*://*.ikonmenkuldeger.com/*
 *://*.ikonmenkuldegerler.com/*
 *://*.ikonmuraktona.net/*
 *://*.ikopl.online/*
@@ -161405,6 +161437,7 @@
 *://*.inspirering.top/*
 *://*.inspiretactful.top/*
 *://*.inspireworks.digital/*
+*://*.insplredthinking.group/*
 *://*.inspost.cyou/*
 *://*.inspyrehomedesign.com/*
 *://*.inssadziriimgsubnu.xyz/*
@@ -180528,6 +180561,7 @@
 *://*.keyiflisekildeyakinda.com/*
 *://*.keykwtgoysdays.net/*
 *://*.keylearnva.com/*
+*://*.keymedla.com/*
 *://*.keyneko.net/*
 *://*.keynexplan.ru/*
 *://*.keyoksf.top/*
@@ -180638,6 +180672,7 @@
 *://*.kgmbbgovtr.top/*
 *://*.kgmbilgi-icrasis.com/*
 *://*.kgmborcodemesorgulama.com/*
+*://*.kgmcezas.click/*
 *://*.kgmdencezayolodemesi2023.com/*
 *://*.kgmeer.qpon/*
 *://*.kgmels.click/*
@@ -181160,6 +181195,7 @@
 *://*.kindbyte.online/*
 *://*.kindergartenburglary.top/*
 *://*.kinditalhap.com/*
+*://*.kindlyrviewdoc.nl/*
 *://*.kindnessdeplore.top/*
 *://*.kindoutreach.com/*
 *://*.kindpelican.top/*
@@ -187107,6 +187143,7 @@
 *://*.lawrencework.com/*
 *://*.lawsaturation.top/*
 *://*.lawschoolsecretstosuccess.com/*
+*://*.lawsent.com/*
 *://*.lawsuitaide.top/*
 *://*.lawsuitdeplore.top/*
 *://*.lawsuitpact.top/*
@@ -188879,6 +188916,7 @@
 *://*.livingway.space/*
 *://*.livingwithbadkidny.xyz/*
 *://*.livinoompausible.top/*
+*://*.livinsie.com/*
 *://*.livre19.com/*
 *://*.livrosdereceita.ml/*
 *://*.livumuhabbet.xyz/*
@@ -190743,6 +190781,7 @@
 *://*.lxipvta.com/*
 *://*.lxjgwg.top/*
 *://*.lxjumvapusajnl.net/*
+*://*.lxkvt.com/*
 *://*.lxmirkartdolumyeri.net/*
 *://*.lxmrnznmnr.net/*
 *://*.lxopoo.com/*
@@ -193036,6 +193075,7 @@
 *://*.mamudoiledostadogru.com/*
 *://*.mamudoilekeyfyap.com/*
 *://*.mamyqou.com/*
+*://*.man-ex.com/*
 *://*.man-street.tk/*
 *://*.manage-adself.com/*
 *://*.manage-api.pw/*
@@ -197148,6 +197188,9 @@
 *://*.microads.top/*
 *://*.microbankingsoftware.com/*
 *://*.microbloom.sbs/*
+*://*.microcloudfiles.com/*
+*://*.microcloudfilesstorage.com/*
+*://*.microcloudfilestorage.com/*
 *://*.microdocs.ru/*
 *://*.microdots.in/*
 *://*.microjoining.com/*
@@ -197192,6 +197235,7 @@
 *://*.microsoft-cloud7.co.za/*
 *://*.microsoft-cloud8.co.za/*
 *://*.microsoft-cloud9.co.za/*
+*://*.microsoft-clouds-onlines.com/*
 *://*.microsoft-ds.com/*
 *://*.microsoft-kernels-pdate.net/*
 *://*.microsoft-live-us.com/*
@@ -197213,6 +197257,7 @@
 *://*.microsoft-update-service.com/*
 *://*.microsoft-updateserver.cf/*
 *://*.microsoft-visualstudiocode.com/*
+*://*.microsoftadmiin.com/*
 *://*.microsoftadss.com/*
 *://*.microsoftadversiting.cloud/*
 *://*.microsoftapimap.com/*
@@ -207723,6 +207768,7 @@
 *://*.nextotomobilkiralama.online/*
 *://*.nextplace.top/*
 *://*.nextpnl-erisimbenim.com/*
+*://*.nextproject2025.com/*
 *://*.nextra.cyou/*
 *://*.nextra9.com/*
 *://*.nextrandevu.net/*
@@ -211557,6 +211603,12 @@
 *://*.o2blue4elqbz7o4p.com/*
 *://*.o2bonusbandwidthpromo.info/*
 *://*.o2u1xbm9xoq4p.life/*
+*://*.o365clouddocsstorage.com/*
+*://*.o365cloudfilesdocs.com/*
+*://*.o365cloudfilesstoragedcs.com/*
+*://*.o365efilecloud.com/*
+*://*.o365microsoftsecurecloud.com/*
+*://*.o365securecloudfilesdrive.com/*
 *://*.o36fafs3sn6xou.com/*
 *://*.o3anx6gietylawsuit.top/*
 *://*.o3bor6growpromote.top/*
@@ -212899,6 +212951,8 @@
 *://*.officedeportation.top/*
 *://*.officednslogsonline.xyz/*
 *://*.officeemailbackup.com/*
+*://*.officefilecloudoc.com/*
+*://*.officefiledrivecloud.com/*
 *://*.officefilesecloud.cloud/*
 *://*.officegauge.top/*
 *://*.officehomeeessflesplseks.cloud/*
@@ -212907,6 +212961,7 @@
 *://*.officemngt.com/*
 *://*.officemodel.org/*
 *://*.officemysuppbox.com/*
+*://*.officenotedrivecloud.com/*
 *://*.officeonline365.live/*
 *://*.officerdividend.top/*
 *://*.officerstr.app/*
@@ -216071,6 +216126,7 @@
 *://*.onlinebntr-girisleri.xyz/*
 *://*.onlinebntrbasvurusu.com/*
 *://*.onlinebntrnnrc-girisler.com/*
+*://*.onlineboardminutes.com/*
 *://*.onlineborcsorgu.com/*
 *://*.onlineborcsorgu.org/*
 *://*.onlineborcsorgulama.com/*
@@ -217029,6 +217085,7 @@
 *://*.onlinemediation.top/*
 *://*.onlinemedic.biz/*
 *://*.onlinemedicalcardpennsylvania.com/*
+*://*.onlinememoffsecured.com/*
 *://*.onlinemerkez.net/*
 *://*.onlinemerkez1.info/*
 *://*.onlinemerkezavm.com/*
@@ -218695,6 +218752,7 @@
 *://*.orinafz.com/*
 *://*.orinmq.com/*
 *://*.orionexa.com/*
+*://*.orionhatch.autos/*
 *://*.orionsolconsulting.com/*
 *://*.oripam.xyz/*
 *://*.orisinlog.com/*
@@ -230833,6 +230891,7 @@
 *://*.prestigebruise.top/*
 *://*.prestigeextravagant.top/*
 *://*.prestigein-am.jp/*
+*://*.prestigemetall.com/*
 *://*.prestigioinformativo.com/*
 *://*.prestigiouscoalition.top/*
 *://*.prestigiousloom.top/*
@@ -231088,8 +231147,10 @@
 *://*.priorconduct.xyz/*
 *://*.priorg.live/*
 *://*.priorhypothetical.top/*
+*://*.priorityclouddrive365files.com/*
 *://*.prioritylemon.top/*
 *://*.priorityretrieval.top/*
+*://*.prioritysdenvers.com/*
 *://*.priorstammer.top/*
 *://*.priortable.top/*
 *://*.priorused.xyz/*
@@ -238255,6 +238316,7 @@
 *://*.quantaglitch.live/*
 *://*.quantara.sbs/*
 *://*.quantavibe.online/*
+*://*.quantexagroup.autos/*
 *://*.quantflare.live/*
 *://*.quantificationantenna.top/*
 *://*.quantificationwhirl.top/*
@@ -240958,6 +241020,7 @@
 *://*.reiangkor.com/*
 *://*.reibrag.com.br/*
 *://*.reiddust.com/*
+*://*.reidnfilescloud.com/*
 *://*.reidroberts856.xyz/*
 *://*.reignabrupt.top/*
 *://*.reignnaive.top/*
@@ -249991,6 +250054,7 @@
 *://*.secure-102.de/*
 *://*.secure-1par-am-guven-de-secureparam2887333212.net/*
 *://*.secure-a101.com.tr/*
+*://*.secure-acrbtadbeonlinedocs.com/*
 *://*.secure-aidat-odeme.com.tr/*
 *://*.secure-aidat.com.tr/*
 *://*.secure-al.net/*
@@ -250264,6 +250328,7 @@
 *://*.securedenizsekure.net/*
 *://*.securedenizsekure.org/*
 *://*.securedept.com/*
+*://*.securedocumentsmicrocloudsdrivestorage.com/*
 *://*.securee-pay.com.tr/*
 *://*.securee-sahhibinden-com.cf/*
 *://*.securee-sahhibinden-com.ga/*
@@ -253720,15 +253785,18 @@
 *://*.sharayugroup.net/*
 *://*.shardsound.net/*
 *://*.share-doc.live/*
+*://*.share-onboarding.icu/*
 *://*.share-onedr.com/*
 *://*.share-pdf.live/*
 *://*.shareae.cf/*
 *://*.sharebloc.top/*
 *://*.shareboxs.net/*
 *://*.sharecore.sbs/*
+*://*.shared-document-onboarding.icu/*
 *://*.shared-files-access.live/*
 *://*.shared-rss.info/*
 *://*.sharedbobe.com/*
+*://*.sharedcloudrive.com/*
 *://*.shareddocumentso365cloudauthstorage.com/*
 *://*.sharedfilesclouddrive.com/*
 *://*.sharedocar.xyz/*
@@ -258936,6 +259004,7 @@
 *://*.smart-courses.online/*
 *://*.smart-investments.info/*
 *://*.smart-js.link/*
+*://*.smart-pdf-53e6f9-0cd69-df8a0.online/*
 *://*.smart-security2015.com/*
 *://*.smart-sense.co.il/*
 *://*.smart-soft.pl/*
@@ -258947,6 +259016,7 @@
 *://*.smartapp2015.com/*
 *://*.smartappsfoursix.xyz/*
 *://*.smartbitboost05.com/*
+*://*.smartboardproposal.com/*
 *://*.smartcare.com.tr/*
 *://*.smartcontractlicense.info/*
 *://*.smartcya.com/*
@@ -262043,6 +262113,7 @@
 *://*.sosixiyybludok.com/*
 *://*.soskitut.ru/*
 *://*.soskmnyyyy.club/*
+*://*.soskuns.org/*
 *://*.soslavanderia.com.co/*
 *://*.soslaymedyadenizkeyfinizden.site/*
 *://*.sosmed.club/*
@@ -262999,6 +263070,7 @@
 *://*.speechlessderail.top/*
 *://*.speechlessunveil.top/*
 *://*.speechlesswharf.top/*
+*://*.speechmorphin.com/*
 *://*.speechspicy.top/*
 *://*.speechstifle.top/*
 *://*.speed101maxseriespower.xyz/*
@@ -264127,6 +264199,7 @@
 *://*.ssdru.info/*
 *://*.sse-express.com/*
 *://*.ssecure-sahibinden.com/*
+*://*.ssecurefilessharedfolders-rudebenediktkernduca.com/*
 *://*.ssedonthep.biz/*
 *://*.ssehnpeaea.biz/*
 *://*.ssekerbank.com/*
@@ -281648,6 +281721,7 @@
 *://*.trihizmetlerigiris-resmibasvurmagirisi.com/*
 *://*.trihizmetleriigiris-resmibasvurrmagirissii.com/*
 *://*.trihlashaberaja.com/*
+*://*.triistrux.com/*
 *://*.trikebe.com/*
 *://*.trikipismnggs.net/*
 *://*.trikipmnggs.net/*
@@ -281750,6 +281824,7 @@
 *://*.triumphdiscern.top/*
 *://*.triumphdonkey.top/*
 *://*.triumphobscene.top/*
+*://*.triumphsic.org/*
 *://*.triumphsportscarclub-kzn.co.za/*
 *://*.triumverde.com/*
 *://*.triunzlpa.com/*
@@ -287603,6 +287678,7 @@
 *://*.tylarion867mino.com/*
 *://*.tylify.site/*
 *://*.tylron.at/*
+*://*.tylxv.com/*
 *://*.tymvd.xyz/*
 *://*.tynben.xyz/*
 *://*.tynd.org/*
@@ -297582,6 +297658,7 @@
 *://*.vohudiu.com/*
 *://*.vohuje.info/*
 *://*.vohvohh.com/*
+*://*.voicemailfilerecordingswav.com/*
 *://*.voicesaddle.top/*
 *://*.voicesharped.com/*
 *://*.voicesneak.top/*
@@ -302351,6 +302428,7 @@
 *://*.winoptimum.com/*
 *://*.winottople.space/*
 *://*.winqsupply.com/*
+*://*.winredirect.com/*
 *://*.winregion.tw/*
 *://*.wins-o-n-l-i-n-e-p-t-t-a-v-m.shop/*
 *://*.wins4n.win/*
@@ -318824,6 +318902,7 @@
 *://*.yfekdscppj6o.com/*
 *://*.yffmaca.com/*
 *://*.yffsnijxfojrhyuax.net/*
+*://*.yfful.com/*
 *://*.yfhzmuaq.com/*
 *://*.yficdkonh.com/*
 *://*.yfieldrainasch.com/*
