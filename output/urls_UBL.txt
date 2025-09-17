@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 09:09:49 UTC
-! Total: 325200 rules
+! Last modified: 2025-09-17 10:09:59 UTC
+! Total: 325201 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -165794,6 +165794,7 @@
 *://*.islemler-vaikf.online/*
 *://*.islemler-vakifbank--web-online.cf/*
 *://*.islemler-vkf.online/*
+*://*.islemler-web.com/*
 *://*.islemler-webim-guvenlikmenusu.xyz/*
 *://*.islemler-yapikredi.com/*
 *://*.islemler-yapikredi.net/*
