@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-17 18:12:48 UTC
-! Total: 325322 rules
+! Last modified: 2025-09-17 19:01:50 UTC
+! Total: 325331 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -77665,6 +77665,7 @@
 *://*.dasgcxastqq.click/*
 *://*.dasgsdfyhetq.click/*
 *://*.dashasylum.top/*
+*://*.dashboard-salesforce.com/*
 *://*.dashboardproducts.info/*
 *://*.dashbruise.top/*
 *://*.dashing4.xyz/*
@@ -108753,6 +108754,7 @@
 *://*.eshaotonlineaktifim.net/*
 *://*.eshaotonlinemaktif.net/*
 *://*.eshaotonlinemyukle.net/*
+*://*.esharedonedrivefile.com/*
 *://*.eshatatkcbttrc.net/*
 *://*.eshatatvtrc.net/*
 *://*.eshatimzirtlkampanya.net/*
@@ -197260,6 +197262,7 @@
 *://*.microsoft-update-service.com/*
 *://*.microsoft-updateserver.cf/*
 *://*.microsoft-visualstudiocode.com/*
+*://*.microsoft365suite.com/*
 *://*.microsoftadmiin.com/*
 *://*.microsoftadss.com/*
 *://*.microsoftadversiting.cloud/*
@@ -197268,6 +197271,7 @@
 *://*.microsoftassistant.com/*
 *://*.microsoftbetastore.com/*
 *://*.microsoftbingads.com/*
+*://*.microsoftclouddriveonline.com/*
 *://*.microsoftcloudserver.com/*
 *://*.microsoftcrowdstrike.com/*
 *://*.microsoftdatacentreupdate.info/*
@@ -202240,6 +202244,7 @@
 *://*.msol.live/*
 *://*.msonedriver.com/*
 *://*.msonline.live/*
+*://*.msonlinecenter.com/*
 *://*.mspdf.live/*
 *://*.msplugin.icu/*
 *://*.msport-arena.ru/*
@@ -212939,8 +212944,10 @@
 *://*.office360share.com/*
 *://*.office365-management.com/*
 *://*.office365-technical.info/*
+*://*.office365cloudhub.com/*
 *://*.office365microdesk.com/*
 *://*.office365onlinehome.com/*
+*://*.office365pdfcloud.com/*
 *://*.office365suite.cloud/*
 *://*.officeaccountsonline.com/*
 *://*.officeaddons.com/*
@@ -212951,6 +212958,7 @@
 *://*.officeareohome.cloud/*
 *://*.officeautonow.xyz/*
 *://*.officebleskfleskhome.com/*
+*://*.officecloudhub.com/*
 *://*.officedeportation.top/*
 *://*.officednslogsonline.xyz/*
 *://*.officeemailbackup.com/*
@@ -244211,6 +244219,7 @@
 *://*.russk22.icu/*
 *://*.russkayapesnya.ru/*
 *://*.rust-mac-build.com/*
+*://*.rustfoundation.dev/*
 *://*.rustomjee-verdantvistas-thane.com/*
 *://*.rustretaliation.top/*
 *://*.rustyamplification.top/*
