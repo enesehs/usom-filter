@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-18 17:01:59 UTC
-# Toplam: 408846 Domain
+# Son Güncelleme: 2025-09-18 18:13:40 UTC
+# Toplam: 408852 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -134893,6 +134893,7 @@ enkahome.ga
 enkahome.gq
 enkahome.ml
 enkahome.tk
+enkakirklareli.com
 enkalitelisidebendevar.com.tr
 enkalitelisidebendevar.xyz
 enkalitelisigortaci.com.tr
@@ -217175,6 +217176,7 @@ kampanya-firsatiyakala.com
 kampanya-firsatiyakala.online
 kampanya-firsatlar-dijital.online
 kampanya-firsatlar.online
+kampanya-firsatlar.site
 kampanya-firsatlari-1o1.shop
 kampanya-firsatlari-esube-bireysel-tr.club
 kampanya-firsatlari-esube-bireysel-tr.space
@@ -311241,6 +311243,7 @@ sahibindesget.com
 sahibindlen.com
 sahibindn-alis-veris.moblie-septislem.com
 sahibindn-guvenliodeme.net
+sahibindn-guvenliodeme.online
 sahibindn-ilanlar.net
 sahibindn-paramguvnde-ilan.com
 sahibindn.com.tr
@@ -323632,6 +323635,7 @@ siparislerinis.com
 siparisleriniz-online-ptt-market.online
 siparisleriniz.com.tr
 siparislerinizbizim1e.online
+siparislerinizdehizlandirmalik.cloud
 siparislerinizlanirda.cloud
 siparislerkolay.site
 siparislern6agustosta.cloud
@@ -340933,6 +340937,7 @@ tcdenetlemekurumu.tk
 tcdevletdestekbirimigovtrr.com
 tcdewus.com
 tcdkyht.net
+tcdosya.com
 tcdxe0on6.duckdns.org
 tceb-basvuru-kayit-katilim-form.cf
 tceb-basvuru-kayit-katilim-form.ga
@@ -367824,6 +367829,7 @@ vaklfmobil.ga
 vaklfmobil.ml
 vaklfsky.com
 vaklftlcarl.world
+vaklfwebsubappsubs9.xyz
 vakllifbahari.duckdns.org
 vakntfbahar.duckdns.org
 vako-sale.shop
