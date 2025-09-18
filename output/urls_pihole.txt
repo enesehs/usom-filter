@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-18 13:23:14 UTC
-# Toplam: 408819 Domain
+# Son Güncelleme: 2025-09-18 14:09:22 UTC
+# Toplam: 408833 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3204,6 +3204,7 @@
 11114343-111.duckdns.org
 111212121212121.duckdns.org
 111222332435647.com.tr
+1112332210121.duckdns.org
 111234.cdt.ddns.net
 111234cdt.ddns.net
 11125455111.cloud
@@ -18826,6 +18827,7 @@
 88881.pro
 8888448788.cloud
 8888525664458.cloud
+8888556658888.duckdns.org
 888856488.cloud
 88887667.cloud
 8888788588.cloud
@@ -21091,6 +21093,7 @@ a-101-com-tr-harca-harca-bitmez.sa.com
 a-101-com.aldnaldnhftaninyildizlri.shop
 a-101-com.aralikindirimleri.online
 a-101-comtr.online
+a-101-eylulfirsatlari.online
 a-101-firsat.shop
 a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
 a-101-firsatlari.online
@@ -78143,6 +78146,7 @@ boombaprap.top
 boomblaa.ddns.net
 boomboo.tk
 boomdwell.top
+boomeranget.com
 boomfoul.top
 boomjenjakoum.ddns.net
 boomplaypromohub.com
@@ -93344,6 +93348,7 @@ cmplementaytrrac.top
 cmpns.com
 cmpnykfgrnstidskrecredtia.xyz
 cmpnysxfrxrgxrntksredtttxs.com
+cmqsqomiwwksmcsw.xyz
 cmqtlzksny.duckdns.org
 cmr-aidatpay.ml
 cmr-al-basvuru-e-platform-girisler-doldur-kamu-spot.xyz
@@ -113099,6 +113104,7 @@ dikilisubelerindeindirim.com.tr
 dikilisubelerindeindirim.online
 dikilisubelerindeindirim.xyz
 dikilisubelerindekampanya.online
+dikismakinesifirsativergisiz.icu
 dikizcil.org
 dikkatliolun.com.tr
 dikkk.zapto.org
@@ -142086,6 +142092,7 @@ eylulpandemiade-tr.com
 eylulpandemidestek.com
 eylulpereakendekampanyalari.com
 eylulsonfirsatlar.shop
+eylulsonu.biz.tr
 eylulsonu.com.tr
 eylulsonu.info.tr
 eylulsonu.net.tr
@@ -167082,6 +167089,7 @@ gundoganyrdmkurumu.com
 gundogardmkurum.com
 gundogducamayna.net
 gundogduyrdmkurumu.com
+gundonumu.sbs
 gunduzalisverisirsakri.com.tr
 gunduzalisverisirsakri.xyz
 gunduzbaharlafirsatindeniz.online
@@ -206298,6 +206306,7 @@ isshahshhajsq-hsgashqhwq.cfd
 ississikssk.com
 issiszimisc.com
 issizhayatason.com
+issizitler.cfd
 issizligesonveriyoruz.com
 issizliklere-ozel-finanss.net
 isslemimsizlerle.com
@@ -226157,6 +226166,7 @@ kmsorglmayapptthemen.duckdns.org
 kmsorgluamayapalimhemengzffjhj.web.app
 kmsorglulanzs.web.app
 kmsorglumaapyamaisiselim.web.app
+kmsorglumahemnkubsdgh.duckdns.org
 kmsorglumayaphemengovptbeyz.web.app
 kmsorgogrenmas.net
 kmsorgu.tech
@@ -238406,6 +238416,7 @@ macaristandaegitim.com
 macaronloop.com
 macartevitale-ameli.ddns.net
 macartevitale.hopto.org
+macawiwmaacckuow.xyz
 macbartender.lat
 maccaffe.com
 macdocs.ddns.net
@@ -274852,6 +274863,7 @@ oxxvnflhtpomjmwst.com
 oxxxy-tour.com
 oxxymiron.com
 oxy01.duckdns.org
+oxycontinburda.bond
 oxyexplorer.com
 oxygen-opss.zapto.org
 oxygeneasily.top
@@ -275053,6 +275065,7 @@ ozel-link-guvende.cf
 ozel-link-guvende.gq
 ozel-link.com.tr
 ozel-market-indirimleri.online
+ozel-online-alisveris.cfd
 ozel-s-guvendeparam.com
 ozel-s-paranguvende.com
 ozel-satis-islemlerim.com
@@ -399934,6 +399947,7 @@ yeoin19.com
 yeonhap.net
 yeosin19.com
 yeosins19.com
+yeosyyyaewokgioa.xyz
 yeouya19.com
 yeoyin19.com
 yep-yeni-firsatlar-kapinda.shop
