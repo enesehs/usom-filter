@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-18 21:01:56 UTC
-! Total: 325478 rules
+! Last modified: 2025-09-18 22:08:13 UTC
+! Total: 325486 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -17897,6 +17897,7 @@
 *://*.acikinternetsubesigiris.com/*
 *://*.acikinternetsubesigiris2019-acikdenizbankgiris.com/*
 *://*.acikinternetsubesigirisi2019denizbank.com/*
+*://*.acikintrenet.online/*
 *://*.acikisimakicinksm.shop/*
 *://*.acikisimakin-kampanyasikasim.shop/*
 *://*.acikisinakfirsatifaisyok.online/*
@@ -78830,6 +78831,7 @@
 *://*.delidivaneolmusumfirsatlardan.com.tr/*
 *://*.delidivaneolmusumfirsatlardan.online/*
 *://*.delidivaneolmusumfirsatlardan.xyz/*
+*://*.delidivaneolmusumfirsatlari.cfd/*
 *://*.delight-business-online.site/*
 *://*.delight.mv/*
 *://*.delightcaf.xyz/*
@@ -88184,6 +88186,7 @@
 *://*.disruptionprecedent.top/*
 *://*.disruptionpredominant.top/*
 *://*.disruptiveadvertising.agency/*
+*://*.dissas.click/*
 *://*.dissentsanctuary.top/*
 *://*.dissertation4help.com/*
 *://*.dissertationcollision.top/*
@@ -112576,6 +112579,7 @@
 *://*.eylulflrsatlariiii.com/*
 *://*.eylulflrsatlariwsynxvakko.com/*
 *://*.eylulflrsatlaronlne.com/*
+*://*.eylulflrsatlarrinda.com/*
 *://*.eylulflrsatlaryildizi.com/*
 *://*.eylulformonay.org/*
 *://*.eylulhediyekampanyasi.com/*
@@ -118065,6 +118069,7 @@
 *://*.fiscalwithhold.top/*
 *://*.fiscalzebra.top/*
 *://*.fischer-mallorca.com/*
+*://*.fisdas.click/*
 *://*.fiservcareers.com/*
 *://*.fish-cloud-jar.us/*
 *://*.fishbank-page.com/*
@@ -182501,6 +182506,7 @@
 *://*.kmmlpttlsorgulama.click/*
 *://*.kmmmsrglaaa.click/*
 *://*.kmmnzzs.com/*
+*://*.kmmpmyaaabsvrrr.click/*
 *://*.kmmsorggulamahmenburdagovptt.com/*
 *://*.kmmsorguluzssamhemengovtptr.com/*
 *://*.kmmsorguulamsmszhemenpttgov.com/*
@@ -193742,6 +193748,7 @@
 *://*.marketinapp.com/*
 *://*.marketinde-bugune-ozel-indirimler.online/*
 *://*.marketinde-ozel-firsatlar-var-tr.online/*
+*://*.marketindirim.click/*
 *://*.marketindirimgunleri.xyz/*
 *://*.marketindirmleri.xyz/*
 *://*.marketing-project.social/*
@@ -242362,6 +242369,7 @@
 *://*.resmiposhizmetleri.com/*
 *://*.resmiprabugiristr.com/*
 *://*.resmiprbgirisduyuru.com/*
+*://*.resmipromosyonlar.com/*
 *://*.resmirandevu.app/*
 *://*.resmireisgirisi-turkyegovtr.com/*
 *://*.resmisatinal.com.tr/*
