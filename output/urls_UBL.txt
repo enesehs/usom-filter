@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-18 08:12:13 UTC
-! Total: 325390 rules
+! Last modified: 2025-09-18 09:09:56 UTC
+! Total: 325399 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -34619,6 +34619,7 @@
 *://*.atbicofr.com/*
 *://*.atbkonline.com/*
 *://*.atbmqucijqvkbs.info/*
+*://*.atc-mm.com/*
 *://*.atcbrampton.ca/*
 *://*.atchfulvoca.top/*
 *://*.atclkdsm.online/*
@@ -58924,6 +58925,7 @@
 *://*.bonus-tr-firsat.buzz/*
 *://*.bonus-tr-guncelkampanya.club/*
 *://*.bonus-tr-mobil-hediye.com/*
+*://*.bonus-trickk.xyz/*
 *://*.bonus-trink.icu/*
 *://*.bonus-trink.live/*
 *://*.bonus-trustwallet.com/*
@@ -98286,6 +98288,7 @@
 *://*.eclipsedelusion.top/*
 *://*.eclipsehaven.space/*
 *://*.eclipsemonitor.com/*
+*://*.eclipthor.com/*
 *://*.eclipticaily.com/*
 *://*.ecloud-sharedfile.com/*
 *://*.eclouddrivesharedfiles.com/*
@@ -118673,6 +118676,7 @@
 *://*.flrsathadiolsahemenlerolsanmada.world/*
 *://*.flrsathadisenbeniettinyasenkazanma.world/*
 *://*.flrsathadisenledeolmazsadanebilim.world/*
+*://*.flrsathadisensizolmadisennedeyan.world/*
 *://*.flrsathadisensposabahgelnbaslagit.world/*
 *://*.flrsathadisenyakaladanbver.world/*
 *://*.flrsathemen-simdi.cloud/*
@@ -141607,6 +141611,7 @@
 *://*.hazirolanindirimgunleri.com/*
 *://*.hazirolanindirimgunlerin.com/*
 *://*.hazirpaketyuklemeislemleri.tk/*
+*://*.hazirportfoylerin.com/*
 *://*.hazirran-firsatlarimm.com/*
 *://*.hazirranin-firstlarii.com/*
 *://*.hazirsepet.info.tr/*
@@ -151191,6 +151196,7 @@
 *://*.homenesskartalofhoki.cloud/*
 *://*.homenesskartalpleskasd.cloud/*
 *://*.homenest-kartal.cloud/*
+*://*.homenest-kartal1.cloud/*
 *://*.homenest-kartal3.cloud/*
 *://*.homenest-kartal4.cloud/*
 *://*.homenestkartlastflex1.cloud/*
@@ -174536,6 +174542,7 @@
 *://*.kafaacicialianac.online/*
 *://*.kafadankontakapksms.cfd/*
 *://*.kafadankontakbulksms.cfd/*
+*://*.kafadankontakurl.cfd/*
 *://*.kafadar.cfd/*
 *://*.kafalar.host/*
 *://*.kafalarhigh.net/*
@@ -249781,6 +249788,7 @@
 *://*.sdhjfahjdasd.net/*
 *://*.sdhjjekfp4k.com/*
 *://*.sdhju.icu/*
+*://*.sdhjwdw.click/*
 *://*.sdhlookjam.com/*
 *://*.sdigj.xyz/*
 *://*.sdiuksuvwwquemh.su/*
@@ -303890,6 +303898,7 @@
 *://*.wvwsahibinden.com/*
 *://*.wvwsahibindenget-secure.com/*
 *://*.wvwsonetkinlikramazanaozel.com/*
+*://*.wvwtrbinance.lat/*
 *://*.wvwtrtpayiadesi-denizbank.com/*
 *://*.wvwturkiyefinanskatilim.com/*
 *://*.wvwturkiyem.com/*
