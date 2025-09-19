@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-19 19:02:37 UTC
-! Total: 325584 rules
+! Last modified: 2025-09-19 20:09:59 UTC
+! Total: 325588 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -215161,6 +215161,7 @@
 *://*.online-giriswebislemlergovtr.tk/*
 *://*.online-gov-tr-online-aidat-kontrol-sistemi-aspx.tk/*
 *://*.online-gov.org/*
+*://*.online-guvence-tr.online/*
 *://*.online-guvende-odeme.shop/*
 *://*.online-guvende.com.tr/*
 *://*.online-guvenli-basvuru-yap-web-org.xyz/*
@@ -253386,6 +253387,7 @@
 *://*.sevindiren-sekilde-yaninda-hemen-burada.com/*
 *://*.sevindiren-sekilde-yaninda-olmaya-geldik.com/*
 *://*.sevindirendaha-dahahaberler-surekli-devamli-burada.com/*
+*://*.sevindirenetkinlikgeldi.top/*
 *://*.sevindirenhaberyaninda.top/*
 *://*.sevindirenmidaha-dahahaberler-surekli-devamli-burada.com/*
 *://*.sevindirenmidaha-dahhaberler-suurekli-devamli-burada.com/*
@@ -275843,6 +275845,7 @@
 *://*.tileappraisal.top/*
 *://*.tilepeck.top/*
 *://*.tilingcraving.com/*
+*://*.tilki.online/*
 *://*.tilkimm.online/*
 *://*.till-contribute.com/*
 *://*.till-lindemann.ru/*
@@ -289038,6 +289041,7 @@
 *://*.umutdolu.org/*
 *://*.umuteli.org/*
 *://*.umutelim.com/*
+*://*.umutgunleri.sbs/*
 *://*.umutisigidernegi.com/*
 *://*.umutisigim.com/*
 *://*.umutisigivakfi.com/*
