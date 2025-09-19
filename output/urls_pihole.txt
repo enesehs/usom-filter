@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-19 06:14:05 UTC
-# Toplam: 408923 Domain
+# Son Güncelleme: 2025-09-19 07:09:23 UTC
+# Toplam: 408930 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51905,6 +51905,7 @@ aycinteker.com
 ayciqy.duckdns.org
 aycloset.top
 aycotoro1.xyz
+aydanayaindiirmligunlerburada.com.tr
 aydanayaindiirmligunlerburada.xyz
 aydat-aide-sisdemi-tr.com
 aydat-durumu.xyz
@@ -86127,6 +86128,7 @@ carfrstlaronline.xyz
 carfur-campaing.duckdns.org
 carfur-kampanyam.duckdns.org
 carfurdan-kampanya.duckdns.org
+carfurefsaneindirimler.duckdns.org
 carfursa-market.site
 carfursa-online.site
 carfursa47ndrm.com
@@ -223319,6 +223321,7 @@ ketnpree.online
 ketntkartm.net
 ketoanhaiphong.vn
 ketojenik.sbs
+ketolaoewnarcetohae.xyz
 ketometocetoe.xyz
 ketometovhhkucetohae.xyz
 ketommetocetoe.xyz
@@ -224241,6 +224244,7 @@ kilomtresorgschp.xyz
 kilomtresorguchp.xyz
 kilomtresorguhiizmetichp.xyz
 kilomtresorgularim.xyz
+kilomtresorgularm.duckdns.org
 kilomtresorgulmaachp.xyz
 kilomtresorgulmahizli.web.app
 kilomtresorgulmaychp.web.app
@@ -243745,6 +243749,7 @@ medisonsteeltech.com
 medisx.com
 mediterpourgrandir.com
 mediterraneanlife.space
+mediterraneanvista.com
 meditiayakkabi.com
 meditigiyim.com
 meditivika.net
@@ -358618,6 +358623,8 @@ turpttgovtrsr.shop
 turpttgovtrv.shop
 turpttgovtrz.shop
 turpttgovts.shop
+turpttogovt184.shop
+turpttsgot184.shop
 turpttugovn184.shop
 turpttvgot184.shop
 turriculated.com
