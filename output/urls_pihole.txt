@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-19 15:08:39 UTC
-# Toplam: 408987 Domain
+# Son Güncelleme: 2025-09-19 16:10:16 UTC
+# Toplam: 408994 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -222181,6 +222181,7 @@ kazanclihediyaleriymis.com
 kazanclikalanlarburada.com
 kazanclikampanyalarenparada.com
 kazanclisekildekapinda.site
+kazancpromosyonu.com
 kazancrehber.online
 kazancrotasi.com
 kazancruhu.online
@@ -311414,6 +311415,7 @@ sahiblnden-parenguvende.online
 sahiblnden.com.tr
 sahiblndenguvende.com
 sahibnden-get-satin-al.shop
+sahibnden-guvenliodeme.online
 sahibnden-param-guvende.co
 sahibnden-param-try.com
 sahibnden-paramguvende.ml
@@ -335458,6 +335460,7 @@ subevakifonline.site
 subevakifonlinegiris.tk
 subevaklfbank.com
 subevdenizsubeler.ml
+subevebasvurular.com
 subevesizeozelbbva.site
 subeweb-yapkredi.com
 subewebstr.cf
@@ -336947,6 +336950,7 @@ surekligir8.b-cdn.net
 surekliyedek.online
 sureknob.top
 surelifrsatlara1o1kazanda.duckdns.org
+surelikampanya.com
 surelikampanya.com.tr
 surelikampanya.site
 surelikampanya.xyz
@@ -362856,6 +362860,7 @@ url-reclick1.xyz
 url-reclick2.xyz
 url-reclick3.xyz
 url-reclick4.xyz
+url-redibret.sbs
 url-redicret2.sbs
 url-redigret.sbs
 url-redigret1.sbs
@@ -387225,6 +387230,7 @@ wwwptt-avm.com
 wwwptt-gov.top
 wwwpttavm-secure.com
 wwwpttavm-securem.com
+wwwpttavm-securen.com
 wwwpttavm.com
 wwwpttavmwwwhgswww.org
 wwwptthgskgswww444.org
@@ -394742,6 +394748,7 @@ yakinhukuk.com.tr
 yakinlardafirsatlarheransizlerle.com.tr
 yakinlardafirsatlarheransizlerle.cyou
 yakinlardafirsatlarheransizlerle.xyz
+yakinlardageliyoruzss.com
 yakinlardayizamcalar.com
 yakinlardayizkkdom.click
 yakinlardayizzzamcalar.com
