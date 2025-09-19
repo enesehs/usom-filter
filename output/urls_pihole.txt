@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-19 17:07:35 UTC
-# Toplam: 408999 Domain
+# Son Güncelleme: 2025-09-19 18:12:15 UTC
+# Toplam: 409002 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -71316,6 +71316,7 @@ bittersweet-spurious-taste.glitch.me
 bitterwitness.com
 bitti-bayram-ama-devam-ediyoruz-mutlu.com
 bitti.app
+bittibasladilar.sbs
 bittibitiyornoktacom.chickenkiller.com
 bittibitttiyor101.duckdns.org
 bittikyetti.top
@@ -187190,6 +187191,7 @@ hizmetmerkezi.org.tr
 hizmetmerkezlerim.xyz
 hizmetmerkezlerin.xyz
 hizmetmerkzinvi.com
+hizmetmobilfgirisonlinecek.com
 hizmetmtv-e.com
 hizmetmuayenerandevu.com
 hizmetnoktalari.site
@@ -346630,6 +346632,7 @@ tl777.it.com
 tlahonzabica.zendesk.com
 tlaktar.com
 tlannemya.dev
+tlast.online
 tlastweb.duckdns.org
 tlazobuc.com
 tlbak1yeyukle.rf.gd
