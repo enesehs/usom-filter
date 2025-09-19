@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-19 16:10:16 UTC
-! Total: 325570 rules
+! Last modified: 2025-09-19 17:07:35 UTC
+! Total: 325575 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20468,6 +20468,7 @@
 *://*.ahabudaraks.com.tr/*
 *://*.ahadaccounts.com/*
 *://*.ahaer.xyz/*
+*://*.ahageldiler2.cfd/*
 *://*.ahago.fun/*
 *://*.ahaha45454545787.xyz/*
 *://*.ahahahasesdoniyses.site/*
@@ -180836,6 +180837,7 @@
 *://*.kgmgecisihlalbildiri.icu/*
 *://*.kgmgecisihlali.com.tr/*
 *://*.kgmgecisihlali.xyz/*
+*://*.kgmgecisodeme.ink/*
 *://*.kgmgecisodemeleriihlal.com/*
 *://*.kgmgecisodme.com/*
 *://*.kgmgecisodmeleriniz.com/*
@@ -182788,6 +182790,7 @@
 *://*.kmsroglamayapgodfocds.com/*
 *://*.kmsroglymayapgovpttshzload.com/*
 *://*.kmsrogu.xyz/*
+*://*.kmsrogulamalpttgovsadhligh.com/*
 *://*.kmsrogulamayaphemngovpttszssazq.com/*
 *://*.kmsrogulamayaphemngovweipr.com/*
 *://*.kmsrogulasdhizeptpt.shop/*
@@ -193214,6 +193217,7 @@
 *://*.mambalarsehirdea1.xyz/*
 *://*.mambaparswep2.xyz/*
 *://*.mambaparswep4.xyz/*
+*://*.mambarekalema.xyz/*
 *://*.mambkifx.com/*
 *://*.mamehaciodeme.net/*
 *://*.mamelina.com/*
@@ -292719,6 +292723,7 @@
 *://*.vakifbankilehediye.info/*
 *://*.vakifbankim.com/*
 *://*.vakifbankimbenim.com/*
+*://*.vakifbanking.com/*
 *://*.vakifbankinizgeldi7985katilimsagla.com/*
 *://*.vakifbankinternetbankaciligigirisiislemleri.cf/*
 *://*.vakifbankinternetbankaciligigirisiislemleri.tk/*
