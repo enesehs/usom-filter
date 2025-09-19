@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-18 23:08:17 UTC
-# Toplam: 408899 Domain
+# Son Güncelleme: 2025-09-19 00:41:00 UTC
+# Toplam: 408905 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3832,6 +3832,7 @@
 12dokonisangecesipar.cloud
 12eiluzwo.duckdns.org
 12ekimhaftasnonuindi.org
+12eylul-com.site
 12eylul-kacmaz.site
 12eylulakfirsatlarimlavesizlerle.com.tr
 12eyluldekazanclarn.cloud
@@ -5307,6 +5308,7 @@
 17c5e9abv.duckdns.org
 17ekimkatalogs.com
 17ekimy1001katalog.com
+17eylul-com.site
 17eylulimdir.uk
 17fzydpq3.duckdns.org
 17hazirangunicindeflrstarlari.duckdns.org
@@ -24280,6 +24282,7 @@ a7xem88rc.duckdns.org
 a7yf8s.duckdns.org
 a7ym4nwql.duckdns.org
 a7zq8c.duckdns.org
+a814-dd5c4c9f68d2.duckdns.org
 a81agkjw.duckdns.org
 a820bll04.duckdns.org
 a83129c4843d6e88.info
@@ -51899,6 +51902,7 @@ aycinteker.com
 ayciqy.duckdns.org
 aycloset.top
 aycotoro1.xyz
+aydanayaindiirmligunlerburada.xyz
 aydat-aide-sisdemi-tr.com
 aydat-durumu.xyz
 aydataydexxxxx111.com
@@ -218249,6 +218253,7 @@ kampanyali-urunleri-listele.xyz
 kampanyali-yilsonu-ozel-obline.tk
 kampanyali-zamanlarii.xyz
 kampanyali.buradasigortacimerkez.com.tr
+kampanyali.cfd
 kampanyali.sigoortamnete.com.tr
 kampanyali.sigortamnetbab.com.tr
 kampanyali.sigortamnetmidir.site
@@ -375936,6 +375941,7 @@ web-kredibasvuruformum.ml
 web-kultur-login.xyz
 web-kuveyt.com
 web-kuveytturk.com
+web-landmonitor-tr.click
 web-landtr.click
 web-likidite.xyz
 web-login-monitor.site
