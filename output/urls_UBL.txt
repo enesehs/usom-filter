@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-19 21:07:53 UTC
-! Total: 325591 rules
+! Last modified: 2025-09-19 22:01:54 UTC
+! Total: 325602 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26639,6 +26639,7 @@
 *://*.aldinaldinurnleri.click/*
 *://*.aldinaldinurnleri.sbs/*
 *://*.aldinaldinyeniden.web.tr/*
+*://*.aldinaldinyeriredmikamp.cfd/*
 *://*.aldinaldinyilbasinaozel.com.tr/*
 *://*.aldinaldinyilbasiozel.com.tr/*
 *://*.aldinaldinyuzbirkampanyalari.space/*
@@ -36291,6 +36292,7 @@
 *://*.axes-dunyasi.info.tr/*
 *://*.axes-ileakillimobilin.shop/*
 *://*.axes-size-ozel-arti.xyz/*
+*://*.axesegel.click/*
 *://*.axesfirsat.com.tr/*
 *://*.axesfirsat.net.tr/*
 *://*.axesfirsat.org.tr/*
@@ -53910,6 +53912,7 @@
 *://*.bizimilerandeval.org/*
 *://*.bizimislemapp.com/*
 *://*.bizimislemleronline.com/*
+*://*.bizimistnabulmuz.store/*
 *://*.bizimkatilim.com/*
 *://*.bizimkiler.site/*
 *://*.bizimkoy.site/*
@@ -118507,6 +118510,7 @@
 *://*.flekkb.cn/*
 *://*.fleldsupply.com/*
 *://*.flentsac.top/*
+*://*.flersathadisengfelsenmedenyanio.world/*
 *://*.flesderklimendes.online/*
 *://*.flesderklimendes.xyz/*
 *://*.fleshdwarf.top/*
@@ -125175,6 +125179,7 @@
 *://*.gecodemesistem.info/*
 *://*.gecodemesistemi.info/*
 *://*.gecodemeweb.info/*
+*://*.gecolsungucolmasin.cfd/*
 *://*.gecsenwatsa1.net/*
 *://*.gecsgqcag-yqtwttwtfw-vxczcc.sbs/*
 *://*.gecsmevguven.net/*
@@ -175544,6 +175549,7 @@
 *://*.kampanyadakifirsatlaringunu.icu/*
 *://*.kampanyadakifirsatlaringunu.sbs/*
 *://*.kampanyadakiler.xyz/*
+*://*.kampanyadan.cfd/*
 *://*.kampanyadanal.cfd/*
 *://*.kampanyadanalisveris.com/*
 *://*.kampanyadanavolta.cfd/*
@@ -175605,6 +175611,7 @@
 *://*.kampanyadnzmobilkredionay.net/*
 *://*.kampanyadogrula.com/*
 *://*.kampanyadonemi.com/*
+*://*.kampanyadonemleri.com/*
 *://*.kampanyadoviz-acikdenizbank.com/*
 *://*.kampanyadresleriburada.xyz/*
 *://*.kampanyadunyamizahemenkatilin.online/*
@@ -232170,6 +232177,7 @@
 *://*.promosyonkatil.com/*
 *://*.promosyonkayit.com/*
 *://*.promosyonkayitplatformu.online/*
+*://*.promosyonkazan.com/*
 *://*.promosyonkullanin.com/*
 *://*.promosyonlar.org/*
 *://*.promosyonlar.site/*
@@ -261477,6 +261485,7 @@
 *://*.songunlerikacirmadansepeteekle.com.tr/*
 *://*.songunlerikacirmadansepeteekle.online/*
 *://*.songunlerikacirmadansepeteekle.xyz/*
+*://*.songunlerindeyiz.online/*
 *://*.songunlerindrimlerimizsok.shop/*
 *://*.songunlerkacirma.net/*
 *://*.songunlerlekacirmadanhizlicasatinal.com.tr/*
@@ -317841,6 +317850,7 @@
 *://*.yenidenizsube.gq/*
 *://*.yenidenizsube.tk/*
 *://*.yenidenkampanyagunleri.shop/*
+*://*.yenidenkurulum.com/*
 *://*.yenidenonline.net/*
 *://*.yenidensizinleberaber.com.tr/*
 *://*.yenidensizlerle.com.tr/*
@@ -318368,6 +318378,7 @@
 *://*.yeniucuzulukka.com.tr/*
 *://*.yeniucuzulukka.online/*
 *://*.yeniucuzulukka.xyz/*
+*://*.yeniumutgunleri.sbs/*
 *://*.yeniumutvakfi.com/*
 *://*.yeniurunkapinageldi.com.tr/*
 *://*.yeniurunkapinageldiler.com.tr/*
