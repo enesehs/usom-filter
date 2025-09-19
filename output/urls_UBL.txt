@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-19 05:09:27 UTC
-! Total: 325506 rules
+! Last modified: 2025-09-19 06:14:05 UTC
+! Total: 325514 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20212,6 +20212,7 @@
 *://*.agustosayi-krdimevdusthesapladeniz.tk/*
 *://*.agustosayi.xyz/*
 *://*.agustosayibitmesin.xyz/*
+*://*.agustosayibitmez.online/*
 *://*.agustosayidevkampanya.com/*
 *://*.agustosayifirsat.com.tr/*
 *://*.agustosayifirsat.online/*
@@ -60637,6 +60638,7 @@
 *://*.brynlnrdwvrasd.bond/*
 *://*.brynlyrzbrdnasndrs.icu/*
 *://*.brysel-garanti.com/*
+*://*.brysel-onlne.site/*
 *://*.brysel-ziraatbanksuprizleri.ml/*
 *://*.bryselgiris-akbnk.com/*
 *://*.brysl-yapkredi.com/*
@@ -62675,6 +62677,7 @@
 *://*.buradaboyle.website/*
 *://*.buradabsvur.site/*
 *://*.buradadironline.com/*
+*://*.buradaeyluslksoka.cloud/*
 *://*.buradagarenta.com/*
 *://*.buradaherkeslegel.net/*
 *://*.buradakacmazfirsarlat.com.tr/*
@@ -67120,6 +67123,7 @@
 *://*.cebimdefinans.club/*
 *://*.cebimdefirsttsok.com/*
 *://*.cebimdeki-tebim.com/*
+*://*.cebimdekifirsatlar.com/*
 *://*.cebimdekinakit.com/*
 *://*.cebimdekisube.com/*
 *://*.cebimdekitebinfirsatlari.com/*
@@ -128820,6 +128824,7 @@
 *://*.glideretrieval.top/*
 *://*.glimmerbloop.top/*
 *://*.glimmerpath.pro/*
+*://*.glimmerstead.com/*
 *://*.glimmoratech.com/*
 *://*.glimpsepredominate.top/*
 *://*.glinizxmreyklynaga.net/*
@@ -240829,6 +240834,7 @@
 *://*.redmialimiicinhementiklayin.sbs/*
 *://*.redmialimiicinhementiklayiniz.cfd/*
 *://*.redmialimiicinhementiklayiniz.icu/*
+*://*.redmialiminiburadanyapabilirsiniz.click/*
 *://*.redmialiminiburadanyapabilirsiniz.icu/*
 *://*.redmialiminiburadanyapabilirsiniz.my/*
 *://*.redmialimlarigeldihemenal.cfd/*
@@ -272524,6 +272530,7 @@
 *://*.techplaginapp.com/*
 *://*.techpowerup-gpu-z.com/*
 *://*.techride.xyz/*
+*://*.techrovia.online/*
 *://*.techrulez.xyz/*
 *://*.techs-basvurusorgu-bnb.tk/*
 *://*.techsavvy.website/*
@@ -276872,6 +276879,7 @@
 *://*.today-newday.cn/*
 *://*.todayaniversarygifts.info/*
 *://*.todaychina.world/*
+*://*.todayfuturemodern.online/*
 *://*.todayholrain.world/*
 *://*.todaymanagea.top/*
 *://*.todaynestimes.com/*
