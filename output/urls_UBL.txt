@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-20 12:14:41 UTC
-! Total: 325625 rules
+! Last modified: 2025-09-20 13:14:42 UTC
+! Total: 325628 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3279,6 +3279,7 @@
 *://*.156161961991.com/*
 *://*.1562587027.cfd/*
 *://*.156565226516565659909036591.xyz/*
+*://*.156565226516565659909036595.xyz/*
 *://*.1565897119856231989.buzz/*
 *://*.156667.site/*
 *://*.15694987156659811.net/*
@@ -36349,6 +36350,7 @@
 *://*.axesswingsaidatiadesorgu.com/*
 *://*.axesswingsaidatiadesorgu2023.com/*
 *://*.axessyaninda.xyz/*
+*://*.axesyeni.click/*
 *://*.axetranquility.top/*
 *://*.axfgcgdfss.click/*
 *://*.axfree.com/*
@@ -132237,6 +132239,7 @@
 *://*.gunbargain.top/*
 *://*.gunbatimindangeriye.xyz/*
 *://*.gunbittibasladi.sbs/*
+*://*.gunbslngickmp.sbs/*
 *://*.guncanoe.top/*
 *://*.guncceellevdepaketlemehizmetleri.gq/*
 *://*.gunceelevdeepaketlemehizmetlerii0.gq/*
