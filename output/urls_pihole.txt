@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-20 21:01:44 UTC
-# Toplam: 409096 Domain
+# Son Güncelleme: 2025-09-20 22:01:55 UTC
+# Toplam: 409104 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8125,6 +8125,7 @@
 20ekimkatalogs.com
 20ekimkatolog.online
 20eth.com
+20eyllcom-aksam.art
 20eylul-comtr.art
 20eylul-sabah.art
 20eylulcomtr.art
@@ -168983,6 +168984,7 @@ guzelkalpler.com
 guzelkampanya-katil-online.ml
 guzelkampanyalar.com.tr
 guzelkampanyalarsizlerlebirlikte.xyz
+guzelkampnayalarinteknotkati.com.tr
 guzeller.bid
 guzeller.club
 guzeller.name.tr
@@ -175026,6 +175028,7 @@ harcaharcabitmezbitemz.cfd
 harcaharcabitmezbitemz.sbs
 harcaharcabitmezbitmez.cfd
 harcaharcabitmezbitmez.sbs
+harcaharcabitmezbitmezdebvitmezz.com.tr
 harcaharcabitmezbitmezdebvitmezz.online
 harcaharcabitmezbitmezdebvitmezz.xyz
 harcaharcabitmezbitmezharcaharca.com.tr
@@ -241574,6 +241577,7 @@ marketingsiamgrains.zapto.org
 marketiniain.click
 marketinidan.click
 marketiniz.xyz
+marketinizden.cfd
 marketinkapida.com.tr
 marketinkapida.net.tr
 marketinkapida.org.tr
@@ -285451,6 +285455,7 @@ plplme.site
 plplplpxw.click
 plpoiupakludkosa.ru
 plpwdoxw.click
+plrdasdbrdasnkasdasd.cyou
 plscoverko.meibu.com
 plsdlxwx.click
 plsdmasha-agsabhs-adbsns.cfd
@@ -322661,6 +322666,7 @@ sikayetvarturkiyem.xyz
 sikayetwar.com
 sikayetwar.org
 sikaytmerkezleri-14.sbs
+sikaytmerkeztr-20.sbs
 sikaytmerkeztr-4.sbs
 sikaytuyaribildirim.cf
 sikaytuyaribildirim.gq
@@ -344757,6 +344763,7 @@ tg.sdhju.icu
 tg1ot00b.duckdns.org
 tg1sea23g.commonline.space
 tg4jq711.duckdns.org
+tga-gov-tr.com
 tgaaaks-kjtlkm.com
 tgahpf.cn
 tganngs9.com
@@ -356830,6 +356837,7 @@ turkceltlyuklememerkezi.tk
 turkceyama22.com
 turkcllkmpnynm.shop
 turkcllkntrykle.online
+turkcllpasajmagazam.store
 turkclltlyuklesene.ml
 turkdijtallislemenu100yilgirislleri.com
 turkdijtallislemenugirislerim.com
