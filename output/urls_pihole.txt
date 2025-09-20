@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-20 10:08:19 UTC
-# Toplam: 409047 Domain
+# Son Güncelleme: 2025-09-20 11:01:55 UTC
+# Toplam: 409051 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1977,6 +1977,7 @@
 101-yag.shop
 101-yilbasi-kampanya-islemleri.com
 101-zaferbayramda.art
+101.20eylul-comtr.art
 101.agustosapec.com
 101.agustosapec.tech
 101.agustosdaapec.com
@@ -8117,6 +8118,7 @@
 20ekimkatalogs.com
 20ekimkatolog.online
 20eth.com
+20eylul-comtr.art
 20eylulcomtr.art
 20f3cfej.duckdns.org
 20gb-bayram.com
@@ -141116,6 +141118,7 @@ exclusivesystemtoupgrades.date
 exclusivesystemtoupgrades.review
 exclusivesystemtoupgrading.download
 exclusivofaria.com
+excodex.space
 excsrvcdn.com
 excursionaggravate.top
 excursionalign.top
@@ -326434,6 +326437,7 @@ snklrdenbrdayzbr.bond
 snkozhkr.zapto.org
 snkrcylsn.com
 snkzbrasdnadandaysad.shop
+snkzbrdangldkbasdg.bond
 snkzbrdangldksz.bond
 snkzbrdapzrtsndfrst.shop
 snkzbrdavrdkopl.icu
