@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-21 11:01:44 UTC
-# Toplam: 409136 Domain
+# Son Güncelleme: 2025-09-21 12:14:19 UTC
+# Toplam: 409145 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2330,6 +2330,7 @@
 101indirimciniz.site
 101indirimciniz.store
 101indirimegeldik.com.tr
+101indirimfirsatlar.duckdns.org
 101indirimfirsatlarim.xyz
 101indirimgunc.com
 101indirimisakinkairma.com.tr
@@ -2656,6 +2657,7 @@
 101sadecemobileozelkampanyalar.com
 101sadecemobilozelkampanya.app
 101sadeceonlineozel-com-tr.cfd
+101sadeceonlineozel-com.cfd
 101sali-firsat.shop
 101sali-firsatla.com
 101sali-firsatlar.com
@@ -6656,6 +6658,7 @@
 1o1harcaharcabitmezz.space
 1o1harcawx.click
 1o1haziranfrsaattlar.com
+1o1hemenkapida.duckdns.org
 1o1hemenkapiyagetirdi.com
 1o1hmnkapilarinizda.com
 1o1hzlicafodemelernz.com
@@ -8497,6 +8500,7 @@
 21ekimakfirsatlarisizlerle.com.tr
 21ekimkatalog.com
 21ene.ip-ddns.com
+21eyluldesiparislerneden.cloud
 21fpj3iu.duckdns.org
 21gorn0y.duckdns.org
 21haziranbabalargununeozelhediye20gbinternet.com
@@ -21827,6 +21831,7 @@ a101-ekstra-firsatlar-burada-onlinenen.nb9.app
 a101-ekstra-firsatlar-burada-onlinenene.nb9.app
 a101-ekstra-firsatlar-hic-bitmez-burada-bitmez.lc3.xyz
 a101-extra-alisverisyap.com
+a101-eylul-firsatlari.duckdns.org
 a101-eylul-indirimi.duckdns.org
 a101-eylul.duckdns.org
 a101-eylulden-firsatlar.online
@@ -30031,6 +30036,7 @@ adlliran-ir.ml
 adllirani.ml
 adllliran.ml
 adlndiyagecekazan.blogdns.org
+adlnsabhkazan.blogdns.org
 adlock.in
 adlokyanus.online
 adlokyanus.site
@@ -101179,6 +101185,7 @@ daha-yeniler-basladi-onceden-de-burdayiz.com
 daha-zamdan-etkilenmeyen-bir-biziz.com
 dahabakimli.name.tr
 dahaberler.site
+dahacokkudurun.cfd
 dahadabuisebendenbeskuruscikmaz.tk
 dahaetkili.name.tr
 dahaguclu.name.tr
@@ -226391,6 +226398,7 @@ kmsorgulamaaapttgovkm.com
 kmsorgulamagov-ptt-tr.shop
 kmsorgulamagovptssbnnb.shop
 kmsorgulamagovptt-avm.com
+kmsorgulamagovshxn.duckdns.org
 kmsorgulamagovv-tr.duckdns.org
 kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamagulyan.shop
@@ -323538,6 +323546,7 @@ sinirlistokharikafirsat.xyz
 sinirlistoklar.site
 sinirlistoklar94hmngelin.com
 sinirlistoklardakisonfirsra.shop
+sinirlistokluruunler.com.tr
 sinirlisuregecerliindirimler.click
 sinirlisuregecerliindirimler.my
 sinirlisuregecerliindirimler.sbs
