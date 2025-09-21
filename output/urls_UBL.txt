@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-21 21:03:14 UTC
-! Total: 325750 rules
+! Last modified: 2025-09-21 22:01:53 UTC
+! Total: 325763 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -25611,6 +25611,7 @@
 *://*.aktuelsinirlisatiis.biz/*
 *://*.aktuelsinirlisatiis.club/*
 *://*.aktuelsinirlisatiis.vip/*
+*://*.aktuelsinirlisayiak.cfd/*
 *://*.aktuelsinirlisayiaks.sbs/*
 *://*.aktuelsiparis.biz.tr/*
 *://*.aktuelsiparis.com.tr/*
@@ -36485,6 +36486,7 @@
 *://*.aybc.so/*
 *://*.aybenimaykizim.cfd/*
 *://*.aybitimi.sbs/*
+*://*.aybitimindefrsat.sbs/*
 *://*.aybittibasladi.sbs/*
 *://*.aybsicrrfrsazmni.com/*
 *://*.aycanlar.bid/*
@@ -112433,6 +112435,7 @@
 *://*.eylul-sintr-katlog.com/*
 *://*.eylul-son-firsasstlr-name-tr.shop/*
 *://*.eylul-son-firsatlr-name-tr.shop/*
+*://*.eylul-sonu-iyi-geldi.cyou/*
 *://*.eylul-sorgulamaekrani-tc.com/*
 *://*.eylul-sorgulamaekrani-tc.org/*
 *://*.eylul-sorgulamaekrani-tr.com/*
@@ -113045,6 +113048,7 @@
 *://*.facebookupgrade.pro/*
 *://*.facebookxl.com/*
 *://*.facebrowserbonustr.cfd/*
+*://*.facebrowsergrnti25.cfd/*
 *://*.facechord.top/*
 *://*.facedomainpc.com/*
 *://*.facedomaintv.com/*
@@ -143440,6 +143444,7 @@
 *://*.hemenczk.cfd/*
 *://*.hemendebasvurr.ml/*
 *://*.hemendebasvurr.tk/*
+*://*.hemendegelirkapina.cfd/*
 *://*.hemendenfmsds.online/*
 *://*.hemendenizlefirsatin.xyz/*
 *://*.hemendestek.cf/*
@@ -176239,6 +176244,7 @@
 *://*.kampanyali-yilsonu-ozel-obline.tk/*
 *://*.kampanyali-zamanlarii.xyz/*
 *://*.kampanyali.cfd/*
+*://*.kampanyali.sbs/*
 *://*.kampanyali.xyz/*
 *://*.kampanyalialisveris.com/*
 *://*.kampanyalialisveris.site/*
@@ -182664,6 +182670,7 @@
 *://*.kmmnzzs.com/*
 *://*.kmmpmyaaabsvrrr.click/*
 *://*.kmmsorggulamahmenburdagovptt.com/*
+*://*.kmmsorgulmagovvvpttqae.com/*
 *://*.kmmsorguluzssamhemengovtptr.com/*
 *://*.kmmsorguulamsmszhemenpttgov.com/*
 *://*.kmmsrglamalariptthizli.com/*
@@ -195324,6 +195331,8 @@
 *://*.mbilxzv2gibv1govxtr.fun/*
 *://*.mbilxzv2gibv1govxtr.site/*
 *://*.mbimcell.com/*
+*://*.mbinancetr.com.tr/*
+*://*.mbinancetr.icu/*
 *://*.mbinancetr.mom/*
 *://*.mbind.com/*
 *://*.mbiveo.com/*
@@ -253231,6 +253240,7 @@
 *://*.sevdiren-bilinirken-senden-uzaklarda-olmadik-hic.com/*
 *://*.sevdiren-hayatlari-yasatan-bizler.com/*
 *://*.sevdiren-sekilde-hayat-olmasi-bizler-icin-burda.com/*
+*://*.sevdiren.info/*
 *://*.sevecekelrdense.online/*
 *://*.sevecekmisandin.net/*
 *://*.seveceksandim.com/*
@@ -261772,6 +261782,7 @@
 *://*.sonrakii-adim.xyz/*
 *://*.sonrakine-birazda-sevdiklerinden-uzakta-kalmayin.com/*
 *://*.sonrakine-buzamani-bitirmeden-bilerek-giderse.top/*
+*://*.sonrakineguzelliklerdebulunur.cfd/*
 *://*.sonrakitarih.app/*
 *://*.sonralarina-devaminda-bukadari-bilmeden-olunamaz.top/*
 *://*.sonrasinada-buralarda-kalirsanizda-bulunun.top/*
@@ -263905,6 +263916,7 @@
 *://*.sponsorlu-yonlendirme-88.space/*
 *://*.sponsorlu.cfd/*
 *://*.sponsorlu.click/*
+*://*.sponsorlu.icu/*
 *://*.sponsorlu.net/*
 *://*.sponsorlu.online/*
 *://*.sponsorlu.web.tr/*
@@ -300059,6 +300071,7 @@
 *://*.web-binancetr.com/*
 *://*.web-bireyselyapikredi.com/*
 *://*.web-bncadestek.com/*
+*://*.web-bsvrlar.site/*
 *://*.web-btcturk.net/*
 *://*.web-btcturkpro.com/*
 *://*.web-cam.cloud/*
