@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-21 13:14:33 UTC
-# Toplam: 409149 Domain
+# Son Güncelleme: 2025-09-21 14:01:48 UTC
+# Toplam: 409158 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8500,6 +8500,7 @@
 21ekimakfirsatlarisizlerle.com.tr
 21ekimkatalog.com
 21ene.ip-ddns.com
+21eyluldesiparislerindenbuc.cloud
 21eyluldesiparislerneden.cloud
 21fpj3iu.duckdns.org
 21gorn0y.duckdns.org
@@ -23583,6 +23584,7 @@ a101tiklakapinda.online
 a101tmzindirmelr.com
 a101toshibasubatayndakampnyalaribaslar.vercel.app
 a101tr.app
+a101tr.cfd
 a101tr.click
 a101tr.com
 a101tr.icu
@@ -48714,6 +48716,7 @@ aslangolgol.surf
 aslanik.site
 aslanizaslan.online
 aslankiral.pro
+aslanlarhere.cfd
 aslanmangalkomuru.com
 aslanorganizasyon.com
 aslanparcasimisinbet.tk
@@ -58167,6 +58170,7 @@ basvuruyapabilirsin.click
 basvuruyapailevegenc.com
 basvuruyapanalir.xyz
 basvuruyapankazanir.com
+basvuruyaphemenresmi.blogspot.com
 basvuruyapikredi.com
 basvuruyapimmasayfasi.com
 basvuruyapin.com
@@ -199096,6 +199100,7 @@ indirimdukkani.ga
 indirimdukkani.ml
 indirimdukkanim.gq
 indirimdunyam.com
+indirimdunyasi.click
 indirimdunyasi63.xyz
 indirimduyurusu.com
 indirime-gel.store
@@ -220659,6 +220664,7 @@ karsina-gelen-heyecan-dolusu-yaninda.com
 karsina-gelen-mutluluk-yuzunde-parliyor.com
 karsina-gelenler-sasirtan-sekilde-yaninda.com
 karsina-gelenler-sevindiren-haberler-geldi.com
+karsinagelenenguzeller.top
 karsinagelenleryaninda.site
 karsine-gelen-firsati-yakala-burada.com
 karsirmayacakiniriminler.shop
@@ -243169,6 +243175,7 @@ mbhhrekp.asia
 mbilxzv2gibv1govxtr.fun
 mbilxzv2gibv1govxtr.site
 mbimcell.com
+mbinancetr.mom
 mbind.com
 mbiveo.com
 mbjxmbxjjbm.net
@@ -347788,6 +347795,7 @@ tokikonutbasvurusu.com
 tokikonutbasvuruun.net
 tokikonutlaribasvuru.site
 tokikura.com
+tokikura.shop
 tokikurulus.fun
 tokilerimegelin.blogspot.com
 tokilerinizbasvuru.online
@@ -369478,6 +369486,7 @@ velelenmelen.com
 velelomelone.com
 velenedemekede.net
 velethuil.xyz
+veletlereyeryok.cfd
 velgy.blogspot.com
 velgyl.blogspot.com
 velhocego.app
