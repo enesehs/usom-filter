@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-21 18:10:59 UTC
-# Toplam: 409191 Domain
+# Son Güncelleme: 2025-09-21 19:01:56 UTC
+# Toplam: 409202 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -23669,6 +23669,7 @@ a101yilbasiindirimleri.com
 a101yilbasikampanyan.online
 a101zincirmarketleri.com
 a1034400.xsph.ru
+a104.cyberpath.cfd
 a10a01.com
 a10a1-asdqwezxc.xyz
 a10a1skkmpynlar.xyz
@@ -38202,6 +38203,7 @@ aktuelmarketing.sbs
 aktuelmarketlerseri.click
 aktuelmarketlerseri.lat
 aktuelmarketonline.com.tr
+aktuelmarketteyilzi.sbs
 aktuelmarkt101.online
 aktuelmarkts101.online
 aktuelmavi.shop
@@ -62588,6 +62590,7 @@ bigbustown.pw
 bigcache.ml
 bigcampany.click
 bigcampany.sbs
+bigcampanya.click
 bigcell.xyz
 bigcelltl.com
 bigcloud.pw
@@ -252191,6 +252194,7 @@ mrt28.blob.core.windows.net
 mrt505.hopto.org
 mrtgokmen.online
 mrthelp.org
+mrtkindmrlerihemen.cfd
 mrtnt.ddns.net
 mrtnt.hopto.org
 mrtoby.hopto.org
@@ -273383,6 +273387,7 @@ orjinalmutfak.com
 orjinalshop.host
 orjinalshop.live
 orjinalshop.xyz
+orkeasansor.com
 orkelowtqcnsmbwd.com
 orlandorojast85.duckdns.org
 orlandroot.com
@@ -298133,6 +298138,7 @@ r09tob.duckdns.org
 r0b1nd3sb01s945.ddns.net
 r0bm6sop.duckdns.org
 r0hhhs.duckdns.org
+r0k2101laktule4.blogspot.com
 r0l69bgw.duckdns.org
 r0n4ld4.gdn
 r0u412y.duckdns.org
@@ -317818,6 +317824,7 @@ sepetligunlergeldi.com
 sepetmagazas.com
 sepetmagazasa.com
 sepetmagazasondakika.com
+sepetnalsverin.click
 sepetndeindirmvar.net
 sepetndeindirmvar.org
 sepetndeindirmvar.store
@@ -322604,6 +322611,7 @@ sikayetinvar.info
 sikayetinvar.ml
 sikayetinvarmi-14.sbs
 sikayetinvarmi-18.sbs
+sikayetinvarmi-20.sbs
 sikayetinvarmi.com
 sikayetinvarr.com
 sikayetivar.org
@@ -323568,6 +323576,7 @@ sinirlisayidaizeltas.xyz
 sinirlisayidakikampayaninsongunu.shop
 sinirlisayidakmpnya.xyz
 sinirlisayilaryildiz.click
+sinirlisayilaryildiz.vip
 sinirlisayistok50kisasuree.xyz
 sinirlistok-yni-2023.online
 sinirlistok.com
@@ -360950,6 +360959,7 @@ ucuzundaucuzumegafiirsat.xyz
 ucuzundaucuzumegamark.xyz
 ucuzundaucuzuotobuzdolabi.xyz
 ucuzundaucuzuzfirsarlar.online
+ucuzundaucuzuzfirsarlar.xyz
 ucuzundauzucuzstok49.cfd
 ucuzundauzucuzstok49.click
 ucuzundauzucuzstok49.icu
@@ -361726,6 +361736,7 @@ umrefirsatikatilimda.com
 umrehediyem.com.tr
 umrehediyemizdh150ailealmim.xyz
 umrehediyesikampanyasi.com
+umreicinkatilimsaglamaekrani.xyz
 umrekatilim.online
 umrekatilimvakif.com
 umremhediyem.ignorelist.com
