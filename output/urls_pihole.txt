@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-21 19:01:56 UTC
-# Toplam: 409202 Domain
+# Son Güncelleme: 2025-09-21 20:08:59 UTC
+# Toplam: 409208 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10907,6 +10907,7 @@
 32333324.cloud
 3233356546522.cloud
 3233654991.cloud
+323366464646.cfd
 3233ulkft.duckdns.org
 323423633.com
 323536.site
@@ -51757,6 +51758,7 @@ axesfirsatlari.com.tr
 axesfirsatlari.net.tr
 axesfirsatlari.org.tr
 axesleee-sizi-bekliyoruzzz.top
+axesliol.click
 axesliyoruz.top
 axesmrctfaiz.site
 axess-aidat.com
@@ -77258,6 +77260,7 @@ bnwwhsk-crk7.com
 bnwxwx.click
 bnx.ubp.mybluehost.me
 bnxcsjoindtr.com
+bnxcstrkiye.click
 bnxhbc25hwcv8b8afawhevzw.biz
 bnxinenisynxdrmlrmbxn.sa.com
 bnxldmrisndixmdlridmsi.com.tr
@@ -213402,6 +213405,7 @@ jhsgxukle.net
 jhsjp.com
 jhskestrlerske.com
 jhspcf.top
+jht31qfq42tdfsfqwf-3qf-sa2sfa.sbs
 jhtkpm.com
 jhtrdffg.com
 jhuopqg71.duckdns.org
@@ -218184,6 +218188,7 @@ kampanyalardakisongunler.my
 kampanyalardakisongunler.sbs
 kampanyalardakisongunlerdekiindiirm.cfd
 kampanyalardakisongunlerdekiindiirm.sbs
+kampanyalardakisonragunlerburada.com.tr
 kampanyalardakisonragunlerburada.online
 kampanyalardakisonragunlerburada.xyz
 kampanyalardamutlugunler.baby
@@ -301547,6 +301552,7 @@ reklamkutuphane.cfd
 reklamkutuphanem-tr.gotdns.ch
 reklamkutuphanesi.site
 reklamlar.click
+reklamlar.sbs
 reklamlara1o1sinirli.duckdns.org
 reklamlardamn.xyz
 reklamlarhayat.net
