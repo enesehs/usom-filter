@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-22 19:01:52 UTC
-! Total: 327533 rules
+! Last modified: 2025-09-22 20:10:16 UTC
+! Total: 327542 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6713,6 +6713,7 @@
 *://*.2568544854.site/*
 *://*.256sad2sada66asd.digital/*
 *://*.2574345284563534.com/*
+*://*.25770235.cloud/*
 *://*.257845.cloud/*
 *://*.2581066d1264f4c1.com/*
 *://*.25815.cloud/*
@@ -57659,6 +57660,7 @@
 *://*.bnboutlet.com/*
 *://*.bnbsimdibasvur.cloud/*
 *://*.bnbstaking.top/*
+*://*.bnbsvrtr.xyz/*
 *://*.bnbtr-actice01.cloud/*
 *://*.bnbtr01aply.cloud/*
 *://*.bnbtr7yilkutlamalaribasvur.com/*
@@ -91654,6 +91656,7 @@
 *://*.dtr10n1ineka1i1im.net/*
 *://*.dtraeay8tw.com/*
 *://*.dtrbqgs.com/*
+*://*.dtresas.click/*
 *://*.dtrmrsorg.net/*
 *://*.dts-dealer.org/*
 *://*.dts-vdm.com/*
@@ -132678,6 +132681,7 @@
 *://*.gtrfcez.com/*
 *://*.gtrhfdgb.xyz/*
 *://*.gtriotit-wqm.site/*
+*://*.gtrises.click/*
 *://*.gts794.com/*
 *://*.gtsggbmvpgodonrz.com/*
 *://*.gttigdiyor1o1frstlartukenyr.shop/*
@@ -135458,6 +135462,7 @@
 *://*.gxrnttiigxxzrizzzeeee.net/*
 *://*.gxrntttigxxxzrizaaaa2023.net/*
 *://*.gxrxnticxzumleri1295.com/*
+*://*.gxrxntiifirsatlari.space/*
 *://*.gxscv.com/*
 *://*.gxttvcmall.com/*
 *://*.gxuxnxcaaxexlsdsdxixnxdirxim.click/*
@@ -166657,6 +166662,7 @@
 *://*.islem-rndvu.org/*
 *://*.islem-servisi.com/*
 *://*.islem-servisim.com/*
+*://*.islem-sorgulama-merkez-ekrani.cyou/*
 *://*.islem-sorgulama-sistem-pttrxmer.online/*
 *://*.islem-subevibionlinegiris.com/*
 *://*.islem-tl.xyz/*
@@ -258927,6 +258933,7 @@
 *://*.sitegov1.lat/*
 *://*.siteholder.ru/*
 *://*.sitekcnnrjsrvpbn.fr/*
+*://*.sitekgms.click/*
 *://*.siteler.name.tr/*
 *://*.sitelervillakomon.tk/*
 *://*.sitelocjvip.cfd/*
@@ -283996,6 +284003,7 @@
 *://*.trpetrol.info/*
 *://*.trpetrol.site/*
 *://*.trpetrolleri-i.com/*
+*://*.trpetrolleribasvuru.xyz/*
 *://*.trpetrolleriyatirim.com/*
 *://*.trpform.online/*
 *://*.trpgiris.com.tr/*
@@ -316220,6 +316228,7 @@
 *://*.yanlasigortam.net/*
 *://*.yanparglobal.com/*
 *://*.yansagyesusam.com/*
+*://*.yansinortalikbe56.shop/*
 *://*.yantar-kassa.com/*
 *://*.yanwekskararjwkjs.me/*
 *://*.yanyanasevsemseni.site/*
