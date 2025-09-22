@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-22 15:09:48 UTC
-! Total: 327520 rules
+! Last modified: 2025-09-22 16:10:47 UTC
+! Total: 327525 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -63050,6 +63050,7 @@
 *://*.burda-buguzel-anlari-hepbirlikte-hergun-gorecegiz.com/*
 *://*.burda-buldugunu-tutt.com/*
 *://*.burda-cesitler-hic-bitmez.online/*
+*://*.burda-ekrandan-ogren-sorgu.cyou/*
 *://*.burda-enguzel-anlari-burda-hergun-gorecegiz.com/*
 *://*.burda-gercekmutluluk.com/*
 *://*.burda-guzel-anlari-burda-hepberaber-gorecegiz.com/*
@@ -63097,6 +63098,7 @@
 *://*.burdan-gelsin.net/*
 *://*.burdan-kontrol-et-aktr.cyou/*
 *://*.burdan-mutluluk.com/*
+*://*.burdan-sorgulamani-yap.cyou/*
 *://*.burdan-yeni-sayfa-baglan-yeni-girisler.xyz/*
 *://*.burdanal-indirimlial.com.tr/*
 *://*.burdanal.club/*
@@ -78055,6 +78057,7 @@
 *://*.danismankayitlarim.online/*
 *://*.danismankayitlarimiz.online/*
 *://*.danismanlikodemesistemi.com/*
+*://*.danismannform.online/*
 *://*.danismaofisi.com/*
 *://*.danito.rs/*
 *://*.danizabank.xyz/*
@@ -191754,6 +191757,7 @@
 *://*.luwardwlejahsbl.cn/*
 *://*.luwhkvmxy.com/*
 *://*.luxcarto.online/*
+*://*.luxcicek.com/*
 *://*.luxclass.tk/*
 *://*.luxconprojects.co.za/*
 *://*.luxdevon.com/*
@@ -301657,6 +301661,7 @@
 *://*.webbildiri-info.com/*
 *://*.webbildiri-infoihlal.com/*
 *://*.webbilgilerimislemlerdevletkapisi.com/*
+*://*.webbing-delaytr.space/*
 *://*.webbing-isgucu.xyz/*
 *://*.webbing-landtrylog.site/*
 *://*.webbing-trde.digital/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-22 15:09:48 UTC
-# Toplam: 411000 Domain
+# Son Güncelleme: 2025-09-22 16:10:47 UTC
+# Toplam: 411006 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -82485,6 +82485,7 @@ burda-bu-anlari-burda-hepberaber-gorecegiz-sizinle.com
 burda-buguzel-anlari-hepbirlikte-hergun-gorecegiz.com
 burda-buldugunu-tutt.com
 burda-cesitler-hic-bitmez.online
+burda-ekrandan-ogren-sorgu.cyou
 burda-enguzel-anlari-burda-hergun-gorecegiz.com
 burda-gercekmutluluk.com
 burda-guzel-anlari-burda-hepberaber-gorecegiz.com
@@ -82533,6 +82534,7 @@ burdan-gelenleri-gorup-takip-sevilir.com
 burdan-gelsin.net
 burdan-kontrol-et-aktr.cyou
 burdan-mutluluk.com
+burdan-sorgulamani-yap.cyou
 burdan-yeni-sayfa-baglan-yeni-girisler.xyz
 burdan-yukle.22web.org
 burdanal-indirimlial.com.tr
@@ -101959,6 +101961,7 @@ danismankayitlar.online
 danismankayitlarim.online
 danismankayitlarimiz.online
 danismanlikodemesistemi.com
+danismannform.online
 danismaofisi.com
 danito.rs
 danizabank.xyz
@@ -221799,6 +221802,7 @@ kartalilereklambitmez.com
 kartalilesahuradogru.com
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
+kartalonlines277.duckdns.org
 kartalsondakikalar.com
 kartaltvhd.com
 kartalxbasvurular.cloud
@@ -238059,6 +238063,7 @@ luwardwlejahsbl.cn
 luwhkvmxy.com
 luwxklzlao.duckdns.org
 luxcarto.online
+luxcicek.com
 luxclass.tk
 luxconprojects.co.za
 luxdevon.com
@@ -377730,6 +377735,7 @@ webbildiri-ihlal.online
 webbildiri-info.com
 webbildiri-infoihlal.com
 webbilgilerimislemlerdevletkapisi.com
+webbing-delaytr.space
 webbing-isgucu.xyz
 webbing-landtrylog.site
 webbing-trde.digital
