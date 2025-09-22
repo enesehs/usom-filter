@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-22 07:10:24 UTC
-! Total: 325796 rules
+! Last modified: 2025-09-22 08:13:36 UTC
+! Total: 325807 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19726,6 +19726,7 @@
 *://*.afinds.com/*
 *://*.afiocksignoned.com/*
 *://*.afipugw.com/*
+*://*.afirsatbuyazavedadikismakinasi.icu/*
 *://*.afirsaturunleri.com/*
 *://*.afisha-afmclub.ru/*
 *://*.afisha-alextheatre.com/*
@@ -26579,6 +26580,8 @@
 *://*.aldinaldinkampanya.website/*
 *://*.aldinaldinkampanya101.online/*
 *://*.aldinaldinkampanyaa.online/*
+*://*.aldinaldinkampanyaciredmilergeldi.cfd/*
+*://*.aldinaldinkampanyaciredmilergeldi.sbs/*
 *://*.aldinaldinkampanyahaftasii.com/*
 *://*.aldinaldinkampanyalar.com/*
 *://*.aldinaldinkampanyalari.cfd/*
@@ -70899,6 +70902,7 @@
 *://*.cizgianimasanatkonusmasi.xyz/*
 *://*.cizgianimasanatyaraticilik.xyz/*
 *://*.cizgicicek.com/*
+*://*.cizgicicek.net/*
 *://*.cizgidunyasindakiyabanci.xyz/*
 *://*.cizgifilmtutkunlarianim.xyz/*
 *://*.cizgizemin.com/*
@@ -150161,6 +150165,7 @@
 *://*.hizmetegitimvakfi.com/*
 *://*.hizmetegitimvakfi.site/*
 *://*.hizmetelli.app/*
+*://*.hizmetelrimizburdsa.store/*
 *://*.hizmetesendekatil.com/*
 *://*.hizmetetmek.info/*
 *://*.hizmetexpress.com.tr/*
@@ -178573,6 +178578,7 @@
 *://*.kartalbix.net/*
 *://*.kartalescort.mobi/*
 *://*.kartalflex1470.shop/*
+*://*.kartalflex6767.com/*
 *://*.kartalhaberleri.com/*
 *://*.kartalhavayollari.cloud/*
 *://*.kartalhomenesfleskpleskdsad.cloud/*
@@ -180970,6 +180976,7 @@
 *://*.kgmgovs.sbs/*
 *://*.kgmgovtr.ink/*
 *://*.kgmgovtr.top/*
+*://*.kgmgovtrbuy.com/*
 *://*.kgmgovzztr.top/*
 *://*.kgmhgs.net/*
 *://*.kgmhgsbrcislm.com/*
@@ -267964,6 +267971,7 @@
 *://*.supermarket-eptt-alisverismerkezleri.online/*
 *://*.supermarketcomic.top/*
 *://*.supermarketeylul.click/*
+*://*.supermarketfirsatlari.click/*
 *://*.supermarketindirimleri.click/*
 *://*.supermarketindulgence.top/*
 *://*.supermarketrecur.top/*
@@ -270192,6 +270200,7 @@
 *://*.tanikku.com/*
 *://*.tanimeazededolkedleodl123.net/*
 *://*.tanisalimm.site/*
+*://*.tanitgiminreklaminingrali543.com/*
 *://*.tanitim1o1firsatianinda.com/*
 *://*.tanitimajans5324reklam4343.com/*
 *://*.tanitimgonderisiflouderx30.xyz/*
@@ -283049,6 +283058,7 @@
 *://*.trpttgovkx.cc/*
 *://*.trpttgovl.cc/*
 *://*.trpttgovlc.cc/*
+*://*.trpttgovle.cc/*
 *://*.trpttgovmv.cc/*
 *://*.trpttgovo.cc/*
 *://*.trpttgovot.cc/*
@@ -300721,6 +300731,7 @@
 *://*.webden-basvuru-3000tl-sosyaldestek.com/*
 *://*.webden-basvurun.online/*
 *://*.webden-bsvr.site/*
+*://*.webden-bsvrlar.site/*
 *://*.webden-edevlet-iadesi-govtr.com/*
 *://*.webden-giris-devlet-aidatt-iadesi-gov-tr.com/*
 *://*.webden-girisim-devlet-aidatt-iadesi-gov-tr.com/*
