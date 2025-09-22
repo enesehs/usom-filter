@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-22 00:44:09 UTC
-! Total: 325768 rules
+! Last modified: 2025-09-22 02:24:07 UTC
+! Total: 325773 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -176762,6 +176762,7 @@
 *://*.kampanyaziraat.com/*
 *://*.kampanyaziraatbank.com/*
 *://*.kampanyazraatilebaslar.com/*
+*://*.kampanydakisngnlerbugun7.com.tr/*
 *://*.kampanygunler.online/*
 *://*.kampanygunleri.biz/*
 *://*.kampanyhaftaninyildizikisa.xyz/*
@@ -201141,6 +201142,7 @@
 *://*.mobito.net/*
 *://*.mobitr-ilan.com.tr/*
 *://*.mobitr-ilanlar.com.tr/*
+*://*.mobitr-ilanlarimiz.com.tr/*
 *://*.mobitr-ilanlarla.com.tr/*
 *://*.mobius-group.com/*
 *://*.mobjl-web.shop/*
@@ -241427,6 +241429,7 @@
 *://*.reklamkutuphane.cfd/*
 *://*.reklamkutuphanesi.site/*
 *://*.reklamlar.click/*
+*://*.reklamlar.icu/*
 *://*.reklamlar.sbs/*
 *://*.reklamlardamn.xyz/*
 *://*.reklamlarhayat.net/*
@@ -279580,6 +279583,7 @@
 *://*.tr-web-sayfamiz-e-ticaret-bak.net/*
 *://*.tr-web-yapikredi-online.com/*
 *://*.tr-web-yillik-iade-erisim.net/*
+*://*.tr-webbing-say.click/*
 *://*.tr-webden-online-erisim.net/*
 *://*.tr-webnb.cloud/*
 *://*.tr-website.online/*
@@ -308281,6 +308285,7 @@
 *://*.wwwsaglikbakanligi.com/*
 *://*.wwwsahibinden-com.tk/*
 *://*.wwwsahibinden-ile-paramguvende.com/*
+*://*.wwwsahibinden-securen.com/*
 *://*.wwwsahibinden.com.tr/*
 *://*.wwwsahibinden.com/*
 *://*.wwwsahibinden.ml/*
