@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-22 04:11:38 UTC
-! Total: 325773 rules
+! Last modified: 2025-09-22 05:11:14 UTC
+! Total: 325786 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61444,6 +61444,7 @@
 *://*.btscelll.com/*
 *://*.btsdostavka-uz.ru/*
 *://*.btsturkkampanya.ml/*
+*://*.btt-gov.top/*
 *://*.btt5sxcx90.com/*
 *://*.bttc-hemenbasvursende.cloud/*
 *://*.bttc-turkkatilimhemenbasvur.cloud/*
@@ -134796,6 +134797,7 @@
 *://*.gxrant1-basvuru.com/*
 *://*.gxrantianindakredim.sbs/*
 *://*.gxraxdxgrxpxrtpntkxrqdxadax.com.tr/*
+*://*.gxraxntixbbvxi.space/*
 *://*.gxrexextxdxrxoxpxkxaxpxlxaxnxi.site/*
 *://*.gxrntibasdawdasdaw.net/*
 *://*.gxrnttiicklizzxddfff202333.net/*
@@ -180895,6 +180897,7 @@
 *://*.kgm-gecis-ihlal-odemeleri.ml/*
 *://*.kgm-gecis-sorgu-com.tk/*
 *://*.kgm-gov-shop.top/*
+*://*.kgm-gov-tr.ink/*
 *://*.kgm-gov-tr.one/*
 *://*.kgm-gov-tr.top/*
 *://*.kgm-gov.blog/*
@@ -180955,6 +180958,7 @@
 *://*.kgmggovtr.top/*
 *://*.kgmgov-tr.bond/*
 *://*.kgmgov-tr.ink/*
+*://*.kgmgov.store/*
 *://*.kgmgovetctr.com/*
 *://*.kgmgovitr.top/*
 *://*.kgmgovm.top/*
@@ -180980,6 +180984,7 @@
 *://*.kgmkarayoluajan.com/*
 *://*.kgmkarayoluajans.com/*
 *://*.kgmkarayoluajans2023.com/*
+*://*.kgmldgovtr.top/*
 *://*.kgmlegecisins.dev/*
 *://*.kgmmgecisbilgi.com/*
 *://*.kgmmgm2.net/*
@@ -233057,6 +233062,7 @@
 *://*.ptt-184.xyz/*
 *://*.ptt-1840.cfd/*
 *://*.ptt-2024-fiirsatlarkapinda.online/*
+*://*.ptt-25.life/*
 *://*.ptt-a.mom/*
 *://*.ptt-aaoi.cc/*
 *://*.ptt-address.top/*
@@ -233550,6 +233556,7 @@
 *://*.ptt-govtur.top/*
 *://*.ptt-govty.cc/*
 *://*.ptt-govty.top/*
+*://*.ptt-govv.cfd/*
 *://*.ptt-govv.cyou/*
 *://*.ptt-govv.ink/*
 *://*.ptt-govv.qpon/*
@@ -235240,6 +235247,7 @@
 *://*.pttgovyyt.top/*
 *://*.pttgovyyy.top/*
 *://*.pttgovyz.top/*
+*://*.pttgovz.sbs/*
 *://*.pttgovz.shop/*
 *://*.pttgovz.top/*
 *://*.pttgovz.xyz/*
@@ -235940,6 +235948,7 @@
 *://*.pttt-gecisleri.store/*
 *://*.pttt-gecisleri.wiki/*
 *://*.pttt-gecisleri.xyz/*
+*://*.pttt-gov.cfd/*
 *://*.pttt-tr.top/*
 *://*.pttt.bar/*
 *://*.ptttakiplerinizbura.digital/*
@@ -283027,6 +283036,7 @@
 *://*.trpttgovd.cc/*
 *://*.trpttgovf.cc/*
 *://*.trpttgovgv.cc/*
+*://*.trpttgovhelp.help/*
 *://*.trpttgovi.cc/*
 *://*.trpttgovk.cc/*
 *://*.trpttgovka.cc/*
@@ -287044,6 +287054,7 @@
 *://*.turpttsgot184.shop/*
 *://*.turpttugovn184.shop/*
 *://*.turpttvgot184.shop/*
+*://*.turpttygovt184.shop/*
 *://*.turriculated.com/*
 *://*.turrout.com/*
 *://*.tursab-acenta.org/*
@@ -287079,6 +287090,7 @@
 *://*.turspttcgov.shop/*
 *://*.turspttegov.shop/*
 *://*.turspttegovt.shop/*
+*://*.turspttgov.shop/*
 *://*.turspttigov.shop/*
 *://*.turspttngov.shop/*
 *://*.turspttogov.shop/*
@@ -300597,6 +300609,7 @@
 *://*.webbildiri-infoihlal.com/*
 *://*.webbilgilerimislemlerdevletkapisi.com/*
 *://*.webbing-isgucu.xyz/*
+*://*.webbing-landtrylog.site/*
 *://*.webbing-trde.digital/*
 *://*.webbireysel-yapikredi.com/*
 *://*.webbireysel-ziraat.com/*
