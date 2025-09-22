@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-22 22:08:40 UTC
-# Toplam: 411043 Domain
+# Son Güncelleme: 2025-09-22 23:02:02 UTC
+# Toplam: 411050 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9366,6 +9366,7 @@
 26564687.com
 2656519864986515.net
 265905735812879370.com
+26593660.cloud
 266113352.corolain.ru
 2663632936386372.fyi
 266ef9e825a1920-y6x5mj.csb.app
@@ -80818,6 +80819,7 @@ btqunmytui.duckdns.org
 btr-sorgulama.blogspot.com
 btr.omentra.site
 btrader.info
+btrasiis.click
 btrcnfrstaktifgiris.com
 btrfr7crkktlm.com
 btrkycnkosl.com
@@ -166307,6 +166309,7 @@ grnti2cekiliskatilsende.cloud
 grntiaakrespectclick.com
 grntibasvurularaseliadadad.duckdns.org
 grntibasvurutr.com
+grntibba.my-homeip.com
 grntibbva-faizszdnmlr.xyz
 grntibbva.duckdns.org
 grntibbva.shop
@@ -218924,6 +218927,7 @@ kampanyalar-a101cebimde.online
 kampanyalar-a101cebimde.xyz
 kampanyalar-acikdenizv2denizbankhediye.com
 kampanyalar-acikdenizv2denizbankhediye.online
+kampanyalar-al.sbs
 kampanyalar-basvuru-finan-com.ml
 kampanyalar-carrefoursa.vercel.app
 kampanyalar-denizbank.com
@@ -302585,6 +302589,7 @@ reklink1.site
 reklink253.site
 reklink341.site
 reklink457.site
+reklm.link
 reklmkmpnya.site
 reklmlnklbntrss.vercel.app
 reklmlnklbnwtr.vercel.app
@@ -303756,6 +303761,7 @@ resmibnnsaccountgiris.com
 resmibnnsofficial.cloud
 resmibnscduyurutr.com
 resmibntrgirishediyesii.com
+resmibultenler.com
 resmicezakontrolu.com
 resmicimerbasvuru.com
 resmicumhurtr908474.com
@@ -359143,6 +359149,7 @@ turkiyefirsatlarihemenonayla.xyz
 turkiyegbnk.com
 turkiyegeliridareveduzenleme.com
 turkiyegenelgeiadeportaligovtr.com
+turkiyegeneli100stok.cfd
 turkiyegenelirandevual.com
 turkiyegibx.site
 turkiyegibxegov.fun
