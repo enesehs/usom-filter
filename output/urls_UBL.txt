@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-23 16:11:19 UTC
-! Total: 327695 rules
+! Last modified: 2025-09-23 17:01:48 UTC
+! Total: 327702 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33717,6 +33717,7 @@
 *://*.asdasfasfasfd01.click/*
 *://*.asdasfefas213123.xyz/*
 *://*.asdasfgbv3412.site/*
+*://*.asdasfsdfsdf.info/*
 *://*.asdasgfuhadsb.top/*
 *://*.asdasndasfnmnffpr.shop/*
 *://*.asdasqwejjjhaha.net/*
@@ -39529,6 +39530,7 @@
 *://*.basgakslmfbasd.net/*
 *://*.basgazaskmdbsdf.net/*
 *://*.basgit.xyz/*
+*://*.basgndolnfsfasarn.sbs/*
 *://*.bashancorp.co.za/*
 *://*.bashful56.xyz/*
 *://*.bashfulacid.lat/*
@@ -59748,6 +59750,7 @@
 *://*.bostonmarginattached.com/*
 *://*.bosugras.xyz/*
 *://*.bosunadenemeyin.cfd/*
+*://*.bosunadeniyosunuzanlayinartik.cfd/*
 *://*.bosxlfw.com/*
 *://*.bosyd.com/*
 *://*.bot-trading.fr/*
@@ -112999,6 +113002,7 @@
 *://*.eylul-ayi-destek-basladi.online/*
 *://*.eylul-basvurusu-3000tl.com/*
 *://*.eylul-bitti-bitiyor-katalog.site/*
+*://*.eylul-bizbilmedikkimsebilemez.com/*
 *://*.eylul-cimeriadeleri-tc.com/*
 *://*.eylul-cimeriadeleri-tc.net/*
 *://*.eylul-cimeriadeleri.com/*
@@ -274371,6 +274375,7 @@
 *://*.tektiksiqqqorta.site/*
 *://*.tektipdnz.site/*
 *://*.tektipwp.site/*
+*://*.tektokat.cfd/*
 *://*.tektonit.ru/*
 *://*.tekvnlll.net/*
 *://*.tekvstek.host/*
@@ -275717,6 +275722,7 @@
 *://*.territoryeminence.top/*
 *://*.territoryorthodox.top/*
 *://*.territorysteward.top/*
+*://*.terrmossggggggg-qw21-wqsaqwrwq.sbs/*
 *://*.terrorindict.top/*
 *://*.terroristbesiege.top/*
 *://*.terrormalice.top/*
@@ -297517,6 +297523,7 @@
 *://*.veriizinleri.com/*
 *://*.verilmisgideme.net/*
 *://*.verilverilsda21312.xyz/*
+*://*.verimatik.xyz/*
 *://*.verimkitopraklar.net/*
 *://*.verimli-olan-hayatlar-sevip-guzellikle-gel.com/*
 *://*.verimlihayat.info/*
