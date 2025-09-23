@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-23 20:09:45 UTC
-! Total: 327712 rules
+! Last modified: 2025-09-23 21:07:52 UTC
+! Total: 327715 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -133481,6 +133481,7 @@
 *://*.guncelsikayetvar.ga/*
 *://*.guncelsikayetvar.info/*
 *://*.guncelsikayetvarr.com/*
+*://*.guncelsikaytlertr-16.sbs/*
 *://*.guncelsikaytlertr-21.sbs/*
 *://*.guncelsikaytvar-tr-22.sbs/*
 *://*.guncelsikaytvar-tr-8.sbs/*
@@ -233384,6 +233385,7 @@
 *://*.promosyonlarla.com.tr/*
 *://*.promosyonlarla.cyou/*
 *://*.promosyonlarla.xyz/*
+*://*.promosyonmerkezleri.com/*
 *://*.promosyonpanosu.com/*
 *://*.promosyonpazarin.com/*
 *://*.promosyonramazanozel.xyz/*
@@ -290415,6 +290417,7 @@
 *://*.umuteli.org/*
 *://*.umutelim.com/*
 *://*.umutgunleri.sbs/*
+*://*.umutgunlerindeyiz.sbs/*
 *://*.umuthaftasi.sbs/*
 *://*.umutisigidernegi.com/*
 *://*.umutisigim.com/*
