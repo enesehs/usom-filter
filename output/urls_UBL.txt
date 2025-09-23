@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-23 17:01:48 UTC
-! Total: 327702 rules
+! Last modified: 2025-09-23 18:13:40 UTC
+! Total: 327704 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62068,6 +62068,7 @@
 *://*.bufirsatlarkacmaz.net/*
 *://*.bufirsatlarkacmaz.shop/*
 *://*.bufirsatlarkacmaz20ocak.shop/*
+*://*.bufirsatlarkacmazeylul.com/*
 *://*.bufirsatlarkacmazhaziranozel.com.tr/*
 *://*.bufirsatlarkacmazhaziranozel.xyz/*
 *://*.bufirsatlarkacmazhemnbasvursende.tech/*
@@ -181922,6 +181923,7 @@
 *://*.kgmun.cc/*
 *://*.kgmurl.link/*
 *://*.kgmuylamal.net/*
+*://*.kgmvo.life/*
 *://*.kgmwaigov.top/*
 *://*.kgmwbgcsihlalodmsi.com/*
 *://*.kgmwbgcsihlslodemesi.com/*
