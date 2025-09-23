@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-23 15:09:17 UTC
-# Toplam: 411309 Domain
+# Son Güncelleme: 2025-09-23 16:11:19 UTC
+# Toplam: 411311 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8948,6 +8948,7 @@
 23ekimindirim.xyz
 23ekimkatalog.online
 23ekimkotolog.online
+23eyluldensiparislerine.cloud
 23eyluldesiparislerindenhizlan.cloud
 23f3d46f.ns-u629df.shop
 23fefvdfmbhty5ouihksdfs.com
@@ -181506,6 +181507,7 @@ herseyimfirsatlarimin.xyz
 herseyimizfirsatlar.xyz
 herseyinbedelivar.eu
 herseyineniyisi.click
+herseyinizdandik.cfd
 herseykapimda.online
 herseymikirmizi.site
 herseyolsadwe.net
