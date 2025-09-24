@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-24 21:01:48 UTC
-! Total: 327808 rules
+! Last modified: 2025-09-24 22:02:02 UTC
+! Total: 327822 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7975,6 +7975,8 @@
 *://*.3589641207.top/*
 *://*.35896512874.online/*
 *://*.359359353935935.cloud/*
+*://*.359665655216565655556990.xyz/*
+*://*.359665655216565655556991.xyz/*
 *://*.359office.com/*
 *://*.35a157214b54.net/*
 *://*.35agcxb4ix.fun/*
@@ -10361,6 +10363,7 @@
 *://*.68812234258356133.com/*
 *://*.688286872.com/*
 *://*.68843929-1111.cloud/*
+*://*.689465891651216585132.tech/*
 *://*.6895632147.top/*
 *://*.689abc.com/*
 *://*.68c4c953d847.com/*
@@ -36450,6 +36453,7 @@
 *://*.axes-ileakillimobilin.shop/*
 *://*.axes-size-ozel-arti.xyz/*
 *://*.axesegel.click/*
+*://*.axesevent.digital/*
 *://*.axesfirsat.com.tr/*
 *://*.axesfirsat.net.tr/*
 *://*.axesfirsat.org.tr/*
@@ -57700,6 +57704,7 @@
 *://*.bnboutlet.com/*
 *://*.bnbsimdibasvur.cloud/*
 *://*.bnbstaking.top/*
+*://*.bnbsvrtr.tech/*
 *://*.bnbsvrtr.xyz/*
 *://*.bnbtr-actice01.cloud/*
 *://*.bnbtr01aply.cloud/*
@@ -58108,6 +58113,7 @@
 *://*.bnkclk-islemleri.com/*
 *://*.bnkingportal.cf/*
 *://*.bnkisa.shop/*
+*://*.bnkisalttr.com/*
 *://*.bnkmpnylrgiris.cloud/*
 *://*.bnkmrsylda.xyz/*
 *://*.bnkofsnlkclimp.shop/*
@@ -67605,6 +67611,7 @@
 *://*.cekilisbasvurusu-enpara.com/*
 *://*.cekilisbitmez.sbs/*
 *://*.cekilisbitmez1.sbs/*
+*://*.cekilisbitmez10.sbs/*
 *://*.cekilisbiz.gq/*
 *://*.cekilisdaykampanyasi.net/*
 *://*.cekilisdaythekacirma.net/*
@@ -96998,6 +97005,7 @@
 *://*.e-onlineislemleri-yapikredi.com/*
 *://*.e-onlineislemlerim-kontroller.cf/*
 *://*.e-onlinekatilim.top/*
+*://*.e-onlinekrdibasvrusu.biz/*
 *://*.e-onlinem.com/*
 *://*.e-onlinem.net/*
 *://*.e-onlinemagaza.com.tr/*
@@ -113396,6 +113404,7 @@
 *://*.eylulunflrsatlariwsynx.com/*
 *://*.eylulunilkindirimleri.com/*
 *://*.eylulyeniyazfirsatiaccountbnance.net/*
+*://*.eylulyildizionllne.com/*
 *://*.eylulyildizionllnee.com/*
 *://*.eymaste.ru/*
 *://*.eymen.cfd/*
@@ -152214,6 +152223,7 @@
 *://*.homenestlerrr3.xyz/*
 *://*.homenestlertorettoflex.cloud/*
 *://*.homenestlerxdkartalflex1.cloud/*
+*://*.homenestlerxdkartalflex2.cloud/*
 *://*.homenestlerxdkartalflex3.cloud/*
 *://*.homenestlerxdkartalflex5.cloud/*
 *://*.homenestlerzehrflex1.com/*
@@ -168549,6 +168559,7 @@
 *://*.istkartlar.com/*
 *://*.istkartlarim.com/*
 *://*.istkartlarmayuklicim.net/*
+*://*.istkartlv.online/*
 *://*.istkartlyukle.com/*
 *://*.istkartmastlsyukle.net/*
 *://*.istkartmerkez.net/*
@@ -178466,6 +178477,7 @@
 *://*.kapindafirsatlaar.com/*
 *://*.kapindafirsatllar.com/*
 *://*.kapindahafta.online/*
+*://*.kapindahaftanin.sbs/*
 *://*.kapindahersey.com/*
 *://*.kapindahersey.online/*
 *://*.kapindahizmet1o1firsati.shop/*
@@ -241649,6 +241661,7 @@
 *://*.rdhrmdkdjd.com/*
 *://*.rdhwy.com/*
 *://*.rdingex10.com/*
+*://*.rdirect.digital/*
 *://*.rdisp.my/*
 *://*.rdjpmr.top/*
 *://*.rdmhml.top/*
@@ -279563,6 +279576,7 @@
 *://*.tr-alisverisler.com.tr/*
 *://*.tr-alisverisler.com/*
 *://*.tr-alisverisler.net/*
+*://*.tr-alisverislerim.click/*
 *://*.tr-alisverislerim.com/*
 *://*.tr-alisverislerim.online/*
 *://*.tr-alisverislerin.com.tr/*
