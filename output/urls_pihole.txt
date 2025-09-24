@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-24 20:10:10 UTC
-# Toplam: 411444 Domain
+# Son Güncelleme: 2025-09-24 21:01:48 UTC
+# Toplam: 411453 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1774,6 +1774,7 @@
 101-23mayisfirsatlar.com
 101-23temmuz.com
 101-23temmuz1.com
+101-24eylulkmp.art
 101-25mayisaksam.com
 101-26temmuzcadir.com
 101-26temmuzgece.com
@@ -170733,6 +170734,7 @@ h3llratnik.hopto.org
 h3logzbf.duckdns.org
 h3lpr3.store
 h3m3n.is-best.net
+h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3sg-yukleme.gq
 h3uh3uh3.ddns.net
 h3weg-12-sa-f-fs-fsaa-sff-21-21wsaf12safsghhsd.sbs
@@ -181236,6 +181238,7 @@ hepyekheptek.com.tr
 hepyekheptek.net
 hepyekheptek.online
 hepyekheptek.xyz
+hepyeniindirimler.world
 hepyeniyepyeni.cfd
 hepylbsipzrlari.shop
 hepzone.hopto.org
@@ -200248,6 +200251,7 @@ indirimkuponu.fun
 indirimkuponum.co
 indirimkurdu.xyz
 indiriml-i-ptt-avm.shop
+indirimlararsizle.cfd
 indirimlazimsacarrefoursa.com
 indirimlegez.net
 indirimler-20gb-turkcell.com
@@ -220943,6 +220947,7 @@ kapmanylxzateldfnoxnxiaomzxms13.com
 kapmapamavarbirhap2.com
 kapmaybfahcumaburada.com.tr
 kapmaybfahcumaburada.xyz
+kapmlianlara.cfd
 kapnda-bhfta1o1-onlne.sbs
 kapnda101.vercel.app
 kapndaonlne-2023.online
@@ -222021,6 +222026,7 @@ kartalhaberleri.com
 kartalharikalardiyari.com
 kartalhavayollari.cloud
 kartalhomenesfleskpleskdsad.cloud
+kartaliftarsaati.com
 kartalileiftarvakti.duckdns.org
 kartalilereklambitmez.com
 kartalilesahuradogru.com
@@ -226494,6 +226500,7 @@ kkdomainssss.space
 kkdomainyakindayizss.com
 kkdomddom.space
 kkdomdomadac.space
+kkdomdomadasdasewss.com
 kkdomdomdomain.com
 kkdomdomdomss.duckdns.org
 kkdomdomssdom.duckdns.org
@@ -268770,7 +268777,6 @@ omenusmomenus.shop
 omeoneha.online
 omerigotten.net
 omerkwr1.duckdns.org
-omersiso.com
 omerta.cc
 omerta.cx
 omerta.mn
@@ -299464,6 +299470,7 @@ r2x1swd.duckdns.org
 r2yq1uc.duckdns.org
 r30pqb5mc.duckdns.org
 r3210.frasg.ru
+r32gt-rh3bhsdf-32rgr23we12edsa.sbs
 r3331231das.duckdns.orgr3331231das.duckdns.org
 r33bz.online
 r34opp.duckdns.org
@@ -308474,6 +308481,7 @@ sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
 sadceyolnyeozalrfrrstlar.blogdns.org
 sadceyonlnyeozlfrsatlar.blogsite.org
+sadceyonlyeozalfrrstlar.blogdns.org
 sadchaira.top
 sadckampsd.duckdns.org
 sadcnonlinkmo.duckdns.org
@@ -314697,6 +314705,7 @@ sayfadolusu.club
 sayfadolusu.online
 sayfadolusu.site
 sayfagdoglerdominezcoc.com
+sayfalar-landing-in.za.com
 sayfalar-webtry-in.za.com
 sayfalariniz-trwebby.za.com
 sayfalarweb-intranet-in.ru.com
