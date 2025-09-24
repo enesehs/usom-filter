@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-24 22:02:02 UTC
-! Total: 327822 rules
+! Last modified: 2025-09-24 23:08:01 UTC
+! Total: 327835 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -67612,6 +67612,7 @@
 *://*.cekilisbitmez.sbs/*
 *://*.cekilisbitmez1.sbs/*
 *://*.cekilisbitmez10.sbs/*
+*://*.cekilisbitmez9.sbs/*
 *://*.cekilisbiz.gq/*
 *://*.cekilisdaykampanyasi.net/*
 *://*.cekilisdaythekacirma.net/*
@@ -113038,6 +113039,7 @@
 *://*.eylhgsm.com/*
 *://*.eyll-frst.site/*
 *://*.eylldekarcada.com/*
+*://*.eylldekrclrdann.com/*
 *://*.eyllfirsatlinda1709indirimlerimiz.com/*
 *://*.eyllilerkazancli.com/*
 *://*.eylll-frst.site/*
@@ -113046,6 +113048,7 @@
 *://*.eylul-acikdenizv2denizbank.com/*
 *://*.eylul-arti-para.lol/*
 *://*.eylul-ayi-destek-basladi.online/*
+*://*.eylul-ayi-icin-gecerli-sorgulama.sbs/*
 *://*.eylul-basvurusu-3000tl.com/*
 *://*.eylul-bitti-bitiyor-katalog.site/*
 *://*.eylul-bizbilmedikkimsebilemez.com/*
@@ -117513,6 +117516,7 @@
 *://*.firsatgunlerithespy.net/*
 *://*.firsatgunlukleri.xyz/*
 *://*.firsatgunnewyearscamp6.net/*
+*://*.firsatgunu.sbs/*
 *://*.firsatgunubasvuruday.net/*
 *://*.firsatgunucepte.com/*
 *://*.firsatgunuisceple.com/*
@@ -135426,6 +135430,7 @@
 *://*.guzelliklerburada.net/*
 *://*.guzelliklerde-sevdik-kalbin-icinden-aynasina.com/*
 *://*.guzelliklerdiyarinda.name.tr/*
+*://*.guzelliklerhepyaninda.cfd/*
 *://*.guzelliklerkisaveheyecanli.cfd/*
 *://*.guzelliklervehayalinyaninda.cfd/*
 *://*.guzellikmerkezi.name.tr/*
@@ -152250,6 +152255,7 @@
 *://*.homensleft.click/*
 *://*.homenslerataksfleskasd.cloud/*
 *://*.homensnsfekfercino.cloud/*
+*://*.homensterodler.com/*
 *://*.homenstlernakjzdna.cloud/*
 *://*.homenstlernakjzdnsa.cloud/*
 *://*.homenzelter.com.tr/*
@@ -179042,6 +179048,7 @@
 *://*.karcarlkc.com/*
 *://*.karcarlkgnleri.com/*
 *://*.karcayarlk.com/*
+*://*.karcdngleidlersizle.com/*
 *://*.karcdyniyll.com/*
 *://*.karcekmsonu.com/*
 *://*.karcerincihazim.store/*
@@ -179545,6 +179552,7 @@
 *://*.kartalilesahuradogru.com/*
 *://*.kartalkgm.com/*
 *://*.kartallafirsatlarbitmez.com/*
+*://*.kartalrklm.com/*
 *://*.kartalsondakikalar.com/*
 *://*.kartaltvhd.com/*
 *://*.kartalxbasvurular.cloud/*
@@ -180794,6 +180802,7 @@
 *://*.kazandiransekildeyaninda.xyz/*
 *://*.kazandiranuygulama.com/*
 *://*.kazandiranyesil.tk/*
+*://*.kazandirir.info/*
 *://*.kazandran-frsatlar-subende.com/*
 *://*.kazandran-uben.com/*
 *://*.kazanedirbilgisi.com.tr/*
@@ -260028,6 +260037,7 @@
 *://*.skcheker.com/*
 *://*.skcmafrtlllrskpyagloemcm.tech/*
 *://*.skctrescdsakcmaz.com/*
+*://*.skdapersmbfrstkpidaucrtszkrgfrsti.tech/*
 *://*.skde.top/*
 *://*.skdfjc.net/*
 *://*.skdhkahs.click/*
@@ -271076,6 +271086,7 @@
 *://*.takipedenetkinlikler.net/*
 *://*.takipedenetkinliklerimiz.net/*
 *://*.takipedenkampanyalar.net/*
+*://*.takipet.vip/*
 *://*.takipetburadan.com/*
 *://*.takipethizlica.shop/*
 *://*.takipetislemini.shop/*
@@ -302679,6 +302690,7 @@
 *://*.webonlinexxbasvurgovxtr.site/*
 *://*.webonlineziraat.com/*
 *://*.weboturkproje.com/*
+*://*.weboturum.digital/*
 *://*.webpad-ihlalsorgu.com/*
 *://*.webpandemidestek-1000tl.com/*
 *://*.webpandemigirisdestek105.com/*
@@ -322457,6 +322469,7 @@
 *://*.yknoxe.xyz/*
 *://*.ykodaknvgggesxx.com/*
 *://*.ykpcepsube.com/*
+*://*.ykpromemkli.com/*
 *://*.ykqatar.com/*
 *://*.ykrandvu.net/*
 *://*.ykrdbzdnolky.shop/*
