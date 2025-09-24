@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-24 08:12:54 UTC
-# Toplam: 411369 Domain
+# Son Güncelleme: 2025-09-24 09:10:25 UTC
+# Toplam: 411387 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9191,6 +9191,7 @@
 2508005846103025-verification-acount2024.duckdns.org
 25080058462103025-verification-acount.duckdns.org
 250888com.com
+250bintokibasvurusu.com
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
 250tlekpromosyon.ml
@@ -21555,6 +21556,7 @@ a.dianjoy.com
 a.doko.moe
 a.doulbeclick.org
 a.fertuferer.cfd
+a.googie.pw
 a.hahauahjsklalapskananzmanah.net
 a.idat.gov-tr.org
 a.ile.basuvurular.net
@@ -30124,6 +30126,7 @@ admin.tslafund.top
 admin.unicredit2.dancovision.ro
 admin.vakiftancekilis2022.com
 admin1.ddns.net
+admin1.tttseo.com
 admin1121.ddns.net
 admin1323.ddns.net
 admin96.hopto.org
@@ -41739,6 +41742,7 @@ amatuermatch.org
 amawitech2002.hopto.org
 amaxtravel.com
 amaycen.com
+amayinedeiyiilerledim.cfd
 amaysu.loveslife.biz
 amaz.hopto.org
 amaz0n-cloud.com
@@ -52721,6 +52725,7 @@ b.9-9-8.com
 b.appjiagu.com
 b.cortanazone.com
 b.discoverahuge.xyz
+b.googie.pw
 b.link
 b.manage-api.pw
 b.misecure.com
@@ -78129,6 +78134,7 @@ bonushizlibasvuru2024.com
 bonushizlibasvuru2024.online
 bonushusrani.com
 bonusiade.vercel.app
+bonuskafa.click
 bonuskafesi.b-cdn.net
 bonuskampanya.cf
 bonuskampanya.ga
@@ -103117,6 +103123,7 @@ ddnsssaa.ddns.net
 ddobnajanu.club
 ddoood.com
 ddos-cc.org
+ddos.tttseo.com
 ddosataack5.ddns.net
 ddoser.org
 ddosnoodle.ddns.net
@@ -113946,6 +113953,7 @@ dinamicmarket.com
 dinamico360.ddns.net
 dinamik.no-ip.org
 dinamikce.name.tr
+dinamikmenkuldegerler.net
 dinamikyatirimkiymetler.com
 dinamo-arena.com
 dinamo-hockey.ru
@@ -135607,6 +135615,7 @@ eniyisindendeiyiyz.com
 eniyisindrmlrmbusayki.click
 eniyisinibilirsinilefrst.com
 eniyisitr.live
+eniyisiyim.cfd
 eniyisndlxmdlsmr.click
 eniyisndrmlxrmbunlarbuayk.ru.com
 eniyisnxdlsmdlrmnmxdm.online
@@ -150443,6 +150452,7 @@ flrhadiindirgunsalimsal.store
 flrksltmarldfm.duckdns.org
 flrkstlarlar1948.duckdns.org
 flrlssathemengitsin.click
+flrlstattabiburdaolcak.click
 flrs4tlarburda30maylsgel.com
 flrsasatcumartesidenhemseno.store
 flrsat-buradageldi.shop
@@ -188120,6 +188130,7 @@ hizmetleriniz.com.tr
 hizmetleriniz.org
 hizmetleriniz.shop
 hizmetlerinizbasvuruedev.tk
+hizmetlerinizburads.store
 hizmetlerinizim.net
 hizmetleriniziz.net
 hizmetlerionline.graduatecommunications.com
@@ -202806,6 +202817,7 @@ internet-mobile-finans.com
 internet-mobile.com
 internet-mobilqnbfinans.com
 internet-mobilsube.com
+internet-money.site
 internet-odom.online
 internet-online-yapikredi-sube-tr.cf
 internet-onlinesubemiz.com
@@ -226097,6 +226109,7 @@ kisiselwarranty.xyz
 kisiselwarrantybb.com.tr
 kisiselwarrantybb.xyz
 kisisevgi.org
+kisisorgu.blogspot.com
 kisitkaldir.pro
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
@@ -366049,6 +366062,7 @@ uygunahmealllll.site
 uygunahmeeall.com
 uygunahmel.shop
 uygunahmell.com
+uygunaktar.xyz
 uygunal.club
 uygunal.site
 uygunalburada.biz.tr
@@ -377921,6 +377935,7 @@ web.flashplayerup.com
 web.foptimize.net
 web.garantibbvays.com
 web.garaxlogix.online
+web.googie.pw
 web.googlemehard.net
 web.hcmuafgh.com
 web.jsonpost.xyz
@@ -388543,6 +388558,7 @@ www.gilforsenate.com
 www.glamourstorepa.com.br
 www.gokhantemiz.com
 www.gokhanturizmvetemizlik.com
+www.googie.pw
 www.gooline.net
 www.gooline.pk
 www.goolineb2b.com
@@ -388584,6 +388600,7 @@ www.icsswaziland.com
 www.icuberestobar.com
 www.icykw.com
 www.ieced.com.pk
+www.ig26.com
 www.igo3.co.il
 www.ihlosiqs-pm.co.za
 www.ilkhaber.site
@@ -388960,6 +388977,7 @@ www.ynngon.ml
 www.yomka.ml
 www.youpilot.org
 www.yuktu.ml
+www.yx52.pw
 www.zamilindustrial.com
 www.zhwanjie.com
 www.ziraatonline-iade-sube.net
