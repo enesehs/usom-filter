@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-24 07:10:09 UTC
-# Toplam: 411357 Domain
+# Son Güncelleme: 2025-09-24 08:12:54 UTC
+# Toplam: 411369 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5011,6 +5011,7 @@
 165548975684.com
 16556166114.xyz
 16556166116.xyz
+165565265665567.duckdns.org
 16590-coinbase.com
 16594373-coinbase.com
 16624831-coinbase.com
@@ -88081,6 +88082,7 @@ cekilisbasvurumuhemendegerlendir.com
 cekilisbasvurusu-enpara.com
 cekilisbireyselileacikdenizv2denizbank.co.vu
 cekilisbitmez.sbs
+cekilisbitmez1.sbs
 cekilisbiz.gq
 cekilisdaykampanyasi.net
 cekilisdaythekacirma.net
@@ -91453,6 +91455,7 @@ ciceksepetim.pro
 ciceksepetim.shop
 ciceksepetim.site
 ciceksepetim.xyz
+ciceksepetin.info
 ciceksepetinde.com
 ciceksepetinde.de.com
 ciceksevdam.net
@@ -118255,6 +118258,7 @@ dstv.atgo.cc
 dstv.xsgo.cc
 dstvincapetown.co.za
 dsuit.dulgeryapi.com.tr
+dsurr.com.tr
 dsush3py.duckdns.org
 dsuycuyqim.duckdns.org
 dsvchost.com
@@ -133929,6 +133933,7 @@ emlakemenizfiz.net
 emlakenpara.com
 emlakgiris.com
 emlakgunm.net
+emlakhaber.sbs
 emlakhizliodeme.net
 emlakhizmxtlerimx13.net
 emlakin.hizlimerkeziletim.com
@@ -144236,6 +144241,7 @@ farklimsihayati.site
 farkliurun.name.tr
 farkyaratanfirsatlardaaysonu.online
 farkyaratanfirsatlardaaysonu.xyz
+farkyaratanindirimlerdeyiz.xyz
 farlaresdghaerads.com
 farm-sharing.at
 farmaciacairoli.eu
@@ -152581,6 +152587,7 @@ frsatlarburdanhazirdevamet.com
 frsatlarburlarda.com
 frsatlarbusenenina101de.info
 frsatlardakacirmamaliyiz.duckdns.org
+frsatlardasizlere101.com
 frsatlardasizlere101de.xyz
 frsatlardnyasindaszlerleyzz.com
 frsatlarikacirmasakin.com
@@ -168303,6 +168310,7 @@ gununfirsatlari.club
 gununfirsatlari.website
 gununfirsatlariburada.com.tr
 gununfirsatlariburada.online
+gununfirsatlariburada.shop
 gununfirsatlariburada.xyz
 gununfirsatlarizamani.com
 gununfirsatpaketi-turkcell.com
@@ -225178,6 +225186,7 @@ kilimcinursia5.com
 kilimcinursia6.com
 kilimcinursia7.com
 kilimcinursia8.com
+kilimikipardatmadanreklamdayim.cfd
 kill1234.com
 kill2342.ddns.net
 kill236.xyz
@@ -228471,6 +228480,7 @@ kontoyukleme.ga
 kontravolta.cfd
 kontro-yuklebimas.net
 kontrol-ekranindan-bak.sbs
+kontrol-sagla-ve-ogren.sbs
 kontrolarac.app
 kontrolbilesenleri.com
 kontroletdosyani.com
@@ -261735,6 +261745,7 @@ nitrogin3.zapto.org
 nitrokod.com
 nitromanager.ddns.net
 nitromld.ddns.net
+nitromuhendislikcnc.com
 nitrosoft.ddns.net
 nitrosoftwares.shop
 nitrott.ddns.net
@@ -401257,6 +401268,7 @@ yeniden-mutluluk-dolusu-guzellik-burada.com.tr
 yeniden-seninle-buralara-severek-acele.xyz
 yeniden-sevilen-sekilde-karsiniza-geldi.com
 yeniden-sizlere-geldi-yaninizda-daima-burada.com
+yeniden-sorgulama-hizmeti-aktiftir.sbs
 yeniden-ucuzun-ucuzu-basladi.com
 yeniden-yanimizda-olmasi-mutluluk-getirdik.com
 yeniden-yaninda-hemen-kapinda-simdi.top
