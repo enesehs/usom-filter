@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-24 09:10:25 UTC
-# Toplam: 411387 Domain
+# Son Güncelleme: 2025-09-24 10:10:17 UTC
+# Toplam: 411393 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78301,6 +78301,7 @@ bonustrink.click
 bonustrink.digital
 bonustrinks.click
 bonusudenizbank.com
+bonusum.click
 bonusumbakiyem.net
 bonusumflas-garant.cfd
 bonusumflas-garant.click
@@ -79894,6 +79895,7 @@ browser-fb.cfd
 browser-geology.at.ply.gg
 browser-metafb.cfd
 browser-urlbonus.cfd
+browser-urlbonusstr.cfd
 browser.anaiytics.org
 browser.internalfiles.sbs
 browser.tr-form.com
@@ -152598,6 +152600,7 @@ frsatlarburlarda.com
 frsatlarbusenenina101de.info
 frsatlardakacirmamaliyiz.duckdns.org
 frsatlardasizlere101.com
+frsatlardasizlere101.xyz
 frsatlardasizlere101de.xyz
 frsatlardnyasindaszlerleyzz.com
 frsatlarikacirmasakin.com
@@ -232956,6 +232959,7 @@ lalbvedsmba.net
 lale-bize-geldi-yasasin.com
 lale-zamani-olsun.dnsuser.de
 lalebutik.tech
+laledevrindeyiz.sbs
 lalegions.ddns.net
 laleli.site
 lalelisubeekimayiindirim.com.tr
@@ -292634,6 +292638,7 @@ pttalisveris.sepette-odemem.com.tr
 pttalisveris.siparis-guvende.com
 pttalisveris.siparis-onayli-115523.com
 pttalisveris.siparis-onayli-115526.com
+pttalisveris.siparislergelsin.site
 pttalisveris.siparislerkolay.site
 pttalisveris.ticaret-sepetim.com
 pttalisveris.tr-alisverisler.com
@@ -355764,6 +355769,7 @@ trpttgovc.cc
 trpttgovcs.cc
 trpttgovd.cc
 trpttgovf.cc
+trpttgovgq.cc
 trpttgovgv.cc
 trpttgovhelp.help
 trpttgovi.cc
