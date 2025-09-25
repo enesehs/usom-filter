@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-25 13:28:10 UTC
-# Toplam: 411586 Domain
+# Son Güncelleme: 2025-09-25 14:09:53 UTC
+# Toplam: 411587 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -224963,6 +224963,7 @@ kgmodemeleri.com
 kgmodemelerim.net
 kgmodememerkezidd.net
 kgmodememerkeziddpttawm.net
+kgmol.life
 kgmonliineportal.net
 kgmonline-odeme-org.ml
 kgmonline.net
