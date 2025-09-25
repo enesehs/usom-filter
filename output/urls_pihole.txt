@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-25 08:13:00 UTC
-# Toplam: 411525 Domain
+# Son Güncelleme: 2025-09-25 09:10:13 UTC
+# Toplam: 411533 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -36306,6 +36306,7 @@ akfaizsiz.live
 akfaizsiz.net
 akfaizsizbireysel.com
 akfaizsizekim.com
+akfaizsizfirsatlar.duckdns.org
 akfaizsizkampanya.online
 akfaizsizkre.com
 akfaizsizkredi.cloud
@@ -72068,6 +72069,7 @@ bizim-teklfierl-sizlerle.store
 bizim-yenii-bjvbncnm-girshnkjs.blogspot.com
 bizim-yerimize.net
 bizim-yukselenlerimiz.com
+bizim101cimizburdas.store
 bizimailedenumre150ailealmdk.online
 bizimaktuel.com
 bizimbag.com
@@ -143512,6 +143514,7 @@ f7c0sv.duckdns.org
 f7c64.vigp
 f7e3bnu7b.duckdns.org
 f7f41a34068709a340455d05f8316c3e.info
+f7fdf38cbca6be775e2ad8d9b7a3ac64.ap-northeast-1.resend-links.com
 f7fsksfkskfsfsafs.xyz
 f7ktqj.duckdns.org
 f7obya8l.duckdns.org
@@ -180423,6 +180426,7 @@ hemenkapilarinizagelsnz.com
 hemenkapilarinizda.ptt-kargogonderileriniz.org
 hemenkapinagelsin.com
 hemenkapinagelsinsiparssler.xyz
+hemenkapinda.xyz
 hemenkapindacom.com
 hemenkapindasizle.83782729262739272928274917.com
 hemenkapindsnn.click
@@ -208883,6 +208887,7 @@ istkarttertdfs.net
 istkarttlyukle.com
 istkarttt.com
 istkartttyklemee.net
+istkartw.online
 istkartwn.net
 istkartx.com
 istkartykelzx.net
@@ -262595,6 +262600,7 @@ nocodeform.io
 nocomplatiesandsamd.blogspot.com
 nocrynetworking.duckdns.org
 nocturn.fi
+nocturneook.com
 nod32.zapto.org
 nod32up.ddns.net
 nodab.ddns.net
@@ -288618,6 +288624,7 @@ pptredelivery.xyz
 pptsgovtr.click
 pptsgovtr.icu
 pptt-g0v.top
+pptt-gov.sbs
 pptt-govtr.top
 pptt-kargohizmtnz-takiple.com
 ppttavm-guvenli-odeme.cfd
@@ -332591,6 +332598,7 @@ sponsorlu-gonderim-8s.xyz
 sponsorlu-gonderim-9.xyz
 sponsorlu-gris1749235.com
 sponsorlu-hafta.xyz
+sponsorlu-hizmet.world
 sponsorlu-icerik-960912065.online
 sponsorlu-icerik.com
 sponsorlu-icerik.name.tr
