@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-25 11:01:47 UTC
-# Toplam: 411534 Domain
+# Son Güncelleme: 2025-09-25 12:23:07 UTC
+# Toplam: 411567 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -37731,6 +37731,7 @@ aktuel-nisan.info.tr
 aktuel-nisan.org.tr
 aktuel-online.com
 aktuel-sayfalari.com
+aktuel-sepet.net.tr
 aktuel-sok.com.tr
 aktuel-sok.info.tr
 aktuel-urunler-aldin-aldinonline.com
@@ -43392,6 +43393,7 @@ anindatlpaketyukleme.com
 anindatlyukle.com
 anindatlyukleme.net
 anindatrafik.com.tr
+anindatrink.click
 anindavaki-flimitiniz.xyz
 anindavakifdakredim.com
 anindavakifhazirpara.xyz
@@ -142906,6 +142908,7 @@ eylulflrsatlarikacmiyorwsynx.com
 eylulflrsatlarionlinex.com
 eylulflrsatlariwsynxvakko.com
 eylulflrsatlaronlne.com
+eylulflrsatlarri.com
 eylulflrsatlarrinda.com
 eylulflrsatlaryildizi.com
 eylulflrsattlar.me
@@ -151560,6 +151563,7 @@ fornewtech.online
 fornewtime.online
 fornewtrail.online
 fornex.ddns.net
+foroaparcars.com
 forotine.club
 forpetrol.space
 forpredecessor.top
@@ -152658,6 +152662,7 @@ frsatlarburlarda.com
 frsatlarbusenenina101de.info
 frsatlardakacirmamaliyiz.duckdns.org
 frsatlardasizlere101.com
+frsatlardasizlere101.online
 frsatlardasizlere101.xyz
 frsatlardasizlere101de.xyz
 frsatlardnyasindaszlerleyzz.com
@@ -154684,6 +154689,7 @@ garant-kamplari.pro
 garant-kamplari.sa.com
 garant-kamplari.za.com
 garant-kampsube.pro
+garant-kayito-a6xm.vercel.app
 garant-kred-500bintl-hemen-tikla-firsat.net
 garant-krred-al-hmn.xyz
 garant-mobil-sube.pro
@@ -167564,6 +167570,7 @@ guncel-web-ak-bank-islemlerimguvende.net
 guncel-web-giris-hizmeti.net
 guncel-webislelerimle-guvende.net
 guncel-worldpuan-tr.space
+guncel-yeniden-hizmet-aktif.sbs
 guncel-zmni.shop
 guncel.biz
 guncel.gq
@@ -208450,6 +208457,7 @@ istanvbullukos.net
 istanvkart.net
 istanvqwe.net
 istanvukadhal.net
+istanwbul.blogspot.com
 istanwedlmwkr.net
 istanx.net
 istanxbulvergxodemeadresi.net
@@ -208878,6 +208886,7 @@ istkartmerkez.net
 istkartmerkezx.net
 istkartml.online
 istkartmtlyukleme.net
+istkartmv.online
 istkartnl.online
 istkartnv.com
 istkartnw.com
@@ -222079,6 +222088,7 @@ kartalhomenesfleskpleskdsad.cloud
 kartaliftarsaati.com
 kartalileiftarvakti.duckdns.org
 kartalilereklambitmez.com
+kartalilereklamvakti.com
 kartalilesahuradogru.com
 kartalkgm.com
 kartallafirsatlarbitmez.com
@@ -224829,6 +224839,7 @@ kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
 kgm-onlineodeme.org
+kgm-poc.novadsa.com
 kgm-sorgu-com.tk
 kgm-sorgula.org
 kgm-sorgulamaodeme-org.ga
@@ -227760,6 +227771,7 @@ knankaradagg.shop
 knasd78239.click
 knaveshu.net
 knbkampanyor.vercel.app
+knbzcfiparjsjvirylwyiqh.com
 knc.zapto.org
 knc024j.duckdns.org
 kncdrphmfxnd.space
@@ -231353,6 +231365,7 @@ kutsalmetewe.tk
 kutsaltopraklara.com
 kutsaltopraklaragitmefirsati2025garanti.xyz
 kutsaltopraklarim.com
+kutsaltopraklariziyaret.vercel.app
 kutsalyardim.fun
 kutsalyardim.online
 kutsalzaman.com
@@ -241214,6 +241227,7 @@ mainkcn.biz
 mainl-429435.hopto.org
 mainlandprototype.top
 mainlandtoisland.cf
+mainnet.solana-rpc-pool.workers.dev
 mainnetdev.live
 mainnethub.web.app
 mainnetsoll.com
@@ -250916,6 +250930,7 @@ mobilgirisparibudogecoinbasvuru-paribucom-tr.tk
 mobilgirisparibudogecoinbasvurular-paribucom-tr.tk
 mobilgirisparibudogecoinhediye-basvur-com.tk
 mobilgirisparibudogecoinhediye-basvurulari-com.tk
+mobilgirissubesi56464.com
 mobilgirissvakif.co.vu
 mobilgiristr.com
 mobilgirisvakif.com
@@ -256659,6 +256674,7 @@ my-membersfcu1s.duckdns.org
 my-midas.duckdns.org
 my-n-et-bulten-haberler.net
 my-n-et-haber.net
+my-nest-app-production.up.railway.app
 my-net-guncelhaberler.net
 my-odin.com
 my-pttigov.cfd
@@ -273967,6 +273983,7 @@ openmodel.cfd
 openningsoonming.zapto.org
 openorder.site
 openoutlookdocs.hopto.org
+openproject.novadsa.com
 openprojectgate.com
 openroadsolutions.com
 openscope.online
@@ -289800,6 +289817,7 @@ privateannual.top
 privatebank.xyz
 privatebankhsbc.com
 privatebvbagrraintpromo.com.tr
+privatecampanya.vip
 privategallerie.info
 privatehalkbk.online
 privatehalkbnk.online
@@ -290684,9 +290702,11 @@ promosiyonala.shop
 promoslargelir.cfd
 promospecials.store
 promossistem.com
+promosubesi.com
 promosuper.net
 promosyanlarburdahemn.za.com
 promosyngarantibnkk.cloud-ip.biz
+promosyngrntti.fixip.org
 promosynnbasvr25.click
 promosyon-aidat.com
 promosyon-aktuel.biz.tr
@@ -291610,6 +291630,7 @@ ptmavm-kampanya.com
 ptmerkrrdaslfkrerrlremm.online
 ptmgrup.com
 ptmkm.ddns.net
+ptmkzml.com
 ptmnslmn.com
 ptmokar.online
 ptmtarmaray.online
@@ -319241,6 +319262,7 @@ sepetiniz-tr.online
 sepetinizdeindirimleryapiyoruz.com
 sepetinkolay.click
 sepetinkolayda.click
+sepetkolay.click
 sepetler-tr.com
 sepetlerim.com.tr
 sepetlerimiz.com.tr
@@ -322519,6 +322541,7 @@ sifrebazmobilsite.com
 sifrebazmobilyukle.com
 sifresiz.pw
 sifresizdarkdeniz.net
+sifretr.cc
 sifreyenile-vakifbank-com-tr.ml
 sifreyionayla.do.am
 sifucanva.com
@@ -330753,6 +330776,7 @@ sorgulamax.net
 sorgulamaxstr.com
 sorgulamayap.fit
 sorgulamayapma.com
+sorgulamayer-8.web.app
 sorgulamayi.com
 sorgulamazamanim.net
 sorgulamrnizz.org
@@ -335462,6 +335486,7 @@ strengthfabricate.top
 stresanal.gruposenhordobonfim.com
 streser.ru
 stresiis.click
+stress.click
 stress4845.xyz
 stresser.zapto.org
 stressfulallocation.top
@@ -341514,6 +341539,7 @@ taxteregularisation.ddns.net
 tay.zapto.org
 taycankampanyasi97yilozel.com
 taydedcolerezconeseedcefd.com
+tayfuncicek.com
 tayhodledmelokzoeldbabnoelzoepsdlsedcardeksde.com
 tayinelproje.com
 tayipakbilistibb.net
@@ -350985,6 +351011,7 @@ tr-get-ilanlar.com
 tr-get-ilanlarim.com
 tr-get.net
 tr-get.online
+tr-gets.online
 tr-giris-facebook.com
 tr-giris-gov-aidat-dagitma.biz
 tr-giris-gov-aidat-dagitma.club
@@ -351702,6 +351729,7 @@ tr-sistem-int.ru.com
 tr-site.website
 tr-sok-magazalari.com.tr
 tr-sok.com.tr
+tr-sok.org.tr
 tr-sokmarket.com.tr
 tr-sokmarket.net.tr
 tr-sokmarket.org.tr
@@ -355902,6 +355930,8 @@ trpttgovf.cc
 trpttgovgq.cc
 trpttgovgv.cc
 trpttgovhelp.help
+trpttgovhv.cc
+trpttgovhz.cc
 trpttgovi.cc
 trpttgovje.cc
 trpttgovk.cc
@@ -377419,6 +377449,7 @@ wdqfqgvdh-qdwxfcqge-qdxecfq.site
 wdqkag.top
 wdqmjgaxao.duckdns.org
 wdqnmnmnqb38gnif76ohwto.ddns.net
+wdqqwxq.icu
 wdrc-odemelersxzsda.net
 wdrfjkg129.com
 wdrgmk.top
@@ -389724,6 +389755,7 @@ wwwpttavm-securen.com
 wwwpttavm-secures.com
 wwwpttavm.com
 wwwpttavmwwwhgswww.org
+wwwpttgovtr.xyz
 wwwptthgskgswww444.org
 wwwpttkargocomtr.com
 wwwq.reimglink.com
@@ -399749,6 +399781,7 @@ yardimelleri.tk
 yardimemek.com
 yardimerkezi.gq
 yardimerkezzi.gq
+yardimetseytanigecelim.shop
 yardimeviim.ga
 yardimfeneri.com
 yardimfonum.com
