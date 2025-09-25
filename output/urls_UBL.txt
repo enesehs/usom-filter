@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-25 22:01:53 UTC
-! Total: 327964 rules
+! Last modified: 2025-09-25 23:08:12 UTC
+! Total: 327970 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -57731,6 +57731,7 @@
 *://*.bnboutlet.com/*
 *://*.bnbsimdibasvur.cloud/*
 *://*.bnbstaking.top/*
+*://*.bnbsvrtr.site/*
 *://*.bnbsvrtr.tech/*
 *://*.bnbsvrtr.xyz/*
 *://*.bnbtr-actice01.cloud/*
@@ -91645,6 +91646,7 @@
 *://*.dsasdasddsaadsadspaket.net/*
 *://*.dsasdcvv-dvttt.com/*
 *://*.dsasfsafasfsafsa.com/*
+*://*.dsavergisizindirimkapinageldi.icu/*
 *://*.dsawdqsda.click/*
 *://*.dsbank.co/*
 *://*.dsdenizbank.com/*
@@ -141812,6 +141814,7 @@
 *://*.hayalindeki-yenilikler-yuzune-nese-getirdi.com/*
 *://*.hayalindekiguzellikler.top/*
 *://*.hayalindekikapinageldi.cfd/*
+*://*.hayalindekimujdelihaber.cfd/*
 *://*.hayalindekiyaninageldi.cfd/*
 *://*.hayalindekiyaninageldi.top/*
 *://*.hayalinden-daha-fazlasi-seni-bekliyor.com/*
@@ -189632,6 +189635,7 @@
 *://*.light-boy.top/*
 *://*.light-client.com.tr/*
 *://*.light-xyz.top/*
+*://*.lightchord.sbs/*
 *://*.lighteniger.tech/*
 *://*.lightenjoydefinition.com/*
 *://*.lighterepisodeheighte.fun/*
@@ -242238,6 +242242,7 @@
 *://*.redirect-bunq-client.ru/*
 *://*.redirect-drive.online/*
 *://*.redirect-hizmet.shop/*
+*://*.redirect-o.com/*
 *://*.redirect-review.online/*
 *://*.redirect-sso.com/*
 *://*.redirect31-online.shop/*
@@ -272310,6 +272315,7 @@
 *://*.tbpack.cn/*
 *://*.tbprndnsun.net/*
 *://*.tbpum-buisness.net/*
+*://*.tbrklm.click/*
 *://*.tbsn10373829krklm.site/*
 *://*.tbstarbil.info/*
 *://*.tbt-sceitech.com/*
