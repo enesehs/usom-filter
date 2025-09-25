@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-25 04:11:07 UTC
-# Toplam: 411494 Domain
+# Son Güncelleme: 2025-09-25 05:09:34 UTC
+# Toplam: 411499 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3209,6 +3209,7 @@
 111111111111111.online
 111111111111111111.loseyourip.com
 1111113232323-23232.cloud
+1111212121212121.duckdns.org
 1111233232311123211.cloud
 1111254865645-online.cloud
 11114343-111.duckdns.org
@@ -88115,6 +88116,7 @@ cekilisbireyselileacikdenizv2denizbank.co.vu
 cekilisbitmez.sbs
 cekilisbitmez1.sbs
 cekilisbitmez10.sbs
+cekilisbitmez7.sbs
 cekilisbitmez8.sbs
 cekilisbitmez9.sbs
 cekilisbiz.gq
@@ -157472,6 +157474,7 @@ gareentarentacar.shop
 gareenti.com
 gareentta.com.tr
 gareenttta.shop
+garefsemklikrdbsvr.fixip.org
 garefskrdbsru.fixip.org
 garen.zapto.org
 garena-freefire-1.duckdns.org
@@ -246141,6 +246144,7 @@ mertrs.club
 merudlement.com
 merueni.pro
 meruytedrvctd.xyz
+meruytehhdrvctd.xyz
 merv33d4213dds33.wiki
 merv34i43i2ds.wiki
 mervd12-af.space
@@ -314735,6 +314739,7 @@ sayfa-intranet-webtry-in.za.com
 sayfa-ist.blogspot.com
 sayfa-kamp-in.sa.com
 sayfa-kampanyalaribim.com
+sayfa-landmy-trgo-in.ru.com
 sayfa-webbing-intranet-in.za.com
 sayfabasvuruiadeformgiris.ml
 sayfadolusu.club
