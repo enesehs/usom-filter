@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-25 21:02:00 UTC
-! Total: 327947 rules
+! Last modified: 2025-09-25 22:01:53 UTC
+! Total: 327964 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6566,6 +6566,8 @@
 *://*.2434088234-3247567234.site/*
 *://*.243767635356463.com/*
 *://*.243f01f25.info/*
+*://*.245-858-973-61.cfd/*
+*://*.245-858-973-62.cfd/*
 *://*.24512512.work/*
 *://*.24523512.xyz/*
 *://*.2452423423662.com/*
@@ -16063,6 +16065,7 @@
 *://*.acik-mobildenizbasvurusupriz.com/*
 *://*.acik-mobildenizfirsat.com/*
 *://*.acik-mobildenizhediye-basvuruonay.com/*
+*://*.acik-net.site/*
 *://*.acik-p-basvuruinuz.com/*
 *://*.acik-subedeniademobil.com/*
 *://*.acik-subemobildenizbasvuru.com/*
@@ -25103,6 +25106,7 @@
 *://*.aktifprbbasvurusu.com/*
 *://*.aktifprbmbasvurutr.com/*
 *://*.aktifprbmonline.com/*
+*://*.aktifpromosyonlar.com/*
 *://*.aktifresmiprbgiris.com/*
 *://*.aktifsatisim.com.tr/*
 *://*.aktifsayfa.net/*
@@ -58797,6 +58801,7 @@
 *://*.bntrgiris.shop/*
 *://*.bntrgiris.xyz/*
 *://*.bntrgirisonline.com/*
+*://*.bntrkeygiris.com/*
 *://*.bntrkolaybasvuru-xrp.com/*
 *://*.bntrkolaybasvuru-xrp2.xyz/*
 *://*.bntrkolaybasvuru.com/*
@@ -58826,6 +58831,7 @@
 *://*.bntsbasvurutr.com/*
 *://*.bnturkey-giris.site/*
 *://*.bnturkey-giris.xyz/*
+*://*.bnturkey-redirect.com/*
 *://*.bnturkey-togg.com/*
 *://*.bnturkeykripto.xyz/*
 *://*.bnturkeykriptovarlikalimsatimplatformuas.com/*
@@ -77424,6 +77430,7 @@
 *://*.cvyui.com/*
 *://*.cw1.ir/*
 *://*.cwaxoflv.com/*
+*://*.cwdqdxq.cfd/*
 *://*.cwexxizxzi.com/*
 *://*.cwfqhgaca-xqdxqxqfa-twfegece.shop/*
 *://*.cwfqqwqf-wffwfqwwq-wqfwqwq.shop/*
@@ -97046,6 +97053,7 @@
 *://*.e-onlineislemlerim-kontroller.cf/*
 *://*.e-onlinekatilim.top/*
 *://*.e-onlinekrdibasvrusu.biz/*
+*://*.e-onlinekrdibasvrusu.work/*
 *://*.e-onlinem.com/*
 *://*.e-onlinem.net/*
 *://*.e-onlinemagaza.com.tr/*
@@ -125403,6 +125411,7 @@
 *://*.gaybgunesden.site/*
 *://*.gayemeneshaserenesdones.site/*
 *://*.gayetguzelkampanyalar.xyz/*
+*://*.gayetiyiyiz.shop/*
 *://*.gayfdagrk847878.xyz/*
 *://*.gayfo.host/*
 *://*.gaygenconisdos30.top/*
@@ -131031,6 +131040,7 @@
 *://*.goponl.online/*
 *://*.goproders.com/*
 *://*.gopromotions.mx/*
+*://*.gor-ve-haberin-olsun-2025.sbs/*
 *://*.gorainbowzone.tk/*
 *://*.gorapidcdn.com/*
 *://*.goraselmk.site/*
@@ -135359,6 +135369,7 @@
 *://*.guzel-saran-bizleri-pamukta-yarar-sarariz.com/*
 *://*.guzelalisverishemen.xyz/*
 *://*.guzelalisverisler.xyz/*
+*://*.guzelaylar.sbs/*
 *://*.guzelaylisubelerindeinanilmazdeveller.com/*
 *://*.guzelbasliyorhersey.com/*
 *://*.guzelbayramlar.xyz/*
@@ -199154,6 +199165,7 @@
 *://*.miniiosapps.xyz/*
 *://*.minikdost.name.tr/*
 *://*.minikekosistemler.pro/*
+*://*.minikhayatlar.online/*
 *://*.miniklanssstoezya.ru/*
 *://*.minikme.cyou/*
 *://*.minikpatiler.xyz/*
@@ -233529,6 +233541,7 @@
 *://*.promosyonda15bintl.xyz/*
 *://*.promosyondegerlendirme.com/*
 *://*.promosyondeniz.online/*
+*://*.promosyondonemleri.com/*
 *://*.promosyondurumu.com/*
 *://*.promosyonduyurulari.com/*
 *://*.promosyonduyurusu.com/*
@@ -247148,6 +247161,7 @@
 *://*.safesurf.world/*
 *://*.safetb-amazon.jp/*
 *://*.safetourismgoturkiye.com/*
+*://*.safeturndms.work/*
 *://*.safety-amazon.jp/*
 *://*.safety-instagram.com/*
 *://*.safety2venture.us/*
@@ -263508,6 +263522,7 @@
 *://*.sorgulama-turkiye.site/*
 *://*.sorgulama-ve-aktarma-ekrani.one/*
 *://*.sorgulama-ve-aktarma-hizmeti.website/*
+*://*.sorgulama-ve-aktarma-hizmetleri.sbs/*
 *://*.sorgulama.app/*
 *://*.sorgulama.online/*
 *://*.sorgulama.space/*
@@ -272186,6 +272201,7 @@
 *://*.tbcmuygulamasipandmeiyardim16.com/*
 *://*.tbcmuygulamasipandmeiyardim7.com/*
 *://*.tbcmuygulamasipandmeiyardim9.com/*
+*://*.tbcpteprom.click/*
 *://*.tbcrbnnrcgris.com/*
 *://*.tbcresiuygulamasi.com/*
 *://*.tbcserver.net/*
@@ -325330,6 +325346,7 @@
 *://*.ziarataratatasisaffas.icu/*
 *://*.ziarataratatasisaffas.sbs/*
 *://*.ziaratarsafkfsahsgdas.icu/*
+*://*.ziaratasdksfagasfkdsgsdas.icu/*
 *://*.ziaratasdksfagdfssd.cfd/*
 *://*.ziaratasdksfagdfssd.cyou/*
 *://*.ziaratasdksfagdfzslagdi.icu/*
