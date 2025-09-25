@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-25 15:09:34 UTC
-# Toplam: 411598 Domain
+# Son Güncelleme: 2025-09-25 16:10:39 UTC
+# Toplam: 411606 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9195,6 +9195,7 @@
 2508005846103025-verification-acount2024.duckdns.org
 25080058462103025-verification-acount.duckdns.org
 250888com.com
+250binkonutprojesibasvuru.com
 250bintokibasvurusu.com
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
@@ -38726,6 +38727,7 @@ alaskausmembervalid.zapto.org
 alaskdaskpda.ddns.net
 alasra-paper.duckdns.org
 alaumebarikvelabarik.net
+alavakedava.sambal.web.id
 alayanizikitabinismokakao.club
 alayhamtechnologies.com
 alayinaclick.cfd
@@ -54519,6 +54521,7 @@ bahrainssc.org
 bahrdevo.endoftheinternet.org
 bahreyn6.xyz
 bahrfirstlarikacrma.sbs
+bahrfirstlarikacrmam.sbs
 bahri.site
 bahria-maritime-services.com
 bahriatownservices.com
@@ -85603,6 +85606,7 @@ calmlake07.top
 calmlass.top
 calmstill.xyz
 calmvee.com
+calmwoodpass.pro
 caloi1920.ddns.net
 caloprkds.ml
 calorieglar.top
@@ -219541,6 +219545,7 @@ kampanyalialisverisler.click
 kampanyalialisverisler.icu
 kampanyalialisverisler.my
 kampanyalialisverisler.sbs
+kampanyalialisverislerbizde.com.tr
 kampanyalialisverislerbizde.online
 kampanyalialisverislerbizde.xyz
 kampanyalialisverssis.com.tr
@@ -224831,6 +224836,7 @@ kgm-borcsorgula-org.ml
 kgm-borcsorgula.org
 kgm-ceza.org
 kgm-cezaodeme.org
+kgm-etc.com
 kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
 kgm-gecis-sorgu-com.tk
@@ -224929,6 +224935,7 @@ kgmgovtr.ink
 kgmgovtr.top
 kgmgovtrbuy.com
 kgmgovzztr.top
+kgmgv.life
 kgmhgecsewbgcshizliodeivblgi.duckdns.org
 kgmhgs.net
 kgmhgsbrcislm.com
@@ -267894,6 +267901,7 @@ officiallysoldtoprof.ddnsfree.com
 officialpeddle.top
 officialpudding.top
 officinaartaud.org
+offiec.us.kg
 offikey.ddns.net
 offileck.online
 offlass.top
