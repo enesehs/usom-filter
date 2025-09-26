@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-26 20:10:03 UTC
-# Toplam: 411803 Domain
+# Son Güncelleme: 2025-09-26 21:07:33 UTC
+# Toplam: 411807 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -208266,6 +208266,7 @@ istanbulkartindirimgunlerii.net
 istanbulkartindirimzamani.net
 istanbulkartiniiiz34.cf
 istanbulkartlyukleme.com
+istanbulkartm.sbs
 istanbulkartmobil.site
 istanbulkartnakiye.bsvrislm.com
 istanbulkartnn.online
@@ -301774,6 +301775,7 @@ re-activering.ddns.net
 re-hiizmet-servisde-deeevam-co.top
 re-netverification.ddns.net
 re-webg5auth09.ddns.net
+re.mefound.com
 re.misecure.com
 re25d.zapto.org
 re32ff5game.com
@@ -314985,6 +314987,7 @@ sayfag-land-webtr-in.ru.com
 sayfagdoglerdominezcoc.com
 sayfal-myland-webtr-in.ru.com
 sayfalar-landing-in.za.com
+sayfalar-trylar-webbing-in.za.com
 sayfalar-webtry-in.za.com
 sayfalariniz-trwebby.za.com
 sayfalarweb-intranet-in.ru.com
@@ -398177,6 +398180,7 @@ yapieflasyonlamucadele.com
 yapifirsatisubelerimiz.click
 yapifirsatlari.com
 yapifirsatlaribasladi.duckdns.org
+yapifirsatlaribasladi1.duckdns.org
 yapifirsatlarimbitmezrioderler.duckdns.org
 yapifirsatlarimburdalarderlerio.duckdns.org
 yapifirsatlarimkestlerio.com
