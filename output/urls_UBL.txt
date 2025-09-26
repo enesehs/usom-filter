@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-26 18:11:22 UTC
-! Total: 328088 rules
+! Last modified: 2025-09-26 19:01:53 UTC
+! Total: 328092 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -537,6 +537,7 @@
 *://*.0storageatools0.xyz/*
 *://*.0t.yt/*
 *://*.0t1iconoq.ru/*
+*://*.0t32tggh3-gewg2312ewefkewgweelwqds.sbs/*
 *://*.0ti7c.ru/*
 *://*.0tslea.xyz/*
 *://*.0ty.us/*
@@ -6955,6 +6956,7 @@
 *://*.27mart101.shop/*
 *://*.27nisanaidatodemelerigovtr.org/*
 *://*.27ocakfirsatlari.shop/*
+*://*.27r4fa.site/*
 *://*.27subarsiparislerin.cloud/*
 *://*.27subatladenizin.online/*
 *://*.27subattakisipariler.cloud/*
@@ -57449,6 +57451,7 @@
 *://*.bn-globaleventrsorgulayin-tr.net/*
 *://*.bn-globaleventsorgumramazan.net/*
 *://*.bn-globalhub.sbs/*
+*://*.bn-globalnet.sbs/*
 *://*.bn-globalramazankampanyasi.net/*
 *://*.bn-globalsorgulamakampanya.net/*
 *://*.bn-globaltrdesteksorgulamalarikampanyayonet.net/*
@@ -271592,6 +271595,7 @@
 *://*.tamburasi.website/*
 *://*.tamdaisteoradasin.tech/*
 *://*.tamdeemark.com/*
+*://*.tamdestek.sbs/*
 *://*.tamdestek30gbhemenal.com/*
 *://*.tamdestekciftciye.click/*
 *://*.tamdestekhepdestk.site/*

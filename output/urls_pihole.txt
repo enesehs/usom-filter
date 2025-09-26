@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-26 18:11:22 UTC
-# Toplam: 411785 Domain
+# Son Güncelleme: 2025-09-26 19:01:53 UTC
+# Toplam: 411792 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1328,6 +1328,7 @@
 0t.yt
 0t1iconoq.ru
 0t2m69.duckdns.org
+0t32tggh3-gewg2312ewefkewgweelwqds.sbs
 0t4yjfp.duckdns.org
 0t6x3x.duckdns.org
 0tazbox.zapto.org
@@ -9586,6 +9587,7 @@
 27ocakakbank.duckdns.org
 27ocakfirsatlari.shop
 27p0ogv.duckdns.org
+27r4fa.site
 27scea1uq.duckdns.org
 27subarsiparislerin.cloud
 27subattakisipariler.cloud
@@ -75872,6 +75874,7 @@ bn-globaleventramazanbasvurularimiz.net
 bn-globaleventrsorgulayin-tr.net
 bn-globaleventsorgumramazan.net
 bn-globalhub.sbs
+bn-globalnet.sbs
 bn-globalramazankampanyasi.net
 bn-globalsorgulamakampanya.net
 bn-globaltrdesteksorgulamalarikampanyayonet.net
@@ -160510,6 +160513,7 @@ get-payaccount.com
 get-pdf-bcd08-db403b574-0eba0513b-053e6-app.online
 get-prosahibinden.com
 get-s-e-c.com
+get-s.online
 get-sahbindenparamguvende.tk
 get-sahibindeguvendeilan.com
 get-sahibindeguvendeparam.com
@@ -310031,6 +310035,7 @@ sahibinden-guvenli-odeme-com.tk
 sahibinden-guvenli-odeme-ilanlari-mobil.com
 sahibinden-guvenli-odeme.com
 sahibinden-guvenli-odeme.get-anindaodemepay.com.tr
+sahibinden-guvenli-odeme.get-s.online
 sahibinden-guvenli-odeme.ml
 sahibinden-guvenli-odeme.net
 sahibinden-guvenli-odeme.online-tr.sa.com
@@ -341049,6 +341054,7 @@ tamburasi.space
 tamburasi.website
 tamdaisteoradasin.tech
 tamdeemark.com
+tamdestek.sbs
 tamdestek30gbhemenal.com
 tamdestekciftciye.click
 tamdestekhepdestk.site
@@ -346476,6 +346482,7 @@ textverifysubmit.com
 textwalk.top
 tey6qayz.duckdns.org
 teyerheferne.net
+teyitletr2025.duckdns.org
 teylanyem.com
 teynwernqw.pro
 tezcaniletisim.blogspot.com
