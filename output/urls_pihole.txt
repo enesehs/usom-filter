@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-26 19:01:53 UTC
-# Toplam: 411792 Domain
+# Son Güncelleme: 2025-09-26 20:10:03 UTC
+# Toplam: 411803 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8945,6 +8945,7 @@
 23araliksongunkacmaz.xyz
 23ateliertagecesipar.cloud
 23ax8t1y5.duckdns.org
+23bucukdasiparislerin.cloud
 23canistakisiparisler.cloud
 23cgji71.duckdns.org
 23digital-prod4.com
@@ -77442,6 +77443,7 @@ bntrsosyalgmmmedya.vercel.app
 bntrsosyalmddfedya.vercel.app
 bntrsosyalmedyabntr.vercel.app
 bntrsosyalmedyassvx.vercel.app
+bntrsponsorlu.com
 bntrstoraefgegift.vercel.app
 bntrstorageegift.vercel.app
 bntrtogg.com
@@ -162055,6 +162057,7 @@ giris-tr-gov.org
 giris-tr-link-iadeler.biz
 giris-tr-link-iadeler.org
 giris-tr.basvurulink-tr.cloud
+giris-tr.blogspot.com
 giris-tr.com
 giris-trafkcza.online
 giris-trbinance.com.tr
@@ -209417,6 +209420,7 @@ istwbten.com
 istwbtens.com
 istwill.online
 istwkart.net
+istwkartl.online
 istwkartm.blogspot.com
 istwkartv.com
 istwkrt.net
@@ -275009,6 +275013,7 @@ ortsst.net
 ortuhn.net
 ortunatepatrioti.top
 ortureconurrent.top
+ortuvalesk.com
 ortzc-pttavm.is-best.net
 orucakacdkkaldi.com
 orucogluthermalhotel.com
@@ -290991,6 +290996,7 @@ promosyonun.com.tr
 promosyonun.xyz
 promosyonunburada.duckdns.org
 promosyonunvar.com
+promosyonuonayla.com
 promosyonweb.com
 promosyonyaninda.com
 promosyonyapikredi.com
@@ -356000,6 +356006,7 @@ tropapersonnalite.ddns.net
 trophylab.com
 tropicalflattery.top
 tropicalmaritime.top
+tropicalnile.com
 tropicalporcelain.cn
 tropicaltrophy.top
 tropicassertion.top
@@ -378061,6 +378068,7 @@ web-islemleredevletgovtrhizmet.tk
 web-islemleri.com
 web-islemlerim-global-girislerii.net
 web-islemlerin-burda.com
+web-istnbulkart.blogspot.com
 web-jose.com
 web-kabul-tr.ru.com
 web-kapida-siparis.com.tr
@@ -382126,6 +382134,7 @@ wix-time.hopto.org
 wixauth-processing.es
 wixhausen.ddns.net
 wixkh.com
+wixmayv.com
 wixqudgzeo.duckdns.org
 wiyrky1l.duckdns.org
 wiz121.ddns.net
@@ -398167,6 +398176,7 @@ yapiduyurumtr.com
 yapieflasyonlamucadele.com
 yapifirsatisubelerimiz.click
 yapifirsatlari.com
+yapifirsatlaribasladi.duckdns.org
 yapifirsatlarimbitmezrioderler.duckdns.org
 yapifirsatlarimburdalarderlerio.duckdns.org
 yapifirsatlarimkestlerio.com
@@ -405251,6 +405261,7 @@ yonlendirme3404.site
 yonlendirmeaktarimekrani.my
 yonlendirmeaktarmaekrani.site
 yonlendirmeaktarmailetisim.site
+yonlendirmebenikanka.blogspot.com
 yonlendirmecifirsatcilarci.cfd
 yonlendirmecifirsatcilarci.club
 yonlendirmecifirsatcilarci.cyou
