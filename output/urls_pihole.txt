@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-26 23:08:25 UTC
-# Toplam: 411821 Domain
+# Son Güncelleme: 2025-09-27 00:38:46 UTC
+# Toplam: 411819 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -44397,7 +44397,6 @@ api.flushcdn.com
 api.fuyflash.om
 api.fxsdk.com
 api.googleapps.top
-api.hexnox.pro
 api.hostupoeui.com
 api.hujkr.com
 api.illegalarsiv.net
@@ -182062,7 +182061,6 @@ hexagonweb.ddns.net
 hexanovo.com
 hexingmumen.com
 hexlevurdugol.net
-hexnox.pro
 hexnsenmehgxs.net
 hexpanel.cyou
 hexvana.com
