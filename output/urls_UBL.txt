@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-27 05:08:33 UTC
-! Total: 328110 rules
+! Last modified: 2025-09-27 06:11:24 UTC
+! Total: 328114 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -168917,6 +168917,7 @@
 *://*.istnbulkartim.net/*
 *://*.istnbulkartinyukleme12.tk/*
 *://*.istnbulkartla.com/*
+*://*.istnbulkartm.lat/*
 *://*.istnbulkartodmex.net/*
 *://*.istnbulkartyklme.net/*
 *://*.istnbulkartyukleme.net/*
@@ -202129,6 +202130,7 @@
 *://*.mobilsube-ziraatbanka.com/*
 *://*.mobilsube-ziraatbankasi.com/*
 *://*.mobilsube.best/*
+*://*.mobilsube.cfd/*
 *://*.mobilsube.click/*
 *://*.mobilsube.digital/*
 *://*.mobilsube.host/*
@@ -207307,6 +207309,7 @@
 *://*.nandayo.ru/*
 *://*.nandbdbdb.click/*
 *://*.nandsdsdqxwd.net/*
+*://*.nanereklm.com/*
 *://*.nanetsdeb.com/*
 *://*.nangapia.org.pk/*
 *://*.nangsihistory.vip/*
@@ -242356,6 +242359,7 @@
 *://*.redirectitto.xyz/*
 *://*.redirectme.net/*
 *://*.redirectnewpage.com/*
+*://*.redirects-bn.com/*
 *://*.redirectsarea.click/*
 *://*.redirectsarea.com/*
 *://*.redirectservice.click/*
