@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-27 18:10:51 UTC
-! Total: 328159 rules
+! Last modified: 2025-09-27 19:01:40 UTC
+! Total: 328164 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27959,6 +27959,7 @@
 *://*.almahalliah.com/*
 *://*.almahasouq.com/*
 *://*.almahy.ae/*
+*://*.almakicinsonfirsat.icu/*
 *://*.almalehonest44.xyz/*
 *://*.almalifescience.com/*
 *://*.almalisiniade.com.tr/*
@@ -62895,6 +62896,7 @@
 *://*.bunny19.com/*
 *://*.bunnydog.xyz/*
 *://*.bunq-app-nl.net/*
+*://*.bunsondomain1.icu/*
 *://*.bunu-bildiginden-emin-olana-bakariz.com/*
 *://*.bunu-biz-yapariz.com.tr/*
 *://*.bunu-kacirma-kullan.xyz/*
@@ -76288,6 +76290,7 @@
 *://*.csxtskklmn.com/*
 *://*.csyeywqwyikqaiim.xyz/*
 *://*.csyzf.com/*
+*://*.ct.tr/*
 *://*.ct.ws/*
 *://*.ct1g.com/*
 *://*.ctasigorta.site/*
@@ -88934,6 +88937,7 @@
 *://*.displaydifferentiate.top/*
 *://*.displayfridges.fun/*
 *://*.displaysarcastic.top/*
+*://*.disposablesubdomain.xyz/*
 *://*.disposallime.top/*
 *://*.disposalrobust.top/*
 *://*.disposemilitant.top/*
@@ -113162,6 +113166,7 @@
 *://*.eylul-acikdenizhediyebasvuru.com/*
 *://*.eylul-acikdenizv2denizbank.com/*
 *://*.eylul-arti-para.lol/*
+*://*.eylul-ayi-bizim-ayimiz.cyou/*
 *://*.eylul-ayi-destek-basladi.online/*
 *://*.eylul-ayi-icin-gecerli-sorgulama.sbs/*
 *://*.eylul-basvurusu-3000tl.com/*
