@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-28 10:08:04 UTC
-# Toplam: 411934 Domain
+# Son Güncelleme: 2025-09-28 11:01:46 UTC
+# Toplam: 411939 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -23018,6 +23018,7 @@ a101harcaharcabitmez.online
 a101harcaharcabitmez.org
 a101harcaharcabitmez.shop
 a101harcaharcabitmez.store
+a101harcaharcabitmez.up.railway.app
 a101harcaharcabitmez.xyz
 a101harcaharcabitmezm.gtx-cdn.space
 a101harcaharcabitmezs.blogspot.com
@@ -132705,6 +132706,7 @@ ekosistemtaleptoplamakampanyafirsati.wiki
 ekososyalyardim.buzz
 ekotuurk.limited
 ekovakfi.com.tr
+ekozakupy.click
 ekpaket-20gb-turkcell.com
 ekpaket-indirimi-turkcell.com
 ekpaket-indirimi-turktelekom.com
@@ -209251,6 +209253,7 @@ istnblqrt.net
 istnblskrt.net
 istnblstabasvr.click
 istnblstarbsvra.com
+istnblstkanklsantas.online
 istnblstknlslns.online
 istnblstlslnstnst.net
 istnblstlsnltnansnt.net
@@ -293320,6 +293323,7 @@ pttavm.satis-urunler.com
 pttavm.satisguvencesi.com.tr
 pttavm.satisim.info.tr
 pttavm.satisim.net.tr
+pttavm.satisimonline.com.tr
 pttavm.satismerkezi.shop
 pttavm.satisnoktasi.com.tr
 pttavm.satisofisi.info.tr
@@ -314854,6 +314858,7 @@ satisim-get.com.tr
 satisim-sahibinden.com.tr
 satisim.com.tr
 satisimburdan.online
+satisimonline.com.tr
 satisislem-sahibindenguvenliodeme-getodeme-com.tk
 satisislemi.com
 satisislemim.com
