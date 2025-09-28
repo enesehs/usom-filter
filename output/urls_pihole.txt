@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-28 14:01:34 UTC
-# Toplam: 411941 Domain
+# Son Güncelleme: 2025-09-28 15:01:50 UTC
+# Toplam: 411965 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8958,6 +8958,7 @@
 23ekimindirim.xyz
 23ekimkatalog.online
 23ekimkotolog.online
+23eyluldebucukdasipar.cloud
 23eyluldensiparislerine.cloud
 23eyluldesiparislerindenhizlan.cloud
 23f3d46f.ns-u629df.shop
@@ -9208,6 +9209,7 @@
 2508005846103025-verification-acount2024.duckdns.org
 25080058462103025-verification-acount.duckdns.org
 250888com.com
+250binkonutbasvurusu.com
 250binkonutprojesibasvuru.com
 250bintokibasvurusu.com
 250ekpromosyon.ml
@@ -11074,6 +11076,7 @@
 3333032003.cloud
 333333-33.space
 3333333.site
+33333332222222.duckdns.org
 333333333333sdsad2333333.blogspot.com
 3333564131.cloud
 3333564564654.cloud
@@ -38760,6 +38763,7 @@ alavakedava.sambal.web.id
 alayanizikitabinismokakao.club
 alayhamtechnologies.com
 alayinaclick.cfd
+alayinamermi.cfd
 alayinizamaloakaliyter.club
 alayiniztekbenetmez.com
 alazilrmcservice.duckdns.org
@@ -56658,6 +56662,7 @@ basvurmrz.com.tr
 basvurmrz.xyz
 basvurmsn.com.tr
 basvurmsn.xyz
+basvurmsr.xyz
 basvurmsv.com.tr
 basvurmsv.cyou
 basvurmte.online
@@ -170046,6 +170051,7 @@ guzelgunler-tebsubeden.com
 guzelgunler-tebsubem.com
 guzelgunler.name.tr
 guzelgunler.net
+guzelgunler.sbs
 guzelgunler.site
 guzelgunler2.shop
 guzelgunlerade.online
@@ -170525,6 +170531,7 @@ gzl-gzl-ndrm-brd-glal-brdn.top
 gzlbsardkszdeglnaln.shop
 gzldegldkndrmlerde.shop
 gzlerengezel.click
+gzlfirstlrbrda.sbs
 gzlfrstlrasendegldksas.shop
 gzlfrstlrdabzvrdksznrdsnz.shop
 gzlfzupkig.duckdns.org
@@ -207940,6 +207947,7 @@ istanblkaart.net
 istanblkarat.net
 istanblkarf.net
 istanblkart-724yuklemee.tk
+istanblkart.lat
 istanblkartbakiyem.net
 istanblkartbakye.tk
 istanblkartbasvur.org
@@ -220339,6 +220347,7 @@ kampnyalartukenyor1o1.shop
 kampnyalihizmetservisi.com
 kampnyaliozelfirsatlar.shop
 kampnyalrim.com
+kampnyambasvrm.click
 kampnyaredmiylea1o1dekzansalsna.duckdns.org
 kampnyasepet.store
 kampnyasepete.click
@@ -225882,6 +225891,7 @@ kimnuxcrack.zapto.org
 kimoapi.tk
 kimoapiservice.tk
 kimokoko.hopto.org
+kimoldugunonemsizyatassa.cfd
 kimonosuit.info
 kimpatlatiyor.pw
 kimpoutarb.xyz
@@ -227742,6 +227752,7 @@ kmsorglmayapptthemen.duckdns.org
 kmsorgluamapttgovavmsf.duckdns.org
 kmsorgluamayapalimhemengzffjhj.web.app
 kmsorglulanzs.web.app
+kmsorglulanzsa.web.app
 kmsorglumaapyamaisiselim.web.app
 kmsorglumahemnkubsdgh.duckdns.org
 kmsorglumayaphemengovptbeyz.web.app
@@ -239477,6 +239488,7 @@ m-a1o1.cfd
 m-a1o1.sbs
 m-a1o1ekstra.cfd
 m-a1o1ekstra.sbs
+m-a1o1firsat.cfd
 m-aciikdenizislemleri.net
 m-acikdenizkredibasvurugirismobilde.click
 m-acikdenizkredibasvurugirismobilde.fun
@@ -273295,6 +273307,7 @@ onlinesigortacilik.com.tr
 onlinesikayet.xyz
 onlinesiparis-a101.online
 onlinesiparis-ozelkampanya.shop
+onlinesiparis-tr.online
 onlinesiparis.click
 onlinesiparis.club
 onlinesiparis.fun
@@ -325548,6 +325561,7 @@ siparis-onayli-115557.com
 siparis-onayli-115558.com
 siparis-onayli-115559.com
 siparis-onayli-115565.com
+siparis-onayli-115567.com
 siparis-paramguvende.com
 siparis-pay.online
 siparis-pttavm.com.tr
@@ -325665,6 +325679,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
 siparislerin23eylulden.cloud
+siparislerin28eyluldehazir.cloud
 siparislerin30temmuzda.cloud
 siparislerin9bucukeylulden.cloud
 siparislerindehizlan25temmuzda.cloud
@@ -332918,9 +332933,12 @@ sponsorlu-ads.cyou
 sponsorlu-agustos.com.tr
 sponsorlu-baglanti10002.site
 sponsorlu-basvuru2.xyz
+sponsorlu-bntr.art
 sponsorlu-bntr.com
 sponsorlu-bntr.in
+sponsorlu-bntr.live
 sponsorlu-bntr.tech
+sponsorlu-bntr.xyz
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
 sponsorlu-giris933410.com
@@ -333677,6 +333695,7 @@ srnszknpyfrsttkcmz.com
 srnykfsrstrbzdekcmz.online
 srnykknmpylfsrtllrkcmaz.com
 sro.hopto.org
+srogulmasz.com
 srokhdcrom.duckdns.org
 sromecorlduce.ru
 sronsistanbul.shop
@@ -349610,6 +349629,7 @@ tokibasladi.com.tr
 tokibasquru.com
 tokibasvquru.com
 tokibasvqurutoplukonut.com
+tokibasvrss.cfd
 tokibasvrulariii.com
 tokibasvur.com
 tokibasvur.org
@@ -355558,6 +355578,8 @@ trmagazacepte.net.tr
 trmagazacepte.org.tr
 trmagazafirsat.biz.tr
 trmagazafirsat.com.tr
+trmagazafirsat.net.tr
+trmagazafirsat.org.tr
 trmaliye.org
 trmaliyeceza.org
 trmalmiadmx1.net
@@ -377622,6 +377644,7 @@ wbn-nvrsnvsun.net
 wbn-tavsvnsz.net
 wbn-tbpsndnvnsn.net
 wbn-tvsnsvz.net
+wbncasonlineduyurutr.com
 wbnlzmausq.org
 wbns-tavsnszv.net
 wbns-tavsnszv.xyz
@@ -385178,6 +385201,7 @@ wwvptt-avm.com
 wwvpttavm-secure.com
 wwvpttavm-securem.com
 wwvpttavm-secures.com
+wwvpttavm-securess.com
 wwvpttavm.com
 wwvqnbfinans.click
 wwvsahibinden-secure.com
