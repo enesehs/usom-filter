@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-28 20:08:38 UTC
-# Toplam: 412002 Domain
+# Son Güncelleme: 2025-09-28 21:02:58 UTC
+# Toplam: 412005 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -54442,6 +54442,7 @@ baglanti-ailegenc.com
 baglanti-ailegenc.net
 baglanti-ailegenc.org
 baglanti-ailegenclik.com
+baglanti-web-sayfalartr-in.sa.com
 baglanti.site
 baglantiailegenc.com
 baglantiforumonline.info
@@ -161920,6 +161921,7 @@ giris-belediye.net
 giris-bfcturk.com
 giris-bfcturkpro.com
 giris-bilgim-basvurudegerlendirme.life
+giris-binance-tr.vercel.app
 giris-binance.net
 giris-binancebasvur.com
 giris-bireyselimdegeriodemeleri.space
@@ -349643,6 +349645,7 @@ tokenwayz.com
 tokenzdropz.name
 tokgebyron.duckdns.org
 toki-bas-vur.net
+toki-basvur.cfd
 toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
 toki-basvurusugel.work
