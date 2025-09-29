@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-29 21:01:48 UTC
-! Total: 328389 rules
+! Last modified: 2025-09-29 22:01:45 UTC
+! Total: 328397 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24587,6 +24587,7 @@
 *://*.aknekremi.club/*
 *://*.aknekremi.win/*
 *://*.aknekremii.bid/*
+*://*.aknenrkl.click/*
 *://*.aknollasifirsatgirisim.com/*
 *://*.aknsynl.com/*
 *://*.aknukkaxtxpkipr.su/*
@@ -74678,6 +74679,7 @@
 *://*.coordbranch.in/*
 *://*.coordinated123.xyz/*
 *://*.coordinatefabulous.top/*
+*://*.coordinateks.cfd/*
 *://*.coordinateparrot.top/*
 *://*.coordinatevoid.top/*
 *://*.coordinateword.top/*
@@ -75672,6 +75674,7 @@
 *://*.creativeworldofinspiration.store/*
 *://*.creativity-forwriters.com/*
 *://*.creativityhub.digital/*
+*://*.creativsespace.cfd/*
 *://*.creatls.com/*
 *://*.creatlva.shop/*
 *://*.creatordampfe.xyz/*
@@ -104545,6 +104548,7 @@
 *://*.ekmde-harkt-baslsin.com/*
 *://*.ekmde-ilkaklgelen.com/*
 *://*.ekmde-yakla-bunlari.com/*
+*://*.ekmdekrca.cfd/*
 *://*.ekmedogrusfrrdksmdkzert.online/*
 *://*.ekmeginesahip.xyz/*
 *://*.ekmekcii.net/*
@@ -109180,6 +109184,7 @@
 *://*.erdemdsafsddsss.wiki/*
 *://*.erdemirtr.com/*
 *://*.erdemlisahil.net/*
+*://*.erdemlisubesik.sbs/*
 *://*.erdemr34denyasarsin.xyz/*
 *://*.erdemvakfim.com/*
 *://*.erdesqs.com/*
@@ -150865,6 +150870,7 @@
 *://*.hizlisiparis22haziran.cloud/*
 *://*.hizlisiparis22hazirandam.cloud/*
 *://*.hizlisiparis23unda.cloud/*
+*://*.hizlisiparis29eylulde.cloud/*
 *://*.hizlisiparis7temmuzda.cloud/*
 *://*.hizlisiparis9temmuzda.cloud/*
 *://*.hizlisiparisalhizli2temmuz.cloud/*
@@ -162692,6 +162698,7 @@
 *://*.innovadesign.com.au/*
 *://*.innovastezones.sbs/*
 *://*.innovate360.digital/*
+*://*.innovatecloud.sbs/*
 *://*.innovatica24.com/*
 *://*.innovatingglobalbusinessstrategies.store/*
 *://*.innovationaesthetic.top/*
@@ -286546,6 +286553,7 @@
 *://*.turkcellpasajsanalmarket.com/*
 *://*.turkcellpasajsanalmarketi.com/*
 *://*.turkcellpasajsite.com/*
+*://*.turkcellpasajsite.sbs/*
 *://*.turkcellpasajtr.com/*
 *://*.turkcellpasajweb.com/*
 *://*.turkcellpasajwebsite.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-29 21:01:48 UTC
-# Toplam: 412201 Domain
+# Son Güncelleme: 2025-09-29 22:01:45 UTC
+# Toplam: 412211 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11075,6 +11075,7 @@
 3332145885333.duckdns.org
 33323332533.cloud
 333252633.cloud
+3332552533332250.duckdns.org
 3333-111katilim.duckdns.org
 3333.pages.net.br
 333300033.cloud
@@ -23754,6 +23755,7 @@ a10indrmvar.devam-ediyr.com
 a10kampyanlari.icu
 a10lkapimdaa.com
 a11.cxmartresimrkt32.com
+a110.innovatecloud.sbs
 a1101a1-ldd-inxyzfdirsat.xyz
 a1101a1ldd-inxyzfdirsat.xyz
 a1101f1ir-satdxyzalddin.xyz
@@ -36935,6 +36937,7 @@ aknbankdirects.com
 aknekremi.club
 aknekremi.win
 aknekremii.bid
+aknenrkl.click
 aknollasifirsatgirisim.com
 aknsynl.com
 aknukkaxtxpkipr.su
@@ -69077,6 +69080,7 @@ binncellyuklemeler.com
 binncesecure.space
 binnceservislerimv4-mobilgiris-com.online
 binncesistem2023.tech
+binncetr-bsvuru.vercel.app
 binnckampanya.shop
 binnil.top
 binnmbcell.net
@@ -97025,6 +97029,7 @@ coordbr.in
 coordbranch.in
 coordinated123.xyz
 coordinatefabulous.top
+coordinateks.cfd
 coordinateparrot.top
 coordinatevoid.top
 coordinateword.top
@@ -132696,6 +132701,7 @@ ekmde-guzller-burda.xyz
 ekmde-harkt-baslsin.com
 ekmde-ilkaklgelen.com
 ekmde-yakla-bunlari.com
+ekmdekrca.cfd
 ekmedogrusfrrdksmdkzert.online
 ekmeginesahip.xyz
 ekmekarasi.duckdns.org
@@ -137941,6 +137947,7 @@ erdemcars55.com
 erdemdsafsddsss.wiki
 erdemirtr.com
 erdemlisahil.net
+erdemlisubesik.sbs
 erdemr34denyasarsin.xyz
 erdemrat54.duckdns.org
 erdemtorkuniversitebabalari.sa.com
@@ -187893,6 +187900,7 @@ hizlisiparis22bucuk.cloud
 hizlisiparis22haziran.cloud
 hizlisiparis22hazirandam.cloud
 hizlisiparis23unda.cloud
+hizlisiparis29eylulde.cloud
 hizlisiparis7temmuzda.cloud
 hizlisiparis9temmuzda.cloud
 hizlisiparisalhizli2temmuz.cloud
@@ -348937,6 +348945,7 @@ tldestegi1000-webbasvuru.com
 tldestegi1000tl-destekweb.com
 tldestegi3000-webbasvuru.com
 tldiyari.sg-host.com
+tldmt.creativsespace.cfd
 tldolumhxzmeletler.net
 tldrbox.top
 tldrbox.ws
@@ -358557,6 +358566,7 @@ turkcellpasajsanalmagazasi.com
 turkcellpasajsanalmarket.com
 turkcellpasajsanalmarketi.com
 turkcellpasajsite.com
+turkcellpasajsite.sbs
 turkcellpasajtr.com
 turkcellpasajweb.com
 turkcellpasajwebsite.com
