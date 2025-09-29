@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-29 06:14:48 UTC
-# Toplam: 412076 Domain
+# Son Güncelleme: 2025-09-29 08:14:12 UTC
+# Toplam: 412095 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -32477,6 +32477,7 @@ aianalytics.ie
 aias344.xyz
 aib-id-payment.com
 aib-mobile-banking.com
+aibaykar.com
 aibdqlscbs.wcnv20.cn
 aibetom.store
 aibfv.com
@@ -58868,6 +58869,7 @@ baykab.tpbktur.top
 baykaba.tpbktur.top
 baykafunt.store
 baykar-ad.com
+baykar-ai.com
 baykar-b.glitch.me
 baykar-baykoin.icu
 baykar-baykoin.top
@@ -60625,6 +60627,7 @@ be9idmr.duckdns.org
 beaa493d.ns-u629df.shop
 beachbing.com
 beachhouseplans.com
+beachhue.com
 beachroad.ae
 beachskeptical.top
 beacon.diremsto.com
@@ -79359,6 +79362,7 @@ brandonvirtual.com
 brandonx.ddns.net
 brandosol.com
 brandozs.online
+brandpea.com
 brandr.ge
 brandrecruitment.social
 brandresource.social
@@ -143760,6 +143764,7 @@ fabiserves.click
 fabldqwyka.duckdns.org
 fableforge.online
 fablefury.top
+fableglen.com
 fableglossary.top
 fablemurmur.top
 fabletropic.top
@@ -150438,6 +150443,7 @@ flawlessdeduct.top
 flawlessfraudulent.top
 flaxelle.com
 flaxlarahatlas.net
+flayzon.com
 flbe.link
 flbesem.net
 flbox.net
@@ -165830,6 +165836,7 @@ grainsandmore.com.pk
 grajennah.xyz
 grajkg.xyz
 grajunnah.xyz
+grake.pro
 graklm.xyz
 graklo.xyz
 graklxm.xyz
@@ -178342,6 +178349,7 @@ hazirsistem.xyz
 hazirsistemim.xyz
 hazirsistemler.xyz
 hazirsistemlerim.xyz
+hazirsubebasvurum.com
 hazirtikla.xyz
 hazirtlpaketyuklemeislemleri.tk
 hazirvehizliservislerden.com
@@ -208266,6 +208274,7 @@ istanbulinidirimmm.net
 istanbulislem.blogspot.com
 istanbulitocan.com
 istanbulk.art
+istanbulk.digital
 istanbulkaarrt.net
 istanbulkafrt.net
 istanbulkahveci.myshopify.com
@@ -228512,6 +228521,7 @@ kolayadresler222-cf04cfebb339.herokuapp.com
 kolayadreslerr-5469630b30c3.herokuapp.com
 kolayadreslerr-81ad623239a1.herokuapp.com
 kolayadreslerr-b93fbd91b295.herokuapp.com
+kolayalimservisin.online
 kolayalissveris.com
 kolayalisveirisn.store
 kolayalisveris.name.tr
@@ -233218,6 +233228,7 @@ labs-apnic.net
 labs-cloudfront.com
 labu-cirkinpug.net
 labubupremium.vip
+labubuu.cfd
 labudanka1.com
 labudanka2.com
 labydirmem.com
@@ -238641,6 +238652,7 @@ luncheonregiment.top
 lunchpicturepin.com
 lunchtimeresultstoday.co.za
 lundo.com
+lunetra.digital
 lungeconservetwin.run
 lungideological.top
 lungsanction.top
@@ -252697,6 +252709,7 @@ monslternotebook.com.tr
 monsltsfskkasweqdasadsqw.xyz
 monsoletter.icu
 monsonokorodo.com
+monsoonwave.com
 monsss-wqqwekqwekwqkdsasad.xyz
 monster-truck-mx.info
 monster.fansofgucci.pw
@@ -259465,6 +259478,7 @@ ndzlporx.duckdns.org
 ndzmms.top
 ne-ba.org
 ne-lazimsa-burda-hepiniz-icin.com
+ne-lazimsa.fixip.org
 ne-varsa-kenari-birak.sbs
 ne4v13fol.duckdns.org
 ne8rav7w.duckdns.org
@@ -319632,6 +319646,7 @@ sepetinburoda.click
 sepetinddeeindirimvar.com
 sepetinde-ucuzluk-kapinda.shop
 sepetindealisvers.com
+sepetindecampanya.click
 sepetindehizli.click
 sepetindeindirim.one
 sepetindeindiriminvar.com
@@ -325882,6 +325897,7 @@ siparsinkapindaa.com
 siparsinsepete.org
 siparsinsepete.store
 siparskapida.click
+siparskolayda.sbs
 siparskolayda.xyz
 siparskoloy.online
 siparsnadresn.click
@@ -342006,6 +342022,7 @@ tazbot.zapto.org
 tazbot2.zapto.org
 tazbot4.zapto.org
 tazbox.zapto.org
+tazebitki.club
 tazebitki.net
 tazecicek.net.tr
 tazecicek.org.tr
@@ -362899,6 +362916,7 @@ ucuzluk-pazari.cfd
 ucuzluk-sakin-kacirma.top
 ucuzluk-sanalmarket.com.tr
 ucuzluk-sokta.com.tr
+ucuzluk-soleni.fixip.org
 ucuzluk-tam-saati.top
 ucuzluk-zamani-geldi.top
 ucuzluk-zamaninikcrma.com
@@ -408281,6 +408299,7 @@ zenheskwtynsa.net
 zenhsl.store
 zenicetes.xyz
 zenit-basket.ru
+zenit-this.com
 zenit-ticket.com
 zenitchampion.cn
 zenithbazaar.store
