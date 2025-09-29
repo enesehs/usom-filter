@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-29 05:09:59 UTC
-! Total: 328274 rules
+! Last modified: 2025-09-29 06:14:48 UTC
+! Total: 328281 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -142805,6 +142805,7 @@
 *://*.hazirservis.xyz/*
 *://*.hazirservisim.xyz/*
 *://*.hazirset.online/*
+*://*.hazirsiparis.sbs/*
 *://*.hazirsistem.xyz/*
 *://*.hazirsistemim.xyz/*
 *://*.hazirsistemler.xyz/*
@@ -168096,6 +168097,7 @@
 *://*.istanbulkartindirimzamani.net/*
 *://*.istanbulkartiniiiz34.cf/*
 *://*.istanbulkartl.lat/*
+*://*.istanbulkartll.digital/*
 *://*.istanbulkartlyukleme.com/*
 *://*.istanbulkartm.sbs/*
 *://*.istanbulkartmobil.site/*
@@ -193062,6 +193064,7 @@
 *://*.m-isbank-online-bonus-tr.cf/*
 *://*.m-islem.online/*
 *://*.m-ist34.com/*
+*://*.m-kampanya.click/*
 *://*.m-kampanya.com/*
 *://*.m-kampanya.xyz/*
 *://*.m-karcahome.shop/*
@@ -259214,11 +259217,13 @@
 *://*.siparsepette.xyz/*
 *://*.siparshazir.click/*
 *://*.siparsinburada.click/*
+*://*.siparsinhazir.click/*
 *://*.siparsinkapida.click/*
 *://*.siparsinkapindaa.com/*
 *://*.siparsinsepete.org/*
 *://*.siparsinsepete.store/*
 *://*.siparskapida.click/*
+*://*.siparskolayda.xyz/*
 *://*.siparskoloy.online/*
 *://*.siparsnadresn.click/*
 *://*.siparsnhazir.click/*
@@ -319273,6 +319278,7 @@
 *://*.yarinlaramutluyasam.com/*
 *://*.yarinlaramutluzamanlarvakfi.com/*
 *://*.yarinlarasosyalyd.online/*
+*://*.yarinlaraumutyd.online/*
 *://*.yarinlarbizimdir.com/*
 *://*.yarinlardenizde.com/*
 *://*.yarinlarguzeldir.com/*
@@ -325551,6 +325557,7 @@
 *://*.zevona.org/*
 *://*.zewanovji.com/*
 *://*.zexeq.com/*
+*://*.zey101.cfd/*
 *://*.zey8372712.tr/*
 *://*.zeycanegitimkulturvakfi.com/*
 *://*.zeyftccfvta.xyz/*
