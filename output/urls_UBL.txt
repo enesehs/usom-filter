@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-29 08:14:12 UTC
-! Total: 328298 rules
+! Last modified: 2025-09-29 09:11:31 UTC
+! Total: 328304 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -92317,6 +92317,7 @@
 *://*.duyurulartrcimcumhurbsklik.com/*
 *://*.duyurulrtrsonline.com/*
 *://*.duyurum.website/*
+*://*.duyurumbildirimleri.com/*
 *://*.duyurumerkez.com/*
 *://*.duyurumerkezler.com/*
 *://*.duyurumhaber.com/*
@@ -144454,6 +144455,7 @@
 *://*.hemenbil.app/*
 *://*.hemenbilgial.com/*
 *://*.hemenbirliktesiparisanlasmayudum.fun/*
+*://*.hemenbonus.click/*
 *://*.hemenbonus.digital/*
 *://*.hemenbonushediyenebasvuruyap.online/*
 *://*.hemenbsvur-firsatisizinicin.com/*
@@ -158999,6 +159001,7 @@
 *://*.ilanlar-detay.com/*
 *://*.ilanlar-detayim.com/*
 *://*.ilanlar-detaylar.com/*
+*://*.ilanlar-dolap.com/*
 *://*.ilanlar-get-tr.com/*
 *://*.ilanlar-get.com.tr/*
 *://*.ilanlar-get.com/*
@@ -180793,6 +180796,7 @@
 *://*.kaybolmadanalin.com.tr/*
 *://*.kaybolmshislermzcscdcf.com/*
 *://*.kaybolmus-zamanin-izinde-sessiz-yolculuk.com/*
+*://*.kaybool.cfd/*
 *://*.kaydetfirsate.com/*
 *://*.kaydetfirsati.com/*
 *://*.kaydetflrsati.com/*
@@ -256221,6 +256225,7 @@
 *://*.shortwidgets.com/*
 *://*.shortxyz.com/*
 *://*.shortygram.com/*
+*://*.shorx.link/*
 *://*.shoshanna.at/*
 *://*.shotmalnutrition.top/*
 *://*.shotsmob.sbs/*
@@ -324305,6 +324310,7 @@
 *://*.yungouzo.cfd/*
 *://*.yunqhi.com/*
 *://*.yunusbabanburulas.icu/*
+*://*.yunusbaligi-haber.com/*
 *://*.yunusbeyasm.gov.tr/*
 *://*.yunuscheck.online/*
 *://*.yunuscicek.com.tr/*
