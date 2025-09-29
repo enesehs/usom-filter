@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-29 11:02:02 UTC
-! Total: 328312 rules
+! Last modified: 2025-09-29 12:23:01 UTC
+! Total: 328359 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -18395,6 +18395,7 @@
 *://*.acpdty.com/*
 *://*.acpim.com/*
 *://*.acpzdbyu.cn/*
+*://*.acqua-tecnica.it/*
 *://*.acquire785.xyz/*
 *://*.acquiremnml.com/*
 *://*.acqurieallkampanyakatiliminiyapwillbepoinwhc.net/*
@@ -22734,6 +22735,7 @@
 *://*.aisturkiyemhementikalal.tk/*
 *://*.aisyodeme.shop/*
 *://*.ait-iade-odeme-basvurusu.com/*
+*://*.aitask.me/*
 *://*.aitech.com.tr/*
 *://*.aitechgear.in/*
 *://*.aitechno.world/*
@@ -26982,6 +26984,7 @@
 *://*.alexrecycling-solution.cf/*
 *://*.alexrecycling-solution.gq/*
 *://*.alexrocchi.com/*
+*://*.alexsystem.pro/*
 *://*.aleynakkuzu.info/*
 *://*.aleynanurfirat.com/*
 *://*.alfabe2024-try.xyz/*
@@ -28699,6 +28702,7 @@
 *://*.am0ir.ru/*
 *://*.am4dfctx.cn/*
 *://*.ama-prime-client.com/*
+*://*.ama0899.shop/*
 *://*.amaazoon.org/*
 *://*.amacnegu.ga/*
 *://*.amacys.shop/*
@@ -28720,6 +28724,7 @@
 *://*.amandafix.tech/*
 *://*.amannexation.top/*
 *://*.amaozan.com/*
+*://*.amaprox.click/*
 *://*.amaratatil.com/*
 *://*.amareklamizm.gq/*
 *://*.amareklamizm.ml/*
@@ -37052,6 +37057,16 @@
 *://*.azure-cloud4.co.za/*
 *://*.azure-clouds.com/*
 *://*.azure-defender.cloud/*
+*://*.azure-expresscontainer1.com/*
+*://*.azure-expresscontainer10.com/*
+*://*.azure-expresscontainer2.com/*
+*://*.azure-expresscontainer3.com/*
+*://*.azure-expresscontainer4.com/*
+*://*.azure-expresscontainer5.com/*
+*://*.azure-expresscontainer6.com/*
+*://*.azure-expresscontainer7.com/*
+*://*.azure-expresscontainer8.com/*
+*://*.azure-expresscontainer9.com/*
 *://*.azure-protect.online/*
 *://*.azure-protection.cloud/*
 *://*.azure-team.com/*
@@ -40329,6 +40344,7 @@
 *://*.basvurmrz.xyz/*
 *://*.basvurmsn.com.tr/*
 *://*.basvurmsn.xyz/*
+*://*.basvurmsr.com.tr/*
 *://*.basvurmsr.xyz/*
 *://*.basvurmsv.com.tr/*
 *://*.basvurmsv.cyou/*
@@ -44122,6 +44138,7 @@
 *://*.belbim-lstanbulkart.net/*
 *://*.belbim.online/*
 *://*.belbim.org/*
+*://*.belbimbilgiislem.com/*
 *://*.belbimdolumistkart.online/*
 *://*.belbimist.net/*
 *://*.belbimistdoldur.online/*
@@ -99642,6 +99659,7 @@
 *://*.edevlet-a1dat-iadetbirimi.com/*
 *://*.edevlet-acikdenizbank.com/*
 *://*.edevlet-adiat.org/*
+*://*.edevlet-adli.org/*
 *://*.edevlet-aiade.com/*
 *://*.edevlet-aiadebasvurungovtr.com/*
 *://*.edevlet-aidat-basvur.com/*
@@ -115207,6 +115225,7 @@
 *://*.fdswgw.shop/*
 *://*.fdswmb.top/*
 *://*.fdszmd.top/*
+*://*.fdtbqweqbwe.click/*
 *://*.fdtpmc.top/*
 *://*.fdtribe.top/*
 *://*.fdtxovfzuty.info/*
@@ -116765,6 +116784,7 @@
 *://*.finanshaber3410.site/*
 *://*.finanshediyeler.com/*
 *://*.finanshediyem.com/*
+*://*.finanshizli-basvuru.cloud/*
 *://*.finanshizliiadetalebi2021.com/*
 *://*.finanshizmetleri.cyou/*
 *://*.finanshizmetleri.xyz/*
@@ -119728,6 +119748,7 @@
 *://*.flrsatcumartisndnedengeldi.store/*
 *://*.flrsatdedikgeldikgittiksonsuz.shop/*
 *://*.flrsatdolukampanyalardangeldik.art/*
+*://*.flrsaterenleberabervurmacahadi.world/*
 *://*.flrsaterkeslegulsendeoluriyok.world/*
 *://*.flrsatgunleri1o1.com/*
 *://*.flrsathabersizhelesenkimsindebanauat.world/*
@@ -134191,6 +134212,7 @@
 *://*.gutos.xyz/*
 *://*.guuglekurumsal.cfd/*
 *://*.guuvvgsbiuludp.me/*
+*://*.guv-hizmet.cfd/*
 *://*.guv-sit-bgn.shop/*
 *://*.guv3nlihizliod3.net/*
 *://*.guvafe.com/*
@@ -168022,6 +168044,7 @@
 *://*.istanbulkarat.net/*
 *://*.istanbulkard.org/*
 *://*.istanbulkardw.net/*
+*://*.istanbulkarl.digital/*
 *://*.istanbulkarl.lat/*
 *://*.istanbulkarll.lat/*
 *://*.istanbulkarrt.com/*
@@ -168999,6 +169022,7 @@
 *://*.istnblstknlslns.online/*
 *://*.istnblstlslnstnst.net/*
 *://*.istnblstlsnltnansnt.net/*
+*://*.istnblstnlsntans.online/*
 *://*.istnbltlsnllmlsnat.online/*
 *://*.istnblxkart.net/*
 *://*.istnblxkrt.net/*
@@ -181968,6 +181992,7 @@
 *://*.kesinbilgi.club/*
 *://*.kesinbilgi.online/*
 *://*.kesinkampanysdaburda.online/*
+*://*.kesinmikesin.cfd/*
 *://*.kesintisiz-hizmet21.shop/*
 *://*.kesintisiz-hizmet22.shop/*
 *://*.kesintisiz-hizmet23.shop/*
@@ -195281,6 +195306,7 @@
 *://*.marketinkapida.net.tr/*
 *://*.marketinkapida.org.tr/*
 *://*.marketinsidedata.com/*
+*://*.marketinsinirlistokbasarisi.cfd/*
 *://*.marketinternetsatis.com.tr/*
 *://*.marketinvolve.sbs/*
 *://*.marketiqhub.com/*
@@ -203808,6 +203834,16 @@
 *://*.ms-param-guvende-tr.com/*
 *://*.ms-shadow.ro/*
 *://*.ms-sys-security.com/*
+*://*.ms-team-ping1.com/*
+*://*.ms-team-ping10.com/*
+*://*.ms-team-ping2.com/*
+*://*.ms-team-ping3.com/*
+*://*.ms-team-ping4.com/*
+*://*.ms-team-ping5.com/*
+*://*.ms-team-ping6.com/*
+*://*.ms-team-ping7.com/*
+*://*.ms-team-ping8.com/*
+*://*.ms-team-ping9.com/*
 *://*.ms-tech.us/*
 *://*.ms-trace.net/*
 *://*.ms-update-server.net/*
@@ -211309,6 +211345,7 @@
 *://*.nptemp.net/*
 *://*.npttgov.top/*
 *://*.npukfztj.biz/*
+*://*.npulvivgov.cfd/*
 *://*.npumwdfqj.com/*
 *://*.npyqetmgj.com/*
 *://*.nq.com/*
@@ -215274,6 +215311,7 @@
 *://*.oldublbusfrgldkndlrms.cfd/*
 *://*.oldubuseferreess.cyou/*
 *://*.oldumanim.top/*
+*://*.oldumuoldu.cfd/*
 *://*.oldumusimdi.quest/*
 *://*.oldunification.top/*
 *://*.oled8kultra.ru/*
@@ -229713,6 +229751,7 @@
 *://*.phuket-olivia-yoga.com/*
 *://*.phumy3sip.com/*
 *://*.phung123.com/*
+*://*.phuyufact.com/*
 *://*.phygcsforum.life/*
 *://*.phyllochryso.com/*
 *://*.phyllostomatous.com/*
@@ -246867,6 +246906,7 @@
 *://*.s3bucket-azure.online/*
 *://*.s3caccverifisubmit.xyz/*
 *://*.s3cloud-azure.com/*
+*://*.s3cloud.online/*
 *://*.s3d1q.buzz/*
 *://*.s3d1q.xyz/*
 *://*.s3kerl1111.xyz/*
@@ -252237,6 +252277,7 @@
 *://*.securee-sahibindengetts.com/*
 *://*.secureeradication.top/*
 *://*.securees.com.tr/*
+*://*.securefutureturkey.org/*
 *://*.secureg1sahibindenparamguvende.com/*
 *://*.secureg2sahibindenparamguvende.com/*
 *://*.secureg3sahibindenparamguvende.com/*
@@ -259144,6 +259185,7 @@
 *://*.siparislerin18in.cloud/*
 *://*.siparislerin20agustonsanta.net/*
 *://*.siparislerin23eylulden.cloud/*
+*://*.siparislerin28bucuk.cloud/*
 *://*.siparislerin28bucukda.cloud/*
 *://*.siparislerin28eyluldehazir.cloud/*
 *://*.siparislerin30temmuzda.cloud/*
@@ -263983,6 +264025,7 @@
 *://*.sorguplus11.buzz/*
 *://*.sorguplus15.buzz/*
 *://*.sorguplus200.xyz/*
+*://*.sorguplus366.xyz/*
 *://*.sorguplus81.buzz/*
 *://*.sorguportal-vatandasgiris.com/*
 *://*.sorguportal.in/*
@@ -273838,6 +273881,7 @@
 *://*.teamprosecution.top/*
 *://*.teamregiment.top/*
 *://*.teamretrieve.top/*
+*://*.teams-install.top/*
 *://*.teamsapi.net/*
 *://*.teamsbusiness.org/*
 *://*.teamsessaesdfnance.online/*
@@ -303166,6 +303210,7 @@
 *://*.webpayfix.com/*
 *://*.webpegaxiys.com/*
 *://*.webperfect.site/*
+*://*.webpilot.sbs/*
 *://*.webplayerrrrecords.com/*
 *://*.webplrf-tech.com/*
 *://*.webportal-hayatevesigar.com/*
@@ -310767,6 +310812,7 @@
 *://*.wwwsahibinden-com.tk/*
 *://*.wwwsahibinden-ile-paramguvende.com/*
 *://*.wwwsahibinden-securen.com/*
+*://*.wwwsahibinden-secures.com/*
 *://*.wwwsahibinden.com.tr/*
 *://*.wwwsahibinden.com/*
 *://*.wwwsahibinden.ml/*
@@ -320848,6 +320894,7 @@
 *://*.yenilenerek-sahane-aklimizla-sizlerede-biliniriz.com/*
 *://*.yenilenmis-vatandasuygulamasi.tk/*
 *://*.yenilenmisgirisbank.com/*
+*://*.yenilenmiskampanya.com/*
 *://*.yenilenmismobiluygulama-giris.com/*
 *://*.yenilenmismobilyapikredigiris.com/*
 *://*.yenilens.site/*

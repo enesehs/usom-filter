@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-29 11:02:02 UTC
-# Toplam: 412112 Domain
+# Son Güncelleme: 2025-09-29 12:23:01 UTC
+# Toplam: 412163 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -645,6 +645,7 @@
 07532432423.cloud
 075585.cn
 07727077777.duckdns.org
+07776658847777.duckdns.org
 077p2l.duckdns.org
 078a3c8.duckdns.org
 078pmx027.duckdns.org
@@ -29401,6 +29402,7 @@ acpzdbyu.cn
 acqaint.zapto.org
 acqpmdbtxt.duckdns.org
 acqsdasabm.edwhi.ru
+acqua-tecnica.it
 acquire785.xyz
 acquiremnml.com
 acquisition-gray-advertisements-trained.trycloudflare.com
@@ -39852,6 +39854,7 @@ alexrecycling-solution.cf
 alexrecycling-solution.gq
 alexrocchi.com
 alexsandr33.ddns.net
+alexsystem.pro
 alexwill.ddns.net
 alexxaan.duckdns.org
 aleyluleozelfirsatlar.duckdns.org
@@ -41747,6 +41750,7 @@ am4zon-users.ddns.net
 am8t1rm.duckdns.org
 ama.hostiko.com.ug
 ama.hostiko.link
+ama0899.shop
 amaanq-37251.portmap.host
 amaazoon.org
 amaciolmayangrup.blogspot.com.tr
@@ -41784,6 +41788,7 @@ amaozan.com
 amaoznejptcoin.zapto.org
 amaoznhost.zapto.org
 amaozom.199149.com
+amaprox.click
 amar2477.ddns.net
 amaratatil.com
 amareklamizm.gq
@@ -52683,6 +52688,16 @@ azure-cloud2.web.za
 azure-cloud3.co.za
 azure-cloud3.web.za
 azure-cloud4.co.za
+azure-expresscontainer1.com
+azure-expresscontainer10.com
+azure-expresscontainer2.com
+azure-expresscontainer3.com
+azure-expresscontainer4.com
+azure-expresscontainer5.com
+azure-expresscontainer6.com
+azure-expresscontainer7.com
+azure-expresscontainer8.com
+azure-expresscontainer9.com
 azure-protect.online
 azure-protection.cloud
 azure-team.com
@@ -56678,6 +56693,7 @@ basvurmrz.com.tr
 basvurmrz.xyz
 basvurmsn.com.tr
 basvurmsn.xyz
+basvurmsr.com.tr
 basvurmsr.xyz
 basvurmsv.com.tr
 basvurmsv.cyou
@@ -61119,6 +61135,7 @@ belbim-lstanbulkart.net
 belbim.online
 belbim.org
 belbim.vercel.app
+belbimbilgiislem.com
 belbimdolumistkart.online
 belbimist.net
 belbimistanbulkartl.vercel.app
@@ -68826,6 +68843,7 @@ binancrlogin.com.tr
 binancrypto.online
 binancs.5yilihediyesi.com
 binancteteetrboundsher.vercel.app
+binanctr-girisler.vercel.app
 binanctr-secure.blog
 binanctrtrmoontr.vercel.app
 binanctvaarmoontr.vercel.app
@@ -127335,6 +127353,7 @@ edevlet-3000tldestekbasvuru.com
 edevlet-a1dat-iadetbirimi.com
 edevlet-acikdenizbank.com
 edevlet-adiat.org
+edevlet-adli.org
 edevlet-aiade.com
 edevlet-aiadebasvurungovtr.com
 edevlet-aidat-basvur.com
@@ -145445,6 +145464,7 @@ fdssdgsgrntibbvbagssdasd.online
 fdsss.ddns.net
 fdswmb.top
 fdszmd.top
+fdtbqweqbwe.click
 fdtpmc.top
 fdtribe.top
 fdtxovfzuty.info
@@ -147432,6 +147452,7 @@ finanshaber3410.site
 finanshaberim.gtxlink.sa.com
 finanshediyeler.com
 finanshediyem.com
+finanshizli-basvuru.cloud
 finanshizliiadetalebi2021.com
 finanshizliiadetalebi2021.mermerfatihlerimde.com
 finanshizmetleri.cyou
@@ -150756,6 +150777,7 @@ flrsatcumartesiyhepgeldesonra.store
 flrsatcumartisndnedengeldi.store
 flrsatdedikgeldikgittiksonsuz.shop
 flrsatdolukampanyalardangeldik.art
+flrsaterenleberabervurmacahadi.world
 flrsaterkeslegulsendeoluriyok.world
 flrsatgelsinmisana.duckdns.org
 flrsatgunleri1o1.com
@@ -168692,6 +168714,7 @@ guttshost.ddns.net
 guuglekurumsal.cfd
 guusalqsfi.duckdns.org
 guuvvgsbiuludp.me
+guv-hizmet.cfd
 guv-sit-bgn.shop
 guv3nlihizliod3.net
 guvafe.com
@@ -208011,6 +208034,7 @@ istanblkaart.net
 istanblkarat.net
 istanblkarf.net
 istanblkart-724yuklemee.tk
+istanblkart-e.blogspot.com
 istanblkart.blogspot.com
 istanblkart.lat
 istanblkartbakiyem.net
@@ -208291,6 +208315,7 @@ istanbulkant.net
 istanbulkarat.net
 istanbulkard.org
 istanbulkardw.net
+istanbulkarl.digital
 istanbulkarl.lat
 istanbulkarll.lat
 istanbulkarrt.com
@@ -209349,6 +209374,7 @@ istnblstkanklsantas.online
 istnblstknlslns.online
 istnblstlslnstnst.net
 istnblstlsnltnansnt.net
+istnblstnlsntans.online
 istnbltlsnllmlsnat.online
 istnblukart.hmngiri.com
 istnblxkart.net
@@ -224838,6 +224864,7 @@ kesilenaiadeladelerionline.com
 kesinbilgi.club
 kesinbilgi.online
 kesinkampanysdaburda.online
+kesinmikesin.cfd
 kesinrand.blogspot.com
 kesintisiz-hizmet21.shop
 kesintisiz-hizmet22.shop
@@ -243148,6 +243175,7 @@ marketinkapida.com.tr
 marketinkapida.net.tr
 marketinkapida.org.tr
 marketinsidedata.com
+marketinsinirlistokbasarisi.cfd
 marketinternetsatis.com.tr
 marketinvolve.sbs
 marketiqhub.com
@@ -253801,6 +253829,16 @@ ms-online-store.com
 ms-param-guvende-tr.com
 ms-shadow.ro
 ms-sys-security.com
+ms-team-ping1.com
+ms-team-ping10.com
+ms-team-ping2.com
+ms-team-ping3.com
+ms-team-ping4.com
+ms-team-ping5.com
+ms-team-ping6.com
+ms-team-ping7.com
+ms-team-ping8.com
+ms-team-ping9.com
 ms-tech.us
 ms-trace.net
 ms-update-server.net
@@ -263783,6 +263821,7 @@ npspwrap.duckdns.org
 npt.vnptnet.info
 npttgov.top
 npukfztj.biz
+npulvivgov.cfd
 npumwdfqj.com
 npuqdxoioi.duckdns.org
 npwrwaqghj.ddns.net
@@ -268976,6 +269015,7 @@ oldubiler.vip
 oldublbusfrgldkndlrms.cfd
 oldubuseferreess.cyou
 oldumanim.top
+oldumuoldu.cfd
 oldumusimdi.quest
 oldunification.top
 oldyghost.hopto.org
@@ -286054,6 +286094,7 @@ phtxvai.com
 phuhks.click
 phuket-account.com
 phuket-olivia-yoga.com
+phuyufact.com
 phv18mar8500.duckdns.org
 phvl28v6.duckdns.org
 phvnc8500.duckdns.org
@@ -287174,6 +287215,7 @@ plnv.top
 plo.antropoledia.info
 plobbfgg.vercel.app
 plocafasc.vercel.app
+plofe.aitask.me
 ploib.com
 ploipopl.vercel.app
 plokdokdwdwdqd.net
@@ -308552,6 +308594,7 @@ s342.ltd
 s3bucket-azure.online
 s3caccverifisubmit.xyz
 s3cloud-azure.com
+s3cloud.online
 s3cur3-edd0a.ddns.net
 s3cur3us44n0w.ddns.net
 s3cur3v3rlfy03b.ddns.net
@@ -312142,6 +312185,7 @@ sahibinden.sepetimde-ode.com.tr
 sahibinden.sepetimizde.com
 sahibinden.sepetin-tamamla.com.tr
 sahibinden.sepetiniz-tr.online
+sahibinden.sepetisleminiz.com
 sahibinden.sepetonline.com.tr
 sahibinden.sepette-ode.com
 sahibinden.sepette-odeme.com
@@ -317543,6 +317587,7 @@ securefgsyiverify.ddns.net
 securefifththird-03.hopto.org
 securefifththird.zapto.org
 securefirsttechmob.zapto.org
+securefutureturkey.org
 secureg1sahibindenparamguvende.com
 secureg2sahibindenparamguvende.com
 secureg3sahibindenparamguvende.com
@@ -325806,6 +325851,7 @@ siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
 siparislerin23eylulden.cloud
+siparislerin28bucuk.cloud
 siparislerin28bucukda.cloud
 siparislerin28eyluldehazir.cloud
 siparislerin30temmuzda.cloud
@@ -331345,6 +331391,7 @@ sorguplus1.buzz
 sorguplus11.buzz
 sorguplus15.buzz
 sorguplus200.xyz
+sorguplus366.xyz
 sorguplus81.buzz
 sorguportal-vatandasgiris.com
 sorguportal.in
@@ -343654,6 +343701,7 @@ teammate-live.online
 teamprosecution.top
 teamregiment.top
 teamretrieve.top
+teams-install.top
 teamsapi.net
 teamsbusiness.org
 teamservervn.ddns.net
@@ -379995,6 +380043,7 @@ webpayfix.com
 webpayfix.com.tr
 webpegaxiys.com
 webperfect.site
+webpilot.sbs
 webplayerrrrecords.com
 webplrf-tech.com
 webplus-cn-hongkong-s-5faf81e0d937f14c9ddbe5a0.oss-cn-hongkong.aliyuncs.com
@@ -390325,6 +390374,7 @@ wwwsaglikbakanligi.com
 wwwsahibinden-com.tk
 wwwsahibinden-ile-paramguvende.com
 wwwsahibinden-securen.com
+wwwsahibinden-secures.com
 wwwsahibinden.com
 wwwsahibinden.com-ilan.com.tr
 wwwsahibinden.com.tr
@@ -402408,6 +402458,7 @@ yenilenenziraat.com
 yenilenerek-sahane-aklimizla-sizlerede-biliniriz.com
 yenilenmis-vatandasuygulamasi.tk
 yenilenmisgirisbank.com
+yenilenmiskampanya.com
 yenilenmismobiluygulama-giris.com
 yenilenmismobilyapikredigiris.com
 yenilens.site
