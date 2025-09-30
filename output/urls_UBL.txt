@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-30 06:14:30 UTC
-! Total: 328416 rules
+! Last modified: 2025-09-30 07:10:28 UTC
+! Total: 328419 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -119811,6 +119811,7 @@
 *://*.flrsatherkesleolsadahadisenledeolmazd.world/*
 *://*.flrsatherkesleolsadahemordangel.world/*
 *://*.flrsatherkesleolsadanerletmedensen.world/*
+*://*.flrsatherkesleolsadanmmasjad.world/*
 *://*.flrsatherkesleolsandaolmasadaherkesl.life/*
 *://*.flrsatherkesleolsapazartesigel.rip/*
 *://*.flrsatherkesleolursasenolmalaan.shop/*
@@ -231170,6 +231171,7 @@
 *://*.poolfade.top/*
 *://*.poolmrb.xyz/*
 *://*.poonygon.com/*
+*://*.pooooofggggwwweeeq11111123.sbs/*
 *://*.poor9873.xyz/*
 *://*.poorcetnmjfc.online/*
 *://*.pooreveningfuseor.pw/*
@@ -252751,6 +252753,7 @@
 *://*.sehirulasimi.tk/*
 *://*.sehiscefo.com/*
 *://*.sehitailelerivakfi.com/*
+*://*.sehitcancicek.com/*
 *://*.sehitlerolmezvatanbolunmez.com.tr/*
 *://*.sehitlerolmezvatanbolunmez.online/*
 *://*.sehitomerhalisdemirturkiyeyardimvakfi.com/*
