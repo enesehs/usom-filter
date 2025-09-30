@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-30 11:02:02 UTC
-! Total: 328446 rules
+! Last modified: 2025-09-30 12:23:03 UTC
+! Total: 328478 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24591,6 +24591,7 @@
 *://*.aknekremi.win/*
 *://*.aknekremii.bid/*
 *://*.aknenrkl.click/*
+*://*.aknenrkl25.click/*
 *://*.aknollasifirsatgirisim.com/*
 *://*.aknsynl.com/*
 *://*.aknukkaxtxpkipr.su/*
@@ -38185,6 +38186,7 @@
 *://*.babaa.org/*
 *://*.babababsssbeebee.net/*
 *://*.bababubaba.ga/*
+*://*.bababurda.cfd/*
 *://*.babacanamane.xyz/*
 *://*.babadadasadasa.site/*
 *://*.babafal.com/*
@@ -59136,6 +59138,7 @@
 *://*.boldixil.win/*
 *://*.boldstage.live/*
 *://*.boldventuressite.site/*
+*://*.boldvisionnaire.com/*
 *://*.bolerakopsoa.pw/*
 *://*.bolfirsatlar.com/*
 *://*.bolfirsatlarzamani.com/*
@@ -66410,6 +66413,7 @@
 *://*.carfourrse.com/*
 *://*.carfoursa.site/*
 *://*.carfoussa.shop/*
+*://*.carfrdasirada.cfd/*
 *://*.carfrmarketinegeldi.cfd/*
 *://*.carfrnbzeyaptklari.com/*
 *://*.carfrrsdnbitmedenalblrsnz.com/*
@@ -78189,6 +78193,7 @@
 *://*.daknobcq4zal6vbm.tk/*
 *://*.daksecurepolicy.in/*
 *://*.daksjuggdhwa.com/*
+*://*.daksunflower.cfd/*
 *://*.dakta.ru/*
 *://*.dalamula.site/*
 *://*.dalaolapolasada.site/*
@@ -92227,6 +92232,7 @@
 *://*.dusler-sesler-uzakliklar-derin-gizemler.com/*
 *://*.duslersokagi.xyz/*
 *://*.dusletyolculuk.fun/*
+*://*.dusmemasla.cfd/*
 *://*.dusmemkumara.sbs/*
 *://*.dusnmwqeksdawe.net/*
 *://*.dust-include.com/*
@@ -104018,6 +104024,7 @@
 *://*.eidmood.com/*
 *://*.eidnfilecloud.com/*
 *://*.eidpro.xyz/*
+*://*.eidpulse.com/*
 *://*.eiecbnceysvkwh.com/*
 *://*.eiesoft.com/*
 *://*.eigcnzlee.com/*
@@ -121382,6 +121389,7 @@
 *://*.frrlrsatherkeslerindeolmasadalarsa.world/*
 *://*.frrnnobqicbm.net/*
 *://*.frrsat101a.icu/*
+*://*.frrsatcampy.sbs/*
 *://*.frrst-aldn.com.tr/*
 *://*.frrst-ssokta.com.tr/*
 *://*.frrsxxstrlriiiminn-olldugu-yer.com/*
@@ -134185,6 +134193,7 @@
 *://*.gununflrsatlarihakkindaindirhemen.store/*
 *://*.gununfrisatlariburda.xyz/*
 *://*.gununhediyeleri.com/*
+*://*.gununindirimfirsati.click/*
 *://*.gununindirimi-turkcell.com/*
 *://*.gununindirimli-paketi-turkcell.com/*
 *://*.gununkampanyalari.net/*
@@ -140752,6 +140761,7 @@
 *://*.happymodn.net/*
 *://*.happynast.shop/*
 *://*.happynw-tkeurtime.com/*
+*://*.happypeoplesphere.com/*
 *://*.happysantacows.red/*
 *://*.happyslink.io/*
 *://*.happyvalentinesdayimages-quotes.com/*
@@ -146158,6 +146168,7 @@
 *://*.heyecan.club/*
 *://*.heyecan.xyz/*
 *://*.heyecandoluherseysimdi.cfd/*
+*://*.heyecandoluyaninda.cfd/*
 *://*.heyecankalesi.top/*
 *://*.heyegesssetech.site/*
 *://*.heygames.club/*
@@ -150375,6 +150386,7 @@
 *://*.hizligiris.gq/*
 *://*.hizligiris.lol/*
 *://*.hizligiris.online/*
+*://*.hizligiris.sbs/*
 *://*.hizligiris.tk/*
 *://*.hizligirisakban.online/*
 *://*.hizligirisi-turkeygovtr.com/*
@@ -152680,6 +152692,7 @@
 *://*.homesproff.com.tr/*
 *://*.homesreters.com/*
 *://*.homesreters.xyz/*
+*://*.homesrioflesx.com/*
 *://*.homesrioflexyapikrediden.com/*
 *://*.homesrlerssajdc.com.tr/*
 *://*.homesrlerssajdf.com.tr/*
@@ -166557,6 +166570,7 @@
 *://*.isbryselbasvrular.online/*
 *://*.isbsanfksfafigdisnasdksaf.cyou/*
 *://*.isbsanfksfafigdisnasdsagdsdh.cfd/*
+*://*.isbsanfksfafigdisnasdsagdsdh.cyou/*
 *://*.isbsanfksfafigdisnasdsagdsdh.sbs/*
 *://*.isbturk.com/*
 *://*.isbturkey.com/*
@@ -177247,6 +177261,7 @@
 *://*.kampanyakurulu.com/*
 *://*.kampanyakutusu86420.com/*
 *://*.kampanyal-i-ptt-avm.shop/*
+*://*.kampanyal-urunlerin-listesi.xyz/*
 *://*.kampanyalaifirsatlar.cfd/*
 *://*.kampanyalaifirsatlar.sbs/*
 *://*.kampanyalar-61651656.com/*
@@ -179769,6 +179784,7 @@
 *://*.kart-yillik-ucretine-iade-basvurusu.xyz/*
 *://*.kart.express/*
 *://*.kart.gold/*
+*://*.kart.ink/*
 *://*.kart12sec.gq/*
 *://*.kart38dolumlari.net/*
 *://*.kart38yuklemeservisi.net/*
@@ -179904,6 +179920,7 @@
 *://*.kartalkgm.com/*
 *://*.kartallafirsatlarbitmez.com/*
 *://*.kartalreklamajansi.com/*
+*://*.kartalreklammerkezi.site/*
 *://*.kartalreklamonay.site/*
 *://*.kartalrklm.com/*
 *://*.kartalsondakikalar.com/*
@@ -205779,6 +205796,7 @@
 *://*.mumii-troll.ru/*
 *://*.mumkun-sizin-aradiginiz-hersey-burada.xyz/*
 *://*.mumkundegilacamazsiniz.cfd/*
+*://*.mumkundegilyikilmam.cfd/*
 *://*.mumo.cf/*
 *://*.mumtazandbrohi.com/*
 *://*.munakahat.com/*
@@ -208193,6 +208211,7 @@
 *://*.ndzmms.top/*
 *://*.ne-ba.org/*
 *://*.ne-lazimsa-burda-hepiniz-icin.com/*
+*://*.ne-lazimsa-carfursada.online/*
 *://*.ne-varsa-kenari-birak.sbs/*
 *://*.nea1o1.net/*
 *://*.neaachar.com/*
@@ -209509,6 +209528,7 @@
 *://*.newtest456678.top/*
 *://*.newton2008-mortgage.com/*
 *://*.newtonschools.top/*
+*://*.newtrbayy.xyz/*
 *://*.newtrendmicro.com/*
 *://*.newtu24.com/*
 *://*.newturk.site/*
@@ -228308,6 +228328,7 @@
 *://*.pazarcii-kasim-101.com/*
 *://*.pazarcim.name.tr/*
 *://*.pazardan-aldim-bir-tane-eve-geldim-bin-tane.cfd/*
+*://*.pazardancumaya.sbs/*
 *://*.pazare.vin/*
 *://*.pazareylulperakdenelerinsonlkampanyalarll.com/*
 *://*.pazarfirsati78.com/*
@@ -230488,6 +230509,7 @@
 *://*.plasmosome.com/*
 *://*.plasnan.net/*
 *://*.plasnna.net/*
+*://*.plaspo.click/*
 *://*.plassmoranet.com/*
 *://*.plastic637.xyz/*
 *://*.plasticindigenous.top/*
@@ -240363,6 +240385,7 @@
 *://*.quasar-hotels-new.xyz/*
 *://*.quasar-hotes-new.com.tr/*
 *://*.quasar-hotess-new.online/*
+*://*.quastorin.shop/*
 *://*.quasyclick.info/*
 *://*.quatitytmerament.top/*
 *://*.quavabvc.top/*
@@ -247946,6 +247969,7 @@
 *://*.sahbnden-guvenliparam-alisveris.xyz/*
 *://*.sahbnden-paraguvende.com/*
 *://*.sahbnden-paramguvende.ml/*
+*://*.sahbnden-prmguvnde.online/*
 *://*.sahbnden.com/*
 *://*.sahbnden.net/*
 *://*.sahbndenget.com/*
@@ -254101,6 +254125,7 @@
 *://*.sepetimbinbir1.xyz/*
 *://*.sepetimde-aktif.com.tr/*
 *://*.sepetimde-ode.com.tr/*
+*://*.sepetimde.xyz/*
 *://*.sepetimdo101sizinlegelsinsiradaxksla.fun/*
 *://*.sepetimguvende.com.tr/*
 *://*.sepetimguvende.com/*
@@ -267451,6 +267476,7 @@
 *://*.stnlytrmstkflsbrdsm.com/*
 *://*.stnlywkx.click/*
 *://*.stnts.com/*
+*://*.stnviolet.cfd/*
 *://*.stnyle.cfd/*
 *://*.stnylrkrtemosktelifbsurda101.com/*
 *://*.stoa1o1.sbs/*
@@ -272116,6 +272142,7 @@
 *://*.tapurandevunuzz.online/*
 *://*.tapureko.store/*
 *://*.tapurxndevu.app/*
+*://*.tapusubende.cfd/*
 *://*.tapusuzarsa.dev/*
 *://*.tapuuharci.net/*
 *://*.tapuurandevucum.net/*
@@ -274557,6 +274584,7 @@
 *://*.techsavvyportal.com/*
 *://*.techsec.xyz/*
 *://*.techsolutionsworld.xyz/*
+*://*.techsolve.sbs/*
 *://*.techspherxe.top/*
 *://*.techspire.site/*
 *://*.techsprouts.com/*
@@ -274622,6 +274650,7 @@
 *://*.tedclvt-sclt.com/*
 *://*.tedderbiiiislllemmenuugirislerii.com/*
 *://*.tederosavito.top/*
+*://*.tedfullwood.com/*
 *://*.tedifrusttingli.ml/*
 *://*.tediousfuse.top/*
 *://*.tediousprogram.top/*
@@ -284979,6 +285008,7 @@
 *://*.trrblnnce.click/*
 *://*.trrbnncrgiris.online/*
 *://*.trrebnnscragiris.online/*
+*://*.trredirectt.com/*
 *://*.trrefderrvt-cvdvt.com/*
 *://*.trrekkify.com/*
 *://*.trreklamlarcom.xyz/*
@@ -297373,6 +297403,7 @@
 *://*.veramebel.kz/*
 *://*.veraproject.co/*
 *://*.veraprojectwebb.com/*
+*://*.veraran.com/*
 *://*.verasosyal.com/*
 *://*.veratosun.com/*
 *://*.veravakfi.com/*
@@ -298069,6 +298100,7 @@
 *://*.verianaliziveteknolojigezileri.xyz/*
 *://*.veriasmonetakodofwin.com/*
 *://*.vericationservicetwitter.com/*
+*://*.veridiansanctuary.com/*
 *://*.veridunyasindastratejionerileri.xyz/*
 *://*.verif-accounts-lockeds.com/*
 *://*.verif-akun-instagram.com/*
