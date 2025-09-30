@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-30 16:11:26 UTC
-! Total: 328507 rules
+! Last modified: 2025-09-30 17:08:24 UTC
+! Total: 328512 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -108269,6 +108269,7 @@
 *://*.enuyugunyzbiraygtbuarda.xyz/*
 *://*.env-randev.online/*
 *://*.env-rdsnadfv.net/*
+*://*.env.pm/*
 *://*.envaayy-mssynnrrxdss.net/*
 *://*.envaayy-msynnxdrr.net/*
 *://*.envay-awewqawds.net/*
@@ -121397,6 +121398,7 @@
 *://*.frrnnobqicbm.net/*
 *://*.frrsat101a.icu/*
 *://*.frrsatcampy.sbs/*
+*://*.frrsatcampy101.sbs/*
 *://*.frrsatcampyal.sbs/*
 *://*.frrst-aldn.com.tr/*
 *://*.frrst-ssokta.com.tr/*
@@ -128250,6 +128252,7 @@
 *://*.ggybj.in/*
 *://*.ggzuhhb5exvj65crolcasy.com/*
 *://*.gh-deniz-kartlarim.net/*
+*://*.gh91234sf-f13-31dwg2e3wtgfs.sbs/*
 *://*.ghahswmemqhdjwjw4.site/*
 *://*.ghahswmemwdhqhw2.site/*
 *://*.ghakdzvec.com/*
@@ -256571,6 +256574,7 @@
 *://*.sianetwork.services/*
 *://*.sianetwork.site/*
 *://*.sianzi.top/*
+*://*.siaparislerinhizli29eylul.cloud/*
 *://*.siasky.net/*
 *://*.siayzmgvi.com/*
 *://*.sibalmemura.online/*
@@ -271296,6 +271300,7 @@
 *://*.tab-urndsu.net/*
 *://*.tabak-sepetinde.cfd/*
 *://*.tabakindirimleri-tr.cfd/*
+*://*.tabaklardaindirimvakti.cfd/*
 *://*.tabburandab.net/*
 *://*.tabiklimagicinizden.xyz/*
 *://*.tabilenn.site/*
