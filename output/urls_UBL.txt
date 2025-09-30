@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-09-30 09:10:23 UTC
-! Total: 328442 rules
+! Last modified: 2025-09-30 10:10:03 UTC
+! Total: 328446 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6698,6 +6698,7 @@
 *://*.2501752.cloud/*
 *://*.25052.cloud/*
 *://*.250888com.com/*
+*://*.250binkonutbasvuruislemi.com/*
 *://*.250binkonutbasvurusu.com/*
 *://*.250binkonutprojesibasvuru.com/*
 *://*.250bintokibasvurusu.com/*
@@ -87876,6 +87877,7 @@
 *://*.dijitalfirsat-denizacik.com/*
 *://*.dijitalfirsat-ziraatbireysel.com/*
 *://*.dijitalfirsatkredi-ziraatbireysel.com/*
+*://*.dijitalfirsatlar.sbs/*
 *://*.dijitalfirsatnet-ziraatbireysel.com/*
 *://*.dijitalfirsatweb-ziraatbireysel.com/*
 *://*.dijitalfon-denizacik.com/*
@@ -138169,6 +138171,7 @@
 *://*.haliaracyikamasimdiburada.store/*
 *://*.halibut.sbs/*
 *://*.halicilarsoyfasinizdenizde.site/*
+*://*.halickureketkinligibasvuruformu.com/*
 *://*.halicopnow.com/*
 *://*.halideyardimvakif.org/*
 *://*.halihazirdaonline.com.tr/*
@@ -150517,6 +150520,7 @@
 *://*.hizlihizmetlergirisi-turkeygovtr.com/*
 *://*.hizlihizmetlerin.xyz/*
 *://*.hizlihizmetlerm.app/*
+*://*.hizlihizmetllergirisi-turkeygovtr.com/*
 *://*.hizlihizmetsayfam.com/*
 *://*.hizlihizmett.de/*
 *://*.hizlihlalyardiimcisi.tk/*
