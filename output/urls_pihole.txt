@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-09-30 08:13:50 UTC
-# Toplam: 412242 Domain
+# Son Güncelleme: 2025-09-30 09:10:23 UTC
+# Toplam: 412262 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17800,6 +17800,7 @@
 7debd74u.duckdns.org
 7dennvr3.duckdns.org
 7desorunyok.dreamhosters.com
+7df4va.com
 7dl7m71v.duckdns.org
 7dmw86s8.duckdns.org
 7do07b9ba.duckdns.org
@@ -79700,6 +79701,7 @@ brfqnwly.com
 brgecis.sg-host.com
 brh-knua-edhn-1000tl.com
 brhck8.duckdns.org
+brhdafrsatlaradogru.sbs
 brhjtgyas.com
 brhn4bz7.duckdns.org
 brhost.zapto.org
@@ -85669,6 +85671,7 @@ caleftthensof.com
 calendar-ua.firstcloudit.com
 calendarhose.top
 calendaricon.top
+calendaromatic.com
 calendarplicate.top
 calendarua.firstcloudit.com
 calendasubscribe.top
@@ -164953,6 +164956,7 @@ goofy-kapitsa.34-125-63-178.plesk.page
 goofy-keller.34-125-63-178.plesk.page
 goog-le.site
 goog-le213.xyz
+goog.manahegazeda.org
 goog1e.ezua.com
 goog1eupdate.com
 googcloud.top
@@ -166544,6 +166548,7 @@ grgntibasvurulardangelsende.duckdns.org
 grgtibilgiguncellesendehamsna.duckdns.org
 grgtihmansaisisvzdlkjishmanas.duckdns.org
 grh4fwz.duckdns.org
+grhassatlaradogru.sbs
 grhfgetraeg6yrt.site
 grhtnzhrtr.duckdns.org
 gri5vocc.info
@@ -172248,6 +172253,7 @@ haftaninfirsatllari.com
 haftaninfirsattkampani.online
 haftaninfirsattlari.com
 haftaninfirsatucuzluklari.click
+haftaninflrsatikacmiyorwsynx.com
 haftaninindirimleri.cfd
 haftaninindirimleri.com.tr
 haftaninindirimleri.icu
@@ -189685,7 +189691,9 @@ home-zxc.ddns.net
 home.boopainc.com
 home.googlemobilecenter.info
 home.ktxhome.com
+home.manahegazeda.org
 home.microsoft-ns1.com
+home.sappointedmanah.org
 home.southerntransitions.net
 home.th0mass4n.xyz
 home.ziraatb-tr.com
@@ -198810,6 +198818,7 @@ imageliners.com
 imagemacrocamcorder.com
 imagemicarai.ddns.net
 images-11d.workers.dev
+images-searcher.com
 images.emldn.com
 images.kiidcloud.com
 images.markplay.net
@@ -204731,6 +204740,7 @@ ioiubby73b1n.com
 iojwxwpn.duckdns.org
 iok14vsp.duckdns.org
 iokfgbfeskps.pw
+iolenaightdecipien.org
 iolesi-iwnekd-dken.lol
 iolio.top
 iolpf84ij.duckdns.org
@@ -216323,6 +216333,7 @@ justadomainlife.com
 justafinedomain.info
 justarena.top
 justasec.com.au
+justaskjacky.com
 justbegatan.ru
 justbigso.com
 justcall3241.tk
@@ -237758,6 +237769,7 @@ lookplease.c1.biz
 lookrefuge.top
 looksuperintendent.top
 lookup.hopto.org
+lookupkitchen.com
 loolhack.zapto.org
 loombre48.zapto.org
 loommurmur.top
@@ -242558,6 +242570,7 @@ manageudapte-clientsupport.duckdns.org
 manageviable.top
 manags.twilightparadox.com
 manaheart.ddns.net
+manahegazeda.org
 manakailia.hopto.org
 manakararas.xyz
 manaman.xyz
@@ -253453,6 +253466,7 @@ moveme.cfd
 movement2345.xyz
 movementabreast.top
 movementdisclose.top
+movementxview.com
 movemimic.top
 movendp.de
 moveodeme.com
@@ -270032,6 +270046,7 @@ onesixfoureight.cfd
 onesixzerothree.top
 onesoftware.info
 onessearth.online
+onestartapi.com
 onestartbrowser.com
 onestigma.top
 onestorageprotectordirect.com
@@ -274212,6 +274227,7 @@ ontehagundor.click
 onthebeach.one
 onthedislike.one
 onthemtaitp.com
+ontheradar.cfd
 ontimeservice.ddns.net
 ontion-protomono.nya.pub
 ontmintuejio.sytes.net
@@ -286596,6 +286612,7 @@ pivo11333.ddns.net
 pivqmane.com
 pivyxebmfe.duckdns.org
 piwsarbgqj.com
+pix-seek.com
 pix.user-clicks.com
 pixalate.us
 pixar-web.ddns.net
@@ -302404,6 +302421,7 @@ reciev3dfikes.hopto.org
 recieviblrggg.duckdns.org
 reciietmadate.top
 recipehum.com
+recipelister.com
 recipepepper.top
 recipientdiscord.top
 recipientpaalysis.top
@@ -314722,6 +314740,8 @@ sapphireeskeysolutions.com
 sapphireqv.top
 sapphiretrixx.com
 sappie-portaal.info
+sappointedmanah.org
+sappoisearchedmanah.org
 sapport-trrzorlgin.webflow.io
 sapportrealy32012123.tk
 sapsap.site
