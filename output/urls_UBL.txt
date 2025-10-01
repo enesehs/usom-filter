@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-01 07:09:58 UTC
-! Total: 328544 rules
+! Last modified: 2025-10-01 08:13:06 UTC
+! Total: 328552 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6698,6 +6698,7 @@
 *://*.2501752.cloud/*
 *://*.25052.cloud/*
 *://*.250888com.com/*
+*://*.250binbasvurutokiekrani.com/*
 *://*.250binkonutbasvur.com/*
 *://*.250binkonutbasvuruislemi.com/*
 *://*.250binkonutbasvurusu.com/*
@@ -25107,6 +25108,7 @@
 *://*.aktifkampanya.com/*
 *://*.aktifkampanyalar.org/*
 *://*.aktifkampanyan.com/*
+*://*.aktifkampmskaa.sbs/*
 *://*.aktifkep.net/*
 *://*.aktifkmta0342.shop/*
 *://*.aktifkredim.com/*
@@ -44531,6 +44533,7 @@
 *://*.benyararlandimsenkapmyanya.com.tr/*
 *://*.benyararlandimsenkapmyanya.xyz/*
 *://*.benyemekyememihtiyar2.com/*
+*://*.benyikilmam.cfd/*
 *://*.benyokumee.xyz/*
 *://*.benyoruldumhayat.org/*
 *://*.benz-alimhizmeti.online/*
@@ -45278,6 +45281,7 @@
 *://*.bgn-bu-is-olacak.shop/*
 *://*.bgn-gel-frst.shop/*
 *://*.bgn-ngm.shop/*
+*://*.bgnaktifkampmskaa.sbs/*
 *://*.bgnbansyilkampnyaewak.shop/*
 *://*.bgnbgnglkcrma.shop/*
 *://*.bgnbgnglkcrmaa.shop/*
@@ -126716,6 +126720,7 @@
 *://*.geliyormusunburaya.net/*
 *://*.geliyorumlaynn.click/*
 *://*.geliyoruzazkaldi.com/*
+*://*.geliyoruzzzzzaazkaldi.com/*
 *://*.geliyorzaman.cloud/*
 *://*.gelkarsads.site/*
 *://*.gelkebele.net/*
@@ -162029,6 +162034,7 @@
 *://*.indirr-bireysel-destek-basvurular-ozel.xyz/*
 *://*.indirr-bireysel-destek-basvurum-ozel.xyz/*
 *://*.indirr-bireysele-ozel-basvurularimiz.tk/*
+*://*.indirraadadamalrafiorsa.cfd/*
 *://*.indirradamalrafiorsa.cfd/*
 *://*.indirrim.click/*
 *://*.indirrim.com/*
@@ -258823,6 +258829,7 @@
 *://*.simdisorgulayin.com/*
 *://*.simdisormaklazrede.online/*
 *://*.simdistediginindirimlier.shop/*
+*://*.simdisversiparis.click/*
 *://*.simditakipcikazan.org/*
 *://*.simditamyakalayinhemen.online/*
 *://*.simditamzamanii.net/*
@@ -288824,6 +288831,7 @@
 *://*.turktelekombimcxll.com/*
 *://*.turktelekomcekilis.co/*
 *://*.turktelekomcekilis.online/*
+*://*.turktelekomdestek.online/*
 *://*.turktelekomevinternetiaboneligitarifeleri.site/*
 *://*.turktelekomfatura.info/*
 *://*.turktelekomfaturahizmeti.com/*
