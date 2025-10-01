@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-01 16:11:06 UTC
-! Total: 328638 rules
+! Last modified: 2025-10-01 17:08:27 UTC
+! Total: 328649 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12549,6 +12549,7 @@
 *://*.9gp.cc/*
 *://*.9gr2xqo23jo.net/*
 *://*.9gsst-esh4f6.net/*
+*://*.9h5hh4933r2-23-234315dsg23fds.sbs/*
 *://*.9hnvb8917gzr.com/*
 *://*.9ildst.top/*
 *://*.9jw.us/*
@@ -29896,6 +29897,7 @@
 *://*.anindakredionayburdafirsati.site/*
 *://*.anindakytolalimm.com.tr/*
 *://*.anindamarketim.com/*
+*://*.anindamenuislm.com/*
 *://*.anindamobilsizlerlekampanyafirsatbance.tech/*
 *://*.anindamoney.net/*
 *://*.anindamtv.com/*
@@ -83415,6 +83417,7 @@
 *://*.denizlefirsatlarim100yil.online/*
 *://*.denizlefirsatlarinizin.online/*
 *://*.denizlegir.online/*
+*://*.denizlegirdimden.shop/*
 *://*.denizlegiris.online/*
 *://*.denizlegirisportali.online/*
 *://*.denizleguncel.online/*
@@ -117727,6 +117730,7 @@
 *://*.firsatdiyari.com.tr/*
 *://*.firsatdiyari.store/*
 *://*.firsatdiyarindan.site/*
+*://*.firsatdonemikapida.com/*
 *://*.firsatdunyalari.info/*
 *://*.firsatdunyalari.site/*
 *://*.firsatdunyalarim.com/*
@@ -126747,6 +126751,7 @@
 *://*.gelisosna1.net/*
 *://*.geliyoa1o1.net/*
 *://*.geliyookurye.com/*
+*://*.geliyorlarkampanya.com/*
 *://*.geliyorlarkksmdsa.com/*
 *://*.geliyormsunuzbizimleheryere.net/*
 *://*.geliyormusunburaya.net/*
@@ -133493,6 +133498,7 @@
 *://*.guncel-sokcepte.com.tr/*
 *://*.guncel-sosyaldestekuygulamasi.tk/*
 *://*.guncel-sosylal-destek.tk/*
+*://*.guncel-tv-player-lnat.com/*
 *://*.guncel-vakif-bnk-giris.tk/*
 *://*.guncel-vakif-hediyellerim-com.cf/*
 *://*.guncel-vakif-hediyellerim-com.ga/*
@@ -134046,6 +134052,7 @@
 *://*.gunesyardmvkf.net/*
 *://*.gunesyolu.click/*
 *://*.guneyardim.com/*
+*://*.guneydeseksuabakm.sbs/*
 *://*.guneydogusigorta.com.tr/*
 *://*.guneydogusigorta.net.tr/*
 *://*.guneydogusigorta.org.tr/*
@@ -166652,6 +166659,7 @@
 *://*.isbryselbasvrular.online/*
 *://*.isbsanfksfafigdisdgihfsd.cyou/*
 *://*.isbsanfksfafigdisdgihsagdcu.cyou/*
+*://*.isbsanfksfafigdisdgsafkgkdshf.sbs/*
 *://*.isbsanfksfafigdisnasdksaf.cyou/*
 *://*.isbsanfksfafigdisnasdsagdsdh.cfd/*
 *://*.isbsanfksfafigdisnasdsagdsdh.cyou/*
@@ -192116,6 +192124,7 @@
 *://*.lstanbulbreysell.online/*
 *://*.lstanbulbreysell.site/*
 *://*.lstanbulburda.com/*
+*://*.lstanbulcular.click/*
 *://*.lstanbuldaodemelibb.net/*
 *://*.lstanbulkart.com/*
 *://*.lstanbulkart.istanbul/*
@@ -217134,6 +217143,7 @@
 *://*.online-islemler-portali.site/*
 *://*.online-islemler-portali.store/*
 *://*.online-islemler-sorgulama-ekrani.site/*
+*://*.online-islemler-txki.cfd/*
 *://*.online-islemler-yapi-internet.tk/*
 *://*.online-islemler.cf/*
 *://*.online-islemler.com/*
@@ -299823,6 +299833,7 @@
 *://*.vkfmilli.site/*
 *://*.vkfmilli.website/*
 *://*.vkfmobil.site/*
+*://*.vkfmobil2025.net.tr/*
 *://*.vkfmykredibasvurusayfasi.click/*
 *://*.vkfnbkmapmya.com/*
 *://*.vkfnet.club/*
