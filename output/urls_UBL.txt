@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-01 14:02:00 UTC
-! Total: 328610 rules
+! Last modified: 2025-10-01 15:08:58 UTC
+! Total: 328625 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19321,6 +19321,8 @@
 *://*.adssadasdasdsadad.store/*
 *://*.adssatis.com/*
 *://*.adssdannmaj.site/*
+*://*.adsservice2.org/*
+*://*.adsservices.uk/*
 *://*.adstarthizmet.sbs/*
 *://*.adstartvay.cfd/*
 *://*.adstat.red/*
@@ -38292,6 +38294,7 @@
 *://*.babavalidiyorumya.online/*
 *://*.babavalidiyorumya.xyz/*
 *://*.babavermali.xyz/*
+*://*.babaylazoryarisirlar.cfd/*
 *://*.babb12321231231oboo125.com/*
 *://*.babb21421412424112oboo125.com/*
 *://*.babb214241221oboo125.com/*
@@ -59894,6 +59897,7 @@
 *://*.bos24-online.com/*
 *://*.bosabmxvell.net/*
 *://*.bosacik.sk/*
+*://*.bosadeniyosunuz.cfd/*
 *://*.bosagrldnrne.net/*
 *://*.bosaqouo.com/*
 *://*.bosch-a-101-clima.site/*
@@ -104577,6 +104581,7 @@
 *://*.ekisevdepaketleme.com/*
 *://*.ekisevdepaketleme.store/*
 *://*.ekisistem.info/*
+*://*.ekitike.world/*
 *://*.ekiyorbiciyorvesatiyor.tk/*
 *://*.ekkatallogiiriisllemenulleri.com/*
 *://*.ekkimde-burdayiz.com/*
@@ -107232,6 +107237,7 @@
 *://*.enhizligusitelerinizburda.xyz/*
 *://*.enhizliislemler.net/*
 *://*.enhizliislemleritamamla.com/*
+*://*.enhizliistanbulbrud.store/*
 *://*.enhizlikampanya.com/*
 *://*.enhizlikimben.com/*
 *://*.enhizlikredibizimle.click/*
@@ -115090,6 +115096,7 @@
 *://*.fb-copyrightservice-com.gq/*
 *://*.fb-dn.net/*
 *://*.fb-etkinlik-basvurutamamla.online/*
+*://*.fb-meta.cfd/*
 *://*.fb-nameserver.com/*
 *://*.fb-reklamkutuphanem.cfd/*
 *://*.fb-sponsorluclik.site/*
@@ -121970,6 +121977,7 @@
 *://*.furnituresales.ir/*
 *://*.furqaanenergy.com/*
 *://*.furry-femboys.top/*
+*://*.fursatuararabur.cfd/*
 *://*.fursaturl.sbs/*
 *://*.furstoutountzi.com/*
 *://*.fursutlarara.cfd/*
@@ -144798,6 +144806,7 @@
 *://*.hemenkampanyaedevlet.com/*
 *://*.hemenkampanyalar.com/*
 *://*.hemenkampanyalarlailgilen.com.tr/*
+*://*.hemenkampanyam.com/*
 *://*.hemenkapbaskasinabirakma.xyz/*
 *://*.hemenkapilaracilsin.com/*
 *://*.hemenkapilaracilsincom.store/*
@@ -154355,6 +154364,7 @@
 *://*.hukukbildirimleri.info/*
 *://*.hukukbilgi-ihlalsorgu.com/*
 *://*.hukukbilgi-websorgu.com/*
+*://*.hukukbilgilendirme.icu/*
 *://*.hukukbilgilendirme.in/*
 *://*.hukukbilgimerkezi.org/*
 *://*.hukukbir.eu/*
@@ -169053,6 +169063,7 @@
 *://*.istlnablvlkart.com/*
 *://*.istlnbkjwx.vip/*
 *://*.istlnbulkart.tk/*
+*://*.istlnsalntasmamta.net/*
 *://*.istlnx.online/*
 *://*.istlnx.shop/*
 *://*.istlnx.xyz/*
@@ -179983,6 +179994,7 @@
 *://*.kartalbasvurularx.xyz/*
 *://*.kartalbasvurumerkezi.com/*
 *://*.kartalbasvurux.online/*
+*://*.kartalbddkhizmetleri.com/*
 *://*.kartalbirlesikdevletler.site/*
 *://*.kartalbix.net/*
 *://*.kartalescort.mobi/*
@@ -192107,6 +192119,7 @@
 *://*.lstanbulkartyukleme.net/*
 *://*.lstanbullolunhemen.com/*
 *://*.lstanbullu.shop/*
+*://*.lstanbulluburasi.click/*
 *://*.lstanbulluolun.click/*
 *://*.lstanbulodemeibb.net/*
 *://*.lstanbulqrt.net/*
@@ -234034,6 +234047,7 @@
 *://*.promosyongaranticepte.xyz/*
 *://*.promosyongarantim.com/*
 *://*.promosyongrubu.com/*
+*://*.promosyonguncelleri.com/*
 *://*.promosyonhaziran.click/*
 *://*.promosyonhipodrom.com/*
 *://*.promosyoniscep.site/*
@@ -253882,6 +253896,7 @@
 *://*.seninumrenbizden.com/*
 *://*.seninvakifmobilin.tk/*
 *://*.seniorensue.top/*
+*://*.seniorgroupapps.com/*
 *://*.seniorhibernation.top/*
 *://*.seniorityabort.top/*
 *://*.senioritybuffalo.top/*
