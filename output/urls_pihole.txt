@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-01 05:09:41 UTC
-# Toplam: 412373 Domain
+# Son Güncelleme: 2025-10-01 06:13:55 UTC
+# Toplam: 412379 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40348,6 +40348,7 @@ alisverisehemenbasla.com
 alisveriseozelfirsatlar.xyz
 alisverisepet.online
 alisverisfirsatlaredmialimiburadan.sbs
+alisverisfirsatlari.click
 alisverisfirsatlari.duckdns.org
 alisverisfirsatlari.online
 alisverisgetguvende.com.tr
@@ -93126,6 +93127,7 @@ clazc.com
 clazzy.ddns.net
 clbbl.duckdns.org
 clcay2.duckdns.org
+clck352.duckdns.org
 cld-trbiancefirsatbasvurunutamamla.life
 cld.androidadbserver.com
 clddeoslode.net
@@ -143918,6 +143920,7 @@ faceb00k-l0g1n.duckdns.org
 faceb00k-live.com
 facebasvuru.online
 facebo0k.online
+facebok.cx
 facebok.one
 facebokmedia-appeal-copyright-10000089748673.com
 faceboock.zapto.org
@@ -178171,6 +178174,7 @@ hazira-konmak-nedensiz-olmasinki.com
 haziraan-campanyhediyebasvur.net
 haziraaninn-firsttlrim.com
 haziraidat.com
+haziralpaket.xyz
 haziran-aktuel.com.tr
 haziran-aktuel.info.tr
 haziran-aktuel.net.tr
@@ -235760,6 +235764,7 @@ limitsizevinterneti.com
 limitsizevinterneti.net
 limitsizinternet-abonelikvebasvurumerkezi.site
 limitsizinternetabonelikvebasvurumerkezi.site
+limitsizkampanyalar.click
 limitsorgu.com
 limitsorgu.net
 limitsorgulama.ml
@@ -309119,6 +309124,7 @@ sac1.ddns.net
 sac2.ddns.net
 sacbakim-dyson-airwrap.com.tr
 sacbakim-dyson.com.tr
+saceceonlaynfrsstlr.blogdns.org
 saceeceoonlnfrslssc.blogdns.org
 sacgeciss.22web.org
 sach0000.ddns.net
