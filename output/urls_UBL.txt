@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-01 13:22:40 UTC
-! Total: 328604 rules
+! Last modified: 2025-10-01 14:02:00 UTC
+! Total: 328610 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6706,6 +6706,7 @@
 *://*.250binkonutbasvurusu.com/*
 *://*.250binkonutprojesibasvuru.com/*
 *://*.250bintokibasvurusu.com/*
+*://*.250bintokiprojebasvuruekrani.com/*
 *://*.250ekpromosyon.ml/*
 *://*.250garantibbva-com-tr.tk/*
 *://*.250tlekpromosyon.ml/*
@@ -89784,6 +89785,7 @@
 *://*.dnzckllizzzzzzzkyxtzzzzzdfghzh.net/*
 *://*.dnzcklzbsvrsmdnen2023.net/*
 *://*.dnzdefirsatlaro.ml/*
+*://*.dnzdengirek.shop/*
 *://*.dnzdkgs.sbs/*
 *://*.dnze.ml/*
 *://*.dnzedsanclmon1linece1el1l1emden.net/*
@@ -138237,7 +138239,6 @@
 *://*.haliaracyikamasimdiburada.store/*
 *://*.halibut.sbs/*
 *://*.halicilarsoyfasinizdenizde.site/*
-*://*.halickureketkinligibasvuruformu.com/*
 *://*.halicopnow.com/*
 *://*.halideyardimvakif.org/*
 *://*.halihazirdaonline.com.tr/*
@@ -180004,6 +180005,7 @@
 *://*.kartalrklm.com/*
 *://*.kartalsondakikalar.com/*
 *://*.kartaltvhd.com/*
+*://*.kartalvbs.site/*
 *://*.kartalxbasvurular.cloud/*
 *://*.kartaodemeal.com/*
 *://*.kartary.com/*
@@ -215297,6 +215299,7 @@
 *://*.okankalpdemir.online/*
 *://*.okanvehbiyalan.surf/*
 *://*.okartanakan.store/*
+*://*.okasaktifkampmskaa.sbs/*
 *://*.okasdlasdkasldk.site/*
 *://*.okatalogirislemenusu.com/*
 *://*.okay.com.tr/*
@@ -249672,6 +249675,7 @@
 *://*.sahibnden-param-try.com/*
 *://*.sahibnden-paramguvende.com/*
 *://*.sahibnden-paramguvende.ml/*
+*://*.sahibnden-paramguvende.online/*
 *://*.sahibnden-paramguvendee.com/*
 *://*.sahibnden-s-odeme.com.tr/*
 *://*.sahibnden-s-online.com/*
@@ -286299,6 +286303,7 @@
 *://*.tum-operatorleredestekdevletten.tk/*
 *://*.tumagustosindirimlikampanyalar.online/*
 *://*.tumakkatilir.online/*
+*://*.tumaktifkampmskaa.sbs/*
 *://*.tumaneshasereilaclamasi.site/*
 *://*.tumarachizmetler.dev/*
 *://*.tumaracinislemi.dev/*
@@ -320683,6 +320688,7 @@
 *://*.yenibasvur-girisgeriodemefazi.xyz/*
 *://*.yenibasvurfirsati.com/*
 *://*.yenibasvurn.com/*
+*://*.yenibasvuru-online-islem.cfd/*
 *://*.yenibasvuru.info/*
 *://*.yenibasvuru.shop/*
 *://*.yenibasvurudonemler2024.com/*
