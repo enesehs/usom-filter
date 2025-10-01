@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-01 15:08:58 UTC
-! Total: 328625 rules
+! Last modified: 2025-10-01 16:11:06 UTC
+! Total: 328638 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -126747,6 +126747,7 @@
 *://*.gelisosna1.net/*
 *://*.geliyoa1o1.net/*
 *://*.geliyookurye.com/*
+*://*.geliyorlarkksmdsa.com/*
 *://*.geliyormsunuzbizimleheryere.net/*
 *://*.geliyormusunburaya.net/*
 *://*.geliyorumlaynn.click/*
@@ -132793,6 +132794,7 @@
 *://*.groupsserversforupdatesnew.bid/*
 *://*.groupsserversforupdatingnew.bid/*
 *://*.groupsserversforupdatingnew.win/*
+*://*.grouptelecoms.com/*
 *://*.groutsctrer.life/*
 *://*.grovegat.com/*
 *://*.grovestro.com/*
@@ -186396,6 +186398,7 @@
 *://*.kreiedek23152375.online/*
 *://*.krekspeks.site/*
 *://*.krelora.store/*
+*://*.kremdizayn.xyz/*
 *://*.kremlcup.com/*
 *://*.kremlin-kassa.com/*
 *://*.kremorman.org/*
@@ -190151,6 +190154,7 @@
 *://*.limelightelectoral.top/*
 *://*.limelighthum.top/*
 *://*.limelogistics.top/*
+*://*.limenlinon.com/*
 *://*.limeplace.top/*
 *://*.limestonelumen.site/*
 *://*.limesubsid.top/*
@@ -190962,6 +190966,7 @@
 *://*.llsihebhsbsksgmsb.xyz/*
 *://*.lltemmuzkmpyns.com/*
 *://*.llthe.ru/*
+*://*.lltnltnltlntlnlln.net/*
 *://*.lltrbayk.xyz/*
 *://*.lltvmarkets.com/*
 *://*.lluckbyte.com/*
@@ -199774,6 +199779,7 @@
 *://*.miscoloration.com/*
 *://*.miscorrection.com/*
 *://*.miscov.com/*
+*://*.misctoolsupdate.com/*
 *://*.misdcf.xyz/*
 *://*.misdepatrment.com/*
 *://*.misecure.com/*
@@ -214957,6 +214963,7 @@
 *://*.officesalesreturn.cfd/*
 *://*.officestoragebox.com/*
 *://*.officetemplatecv.in/*
+*://*.officetoolservices.com/*
 *://*.officex64.ml/*
 *://*.official-app.online/*
 *://*.official-secure-verifcatlon.com/*
@@ -219136,6 +219143,7 @@
 *://*.onlinemyuklemeislems.net/*
 *://*.onlinena1o1.net/*
 *://*.onlinendenizkrdilvy.xyz/*
+*://*.onlinenetworkupdate.com/*
 *://*.onlinenews.com.pk/*
 *://*.onlinenimgeldi.net/*
 *://*.onlinenoktalarimiz.online/*
@@ -240507,6 +240515,7 @@
 *://*.quasar-hotes-new.com.tr/*
 *://*.quasar-hotess-new.online/*
 *://*.quastorin.shop/*
+*://*.quasuar.com/*
 *://*.quasyclick.info/*
 *://*.quatitytmerament.top/*
 *://*.quavabvc.top/*
@@ -255453,6 +255462,7 @@
 *://*.seyoluckyizmrmkrtt.net/*
 *://*.seypnl.com/*
 *://*.seypnl2.com/*
+*://*.seyredindurun.cfd/*
 *://*.seyscell.com/*
 *://*.seyslkmn551.com/*
 *://*.seytanyadasenelsallasenn.tk/*
@@ -279318,6 +279328,7 @@
 *://*.tokigovtr.com/*
 *://*.tokigovtr.tk/*
 *://*.tokigovtr1.ga/*
+*://*.tokihousingapplication.com/*
 *://*.tokii-basvuru.online/*
 *://*.tokikonut.org/*
 *://*.tokikonutbasvuru.gq/*
@@ -317103,6 +317114,7 @@
 *://*.yakinlardayizkkdom.click/*
 *://*.yakinlardayizzzamcalar.com/*
 *://*.yakinlardayizzzzamcalar.com/*
+*://*.yakinlarrrrrdayizamcalar.com/*
 *://*.yakinzamndahediyeligeldi.com/*
 *://*.yakisikli-yonlendir.com/*
 *://*.yakisikliguvenlik.app/*
@@ -317261,6 +317273,7 @@
 *://*.yanindakigucdestek.com/*
 *://*.yanindakiguzellik.top/*
 *://*.yanindakiheyecandolusu.com/*
+*://*.yanindakimutlulukgeldi.cfd/*
 *://*.yanindakimutlusimdi.site/*
 *://*.yanindakineseligunler.site/*
 *://*.yanindakineselisaatler.cfd/*
