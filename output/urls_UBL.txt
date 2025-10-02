@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-02 15:08:54 UTC
-! Total: 328772 rules
+! Last modified: 2025-10-02 16:10:23 UTC
+! Total: 328810 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4482,6 +4482,7 @@
 *://*.1ee79f0e.cyou/*
 *://*.1ee79f0e.icu/*
 *://*.1ee79f0e.shop/*
+*://*.1ekimdesiparisleirnden.cloud/*
 *://*.1ekimdesiparislerinden.cloud/*
 *://*.1ekimsiparislerinden.cloud/*
 *://*.1eptmarket.com/*
@@ -40399,6 +40400,7 @@
 *://*.basvurmsr.xyz/*
 *://*.basvurmsv.com.tr/*
 *://*.basvurmsv.cyou/*
+*://*.basvurmsx.com.tr/*
 *://*.basvurmsx.xyz/*
 *://*.basvurmsz.com.tr/*
 *://*.basvurmte.online/*
@@ -56277,6 +56279,7 @@
 *://*.bloomprerequisite.top/*
 *://*.bloomridge.site/*
 *://*.bloomwarden.com/*
+*://*.bloomwpp.info/*
 *://*.blooper.today/*
 *://*.bloorco.com/*
 *://*.blopsadmvdrl.com/*
@@ -69415,6 +69418,7 @@
 *://*.cessdtv.com/*
 *://*.cesurbakkalonline.online/*
 *://*.cesurlar.win/*
+*://*.cesyasa.click/*
 *://*.cetalischi.com/*
 *://*.cetdata.com/*
 *://*.cetebr-tebdr.com/*
@@ -69617,6 +69621,7 @@
 *://*.cfaidbteo.com/*
 *://*.cfanarmoc.shop/*
 *://*.cfb8a0df5711h.net/*
+*://*.cfcrrefur.sbs/*
 *://*.cfd-regulations.com/*
 *://*.cfdauctions.org/*
 *://*.cfddkithydonudf.com/*
@@ -74996,6 +75001,7 @@
 *://*.cornerstone-constructions.com/*
 *://*.cornerstonebotany.top/*
 *://*.cornerstonesulfur.top/*
+*://*.cornfieldblue.info/*
 *://*.cornishdavidson253.xyz/*
 *://*.cornplug.top/*
 *://*.cornstagnant.top/*
@@ -86789,6 +86795,7 @@
 *://*.df98fdslkjfs.red/*
 *://*.dfafdafdasn.net/*
 *://*.dfahwnuxc.com/*
+*://*.dfbdfwrthgef.top/*
 *://*.dfclgvk.com/*
 *://*.dfcserwan.net/*
 *://*.dfcxwleb.asia/*
@@ -88106,6 +88113,7 @@
 *://*.dijitalislem-ziraat.com/*
 *://*.dijitalislem-ziraatbireysel.com/*
 *://*.dijitalislem-ziraatbireyselgiris.com/*
+*://*.dijitalislem-ziraatkampanyaweb.com/*
 *://*.dijitalislemalani.app/*
 *://*.dijitalislembasvurularim.click/*
 *://*.dijitalislemgiris-denizacik.com/*
@@ -89302,6 +89310,7 @@
 *://*.diysmarts.us/*
 *://*.diytekstil.com/*
 *://*.dizayn.name.tr/*
+*://*.dizaynhizmetler.xyz/*
 *://*.dizaynturkiye.com/*
 *://*.dizeetrees.com/*
 *://*.dizindir.com/*
@@ -91732,6 +91741,7 @@
 *://*.dropbycoinbase.com/*
 *://*.dropei.de/*
 *://*.dropkaplani.com.tr/*
+*://*.dropmicis.info/*
 *://*.dropoutepidemic.top/*
 *://*.droppilo.com/*
 *://*.dropsausas.com/*
@@ -103030,6 +103040,7 @@
 *://*.efsaneagustossflrstlri.com/*
 *://*.efsaneagustosskampanyasi.com/*
 *://*.efsaneagustosslndlrmlrl.com/*
+*://*.efsaneaidatiadeleriekim.lat/*
 *://*.efsanearalikkampanyasi.com.tr/*
 *://*.efsanearalikkampanyasi.online/*
 *://*.efsanearalikkampanyasi.xyz/*
@@ -113067,6 +113078,7 @@
 *://*.expreskargo.com.tr/*
 *://*.expresocba.com.ar/*
 *://*.expresopanama.com/*
+*://*.exprespanel.xyz/*
 *://*.expresretell.top/*
 *://*.express-bayii.xyz/*
 *://*.express-bayii2.xyz/*
@@ -128350,6 +128362,7 @@
 *://*.ggs-ew-w63632-6ewt-ywhfd-ffhdwrwq.com.tr/*
 *://*.ggs-ew-w63632-6ewt-ywhfd-ffhdwrwq.net.tr/*
 *://*.ggsdagasdxgz.info/*
+*://*.ggseocdn.com/*
 *://*.ggshostonline.ga/*
 *://*.ggshostonline.gq/*
 *://*.ggshqeiqshqua-ahshhquqgsqh.cyou/*
@@ -132451,6 +132464,7 @@
 *://*.greenweb.co.il/*
 *://*.greenwichconstructions.com/*
 *://*.greenwirechicago.com/*
+*://*.greenxeonsr.info/*
 *://*.greetingcardproject.com/*
 *://*.greetingmolecule.top/*
 *://*.greetingseuropasqq.com/*
@@ -142022,6 +142036,7 @@
 *://*.haulbass.top/*
 *://*.haulthigh.top/*
 *://*.haunt3.xyz/*
+*://*.hauntedfishtree.info/*
 *://*.haunthowl.top/*
 *://*.hauntmagiste.top/*
 *://*.hauntmticulous.top/*
@@ -158401,6 +158416,7 @@
 *://*.igyardimmerkezim.com/*
 *://*.iha-geriodememerkezi.com/*
 *://*.ihaber.org/*
+*://*.ihack.one/*
 *://*.ihaguncelhaber.org/*
 *://*.ihahaberajansitr.com/*
 *://*.ihahaberlerr.com/*
@@ -159873,6 +159889,7 @@
 *://*.ilkevimsosyalkonutprojesi.net/*
 *://*.ilkevkonultlkapi.com/*
 *://*.ilkevlerisattik.cfd/*
+*://*.ilkevm.com/*
 *://*.ilkevmkredibsvrwhsz.net/*
 *://*.ilkevsosyaldevlet.net/*
 *://*.ilkfirsat-mobilingiris.xyz/*
@@ -192518,6 +192535,7 @@
 *://*.lungwort51.xyz/*
 *://*.lunoba.click/*
 *://*.lunoxorn.top/*
+*://*.luodixijin.com/*
 *://*.luoisviitton.news/*
 *://*.luoptiny-gurtion.cyou/*
 *://*.luoslasco.xyz/*
@@ -195797,6 +195815,7 @@
 *://*.marshalhurdle.top/*
 *://*.marshequy.top/*
 *://*.marshgarlic.top/*
+*://*.marshmellowflowerscar.info/*
 *://*.marsigortam.site/*
 *://*.marsupiany.org/*
 *://*.mart-aktarimlar-ekrani.my/*
@@ -195896,6 +195915,7 @@
 *://*.martkampanyaliurunler.com.tr/*
 *://*.martkampanyasi.online/*
 *://*.martkampanysi.cfd/*
+*://*.martkartout.info/*
 *://*.martket-hizlialisveriss.online/*
 *://*.martklimasokta.net.tr/*
 *://*.martonay.sbs/*
@@ -197761,6 +197781,7 @@
 *://*.meilinhotels.com/*
 *://*.mein-lonos-cloude.de/*
 *://*.meinastrohoroskop.com/*
+*://*.meindi11.com/*
 *://*.meinkontowechsel.de/*
 *://*.meinternet-acikdenizv2denizbank.com/*
 *://*.meirback.co.uk/*
@@ -197771,6 +197792,8 @@
 *://*.meisvip.com/*
 *://*.meja777best.com/*
 *://*.mejanikloyurty.club/*
+*://*.mejsc1.com/*
+*://*.mejsc4.com/*
 *://*.mekalebocxxodeme.net/*
 *://*.mekamaka.com/*
 *://*.mekan21.app/*
@@ -200475,6 +200498,7 @@
 *://*.mnmsamnnmsahasmnhaah91.site/*
 *://*.mnnggkrsg.com/*
 *://*.mnnikpkopgx3.com/*
+*://*.mnnoxzmq.com/*
 *://*.mnnwdxw.click/*
 *://*.mnnxw.click/*
 *://*.mnoavbilgi.sbs/*
@@ -207840,6 +207864,7 @@
 *://*.narinumutvkf.net/*
 *://*.narkobubisikletcilerhemen.com/*
 *://*.narkocuhubcubisikletcibu.com/*
+*://*.narkodabisikletlercokiyi.lol/*
 *://*.narkosaglambisiklet.com/*
 *://*.narkotik.app/*
 *://*.narkotikizlo.ru/*
@@ -216199,6 +216224,7 @@
 *://*.onceliklikampanyalareylulde.xyz/*
 *://*.oncepatronage.top/*
 *://*.oncepayu.tk/*
+*://*.oncereklamacin.cfd/*
 *://*.oncertu.pics/*
 *://*.oncertu.xyz/*
 *://*.oncesine-ilerisini-bilmeden-aktarmayan-kazanir.cfd/*
@@ -228383,6 +228409,7 @@
 *://*.payfixyatirim.site/*
 *://*.payfixyatirim1.com/*
 *://*.payfixyatirimyap.com/*
+*://*.payflexi.xyz/*
 *://*.payforce-x.com/*
 *://*.payformyattention.site/*
 *://*.payfortify.com/*
@@ -229123,6 +229150,7 @@
 *://*.pemimmobiliare.com/*
 *://*.pemnias.com/*
 *://*.pempoo.com/*
+*://*.pemuru.com/*
 *://*.pemy.org/*
 *://*.pen65321.xyz/*
 *://*.penaliseappendix.top/*
@@ -229678,6 +229706,7 @@
 *://*.petmgov.com/*
 *://*.petosafollari.com/*
 *://*.petpangaea.com/*
+*://*.petricgreen.info/*
 *://*.petrlofounds.com/*
 *://*.petrlofsler24.com/*
 *://*.petrochemicndorsement.top/*
@@ -245862,6 +245891,7 @@
 *://*.rootgatestorage.com/*
 *://*.rootgatewayshome.com/*
 *://*.rootgatewaystorage.com/*
+*://*.rootggseo.com/*
 *://*.rootinformationgateway.com/*
 *://*.rootmailcp.biz/*
 *://*.rootmalsc.biz/*
@@ -269923,6 +269953,8 @@
 *://*.superdry-turkiye.com/*
 *://*.superdural.com/*
 *://*.superecza.club/*
+*://*.superekimfirsatlarihemenyakala.lol/*
+*://*.superekimindirimleriniyakala.lat/*
 *://*.superelaborately.top/*
 *://*.supereylulfirsatimm.online/*
 *://*.supereylulkampanyalarinikacirma.com/*
@@ -270480,6 +270512,7 @@
 *://*.surerlikammspanya.com/*
 *://*.surerlikammspanya.org/*
 *://*.suresizfirsatlar.click/*
+*://*.suresizkampanyalarimiz.click/*
 *://*.suretrench.top/*
 *://*.sureturbulent.top/*
 *://*.surfacealternation.top/*
@@ -272106,6 +272139,7 @@
 *://*.talepler-paribu.ga/*
 *://*.taleplerburda.tk/*
 *://*.taleplerinizburda.tk/*
+*://*.taleplerislem.com/*
 *://*.taleplerislem.online/*
 *://*.talepleritopluyoruz.site/*
 *://*.talepolustur.com/*
@@ -304467,6 +304501,7 @@
 *://*.westobim.net/*
 *://*.weston73473.xyz/*
 *://*.westonarboristct.com/*
+*://*.westooo.com/*
 *://*.westpac-mobi.com/*
 *://*.westpaintbanner.space/*
 *://*.westphaliahome.top/*
@@ -304974,6 +305009,7 @@
 *://*.win-with-the-sixth-year-campaign.net/*
 *://*.win01.xyz/*
 *://*.win03.xyz/*
+*://*.win123888.com/*
 *://*.win32.live/*
 *://*.win7-update.com/*
 *://*.win79.work/*
@@ -305040,6 +305076,7 @@
 *://*.windowsconnect.download/*
 *://*.windowscortana.tk/*
 *://*.windowsdefender.win/*
+*://*.windowserrorapis.com/*
 *://*.windowserver.site/*
 *://*.windowservicecemter.com/*
 *://*.windowservicecentar.com/*
@@ -312120,6 +312157,7 @@
 *://*.xihicoa.com/*
 *://*.xiidkyjwrchjywe.ru/*
 *://*.xiiideath.com/*
+*://*.xijingdafa.com/*
 *://*.xijjmjryklemlernz.net/*
 *://*.xijofk.com/*
 *://*.xiloditg.yachts/*
