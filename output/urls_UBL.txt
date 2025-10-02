@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-02 13:23:23 UTC
-! Total: 328744 rules
+! Last modified: 2025-10-02 14:08:51 UTC
+! Total: 328752 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58949,6 +58949,7 @@
 *://*.bntrkripto.tech/*
 *://*.bntrkripto.xyz/*
 *://*.bntrkriptoparaalimsatimplatformuanonimsirketi.info/*
+*://*.bntrkriptovarlikalimsatimplatformuanonimsirketi.com/*
 *://*.bntrnbncrn-giristronline.com/*
 *://*.bntrncnngiris-onlinetr.com/*
 *://*.bntrncnnne-girisonline.com/*
@@ -71671,6 +71672,7 @@
 *://*.clickgadgets.club/*
 *://*.clickies.site/*
 *://*.clickinclick.com/*
+*://*.clickinizbileiade.cfd/*
 *://*.clickiver.click/*
 *://*.clickjumbitora.pw/*
 *://*.clickle3gelsin.xyz/*
@@ -87801,6 +87803,7 @@
 *://*.dijital-ziraatonay.com/*
 *://*.dijital-ziraatonayweb.site/*
 *://*.dijital-ziraatweb.com/*
+*://*.dijital-ziraatwebmobil.com/*
 *://*.dijital.shop/*
 *://*.dijital1.site/*
 *://*.dijital111.xyz/*
@@ -104497,6 +104500,7 @@
 *://*.ekimflrsatlari.store/*
 *://*.ekimflyati.store/*
 *://*.ekimglrgdr-snnrdns.com/*
+*://*.ekimhizlitstnbd.store/*
 *://*.ekimiadeleri-aidt.xyz/*
 *://*.ekimidnirimleri.uk/*
 *://*.ekimileakvurgunlari.xyz/*
@@ -158868,6 +158872,7 @@
 *://*.ikofcuiow.net/*
 *://*.ikofed.com/*
 *://*.ikongo.pw/*
+*://*.ikonmdtr.com/*
 *://*.ikonmenkuldeger.com/*
 *://*.ikonmenkuldegerler.com/*
 *://*.ikonmenkulyatirim.com/*
@@ -253567,6 +253572,7 @@
 *://*.sendeburadagrantiniall.net/*
 *://*.sendeburadakal.net/*
 *://*.sendeburadakalbenimle.net/*
+*://*.sendeburadanfaydalan.cfd/*
 *://*.sendebzdnsnhaydnereyekadr.online/*
 *://*.sendecekilisekatil.tech/*
 *://*.sendecekilisekatil.tk/*
@@ -255247,6 +255253,7 @@
 *://*.severecasualty.cyou/*
 *://*.severecrbility.top/*
 *://*.severek-uzagi-bilinerek-senden-hizli-getirdik.com/*
+*://*.severekal.cfd/*
 *://*.severis-pttsgov.top/*
 *://*.severityaristocratic.top/*
 *://*.severitydegradation.top/*
@@ -270453,6 +270460,7 @@
 *://*.sureprosecution.top/*
 *://*.surerlikammspanya.com/*
 *://*.surerlikammspanya.org/*
+*://*.suresizfirsatlar.click/*
 *://*.suretrench.top/*
 *://*.sureturbulent.top/*
 *://*.surfacealternation.top/*
