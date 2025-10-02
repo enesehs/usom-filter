@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-02 14:08:51 UTC
-! Total: 328752 rules
+! Last modified: 2025-10-02 15:08:54 UTC
+! Total: 328772 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5633,6 +5633,7 @@
 *://*.2025-9012111021.xyz/*
 *://*.2025-929929199.xyz/*
 *://*.2025-akk-bnk-yn-yil.com/*
+*://*.2025-ekimayi-sorveaktar.sbs/*
 *://*.2025-ertelemeli.xyz/*
 *://*.2025-faizsiz.xyz/*
 *://*.2025-ilk-gun-firsatlari.shop/*
@@ -9284,6 +9285,7 @@
 *://*.5009a51a0347.com/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
+*://*.500binsosyalkonutbasvuru.org/*
 *://*.500bnanceusdt.com/*
 *://*.500bnb-tr2022bnbmobilgiris.com/*
 *://*.500bnb-tr2022bnbmobilgiris.xyz/*
@@ -24522,6 +24524,7 @@
 *://*.akmasrafsizekim.com/*
 *://*.akmayis.online/*
 *://*.akmbank.com/*
+*://*.akmbl.com.tr/*
 *://*.akmenbondoncines.site/*
 *://*.akmenu-girisleri.xyz/*
 *://*.akmhgsm.com/*
@@ -40541,6 +40544,7 @@
 *://*.basvursrn.xyz/*
 *://*.basvursrs.com.tr/*
 *://*.basvursrs.xyz/*
+*://*.basvursrx.cyou/*
 *://*.basvursrz.com.tr/*
 *://*.basvursrz.cyou/*
 *://*.basvursrz.xyz/*
@@ -44995,6 +44999,7 @@
 *://*.betelekom.com/*
 *://*.beterbocekremekec.com/*
 *://*.beterbolomvgkd.com/*
+*://*.beteritler.cfd/*
 *://*.betexengiris.co/*
 *://*.betflixfan.asia/*
 *://*.betfokse.net/*
@@ -59920,6 +59925,7 @@
 *://*.bosadeniyosunuz.cfd/*
 *://*.bosagrldnrne.net/*
 *://*.bosaqouo.com/*
+*://*.bosbosisler.sbs/*
 *://*.bosch-a-101-clima.site/*
 *://*.boschalidinaldinn.shop/*
 *://*.boschaquatack.shop/*
@@ -62809,6 +62815,7 @@
 *://*.bulopdalise.site/*
 *://*.buloxo.com/*
 *://*.bulsokakno31hasereilaclamaci.site/*
+*://*.bultenmerkezim.com/*
 *://*.bulukx.com/*
 *://*.bulut-dolum.xyz/*
 *://*.bulut-dolum2.xyz/*
@@ -88110,6 +88117,7 @@
 *://*.dijitalislemler-ziraatbireyselweb.com/*
 *://*.dijitalislemler-ziraatislemler.com/*
 *://*.dijitalislemler-ziraatkampanyaweb.site/*
+*://*.dijitalislemler-ziraatwebmobil.com/*
 *://*.dijitalislemler.xyz/*
 *://*.dijitalislemlergiris-denizacik.com/*
 *://*.dijitalislemlergirisin-denizacik.com/*
@@ -92435,6 +92443,7 @@
 *://*.duyuruhaber.site/*
 *://*.duyuruhaber.website/*
 *://*.duyuruhaber.xyz/*
+*://*.duyuruhizlionay.com/*
 *://*.duyuruiadecimer-tr.com/*
 *://*.duyurukararnamesi-cimertr.com/*
 *://*.duyurukasimbncatr.com/*
@@ -107223,6 +107232,7 @@
 *://*.enguzelruj.club/*
 *://*.enguzelruj.shop/*
 *://*.enguzelseylerbirandagelir.shop/*
+*://*.enguzeltrmslar.world/*
 *://*.enguzelurunlerbizdevar.site/*
 *://*.enguzelurunleriniz.com/*
 *://*.enguzelzamanlarbayram.xyz/*
@@ -144771,6 +144781,7 @@
 *://*.hemengirisadresimma.shop/*
 *://*.hemengirismerkezi-kurumsalbasvuru.com/*
 *://*.hemengirpormosyonceb.xyz/*
+*://*.hemengitsinler.click/*
 *://*.hemengrntarackirala.xyz/*
 *://*.hemengunlukalisveris.com.tr/*
 *://*.hemengunlukalisveris.xyz/*
@@ -149677,6 +149688,7 @@
 *://*.hizl1yukl3mehgsislem1niz.com/*
 *://*.hizla.net/*
 *://*.hizla1o1frsatakos.com/*
+*://*.hizlabirsipaisleri28bucukda.cloud/*
 *://*.hizlahgsyukle.com/*
 *://*.hizlaislem.online/*
 *://*.hizlaislemler.net/*
@@ -151141,6 +151153,7 @@
 *://*.hizlistnabulteklfierl.store/*
 *://*.hizlisube-yapikredi.com/*
 *://*.hizlisube.sbs/*
+*://*.hizlisuben.sbs/*
 *://*.hizlisupersiqorta.com.tr/*
 *://*.hizlisupersiqorta.xyz/*
 *://*.hizlitahslt.com/*
@@ -174022,6 +174035,7 @@
 *://*.jns.co.th/*
 *://*.jnsakensa.online/*
 *://*.jnsfi.in/*
+*://*.jnsi.xyz/*
 *://*.jnsrajxwsqdytsjg.com/*
 *://*.jnwvfgajhwgjhnmwj.com.tr/*
 *://*.jnxfgewrofrcgik.su/*
@@ -176606,6 +176620,7 @@
 *://*.kampanaylarikacirma.click/*
 *://*.kampanaylarikacirma.icu/*
 *://*.kampanaylarikacirma.sbs/*
+*://*.kampanbizlerdens.com/*
 *://*.kampancancumartx.com/*
 *://*.kampaniassurmatkapa.xyz/*
 *://*.kampanipersembe.xyz/*
@@ -208656,6 +208671,7 @@
 *://*.nejwsmkbs.net/*
 *://*.nejyd.icu/*
 *://*.nekadarguzelseylervarburalarda.shop/*
+*://*.nekadarkotusunuz.cfd/*
 *://*.nekaldinekalmadisendekalankaldi.cfd/*
 *://*.nekaldinekalmadisendekalankaldi.sbs/*
 *://*.neken-levani.net/*
@@ -223125,6 +223141,7 @@
 *://*.pagagdasgpalslsk.net/*
 *://*.page-credit-req.com/*
 *://*.page-info-confirm.com/*
+*://*.page-mywebtr.info/*
 *://*.page.gd/*
 *://*.page.link/*
 *://*.page.tl/*
@@ -223487,6 +223504,7 @@
 *://*.palaveekibi.com/*
 *://*.palazzocahde.com/*
 *://*.palazzocahderezervasyon.com/*
+*://*.palazzochd.com/*
 *://*.palcivilreg.com/*
 *://*.palcobase.com/*
 *://*.paldldvt-dvt.com/*
@@ -266259,6 +266277,7 @@
 *://*.spotifygi.com/*
 *://*.spotifygiris.com/*
 *://*.spotifygirisyap.com/*
+*://*.spotifyopen.com/*
 *://*.spotifyp.com/*
 *://*.spotifypremium.my.id/*
 *://*.spotlessimminentys.shop/*
@@ -286136,6 +286155,7 @@
 *://*.ttfiberinternetim.com/*
 *://*.ttguoliferti.life/*
 *://*.tthizligecissistemi.com/*
+*://*.tticaretbank.com/*
 *://*.ttiitiytuttislemenugirisleri.com/*
 *://*.ttiklakampanya-bim.com/*
 *://*.ttinternet.net/*
