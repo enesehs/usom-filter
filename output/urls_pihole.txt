@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-02 22:08:03 UTC
-# Toplam: 412727 Domain
+# Son Güncelleme: 2025-10-02 23:07:51 UTC
+# Toplam: 412742 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -35116,6 +35116,7 @@ ak2024firsatlari.sbs
 ak2024firstttlr.com.tr
 ak2024kmpfsaffsaas.shop
 ak2024sfalfsasafsaas.com.tr
+ak2025.com.tr
 ak249ce9634ls.com
 ak31t0gg69katil31.com
 ak33sssfkswofwq-ar.online
@@ -37164,6 +37165,7 @@ akselrkl.click
 akselrkl25.click
 akseninyaninda.xyz
 aksenlehep.xyz
+akseospress.com
 akserl.com
 akservisbasvurussteminde.com
 aksesfirsat.com.tr
@@ -83109,6 +83111,7 @@ burskartodmee.gq
 burskartyuklme.net
 burskatilimvakfi.com
 burskatilimvakfi.org
+bursksubsesindeler.sbs
 burskurumlari.org
 burslugenc.com
 bursluogrencilerim.com
@@ -111322,6 +111325,7 @@ devkampanyahemensendekayitol.online
 devkampanyalar-bitmez.shop
 devkampanyalar-bitmiyor.shop
 devkampanyalarbitmiyor.shop
+devkampanyalarburada.online
 devkampanyalarburada.xyz
 devkampanyalardevam-ediyor.shop
 devkampanyalardevamediyor.shop
@@ -132669,6 +132673,7 @@ ekimdealisverisgunlukleri.xyz
 ekimdefirsatbasladi.chickenkiller.com
 ekimdefirsatkampanyalariburda.click
 ekimdefirstlrsanaozel.blogdns.org
+ekimdefrrsstlrrrr.blogdns.org
 ekimdekacmazindirim.com
 ekimdekampanya.com
 ekimdeki-guzellikler.com
@@ -132843,6 +132848,7 @@ eklmflrsatlari.com
 eklmflrstlari.com
 eklmkampanyasi.store
 eklmlndirmleri.store
+eklmozelflrsatlarr.com
 eklmurunlerl.store
 eklsm.a0001.net
 eklwml.top
@@ -150983,6 +150989,7 @@ flrsathadibuseferklazanacazbizbi.world
 flrsathadihepberaberyolumuzu.world
 flrsathadiolmazolsundaolmadandad.store
 flrsathadiolsahemenlerolsanmada.world
+flrsathadisemnolmazdanashw.world
 flrsathadisenbeniettinyasenkazanma.world
 flrsathadisendeolsadaolmasadanah.world
 flrsathadisenledeolamsadnwsaio.world
@@ -164136,6 +164143,7 @@ globiscapital.co
 globoart.es
 globron.duckdns.org
 globularness.com
+globysis.com
 glockinmyhead.xyz
 gloglo12.workers.dev
 glomerule.com
@@ -251814,6 +251822,7 @@ mobilinternetsubesiacikdenizbank2019.net
 mobilinternetsubesiacikdenizbank2019.org
 mobilisbank.gq
 mobilisbankasi.ml
+mobiliscep.vercel.app
 mobilisecavity.top
 mobiliseemigrant.top
 mobilisehockey.top
@@ -278774,6 +278783,7 @@ pakettl.xyz
 pakettlyuklebimcells.com
 pakettlyukleme.com
 pakettlyukleme.xyz
+paketto.xyz
 paketurkiye.tk
 paketx-c.blogspot.com
 paketyk.xyz
@@ -319226,6 +319236,7 @@ senburunlerdenciftercifteralmnlzm.shop
 senbuyter.xyz
 senceneden.xyz
 sencerdernegi.com
+sencfcrrefur.sbs
 senchar.biz
 sencmil.info
 send-c.online
@@ -340053,6 +340064,7 @@ swaxzhhnnx.duckdns.org
 swbazzusnc.duckdns.org
 swcepbtokjovjfuoljcqydxiv.com
 swd1gly0snyg1bzkronline.com
+swdcccnenliefirsatasc.blogdns.org
 swdccenliefirsatasc.blogdns.org
 swdccenliefirsatlasscc.blogdns.org
 swdenizbank.com
@@ -356290,6 +356302,7 @@ trmagazafirsat.net.tr
 trmagazafirsat.org.tr
 trmaliye.org
 trmaliyeceza.org
+trmaliyetc.org
 trmalmiadmx1.net
 trmamksamas.net
 trmarc.net
@@ -374956,6 +374969,7 @@ vittaconsultants.com
 vittuv.com
 viu79.zapto.org
 viukbfsdfsdvfsdfd.cfd
+viuxele.com
 viv-vmobillislemgirismenu.com
 viva-glade.duckdns.org
 viva-rashford.tk
@@ -405052,6 +405066,7 @@ yilsonufirsatlar.xyz
 yilsonufirsatlari.com
 yilsonufirsatlari.xyz
 yilsonufirsatlari101.xyz
+yilsonufirssatlaribitmez.online
 yilsonuhediyedunyasi.ml
 yilsonuindirimfirsatlari.com.tr
 yilsonuindiriminikacirma.com

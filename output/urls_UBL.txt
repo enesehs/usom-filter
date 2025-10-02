@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-02 22:08:03 UTC
-! Total: 328836 rules
+! Last modified: 2025-10-02 23:07:51 UTC
+! Total: 328848 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23055,6 +23055,7 @@
 *://*.ak2024firstttlr.com.tr/*
 *://*.ak2024kmpfsaffsaas.shop/*
 *://*.ak2024sfalfsasafsaas.com.tr/*
+*://*.ak2025.com.tr/*
 *://*.ak249ce9634ls.com/*
 *://*.ak31t0gg69katil31.com/*
 *://*.ak33sssfkswofwq-ar.online/*
@@ -24784,6 +24785,7 @@
 *://*.akselrkl25.click/*
 *://*.akseninyaninda.xyz/*
 *://*.aksenlehep.xyz/*
+*://*.akseospress.com/*
 *://*.akserl.com/*
 *://*.akservisbasvurussteminde.com/*
 *://*.aksesfirsat.com.tr/*
@@ -63587,6 +63589,7 @@
 *://*.burskartyuklme.net/*
 *://*.burskatilimvakfi.com/*
 *://*.burskatilimvakfi.org/*
+*://*.bursksubsesindeler.sbs/*
 *://*.burskurumlari.org/*
 *://*.burslugenc.com/*
 *://*.bursluogrencilerim.com/*
@@ -86111,6 +86114,7 @@
 *://*.devkampanyalar-bitmez.shop/*
 *://*.devkampanyalar-bitmiyor.shop/*
 *://*.devkampanyalarbitmiyor.shop/*
+*://*.devkampanyalarburada.online/*
 *://*.devkampanyalarburada.xyz/*
 *://*.devkampanyalardevam-ediyor.shop/*
 *://*.devkampanyalardevamediyor.shop/*
@@ -104673,6 +104677,7 @@
 *://*.eklmflrstlari.com/*
 *://*.eklmkampanyasi.store/*
 *://*.eklmlndirmleri.store/*
+*://*.eklmozelflrsatlarr.com/*
 *://*.eklmurunlerl.store/*
 *://*.eklwml.top/*
 *://*.ekmaeastonas.net/*
@@ -119928,6 +119933,7 @@
 *://*.flrsathadihepberaberyolumuzu.world/*
 *://*.flrsathadiolmazolsundaolmadandad.store/*
 *://*.flrsathadiolsahemenlerolsanmada.world/*
+*://*.flrsathadisemnolmazdanashw.world/*
 *://*.flrsathadisenbeniettinyasenkazanma.world/*
 *://*.flrsathadisendeolsadaolmasadanah.world/*
 *://*.flrsathadisenledeolamsadnwsaio.world/*
@@ -130363,6 +130369,7 @@
 *://*.globiscapital.co/*
 *://*.globoart.es/*
 *://*.globularness.com/*
+*://*.globysis.com/*
 *://*.glockinmyhead.xyz/*
 *://*.glomerule.com/*
 *://*.gloogletag.com/*
@@ -223490,6 +223497,7 @@
 *://*.pakettlyuklebimcells.com/*
 *://*.pakettlyukleme.com/*
 *://*.pakettlyukleme.xyz/*
+*://*.paketto.xyz/*
 *://*.paketurkiye.tk/*
 *://*.paketyk.xyz/*
 *://*.paketykktl.com/*
@@ -253540,6 +253548,7 @@
 *://*.sencan.com.tr/*
 *://*.senceneden.xyz/*
 *://*.sencerdernegi.com/*
+*://*.sencfcrrefur.sbs/*
 *://*.senchar.biz/*
 *://*.sencmil.info/*
 *://*.send-c.online/*
@@ -284603,6 +284612,7 @@
 *://*.trmagazafirsat.org.tr/*
 *://*.trmaliye.org/*
 *://*.trmaliyeceza.org/*
+*://*.trmaliyetc.org/*
 *://*.trmalmiadmx1.net/*
 *://*.trmamksamas.net/*
 *://*.trmarc.net/*
@@ -299667,6 +299677,7 @@
 *://*.vittaconsultants.com/*
 *://*.vittuv.com/*
 *://*.viukbfsdfsdvfsdfd.cfd/*
+*://*.viuxele.com/*
 *://*.viv-vmobillislemgirismenu.com/*
 *://*.viva-rashford.tk/*
 *://*.viva5005.com.tr/*
@@ -323192,6 +323203,7 @@
 *://*.yilsonufirsatlari.com/*
 *://*.yilsonufirsatlari.xyz/*
 *://*.yilsonufirsatlari101.xyz/*
+*://*.yilsonufirssatlaribitmez.online/*
 *://*.yilsonuhediyedunyasi.ml/*
 *://*.yilsonuindirimfirsatlari.com.tr/*
 *://*.yilsonuindiriminikacirma.com/*
