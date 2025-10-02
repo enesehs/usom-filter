@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-02 10:09:24 UTC
-# Toplam: 412582 Domain
+# Son Güncelleme: 2025-10-02 11:01:58 UTC
+# Toplam: 412584 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -226010,6 +226010,7 @@ kilometreislemxleri.com
 kilometreislmlrnzz.web.app
 kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
+kilometrekayitlarim.web.app
 kilometrem.sa.com
 kilometrem.web.app
 kilometremizhasarimiz.shop
@@ -226026,6 +226027,7 @@ kilometrenizogrenin.web.app
 kilometrenizsmdican.web.app
 kilometreogrenmeservis.web.app
 kilometreoline.web.app
+kilometreservisleri.sa.com
 kilometresine.sa.com
 kilometresorghizmeti.web.app
 kilometresorglariz.web.app
