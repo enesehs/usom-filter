@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-02 11:01:58 UTC
-# Toplam: 412584 Domain
+# Son Güncelleme: 2025-10-02 13:23:23 UTC
+# Toplam: 412622 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4836,6 +4836,7 @@
 1572687668435aaaa.online
 1574.hopto.org
 1577878169.goloser.ru
+158-858-97-55.cfd
 158.255.5.204
 1580044.ddns.net
 158123665669933334485643923.net
@@ -32453,6 +32454,7 @@ ai-eilol.shop
 ai-global.news
 ai-kling.com
 ai-m4rket.icu
+ai-messenger.co
 ai-midjourney.info
 ai-midjourney.net
 ai-midjourney.pro
@@ -44793,6 +44795,7 @@ app-stor3invoicc.duckdns.org
 app-system2-update.com
 app-token-902039303003checkout399393-ses.duckdns.org
 app-token.cc
+app-totok.io
 app-tr.net
 app-trbinance.com
 app-trello.com
@@ -45377,6 +45380,7 @@ appsy-centas-itunes8774.com
 appsysrcvs-miappidsrvinc.com
 apptabliq.com
 appteknoloji-dagitimbasvuruparibu-tr.tk
+appupdate.ai
 appupdate.dnsalias.com
 appupdate.ibmlotus.net
 appvenbey.com
@@ -71537,6 +71541,7 @@ bitemonopolize.top
 bitemores.com
 biten-sezn-mutlu-hislere-daha-yakin.com
 biten-sezona-yaklastik-son-demlerinde-yetisen-gorur.com
+bitenerg.org
 bitenleringunlerison.xyz
 biter-kapilariniza-gelsin-hemen-kapilarda.com
 biter-kapilarinizza-gelsin-hemen-kapilarda.com
@@ -91287,6 +91292,7 @@ chinkseatblahajs.libre
 chinnyann.ddns.net
 chinnyann.duckdns.org
 chinomso.duckdns.org
+chinpro.store
 chinqwe.duckdns.org
 chinradioottawa.com
 chip-tuning.ddns.net
@@ -92411,6 +92417,7 @@ cinarmcneil04.top
 cinarodeme.22web.org
 cinarterlik.online
 cinaryrdmvkfi.org
+cindravel.shop
 cinemagic-creaciones.com
 cinemanitrogen.top
 cinemaroxy.online
@@ -92489,6 +92496,7 @@ circular-noon-farmhouse.glitch.me
 circularalignment.top
 circularammunition.top
 circulargiantfoodstore.com
+circularlifts.com
 circularstatutory.top
 circulatebureaucracy.top
 circulatecounterfeit.top
@@ -132885,6 +132893,7 @@ ekonomipaneli.click
 ekonomiportal.online
 ekonomist-turkey24.online
 ekonomitakibi.pro
+ekonomitime.online
 ekonomiyontemm.com
 ekonommax.com
 ekontor.org
@@ -135315,6 +135324,7 @@ encryptedrentalfile.ddns.net
 encryptedwebhost.ddns.net
 encryptedwedirect.ddns.net
 encrypthub.us
+encryption-plug-in-signal.com-ae.net
 encryption-redirect.online
 encryptionrenewal.com
 encryptocount.com
@@ -135412,6 +135422,7 @@ energeticmolecular.top
 energeticnegligence.top
 energeticplateau.top
 energeticrevenge.top
+energgycenter.com
 energiaenequilibrio.com
 energiafatura-com-br.ga
 energiaorgonu.com
@@ -164546,6 +164557,7 @@ godbuntu.net
 godbyebaby.ddns.net
 godcheat.duckdns.org
 godconcise.top
+godcures.online
 goddess19.com
 goddygo.zapto.org
 godemeyap.com
@@ -182283,6 +182295,7 @@ hesap-yukselt.net
 hesap.bn05122024tr.com
 hesap.cf
 hesapalin.com
+hesapalinsiz.cfd
 hesapalmayadevam.cfd
 hesapaltin-denizbank.com
 hesapbakiye.online
@@ -198748,6 +198761,7 @@ ilkdeneme.online
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
+ilkevim-online-basvuru.cfd
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimsosyalkonutprojesi.net
 ilkevkonultlkapi.com
@@ -201518,6 +201532,7 @@ infinitetrench.top
 infinitiveappease.top
 infinitivesnob.top
 infinitivesusceptible.top
+infinitumm.tr
 infinity-88.com
 infinity.ilyrovandw.com
 infinityagency.site
@@ -206677,6 +206692,7 @@ isbrs.com
 isbryselbasvrular.online
 isbsanfksfafigdisdgihfsd.cyou
 isbsanfksfafigdisdgihsagdcu.cyou
+isbsanfksfafigdisdgsafkgkdshf.cyou
 isbsanfksfafigdisdgsafkgkdshf.sbs
 isbsanfksfafigdisnasdksaf.cyou
 isbsanfksfafigdisnasdsagdsdh.cfd
@@ -225590,6 +225606,7 @@ kgmswebgcsodemees.com
 kgmtr.org
 kgmturkeytrodemelerim.net
 kgmtwebgecisodeee.duckdns.org
+kgmugs.cc
 kgmuild.cc
 kgmun.cc
 kgmurl.link
@@ -234076,6 +234093,7 @@ latest-tools.store
 latestab.top
 latestgrace2024.duckdns.org
 latestspyhostincsub.hopto.org
+latestversion.ai
 latestwithyoudealsareseptember.cloud
 latevibration.top
 lati10.ddns.net
@@ -244128,6 +244146,7 @@ masum-duygulari-hisseden-bizleriz.com
 masumhikmet.online
 masupoltd.pro
 masyasuo.duckdns.org
+masyawa.click
 masza-asdza.blogspot.com
 mat3ssa.fun
 matabbrevition.top
@@ -244300,6 +244319,7 @@ matrix123.ddns.net
 matrixane.com
 matrixhack9.ddns.net
 matrixpartners.theworkpc.com
+matrixpick.click
 matrixrecruits.com
 matrixxcloud.duckdns.org
 matrock.zapto.org
@@ -253506,6 +253526,7 @@ motionfamily.top
 motionhockey.top
 motionjockey.top
 motionritm.ru
+motivaro.click
 motivatedrhino.com
 motivateeaster.top
 motivateerection.top
@@ -256922,6 +256943,7 @@ mutlumutlukampanyaalrdabugunler.cfd
 mutlumutlukampanyaalrdabugunler.sbs
 mutlumutlukampanyalar.online
 mutlumutlukampanyalar.xyz
+mutluol.info
 mutluolmakistersenburayabak.cfd
 mutluolmakistersenburayabak.sbs
 mutluolmakistiyorsantikla.com.tr
@@ -263307,6 +263329,7 @@ nobleman123.ddns.net
 noblepamphlet.top
 noblestammer.top
 noblewarfare.top
+noblico.net
 nobodykaskndsanasn.blogspot.com
 nobodylij.buzz
 nobodyvicinity.top
@@ -287997,6 +288020,7 @@ polarevoke.top
 polarinvincible.top
 polaris-bios-editor.ru
 polarispulse.online
+polarnimbus.space
 polarof.koyhelp.top
 polarpeace.top
 polarsueillance.top
@@ -314754,6 +314778,7 @@ sanaozelkampanyalkar.click
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
 sanaozelsayfa.site
+sanaozelsiparsverdim.click
 sanaozelvakfbankdestktr.ml
 sanapazarp-ttavm.com
 sanaporatzumazakides.online
@@ -322106,6 +322131,7 @@ sglgln01aldilgln4brdnn.com
 sglkbknlguygulama.club
 sgmc6xd.duckdns.org
 sgmoshamsife.duckdns.org
+sgnlapp.info
 sgnrhnwda.duckdns.org
 sgokgdsds.sbs
 sgolavs53.xyz
@@ -322846,6 +322872,7 @@ shop34.ml
 shop4bwy.com
 shop86.biz
 shop8877.com
+shopa-101.cfd
 shopa101online.com.tr
 shopafirlementres.zapto.org
 shopapemodeapparel.com
@@ -323486,6 +323513,7 @@ signal-premium-app.org
 signal-protect.host
 signal-security.online
 signal-security.site
+signal.ct.ws
 signalgroup.site
 signalhesitate.com
 signalnest.online
@@ -330343,6 +330371,7 @@ son-basvuru.tk
 son-basvuru.vercel.app
 son-basvurular-acildi.site
 son-basvurular-basladi.net
+son-basvurular.ddnsfree.com
 son-basvurular.duckdns.org
 son-basvurular2026.myftp.org
 son-basvurular2026.myvnc.com
@@ -333151,6 +333180,7 @@ spinoldffgratis.duckdns.org
 spinoneural.com
 spinruise.top
 spinx-hoster.zapto.org
+spiralkey.co
 spiralspider.top
 spirelet.com
 spireward.com
@@ -350217,6 +350247,7 @@ tokibasvuruislemleri.com
 tokibasvurularcomtrs.blogspot.com
 tokibasvurularhxzlica.online
 tokibasvurulari.blogspot.com
+tokibasvurulari.help
 tokibasvurulari.online
 tokibasvurulari.org
 tokibasvurularii.online
@@ -350959,7 +350990,10 @@ totoboplatinum.xyz
 totobopremium.arabamuayenesi.xyz
 totobopremium.com
 totobopremium.xyz
+totok-pro.io
+totokapp.info
 totokbhone.ddns.net
+totokupdate.ai
 totomata.com
 totoyolgecsonlhgsbrcsdex.duckdns.org
 totr8.ddns.net
@@ -355914,6 +355948,7 @@ trioboldvner.com
 trioganic.com
 trion.com.ph
 trionsimon.sa.com
+trionsimon.za.com
 trionvex.live
 trioticprdat.top
 trip12345.top
@@ -363125,6 +363160,7 @@ ucakbiletetstur.com
 ucakbileti.website
 ucakbiletiresmi.website
 ucanadam.host
+ucanakacana.cfd
 ucanbe.tk
 ucarecdn.com
 ucaybasvural.com
@@ -394314,6 +394350,7 @@ xn--gunduzdendrmvar-flccb.shop
 xn--gunlerdenfrsatlarday-rbdk.shop
 xn--guvenliticaretn-llc.com.tr
 xn--guvenlk-sahibinden-j0c.com.tr
+xn--guzel-kampanyalar-son-gun-ihc.xyz
 xn--gvenbizeistanbul-jzb.net
 xn--gvendeparam-thb.com.tr
 xn--gvenleodetr-thb.com
@@ -407167,6 +407204,7 @@ yurt-ici-kargo.rest
 yurt-ici-takip-sorgulama.com.tr
 yurtasyardim.xyz
 yurtbirlik.org
+yurtcikar.sbs
 yurtdisi-yardim.vercel.app
 yurtdisibilgiavrupa.com
 yurtdisiharci.com
