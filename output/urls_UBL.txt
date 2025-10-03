@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 21:01:53 UTC
-! Total: 329043 rules
+! Last modified: 2025-10-03 22:08:14 UTC
+! Total: 329051 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6718,6 +6718,7 @@
 *://*.250binkonutprojesibasvuru.com/*
 *://*.250bintokibasvurusu.com/*
 *://*.250bintokiprojebasvuruekrani.com/*
+*://*.250bintokisprojeleribasvuruekrani.com/*
 *://*.250ekpromosyon.ml/*
 *://*.250garantibbva-com-tr.tk/*
 *://*.250konutprojebasvuruekrani.com/*
@@ -66670,6 +66671,7 @@
 *://*.carreeffouer-sa.online/*
 *://*.carreeffoursa.site/*
 *://*.carreefourmarketim.cfd/*
+*://*.carreefourmarketimekim.cfd/*
 *://*.carreefursazamni.com/*
 *://*.carreerfours.online/*
 *://*.carreeylulayifirsatlari.online/*
@@ -76645,6 +76647,7 @@
 *://*.cuma-agustos.com/*
 *://*.cuma-aksamf.com/*
 *://*.cuma-aksamibizdonus.com/*
+*://*.cuma-ekimimd.com/*
 *://*.cuma-firsatindirimi.net/*
 *://*.cuma-firsatlar.com/*
 *://*.cuma-firsatlari-1o1.shop/*
@@ -125563,6 +125566,7 @@
 *://*.garmnanwhqwqwmnwwqgf.shop/*
 *://*.garnasicdatnadnmaccsda.shop/*
 *://*.garnasixdajkjqkwe.shop/*
+*://*.garnatiasgdsiantaisgdsshdtas.cyou/*
 *://*.garnatimobilkampanyalari.tk/*
 *://*.garnbentrklm.click/*
 *://*.garnetinvest.blog/*
@@ -182663,6 +182667,7 @@
 *://*.kgmgovtr.top/*
 *://*.kgmgovtrbuy.com/*
 *://*.kgmgovzztr.top/*
+*://*.kgmgrv.cfd/*
 *://*.kgmgv.life/*
 *://*.kgmgyo.life/*
 *://*.kgmhgs.net/*
@@ -186287,6 +186292,7 @@
 *://*.kredieyluldekullanilir.cfd/*
 *://*.kredifaizsiz.com/*
 *://*.kredifinansci.com/*
+*://*.kredifirsati.cfd/*
 *://*.kredifirsati.click/*
 *://*.kredifirsati.my/*
 *://*.kredifirsatiniz.com.tr/*
@@ -279676,6 +279682,7 @@
 *://*.tokibsvuru.com.tr/*
 *://*.tokibsvuru.online/*
 *://*.tokibsvuru.xyz/*
+*://*.tokiekkonut.com/*
 *://*.tokiev.com/*
 *://*.tokievim.com.tr/*
 *://*.tokievim.com/*
@@ -323392,6 +323399,7 @@
 *://*.yilsonufirsatlari.com/*
 *://*.yilsonufirsatlari.xyz/*
 *://*.yilsonufirsatlari101.xyz/*
+*://*.yilsonufirssatlaribitmez.com.tr/*
 *://*.yilsonufirssatlaribitmez.online/*
 *://*.yilsonufirssatlaribitmez.xyz/*
 *://*.yilsonuhediyedunyasi.ml/*
