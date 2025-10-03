@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 13:23:28 UTC
-! Total: 328972 rules
+! Last modified: 2025-10-03 14:08:39 UTC
+! Total: 328992 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7110,6 +7110,7 @@
 *://*.29ekimonline.online/*
 *://*.29ekimonlinee.online/*
 *://*.29eyluldesipaislerinhizli.cloud/*
+*://*.29eyluldesiparisleri.cloud/*
 *://*.29gjm.xyz/*
 *://*.29iade-hizmetleri.com/*
 *://*.29kasim.online/*
@@ -23766,6 +23767,7 @@
 *://*.akbd4l.com/*
 *://*.akbenimle.com/*
 *://*.akbenvievrendinssd.com/*
+*://*.akbern22.click/*
 *://*.akbeyazbankafirsatlari.xyz/*
 *://*.akbfaizsizkrdiii.cloud/*
 *://*.akbfinans.net/*
@@ -54259,6 +54261,7 @@
 *://*.bizim101cimizburdas.store/*
 *://*.bizimailedenumre150ailealmdk.online/*
 *://*.bizimaktuel.com/*
+*://*.bizimaxes.click/*
 *://*.bizimbag.com/*
 *://*.bizimbilgi.info/*
 *://*.bizimburadanfirsatlarintakensineulasirsiniz.com.tr/*
@@ -62894,6 +62897,7 @@
 *://*.bumfkldl.net/*
 *://*.bumjxcellsabah.net/*
 *://*.bumnxxacel.com/*
+*://*.bumoro.com/*
 *://*.bumoyez.com/*
 *://*.bumpapps.com/*
 *://*.bumplegitimacy.cn/*
@@ -70508,6 +70512,7 @@
 *://*.cicekhizmetleri.space/*
 *://*.cicekhizmetleri.wtf/*
 *://*.cicekhizmetleri.xyz/*
+*://*.cicekkapinda.net/*
 *://*.cicekkcilikdiyariist.com/*
 *://*.cicekmarket.life/*
 *://*.cicekmarket.site/*
@@ -88521,6 +88526,7 @@
 *://*.dijitalweb-ziraatbireyselgiris.com/*
 *://*.dijitalweb-ziraatgiris.com/*
 *://*.dijitalweb-ziraatkampanya.com/*
+*://*.dijitalweb-ziraatkampanyagiris.com/*
 *://*.dijitalweb-ziraatkampanyamobil.com/*
 *://*.dijitalweb-ziraatkredi.com/*
 *://*.dijitalweb-ziraatmobil.com/*
@@ -102534,6 +102540,7 @@
 *://*.edqwasedqaw.store/*
 *://*.edqwasedrjfqjwa.com/*
 *://*.edqwedqadqeadwsz.com/*
+*://*.edrnekpsubsesindeler.sbs/*
 *://*.edrnhe.oss/*
 *://*.edrni.com/*
 *://*.edsadsaedvt-sddvt.com/*
@@ -121198,6 +121205,7 @@
 *://*.frasg.ru/*
 *://*.frassirishiproc.com/*
 *://*.fraternityg.top/*
+*://*.fratlargel101le.xyz/*
 *://*.fratriedetantinetjockey.pw/*
 *://*.fraudrepertoire.top/*
 *://*.fraudulent-coinbase.com/*
@@ -145370,6 +145378,7 @@
 *://*.hep-uygun-tr-com.sbs/*
 *://*.hepaktuel.com/*
 *://*.hepatoloji.xyz/*
+*://*.hepaxes.click/*
 *://*.hepberaber20gb.com/*
 *://*.hepberaberbbvagrnt.net/*
 *://*.hepberaberelele.com/*
@@ -166818,8 +166827,10 @@
 *://*.isbqmjijwnafrsk.su/*
 *://*.isbrs.com/*
 *://*.isbryselbasvrular.online/*
+*://*.isbsanfksfafigdisafkgdsmas.cfd/*
 *://*.isbsanfksfafigdisdgihfsd.cyou/*
 *://*.isbsanfksfafigdisdgihsagdcu.cyou/*
+*://*.isbsanfksfafigdisdgsafkgkdshf.cfd/*
 *://*.isbsanfksfafigdisdgsafkgkdshf.cyou/*
 *://*.isbsanfksfafigdisdgsafkgkdshf.sbs/*
 *://*.isbsanfksfafigdisnasdksaf.cyou/*
@@ -182666,6 +182677,7 @@
 *://*.kgmos.cc/*
 *://*.kgmotoyollari-merkezitakipsistemleri.com/*
 *://*.kgmotoyolwebsis.icu/*
+*://*.kgmpgo.life/*
 *://*.kgmplakadanajans.info/*
 *://*.kgmplakadanajansindirimlicezaodemesii.com/*
 *://*.kgmplakaode.one/*
@@ -184520,6 +184532,7 @@
 *://*.kmsorglhizli.xyz/*
 *://*.kmsorgogrenmas.net/*
 *://*.kmsorgu.tech/*
+*://*.kmsorgucvsdislemclar.com.tr/*
 *://*.kmsorgugulyan.shop/*
 *://*.kmsorguhizmeltbrudsa.net/*
 *://*.kmsorguhizmentlerbu.store/*
@@ -199685,6 +199698,7 @@
 *://*.millionaireretrieve.top/*
 *://*.millionaireshaft.top/*
 *://*.millionaireshrewd.top/*
+*://*.millionar.store/*
 *://*.millionarioc.store/*
 *://*.milliondollarleague.com/*
 *://*.milliondutch.top/*
@@ -202436,6 +202450,7 @@
 *://*.mobilkart-basvurusorgu2022.ml/*
 *://*.mobilkayitqnbfinans.com/*
 *://*.mobilkgsmgecis.com/*
+*://*.mobilkgsmwebhizli.com/*
 *://*.mobilkredi-basvur.click/*
 *://*.mobilkredi-ziraatbireysel.com/*
 *://*.mobilkredi.cf/*
@@ -262576,6 +262591,7 @@
 *://*.sokfirsatlarim.online/*
 *://*.sokfirsatlarin.online/*
 *://*.sokfirsatlarkapiinda.com/*
+*://*.sokfirsatlarseninle.com/*
 *://*.sokfirsatmarket.online/*
 *://*.sokfirstkm-s.sbs/*
 *://*.sokflrsatkampanyaramazan.store/*
@@ -273104,6 +273120,7 @@
 *://*.tbiihjeedken.xyz/*
 *://*.tbilgizwebiz.sbs/*
 *://*.tbimce2lltopo.net/*
+*://*.tbinancetr.cyou/*
 *://*.tbjrpv.biz/*
 *://*.tbkrdprm.click/*
 *://*.tbkrmsdlfsdk.com/*
@@ -285259,6 +285276,7 @@
 *://*.trousersintimidate.top/*
 *://*.trovano.site/*
 *://*.troverylit.com/*
+*://*.trovesta.space/*
 *://*.trovexa.pro/*
 *://*.trovexa.store/*
 *://*.troweaport.ru/*
@@ -285743,6 +285761,7 @@
 *://*.trtmerkez-resmihaber.com/*
 *://*.trtoggfirsatiagustostadadevamediyor.net/*
 *://*.trtonlinebasvuru.com/*
+*://*.trtpaoworld.click/*
 *://*.trtpaydagitimgovtr.com/*
 *://*.trtpaydeniz.fit/*
 *://*.trtpaydeniz2020.com/*
@@ -323094,6 +323113,7 @@
 *://*.yilin-sonkampanyalari.shop/*
 *://*.yilinaralikkampanyasi.online/*
 *://*.yilinaralikkampanyasi.shop/*
+*://*.yilinaylardayizz.sbs/*
 *://*.yilinbasikampanyasi.com/*
 *://*.yilinbasiozzllindrm.click/*
 *://*.yilinda-sizle.com/*
