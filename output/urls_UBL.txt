@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 17:07:46 UTC
-! Total: 329018 rules
+! Last modified: 2025-10-03 18:12:28 UTC
+! Total: 329029 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -605,6 +605,7 @@
 *://*.1-odeme.online/*
 *://*.1-ortakplatform.com/*
 *://*.1-ortaktrf.dev/*
+*://*.1-s-b4ck-x4sh.com/*
 *://*.1-s-b4ck-x4sh.online/*
 *://*.1-sfrstlmbrdao1.sbs/*
 *://*.1-subat-kampanyalari.com/*
@@ -923,6 +924,7 @@
 *://*.101-indirm-gnleri-name-tr.com/*
 *://*.101-iphonefirst.art/*
 *://*.101-kacirma-firsatlari.art/*
+*://*.101-kacmaz3.art/*
 *://*.101-kacmazfirsatlaroglen.com/*
 *://*.101-kacmazfirsatsabah.com/*
 *://*.101-kampanya-zamani.com.tr/*
@@ -9292,6 +9294,7 @@
 *://*.5009a51a0347.com/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
+*://*.500binkonutprojesibasvuruekrani.com/*
 *://*.500binsosyalkonutbasvuru.org/*
 *://*.500bnanceusdt.com/*
 *://*.500bnb-tr2022bnbmobilgiris.com/*
@@ -58075,6 +58078,7 @@
 *://*.bncgiristrduyuru.com/*
 *://*.bncglobalduyurutr.com/*
 *://*.bncglobals.com/*
+*://*.bncglobals.online/*
 *://*.bncgunleri.xyz/*
 *://*.bncgunlerixyz.xyz/*
 *://*.bncgzllerdebrdabzde.shop/*
@@ -104482,6 +104486,7 @@
 *://*.ekiimin-en-guzelii-burda.com/*
 *://*.ekim-ayi-boyunca-buradan-sorgulaveaktar.sbs/*
 *://*.ekim-ayi-destekleri-kararname.tk/*
+*://*.ekim-cumafrsti.com/*
 *://*.ekim-etkinligi.cf/*
 *://*.ekim-firstlarikacmaz.com/*
 *://*.ekim-flrsatlari-kampanya.com/*
@@ -161884,6 +161889,7 @@
 *://*.indirimlericinbradyiz.com/*
 *://*.indirimlerigorupkaciramazsin.com.tr/*
 *://*.indirimlerikacirma.online/*
+*://*.indirimlerikapsende.xyz/*
 *://*.indirimleriletemmuzhaftasi.com/*
 *://*.indirimlerim-turkcell.com/*
 *://*.indirimlerim.com.tr/*
@@ -202857,6 +202863,7 @@
 *://*.mobilsubeziraatgiris.com/*
 *://*.mobiltakipciyiz.com/*
 *://*.mobiltakipuygulamasi.online/*
+*://*.mobiltalep.com/*
 *://*.mobiltarifeleri.com/*
 *://*.mobilteknolojim.com/*
 *://*.mobiltemmuzkampanyasibasvurusubugece.monster/*
@@ -250579,6 +250586,7 @@
 *://*.sanadairhrsyburdbzmlberaber.online/*
 *://*.sanademedimasko.tk/*
 *://*.sanagonulvermeleeer.xyz/*
+*://*.sanagore.sbs/*
 *://*.sanagoredegilcocuk.online/*
 *://*.sanagoresevmeler.xyz/*
 *://*.sanagvlernemlyom.net/*
@@ -251559,6 +251567,7 @@
 *://*.sayfa-giriswebtrplatform-irtibat.com/*
 *://*.sayfa-ilan.com/*
 *://*.sayfa-kampanyalaribim.com/*
+*://*.sayfa-mygir-trweb.life/*
 *://*.sayfabasvuruiadeformgiris.ml/*
 *://*.sayfadolusu.club/*
 *://*.sayfadolusu.online/*
@@ -297488,6 +297497,7 @@
 *://*.vbpgrhfewtdsoyf.su/*
 *://*.vbrdmcokpzxol.com/*
 *://*.vbrehberi.com/*
+*://*.vbrlardanbrlaradyrdndyara.bond/*
 *://*.vbrother1berolarbs.xyz/*
 *://*.vbrother2berolarbs.xyz/*
 *://*.vbrother3berolarbs.xyz/*
@@ -323792,6 +323802,7 @@
 *://*.ynlnm-zmnlri.cfd/*
 *://*.ynlynryzbrdansndrdgasf.bond/*
 *://*.ynlyrsnzbrayahabrlr.digital/*
+*://*.ynlyrzbrdanorygldnbs.bond/*
 *://*.ynmdakbabusfisat2024.xyz/*
 *://*.ynmsegxcoxmis.net/*
 *://*.ynngon.ml/*
