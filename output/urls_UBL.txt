@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 14:08:39 UTC
-! Total: 328992 rules
+! Last modified: 2025-10-03 15:08:31 UTC
+! Total: 329004 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11117,6 +11117,7 @@
 *://*.78-55-965-35-87.cfd/*
 *://*.78-7-7-1-1.com/*
 *://*.78-85-89-74-252.cfd/*
+*://*.78-966-54-95.cfd/*
 *://*.78.128.114.66/*
 *://*.78.46.212.52/*
 *://*.782y376280ki327.icu/*
@@ -54344,6 +54345,7 @@
 *://*.bizimsigorta.site/*
 *://*.bizimtech.online/*
 *://*.bizimyanimizdaolunberaber.net/*
+*://*.bizimyatirim.com.tr/*
 *://*.bizimyatirim.com/*
 *://*.bizimyatirimmenkul.com.tr/*
 *://*.bizinkoy.site/*
@@ -57124,6 +57126,7 @@
 *://*.bmcyerim.net/*
 *://*.bmdekasodayz.net/*
 *://*.bmdenizlbank.com/*
+*://*.bmdislem.com/*
 *://*.bmdlrkjznxmx.net/*
 *://*.bmdlrkmznx.net/*
 *://*.bmdncxklxm.net/*
@@ -58070,6 +58073,7 @@
 *://*.bncgiristrdestek.com/*
 *://*.bncgiristrduyuru.com/*
 *://*.bncglobalduyurutr.com/*
+*://*.bncglobals.com/*
 *://*.bncgunleri.xyz/*
 *://*.bncgunlerixyz.xyz/*
 *://*.bncgzllerdebrdabzde.shop/*
@@ -135925,6 +135929,7 @@
 *://*.guzelliklerdiyarinda.name.tr/*
 *://*.guzelliklerhepyaninda.cfd/*
 *://*.guzelliklerkisaveheyecanli.cfd/*
+*://*.guzelliklersizeburada.cfd/*
 *://*.guzelliklervehayalinyaninda.cfd/*
 *://*.guzellikmerkezi.name.tr/*
 *://*.guzellikmerkeziim.com/*
@@ -141110,6 +141115,7 @@
 *://*.harcaharcabitmez.space/*
 *://*.harcaharcabitmez.store/*
 *://*.harcaharcabitmez.website/*
+*://*.harcaharcabitmez.world/*
 *://*.harcaharcabitmez101-siparis.com.tr/*
 *://*.harcaharcabitmez101.com.tr/*
 *://*.harcaharcabitmez101.net/*
@@ -182689,6 +182695,7 @@
 *://*.kgmsizlersizolmazasd.net/*
 *://*.kgmsmobilhgs.com/*
 *://*.kgmsmobilhgsbrc.com/*
+*://*.kgmsorgu.digital/*
 *://*.kgmsorgu.xyz/*
 *://*.kgmsorgullarcx.net/*
 *://*.kgmstrategy.com/*
@@ -186002,6 +186009,7 @@
 *://*.krdleriolsturr.com/*
 *://*.krdmakda-gzlbyuyaz.online/*
 *://*.krdmburada.net/*
+*://*.krdnbrdngldnbrdss.bond/*
 *://*.krdnhzrtklahmnal.net/*
 *://*.krdsenvler.net/*
 *://*.kre8tivebrand.com/*
@@ -199673,6 +199681,7 @@
 *://*.millidayanismapaketi-20gbhediye.com/*
 *://*.millidestekaidatiade.ml/*
 *://*.millidestekvakfi.com/*
+*://*.milliegitimakademisi.com/*
 *://*.milliegitimbakanligi-edu.ml/*
 *://*.milliegitimbakanligi-tablet.com/*
 *://*.milliegitimbakanligi-tabletbasvuru.com/*
@@ -217542,6 +217551,7 @@
 *://*.online-odeme-sayfasi-e-iade-2021-guvenli-site.xyz/*
 *://*.online-odeme-sayfasi-e-iade-2021.xyz/*
 *://*.online-odeme-tr.online/*
+*://*.online-odeme-turkiye.com/*
 *://*.online-odeme-yap.com/*
 *://*.online-odeme.cf/*
 *://*.online-odeme.com.tr/*
@@ -255315,6 +255325,7 @@
 *://*.settlementvoid.top/*
 *://*.settleourdebt.com/*
 *://*.setuliform.com/*
+*://*.setup-ledger.live/*
 *://*.setupoldnavy.space/*
 *://*.setupprofi.com/*
 *://*.setuptriumph.top/*
@@ -323766,6 +323777,7 @@
 *://*.ynlndrlme-hdflri.shop/*
 *://*.ynlndrlme-yrlri.shop/*
 *://*.ynlnm-zmnlri.cfd/*
+*://*.ynlynryzbrdansndrdgasf.bond/*
 *://*.ynlyrsnzbrayahabrlr.digital/*
 *://*.ynmdakbabusfisat2024.xyz/*
 *://*.ynmsegxcoxmis.net/*
