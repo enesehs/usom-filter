@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 10:09:41 UTC
-! Total: 328892 rules
+! Last modified: 2025-10-03 11:02:06 UTC
+! Total: 328913 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28569,6 +28569,7 @@
 *://*.altinkaplamacuzdan.com/*
 *://*.altinkumotel.com/*
 *://*.altinlarmobilde.com/*
+*://*.altinmix.online/*
 *://*.altinogrenciler.info/*
 *://*.altinogrencilervakfi.com/*
 *://*.altinoluk-akcay.com/*
@@ -59907,6 +59908,7 @@
 *://*.borsadijital-tr.com/*
 *://*.borsadijitaltr.com/*
 *://*.borsadonusum.com/*
+*://*.borsahaberler.online/*
 *://*.borsahediyeleriii.com/*
 *://*.borsahub.net/*
 *://*.borsaistanbul.live/*
@@ -91781,6 +91783,7 @@
 *://*.droughtcredential.top/*
 *://*.droughtequity.top/*
 *://*.droughteruption.top/*
+*://*.drovantis.info/*
 *://*.drp-dev.com/*
 *://*.drpbx-update.net/*
 *://*.drpbx.life/*
@@ -104753,6 +104756,7 @@
 *://*.ekonomikguclen.world/*
 *://*.ekonomikguven.org/*
 *://*.ekonomikilerleme.online/*
+*://*.ekonomikriter.org/*
 *://*.ekonomiksubem-teb.com/*
 *://*.ekonomikveri.net/*
 *://*.ekonominikfirsatlar.site/*
@@ -116997,6 +117001,7 @@
 *://*.finanskredikartiborcusorgulama.org/*
 *://*.finanskredikartiborcusorgulamasi.org/*
 *://*.finanskredisorgulama.com/*
+*://*.finanskritik.online/*
 *://*.finansl-islemlerim.online/*
 *://*.finanslacebimdolu.com/*
 *://*.finanslakazanmadevri.com/*
@@ -121395,6 +121400,7 @@
 *://*.freshlender.top/*
 *://*.freshmanenclosure.top/*
 *://*.freshmantemporal.top/*
+*://*.freshnews-now.com/*
 *://*.freshroute.top/*
 *://*.freshtech.website/*
 *://*.freshtime.com.pk/*
@@ -128676,6 +128682,7 @@
 *://*.gimmeab1.app/*
 *://*.gimmenseinitiative.top/*
 *://*.gimportantinternational.club/*
+*://*.ginalysis.com/*
 *://*.ginauguraon.top/*
 *://*.gincompleteuniversal.top/*
 *://*.ginemihizmet.click/*
@@ -133441,6 +133448,7 @@
 *://*.guleryuzlum.xyz/*
 *://*.gules876.xyz/*
 *://*.gulf-news.info/*
+*://*.gulfblox.com/*
 *://*.gulfthrone.top/*
 *://*.gulfup.me/*
 *://*.gulivari.at/*
@@ -174270,6 +174278,7 @@
 *://*.jorimthk.xyz/*
 *://*.jorissnlo.com/*
 *://*.jornalismonobrasilem2017.com/*
+*://*.jornathic.shop/*
 *://*.jorpe.co.za/*
 *://*.jorukeldagol.site/*
 *://*.jorvix.top/*
@@ -186617,11 +186626,13 @@
 *://*.kripto.mobi/*
 *://*.kriptobagis.com/*
 *://*.kriptoberksite.site/*
+*://*.kriptodunyasi.online/*
 *://*.kriptoex.com/*
 *://*.kriptofirsatlarinikacirma.store/*
 *://*.kriptofirsatlarinikacirma.xyz/*
 *://*.kriptogelecek.top/*
 *://*.kriptogundem.top/*
+*://*.kriptoinfo.online/*
 *://*.kriptokartallar.com/*
 *://*.kriptokisitikaldirkazan.com/*
 *://*.kriptokoin.vip/*
@@ -195047,6 +195058,7 @@
 *://*.mammalswap.top/*
 *://*.mammalvacuum.top/*
 *://*.mammas7.xyz/*
+*://*.mamo-ilegeceyedogru.com/*
 *://*.mamo434376.tk/*
 *://*.mamohoteluluwatu.com/*
 *://*.mampoks.ru/*
@@ -209938,6 +209950,7 @@
 *://*.nexusworld.online/*
 *://*.nexusystem.online/*
 *://*.nexvila.store/*
+*://*.nexxarat.com/*
 *://*.nexxoraboost.com/*
 *://*.nexxtgenius.com/*
 *://*.nexybeykar.com/*
@@ -209952,6 +209965,7 @@
 *://*.neyinpesindesinusom.net/*
 *://*.neyrssafs.net/*
 *://*.neytrfce.xyz/*
+*://*.neytrok.com/*
 *://*.nez-care.com/*
 *://*.nezamandersender.online/*
 *://*.nezamanyasamayabaslar.top/*
@@ -231061,6 +231075,7 @@
 *://*.plovn.com/*
 *://*.ploynera.com/*
 *://*.ploynix.com/*
+*://*.plozzard.shop/*
 *://*.plpaedjaofheagoahdgu.info/*
 *://*.plpanaifheaighai.com/*
 *://*.plplme.site/*
@@ -261807,6 +261822,7 @@
 *://*.snaptube-herunterladen.net/*
 *://*.snaptubeapk.com.tr/*
 *://*.snapupdate.org/*
+*://*.snapzy.biz/*
 *://*.snarpiix.com/*
 *://*.snarutox.com/*
 *://*.snatchantagonistic.top/*
@@ -266534,6 +266550,7 @@
 *://*.squeamish.ru/*
 *://*.squeezeflatter.top/*
 *://*.squeezepredominate.top/*
+*://*.squellatrix.shop/*
 *://*.squidhala.com/*
 *://*.squirrel-wallet.world/*
 *://*.squirrelaccident.top/*
@@ -271199,6 +271216,7 @@
 *://*.synonymtranquility.top/*
 *://*.synronex.cfd/*
 *://*.syntax101.tk/*
+*://*.syntharan.com/*
 *://*.synthesconvoy.top/*
 *://*.synthesisdesignate.top/*
 *://*.synthesizeflattery.top/*
@@ -297635,6 +297653,7 @@
 *://*.vekalason.net/*
 *://*.vekario.store/*
 *://*.vekarmzf.com/*
+*://*.vekartonnt.com/*
 *://*.vekbmux.com/*
 *://*.vekendeferse.online/*
 *://*.vekendeme.net/*
@@ -297680,6 +297699,7 @@
 *://*.vellokarasea.surf/*
 *://*.velmrix.com/*
 *://*.velnny.top/*
+*://*.velocisan.com/*
 *://*.velocitii.com/*
 *://*.velocityallergic.top/*
 *://*.velocitypw.top/*
@@ -322990,6 +323010,7 @@
 *://*.yildiztilbemaxief.xyz/*
 *://*.yildiztoplum.org/*
 *://*.yildiztrbimcell.com/*
+*://*.yildizx.com/*
 *://*.yildizzlardabuuuuhaaftaaa.online/*
 *://*.yildonumkutlamasi-bn.com/*
 *://*.yildonumkutlamasi-bn.online/*
