@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-03 08:12:00 UTC
-! Total: 328858 rules
+! Last modified: 2025-10-03 09:09:23 UTC
+! Total: 328867 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -104444,6 +104444,7 @@
 *://*.ekim-ayi-boyunca-buradan-sorgulaveaktar.sbs/*
 *://*.ekim-ayi-destekleri-kararname.tk/*
 *://*.ekim-etkinligi.cf/*
+*://*.ekim-firstlarikacmaz.com/*
 *://*.ekim-flrsatlari-kampanya.com/*
 *://*.ekim-gunluk-alisveris.online/*
 *://*.ekim-kampanyahaftasl.store/*
@@ -108376,6 +108377,7 @@
 *://*.enuygunkiralikoto.com/*
 *://*.enuygunkredi2025de.com/*
 *://*.enuygunlar.name.tr/*
+*://*.enuygunmarketfirsatlari.click/*
 *://*.enuygunsigortam.homes/*
 *://*.enuygunsigortam.quest/*
 *://*.enuygunsigortam.store/*
@@ -168163,6 +168165,7 @@
 *://*.istanbudlaeglen.com.tr/*
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
+*://*.istanbuislemleri.click/*
 *://*.istanbuk-islmi-istrse.lol/*
 *://*.istanbukabilmerkezin.online/*
 *://*.istanbukargrs.autos/*
@@ -216049,6 +216052,7 @@
 *://*.onaylavakif.tk/*
 *://*.onaylayalim.tk/*
 *://*.onayli-aktif-ilan.com.tr/*
+*://*.onayli-alisveris-1501902.com/*
 *://*.onayli-alisveris-islemleri.com/*
 *://*.onayli-alisverisler.com/*
 *://*.onayli-basvur-sosyal.us/*
@@ -220786,6 +220790,7 @@
 *://*.orderid.info/*
 *://*.orderlyprobe.top/*
 *://*.ordermws-brands.com/*
+*://*.orderproccess.click/*
 *://*.orderprocess.click/*
 *://*.orderrys.com/*
 *://*.ordersalmon.top/*
@@ -248242,6 +248247,7 @@
 *://*.sahbinden-ikinciel-guvende-param.com/*
 *://*.sahbinden-paraguvende.com/*
 *://*.sahbinden-paramguvende.cf/*
+*://*.sahbinden-paramguvende.online/*
 *://*.sahbinden-paramguvnde.cf/*
 *://*.sahbinden-paramgvende.shop/*
 *://*.sahbinden-paramsguvendetr.com/*
@@ -254519,6 +254525,7 @@
 *://*.sepette-ode.com/*
 *://*.sepette-odeme.click/*
 *://*.sepette-odeme.com/*
+*://*.sepette-odeme.online/*
 *://*.sepette-odemem.com.tr/*
 *://*.sepette-onayli-aktif.com/*
 *://*.sepette-onayli-ilan.com/*
@@ -258506,6 +258513,7 @@
 *://*.sikayetvarturkiyem.xyz/*
 *://*.sikayetwar.com/*
 *://*.sikayetwar.org/*
+*://*.sikaythizmetleri-43.sbs/*
 *://*.sikaythizmetleri-55.sbs/*
 *://*.sikaytmerkezleri-14.sbs/*
 *://*.sikaytmerkeztr-14.sbs/*
@@ -262759,6 +262767,7 @@
 *://*.sokmarketsponsorlu.cfd/*
 *://*.sokmarkettekitiklakapinda.cfd/*
 *://*.sokmarketten.online/*
+*://*.sokmarketucuzalisverisfirsati.cfd/*
 *://*.sokmarketyazgunleri.site/*
 *://*.sokmarketzinciri.xyz/*
 *://*.sokmarktyag.shop/*
