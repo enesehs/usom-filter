@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-04 17:01:47 UTC
-# Toplam: 413060 Domain
+# Son Güncelleme: 2025-10-04 18:10:51 UTC
+# Toplam: 413081 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51634,6 +51634,7 @@ avmgirisyap.org.tr
 avmgunlukleri1brda0firsat1.com
 avmhgsm.com
 avmhizliislem.com
+avmkgmbrchgsblgi.ddnsgeek.com
 avmkom.xyz
 avmland.xyz
 avmlerptt-hizliiodemelerr.net
@@ -82051,6 +82052,7 @@ bugunlukaidat.epizy.com
 bugunlukcumartesi.xyz
 bugunlukfirsat.cfd
 bugunnburada.shop
+bugunneyekacirmayalim.click
 bugunozel-devarackampanyasibasvuru.com
 bugunozelcampanya.click
 bugunozelkampanya.click
@@ -118062,6 +118064,7 @@ drasticerrand.top
 drasticingle.top
 drasticsource.top
 dratasilsese.site
+dravenquish.shop
 drawapp.net
 drawbackdesolate.top
 drawbouquet.top
@@ -149893,6 +149896,7 @@ firsatnisangunleri.org.tr
 firsatnoktancepte.com.tr
 firsatnoktaniz.com.tr
 firsatnoktanizayaginizda.net
+firsatnoktasindan.com
 firsatodlalorderthank.net
 firsatodullerdenbasvurnuzutamamlayin.cloud
 firsatonay-acikdenizv2denizbank.com
@@ -181614,6 +181618,7 @@ hepisiburda.online
 hepisiburda.xyz
 hepisleminiz.app
 hepisleml.app
+hepiyibulduran.cfd
 hepkazanvemutluol.cfd
 hepkek2.ru
 hepkwtyoucekcamp7.net
@@ -181961,6 +181966,7 @@ hepyekheptek.net
 hepyekheptek.online
 hepyekheptek.xyz
 hepyeniindirimler.world
+hepyenipromosyon.com
 hepyeniyepyeni.cfd
 hepylbsipzrlari.shop
 hepzone.hopto.org
@@ -189615,6 +189621,7 @@ hmnmagzadanteslim.com
 hmnmagzd.com
 hmnmanmasashasnasmsahsanmas93.site
 hmnmarketgunleri.com
+hmnmasnmasnmas2811mmnasas.site
 hmnmhsanmshsamnsa2.site
 hmnmmnsahsanmsanmh36.site
 hmnmnasashasanmas123.site
@@ -201798,6 +201805,7 @@ infloper.duckdns.org
 influeecbk.com
 influencebronze.top
 influencefling.top
+influencerai.net
 influentialaasx.work
 influentiallphur.top
 influentialoffset.top
@@ -237567,6 +237575,7 @@ locksguard.top
 locksitexzcq.cfd
 lockstifle.top
 locloc.ddns.net
+locnour.com
 loco.ddns.net
 locobielsa27.duckdns.org
 locomotiveconfide.top
@@ -262543,6 +262552,7 @@ nilovifsorggula.net
 nilviyonsfsorgula.net
 nilykya.com
 nimassloggs.ir
+nimbisan.com
 nimbusgoods.store
 nimbustrail.space
 nimc.cf
@@ -299971,6 +299981,7 @@ quantumpeak.store
 quantumshift.website
 quantumsirinwave.xyz
 quantumtr.xyz
+quantunnis.com
 quantuymbolt.com
 quanty-growth-pro.space
 quantyradevelopmentlabs.com
@@ -320258,6 +320269,7 @@ senyeterkievdekal20gb.com
 senyeterkievdekalturkiyem.com
 senyetersev.net
 senyoksanbenyokum.xyz
+senyoksanbirkisieksigiz.cfd
 senyukle.22web.org
 senyukle.com
 seo-pronew.com
@@ -323048,6 +323060,7 @@ shinjiikari.ddns.net
 shinjuku-wc.com
 shinkhek.myfw.us
 shinudating.com
+shinwors.com
 shinyalternation.top
 shinydiscrepancy.top
 shinyjewel.store
@@ -331414,6 +331427,7 @@ sonhaberleriade.org
 sonhaberleriademerkezi.co.uk
 sonhaftaindirimi.net
 sonhediyeler.com
+sonhisleredokunan.cfd
 sonhizmetler.net
 sonhmvsyqtj.com
 soniadegunleri.com
@@ -338992,6 +339006,7 @@ sunniznuhqan.com
 sunnny2323-45916.portmap.host
 sunny-voices.de
 sunnyfasr390.weebly.com
+sunnygoty.com
 sunnyinteractive.com.au
 sunnyleone.ddns.net
 sunnyleone.hopto.org
@@ -355358,6 +355373,7 @@ trdijitaldenizcepgiris.ml
 trdijitalmobilsubemvakifbank.ml
 trdkuveytsube.cf
 trdnsorjinhostxn.ml
+trdnzkmpnya.my-homeip.com
 trdqiuhuuu.duckdns.org
 trdsawszimirwazs.com
 trduyurubnacsgiris.com
@@ -369719,6 +369735,7 @@ vakifbankonline.net
 vakifbankonline.tk
 vakifbankonlinedigitalsubegirisi.tk
 vakifbankonlinegiris.com
+vakifbankonlineislemler.vercel.app
 vakifbankonlineislemlergirisisube.ml
 vakifbankonlinekredim.co.vu
 vakifbankonlinekredimkart.co.vu
@@ -374844,6 +374861,7 @@ vinicivenito.freemyip.com
 vinidauu.com
 viniramos.com
 vinking.top
+vinklerm.com
 vinnellarabia.myftp.org
 vinneydropmodorfosius.net
 vinngec.sg-host.com
@@ -375293,6 +375311,7 @@ vivhshl.duckdns.org
 vividassortment.top
 vividcaptcha.top
 vividdetention.top
+vividgetaway.com
 vividhoodfeaturerelax.com
 vividradar.com
 vividrift.online
@@ -382199,6 +382218,7 @@ wexoprayyyy-62570.portmap.host
 wexznnplhyu.wcnv20.cn
 wey2e1dh.duckdns.org
 weysg.com.tr
+weystoun.com
 weystramz.com
 wezeriw.com
 weznedarbayi.ml
@@ -411700,6 +411720,7 @@ zivert-tickets.ru
 zivert.am
 zivert.kg
 zivpyqdom.com
+zivvello.com
 ziwaw0.duckdns.org
 zixdf.com
 zixongw.com

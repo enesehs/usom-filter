@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 17:01:47 UTC
-! Total: 329113 rules
+! Last modified: 2025-10-04 18:10:51 UTC
+! Total: 329131 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62615,6 +62615,7 @@
 *://*.bugunlukcumartesi.xyz/*
 *://*.bugunlukfirsat.cfd/*
 *://*.bugunnburada.shop/*
+*://*.bugunneyekacirmayalim.click/*
 *://*.bugunozel-devarackampanyasibasvuru.com/*
 *://*.bugunozelcampanya.click/*
 *://*.bugunozelkampanya.click/*
@@ -91574,6 +91575,7 @@
 *://*.drasticingle.top/*
 *://*.drasticsource.top/*
 *://*.dratasilsese.site/*
+*://*.dravenquish.shop/*
 *://*.drawapp.net/*
 *://*.drawbackdesolate.top/*
 *://*.drawbouquet.top/*
@@ -119022,6 +119024,7 @@
 *://*.firsatnoktancepte.com.tr/*
 *://*.firsatnoktaniz.com.tr/*
 *://*.firsatnoktanizayaginizda.net/*
+*://*.firsatnoktasindan.com/*
 *://*.firsatodlalorderthank.net/*
 *://*.firsatodullerdenbasvurnuzutamamlayin.cloud/*
 *://*.firsatonay-acikdenizv2denizbank.com/*
@@ -145518,6 +145521,7 @@
 *://*.hepisiburda.xyz/*
 *://*.hepisleminiz.app/*
 *://*.hepisleml.app/*
+*://*.hepiyibulduran.cfd/*
 *://*.hepkazanvemutluol.cfd/*
 *://*.hepkek2.ru/*
 *://*.hepkwtyoucekcamp7.net/*
@@ -145853,6 +145857,7 @@
 *://*.hepyekheptek.online/*
 *://*.hepyekheptek.xyz/*
 *://*.hepyeniindirimler.world/*
+*://*.hepyenipromosyon.com/*
 *://*.hepyeniyepyeni.cfd/*
 *://*.hepylbsipzrlari.shop/*
 *://*.her-aileye-yardim.tk/*
@@ -152333,6 +152338,7 @@
 *://*.hmnmagzd.com/*
 *://*.hmnmanmasashasnasmsahsanmas93.site/*
 *://*.hmnmarketgunleri.com/*
+*://*.hmnmasnmasnmas2811mmnasas.site/*
 *://*.hmnmhsanmshsamnsa2.site/*
 *://*.hmnmmnsahsanmsanmh36.site/*
 *://*.hmnmnasashasanmas123.site/*
@@ -162600,6 +162606,7 @@
 *://*.influeecbk.com/*
 *://*.influencebronze.top/*
 *://*.influencefling.top/*
+*://*.influencerai.net/*
 *://*.influentialaasx.work/*
 *://*.influentiallphur.top/*
 *://*.influentialoffset.top/*
@@ -191611,6 +191618,7 @@
 *://*.locksitexzcq.cfd/*
 *://*.lockstifle.top/*
 *://*.loclx.io/*
+*://*.locnour.com/*
 *://*.locomotiveconfide.top/*
 *://*.locomotivedeductible.top/*
 *://*.locomotivedubious.top/*
@@ -210497,6 +210505,7 @@
 *://*.nilykya.com/*
 *://*.nimalcodek.com/*
 *://*.nimassloggs.ir/*
+*://*.nimbisan.com/*
 *://*.nimbusgoods.store/*
 *://*.nimbustrail.space/*
 *://*.nimc.cf/*
@@ -240836,6 +240845,7 @@
 *://*.quantumshift.website/*
 *://*.quantumsirinwave.xyz/*
 *://*.quantumtr.xyz/*
+*://*.quantunnis.com/*
 *://*.quantuymbolt.com/*
 *://*.quanty-growth-pro.space/*
 *://*.quantyradevelopmentlabs.com/*
@@ -254472,6 +254482,7 @@
 *://*.senyeterkievdekalturkiyem.com/*
 *://*.senyetersev.net/*
 *://*.senyoksanbenyokum.xyz/*
+*://*.senyoksanbirkisieksigiz.cfd/*
 *://*.senyukle.com/*
 *://*.seo-pronew.com/*
 *://*.seoajansi.net/*
@@ -256633,6 +256644,7 @@
 *://*.shinjuku-wc.com/*
 *://*.shinsekaimintnft.com/*
 *://*.shinudating.com/*
+*://*.shinwors.com/*
 *://*.shinyalternation.top/*
 *://*.shinydiscrepancy.top/*
 *://*.shinyjewel.store/*
@@ -263978,6 +263990,7 @@
 *://*.sonhaberleriademerkezi.co.uk/*
 *://*.sonhaftaindirimi.net/*
 *://*.sonhediyeler.com/*
+*://*.sonhisleredokunan.cfd/*
 *://*.sonhizmetler.net/*
 *://*.sonhmvsyqtj.com/*
 *://*.soniadegunleri.com/*
@@ -270071,6 +270084,7 @@
 *://*.sunnies101.com/*
 *://*.sunniznuhqan.com/*
 *://*.sunny-voices.de/*
+*://*.sunnygoty.com/*
 *://*.sunnyinteractive.com.au/*
 *://*.sunnypalour.com/*
 *://*.sunnysalmon.top/*
@@ -299573,6 +299587,7 @@
 *://*.vinidauu.com/*
 *://*.viniramos.com/*
 *://*.vinking.top/*
+*://*.vinklerm.com/*
 *://*.vinneydropmodorfosius.net/*
 *://*.vinnov-vakfbreysel.cfd/*
 *://*.vinnov-vakfbreysel.click/*
@@ -299946,6 +299961,7 @@
 *://*.vividassortment.top/*
 *://*.vividcaptcha.top/*
 *://*.vividdetention.top/*
+*://*.vividgetaway.com/*
 *://*.vividhoodfeaturerelax.com/*
 *://*.vividradar.com/*
 *://*.vividrift.online/*
@@ -304834,6 +304850,7 @@
 *://*.wewsite.tk/*
 *://*.wexonlake.com/*
 *://*.weysg.com.tr/*
+*://*.weystoun.com/*
 *://*.weystramz.com/*
 *://*.wezeriw.com/*
 *://*.weznedarbayi.ml/*
@@ -328284,6 +328301,7 @@
 *://*.zivert.am/*
 *://*.zivert.kg/*
 *://*.zivpyqdom.com/*
+*://*.zivvello.com/*
 *://*.zixdf.com/*
 *://*.zixongw.com/*
 *://*.zixzanwe.xyz/*
