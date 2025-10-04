@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 06:11:46 UTC
-! Total: 329062 rules
+! Last modified: 2025-10-04 07:07:38 UTC
+! Total: 329064 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -114914,6 +114914,7 @@
 *://*.fatherupdatenapkinbiology.click/*
 *://*.fathsigorta.com.tr/*
 *://*.fathsigorta.xyz/*
+*://*.fatibara.com/*
 *://*.fatiguejoin.top/*
 *://*.fatiguepamphlet.top/*
 *://*.fatigueporridge.top/*
@@ -126972,6 +126973,7 @@
 *://*.gelsinmindeyikz7jnaah.com/*
 *://*.gelsinsimdifirsat.com/*
 *://*.gelsinsiparisinhizli.xyz/*
+*://*.gelsinsipars.click/*
 *://*.gelsndevegrnihzmt.net/*
 *://*.gelsohbetedelim.cf/*
 *://*.gelsohbetedelim.xyz/*
