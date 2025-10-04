@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 16:09:21 UTC
-! Total: 329100 rules
+! Last modified: 2025-10-04 17:01:47 UTC
+! Total: 329113 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46287,6 +46287,7 @@
 *://*.bilgilendirmevatandasbasvurulari2021.com/*
 *://*.bilgilendirmevatandasbasvurulari2021giris.com/*
 *://*.bilgilendirmeyonlendirme.com.tr/*
+*://*.bilgilendirmezamani.online/*
 *://*.bilgilenebilmebilgilendirmek33.com/*
 *://*.bilgiler-aidatlarimiadedevletgovcom.com/*
 *://*.bilgiler-edevletgovkartgirisi.tk/*
@@ -88404,6 +88405,7 @@
 *://*.dijitalmobilweb-ziraatbireyselgiris.site/*
 *://*.dijitalmobilweb-ziraatgiris.com/*
 *://*.dijitalmobilweb-ziraatkampanya.com/*
+*://*.dijitalmobilweb-ziraatkampanyagiris.com/*
 *://*.dijitalmusterihizmetleri.cf/*
 *://*.dijitalnet-ziraatbireysel.com/*
 *://*.dijitalnet-ziraatmobil.com/*
@@ -88607,6 +88609,7 @@
 *://*.dijitalwebmobil-ziraatbireyselgiris.com/*
 *://*.dijitalwebmobil-ziraatgiris.com/*
 *://*.dijitalwebmobil-ziraatkampanya.com/*
+*://*.dijitalwebmobil-ziraatkampanyagiris.com/*
 *://*.dijitalwebmobil-ziraatkredi.com/*
 *://*.dijitalwebnet-ziraatbireysel.com/*
 *://*.dijitalwebonlinesistem-com.tk/*
@@ -92908,6 +92911,7 @@
 *://*.dyson-kampanya.com/*
 *://*.dyson-kolaysatinal.com/*
 *://*.dyson-magaza.com.tr/*
+*://*.dyson-market-firsatlari.cfd/*
 *://*.dyson-online.com.tr/*
 *://*.dyson-ramazan-indirimi.online/*
 *://*.dyson-sacbakim.com.tr/*
@@ -104723,6 +104727,7 @@
 *://*.ekimozelmarket.xyz/*
 *://*.ekimsonu-surprizleri2018.com/*
 *://*.ekimsurprizleridevamediyor1.com/*
+*://*.ekimtermosfrslatrl.com/*
 *://*.ekimurunlerionlineozelurun.com/*
 *://*.ekimurunlerionlineozelurunlerimiz.com/*
 *://*.ekimvakifkrdinizy.xyz/*
@@ -104896,6 +104901,7 @@
 *://*.ekrandan-sorgulama-aktarma.online/*
 *://*.ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs/*
 *://*.ekrandan-sorgulamani-yap-eylul-ayi.cyou/*
+*://*.ekrandan-sorgulayiniz-bir-cok-islem.sbs/*
 *://*.ekrandansorgulaman-yapveaktariminiyap.cyou/*
 *://*.ekrani-yonlendirme-hizli.online/*
 *://*.ekrani.net/*
@@ -113721,6 +113727,7 @@
 *://*.eyluldekiindirim.com/*
 *://*.eyluldenizkrdiozel.xyz/*
 *://*.eyluldenkapinizaaflrtsatlaridevamediyor.online/*
+*://*.eyluldennkapinndaflrsttlarii.cfd/*
 *://*.eyluldesokfirsatlarla.xyz/*
 *://*.eyluldeteb.com/*
 *://*.eylulehazirlik.xyz/*
@@ -115528,6 +115535,7 @@
 *://*.fearisallyouknow.top/*
 *://*.fearlcankk.com/*
 *://*.fearlcanksfsafsak.com/*
+*://*.fearleeersomansss.com/*
 *://*.fearlenevos.com/*
 *://*.fearlesbensadersad.com/*
 *://*.fearlescanasddas.com/*
@@ -208047,6 +208055,7 @@
 *://*.naratymena.com/*
 *://*.narbhaveecareers.com/*
 *://*.narbify.click/*
+*://*.narbrmewasv.com/*
 *://*.narbutes.space/*
 *://*.narcissi4.xyz/*
 *://*.narcoexperss.icu/*
@@ -251632,6 +251641,7 @@
 *://*.sayfadolusu.site/*
 *://*.sayfagdoglerdominezcoc.com/*
 *://*.sayfalar-ilan.com/*
+*://*.sayfalar-netinternet.world/*
 *://*.sayfam.click/*
 *://*.sayfam.me/*
 *://*.sayfam.top/*
@@ -260372,6 +260382,7 @@
 *://*.siz-mobilonaycep.xyz/*
 *://*.siz-mutlu-olunxa-bizlerde-cok-mutluyiz.com.tr/*
 *://*.siz-mutluysaniz-biz-harikayz.com/*
+*://*.siz-olmadan-bisey-olmaz.sbs/*
 *://*.siz-sezona-hazirlik-yapin-geldik.com/*
 *://*.siz-yanimizda-olun.com/*
 *://*.siz3li.net/*
@@ -267960,6 +267971,7 @@
 *://*.stittintem.top/*
 *://*.stiturel.com/*
 *://*.stiybxhfa.com/*
+*://*.stiye-gti-ynlendirme.cfd/*
 *://*.stiyxdm.cn/*
 *://*.stjmxxqtkudy.xyz/*
 *://*.stk-sn-kpdaylbasi.online/*
@@ -284489,6 +284501,7 @@
 *://*.trhr.online/*
 *://*.trhsrsrglmyap.com/*
 *://*.trhukuk.org/*
+*://*.trhukuktc.net/*
 *://*.trhzmetilekoyls.com/*
 *://*.tri-comma.com/*
 *://*.tri-sion.com/*

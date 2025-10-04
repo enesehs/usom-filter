@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-04 16:09:21 UTC
-# Toplam: 413044 Domain
+# Son Güncelleme: 2025-10-04 17:01:47 UTC
+# Toplam: 413060 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14678,6 +14678,7 @@
 552c497ba173d76b6ab9bf242791739c.site
 55324455.cloud
 5546231.vercel.app
+5547455555555.duckdns.org
 554960.com
 55496011.com
 554esyi.duckdns.org
@@ -63690,6 +63691,7 @@ bilgilendirmevakifdijitaldunyasi.com
 bilgilendirmevatandasbasvurulari2021.com
 bilgilendirmevatandasbasvurulari2021giris.com
 bilgilendirmeyonlendirme.com.tr
+bilgilendirmezamani.online
 bilgilenebilmebilgilendirmek33.com
 bilgiler-aidatlarimiadedevletgovcom.com
 bilgiler-edevletgovkartgirisi.tk
@@ -113991,6 +113993,7 @@ dijitalmobilweb-ziraatbireyselgiris.com
 dijitalmobilweb-ziraatbireyselgiris.site
 dijitalmobilweb-ziraatgiris.com
 dijitalmobilweb-ziraatkampanya.com
+dijitalmobilweb-ziraatkampanyagiris.com
 dijitalmusterihizmetleri.cf
 dijitalnet-ziraatbireysel.com
 dijitalnet-ziraatmobil.com
@@ -114208,6 +114211,7 @@ dijitalwebmobil-ziraat.com
 dijitalwebmobil-ziraatbireyselgiris.com
 dijitalwebmobil-ziraatgiris.com
 dijitalwebmobil-ziraatkampanya.com
+dijitalwebmobil-ziraatkampanyagiris.com
 dijitalwebmobil-ziraatkredi.com
 dijitalwebnet-ziraatbireysel.com
 dijitalwebonlinesistem-com.tk
@@ -119774,6 +119778,7 @@ dyson-firsat-101.online
 dyson-kampanya.com
 dyson-kolaysatinal.com
 dyson-magaza.com.tr
+dyson-market-firsatlari.cfd
 dyson-online.com.tr
 dyson-ramazan-indirimi.online
 dyson-sacbakim.com.tr
@@ -132905,6 +132910,7 @@ ekimozelmarket.com.tr
 ekimozelmarket.xyz
 ekimsonu-surprizleri2018.com
 ekimsurprizleridevamediyor1.com
+ekimtermosfrslatrl.com
 ekimurunlerionlineozelurun.com
 ekimurunlerionlineozelurunlerimiz.com
 ekimvakifkrdinizy.xyz
@@ -133088,6 +133094,7 @@ ekrandan-aktar-online.site
 ekrandan-sorgulama-aktarma.online
 ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs
 ekrandan-sorgulamani-yap-eylul-ayi.cyou
+ekrandan-sorgulayiniz-bir-cok-islem.sbs
 ekrandanalonaylarisimdi.duckdns.org
 ekrandansorgulaman-yapveaktariminiyap.cyou
 ekrani-yonlendirme-hizli.online
@@ -143346,6 +143353,7 @@ eyluldekiindiri.site
 eyluldekiindirim.com
 eyluldenizkrdiozel.xyz
 eyluldenkapinizaaflrtsatlaridevamediyor.online
+eyluldennkapinndaflrsttlarii.cfd
 eyluldesokfirsatlarla.xyz
 eyluldeteb.com
 eylulehazirlik.xyz
@@ -145819,6 +145827,7 @@ fearislem.22web.org
 fearkesdearkesaddsa.duckdns.org
 fearlcankk.com
 fearlcanksfsafsak.com
+fearleeersomansss.com
 fearleeshomenshomenesds.duckdns.org
 fearlenevos.com
 fearlerafearsad.duckdns.org
@@ -158491,6 +158500,7 @@ garntlmt.online
 garnttttt.com.tr
 garntwebsbayrnlarizin4.cyou
 garoyenicanes.duckdns.org
+garr-aantimoiblasvuru.fixip.org
 garr-annti.bounceme.net
 garraaaaanlaa.app
 garralntibbva.com
@@ -206993,6 +207003,7 @@ iscep-esube-songun-basvuru.ml
 iscep-esube-songun-cekilis.ga
 iscep-esube-songun-giris.cf
 iscep-esube-songun-katilim.ml
+iscep-firsat.vercel.app
 iscep-giris.com
 iscep-giris.online
 iscep-hediyebizden.com
@@ -259284,6 +259295,7 @@ naratosammb.xyz
 naratymena.com
 narbhaveecareers.com
 narbify.click
+narbrmewasv.com
 narcissi4.xyz
 narcoexperss.icu
 narcolepsy-symptom-treatment.org
@@ -315967,6 +315979,7 @@ sayfag-land-webtr-in.ru.com
 sayfagdoglerdominezcoc.com
 sayfal-myland-webtr-in.ru.com
 sayfalar-landing-in.za.com
+sayfalar-netinternet.world
 sayfalar-online-landtr-in.za.com
 sayfalar-trylar-webbing-in.za.com
 sayfalar-webtry-in.za.com
@@ -327213,6 +327226,7 @@ siz-mobilonay.xyz
 siz-mobilonaycep.xyz
 siz-mutlu-olunxa-bizlerde-cok-mutluyiz.com.tr
 siz-mutluysaniz-biz-harikayz.com
+siz-olmadan-bisey-olmaz.sbs
 siz-sezona-hazirlik-yapin-geldik.com
 siz-yanimizda-olun.com
 siz3li.net
@@ -336299,6 +336313,7 @@ stiturel.com
 stive.hopto.org
 stixarhive.000webhostapp.com
 stiybxhfa.com
+stiye-gti-ynlendirme.cfd
 stiyxdm.cn
 stjmxxqtkudy.xyz
 stk-sn-kpdaylbasi.online
@@ -356186,6 +356201,7 @@ trhmrcshsad.shop
 trhr.online
 trhsrsrglmyap.com
 trhukuk.org
+trhukuktc.net
 trhzmetilekoyls.com
 tri-comma.com
 tri-sion.com
