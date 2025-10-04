@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 11:01:40 UTC
-! Total: 329076 rules
+! Last modified: 2025-10-04 12:13:48 UTC
+! Total: 329080 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -103583,6 +103583,7 @@
 *://*.egmsorgu.org/*
 *://*.egmsorgulama.net/*
 *://*.egmturkiyegovtr.com/*
+*://*.egmuzlasma.com/*
 *://*.egnyte.com/*
 *://*.egoankarakartyukleme.com/*
 *://*.egoankarakartyukleme.net/*
@@ -121247,6 +121248,7 @@
 *://*.frassirishiproc.com/*
 *://*.fraternityg.top/*
 *://*.fratlargel101le.xyz/*
+*://*.fratlargeldi0101.online/*
 *://*.fratriedetantinetjockey.pw/*
 *://*.fraudrepertoire.top/*
 *://*.fraudulent-coinbase.com/*
@@ -151745,6 +151747,7 @@
 *://*.hizmetlerimiz-ailegenc.net/*
 *://*.hizmetlerimiz-ailegenc.org/*
 *://*.hizmetlerimiz-halkimiza-devamediyor.online/*
+*://*.hizmetlerimiz-sorguveaktarim-hizmetleriniz.sbs/*
 *://*.hizmetlerimiz-turkiyegovtri.com/*
 *://*.hizmetlerimiz.net/*
 *://*.hizmetlerimiz.website/*
@@ -197167,6 +197170,7 @@
 *://*.mbilxzv2gibv1govxtr.fun/*
 *://*.mbilxzv2gibv1govxtr.site/*
 *://*.mbimcell.com/*
+*://*.mbinance.cyou/*
 *://*.mbinancetr.com.tr/*
 *://*.mbinancetr.icu/*
 *://*.mbinancetr.mom/*
