@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 14:01:57 UTC
-! Total: 329086 rules
+! Last modified: 2025-10-04 15:01:41 UTC
+! Total: 329094 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -846,6 +846,7 @@
 *://*.101-4agustos-ozel.art/*
 *://*.101-4agustosda.art/*
 *://*.101-4agustosds.art/*
+*://*.101-4ekim-aksam.art/*
 *://*.101-6hazirangece.com/*
 *://*.101-7eylly.site/*
 *://*.101-7eylulde.site/*
@@ -14476,6 +14477,7 @@
 *://*.a1111swpwpwwweoqsd.xyz/*
 *://*.a11hrchrc.com/*
 *://*.a12-2112sasdqwwq.shop/*
+*://*.a12010sdel.com/*
 *://*.a121.com.tr/*
 *://*.a123afsdfdsdfsdfsdfs.net/*
 *://*.a15c8f180b11h.net/*
@@ -29951,6 +29953,7 @@
 *://*.anindamtv.com/*
 *://*.anindanakitpara.com/*
 *://*.anindaodenir.com/*
+*://*.anindaolustur.xyz/*
 *://*.anindaonayda.xyz/*
 *://*.anindaonayla.com/*
 *://*.anindaonaylandi.xyz/*
@@ -42990,6 +42993,7 @@
 *://*.bbva-bintliade-haftasi.com/*
 *://*.bbva-ceptebasvuru.com/*
 *://*.bbva-empresa-seguridad.app/*
+*://*.bbva-garanti-giris-com.cfd/*
 *://*.bbva-garanti-girsileri.online/*
 *://*.bbva-garanti-iade.com/*
 *://*.bbva-garanti-iade.net/*
@@ -57888,6 +57892,7 @@
 *://*.bnbdestektr.com/*
 *://*.bnbfinsonline.com/*
 *://*.bnbfirsatkampanyasizlericin.com/*
+*://*.bnbglobal.sbs/*
 *://*.bnbglobal2022kampanyasi.ml/*
 *://*.bnbglobalcamp2022.ml/*
 *://*.bnbglobalcampaign.com/*
@@ -125585,6 +125590,7 @@
 *://*.garmnanwhqwqwmnwwqgf.shop/*
 *://*.garnasicdatnadnmaccsda.shop/*
 *://*.garnasixdajkjqkwe.shop/*
+*://*.garnatiasgdsiantaisgdsshdtas.cfd/*
 *://*.garnatiasgdsiantaisgdsshdtas.cyou/*
 *://*.garnatiasgdsiantaisgdsshdtas.sbs/*
 *://*.garnatimobilkampanyalari.tk/*
@@ -253835,6 +253841,7 @@
 *://*.sendebugungelbasvuruyaphadibakalimdemetakalin.site/*
 *://*.sendebuhizmetekatil.com/*
 *://*.sendebundanyararlanhizmetedevlet.com/*
+*://*.sendebunubilirsen.cfd/*
 *://*.sendeburadagrantiniall.net/*
 *://*.sendeburadakal.net/*
 *://*.sendeburadakalbenimle.net/*
@@ -260647,6 +260654,7 @@
 *://*.sizinurunlerinizsepette.online/*
 *://*.sizinurunlerinizsepette.xyz/*
 *://*.siziozelgiris.com/*
+*://*.sizisevenler.cfd/*
 *://*.sizistenizbizyaptikvkf.com/*
 *://*.sizistersenizherseyolur.tech/*
 *://*.sizisteyinbizyapalim.tech/*
