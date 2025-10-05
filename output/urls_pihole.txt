@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-05 05:08:01 UTC
-# Toplam: 413108 Domain
+# Son Güncelleme: 2025-10-05 06:11:56 UTC
+# Toplam: 413117 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24015,6 +24015,7 @@ a1o1aktuelmarketurunleri.online
 a1o1aktuelonline.org
 a1o1akutelurenletindirimegel.online
 a1o1akutuell.com
+a1o1aldgndakazancz.blogdns.org
 a1o1aldi.sbs
 a1o1aldim.cfd
 a1o1aldim.net
@@ -39784,6 +39785,7 @@ aldnaldnmayisfirsati.online
 aldnaldnnfirssxtllri-szllerleyni.net
 aldnaldnpzrts.store
 aldnaldnsadecesabahaozei.dyndns.org
+aldnfirsatindadahaiyisi.blogdns.org
 aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
 aldnkazanhepkazan.duckdns.org
@@ -76822,6 +76824,7 @@ bnglobal-basvuru.com
 bnglobal.xyz
 bnglobalfirsat.net
 bnglobaling.sbs
+bnglobalvision.sbs
 bnglobl-actn.com
 bngloobalservisim.com
 bngnlrdsnglderdg.shop
@@ -132962,6 +132965,7 @@ eklmalisverls.store
 eklmflrsatlari.com
 eklmflrstlari.com
 eklmflrstlariozel.com
+eklmflrstlarozll.com
 eklmkampanyasi.store
 eklmlndirmleri.store
 eklmozelflrsatlarr.com
@@ -155126,6 +155130,7 @@ garanbifinansmansorgula.site
 garanbilimilidirgggggggggggggggg.biz
 garanbk.com
 garanbnt.click
+garanbons.com
 garanbsvrrrtoggggg.cloud
 garand-butik-urunler.xyz
 garanfinans.blog
@@ -211783,6 +211788,7 @@ izeltashizliguvenn.xyz
 izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
+izeltasmekaniktakimfirsati.blogspot.com
 izeltasonline.vip
 izeltaspremium.luminix.sbs
 izeltaspremiumis.juxtor.sbs
@@ -243652,6 +243658,7 @@ market.plusmarketim.click
 market.plusmarketin.com
 market.saliagustos763.com
 market.vaktindirim.com
+market.zafocla-pazaradogru-ekim25.com
 market001.duckdns.org
 market10.duckdns.org
 market11.duckdns.org
@@ -253113,6 +253120,7 @@ molgbytokt.duckdns.org
 molindalses.digital
 mollada.com
 molliebrowning234.xyz
+molobo.click
 molomlv.com
 molowo.in.ua
 molpex.ml
@@ -315663,6 +315671,7 @@ satis-2.site
 satis-54.site
 satis-67.com.tr
 satis-91.site
+satis-a101-online.site
 satis-dolap.com.tr
 satis-dolaq.com
 satis-esahibindenparamguvende-com.tk
