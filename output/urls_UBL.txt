@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-05 16:09:14 UTC
-! Total: 329205 rules
+! Last modified: 2025-10-05 17:01:53 UTC
+! Total: 329212 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6725,6 +6725,7 @@
 *://*.250bintokikonutprojesibasvuruekrani.com/*
 *://*.250bintokiprojebasvuruekrani.com/*
 *://*.250bintokisprojeleribasvuruekrani.com/*
+*://*.250bintoplukonut.xyz/*
 *://*.250ekpromosyon.ml/*
 *://*.250garantibbva-com-tr.tk/*
 *://*.250konutprojebasvuruekrani.com/*
@@ -14483,6 +14484,7 @@
 *://*.a1101a1-ldd-inxyzfdirsat.xyz/*
 *://*.a1101a1ldd-inxyzfdirsat.xyz/*
 *://*.a1101f1ir-satdxyzalddin.xyz/*
+*://*.a110marketkampanya.online/*
 *://*.a1111swpwpwwweoqsd.xyz/*
 *://*.a11hrchrc.com/*
 *://*.a12-2112sasdqwwq.shop/*
@@ -58300,6 +58302,7 @@
 *://*.bnglobal.xyz/*
 *://*.bnglobalfirsat.net/*
 *://*.bnglobaling.sbs/*
+*://*.bnglobalpartners.sbs/*
 *://*.bnglobalpower.sbs/*
 *://*.bnglobalprime.sbs/*
 *://*.bnglobalprotech.sbs/*
@@ -146097,6 +146100,7 @@
 *://*.herkesedestekzamaninda20.com/*
 *://*.herkesekampanyalar.com/*
 *://*.herkeselazim.name.tr/*
+*://*.herkeseonay.com/*
 *://*.herkesepandemi.club/*
 *://*.herkesepandemi.xyz/*
 *://*.herkeseyardimvar.com/*
@@ -149380,6 +149384,7 @@
 *://*.hhgumsfox.com/*
 *://*.hhh1.xyz/*
 *://*.hhh23r1edsa21dwscafsdv-sd.sbs/*
+*://*.hhh594234fsa12safd.sbs/*
 *://*.hhhazinemaliyebak1.com/*
 *://*.hhhazinemaliyebak2.com/*
 *://*.hhhdyfnnnytw.xyz/*
@@ -159794,6 +159799,7 @@
 *://*.ile-teslimat.com.tr/*
 *://*.ile-ticaret.com/*
 *://*.ile-ticaretim.com/*
+*://*.ile-web-guvenli-siparis.com/*
 *://*.ileal-tr.com/*
 *://*.ileal.com.tr/*
 *://*.ilealim.com.tr/*
@@ -235672,6 +235678,7 @@
 *://*.ptt-gove.site/*
 *://*.ptt-goverment.top/*
 *://*.ptt-govgc.cc/*
+*://*.ptt-govi-tr.vip/*
 *://*.ptt-govi.bond/*
 *://*.ptt-govi.cc/*
 *://*.ptt-govi.cyou/*
