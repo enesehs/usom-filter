@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-04 23:08:20 UTC
-! Total: 329143 rules
+! Last modified: 2025-10-05 00:44:24 UTC
+! Total: 329147 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -180999,6 +180999,7 @@
 *://*.katilimbasvuru.com/*
 *://*.katilimbasvuru.xyz/*
 *://*.katilimbasvurulari.com/*
+*://*.katilimbasvurulari2sayfasibl.com/*
 *://*.katilimbasvurularindayiz.cloud/*
 *://*.katilimbasvurum.xyz/*
 *://*.katilimbasvurumonayli.xyz/*
@@ -300750,6 +300751,7 @@
 *://*.volmisdalel57.digital/*
 *://*.volnspg.com/*
 *://*.volonmob.sbs/*
+*://*.voloqqo.click/*
 *://*.volosmob.pics/*
 *://*.volosmob.sbs/*
 *://*.volpweedffno.xyz/*
@@ -325782,6 +325784,7 @@
 *://*.zafiriletisim.com/*
 *://*.zafobimcellbayipaketyukleme.org/*
 *://*.zafocanbimcellde.net/*
+*://*.zafocla-pazaradogru-ekim25.com/*
 *://*.zaguamo.com/*
 *://*.zagxy.com/*
 *://*.zahaagbn.click/*
@@ -328365,6 +328368,7 @@
 *://*.zkwfrxiaq.com/*
 *://*.zkywm.com/*
 *://*.zlakovos.click/*
+*://*.zlaszo.click/*
 *://*.zlatkatlim.com/*
 *://*.zlchb.com/*
 *://*.zlevo.com/*
