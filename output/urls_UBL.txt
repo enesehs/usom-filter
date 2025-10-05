@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-05 07:07:42 UTC
-! Total: 329158 rules
+! Last modified: 2025-10-05 08:10:34 UTC
+! Total: 329162 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9304,6 +9304,7 @@
 *://*.500465345666.cloud/*
 *://*.50065com.com/*
 *://*.5009a51a0347.com/*
+*://*.500bin-konutbasvuru.cfd/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
 *://*.500binkonutprojesibasvuruekrani.com/*
@@ -177345,6 +177346,8 @@
 *://*.kampanyadanodulunualbasvurunutamamlacustomary.net/*
 *://*.kampanyadanyararlan.online/*
 *://*.kampanyadanyararlangotocomewelcomenet.net/*
+*://*.kampanyadaresleridegismedi.com.tr/*
+*://*.kampanyadaresleridegismedi.online/*
 *://*.kampanyadaresleridegismedi.xyz/*
 *://*.kampanyadasondonemkacirma.com/*
 *://*.kampanyadasongun.com.tr/*
@@ -253903,6 +253906,7 @@
 *://*.sendefatdlanbiymeden.site/*
 *://*.sendefaydalanbufirsattanhemenkatil.tech/*
 *://*.sendefirsatakatil.net/*
+*://*.sendefirsatalmadangitme.com.tr/*
 *://*.sendefirsatalmadangitme.online/*
 *://*.sendefirsatikacirma.net/*
 *://*.sendefirsatikacirma.online/*
