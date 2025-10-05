@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-05 13:14:12 UTC
-# Toplam: 413145 Domain
+# Son Güncelleme: 2025-10-05 14:01:55 UTC
+# Toplam: 413168 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -496,6 +496,7 @@
 0429502-220607.com
 0439593459823940492.cloud
 044004400444.duckdns.org
+044411212400.duckdns.org
 04441235044204.duckdns.org
 04442121004444.duckdns.org
 044421422024.duckdns.org
@@ -37018,6 +37019,7 @@ aknekremi.win
 aknekremii.bid
 aknenrkl.click
 aknenrkl25.click
+akneytl2.click
 aknollasifirsatgirisim.com
 aknsynl.com
 aknukkaxtxpkipr.su
@@ -52601,6 +52603,7 @@ ayuzbirim1.com
 ayuzbirklimasiparis.com
 ayuzbirmarketapp.com
 ayuzbirndrm.net
+ayuzbironlinekampanyalari.online
 ayuzbirperakende.com
 ayuzbirramazan101.shop
 ayuzbirxdvlfirsat.za.com
@@ -76831,6 +76834,8 @@ bnglobal-basvuru.com
 bnglobal.xyz
 bnglobalfirsat.net
 bnglobaling.sbs
+bnglobalpower.sbs
+bnglobalprime.sbs
 bnglobalprotech.sbs
 bnglobalsolutions.sbs
 bnglobalventures.sbs
@@ -86998,6 +87003,7 @@ carrefoursa-indirimgunux.com
 carrefoursa-indirmleri.vercel.app
 carrefoursa-kampanya.com
 carrefoursa-mobile.com
+carrefoursa-online-ozel.vercel.app
 carrefoursa-online.vercel.app
 carrefoursa-sepet.vercel.app
 carrefoursa-sepette.vercel.app
@@ -130858,6 +130864,7 @@ eee-basvurueiademial.com
 eee-iadeeelerinizakdaahazir.com
 eee-iademerkezianindahazirrr.com
 eee-iademialbasvurum.com
+eeebebek.com
 eeedadns.com
 eeedevletiye.online
 eeeee--iadeeeelerimizburasiiiiii.com
@@ -132981,9 +132988,11 @@ eklmflrstlarozll.com
 eklmkampanyasi.store
 eklmlndirmleri.store
 eklmozelflrsatlarr.com
+eklmtermosfirlrsatlri.com
 eklmtermosflrsatlarl.duckdns.org
 eklmtermosflrstaerlar.com
 eklmtermosflrstalri.com
+eklmtermosflrstalrl.com
 eklmurunlerl.store
 eklsm.a0001.net
 eklwml.top
@@ -148476,6 +148485,7 @@ firsat.aldinaldinonline.com.tr
 firsat.arabakampanyalikiralama.com.tr
 firsat.coklualisverisonline.gen.tr
 firsat.denizbank.com.tr.xn--dijitlsubm-7gb4t.com
+firsat.eeebebek.com
 firsat.enyenifirsaturunu.com.tr
 firsat.hemenkiralikaraban.com.tr
 firsat.info.tr
@@ -153327,6 +153337,7 @@ frstlarmkcmzzziidrmde.com
 frstlarmkcmzzziidrmdee.com
 frstlartukenmkuzere1o1.com
 frstlartukenmkuzere1o1.info
+frstlartuknyr1o1.xyz
 frstlklrdn-cpdnyrrlan.com
 frstlqr-burada.site
 frstlr-brds.duckdns.org
@@ -172837,6 +172848,8 @@ haftasonunamutlugiria.com.tr
 haftasonunamutlugiria.online
 haftasonunamutlugiria.xyz
 haftasonunaozelefsokmpnyaonline.com
+haftasonunasokedicifirsatlar.online
+haftasonunasokedicifirsatlar.xyz
 haftasonundakampanyalardevamediyor.online
 haftasonundakampanyalardevamediyor.xyz
 haftasonungunundebuyukler.shop
@@ -225719,6 +225732,7 @@ kgm-etc.com
 kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
 kgm-gecis-sorgu-com.tk
+kgm-gis.com
 kgm-gov-shop.top
 kgm-gov-tr.ink
 kgm-gov-tr.one
@@ -228365,6 +228379,7 @@ kmpnyalaricnsongun1o1.xyz
 kmpnyalarimizdevam.online
 kmpnyalarimm-bradaa-nline.com
 kmpnyalariniz.click
+kmpnyalartuknyr1o1.xyz
 kmpnyalrbitiyr1o1.xyz
 kmpnyalrmzlasn.net
 kmpnyambuaakdakrdm.top
@@ -231132,6 +231147,7 @@ kredisorgulamahizmetii202.net
 kredisorgullamahizmeetii28.net
 kredist-mpay.com.tr
 kredisube.com
+kredit-indirimlerim.online
 kredit-mpay.online
 kredit-online.site
 kreditak.com
@@ -254389,6 +254405,7 @@ mrpurea.xyz
 mrq7wp.duckdns.org
 mrqnihcxvr.duckdns.org
 mrqz.click
+mrqzlxptvsnw.sa.com
 mrrandvu.b-cdn.net
 mrrdspeoples.com
 mrrent-kirala.club
@@ -309905,8 +309922,10 @@ sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadeceonllinea1o1.duckdns.org
+sadeceonlncfirsatlarozel.blogdns.org
 sadeceonlndsfirsat.sbs
 sadeceonlneozelfrsatlara1o1.duckdns.org
+sadeceonlnfiirsatlarozel.blogdns.org
 sadeceonlnfrssylssc.blogdns.org
 sadeceonlninefirsatlbscs.blogspot.com
 sadeceonlninefirsatlffsc.blogspot.com
@@ -309917,6 +309936,7 @@ sadeceonlnsdfirsatlarsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlyandaalisvers.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
+sadeceonmlinefrsatlasctrcv.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
 sadecepera.fun
@@ -312198,6 +312218,7 @@ sahibinden.elektronikalimlarin.com.tr
 sahibinden.elektronikalisverisim.com.tr
 sahibinden.elektronikhizmet.com.tr
 sahibinden.elektronikhizmetleriniz.com.tr
+sahibinden.elektroniksatinalim.online
 sahibinden.elektronikservisim.sa.com
 sahibinden.elektronikservisler.sa.com
 sahibinden.elektroniksiparisim.net
@@ -341986,6 +342007,7 @@ takipnumaram.com.tr
 takipptt.help
 takiprank.online
 takips.fun
+takipsistemkargoyurt.com
 takipsistemlerikargo.com
 takipslem.shop
 takipsorg.xyz
@@ -406489,6 +406511,7 @@ yolo1223.zapto.org
 yolofish.zapto.org
 yololive.sbs
 yolololo.ddns.net
+yoloyo.click
 yolsorgulamanoniz.click
 yoltalimat.com
 yoltrgecis.blogspot.com

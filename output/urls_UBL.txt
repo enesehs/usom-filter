@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-05 13:14:12 UTC
-! Total: 329176 rules
+! Last modified: 2025-10-05 14:01:55 UTC
+! Total: 329192 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24652,6 +24652,7 @@
 *://*.aknekremii.bid/*
 *://*.aknenrkl.click/*
 *://*.aknenrkl25.click/*
+*://*.akneytl2.click/*
 *://*.aknollasifirsatgirisim.com/*
 *://*.aknsynl.com/*
 *://*.aknukkaxtxpkipr.su/*
@@ -37022,6 +37023,7 @@
 *://*.ayuzbirklimasiparis.com/*
 *://*.ayuzbirmarketapp.com/*
 *://*.ayuzbirndrm.net/*
+*://*.ayuzbironlinekampanyalari.online/*
 *://*.ayuzbirperakende.com/*
 *://*.ayuzbirramazan101.shop/*
 *://*.ayuzbrsonfrsatlar.xyz/*
@@ -58296,6 +58298,8 @@
 *://*.bnglobal.xyz/*
 *://*.bnglobalfirsat.net/*
 *://*.bnglobaling.sbs/*
+*://*.bnglobalpower.sbs/*
+*://*.bnglobalprime.sbs/*
 *://*.bnglobalprotech.sbs/*
 *://*.bnglobalsolutions.sbs/*
 *://*.bnglobalventures.sbs/*
@@ -102896,6 +102900,7 @@
 *://*.eee-iadeeelerinizakdaahazir.com/*
 *://*.eee-iademerkezianindahazirrr.com/*
 *://*.eee-iademialbasvurum.com/*
+*://*.eeebebek.com/*
 *://*.eeedadns.com/*
 *://*.eeedevletiye.online/*
 *://*.eeeee--iadeeeelerimizburasiiiiii.com/*
@@ -104784,8 +104789,10 @@
 *://*.eklmkampanyasi.store/*
 *://*.eklmlndirmleri.store/*
 *://*.eklmozelflrsatlarr.com/*
+*://*.eklmtermosfirlrsatlri.com/*
 *://*.eklmtermosflrstaerlar.com/*
 *://*.eklmtermosflrstalri.com/*
+*://*.eklmtermosflrstalrl.com/*
 *://*.eklmurunlerl.store/*
 *://*.eklwml.top/*
 *://*.ekmaeastonas.net/*
@@ -105324,6 +105331,7 @@
 *://*.elektronikkutu.com/*
 *://*.elektronikmarket.site/*
 *://*.elektronikortam-odme.online/*
+*://*.elektroniksatinalim.online/*
 *://*.elektronikservisim.com.tr/*
 *://*.elektroniksigarakiti.com/*
 *://*.elektroniksigaralab.com/*
@@ -121770,6 +121778,7 @@
 *://*.frstlarmkcmzzziidrmdee.com/*
 *://*.frstlartukenmkuzere1o1.com/*
 *://*.frstlartukenmkuzere1o1.info/*
+*://*.frstlartuknyr1o1.xyz/*
 *://*.frstlklrdn-cpdnyrrlan.com/*
 *://*.frstlqr-burada.site/*
 *://*.frstlrburdatukenyr1o1.xyz/*
@@ -137677,6 +137686,8 @@
 *://*.haftasonunamutlugiria.online/*
 *://*.haftasonunamutlugiria.xyz/*
 *://*.haftasonunaozelefsokmpnyaonline.com/*
+*://*.haftasonunasokedicifirsatlar.online/*
+*://*.haftasonunasokedicifirsatlar.xyz/*
 *://*.haftasonundakampanyalardevamediyor.online/*
 *://*.haftasonundakampanyalardevamediyor.xyz/*
 *://*.haftasonungunundebuyukler.shop/*
@@ -182665,6 +182676,7 @@
 *://*.kgm-example.com/*
 *://*.kgm-gecis-ihlal-odemeleri.ml/*
 *://*.kgm-gecis-sorgu-com.tk/*
+*://*.kgm-gis.com/*
 *://*.kgm-gov-shop.top/*
 *://*.kgm-gov-tr.ink/*
 *://*.kgm-gov-tr.one/*
@@ -184570,6 +184582,7 @@
 *://*.kmpnyalarimizdevam.online/*
 *://*.kmpnyalarimm-bradaa-nline.com/*
 *://*.kmpnyalariniz.click/*
+*://*.kmpnyalartuknyr1o1.xyz/*
 *://*.kmpnyalrbitiyr1o1.xyz/*
 *://*.kmpnyalrmzlasn.net/*
 *://*.kmpnyambuaakdakrdm.top/*
@@ -186687,6 +186700,7 @@
 *://*.kredisorgullamahizmeetii28.net/*
 *://*.kredist-mpay.com.tr/*
 *://*.kredisube.com/*
+*://*.kredit-indirimlerim.online/*
 *://*.kredit-mpay.online/*
 *://*.kredit-online.site/*
 *://*.kreditak.com/*
@@ -272316,6 +272330,7 @@
 *://*.takipptt.help/*
 *://*.takiprank.online/*
 *://*.takips.fun/*
+*://*.takipsistemkargoyurt.com/*
 *://*.takipsistemlerikargo.com/*
 *://*.takipslem.shop/*
 *://*.takipsorg.xyz/*
@@ -324368,6 +324383,7 @@
 *://*.yolmazort.best/*
 *://*.yolodemeget.com/*
 *://*.yololive.sbs/*
+*://*.yoloyo.click/*
 *://*.yolsorgulamanoniz.click/*
 *://*.yoltalimat.com/*
 *://*.yolumdayin-hgsptt.com/*
