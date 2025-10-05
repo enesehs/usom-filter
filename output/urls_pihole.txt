@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-05 08:10:34 UTC
-# Toplam: 413125 Domain
+# Son Güncelleme: 2025-10-05 09:01:46 UTC
+# Toplam: 413132 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -343,6 +343,7 @@
 02214455522002.duckdns.org
 022202120212021.mywire.org
 02220333teamaccount.com
+0222154542200.duckdns.org
 02222120212021.online
 0222212522202.duckdns.org
 022222155222.duckdns.org
@@ -6552,6 +6553,7 @@
 1mgizo9gytusq14dh8gdxxnbt8.org
 1microsoft.hopto.org
 1millionhouse.com
+1milyon-konutbasvuruekrani.cfd
 1milyonshibakazan.org
 1minecrafthere.zapto.org
 1minutelifehack.com
@@ -76826,6 +76828,7 @@ bnglobal-basvuru.com
 bnglobal.xyz
 bnglobalfirsat.net
 bnglobaling.sbs
+bnglobalventures.sbs
 bnglobalvision.sbs
 bnglobalworks.sbs
 bnglobl-actn.com
@@ -132973,6 +132976,8 @@ eklmkampanyasi.store
 eklmlndirmleri.store
 eklmozelflrsatlarr.com
 eklmtermosflrsatlarl.duckdns.org
+eklmtermosflrstaerlar.com
+eklmtermosflrstalri.com
 eklmurunlerl.store
 eklsm.a0001.net
 eklwml.top
@@ -167175,6 +167180,7 @@ grntidefrstdnysi.com
 grntidghnprofpromosyon.net
 grntidogru.cloud
 grntidxsddsf.xyz
+grntiekmfrsat.vercel.app
 grntifanindabasvuru.xyz
 grntifirsat1948.com
 grntifirsatlari.online
@@ -180759,6 +180765,7 @@ hemenalkacindirimli.wuaze.com
 hemenalkacirmafirsati.com
 hemenalkapinda.shop
 hemenall-kurumsalgirisim.com
+hemenall.click
 hemenalmalisin.xyz
 hemenalmazsankacicakfirsatlar.xyz
 hemenalnisan.com.tr
