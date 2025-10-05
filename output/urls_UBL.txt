@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-05 19:01:54 UTC
-! Total: 329222 rules
+! Last modified: 2025-10-05 20:02:04 UTC
+! Total: 329228 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9906,6 +9906,7 @@
 *://*.5dx4t35d.ru/*
 *://*.5dytujb87gftrcfghjuytrgh999.com/*
 *://*.5edfw45saml237vm90sdl23k.xyz/*
+*://*.5ekim-firsatda.art/*
 *://*.5ekim-gunlukler.art/*
 *://*.5eptmarket.com/*
 *://*.5eylul-101kampanya.site/*
@@ -36613,6 +36614,7 @@
 *://*.axesbizim.click/*
 *://*.axesbonus.digital/*
 *://*.axesburda.click/*
+*://*.axesdijital.click/*
 *://*.axesegel.click/*
 *://*.axesevent.digital/*
 *://*.axesfirsat.com.tr/*
@@ -41307,6 +41309,7 @@
 *://*.basvuruistkart.xyz/*
 *://*.basvurujzdn.cfd/*
 *://*.basvurukabulekrani.com/*
+*://*.basvurukabulleri.com/*
 *://*.basvurukabulmerkezimms.net/*
 *://*.basvurukampanya-acikmobil.com/*
 *://*.basvurukampanya.online/*
@@ -58305,6 +58308,7 @@
 *://*.bnglobalfirsat.net/*
 *://*.bnglobaling.sbs/*
 *://*.bngloballink.sbs/*
+*://*.bnglobalmax.sbs/*
 *://*.bnglobalone.sbs/*
 *://*.bnglobalpartners.sbs/*
 *://*.bnglobalpower.sbs/*
@@ -104555,6 +104559,7 @@
 *://*.ekicirsdnevsstlemleri.net/*
 *://*.ekiimde-sasirtanlar.com.tr/*
 *://*.ekiimin-en-guzelii-burda.com/*
+*://*.ekim-ardasabahii.com/*
 *://*.ekim-ayi-boyunca-buradan-sorgulaveaktar.sbs/*
 *://*.ekim-ayi-destekleri-kararname.tk/*
 *://*.ekim-cumafrsti.com/*
@@ -104947,6 +104952,7 @@
 *://*.ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs/*
 *://*.ekrandan-sorgulamani-yap-eylul-ayi.cyou/*
 *://*.ekrandan-sorgulayiniz-bir-cok-islem.sbs/*
+*://*.ekrandan-sorgulayip-aktariniz-aktif.sbs/*
 *://*.ekrandansorgulaman-yapveaktariminiyap.cyou/*
 *://*.ekrani-yonlendirme-hizli.online/*
 *://*.ekrani.net/*
