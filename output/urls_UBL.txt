@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-05 11:01:40 UTC
-! Total: 329173 rules
+! Last modified: 2025-10-05 12:14:00 UTC
+! Total: 329176 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -145559,6 +145559,7 @@
 *://*.hepsaldikamnpnlari.online/*
 *://*.hepsenimenfew.net/*
 *://*.hepsenleoynayalim.xyz/*
+*://*.hepsevenler.cfd/*
 *://*.hepsi-birden-tr.com/*
 *://*.hepsi-box.shop/*
 *://*.hepsi-burada-20-yil-kampanya.com/*
@@ -150697,6 +150698,7 @@
 *://*.hizligecode.net/*
 *://*.hizligectimcaktim.net/*
 *://*.hizligecyukle.com/*
+*://*.hizligelsin.site/*
 *://*.hizligeriodemelerim.xyz/*
 *://*.hizligetalisveris.com.tr/*
 *://*.hizligidis.click/*
@@ -264247,6 +264249,7 @@
 *://*.sonunda-gelen-zamanlari-iyiden-iyiye-hep-beraber-gorecegiz.com/*
 *://*.sonunda-mutluluk-burada-seni-bulur.top/*
 *://*.sonundabukadariyigeldik.cfd/*
+*://*.sonundaburadakaldik.cfd/*
 *://*.sonundafrstladvmednn.com/*
 *://*.sonundan-ilerisinde-olanlarada-oluncalar-hakkina.cfd/*
 *://*.sonurunlerbitmekuzerekacirmadanal.xyz/*

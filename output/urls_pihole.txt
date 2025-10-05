@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-05 11:01:40 UTC
-# Toplam: 413141 Domain
+# Son Güncelleme: 2025-10-05 12:14:00 UTC
+# Toplam: 413145 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57582,6 +57582,7 @@ basvuruekrani.com
 basvuruekrani.online
 basvuruekrani.tech
 basvuruekrani.xyz
+basvuruekrani2025.blogdns.com
 basvuruekraniak.com
 basvuruekranifastonay.com
 basvuruekranigarant1.com
@@ -181668,6 +181669,7 @@ heprkd.buzz
 hepsaldikamnpnlari.online
 hepsenimenfew.net
 hepsenleoynayalim.xyz
+hepsevenler.cfd
 hepsi-birden-tr.com
 hepsi-box.shop
 hepsi-burada-20-yil-kampanya.com
@@ -222533,6 +222535,7 @@ kargotakibiniyap.net
 kargotakip-mng.web.app
 kargotakip-yurticikargo.com
 kargotakip.buzz
+kargotakip.hizligelsin.site
 kargotakip.hizliodeme.site
 kargotakip.icu
 kargotakip.name.tr
@@ -331713,6 +331716,7 @@ sonunda-gelen-zamanlari-iyice-hep-gorecegiz.com
 sonunda-gelen-zamanlari-iyiden-iyiye-hep-beraber-gorecegiz.com
 sonunda-mutluluk-burada-seni-bulur.top
 sonundabukadariyigeldik.cfd
+sonundaburadakaldik.cfd
 sonundafrstladvmednn.com
 sonundan-ilerisinde-olanlarada-oluncalar-hakkina.cfd
 sonurunlerbitmekuzerekacirmadanal.xyz
