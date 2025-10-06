@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-06 07:10:14 UTC
-! Total: 329247 rules
+! Last modified: 2025-10-06 08:12:59 UTC
+! Total: 329285 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29157,6 +29157,7 @@
 *://*.amq1mtkxmdqy.top/*
 *://*.amrennsrk.xyz/*
 *://*.amrican-sport-live-stream.cc/*
+*://*.amritsarglow.com/*
 *://*.amrklerim-frstlarim.com/*
 *://*.amrover.com/*
 *://*.amrp.tw/*
@@ -35327,6 +35328,7 @@
 *://*.aurmidh.pw/*
 *://*.aurora-fm.com/*
 *://*.auroragocoloforge.xyz/*
+*://*.auroralbion.com/*
 *://*.auroralume.net/*
 *://*.aurorapeak.online/*
 *://*.aurorasage.online/*
@@ -42377,6 +42379,7 @@
 *://*.baykar-fashion.ru/*
 *://*.baykar-fly.digital/*
 *://*.baykar-invest.com/*
+*://*.baykar-investmentopportunity.com/*
 *://*.baykar-news.info/*
 *://*.baykar-opt.com.ua/*
 *://*.baykar-teknolojiler.pro/*
@@ -42432,6 +42435,7 @@
 *://*.baykarkatilim.com/*
 *://*.baykarnews.com/*
 *://*.baykarnow.com/*
+*://*.baykarprime.com/*
 *://*.baykarprime.space/*
 *://*.baykarpro.com/*
 *://*.baykarproject.eu/*
@@ -58097,6 +58101,7 @@
 *://*.bncedebrdanalmalsnz.shop/*
 *://*.bnceduyurutr.com/*
 *://*.bncegirisdogrulamasi.com/*
+*://*.bnceglobalmarket.sbs/*
 *://*.bnceinstgrmkampan.com/*
 *://*.bncekcrmyndrmbufrs.shop/*
 *://*.bncekilisfirsatlarimobiltr.pro/*
@@ -58308,6 +58313,7 @@
 *://*.bnglobal-basvuru.com/*
 *://*.bnglobal.xyz/*
 *://*.bnglobalfirsat.net/*
+*://*.bnglobalfuture.sbs/*
 *://*.bnglobalinfo.sbs/*
 *://*.bnglobaling.sbs/*
 *://*.bngloballink.sbs/*
@@ -71805,6 +71811,7 @@
 *://*.clickplaycentral.top/*
 *://*.clickpulsehub.site/*
 *://*.clickpush.biz/*
+*://*.clickqpon.com/*
 *://*.clickrelia.com/*
 *://*.clickryze.com/*
 *://*.clicks-track.info/*
@@ -72842,6 +72849,7 @@
 *://*.cokbjgr.com/*
 *://*.cokbuyugum.cfd/*
 *://*.cokcabukucuzluk.cfd/*
+*://*.cokccdsyakindabiliyorsunuz.com/*
 *://*.cokcektikdumandumanduman.com/*
 *://*.cokcektin.online/*
 *://*.cokdegistimbenkizim.net/*
@@ -74290,6 +74298,7 @@
 *://*.confessionhound.top/*
 *://*.confessionpropagate.top/*
 *://*.confessshred.top/*
+*://*.conffidentsteps.com/*
 *://*.confhz.space/*
 *://*.confidebrood.top/*
 *://*.confidence-comment.com/*
@@ -104804,6 +104813,7 @@
 *://*.eklimitleriniz.net/*
 *://*.eklimozlflrsatlar.com/*
 *://*.ekllmflrsatlarl.com/*
+*://*.ekllmozellflrsatlar.com/*
 *://*.eklm-kampanyalari.com/*
 *://*.eklmaktuelkampanyalarl.store/*
 *://*.eklmalisverls.store/*
@@ -130187,6 +130197,7 @@
 *://*.glasxvip.cfd/*
 *://*.glatev.com/*
 *://*.glav-club.ru/*
+*://*.glaverstone.shop/*
 *://*.glavkpalace.ru/*
 *://*.glavpojdfde.com/*
 *://*.glawdfhow.com/*
@@ -140841,6 +140852,7 @@
 *://*.haloalbatro.com/*
 *://*.halocantermes.com/*
 *://*.haloflescantek.com/*
+*://*.halorise.site/*
 *://*.haloskilar.com/*
 *://*.halper.site/*
 *://*.halq-lade.com/*
@@ -154904,6 +154916,7 @@
 *://*.hurnis.ml/*
 *://*.hurran.net/*
 *://*.hurremsultatsk.tk/*
+*://*.hurremz.com/*
 *://*.hurricaneactivate.top/*
 *://*.hurricanecumulative.top/*
 *://*.hurricaneelaboration.top/*
@@ -166981,6 +166994,7 @@
 *://*.isbrs.com/*
 *://*.isbryselbasvrular.online/*
 *://*.isbsanfksfafigdisafkgdsmas.cfd/*
+*://*.isbsanfksfafigdisafkgdsmas.cyou/*
 *://*.isbsanfksfafigdisdgihfsd.cyou/*
 *://*.isbsanfksfafigdisdgihsagdcu.cyou/*
 *://*.isbsanfksfafigdisdgsafkgkdshf.cfd/*
@@ -177478,6 +177492,7 @@
 *://*.kampanyaetkinlik-bn.net/*
 *://*.kampanyaetkinlik-ramazan.net/*
 *://*.kampanyaevent.net/*
+*://*.kampanyafaizleri.life/*
 *://*.kampanyafamilia.net.tr/*
 *://*.kampanyafamilia.org.tr/*
 *://*.kampanyafestivali.online/*
@@ -182721,6 +182736,7 @@
 *://*.kgm-gov-tr.one/*
 *://*.kgm-gov-tr.top/*
 *://*.kgm-gov.blog/*
+*://*.kgm-gov.club/*
 *://*.kgm-gov.co/*
 *://*.kgm-gov.com/*
 *://*.kgm-gov.cyou/*
@@ -186863,6 +186879,7 @@
 *://*.kriptoparaveblokzinciryatirimrehberi.xyz/*
 *://*.kriptoparayatirimvesanalpazar.xyz/*
 *://*.kriptoparibu.com/*
+*://*.kriptoplus.online/*
 *://*.kriptoradar.online/*
 *://*.kriptotakip.site/*
 *://*.kriptotransferyapkazan.xyz/*
@@ -190882,6 +190899,7 @@
 *://*.lirayukleme.com/*
 *://*.lirayuklemenoktasi.com/*
 *://*.lirayuklet.com/*
+*://*.lirshine.com/*
 *://*.lisakazan.site/*
 *://*.lisaleung.shop/*
 *://*.lisans.cloud/*
@@ -192763,6 +192781,7 @@
 *://*.lumdukekiy.shop/*
 *://*.lumenarix.pro/*
 *://*.lumentsawfu.ru/*
+*://*.lumetrail.site/*
 *://*.lumewave.online/*
 *://*.lumeway.site/*
 *://*.lumfennzonmir.com/*
@@ -196079,6 +196098,7 @@
 *://*.marperplexity.top/*
 *://*.marpttket.xyz/*
 *://*.marquery.top/*
+*://*.marquiven.shop/*
 *://*.marriageomit.top/*
 *://*.marriagetuition.top/*
 *://*.marrklkkelllekke.com/*
@@ -196758,6 +196778,7 @@
 *://*.mavsbdaaas.tk/*
 *://*.mavsmmmsd.tk/*
 *://*.mavviia.com/*
+*://*.mavvrik.tr/*
 *://*.mavvssmmmgz.tk/*
 *://*.mavvviiindriimmsepe-timmm.com/*
 *://*.mawa2ef.com/*
@@ -196830,6 +196851,7 @@
 *://*.maximiseoath.top/*
 *://*.maximitment.top/*
 *://*.maximizeallotment.top/*
+*://*.maximizesell.com/*
 *://*.maximizewharf.top/*
 *://*.maximkardesler.com.tr/*
 *://*.maximkardesler.xyz/*
@@ -209177,6 +209199,7 @@
 *://*.nermesher.com/*
 *://*.nerminayda.buzz/*
 *://*.nermmslmmsk.net/*
+*://*.nermount.com/*
 *://*.nermtenvieerf.net/*
 *://*.nernerni.click/*
 *://*.neroarte.com/*
@@ -210937,6 +210960,7 @@
 *://*.niwchumz.com/*
 *://*.niwooj.org/*
 *://*.nixakri.com/*
+*://*.nixanta.com/*
 *://*.nixhaixianganmadaoshi.top/*
 *://*.nixofei.homes/*
 *://*.nixorteze.store/*
@@ -215718,6 +215742,7 @@
 *://*.oj-pttgov.top/*
 *://*.oj8.eu/*
 *://*.ojcfkfjsmm.net/*
+*://*.ojczenasz.org/*
 *://*.ojdlm.com/*
 *://*.ojdrttxcygamvljt.com/*
 *://*.ojhggnfbcy62.com/*
@@ -220580,6 +220605,7 @@
 *://*.oortaktrafik.tk/*
 *://*.oortech.com/*
 *://*.oossafe.com/*
+*://*.ootybloom.com/*
 *://*.oouycandcvbe.net/*
 *://*.oovrz52z140.ru/*
 *://*.oowdameqgncatln.su/*
@@ -221016,6 +221042,7 @@
 *://*.orbitalpulse.online/*
 *://*.orbitalreherse.top/*
 *://*.orbitalunderlie.top/*
+*://*.orbitaran.com/*
 *://*.orbiter.pm/*
 *://*.orbitercodistancethe.com/*
 *://*.orbitforge.space/*
@@ -228987,6 +229014,7 @@
 *://*.pazartesi-aksamfirsati.com/*
 *://*.pazartesi-bugunonlineyiz.com/*
 *://*.pazartesi-cesmetatil.com/*
+*://*.pazartesi-ekimsabahic.com/*
 *://*.pazartesi-firsatayi.com/*
 *://*.pazartesi-firstindirim.com/*
 *://*.pazartesi-indirim.com/*
@@ -231624,6 +231652,7 @@
 *://*.polarevoke.top/*
 *://*.polarinvincible.top/*
 *://*.polaris-bios-editor.ru/*
+*://*.polarisan.com/*
 *://*.polarispulse.online/*
 *://*.polarnimbus.space/*
 *://*.polarpeace.top/*
@@ -241665,6 +241694,7 @@
 *://*.rajjenu.cn/*
 *://*.rajkotbusiness.in/*
 *://*.rajsima87.com/*
+*://*.rajstopy.net/*
 *://*.rak-lis.com/*
 *://*.rak4usupp0901234.tk/*
 *://*.rak4usupp0901234567890.tk/*
@@ -263208,6 +263238,7 @@
 *://*.sokyilbasiozel.com/*
 *://*.sokyzfirsatlarikacirma.xyz/*
 *://*.sokzincirmarketler.com/*
+*://*.solaraixcs.com/*
 *://*.solarbayz.com/*
 *://*.solarcitythat.click/*
 *://*.solarcomplexion.top/*
@@ -276816,6 +276847,7 @@
 *://*.templeautonomous.top/*
 *://*.templecreative.store/*
 *://*.templepesticide.top/*
+*://*.templespire.com/*
 *://*.templevo.com/*
 *://*.tempobelt271.com/*
 *://*.tempobet2300.com/*
@@ -279614,6 +279646,7 @@
 *://*.tobaccosafe.xyz/*
 *://*.tobacobim.net/*
 *://*.tobanu.com/*
+*://*.tobnewz.com/*
 *://*.tobubbvafi.tk/*
 *://*.tobupmi.com/*
 *://*.tocalrenhen.com/*
@@ -297144,6 +297177,7 @@
 *://*.vaqi.org/*
 *://*.var-tr.net.tr/*
 *://*.var-tr.net/*
+*://*.varanasidepth.com/*
 *://*.varasye.xyz/*
 *://*.varavas.net/*
 *://*.varaxe.info/*
@@ -297201,6 +297235,7 @@
 *://*.vartopolicetayiokeg.store/*
 *://*.vartr.com.tr/*
 *://*.varumuzyogumu.xyz/*
+*://*.varunaflow.com/*
 *://*.varvaraisishyehek.club/*
 *://*.varyeldokeppedlereodledvaberozleopsedfafasednaydes.com/*
 *://*.varypeople.top/*
@@ -299081,6 +299116,7 @@
 *://*.versionlist.top/*
 *://*.versionsenginen.ru/*
 *://*.versionwind.xyz/*
+*://*.versiparisinigelsin.click/*
 *://*.versist.site/*
 *://*.verslerjjjode.net/*
 *://*.verslersmersodm.net/*
@@ -299245,6 +299281,7 @@
 *://*.vextradolin.store/*
 *://*.veyarexcarsfilo.com/*
 *://*.veygzqdl.com/*
+*://*.veykstar.com/*
 *://*.veynstoun.com/*
 *://*.veyrouna.com/*
 *://*.veyselgeliyorumdiyarbakir.tk/*
@@ -305668,6 +305705,7 @@
 *://*.wishdegenerate.cn/*
 *://*.wishdistil.cn/*
 *://*.wishfrantically.top/*
+*://*.wishgrumble.com/*
 *://*.wishnwish.com/*
 *://*.wishsends.mobi/*
 *://*.wishwoodenfish.com/*
