@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-06 21:01:48 UTC
-! Total: 329445 rules
+! Last modified: 2025-10-06 22:08:06 UTC
+! Total: 329457 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5001,6 +5001,7 @@
 *://*.2001557358356122.com/*
 *://*.200182.cloud/*
 *://*.2009124.cloud/*
+*://*.200binkonutbasvurusu.com/*
 *://*.200grntibva.com/*
 *://*.2010-george-boring.com/*
 *://*.201000liradestekpaketi-indir.com/*
@@ -40499,6 +40500,7 @@
 *://*.basvurnms.com.tr/*
 *://*.basvurnms.cyou/*
 *://*.basvurnms.xyz/*
+*://*.basvurnmx.xyz/*
 *://*.basvurnmz.com.tr/*
 *://*.basvurnmz.cyou/*
 *://*.basvurnmz.xyz/*
@@ -41806,6 +41808,7 @@
 *://*.basvurunuzhemen.xyz/*
 *://*.basvurunuzkontrol.net/*
 *://*.basvurunuzmerkes.link/*
+*://*.basvurunuztokionlne.click/*
 *://*.basvurunuztr-girisler.online/*
 *://*.basvurunuztrbnncrs.online/*
 *://*.basvurunuzunhazir.com/*
@@ -58130,6 +58133,7 @@
 *://*.bnceglobalhub.sbs/*
 *://*.bnceglobalmarket.sbs/*
 *://*.bnceglobalnet.sbs/*
+*://*.bnceglobalservices.sbs/*
 *://*.bnceglobalsolutions.sbs/*
 *://*.bnceglobaltech.sbs/*
 *://*.bnceglobaltrade.sbs/*
@@ -88170,6 +88174,7 @@
 *://*.dijitalgiris-ziraatkampanyamobil.com/*
 *://*.dijitalgiris-ziraatkampanyaweb.com/*
 *://*.dijitalgiris-ziraatmobil.com/*
+*://*.dijitalgiris-ziraatmobilkampanya.com/*
 *://*.dijitalgiris-ziraatmobilweb.com/*
 *://*.dijitalgiris-ziraatweb.com/*
 *://*.dijitalgirisadresi-denizacik.com/*
@@ -104872,6 +104877,7 @@
 *://*.eklmozelflrsatlarr.com/*
 *://*.eklmozelflrsattin.com/*
 *://*.eklmozellflrsatllar.com/*
+*://*.eklmozlcsadfas.com/*
 *://*.eklmtermosfirlrsatlri.com/*
 *://*.eklmtermosflrstaerlar.com/*
 *://*.eklmtermosflrstalri.com/*
@@ -137079,12 +137085,14 @@
 *://*.haberleriniz21.site/*
 *://*.haberleriniz21.website/*
 *://*.haberlerisimdioku.sbs/*
+*://*.haberleriyiraksds.com/*
 *://*.haberlers.site/*
 *://*.haberlersende.site/*
 *://*.haberlersonline.site/*
 *://*.haberleryeni.club/*
 *://*.haberleryeni.site/*
 *://*.haberleryeni.xyz/*
+*://*.haberlesdassdasda.com/*
 *://*.haberlistesi.online/*
 *://*.haberliyiz.xyz/*
 *://*.haberlog.club/*
@@ -169626,6 +169634,7 @@
 *://*.istnbn.net/*
 *://*.istnbnbmrs.net/*
 *://*.istnbnm.net/*
+*://*.istnbsusunaal.com/*
 *://*.istnbtkrxtt.net/*
 *://*.istnbuklllcannn.net/*
 *://*.istnbul-tatar.net/*
@@ -237965,6 +237974,7 @@
 *://*.pttkl.ink/*
 *://*.pttklnhmsnde.net/*
 *://*.pttkm.shop/*
+*://*.pttkmaksz.com/*
 *://*.pttkmaraba.com/*
 *://*.pttkmsorgualmzn.com/*
 *://*.pttkmsorgula.shop/*
@@ -263521,6 +263531,7 @@
 *://*.somallc.com/*
 *://*.somaplast.cf/*
 *://*.somaplast.ga/*
+*://*.somarket.org.tr/*
 *://*.somarketonline.biz.tr/*
 *://*.somarketonline.info.tr/*
 *://*.somarketonline.net.tr/*
@@ -282177,6 +282188,7 @@
 *://*.tr-sitekattalogu.org/*
 *://*.tr-sok-magazalari.com.tr/*
 *://*.tr-sok.com.tr/*
+*://*.tr-sok.info.tr/*
 *://*.tr-sok.org.tr/*
 *://*.tr-sokmarket.com.tr/*
 *://*.tr-sokmarket.net.tr/*
