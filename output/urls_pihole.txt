@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-06 05:09:29 UTC
-# Toplam: 413228 Domain
+# Son Güncelleme: 2025-10-06 06:14:04 UTC
+# Toplam: 413235 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39498,6 +39498,7 @@ aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarialdinaldin.online
 aldinaldinfirsatlarialdinaldin.xyz
+aldinaldinfirsatlaribitmedibizde.online
 aldinaldinfirsatlaribitmedibizde.xyz
 aldinaldinfirsatlaricingirisyeri.lat
 aldinaldinfirsatlaricingirisyeri.sbs
@@ -39800,6 +39801,7 @@ aldnaldnmayisfirsati.online
 aldnaldnnfirssxtllri-szllerleyni.net
 aldnaldnpzrts.store
 aldnaldnsadecesabahaozei.dyndns.org
+aldnbuseferkazan.blogdns.org
 aldnfirsatindadahaiyisi.blogdns.org
 aldnfrlsatlariyaa1o1.duckdns.org
 aldngeliadi.art
@@ -133173,6 +133175,7 @@ ekrandansorgulaman-yapveaktariminiyap.cyou
 ekrani-yonlendirme-hizli.online
 ekrani.net
 ekranii.net
+ekraninizdan-kontrol-ve-sorgu-saglayin.sbs
 ekranlar-try.online
 ekranlar-web-tr.shop
 ekranmerkez-tr-web.space
@@ -176826,6 +176829,7 @@ harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
 harcaharcakeredmiyerisi.cfd
+harcaharcarbitemzkampanyasiburada.online
 harcaharcarbitemzkampanyasiburada.xyz
 harcaharcaredmialimlariburada.cfd
 harcaharcaredmialimlariburada.sbs
@@ -207124,6 +207128,7 @@ iscep-kasimayi-cekilis.gq
 iscep-kasimayi-sonfirsat.ga
 iscep-kasimayi-songun.ml
 iscep-krediononayla.com
+iscep-login.vercel.app
 iscep-maximum-basvuru.cf
 iscep-maximum-giris.cf
 iscep-maximum-kampanya.ga
@@ -220167,6 +220172,7 @@ kampanyalardabugun.ct.ws
 kampanyalardabugunlerde.cfd
 kampanyalardabugunlerde.sbs
 kampanyalardabugunlerfalanfiann.online
+kampanyalardabugunlerfalanfiann.xyz
 kampanyalardabuhafatalardasongun.cfd
 kampanyalardabuhafatalardasongun.sbs
 kampanyalardaburadaburayabak.cfd
@@ -261199,6 +261205,7 @@ netsigortam.site
 netsigortan.site
 netsiqortan.com.tr
 netsolcomputers.in
+netstandart.xyz
 netstaticpoints.com
 netstaticsinformation.com
 netsube-halkbank.com
