@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-06 14:09:10 UTC
-# Toplam: 413391 Domain
+# Son Güncelleme: 2025-10-06 15:09:19 UTC
+# Toplam: 413407 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6300,6 +6300,7 @@
 1eilqq7b.duckdns.org
 1ej1vuv5k.duckdns.org
 1ejuuzi1d.duckdns.org
+1ekimdeshizlisiparis.cloud
 1ekimdesiparisleirnden.cloud
 1ekimdesiparislerinden.cloud
 1ekimsiparislerinden.cloud
@@ -9251,6 +9252,7 @@
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoplukonut.com
 250bintoplukonut.xyz
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
@@ -33313,6 +33315,7 @@ aidat2024.space
 aidat701.vercel.app
 aidatafturkiye.ml
 aidatai-kkredi-iadem.com
+aidataidae.cyberpath.cfd
 aidataidat.com
 aidataideetsimdisorgulaa.com
 aidataidelerimiz.com
@@ -57842,6 +57845,7 @@ basvurukanalin.lat
 basvurukapisi-form-tr.org
 basvurukapisi.com
 basvurukaraoglu.org
+basvurukarsilama.com
 basvurukartiade.org
 basvurukartiademerkezi.com
 basvurukasim12.duckdns.org
@@ -76681,6 +76685,7 @@ bncmbasvuru-tr.com
 bncmduyurutr.com
 bncmesektifgirisler.com
 bncmncacx.b-cdn.net
+bncmobiltr2.duckdns.org
 bncmxnskfyben.net
 bncndn.joxe-network.click
 bncnduyurutr.com
@@ -133011,6 +133016,7 @@ ekimozelmarket.xyz
 ekimsonu-surprizleri2018.com
 ekimsurprizleridevamediyor1.com
 ekimtermosfrslatrl.com
+ekimtermosfrslsatiari.duckdns.org
 ekimurunlerionlineozelurun.com
 ekimurunlerionlineozelurunlerimiz.com
 ekimvakifkrdinizy.xyz
@@ -176882,6 +176888,7 @@ harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
 harcaharcakeredmiyerisi.cfd
+harcaharcarbitemzkampanyasiburada.com.tr
 harcaharcarbitemzkampanyasiburada.online
 harcaharcarbitemzkampanyasiburada.xyz
 harcaharcaredmialimlariburada.cfd
@@ -231229,6 +231236,7 @@ kredinmobilde.cf
 kredinmobilde.gq
 kredinmobill.tk
 kredinngaranti.com
+kredinonayli.sbs
 kredinotsorgu.site
 kredinotsorgulama.com
 kredinziraatten.xyz
@@ -231659,6 +231667,7 @@ ksahosting.net
 ksaicynm.com
 ksajnahqa.com
 ksakjdkf.com.tr
+ksalotmrlk4.duckdns.org
 ksamtarihi.com
 ksaremdfngl.net
 ksarg.hopto.org
@@ -237603,6 +237612,7 @@ lnternet-vergidairesi.com
 lnternet-vergldairesi.com
 lnternetvergicezadairesi.com
 lnternetvergldairesi.com
+lntltnltnlntltnlll.net
 lntrvergdmee.net
 lnuor.com
 lnv3b68.xdk8ax.cn
@@ -239123,6 +239133,7 @@ ltltttrmbllonllineislllemmenugiris.net
 ltmblncetra.info
 ltmblncetrap.xyz
 ltmccor.duckdns.org
+ltmkklaslastk4l.duckdns.org
 ltmp.nonflets.pl
 ltnbpy.com
 ltnnowlc.com
@@ -256495,6 +256506,7 @@ muayenehizmetleri.xyz
 muayenehizmetlerisizlerle.net
 muayeneislemler.tech
 muayeneislemmerkezi.com
+muayeneistasyonu.xyz
 muayeneistiyasyonu.blogspot.com
 muayenekapindayiz.net
 muayenekayit.com
@@ -285230,6 +285242,7 @@ pazartesi-firsatayi.com
 pazartesi-firstindirim.com
 pazartesi-indirim.com
 pazartesi-indrmfirsati.com
+pazartesi-mekodlasfirs.com
 pazartesi-onlineislem74.com
 pazartesi-onlinesiparis.com
 pazartesi-onlnefirst.com
@@ -310104,6 +310117,7 @@ sadeceonlnkamp.duckdns.org
 sadeceonlnsdfirsatlarsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlscffstrcv.blogspot.com
+sadeceonlscffstrcvgfcz.blogspot.com
 sadeceonlyandaalisvers.blogdns.org
 sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
@@ -310112,6 +310126,7 @@ sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
 sadecepera.fun
 sadecesanaozelindirimler.com
+sadecesaonlirfsatlarozel.blogdns.org
 sadecesen.online
 sadecesevilenkampanyalar.com.tr
 sadecesevilenkampanyalar.online
@@ -350938,6 +350953,7 @@ tokibasvurum.online
 tokibasvurumerkez.store
 tokibasvurumm.net
 tokibasvurunuz.click
+tokibasvurunuzonline.click
 tokibasvuruonline.com
 tokibasvurusorgu.tk
 tokibasvurusu.online
