@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-06 04:10:38 UTC
-# Toplam: 413226 Domain
+# Son Güncelleme: 2025-10-06 05:09:29 UTC
+# Toplam: 413228 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39498,6 +39498,7 @@ aldinaldinfirsatlari.xyz
 aldinaldinfirsatlari30mayis.com
 aldinaldinfirsatlarialdinaldin.online
 aldinaldinfirsatlarialdinaldin.xyz
+aldinaldinfirsatlaribitmedibizde.xyz
 aldinaldinfirsatlaricingirisyeri.lat
 aldinaldinfirsatlaricingirisyeri.sbs
 aldinaldinfirsatlaricingirisyeriburasi.cfd
@@ -176825,6 +176826,7 @@ harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
 harcaharcakeredmiyerisi.cfd
+harcaharcarbitemzkampanyasiburada.xyz
 harcaharcaredmialimlariburada.cfd
 harcaharcaredmialimlariburada.sbs
 harcaharcaredmigirdekleriburada.cfd
