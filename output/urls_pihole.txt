@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-06 08:12:59 UTC
-# Toplam: 413281 Domain
+# Son Güncelleme: 2025-10-06 09:11:48 UTC
+# Toplam: 413300 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14179,6 +14179,7 @@
 500binkonutprojesibasvuruekrani.com
 500binsosyalkonutbasvuru.org
 500bintokikonutlaribasvuruekrani.com
+500bintoplukonut.com
 500bnanceusdt.com
 500bnb-tr2022bnbmobilgiris.com
 500bnb-tr2022bnbmobilgiris.xyz
@@ -76617,7 +76618,12 @@ bncebasvurutr.com
 bncedebrdanalmalsnz.shop
 bnceduyurutr.com
 bncegirisdogrulamasi.com
+bnceglobalbiz.sbs
+bnceglobalglobal.sbs
+bnceglobalhub.sbs
 bnceglobalmarket.sbs
+bnceglobaltech.sbs
+bnceglobaltrade.sbs
 bnceinstgrmkampan.com
 bncekcrmyndrmbufrs.shop
 bncekilisfirsatlarimobiltr.pro
@@ -77331,6 +77337,7 @@ bnrctrgrisler.com.tr
 bnrcyilbasi.online
 bnre.my-style.in
 bnredirect.com
+bnredirectbnc.com
 bnredirectttr.com
 bnredirekt.com
 bnredirextt.com
@@ -148531,6 +148538,7 @@ firsat.aldinaldinonline.com.tr
 firsat.arabakampanyalikiralama.com.tr
 firsat.coklualisverisonline.gen.tr
 firsat.denizbank.com.tr.xn--dijitlsubm-7gb4t.com
+firsat.e-bebek.store
 firsat.eeebebek.com
 firsat.enyenifirsaturunu.com.tr
 firsat.hemenkiralikaraban.com.tr
@@ -179444,6 +179452,7 @@ hearkesdasdasdecvgas.duckdns.org
 hearkesfarleasdresdad.duckdns.org
 hearkesfearlescanis.duckdns.org
 hearleresfearlesdcinosadss.duckdns.org
+hearlescanimbensasd.click
 hearlesfaerlesadasd.com
 hearlesfarlesevovigo.click
 hearleskeferanslsbans.duckdns.org
@@ -199091,7 +199100,9 @@ ilkdeneme.online
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
+ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
+ilkevim250binbasvurusu.com
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimdanismanlik.com
 ilkevimkonutbasvuru.com
@@ -211760,6 +211771,7 @@ iyivatantas.com
 iyiyeisaret.online
 iyiyol.online
 iyiyollar.online
+iyiyonlendir.click
 iyj8u4wp.duckdns.org
 iykjci1.duckdns.org
 iykyhzrnkrt.net
@@ -221021,6 +221033,7 @@ kampayadafirsatlar.click
 kampayadafirsatlar.pics
 kampayadafirsatlar.sbs
 kampayagunlri.store
+kampayalarsizinlee.com
 kampayandanklama.xyz
 kampayayakatilavantajlicik.info
 kampayayakatilavantajlicik.one
@@ -243769,6 +243782,7 @@ market.persembeagustoshye.com
 market.persembeguzelgun.com
 market.plusmarketim.click
 market.plusmarketin.com
+market.sabah-onlinefirstmekim.com
 market.saliagustos763.com
 market.vaktindirim.com
 market.zafocla-pazaradogru-ekim25.com
@@ -296108,6 +296122,7 @@ pttonlinevezne-hgs-avm-giris-55542.com
 pttonlineworkingshop.com
 pttop.ink
 pttopggov.site
+pttoslamz.com
 pttotcep.xyz
 pttoti.top
 pttoutlet.online
@@ -309620,6 +309635,7 @@ saaw.zapto.org
 sabah-cumartesii.com
 sabah-haber.club
 sabah-online-haber-ajans.org
+sabah-onlinefirstmekim.com
 sabaha.app
 sabahahcc.com
 sabahahqrq.com
@@ -327671,6 +327687,7 @@ sizinle-gelen-ozel-gunler.com
 sizinle-gelene-kadar-herseyi-yapariz.com
 sizinle-hep-beraberiz.shop
 sizinle-hep-guclu-beraberiz.shop
+sizinle-hersey-daha-guzel-ekimayi.sbs
 sizinle-herzaman-2024.xyz
 sizinle-herzaman.xyz
 sizinle-herzamannn-birlikteyiz.com
@@ -330550,6 +330567,7 @@ sokmrktcpteindrm.com
 sokmrktindrmgnlri.com
 sokmrktindrmlrcptfrst.com
 sokmrktlrcpteindirim.online
+sokmrktnnzyaninda.xyz
 soknisanfirsatlari.com.tr
 sokolhemenfirsat.com
 sokoltech.ir
@@ -359085,6 +359103,7 @@ tumhatlardagecerli-hediyeinternet.com
 tumhersey.name.tr
 tumile-indir.online
 tumile.app
+tumindirimlerburadak.click
 tuminsaat.com
 tumioutlets.com
 tumislemleronline.net
