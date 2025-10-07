@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-07 09:10:06 UTC
-# Toplam: 413600 Domain
+# Son Güncelleme: 2025-10-07 10:09:33 UTC
+# Toplam: 413608 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -56895,6 +56895,7 @@ basvurnmr.xyz
 basvurnms.com.tr
 basvurnms.cyou
 basvurnms.xyz
+basvurnmx.com.tr
 basvurnmx.xyz
 basvurnmz.com.tr
 basvurnmz.cyou
@@ -113646,6 +113647,7 @@ dijitalbasvuru-ziraatbireysel.com
 dijitalbasvuru-ziraatbireyselgiris.com
 dijitalbasvuru-ziraatbireyselgiris.vip
 dijitalbasvuru-ziraatkampanyamobil.com
+dijitalbasvuru.sbs
 dijitalbasvuru.ziraatmobilweb.com
 dijitalbasvurudeniz.xyz
 dijitalbasvurudenizbankgiris.co.vu
@@ -114421,6 +114423,7 @@ dikilisubelerindeindirim.com.tr
 dikilisubelerindeindirim.online
 dikilisubelerindeindirim.xyz
 dikilisubelerindekampanya.online
+dikimiyiyin.cfd
 dikismakinesifirsativergisiz.icu
 dikizcil.org
 dikkatliolun.com.tr
@@ -161726,6 +161729,7 @@ gezegencaddesi.com
 gezegendunyasi.com
 gezegenmars.ml
 gezetif.com
+gezgelsendegorsen.sbs
 gezgincafe.com
 gezgincocuklarveakildunyasi.xyz
 gezginfm.com
@@ -164548,6 +164552,7 @@ glrfprronrkcgl.info
 glrktkdnskcks.duckdns.org
 glrlsyap.duckdns.org
 glrlsyonlendirme-akt-if.apps.dj
+glrnltstkjasdz.ddns.net
 glrsmdserdne.net
 glrsoqxugyoihya.cn
 glrxpf.cn
@@ -239565,6 +239570,7 @@ lunarbirchfold.site
 lunarcrest.spcae
 lunardaddy.dnss.net
 lunardenunciation.top
+lunarisyazilimweb.sbs
 lunarsirinshift.xyz
 lunatect.freemyip.com
 lunbhothling.duckdns.org
@@ -346093,6 +346099,7 @@ tekrarglobalbasvurusizeozelkampanya.site
 tekrarkazanmakicinmobildebasvur.online
 tekrarsizinlemutlu.com
 tekrkekfegh.com
+teksansinvardi.cfd
 tekscarkiralama.com
 teksefer.tech
 tekseferdehepsinigotur.top
@@ -386276,6 +386283,7 @@ wvwptt-avm.com
 wvwpttavm-secure.com
 wvwpttavm-securem.com
 wvwpttavm-securen.com
+wvwpttavm-securess.com
 wvwpttavm.com
 wvwqnbfinans.click
 wvwramazanozeletkinlik.com
