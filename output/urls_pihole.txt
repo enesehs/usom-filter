@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-07 21:01:49 UTC
-# Toplam: 413759 Domain
+# Son Güncelleme: 2025-10-07 22:08:14 UTC
+# Toplam: 413764 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10615,6 +10615,7 @@
 2zvh4tqw.duckdns.org
 2zzrogr.duckdns.org
 3-2-9-7-6-2.com
+3-3-3-33-3-333-33-333333321.sbs
 3-4-53-676-7a5-6a4c5i3.blogspot.com
 3-77-235-143.plesk.page
 3-bayistrpanel.com
@@ -83276,6 +83277,7 @@ bursa-online.com.tr
 bursabitkisel.com
 bursabvmclk.net
 bursadanilan.com
+bursadasnakaalarsan.cfd
 bursadasnakaalarsan.sbs
 bursaesc.ct.ws
 bursahaseredomgasilaclama.site
@@ -225367,6 +225369,7 @@ kendtkart.net
 kendtkrt.net
 kene3210.ddns.net
 kenekem.net
+kenevizz.sorgu-api.xo.je
 kenftvkart.com
 kenfvtikartt.net
 kengeorge.zapto.org
@@ -319993,6 +319996,7 @@ senaclient.ddns.net
 senafreecs.ddns.net
 senaidatiadenial.net
 senaidatiadenial2023.app
+senaldinbizi.sbs
 senalmazsankimalacak101.co
 senaoqueimarhumild.ddns.net
 senaryolarim.com
@@ -359053,6 +359057,7 @@ ttaseassseae.fit
 ttaswnddd2m.com
 ttattislemenuugiriss.com
 ttaypqursk.duckdns.org
+ttbankasi.com
 ttbbmmuygulama.blogspot.com
 ttbdigitalsolutions.com
 ttbnddestek-tr.com
