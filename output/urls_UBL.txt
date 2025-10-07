@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-07 07:10:04 UTC
-! Total: 329463 rules
+! Last modified: 2025-10-07 08:13:21 UTC
+! Total: 329479 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11513,6 +11513,7 @@
 *://*.81926-coinbase.com/*
 *://*.81958-coinbase.com/*
 *://*.81ieneee.com/*
+*://*.81ilbasburularkonut.xyz/*
 *://*.81ilzamanigeldi.org/*
 *://*.81rc4uw1b4roh99dmn.cf/*
 *://*.81sehirden.com/*
@@ -58129,6 +58130,8 @@
 *://*.bnceduyurutr.com/*
 *://*.bncegirisdogrulamasi.com/*
 *://*.bnceglobalbiz.sbs/*
+*://*.bnceglobalconsulting.sbs/*
+*://*.bnceglobalcorp.sbs/*
 *://*.bnceglobalglobal.sbs/*
 *://*.bnceglobalhub.sbs/*
 *://*.bnceglobalmarket.sbs/*
@@ -78872,6 +78875,7 @@
 *://*.datasyncra.site/*
 *://*.datatitan.sbs/*
 *://*.datatkr.info/*
+*://*.datatrix.info/*
 *://*.dataupdates.live/*
 *://*.dataupload.store/*
 *://*.datavibe.sbs/*
@@ -98886,6 +98890,8 @@
 *://*.easyquizmexdd.me/*
 *://*.easyreciprocal.top/*
 *://*.easyreplica.com/*
+*://*.easyseepet.click/*
+*://*.easyseepetin.click/*
 *://*.easysepet.click/*
 *://*.easysepetin.click/*
 *://*.easysiparis.click/*
@@ -104929,6 +104935,7 @@
 *://*.ekonomi2024-try-login.xyz/*
 *://*.ekonomidestekhibesi.com/*
 *://*.ekonomidunyasi.best/*
+*://*.ekonomiduyuru.click/*
 *://*.ekonomigelisimturkiye.site/*
 *://*.ekonomigundem.best/*
 *://*.ekonomigundem.co/*
@@ -112818,6 +112825,7 @@
 *://*.evvdensiteendesinevlilik.com.tr/*
 *://*.evvdensitendesinevlilik.com.tr/*
 *://*.evvdepaketleyapipkazan.gq/*
+*://*.evvermantix.com/*
 *://*.evvlilikbasvuru.site/*
 *://*.evvlilikkrasindeesn.com.tr/*
 *://*.evvlilikkrasindesn.com.tr/*
@@ -128018,6 +128026,7 @@
 *://*.get-sahibindenparamlaguvendecomtr.tk/*
 *://*.get-sahibindenparamlaguvndecomtr.tk/*
 *://*.get-sahibindenticaret.com/*
+*://*.get-sahibndenguvende.com/*
 *://*.get-sahibndenparamguvende.tk/*
 *://*.get-sahlbinden.com.tr/*
 *://*.get-sahlblnden-para-gvnde.org/*
@@ -138587,6 +138596,7 @@
 *://*.halbkonline.com/*
 *://*.halbnkr.site/*
 *://*.halcasigorta.net/*
+*://*.haldmbiti.sbs/*
 *://*.halecepfsadg.xyz/*
 *://*.halecicek.com/*
 *://*.halemarketim.com/*
@@ -171050,6 +171060,7 @@
 *://*.iyikidogdunhalk.com/*
 *://*.iyikligunler.com/*
 *://*.iyikupon.com/*
+*://*.iyilercennetegitsin.com/*
 *://*.iyilerguzeldir.com/*
 *://*.iyilerineniyisisimdibasvurularin.net/*
 *://*.iyiliikk.org/*
@@ -183183,6 +183194,7 @@
 *://*.kilhgss.com/*
 *://*.kiliclarotokurtarici.com/*
 *://*.kiligob.site/*
+*://*.kilimanjaroway.com/*
 *://*.kilimcinursia2.com/*
 *://*.kilimcinursia3.com/*
 *://*.kilimcinursia4.com/*
@@ -231922,6 +231934,7 @@
 *://*.pomuduyakile.site/*
 *://*.pomundayes.ga/*
 *://*.pona1o1.net/*
+*://*.ponamtero.shop/*
 *://*.ponciks.com/*
 *://*.pondernotebook.com/*
 *://*.ponderpredominate.top/*
@@ -298206,6 +298219,7 @@
 *://*.velicevher.xyz/*
 *://*.velingkome.de/*
 *://*.velinizkim72.xyz/*
+*://*.velinoleyva.org/*
 *://*.velisdaerfdsfas.site/*
 *://*.velivearthur.xyz/*
 *://*.velixxxop.com.tr/*
@@ -305024,6 +305038,7 @@
 *://*.wellfocus-proneckle.site/*
 *://*.wellgreach.lat/*
 *://*.wellinto.net/*
+*://*.welllnesscircle.com/*
 *://*.wellnesssubsidyhub.org/*
 *://*.wellnesswarrior.lat/*
 *://*.wellnesszoneyour.top/*
@@ -317953,6 +317968,7 @@
 *://*.yakzatenalevaliyor.xyz/*
 *://*.yal1am.com/*
 *://*.yalamazadoneresteyses.net/*
+*://*.yaldmbiti.sbs/*
 *://*.yalensians.com/*
 *://*.yalikavaklisubeleri.com.tr/*
 *://*.yalikavaklisubeleri.xyz/*
