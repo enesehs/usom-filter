@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-07 18:13:25 UTC
-# Toplam: 413748 Domain
+# Son Güncelleme: 2025-10-07 19:01:44 UTC
+# Toplam: 413751 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -83275,6 +83275,7 @@ bursa-online.com.tr
 bursabitkisel.com
 bursabvmclk.net
 bursadanilan.com
+bursadasnakaalarsan.sbs
 bursaesc.ct.ws
 bursahaseredomgasilaclama.site
 bursakart-onlineislemler.de
@@ -84015,6 +84016,7 @@ bvssmclli.com
 bvstigveriapp.online
 bvsucurisda20000.tech
 bvtkxleblicukfu.ru
+bvtr-kendimicin.info
 bvtr-web-login.za.com
 bvuguamjtf.duckdns.org
 bvuzdvvxhq.duckdns.org
@@ -336202,6 +336204,7 @@ stanleyclassicc.vip
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
 stanleygelhemen.xyz
+stanleygeliyo.xyz
 stanleygelsin.xyz
 stanleygunleri.com.tr
 stanleygunleri.name.tr
