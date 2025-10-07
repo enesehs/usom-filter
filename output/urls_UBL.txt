@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-07 15:09:49 UTC
-! Total: 329614 rules
+! Last modified: 2025-10-07 16:10:38 UTC
+! Total: 329629 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -39848,6 +39848,7 @@
 *://*.baskayerbaskazaman.my/*
 *://*.baskayerbaskazaman.sbs/*
 *://*.baskentmnkl.com/*
+*://*.baskentmnkldgr.com/*
 *://*.basket-khimki.ru/*
 *://*.basketballallocate.top/*
 *://*.basketballkungfu.com/*
@@ -58157,6 +58158,7 @@
 *://*.bnceglobalmarket.sbs/*
 *://*.bnceglobalnet.sbs/*
 *://*.bnceglobalone.sbs/*
+*://*.bnceglobalpartners.sbs/*
 *://*.bnceglobalservices.sbs/*
 *://*.bnceglobalsolutions.sbs/*
 *://*.bnceglobalspace.sbs/*
@@ -70575,6 +70577,7 @@
 *://*.chunkgrind.com/*
 *://*.chunkmortality.top/*
 *://*.chunkserving.com/*
+*://*.chunzaller.net/*
 *://*.chuolh.org/*
 *://*.chura.pl/*
 *://*.church-h.click/*
@@ -125878,6 +125881,7 @@
 *://*.garntlmt.online/*
 *://*.garnttttt.com.tr/*
 *://*.garntwebsbayrnlarizin4.cyou/*
+*://*.garr-ntimblsvrclt.sbs/*
 *://*.garraaaaanlaa.app/*
 *://*.garralntibbva.com/*
 *://*.garranti-avans.com/*
@@ -126377,6 +126381,7 @@
 *://*.gdkxurlw.com/*
 *://*.gdkymr.top/*
 *://*.gdl-cloud.works/*
+*://*.gdlmbrlarabrbrolalmhryerde.bond/*
 *://*.gdlvt-sdft.com/*
 *://*.gdlvt-vrtr.com/*
 *://*.gdmaduanas.com/*
@@ -157334,6 +157339,7 @@
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.cyou/*
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.icu/*
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.sbs/*
+*://*.iasgfasnwfqkgsdadgasifgds.icu/*
 *://*.iasgfasnwfqkgsdadghasicu.cyou/*
 *://*.iashagsgqhs-hagdhqhdqjw.cyou/*
 *://*.iashfsahuwqqwu-fwqhufqwqtew.cfd/*
@@ -169588,6 +169594,7 @@
 *://*.istlanbul-kartimislem.net/*
 *://*.istlen.com/*
 *://*.istlesybasvr.com/*
+*://*.istlgsbasvr.click/*
 *://*.istllkart.net/*
 *://*.istlnablvlkart.com/*
 *://*.istlnbkjwx.vip/*
@@ -183061,6 +183068,7 @@
 *://*.kgmsmobilhgsbrc.com/*
 *://*.kgmsorgu.digital/*
 *://*.kgmsorgu.xyz/*
+*://*.kgmsorgulamaveodeme.click/*
 *://*.kgmsorgullarcx.net/*
 *://*.kgmstrategy.com/*
 *://*.kgmswebgcsodemees.com/*
@@ -185730,6 +185738,7 @@
 *://*.konutbasvurhizmetleri-89.net/*
 *://*.konutbasvurhizmetleri-99.net/*
 *://*.konutbasvuru.com/*
+*://*.konutbasvurusu.com/*
 *://*.konutcan.com/*
 *://*.konutdestegi6060.net/*
 *://*.konutemlakgayrimenkul.info/*
@@ -191809,6 +191818,7 @@
 *://*.lnternet-vergldairesi.com/*
 *://*.lnternetvergicezadairesi.com/*
 *://*.lnternetvergldairesi.com/*
+*://*.lntltnlltnllltlnalnlaa.net/*
 *://*.lntltnltnlntltnlll.net/*
 *://*.lntrvergdmee.net/*
 *://*.lnuor.com/*
@@ -201144,6 +201154,7 @@
 *://*.mobil-ak-eylulfirsati.click/*
 *://*.mobil-akbank.lat/*
 *://*.mobil-akbankdirect.com/*
+*://*.mobil-akbnk.tr/*
 *://*.mobil-akduyuru-islemleri.xyz/*
 *://*.mobil-aktif.com.tr/*
 *://*.mobil-alimin.com.tr/*
@@ -250869,6 +250880,7 @@
 *://*.salmazcep.net/*
 *://*.salmftw.com/*
 *://*.salmjn.com/*
+*://*.salmona.pro/*
 *://*.salmonads.com/*
 *://*.salmoncompa.top/*
 *://*.salmoniq.com/*
@@ -280549,6 +280561,7 @@
 *://*.toplukonutiidaresibaskanligi.com/*
 *://*.toplukonutlaridaresi.com/*
 *://*.toplukonutlsmler.org/*
+*://*.toplukonutprojesi.com/*
 *://*.toplukonutresmibasvuru-35.com/*
 *://*.toplukonuttbasvurulari.com/*
 *://*.toplulasim.tk/*
@@ -325179,6 +325192,7 @@
 *://*.ypaisubekullan.com/*
 *://*.ypajgaa.click/*
 *://*.yparibu.com/*
+*://*.ypasnds.xyz/*
 *://*.ypbnufrstaktl.online/*
 *://*.ypdesign.gr/*
 *://*.ypdzdsspi.org/*
@@ -325207,6 +325221,7 @@
 *://*.ypkonlinesubesi.com/*
 *://*.ypkr-ktlim.online/*
 *://*.ypkrd.xyz/*
+*://*.ypkrdiyiitkredi.com/*
 *://*.ypkredi.com/*
 *://*.ypkrediislemler.cf/*
 *://*.ypkrrdddcekklizzaddlfapsadfmfas.net/*
