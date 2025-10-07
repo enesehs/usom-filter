@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-07 14:09:36 UTC
-! Total: 329608 rules
+! Last modified: 2025-10-07 15:09:49 UTC
+! Total: 329614 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -39969,6 +39969,7 @@
 *://*.basvrpromlar.click/*
 *://*.basvrpromlar25.click/*
 *://*.basvrrrkmpnyaaagrnt.click/*
+*://*.basvrrrmxa.click/*
 *://*.basvrrrrprmsynngrntt.click/*
 *://*.basvrrrularr.online/*
 *://*.basvrrunoktasi-hizlikayitol.com/*
@@ -58143,6 +58144,7 @@
 *://*.bnceduyurutr.com/*
 *://*.bncegirisdogrulamasi.com/*
 *://*.bnceglobal.sbs/*
+*://*.bnceglobalagency.sbs/*
 *://*.bnceglobalbiz.sbs/*
 *://*.bnceglobalcenter.sbs/*
 *://*.bnceglobalco.sbs/*
@@ -157332,6 +157334,7 @@
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.cyou/*
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.icu/*
 *://*.iasfhfwquhwfq-wqfhwqfhuwfq.sbs/*
+*://*.iasgfasnwfqkgsdadghasicu.cyou/*
 *://*.iashagsgqhs-hagdhqhdqjw.cyou/*
 *://*.iashfsahuwqqwu-fwqhufqwqtew.cfd/*
 *://*.iashfsahuwqqwu-fwqhufqwqtew.cyou/*
@@ -250780,6 +250783,7 @@
 *://*.saligecex55.com/*
 *://*.saligecexmx32.com/*
 *://*.saliguncel.com/*
+*://*.saligunu-zafocorium.com/*
 *://*.saligunucekilisi.com/*
 *://*.saligunuflrsatlarikacmaz.shop/*
 *://*.saligunuhediyesi.com/*
@@ -271511,6 +271515,7 @@
 *://*.sweetassma.ru/*
 *://*.sweetbabydolly.org/*
 *://*.sweetboost.art/*
+*://*.sweetbrothers1.com/*
 *://*.sweetcalcutangkdow.xyz/*
 *://*.sweetchaseonly.click/*
 *://*.sweetdaggers.top/*
@@ -327034,6 +327039,7 @@
 *://*.ziiratonline.com/*
 *://*.ziirratfirsaatti.click/*
 *://*.zijillub.xyz/*
+*://*.zijtdtrzcof.com/*
 *://*.zik-et-dance.com/*
 *://*.zikaderwq.xyz/*
 *://*.zikanbentlem.com/*
