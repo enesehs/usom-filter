@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-07 06:13:37 UTC
-! Total: 329461 rules
+! Last modified: 2025-10-07 07:10:04 UTC
+! Total: 329463 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58133,6 +58133,7 @@
 *://*.bnceglobalhub.sbs/*
 *://*.bnceglobalmarket.sbs/*
 *://*.bnceglobalnet.sbs/*
+*://*.bnceglobalone.sbs/*
 *://*.bnceglobalservices.sbs/*
 *://*.bnceglobalsolutions.sbs/*
 *://*.bnceglobaltech.sbs/*
@@ -165247,6 +165248,7 @@
 *://*.intrekatifvergindaresi.net/*
 *://*.intrenet-basvur.click/*
 *://*.intrenet-basvur.info/*
+*://*.intrenet-basvurulari5.click/*
 *://*.intrenet-basvurum.click/*
 *://*.intrenet-bsvr.click/*
 *://*.intrenet-bsvrm.click/*
