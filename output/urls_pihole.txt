@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-07 17:02:07 UTC
-# Toplam: 413724 Domain
+# Son Güncelleme: 2025-10-07 18:13:25 UTC
+# Toplam: 413748 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30813,6 +30813,7 @@ advert-job.ru
 advertapp.me
 advertbart.com
 advertchina.com
+advertipros.com
 advertiq.shop
 advertiseday.net
 advertisehub.info
@@ -43276,6 +43277,8 @@ angularcss.com
 angusburger.com.tr
 angy247.xyz
 anh.zapto.org
+anhemvn4.com
+anhemvn6.com
 anhkslmsnn.net
 anhorparaic.top
 anhphux4-60615.portmap.host
@@ -57007,6 +57010,7 @@ basvursmr.xyz
 basvursms.com.tr
 basvursms.cyou
 basvursms.xyz
+basvursmx.com.tr
 basvursmz.com.tr
 basvursmz.cyou
 basvursmz.xyz
@@ -76684,6 +76688,7 @@ bnceglobalhub.sbs
 bncegloballink.sbs
 bnceglobalmarket.sbs
 bnceglobalnet.sbs
+bnceglobalnetwork.sbs
 bnceglobalone.sbs
 bnceglobalpartners.sbs
 bnceglobalservices.sbs
@@ -113622,6 +113627,7 @@ dijital-ziraat-sube.mobi
 dijital-ziraatbank.com
 dijital-ziraatbankasi.ml
 dijital-ziraatbireysel.com
+dijital-ziraatbireysel.sbs
 dijital-ziraatbireyselgiris.com
 dijital-ziraatbireyselmobil.com
 dijital-ziraatgiris.com
@@ -113960,6 +113966,7 @@ dijitalinternetweb-ziraatmobil.com
 dijitalisle.de
 dijitalislem-ziraat.com
 dijitalislem-ziraatbireysel.com
+dijitalislem-ziraatbireysel.sbs
 dijitalislem-ziraatbireyselgiris.com
 dijitalislem-ziraatkampanyaweb.com
 dijitalislemalani.app
@@ -117242,6 +117249,7 @@ domainuzmanlari4.net
 domainuzmanlari6.net
 domainuzmanlari7.net
 domainxyz.duckdns.org
+domainzone123.com
 domakuskes.com
 domalo.online
 domammadassdsa.com
@@ -127262,6 +127270,7 @@ ecolux-comfort.com
 ecom.eckom.top
 ecombox.store
 ecomcounsellor.com
+ecomicrolab.com
 ecomme.fun
 ecommerce-ads.org
 ecommerce.guvenilirodeme.com
@@ -151240,6 +151249,7 @@ flourishmentor.top
 flourspotlight.top
 floushcse.top
 flovaz138.cemiteriobonfim.com
+flow-distributor.com
 flow.calarpig.com
 flow83.cn
 flowaelokahglowhuwghuwremotion.com
@@ -166295,6 +166305,7 @@ gptc.m1m1mapi.com
 gptdetector.live
 gptforads.info
 gptforbusiness.site
+gptgrok.ai
 gptrbtt4.duckdns.org
 gpttgov.top
 gpttweb.com
@@ -168981,6 +168992,7 @@ gunceltrsikayetler-464.sbs
 gunceltrsikayetler-473.sbs
 gunceltrsikayetler-863.sbs
 gunceltrsikayetler-9.sbs
+gunceltrsikaytvar-1.sbs
 gunceltrsikaytvar-17.sbs
 guncelvakfbankmobilleri.tk
 guncelvakif2022hediyeleri.com
@@ -182687,6 +182699,7 @@ heryere-gider-2025.sbs
 heryeregelersen.net
 heryeri-kisaca-bulunanlara-iyice-yanastik.top
 heryerkaranlik.site
+heryerlerdealisverislermlf.duckdns.org
 heryerneon.online
 heryerneon.site
 heryeryakin.net
@@ -201627,6 +201640,7 @@ indirimlikataloglar.duckdns.org
 indirimlikataloglar.online
 indirimlikataloglar.xyz
 indirimlikataloglarr.duckdns.org
+indirimlikategorilerikesfet.click
 indirimlikiralik.online
 indirimlimarketextra.com.tr
 indirimlimayisozelfirsatlari.com.tr
@@ -202369,6 +202383,7 @@ infosverification.ddns.net
 infosverify.hopto.org
 infosync.top
 infosysdata.store
+infosystemsllc.com
 infotelmessagerie.duckdns.org
 infoterkiinii.xyz
 infoupdatexflnity.ddns.net
@@ -221441,6 +221456,7 @@ kanal2024-web-login.pro
 kanalakbank.site
 kanalistanbul12.net
 kanallar-infoweb-tr.info
+kanallar-kendimicin-bvtrweb.sa.com
 kanalmuayne.net
 kanalsanati.blogspot.com
 kananelnamakmu.xyz
@@ -227912,6 +227928,7 @@ kkkvskvkxvc.net
 kkladrao1.hopto.org
 kklargeleceklercc.click
 kklargeliyor.click
+kklaryoldageliyordire.com
 kklguncelodemell.tk
 kkllwkxwxw.click
 kklvmfksfesfes.hopto.org
@@ -255017,6 +255034,7 @@ mssewatrust.com
 msshawactive24msshaw53kfefny.site
 mssjj345.blogspot.com
 msslrsa-motherson.com
+mssoftupdateserver.com
 mssouthpolnte.com
 mssqli.ml
 mssqli.tk
@@ -265553,6 +265571,7 @@ nuorganic.com.tr
 nuovacasadellosterzo.tk
 nuovalinea.online
 nup7b695v.duckdns.org
+nupdate0625.com
 nupfrirmko.duckdns.org
 nupijoy.com
 nupleta.com.br
@@ -276587,6 +276606,7 @@ osx-mac.com
 osxactive-apps.hopto.org
 osxc3mg.duckdns.org
 osyahaber.club
+osyeecszlx.sbs
 osyenkcdr.net
 osygmmqkj.duckdns.org
 osym-basvuru.com
@@ -327626,6 +327646,7 @@ sites--itrustcapetal-auth.webflow.io
 sites-google-trezorr.webflow.io
 sites.denztatilde.online
 sitesafecdn.hopto.org
+sitesatmisnndmd.sa.com
 siteservisleri.xyz
 siteses-bdcn-blogspot.com
 sitesgiris-d-blg.com
@@ -328743,6 +328764,7 @@ skt9.iosgaxx423.xyz
 skta2.net
 sktkasfasfa.online
 sktmsimdiiade.com
+sktorleralindi.click
 sktremlak-2a34cf21694a.herokuapp.com
 sktremlak22-0d9ba1373607.herokuapp.com
 sktremlak22-e72f9d564cfb.herokuapp.com
@@ -366181,6 +366203,7 @@ updatemicrosoft.zapto.org
 updatemind52.com
 updatemmb07.ddns.net
 updatemsdnserver.com
+updatemssoft.com
 updatemyhost.ru
 updatename2server.hopto.org
 updatenet-fl1x00.duckdns.org
@@ -405016,6 +405039,7 @@ yetkiligec.sg-host.com
 yetkiligecisyukle.sg-host.com
 yetkilihizmet.xyz
 yetkilikrediservisi.mefound.com
+yetkilikredisistemi.mefound.com
 yetkilimakroode.net
 yetkiliortakbayis.com
 yetkiliortakpanel.com
