@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-07 11:08:09 UTC
-! Total: 329541 rules
+! Last modified: 2025-10-07 12:23:11 UTC
+! Total: 329574 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11659,6 +11659,7 @@
 *://*.86183581384183182.top/*
 *://*.8627388758923.com/*
 *://*.8644557358356133.com/*
+*://*.865165321651321521.store/*
 *://*.8652543.cloud/*
 *://*.865433242311.cloud/*
 *://*.86586554632.shop/*
@@ -15524,6 +15525,7 @@
 *://*.acarfilo.com/*
 *://*.acarfilo.net.tr/*
 *://*.acarglobalmarket.com/*
+*://*.acarglobalmarkets.com/*
 *://*.acarionline.com/*
 *://*.acarislem.com/*
 *://*.acarkurulusu.org.tr/*
@@ -24372,6 +24374,7 @@
 *://*.akilpanel.online/*
 *://*.akilsizin.info/*
 *://*.akilvarmantikvaryaw.cyou/*
+*://*.akilyolu.click/*
 *://*.akim32.online/*
 *://*.akimadern.com/*
 *://*.akimkomtheatre.com/*
@@ -26960,6 +26963,7 @@
 *://*.aldn-aldnnxfirstlslzaaariyxlza.xyz/*
 *://*.aldn-aldnnzxfirssdddtllariyla.xyz/*
 *://*.aldn-zaldnnxfirstllariyla.net.tr/*
+*://*.aldnaladndagadhadbadnadnasd.store/*
 *://*.aldnaldn-kmpnya.xyz/*
 *://*.aldnaldncmrtbuarda.tech/*
 *://*.aldnaldnfrsatlarnz.com/*
@@ -28356,6 +28360,7 @@
 *://*.alphawaves.org/*
 *://*.alphaxiom.com/*
 *://*.alpineai.uk/*
+*://*.alpinreisan1.com/*
 *://*.alplog.net/*
 *://*.alpon.net/*
 *://*.alpracticetery.top/*
@@ -28641,6 +28646,7 @@
 *://*.altintreasurekvuytpuansizlerlealtinoutiz.com/*
 *://*.altinyildizclasics-tr.top/*
 *://*.altinyillar.com/*
+*://*.altinzone.online/*
 *://*.altiodeme.ga/*
 *://*.altiordp.com/*
 *://*.altisi.online/*
@@ -58133,15 +58139,18 @@
 *://*.bncegirisdogrulamasi.com/*
 *://*.bnceglobalbiz.sbs/*
 *://*.bnceglobalcenter.sbs/*
+*://*.bnceglobalco.sbs/*
 *://*.bnceglobalconsulting.sbs/*
 *://*.bnceglobalcorp.sbs/*
 *://*.bnceglobalglobal.sbs/*
+*://*.bnceglobalgroup.sbs/*
 *://*.bnceglobalhub.sbs/*
 *://*.bnceglobalmarket.sbs/*
 *://*.bnceglobalnet.sbs/*
 *://*.bnceglobalone.sbs/*
 *://*.bnceglobalservices.sbs/*
 *://*.bnceglobalsolutions.sbs/*
+*://*.bnceglobalspace.sbs/*
 *://*.bnceglobaltech.sbs/*
 *://*.bnceglobaltrade.sbs/*
 *://*.bnceinstgrmkampan.com/*
@@ -59130,6 +59139,7 @@
 *://*.bnturkey-togg.com/*
 *://*.bnturkey1.cfd/*
 *://*.bnturkey2.cfd/*
+*://*.bnturkeygiris1.com/*
 *://*.bnturkeykripto.xyz/*
 *://*.bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com/*
 *://*.bnturkeykriptovarlikalimsatimplatformuanonimsirketi.info/*
@@ -60546,6 +60556,7 @@
 *://*.branrce.com.tr/*
 *://*.bransfen.com/*
 *://*.branter.tk/*
+*://*.brantoneqs.top/*
 *://*.branzome.online/*
 *://*.brappmbxx.to/*
 *://*.brarc.com.tr/*
@@ -72923,6 +72934,7 @@
 *://*.cokiyi.sbs/*
 *://*.cokiyiabi.name.tr/*
 *://*.cokiyibirsdwe.net/*
+*://*.cokiyiyim.cfd/*
 *://*.cokkolaydi.cfd/*
 *://*.cokkolayivar.com/*
 *://*.cokkonusmakarisenibulurum.com/*
@@ -73906,6 +73918,7 @@
 *://*.commitwork.top/*
 *://*.commixdesigns.live/*
 *://*.commmbak.vip/*
+*://*.commmunityspace.com/*
 *://*.commnbank.vip/*
 *://*.commnbank.xyz/*
 *://*.commnet-systems.com/*
@@ -104736,6 +104749,7 @@
 *://*.ekimfirsatleranolympus.net/*
 *://*.ekimflrsatlari.com/*
 *://*.ekimflrsatlari.store/*
+*://*.ekimflrsatlarikacmazwsynx.com/*
 *://*.ekimflrsatlarikacmiyo.com/*
 *://*.ekimflyati.store/*
 *://*.ekimglrgdr-snnrdns.com/*
@@ -104898,6 +104912,8 @@
 *://*.eklmozelflrsattin.com/*
 *://*.eklmozellflrsatllar.com/*
 *://*.eklmozlcsadfas.com/*
+*://*.eklmozlfkekasr.com/*
+*://*.eklmpzelflrsatlr.com/*
 *://*.eklmtermosfirlrsatlri.com/*
 *://*.eklmtermosflrsatlarl.com/*
 *://*.eklmtermosflrstaerlar.com/*
@@ -104950,6 +104966,7 @@
 *://*.ekonomi2024-try-login.xyz/*
 *://*.ekonomidestekhibesi.com/*
 *://*.ekonomidunyasi.best/*
+*://*.ekonomidunyasi.online/*
 *://*.ekonomiduyuru.click/*
 *://*.ekonomigelisimturkiye.site/*
 *://*.ekonomigundem.best/*
@@ -138444,6 +138461,7 @@
 *://*.hakkindasikayetvartr.com/*
 *://*.hakkindasikayetvartr.store/*
 *://*.hakkindasikayt.xyz/*
+*://*.hakkindasikaytvar-tr-12.sbs/*
 *://*.hakkindasikaytvar.xyz/*
 *://*.hakkindasikkayettvar.com/*
 *://*.hakkindasilkaayetlerigor.cf/*
@@ -159729,6 +159747,7 @@
 *://*.ilanonay.com.tr/*
 *://*.ilanparamguvende.com.tr/*
 *://*.ilanparamguvende.com/*
+*://*.ilanpark.com.tr/*
 *://*.ilanpaylas.net/*
 *://*.ilanpttavm.com/*
 *://*.ilans.com.pl/*
@@ -162379,6 +162398,7 @@
 *://*.indirimlisaatlerikacirmayin.com/*
 *://*.indirimlisanalmarket.online/*
 *://*.indirimlisatinal.xyz/*
+*://*.indirimlisepetim.click/*
 *://*.indirimlisepetlerdekiurunler.com.tr/*
 *://*.indirimlisepetlerdekiurunler.online/*
 *://*.indirimlisepetlerdekiurunler.xyz/*
@@ -167815,6 +167835,7 @@
 *://*.islemimaktif.net/*
 *://*.islemimaninda.net/*
 *://*.islemimgelmis.net/*
+*://*.islemimguvende.sbs/*
 *://*.islemimhemen.net/*
 *://*.islemimhemenn.net/*
 *://*.islemimhemenoldu.net/*
@@ -175829,6 +175850,7 @@
 *://*.kacirilmayacak-sonkampanya.shop/*
 *://*.kacirilmayacak-yil-sonu-kampanya.shop/*
 *://*.kacirilmayacak-yilsonuozel.shop/*
+*://*.kacirilmayacakfirsatlar.click/*
 *://*.kacirilmayacakfirsatlarburda.com/*
 *://*.kacirilmayacakfirsatlarimizinzamani.com/*
 *://*.kacirilmayacakindirimleralin.com/*
@@ -181720,6 +181742,7 @@
 *://*.kazancdunyasi.info/*
 *://*.kazancdunyasi.online/*
 *://*.kazancdunyasi.shop/*
+*://*.kazancfikri.org/*
 *://*.kazancgunleri.com/*
 *://*.kazanchaber.com/*
 *://*.kazancimnetsigortam.net/*
@@ -183010,6 +183033,7 @@
 *://*.kgmpps.cc/*
 *://*.kgmpttislem-pdf.xyz/*
 *://*.kgmsaeaas.net/*
+*://*.kgmsag.life/*
 *://*.kgmsite.help/*
 *://*.kgmsizlersizolmazasd.net/*
 *://*.kgmsmobilhgs.com/*
@@ -203208,6 +203232,7 @@
 *://*.mobiltlyukle.com/*
 *://*.mobiltlyukleme.com/*
 *://*.mobiltr-ilan.com.tr/*
+*://*.mobiltr-ilanda.com.tr/*
 *://*.mobiltr-islem.com.tr/*
 *://*.mobiltr-islemler.com.tr/*
 *://*.mobiltr-islemlerim.com.tr/*
@@ -238359,6 +238384,7 @@
 *://*.pttskrssgo.net/*
 *://*.pttso.ink/*
 *://*.pttso.xyz/*
+*://*.pttsokldfs.com/*
 *://*.pttsorglamtan.net/*
 *://*.pttsorgu.app/*
 *://*.pttsorgu.fun/*
@@ -247102,6 +247128,7 @@
 *://*.rvuxzg4tcf.com/*
 *://*.rvxnzodzmljk.net/*
 *://*.rw6dh.top/*
+*://*.rwandabrew.com/*
 *://*.rwandaroast.com/*
 *://*.rwasahaeftsk.info/*
 *://*.rwbcode.com/*
@@ -265443,6 +265470,7 @@
 *://*.sosyalkapimedvletbasvuru.online/*
 *://*.sosyalkazani.ml/*
 *://*.sosyalkontbasvuru.net/*
+*://*.sosyalkonut.shop/*
 *://*.sosyalkonutbasvuru.net/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutilkevimilkisyerim.net/*
@@ -268379,6 +268407,7 @@
 *://*.stnlytrmsktlfbrudnskr.com/*
 *://*.stnlytrmstkflsbrdsm.com/*
 *://*.stnlywkx.click/*
+*://*.stnneonyl.cfd/*
 *://*.stnts.com/*
 *://*.stnviolet.cfd/*
 *://*.stnyle.cfd/*
@@ -280486,6 +280515,7 @@
 *://*.toplukonutidaresi.com/*
 *://*.toplukonutidaresibaskanligi.com/*
 *://*.toplukonutiidaresibaskanligi.com/*
+*://*.toplukonutlaridaresi.com/*
 *://*.toplukonutlsmler.org/*
 *://*.toplukonutresmibasvuru-35.com/*
 *://*.toplukonuttbasvurulari.com/*
@@ -284444,6 +284474,7 @@
 *://*.trendyol.win/*
 *://*.trendyol2025.com/*
 *://*.trendyol2026.com/*
+*://*.trendyol24.xyz/*
 *://*.trendyol66.com/*
 *://*.trendyola.icu/*
 *://*.trendyoladresim.com/*
@@ -286435,6 +286466,7 @@
 *://*.truva.one/*
 *://*.trv-jhek.one/*
 *://*.trvakifaraba-cekilllisgiris.tk/*
+*://*.trvakifb.com/*
 *://*.trvakifbank.com/*
 *://*.trvakifbankgiris.com/*
 *://*.trvakifbankmobilbank.tk/*
@@ -301082,6 +301114,7 @@
 *://*.vokdifkaprouysahndmoqpkaiiasmmkqqqk.online/*
 *://*.vokhtrjurt.info/*
 *://*.vokseqvpxijk.ru/*
+*://*.vokvoklarkes.click/*
 *://*.vol22002tryyy.site/*
 *://*.vola1o1.net/*
 *://*.volasifirsatgirisim.com/*
