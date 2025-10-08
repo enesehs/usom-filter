@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 13:23:26 UTC
-# Toplam: 413835 Domain
+# Son Güncelleme: 2025-10-08 14:09:27 UTC
+# Toplam: 413838 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -182621,6 +182621,7 @@ hersey-halkla-ic-ice.cyou
 hersey-temmxzda-buradaa.com
 hersey2023iadelericin1.net
 herseyalisverislerimden.duckdns.org
+herseyalisverslmlkff.duckdns.org
 herseyanimda.com
 herseyaninda.com
 herseybbvaicin.net
@@ -182708,6 +182709,7 @@ heryanimkanlarkesikler.com
 heryazdenzyannda.tk
 heryenigunyenisiparis.com.tr
 heryenigunyenisiparis.online
+heryeralisverslrmlffrt.duckdns.org
 heryerbitki.art
 heryerbitki.com.tr
 heryerbitki.ink
@@ -408673,6 +408675,7 @@ yuzbir-gonder-gelsin.top
 yuzbir-internetozel.online
 yuzbiraltusklimafirsatlar.com
 yuzbiraltusklimafirsatlarigiris.com
+yuzbirartistoks.sbs
 yuzbirayuz.duckdns.org
 yuzbirbayramfirsatii.com
 yuzbircampany.com
