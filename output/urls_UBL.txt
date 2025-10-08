@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-08 15:09:11 UTC
-! Total: 329743 rules
+! Last modified: 2025-10-08 16:10:54 UTC
+! Total: 329756 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9763,6 +9763,7 @@
 *://*.56kkkkk.com/*
 *://*.56sa4d84sa15d4a.live/*
 *://*.56sa6dsa654sdaa1d3sa.site/*
+*://*.57118513215132151512.tech/*
 *://*.57197-coinbase.com/*
 *://*.571sekabet.com/*
 *://*.571teamrek2.com.tr/*
@@ -26931,6 +26932,7 @@
 *://*.aldinnbaharfirsatlari.sbs/*
 *://*.aldinnfirsatlari.sbs/*
 *://*.aldinnkampanyalari.sbs/*
+*://*.aldinnnnaldinnnnnkamcmdayklasmdiyzrladn.tech/*
 *://*.aldinnnnaldinnnnnkamcmmzkflgkrmfmkc.tech/*
 *://*.aldinonlinealdin.site/*
 *://*.aldinpazartesialdintestere.xyz/*
@@ -58173,6 +58175,7 @@
 *://*.bnceglobalco.sbs/*
 *://*.bnceglobalconsulting.sbs/*
 *://*.bnceglobalcorp.sbs/*
+*://*.bnceglobalfuture.sbs/*
 *://*.bnceglobalglobal.sbs/*
 *://*.bnceglobalgroup.sbs/*
 *://*.bnceglobalhub.sbs/*
@@ -59176,6 +59179,7 @@
 *://*.bnturkey-togg.com/*
 *://*.bnturkey1.cfd/*
 *://*.bnturkey2.cfd/*
+*://*.bnturkeygiris.com/*
 *://*.bnturkeygiris1.com/*
 *://*.bnturkeygiris2.com/*
 *://*.bnturkeykripto.xyz/*
@@ -64135,6 +64139,7 @@
 *://*.buyukcampanya.click/*
 *://*.buyukcekilis-enpara.com/*
 *://*.buyukcekmece.online/*
+*://*.buyukendirimedek.cfd/*
 *://*.buyukeylulindirimi.click/*
 *://*.buyukeylulindirimiduragi.click/*
 *://*.buyukfirsataylarim.com.tr/*
@@ -112677,6 +112682,7 @@
 *://*.evlilykredisibasvuyurusux.net/*
 *://*.evlilykredsibasvursu.net/*
 *://*.evlilykredsibasvuru.net/*
+*://*.evlimutlucocuklu.cfd/*
 *://*.evliolanlarkredibasvuru.com/*
 *://*.evlixskskbasvruxsrte.net/*
 *://*.evliyim-basvurumgel.net/*
@@ -115077,6 +115083,7 @@
 *://*.fastcloudcdn.com/*
 *://*.fastconnectnetwork.com/*
 *://*.fastcryptotrade.pro/*
+*://*.fastddns.org/*
 *://*.fastdiplomasonline.com/*
 *://*.fastdown.site/*
 *://*.fastdownload.me/*
@@ -120578,6 +120585,7 @@
 *://*.fnbank-online.com/*
 *://*.fnbbankonlinebnk.com/*
 *://*.fncvja.com/*
+*://*.fndkstrd.com/*
 *://*.fndynqh.com/*
 *://*.fnewmetdestekatelffhakki.xyz/*
 *://*.fniwhv.com/*
@@ -191625,6 +191633,7 @@
 *://*.lllllloas.fit/*
 *://*.lllllvkblnlnllnlvbv.net/*
 *://*.llllmzmrmxiszmrx.net/*
+*://*.lllmlmlllllllnl.online/*
 *://*.lllparlbu.com/*
 *://*.lllpttlavmlislemlerl.click/*
 *://*.lllpttllavmllkilometrell.click/*
@@ -238850,6 +238859,7 @@
 *://*.puorszvw.com/*
 *://*.puosit.top/*
 *://*.puotsovf.com/*
+*://*.pupatourism.cyou/*
 *://*.pupekoo.com/*
 *://*.pupilfragile.top/*
 *://*.pupilfy.com/*
@@ -251098,6 +251108,7 @@
 *://*.samsung-tv.tk/*
 *://*.samsung-work.com/*
 *://*.samsungagency.link/*
+*://*.samsungcareers.work/*
 *://*.samsungeblyaiphone.com/*
 *://*.samsunglimited.top/*
 *://*.samsungpr0mo.online/*
@@ -279075,6 +279086,7 @@
 *://*.tiny.ie/*
 *://*.tinycc.com/*
 *://*.tinydomain.xyz/*
+*://*.tinydomains.sbs/*
 *://*.tinylink.pro/*
 *://*.tinylinks.live/*
 *://*.tinyulrs.com/*
@@ -320719,6 +320731,7 @@
 *://*.yasal-telif-hakki.ml/*
 *://*.yasal-telif-ihlal.tk/*
 *://*.yasal-telif-ihlali-bildirim.cf/*
+*://*.yasal-uyari-spam.com/*
 *://*.yasaltakip.net/*
 *://*.yasaluygulama.com/*
 *://*.yasaluygulama1.com/*
