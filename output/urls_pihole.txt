@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 12:23:45 UTC
-# Toplam: 413824 Domain
+# Son Güncelleme: 2025-10-08 13:23:26 UTC
+# Toplam: 413835 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85969,6 +85969,7 @@ cakeserver.online
 cakespot.top
 caketranquility.top
 cakevent.top
+cakewind.blogspot.com
 cakfpgrm.com
 cakilda-kamp-atese-dogru.top
 cakilisteyiz.gq
@@ -87049,6 +87050,7 @@ carmenanderson556.xyz
 carmenik.world
 carminatapiceros.com
 carmodzone.click
+carnagev1.blogspot.com
 carnegiemonster.app
 carneliantc.com
 carniceriamartinezadria.com
@@ -162413,6 +162415,7 @@ gifteddetriment.top
 giftedperch.top
 giftemali.click
 giftiosaqe.site
+giftloom.website
 giftmall.homes
 giftrejoicing.top
 gifts-whells-july.net
@@ -225279,6 +225282,7 @@ kelabawekmaleyu.zapto.org
 keladam.net
 kelakalakalskeks.com
 kelameneye.click
+kelarigame.blogspot.com
 kelarkads.xyz
 kelasanta.net
 kelasas.com
@@ -228330,6 +228334,7 @@ kloraptvergsdlks.net
 klordiktincsglour.net
 kloredano.top
 klorepatvergsistm.net
+klorigame.blogspot.com
 klorintrafkgvcs.net
 klorogcslemadiran.net
 klorpatlavergaysu.net
@@ -241720,6 +241725,7 @@ mahmatagada.top
 mahmoodonline.com
 mahmoud-radwan.com
 mahmoud782.ddns.net
+mahmusdawolnde.sbs
 mahmutburada.tk
 mahmutculk2.b-cdn.net
 mahmutefe35-59410.portmap.host
@@ -247241,6 +247247,7 @@ meraketmegir.online
 merakii.art
 meraklimedya.net
 meralcicek.com.tr
+meraliagame.blogspot.com
 meralkurulusyds.com
 meramaks.io
 merati.church
@@ -302865,6 +302872,8 @@ ravest.ddns.net
 ravex.live
 ravexim3.com
 ravexpreych.co
+ravielchy.blogspot.com
+ravielchygame.blogspot.com
 ravikor.com
 ravioliravioli.zapto.org
 ravitelugutraveler.com
@@ -342854,6 +342863,7 @@ tamsntrongtr.net
 tamtarati.com
 tamters.space
 tamtrafik.plakasube.online
+tamunagame.blogspot.com
 tamvergiodeme.net
 tamvfysbukujsfaau.com
 tamzamanibursum.com
@@ -374625,6 +374635,7 @@ veriificatiion.info
 veriify-lnfo-acount-app-page008.duckdns.org
 veriincelemes0rgu.ct.ws
 veriizinleri.com
+veriliagame.blogspot.com
 verilmisgideme.net
 verilverilsda21312.xyz
 verimatik.xyz
