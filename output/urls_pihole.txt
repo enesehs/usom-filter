@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 16:10:54 UTC
-# Toplam: 413881 Domain
+# Son Güncelleme: 2025-10-08 17:08:21 UTC
+# Toplam: 413887 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -77870,6 +77870,7 @@ bnturkey-togg.com
 bnturkey1.cfd
 bnturkey2.cfd
 bnturkeygiris.com
+bnturkeygiris.shop
 bnturkeygiris1.com
 bnturkeygiris2.com
 bnturkeykripto.xyz
@@ -114103,6 +114104,7 @@ dijitalkontrolyap.life
 dijitalkredi-akbireysel.com
 dijitalkredi-ziraat.com
 dijitalkredi-ziraatbireysel.com
+dijitalkredi-ziraatbireysel.sbs
 dijitalkredi-ziraatbireysel.website
 dijitalkredi-ziraatkampanya.com
 dijitalkredi-ziraatmobilweb.com
@@ -168415,6 +168417,7 @@ gun255.xyz
 gunaayrestorant-rezerve.com.tr
 gunaayrestorant-rezerve.com.tr.gunay-restorant-rezervasyon.com.tr
 gunahimboynuna.com
+gunalimigunleri.sbs
 gunay-restaurant-bodrum.business.site
 gunay-restaurant-cesme.business.site
 gunay-restaurant-yalkavak.business.site
@@ -182580,6 +182583,7 @@ herkesmutluolsun.com.tr
 herkesokusun.online
 herkesokusun.org
 herkessendekalancapake.cfd
+herkessendekalancapake.sbs
 herkesteniyiyim.sbs
 herkestenonceal.com
 herkez20gbdestekalsin.com
@@ -304037,6 +304041,7 @@ redirect-99.com
 redirect-apple.com
 redirect-authorize.duckdns.org
 redirect-bilgi.shop
+redirect-bnc.com
 redirect-bunq-client.ru
 redirect-drive.online
 redirect-hizmet.shop
@@ -412650,6 +412655,7 @@ zlraatonlinefirsatnoktan.xyz
 zlsvkvvdvt-dvtre.com
 zltahmedimwebaskma.duckdns.org
 zltasilegunebasla.xyz
+zltasmekankfrsati.duckdns.org
 zltddcyjrswkruotoijdkwgm.com
 zltgw.com
 zltktmklvt.duckdns.org
