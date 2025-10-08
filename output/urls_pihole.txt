@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 14:09:27 UTC
-# Toplam: 413838 Domain
+# Son Güncelleme: 2025-10-08 15:09:11 UTC
+# Toplam: 413863 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1535,6 +1535,7 @@
 1-0-1onlineozel.com
 1-0-1pluscepte.com
 1-0-1termosindirimleri.duckdns.org
+1-1-11-1-1-1-11-1-1-1-1-1-1-1-1.sbs
 1-111-11-12333.duckdns.org
 1-11wdxwx.online
 1-12-aefds-adfzd-aefd.com
@@ -14191,6 +14192,7 @@
 500binsosyalkonutbasvuru.org
 500bintokikonutlaribasvuruekrani.com
 500bintoplukonut.com
+500bintoplukonutbasvurusu.com
 500bnanceusdt.com
 500bnb-tr2022bnbmobilgiris.com
 500bnb-tr2022bnbmobilgiris.xyz
@@ -39215,6 +39217,7 @@ aldia11.sbs
 aldialdia1o1.com
 aldigittibenibendenfirsatlari.online
 aldigngldi.shop
+aldiguncanseni.cfd
 aldiiiinnxnnaxnnxanaxnaldiiixnxnxnxnx.online
 aldiin-a101-aldiin-yildizlari.com
 aldiinaldiinfirsatlarkacmaz.com
@@ -42766,6 +42769,7 @@ anadolup.pro
 anadolupazari.space
 anadolupetrolleri.com.tr
 anadolupgroup.pro
+anadoluportfoy.net
 anadoluportfoymd.com
 anadoluportfoyyatirim.com
 anadolus.org
@@ -48741,6 +48745,7 @@ asesoreszapico.com
 asesoriasbg.com
 asesoriastepual.cl
 asessinflesk.com
+asettocum.cfd
 asewsa.net
 asf-43-35-tgd-hjfgd-jfdywetgsdfj-fhd.net.tr
 asf-t32t32-gh-jf-jgfgfhmonh-fh.com.tr
@@ -57023,6 +57028,7 @@ basvursms.com.tr
 basvursms.cyou
 basvursms.xyz
 basvursmx.com.tr
+basvursmx.xyz
 basvursmz.com.tr
 basvursmz.cyou
 basvursmz.xyz
@@ -76710,6 +76716,7 @@ bnceglobalspace.sbs
 bnceglobalstudio.sbs
 bnceglobaltech.sbs
 bnceglobaltrade.sbs
+bnceglobalvision.sbs
 bnceglobalworks.sbs
 bnceinstgrmkampan.com
 bncekcrmyndrmbufrs.shop
@@ -77857,6 +77864,7 @@ bnturkey-togg.com
 bnturkey1.cfd
 bnturkey2.cfd
 bnturkeygiris1.com
+bnturkeygiris2.com
 bnturkeykripto.xyz
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.info
@@ -87087,6 +87095,7 @@ carreayfirsatkmpanya.online
 carreefaursa.online
 carreeffouer-sa.online
 carreeffoursa.site
+carreefourmarketekim2025.cfd
 carreefourmarketim.cfd
 carreefourmarketimekim.cfd
 carreefursazamni.com
@@ -108880,6 +108889,7 @@ denizmobil-sube.sa.com
 denizmobil-sube.za.com
 denizmobil-subegirism.tk
 denizmobil.blogspot.com
+denizmobil.my-homeip.com
 denizmobil.net
 denizmobil.shop
 denizmobil.site
@@ -117130,6 +117140,7 @@ dolsggiberiaoserkmikluhasya.chimkent.su
 dolu-firsat-yili.shop
 dolubakiye.net
 dolubilgi.org
+dolucap.sbs
 doludolufiyatarlardasongun.cfd
 doludoluindirimler.com.tr
 doludoluindirimler.online
@@ -133030,6 +133041,7 @@ ekimflrsatlari.com
 ekimflrsatlari.store
 ekimflrsatlarikacmazwsynx.com
 ekimflrsatlarikacmiyo.com
+ekimflrsatlarikacmiyorwsynxile.sbs
 ekimflyati.store
 ekimglrgdr-snnrdns.com
 ekimhizlitstnbd.store
@@ -160344,6 +160356,7 @@ gelmedusersin.xyz
 gelmegelderfen.net
 gelmekte-olan-sonunda-bitiyor-artik.com
 gelmekteolan3d.xyz
+gelmekteolangelir.com
 gelmeyinkafanizavururum.xyz
 gelmez-bidahaboylef1rsatlar.com
 gelmezsam.click
@@ -162064,6 +162077,7 @@ ggroupppwhtsppvrll.duckdns.org
 ggrrandventure.fun
 ggrrandventure.site
 ggrrandventure.website
+ggrrrrrrrrrrbbbvaaaac.com
 ggrsftsjsafsfa.shop
 ggrssdfsasxsafsaads.com.tr
 ggrstnsdsdfsa.shop
@@ -180458,6 +180472,7 @@ hellasjournal.website
 hellb0y.ddns.net
 hellblood.ddns.net
 hellbreaker.xyz
+hellefkyou.click
 hellenedney.com
 hellifieldvillagehall.org.uk
 hellip433.hopto.org
@@ -182551,6 +182566,7 @@ herkesmostlerkes.click
 herkesmutluolsun.com.tr
 herkesokusun.online
 herkesokusun.org
+herkessendekalancapake.cfd
 herkesteniyiyim.sbs
 herkestenonceal.com
 herkez20gbdestekalsin.com
@@ -187645,6 +187661,7 @@ hizlibasvurumerkezim.tk
 hizlibasvurun.net
 hizlibasvurunburda.online
 hizlibasvurunuz.com
+hizlibasvurunzubsurdsa.store
 hizlibasvuruonaylim.net
 hizlibasvurusistemi.xyz
 hizlibasvurusorgulamaservisiz.com
@@ -228939,6 +228956,7 @@ kmsorgulamayeri.web.app
 kmsorgulamayovgovhemenpttasdww.com
 kmsorgulamaypgshsfggg.com
 kmsorgulamaz.com
+kmsorgulamsadvkvsdkz.duckdns.org
 kmsorgulamzsazniyogovptt.duckdns.org
 kmsorgularchp.xyz
 kmsorgularhizmetm.web.app
@@ -231529,6 +231547,7 @@ kredisorgulamahizmetii202.net
 kredisorgullamahizmeetii28.net
 kredist-mpay.com.tr
 kredisube.com
+kredit-indirimfirsatlari.online
 kredit-indirimlerim.online
 kredit-mpay.online
 kredit-online.site
@@ -292784,6 +292803,7 @@ provechacc.zapto.org
 provemail.net
 provenbey.com
 provencebase.com
+proventis.site
 proverbhaaft.top
 proverbialcunning.top
 proverbialentail.top
@@ -293289,6 +293309,7 @@ ptplskargotakbm.net
 ptpost.cfd
 ptpostar.top
 ptptkkargotkipp.com
+ptptkslm.com
 ptptpkrglrmlasnzzn.click
 ptptt-govtr.quest
 ptptt-govtr.top
@@ -296687,6 +296708,7 @@ pttskrssgo.net
 pttso.ink
 pttso.xyz
 pttsokldfs.com
+pttsor.web.app
 pttsorglamtan.net
 pttsorgu-8f362cb150c6.herokuapp.com
 pttsorgu.app
@@ -403407,6 +403429,7 @@ yeni10gb.blogspot.com
 yeni15.top
 yeni16.top
 yeni1bayi.xyz
+yeni1kreatifim.nicepage.io
 yeni1rndvu-4026bf0dc1c2.herokuapp.com
 yeni2022-aldathesaplama.ml
 yeni2023-onay-sorgu.duckdns.org
@@ -405127,6 +405150,7 @@ yetkiligecisyukle.sg-host.com
 yetkilihizmet.xyz
 yetkilikrediservisi.mefound.com
 yetkilikredisistemi.mefound.com
+yetkilikredisitesi.mefound.com
 yetkilimakroode.net
 yetkiliortakbayis.com
 yetkiliortakpanel.com
@@ -407242,6 +407266,7 @@ yonlendirici.click
 yonlendirici.shop
 yonlendirici.site
 yonlendiricinimiz.cloud
+yonlendiriliyorsun-wsynx.sbs
 yonlendiriliyorsunuz.duckdns.org
 yonlendiriliyorsunuz.online
 yonlendiriliyorsunuz.shop
