@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 07:09:19 UTC
-# Toplam: 413777 Domain
+# Son Güncelleme: 2025-10-08 08:13:49 UTC
+# Toplam: 413792 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15794,6 +15794,7 @@
 62375b93a8131c2598e0f9eb675bb2bf.org
 624.inscts.pw
 62444025.dfgqdsd.ru
+6245613216521652465165.store
 624785120369.cloud
 624q05s.duckdns.org
 62513260.corolain.ru
@@ -42500,6 +42501,7 @@ amoltron.com
 amomyne.ddns.net
 amon1.xyz
 among-tx.at.ply.gg
+among.tattvastudio.site
 amongcattle.top
 amongfragility.top
 amongporridge.top
@@ -43778,6 +43780,7 @@ anketlekazan-qnbfinansbank.com
 anketlepara.com
 anketler-finansbank.com
 anketteklifi.com
+ankgolnde.sbs
 ankhexo.com
 ankitqtllc.com
 ankitsudhera.com
@@ -110268,6 +110271,7 @@ deranano1.ddns.net
 deranano2.ddns.net
 deranano5.ddns.net
 derananocore.ddns.net
+derariowag.com
 deratopatera.top
 derbederberk.sbs
 derbi.name.tr
@@ -149647,6 +149651,9 @@ firsatlardakiindirimlerdebugunler.cfd
 firsatlardakiindirimlerdebugunler.click
 firsatlardakiindirimlerdebugunler.sbs
 firsatlardakikacnlardanfirsat.sbs
+firsatlardangeriselerde.com.tr
+firsatlardangeriselerde.online
+firsatlardangeriselerde.xyz
 firsatlardanhaberdarol.online
 firsatlardanyararlan-a101.site
 firsatlardasoncare.cfd
@@ -149669,6 +149676,7 @@ firsatlardenizturkiye.com
 firsatlardenmobilde.xyz
 firsatlardestekliramazan.online
 firsatlardfsjdsfkd.hopto.org
+firsatlardiiyarri.com
 firsatlardiyari-eklmgunleri.store
 firsatlardnisftirat2.duckdns.org
 firsatlardunyam.com.tr
@@ -211949,6 +211957,7 @@ iyigidiyondevam.net
 iyigorunum.com
 iyigorunum.info
 iyigunler.online
+iyihaberleryakinda.com
 iyihayat.org
 iyihayatdernegikyzilytr.org
 iyihayatdernegikyzilyttr.org
@@ -226094,6 +226103,7 @@ kgm-govv.help
 kgm-guv.com
 kgm-hgs.com
 kgm-kgs.com
+kgm-ogi.com
 kgm-ogr.com
 kgm-ogs.com
 kgm-ogu.com
@@ -226258,6 +226268,7 @@ kgmtwebgecisodeee.duckdns.org
 kgmugs.cc
 kgmuild.cc
 kgmun.cc
+kgmuoy.ink
 kgmurl.link
 kgmuylamal.net
 kgmvgt.top
@@ -247220,6 +247231,7 @@ mercades-onlinesiparisler.net
 mercadesbasvuru.online
 mercadesonbasvuru.online
 mercadohelamn.zapto.org
+mercadolibrce.shop
 mercadomyjoin.hopto.org
 mercadora.net
 mercadostands.hopto.org
@@ -301638,6 +301650,7 @@ rakethogevaart.com
 rakez.cyou
 rakezy.ddns.net
 rakftzincorp.net
+rakgmwbhgsbrc.ddnsgeek.com
 rakhelp4u32712.tk
 rakhelp4u327123.tk
 rakhelp4u3271234.tk
@@ -310018,6 +310031,7 @@ sabahkampanyam.cf
 sabahkent.net
 sabahlaanemlaakode.net
 sabahlaansabaaahilen.net
+sabahlar-bizehepozel.com
 sabahlarakadar.app
 sabahlarandevularinizzz.net
 sabahlariyuklemelerinz.com
@@ -343376,6 +343390,7 @@ tattomattokatto.site
 tattomatwhytokatto.site
 tattooremoval.tech
 tattowhymattowhykatto.site
+tattvastudio.site
 tatufirsat.com
 tatwhotowhymattowhykatto.site
 tau-5d9ef20ff039.herokuapp.com
