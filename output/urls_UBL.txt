@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-08 17:08:21 UTC
-! Total: 329761 rules
+! Last modified: 2025-10-08 18:13:39 UTC
+! Total: 329763 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40672,6 +40672,7 @@
 *://*.basvursu.com/*
 *://*.basvursvr.com.tr/*
 *://*.basvursvr.xyz/*
+*://*.basvurszx.com.tr/*
 *://*.basvurtcr.xyz/*
 *://*.basvurteklif.fun/*
 *://*.basvurtfk.com.tr/*
@@ -160176,6 +160177,7 @@
 *://*.iletisim-com.gq/*
 *://*.iletisim-cumhurbaskanligi.com/*
 *://*.iletisim-edevletgirisgovtr.tk/*
+*://*.iletisim-ekrandan-gorveaktar.cyou/*
 *://*.iletisim-haber-sorgu.cyou/*
 *://*.iletisim-hizli-geri-aktarma.store/*
 *://*.iletisim-hizmetlerim-porta.tk/*

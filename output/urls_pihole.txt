@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-08 17:08:21 UTC
-# Toplam: 413887 Domain
+# Son Güncelleme: 2025-10-08 18:13:39 UTC
+# Toplam: 413892 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57073,6 +57073,7 @@ basvursrz.xyz
 basvursu.com
 basvursvr.com.tr
 basvursvr.xyz
+basvurszx.com.tr
 basvurtanitimgonderyssxc42wv.duckdns.org
 basvurtcr.xyz
 basvurteklif.fun
@@ -199158,6 +199159,7 @@ iletisim-baskanligi-yonlendirme.site
 iletisim-com.gq
 iletisim-cumhurbaskanligi.com
 iletisim-edevletgirisgovtr.tk
+iletisim-ekrandan-gorveaktar.cyou
 iletisim-haber-sorgu.cyou
 iletisim-hizli-geri-aktarma.store
 iletisim-hizmetlerim-porta.tk
@@ -212195,6 +212197,7 @@ izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
 izeltasmekaniktakimfirsati.blogspot.com
+izeltasmkanikcantafirsati.blogspot.com
 izeltasonline.vip
 izeltaspremium.luminix.sbs
 izeltaspremiumis.juxtor.sbs
@@ -240150,6 +240153,7 @@ lzdasdbinfdrkmdalunjydid.com
 lzdlpw.top
 lzdq6btw.cn
 lzediamike.trade
+lzeltasfrsatimekanikcanta.blogspot.com
 lzermenmenexcz.net
 lzetwfkjg.com
 lzfcqlpam.com
@@ -310478,6 +310482,7 @@ sadeceonlninefirsatlffsc.blogspot.com
 sadeceonlninefirsatlscbs.blogspot.com
 sadeceonlninefirsdcs.blogspot.com
 sadeceonlnkamp.duckdns.org
+sadeceonlnscfirslt.duckdns.org
 sadeceonlnsdfirsatlarsa.duckdns.org
 sadeceonlnsfirsatlslarc.duckdns.org
 sadeceonlscffstrcv.blogspot.com
