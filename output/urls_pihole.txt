@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-09 17:01:51 UTC
-# Toplam: 414156 Domain
+# Son Güncelleme: 2025-10-09 18:12:54 UTC
+# Toplam: 414168 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -377,6 +377,7 @@
 02e67686.yh764theb.com.cn
 02ekim-c.art
 02ekim-comtr.art
+02ekimde-frst.art
 02hgs.com
 02i58sa1.duckdns.org
 02iade-hizmetleriniz.com
@@ -26169,6 +26170,7 @@ aci8cb1.duckdns.org
 aciaphkasa.net
 acibadem.online
 acibadem.typeform.com
+acibademacevgovtr.typeform.com
 acibademcemesdomenesgoyenes.site
 acibademkurumsalorg.typeform.com
 acibademmacunu.bid
@@ -52218,6 +52220,7 @@ axesfirsat.org.tr
 axesfirsatlari.com.tr
 axesfirsatlari.net.tr
 axesfirsatlari.org.tr
+axeshep.click
 axesleee-sizi-bekliyoruzzz.top
 axesliol.click
 axesliyoruz.top
@@ -52650,6 +52653,7 @@ aypir.com
 ayportrayal.top
 aypzuiy.com
 ayr16e5.duckdns.org
+ayran.click
 ayranger.ddns.net
 ayranger10.ddns.net
 ayranger9.ddns.net
@@ -72490,6 +72494,7 @@ bizimbag.com
 bizimbilgi.info
 bizimburadanfirsatlarintakensineulasirsiniz.com.tr
 bizimburadanfirsatlarintakensineulasirsiniz.xyz
+bizimburalargzl.click
 bizimdanismanlik.com.tr
 bizimekip.net
 bizimfirma75.com
@@ -151682,6 +151687,7 @@ flrstlargelsinsana.duckdns.org
 flrstlarkcrmamakuzere.duckdns.org
 flrstlmdslmflf.duckdns.org
 flrstlr-ozel-bvtr-in.me
+flrstlr-ozel-vtr-in.me
 flrstlr-ozl-vtr-in.me
 flrstlrikmczskktrms.com
 flrstlrkacirmayi1temmuz.xyz
@@ -225554,6 +225560,7 @@ kendim-icin-dijital.net
 kendim-icin-dijital.org
 kendim-icin-sayfalartr-in.sa.com
 kendime-ozel-sunucu-kulanimi.ml
+kendimicin-gunes-tr-in.za.com
 kendimincuzdani.com
 kendimiz-fedakarlik-yaptik-gelen-gorer.com
 kendimizdenmigecelimdayi.com
@@ -226387,6 +226394,7 @@ kgmgovzztr.top
 kgmgrv.cfd
 kgmgv.life
 kgmgyo.life
+kgmgyto.cfd
 kgmhgecsewbgcshizliodeivblgi.duckdns.org
 kgmhgs.net
 kgmhgsbrcislm.com
@@ -286778,6 +286786,7 @@ persembefirsatlaribitmez.online
 persembefirsatlariss.net
 persembefirsatnisan.com
 persembefrager.com
+persembegunu-9eylul-zafocorium.com
 persembeindirimgunuc.com
 persembeindirimi23.com
 persembeindirimi75.com
@@ -291318,6 +291327,7 @@ prestigioinformativo.com
 prestigiouscoalition.top
 prestigiousloom.top
 prestigiousunderlying.top
+prestij-diploma.com
 prestij-insankaynaklari.com
 prestijdiploma.com
 prestijrentacars.com
@@ -314953,6 +314963,7 @@ sahibininden.ile-ilan-guvende.com
 sahibininindenguvenlifaturasistemi.com
 sahibininnden-mobil.app
 sahibiniz.top
+sahibinizbiziz.click
 sahibinnden.com.tr
 sahibinnden.epizy.com
 sahibinnden.online
@@ -320531,6 +320542,7 @@ sendehemenkatilkampanyaya.site
 sendehemenklymrs.com
 sendehemenndestekol.com
 sendehementemmmuzah.duckdns.org
+sendeheryeralsverklrkrrmmm.duckdns.org
 sendehizlicakazan.cfd
 sendehizlislmtkrm.blogspot.com
 sendehmnburayagelmlisinki.cfd
