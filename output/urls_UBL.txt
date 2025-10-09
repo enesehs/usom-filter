@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-09 14:09:17 UTC
-! Total: 329962 rules
+! Last modified: 2025-10-09 15:26:54 UTC
+! Total: 329978 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12509,6 +12509,7 @@
 *://*.99923643.cloud/*
 *://*.99925.site/*
 *://*.999444633.cloud/*
+*://*.9995121891231321.tech/*
 *://*.999626999.cloud/*
 *://*.9999000009999000002.cloud/*
 *://*.9999010010100001.cloud/*
@@ -26956,6 +26957,7 @@
 *://*.aldinnkampanyalari.sbs/*
 *://*.aldinnnnaldinnnnnkamcmdayklasmdir.store/*
 *://*.aldinnnnaldinnnnnkamcmdayklasmdiyzrladn.tech/*
+*://*.aldinnnnaldinnnnnkamcmdayklasmeendr.store/*
 *://*.aldinnnnaldinnnnnkamcmmzkflgkrmfmkc.tech/*
 *://*.aldinonlinealdin.site/*
 *://*.aldinpazartesialdintestere.xyz/*
@@ -30397,6 +30399,7 @@
 *://*.annelerimizozeldir101de.shop/*
 *://*.annelrgunukarcada.com/*
 *://*.annemarieotey.com/*
+*://*.annenizhavliyor.click/*
 *://*.annesipiscocukcoskun.online/*
 *://*.annesiyletanistim.com/*
 *://*.annetterawlings.com/*
@@ -37233,6 +37236,7 @@
 *://*.azulviagens.online/*
 *://*.azumo.xyz/*
 *://*.azurafree.xyz/*
+*://*.azure-app.store/*
 *://*.azure-cloud1.co.za/*
 *://*.azure-cloud1.web.za/*
 *://*.azure-cloud2.co.za/*
@@ -52522,6 +52526,7 @@
 *://*.bireyselak.net/*
 *://*.bireyselakbankcilik.com/*
 *://*.bireyselakbankk.com/*
+*://*.bireyselalim.com.tr/*
 *://*.bireyselalsat.com.tr/*
 *://*.bireyselbahar-acikdenizv2denizbank.com/*
 *://*.bireyselbaharvakifgiris.digital/*
@@ -63031,6 +63036,7 @@
 *://*.buliopildasa.site/*
 *://*.bulk-approach.site/*
 *://*.bulk-kart.com/*
+*://*.bulkart.site/*
 *://*.bulkbarracks.top/*
 *://*.bulkcomplacency.top/*
 *://*.bulkdomain.church/*
@@ -64010,6 +64016,7 @@
 *://*.butcenizi-dusunen-hediyeler-burada-sizinle.com/*
 *://*.butceniziyormyanfiyatlar.com.tr/*
 *://*.butceniziyormyanfiyatlar.xyz/*
+*://*.butcesarsintisi.cfd/*
 *://*.butceyonetimi.info/*
 *://*.butdolpolda.site/*
 *://*.butemmuzunsezonlarinikaciirma.com/*
@@ -67703,6 +67710,7 @@
 *://*.cdn-abc.site/*
 *://*.cdn-ampproject.com/*
 *://*.cdn-analytics.co/*
+*://*.cdn-apple.info/*
 *://*.cdn-casper.com/*
 *://*.cdn-chrome.com/*
 *://*.cdn-code-jquery.info/*
@@ -99393,6 +99401,7 @@
 *://*.ebdkonline-iadeform1-talepler.com/*
 *://*.ebdkonline-iadeform1-talepler.online/*
 *://*.ebebabasvurutabletdestegi.com/*
+*://*.ebebebebebebekkk.xyz/*
 *://*.ebebek-store.ir/*
 *://*.ebebekci.com/*
 *://*.ebebekstore.ir/*
@@ -126960,6 +126969,7 @@
 *://*.gelbenburdayimsetpet.space/*
 *://*.gelbendesendeberen.net/*
 *://*.gelberiberi.com/*
+*://*.gelbilibili.cfd/*
 *://*.gelbirdeburdanyak.com/*
 *://*.gelbizdeal.biz.tr/*
 *://*.gelbizdeal.com.tr/*
@@ -169838,6 +169848,7 @@
 *://*.istnblkartyukleme.net/*
 *://*.istnblkartyuklle.tech/*
 *://*.istnblkkrtx.net/*
+*://*.istnblknltnamln.online/*
 *://*.istnblkrltsndntans.online/*
 *://*.istnblkrt-geldk.net/*
 *://*.istnblkrt-ykle.net/*
@@ -172554,6 +172565,7 @@
 *://*.izmiskart-yukle.net/*
 *://*.izmiskartla-yklee.net/*
 *://*.izmitindirim.com/*
+*://*.izmitliler.cfd/*
 *://*.izmixbakiyeyuklee.net/*
 *://*.izmixrcant.net/*
 *://*.izmixrkartodeme.net/*
@@ -281956,6 +281968,7 @@
 *://*.tr-get-ilanlarim.com/*
 *://*.tr-get-kurumsal.com.tr/*
 *://*.tr-get-secure.online/*
+*://*.tr-get-siparis.online/*
 *://*.tr-get.net/*
 *://*.tr-get.online/*
 *://*.tr-gets.online/*
@@ -284929,6 +284942,8 @@
 *://*.trendyoltakipcisatinal.com/*
 *://*.trendyolti.com/*
 *://*.trendyoltr.cf/*
+*://*.trendyoltr.org/*
+*://*.trendyoltr.vip/*
 *://*.trendyoltrade.com/*
 *://*.trendyoltrade2.com/*
 *://*.trendyolvip.com/*
@@ -300871,6 +300886,7 @@
 *://*.vkf-basvur.top/*
 *://*.vkf-bk.com/*
 *://*.vkf-bnk.com.tr/*
+*://*.vkf-bnk.net.tr/*
 *://*.vkf-bnk.tr/*
 *://*.vkf-cekilislhizmeti.cf/*
 *://*.vkf-digital.net/*
