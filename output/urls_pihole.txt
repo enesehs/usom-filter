@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-09 15:26:54 UTC
-# Toplam: 414143 Domain
+# Son Güncelleme: 2025-10-09 16:12:13 UTC
+# Toplam: 414144 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -190932,6 +190932,7 @@ homesizz.xyz
 homesjaxsizle.online
 homesjokerflexvakif.com
 homesjterkedfr.com
+homeskartalbddk.com
 homesker.xyz
 homeskerdasdacahsflesk.cloud
 homeskerdasdahokkaflesk.cloud
