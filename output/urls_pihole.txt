@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-09 03:25:49 UTC
-# Toplam: 413926 Domain
+# Son Güncelleme: 2025-10-09 04:11:12 UTC
+# Toplam: 413928 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -177116,6 +177116,7 @@ harcaharcafirsatlarisiredmiburada.sbs
 harcaharcahaftasonlari.sbs
 harcaharcaharcabiter.cfd
 harcaharcaharcabiter.sbs
+harcaharcaharcabitmebitemedide.online
 harcaharcaharcabitmez.cfd
 harcaharcaharcabitmez.sbs
 harcaharcaindirimler.cfd
@@ -326095,6 +326096,7 @@ sikayetvarmobil-10.sbs
 sikayetvarmobil-14.sbs
 sikayetvarmobil-19.sbs
 sikayetvarmobil-24.sbs
+sikayetvarmobil-26.sbs
 sikayetvarmobil-27.sbs
 sikayetvarmobil-30.sbs
 sikayetvarr-destek.cf
