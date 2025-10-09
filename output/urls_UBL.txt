@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-09 19:01:56 UTC
-! Total: 330001 rules
+! Last modified: 2025-10-09 20:10:05 UTC
+! Total: 330008 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12603,6 +12603,7 @@
 *://*.9eaa332e.top/*
 *://*.9ekim-guncel.art/*
 *://*.9ekim-oglen.art/*
+*://*.9ekimde-aksam.art/*
 *://*.9enpn.tw/*
 *://*.9eptmarket.com/*
 *://*.9eylulakfirsatlarimlavesizlerle.com.tr/*
@@ -76203,6 +76204,7 @@
 *://*.crewwworks.com/*
 *://*.crexen.xyz/*
 *://*.crfagstdan.com/*
+*://*.crfagstdan.info/*
 *://*.crfagstdan.online/*
 *://*.crfdeglsecrfrsda.com/*
 *://*.crfdn-cfry.shop/*
@@ -114124,6 +114126,7 @@
 *://*.eylulflrsattlarr.com/*
 *://*.eylulformonay.org/*
 *://*.eylulhediyekampanyasi.com/*
+*://*.eylulhediyen.cfd/*
 *://*.eyluliadeler-sekmesi.xyz/*
 *://*.eyluliadeleri-qnb.com/*
 *://*.eylulikigeldideindirimler.shop/*
@@ -199872,6 +199875,7 @@
 *://*.mhzfolw.com/*
 *://*.mi-scooter.co/*
 *://*.mi3g.com/*
+*://*.mi6govukbfxe5pzxqw3otzd2t4nhi7v6x4dljwba3jmsczozcolx2vqd.top/*
 *://*.miaariacademy.com/*
 *://*.miamirecyclecenters.com/*
 *://*.miamiwhiteroyce.website/*
@@ -231255,6 +231259,7 @@
 *://*.pirijinko.ru/*
 *://*.pirimanabc11.site/*
 *://*.pirinclerbokenesgunlersizde.xyz/*
+*://*.pirireist.cfd/*
 *://*.pirkettin.com/*
 *://*.pirlay.fun/*
 *://*.pirlopays.buzz/*
@@ -259763,6 +259768,7 @@
 *://*.silencoffhub.com/*
 *://*.silensoksa-3.xyz/*
 *://*.silent3256.xyz/*
+*://*.silentcourier.ru/*
 *://*.silentframenow.com/*
 *://*.silenthill88.top/*
 *://*.silentwild.top/*
@@ -264719,6 +264725,7 @@
 *://*.sonicvivid.com/*
 *://*.sonifgyr5.cf/*
 *://*.sonificaton.com/*
+*://*.sonilsehri.cfd/*
 *://*.sonindiriimleriinennyeniibaslangiclari.shop/*
 *://*.sonindirim.shop/*
 *://*.sonindirim13aralikkacirma.online/*
