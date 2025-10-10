@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-10 12:22:54 UTC
-! Total: 330109 rules
+! Last modified: 2025-10-10 13:22:48 UTC
+! Total: 330130 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -951,6 +951,7 @@
 *://*.101-magaza.com.tr/*
 *://*.101-magaza.net/*
 *://*.101-magazalari.com.tr/*
+*://*.101-mamocdolar.com/*
 *://*.101-market-online.com/*
 *://*.101-mayis10firsat.com/*
 *://*.101-mayis10sabah.com/*
@@ -19668,6 +19669,7 @@
 *://*.aerosunelectric.com/*
 *://*.aerotecisag.com/*
 *://*.aerotransfer.cl/*
+*://*.aerovater.com/*
 *://*.aerusfirs.xyz/*
 *://*.aesbimcell.com/*
 *://*.aescollege.edu.pk/*
@@ -27954,6 +27956,7 @@
 *://*.allday.gr/*
 *://*.alldin-alldin-online-ozel.com/*
 *://*.alldnnnaldnnnfrstkpindasmdifrslrkpimda.store/*
+*://*.alldnnnaldnnnkpimdabcmatslmate.store/*
 *://*.alldnnnaldnnnkpimdabcmatslmt.store/*
 *://*.alldnnnaldnnnkpimdabcmfleng.tech/*
 *://*.alldnnxaldnnhftnn-yldzlliurnllri.net/*
@@ -58479,6 +58482,7 @@
 *://*.bnglo2024systemxcdm.com/*
 *://*.bnglobal-basvuru.com/*
 *://*.bnglobal.xyz/*
+*://*.bnglobalcapital.sbs/*
 *://*.bnglobalcenter.sbs/*
 *://*.bnglobaledge.sbs/*
 *://*.bnglobalfirsat.net/*
@@ -73086,6 +73090,7 @@
 *://*.cokdegistimbenkizim.net/*
 *://*.cokeziksiniz.cfd/*
 *://*.cokgezenti.name.tr/*
+*://*.cokgucluyuz.cfd/*
 *://*.cokgucluyuz.sbs/*
 *://*.cokguzel-firsat-1o1-kampanya.com/*
 *://*.cokguzelgunleraslakacirma.com.tr/*
@@ -88585,6 +88590,7 @@
 *://*.dijitalkobiwebnet-ziraatbireysel.com/*
 *://*.dijitalkontrol.app/*
 *://*.dijitalkontrolyap.life/*
+*://*.dijitalkonutbasvurusu.com/*
 *://*.dijitalkredi-akbireysel.com/*
 *://*.dijitalkredi-ziraat.com/*
 *://*.dijitalkredi-ziraatbireysel.com/*
@@ -97372,6 +97378,7 @@
 *://*.e-kontrol-ladelslemlerim-portal2021.tk/*
 *://*.e-kontrol-turkiye-gov-tr.org/*
 *://*.e-kontrolet.org/*
+*://*.e-konutprojesi.com/*
 *://*.e-krdverbasvur.net/*
 *://*.e-kredi-aidat-iadelerinizalin.net/*
 *://*.e-kredi-aidati-adeleriniz.net/*
@@ -102908,6 +102915,7 @@
 *://*.edqwasedqaw.store/*
 *://*.edqwasedrjfqjwa.com/*
 *://*.edqwedqadqeadwsz.com/*
+*://*.edremitlid.cfd/*
 *://*.edrnekpsubsesindeler.sbs/*
 *://*.edrnhe.oss/*
 *://*.edrni.com/*
@@ -119526,6 +119534,7 @@
 *://*.firsatt-indrrimller.com/*
 *://*.firsatt-urunleri-katalogu.com/*
 *://*.firsatta-bugunekimfirsatlaribugun.tech/*
+*://*.firsatta.sbs/*
 *://*.firsattaa.com/*
 *://*.firsattabugunkampanyasibance.tech/*
 *://*.firsattakibi.net/*
@@ -119659,6 +119668,7 @@
 *://*.firssatsigorta.site/*
 *://*.firsstklimamsokktan.com/*
 *://*.first-course.online/*
+*://*.first-larmzndsnokatlrmsnsz.com/*
 *://*.first-stk2023yeni.online/*
 *://*.first325.xyz/*
 *://*.first67001255.store/*
@@ -119786,6 +119796,7 @@
 *://*.firtzxp.com/*
 *://*.firusbulasmisfirus.com/*
 *://*.firvolta1o1.net/*
+*://*.firwourz.com/*
 *://*.firxstlarrmm-sizxllereozll.com/*
 *://*.firxttlrmm-mayyissonu.com/*
 *://*.firyama.com/*
@@ -168009,6 +168020,7 @@
 *://*.islem-hemencepte.life/*
 *://*.islem-hizli.net/*
 *://*.islem-hizlica.site/*
+*://*.islem-hizmetlerim-mobil.com.tr/*
 *://*.islem-iadem.app/*
 *://*.islem-islemeli.online/*
 *://*.islem-kira-tr-gov.gq/*
@@ -198738,6 +198750,7 @@
 *://*.melitbn-ir.pw/*
 *://*.melitemia.com/*
 *://*.melitravel.ru/*
+*://*.melkouz.com/*
 *://*.mella.top/*
 *://*.mellat-bnk.online/*
 *://*.mellatapp2.click/*
@@ -230713,6 +230726,7 @@
 *://*.petrolplatformu.com/*
 *://*.petrolpoint.top/*
 *://*.petrolsa-tr.com/*
+*://*.petrolstart.com/*
 *://*.petrolstr.com/*
 *://*.petroltr-kar.com/*
 *://*.petroltr.co/*
@@ -239038,6 +239052,8 @@
 *://*.pubmanoeuvre.top/*
 *://*.pubmgir.pw/*
 *://*.pubniadedeler.ml/*
+*://*.pubstorm.com/*
+*://*.pubstorm.net/*
 *://*.pubsuppressive.top/*
 *://*.pubupu.quest/*
 *://*.pudaskdsin.net/*
@@ -271977,6 +271993,7 @@
 *://*.swiftglo.com/*
 *://*.swiftjinx.com/*
 *://*.swiftleadsolutions.com/*
+*://*.swiftlinesolutionsltd.com/*
 *://*.swiftprivateserver.com/*
 *://*.swiftquasar.com/*
 *://*.swiftversity.com/*
@@ -272245,6 +272262,7 @@
 *://*.syntheticdeadlock.top/*
 *://*.synthexxus.com/*
 *://*.synthnet.ai/*
+*://*.synthsyncpro.com/*
 *://*.sypmw.com/*
 *://*.syriahr.eu/*
 *://*.syrmoe.com/*
@@ -275237,6 +275255,7 @@
 *://*.tctctrpandemiuygulamagirisitr2.com/*
 *://*.tctnzaikodwb.com/*
 *://*.tctoki.com/*
+*://*.tctokiform.org/*
 *://*.tctrbm8.com/*
 *://*.tctrbmhazinegovisler373.com/*
 *://*.tctrbmhazinegovisler73.com/*
@@ -287724,6 +287743,7 @@
 *://*.tumkullanicilaratrockaznmafirsatisimdibasvur.net/*
 *://*.tumkullanicilaratrockaznmafrsatisimdibasvur.net/*
 *://*.tumkullanicilarimizaq3audikazanmafirsati.net/*
+*://*.tummerata.com/*
 *://*.tummuz-katalogcusu-com.site/*
 *://*.tummyloft.com.tr/*
 *://*.tumodemeler.dev/*
@@ -326368,6 +326388,7 @@
 *://*.yuzbir-internetozel.online/*
 *://*.yuzbiraltusklimafirsatlar.com/*
 *://*.yuzbiraltusklimafirsatlarigiris.com/*
+*://*.yuzbirartifirsat.sbs/*
 *://*.yuzbirartistoks.sbs/*
 *://*.yuzbirbayramfirsatii.com/*
 *://*.yuzbircampany.com/*

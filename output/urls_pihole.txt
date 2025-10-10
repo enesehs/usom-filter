@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-10 12:22:54 UTC
-# Toplam: 414354 Domain
+# Son Güncelleme: 2025-10-10 13:22:48 UTC
+# Toplam: 414376 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1936,6 +1936,7 @@
 101-magaza.com.tr
 101-magaza.net
 101-magazalari.com.tr
+101-mamocdolar.com
 101-market-online.com
 101-marketim-haftasonukampanyalari.vercel.app
 101-marketleri-haftasonukampanyalari.vercel.app
@@ -31023,6 +31024,7 @@ aerospire.site
 aerosunelectric.com
 aerotecisag.com
 aerotransfer.cl
+aerovater.com
 aersix.ddns.net
 aerusfirs.xyz
 aesbimcell.com
@@ -40956,6 +40958,7 @@ alldataservice.com
 allday.gr
 alldin-alldin-online-ozel.com
 alldnnnaldnnnfrstkpindasmdifrslrkpimda.store
+alldnnnaldnnnkpimdabcmatslmate.store
 alldnnnaldnnnkpimdabcmatslmt.store
 alldnnnaldnnnkpimdabcmfleng.tech
 alldnnxaldnnhftnn-yldzlliurnllri.net
@@ -77051,6 +77054,7 @@ bngliadeler.net
 bnglo2024systemxcdm.com
 bnglobal-basvuru.com
 bnglobal.xyz
+bnglobalcapital.sbs
 bnglobalcenter.sbs
 bnglobaledge.sbs
 bnglobalfirsat.net
@@ -95183,6 +95187,7 @@ cokdegistimbenkizim.net
 cokepramehot.duckdns.org
 cokeziksiniz.cfd
 cokgezenti.name.tr
+cokgucluyuz.cfd
 cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
 cokguzelgunleraslakacirma.com.tr
@@ -114235,6 +114240,7 @@ dijitalkobivarliklar-ziraatbireysel.com
 dijitalkobiwebnet-ziraatbireysel.com
 dijitalkontrol.app
 dijitalkontrolyap.life
+dijitalkonutbasvurusu.com
 dijitalkredi-akbireysel.com
 dijitalkredi-ziraat.com
 dijitalkredi-ziraatbireysel.com
@@ -124605,6 +124611,7 @@ e-kolayodeme.net
 e-kontrol-ladelslemlerim-portal2021.tk
 e-kontrol-turkiye-gov-tr.org
 e-kontrolet.org
+e-konutprojesi.com
 e-krdverbasvur.net
 e-kredi-aidat-iadelerinizalin.net
 e-kredi-aidati-adeleriniz.net
@@ -130896,6 +130903,7 @@ edqwasedrjfqjwa.com
 edqwedqadqeadwsz.com
 edr4fliw.duckdns.org
 edrak4197.ddns.net
+edremitlid.cfd
 edrnekpsubsesindeler.sbs
 edrnhe.oss
 edrni.com
@@ -150475,6 +150483,7 @@ firsatt-basvurumobildeniz.com
 firsatt-indrrimller.com
 firsatt-urunleri-katalogu.com
 firsatta-bugunekimfirsatlaribugun.tech
+firsatta.sbs
 firsattaa.com
 firsattabugunkampanyasibance.tech
 firsattakibi.net
@@ -150616,6 +150625,7 @@ firsotlarbgunozell.site
 firssatsigorta.site
 firsstklimamsokktan.com
 first-course.online
+first-larmzndsnokatlrmsnsz.com
 first-stk2023yeni.online
 first-zmni-geldi-catti.duckdns.org
 first.getnewupdatesdownload.net
@@ -150757,6 +150767,7 @@ firts2level4.site
 firtzxp.com
 firusbulasmisfirus.com
 firvolta1o1.net
+firwourz.com
 firxstlarrmm-sizxllereozll.com
 firxttlrmm-mayyissonu.com
 firyama.com
@@ -247260,6 +247271,7 @@ melisileberat.love
 melitbn-ir.pw
 melitemia.com
 melitravel.ru
+melkouz.com
 mellat-bnk.online
 mellatapp2.click
 mellisdal23x.digital
@@ -287208,6 +287220,7 @@ petrolplatform.org
 petrolplatformu.com
 petrolpoint.top
 petrolsa-tr.com
+petrolstart.com
 petrolstr.com
 petroltr-kar.com
 petroltr.co
@@ -297412,6 +297425,8 @@ pubmanoeuvre.top
 pubmgir.pw
 pubniadedeler.ml
 pubs.infinityfreeapp.com
+pubstorm.com
+pubstorm.net
 pubsuppressive.top
 pubupu.quest
 pudaskdsin.net
@@ -341517,6 +341532,7 @@ swiftcode.work
 swiftglo.com
 swiftjinx.com
 swiftleadsolutions.com
+swiftlinesolutionsltd.com
 swiftprivateserver.com
 swiftquasar.com
 swiftrecruiters.slack.com
@@ -341871,6 +341887,7 @@ syntheticdeadlock.top
 synthexxus.com
 synthnet.ai
 synthnet.m1m1mapi.com
+synthsyncpro.com
 synyuklemee.sg-host.com
 synyuklemee1.sg-host.com
 synzx2.duckdns.org
@@ -345373,6 +345390,7 @@ tctctrpandemiuygulamagirisitr.com
 tctctrpandemiuygulamagirisitr1.com
 tctctrpandemiuygulamagirisitr2.com
 tctoki.com
+tctokiform.org
 tctrbm8.com
 tctrbmhazinegovisler373.com
 tctrbmhazinegovisler73.com
@@ -356825,6 +356843,7 @@ trendyol.ilanpaylas.net
 trendyol.ile-alimin.com
 trendyol.in
 trendyol.iranshik.com
+trendyol.islem-hizmetlerim-mobil.com.tr
 trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lat
@@ -360069,6 +360088,7 @@ tumkullanicilarasuzukiceklisidenzv6basvuru.net
 tumkullanicilaratrockaznmafirsatisimdibasvur.net
 tumkullanicilaratrockaznmafrsatisimdibasvur.net
 tumkullanicilarimizaq3audikazanmafirsati.net
+tummerata.com
 tummuz-katalogcusu-com.site
 tummyloft.com.tr
 tumodemeler.dev
@@ -408994,6 +409014,7 @@ yurticikargo.app
 yurticikargo.banaozel.org
 yurticikargo.click
 yurticikargo.com-kargo-takip.sepette-odeme.click
+yurticikargo.com.se
 yurticikargo.epizy.com
 yurticikargo.gq
 yurticikargo.kisalnk.shop
@@ -409181,6 +409202,7 @@ yuzbir-gonder-gelsin.top
 yuzbir-internetozel.online
 yuzbiraltusklimafirsatlar.com
 yuzbiraltusklimafirsatlarigiris.com
+yuzbirartifirsat.sbs
 yuzbirartistoks.sbs
 yuzbirayuz.duckdns.org
 yuzbirbayramfirsatii.com
