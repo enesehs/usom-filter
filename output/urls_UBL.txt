@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-10 14:08:59 UTC
-! Total: 330137 rules
+! Last modified: 2025-10-10 15:08:49 UTC
+! Total: 330154 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10306,6 +10306,7 @@
 *://*.65498746158961513151.cloud/*
 *://*.65498794165989784.net/*
 *://*.654f0c60385dacdc2396c60.net.tr/*
+*://*.654f0c60zfgadacdc2396c60.com.tr/*
 *://*.654sa16d5sa16d41as.site/*
 *://*.654sa65ds98a6das65.site/*
 *://*.654sad6as46523.site/*
@@ -93815,6 +93816,7 @@
 *://*.e-bddkiade.com/*
 *://*.e-bdk-onlineislemiadebildirim.com/*
 *://*.e-bdode.net/*
+*://*.e-bebegim.net/*
 *://*.e-bebek.online/*
 *://*.e-bebek.store/*
 *://*.e-beldeportal.com/*
@@ -105827,6 +105829,7 @@
 *://*.eljhkdbseffbwenng.net/*
 *://*.elka-kremlin.ru/*
 *://*.elkarmacompound.com/*
+*://*.elkendinsc.com/*
 *://*.elki-kazan-2020.online/*
 *://*.elki-tickets.ru/*
 *://*.elkrrsbasuvrusbilgisayfamm.link/*
@@ -116082,6 +116085,7 @@
 *://*.feite.cc/*
 *://*.feixamdr01.xyz/*
 *://*.fejdgb.net/*
+*://*.fejyhy.com/*
 *://*.fejytyu.store/*
 *://*.fekeigawy.com/*
 *://*.fekelmedenbe.net/*
@@ -116132,6 +116136,7 @@
 *://*.fenabemyescenhenersis.site/*
 *://*.fenabik.click/*
 *://*.fenamod.org/*
+*://*.fenamu.com/*
 *://*.fenasisesescengen.site/*
 *://*.fencehumanitarian.top/*
 *://*.fenceplausible.top/*
@@ -118170,6 +118175,7 @@
 *://*.firsatazirve.com/*
 *://*.firsatbahari.com/*
 *://*.firsatbaharla.online/*
+*://*.firsatbasladi.cfd/*
 *://*.firsatbasvur.online/*
 *://*.firsatbasvur.xyz/*
 *://*.firsatbasvurr.xyz/*
@@ -161156,6 +161162,7 @@
 *://*.inancvakfi.store/*
 *://*.inancyrdm.com/*
 *://*.inandklrnzdnburdalar.com/*
+*://*.inandklrnzdnburdalar.online/*
 *://*.inanilmaz-kampanya-saati-basladi.shop/*
 *://*.inanilmaz-kampanya-saatibasladi.shop/*
 *://*.inanilmaz-kampanyasaatibasladi.shop/*
@@ -162760,6 +162767,7 @@
 *://*.indirimpesinde.store/*
 *://*.indirimrush.xyz/*
 *://*.indirimruzgarialdinaldin.shop/*
+*://*.indirimsaatiniyakala.cfd/*
 *://*.indirimsaatleri-guncel.com.tr/*
 *://*.indirimsaatleribasladi.com/*
 *://*.indirimsarkuterleri.com.tr/*
@@ -173804,6 +173812,7 @@
 *://*.jackjacob3256.xyz/*
 *://*.jacklosko.info/*
 *://*.jackmgir.pw/*
+*://*.jackpotmastersdanske.com/*
 *://*.jacks-ns.biz/*
 *://*.jacksonjames747.xyz/*
 *://*.jacmkt.com/*
@@ -186053,6 +186062,7 @@
 *://*.konutbasvurhizmetleri-89.net/*
 *://*.konutbasvurhizmetleri-99.net/*
 *://*.konutbasvuru.com/*
+*://*.konutbasvurulari.cloud/*
 *://*.konutbasvurusu.com/*
 *://*.konutcan.com/*
 *://*.konutdestegi6060.net/*
@@ -186656,6 +186666,7 @@
 *://*.krcnin-kahveesi.shop/*
 *://*.krcnin-kahvesi.shop/*
 *://*.krcnzdnsongnlri.com/*
+*://*.krcnzdnsongnlri.info/*
 *://*.krcnznszesundklari.com/*
 *://*.krconline.net.tr/*
 *://*.krconline.org.tr/*
@@ -187160,6 +187171,7 @@
 *://*.kredimbbvasubesizbasvuru.com/*
 *://*.kredimbende.com/*
 *://*.kredimburada.site/*
+*://*.kredimcebimde.cfd/*
 *://*.kredimdenizbanktan.tk/*
 *://*.kredimdenizbanktst.tk/*
 *://*.kredimdenizde.com/*
@@ -207023,6 +207035,7 @@
 *://*.musicaselaer.ru/*
 *://*.musicatheatre.com/*
 *://*.musicbandfiles.com/*
+*://*.musicboxcr.com/*
 *://*.musicbuis.sbs/*
 *://*.musicelasticity.top/*
 *://*.musicfile.top/*
@@ -212422,6 +212435,7 @@
 *://*.notrihok.com/*
 *://*.notsorgulamagranti.site/*
 *://*.nottopbkgmhizligecis.net/*
+*://*.notwinningbutpartici.com/*
 *://*.notwipaar.com/*
 *://*.notwithstandingzipper.top/*
 *://*.notwithstndingleue.top/*
@@ -216151,6 +216165,7 @@
 *://*.ogrenci-sistem-odeme.online/*
 *://*.ogrenci-sistem-odeme.shop/*
 *://*.ogrencibasvuru-hizmeti.org/*
+*://*.ogrencibil.sbs/*
 *://*.ogrenciburs.info/*
 *://*.ogrenciburslari.info/*
 *://*.ogrencibursu.com/*
@@ -254546,6 +254561,7 @@
 *://*.senbenhepseridevam.online/*
 *://*.senbenikullaniyorsun.xyz/*
 *://*.senbenlukluyuz.xyz/*
+*://*.senbennasilceharlasd.com/*
 *://*.senbennbiedecocugikmuuzolsun.com/*
 *://*.senbenolamazsin.com/*
 *://*.senbensirasiradevam.online/*
@@ -300491,6 +300507,7 @@
 *://*.villasepet.net/*
 *://*.villaservisim.com/*
 *://*.villasitelergibisiyok.ml/*
+*://*.villasmbuva.co.mz/*
 *://*.villasmodernhizli.online/*
 *://*.villasmodernhizli.xyz/*
 *://*.villayakut.com/*
