@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-10 18:13:14 UTC
-# Toplam: 414432 Domain
+# Son Güncelleme: 2025-10-10 19:01:50 UTC
+# Toplam: 414454 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1693,6 +1693,7 @@
 10010101-33342-1111.cloud
 100101010101010101101010.cloud
 10011.cloud
+10011110201011.duckdns.org
 1001cesitindirim.online
 1001chromokeyz.site
 1001incifirsatlar.com
@@ -49110,6 +49111,7 @@ askimsinsen.net
 askin-olayim-nisa.b-cdn.net
 askindanyanamyanam.xyz
 askingucu.net
+askinyolunda.com
 askjaskj12521.com
 askjffjlksa251.xyz
 askjfum.b-cdn.net
@@ -54860,6 +54862,7 @@ baharmarketdolum.online
 baharp-t-tmarket.cfd
 baharsizehdiyeveriyo.xyz
 baharvakfi.com
+baharyankisi.com
 baharyardim.xyz
 bahasaindowerguj.club
 bahaykuboeliterealty.com.au
@@ -56006,6 +56009,7 @@ barouzlastirma.com
 barovur.com
 barozingoyolma.pro
 barp10op.duckdns.org
+barpous.com
 barqued.pics
 barrackscensus.top
 barrackseminent.top
@@ -79030,6 +79034,7 @@ boosbuilder.com
 boosocearo.xyz
 boost.rosequery.tech
 boost.royalemc.xyz
+boostbykr.com
 boostcreatives-ai.com
 boostcreatives.ai
 boostdaphic.top
@@ -79793,6 +79798,7 @@ brakefortnight.top
 brakfastpaque.top
 bralardansnkzbrayaynlyrz.bond
 bralardansnkzynlynrz.sbs
+braldatyzsdsaxc.com
 bralntree.com
 bramloosveld.be
 brancertrgris.com.tr
@@ -125686,6 +125692,7 @@ e-tlyuklemeci.com
 e-tlyuklemeler.com
 e-tmode.net
 e-tmyode.net
+e-tokibasvuru.com
 e-tr-6yil-firsat.site
 e-tr-aidat-iadesi-gov-tr.com
 e-tr-link-iade.biz
@@ -149368,6 +149375,7 @@ firsatiba.com
 firsatibasvur.com
 firsatibasvuru.com
 firsatibireysel.com
+firsatibuyakaladim.cfd
 firsaticinbasvurkampanyasi.tech
 firsaticinbasvurukampanyasi.online
 firsaticincadirindirimim.online
@@ -151867,6 +151875,7 @@ flux-platform24.info
 flux-psychology.com
 flux2key.com
 fluxahead.com
+fluxaran.com
 fluxden.site
 fluxdens.crd.co
 fluxflare.online
@@ -182228,6 +182237,7 @@ hepiniz-aslinda-farkindayiz-sizler-icin-cabaladik.online
 hepinize20gb.com
 hepinizesamar.sbs
 hepinizezamantanidik.tk
+hepinizinamkbekleyin.com
 hepinizindegisiyotavirlari.com
 hepisiburda.com
 hepisiburda.online
@@ -199638,6 +199648,7 @@ ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
 ilkevim-online-islem.blogdns.com
 ilkevim250binbasvurusu.com
+ilkevimbasvuru.com
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimdanismanlik.com
 ilkevimkonutbasvuru.com
@@ -209278,6 +209289,7 @@ istanblzkart.net
 istanbmllkart.net
 istanbqrkart.net
 istanbu-l-karntiz.duckdns.org
+istanbu1l.click
 istanbudlaeglen.com.tr
 istanbuikart.com
 istanbuikart.net
@@ -250959,6 +250971,7 @@ moaoraafa.duckdns.org
 moaperadasfs.online
 mob-deniz1.my-homeip.com
 mob-deniz2.my-homeip.com
+mob-deniz4.my-homeip.com
 mob-dnz.my-homeip.com
 mob-dnz1.my-homeip.com
 mob-dnz4.my-homeip.com
@@ -287250,6 +287263,7 @@ petrolleriplatformu.me
 petrolleumteam.com
 petrollgas.com
 petrollprofit.com
+petrollspace.com
 petrollsupport.com
 petrolmce.top
 petrolme-way.com
@@ -307540,6 +307554,7 @@ riviararwa.xyz
 rivilegecti.top
 rivindu.ddns.net
 rivonpvypi.com
+rivxon.com
 rivyqup.com
 rixoria.xyz
 rixosbelekpremium.com
@@ -314731,6 +314746,7 @@ sahibindenparamguven.com
 sahibindenparamguven.de
 sahibindenparamguven.net
 sahibindenparamguvencdn.xyz
+sahibindenparamguvencede.com
 sahibindenparamguvencede.com.tr
 sahibindenparamguvend-e.epizy.com
 sahibindenparamguvendde.com
@@ -323685,6 +323701,7 @@ shabyhumne.top
 shabysubcriber.top
 shaci.one
 shacklesoflife.us
+shackron.com
 shacoinc.xyz
 shad21owshock.top
 shadev.live
@@ -332294,6 +332311,7 @@ sonfirst-hetxmn-aldin-aldin.shop
 sonfirsttxkmpnysindaa.net
 sonfirtea1.net
 sonfristlarburda101.store
+sonfrouz.com
 sonfrsat-burada.com
 sonfrsatlar-burada.com
 sonfrsatlar.sbs
@@ -357637,6 +357655,7 @@ triumphsic.org
 triumphsportscarclub-kzn.co.za
 triumverde.com
 triunzlpa.com
+trivanta.digital
 trivdsrg.online
 triveno.store
 trivenstoun.com
@@ -369260,6 +369279,7 @@ uzmanaviskiralama.bio
 uzmanayarlarservis.site
 uzmanben.net
 uzmanbul.org
+uzmancagrilar.com
 uzmancavus.sbs
 uzmandestegim.net
 uzmandestegimiz.site
@@ -393041,6 +393061,7 @@ x-raysusceptible.top
 x-rnfvcvu.org
 x-sahibinden.net
 x-sancak.com.tr
+x-solarys.com
 x-songn-sezonkapanis-x.com
 x-sso.com
 x-theme.world
@@ -396928,6 +396949,7 @@ xn--mtvlerhzlama-74bc.com
 xn--mtvmdbxvergix-59b.com
 xn--mtvtrafkcezaodeme-ivc.net
 xn--muayene-randevular-v0c.net
+xn--muhtalara-ve-yoksullara-maddi-destek-bed.on.drv.tw
 xn--mushroomenterprise-gk9j.top
 xn--musmutluyarnlar-ilc.com
 xn--mutluluk-getirren-yznz-gldren-a1o1comtr-indirimi-f8ebbbcc.site
