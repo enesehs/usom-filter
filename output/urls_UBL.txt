@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-10 15:08:49 UTC
-! Total: 330154 rules
+! Last modified: 2025-10-10 16:11:01 UTC
+! Total: 330164 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33916,6 +33916,7 @@
 *://*.asdafv5mybr5s.digital/*
 *://*.asdaganbe.click/*
 *://*.asdagasdaansd.click/*
+*://*.asdagbsda.click/*
 *://*.asdagvsdhaner.click/*
 *://*.asdahdasddq.xyz/*
 *://*.asdahfaleode.net/*
@@ -71793,6 +71794,7 @@
 *://*.clampplausible.top/*
 *://*.clampsystem.top/*
 *://*.clamwxax55.app/*
+*://*.clan.su/*
 *://*.clancommission.us/*
 *://*.clandecor.co.za/*
 *://*.clanitex.com/*
@@ -77863,6 +77865,7 @@
 *://*.customers-activities.site/*
 *://*.customers-recovery.site/*
 *://*.customerservice-coinbase.com/*
+*://*.customerspprt.com/*
 *://*.customgiftshouston.com/*
 *://*.customize-identity.info/*
 *://*.customjvupdate.live/*
@@ -102555,6 +102558,7 @@
 *://*.edevlettaidat6.com/*
 *://*.edevlettaidatiade.com/*
 *://*.edevlettakipvck2.cf/*
+*://*.edevlettapubasvuru.shop/*
 *://*.edevlettceptbasvr.com/*
 *://*.edevlette-aidatiadeleri.com/*
 *://*.edevlette-geri-iade-son-gun.xyz/*
@@ -160773,6 +160777,7 @@
 *://*.ilz840.com/*
 *://*.im-basvuru-portal.online/*
 *://*.im-basvurum-portal.online/*
+*://*.im-perial.com/*
 *://*.im9ov070725iqu.com/*
 *://*.imagecrowd.top/*
 *://*.imageinclude.top/*
@@ -168857,6 +168862,7 @@
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
 *://*.istanbuislemleri.click/*
+*://*.istanbuislemlerni.click/*
 *://*.istanbuislemlrnri.click/*
 *://*.istanbuislemlrrni.click/*
 *://*.istanbuk-islmi-istrse.lol/*
@@ -248470,6 +248476,7 @@
 *://*.sabanci-yatirim.com/*
 *://*.sabancibursu.xyz/*
 *://*.sabancikultur.org/*
+*://*.sabancinews.com/*
 *://*.sabancinews.website/*
 *://*.sabancinvestturkiey.com/*
 *://*.sabancitradeinvestment.com/*
@@ -255851,6 +255858,7 @@
 *://*.serkerdehefer.online/*
 *://*.serks215435.cloud/*
 *://*.sermarketin.com/*
+*://*.sermayehaber.info/*
 *://*.sermayehaberleri.org/*
 *://*.sermayelive.online/*
 *://*.sermayeplan.online/*
@@ -282127,6 +282135,7 @@
 *://*.tr-get-kurumsal.com.tr/*
 *://*.tr-get-secure.online/*
 *://*.tr-get-siparis.online/*
+*://*.tr-get-siparislerim.online/*
 *://*.tr-get.net/*
 *://*.tr-get.online/*
 *://*.tr-gets.online/*
@@ -290264,6 +290273,7 @@
 *://*.turksmtvode.gq/*
 *://*.turkssssmtvodeme.tk/*
 *://*.turksticaretbankasi.com/*
+*://*.turksticaretbankasi.org/*
 *://*.turkstore.info/*
 *://*.turktakipcihilesi.com/*
 *://*.turktakipcim.xyz/*
