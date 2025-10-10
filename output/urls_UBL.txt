@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-10 13:22:48 UTC
-! Total: 330130 rules
+! Last modified: 2025-10-10 14:08:59 UTC
+! Total: 330137 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58258,6 +58258,7 @@
 *://*.bncegloballink.sbs/*
 *://*.bnceglobalmarket.sbs/*
 *://*.bnceglobalmax.sbs/*
+*://*.bnceglobalmedia.sbs/*
 *://*.bnceglobalnet.sbs/*
 *://*.bnceglobalnetwork.sbs/*
 *://*.bnceglobalone.sbs/*
@@ -77043,6 +77044,7 @@
 *://*.cumaodemem.net/*
 *://*.cumaoglen30.com/*
 *://*.cumaonlineozel6.com/*
+*://*.cumaonlnefrstmz.com/*
 *://*.cumaramazanaksam.com/*
 *://*.cumarteifirsataddresi.com.tr/*
 *://*.cumarteifirsataddresi.online/*
@@ -85977,6 +85979,7 @@
 *://*.desteklikredi.online/*
 *://*.desteklikredi.pro/*
 *://*.destekmalikak.xyz/*
+*://*.destekmenkulkiymetler.com/*
 *://*.destekmerkez.com/*
 *://*.destekmerkezi.gq/*
 *://*.destekmerkezi.ml/*
@@ -157802,6 +157805,7 @@
 *://*.ibbekbilhmzeti26.net/*
 *://*.ibbekbilhmzeti27.net/*
 *://*.ibbethxtrn34-yklee.net/*
+*://*.ibbetwtw.click/*
 *://*.ibbfth-yklee.net/*
 *://*.ibbgkyvrg.net/*
 *://*.ibbgokayodme.net/*
@@ -168845,6 +168849,7 @@
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
 *://*.istanbuislemleri.click/*
+*://*.istanbuislemlrnri.click/*
 *://*.istanbuislemlrrni.click/*
 *://*.istanbuk-islmi-istrse.lol/*
 *://*.istanbukabilmerkezin.online/*
@@ -183245,6 +183250,7 @@
 *://*.kgm-govtr.sbs/*
 *://*.kgm-govtr.top/*
 *://*.kgm-govv.help/*
+*://*.kgm-govz-tr.cfd/*
 *://*.kgm-guv.com/*
 *://*.kgm-hgs.com/*
 *://*.kgm-kgs.com/*
@@ -267568,6 +267574,7 @@
 *://*.squareducks.download/*
 *://*.squarejeopardy.top/*
 *://*.squarescornful.top/*
+*://*.squarespace.com/*
 *://*.squarespacehr.com/*
 *://*.squashqwre.site/*
 *://*.squeamish.ru/*
