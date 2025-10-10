@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-10 08:13:16 UTC
-! Total: 330036 rules
+! Last modified: 2025-10-10 09:10:29 UTC
+! Total: 330063 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1854,6 +1854,7 @@
 *://*.10decadesmen.com/*
 *://*.10dime.com/*
 *://*.10eed5e95047.com/*
+*://*.10ekim-101firsatlari2025.com/*
 *://*.10ekimindi10.org/*
 *://*.10elevenlounge.com/*
 *://*.10eylulakfirsatlar.online/*
@@ -18530,6 +18531,7 @@
 *://*.acstreetinthemusypusy300.com/*
 *://*.act-gewichtsconsulent.store/*
 *://*.actbuildchange.com/*
+*://*.actedsda.cfd/*
 *://*.actforchange.biz/*
 *://*.actgnabarga.com/*
 *://*.actgrievny.fun/*
@@ -27948,6 +27950,7 @@
 *://*.allday.gr/*
 *://*.alldin-alldin-online-ozel.com/*
 *://*.alldnnnaldnnnfrstkpindasmdifrslrkpimda.store/*
+*://*.alldnnnaldnnnkpimdabcmatslmt.store/*
 *://*.alldnnnaldnnnkpimdabcmfleng.tech/*
 *://*.alldnnxaldnnhftnn-yldzlliurnllri.net/*
 *://*.alldo.club/*
@@ -30599,6 +30602,7 @@
 *://*.antipiracypetition.com/*
 *://*.antiproductionist.com/*
 *://*.antiprotozoal.com/*
+*://*.antiradar.life/*
 *://*.antirughenaturale.com/*
 *://*.antiservers.eu/*
 *://*.antisipargelir0203-fg.com/*
@@ -42520,6 +42524,7 @@
 *://*.baykarc.eu/*
 *://*.baykarcapitalgroup.space/*
 *://*.baykarcloud.com/*
+*://*.baykardevletprogrami.net/*
 *://*.baykardrone.com/*
 *://*.baykaress.icu/*
 *://*.baykarfirsati.online/*
@@ -58244,6 +58249,7 @@
 *://*.bnceglobalnetwork.sbs/*
 *://*.bnceglobalone.sbs/*
 *://*.bnceglobalpartners.sbs/*
+*://*.bnceglobalplus.sbs/*
 *://*.bnceglobalservices.sbs/*
 *://*.bnceglobalsolutions.sbs/*
 *://*.bnceglobalspace.sbs/*
@@ -58252,6 +58258,7 @@
 *://*.bnceglobaltrade.sbs/*
 *://*.bnceglobalvision.sbs/*
 *://*.bnceglobalworks.sbs/*
+*://*.bnceglobalzone.sbs/*
 *://*.bnceinstgrmkampan.com/*
 *://*.bncekcrmyndrmbufrs.shop/*
 *://*.bncekilisfirsatlarimobiltr.pro/*
@@ -59751,6 +59758,7 @@
 *://*.bonushusrani.com/*
 *://*.bonuskafa.click/*
 *://*.bonuskampanya.cf/*
+*://*.bonuskampanya.click/*
 *://*.bonuskampanya.ga/*
 *://*.bonuskampanya.ml/*
 *://*.bonuskampanya.tk/*
@@ -71848,11 +71856,19 @@
 *://*.clawmr.top/*
 *://*.clawsindia.com/*
 *://*.clawsrisingclimb.pics/*
+*://*.clay.rest/*
 *://*.clayaesthetics.top/*
+*://*.claybaster.top/*
 *://*.claycorpe.com/*
+*://*.claydc.top/*
 *://*.clayfabulous.top/*
+*://*.clayfenrirhuy.top/*
+*://*.clayhusas.sbs/*
 *://*.claymontsgrxer.life/*
 *://*.claynuts.pics/*
+*://*.clayrat.top/*
+*://*.clayratnik.top/*
+*://*.claysrat.top/*
 *://*.claystewardess.top/*
 *://*.claysuppress.top/*
 *://*.clazbrokerageservices.com/*
@@ -146727,6 +146743,7 @@
 *://*.herzaman-surekli-sekilde-sevindirmeye-devam.com/*
 *://*.herzaman-yanimizda-var-ol.cyou/*
 *://*.herzamanal.site/*
+*://*.herzamanburdayiz.cfd/*
 *://*.herzamandestek.online/*
 *://*.herzamanfirsat.cfd/*
 *://*.herzamanfirsat.shop/*
@@ -177778,6 +177795,7 @@
 *://*.kampanyabnak.online/*
 *://*.kampanyabnb.com/*
 *://*.kampanyabolbolhediye.com/*
+*://*.kampanyabonus.click/*
 *://*.kampanyabonus.com/*
 *://*.kampanyabonusfirsat.click/*
 *://*.kampanyaboom.xyz/*
@@ -178916,6 +178934,7 @@
 *://*.kampanyatemuzlariii.com.tr/*
 *://*.kampanyatemuzlariii.xyz/*
 *://*.kampanyatocuteormonthyearskatil.net/*
+*://*.kampanyatrink.click/*
 *://*.kampanyaugi.site/*
 *://*.kampanyaurunlerikapinizdasizlerle.com.tr/*
 *://*.kampanyaurunlerikapinizdasizlerle.xyz/*
@@ -183219,6 +183238,7 @@
 *://*.kgmeer.qpon/*
 *://*.kgmels.click/*
 *://*.kgmetc.qpon/*
+*://*.kgmgao.cfd/*
 *://*.kgmgc.cc/*
 *://*.kgmgcsihlalodemesi.com/*
 *://*.kgmgecisbilgi.sbs/*
@@ -194406,6 +194426,7 @@
 *://*.mackenziemacleod342.xyz/*
 *://*.maclefen.xyz/*
 *://*.macleodphotography.com/*
+*://*.macmafia.top/*
 *://*.macnavicat.com/*
 *://*.macombmgir.pw/*
 *://*.maconlineoffice.com/*
@@ -237071,6 +237092,7 @@
 *://*.pttburada.online/*
 *://*.pttburadankardes.com/*
 *://*.pttbuyandsell.online/*
+*://*.pttc.life/*
 *://*.pttcargo.casa/*
 *://*.pttcc.xyz/*
 *://*.pttcebimdeapp.com/*
@@ -280559,6 +280581,7 @@
 *://*.tokikonut.org/*
 *://*.tokikonutbasvuru.gq/*
 *://*.tokikonutbasvurum.com/*
+*://*.tokikonutbasvurun.com/*
 *://*.tokikonutbasvurusu.com/*
 *://*.tokikonutbasvuruun.net/*
 *://*.tokikonutdan.com/*
@@ -285442,6 +285465,7 @@
 *://*.trinkgeldi.click/*
 *://*.trinkheryerde.click/*
 *://*.trinkinizisisiz.online/*
+*://*.trinkkampanya.click/*
 *://*.trinkkolay.digital/*
 *://*.trinkle.click/*
 *://*.trinkli.click/*
@@ -286857,6 +286881,7 @@
 *://*.trustglobals.com/*
 *://*.trustlackyway.com/*
 *://*.trustmeeting.online/*
+*://*.trustnik.sbs/*
 *://*.trustnoone.cfd/*
 *://*.trustnoone2.cfd/*
 *://*.trustolive.top/*
@@ -325285,6 +325310,7 @@
 *://*.yonlendirme-2025.cfd/*
 *://*.yonlendirme-5192591290590125.shop/*
 *://*.yonlendirme-aktarma-merkez.cyou/*
+*://*.yonlendirme-buradan.sbs/*
 *://*.yonlendirme-kampanyam-iadelerim.website/*
 *://*.yonlendirme-link.click/*
 *://*.yonlendirme-linki.xyz/*
@@ -325571,6 +325597,7 @@
 *://*.youtubeadvan3242.xyz/*
 *://*.youtubee.life/*
 *://*.youtubehizmetleri.ml/*
+*://*.youtubeplusandroid.ru/*
 *://*.youtubereelsdownload.com/*
 *://*.youtubesyncapi.com/*
 *://*.youtubevancd.net/*
