@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-11 16:09:02 UTC
-! Total: 330266 rules
+! Last modified: 2025-10-11 17:01:48 UTC
+! Total: 330270 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5014,6 +5014,7 @@
 *://*.200182.cloud/*
 *://*.2009124.cloud/*
 *://*.200binkonutbasvurusu.com/*
+*://*.200domainaldik.click/*
 *://*.200grntibva.com/*
 *://*.2010-george-boring.com/*
 *://*.201000liradestekpaketi-indir.com/*
@@ -7425,6 +7426,7 @@
 *://*.2zgob.ru/*
 *://*.3-2-9-7-6-2.com/*
 *://*.3-3-3-33-3-333-33-333333321.sbs/*
+*://*.3-3-312-31-21321-213wedsasgfagsa.sbs/*
 *://*.3-a.net/*
 *://*.3-bayistrpanel.com/*
 *://*.3-denizbank.com/*
@@ -60792,6 +60794,7 @@
 *://*.brdafrstllrx-slznnsnouynii.com.tr/*
 *://*.brdafrstllrx-slzzznnsnouynii.com.tr/*
 *://*.brdafrstllrx-szxnnsnouynii.com.tr/*
+*://*.brdakifirsataralanaka.cfd/*
 *://*.brdan-alirsan-rahatlik-edersin.com/*
 *://*.brdangeldksznrdsnzbrda.shop/*
 *://*.brdangeldzlerasd.icu/*
@@ -156974,6 +156977,7 @@
 *://*.iadeformugaranti.com/*
 *://*.iadefrst-dvlt-2023.shop/*
 *://*.iadegaranti.online/*
+*://*.iadegarantilikapidanoktasizteslimat.cfd/*
 *://*.iadegarantisubebbva-tr.com/*
 *://*.iadegeldigovtr.online/*
 *://*.iadegerceklestirbn.net/*
