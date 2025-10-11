@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-11 19:01:42 UTC
-# Toplam: 414557 Domain
+# Son Güncelleme: 2025-10-11 20:01:54 UTC
+# Toplam: 414567 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14158,6 +14158,7 @@
 4zw90w21.duckdns.org
 4zzmy0rsu.duckdns.org
 5-135-125-106.cinfuserver.com
+5-552412124rwqfsacgahasfas.sbs
 5-agustos-indirimleri.com
 5-asur-plus-sepetim.shop
 5-bayistrpanel.com
@@ -80576,6 +80577,7 @@ brremlicens23.ddns.net
 brrightprrojecct.shop
 brrjimmceell.com
 brrncntccrgirs.com
+brrsadasfawrty.cfd
 brsakartyklemenyt.net
 brsakrtnexts.net
 brsemrglrd.net
@@ -221037,6 +221039,7 @@ kampanyalariphlipsa1o1.sbs
 kampanyalariteksayfadanyonetebilirvekayitolabilirsiniz.net
 kampanyalariveetkinliklerimizisorgulaynvebasvurun.net
 kampanyalariveetkinliklerimizisorgulaynvebasvurunuz.net
+kampanyalariyakalamakicinburayatikla.cfd
 kampanyalariyeniliyoruz.xyz
 kampanyalariyeniliyruz.xyz
 kampanyalarkapinda.shop
@@ -223338,6 +223341,7 @@ karinindiriminikacirma.shop
 karintnhzenaksgs.net
 karipsis.com
 karisik.pro
+karisikary.cfd
 karisim.name.tr
 kariycbmxcel.net
 kariyer-gratis.com
@@ -223356,6 +223360,7 @@ kariyerteknosa.space
 kariyeryurticikargo.online
 kariyr.net
 karjalamasoratalamatoraksalamavanbah.net
+karkaas674.shop
 karkaine.com
 karkar.zapto.org
 karkatalogirislemenusu.com
@@ -225143,6 +225148,7 @@ kazankazanhepsia1o1de.duckdns.org
 kazankazann.com
 kazankuveytturk.com
 kazanlab.com
+kazanma-sansi.cfd
 kazanmafirsati.tk
 kazanmafirsatiqnbden.ml
 kazanmafirsatlari.com
@@ -245119,6 +245125,7 @@ masakcezaportal.org
 masakcezasorgulama.org
 masakcezatr.com
 masakcezatr.org
+masakdava.net
 masakdenetim.com
 masakdosyagovtr.org
 masakdosyasorgu.com
@@ -310843,6 +310850,7 @@ sadcnonlinkmo.duckdns.org
 sadconlna1o1kamp.duckdns.org
 sadconlndekmp.duckdns.org
 sadcta-client.co.za
+sadcttgffirstlomlin.duckdns.org
 sadcuisine.top
 saddaddasdsadsabbbmmmmcelll.org
 saddasadssdasdadsadapaketykle.net
@@ -351987,6 +351995,7 @@ tokievim.com.tr
 tokigarantigiris.com
 tokiggbasvurularisf.blogspot.com
 tokigncelbasvuru.mooo.com
+tokigncelbavsv.mooo.com
 tokigovbasvurulari.com
 tokigovtr.b-cdn.net
 tokigovtr.com
@@ -352434,6 +352443,7 @@ toplukonutbasvurusu.com
 toplukonutidaresi.com
 toplukonutidaresibaskanligi.com
 toplukonutiidaresibaskanligi.com
+toplukonutlarbasvuru.com
 toplukonutlaridaresi.com
 toplukonutlsmler.org
 toplukonutprojesi.com
