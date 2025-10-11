@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-11 11:01:46 UTC
-! Total: 330239 rules
+! Last modified: 2025-10-11 12:14:11 UTC
+! Total: 330245 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6214,6 +6214,7 @@
 *://*.21yil-denizbank.com/*
 *://*.21yilaozelfirsatlar.com/*
 *://*.22-11-aser-redghf-chgf-tyhj.com/*
+*://*.22-54-389-74-68-32.cfd/*
 *://*.22-ocak-dev-kampanyalar.shop/*
 *://*.22-ocak-devkampanyalar.shop/*
 *://*.22-ocak-firsati.shop/*
@@ -152970,6 +152971,7 @@
 *://*.hmzetlrgrsbsvrlari.com/*
 *://*.hn.org/*
 *://*.hnahnsnahn.net/*
+*://*.hnankmamsflmkbmlksalkmdlksklmf33200.site/*
 *://*.hnaqrkzjt.com/*
 *://*.hnasmanbslfasdsafhatazdmnsy.xyz/*
 *://*.hnasmnasfmnnmsdgjhansfdasjk3131.xyz/*
@@ -179867,6 +179869,7 @@
 *://*.kapindaindirimonlinegunlerinizpp.online/*
 *://*.kapindaindirimonlinegunlerinizpp.xyz/*
 *://*.kapindaindrimlerbeklee.com/*
+*://*.kapindakapaliavantajlialisverissepeti.cfd/*
 *://*.kapindaki-harika-haberler-yeniden-geldi.com/*
 *://*.kapindakifirsat.online/*
 *://*.kapindakifirsatlarin.xyz/*
@@ -183287,6 +183290,7 @@
 *://*.kgm-gecis-ihlal-odemeleri.ml/*
 *://*.kgm-gecis-sorgu-com.tk/*
 *://*.kgm-gis.com/*
+*://*.kgm-gou.com/*
 *://*.kgm-gov-shop.top/*
 *://*.kgm-gov-tr.ink/*
 *://*.kgm-gov-tr.one/*
@@ -183318,6 +183322,7 @@
 *://*.kgm-guv.com/*
 *://*.kgm-hgs.com/*
 *://*.kgm-kgs.com/*
+*://*.kgm-ogc.com/*
 *://*.kgm-ogi.com/*
 *://*.kgm-ogr.com/*
 *://*.kgm-ogs.com/*
@@ -185366,6 +185371,7 @@
 *://*.kmsrogusugovptthyaphmnsz.com/*
 *://*.kmsrogutlamtekflbrptt.com/*
 *://*.kmsroguuzhemengovvptt.com/*
+*://*.kmsrosgls.com/*
 *://*.kmssorgllama.click/*
 *://*.kmssorguhizli.sbs/*
 *://*.kmssorgulama.online/*
