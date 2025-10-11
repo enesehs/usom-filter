@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-11 00:37:41 UTC
-# Toplam: 414481 Domain
+# Son Güncelleme: 2025-10-11 02:11:22 UTC
+# Toplam: 414484 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2255,6 +2255,7 @@
 101dx20i65440.storage.googleapis.com
 101efsanekasimindirimleri-online-alisveris-ozel-indirimler.online
 101egel.b-cdn.space
+101ekimayiindirim.online
 101ekstra.com
 101emarketuygun.com
 101enucuzuburada.com
@@ -155663,6 +155664,7 @@ garanbk.com
 garanbnt.click
 garanbons.click
 garanbons.com
+garanbonslar.click
 garanbsvrrrtoggggg.cloud
 garand-butik-urunler.xyz
 garanfinans.blog
@@ -163745,6 +163747,7 @@ giriskontrolyapisi.com
 giriskvveyt-40138429.com
 girislemenutr100yil.com
 girisler-basvurutr.online
+girisler-bn-kampanya.vercel.app
 girisler-guncel.com
 girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk
 girisler-onlinrbnnrctr.com
