@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-12 20:08:46 UTC
-# Toplam: 414681 Domain
+# Son Güncelleme: 2025-10-12 21:01:54 UTC
+# Toplam: 414685 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39776,6 +39776,7 @@ aldinaldinyilbasinaozel.com.tr
 aldinaldinyilbasiozel.com.tr
 aldinaldinyuzbirkampanyalari.space
 aldinaldndaburdayuzunuguldurecekfirsatt.com
+aldinaldnfrsatlarddaakcmzbu.giize.com
 aldinalinbitmezredmifirsatlari.cfd
 aldinalinbunlarkacmazfirsatlar.sbs
 aldinalinbunlarkacmazindirimler.cfd
@@ -101403,6 +101404,7 @@ customer-6yrth.duckdns.org
 customer-7876.duckdns.org
 customer-8vdhtrhre.duckdns.org
 customer-alert.ddns.net
+customer-mortgage-bvatr-in.ru.com
 customer-privhgssistem.ga
 customer-recovery.info
 customer-rewards3.xyz
@@ -175905,6 +175907,7 @@ halkilesubatfirsat.cf
 halkilesubatkampanyasi.ml
 halkilesubem.ml
 halkilesubem.tk
+halkim.click
 halkimabakiye.com.tr
 halkimburada.com
 halkimburadangirsin.com
@@ -352034,6 +352037,7 @@ tokibasvurulari.blogspot.com
 tokibasvurulari.help
 tokibasvurulari.online
 tokibasvurulari.org
+tokibasvurularibasladi.com
 tokibasvurularii.online
 tokibasvurularii.shop
 tokibasvurularin.shop
