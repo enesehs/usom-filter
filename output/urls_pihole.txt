@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-12 16:09:23 UTC
-# Toplam: 414647 Domain
+# Son Güncelleme: 2025-10-12 17:01:48 UTC
+# Toplam: 414659 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38157,6 +38157,7 @@ aktuel101kapida.com
 aktuel101online.site
 aktuel101online101.site
 aktuel101urunfirsatlari.top
+aktuel12ekimfirsizeltas.duckdns.org
 aktuel14.icu
 aktuel18eylulurunler.duckdns.org
 aktuela101.online
@@ -53055,7 +53056,9 @@ b-bconsult.com
 b-bmn.blogspot.com
 b-bnn.blogspot.com
 b-bwamenugirisilmonelinen.com
+b-bwamenugirislermobnliinen.com
 b-bwamenugirisllemonliinen.com
+b-bwamenugirislmonliinen.com
 b-cell-hizmetleriniz.gq
 b-cell-kampanyalar.gq
 b-cell-yukleyici.gq
@@ -87294,6 +87297,7 @@ carreefourmarketekimkampanylar.com
 carreefourmarketekimkampanylari.cfd
 carreefourmarketim.cfd
 carreefourmarketimekim.cfd
+carreefourmobilgiris2025.cfd
 carreefursazamni.com
 carreerfours.online
 carreeylulayifirsatlari.online
@@ -213259,6 +213263,7 @@ izmiristanbululasim.com
 izmiritimskrtm.net
 izmirixlexxx.com
 izmirizmirizmir.online
+izmirizmirtr.blogspot.com.tr
 izmirizodmlr.net
 izmirk4rtanadolu.net
 izmirkadrrod.net
@@ -227134,6 +227139,7 @@ kilometre.autos
 kilometre.sa.com
 kilometre3.shop
 kilometreaffedermi.cfd
+kilometrearacsorgulari.web.app
 kilometreb.web.app
 kilometrebilgisi.xyz
 kilometredebarinamazsin.web.app
@@ -227247,6 +227253,7 @@ kilometresorgulmac.web.app
 kilometresorgumetresi.web.app
 kilometresorgumyeri.web.app
 kilometresorguslmaz.com
+kilometresorgusu.cfd
 kilometresorgusu.com
 kilometresorgusu.duckdns.org
 kilometresorgusu.web.app
@@ -229091,6 +229098,7 @@ kmlmmlsite.site
 kmlmrsnsef.com
 kmlpttlsorgulama.click
 kmlrnzcxmr.ru.com
+kmlrsrgbrrdanyplrdsn.bond
 kmlsakv.com.tr
 kmlskorrms.com
 kmlsorzumk.com
@@ -253242,6 +253250,7 @@ mobilsahibindenparamguvende.com
 mobilsayfamislem.duckdns.org
 mobilsepet.online
 mobilsepetim-tr.online
+mobilservisi.com
 mobilservisler.online
 mobilservisler.xyz
 mobilservisleri.online
@@ -259332,6 +259341,7 @@ myonlichaver.hopto.org
 myonline-hsbcbank.com
 myonline.com.tr
 myonlinehsbcbank.com
+myonlineportal.org
 myonlychaaccveri.hopto.org
 myonlylucy.000webhostapp.com
 myopenreview.ddns.net
@@ -310899,6 +310909,7 @@ sadceyonlyeozalfrrstlar.blogdns.org
 sadchaira.top
 sadckampsd.duckdns.org
 sadcnonlinkmo.duckdns.org
+sadconlfsdridst.blogspot.com
 sadconlna1o1kamp.duckdns.org
 sadconlndekmp.duckdns.org
 sadcta-client.co.za
@@ -343559,6 +343570,7 @@ tanakakanuyrat.club
 tanati.co.za
 tanbgndolnfsfasarn.sbs
 tanbntrs.click
+tanbulkart.site
 tanc354.xyz
 tancarskiralama.com
 tancredis.com
