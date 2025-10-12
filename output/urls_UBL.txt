@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-12 18:11:06 UTC
-! Total: 330360 rules
+! Last modified: 2025-10-12 19:01:47 UTC
+! Total: 330366 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -117801,6 +117801,7 @@
 *://*.fintraxx.com/*
 *://*.finvami.com/*
 *://*.finxiio.com/*
+*://*.finxsons.com/*
 *://*.finyze.info/*
 *://*.fioha1.net/*
 *://*.fiollool.ga/*
@@ -134356,6 +134357,7 @@
 *://*.guncelfinans.com/*
 *://*.guncelfirsatgeldi.com.tr/*
 *://*.guncelfirsatgeldi.xyz/*
+*://*.guncelfirsatlar.cfd/*
 *://*.guncelfirsatlar.com.tr/*
 *://*.guncelfirsatlar.com/*
 *://*.guncelfirsatlara-101.com/*
@@ -183391,6 +183393,7 @@
 *://*.kgm-ogo.com/*
 *://*.kgm-ogr.com/*
 *://*.kgm-ogs.com/*
+*://*.kgm-ogtt.com/*
 *://*.kgm-ogu.com/*
 *://*.kgm-onlineodeme.org/*
 *://*.kgm-sorgu-com.tk/*
@@ -183518,6 +183521,7 @@
 *://*.kgmstrategy.com/*
 *://*.kgmswebgcsodemees.com/*
 *://*.kgmtr.org/*
+*://*.kgmtrr.cc/*
 *://*.kgmturkeytrodemelerim.net/*
 *://*.kgmugs.cc/*
 *://*.kgmuild.cc/*
@@ -246089,6 +246093,7 @@
 *://*.rewstong.com/*
 *://*.rexcarfilo.com/*
 *://*.rexj.ru/*
+*://*.rexlon.click/*
 *://*.rexspot7x.xyz/*
 *://*.rexstat35x.xyz/*
 *://*.reyevenet.com/*
@@ -293800,6 +293805,7 @@
 *://*.url-tiny.co/*
 *://*.url008.xyz/*
 *://*.urlablisim.xyz/*
+*://*.urlbrowser-fb.site/*
 *://*.urlca.com/*
 *://*.urlchecker.online/*
 *://*.urlclicks11.sbs/*
