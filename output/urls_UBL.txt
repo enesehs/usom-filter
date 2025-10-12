@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-12 19:01:47 UTC
-! Total: 330366 rules
+! Last modified: 2025-10-12 20:08:46 UTC
+! Total: 330374 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9345,6 +9345,7 @@
 *://*.50065com.com/*
 *://*.5009a51a0347.com/*
 *://*.500bin-konutbasvuru.cfd/*
+*://*.500binkonutbasvuru.cfd/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
@@ -23876,6 +23877,7 @@
 *://*.akbenvievrendinssd.com/*
 *://*.akbern.click/*
 *://*.akbern22.click/*
+*://*.akbern3.click/*
 *://*.akbeyazbankafirsatlari.xyz/*
 *://*.akbfaizsizkrdiii.cloud/*
 *://*.akbfinans.net/*
@@ -60969,6 +60971,7 @@
 *://*.brez.xyz/*
 *://*.brezilyacevizi.club/*
 *://*.brezzersmtv.org/*
+*://*.brfawgwwt.cfd/*
 *://*.brfnmuhobwyw.co.in/*
 *://*.brfour.com/*
 *://*.brfprimepoultryexporters.com/*
@@ -79249,6 +79252,7 @@
 *://*.davidstephensbanjo.com/*
 *://*.daviesdickens46424.xyz/*
 *://*.davina-claire.xyz/*
+*://*.davino.click/*
 *://*.davislandscape.company/*
 *://*.davomavo47.com/*
 *://*.davoport.org/*
@@ -266125,6 +266129,7 @@
 *://*.sosyalkazani.ml/*
 *://*.sosyalkontbasvuru.net/*
 *://*.sosyalkonut.shop/*
+*://*.sosyalkonut2026.com/*
 *://*.sosyalkonutbasvuru.net/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutilkevimilkisyerim.net/*
@@ -272868,6 +272873,7 @@
 *://*.t718zra.cn/*
 *://*.t7emmuzindirimyararlanile.com/*
 *://*.t7jgqhhq7.com/*
+*://*.t9t9tt9t923t2sfsg.sbs/*
 *://*.t9z.lol/*
 *://*.ta-pu.ir/*
 *://*.ta.tc/*
@@ -281207,6 +281213,7 @@
 *://*.toplukonutbasvurulari.cloud/*
 *://*.toplukonutbasvurum.cloud/*
 *://*.toplukonutbasvurusu.com/*
+*://*.toplukonutbasvurusutoki.cloud/*
 *://*.toplukonutidaresi.com/*
 *://*.toplukonutidaresi.net/*
 *://*.toplukonutidaresibaskanligi.com/*
@@ -287542,6 +287549,7 @@
 *://*.tstksltklstlstnm.net/*
 *://*.tstores.store/*
 *://*.tstsv.xyz/*
+*://*.tstwadxa.click/*
 *://*.tstwatcheshk.com/*
 *://*.tstwfwad.click/*
 *://*.tsubqrfqxobtljhmhizqaybq.biz/*
