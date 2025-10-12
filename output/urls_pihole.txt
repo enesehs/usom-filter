@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-12 14:01:56 UTC
-# Toplam: 414618 Domain
+# Son Güncelleme: 2025-10-12 15:03:01 UTC
+# Toplam: 414626 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58078,6 +58078,7 @@ basvurular-aile-com-resmibakanlikgovtr.tc
 basvurular-aile-com-resmibakanlikgovtr.tk
 basvurular-aile150.com
 basvurular-ailevesaglik-bakanlikgovtr.tk
+basvurular-basladi2025.blogdns.net
 basvurular-bddk.com
 basvurular-bilgilendirmesistemi.com
 basvurular-bireysel-kart-aidati.tk
@@ -76539,6 +76540,7 @@ bnance.ozelyenilikler.xyz
 bnance2022trsubemobil.com
 bnance500udtgiris.com
 bnanceaacountmustang-kazan.net
+bnanceagency.sbs
 bnancecoinhediyedunyasi2023.net
 bnanceddestek.com
 bnanceden2yilozelfirsatlari.ml
@@ -83904,6 +83906,7 @@ buyndnbklirsahrsyfnaolyrla.sbs
 buynorthwestairline.com
 buynoveltydoc.com
 buynow.com.pk
+buynowhub.click
 buyode.sg-host.com
 buyodeme.tk
 buyoldakemalsizlerle-ciftciarti.xyz
@@ -133287,6 +133290,7 @@ ekimfirsatlarini-yakala.com
 ekimfirsatleranolympus.net
 ekimflrsatlari.com
 ekimflrsatlari.store
+ekimflrsatlariburdakiwsynxmolpet.sbs
 ekimflrsatlarikacmazwsynx.com
 ekimflrsatlarikacmiyo.com
 ekimflrsatlarikacmiyorwsynxile.sbs
@@ -226569,6 +226573,7 @@ kgm-hgs.com
 kgm-kgs.com
 kgm-ogc.com
 kgm-ogi.com
+kgm-ogo.com
 kgm-ogr.com
 kgm-ogs.com
 kgm-ogu.com
@@ -342451,6 +342456,7 @@ t-mobile-okta.org
 t-msedge.world
 t-nzzv-irndwu.org
 t-o-k-i-basvurum.click
+t-o-k-i-basvurum.cyou
 t-odeme.online
 t-odeme.sa.com
 t-onlineii.ddns.net
@@ -352490,6 +352496,7 @@ toplukonutidaresibaskanligi.com
 toplukonutiidaresibaskanligi.com
 toplukonutlarbasvuru.com
 toplukonutlaridaresi.com
+toplukonutlarimsiparislerim.cloud
 toplukonutlsmler.org
 toplukonutprojesi.com
 toplukonutresmibasvuru-35.com
@@ -389506,6 +389513,7 @@ www-giristurkiyegovtr.com
 www-googel-com.ga
 www-googlcom.com
 www-google-com.ga
+www-google-maps.help
 www-google-store.com
 www-google.cc
 www-google.org
