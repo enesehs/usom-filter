@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 13:23:00 UTC
-# Toplam: 414839 Domain
+# Son Güncelleme: 2025-10-13 14:10:00 UTC
+# Toplam: 414844 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3956,6 +3956,7 @@
 12y60ko92.duckdns.org
 12yluepuz.duckdns.org
 13-11-waeszrx-sserxcfcvgh-rdffcvghb-fdgcv.com
+13-123-43-22-43.cfd
 13-93-121-205.plesk.page
 13-d.ru
 13-mayis-aktuel.store
@@ -20296,6 +20297,7 @@
 9938372717273636267272.click
 9938821hg238378918.cyou
 9938837716623545135.online
+994-56.sbs
 9943h43892h34873.icu
 994534294.dfgqdsd.ru
 9945425000342.cloud
@@ -43630,6 +43632,7 @@ anindaislemziraatbankasi.com
 anindaisllem.com
 anindajetkredim.click
 anindakalitelihizmet.pw
+anindakampanyahemen.site
 anindakapidafirsatlar.com.tr
 anindakapidafirsatlar.online
 anindakapidahizlafrsattt.com
@@ -136473,6 +136476,7 @@ enguvenlidenizmobil.ga
 enguvenliklisitelerimiz.com.tr
 enguvenliklisitelerimiz.online
 enguxelgunlersizlerinolsun101.tech
+enguz-ylz-ma.cfd
 enguzel-gunler-gececek-ozleyecegiz.pro
 enguzel.name.tr
 enguzelalisveris.online
@@ -167875,6 +167879,7 @@ grntibbvapromosyon.com
 grntibbvx.duckdns.org
 grntibca.cf
 grntibdvv.tk
+grntibilgilendirmesitesi.cfd
 grntibnkakmpya.com.tr
 grntibonus-meta.cfd
 grntibonus-metafb.cfd
