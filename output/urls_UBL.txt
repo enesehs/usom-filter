@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-13 17:08:18 UTC
-! Total: 330546 rules
+! Last modified: 2025-10-13 18:12:46 UTC
+! Total: 330560 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41246,6 +41246,7 @@
 *://*.basvurubtturkgiris.com/*
 *://*.basvuruburada.gq/*
 *://*.basvuruburadaarabankapida.net/*
+*://*.basvuruburda.sbs/*
 *://*.basvurubuzamandanerede.xyz/*
 *://*.basvuruceptecokkolay.xyz/*
 *://*.basvuruceptefirsatlarkapinda.com/*
@@ -88506,6 +88507,7 @@
 *://*.dijitalgiris-ziraatmobil.com/*
 *://*.dijitalgiris-ziraatmobilkampanya.com/*
 *://*.dijitalgiris-ziraatmobilweb.com/*
+*://*.dijitalgiris-ziraatonay.sbs/*
 *://*.dijitalgiris-ziraatweb.com/*
 *://*.dijitalgirisadresi-denizacik.com/*
 *://*.dijitalgirisgarantionline.com/*
@@ -88630,6 +88632,7 @@
 *://*.dijitalislemler-ziraatbireyselweb.com/*
 *://*.dijitalislemler-ziraatislemler.com/*
 *://*.dijitalislemler-ziraatkampanyaweb.site/*
+*://*.dijitalislemler-ziraatonay.sbs/*
 *://*.dijitalislemler-ziraatwebmobil.com/*
 *://*.dijitalislemler.xyz/*
 *://*.dijitalislemlergiris-denizacik.com/*
@@ -88715,6 +88718,7 @@
 *://*.dijitalkredi-ziraatbireysel.website/*
 *://*.dijitalkredi-ziraatkampanya.com/*
 *://*.dijitalkredi-ziraatmobilweb.com/*
+*://*.dijitalkredi-ziraatonay.sbs/*
 *://*.dijitalkredi-ziraatweb.com/*
 *://*.dijitalkredibasvur-ziraatbireysel.com/*
 *://*.dijitalkredibasvuru-ziraatbireysel.com/*
@@ -88926,6 +88930,7 @@
 *://*.dijitalsube-denizacik.com/*
 *://*.dijitalsube-guvenli-giris.xyz/*
 *://*.dijitalsube-vakifgiris.ml/*
+*://*.dijitalsube-ziraatonay.sbs/*
 *://*.dijitalsube.net/*
 *://*.dijitalsube.sbs/*
 *://*.dijitalsube.site/*
@@ -127231,6 +127236,7 @@
 *://*.gelburayakardesim.com.tr/*
 *://*.gelburayasende.net/*
 *://*.gelburdanalyapram.site/*
+*://*.gelburdsaistanbusld.store/*
 *://*.gelbuyoldanbizimle.com/*
 *://*.gelcursot.top/*
 *://*.geldeburayasendeber.net/*
@@ -176405,6 +176411,7 @@
 *://*.kacirilmaz-kampanyalar-2.cfd/*
 *://*.kacirilmaz-kampanyalar.cfd/*
 *://*.kacirilmiacaktir.click/*
+*://*.kacirilmicekler.cfd/*
 *://*.kacirilmiyacakiindirimozel.store/*
 *://*.kacirilmiyacakteslafestivali.com/*
 *://*.kacirisilimayacaksezonindirimlesi.shop/*
@@ -182392,6 +182399,7 @@
 *://*.kazankuveytturk.com/*
 *://*.kazanlab.com/*
 *://*.kazanma-sansi.cfd/*
+*://*.kazanma-zamani.cfd/*
 *://*.kazanmafirsati.tk/*
 *://*.kazanmafirsatiqnbden.ml/*
 *://*.kazanmafirsatlari.com/*
@@ -183902,6 +183910,7 @@
 *://*.kilometresorgusu.com/*
 *://*.kilometresorugustovpttav.com/*
 *://*.kilometretenure.top/*
+*://*.kilometreuzmani.cfd/*
 *://*.kilometrevehasarcom.shop/*
 *://*.kilometrevehasarkaydi.autos/*
 *://*.kilometrosgorgulamahemengovpttsxsaz.com/*
@@ -193357,6 +193366,7 @@
 *://*.lsykizwu.com/*
 *://*.lsym9q.cn/*
 *://*.lt0a2g.cn/*
+*://*.ltalntlalnalntlm.online/*
 *://*.ltc-btcturk.com/*
 *://*.ltcbtcturkkriptobasvuru.com/*
 *://*.ltcprize.com/*
@@ -222686,6 +222696,7 @@
 *://*.otobusbilt.online/*
 *://*.otobusbilt.xyz/*
 *://*.otobusibbyukle.net/*
+*://*.otobuskartinizburda.store/*
 *://*.otobusyukleme.net/*
 *://*.otobuzdolabi.cfd/*
 *://*.otobuzdolabi.cyou/*
@@ -224367,6 +224378,7 @@
 *://*.pademidonemi-desteksaglik.com/*
 *://*.padenizbank.com/*
 *://*.padilla324.xyz/*
+*://*.padisahimkmdeyizagacnr.cfd/*
 *://*.padonendavour.top/*
 *://*.padpasser-by.top/*
 *://*.padpremium.top/*
@@ -247490,6 +247502,7 @@
 *://*.rroneousdirector.top/*
 *://*.rrqafepng.biz/*
 *://*.rrqbh7n.cn/*
+*://*.rrrantiigarmobil.sbs/*
 *://*.rrrecords-ppc.com/*
 *://*.rrrecords-promo.com/*
 *://*.rrrhgss.com/*
@@ -257327,6 +257340,7 @@
 *://*.sgkasibasvuru.site/*
 *://*.sgkborcsorgulama.ga/*
 *://*.sgke.cc/*
+*://*.sgkhizmet-tru.cfd/*
 *://*.sgkhizmetdokumu.info/*
 *://*.sgkhizmetsorgulama.net/*
 *://*.sgkline.com/*

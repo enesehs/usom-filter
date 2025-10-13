@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 17:08:18 UTC
-# Toplam: 414878 Domain
+# Son Güncelleme: 2025-10-13 18:12:46 UTC
+# Toplam: 414894 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -43516,6 +43516,7 @@ anindabasvurunonaylidenizalbay.xyz
 anindabasvurunugonderdeniz.xyz
 anindabasvurunugonderdenizfast.xyz
 anindabasvuruyap.com
+anindabasvuruyap.mefound.com
 anindabayramaozelfirsatlarheryerde.xyz
 anindabayramfirsatlarisizlerlebirlikte.xyz
 anindabayramfirsatlarisizlerlebirlikteacil.xyz
@@ -57768,6 +57769,7 @@ basvurubnstr.com
 basvurubtturkgiris.com
 basvuruburada.gq
 basvuruburadaarabankapida.net
+basvuruburda.sbs
 basvurubuzamandanerede.xyz
 basvuruceptecokkolay.xyz
 basvuruceptefirsatlarkapinda.com
@@ -114183,6 +114185,7 @@ dijitalgiris-ziraatkampanyaweb.com
 dijitalgiris-ziraatmobil.com
 dijitalgiris-ziraatmobilkampanya.com
 dijitalgiris-ziraatmobilweb.com
+dijitalgiris-ziraatonay.sbs
 dijitalgiris-ziraatweb.com
 dijitalgiris.ziraatmobilweb.com
 dijitalgirisadresi-denizacik.com
@@ -114311,6 +114314,7 @@ dijitalislemler-ziraatbireyselgiris.com
 dijitalislemler-ziraatbireyselweb.com
 dijitalislemler-ziraatislemler.com
 dijitalislemler-ziraatkampanyaweb.site
+dijitalislemler-ziraatonay.sbs
 dijitalislemler-ziraatwebmobil.com
 dijitalislemler.xyz
 dijitalislemlergiris-denizacik.com
@@ -114396,6 +114400,7 @@ dijitalkredi-ziraatbireysel.sbs
 dijitalkredi-ziraatbireysel.website
 dijitalkredi-ziraatkampanya.com
 dijitalkredi-ziraatmobilweb.com
+dijitalkredi-ziraatonay.sbs
 dijitalkredi-ziraatweb.com
 dijitalkredibasvur-ziraatbireysel.com
 dijitalkredibasvuru-ziraatbireysel.com
@@ -114614,6 +114619,7 @@ dijitalsube-acikdenizvl4-com.tk
 dijitalsube-denizacik.com
 dijitalsube-guvenli-giris.xyz
 dijitalsube-vakifgiris.ml
+dijitalsube-ziraatonay.sbs
 dijitalsube.net
 dijitalsube.sbs
 dijitalsube.site
@@ -116169,6 +116175,7 @@ dnhlpemupjc.net
 dnhsmoeru.com
 dnizbankmobilonnyxx.net
 dnizimsubatkredikmhya.xyz
+dnizinbanksii.duckdns.org
 dnizkredikampnya.xyz
 dnizkrediocakkmpya.xyz
 dnizkrediuygunluk.xyz
@@ -160409,6 +160416,7 @@ gelburaya.com.tr
 gelburayakardesim.com.tr
 gelburayasende.net
 gelburdanalyapram.site
+gelburdsaistanbusld.store
 gelbuyoldanbizimle.com
 gelcursot.top
 geldeburayasendeber.net
@@ -218750,6 +218758,7 @@ kacirilmaz-kampanyalar-2.cfd
 kacirilmaz-kampanyalar.cfd
 kacirilmazcuma.theworkpc.com
 kacirilmiacaktir.click
+kacirilmicekler.cfd
 kacirilmiyacakiindirimozel.store
 kacirilmiyacakteslafestivali.com
 kacirisilimayacaksezonindirimlesi.shop
@@ -225310,6 +225319,7 @@ kazankazann.com
 kazankuveytturk.com
 kazanlab.com
 kazanma-sansi.cfd
+kazanma-zamani.cfd
 kazanmafirsati.tk
 kazanmafirsatiqnbden.ml
 kazanmafirsatlari.com
@@ -227404,6 +227414,7 @@ kilometresrglmayochi.web.app
 kilometreteknik.web.app
 kilometretenure.top
 kilometreuzmanblgisstem.web.app
+kilometreuzmani.cfd
 kilometrev.web.app
 kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
@@ -239986,6 +239997,7 @@ lt0a2g.cn
 lt7lgw.duckdns.org
 lt880urch.duckdns.org
 ltah2z1.duckdns.org
+ltalntlalnalntlm.online
 ltc-btcturk.com
 ltc001.zapto.org
 ltcbasvuru.form-btcturkkripto.com
@@ -277654,6 +277666,7 @@ otobusbilt.com
 otobusbilt.online
 otobusbilt.xyz
 otobusibbyukle.net
+otobuskartinizburda.store
 otobusyukleme.net
 otobuzdolabi.cfd
 otobuzdolabi.cyou
@@ -279788,6 +279801,7 @@ pademidonemi-desteksaglik.com
 padenizbank.com
 padfkcm.blogspot.com
 padilla324.xyz
+padisahimkmdeyizagacnr.cfd
 padkcrla.blogspot.com
 padkgmdm.blogspot.com
 padkvnk.blogspot.com
@@ -309059,6 +309073,7 @@ rrotoyolgecisonlineode.duckdns.org
 rrqafepng.biz
 rrqbh7n.cn
 rrr0he1.duckdns.org
+rrrantiigarmobil.sbs
 rrrecords-ppc.com
 rrrecords-promo.com
 rrrhgss.com
@@ -323907,6 +323922,7 @@ sgkbagkur.net.bedava-internet.com
 sgkbakanliklardestek.epizy.com
 sgkborcsorgulama.ga
 sgke.cc
+sgkhizmet-tru.cfd
 sgkhizmetdokumu.info
 sgkhizmetsorgulama.net
 sgkline.com
