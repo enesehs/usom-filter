@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 05:09:53 UTC
-# Toplam: 414699 Domain
+# Son Güncelleme: 2025-10-13 07:10:28 UTC
+# Toplam: 414712 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8662,6 +8662,7 @@
 222321313.cloud
 222322332.cloud
 2223232323153.cloud
+22232522500212.duckdns.org
 22234111.duckdns.org
 2228876238-6774344.com.tr
 2228876238-6774344.xyz
@@ -74380,6 +74381,7 @@ blissful-hamilton.85-114-138-155.plesk.page
 blissful-jackson.157-230-19-37.plesk.page
 blissfuldunes.com
 blissfulzerooooos690.ddnsfree.com
+blistoreign.shop
 bliter.hopto.org
 blitsinbetibetsatislari.com
 blitzfuture.online
@@ -92184,6 +92186,8 @@ cicekbahcesi.co
 cicekbahcesi.info
 cicekbahcesi.pro
 cicekbahcesi.site
+cicekbuketim.info
+cicekbuketim.vip
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
 cicekdiyari.co
@@ -104127,6 +104131,7 @@ dealermaneuver.top
 dealerpertamini.com
 dealervelocity.top
 dealfactory.fun
+dealfinderz.com
 dealhunt.website
 dealing.com.ng
 deallerospfosu.shop
@@ -133369,6 +133374,7 @@ ekiminkxmpanyalarigeldi.com
 ekiminozelkampanyalifiyatlarmm.com.tr
 ekiminozelkampanyalifiyatlarmm.online
 ekiminozelkampanyalifiyatlarmm.xyz
+ekiminsicakligiburadawsynx.shop
 ekiminsongunindirimis.online
 ekiminsurprizleridevamediyor7.com
 ekiminyldizlariwsynxmorbid.shop
@@ -146050,6 +146056,7 @@ fb-meta.cfd
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
+fb-redirect.click
 fb-reklamkutuphanem.cfd
 fb-sponsorluclik.site
 fb-sponsorluform.site
@@ -246541,6 +246548,7 @@ mcocsskan.net
 mcodashop-event.duckdns.org
 mcojis.duckdns.org
 mcollcollagen.com
+mconf.cyou
 mcoogdnyqi.duckdns.org
 mcowvawrvz.duckdns.org
 mcplayer.ddns.net
@@ -310945,6 +310953,7 @@ sadconlndekmp.duckdns.org
 sadcta-client.co.za
 sadcttgffirstlomlin.duckdns.org
 sadcuisine.top
+sadcyeonlinefirsatlaroz.blogdns.org
 saddaddasdsadsabbbmmmmcelll.org
 saddasadssdasdadsadapaketykle.net
 saddenfabulous.top
@@ -320540,6 +320549,7 @@ sellgiggle.top
 sellifypro.com
 sellitron.store
 selllify.shop
+selllvision.com
 sellmyhousebud.com
 sellmyhousequickly.website
 selloria.shop
@@ -349626,6 +349636,7 @@ thepttgovtrpoxt.top
 thepttgovts.icu
 thequantumai.org
 thequarry.ddns.net
+thequranlight.com
 therapeuticaftermath.top
 therapeuticalequation.top
 therapeuticalsanitary.top
@@ -352268,6 +352279,7 @@ tombankhaydi.click
 tombankhaydi.icu
 tombankhaydi.pics
 tombankhaydi.sbs
+tombankozels.sbs
 tombracket.com
 tombstonedesigns.co.za
 tomcat-1.to
@@ -366032,6 +366044,7 @@ ulnboh.com
 ulnsrdvzqg.duckdns.org
 uloab.com
 uloibdrupain.hopto.org
+ulomanit.news
 ulovablasr.online
 ulpraok.click
 ulqfwzrp.com
