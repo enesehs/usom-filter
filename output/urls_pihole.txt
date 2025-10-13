@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 18:12:46 UTC
-# Toplam: 414894 Domain
+# Son Güncelleme: 2025-10-13 19:01:44 UTC
+# Toplam: 414913 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26208,6 +26208,7 @@ achdrfq.duckdns.org
 achecker.tk
 achieveacuity.com
 achieveoperative.top
+achieverbreath.xyz
 achievesalutto.shop
 achimugu.com
 achimumuazi.hopto.org
@@ -42460,6 +42461,7 @@ americanpawnaz.com
 americansubsidy.com
 americanwestmedia.com
 americas-tsubaki-nakashima.com
+americovespucci.shop
 amerikanhastaneesi.com
 amerkesbankasi.com
 amerkezbankasi.com
@@ -79746,6 +79748,7 @@ bpuyekayit.com
 bpvdgrfu.com
 bpw6vpedb.duckdns.org
 bpwgtb.duckdns.org
+bpwk.xyz
 bpx70fks0.duckdns.org
 bpyo.in
 bq-foods.com
@@ -87622,6 +87625,7 @@ cartagena.duckdns.org
 cartagenacity.duckdns.org
 cartagening.com
 cartash.com
+cartatrantap.com
 cartdisplacement.top
 cartegoogleplau.ddns.net
 carteiradigital.ddns.net
@@ -88293,6 +88297,7 @@ cd48be0c.ieybfs7j447b.org.cn
 cd4b4b03.com
 cd4ym7x8a.duckdns.org
 cd5e527fb8.hopto.org
+cd66377.tw1.ru
 cd709sqac.duckdns.org
 cd7e1461-7.b-cdn.net
 cd8pd9.duckdns.org
@@ -165108,6 +165113,7 @@ glueinauguration.top
 gluer.ddns.net
 gluesubscriber.top
 glumberjack.top
+glutebikes.top
 glutensizkesifler.com
 glveindig.top
 glvrdt-dvt.com
@@ -249631,6 +249637,7 @@ migros.ekstra.site
 migros.elevateinnovatepro.com
 migros.it.com
 migros.tc
+migroscom.org
 migrosdenizkampanyalari.com
 migrosekstra.duckdns.org
 migrosguvenlisiparis.xyz
@@ -289448,6 +289455,7 @@ po-101.glitch.me
 po-bahrain-bh.top
 po.duckdns.org
 po.k4d3r.xyz
+po.rcwade.com
 po.starcyclone.com
 po.vatangate.com
 po01.ddns.net
@@ -309853,6 +309861,7 @@ rznfvqc70.duckdns.org
 rznmao.top
 rznylp.top
 rzqyj.com
+rzr.plex.name
 rzrncmv.org
 rzt.clayfenrirhuy.top
 rztrack.com
@@ -317661,6 +317670,7 @@ scala.tartarmob.co
 scaleforfeit.top
 scaleslaughter.top
 scaletai.com
+scaleturn.xyz
 scallopppo.xyz
 scallymilano.ddns.net
 scambait22.ddns.net
@@ -320231,6 +320241,7 @@ secverify-alert8b.hopto.org
 secverifyme-online.ddns.net
 secvsbinance.tech
 secwellsfago-wwwcom.ddns.net
+secx.avsecpnl.top
 secymbhrbj.net
 sed-basvuruyardimi.com
 sed.myworkstation.shop
@@ -324520,6 +324531,7 @@ shiory.annebruce.xyz
 ship-expert.gl.at.ply.gg
 ship-fill-value.com
 shipcynical.top
+shipfang.xyz
 shipment-docspdf.surge.sh
 shipmentcapsule.top
 shipmentdome.top
@@ -338363,6 +338375,7 @@ strivemultitude.top
 strivenickname.top
 strkmpyanaz0503.click
 strlzubu.duckdns.org
+strobe.click
 strodunido.xyz
 stroejsapps9amailreceipts.duckdns.org
 stroitelnye-jekologicheskie-materialy2016.ru
@@ -346014,6 +346027,7 @@ teachgalaxys.website
 teaching-arrangement.at.ply.gg
 teachingamiable.top
 teachingnutient.top
+teachingsound.xyz
 teachreren.click
 teachsolo.top
 teacoffe.net
@@ -352581,6 +352595,7 @@ toostatic.top
 tootco.ir
 tooth1256.xyz
 tootholive.top
+toothpastename.xyz
 toothportfolio.top
 toothugly.top
 tootopia.internetdocss.com
@@ -364123,6 +364138,7 @@ tvsnsvsz.xyz
 tvsonstok.shop
 tvspropertyindia.in
 tvstlftp.duckdns.org
+tvstream.click
 tvt4urkarac-r2saasmuaynesksk.net
 tvtdshlse.net
 tvtdslasskerss.net
@@ -365091,6 +365107,7 @@ u91qokq.duckdns.org
 u9551.v.qingcdn.com
 u96191l2.beget.tech
 u99.pro
+u9b.top
 u9f7j9h4.duckdns.org
 u9gj1qf.duckdns.org
 u9gq2b6u4iah07.com.de
@@ -380630,8 +380647,10 @@ we-are-society.cfd
 we-resistance.at.ply.gg
 we-site.net
 we-transfer2sp.ddns.net
+we.helpasist.com
 we.k4d3r.xyz
 we.primeviref.com
+we.sorvr.com
 we11rakcall3261.tk
 we1willcall317121.tk
 we1willcall3171212.tk
