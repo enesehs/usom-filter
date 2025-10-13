@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 09:12:02 UTC
-# Toplam: 414765 Domain
+# Son Güncelleme: 2025-10-13 10:11:04 UTC
+# Toplam: 414795 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63872,6 +63872,7 @@ bilgiduzenlememerkez.com
 bilgiedevlet.net
 bilgiedin-devlvtinmerkezibsvurum.com
 bilgiedinme2022.github.io
+bilgiedutr.wordpress.com
 bilgiekran.net
 bilgiekranim.net
 bilgiekranin.net
@@ -79279,6 +79280,7 @@ borsanabzi.com
 borsapetrolturk.com
 borsaptrl.com
 borsara-tr.com
+borsarapor.online
 borsarehberi.pro
 borsashop.com
 borsastratejileri.online
@@ -83307,6 +83309,7 @@ burdahzli.com.tr
 burdahzli.online
 burdaislem.22web.org
 burdakalip-izleyenler-icin-zamani-durdurur.top
+burdakanaemaents.cfd
 burdaki-her-sey-indirimde-sakin-burada.com
 burdaki-hersey-mutluedebilir.com
 burdaki-heveseleriniz.com
@@ -87615,6 +87618,7 @@ cartrasfa.online
 cartridgecave.co.za
 cartsadnessa.top
 cartzec.ddns.net
+carujgalz.shop
 carve842.xyz
 carveavenge.top
 carvecomi.fun
@@ -127572,6 +127576,7 @@ ecodriftix.com
 ecoenergiesplus.org
 ecofloraholland.nl
 ecofluxa.com
+ecogreenag.org
 ecoherba.com
 ecoinpairbunetwaleett.com
 ecole-saint-simon.net
@@ -133562,10 +133567,13 @@ ekolojiosmanli.space
 ekomekosedoo.site
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
 ekonomi2024-try-login.xyz
+ekonomiaktuel.online
 ekonomianaliz.online
+ekonomianaliz.org
 ekonomidestekhibesi.com
 ekonomidunyasi.best
 ekonomiduyuru.click
+ekonomiflow.live
 ekonomigelisimturkiye.site
 ekonomigoz.online
 ekonomigundem.best
@@ -133599,6 +133607,7 @@ ekonomikoru.online
 ekonomikriter.org
 ekonomikritik.online
 ekonomiksubem-teb.com
+ekonomikulubu.info
 ekonomikveri.net
 ekonomilive.online
 ekonominikfirsatlar.site
@@ -133606,10 +133615,12 @@ ekonomipaneli.click
 ekonomiportal.online
 ekonomiportali.online
 ekonomiportali.org
+ekonomipulse.world
 ekonomipusulasi.online
 ekonomist-turkey24.online
 ekonomitakibi.pro
 ekonomitime.online
+ekonomitrend.live
 ekonomix.online
 ekonomiyontemm.com
 ekonommax.com
@@ -148122,6 +148133,7 @@ finans25mayisozel.com
 finans5haziranaozel.com
 finans5haziranozel.com
 finansaidatiade.com
+finansajans.online
 finansal-duyurularim.online
 finansal-kasim-duyurularim.online
 finansal-mobilislemler.com
@@ -148373,6 +148385,7 @@ finansfirsati.com
 finansforumdenizbank.co.vu
 finansgirismenusi.com
 finansguncel.pro
+finansgundemi.world
 finanshaber.live
 finanshaber3401.site
 finanshaber3406.site
@@ -148420,6 +148433,7 @@ finanskredikartiborcusorgulamasi.org
 finanskredisorgulama.com
 finanskreial.vercel.app
 finanskritik.online
+finanskulis.online
 finansl-islemlerim.online
 finanslaabasvuruyap.vercel.app
 finanslacebimdolu.com
@@ -148432,6 +148446,7 @@ finansman--qnbfinansbank.com
 finansman.popytalep.online
 finansmankredi.com
 finansmansorgulamahizmeti.net
+finansmerkezi.info
 finansmerkezi.xyz
 finansmerkezim.site
 finansmerkezin.site
@@ -152194,6 +152209,7 @@ focusforeyes.buzz
 focusframephoto.com
 focusfusion.eastus.cloudapp.azure.com
 focussilentpausekangaroo.com
+focussspace.com
 focustime24.online
 focusum.store
 fodasekkkj.ddns.net
@@ -153776,6 +153792,7 @@ frostgocolochill.xyz
 frostporcelain.top
 frostwhimsy.xyz
 frostwillow.site
+frostwoodtrail.site
 frosty-boyd.138-68-79-25.plesk.page
 frosty-bush-fb94.net
 frosty-dewdney.78-135-105-137.plesk.page
@@ -167216,6 +167233,7 @@ gratis-indirim-gunleri.xyz
 gratis-j.dynuddns.com
 gratis-kariyer.com
 gratis-m.swanndvr.net
+gratis-mb.swanndvr.net
 gratis-mobile.dynuddns.com
 gratis-online-tr.com
 gratis-rt.dynuddns.com
@@ -225054,6 +225072,7 @@ kayravakfi.website
 kayro25125.com
 kayse.html-5.me
 kayserharikalardiyarinda.blogspot.com
+kayseriedutr8.wordpress.com
 kayserikart38.net
 kayserili3d.xyz
 kayserimalazgirtantalya.tk
@@ -225161,6 +225180,7 @@ kazancpromosyonu.com
 kazancpusulasi.world
 kazancrehber.online
 kazancrota.online
+kazancrota.world
 kazancrotasi.com
 kazancruhu.online
 kazancruhu.world
@@ -229966,6 +229986,7 @@ koikykii.com
 koinance.com
 koinekks.com
 koingo.blogspot.com
+koinhaber.online
 koinim-giris.com
 koinim-giris.xyz
 koinim-or.blogspot.com
@@ -235394,6 +235415,7 @@ lavastandirustasi.com
 lavatoryforetell.top
 lavatoryjeopardy.top
 lavatryinte.top
+lavbay.click
 laveitnet.com
 lavenderys.cfd
 laventia.co
@@ -263494,6 +263516,7 @@ nifedaqnjf.duckdns.org
 nifiedway.sbs
 nifipixdmd.duckdns.org
 nifty-wilbur.91-238-163-161.plesk.page
+niftygo.org
 nifvaanigowl.wcnv20.cn
 nifzupo.duckdns.org
 niga.ddns.net
@@ -334798,6 +334821,7 @@ speedmaxsupurgestok100.online
 speedmaxyuzbir.xyz
 speedpass.is-best.net
 speedproz.xyz
+speedrul.cfd
 speedshare.oss-cn-hongkong.aliyuncs.com
 speedtentative.top
 speedtestcheck.org
@@ -352146,6 +352170,7 @@ tokibsvrqlari.com
 tokibsvuru.com.tr
 tokibsvuru.online
 tokibsvuru.xyz
+tokiden0faiz.mooo.com
 tokiedevlet-20f08.kxcdn.com
 tokiedevletbasvur-20f08.kxcdn.com
 tokiedevletbasvur-21393.kxcdn.com
@@ -355215,6 +355240,7 @@ trafficanalyzer.biz
 trafficbadassery.com
 trafficel.ru
 trafficfast.online
+trafficgears.com
 traffichi.com
 traffickingconcede.top
 trafficmtvodeme.net
@@ -357049,6 +357075,7 @@ trend-mobil.mobile-gets.com.tr
 trend-yol.az
 trend-yol.store
 trend.derbederbonuslar.com.tr
+trend.finanskaynak.online
 trend.firsattanyararlan.com
 trend2.online
 trend3.online
@@ -368610,6 +368637,7 @@ utwjyi.top
 utwyn.com
 utxhbeistq.duckdns.org
 utydu21541.com
+utyglini.com
 utyrhgfhtujyhrgef.com
 utyus.icu
 uu.blackboard.rres.me
@@ -378041,6 +378069,7 @@ vortexium.live
 vortexstream.online
 vortexwander.shop
 vortiqon.site
+vorttiqonix.com
 vorud-be-panel.top
 vorud.top
 voscan23x.site
@@ -403318,6 +403347,7 @@ yatirim.turkmenkuldegerler.net
 yatirim360.online
 yatirimakli.world
 yatirimanaliz.org
+yatirimanaliz.world
 yatirimbasvuru.site
 yatirimbaykar.com
 yatirimbilgisi.info
