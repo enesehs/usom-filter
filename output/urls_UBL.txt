@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-13 11:08:11 UTC
-! Total: 330477 rules
+! Last modified: 2025-10-13 12:22:43 UTC
+! Total: 330493 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27228,6 +27228,7 @@
 *://*.algoturalaa.com.tr/*
 *://*.algoturalaa.online/*
 *://*.algoturalaa.xyz/*
+*://*.algoturdnbeni.cfd/*
 *://*.algoturkampnya.online/*
 *://*.algrtrrrd.com/*
 *://*.algsjsaj-aldiansab-aksna.cyou/*
@@ -27686,6 +27687,7 @@
 *://*.alisveriskeyfim.com.tr/*
 *://*.alisveriskolay.com.tr/*
 *://*.alisveriskolay.online/*
+*://*.alisveriskontrol.com.tr/*
 *://*.alisverisler-ile.com/*
 *://*.alisverisler-kabul.com/*
 *://*.alisverisler-tr.com/*
@@ -32699,6 +32701,7 @@
 *://*.aradiginn-herseyyburadaa.com.tr/*
 *://*.aradiginn-herseyyburadaa.xyz/*
 *://*.aradiginnevarsa.name.tr/*
+*://*.aradiginurunler.sbs/*
 *://*.aradiklarin-burada.com/*
 *://*.aradoneranevuleri.xyz/*
 *://*.araecxemkdx.net/*
@@ -37398,6 +37401,7 @@
 *://*.b-magaza.cf/*
 *://*.b-magaza.ga/*
 *://*.b-magaza.tk/*
+*://*.b-menkulyatirim.com/*
 *://*.b-metric.com/*
 *://*.b-name.website/*
 *://*.b-namysb.sbs/*
@@ -66498,6 +66502,7 @@
 *://*.canli-soohbet.net/*
 *://*.canli1shovchat.com/*
 *://*.canlichatsshow.ga/*
+*://*.canlicicekevi.com/*
 *://*.canlidestegi.com/*
 *://*.canlidestek-kimsesizz.com/*
 *://*.canlidestekuygulamalar.online/*
@@ -72262,6 +72267,7 @@
 *://*.cloisterliness.com/*
 *://*.clokdnr.com/*
 *://*.clokeringkisalink.xyz/*
+*://*.cloneinventive.com/*
 *://*.clonemandate.top/*
 *://*.clonesuite.top/*
 *://*.clonfra.com/*
@@ -76876,6 +76882,7 @@
 *://*.cspbyxeu.com/*
 *://*.cspg.pw/*
 *://*.csplendidbu453.xyz/*
+*://*.csprtnb.cfd/*
 *://*.csqxzfr.com/*
 *://*.csregdrf4sd.biz/*
 *://*.csregdrf4sd.info/*
@@ -115799,6 +115806,7 @@
 *://*.fb-meta.cfd/*
 *://*.fb-nameserver.com/*
 *://*.fb-redirect.click/*
+*://*.fb-redirecttr.cfd/*
 *://*.fb-reklamkutuphanem.cfd/*
 *://*.fb-sponsorluclik.site/*
 *://*.fb-sponsorluform.site/*
@@ -120737,6 +120745,7 @@
 *://*.flrstlr-ozel-bvtr-in.me/*
 *://*.flrstlr-ozel-vtr-in.me/*
 *://*.flrstlr-ozl-vtr-in.me/*
+*://*.flrstlr-ozzl-amr-in.me/*
 *://*.flrstlrikmczskktrms.com/*
 *://*.flrstlrkacirmayi1temmuz.xyz/*
 *://*.flrstlrkacirmayi30hzrn.xyz/*
@@ -137871,6 +137880,7 @@
 *://*.hadiuygulamasi.pics/*
 *://*.hadiuygulamasi.sbs/*
 *://*.hadiyavrumsdwe.net/*
+*://*.hadiyekamena.cfd/*
 *://*.hadiziraatle.com/*
 *://*.hadjer.boutique/*
 *://*.hadramout21.com/*
@@ -162124,6 +162134,7 @@
 *://*.indirageldim.xyz/*
 *://*.indircepsube.com/*
 *://*.indirdia1o1.net/*
+*://*.indirdik.sbs/*
 *://*.indirdikbekliyoruzserihizli.xyz/*
 *://*.indirdimliusrunlers.com/*
 *://*.indirdsm-app-plkaksd.store/*
@@ -263260,6 +263271,7 @@
 *://*.snoyreteve.top/*
 *://*.snpaqahmqh.biz/*
 *://*.snpkfhd.com/*
+*://*.snrkakindmgn.cfd/*
 *://*.snrlstoklonllne-indrmllr.net/*
 *://*.snrmfxko.cn/*
 *://*.snrsz20gbinternet.com/*
@@ -268626,6 +268638,7 @@
 *://*.stanleytermsotkelfsbrusa101ekstra.com/*
 *://*.stanleytkerlseisbtermburd.store/*
 *://*.stanleyvk.click/*
+*://*.stanleyyakinda.xyz/*
 *://*.stanlyarlikkczmazi666kacirma.com/*
 *://*.stanlytermos499a.com/*
 *://*.stanlyytermosteklifiifdfa101.com/*
@@ -272832,6 +272845,7 @@
 *://*.t-nzzv-irndwu.org/*
 *://*.t-o-k-i-basvurum.click/*
 *://*.t-o-k-i-basvurum.cyou/*
+*://*.t-o-k-i-bsvr.com/*
 *://*.t-odeme.online/*
 *://*.t-paramguvende-mobilode.co/*
 *://*.t-paribu.com/*
@@ -280955,6 +280969,7 @@
 *://*.tokiomarbuzki.com/*
 *://*.tokiomarklpc.com/*
 *://*.tokionlinebasvuru.com/*
+*://*.tokionlinebasvuru.org/*
 *://*.tokionlinebasvuruun.net/*
 *://*.tokionlineodeme.com.tr/*
 *://*.tokip-islemleri.click/*
@@ -283399,6 +283414,7 @@
 *://*.trabncadestek.com/*
 *://*.trabncdestekgiris.com/*
 *://*.trabncdestektr.com/*
+*://*.trabolucr.cfd/*
 *://*.trabolusubeleri.com.tr/*
 *://*.trabolusubeleri.online/*
 *://*.trabolusubeleri.xyz/*

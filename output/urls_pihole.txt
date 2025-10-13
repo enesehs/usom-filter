@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 11:08:11 UTC
-# Toplam: 414798 Domain
+# Son Güncelleme: 2025-10-13 12:22:43 UTC
+# Toplam: 414820 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -344,6 +344,7 @@
 02214455522002.duckdns.org
 022202120212021.mywire.org
 02220333teamaccount.com
+0222115451222.duckdns.org
 0222154542200.duckdns.org
 02222120212021.online
 0222212522202.duckdns.org
@@ -424,6 +425,7 @@
 033321552333.duckdns.org
 033323223213.online
 033325415230.duckdns.org
+0333311521130.duckdns.org
 033331545613.duckdns.org
 03498.weebly.com
 034absecureverify.duckdns.org
@@ -40171,6 +40173,7 @@ algoturala.xyz
 algoturalaa.com.tr
 algoturalaa.online
 algoturalaa.xyz
+algoturdnbeni.cfd
 algoturkampnya.online
 algrtrrrd.com
 algsjsaj-aldiansab-aksna.cyou
@@ -40680,6 +40683,7 @@ alisveriskapiinda.com
 alisveriskeyfim.com.tr
 alisveriskolay.com.tr
 alisveriskolay.online
+alisveriskontrol.com.tr
 alisverisler-ile.com
 alisverisler-kabul.com
 alisverisler-tr.com
@@ -47014,6 +47018,7 @@ aradiginherseykafamdamemurbey.surf
 aradiginiz-101burada.com
 aradiginn-herseyyburadaa.xyz
 aradiginnevarsa.name.tr
+aradiginurunler.sbs
 aradiklarin-burada.com
 aradoneranevuleri.xyz
 araecxemkdx.net
@@ -53115,6 +53120,7 @@ b-magaza.cf
 b-magaza.ga
 b-magaza.tk
 b-mec-paket-ykle.blogspot.com
+b-menkulyatirim.com
 b-metric.com
 b-name.website
 b-namysb.sbs
@@ -86716,6 +86722,7 @@ canli-soohbet.net
 canli1shovchat.com
 canlibelediyegovtr.co.vu
 canlichatsshow.ga
+canlicicekevi.com
 canlidestegi.com
 canlidestek-kimsesizz.com
 canlidestekuygulamalar.online
@@ -94103,6 +94110,7 @@ clokeringkisalink.xyz
 clolor.photoyellowclolor.com
 clon.collectfasttracks.com
 clonebntr.vercel.app
+cloneinventive.com
 clonekebakykoke.vercel.app
 clonekebaykoke.vercel.app
 clonemandate.top
@@ -100220,6 +100228,7 @@ cspbyxeu.com
 cspg.pw
 csplendidbu453.xyz
 csply111.vercel.app
+csprtnb.cfd
 csqrromczy.duckdns.org
 csqxzfr.com
 csrat.ddns.net
@@ -146081,6 +146090,7 @@ fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
 fb-redirect.click
+fb-redirecttr.cfd
 fb-reklamkutuphanem.cfd
 fb-sponsorluclik.site
 fb-sponsorluform.site
@@ -151924,6 +151934,7 @@ flrstlmdslmflf.duckdns.org
 flrstlr-ozel-bvtr-in.me
 flrstlr-ozel-vtr-in.me
 flrstlr-ozl-vtr-in.me
+flrstlr-ozzl-amr-in.me
 flrstlrikmczskktrms.com
 flrstlrkacirmayi1temmuz.xyz
 flrstlrkacirmayi30hzrn.xyz
@@ -173105,6 +173116,7 @@ hadiuygulamasi.click
 hadiuygulamasi.pics
 hadiuygulamasi.sbs
 hadiyavrumsdwe.net
+hadiyekamena.cfd
 hadiziraatle.com
 hadjer.boutique
 hadoopspark.ddns.net
@@ -201380,6 +201392,7 @@ indir43234im-kampanyasi.click
 indirageldim.xyz
 indircepsube.com
 indirdia1o1.net
+indirdik.sbs
 indirdikbekliyoruzserihizli.xyz
 indirdimliusrunlers.com
 indirdsm-app-plkaksd.store
@@ -306503,6 +306516,7 @@ resmibasvuru-govtrsaglikcom.tk
 resmibasvuru.org
 resmibasvuru.sa.com
 resmibasvuru.tk
+resmibasvuruformmerkezi.mefound.com
 resmibasvurugarantibbva.mefound.com
 resmibasvurum-online.cfd
 resmibayiodeme.sg-host.com
@@ -311150,6 +311164,7 @@ sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadeceonllinea1o1.duckdns.org
+sadeceonlmmssvivrsatlar.blogdns.org
 sadeceonlncfirsatlarozel.blogdns.org
 sadeceonlndsfirsat.sbs
 sadeceonlneozelfrsatlara1o1.duckdns.org
@@ -311197,6 +311212,7 @@ sadeceyonlnyeozelfirsatlar.duckdns.org
 sadeceyukle12.22web.org
 sadecgfirsatlarionlinez.blogspot.com
 sadecgfirsatlarionlinezsade.blogspot.com
+sadecolnsfirsatlcvsbtrtrr.blogspot.com
 sadeconlinea1o1kampanya.duckdns.org
 sadecsizddegellin.com.tr
 sadecusmbasladigene.duckdns.org
@@ -330766,6 +330782,7 @@ snoyreteve.top
 snpaqahmqh.biz
 snpkfhd.com
 snqppeawxw.duckdns.org
+snrkakindmgn.cfd
 snrlstoklonllne-indrmllr.net
 snrmfxko.cn
 snrsz20gbinternet.com
@@ -337111,6 +337128,7 @@ stanleytermsoteklfisbrudsaksc.com
 stanleytermsotkelfsbrusa101ekstra.com
 stanleytkerlseisbtermburd.store
 stanleyvk.click
+stanleyyakinda.xyz
 stanly-carrefoursa.vercel.app
 stanlyarlikkczmazi666kacirma.com
 stanlyefirsati.blogspot.com
@@ -342589,6 +342607,7 @@ t-msedge.world
 t-nzzv-irndwu.org
 t-o-k-i-basvurum.click
 t-o-k-i-basvurum.cyou
+t-o-k-i-bsvr.com
 t-odeme.online
 t-odeme.sa.com
 t-onlineii.ddns.net
@@ -352227,6 +352246,7 @@ tokiodeme.com
 tokiomarbuzki.com
 tokiomarklpc.com
 tokionlinebasvuru.com
+tokionlinebasvuru.org
 tokionlinebasvuruun.net
 tokionlineodeme.com.tr
 tokip-islemleri.click
@@ -355033,6 +355053,7 @@ trabmscmcs.net
 trabncadestek.com
 trabncdestekgiris.com
 trabncdestektr.com
+trabolucr.cfd
 trabolusubeleri.com.tr
 trabolusubeleri.online
 trabolusubeleri.xyz
@@ -372139,6 +372160,7 @@ vakiflar-internet-banka.com
 vakiflar.click
 vakiflar.laviewddns.com
 vakiflar.nogridco.com
+vakiflar.swanndvr.net
 vakiflar2022.co.vu
 vakiflar2023.co.vu
 vakiflarbank.com
