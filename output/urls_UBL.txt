@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-13 14:10:00 UTC
-! Total: 330516 rules
+! Last modified: 2025-10-13 15:05:29 UTC
+! Total: 330532 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40935,6 +40935,7 @@
 *://*.basvuru-eiademiyap.com/*
 *://*.basvuru-ekran-mobil.click/*
 *://*.basvuru-ekrani.com/*
+*://*.basvuru-ekrani.icu/*
 *://*.basvuru-enpara.com/*
 *://*.basvuru-eportal-in.online/*
 *://*.basvuru-evlilik.net/*
@@ -60700,6 +60701,7 @@
 *://*.bralardmsdnyervarglsmzn.com/*
 *://*.braldatyzsdsaxc.com/*
 *://*.bralntree.com/*
+*://*.bralrasdmdsdsfk.com/*
 *://*.bramloosveld.be/*
 *://*.bramsec.pl/*
 *://*.brancertrgris.com.tr/*
@@ -88779,6 +88781,7 @@
 *://*.dijitalmobil-ziraatgiris.com/*
 *://*.dijitalmobil-ziraatkampanya.com/*
 *://*.dijitalmobil-ziraatkampanyagiris.com/*
+*://*.dijitalmobil-ziraatonay.sbs/*
 *://*.dijitalmobil-ziraatwebgiris.com/*
 *://*.dijitalmobilde-denizacik.com/*
 *://*.dijitalmobilden-denizacik.com/*
@@ -126358,6 +126361,7 @@
 *://*.gasiminidi1mlerindesonf1rsatlarxzcvb.com/*
 *://*.gasinvestmentgroup.com/*
 *://*.gasisdsdgsasksawskafgsdafsd.cyou/*
+*://*.gasiyekahhya.cfd/*
 *://*.gasjgjhagshas.click/*
 *://*.gasnotwithstanding.top/*
 *://*.gasnrgy.com/*
@@ -145365,6 +145369,7 @@
 *://*.hemenaleylulfirsatlarinikacirma.xyz/*
 *://*.hemenalfirsatlarisakinkacirma.site/*
 *://*.hemenalfirsatlarisakinkacirmabugunlereozel.com.tr/*
+*://*.hemenalgec.cfd/*
 *://*.hemenalgunlukislemler.online/*
 *://*.hemenalgunlukislemler.xyz/*
 *://*.hemenalimfirsatiniz.xyz/*
@@ -170077,6 +170082,7 @@
 *://*.istky53k7rt.net/*
 *://*.istlalblbulbakyem.net/*
 *://*.istlanbul-kartimislem.net/*
+*://*.istlanltlndanlasna.online/*
 *://*.istlen.com/*
 *://*.istlesybasvr.com/*
 *://*.istlgsbasvr.click/*
@@ -183867,6 +183873,7 @@
 *://*.kilometrenisorgula.fun/*
 *://*.kilometrenisorgulagulyan.shop/*
 *://*.kilometrenisorgulama.fun/*
+*://*.kilometreogrenin.cfd/*
 *://*.kilometresorgu.com/*
 *://*.kilometresorgu.fun/*
 *://*.kilometresorgu.shop/*
@@ -185466,6 +185473,7 @@
 *://*.kmsorguhizmentlerbu.store/*
 *://*.kmsorguhteklfbursad.com/*
 *://*.kmsorguhziemterlnbrptt.shop/*
+*://*.kmsorgul-a.digital/*
 *://*.kmsorgulaamaonnnline.online/*
 *://*.kmsorgulabsrbdusd.com/*
 *://*.kmsorgulabsrbdusd.store/*
@@ -239716,6 +239724,7 @@
 *://*.pzhgsgvjkwcd7.com/*
 *://*.pzhgtw.cn/*
 *://*.pzklsi.com/*
+*://*.pzl7a.xyz/*
 *://*.pzmzhlrzot.com/*
 *://*.pzodmejxsn.net/*
 *://*.pzodmexsuhg.net/*
@@ -243583,6 +243592,7 @@
 *://*.raysdoor.com/*
 *://*.raysilkman.com/*
 *://*.rayslogs.ml/*
+*://*.raystrix.com/*
 *://*.raysubsidise.top/*
 *://*.raytracingengine.com/*
 *://*.razabana.com/*
@@ -256446,6 +256456,7 @@
 *://*.servmill.com/*
 *://*.servncdnservnrj.info/*
 *://*.servnet24.de/*
+*://*.servodream.com/*
 *://*.servsiteyhdjfnserv.co/*
 *://*.servsonline.tk/*
 *://*.servsrg01.online/*
@@ -272867,6 +272878,7 @@
 *://*.t-nzzv-irndwu.org/*
 *://*.t-o-k-i-basvurum.click/*
 *://*.t-o-k-i-basvurum.cyou/*
+*://*.t-o-k-i-basvurum.sbs/*
 *://*.t-o-k-i-bsvr.com/*
 *://*.t-odeme.online/*
 *://*.t-paramguvende-mobilode.co/*
@@ -280978,6 +280990,7 @@
 *://*.tokikonutdan.com/*
 *://*.tokikonutevleribasvurusu.com/*
 *://*.tokikonutlaribasvru.click/*
+*://*.tokikonutlaribasvuru.cloud/*
 *://*.tokikonutlaribasvuru.site/*
 *://*.tokikura.com/*
 *://*.tokikura.shop/*
@@ -287314,6 +287327,7 @@
 *://*.truthtask.top/*
 *://*.trutosakato.top/*
 *://*.truva.one/*
+*://*.truyapsorgu.net/*
 *://*.trv-jhek.one/*
 *://*.trvakifaraba-cekilllisgiris.tk/*
 *://*.trvakifb.com/*
@@ -288291,6 +288305,7 @@
 *://*.turkaskeri.fun/*
 *://*.turkavm.xyz/*
 *://*.turkbanhizmetleri.click/*
+*://*.turkbank.xyz/*
 *://*.turkbayi-yukle.com/*
 *://*.turkbayilik.net/*
 *://*.turkbayilik.org/*
@@ -316719,6 +316734,7 @@
 *://*.xn--parsmambalzdysehrde2-ubd.xyz/*
 *://*.xn--passhobby-869d.top/*
 *://*.xn--pastadegrade-nz9f.online/*
+*://*.xn--pavm-06aa.com/*
 *://*.xn--payfx-q4a.com.tr/*
 *://*.xn--pazar-gunu-frsatlar-r5ch.shop/*
 *://*.xn--pazardacokndrmvrs-lvc.shop/*
