@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 20:10:35 UTC
-# Toplam: 414926 Domain
+# Son Güncelleme: 2025-10-13 21:07:55 UTC
+# Toplam: 414929 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -87972,6 +87972,7 @@ cattlevelvet.top
 cattribute.buzz
 caucasia.duckdns.org
 caueyhcnw.wiki
+cauforas.online
 caughtbounce.top
 cauliflowerpropel.top
 caulosarc.com
@@ -229296,6 +229297,7 @@ kmnet.2kool4u.net
 kmni-sorgulama.online
 kmniasogrenl.net
 kmnilopders.click
+kmninpadisahlariburdaaa.cfd
 kmniogrenhemen.app
 kmnl.cpfcenters.de
 kmnndadskfkkf.space
@@ -371576,6 +371578,7 @@ vakifbireysel-aktivasyonvb2.tk
 vakifbireysel-aktivasyonvb3.tk
 vakifbireysel-aktivasyonvb4.tk
 vakifbireysel-aktivasyonvb6.tk
+vakifbireysel-basvuru.vercel.app
 vakifbireysel-destek-portal.tk
 vakifbireysel-mobilaktivasyon.tk
 vakifbireysel.cf
