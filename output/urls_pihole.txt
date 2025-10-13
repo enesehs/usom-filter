@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-13 07:10:28 UTC
-# Toplam: 414712 Domain
+# Son Güncelleme: 2025-10-13 08:14:02 UTC
+# Toplam: 414750 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6909,6 +6909,7 @@
 1rw19b2.duckdns.org
 1rw7vh.duckdns.org
 1s-uperislemenucepgirisim.online
+1s01onl1ne.sbs
 1s0k9t8.duckdns.org
 1s2vxg.duckdns.org
 1s3mjq.duckdns.org
@@ -43914,6 +43915,7 @@ anlamamentel.net
 anlamamkis.net
 anlamayanlar-sizgibilere-bundan-buralarda-gelindi.top
 anlamazsananlama.com
+anlambilgi.online
 anlambul.info
 anlamini-kalbinde-tasiyip-yuzunde-gizleyenler.com
 anlamiyorsunharry.net
@@ -56927,6 +56929,7 @@ basvurgecisyapisleme.online
 basvurgiris.xyz
 basvurgirisbilgiler.xyz
 basvurgirisbilgilerleberaberler.xyz
+basvurgirisekraniaktarimonline.sbs
 basvurgirisistebilgilerlesizlerle.xyz
 basvurgirislerbilgi.xyz
 basvurgirislerleberaberler.xyz
@@ -58709,6 +58712,7 @@ basvurusubesizonaydabbvam.net
 basvurusubesizonayla.net
 basvurusununekrani.com
 basvurusunuziade-al.com
+basvurusurecim.click
 basvurusuyap-ailegenc.online
 basvurusuyap-ailegenc.org
 basvurusuyap-online.com
@@ -79258,6 +79262,7 @@ borsadijitaltr.com
 borsadonusum.com
 borsahaber.world
 borsahaberler.online
+borsahaberleri.world
 borsahediyeleriii.com
 borsahub.net
 borsaistanbul.live
@@ -101825,6 +101830,7 @@ cy6mqx0t0.duckdns.org
 cy7137n1.duckdns.org
 cy74914.tmweb.ru
 cyanide211.ddns.net
+cyanura.com
 cyatechcenter.com
 cybblade.com
 cybearteamamazon.duckdns.org
@@ -102704,6 +102710,7 @@ dailiy.likesyou.org
 dailteeau.com
 daily-sport.news
 daily.alltop.asia
+daily.ekonomidunyasi.online
 daily.ekonomiportali.online
 dailyaddiction.top
 dailycontemplation.top
@@ -102944,6 +102951,7 @@ danismankayitlar.online
 danismankayitlarim.online
 danismankayitlarimiz.online
 danismanlikodemesistemi.com
+danismanlikturkey.shop
 danismannform.online
 danismaofisi.com
 danito.rs
@@ -103676,6 +103684,7 @@ dazzlespectacle.top
 dazzling-gagarin.81-28-4-131.plesk.page
 dazzling-lederberg.51-144-238-24.plesk.page
 dazzlingwall.com
+dazztrack.com
 db-b-s.com
 db-dijitallkatlllm.tk
 db-grs.website
@@ -118745,6 +118754,7 @@ drius.aefrant.com
 driv.memerax.com
 driv3.net
 driv7.com
+drivaro.click
 drive-accounts.com
 drive-docs.com
 drive-google-com.tk
@@ -133557,6 +133567,7 @@ ekonomidestekhibesi.com
 ekonomidunyasi.best
 ekonomiduyuru.click
 ekonomigelisimturkiye.site
+ekonomigoz.online
 ekonomigundem.best
 ekonomigundem.co
 ekonomigundem.today
@@ -148361,6 +148372,7 @@ finansfinansbank.mermerfatihlerimde.com
 finansfirsati.com
 finansforumdenizbank.co.vu
 finansgirismenusi.com
+finansguncel.pro
 finanshaber.live
 finanshaber3401.site
 finanshaber3406.site
@@ -160649,6 +160661,7 @@ gelirlersimdipros.duckdns.org
 gelirmisinbenimle.com.tr
 gelirmmusterisi.com
 gelirpltf.com
+gelirprojeleri.org
 gelirrehber.info
 gelirrehberi.info
 gelirrkapisi.com
@@ -165310,6 +165323,7 @@ go.ad2upapp.com
 go.clicksme.org
 go.clss.cl
 go.everli-killz.xyz
+go.finanskaynak.online
 go.kriptoinfo.online
 go.ktspace.p-e.kr
 go.onono.ml
@@ -167492,6 +167506,7 @@ greensecas.xyz
 greenstatecu.zapto.org
 greentastellesqwm.shop
 greenteatr.ru
+greentechdaily.org
 greentechify.digital
 greentek2.com
 greenvideo.nl
@@ -199950,6 +199965,7 @@ ilolerelaaracmuyn.net
 ilonerdenisen.com
 ilonoygironitslllemenum.com
 ilovabby.ddns.net
+iloveanimals.shop
 iloveat.fr
 ilovegoogle.org
 ilovemodz.ddns.net
@@ -208768,6 +208784,7 @@ islemlerimle-globalgiris.online
 islemlerimportallifee.duckdns.org
 islemlerimqnbden.duckdns.org
 islemlerin-tr.com
+islemlerin-webde.com
 islemlerin.click
 islemlerin.xyz
 islemlerinegir.de
@@ -212406,6 +212423,7 @@ iyi-hissetmek-bizce-kadar-basit-olmali.com
 iyi-hissetmek-bu-kadar-basit-oldugu-goruldu.com.tr
 iyi-hissetmek-bu-kadar-basit-olmamistir.com
 iyi-hissetmenin-tam-zamani.top
+iyi-ilerleme.info
 iyi-olan-isleri-guzel-severiz-yetisin.com
 iyi-olan-kisileri-guzel-severiz-surekli.com
 iyi-ve-mutlu-bir-hayat-topraginda.top
@@ -216876,6 +216894,7 @@ jornathic.shop
 jorpe.co.za
 jorteto.zapto.org
 jorukeldagol.site
+jorvanix.com
 jorvix.top
 jorxkc.info
 jos.hopto.org
@@ -226416,6 +226435,7 @@ keyifli-saatler-basladi-sonunda-burada.com
 keyifli-sekilde-mutluluk-getirdik-sizlere.com
 keyiflibirdevre.com
 keyifliblog.top
+keyifliemekli.com
 keyifligunler.click
 keyifligunlerinfirsatlari.xyz
 keyifliodeme.net
@@ -250156,6 +250176,7 @@ mirrornews.in
 mirroronthewall.hopto.org
 mirrorprop.top
 mirrorthorn.top
+mirsans.com
 mirstars.com
 mirsuyalki.net
 mirtheatre.com
@@ -254750,6 +254771,7 @@ mortgcine.top
 morton2021-property.com
 morttttq12.top
 morulk2sa3l.site
+morynzol.com
 mos-mw.ddns.net
 mos24ben2eiff2.wiki
 mos2uddv3eeiff2.wiki
@@ -257423,6 +257445,7 @@ mucheapy.world
 muchpact.top
 muchrutontor.com
 muchshop.top
+muchsports.site
 muchtent.top
 mucitlerdunyasi.com
 mucizeetki.tk
@@ -260657,6 +260680,7 @@ navanaweldings.xyz
 navarev.net
 navarev.xyz
 navasaa44.xyz
+navaspark.com
 navatlas.fun
 navatlas.japonya.pw
 navatlas.pro
@@ -268543,6 +268567,7 @@ obitrust.ddns.net
 obituary.workers.dev
 obiwan2021.xyz
 obj-sudan-quote-aw.trycloudflare.com
+objecmoment.click
 objectdelicacy.top
 objectinvesting.online
 objectionadolescence.top
@@ -268965,6 +268990,7 @@ ocmisynerannaolsun1x.net
 ocmmgwhjqygusnp.info
 ocmtancmi2c4t.xyz
 ocoansnv.net
+ocomp.click
 oconner.biz
 ocotoprinthugo.ddns.net
 ocprdrbhkclxwuwxn.net
@@ -271053,6 +271079,7 @@ omrojfznkw.duckdns.org
 omroteol.ddns.net
 omrrandvu.b-cdn.net
 omrrhhgs-resmihgsyukle.ga
+omrvex.com
 omsp0r.duckdns.org
 omssionnborately.top
 omsymbasvuru.net
@@ -281866,7 +281893,9 @@ paraguvenlisahibinden.com
 paraguvensahibinden.com
 paraguwende.net
 parahaber.online
+parahaber.world
 parahaberleri.online
+parahaberleri.org
 parahalkbankasi.com
 parahareketi.top
 parahareketlerionline.com
@@ -329829,6 +329858,7 @@ slipappall.top
 slipceprmsynkpms.com
 slipevacuate.top
 slipknot.hopto.org
+slipkray.site
 slipod.ga
 slipod.ml
 slipod.tk
@@ -337028,6 +337058,7 @@ stanleytekrliftemrsdbrda.com
 stanleytemrostkelisdbudsaasdaa101.com
 stanleytereklstrmosa101.store
 stanleyterkmsoteklfisburdsa101.com
+stanleytermos.xyz
 stanleytermosa101de.com
 stanleytermosburdsds.com
 stanleytermosdksds.com
@@ -352045,6 +352076,7 @@ tokibasvurtoplukonut.com
 tokibasvuru-20f08.kxcdn.com
 tokibasvuru-adresim.xyz
 tokibasvuru.apathe.net
+tokibasvuru.cyou
 tokibasvuru.net
 tokibasvuru.online
 tokibasvuru.org
@@ -356315,6 +356347,7 @@ trapspin.top
 traptoilet.top
 traptrillhosts.top
 traqton.com
+trarergyr.com
 trarmrapsx.shop
 trarora.com
 tras-puro.xyz
@@ -363183,6 +363216,7 @@ turktuvmuayene.blogspot.com
 turktuvracmuyne.net
 turkuaidsippt.info
 turkuazbujiteri.xyz
+turkuazhaber.shop
 turkuazkredi.com
 turkuazvillam.com
 turkulturuniverse.online
@@ -383499,6 +383533,7 @@ werewda.xyz
 werfor.hopto.org
 wergilerimode.net
 wergston.top
+werkmoun.com
 werktykreodeme.net
 wernqwqen.net
 werntygqwe.net
@@ -384138,6 +384173,7 @@ whitepearlpro.co.za
 whitepeopleonly.dyn
 whitesomcponwmc.com
 whiteson2017.publicvm.com
+whitesons.com
 whitesphereworldjoyful.world
 whitestatutory.top
 whitestoun.com
@@ -403313,8 +403349,10 @@ yatirimplani.top
 yatirimportal.online
 yatirimpostasi.world
 yatirimpotansiyeliturkiye.site
+yatirimradar.world
 yatirimraporu.online
 yatirimrehberi.org
+yatirimrehberi.world
 yatirimspot.online
 yatirimtavsiyesi.net
 yatirimtr.online
