@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-13 12:22:43 UTC
-! Total: 330493 rules
+! Last modified: 2025-10-13 13:23:00 UTC
+! Total: 330511 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -462,6 +462,7 @@
 *://*.0faiz-isbnssww.sbs/*
 *://*.0faiz-sana-ozel.site/*
 *://*.0faizbasvurun.online/*
+*://*.0faizhalkfirsati.shop/*
 *://*.0faizkredifirsati.info/*
 *://*.0faizkredifirsati.online/*
 *://*.0faizlekredialmak.com/*
@@ -11121,6 +11122,7 @@
 *://*.76yilsizeozelinternetsubesiyapikredi.com/*
 *://*.76yilyapi-kredionlinesube.com/*
 *://*.76yilyapikredionline-sube.com/*
+*://*.77-14623gdjy23twrfsghewg.sbs/*
 *://*.77.73.67.158/*
 *://*.7700343235600534.cloud/*
 *://*.7711556555.cloud/*
@@ -63870,6 +63872,7 @@
 *://*.burialinsurancecalculator.com/*
 *://*.burikou.com/*
 *://*.burjkhalifa.shop/*
+*://*.burkadankakindmgn.cfd/*
 *://*.burkanileguvenliodeme.net/*
 *://*.burkertparts.com/*
 *://*.burketsdoher.com/*
@@ -79031,6 +79034,7 @@
 *://*.darkvane.xyz/*
 *://*.darlingdeprive.top/*
 *://*.darlingpreceding.top/*
+*://*.darnovexium.shop/*
 *://*.daronop.info/*
 *://*.darraarat.com/*
 *://*.darrylgordon473.xyz/*
@@ -85639,6 +85643,7 @@
 *://*.designereradicate.top/*
 *://*.designgiri.pw/*
 *://*.designloop.top/*
+*://*.designloose.click/*
 *://*.designlq.com/*
 *://*.designordie.ca/*
 *://*.designqueen.cn/*
@@ -93134,6 +93139,7 @@
 *://*.dvr-fsdwett.com/*
 *://*.dvrandevum.online/*
 *://*.dvrcam.info/*
+*://*.dvrlists.com/*
 *://*.dvrmxencell.com/*
 *://*.dvs5kt1.cn/*
 *://*.dvso.pw/*
@@ -103722,6 +103728,7 @@
 *://*.efsnssakvv.shop/*
 *://*.efsudogmgofgkg.site/*
 *://*.efsunarinim.club/*
+*://*.efsuncicekcim.org/*
 *://*.efsunger.online/*
 *://*.efsunger.website/*
 *://*.efsunhayatini.club/*
@@ -105336,6 +105343,7 @@
 *://*.ekonomiportal.online/*
 *://*.ekonomiportali.online/*
 *://*.ekonomiportali.org/*
+*://*.ekonomipulse.com/*
 *://*.ekonomipulse.world/*
 *://*.ekonomipusulasi.online/*
 *://*.ekonomist-turkey24.online/*
@@ -115359,6 +115367,7 @@
 *://*.fastbrokerlik.net.tr/*
 *://*.fastcarfilo.com/*
 *://*.fastcharm.online/*
+*://*.fastcicek.com/*
 *://*.fastcloudcdn.com/*
 *://*.fastconnectnetwork.com/*
 *://*.fastcryptotrade.pro/*
@@ -171016,6 +171025,7 @@
 *://*.ivaaswdsanclmon1linece1el1l1emdens.net/*
 *://*.ivakifbank-intsube.com/*
 *://*.ivakifbank.com/*
+*://*.ivaloasis.com/*
 *://*.ivamnudasvsi.net/*
 *://*.ivanlogistics.com/*
 *://*.ivano433pro.xyz/*
@@ -171580,6 +171590,7 @@
 *://*.iyi-hissetmek-bu-kadar-basit-olmamistir.com/*
 *://*.iyi-hissetmenin-tam-zamani.top/*
 *://*.iyi-ilerleme.info/*
+*://*.iyi-ilerleme.online/*
 *://*.iyi-olan-isleri-guzel-severiz-yetisin.com/*
 *://*.iyi-olan-kisileri-guzel-severiz-surekli.com/*
 *://*.iyi-ve-mutlu-bir-hayat-topraginda.top/*
@@ -187623,6 +187634,7 @@
 *://*.kriptoradar.online/*
 *://*.kriptotakip.site/*
 *://*.kriptotransferyapkazan.xyz/*
+*://*.kriptovizyon.online/*
 *://*.kriptozone.online/*
 *://*.krirrraaatkxredi.online/*
 *://*.krirrrrtttkrex.online/*
@@ -221618,6 +221630,7 @@
 *://*.opijak.com/*
 *://*.opikredi.com/*
 *://*.opildisoch99.xyz/*
+*://*.opiniheavy.my/*
 *://*.opinionconsider.top/*
 *://*.opiniontimber.top/*
 *://*.opisal.com/*
@@ -241925,6 +241938,7 @@
 *://*.quem-via-perfilpro.tk/*
 *://*.quemolhoumeuperfil-br.com/*
 *://*.querto.vip/*
+*://*.quervon.com/*
 *://*.query.best/*
 *://*.query.black/*
 *://*.query.blue/*
@@ -256110,6 +256124,7 @@
 *://*.sermayehaberleri.org/*
 *://*.sermayelive.online/*
 *://*.sermayeplan.online/*
+*://*.sermayepress.online/*
 *://*.sern.store/*
 *://*.sernazyapi.com/*
 *://*.sernewcanes.com/*
@@ -269498,6 +269513,7 @@
 *://*.streamturk.fun/*
 *://*.streatworld.fun/*
 *://*.stree1.com/*
+*://*.streemmline.com/*
 *://*.streetadvanced.com/*
 *://*.streetadversary.top/*
 *://*.streetelaborately.top/*
@@ -270905,6 +270921,7 @@
 *://*.subzerochecker.cloud/*
 *://*.subzerochecker.xyz/*
 *://*.sucaosvonea.net/*
+*://*.succcessvision.com/*
 *://*.succeedwithammari.com/*
 *://*.success-24story.online/*
 *://*.success-app.net/*
@@ -281221,6 +281238,7 @@
 *://*.topcradle.top/*
 *://*.topcryptoprotect.com/*
 *://*.topdealsinfo.store/*
+*://*.topecogreen.org/*
 *://*.topendpower.top/*
 *://*.topesex.club/*
 *://*.topesex.live/*
