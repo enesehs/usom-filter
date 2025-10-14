@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-14 07:10:18 UTC
-# Toplam: 414958 Domain
+# Son Güncelleme: 2025-10-14 08:11:55 UTC
+# Toplam: 414966 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -49253,6 +49253,7 @@ aslinda-mutlu-oldugun-zaman-biz-geldik.com
 aslinda-mutlu-olmanin-formulu-hemen-yaninizda-hissedin.com
 aslinda-ortaya-geldikten-sonra-iyi.com
 aslinda-yenilikci-formul-ayagina-geldi.com
+aslindaguzelkampanya.sbs
 asliyecezamahkeme.org
 asliyemahkeme.org
 aslkm65m.com
@@ -56781,6 +56782,7 @@ basvur-sglrxc301wssscv3ss.com
 basvur-simdi-com-tr.baby
 basvur-suprizv2yenideniz.com
 basvur-tc-sorgu.com
+basvur-toki.com
 basvur-tr-ailegenc.com
 basvur-tr-deniz.xyz
 basvur-turkeygovtr.com
@@ -75203,6 +75205,7 @@ blxlxcell4.org
 blxmclxll.net
 blxmxcell.com
 blxyz1.shop
+blyadd.cfd
 blyatbitch.redirectme.net
 blyzaro.store
 blyzaroapp.store
@@ -161228,6 +161231,7 @@ gerantakirala.shop
 gerantebvba.com
 geranti-isube.site
 geranti-katilimlar.site
+geranti.my-homeip.com
 geranticep.online
 geranticep.shop
 geranticepden.shop
@@ -227355,6 +227359,7 @@ kilometrenisorglaa.sa.com
 kilometrenisorgula.fun
 kilometrenisorgulagulyan.shop
 kilometrenisorgulama.fun
+kilometreniziogrenin.cfd
 kilometreniziogrenin.web.app
 kilometreniziogrenins.web.app
 kilometreniziogreninsd.web.app
@@ -237031,6 +237036,7 @@ lifestylepractices.blogspot.com
 lifestyles.pp.ru
 lifestyleshops.net
 lifetestimony.top
+lifetexsolution.space
 lifetimepaymentcenter.com
 lifety.store
 lifeupdate.design
@@ -295920,6 +295926,7 @@ pttgiris-postaceki.com
 pttgiris-postaceki.net
 pttgiris-postaceki.org
 pttgiristektikla.xyz
+pttgiv.icu
 pttgiv.ink
 pttgiv.top
 pttgivo.top
@@ -381456,6 +381463,7 @@ webbasvuru-qnbfinans.com
 webbasvuru-ramazanayi.com
 webbasvurulari-qnbfinanonline.com
 webbasvurulari-qnbfinans.com
+webbasvurum.fun
 webbasvurxgov.net
 webbayramdamerakedenler.com
 webbayramdenizdeguzel.com

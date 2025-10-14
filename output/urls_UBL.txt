@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-14 07:10:18 UTC
-! Total: 330612 rules
+! Last modified: 2025-10-14 08:11:55 UTC
+! Total: 330619 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -34597,6 +34597,7 @@
 *://*.aslinda-mutlu-olmanin-formulu-hemen-yaninizda-hissedin.com/*
 *://*.aslinda-ortaya-geldikten-sonra-iyi.com/*
 *://*.aslinda-yenilikci-formul-ayagina-geldi.com/*
+*://*.aslindaguzelkampanya.sbs/*
 *://*.asliyecezamahkeme.org/*
 *://*.asliyemahkeme.org/*
 *://*.aslkm65m.com/*
@@ -40400,6 +40401,7 @@
 *://*.basvur-simdi-com-tr.baby/*
 *://*.basvur-suprizv2yenideniz.com/*
 *://*.basvur-tc-sorgu.com/*
+*://*.basvur-toki.com/*
 *://*.basvur-tr-ailegenc.com/*
 *://*.basvur-tr-deniz.xyz/*
 *://*.basvur-turkeygovtr.com/*
@@ -56732,6 +56734,7 @@
 *://*.blxmclxll.net/*
 *://*.blxmxcell.com/*
 *://*.blxyz1.shop/*
+*://*.blyadd.cfd/*
 *://*.blyzaro.store/*
 *://*.blyzaroapp.store/*
 *://*.blzmmlkmglh.com/*
@@ -183920,6 +183923,7 @@
 *://*.kilometrenisorgula.fun/*
 *://*.kilometrenisorgulagulyan.shop/*
 *://*.kilometrenisorgulama.fun/*
+*://*.kilometreniziogrenin.cfd/*
 *://*.kilometreogrenin.cfd/*
 *://*.kilometresorgu.com/*
 *://*.kilometresorgu.fun/*
@@ -191253,6 +191257,7 @@
 *://*.lifestyle.name.tr/*
 *://*.lifestyleshops.net/*
 *://*.lifetestimony.top/*
+*://*.lifetexsolution.space/*
 *://*.lifetimepaymentcenter.com/*
 *://*.lifety.store/*
 *://*.lifeupdate.design/*
@@ -237631,6 +237636,7 @@
 *://*.pttgiris-postaceki.net/*
 *://*.pttgiris-postaceki.org/*
 *://*.pttgiristektikla.xyz/*
+*://*.pttgiv.icu/*
 *://*.pttgiv.ink/*
 *://*.pttgiv.top/*
 *://*.pttgivo.top/*
@@ -304568,6 +304574,7 @@
 *://*.webbasvuruformuaktif.com/*
 *://*.webbasvurulari-qnbfinanonline.com/*
 *://*.webbasvurulari-qnbfinans.com/*
+*://*.webbasvurum.fun/*
 *://*.webbasvurxgov.net/*
 *://*.webbayramdamerakedenler.com/*
 *://*.webbayramdenizdeguzel.com/*
