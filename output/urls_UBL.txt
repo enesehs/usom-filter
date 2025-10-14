@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-14 15:09:50 UTC
-! Total: 330693 rules
+! Last modified: 2025-10-14 16:10:49 UTC
+! Total: 330709 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28446,6 +28446,7 @@
 *://*.alphahelixconsulting.com/*
 *://*.alphainvestors.com.au/*
 *://*.alphamike.com.mv/*
+*://*.alphamodel.cyou/*
 *://*.alphaobring.com/*
 *://*.alphapaketleme.site/*
 *://*.alphapipe.top/*
@@ -37374,6 +37375,7 @@
 *://*.b-b-v-a.shop/*
 *://*.b-bconsult.com/*
 *://*.b-bwamenugirisilmonelinen.com/*
+*://*.b-bwamenugirislermoblilnen.com/*
 *://*.b-bwamenugirislermobnliinen.com/*
 *://*.b-bwamenugirisllemonliinen.com/*
 *://*.b-bwamenugirislmonliinen.com/*
@@ -41927,6 +41929,7 @@
 *://*.basvurunoktan-online.top/*
 *://*.basvurunoktaniz.com/*
 *://*.basvurunoktasi-online.com/*
+*://*.basvurunoktasi.cfd/*
 *://*.basvurunoktasi.tk/*
 *://*.basvurunonaylandidevamet.com/*
 *://*.basvurunonaylandihem.run/*
@@ -88568,6 +88571,7 @@
 *://*.dijitalgiriswebtr-denizacik.com/*
 *://*.dijitalgiseler.xyz/*
 *://*.dijitalhediyelerde.com/*
+*://*.dijitalhemen-ziraatweb.sbs/*
 *://*.dijitalhesap-acikdenizbank.com/*
 *://*.dijitalhesap-denizacik.com/*
 *://*.dijitalhesap-ziraat.com/*
@@ -88578,6 +88582,7 @@
 *://*.dijitalhizli-ziraatmobil.com/*
 *://*.dijitalhizligiris-denizacik.com/*
 *://*.dijitalhizligiris-ziraatmobil.com/*
+*://*.dijitalhizligiris-ziraatweb.sbs/*
 *://*.dijitalhizliislemler-denizacik.com/*
 *://*.dijitalhizliislemler.com/*
 *://*.dijitalhizliislemleriniz-denizacik.com/*
@@ -137288,6 +137293,7 @@
 *://*.h82c3stb3k5.com/*
 *://*.h94p6n1bd5x4mtg88lq1497cvt.com/*
 *://*.h9g0q8a1hat3s.net/*
+*://*.h9h9hrt9htr9t24eg3ej3t23g2k23edms.sbs/*
 *://*.h9ihx3.top/*
 *://*.h9ssyukle.gq/*
 *://*.ha1k-2024-3523463-3234.com/*
@@ -150358,6 +150364,7 @@
 *://*.hilfecenter-direkt.info/*
 *://*.hilfegv.com/*
 *://*.hilfulfudulvakfi.org/*
+*://*.hilifetimes.xyz/*
 *://*.hilkatturizm.com/*
 *://*.hillalala.com/*
 *://*.hillarymgir.pw/*
@@ -169129,6 +169136,7 @@
 *://*.istanbqrkart.net/*
 *://*.istanbu1l.click/*
 *://*.istanbu2l.click/*
+*://*.istanbu3l.click/*
 *://*.istanbudlaeglen.com.tr/*
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
@@ -183585,6 +183593,7 @@
 *://*.kgm-trgov.cyou/*
 *://*.kgm-trgov.sbs/*
 *://*.kgm-vvc.top/*
+*://*.kgmagvo.sbs/*
 *://*.kgmajans2023.com/*
 *://*.kgmajs2022.net/*
 *://*.kgmavgecishukukode.icu/*
@@ -218590,6 +218599,7 @@
 *://*.online-kampanjer.com/*
 *://*.online-kampanya-basvuru-ozel900tl.ml/*
 *://*.online-kampanya-cekilis-platform-com.tk/*
+*://*.online-kampanya-com.cfd/*
 *://*.online-kampanya-katilim-binance.ml/*
 *://*.online-kampanya-sube.click/*
 *://*.online-kampanya.site/*
@@ -245628,6 +245638,7 @@
 *://*.reproduce346768.xyz/*
 *://*.reproducetoil.top/*
 *://*.reproductionexotic.top/*
+*://*.reproductionsreload.shop/*
 *://*.reproductivelogistic.top/*
 *://*.reproduoid.top/*
 *://*.repteckonitd.com/*
@@ -255816,6 +255827,7 @@
 *://*.sepeteattik.xyz/*
 *://*.sepetebakmadan.xyz/*
 *://*.sepetecampanya.click/*
+*://*.sepetedoldur.cfd/*
 *://*.sepeteekle.click/*
 *://*.sepeteeklealdin.sbs/*
 *://*.sepeteeklealdinal.sbs/*
@@ -256264,6 +256276,7 @@
 *://*.serks215435.cloud/*
 *://*.sermarketin.com/*
 *://*.sermayehaber.info/*
+*://*.sermayehaber.org/*
 *://*.sermayehaberleri.org/*
 *://*.sermayelive.online/*
 *://*.sermayeplan.online/*
@@ -262642,6 +262655,7 @@
 *://*.slartybartfast.com/*
 *://*.slashelastic.top/*
 *://*.slashprosper.top/*
+*://*.slashtheprice.com/*
 *://*.slate.bz/*
 *://*.slaughtercorrelation.top/*
 *://*.slaughterpropel.top/*
@@ -286971,6 +286985,7 @@
 *://*.trpttgovtuv.shop/*
 *://*.trpttgovtuy.shop/*
 *://*.trpttgovtv.shop/*
+*://*.trpttgovty.cc/*
 *://*.trpttgovv.cc/*
 *://*.trpttgovy.cc/*
 *://*.trpttgovys.cc/*
@@ -312595,6 +312610,7 @@
 *://*.wwwcimer.com/*
 *://*.wwwcitibankcreditcard.com/*
 *://*.wwwcumhurbaskanligimerkezi.com/*
+*://*.wwwcural.click/*
 *://*.wwwdenisbanks.gq/*
 *://*.wwwdeniz-iade.com/*
 *://*.wwwdeniz-login.com/*
