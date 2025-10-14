@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-14 20:09:42 UTC
-# Toplam: 415117 Domain
+# Son Güncelleme: 2025-10-14 22:08:55 UTC
+# Toplam: 415134 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4414,6 +4414,7 @@
 145251559888890.xyz
 145251559888892.xyz
 145251559888896.xyz
+14525412541236592.duckdns.org
 14526372.info
 14526372.xyz
 14528090.info
@@ -14866,6 +14867,7 @@
 563462825.corolain.ru
 563464343654363443.cloud
 563wdwmk.duckdns.org
+564-652-654.cfd
 564164565296549.cfd
 564168416543545348.site
 56421x.duckdns.org
@@ -14899,6 +14901,7 @@
 5668r.hristm.ru
 56745623542351.duckdns.org
 5674564.com
+567565.vercel.app
 56767677777.site
 567678569.cloud
 567687843.site
@@ -39343,6 +39346,7 @@ aldim-riskimi-yanima.net
 aldim-ticaret.com
 aldim.ekimaldinnaldin.xyz
 aldim150aileyehediyeumre2123.life
+aldimagazanda.net
 aldimaldim.cfd
 aldimaldimindirimlerimsimdi.com
 aldimaldimkampanya.com.tr
@@ -39752,6 +39756,7 @@ aldinaldinnisan.com.tr
 aldinaldinnisan.info.tr
 aldinaldinnisan.net.tr
 aldinaldinnisan.org.tr
+aldinaldinnnbufirstlarrkcvmckzmflflr.duckdns.org
 aldinaldinnstok100.com
 aldinaldinnxindrmllrinde.net
 aldinaldinonline.com.tr
@@ -57797,6 +57802,7 @@ basvurubnsozeltr.com
 basvurubnstr.com
 basvurubtturkgiris.com
 basvuruburada.gq
+basvuruburada.site
 basvuruburadaarabankapida.net
 basvuruburda.sbs
 basvurubuzamandanerede.xyz
@@ -114354,6 +114360,7 @@ dijitalink.website
 dijitalinq.net
 dijitalinternet-islem.net
 dijitalinternet-ziraatmobil.com
+dijitalinternet-ziraatweb.sbs
 dijitalinternetgiris.com
 dijitalinternetgirisiniz-denizacik.com
 dijitalinternetvakifsubesiz.xyz
@@ -170403,6 +170410,7 @@ guvenli-alimin.com
 guvenli-alimin.com.tr
 guvenli-alimin.online
 guvenli-aliminiz.online
+guvenli-aliminiz.xyz
 guvenli-alimlar.com.tr
 guvenli-alimlar.online
 guvenli-alimlarin-tr.click
@@ -188897,6 +188905,7 @@ hizliizmirimkart.net
 hizlijetyuklemeler.net
 hizlik800ampanyabasvur-online.ml
 hizlikampanya.buzz
+hizlikampanya.cfd
 hizlikampanya.com
 hizlikampanya.lat
 hizlikampanya.pro
@@ -208456,6 +208465,7 @@ isiisbabswis-isiasgqgsha.cyou
 isiisbabswis-isiasgqgsha.icu
 isikkurumu.com
 isikkvakfi.com
+isiklardayim.click
 isikroleplay.com.tr
 isikumutlari.com
 isikvakfi.com
@@ -264880,6 +264890,7 @@ nnnbsdbdddddd.net
 nnncitizensinfo.ddns.net
 nnnddddewegr.ddns.net
 nnnksjdhjsms.net
+nnnnnnnnb-g2e-v23vc1-2hbg2agswasga.sbs
 nnnnnnnnnnnnnnfgfgssssssss.cfd
 nnns.zapto.org
 nnnsmdkskd.net
@@ -266231,6 +266242,7 @@ nuamfua.net
 nuance215.xyz
 nuancesmgir.pw
 nuasdina1.net
+nuasdvuia1.net
 nuatt.ddns.net
 nuavolta1.cfd
 nubank-online.com
@@ -272151,6 +272163,7 @@ onlin-etrbntekno-loji.net
 onlin-geri-aktarm-ekrani.site
 onlin-hizimet.tk
 onlin3ncu.duckdns.org
+onlinaa1o1frsatil.blogspot.com
 onlinacenta.com.tr
 onlinacenta.name.tr
 onlinacenta360.com
@@ -279321,6 +279334,7 @@ ozkaya.store
 ozkayacolak.cfd
 ozkgptyhi.com
 ozkurtlerholding.net
+ozl-flrstlr-rar-ri.com
 ozl-flrstlr-rr-in.me
 ozl-flrstlr-zr-ni.me
 ozlandtour.com
@@ -318273,6 +318287,7 @@ sd8yq6i4.duckdns.org
 sd9jyj1n7.duckdns.org
 sda254wa.cf
 sdaallah53453.com
+sdaceconlaneozelfrsat.blogdns.org
 sdadasdas.net
 sdadasdasdasdasdasdasd.com
 sdadsadsadadadsbbbmmmcelll444www.net
@@ -334082,6 +334097,7 @@ sosyal-hizmet.com
 sosyal-konutbasvurusu.cloud
 sosyal-online-pandemileri-odemeleri.com
 sosyal-pandemidestek.com
+sosyal-portal.online
 sosyal-qnbfinans.com
 sosyal-saglik-pan-de-mi-destek-net.tk
 sosyal-son-destekci-ozel.com
@@ -374479,6 +374495,7 @@ veliarshur2319.site
 veliarsl2andik2knk.site
 veliarthur.site
 velicevher.xyz
+veligalicvrba.cfd
 velingkome.de
 velinizkim72.xyz
 velinoleyva.org
