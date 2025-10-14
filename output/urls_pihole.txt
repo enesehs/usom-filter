@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-14 05:09:21 UTC
-# Toplam: 414939 Domain
+# Son Güncelleme: 2025-10-14 06:14:28 UTC
+# Toplam: 414943 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -188162,6 +188162,7 @@ hizlibasvurunburda.online
 hizlibasvurunuz.com
 hizlibasvurunzubsurdsa.store
 hizlibasvuruonaylim.net
+hizlibasvurusistem.online
 hizlibasvurusistemi.xyz
 hizlibasvurusorgulamaservisiz.com
 hizlibasvurusubendenizonline.xyz
@@ -245282,6 +245283,7 @@ marungame.com
 marusto.com
 marutoba.com
 maruvaleks38.duckdns.org
+marvalk.click
 marvb1stfrom.shop
 marvelcalcium.top
 marveleaster.top
@@ -271050,6 +271052,7 @@ olwjz.duckdns.org
 olx.website
 olx.wolrdcaresolidarityfund.xyz
 olxa3d.pitalde.com
+olxcecrf.cfd
 olxeg.com
 oly.k4dr.xyz
 olygn.nichesite.org
@@ -403506,6 +403509,7 @@ yatirimfirsariziraatte.com
 yatirimfirsati.top
 yatirimfirsatlari.org
 yatirimgazete.online
+yatirimgazetesi.net
 yatirimgazetesi.org
 yatirimgazetesi.top
 yatirimgoz.world

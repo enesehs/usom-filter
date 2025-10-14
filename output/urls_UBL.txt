@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-14 05:09:21 UTC
-! Total: 330596 rules
+! Last modified: 2025-10-14 06:14:28 UTC
+! Total: 330600 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -151081,6 +151081,7 @@
 *://*.hizlibasvurunuz.com/*
 *://*.hizlibasvurunzubsurdsa.store/*
 *://*.hizlibasvuruonaylim.net/*
+*://*.hizlibasvurusistem.online/*
 *://*.hizlibasvurusistemi.xyz/*
 *://*.hizlibasvurusorgulamaservisiz.com/*
 *://*.hizlibasvurusubendenizonline.xyz/*
@@ -197097,6 +197098,7 @@
 *://*.marungame.com/*
 *://*.marusto.com/*
 *://*.marutoba.com/*
+*://*.marvalk.click/*
 *://*.marvb1stfrom.shop/*
 *://*.marvelcalcium.top/*
 *://*.marveleaster.top/*
@@ -216989,6 +216991,7 @@
 *://*.olvykwljxnchchcnn.com/*
 *://*.olwaysul.ru/*
 *://*.olx.website/*
+*://*.olxcecrf.cfd/*
 *://*.olxeg.com/*
 *://*.olympichctic.top/*
 *://*.olymposarmy.com/*
@@ -321691,6 +321694,7 @@
 *://*.yatirimfirsati.top/*
 *://*.yatirimfirsatlari.org/*
 *://*.yatirimgazete.online/*
+*://*.yatirimgazetesi.net/*
 *://*.yatirimgazetesi.org/*
 *://*.yatirimgazetesi.top/*
 *://*.yatirimgoz.world/*
