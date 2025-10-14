@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-14 08:11:55 UTC
-! Total: 330619 rules
+! Last modified: 2025-10-14 09:10:34 UTC
+! Total: 330634 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61110,6 +61110,7 @@
 *://*.briloza.org/*
 *://*.brimvakfbankmobil.tk/*
 *://*.brinchil.xyz/*
+*://*.brindlethorn.shop/*
 *://*.brinematriscript.com/*
 *://*.brinestoum.com/*
 *://*.brinestoun.com/*
@@ -76835,6 +76836,7 @@
 *://*.crystalridgedesigns.com/*
 *://*.crystaltidings.co.za/*
 *://*.crystaltreasures.shop/*
+*://*.crystalwindmark.site/*
 *://*.cryster.xyz/*
 *://*.crysus-h.info/*
 *://*.crysus-p.info/*
@@ -99895,6 +99897,7 @@
 *://*.ecofloraholland.nl/*
 *://*.ecofluxa.com/*
 *://*.ecogreenag.org/*
+*://*.ecogreenallday.org/*
 *://*.ecoherba.com/*
 *://*.ecoinpairbunetwaleett.com/*
 *://*.ecole-saint-simon.net/*
@@ -105367,6 +105370,7 @@
 *://*.ekonomikriter.org/*
 *://*.ekonomikritik.online/*
 *://*.ekonomiksubem-teb.com/*
+*://*.ekonomiktrend.org/*
 *://*.ekonomikulubu.info/*
 *://*.ekonomikveri.net/*
 *://*.ekonomilive.online/*
@@ -120177,6 +120181,7 @@
 *://*.fjdslilikkandfndkokain.net/*
 *://*.fjdzxygrob.info/*
 *://*.fjhgdjhfdhffdf.net/*
+*://*.fjiright.info/*
 *://*.fjke5oe.com/*
 *://*.fjlkvo.bond/*
 *://*.fjobiwouldli.biz/*
@@ -128875,6 +128880,7 @@
 *://*.getsilansatsahbinden-com.ml/*
 *://*.getsilansattsahbinden-com.ml/*
 *://*.getsileparamguvende.tk/*
+*://*.getsiparis.com/*
 *://*.getsize.shop/*
 *://*.getsmartpdf.com/*
 *://*.getsolicitor.top/*
@@ -139114,6 +139120,7 @@
 *://*.halbankinternetsubesi.com/*
 *://*.halbanktr.site/*
 *://*.halbankyilbasibasvurulari.com/*
+*://*.halbanu.site/*
 *://*.halberanreklam.com/*
 *://*.halbkonline.com/*
 *://*.halbnkr.site/*
@@ -171646,6 +171653,7 @@
 *://*.iyi-hissetmenin-tam-zamani.top/*
 *://*.iyi-ilerleme.info/*
 *://*.iyi-ilerleme.online/*
+*://*.iyi-ilerleme.sbs/*
 *://*.iyi-olan-isleri-guzel-severiz-yetisin.com/*
 *://*.iyi-olan-kisileri-guzel-severiz-surekli.com/*
 *://*.iyi-ve-mutlu-bir-hayat-topraginda.top/*
@@ -185610,6 +185618,7 @@
 *://*.kmtrsorg.xyz/*
 *://*.kmtvodemem.com/*
 *://*.kmuynaslna.one/*
+*://*.kmuzmani.cfd/*
 *://*.kmvbnbvn.shop/*
 *://*.kmveailem.com/*
 *://*.kmvehasar.net/*
@@ -187607,6 +187616,7 @@
 *://*.kreerdisonuc.org/*
 *://*.kreiedek23152375.online/*
 *://*.krekspeks.site/*
+*://*.krellix.com/*
 *://*.krelora.store/*
 *://*.kremdizayn.xyz/*
 *://*.kremlcup.com/*
@@ -214891,6 +214901,7 @@
 *://*.nzlifecoaching.com/*
 *://*.nzlp.org/*
 *://*.nzm.one/*
+*://*.nzolusmd.icu/*
 *://*.nzpegnrz.com/*
 *://*.nzposst-co.top/*
 *://*.nzpost-co.ink/*
@@ -252224,6 +252235,7 @@
 *://*.sanslimusteriler.com/*
 *://*.sansliyildizim.online/*
 *://*.sanss.site/*
+*://*.sansyfin.com/*
 *://*.santaclaraparis.icu/*
 *://*.santainstallslights.com/*
 *://*.santajsorgu.com/*
@@ -265231,6 +265243,7 @@
 *://*.sonindirimaktueller.xyz/*
 *://*.sonindirimfirsatgunumk.com/*
 *://*.sonindirimgunleri.com/*
+*://*.sonindirimgunu.cfd/*
 *://*.sonindirimler18araliki.com.tr/*
 *://*.sonindirimler18araliki.xyz/*
 *://*.sonindirimleriinennyeniibaslangiclari.shop/*
@@ -269103,6 +269116,7 @@
 *://*.steppyplantnw.shop/*
 *://*.stepsintrofuture.online/*
 *://*.stepsyndicate.top/*
+*://*.steptofuture.online/*
 *://*.steptriphg.pro/*
 *://*.stepuptosuccess.info/*
 *://*.stereo2mono4life.website/*
@@ -301250,6 +301264,7 @@
 *://*.visionja.ch/*
 *://*.visionlink.online/*
 *://*.visionstep.cfd/*
+*://*.visioonarylife.com/*
 *://*.visit.news/*
 *://*.visit2013.in.ua/*
 *://*.visitaustriaislands.com/*
