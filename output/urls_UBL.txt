@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-14 19:01:57 UTC
-! Total: 330732 rules
+! Last modified: 2025-10-14 20:09:42 UTC
+! Total: 330740 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2319,6 +2319,7 @@
 *://*.122864560.xyz/*
 *://*.122864562.xyz/*
 *://*.1229627566.info/*
+*://*.123-324-432-432.cfd/*
 *://*.1230001.site/*
 *://*.12300120111.cloud/*
 *://*.12301230.co/*
@@ -27364,6 +27365,7 @@
 *://*.alim-tr.net/*
 *://*.alim-verim.top/*
 *://*.alim-yap.com.tr/*
+*://*.alimadresim.sbs/*
 *://*.alimapp.xyz/*
 *://*.alimarketbayi.online/*
 *://*.alimbasvuru.net/*
@@ -32383,6 +32385,7 @@
 *://*.aracmuayenesim.com/*
 *://*.aracmuayenesiservisi.com/*
 *://*.aracmuayenesistemi.com/*
+*://*.aracmuayenesistemi.xyz/*
 *://*.aracmuayenesonuc.com/*
 *://*.aracmuayenesorgu.com/*
 *://*.aracmuayenesorgulama.net/*
@@ -61803,6 +61806,7 @@
 *://*.bsvrunuztoki.click/*
 *://*.bsvrutarihh.net/*
 *://*.bsvrutrx1.com.tr/*
+*://*.bsvruu3.click/*
 *://*.bsvryrm.site/*
 *://*.bsvs.fun/*
 *://*.bsvuraa.site/*
@@ -76507,6 +76511,7 @@
 *://*.crfssdanfrcrdfsadnbbze.com/*
 *://*.crfsyagldncrfsadngtmdn.com/*
 *://*.crfsykrsmtcfrdsyadn.com/*
+*://*.crftseydisehir.cfd/*
 *://*.crfursaabzmolursa.com/*
 *://*.crfyonlendirme.shop/*
 *://*.crgjhhsodmxc.net/*
@@ -88713,6 +88718,7 @@
 *://*.dijitalkampanya-denizacik.com/*
 *://*.dijitalkampanya-ziraat.com/*
 *://*.dijitalkampanya-ziraatbireysel.com/*
+*://*.dijitalkampanya-ziraatgiris.sbs/*
 *://*.dijitalkampanya-ziraatweb.com/*
 *://*.dijitalkampanya.net/*
 *://*.dijitalkampanyagiris-denizacik.com/*
@@ -286157,6 +286163,7 @@
 *://*.trkampanya-bn.com/*
 *://*.trkampanyahemen-basvur2024.cloud/*
 *://*.trkampanyalarimiz.art/*
+*://*.trkamu.net/*
 *://*.trkamuportal.org/*
 *://*.trkaraca.net.tr/*
 *://*.trkarmafirsatlarineniyisi.shop/*
@@ -327436,6 +327443,7 @@
 *://*.zamangel.shop/*
 *://*.zamangeld.shop/*
 *://*.zamangeldi.shop/*
+*://*.zamangelkald.cfd/*
 *://*.zamangldiyarrisiyo.com/*
 *://*.zamanhayatdeniz20203.com/*
 *://*.zamanhost.com/*
