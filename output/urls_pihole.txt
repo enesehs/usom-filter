@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-15 14:09:48 UTC
-# Toplam: 415246 Domain
+# Son Güncelleme: 2025-10-15 15:10:00 UTC
+# Toplam: 415254 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8147,6 +8147,7 @@
 206.81.11.102
 206321.cloud
 2064zt6z.duckdns.org
+2067842.cloud
 20682356.net
 20699.xc.mieseng.com
 206tl.eaux1.com
@@ -126623,6 +126624,7 @@ eadgkouytvn.xyz
 eadiati-turkiyegovtri.com
 eadikesghtalapurcareers.com
 eadjkbmh.com
+eadlicezasorgu.org
 eadlicezasorgulama.org
 eadlres-turkiyegovtr.com
 eadres-barsvur-turkiyegovttr.com
@@ -195109,6 +195111,7 @@ i64ttsas.duckdns.org
 i652d6465766c6574o676f76o7472z.oszar.com
 i656f6b756c7964o6d6562o676f76o7472z.oszar.com
 i656f6b756co6d6562o676f76o7472z.oszar.com
+i65736572746966696b61o637362o676f76o7472z.oszar.com
 i6dbauh.duckdns.org
 i6e2klsfwxwtulovyfg.ddns.net
 i6lrwy.duckdns.org
@@ -199974,6 +199977,7 @@ ilinternette-ziraat.club
 ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
+ilk-evim.com
 ilk-kart-iade-basvurusu-2021-karar.xyz
 ilk-kart-iade-basvurusu-2021.xyz
 ilk-sen-al.com
@@ -227492,6 +227496,7 @@ kilometreislemleriniz.web.app
 kilometreislemptt.web.app
 kilometreislemxleri.com
 kilometreislmlrnzz.web.app
+kilometrekanirtan.cfd
 kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
 kilometrekayitlarim.web.app
@@ -244991,6 +244996,7 @@ marketapron.top
 marketbasvuru.org
 marketbayisi.com
 marketbest.club
+marketborsasi.cfd
 marketcarrefour.online
 marketcarrefourekim.cfd
 marketcarrefoursa.online
@@ -343748,6 +343754,7 @@ takiple-event2022.net
 takiple.fun
 takipler-eventle.net
 takiplerci.top
+takipleri.vip
 takiplerim.vip
 takiplerinnizzzii.za.com
 takiplerinnizzziim.ru.com
@@ -374329,6 +374336,7 @@ vdlenizbank.com
 vdlkm34dlw.click
 vdlrmgfdjklx.net
 vdm-dealer.com
+vdmbayidestek.com
 vdmvodafonedestek.com
 vdn8huj.duckdns.org
 vdnamwas.click
