@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-15 15:10:00 UTC
-! Total: 330852 rules
+! Last modified: 2025-10-15 16:09:32 UTC
+! Total: 330859 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -534,6 +534,7 @@
 *://*.0pr3.com/*
 *://*.0qa.us/*
 *://*.0qzi7uk.cn/*
+*://*.0r10g230eb3r-nnh34rbefh3gredsherfdsbs.sbs/*
 *://*.0r7.app/*
 *://*.0rtakislem.net/*
 *://*.0rtakislemlerin.net/*
@@ -4559,6 +4560,7 @@
 *://*.1i1xl7i.cn/*
 *://*.1inch-apps.com/*
 *://*.1islemimsizlerle.com/*
+*://*.1istbbwa.icu/*
 *://*.1ix7htk.cn/*
 *://*.1izmirim2kart.net/*
 *://*.1izmrmk4rtyukleeme.ml/*
@@ -24856,6 +24858,7 @@
 *://*.akprmsyns2024akhzrn.online/*
 *://*.akpro-akbn-ozel.com.tr/*
 *://*.akpro.click/*
+*://*.akpromlar.click/*
 *://*.akpromsyhnftskgsmp-mon.online/*
 *://*.akpromsyn2024frsttkacmaz.online/*
 *://*.akprotofolyo.buzz/*
@@ -61824,6 +61827,7 @@
 *://*.bsvrunuztoki.click/*
 *://*.bsvrutarihh.net/*
 *://*.bsvrutrx1.com.tr/*
+*://*.bsvruu2.click/*
 *://*.bsvruu3.click/*
 *://*.bsvryrm.site/*
 *://*.bsvs.fun/*
@@ -90120,6 +90124,7 @@
 *://*.dlt34.site/*
 *://*.dlt34.space/*
 *://*.dlt34tennessee.space/*
+*://*.dltnlrshrde.sbs/*
 *://*.dltnsehir.com/*
 *://*.dltynlrshride.net/*
 *://*.dlukoi.pics/*
@@ -281643,6 +281648,7 @@
 *://*.toplukonutlaridaresi.com/*
 *://*.toplukonutlarimsiparislerim.cloud/*
 *://*.toplukonutlsmler.org/*
+*://*.toplukonutprojeleri.com/*
 *://*.toplukonutprojesi.com/*
 *://*.toplukonutresmibasvuru-35.com/*
 *://*.toplukonuttbasvurulari.com/*
@@ -294200,6 +294206,7 @@
 *://*.url-browser.cfd/*
 *://*.url-clickid.cfd/*
 *://*.url-explorer.cfd/*
+*://*.url-explorer.site/*
 *://*.url-extension.cfd/*
 *://*.url-fbclick.online/*
 *://*.url-gkhafa.sbs/*

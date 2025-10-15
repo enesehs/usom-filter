@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-15 15:10:00 UTC
-# Toplam: 415254 Domain
+# Son Güncelleme: 2025-10-15 16:09:32 UTC
+# Toplam: 415264 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1306,6 +1306,7 @@
 0qv3213.duckdns.org
 0qywflo7.duckdns.org
 0qzi7uk.cn
+0r10g230eb3r-nnh34rbefh3gredsherfdsbs.sbs
 0r13l0nt.duckdns.org
 0r1b3u4n.duckdns.org
 0r23b.uhabq9.com
@@ -6461,6 +6462,7 @@
 1ir7gbmg.duckdns.org
 1isbesti.blogspot.com
 1islemimsizlerle.com
+1istbbwa.icu
 1iuh4m124.duckdns.org
 1ix7htk.cn
 1izmirim2kart.net
@@ -16214,6 +16216,7 @@
 66666000066666.xyz
 666660060600606.cloud
 666666060000001.cloud
+66666666232232322.duckdns.org
 66666666661.net
 666666666666666666666666666.com
 66676868668.duckdns.org
@@ -16221,6 +16224,7 @@
 666ciu4.duckdns.org
 666demon666.club
 666palm.com
+667322.vercel.app
 667619230.cloud
 667674.vercel.app
 6677d4ed.ieybfs7j447b.org.cn
@@ -37273,6 +37277,7 @@ akppandemii.com
 akprmsynfrsat.online
 akprmsyns2024akhzrn.online
 akpro.click
+akpromlar.click
 akpromosyon.vercel.app
 akpromsyhnftskgsmp-mon.online
 akpromsyn2024frsttkacmaz.online
@@ -81214,6 +81219,7 @@ bsvrunuztoki.click
 bsvrutarihh.net
 bsvrutrx1.com.tr
 bsvrutrziraatbnkredi.fixip.org
+bsvruu2.click
 bsvruu3.click
 bsvryrm.site
 bsvs.fun
@@ -116085,6 +116091,7 @@ dlsjhqxlrt.duckdns.org
 dlt34.site
 dlt34.space
 dlt34tennessee.space
+dltnlrshrde.sbs
 dltnsehir.com
 dltynlrshride.net
 dlukoi.pics
@@ -227580,6 +227587,7 @@ kilometresorgulmac.web.app
 kilometresorgumetresi.web.app
 kilometresorgumyeri.web.app
 kilometresorguslmaz.com
+kilometresorgusokucusu.web.app
 kilometresorgusu.cfd
 kilometresorgusu.com
 kilometresorgusu.duckdns.org
@@ -353049,6 +353057,7 @@ toplukonutlarbasvurusu.com
 toplukonutlaridaresi.com
 toplukonutlarimsiparislerim.cloud
 toplukonutlsmler.org
+toplukonutprojeleri.com
 toplukonutprojesi.com
 toplukonutresmibasvuru-35.com
 toplukonuttbasvurulari.com
@@ -368045,6 +368054,7 @@ url-adsview.cfd
 url-browser.cfd
 url-clickid.cfd
 url-explorer.cfd
+url-explorer.site
 url-extension.cfd
 url-fbclick.online
 url-gkhafa.sbs
