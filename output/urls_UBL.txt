@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-15 17:08:32 UTC
-! Total: 330863 rules
+! Last modified: 2025-10-15 18:13:56 UTC
+! Total: 330868 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27053,6 +27053,7 @@
 *://*.alditalk.org/*
 *://*.aldivoltasinia1.cfd/*
 *://*.aldixlmlarimizaldikxlerimizmjdkdd.com/*
+*://*.aldlnaldlneklmmm.com/*
 *://*.aldmeha-aaaa.com/*
 *://*.aldmgldifrstin.shop/*
 *://*.aldmiadmtr1.net/*
@@ -85927,6 +85928,7 @@
 *://*.destek-platformu-ucret-geri-iadesi-basvur.xyz/*
 *://*.destek-ramazanpaketi.com/*
 *://*.destek-saglik-dstek.com/*
+*://*.destek-sayfa-acilis.digital/*
 *://*.destek-sikayetvar.com/*
 *://*.destek-sistemi-telif.xyz/*
 *://*.destek-sistemi.ml/*
@@ -125658,6 +125660,7 @@
 *://*.garantionline4440333.tk/*
 *://*.garantionline724.com/*
 *://*.garantionlinearalikayi.com/*
+*://*.garantionlinebank.com/*
 *://*.garantionlinebankacilik.com/*
 *://*.garantionlinebasvuru.com/*
 *://*.garantionlinebasvurularimizla.xyz/*
@@ -274568,6 +274571,7 @@
 *://*.taxqwoxq1.app/*
 *://*.taxrebate-uk-hmrc.com/*
 *://*.taxrepute.top/*
+*://*.taxwaa.click/*
 *://*.taycankampanyasi97yilozel.com/*
 *://*.taydedcolerezconeseedcefd.com/*
 *://*.tayenthflores.com/*
@@ -324459,6 +324463,7 @@
 *://*.yikamaicinburada.shop/*
 *://*.yikamaindirimiunrnler.shop/*
 *://*.yikamakarerstnd.store/*
+*://*.yikamam.com/*
 *://*.yikamaonline.site/*
 *://*.yikamaotostandlarinyeri.site/*
 *://*.yikamaotoyudedim.tk/*
