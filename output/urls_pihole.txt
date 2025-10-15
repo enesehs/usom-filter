@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-15 10:10:32 UTC
-# Toplam: 415204 Domain
+# Son Güncelleme: 2025-10-15 11:01:57 UTC
+# Toplam: 415207 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -191063,6 +191063,7 @@ home-ekrantr-web.space
 home-en-e-igenlayer.webflow.io
 home-ingservice.icu
 home-logintr-girwebplatform.com
+home-okooo.com
 home-page--qoinbase.webflow.io
 home-qkucoins.webflow.io
 home-service-online.icu
@@ -273565,6 +273566,7 @@ onlinea101indirim.com
 onlinea1o1.com
 onlinea1o1.net
 onlineaaidatodemegovtr.com
+onlineacarmarket.com
 onlineaccess.hopto.org
 onlineaccesscit.ddns.net
 onlineacenta365.site
@@ -312645,6 +312647,7 @@ sahibinden-guvenli-odeme.net
 sahibinden-guvenli-odeme.online-tr.sa.com
 sahibinden-guvenli-odemeler.com
 sahibinden-guvenli-odemeler.net
+sahibinden-guvenli-odemelerim.tr-siparis-gets.online
 sahibinden-guvenli-param.duckdns.org
 sahibinden-guvenli-satin-al.com.tr
 sahibinden-guvenli-satin-alim.com.tr
