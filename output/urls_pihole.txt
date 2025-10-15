@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-15 09:10:17 UTC
-# Toplam: 415195 Domain
+# Son Güncelleme: 2025-10-15 10:10:32 UTC
+# Toplam: 415204 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3556,6 +3556,7 @@
 121991dec.ddns.net
 121milkyway.xyz
 1221.site
+122121222222221.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
 122432324232423.click
@@ -9277,6 +9278,7 @@
 2508005846103025-verification-acount2024.duckdns.org
 25080058462103025-verification-acount.duckdns.org
 250888com.com
+250binasrinprojesi.com
 250binbasvurutokiekrani.com
 250binevkonutbasvurusu.com
 250binkonut-online.blogdns.net
@@ -9624,6 +9626,7 @@
 27c945f9c81784d6879c5a06b6484582.ua
 27deficiency.consentesto.ru
 27description.consentesto.ru
+27fed23c-a6ce-41e7-a22e-d950980b2a56-00-3i42csw5j15rw.picard.replit.dev
 27hazirandasizleakfirsat.online
 27hazirandasizleakfirsatim.online
 27i4nak.duckdns.org
@@ -16214,6 +16217,7 @@
 666demon666.club
 666palm.com
 667619230.cloud
+667674.vercel.app
 6677d4ed.ieybfs7j447b.org.cn
 667hd6.duckdns.org
 668400.com
@@ -24982,6 +24986,7 @@ ab2dzhacker.ddns.net
 ab2o04c7u.duckdns.org
 ab3520430c23.com
 ab3d685a0c37.com
+ab498.pythonanywhere.com
 ab4fwdk.duckdns.org
 ab4msell.net
 ab6b0ba8-dbb4-45ce-b2d6-1f9659179185-00-3rx0581p77ow2.pike.replit.dev
@@ -49127,6 +49132,7 @@ asinimeolmuspezoepik.online
 asinsaat.org
 asior.net
 asipprevent.rs
+asirigucluzedxsmurf.com
 asis.hopto.org
 asisat.2kool4u.net
 asisat.fast-page.org
@@ -77968,6 +77974,7 @@ bntr6yil.com
 bntr6yil.xyz
 bntrabbn.click
 bntrabebn.icu
+bntrabeden.click
 bntrabezn.click
 bntrabibn.click
 bntrambn.click
@@ -133561,6 +133568,7 @@ ekimkred11yukselt.duckdns.org
 ekimkred1yukselt.duckdns.org
 ekimkrediva-kif.xyz
 ekimlastikfirsatlarisok.xyz
+ekimlerfrst.sbs
 ekimlkdogrula.net
 ekimlojistik.com.tr
 ekimlojistik.online
@@ -331747,6 +331755,7 @@ sokfirsatlarseninle.com
 sokfirsatlasrevain.steasyv1.workers.dev
 sokfirsatmarket.online
 sokfirstkm-s.sbs
+sokfiyatlar.cfd
 sokflrsatkampanyaramazan.store
 sokflrsatsokgunlerindirsinflrsat.store
 sokflsamc.s0k.workers.dev
