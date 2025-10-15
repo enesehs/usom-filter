@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-15 11:01:57 UTC
-! Total: 330816 rules
+! Last modified: 2025-10-15 13:24:36 UTC
+! Total: 330841 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6714,6 +6714,7 @@
 *://*.24x1yj9lxas3q2.com/*
 *://*.24yapikredi.com/*
 *://*.24ztldn76jjbeu7pe.fun/*
+*://*.25-00-96-87.cfd/*
 *://*.25-01-janswkm-akma.cyou/*
 *://*.25-11-zezxfd-xfgcgh-asgfg-xfh.com/*
 *://*.25-21-78-93-45.top/*
@@ -26717,6 +26718,7 @@
 *://*.aldinaldin101tr.online/*
 *://*.aldinaldin101turkey.online/*
 *://*.aldinaldin101turkiye.online/*
+*://*.aldinaldin15ekimozel.com/*
 *://*.aldinaldin1o1firsat.com/*
 *://*.aldinaldin21aralik.shop/*
 *://*.aldinaldin2kasim.online/*
@@ -36793,6 +36795,7 @@
 *://*.axesfirsatlari.net.tr/*
 *://*.axesfirsatlari.org.tr/*
 *://*.axeshep.click/*
+*://*.axeslebonuslar.click/*
 *://*.axesleee-sizi-bekliyoruzzz.top/*
 *://*.axesliol.click/*
 *://*.axesliyoruz.top/*
@@ -37446,6 +37449,7 @@
 *://*.b-nisankarcahome.shop/*
 *://*.b-o-s-c-h-c-l-i-m-a-t-e.net.tr/*
 *://*.b-o-s-c-h-c-l-i-m-a-t-e.website/*
+*://*.b-onlineyatirimmenkul.com/*
 *://*.b-paribu.com/*
 *://*.b-payfix.com/*
 *://*.b-pttgov.top/*
@@ -59369,6 +59373,7 @@
 *://*.bnturkey1.cfd/*
 *://*.bnturkey2.cfd/*
 *://*.bnturkeygiris.com/*
+*://*.bnturkeygiris.info/*
 *://*.bnturkeygiris.shop/*
 *://*.bnturkeygiris1.com/*
 *://*.bnturkeygiris2.com/*
@@ -62110,6 +62115,7 @@
 *://*.btcturkturkiye.com/*
 *://*.btcturku-aninda-hizli.com/*
 *://*.btcturkusdt.com/*
+*://*.btcturkvip.cc/*
 *://*.btcturkweb-destek.com/*
 *://*.btcturkweb.com/*
 *://*.btcturkxau.com/*
@@ -72707,6 +72713,7 @@
 *://*.cmru.ac.th/*
 *://*.cms.qa/*
 *://*.cmsadskfsa-andklsa-fnma.sbs/*
+*://*.cmsarbem.com/*
 *://*.cmschecker.app/*
 *://*.cmsolutions.ae/*
 *://*.cmtcuzdan.net/*
@@ -93523,6 +93530,7 @@
 *://*.e-150basvuru.com/*
 *://*.e-150basvurular.com/*
 *://*.e-1devlet-giris.com/*
+*://*.e-1o1.sbs/*
 *://*.e-1o1c0mtr.shop/*
 *://*.e-1o1comtr.online/*
 *://*.e-1o1kasm-firstlri.site/*
@@ -99664,6 +99672,7 @@
 *://*.ebebebebek.xyz/*
 *://*.ebebek-store.ir/*
 *://*.ebebekci.com/*
+*://*.ebebekdaindrm.net/*
 *://*.ebebekstore.ir/*
 *://*.ebebel.com/*
 *://*.ebebkfirst.net/*
@@ -128612,6 +128621,7 @@
 *://*.get-secure-pay.com/*
 *://*.get-secure-sahibinden.com.pl/*
 *://*.get-secure-sahibinden.com/*
+*://*.get-secure-tr.com/*
 *://*.get-secure.co/*
 *://*.get-secureparamguvendesahibinden-com.tk/*
 *://*.get-securepayment.com.tr/*
@@ -169191,6 +169201,7 @@
 *://*.istanbu1l.click/*
 *://*.istanbu2l.click/*
 *://*.istanbu3l.click/*
+*://*.istanbu4l.click/*
 *://*.istanbudlaeglen.com.tr/*
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
@@ -174680,6 +174691,7 @@
 *://*.jetbrians.net/*
 *://*.jetcarfilo.com/*
 *://*.jetcarsfly.com/*
+*://*.jetcepte.com/*
 *://*.jetcozum.name.tr/*
 *://*.jetct66.com/*
 *://*.jetferr.com.br/*
@@ -183742,6 +183754,7 @@
 *://*.kgmonlineislem.net/*
 *://*.kgmonlineislemler-org.ml/*
 *://*.kgmonlineyuklemeler-pdf.xyz/*
+*://*.kgmoo.top/*
 *://*.kgmos.cc/*
 *://*.kgmotoyollari-merkezitakipsistemleri.com/*
 *://*.kgmotoyolwebsis.icu/*
@@ -193231,6 +193244,7 @@
 *://*.love3475.xyz/*
 *://*.lovebuskombi.com/*
 *://*.lovecakesohbet.xyz/*
+*://*.lovecicek.com/*
 *://*.lovedance666.com/*
 *://*.lovehome19.com/*
 *://*.loveitsomuch.com/*
@@ -196786,6 +196800,7 @@
 *://*.marketaktuel.org.tr/*
 *://*.marketaktuelsip.com/*
 *://*.marketal.sbs/*
+*://*.marketaldin.net/*
 *://*.marketalisveris21.xyz/*
 *://*.marketalisverisa1o1.online/*
 *://*.marketalisverisi-onlinea.online/*
@@ -199553,6 +199568,7 @@
 *://*.merkezbankasiade.com/*
 *://*.merkezbankasiaidat.com/*
 *://*.merkezbankasibddk-iade.cf/*
+*://*.merkezbankasibirikimim.rest/*
 *://*.merkezbankasigeriiadebddk.cf/*
 *://*.merkezbankasii.com/*
 *://*.merkezbankasim.com/*
@@ -201188,6 +201204,7 @@
 *://*.mirzonrrlekfen.com/*
 *://*.misbahbravo79.xyz/*
 *://*.miscalinius.org/*
+*://*.miscicekci.com/*
 *://*.miscoloration.com/*
 *://*.miscorrection.com/*
 *://*.miscov.com/*
@@ -224126,6 +224143,7 @@
 *://*.ozkayacolak.cfd/*
 *://*.ozkgptyhi.com/*
 *://*.ozkurtlerholding.net/*
+*://*.ozl-flrstlr-lrrkm.com/*
 *://*.ozl-flrstlr-rar-ri.com/*
 *://*.ozl-flrstlr-rar-ri.me/*
 *://*.ozl-flrstlr-rr-in.me/*
@@ -244392,6 +244410,7 @@
 *://*.redirectarea.com/*
 *://*.redirectbnb.com/*
 *://*.redirectcampaing232.click/*
+*://*.redirectgggle.com/*
 *://*.redirectitto.xyz/*
 *://*.redirectme.net/*
 *://*.redirectnewpage.com/*
@@ -261013,6 +261032,7 @@
 *://*.siparis-onay-guvende.com/*
 *://*.siparis-onayim-176203.com/*
 *://*.siparis-onayim-176204.com/*
+*://*.siparis-onayim-176207.com/*
 *://*.siparis-onayim-176299.com/*
 *://*.siparis-onayin.net/*
 *://*.siparis-onayla.net/*
@@ -261260,6 +261280,7 @@
 *://*.siparisvergelsindekapina.xyz/*
 *://*.siparisveriniz.com.tr/*
 *://*.siparisvpay.online/*
+*://*.siparisyolda.site/*
 *://*.siparisyolla.site/*
 *://*.siparisyonlendirm21.cloud/*
 *://*.sipariszamanisimdgldi.com/*
@@ -286132,6 +286153,7 @@
 *://*.trinkaxes.click/*
 *://*.trinkb.xyz/*
 *://*.trinkbasic.net/*
+*://*.trinkbonus.click/*
 *://*.trinkbonus.digital/*
 *://*.trinkbudur.click/*
 *://*.trinkburada.click/*
@@ -287083,6 +287105,7 @@
 *://*.trpttgovty.cc/*
 *://*.trpttgovv.cc/*
 *://*.trpttgovy.cc/*
+*://*.trpttgovyc.cc/*
 *://*.trpttgovys.cc/*
 *://*.trpttigov.top/*
 *://*.trpttigovt.shop/*
@@ -296639,6 +296662,7 @@
 *://*.vakif-securty-pandemdestek1-faz4.xyz/*
 *://*.vakif-sonsene2021.com/*
 *://*.vakif-sosyal-islemlerimle.com/*
+*://*.vakif-sosyal-islemlerimle.xyz/*
 *://*.vakif-sube-katilim.xyz/*
 *://*.vakif-subeislemleri-cekilis.com/*
 *://*.vakif-subesiz-cekilis-katil.co.uk/*
@@ -313013,6 +313037,7 @@
 *://*.wwwihtiyatgovcttr.club/*
 *://*.wwwiisbank.com/*
 *://*.wwwikuveytturk.com/*
+*://*.wwwilil.click/*
 *://*.wwwinternet-subemizvakifbank2021.com/*
 *://*.wwwinternet-subemizvakifbankgiris2021.com/*
 *://*.wwwinternetsubemiz-vakifbank2021.com/*

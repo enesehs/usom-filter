@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-15 11:01:57 UTC
-# Toplam: 415207 Domain
+# Son Güncelleme: 2025-10-15 13:24:36 UTC
+# Toplam: 415241 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9251,6 +9251,7 @@
 24yapikredi.com
 24ztldn76jjbeu7pe.fun
 24zzd4i.duckdns.org
+25-00-96-87.cfd
 25-01-janswkm-akma.cyou
 25-11-zezxfd-xfgcgh-asgfg-xfh.com
 25-21-78-93-45.top
@@ -14649,6 +14650,7 @@
 53verifyonl.hopto.org
 53vtx2.duckdns.org
 53xd3oxcfg655tw4.onion.link
+54-grattis.dynamic-dns.net
 54-iadehizmetleri.com
 54.201.254.34
 54.36.117.1
@@ -14824,6 +14826,7 @@
 557750230.dfgqdsd.ru
 5578789462132132221.cloud
 557casibom.com
+558312.vercel.app
 55848331.xyz
 5584v8yo.duckdns.org
 558723857282.xyz
@@ -17674,6 +17677,7 @@
 777515674775.cloud
 777520aktanimlibasvuruadimi.com
 777525777125.cloud
+77754000777777.duckdns.org
 7775445874777.duckdns.org
 777563.site
 777563224.cloud
@@ -39576,6 +39580,7 @@ aldinaldin101son.online
 aldinaldin101tr.online
 aldinaldin101turkey.online
 aldinaldin101turkiye.online
+aldinaldin15ekimozel.com
 aldinaldin1o1firsat.com
 aldinaldin21aralik.shop
 aldinaldin2kasim.online
@@ -52349,6 +52354,7 @@ axesfirsatlari.com.tr
 axesfirsatlari.net.tr
 axesfirsatlari.org.tr
 axeshep.click
+axeslebonuslar.click
 axesleee-sizi-bekliyoruzzz.top
 axesliol.click
 axesliyoruz.top
@@ -53189,6 +53195,7 @@ b-ncesasaa.ertenler.club
 b-nisankarcahome.shop
 b-o-s-c-h-c-l-i-m-a-t-e.net.tr
 b-o-s-c-h-c-l-i-m-a-t-e.website
+b-onlineyatirimmenkul.com
 b-pakt.blogspot.com
 b-paribu.com
 b-payfix.com
@@ -78114,6 +78121,7 @@ bnturkey-togg.com
 bnturkey1.cfd
 bnturkey2.cfd
 bnturkeygiris.com
+bnturkeygiris.info
 bnturkeygiris.shop
 bnturkeygiris1.com
 bnturkeygiris2.com
@@ -81529,6 +81537,7 @@ btcturktrx.com
 btcturkturkiye.com
 btcturku-aninda-hizli.com
 btcturkusdt.com
+btcturkvip.cc
 btcturkweb-destek.com
 btcturkweb.com
 btcturkxau.com
@@ -94663,6 +94672,7 @@ cmrtverasdhzmt.net
 cmrvtnabsvru.sytes.net
 cms.qa
 cmsadskfsa-andklsa-fnma.sbs
+cmsarbem.com
 cmschecker.app
 cmsolutions.ae
 cmtcuzdan.net
@@ -120568,6 +120578,7 @@ e-101-aralk-kmpanya.site
 e-150ailegenc.com
 e-150basvurular.com
 e-1devlet-giris.com
+e-1o1.sbs
 e-1o1c0mtr.shop
 e-1o1comtr.online
 e-1o1kasm-firstlri.site
@@ -127315,6 +127326,7 @@ ebebebebek.xyz
 ebebek-store.ir
 ebebek.hediyegunleri.xyz
 ebebekci.com
+ebebekdaindrm.net
 ebebekstore.ir
 ebebel.com
 ebebkfirst.net
@@ -209662,6 +209674,7 @@ istanbu-l-karntiz.duckdns.org
 istanbu1l.click
 istanbu2l.click
 istanbu3l.click
+istanbu4l.click
 istanbudlaeglen.com.tr
 istanbuikart.com
 istanbuikart.net
@@ -216092,6 +216105,7 @@ jetanaortakbayi.net
 jetanaortakbayim.net
 jetcarfilo.com
 jetcarsfly.com
+jetcepte.com
 jetcozum.name.tr
 jetct66.com
 jetfadil.zapto.org
@@ -227012,6 +227026,7 @@ kgmonline.net
 kgmonlineislem.net
 kgmonlineislemler-org.ml
 kgmonlineyuklemeler-pdf.xyz
+kgmoo.top
 kgmos.cc
 kgmotogcsodmeler.duckdns.org
 kgmotoyollari-merkezitakipsistemleri.com
@@ -239765,6 +239780,7 @@ loveayada.zapto.org
 lovebaongoc.ddns.net
 lovebuskombi.com
 lovecakesohbet.xyz
+lovecicek.com
 lovedance666.com
 loveeejoe.hopto.org
 lovegodalways.ddns.net
@@ -244955,6 +244971,7 @@ marketaktuel.net.tr
 marketaktuel.org.tr
 marketaktuelsip.com
 marketal.sbs
+marketaldin.net
 marketalisveris21.xyz
 marketalisverisa1o1.online
 marketalisverisi-onlinea.online
@@ -248259,6 +248276,7 @@ merkezbankasi2.com
 merkezbankasiade.com
 merkezbankasiaidat.com
 merkezbankasibddk-iade.cf
+merkezbankasibirikimim.rest
 merkezbankasigeriiadebddk.cf
 merkezbankasii.com
 merkezbankasim.com
@@ -250470,6 +250488,7 @@ misbahbravo79.xyz
 misc-pili-qos-report.qiniuapi.com
 miscalinius.org
 mischa228.hopto.org
+miscicekci.com
 miscoloration.com
 miscorrection.com
 miscov.com
@@ -279378,6 +279397,7 @@ ozkaya.store
 ozkayacolak.cfd
 ozkgptyhi.com
 ozkurtlerholding.net
+ozl-flrstlr-lrrkm.com
 ozl-flrstlr-rar-ri.com
 ozl-flrstlr-rar-ri.me
 ozl-flrstlr-rr-in.me
@@ -305011,6 +305031,7 @@ redirectcampaing232.click
 redirectcare02.ddns.net
 redirectcasecitiq1.hopto.org
 redirectcitizenauth.zapto.org
+redirectgggle.com
 redirecthelpciti.hopto.org
 redirectitto.xyz
 redirectlogin.zapto.org
@@ -311415,6 +311436,7 @@ sadecekasimayifirsatlari.com.tr
 sadecekznfirslat.duckdns.org
 sadecem81bimyukle.ga
 sadecema1o1.net
+sadeceondslirstlartrsd.blogspot.com
 sadeceonlbncvscsa.blogspot.com
 sadeceonlbnscv.blogspot.com
 sadeceonlfirstdds.duckdns.org
@@ -313816,6 +313838,7 @@ sahibinden.get-link.com.tr
 sahibinden.get-mobil.com.tr
 sahibinden.get-online-alisveris.com.tr
 sahibinden.get-satisofisi.com.tr
+sahibinden.get-secure-tr.com
 sahibinden.get-secure.co
 sahibinden.get-siparis.com.tr
 sahibinden.get-ssl.online
@@ -314517,6 +314540,7 @@ sahibinden.sepet-kurumsal.com.tr
 sahibinden.sepet-odeme.com.tr
 sahibinden.sepet-onayli.com.tr
 sahibinden.sepet-online.com.tr
+sahibinden.sepet-onlineodeme-turkiye.com
 sahibinden.sepet-takip.com
 sahibinden.sepet-yonet.online
 sahibinden.sepetim-aktif.com.tr
@@ -314551,6 +314575,7 @@ sahibinden.siparis-app.net
 sahibinden.siparis-dogrula.com
 sahibinden.siparis-kayit.com.tr
 sahibinden.siparis-onayim-176203.com
+sahibinden.siparis-onayim-176207.com
 sahibinden.siparis-onayla.net
 sahibinden.siparis-onaylama.website
 sahibinden.siparis-onayli-115522.com
@@ -314574,6 +314599,7 @@ sahibinden.siparisin.com.tr
 sahibinden.siparisinizonline.com.tr
 sahibinden.siparislerim.net
 sahibinden.siparisveriniz.com.tr
+sahibinden.siparisyolda.site
 sahibinden.space
 sahibinden.ss-secure-pay.com
 sahibinden.ss-securepayment.com
@@ -318377,6 +318403,7 @@ sdceonlindekazan.duckdns.org
 sdceonlneozlfrstlar.shop
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
+sdceyeonlnalarozelfrst.blogdns.org
 sdcnefsalmamgrkl.com
 sdconlnkmp.duckdns.org
 sdconlyanas.blogdns.org
@@ -334389,6 +334416,7 @@ sosyalkonut2026.com
 sosyalkonutbasvuru.net
 sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurusu.net
+sosyalkonutbasvurusu.vercel.app
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.net
 sosyalkonutlarabasvur.net
@@ -358241,6 +358269,7 @@ trink724.xyz
 trinkaxes.click
 trinkb.xyz
 trinkbasic.net
+trinkbonus.click
 trinkbonus.digital
 trinkbudur.click
 trinkburada.click
@@ -359285,6 +359314,7 @@ trpttgovtv.shop
 trpttgovty.cc
 trpttgovv.cc
 trpttgovy.cc
+trpttgovyc.cc
 trpttgovys.cc
 trpttigov.top
 trpttigovt.shop
@@ -371101,6 +371131,7 @@ vakif-senin-hizli-mobil.ip-ddns.com
 vakif-seninle-hizli.ip-ddns.com
 vakif-sonsene2021.com
 vakif-sosyal-islemlerimle.com
+vakif-sosyal-islemlerimle.xyz
 vakif-sube-katilim.xyz
 vakif-subeislemleri-cekilis.com
 vakif-subesiz-cekilis-katil.co.uk
@@ -383120,6 +383151,7 @@ website6565812.nicepage.io
 website6568695.nicepage.io
 website6569024.nicepage.io
 website6570282.nicepage.io
+website6577988.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
 websitekampanyasi.tk
@@ -393112,6 +393144,7 @@ wwwihalkbank.com
 wwwihtiyatgovcttr.club
 wwwiisbank.com
 wwwikuveytturk.com
+wwwilil.click
 wwwinternet-subemizvakifbank2021.com
 wwwinternet-subemizvakifbankgiris2021.com
 wwwinternetsubemiz-vakifbank2021.com
@@ -413133,6 +413166,7 @@ ziraatiade.com
 ziraatiade.com.tr
 ziraatiadebasvurum.com
 ziraatiadeislemleri.com
+ziraatiadeleri.mooo.com
 ziraatiadelerim.com
 ziraatiadeller.com
 ziraatib.com
