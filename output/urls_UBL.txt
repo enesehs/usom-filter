@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-16 15:09:29 UTC
-! Total: 330983 rules
+! Last modified: 2025-10-16 16:12:24 UTC
+! Total: 331002 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11660,6 +11660,7 @@
 *://*.846545646546645.space/*
 *://*.8465468444.cloud/*
 *://*.8467498498494984984964484964.info/*
+*://*.8468168.top/*
 *://*.8468486768455178191.com/*
 *://*.8468718676564651523.site/*
 *://*.84723939218.online/*
@@ -40987,6 +40988,7 @@
 *://*.basvuru-ekrani.com/*
 *://*.basvuru-ekrani.cyou/*
 *://*.basvuru-ekrani.icu/*
+*://*.basvuru-ekrani.sbs/*
 *://*.basvuru-enpara.com/*
 *://*.basvuru-eportal-in.online/*
 *://*.basvuru-evlilik.net/*
@@ -42265,6 +42267,7 @@
 *://*.basvuruyapailevegenc.com/*
 *://*.basvuruyapanalir.xyz/*
 *://*.basvuruyapankazanir.com/*
+*://*.basvuruyapdn.com/*
 *://*.basvuruyapikredi.com/*
 *://*.basvuruyapimmasayfasi.com/*
 *://*.basvuruyapin.com/*
@@ -59408,6 +59411,7 @@
 *://*.bnturkeygiris.shop/*
 *://*.bnturkeygiris1.com/*
 *://*.bnturkeygiris2.com/*
+*://*.bnturkeygiris4.com/*
 *://*.bnturkeygiris4.site/*
 *://*.bnturkeykripto.xyz/*
 *://*.bnturkeykriptoparaaalimsatimplatformuanonimsirketi.com/*
@@ -88785,6 +88789,7 @@
 *://*.dijitalkampanya-ziraatweb.sbs/*
 *://*.dijitalkampanya.net/*
 *://*.dijitalkampanyagiris-denizacik.com/*
+*://*.dijitalkampanyagiris-ziraatweb.sbs/*
 *://*.dijitalkampanyamobil-ziraat.com/*
 *://*.dijitalkampanyanet-ziraatbireysel.com/*
 *://*.dijitalkampanyavakifmobil.com/*
@@ -88904,6 +88909,7 @@
 *://*.dijitalmobil-ziraatkampanyagiris.com/*
 *://*.dijitalmobil-ziraatonay.sbs/*
 *://*.dijitalmobil-ziraatwebgiris.com/*
+*://*.dijitalmobil-ziraatwebgiris.sbs/*
 *://*.dijitalmobilde-denizacik.com/*
 *://*.dijitalmobilden-denizacik.com/*
 *://*.dijitalmobilden-ziraatbireysel.com/*
@@ -105422,6 +105428,7 @@
 *://*.ekmekvakfi.com/*
 *://*.ekmfrst-ilekacrlmzdeger.online/*
 *://*.ekmgbwrc.com/*
+*://*.ekmi-kmpanyalari-ayzbir.sbs/*
 *://*.ekmmndgrlrlrl.com/*
 *://*.ekmravaswesd.net/*
 *://*.ekmsekrledeme.net/*
@@ -145904,6 +145911,7 @@
 *://*.hemenislemm.net/*
 *://*.hemenislemmerkezi.app/*
 *://*.hemenistjx.cfd/*
+*://*.hemenistlanbullnnu.online/*
 *://*.hemenistlbulalnul.online/*
 *://*.hemenitiy.site/*
 *://*.hemenivdraifk.net/*
@@ -146479,6 +146487,7 @@
 *://*.hepsiburada-kepimyenilemeaktif.com/*
 *://*.hepsiburada-kepimyenilemeguncel.com/*
 *://*.hepsiburada-kepimyenilenmeguncel.com/*
+*://*.hepsiburada-mall.online/*
 *://*.hepsiburada-order.com/*
 *://*.hepsiburada-sale.com/*
 *://*.hepsiburada-sale.shop/*
@@ -146611,6 +146620,7 @@
 *://*.hepsiburadasatis.com/*
 *://*.hepsiburadashop.site/*
 *://*.hepsiburadashop.top/*
+*://*.hepsiburadashopp.com/*
 *://*.hepsiburadasirketozel.online/*
 *://*.hepsiburadat.com/*
 *://*.hepsiburadatop.com/*
@@ -146632,6 +146642,9 @@
 *://*.hepsiburadaz.com/*
 *://*.hepsiburade.top/*
 *://*.hepsiburado.com/*
+*://*.hepsiburas.cyou/*
+*://*.hepsiburas.shop/*
+*://*.hepsiburas.top/*
 *://*.hepsiburashopmarket.com/*
 *://*.hepsiburda.site/*
 *://*.hepsiburdaa.net/*
@@ -177588,6 +177601,7 @@
 *://*.kaldeyincekaldnmibenimlebenseniardm.shop/*
 *://*.kaldiimiibitti.cfd/*
 *://*.kaldiklari-bundan-sonrasina-uzaklarda-aramayin.com/*
+*://*.kaldimgittimburdabr.cfd/*
 *://*.kaldirac2024-page.xyz/*
 *://*.kaldirimbilisimden12.com/*
 *://*.kaldiyemedim.online/*
@@ -184344,6 +184358,7 @@
 *://*.kindtournament.top/*
 *://*.kindupdates.com/*
 *://*.kindwell.top/*
+*://*.kindylib.info/*
 *://*.kineticwing.com/*
 *://*.kingaimediapro.com/*
 *://*.kingaiplus.com/*
@@ -203402,6 +203417,7 @@
 *://*.mobile-kampanya.com/*
 *://*.mobile-messengerplus.network/*
 *://*.mobile-online-sube-yapikredi-tr.cf/*
+*://*.mobile-online.click/*
 *://*.mobile-onlinesube-teb-tr.cf/*
 *://*.mobile-onlinesube-teb.cf/*
 *://*.mobile-ozel-islemleri.xyz/*
@@ -269528,6 +269544,7 @@
 *://*.stiturel.com/*
 *://*.stiybxhfa.com/*
 *://*.stiye-gti-ynlendirme.cfd/*
+*://*.stiye-hlzli-aktrma.sbs/*
 *://*.stiyxdm.cn/*
 *://*.stjmxxqtkudy.xyz/*
 *://*.stk-sn-kpdaylbasi.online/*
@@ -287259,6 +287276,7 @@
 *://*.trqnbfinansonline.com/*
 *://*.trqnbonlinebasvurumuz.com/*
 *://*.trqrh.com/*
+*://*.trqttet.life/*
 *://*.trquotesys.com/*
 *://*.trr-bllmcell.com/*
 *://*.trr-postal.com/*
@@ -295161,6 +295179,7 @@
 *://*.uxgsttvkksbm.online/*
 *://*.uxigezamuj.biz/*
 *://*.uxjkdb.com/*
+*://*.uxjlx.com/*
 *://*.uxjxfg2ui8k5zk.com/*
 *://*.uxlawtr.com/*
 *://*.uxlbovrny.com/*
