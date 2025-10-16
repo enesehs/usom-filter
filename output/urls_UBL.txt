@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-16 11:08:40 UTC
-! Total: 330924 rules
+! Last modified: 2025-10-16 12:23:26 UTC
+! Total: 330939 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41680,6 +41680,7 @@
 *://*.basvurularim-hizli.com/*
 *://*.basvurularim.com/*
 *://*.basvurularim.cyou/*
+*://*.basvurularim.sbs/*
 *://*.basvurularim.site/*
 *://*.basvurularim.xyz/*
 *://*.basvurularim0nlinegarantizamn.net/*
@@ -44836,6 +44837,7 @@
 *://*.benkullandim.club/*
 *://*.benlag.com/*
 *://*.benlegez.net/*
+*://*.benleronlarsizler.click/*
 *://*.benmendsa.net/*
 *://*.benmisimsdwe.net/*
 *://*.benmsndenalcagmbuurnlervar.shop/*
@@ -122920,6 +122922,7 @@
 *://*.furqaanenergy.com/*
 *://*.furry-femboys.top/*
 *://*.fursatabufaura.cfd/*
+*://*.fursatasrasizlere.cfd/*
 *://*.fursatuararabur.cfd/*
 *://*.fursaturl.sbs/*
 *://*.furstoutountzi.com/*
@@ -151273,6 +151276,7 @@
 *://*.hizlibudgetkampanya.space/*
 *://*.hizlibudgetnetkirala.space/*
 *://*.hizlibudgetnetkiralama.space/*
+*://*.hizlibuket.com/*
 *://*.hizlibulduk.com.tr/*
 *://*.hizlibursum.net/*
 *://*.hizlibuzdolabisiparisi.xyz/*
@@ -151935,6 +151939,7 @@
 *://*.hizliolsunaynigun.xyz/*
 *://*.hizliolustursiparismagaza.online/*
 *://*.hizliolustursiparismagaza.xyz/*
+*://*.hizlionay.sbs/*
 *://*.hizlionay.tk/*
 *://*.hizlionayislem.com/*
 *://*.hizlionaylat.fun/*
@@ -158834,6 +158839,7 @@
 *://*.icshop.io/*
 *://*.icsswaziland.com/*
 *://*.ictdp.com/*
+*://*.ictnsc.com/*
 *://*.ictstartech.com/*
 *://*.ictvkypflpwxgow.ru/*
 *://*.icubcroeqxkcidb.su/*
@@ -183887,6 +183893,7 @@
 *://*.kgtbastakipsizav.xyz/*
 *://*.kgtmhgswebavisbil.sbs/*
 *://*.kgtodesmesiihll.site/*
+*://*.kgvsngo.life/*
 *://*.kgxcisx.net/*
 *://*.kgxmekaew.net/*
 *://*.kgxshgsborcodmetm.com/*
@@ -184118,6 +184125,7 @@
 *://*.kilometretapusubende.cfd/*
 *://*.kilometretenure.top/*
 *://*.kilometreuzmani.cfd/*
+*://*.kilometreuzmanim.cfd/*
 *://*.kilometrevehasarcom.shop/*
 *://*.kilometrevehasarkaydi.autos/*
 *://*.kilometreyokeden.cfd/*
@@ -185545,6 +185553,7 @@
 *://*.kmnsamcsamc246sac.digital/*
 *://*.kmnsdalkjnelk.net/*
 *://*.kmnwebavsis.sbs/*
+*://*.kmonyaaababsvrrrrnttt.click/*
 *://*.kmonyaaabsvrrrprmsyonn.click/*
 *://*.kmoollaro.com/*
 *://*.kmorgulamam.com/*
@@ -199626,6 +199635,8 @@
 *://*.merkezbankasiade.com/*
 *://*.merkezbankasiaidat.com/*
 *://*.merkezbankasibddk-iade.cf/*
+*://*.merkezbankasibirikim.click/*
+*://*.merkezbankasibirikim.rest/*
 *://*.merkezbankasibirikimim.rest/*
 *://*.merkezbankasigeriiadebddk.cf/*
 *://*.merkezbankasii.com/*
@@ -266575,6 +266586,7 @@
 *://*.sosyalkapimedvletbasvuru.online/*
 *://*.sosyalkazani.ml/*
 *://*.sosyalkontbasvuru.net/*
+*://*.sosyalkonut.org/*
 *://*.sosyalkonut.shop/*
 *://*.sosyalkonut2026.com/*
 *://*.sosyalkonutbasvuru.net/*
@@ -282813,6 +282825,7 @@
 *://*.tr-get-siparislerim.online/*
 *://*.tr-get.net/*
 *://*.tr-get.online/*
+*://*.tr-gets-siparislerim.online/*
 *://*.tr-gets.online/*
 *://*.tr-giris-facebook.com/*
 *://*.tr-giris-gov-aidat-dagitma.biz/*
@@ -294320,6 +294333,7 @@
 *://*.url-sponsorlu.site/*
 *://*.url-tiny.app/*
 *://*.url-tiny.co/*
+*://*.url-web.cfd/*
 *://*.url008.xyz/*
 *://*.urlablisim.xyz/*
 *://*.urlbrowser-fb.site/*
@@ -301198,6 +301212,7 @@
 *://*.vilaoaza.com/*
 *://*.vilape.online/*
 *://*.vilaverde.ru/*
+*://*.vildancicek.com/*
 *://*.vilimonstertut.ru/*
 *://*.villa-kalkan.com.tr/*
 *://*.villa-sepeti.com.tr/*
