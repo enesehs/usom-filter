@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-16 17:01:42 UTC
-! Total: 331015 rules
+! Last modified: 2025-10-16 18:13:12 UTC
+! Total: 331036 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6902,6 +6902,7 @@
 *://*.265905735812879370.com/*
 *://*.26593660.cloud/*
 *://*.2663632936386372.fyi/*
+*://*.26693777.cloud/*
 *://*.266fdda00754.net/*
 *://*.26716311683456534.com/*
 *://*.2673467226434.com/*
@@ -27838,6 +27839,7 @@
 *://*.alisverisyap.club/*
 *://*.alisverisyap.com.tr/*
 *://*.alisverisyap.online/*
+*://*.alisverisyap.space/*
 *://*.alisverisyapmakcokguzel.online/*
 *://*.alisverisyapmakcokguzel.xyz/*
 *://*.alisverisyapsana.shop/*
@@ -28020,6 +28022,7 @@
 *://*.alldataservice.com/*
 *://*.allday.gr/*
 *://*.alldin-alldin-online-ozel.com/*
+*://*.alldlnaldllneklmm0zel.com/*
 *://*.alldnnnaldnnnfrstkpindasmdifrslrkpimda.store/*
 *://*.alldnnnaldnnnkpimdabcmateefafhshads.store/*
 *://*.alldnnnaldnnnkpimdabcmatslmate.store/*
@@ -42002,6 +42005,7 @@
 *://*.basvurunuyap-check-sistem.net/*
 *://*.basvurunuyap-hemenkatil2.cloud/*
 *://*.basvurunuyap.com.tr/*
+*://*.basvurunuyap.sbs/*
 *://*.basvurunuyaphediyeler.cloud/*
 *://*.basvurunuyaphediyenikap.com/*
 *://*.basvurunuyaphemen2024.cloud/*
@@ -61858,6 +61862,7 @@
 *://*.bsvrunuztoki.click/*
 *://*.bsvrutarihh.net/*
 *://*.bsvrutrx1.com.tr/*
+*://*.bsvruu1.click/*
 *://*.bsvruu2.click/*
 *://*.bsvruu3.click/*
 *://*.bsvryrm.site/*
@@ -76820,6 +76825,7 @@
 *://*.cry-havok.org/*
 *://*.cryapteoaing.org/*
 *://*.crybimcell.com/*
+*://*.cryest.shop/*
 *://*.cryfast.shop/*
 *://*.cryingpand.com/*
 *://*.cryjakpnl2.xyz/*
@@ -123034,6 +123040,7 @@
 *://*.futurevisiontechnologies.site/*
 *://*.futureway24.online/*
 *://*.futurewaystart.online/*
+*://*.futurewayup.online/*
 *://*.futurisehub.com/*
 *://*.futuristicdesignsolutions.online/*
 *://*.fuu00ppss.online/*
@@ -135314,6 +135321,7 @@
 *://*.gununhediyeleri.com/*
 *://*.gununindirimfirsati.click/*
 *://*.gununindirimi-turkcell.com/*
+*://*.gununindirimlerisimdi.store/*
 *://*.gununindirimli-paketi-turkcell.com/*
 *://*.gununkampanyalari.net/*
 *://*.gununkampanyasi.gq/*
@@ -138346,6 +138354,7 @@
 *://*.haftaninonlinesatislarrcampany.xyz/*
 *://*.haftaninotobuzdolabiyil.xyz/*
 *://*.haftaninpreiumurunleri.com.tr/*
+*://*.haftaninsoku.cfd/*
 *://*.haftaninsonfirsatalri.com.tr/*
 *://*.haftaninsonfirsatalri.online/*
 *://*.haftaninsonfirsatalri.xyz/*
@@ -165969,6 +165978,7 @@
 *://*.interviewercoceit.top/*
 *://*.interviewertranquil.top/*
 *://*.interviewjolly.top/*
+*://*.interviewsapple.site/*
 *://*.interviewscrew.com/*
 *://*.intervntinyear.top/*
 *://*.interweavingly.com/*
@@ -168609,6 +168619,7 @@
 *://*.isleminizaninda.net/*
 *://*.isleminizguvende.com/*
 *://*.isleminiziburdan-sorgulayiniz.com/*
+*://*.isleminizicintiklayin.cyou/*
 *://*.isleminizmerkezin.net/*
 *://*.isleminizyapiliyor.shop/*
 *://*.isleminkolayal.app/*
@@ -185074,6 +185085,7 @@
 *://*.kkftodesk109.top/*
 *://*.kkftodesk110.top/*
 *://*.kkgeliyorkkdom.com/*
+*://*.kkgeliyoryoldaaa.com/*
 *://*.kkgktkm.net/*
 *://*.kkh56fuav.ru/*
 *://*.kkhandedomain.com/*
@@ -232921,6 +232933,7 @@
 *://*.poledilution.top/*
 *://*.polenajans.com.tr/*
 *://*.poleneturkiye.com/*
+*://*.polenfbvc.cfd/*
 *://*.polenkan.net/*
 *://*.polesn.net/*
 *://*.polewithcandy.com/*
@@ -251783,6 +251796,7 @@
 *://*.salbinden.com/*
 *://*.salbizimovuks.com/*
 *://*.saldagolundeyiz.sbs/*
+*://*.saldimgunsonufb.cfd/*
 *://*.saldozlar.win/*
 *://*.sale-deepseek.com/*
 *://*.sale-price.online/*
@@ -272996,6 +273010,7 @@
 *://*.synthesizespider.top/*
 *://*.synthesizesturdy.top/*
 *://*.synthesizetrophy.top/*
+*://*.synthesxora.com/*
 *://*.syntheticdeadlock.top/*
 *://*.synthexxus.com/*
 *://*.synthnet.ai/*
@@ -274079,6 +274094,7 @@
 *://*.tamamla-onayla.xyz/*
 *://*.tamamlabasvurunudestekal.com/*
 *://*.tamamlaislemdjtal.app/*
+*://*.tamamlakampanya.sbs/*
 *://*.tamamlayabilen-sizlerde-buradan-karsina-gecen-yok.com/*
 *://*.tamamlayan-bilir-bunlar-pek-gelmez.com/*
 *://*.tamamlayan-bizlere-daha-yakin-biliniriz.com/*
@@ -281313,6 +281329,7 @@
 *://*.tokenwayz.com/*
 *://*.tokenzdropz.name/*
 *://*.toki-2025.com/*
+*://*.toki-adresi.xyz/*
 *://*.toki-bas-vur.net/*
 *://*.toki-basvur.cfd/*
 *://*.toki-basvuru.online/*
@@ -285584,6 +285601,7 @@
 *://*.treeallocate.top/*
 *://*.treeauwin.net/*
 *://*.treedeployment.top/*
+*://*.treedrift.com/*
 *://*.treekkmmmm.xyz/*
 *://*.treemanic.com/*
 *://*.treenonetheless.top/*
@@ -303150,6 +303168,7 @@
 *://*.vufrgunzamanidir.tk/*
 *://*.vughgnnfg.com/*
 *://*.vuhgatoi.com/*
+*://*.vuidls-enterd.sbs/*
 *://*.vuifow34-df.com/*
 *://*.vuison.com/*
 *://*.vujqbcditgsqxe.fr/*
@@ -326228,6 +326247,7 @@
 *://*.yoniyonisdoniyses23.top/*
 *://*.yonkearyse.com/*
 *://*.yonlen-buradan-anlik.sbs/*
+*://*.yonlen.click/*
 *://*.yonlendir-aktarma-sistem.cyou/*
 *://*.yonlendir-denizcekilisim-2022.com/*
 *://*.yonlendir-reklam.com/*
@@ -330425,6 +330445,7 @@
 *://*.zonexdrive4ptv.click/*
 *://*.zonezje.space/*
 *://*.zonfenntorlek.com/*
+*://*.zongarrrlekfen.com/*
 *://*.zongoldakeregli.tk/*
 *://*.zongolov.net/*
 *://*.zonles666.tk/*
