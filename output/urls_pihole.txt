@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-16 16:12:24 UTC
-# Toplam: 415423 Domain
+# Son Güncelleme: 2025-10-16 17:01:42 UTC
+# Toplam: 415441 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -28,6 +28,7 @@
 0.solucionegos.top
 0.supersekerbenk.site
 0.tcp.ap.ngrok.io
+00-00-00-00.cfd
 00-1321729461.cos.ap-guangzhou.myqcloud.com
 00-hgs.glitch.me
 000-authent-777-serv-000.pages.dev
@@ -17074,6 +17075,7 @@
 7-24onlinefatura.com
 7-24yolcumkampanya.com.tr
 7-6-5-32-2-12-1-1.com
+7-7--lgewgmekolfsasf-7-77-d.sbs
 7-7-7-7-7-7-7-8.com
 7-7-7-7-7-7-7-8.pro
 7-777-7-777-7-777-7.com
@@ -114817,6 +114819,7 @@ dijitalvarlarin-ziraatbireysel.com
 dijitalvarlik-denizacik.com
 dijitalvarlik-ziraat.com
 dijitalvarlik-ziraatbireysel.com
+dijitalvarlik-ziraatgiris.sbs
 dijitalvarlik-ziraatweb.com
 dijitalvarlikgiris-denizacik.com
 dijitalvarlikhizligiris-denizacik.com
@@ -182212,6 +182215,7 @@ hemenkredim.online
 hemenkredimtr.com
 hemenkredintr.com
 hemenkreditr.com
+hemenlaknkam.online
 hemenlebirliktehemenalmalisin.com.tr
 hemenlebirliktehemenalmalisin.online
 hemenlebirliktehemenalmalisin.xyz
@@ -212103,6 +212107,8 @@ ivano433pro.xyz
 ivanokaramone.xyz
 ivanorduna.com
 ivansaru.418.com1.ru
+ivanti-pulsesecure.com
+ivanti-secure-access.org
 ivanvasilevich.ru
 ivapnll.com
 ivaspn3l.com
@@ -227632,6 +227638,7 @@ kilometresorgu.shop
 kilometresorgu.web.app
 kilometresorgucunuz.web.app
 kilometresorguekibi.cfd
+kilometresorgugecmis.web.app
 kilometresorguhizmet.web.app
 kilometresorguhizmetimiz.web.app
 kilometresorguhizmetle.web.app
@@ -229388,6 +229395,7 @@ kmcssorgulama1.com
 kmdcs.com
 kmdenhizmet.shop
 kmdenizbank.com
+kmdeogrenhizmeti.cfd
 kmdesnzszde.qwgfqwfgas.com
 kmdestekaraclar.sa.com
 kmdetalymhemn.com
@@ -229739,6 +229747,7 @@ kmslertamburda.cfd
 kmslkcmas.com
 kmslktmsnc.com
 kmsmakmkaask.net
+kmsmsorglglapadisahic.web.app
 kmsoara.com
 kmsogrulamahmnenbuarada.com
 kmsoralgaka.com
@@ -262572,6 +262581,7 @@ netlix-polska.duckdns.org
 netlurex.com
 netmailbox.hopto.org
 netmediaresources.com
+netml.shop
 netmtvode.online
 netneredenetyoklanet.net
 netnet.name.tr
@@ -286062,6 +286072,7 @@ patronkeyfi.cfd
 patronlureklam18.xyz
 patshorthand.top
 patsonsfoods.com
+patsososu.sa.com
 pattems.buzz
 pattern-tackle.com
 patternapplauderw.shop
@@ -325151,6 +325162,7 @@ shopmira.store
 shopoutdoorsrus.com
 shopp-ttonline.com
 shopphongtinh.com
+shopping5.shop
 shoppingmarkt101.online
 shoppingmartyrdom.top
 shoppingmss.ddns.net
@@ -332499,6 +332511,7 @@ solofansapp.page.link
 sologerg.com
 solokontorler.com
 solokontorler.online
+sololevelink.sa.com
 solomedikal.com
 solomonegbe.com
 solomongrandy.zapto.org
@@ -337591,6 +337604,7 @@ stanleygelsin.xyz
 stanleygunleri.com.tr
 stanleygunleri.name.tr
 stanleyindirim.shop
+stanleykafayiasti.xyz
 stanleykampanyam.store
 stanleymarket.biz.tr
 stanleymarket.info.tr
@@ -346496,6 +346510,9 @@ teammate-live.online
 teamprosecution.top
 teamregiment.top
 teamretrieve.top
+teams-download.buzz
+teams-download.top
+teams-install.run
 teams-install.top
 teamsapi.net
 teamsbusiness.org
@@ -372343,6 +372360,7 @@ vakiffirsatlaribasladi.vercel.app
 vakiffkurumsall.cfd
 vakiffsurprizcekilis.cf
 vakifgenelgeler.com
+vakifgiris-basvur.vercel.app
 vakifgiris-ceptenkazan2021.com
 vakifgiris-guvenlik.vercel.app
 vakifgiris-kampamyalar.vercel.app
