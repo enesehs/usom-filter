@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-16 18:13:12 UTC
-! Total: 331036 rules
+! Last modified: 2025-10-16 19:01:46 UTC
+! Total: 331047 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5677,6 +5677,7 @@
 *://*.2025-ilk-gun-firsatlari.shop/*
 *://*.2025-islemburadan.com/*
 *://*.2025-islemlerinizburadan.com/*
+*://*.2025-konut.sbs/*
 *://*.2025-lslems0rgula.com/*
 *://*.2025-mobil-yenimobil.shop/*
 *://*.2025-ocak-firsatlari.shop/*
@@ -9366,6 +9367,7 @@
 *://*.50065com.com/*
 *://*.5009a51a0347.com/*
 *://*.500bin-konutbasvuru.cfd/*
+*://*.500binkontprojesi.com/*
 *://*.500binkonutbasvuru.cfd/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
@@ -41509,6 +41511,7 @@
 *://*.basvuruhizmeti.site/*
 *://*.basvuruhizmetin.net/*
 *://*.basvuruhizmetin.tk/*
+*://*.basvuruhizmetlerburds.store/*
 *://*.basvuruhizmetleri-onliinegirisi.com/*
 *://*.basvuruhizmetleri.online/*
 *://*.basvuruhizmetleri.xyz/*
@@ -63137,6 +63140,7 @@
 *://*.buildar.shop/*
 *://*.buildcarbohydrate.top/*
 *://*.builddrill.top/*
+*://*.builddzone.com/*
 *://*.builder-marketing.com/*
 *://*.builder-preview.com/*
 *://*.builderjobsunity.store/*
@@ -80653,6 +80657,7 @@
 *://*.deneyimlioperatorler.com/*
 *://*.deneyimlipersoneller.com/*
 *://*.deneyimsizalma.com.tr/*
+*://*.deneyimvegelecek.info/*
 *://*.deneyimyolu.online/*
 *://*.deneyin-bakin-eninde-sonunda-alin.com/*
 *://*.deneyin-gorun-bizde-hayata-bakisiniza.com/*
@@ -168620,6 +168625,7 @@
 *://*.isleminizguvende.com/*
 *://*.isleminiziburdan-sorgulayiniz.com/*
 *://*.isleminizicintiklayin.cyou/*
+*://*.isleminizicintiklayin.icu/*
 *://*.isleminizmerkezin.net/*
 *://*.isleminizyapiliyor.shop/*
 *://*.isleminkolayal.app/*
@@ -185488,6 +185494,7 @@
 *://*.kmdetayhmnogren.com/*
 *://*.kmdetaylar.shop/*
 *://*.kmdetayogren.com/*
+*://*.kmdeyizbilgiogreniste.cfd/*
 *://*.kmdeyizbugundepadisahgibicnr.cfd/*
 *://*.kmdfgdw34ed3.online/*
 *://*.kmdfggfd.shop/*
@@ -191352,6 +191359,7 @@
 *://*.lhgslliodemelr.net/*
 *://*.lhhcbkcgqdwpfay.cn/*
 *://*.lhillswellnessr.ru/*
+*://*.lhizliisllem.online/*
 *://*.lhizlionline.online/*
 *://*.lhizliptsraglla.net/*
 *://*.lhizlitakibikrrgo.net/*
@@ -254897,6 +254905,7 @@
 *://*.seksekekesek101.com/*
 *://*.sekseninciyilimiz.com/*
 *://*.seksever.com/*
+*://*.sektorecoktukkardes.sbs/*
 *://*.sektorecoktumoccccistediginkadarusomathahaha.dev/*
 *://*.sekubar.com/*
 *://*.selaattisad.xyz/*
@@ -272677,6 +272686,7 @@
 *://*.swatcheck.cc/*
 *://*.swatsheeel.com/*
 *://*.swatsheel.com/*
+*://*.swavico.com/*
 *://*.swcepbtokjovjfuoljcqydxiv.com/*
 *://*.swd1gly0snyg1bzkronline.com/*
 *://*.swdenizbank.com/*
@@ -327569,6 +327579,7 @@
 *://*.z0gg.me/*
 *://*.z1cv.com/*
 *://*.z1o1comtr.online/*
+*://*.z1raat.sbs/*
 *://*.z1raattemuzfirsati.com/*
 *://*.z1x.digital/*
 *://*.z207prn.in/*
