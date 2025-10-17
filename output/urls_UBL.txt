@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-17 06:13:48 UTC
-! Total: 331077 rules
+! Last modified: 2025-10-17 07:09:50 UTC
+! Total: 331093 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61648,6 +61648,7 @@
 *://*.bsviyjbjoxyj.com/*
 *://*.bsvr-acikdenizv2denizonay.com/*
 *://*.bsvr-evlk.net/*
+*://*.bsvr-taki.online/*
 *://*.bsvr.fun/*
 *://*.bsvrbddkssds.com/*
 *://*.bsvrcm.site/*
@@ -71027,6 +71028,7 @@
 *://*.cicekkapinda.info/*
 *://*.cicekkapinda.net/*
 *://*.cicekkcilikdiyariist.com/*
+*://*.cicekkutusu.vip/*
 *://*.cicekmarket.life/*
 *://*.cicekmarket.site/*
 *://*.cicekmarket.vip/*
@@ -73073,6 +73075,7 @@
 *://*.coec.club/*
 *://*.coeetrttgroup.cfd/*
 *://*.coejlawmj.net/*
+*://*.coekery.com/*
 *://*.coelloemai.com/*
 *://*.coenduregs.shop/*
 *://*.coenomonoecism.com/*
@@ -74201,6 +74204,7 @@
 *://*.comedisposition.top/*
 *://*.comedydeployment.top/*
 *://*.comedyglider.top/*
+*://*.comeimp.icu/*
 *://*.comeleg.top/*
 *://*.comelimb.top/*
 *://*.comelogistic.top/*
@@ -94000,6 +94004,7 @@
 *://*.e-basvuru.icu/*
 *://*.e-basvuru.online/*
 *://*.e-basvuru.org/*
+*://*.e-basvuru.top/*
 *://*.e-basvuru2021-ebatablet.com/*
 *://*.e-basvuruaidatgeriodemeleri.com/*
 *://*.e-basvurucimer.org/*
@@ -119991,6 +119996,7 @@
 *://*.firsatzamani9gb.site/*
 *://*.firsatzamaniaktuel.net/*
 *://*.firsatzamaniaktuel.online/*
+*://*.firsatzamanianinda.site/*
 *://*.firsatzamanibancebugunkampanyasi.tech/*
 *://*.firsatzamanibugunkampanyasi.online/*
 *://*.firsatzamanigaranti.com/*
@@ -188400,6 +188406,7 @@
 *://*.kulisbilgisiyardimlari.com/*
 *://*.kulishaberi.com/*
 *://*.kulistenbilgi.com/*
+*://*.kuliukviktoriia.online/*
 *://*.kulkoleolsandaa.xyz/*
 *://*.kullananlarbilir.name.tr/*
 *://*.kullanatrecetem.net/*
@@ -193792,6 +193799,7 @@
 *://*.luckyareawin38.art/*
 *://*.luckyblank.info/*
 *://*.luckybuymarket.com/*
+*://*.luckycaptain.online/*
 *://*.luckycharm.website/*
 *://*.luckyclear.info/*
 *://*.luckyfinder.online/*
@@ -207935,6 +207943,7 @@
 *://*.mutluedecekkampanyalar.sbs/*
 *://*.mutluedecekyarinlarburada.online/*
 *://*.mutluedecekyarinlarburada.xyz/*
+*://*.mutluemeklilik.com/*
 *://*.mutlugelecek.xyz/*
 *://*.mutlugonuller.com/*
 *://*.mutlugonulluler.com/*
@@ -258327,6 +258336,7 @@
 *://*.shopbasvurukampanyasi-ozel.ml/*
 *://*.shopbuyreviews.com/*
 *://*.shopcelularmx.com/*
+*://*.shopcraftz.com/*
 *://*.shopcvvvalid.biz/*
 *://*.shopdata.org/*
 *://*.shopdesny.top/*
@@ -281380,6 +281390,7 @@
 *://*.toki-gov-tr.tk/*
 *://*.toki-konutlar.sbs/*
 *://*.toki-konutlari.sbs/*
+*://*.toki-projeleri.com/*
 *://*.toki-turkiye.com/*
 *://*.toki.online/*
 *://*.tokial500binprojebasvuruekrani.com/*
@@ -281481,6 +281492,7 @@
 *://*.tokiodeme.com/*
 *://*.tokiomarbuzki.com/*
 *://*.tokiomarklpc.com/*
+*://*.tokionline.net/*
 *://*.tokionlinebasvuru.com/*
 *://*.tokionlinebasvuru.org/*
 *://*.tokionlinebasvuruun.net/*
@@ -281520,6 +281532,7 @@
 *://*.tokyibasvurus-gel.work/*
 *://*.tokyibasvurusu.work/*
 *://*.tokyo-new.icu/*
+*://*.tolago.click/*
 *://*.told709providepopulate.live/*
 *://*.toldhisundhem.com/*
 *://*.toldinlareb.com/*
@@ -312958,6 +312971,7 @@
 *://*.wwwcimer-tr.com/*
 *://*.wwwcimer.com/*
 *://*.wwwcitibankcreditcard.com/*
+*://*.wwwclicl.click/*
 *://*.wwwclilm.click/*
 *://*.wwwcumhurbaskanligimerkezi.com/*
 *://*.wwwcural.click/*
@@ -313406,6 +313420,7 @@
 *://*.wwwramazanetkinlikdo.com/*
 *://*.wwwramazanetkinlikkatilimp.com/*
 *://*.wwwramazanetkinliklerisendekatil.com/*
+*://*.wwwredirecb.click/*
 *://*.wwws-bincell-tl-yusleme-anlik.com/*
 *://*.wwwsaglikbakanligi.com/*
 *://*.wwwsahibinden-com.tk/*
@@ -328173,6 +328188,7 @@
 *://*.zeneditor.tech/*
 *://*.zenform.online/*
 *://*.zengin-gelenler-bizi-bulurlar-burada.com/*
+*://*.zenginemekli.com/*
 *://*.zengingunlerekimay.com.tr/*
 *://*.zengingunlerekimay.online/*
 *://*.zengingunlerekimay.xyz/*
