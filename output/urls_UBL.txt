@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-17 21:08:03 UTC
-! Total: 331322 rules
+! Last modified: 2025-10-17 22:01:57 UTC
+! Total: 331326 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -130000,6 +130000,7 @@
 *://*.giris-tarim-hizli.com/*
 *://*.giris-tarim-hizli.online/*
 *://*.giris-tarim-hizli.xyz/*
+*://*.giris-tc.cfd/*
 *://*.giris-tr-facebook.com/*
 *://*.giris-tr-gov.org/*
 *://*.giris-tr-link-iadeler.biz/*
@@ -182115,6 +182116,7 @@
 *://*.katalogdanalisverisyap.click/*
 *://*.katalogfirsatlari.net/*
 *://*.katalogfirsatlarimwx.online/*
+*://*.katalogincele.cfd/*
 *://*.katalogindirimi.com.tr/*
 *://*.katalogiriislemenulerim.com/*
 *://*.katalogluk-indirim.com/*
@@ -221669,6 +221671,7 @@
 *://*.onlinezirate.com/*
 *://*.onlineziratsube.com/*
 *://*.onlinezirratislemlere.com/*
+*://*.onlinezraat.cfd/*
 *://*.onlinhsfsfsegs.tk/*
 *://*.onlinine.com/*
 *://*.onlinldafirsatlar.shop/*
@@ -299959,6 +299962,7 @@
 *://*.veltrixxy.com/*
 *://*.veltrona.site/*
 *://*.veltru.click/*
+*://*.veltru.digital/*
 *://*.velttrixora.com/*
 *://*.velupra.pro/*
 *://*.velvest.xyz/*
