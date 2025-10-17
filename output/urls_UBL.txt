@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-17 18:10:17 UTC
-! Total: 331311 rules
+! Last modified: 2025-10-17 19:04:24 UTC
+! Total: 331315 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9371,6 +9371,7 @@
 *://*.500binasrinprojesi.com/*
 *://*.500binkontprojesi.com/*
 *://*.500binkonutbasvuru.cfd/*
+*://*.500binkonutbasvuru.sbs/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
@@ -58131,6 +58132,7 @@
 *://*.bnance-yilbasi-etkinlikleri.gq/*
 *://*.bnance-yilbasi-etkinlikleri.ml/*
 *://*.bnance-yilbasi-etkinlikleri.tk/*
+*://*.bnance.sbs/*
 *://*.bnance2022trsubemobil.com/*
 *://*.bnance500udtgiris.com/*
 *://*.bnanceaacountmustang-kazan.net/*
@@ -186735,6 +186737,7 @@
 *://*.konutbasvurhizmetleri-99.net/*
 *://*.konutbasvuru.com/*
 *://*.konutbasvurulari.cloud/*
+*://*.konutbasvurularim.xyz/*
 *://*.konutbasvurum.com/*
 *://*.konutbasvurusu.com/*
 *://*.konutcan.com/*
@@ -330349,6 +330352,7 @@
 *://*.ziratbasvuru.com/*
 *://*.ziratbasvuru.sbs/*
 *://*.ziratbasvuruihtiyac.com.tr/*
+*://*.ziratbasvurulariniz.cfd/*
 *://*.ziratbk-tr.com/*
 *://*.ziratbk.com/*
 *://*.ziratbkplc.com/*
