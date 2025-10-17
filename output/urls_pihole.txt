@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-17 17:02:00 UTC
-# Toplam: 415882 Domain
+# Son Güncelleme: 2025-10-17 18:10:17 UTC
+# Toplam: 415895 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -94467,6 +94467,7 @@ cloudbrocloud.com
 cloudcanvas.homes
 cloudcare.duckdns.org
 cloudcat.ddns.net
+cloudcenter.top
 cloudchat-dl.com
 cloudchecker.com.tr
 cloudclinic.ai
@@ -95571,6 +95572,7 @@ colabfile.com
 coladola.site
 colaintrgy.top
 colakotolastik.com
+colasco.click
 colasprint.com
 colbasaibliny.ru
 colbaservices.ml
@@ -154161,6 +154163,7 @@ frontonasal.com
 frostcelery.top
 frostey92.ddns.net
 frostgocolochill.xyz
+frostman.shop
 frostporcelain.top
 frostwhimsy.xyz
 frostwillow.site
@@ -164423,6 +164426,7 @@ girissube-akbank.ws
 girissubesizz.com.tr
 girissyapislem.de
 girist-insaneweb.best
+giristc.cfd
 giristeb.kisalink.cc
 giristebeonlinebilgiler.duckdns.org
 giristen.basvuru.77-83-201-133.plesk.page
@@ -180524,6 +180528,7 @@ hearkescancanisss.duckdns.org
 hearkesdasdasdecvgas.duckdns.org
 hearkesfarleasdresdad.duckdns.org
 hearkesfearlescanis.duckdns.org
+hearlencanisbensenocanimmm.com
 hearleresfearlesdcinosadss.duckdns.org
 hearlescanimbensasd.click
 hearlescanimseanleat.com
@@ -189302,6 +189307,7 @@ hizlimobil.ml
 hizlimobil.tk
 hizlimobilegiris.cfd
 hizlimobilegirisim.cfd
+hizlimobilegiristc.cfd
 hizlimobilegiristr.cfd
 hizlimobilodeme.com.tr
 hizlimobilonayacikdenizv2denizbank.co.vu
@@ -202407,6 +202413,7 @@ indirimlerden.sende-faydalan.com.tr
 indirimlerdenbugunfirsatgunleri.cfd
 indirimlerdenbugunfirsatgunleri.sbs
 indirimlerdunyasi.buzz
+indirimlerebaksende.infosecnow.cfd
 indirimlerfirsatlarsizlerle.com.tr
 indirimleri-kacirma-hemen-al.site
 indirimleri.org
@@ -229403,6 +229410,7 @@ klmammalltstn.com
 klmamsokkttan.com
 klmavbilgi.sbs
 klmetrcecisyrg.site
+klmetredeyizogreninbilginizi.cfd
 klmetrekmrlm.com
 klmhgsm.com
 klmhgss.com
@@ -233102,6 +233110,7 @@ ksjfggbthrt.ddns.net
 kskarena.com
 kskbilgilendirme.com
 kskexpress-tickets.ru
+kskksmksorgladpadisahi.web.app
 kskosayetisbize.xyz
 ksksksdkskossko.cfd
 kskskskskskd.net
@@ -235504,6 +235513,7 @@ laestoyhaciendoboja.duckdns.org
 laexi.com
 lafely-23488.portmap.host
 lafetbetin.pro
+lafimilaestermose.com
 lafret.com
 lafsyu.com
 lafuritte.ru
@@ -292965,6 +292975,7 @@ prmsynladenzm.vercel.app
 prmsynladenzzban.vercel.app
 prmsynnay.com.tr
 prmsynnbasvrrrrgrntt.click
+prmsynngrntttbsvrrr.info
 prmsynnnbsvrrkmpnyaa.click
 prmsynnnbsvrrrqnbbb.click
 prmsynnnqnbbbsvr.click
@@ -325099,6 +325110,7 @@ sheephypocrite.top
 sheeplbricaion.top
 sheepturent.top
 sheergauge.top
+sheesparticle.net
 sheet346.xyz
 sheetfew.site
 sheetpasture.top
@@ -344262,6 +344274,7 @@ takipler.vip
 takiplerci.top
 takipleri.vip
 takiplerim.vip
+takipleriniz.vip
 takiplerinnizzzii.za.com
 takiplerinnizzziim.ru.com
 takiplerinnizzziim.sa.com
