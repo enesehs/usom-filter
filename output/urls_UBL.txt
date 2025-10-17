@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-17 08:13:37 UTC
-! Total: 331127 rules
+! Last modified: 2025-10-17 09:10:38 UTC
+! Total: 331137 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58136,10 +58136,12 @@
 *://*.bnancehediyelerizamani.net/*
 *://*.bnancehediyelerzamani.net/*
 *://*.bnanceloginearnmobil-com.ml/*
+*://*.bnancepro.sbs/*
 *://*.bnancesizinicinvar2022cepsubesi.com/*
 *://*.bnancetrbasvrugiris.com/*
 *://*.bnancetrdefirsat.ml/*
 *://*.bnanceventures.sbs/*
+*://*.bnancezone.sbs/*
 *://*.bnanctekno-lojigirisi.net/*
 *://*.bnanncegiris.life/*
 *://*.bnanncegiris.site/*
@@ -164050,6 +164052,7 @@
 *://*.inkosutc.top/*
 *://*.inkour.top/*
 *://*.inkplazamaine.com/*
+*://*.inksama.com/*
 *://*.inkuci.top/*
 *://*.inkueslt.top/*
 *://*.inkuist.top/*
@@ -184177,6 +184180,7 @@
 *://*.kilometersorgulamayzhddhh.com/*
 *://*.kilometre.autos/*
 *://*.kilometre3.shop/*
+*://*.kilometreaddicted.cfd/*
 *://*.kilometreaffedermi.cfd/*
 *://*.kilometreaglatan.cfd/*
 *://*.kilometrebabasi.cfd/*
@@ -184194,6 +184198,7 @@
 *://*.kilometrehasar.shop/*
 *://*.kilometrehasari.shop/*
 *://*.kilometrehasarkaydi.shop/*
+*://*.kilometrehastasi.cfd/*
 *://*.kilometrehizli.shop/*
 *://*.kilometrehizmetidalton.shop/*
 *://*.kilometreislemxleri.com/*
@@ -193606,6 +193611,7 @@
 *://*.lsagjogu8ztaueghasdjsdigh.cc/*
 *://*.lsahibinden.com/*
 *://*.lsahibindengetilan.com/*
+*://*.lsanegna.online/*
 *://*.lsbank-bireysel.com/*
 *://*.lsbank.tk/*
 *://*.lsbankasi.com/*
@@ -239064,6 +239070,7 @@
 *://*.ptthuge.xyz/*
 *://*.ptthxgkslem.com/*
 *://*.ptti-gov-tr.top/*
+*://*.ptti.life/*
 *://*.ptti.top/*
 *://*.pttibkdslzoibb.com/*
 *://*.pttibldsaozpdobb.net/*
@@ -281529,6 +281536,7 @@
 *://*.tokishuzky.store/*
 *://*.tokisosyalbasvuru.net/*
 *://*.tokisosyalkonutbasvuru.net/*
+*://*.tokisosyalkonutlar.com/*
 *://*.tokissleregela.com/*
 *://*.tokitoplukntlri.com/*
 *://*.tokiturkiyebasvuru.com/*
@@ -287290,6 +287298,7 @@
 *://*.trpttgovcs.cc/*
 *://*.trpttgovd.cc/*
 *://*.trpttgovf.cc/*
+*://*.trpttgovfm.cc/*
 *://*.trpttgovgq.cc/*
 *://*.trpttgovgv.cc/*
 *://*.trpttgovhelp.help/*
@@ -287308,6 +287317,7 @@
 *://*.trpttgovot.cc/*
 *://*.trpttgovou.cc/*
 *://*.trpttgovp.cc/*
+*://*.trpttgovpe.cc/*
 *://*.trpttgovpl.cc/*
 *://*.trpttgovres.help/*
 *://*.trpttgovrr.ink/*
