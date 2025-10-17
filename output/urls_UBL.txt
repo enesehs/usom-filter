@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-17 14:09:07 UTC
-! Total: 331204 rules
+! Last modified: 2025-10-17 15:08:49 UTC
+! Total: 331212 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9367,11 +9367,13 @@
 *://*.50065com.com/*
 *://*.5009a51a0347.com/*
 *://*.500bin-konutbasvuru.cfd/*
+*://*.500binasrinprojesi.com/*
 *://*.500binkontprojesi.com/*
 *://*.500binkonutbasvuru.cfd/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
+*://*.500binkonutprojesi.org/*
 *://*.500binkonutprojesibasvuruekrani.com/*
 *://*.500binkonutum.sbs/*
 *://*.500binsosyalkonutbasvuru.org/*
@@ -73343,6 +73345,7 @@
 *://*.cokkonusmakarisenibulurum.com/*
 *://*.cokkonussmakardes.fun/*
 *://*.coklualisverisonline.gen.tr/*
+*://*.coklukampanya.sbs/*
 *://*.cokmfwlph.com/*
 *://*.cokmuaciktinferman.shop/*
 *://*.cokomellatomalarko.top/*
@@ -105631,6 +105634,7 @@
 *://*.ekrani-yonlendirme-hizli.online/*
 *://*.ekrani.net/*
 *://*.ekranii.net/*
+*://*.ekranin.sbs/*
 *://*.ekraninizdan-kontrol-ve-sorgu-saglayin.sbs/*
 *://*.ekranlar-try.online/*
 *://*.ekranlar-web-tr.shop/*
@@ -184213,6 +184217,7 @@
 *://*.kilometreaffedermi.cfd/*
 *://*.kilometreaglatan.cfd/*
 *://*.kilometrebabasi.cfd/*
+*://*.kilometrebasedemezsin.cfd/*
 *://*.kilometrebicepsi.cfd/*
 *://*.kilometrebilgisi.xyz/*
 *://*.kilometrebizdensorulur.cfd/*
@@ -222576,6 +222581,7 @@
 *://*.ornamentquash.com/*
 *://*.ornekkredi.com/*
 *://*.ornekkredim.com/*
+*://*.ornitorenk.sbs/*
 *://*.orospucocugu.com.tr/*
 *://*.orospuevladikoministler.fit/*
 *://*.orothypeters.ru/*
@@ -235721,6 +235727,7 @@
 *://*.projedomain.tk/*
 *://*.projehavuzumuz.com/*
 *://*.projekthd.com/*
+*://*.projeler-toki-burada.cfd/*
 *://*.projemizvarbayramdan.com/*
 *://*.projesosylakonutbasvuru.net/*
 *://*.projetodegente.com/*
@@ -269176,6 +269183,7 @@
 *://*.stanleygelsin.xyz/*
 *://*.stanleygunleri.com.tr/*
 *://*.stanleygunleri.name.tr/*
+*://*.stanleyhavada.xyz/*
 *://*.stanleyindirim.shop/*
 *://*.stanleykafayiasti.xyz/*
 *://*.stanleykampanyam.store/*

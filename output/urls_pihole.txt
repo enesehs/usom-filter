@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-17 14:09:07 UTC
-# Toplam: 415675 Domain
+# Son Güncelleme: 2025-10-17 15:08:49 UTC
+# Toplam: 415689 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14258,6 +14258,7 @@
 5009a51a0347.com
 500bin-konutbasvuru.cfd
 500bin.konutbasvurulari.cloud
+500binasrinprojesi.com
 500binkontprojesi.com
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuru.cfd
@@ -14265,6 +14266,7 @@
 500binkonutbasvurularionline.webredirect.org
 500binkonutprojembasvuruekrani.com
 500binkonutprojesi.com
+500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
 500binkonutum.sbs
 500binsosyalkonutbasvuru.org
@@ -33906,6 +33908,7 @@ aidatiademerkezleri.net
 aidatiademerkezleri.org
 aidatiademerkezsubesi.com
 aidatiademerkezzii.net
+aidatiademialiyorum.mooo.com
 aidatiaden-eiade.com
 aidatiaden-eiade.online
 aidatiaden.com
@@ -48610,6 +48613,7 @@ asdasd1234.ddns.net
 asdasd213.xyz
 asdasda.bengelemeemgusurabakma.net
 asdasdaasd.net
+asdasdad22bir.gleeze.com
 asdasdadasdasds.store
 asdasdadasdggg.tk
 asdasdadasdw.store
@@ -57083,6 +57087,7 @@ basvurislemin.net
 basvurix2024.click
 basvurjzdn.sbs
 basvurkabul.com
+basvurkabul.mooo.com
 basvurkampanyacuteonlinebasvurum.net
 basvurkampanyaguzelkampanyall.com
 basvurkampanyaoutsideodulualyoursourcephpethtml.net
@@ -95509,6 +95514,7 @@ cokkonusmakarisenibulurum.com
 cokkonussmakardes.fun
 cokkotusubbirdomain.ct.ws
 coklualisverisonline.gen.tr
+coklukampanya.sbs
 cokmfwlph.com
 cokmuaciktinferman.shop
 cokomellatomalarko.top
@@ -159958,6 +159964,7 @@ gcdsfufqbex.com
 gcebx.duckdns.org
 gcebzgldksznrdsnzbrd.shop
 gcedd.biz
+gcelerflsrtswevurda.ignorelist.com
 gcemasaivergpold.net
 gcendrlmlrkcmzbncse.shop
 gcentralboundary.shop
@@ -227667,6 +227674,7 @@ kilometreaglatan.cfd
 kilometrearacsorgulari.web.app
 kilometreb.web.app
 kilometrebabasi.cfd
+kilometrebasedemezsin.cfd
 kilometrebicepsi.cfd
 kilometrebilgisi.xyz
 kilometrebizdensorulur.cfd
@@ -261196,6 +261204,7 @@ natrifyzone.com
 natrium100gram.site
 natsevskiy.zapto.org
 nattavipolbo.ddns.net
+naturafirsati.duckdns.org
 natural-kw.at.ply.gg
 naturalblog.name.tr
 naturalcool.ddns.net
@@ -277486,6 +277495,7 @@ ornek.turksaglikservisi.com
 ornekkredi.com
 ornekkredim.com
 ornerfukent.ddns.net
+ornitorenk.sbs
 ornlfcu-assistauthw.ddns.net
 ornlry.duckdns.org
 ornt.bursunuz.com.tr
@@ -293456,6 +293466,7 @@ projedomain.tk
 projehavuzumuz.com
 projektdateien.hopto.org
 projekthd.com
+projeler-toki-burada.cfd
 projemizvarbayramdan.com
 projesosylakonutbasvuru.net
 projestydox.hopto.org
@@ -337775,6 +337786,7 @@ stanleygeliyo.xyz
 stanleygelsin.xyz
 stanleygunleri.com.tr
 stanleygunleri.name.tr
+stanleyhavada.xyz
 stanleyindirim.shop
 stanleykafayiasti.xyz
 stanleykampanyam.store
@@ -351247,6 +351259,7 @@ till-contribute.com
 till-lindemann.ru
 till364.xyz
 tillaffiliation.top
+tillamooksmiles.atwebpages.com
 tillobtainenvironment.com
 tillrestless.top
 tillstray.top
@@ -412964,6 +412977,7 @@ ziraatbank.com.ua
 ziraatbank.creditcard
 ziraatbank.dijitalbasvurunuz.sbs
 ziraatbank.ecepsube.com
+ziraatbank.ekranin.sbs
 ziraatbank.emobilsube.com
 ziraatbank.epizy.com
 ziraatbank.ezyro.com
