@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-18 12:14:25 UTC
-# Toplam: 415982 Domain
+# Son Güncelleme: 2025-10-18 13:14:56 UTC
+# Toplam: 415988 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -160735,6 +160735,7 @@ gel-al-kacirma.com
 gel-al-simdi.com
 gel-al-simdii.com
 gel-al-urunu.com
+gel-burdan-son-dakika.cyou
 gel-gor.com
 gel-kirala.com
 gel-mutlu-olmak-istiyorsan-gel.com
@@ -177978,6 +177979,7 @@ harcakampanyasinda.net.tr
 harcakazana101.com
 harcakazanyuzbirharca.online
 harcam.name.tr
+harcamaanaliz.cfd
 harcamadan-bitmez-a-101-ozel.online
 harcamagelkampanya1o1.net
 harcamalardaredmifirsatlariburada.cfd
@@ -182765,6 +182767,7 @@ heomeslenevotes.com
 heonjxcmwysscyr.ru
 hep-beraber-mutlu-adimi-bekledik.com
 hep-birlikte-basaracagiz.com
+hep-bulduk-yine-buluruz-yolunu.sbs
 hep-cadsor-teklfidler-buradsa.store
 hep-des-tek-tam-destek.com
 hep-destek-tam-dstkk.com
@@ -190926,6 +190929,7 @@ hmnrndvu.b-cdn.net
 hmnrndvuq.b-cdn.net
 hmnrndvv.b-cdn.net
 hmnsanasmnasnhshsahsahnmsanmsa99393.site
+hmnsanmmasnsahsamhsamhsahmsa66631.site
 hmnsansamnmsashamnmsanmasnmasmansnsasnasnm13.site
 hmnsansamnmsashsahsahsansnsassnm22.site
 hmnsatinalmaninsirasi.xyz
@@ -225158,6 +225162,7 @@ katilim-dijitaldeniz-giris.ml
 katilim-emeklilik.com
 katilim-hayatevesigar.com
 katilim-qnbfinansbankasisube.com
+katilim-sonkampanya29.duckdns.org
 katilim-subemiz.com
 katilim-web.one
 katilim-yapikredi.com
@@ -235571,6 +235576,7 @@ laerinetin.com
 laesperanza.duckdns.org
 laestoyhaciendoboja.duckdns.org
 laexi.com
+lafamiliaestermose.com
 lafely-23488.portmap.host
 lafetbetin.pro
 lafimilaestermose.com

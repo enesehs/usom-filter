@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-18 12:14:25 UTC
-! Total: 331360 rules
+! Last modified: 2025-10-18 13:14:56 UTC
+! Total: 331365 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -127480,6 +127480,7 @@
 *://*.gel-al-simdi.com/*
 *://*.gel-al-simdii.com/*
 *://*.gel-al-urunu.com/*
+*://*.gel-burdan-son-dakika.cyou/*
 *://*.gel-gor.com/*
 *://*.gel-kirala.com/*
 *://*.gel-mutlu-olmak-istiyorsan-gel.com/*
@@ -142338,6 +142339,7 @@
 *://*.harcakazankampanya.com.tr/*
 *://*.harcakazanyuzbirharca.online/*
 *://*.harcam.name.tr/*
+*://*.harcamaanaliz.cfd/*
 *://*.harcamadan-bitmez-a-101-ozel.online/*
 *://*.harcamagelkampanya1o1.net/*
 *://*.harcamalardaredmifirsatlariburada.cfd/*
@@ -146454,6 +146456,7 @@
 *://*.heonjxcmwysscyr.ru/*
 *://*.hep-beraber-mutlu-adimi-bekledik.com/*
 *://*.hep-birlikte-basaracagiz.com/*
+*://*.hep-bulduk-yine-buluruz-yolunu.sbs/*
 *://*.hep-cadsor-teklfidler-buradsa.store/*
 *://*.hep-des-tek-tam-destek.com/*
 *://*.hep-destek-tam-dstkk.com/*
@@ -153412,6 +153415,7 @@
 *://*.hmnqnbxqi.com/*
 *://*.hmnrendvu.net/*
 *://*.hmnsanasmnasnhshsahsahnmsanmsa99393.site/*
+*://*.hmnsanmmasnsahsamhsamhsahmsa66631.site/*
 *://*.hmnsansamnmsashamnmsanmasnmasmansnsasnasnm13.site/*
 *://*.hmnsansamnmsashsahsahsansnsassnm22.site/*
 *://*.hmnsatinalmaninsirasi.xyz/*
@@ -190117,6 +190121,7 @@
 *://*.ladzone.shop/*
 *://*.laerinetin.com/*
 *://*.laexi.com/*
+*://*.lafamiliaestermose.com/*
 *://*.lafetbetin.pro/*
 *://*.lafimilaestermose.com/*
 *://*.lafimiliaestermose.com/*
