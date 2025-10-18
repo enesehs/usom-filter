@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-18 14:01:49 UTC
-! Total: 331372 rules
+! Last modified: 2025-10-18 15:01:47 UTC
+! Total: 331400 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -15231,6 +15231,7 @@
 *://*.aassmcncnnc.com/*
 *://*.aaswwqaaqadaad.com/*
 *://*.aatextiles.com/*
+*://*.aatinemeklilik.com/*
 *://*.aatravelexperts.com/*
 *://*.aatsny.com/*
 *://*.aatymq.org/*
@@ -30430,6 +30431,7 @@
 *://*.anlikbufrstlardanfaydalanirsin.shop/*
 *://*.anlikderscalisma.com/*
 *://*.anlikfaizsizkredi.com/*
+*://*.anlikfirsat.cfd/*
 *://*.anlikfirsatkacirmasende.com/*
 *://*.anlikfirsatlarkred.com.tr/*
 *://*.anlikgelisimn.net/*
@@ -33486,6 +33488,7 @@
 *://*.arithmeticcognition.top/*
 *://*.ariturkklima.com/*
 *://*.ariturkticaret.com/*
+*://*.arivantax.com/*
 *://*.arivegreen.net/*
 *://*.ariveheat.net/*
 *://*.arizonaclub.me/*
@@ -38359,6 +38362,7 @@
 *://*.baaykar.com/*
 *://*.baayramfirsatlari.online/*
 *://*.baayykar.com/*
+*://*.baayykaren.com/*
 *://*.bab24242424boboo125.com/*
 *://*.baba-asle-behtarin100.buzz/*
 *://*.baba-asle-behtarin20.buzz/*
@@ -45669,6 +45673,7 @@
 *://*.bgleak.site/*
 *://*.bgltnkmpnykatla.space/*
 *://*.bgmcell.com/*
+*://*.bgmlgo.life/*
 *://*.bgmwell.me/*
 *://*.bgmwell.site/*
 *://*.bgmxiae.icu/*
@@ -53609,6 +53614,7 @@
 *://*.birgundegkargo1011.com/*
 *://*.birgundegkargo1011.online/*
 *://*.birgundekapinagelmezseiade.shop/*
+*://*.birgundeyiz.cfd/*
 *://*.birguneldebetodels.net/*
 *://*.birgunhuzur.com/*
 *://*.birgunsatis.site/*
@@ -58154,6 +58160,7 @@
 *://*.bnancehediyelerzamani.net/*
 *://*.bnanceloginearnmobil-com.ml/*
 *://*.bnancenetwork.sbs/*
+*://*.bnanceplus.sbs/*
 *://*.bnancepro.sbs/*
 *://*.bnancesizinicinvar2022cepsubesi.com/*
 *://*.bnancesolutions.sbs/*
@@ -79472,6 +79479,7 @@
 *://*.davina-claire.xyz/*
 *://*.davino.click/*
 *://*.davislandscape.company/*
+*://*.davmoris.com/*
 *://*.davomavo47.com/*
 *://*.davoport.org/*
 *://*.davranhizlicax.xyz/*
@@ -91731,6 +91739,7 @@
 *://*.doribre.pics/*
 *://*.doril.site/*
 *://*.dorjenmar.com/*
+*://*.dornithis.com/*
 *://*.doromontioootoolsdfr.info/*
 *://*.dorontalka.com/*
 *://*.dorrixnt.com/*
@@ -105374,6 +105383,7 @@
 *://*.ekiminozelkampanyalifiyatlarmm.xyz/*
 *://*.ekiminsicakligiburadawsynx.shop/*
 *://*.ekiminsongunindirimis.online/*
+*://*.ekiminsonkampanlararikapindaa.cfd/*
 *://*.ekiminsurprizleridevamediyor7.com/*
 *://*.ekiminyldizlariwsynxmorbid.shop/*
 *://*.ekimisismkapmayalsai.com/*
@@ -135120,6 +135130,7 @@
 *://*.gunceltrsikayetler-364.sbs/*
 *://*.gunceltrsikayetler-371.sbs/*
 *://*.gunceltrsikayetler-373.sbs/*
+*://*.gunceltrsikayetler-385.sbs/*
 *://*.gunceltrsikayetler-453.sbs/*
 *://*.gunceltrsikayetler-463.sbs/*
 *://*.gunceltrsikayetler-464.sbs/*
@@ -145831,6 +145842,7 @@
 *://*.hemenbasvurum.online/*
 *://*.hemenbasvurumakfirsat.online/*
 *://*.hemenbasvurunugonderonlinesube.xyz/*
+*://*.hemenbasvurunuyap.com/*
 *://*.hemenbasvurunuyap.site/*
 *://*.hemenbasvurunuyapcekilisekatil.com/*
 *://*.hemenbasvurunuyapcekiliskatil.com/*
@@ -161149,10 +161161,12 @@
 *://*.ilkemedya.com/*
 *://*.ilkevim-basvuru.com/*
 *://*.ilkevim-online-basvuru.cfd/*
+*://*.ilkevim-portal-giris.com/*
 *://*.ilkevim.com.pl/*
 *://*.ilkevim250binbasvurusu.com/*
 *://*.ilkevimbasvuru.com/*
 *://*.ilkevimbasvuru.online/*
+*://*.ilkevimbasvuruekrani.com/*
 *://*.ilkevimdanismanlik.com/*
 *://*.ilkevimkonutbasvuru.com/*
 *://*.ilkevimprojesi.com/*
@@ -164025,6 +164039,7 @@
 *://*.ingonlineinternet.com/*
 *://*.ingonlinesube.com/*
 *://*.ingonlinesubeniz.com/*
+*://*.ingov-trx.click/*
 *://*.ingozelbireyselinternetsubesi.com/*
 *://*.ingpevwrcdav.com/*
 *://*.ingredientpeck.top/*
@@ -175662,6 +175677,7 @@
 *://*.joyolog.com/*
 *://*.joyousglare.top/*
 *://*.joyousmerge.top/*
+*://*.joytoun.com/*
 *://*.jozipainters.co.za/*
 *://*.joznlytp.com/*
 *://*.jp-amo.win/*
@@ -186785,6 +186801,7 @@
 *://*.konutislemlerihizlica.com/*
 *://*.konutkapisi.org/*
 *://*.konutlarsite.com/*
+*://*.konutonbasvuru.com/*
 *://*.konutresmibasvuru-21.com/*
 *://*.konutsalisiniz.com/*
 *://*.konutsalprojeler.app/*
@@ -190126,6 +190143,7 @@
 *://*.laerinetin.com/*
 *://*.laexi.com/*
 *://*.lafamiliaestermose.com/*
+*://*.lafamiliaestermosi.com/*
 *://*.lafetbetin.pro/*
 *://*.lafimilaestermose.com/*
 *://*.lafimiliaestermose.com/*
@@ -211500,6 +211518,7 @@
 *://*.newzeto.xyz/*
 *://*.newzgroup.xyz/*
 *://*.newzyhaswesad.net/*
+*://*.nexalior.com/*
 *://*.nexarcho.com/*
 *://*.nexarvoo.com/*
 *://*.nexcity.vip/*
@@ -229614,6 +229633,7 @@
 *://*.parrz.com/*
 *://*.parsalllarlionz.online/*
 *://*.parsbu.com/*
+*://*.parsdoktorwebs.xyz/*
 *://*.parsdtb.cn/*
 *://*.parsefilm.com/*
 *://*.parseller.app/*
@@ -240632,6 +240652,7 @@
 *://*.qenjw68xlx4kikafuc.com/*
 *://*.qenmanepnh.info/*
 *://*.qenshine.com/*
+*://*.qentrom.com/*
 *://*.qeogowuy.com/*
 *://*.qepjkd.com/*
 *://*.qepqqmprnr.info/*
@@ -258402,6 +258423,7 @@
 *://*.shinestars-lifestyle.com/*
 *://*.shinestorn.com/*
 *://*.shinetoday.site/*
+*://*.shineyolgecishgshizmeti.com/*
 *://*.shinhan-vina.com.vn/*
 *://*.shiningrstars.help/*
 *://*.shinjuku-wc.com/*
@@ -261445,6 +261467,8 @@
 *://*.siparis-onayim-176203.com/*
 *://*.siparis-onayim-176204.com/*
 *://*.siparis-onayim-176207.com/*
+*://*.siparis-onayim-176209.com/*
+*://*.siparis-onayim-176211.com/*
 *://*.siparis-onayim-176299.com/*
 *://*.siparis-onayin.net/*
 *://*.siparis-onayla.net/*
@@ -280667,6 +280691,7 @@
 *://*.tkgmturkiye.org/*
 *://*.tkgov.com/*
 *://*.tki-kplrnzda.click/*
+*://*.tki-online-bsvr.cyou/*
 *://*.tkibsvbrda.site/*
 *://*.tkibsvurlarim.club/*
 *://*.tkibsvurlarim.com/*
@@ -281676,6 +281701,7 @@
 *://*.tokibasvurunuzonline.click/*
 *://*.tokibasvuruonline.com/*
 *://*.tokibasvurusorgu.tk/*
+*://*.tokibasvurusu.info/*
 *://*.tokibasvurusu.online/*
 *://*.tokibasvurusuyap.com/*
 *://*.tokibasvurusuyappsende.net/*
@@ -281746,6 +281772,7 @@
 *://*.tokisosyalkonutbasvuru.net/*
 *://*.tokisosyalkonutlar.com/*
 *://*.tokissleregela.com/*
+*://*.tokitalep.online/*
 *://*.tokitoplukntlri.com/*
 *://*.tokiturkiyebasvuru.com/*
 *://*.tokjbassvuru.click/*
@@ -327897,6 +327924,7 @@
 *://*.z1cv.com/*
 *://*.z1o1comtr.online/*
 *://*.z1raat.sbs/*
+*://*.z1raatgiris.cfd/*
 *://*.z1raatkampanyalari.cfd/*
 *://*.z1raattemuzfirsati.com/*
 *://*.z1rat-aninda-onay.cfd/*
