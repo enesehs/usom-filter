@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-18 18:10:58 UTC
-! Total: 331467 rules
+! Last modified: 2025-10-18 19:01:38 UTC
+! Total: 331471 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27078,6 +27078,7 @@
 *://*.aldivoltasinia1.cfd/*
 *://*.aldixlmlarimizaldikxlerimizmjdkdd.com/*
 *://*.aldlnaldlneklmmm.com/*
+*://*.aldlnaldlnlayglsin.com/*
 *://*.aldmeha-aaaa.com/*
 *://*.aldmgldifrstin.shop/*
 *://*.aldmiadmtr1.net/*
@@ -42064,6 +42065,7 @@
 *://*.basvurunuztokionlne.click/*
 *://*.basvurunuztr-girisler.online/*
 *://*.basvurunuztrbnncrs.online/*
+*://*.basvurunuzu-buradan-yapin.cyou/*
 *://*.basvurunuzunhazir.com/*
 *://*.basvurunuzutamamlayin.site/*
 *://*.basvurunworldyapikredi.com/*
@@ -153548,6 +153550,7 @@
 *://*.hnoraip.world/*
 *://*.hnourhike.top/*
 *://*.hnqfu.com/*
+*://*.hnsamnsanmsahsahmsamnsanmnmsasah58854.site/*
 *://*.hnsl112.xyz/*
 *://*.hnsmasnmash3nmsshah.site/*
 *://*.hntcto21.net/*
@@ -329906,6 +329909,7 @@
 *://*.ziraatdestekyanimda.com/*
 *://*.ziraatdijital.sbs/*
 *://*.ziraatdijitalgiris.tk/*
+*://*.ziraatdijitalkredi.sbs/*
 *://*.ziraatdinamikbankaportfoy.com/*
 *://*.ziraatduyurudestek.com/*
 *://*.ziraatduyurular.com/*

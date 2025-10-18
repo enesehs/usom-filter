@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-18 18:10:58 UTC
-# Toplam: 416115 Domain
+# Son Güncelleme: 2025-10-18 19:01:38 UTC
+# Toplam: 416125 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -433,6 +433,7 @@
 0324824o2346617624e.store
 03300023300.duckdns.org
 0333023203.duckdns.org
+033321203330.duckdns.org
 0333212555303.duckdns.org
 033321552333.duckdns.org
 033323223213.online
@@ -517,6 +518,7 @@
 04442121004444.duckdns.org
 044421422024.duckdns.org
 04442525-444999.com
+044441214125004.duckdns.org
 04445455458440.duckdns.org
 044455420444.duckdns.org
 0458939-234903.net
@@ -37723,6 +37725,7 @@ aktier.walaugust12.art
 aktier101firsatlari.hopto.org
 aktif-20gb-internet-turkcell.com
 aktif-aidat.com
+aktif-basvuru-onay.blogdns.net
 aktif-basvuru-yapiceplionay.vercel.app
 aktif-basvurumisimcepteonlinebasvuru.vercel.app
 aktif-bilgiler-koksal.duckdns.org
@@ -39981,6 +39984,7 @@ aldivoltasinia1.cfd
 aldixlmlarimizaldikxlerimizmjdkdd.com
 aldkffd.zapto.org
 aldlnaldlneklmmm.com
+aldlnaldlnlayglsin.com
 aldmeha-aaaa.com
 aldmgldifrstin.shop
 aldmiadmtr1.net
@@ -58728,6 +58732,7 @@ basvurunuzmerkes.link
 basvurunuztokionlne.click
 basvurunuztr-girisler.online
 basvurunuztrbnncrs.online
+basvurunuzu-buradan-yapin.cyou
 basvurunuzunhazir.com
 basvurunuzutamamlayin.site
 basvurunworldyapikredi.com
@@ -191100,6 +191105,7 @@ hnoraip.world
 hnourhike.top
 hnqfu.com
 hnrnkgcpro.duckdns.org
+hnsamnsanmsahsahmsamnsanmnmsasah58854.site
 hnsl112.xyz
 hnsmasnmash3nmsshah.site
 hnsnvvhg-hizlihgsyukle.is-best.net
@@ -248433,6 +248439,7 @@ memorizeerode.buzz
 memos.ddns.net
 memosigla.su
 memotech.cf
+memoxviporjcheck.alwaysdata.net
 memphhapar.in
 memrlar.net
 memrular.net
@@ -311947,6 +311954,7 @@ sadcconlliefrsatlarsdac.blogdns.org
 sadccynlnyeozalfrsatlar.blogdns.org
 sadcecopnlninfirsatglar.duckdns.org
 sadceonlanalaraozelfrsatlar.blogspot.com
+sadceonlfiasrtlar101de.blogdns.org
 sadceonlfisrsltarontr.blogdns.org
 sadceonnlliefrssalrrsdcc.blogdns.org
 sadceozlonlnxfirsarxlar.com.tr
@@ -312105,6 +312113,7 @@ sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadeceonllfsonsfitrfrstlartr.blogspot.com
+sadeceonllfsonsfitrfrstlartrcstr.blogspot.com
 sadeceonllinea1o1.duckdns.org
 sadeceonlmmssvivrsatlar.blogdns.org
 sadeceonlncfirsatlarozel.blogdns.org
@@ -413954,6 +413963,7 @@ ziraatdestektr.com
 ziraatdestekyanimda.com
 ziraatdijital.sbs
 ziraatdijitalgiris.tk
+ziraatdijitalkredi.sbs
 ziraatdinamikbankaportfoy.com
 ziraatduyurudestek.com
 ziraatduyurular.com
