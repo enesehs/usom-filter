@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-18 16:09:35 UTC
-# Toplam: 416092 Domain
+# Son Güncelleme: 2025-10-18 17:01:47 UTC
+# Toplam: 416101 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2581,6 +2581,7 @@
 101onlinehizmetleri.com.tr
 101onlinehzmet.net
 101onlinekampanyalardasongun.app
+101onlinekapinda.cfd
 101onlinekurumsal.mooo.com
 101onlinemagaza10binsube.site
 101onlinemarket.com
@@ -43836,6 +43837,7 @@ anindasorgulamaveodeme.com
 anindasorgumobildeniz.xyz
 anindateslim.net
 anindateslimat-guvenliticaret.com
+anindaticaret.cfd
 anindatlpaketyukleme.com
 anindatlyukle.com
 anindatlyukleme.net
@@ -72867,6 +72869,7 @@ bizimpanel.cf
 bizimrnlerimizszdir.shop
 bizimsigorta.site
 bizimtech.online
+bizimtekliflermizbasvuruzsm.store
 bizimyanimizdaolunberaber.net
 bizimyatirim.com
 bizimyatirim.com.tr
@@ -86618,6 +86621,7 @@ camkutezyinat.com
 camlibelegitimvakfi.com
 camlikkamping.com
 cammuhitnore.freemyip.com
+camnremok.com
 camoglutotoyikamas.tk
 camoldthe21backwhit.online
 camotor.cn
@@ -234271,6 +234275,7 @@ kuveytten-cekilis-firsatlari-guncel.com.tr
 kuveytten-kazanalim.epizy.com
 kuveytten-kazandin.epizy.com
 kuveytten13yilaozel.com
+kuveytten2026.duckdns.org
 kuveyttenarackredisihghb65.net
 kuveyttenhediyerlers2023.publicvm.com
 kuveyttenyilinhediyesi.com
@@ -311933,6 +311938,7 @@ sadcconlliefrsatlarsdac.blogdns.org
 sadccynlnyeozalfrsatlar.blogdns.org
 sadcecopnlninfirsatglar.duckdns.org
 sadceonlanalaraozelfrsatlar.blogspot.com
+sadceonlfisrsltarontr.blogdns.org
 sadceonnlliefrssalrrsdcc.blogdns.org
 sadceozlonlnxfirsarxlar.com.tr
 sadceozlonlnxfirsarxlar.xyz
@@ -312089,6 +312095,7 @@ sadeceonlineozelkampanyaurunanesi.duckdns.org
 sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
+sadeceonllfsonsfitrfrstlartr.blogspot.com
 sadeceonllinea1o1.duckdns.org
 sadeceonlmmssvivrsatlar.blogdns.org
 sadeceonlncfirsatlarozel.blogdns.org
@@ -347123,6 +347130,7 @@ teb-basvuru-iphone.net
 teb-basvuru-iphone2022.net
 teb-basvuru.com
 teb-basvuruiphone.net
+teb-basvurular2026.duckdns.org
 teb-basvurusu.com
 teb-basvurutr.com
 teb-bayramfirsatlari.com
@@ -414005,6 +414013,7 @@ ziraathediyesi.com
 ziraathemenkredi.com.tr
 ziraathepdahayeni.com
 ziraathesabim.com
+ziraathizlikredi.sbs
 ziraathizmeti.com
 ziraathizmetler.duckdns.org
 ziraatiabanktr.com
