@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-19 07:07:46 UTC
-# Toplam: 416157 Domain
+# Son Güncelleme: 2025-10-19 08:10:35 UTC
+# Toplam: 416163 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30681,6 +30681,7 @@ adreseteslimgarenta.com
 adreseteslimkirala.xyz
 adreseteslimmax.online
 adreseyonlendir.cfd
+adreseyonlendir.sbs
 adresi.b-cdn.net
 adresi.net
 adresimatkapplar.xyz
@@ -87168,6 +87169,7 @@ capitalflow-valuable.com
 capitalgen.bond
 capitalhomet.top
 capitalianews.site
+capitalinsight.icu
 capitalinvestgroup.site
 capitalisca.duckdns.org
 capitalismcontemplation.top
@@ -116143,6 +116145,7 @@ dklak.cam
 dklconcert.com
 dklmvn.com
 dklojbc.com
+dklsendungsverfolgung.com
 dklxmzncjds.net
 dkm-express.com
 dkncdzenytos.com
@@ -134085,6 +134088,7 @@ ekranlar-web-tr.shop
 ekranmerkez-tr-web.space
 ekranodem.sg-host.com
 ekranonayidenizde.duckdns.org
+ekransorgulama-sistemiveonlline.cyou
 ekrdiverbasvur.net
 ekrdlrbasvur.net
 ekrebvokvp.duckdns.org
@@ -140124,6 +140128,7 @@ espostaturky.boxmode.io
 espressolugunler.com.tr
 espressonews.gr.com
 espriler.name.tr
+esq.ddnsgeek.com
 esq13uxc.duckdns.org
 esqjmsamyg.net
 esr.suppservices.xyz
@@ -368903,6 +368908,7 @@ url-redirect3.site
 url-redirect4.site
 url-redirect5.site
 url-redirect7.site
+url-redirect99.cfd
 url-redirect999.cfd
 url-redirectam.sbs
 url-redirectfb.online
