@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-19 18:11:19 UTC
-# Toplam: 416231 Domain
+# Son Güncelleme: 2025-10-19 19:01:53 UTC
+# Toplam: 416234 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50264,6 +50264,7 @@ attendancetaboo.top
 attendanthumid.top
 attendbewilder.top
 attenddeployment.top
+attendmodern.online
 attendrepressive.top
 attentionagitate.top
 attentioncenterofutah.com
@@ -312137,6 +312138,7 @@ sadecegunlukalisveris.online
 sadeceguzelgunlerseninle.xyz
 sadecehaftaninfirsatlarinda.duckdns.org
 sadecehayaller.online
+sadeceinterneteozel-alisverisler.cfd
 sadeceizle.online
 sadeceizle.zapto.org
 sadeceizlersiniz.cfd
@@ -376929,6 +376931,7 @@ verkkopalveiu.ddns.net
 verl-gfimde.net
 verlcor.com
 verlekktorbel.com
+verlekktorlum.com
 verlengenwoningnet.hopto.org
 verlfed-now.duckdns.org
 verlflcation-etsy.cfd
