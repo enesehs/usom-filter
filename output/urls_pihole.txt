@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-19 16:09:21 UTC
-# Toplam: 416218 Domain
+# Son Güncelleme: 2025-10-19 17:01:50 UTC
+# Toplam: 416224 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -246,6 +246,7 @@
 0120301201.ddns.net
 0120340120.online
 012120212540.duckdns.org
+0121945102d.duckdns.org
 0121945102ned.duckdns.org
 0121945104615g2ned.duckdns.org
 0122120212202.duckdns.org
@@ -84070,6 +84071,7 @@ butunherkesalmali.xyz
 butunhizmetler.app
 butunhizmetler.com
 butunindirimlerburada.click
+butunurunlerdekikampanyafirsati.cfd
 buugunburadan.shop
 buuncanlidersvarmi11.com
 buunun-icin-variz.shop
@@ -173998,6 +174000,7 @@ haftaniyildizurunleri.com.tr
 haftanizinbasini.com
 haftanizinbasiozel.com
 haftanizinsizfirsati.com
+haftanlnyildizialdlnaldln.com
 haftann-aldin-aldin.com
 haftannniiinn-indirmleerrririiiii.com
 haftasi-a101-firsat-tum-indirim-hafta-kampanya-boyunca-710.a1o1nlneee.ru.com
@@ -177816,6 +177819,7 @@ harca1o1.net
 harca1o1burdagl.com
 harca1o1gelburdaonline.com
 harcaa-harca-bitmezz.com
+harcaa1o1kazanfrsati.blogsite.org
 harcabitmez.online
 harcabitmezonline.shop
 harcabrda1o1indirim.com
@@ -307458,6 +307462,7 @@ resmi-0demeal.000.pe
 resmi-a101.com
 resmi-aidat-iade-alma.org
 resmi-aracmuayene.net
+resmi-basvuru.com
 resmi-cmer-tbmm-gov-tr.com
 resmi-devlet-aidat.org
 resmi-dijitalhayat.xyz
@@ -414199,6 +414204,7 @@ ziraatinteraktif.com
 ziraatinteretbankasi.com
 ziraatinternet-cekilis.com
 ziraatinternet-subesi.com
+ziraatinternetadresi.cfd
 ziraatinternetesube.com
 ziraatinternetislemleri.com
 ziraatinternetkazandirir.com
