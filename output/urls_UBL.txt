@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-19 17:01:50 UTC
-! Total: 331541 rules
+! Last modified: 2025-10-19 18:11:19 UTC
+! Total: 331547 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10150,6 +10150,7 @@
 *://*.60431.club/*
 *://*.604418589.xyz/*
 *://*.60486ccom.com/*
+*://*.605262184.cloud/*
 *://*.605nseu.cn/*
 *://*.6060606000001.cloud/*
 *://*.6066604343.cloud/*
@@ -29623,6 +29624,7 @@
 *://*.anasayfa-ilanlarim.com/*
 *://*.anasayfa-kampanya.com/*
 *://*.anasayfa-kampanyalarim.com/*
+*://*.anasayfa-page-tr.digital/*
 *://*.anasayfa-tr.com/*
 *://*.anasayfa-tr.online/*
 *://*.anasayfa-tr.today/*
@@ -41721,6 +41723,7 @@
 *://*.basvurularburadan.me/*
 *://*.basvurularburadan.sbs/*
 *://*.basvurularburadan.xyz/*
+*://*.basvurularebasvuru-resmi-gov-tr.info/*
 *://*.basvurularhediyesayfasipaributeknoloji-com.tk/*
 *://*.basvurularhizliumrekatiliminiz.cloud/*
 *://*.basvurulari-qnbfinansci.com/*
@@ -59483,6 +59486,7 @@
 *://*.bnturkeygiris2.com/*
 *://*.bnturkeygiris4.com/*
 *://*.bnturkeygiris4.site/*
+*://*.bnturkeykolaygiristr.xyz/*
 *://*.bnturkeykripto.xyz/*
 *://*.bnturkeykriptoparaaalimsatimplatformuanonimsirketi.com/*
 *://*.bnturkeykriptovarlikalimsatimplatformuanonimsirketi.com/*
@@ -266842,6 +266846,7 @@
 *://*.sosyal-online-pandemileri-odemeleri.com/*
 *://*.sosyal-pandemidestek.com/*
 *://*.sosyal-portal.online/*
+*://*.sosyal-proje.sbs/*
 *://*.sosyal-qnbfinans.com/*
 *://*.sosyal-saglik-pan-de-mi-destek-net.tk/*
 *://*.sosyal-son-destekci-ozel.com/*
@@ -280047,6 +280052,7 @@
 *://*.thoughttallsoon.buzz/*
 *://*.thousand-h.click/*
 *://*.thousandconspicuous.top/*
+*://*.thousanddship.shop/*
 *://*.thousandendeavor.top/*
 *://*.thousandideaz.com/*
 *://*.thousandsymposium.top/*
