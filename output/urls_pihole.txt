@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-20 15:09:18 UTC
-# Toplam: 416454 Domain
+# Son Güncelleme: 2025-10-20 16:10:35 UTC
+# Toplam: 416463 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8484,6 +8484,7 @@
 212224252.cloud
 21231321321313213213132.duckdns.org
 2124133407.goloser.ru
+213-322-434.cfd
 213.155.126.34
 213.155.126.36
 213.166.68.138
@@ -81375,6 +81376,7 @@ bsvrrkmpnyaaaprmsnyn.click
 bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
 bsvrrkmpyaaaprmsyonnn.info
+bsvrrprmsynkmonyaaa.click
 bsvrrprmsynnkmpnyaa.click
 bsvrrprmsynnnkmpnyaa.click
 bsvrrrgrnnttkmpnyaa.click
@@ -164291,6 +164293,7 @@ girisdenizb.com
 girisdenizbasvuru.7cv.gives
 girisdenizlefirsat.online
 girisdenizzacikv0324.tk
+girisdenmobil.mefound.com
 girisdenz-acikhediyenial.tk
 girisdetaybilgi.com
 girisdevlet-islemlerim-hizli.life
@@ -210212,6 +210215,7 @@ istanbu3l.click
 istanbu4l.click
 istanbu5l.click
 istanbu6l.click
+istanbu7l.click
 istanbudlaeglen.com.tr
 istanbuikart.com
 istanbuikart.net
@@ -292739,6 +292743,7 @@ premierfrantically.top
 premierglacier.top
 premiershatter.top
 premisetribe.top
+premium-cicek.com
 premium.mercyy.net
 premium.rotate.icu
 premium007.zapto.org
@@ -312280,6 +312285,7 @@ sadecebuguneozelkampanya.online
 sadecebuguneozelkampanyalar.com.tr
 sadecebuguneozelkampanyalar.xyz
 sadecebugunindirimleri.click
+sadecebugunkukampanyasepetiniyakala.cfd
 sadecebugunozel.xyz
 sadecebuhafta.xyz
 sadecebukezozel.cfd
@@ -342906,6 +342912,7 @@ susturmasanladel.net
 susu-murni18.duckdns.org
 susuna.istnblluolrmusnsusuna.com
 susunaistanblluolms.com
+susunamdasusunam.com
 susunanxzdsdaqs.myshopify.com
 susunaxddxdc.weebly.com
 susyamog458dhref34.ddns.net
@@ -378250,6 +378257,7 @@ virkoza.org
 virmouzt.com
 viro.mleydier.fr
 virosjfmgmdf.site
+viroslorenzo.za.com
 virseta.pics
 virtimal.pro
 virtsvc.com
@@ -384297,6 +384305,7 @@ website6568695.nicepage.io
 website6569024.nicepage.io
 website6570282.nicepage.io
 website6577988.nicepage.io
+website65792141.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
 websitekampanyasi.tk
