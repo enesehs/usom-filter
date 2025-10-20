@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-20 09:11:32 UTC
-! Total: 331594 rules
+! Last modified: 2025-10-20 10:10:27 UTC
+! Total: 331639 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2188,6 +2188,7 @@
 *://*.11cyclesforest.com/*
 *://*.11ekim-cumartesimm.com/*
 *://*.11ekimdekiindirimlerimiz.win/*
+*://*.11ekimdesiparislerinden.cloud/*
 *://*.11ekimkatalog.org/*
 *://*.11ekimselxxvlxcsdlsdinxixclmerimiz.com/*
 *://*.11hb-920123-sans-009.com/*
@@ -6760,6 +6761,8 @@
 *://*.250binevkonutbasvurusu.com/*
 *://*.250binkonut.com/*
 *://*.250binkonutbasvur.com/*
+*://*.250binkonutbasvuru.cfd/*
+*://*.250binkonutbasvuru.com/*
 *://*.250binkonutbasvuru.sbs/*
 *://*.250binkonutbasvuruislemi.com/*
 *://*.250binkonutbasvurusu.com/*
@@ -41754,6 +41757,7 @@
 *://*.basvurularimqnbbdeeeex.website/*
 *://*.basvurularimqnbbdeeex.website/*
 *://*.basvurularimqnbbdeex.website/*
+*://*.basvurularin-konut.sbs/*
 *://*.basvurularinadresidenide.biz/*
 *://*.basvurularinadresisri.com/*
 *://*.basvurularinguvendeonlinesuben.xyz/*
@@ -61426,6 +61430,7 @@
 *://*.bromide.xyz/*
 *://*.bronerg.tk/*
 *://*.brontalreadyture.pro/*
+*://*.bronveth.com/*
 *://*.bronwynhayward46357.xyz/*
 *://*.bronzalti.xyz/*
 *://*.bronze457.xyz/*
@@ -78858,6 +78863,7 @@
 *://*.dafirsatzamani.com/*
 *://*.dafnefonseca.com/*
 *://*.dafom.dev/*
+*://*.daftarcasinolive.com/*
 *://*.dagdelen.bid/*
 *://*.dagdelen.win/*
 *://*.dagfdyer.site/*
@@ -89505,6 +89511,7 @@
 *://*.dinosaurjudiciary.top/*
 *://*.dinostream.pw/*
 *://*.dinotherian.com/*
+*://*.dinst.cyou/*
 *://*.dinstelec.com/*
 *://*.dintrogela.com/*
 *://*.dintrolletone.com/*
@@ -92747,6 +92754,7 @@
 *://*.dsijwxwfytisljhsx.net/*
 *://*.dsilvaart.com/*
 *://*.dsiugxep.com/*
+*://*.dsiuhfraosd.click/*
 *://*.dsjdjsjdsadhasdas.com/*
 *://*.dsjfhkdfjgsfjkhsdkjghsg22.click/*
 *://*.dsjfsdj3rejfd.com/*
@@ -100160,6 +100168,7 @@
 *://*.ecodriftix.com/*
 *://*.ecoenergiesplus.org/*
 *://*.ecoenergiz.org/*
+*://*.ecoenergytechs.org/*
 *://*.ecofloraholland.nl/*
 *://*.ecofluxa.com/*
 *://*.ecogreenag.org/*
@@ -110777,6 +110786,7 @@
 *://*.esenler-belediye.net/*
 *://*.esenlerhavalomano.tk/*
 *://*.esenlerrtepe.xyz/*
+*://*.esenlikyolu.com/*
 *://*.esentai-gourmet.kz/*
 *://*.esentepeoil.com/*
 *://*.esenvakfi.com/*
@@ -113809,6 +113819,7 @@
 *://*.exemplifydissident.top/*
 *://*.exemplifypeople.top/*
 *://*.exemplifypredominance.top/*
+*://*.exemptionzeppelin.com/*
 *://*.exemsi.com/*
 *://*.exenlogin.xyz/*
 *://*.exentesystes.com/*
@@ -118205,6 +118216,7 @@
 *://*.finpeaks.online/*
 *://*.finra-online.com/*
 *://*.finreachr.com/*
+*://*.finsans-tr.com/*
 *://*.finshinne.com/*
 *://*.finsolutions.top/*
 *://*.finsorgu.org/*
@@ -123144,6 +123156,7 @@
 *://*.fury-fiso.com/*
 *://*.furyblush.top/*
 *://*.furysubscribe.top/*
+*://*.fusataraa.cfd/*
 *://*.fuscoa1o1.net/*
 *://*.fuscufilipdi.click/*
 *://*.fusdutustusektti.site/*
@@ -151445,6 +151458,7 @@
 *://*.hizlibasvur-tccbgov.com/*
 *://*.hizlibasvur.com.tr/*
 *://*.hizlibasvur.cyou/*
+*://*.hizlibasvur.online/*
 *://*.hizlibasvur247.com/*
 *://*.hizlibasvur724.com/*
 *://*.hizlibasvura.com/*
@@ -161252,6 +161266,7 @@
 *://*.ilkevim-t-0-k-i-basvuru.com/*
 *://*.ilkevim.com.pl/*
 *://*.ilkevim250binbasvurusu.com/*
+*://*.ilkevimbasvuru.click/*
 *://*.ilkevimbasvuru.com/*
 *://*.ilkevimbasvuru.online/*
 *://*.ilkevimbasvuruekrani.com/*
@@ -180653,6 +180668,7 @@
 *://*.kapitalbanka.online/*
 *://*.kapitalhaber.club/*
 *://*.kapitalhaber.life/*
+*://*.kapitalined.cfd/*
 *://*.kapitall.space/*
 *://*.kapiyageldibayram1o1.com/*
 *://*.kapiyageliyorhizlica.com/*
@@ -183204,6 +183220,7 @@
 *://*.keebass.com/*
 *://*.keeblbr.top/*
 *://*.keegass.com/*
+*://*.keeging.com/*
 *://*.keekektekt.church/*
 *://*.keenalternately.top/*
 *://*.keencaravan.top/*
@@ -184015,6 +184032,7 @@
 *://*.kgm-gov.vip/*
 *://*.kgm-gov.xyz/*
 *://*.kgm-govc.sbs/*
+*://*.kgm-govc.top/*
 *://*.kgm-govr.top/*
 *://*.kgm-govtr.bond/*
 *://*.kgm-govtr.cfd/*
@@ -184469,6 +184487,7 @@
 *://*.kilometresorugustovpttav.com/*
 *://*.kilometretapusubende.cfd/*
 *://*.kilometretenure.top/*
+*://*.kilometretopone.cfd/*
 *://*.kilometreuzmani.cfd/*
 *://*.kilometreuzmanim.cfd/*
 *://*.kilometrevehasarcom.shop/*
@@ -186890,8 +186909,10 @@
 *://*.konut-kredim-finansbank.com/*
 *://*.konut.app/*
 *://*.konut20012024.com/*
+*://*.konutbasvur.com/*
 *://*.konutbasvurhizmetleri-89.net/*
 *://*.konutbasvurhizmetleri-99.net/*
+*://*.konutbasvuru.cfd/*
 *://*.konutbasvuru.com/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurularim.xyz/*
@@ -213414,6 +213435,7 @@
 *://*.novapath.sbs/*
 *://*.novaposhta.website/*
 *://*.novapostxx.icu/*
+*://*.novarissor.com/*
 *://*.novartisphamcorp.com/*
 *://*.novartispharmaceuticalscorp.com/*
 *://*.novartispharmcorp.com/*
@@ -222268,6 +222290,7 @@
 *://*.openvisiontourism.ae/*
 *://*.openvista.click/*
 *://*.openvista.club/*
+*://*.openweb-agency.online/*
 *://*.openweip.shop/*
 *://*.openworldgames.net/*
 *://*.openxmlformat.org/*
@@ -222821,6 +222844,7 @@
 *://*.orlandroot.com/*
 *://*.orlansavi.fun/*
 *://*.orleansban.com/*
+*://*.orlethin.com/*
 *://*.orlovsereygtour.ru/*
 *://*.orlovsergtour.ru/*
 *://*.orlutabfoti.cf/*
@@ -226392,6 +226416,7 @@
 *://*.panqemi-destek-vatandasa-hizmet.ga/*
 *://*.panseggation.top/*
 *://*.panstheon.com/*
+*://*.panstvo.online/*
 *://*.pantanal.xyz/*
 *://*.panteizmdead.net/*
 *://*.panter-mobility.com/*
@@ -231680,6 +231705,7 @@
 *://*.petricgreen.info/*
 *://*.petrlofounds.com/*
 *://*.petrlofsler24.com/*
+*://*.petrocapitaltr.com/*
 *://*.petrochemicndorsement.top/*
 *://*.petrochemus.com/*
 *://*.petrofilokol1278.com/*
@@ -231753,6 +231779,7 @@
 *://*.petrolplatformu.com/*
 *://*.petrolpoint.top/*
 *://*.petrolsa-tr.com/*
+*://*.petrolsons.com/*
 *://*.petrolstart.com/*
 *://*.petrolstr.com/*
 *://*.petroltr-kar.com/*
@@ -232152,6 +232179,7 @@
 *://*.piercecardinal.top/*
 *://*.piercecons.com/*
 *://*.piercenitrogen.top/*
+*://*.piercicevj.com/*
 *://*.pierdiolipde.site/*
 *://*.pierlekot.com/*
 *://*.pierreagencement.fr/*
@@ -232736,6 +232764,7 @@
 *://*.planultra.com.tr/*
 *://*.plapwf.top/*
 *://*.plaquist-simulator.com/*
+*://*.plarixan.com/*
 *://*.plartform-evdekalin.com/*
 *://*.plasanka.net/*
 *://*.plasanna.net/*
@@ -235569,6 +235598,7 @@
 *://*.proavisarac.online/*
 *://*.proaviskiralama.online/*
 *://*.proaviskiralama724.online/*
+*://*.proayumpy.life/*
 *://*.prob21lemdrum.top/*
 *://*.probabilitymoan.top/*
 *://*.probablepumpkin.top/*
@@ -245432,6 +245462,7 @@
 *://*.reklamkampanyalari.com/*
 *://*.reklamkaynagi.com/*
 *://*.reklamkutuphane.cfd/*
+*://*.reklamkutuphanesi.click/*
 *://*.reklamkutuphanesi.site/*
 *://*.reklamlar.click/*
 *://*.reklamlar.cyou/*
@@ -267117,6 +267148,7 @@
 *://*.sosyalkonutilkevimilkisyerim.net/*
 *://*.sosyalkonutlar.net/*
 *://*.sosyalkonutlarabasvur.net/*
+*://*.sosyalkonutlarin.click/*
 *://*.sosyalkonutproje.net/*
 *://*.sosyalkonutprojesi.net/*
 *://*.sosyalkonutprojesindeyerinizialin.shop/*
@@ -278627,6 +278659,7 @@
 *://*.temmuzfirsatlarimobileozel.online/*
 *://*.temmuzfirsatlarinaozel.online/*
 *://*.temmuzfirsatlariseninle.com/*
+*://*.temmuzfirsatlariseninle.info/*
 *://*.temmuzfirsatlaritodaybasladi.net/*
 *://*.temmuzfirstlarix101.online/*
 *://*.temmuzfirstlxr.com/*
@@ -280828,6 +280861,7 @@
 *://*.tkatklwandaw.online/*
 *://*.tkatlmastlandasn.net/*
 *://*.tkatsaltaksldasra.top/*
+*://*.tkbasvurunuz.cyou/*
 *://*.tkbimcellkampanyas.com/*
 *://*.tkbimcelltl.org/*
 *://*.tkbk.net/*
@@ -281919,12 +281953,14 @@
 *://*.tokikonutlaribasvru.click/*
 *://*.tokikonutlaribasvuru.cloud/*
 *://*.tokikonutlaribasvuru.site/*
+*://*.tokikonutprojesi.com/*
 *://*.tokikura.com/*
 *://*.tokikura.shop/*
 *://*.tokikurulus.fun/*
 *://*.tokilerinizbasvuru.online/*
 *://*.tokilerleshuzkyy.com/*
 *://*.tokilibasvurularim.net/*
+*://*.tokimkonutbasvurusu.cloud/*
 *://*.tokimobilbasvuru.shop/*
 *://*.tokimshuzkyy.online/*
 *://*.tokiodeme.com/*
@@ -282257,6 +282293,7 @@
 *://*.toplu-gecisler.store/*
 *://*.toplu-gecisler.xyz/*
 *://*.toplu-guvenli-iade2021-teknik-destek-birimi-kredim.xyz/*
+*://*.toplu-konut-idaresi.com/*
 *://*.toplu-konut-projesi-toki-gov-tr.cf/*
 *://*.toplu-konut-projesi-toki-gov-tr.ga/*
 *://*.toplu-konut-projesi-toki-gov-tr.gq/*
@@ -282264,6 +282301,7 @@
 *://*.toplu-konut-projesi-toki-gov-tr.tk/*
 *://*.toplu-proje-dentim.shop/*
 *://*.toplual.name.tr/*
+*://*.toplubasvuruvekonut.cloud/*
 *://*.toplucimer-iadeleri.com/*
 *://*.toplugecisim.live/*
 *://*.toplugecisim.online/*
@@ -282284,6 +282322,7 @@
 *://*.toplukonutbasvurular.com/*
 *://*.toplukonutbasvurulari.cloud/*
 *://*.toplukonutbasvurum.cloud/*
+*://*.toplukonutbasvururesmi.com/*
 *://*.toplukonutbasvurusu.com/*
 *://*.toplukonutbasvurusutoki.cloud/*
 *://*.toplukonutidaresi.com/*
@@ -291882,6 +291921,7 @@
 *://*.turuncuyuz-bugun.shop/*
 *://*.turutismailkekeme.tk/*
 *://*.turview.com/*
+*://*.turvion.com/*
 *://*.turyan.net/*
 *://*.turym.com/*
 *://*.turzeek.com/*
@@ -302218,6 +302258,7 @@
 *://*.vital.com.pk/*
 *://*.vitalalternately.top/*
 *://*.vitalamazing.top/*
+*://*.vitalblaze.site/*
 *://*.vitaldough.top/*
 *://*.vitaledible.top/*
 *://*.vitaliberatatraining.com/*
@@ -323383,6 +323424,7 @@
 *://*.yeni-karar-edevlet.com/*
 *://*.yeni-katilimdenizv2acikdeniz.com/*
 *://*.yeni-kayit.com/*
+*://*.yeni-konutlar.sbs/*
 *://*.yeni-kredi-karti-aidat-iade-basvurusu-e-devlet-giris-2021.xyz/*
 *://*.yeni-kredi-karti-aidat-iade-basvurusu-e-devlet-giris.xyz/*
 *://*.yeni-limit.com/*
@@ -323400,6 +323442,7 @@
 *://*.yeni-sezondevkampanyalari.shop/*
 *://*.yeni-sorgu2022-aldathesapla.ml/*
 *://*.yeni-sorgulama-servisi.click/*
+*://*.yeni-sosyal-konut.sbs/*
 *://*.yeni-sosyal.sbs/*
 *://*.yeni-subat-firsati.com.tr/*
 *://*.yeni-teklifer-brudas-aldn-aldn.store/*
@@ -324144,6 +324187,7 @@
 *://*.yenineslintercihi.cfd/*
 *://*.yenineslintercihi.icu/*
 *://*.yenineslintercihi.sbs/*
+*://*.yenineslintercihiburasi.xyz/*
 *://*.yeniodemegov.net/*
 *://*.yenionaysistemiaktifhizmet.online/*
 *://*.yenionline.org.tr/*
@@ -326767,6 +326811,7 @@
 *://*.yonebal.com/*
 *://*.yonebals.com/*
 *://*.yonelimle3.xyz/*
+*://*.yonelimle4.xyz/*
 *://*.yonelimleri.com/*
 *://*.yonelndirme-servisiaktarim.cfd/*
 *://*.yonelsa.com/*
