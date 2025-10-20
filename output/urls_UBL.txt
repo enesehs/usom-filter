@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-20 07:10:30 UTC
-! Total: 331566 rules
+! Last modified: 2025-10-20 08:13:28 UTC
+! Total: 331577 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -67211,6 +67211,7 @@
 *://*.carpetmarker.pw/*
 *://*.carpetsoul.top/*
 *://*.carpolishe.store/*
+*://*.carprlce.ru/*
 *://*.carrafoursa.com/*
 *://*.carrbatneom.com/*
 *://*.carrchapman583.xyz/*
@@ -107983,6 +107984,7 @@
 *://*.enfirsat.shop/*
 *://*.enfirsat.site/*
 *://*.enfirsat.store/*
+*://*.enfirsatbublarcanada.com.tr/*
 *://*.enfirsatbublarcanada.xyz/*
 *://*.enfirsatlarburada.site/*
 *://*.enfirsatlarin-yeni-tmmuza-ozell-smdiii-alll.com/*
@@ -131009,6 +131011,7 @@
 *://*.gjmbmmcell.net/*
 *://*.gjmuidmkxufuhio.ru/*
 *://*.gjogvvpsf.biz/*
+*://*.gjqygs.cn/*
 *://*.gjrisim.website/*
 *://*.gjrisinternet.website/*
 *://*.gjscomputerservices.com.au/*
@@ -175779,6 +175782,8 @@
 *://*.jpghw.com/*
 *://*.jpgonlinesube.ga/*
 *://*.jpjnc.com/*
+*://*.jpjpz1.cc/*
+*://*.jpjpz1.top/*
 *://*.jpmsrg.com/*
 *://*.jpo2z1.net/*
 *://*.jpofwh.com/*
@@ -183998,6 +184003,7 @@
 *://*.kgm-gov.store/*
 *://*.kgm-gov.vip/*
 *://*.kgm-gov.xyz/*
+*://*.kgm-govc.sbs/*
 *://*.kgm-govr.top/*
 *://*.kgm-govtr.bond/*
 *://*.kgm-govtr.cfd/*
@@ -184182,6 +184188,7 @@
 *://*.kgmylylode.net/*
 *://*.kgmyolgscm.com/*
 *://*.kgmyoluajansdestek2023.com/*
+*://*.kgmyor.cc/*
 *://*.kgmyuklemeislemleri.xyz/*
 *://*.kgmz-gov.top/*
 *://*.kgmzz.cc/*
@@ -190233,6 +190240,7 @@
 *://*.laexi.com/*
 *://*.lafamiliaestermose.com/*
 *://*.lafamiliaestermosi.com/*
+*://*.lafamilioestodosrodos.com/*
 *://*.lafetbetin.pro/*
 *://*.lafimilaestermose.com/*
 *://*.lafimiliaestermose.com/*
@@ -192511,6 +192519,7 @@
 *://*.livingwithbadkidny.xyz/*
 *://*.livinoompausible.top/*
 *://*.livinsie.com/*
+*://*.livockrepi.click/*
 *://*.livre19.com/*
 *://*.livrosdereceita.ml/*
 *://*.livumuhabbet.xyz/*
@@ -328525,6 +328534,7 @@
 *://*.zcoud.com/*
 *://*.zcoud.monster/*
 *://*.zcoud1.com/*
+*://*.zcqiyess.vip/*
 *://*.zcqrmvhfb.com/*
 *://*.zcrvwsho.com/*
 *://*.zcxtgmy.com/*
@@ -331440,6 +331450,7 @@
 *://*.zxncbnmabcn.net/*
 *://*.zxntbhqwe.com/*
 *://*.zxonazxc.com/*
+*://*.zxp0010w.vip/*
 *://*.zxqapwfnk.com/*
 *://*.zxqycxppw.com/*
 *://*.zxriaatkxredidstek.online/*

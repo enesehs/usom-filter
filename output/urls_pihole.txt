@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-20 07:10:30 UTC
-# Toplam: 416257 Domain
+# Son Güncelleme: 2025-10-20 08:13:28 UTC
+# Toplam: 416272 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -87590,6 +87590,7 @@ carpetkisa.xyz
 carpetmarker.pw
 carpetsoul.top
 carpolishe.store
+carprlce.ru
 carr-bansec.ddns.net
 carrafoursa.com
 carrbatneom.com
@@ -136681,6 +136682,7 @@ enfirsat.fun
 enfirsat.shop
 enfirsat.site
 enfirsat.store
+enfirsatbublarcanada.com.tr
 enfirsatbublarcanada.xyz
 enfirsatlarburada.site
 enfirsatlarin-yeni-tmmuza-ozell-smdiii-alll.com
@@ -164756,6 +164758,7 @@ gisepremium.xyz
 gisfw.com
 gisler.22web.org
 gisnampcuafsy.ddns.net
+gisriikr.vercel.app
 gisrishesap124.com
 gistalastarimaskar.info
 gistcdn.rawgit.org
@@ -164928,6 +164931,7 @@ gjmuidmkxufuhio.ru
 gjniiu.duckdns.org
 gjogvvpsf.biz
 gjpiunuaje.ddns.net
+gjqygs.cn
 gjrclnwcjn.duckdns.org
 gjrisim.website
 gjrisinternet.website
@@ -217722,6 +217726,8 @@ jpgimgtor.ddns.net
 jpgonlinesube.ga
 jpjnc.com
 jpjnp7n21.duckdns.org
+jpjpz1.cc
+jpjpz1.top
 jpmchase.duckdns.org
 jpmchsaccverif.hopto.org
 jpmobilesecured01.ddns.net
@@ -227344,6 +227350,7 @@ kgm-gov.site
 kgm-gov.store
 kgm-gov.vip
 kgm-gov.xyz
+kgm-govc.sbs
 kgm-govr.top
 kgm-govtr.bond
 kgm-govtr.cfd
@@ -227582,6 +227589,7 @@ kgmwyoic.top
 kgmylylode.net
 kgmyolgscm.com
 kgmyoluajansdestek2023.com
+kgmyor.cc
 kgmyukleme.sg-host.com
 kgmyuklemeislemleri.xyz
 kgmz-gov.top
@@ -235721,6 +235729,7 @@ laestoyhaciendoboja.duckdns.org
 laexi.com
 lafamiliaestermose.com
 lafamiliaestermosi.com
+lafamilioestodosrodos.com
 lafely-23488.portmap.host
 lafetbetin.pro
 lafimilaestermose.com
@@ -312236,6 +312245,7 @@ sadeceonlynfirstc.blogdns.org
 sadeceonmlinefrsatlasctr.blogspot.com
 sadeceonmlinefrsatlasctrcv.blogspot.com
 sadeceononldfirstlartrtr.blogspot.com
+sadeceononldfirstlartrtrssctrtr.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
 sadecepera.fun
@@ -335557,6 +335567,7 @@ soz5756843674863333.com
 soz5756843674863333.xyz
 sozcua.com
 sozcucomtr.com
+sozcukampanya.vercel.app
 sozde.store
 sozericimento.tr
 sozireo.com
@@ -372528,6 +372539,7 @@ vakifbankgiris.xyz
 vakifbankgiris2022.co.vu
 vakifbankgirisi.com
 vakifbankgirisler.shop
+vakifbankgirismobil.vercel.app
 vakifbankgiristr.co.vu
 vakifbankgirisube.com
 vakifbankgirisyaptr.co.vu
@@ -403880,6 +403892,7 @@ yapimkredimweb.net
 yapimkredimyazaozle.com
 yapimobiilgirisi.com
 yapimobiilgirisii.com
+yapimobil.bireysel.basvuru.bizde.livockrepi.click
 yapimobil.com
 yapimobil.com.tr
 yapimobil.ip-ddns.com
@@ -412204,6 +412217,7 @@ zcoud.com
 zcoud.monster
 zcoud1.com
 zcoukl.duckdns.org
+zcqiyess.vip
 zcqrmvhfb.com
 zcrgagi7.duckdns.org
 zcrvwsho.com
@@ -416059,6 +416073,7 @@ zxncbnmabcn.net
 zxntbhqwe.com
 zxo945q.duckdns.org
 zxonazxc.com
+zxp0010w.vip
 zxppnlkhwt.duckdns.org
 zxpvhudepq.duckdns.org
 zxpvmybfxq.duckdns.org
