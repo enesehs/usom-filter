@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-20 16:10:35 UTC
-! Total: 331741 rules
+! Last modified: 2025-10-20 17:01:53 UTC
+! Total: 331746 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58580,6 +58580,7 @@
 *://*.bncrtr4.xyz/*
 *://*.bncrtr7.xyz/*
 *://*.bncrtr8.xyz/*
+*://*.bncrtr9.xyz/*
 *://*.bncs2024-roll-20241252-202412.com/*
 *://*.bncs2024-roll-3523582-202421.com/*
 *://*.bncs2024-roll-8953489-202422.com/*
@@ -236994,6 +236995,7 @@
 *://*.ptlmnkrgs.net/*
 *://*.ptlmtncnetakklp.com/*
 *://*.ptlpkargmtkp.com/*
+*://*.ptlsadfmsaktlrsfffn.shop/*
 *://*.ptlt-avvlm.com/*
 *://*.ptlt-goov.pw/*
 *://*.ptltakkdpkargm.com/*
@@ -263872,6 +263874,7 @@
 *://*.smellyday.top/*
 *://*.smellysool.top/*
 *://*.smeltingt.run/*
+*://*.smeslholsatmlrrl.life/*
 *://*.smesnqpmeh.biz/*
 *://*.smestech.shop/*
 *://*.smewry.top/*
@@ -280956,6 +280959,7 @@
 *://*.tkatlmastlandasn.net/*
 *://*.tkatsaltaksldasra.top/*
 *://*.tkbasvurunuz.cyou/*
+*://*.tkbasvurunuz.icu/*
 *://*.tkbimcellkampanyas.com/*
 *://*.tkbimcelltl.org/*
 *://*.tkbk.net/*
@@ -298025,6 +298029,7 @@
 *://*.vakifbankyilbasikampanyalari.com/*
 *://*.vakifbankyilbasiozel.com/*
 *://*.vakifbanskredimobil.org/*
+*://*.vakifbasvuru.com/*
 *://*.vakifbasvuruekrani.xyz/*
 *://*.vakifbasvuruekranlarim.shop/*
 *://*.vakifbasvuruform.com/*
