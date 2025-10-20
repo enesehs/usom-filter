@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-20 14:08:33 UTC
-# Toplam: 416423 Domain
+# Son Güncelleme: 2025-10-20 15:09:18 UTC
+# Toplam: 416454 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26518,6 +26518,7 @@ acik-mobildenizfirsat.com
 acik-mobildenizhediye-basvuruonay.com
 acik-net.site
 acik-p-basvuruinuz.com
+acik-pageinternet.digital
 acik-subedeniademobil.com
 acik-subemobildenizbasvuru.com
 acik-yapidacepavantajimonaylibayram.vercel.app
@@ -39999,6 +40000,8 @@ aldinxoami.xyz
 aldinyeniyilkampanyasi.shop
 aldinz-aldn-tkefld-burds.store
 aldinz-taldisn-tkefld-burds.store
+aldirana1o1frsatikacrma.blogdns.com
+aldiranfirsatlardasimdia1o1.blogspot.com
 alditalk.org
 aldivoltasinia1.cfd
 aldixlmlarimizaldikxlerimizmjdkdd.com
@@ -46479,6 +46482,7 @@ aracimuyanerezerv.net
 aracimvipmuayne.net
 aracimxayneklafsklx.net
 aracin-hizmettiri.blogspot.com
+aracindasogusun.sbs
 aracindirimlikiralama.com
 aracinguvende.net
 aracinguvenli.com
@@ -56492,6 +56496,7 @@ baskidan.com
 baskisanati.com
 baskliklarcumhurcimtr.com
 baslabobnus.b-cdn.net
+basladi-basvurular.sbs
 basladi-evbasvuri.xyz
 basladi-gel-basla.dogustanyaradan.za.com
 basladi-giripbak.xyz
@@ -58942,6 +58947,7 @@ basvurutakipsistem.tk
 basvurutalep-tradresi.com
 basvurutalep.cf
 basvurutalep.ga
+basvurutalep.xyz
 basvurutalepekrani.ga
 basvurutalepekranlari.cf
 basvurutalepekranlari.ga
@@ -81417,6 +81423,7 @@ bsvruu13.click
 bsvruu15.click
 bsvruu2.click
 bsvruu3.click
+bsvruuu17.sbs
 bsvruyon.click
 bsvryrm.site
 bsvs.fun
@@ -105563,6 +105570,7 @@ deneyimlikamoanyalarhaftasibugun.com.tr
 deneyimlikamoanyalarhaftasibugun.xyz
 deneyimlikamoaynalar.online
 deneyimlikamoaynalar.xyz
+deneyimlikampnayadresleri.xyz
 deneyimlikisiler.com
 deneyimlimerkezler.com
 deneyimlimusterilerinyeri.cfd
@@ -133994,6 +134002,7 @@ ekmekvakfi.com
 ekmfrst-ilekacrlmzdeger.online
 ekmgbwrc.com
 ekmi-kmpanyalari-ayzbir.sbs
+ekmiflrsatlari.cfd
 ekmmndgrlrlrl.com
 ekmravaswesd.net
 ekmsekrledeme.net
@@ -134734,6 +134743,7 @@ elimizde-sevdiklerimiz-kalbimizde-hislerimiz.com
 elimizdegelenburada.click
 elimizdekileri-degerini-gorup-saklariz-sizin-icin.com
 elimkolum.xyz
+elininaltindasogutu.sbs
 elinizde-guzel-olani-gorun-pamuk-ile-sarin.com
 elinizdeki-hislerde-bakarak-iyice-guzellesir-beraber.com
 elinizdeki-size-gelenleri-uzmeden-sevin.com
@@ -135108,6 +135118,7 @@ emarketpt-tcebimde.cfd
 emarrassotic.top
 emarrrrpqs.ws
 emartkariadesi.tk
+emasaksorgu.org
 emasdlwerlwer.com
 emasl.a0001.net
 emasqpamqs.ws
@@ -152611,6 +152622,7 @@ fmhxukscmzbupemqgytfmxpln.com
 fmhzus.top
 fmilvjeo.xyz
 fmjqov.com
+fmkral.duckdns.org
 fml.672.mytemp.website
 fml8ea8ee.duckdns.org
 fmltraderacedemy.com
@@ -169720,6 +169732,7 @@ guncelkamusal00sikayetler.tk
 guncelkamusallsikayetivar.cf
 guncelkartaidatodemesi.vercel.app
 guncelkepim.net
+guncelkonutbasvurulari.cloud
 guncelkonutbasvurusu.cloud
 guncelkredifirsatlari.ooguy.com
 guncelkredihizmetleri.click
@@ -174062,6 +174075,7 @@ haftaninyildizurunlerii.cfd
 haftaninyildizurunlerii.sbs
 haftaninyildizurunleriyle.shop
 haftaninyildizxliurnleri.site
+haftaninyildizzlariburrda.com
 haftaninyildzlari101.site
 haftaninyilldizlari.com
 haftaninyldizlariwsynxmahserekoc.me
@@ -174697,6 +174711,7 @@ hakkinda-yardiimerkezi.cf
 hakkinda-yardiimerkezi.ga
 hakkinda.ml
 hakkindaasikayetvar.com
+hakkindabilinenler.sbs
 hakkindabilinenlerguzeldir.cfd
 hakkindaguncel.sikayetinvar.com.tr
 hakkindaguncel.tr-sikayetlerin.ru.com
@@ -195059,6 +195074,7 @@ hzlfkslee.net
 hzlgecsdmelrhgs.com
 hzlgvjcsykglme.net
 hzli-islemler-ptthgcsogs.com
+hzli-yonlndirici.sbs
 hzlibasvrhemengriskaytmerkezi.com
 hzlibasvrmerkezgriskaytol.com
 hzlibasvrnbzlerlesendebsvr.com.tr
@@ -245692,6 +245708,7 @@ marketfirsatgunu.com
 marketfirsati.net
 marketfirsatlari.duckdns.org
 marketfirsatlarim.com
+marketfirsatlarininbaskentihepsiburada.cfd
 marketfirsatlarsizlerle.com.tr
 marketfixz.xyz
 marketfluctuationstoday.com
@@ -246209,6 +246226,7 @@ masakdosyagovtr.org
 masakdosyasorgu.com
 masakdosyatr.com
 masakdosyatr.org
+masakgov.com
 masakgovtr.com
 masakguvenlik.com
 masakguvenlik.org
@@ -246216,6 +246234,7 @@ masakkamuportal.com
 masakkamutr.com
 masakmaliye.com
 masakonline.com
+masakonlineodeme.com
 masakpnya.xyz
 masakportal.com
 masakportal.org
@@ -246224,6 +246243,7 @@ masaksorgulama.org
 masaktr.com
 masaktr.org
 masaktrgov.org
+masakuyum.com
 masakverify-team.com
 masalardakampnya.xyz
 masalarinkampanyasi.xyz
@@ -249342,6 +249362,7 @@ metabolismlinger.top
 metabrand.top
 metabrowser-binance.cfd
 metabrowser-fb.cfd
+metabrowser-fb.info
 metabrowser-fb.live
 metabrowser-url.cfd
 metabrowser-urlcarre.cfd
@@ -280278,6 +280299,7 @@ p-servis.com.tr
 p-servisler.com.tr
 p-t-ptt-p-t-alisverisler.com
 p-t-t-a-v-m-alisveris.cfd
+p-t-t-a-v-m-alisveris1.cfd
 p-t-t-a-v-m-alisveris2.cfd
 p-t-t-a-v-m-kampanya.cfd
 p-t-t-a-v-m.shop
@@ -289009,6 +289031,7 @@ php.tripadvisorsapp.com
 phpbb-zealand-hop-magnetic.trycloudflare.com
 phpencryptssl.com
 phpsourcesphp.com
+phpsymfony.com
 phpview.mygamesonline.org
 phpweb.zapto.org
 phpyahoo.mrbasic.com
@@ -296453,6 +296476,7 @@ pttavm.mobil-urunler-tr.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
 pttavm.mobiltr-ilan.com.tr
 pttavm.mobiltr-ilanda.com.tr
+pttavm.mobiltr-ilanlar.com.tr
 pttavm.mobiltr-islemler.com.tr
 pttavm.mobiltr-islemlerim.com.tr
 pttavm.mobitr-ilanlarimiz.com.tr
@@ -305903,6 +305927,7 @@ redjkjshj234.digital
 redjournal.cloud
 redkent0.info
 redkite-polkafoundry.online
+redkitler.duckdns.org
 redl-i02veryusps.ddns.net
 redlan1.hopto.org
 redliler-vodafonered.com
@@ -306450,6 +306475,7 @@ reklamkutuphane.cfd
 reklamkutuphanem-tr.gotdns.ch
 reklamkutuphanesi.click
 reklamkutuphanesi.site
+reklamkutuphanesiekim.cfd
 reklamlar.click
 reklamlar.cyou
 reklamlar.icu
@@ -318129,6 +318155,7 @@ satin-aldim-get.com
 satin-aldim-ilanlarim.com.tr
 satin-aldim.xyz
 satin-alim-ilanlarim.com.tr
+satin-alim-islemleri.com
 satin-alim-merkezi.com.tr
 satin-alim-merkezim.ru.com
 satin-alim-sayfasi.com
@@ -334287,6 +334314,7 @@ sonsuzdunya.org
 sonsuzfikirler.online
 sonsuzgece.com
 sonsuzhgs.sg-host.com
+sonsuzhislerinbize.cfd
 sonsuzhuzur.space
 sonsuzkampanyalarekimayinda.online
 sonsuzkampanyalarekimayinda.xyz
@@ -353458,6 +353486,7 @@ toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
 toki-basvuru.online
 toki-basvurum.vercel.app
+toki-basvurusistemi.rest
 toki-basvurusugel.work
 toki-cevrevesehir.info
 toki-eportal.bounceme.net
@@ -353579,6 +353608,7 @@ tokiedevletbasvuru-21358.kxcdn.com
 tokiekkonut.com
 tokiev.com
 tokiev.vercel.app
+tokievbasvurulari.vercel.app
 tokievim.com
 tokievim.com.tr
 tokigarantigiris.com
@@ -411624,6 +411654,7 @@ yzubfrmdkasatekfsbruds.com
 yzxi.net
 yzxmymeexde.net
 yzzmnigldicrrffrsurnlri.com
+z-gratis.zzux.com
 z-hesabim.xyz
 z-inv.com
 z-portalbasvr.online
