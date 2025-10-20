@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-20 19:02:32 UTC
-# Toplam: 416488 Domain
+# Son Güncelleme: 2025-10-20 20:01:48 UTC
+# Toplam: 416505 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -678,6 +678,7 @@
 075585.cn
 07727077777.duckdns.org
 07776658847777.duckdns.org
+0777741477077.duckdns.org
 077p2l.duckdns.org
 078a3c8.duckdns.org
 078pmx027.duckdns.org
@@ -57187,6 +57188,7 @@ basvurkredini.ornekkredi.com
 basvurlar-destek-kampanya-ozel-bireysel.xyz
 basvurlar-destek-kampanyalar-ozel-bireysel.xyz
 basvurlar-destek-kampanyasi-ozel-bireysel.xyz
+basvurlaribas.mindframe.sbs
 basvurlarim.site
 basvurlarinizz.com
 basvurlarracikdenizv2denizbank.co.vu
@@ -78288,6 +78290,7 @@ bntrtrmpcdotr.vercel.app
 bntrtrzl.vercel.app
 bntrts.rf.gd
 bntrttsrmplleasure.vercel.app
+bntrvarlikalimsatimplatformu.com
 bntrvatrzl.vercel.app
 bntrxrp-basvuru.com
 bntrxrp-basvuru.xyz
@@ -142529,6 +142532,7 @@ evinizdencalisin.online
 evinize-saglik.xyz
 evinizi-guzellestiren-pratik-ve-ozel-urunler.top
 evinizin-temel-ihtiyaclari-carrfursa-com.top
+evinizingerekenherseymarkettencok-ucuz.cfd
 evinternetabonelikvebasvurumerkezi.site
 evinternetabonelikvebasvurumerkezii.site
 evinternetbasvuru.net
@@ -164598,6 +164602,7 @@ girisprbuduyurutr.com
 girisprduyurutr.com
 girispyem.com
 girisqnbfinansbank.com
+girisreklamkutuphanesi.cfd
 girisresmiaktifbnnctr.com
 girisresmibnceaktif.com
 girisresmibnctr.com
@@ -172887,6 +172892,7 @@ h97ekbg9.duckdns.org
 h9a55p9e.duckdns.org
 h9d4sf2.netivagator.com
 h9g0q8a1hat3s.net
+h9h-rhe-hrhfdbn-gwefqsa-dfqdqsagasgf12.com.tr
 h9h9hrt9htr9t24eg3ej3t23g2k23edms.sbs
 h9iybn.duckdns.org
 h9kmj6635.duckdns.org
@@ -173833,6 +173839,7 @@ haftalik-kapindax.com
 haftalik-kapinizda-urunler.com
 haftalikaktuelkampanyalar.life
 haftalikalisverisburasi.xyz
+haftalikalisveriskampanyasiyakalamaca.cfd
 haftalikbize.com
 haftalikfirsatgunu.baby
 haftalikfirsatlarimiz.com
@@ -227476,7 +227483,10 @@ kgm-guv.com
 kgm-hgs.com
 kgm-kgs.com
 kgm-ogc.com
+kgm-ogd.com
 kgm-ogi.com
+kgm-ogk.com
+kgm-ogm.com
 kgm-ogo.com
 kgm-ogr.com
 kgm-ogs.com
@@ -227700,6 +227710,7 @@ kgmwo.cc
 kgmwosgcsolsao.duckdns.org
 kgmwxwjsklxa.net
 kgmwyoic.top
+kgmx-gov.top
 kgmylylode.net
 kgmyolgscm.com
 kgmyoluajansdestek2023.com
@@ -303209,6 +303220,7 @@ r9jgeb.duckdns.org
 r9n720p.duckdns.org
 r9nk9tg.duckdns.org
 r9r9.zapto.org
+r9v2q8m1x4s7b6n0p3t5y8w2z1u.com
 ra-ndvuhesap.blogspot.com
 ra-nndevu-islemleri.blogspot.com
 ra.ddns.net
@@ -352635,6 +352647,7 @@ tlgsmyuklemebimcell.org
 tlhediyelipaketyukle.tk
 tlhizlikolaytlyuklebim.com
 tlion.click
+tlisareti250.mooo.com
 tliv4.uqauv.cn
 tliwjcbuv.com
 tljpofsq.wcnv20.cn
@@ -353639,6 +353652,7 @@ tokiekkonut.com
 tokiev.com
 tokiev.vercel.app
 tokievbasvurulari.vercel.app
+tokievbasvurularim.vercel.app
 tokievim.com
 tokievim.com.tr
 tokigarantigiris.com
@@ -354126,6 +354140,7 @@ toplukonutbasvuru.cfd
 toplukonutbasvurular-45.com
 toplukonutbasvurular.com
 toplukonutbasvurulari.cloud
+toplukonutbasvurulari.vercel.app
 toplukonutbasvurularigov.webhop.org
 toplukonutbasvurum.cloud
 toplukonutbasvururesmi.com
@@ -366875,6 +366890,7 @@ ucuzahgsyukleyin.com
 ucuzaktuelgunleri.com.tr
 ucuzaktuelgunleri.online
 ucuzaktuelgunleri.xyz
+ucuzaktuelindrimx.sbs
 ucuzal.name.tr
 ucuzalbilet.com
 ucuzaldi.com
@@ -414775,6 +414791,7 @@ ziraatsbank.com
 ziraatsbkon.com
 ziraatsbnk.com
 ziraatse.duckdns.org
+ziraatseninle.sbs
 ziraatsi.com
 ziraatsistem.duckdns.org
 ziraatsite-mobil.ga
