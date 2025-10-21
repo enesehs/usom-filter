@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 00:41:55 UTC
-# Toplam: 416529 Domain
+# Son Güncelleme: 2025-10-21 02:22:53 UTC
+# Toplam: 416532 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -54385,6 +54385,7 @@ baaykar.com
 baayramfirsatlari.online
 baayykar.com
 baayykaren.com
+baayykarr.com
 bab24242424boboo125.com
 baba-asle-behtarin100.buzz
 baba-asle-behtarin20.buzz
@@ -77291,6 +77292,7 @@ bnctodayhazirankmpanyasi.net
 bnctr-kampanyakayit.com
 bnctr-ramazankampanyam.net
 bnctr.com.tr
+bnctr.sbs
 bnctrbasvuru.com
 bnctrdestekbasvuru.com
 bnctrduyuru.com
@@ -120067,6 +120069,7 @@ durmasendekadinlaradestekol.tk
 durmayankapmayaklar.com.tr
 durmayankapmayaklar.online
 durmayukle.22web.org
+durnelis.com
 durrantitiy.site
 dursunocak.cfd
 durubey.com
