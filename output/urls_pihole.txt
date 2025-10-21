@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 08:13:40 UTC
-# Toplam: 416588 Domain
+# Son Güncelleme: 2025-10-21 09:10:35 UTC
+# Toplam: 416601 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14301,6 +14301,7 @@
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
 500bintoplukonut.com
+500bintoplukonutbasvuru.webhop.org
 500bintoplukonutbasvurusu.com
 500bintoplukonutonline.webhop.org
 500bnanceusdt.com
@@ -57349,6 +57350,7 @@ basvursende.lotusbungalov.com
 basvursende.online
 basvursfirsati.com
 basvurshn.com.tr
+basvurshn.xyz
 basvursizlerleberaberlerartiklarla.xyz
 basvursmc.com.tr
 basvursmc.cyou
@@ -81456,6 +81458,7 @@ bsvruu15.click
 bsvruu2.click
 bsvruu3.click
 bsvruuu17.sbs
+bsvruuu18.click
 bsvruyon.click
 bsvryrm.site
 bsvs.fun
@@ -86612,6 +86615,7 @@ caliprocessingvisa3.ddns.net
 calisbutik.fun
 calisincaoldu.com
 caliskanhome.com
+calismabakanligi.com
 calistahotelresort.com
 calitus.hopto.org
 calix.cc
@@ -169376,6 +169380,7 @@ gulfblox.com
 gulfthrone.top
 gulfup.me
 gulivari.at
+gulizarcicek.com
 gulizarteyze.com
 gulkrgoroot.net
 gulkurusu.com.tr
@@ -200625,6 +200630,7 @@ ilkimsendegilsinbunubil.com
 ilkini-bukadarda-uzaklarda-durdurmadik-bizler.top
 ilkkayvakfi.com
 ilkkayvakfi.org
+ilkkonutum.click
 ilknur.pro
 ilknuracokasigim.co
 ilknuracokasigim.com
@@ -275966,6 +275972,7 @@ onlinemagzan.com
 onlinemapp.net
 onlinemarker.hmnmagzd.com
 onlinemarket-tr.com
+onlinemarketalisverisindekikazancnoktasi.cfd
 onlinemarketcilik.com.tr
 onlinemarketdesafranda.com
 onlinemarketfirsatlari.com
@@ -315579,6 +315586,7 @@ sahibinden.siparisimaktif.com.tr
 sahibinden.siparisimonline.com.tr
 sahibinden.siparisin.com.tr
 sahibinden.siparisinizonline.com.tr
+sahibinden.siparislerim-onayli-127452.com
 sahibinden.siparislerim.net
 sahibinden.siparisveriniz.com.tr
 sahibinden.siparisyolda.site
@@ -316731,6 +316739,7 @@ sahibindnget.com
 sahibindnguvenliodeme.com
 sahibindnguvenliodeme.com.tr
 sahibindnparamgvendee.net
+sahibindrn.info
 sahibineeden.com
 sahibinen-param-guvende-gets.xyz
 sahibiniden-param-guvende.com
@@ -353601,6 +353610,7 @@ toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
 toki-basvuru.info
 toki-basvuru.online
+toki-basvurulari-basladi.marketten.store
 toki-basvurum.vercel.app
 toki-basvurusistemi.rest
 toki-basvurusugel.work
@@ -353730,6 +353740,9 @@ tokievbasvurulari.vercel.app
 tokievbasvurularim.vercel.app
 tokievim.com
 tokievim.com.tr
+tokievkonutbasvuru.com
+tokievkonutbasvurusu.vercel.app
+tokievkonutbasvuruyap.vercel.app
 tokigarantigiris.com
 tokiggbasvurularisf.blogspot.com
 tokigncelbasvuru.mooo.com
