@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 13:26:51 UTC
-# Toplam: 416635 Domain
+# Son Güncelleme: 2025-10-21 14:09:54 UTC
+# Toplam: 416643 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -202680,6 +202680,7 @@ indirimkazanirsin.online
 indirimkodu.cfd
 indirimkoli.com.tr
 indirimkral.xyz
+indirimkrizi.cfd
 indirimksami.com
 indirimkuponlari.online
 indirimkuponlarim.com.tr
@@ -209467,6 +209468,7 @@ islemin-dogrula.app
 islemin.online
 isleminegirisyap.de
 islemingeldi.net
+islemingovtr.cfd
 isleminhizlisi.app
 isleminhizmet.de
 isleminiburadantamamla.com
@@ -227189,6 +227191,7 @@ keroo2010.zapto.org
 kerpetenalii345.shop
 kerpicten.biz
 kerrmerrsdds.wiki
+kerrs54as.duckdns.org
 kerstpakketten.horesca-meppel.nl
 kertal76514lkart.xyz
 kertarkads.top
@@ -312267,6 +312270,7 @@ sack05.xyz
 sackhysterical.top
 saclakama.com
 saclarindagozlerimsokaklarda.xyz
+saclsamkatlk3l4k.club
 saclsamkatlk3l4k.store
 sacmalamwesd.net
 sacoplacode.duckdns.org
@@ -312317,6 +312321,7 @@ sadboi.ddns.net
 sadbrilliant.top
 sadbroken.top
 sadcasda.net
+sadcceonlinenedafrsst.blogdns.org
 sadcconalna1.duckdns.org
 sadcconlliefrsatlarsdac.blogdns.org
 sadccynlnyeozalfrsatlar.blogdns.org
@@ -333633,6 +333638,7 @@ son-frstlar-ylbs.shop
 son-gun-bugun-sakin-kacirma-kapina-ayni-gun-gelecek.com
 son-gun-indirim.free.site.pro
 son-gun-kampanyalari.world
+son-gun-ziraat-kampanya.cfd
 son-guncel-yeni-ciner.uk
 son-gunde-arada-kalmadan-almak-basit-olmamisti.com.tr
 son-gunde-bugun-yuzun-gulsun-sakin-kacirma.com
@@ -352766,6 +352772,7 @@ tlkampanyasimartkampanyasi.site
 tlkartdoldurma.com
 tlkcmtrktlm.net
 tlkgi9x.duckdns.org
+tlkgm.net
 tlkontorpaketyukleme.net
 tlkontoryukleme.com
 tlkontoryukleme23.online
@@ -362028,6 +362035,7 @@ tuketicimerkezi.org
 tuketicininhakki-portal.com
 tuketiciurunleri.com
 tuketimmerkezi.name.tr
+tuketimverilerinianliktakipetme.cfd
 tukishbnk.com
 tukiyefinans.com
 tukiyegelenekselyardimlasma.com
