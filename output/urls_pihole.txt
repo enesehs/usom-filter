@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 14:09:54 UTC
-# Toplam: 416643 Domain
+# Son Güncelleme: 2025-10-21 15:10:23 UTC
+# Toplam: 416654 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9604,6 +9604,7 @@
 27027166.cloud
 270329998.dfgqdsd.ru
 2704523532532.xyz
+270486327.cloud
 270bimcell4444kamoanya.org
 2715465165165.cloud
 271zk.ecreat09.com
@@ -43677,6 +43678,7 @@ anindabudsgetkirala.online
 anindaburadabizsizonline.top
 anindabzlrlebsvrnzszde.com.tr
 anindacebinde.online
+anindacepte.digital
 anindacicekcilik.com
 anindadeniz.xyz
 anindadenizbankacilik.duckdns.org
@@ -137101,6 +137103,7 @@ enhizlipayfix.com
 enhizliraatgris.duckdns.org
 enhizlisiqortaladin.com.tr
 enhizlisiqortta.pw
+enhizlitekliflerinizburada.com
 enhizliticaret.com.tr
 enhizliticaretgunleri.com.tr
 enhizliticaretgunleri.online
@@ -149315,6 +149318,7 @@ firdsas1dtald-ina101.xyz
 firdsas1tal1d-inas101.xyz
 firdsas1tald-ina101.xyz
 firdsasz1dtald-ina101.xyz
+firdttakrara.cfd
 fire-h.xyz
 fire-rat.ddns.net
 fire-shares.info
@@ -160963,6 +160967,7 @@ gel-mutlu-olmak-istiyorsan-gel.com
 gel-mutlulugun-formulu-bunlar.com
 gel-odeme.22web.org
 gel-senindeyuzn-gulck.com
+gel-sor-ogren-ekrandan.cyou
 gel.zapto.org
 gelagagelixmre.net
 gelaglarlaixmregle.net
@@ -289161,6 +289166,7 @@ phraseexponential.top
 phrasefuse.top
 phrasehard.top
 phraseintrigue.top
+phraseradar.cloud
 phrasewater.top
 phrk4pk5eo1v.com
 phrustratedphan.com
@@ -338562,6 +338568,7 @@ stanleylegendaryfirsatlarlaaa.techsolve.sbs
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
+stanleyreborn.xyz
 stanleyrevive.xyz
 stanleyrise.xyz
 stanleysepetleri.xyz
@@ -350741,6 +350748,7 @@ tgnedqhuqsz.net
 tgnvh5.duckdns.org
 tgoime.com
 tgold.ddns.net
+tgoyemek.com
 tgpkib.duckdns.org
 tgq3uthn.duckdns.org
 tgqhenky.com
@@ -384477,6 +384485,7 @@ website6565812.nicepage.io
 website6568695.nicepage.io
 website6569024.nicepage.io
 website6570282.nicepage.io
+website65724314.nicepage.io
 website6577988.nicepage.io
 website65792141.nicepage.io
 websitedesign.com.mm
@@ -413796,6 +413805,7 @@ ziraat154yil.com
 ziraat155yilcekilis.com
 ziraat155yildir.com
 ziraat2018.com
+ziraat21ekim.cfd
 ziraat24.com
 ziraat250kampanyalari.tk
 ziraat250kampanyasi.tk
@@ -414480,6 +414490,7 @@ ziraatdijital.sbs
 ziraatdijitalgiris.tk
 ziraatdijitalkredi.sbs
 ziraatdinamikbankaportfoy.com
+ziraatdunyan.sbs
 ziraatduyurudestek.com
 ziraatduyurular.com
 ziraateb.com
