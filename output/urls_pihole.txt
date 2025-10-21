@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 12:23:08 UTC
-# Toplam: 416627 Domain
+# Son Güncelleme: 2025-10-21 13:26:51 UTC
+# Toplam: 416635 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -623,6 +623,7 @@
 06052025.xyz
 0607d61859d4.com
 06112025final.shop
+06174000-85aa-4b04-bd0e-177ba4ebf36e-00-17yw7j2x2bkke.kirk.replit.dev
 061pwfb.duckdns.org
 06404040111.cloud
 0643tipobet.com
@@ -77312,6 +77313,7 @@ bnctr.sbs
 bnctr1.sbs
 bnctr2.sbs
 bnctr3.sbs
+bnctr5.sbs
 bnctrbasvuru.com
 bnctrdestekbasvuru.com
 bnctrduyuru.com
@@ -134050,6 +134052,7 @@ ekmgbwrc.com
 ekmi-kmpanyalari-ayzbir.sbs
 ekmiflrsatlari.cfd
 ekmindenkpinaflrsatlr.cfd
+ekmlim-ayi-flrsatlari.sbs
 ekmmndgrlrlrl.com
 ekmravaswesd.net
 ekmsekrledeme.net
@@ -252563,6 +252566,7 @@ mobil-giriswebgov.de
 mobil-girisyapikredi.com
 mobil-gov-tr.org
 mobil-gratis.ddnsguru.com
+mobil-gratis.zzux.com
 mobil-grntpromosyon-onay.chickenkiller.com
 mobil-guvende-alisveris.online
 mobil-guvende-get.com
@@ -312508,6 +312512,7 @@ sadeceonmlinefrsatlasctrcv.blogspot.com
 sadeceononldfirstlartrtr.blogspot.com
 sadeceononldfirstlartrtrssctrtr.blogspot.com
 sadeceononldfirsttrstr.blogspot.com
+sadeceononldfirsttrstrstras.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
 sadecepera.fun
@@ -339238,6 +339243,7 @@ stixarhive.000webhostapp.com
 stiybxhfa.com
 stiye-gti-ynlendirme.cfd
 stiye-hlzli-aktrma.sbs
+stiye-hzlica-yonlndirme.sbs
 stiyxdm.cn
 stjmxxqtkudy.xyz
 stk-sn-kpdaylbasi.online
@@ -353765,6 +353771,7 @@ tokievbasvurularim.vercel.app
 tokievim.com
 tokievim.com.tr
 tokievkonutbasvuru.com
+tokievkonutbasvurum.vercel.app
 tokievkonutbasvurusu.vercel.app
 tokievkonutbasvuruyap.vercel.app
 tokigarantigiris.com
@@ -364598,6 +364605,7 @@ turkiyeninbonuskarti.tk
 turkiyeninbonusundan.tk
 turkiyenindenizi.tk
 turkiyenindijitalbankasi.com
+turkiyeninheryerineozelsokfirsatlari.cfd
 turkiyeninisbankasi.com
 turkiyeninkarti.tk
 turkiyeninmarkasi.com
