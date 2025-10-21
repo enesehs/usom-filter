@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-21 11:02:03 UTC
-! Total: 331856 rules
+! Last modified: 2025-10-21 12:23:08 UTC
+! Total: 331874 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19337,6 +19337,7 @@
 *://*.adrese-teslimm-arackiralama-gaarenta.com/*
 *://*.adrese-teslimm-arackiralama-gaarentaa.com/*
 *://*.adresegit.cfd/*
+*://*.adresegit.sbs/*
 *://*.adreseteslimarackiralamaavis.com/*
 *://*.adreseteslimatkampanyasi.online/*
 *://*.adreseteslimgarenta.com/*
@@ -39951,6 +39952,7 @@
 *://*.basarikalitesi.online/*
 *://*.basarikokusu.space/*
 *://*.basarili-servis.com.tr/*
+*://*.basarili-yonlendirme-adresi.sbs/*
 *://*.basarilibiradim.online/*
 *://*.basarilibirsekildealinmistir.click/*
 *://*.basarilifirsat.online/*
@@ -100157,6 +100159,7 @@
 *://*.echcimqncwdredpx7n.com/*
 *://*.echelonyieldai.app/*
 *://*.echidnas64.xyz/*
+*://*.echoblend.sbs/*
 *://*.echobrink.top/*
 *://*.echoesky.online/*
 *://*.echofernspire.site/*
@@ -105799,6 +105802,7 @@
 *://*.ekparahediyeniz.com/*
 *://*.ekpiuc.com/*
 *://*.ekqff.ml/*
+*://*.ekran-dan-sorguyu-aktar-ara.cyou/*
 *://*.ekran-geri-aktarma.store/*
 *://*.ekran-is-webtr1.site/*
 *://*.ekran-sorgu-ve-aktar.cyou/*
@@ -116247,6 +116251,7 @@
 *://*.fb-dn.net/*
 *://*.fb-etkinlik-basvurutamamla.online/*
 *://*.fb-meta.cfd/*
+*://*.fb-metabrowser.click/*
 *://*.fb-nameserver.com/*
 *://*.fb-redirect.click/*
 *://*.fb-redirecttr.cfd/*
@@ -121080,6 +121085,7 @@
 *://*.flrsathadisensizolmadisennedeyan.world/*
 *://*.flrsathadisensposabahgelnbaslagit.world/*
 *://*.flrsathadisenyakaladanbver.world/*
+*://*.flrsathaladevamlolsdolmadanw.shop/*
 *://*.flrsathemen-simdi.cloud/*
 *://*.flrsathemengeldedensanolur.store/*
 *://*.flrsathemengelsealacazbiz.store/*
@@ -121106,6 +121112,7 @@
 *://*.flrsatherkesleolsadanerletmedensen.world/*
 *://*.flrsatherkesleolsadanmmasjad.world/*
 *://*.flrsatherkesleolsandaolmasadaherkesl.life/*
+*://*.flrsatherkesleolsansebfadirolsa.shop/*
 *://*.flrsatherkesleolsapazartesigel.rip/*
 *://*.flrsatherkesleolursasenolmalaan.shop/*
 *://*.flrsatherkeslepazarteshemensalw.world/*
@@ -123244,6 +123251,7 @@
 *://*.furyblush.top/*
 *://*.furysubscribe.top/*
 *://*.fusataraa.cfd/*
+*://*.fusatasfraa.cfd/*
 *://*.fuscoa1o1.net/*
 *://*.fuscufilipdi.click/*
 *://*.fusdutustusektti.site/*
@@ -138723,6 +138731,7 @@
 *://*.haftaninyildizlarigeldigidiyorbakhemenbence.xyz/*
 *://*.haftaninyildizlarigeldilux.xyz/*
 *://*.haftaninyildizlarigeldistok50lux.xyz/*
+*://*.haftaninyildizlariiburadaa.com/*
 *://*.haftaninyildizlariis.sbs/*
 *://*.haftaninyildizlarimega101.xyz/*
 *://*.haftaninyildizlarinda.cfd/*
@@ -152617,6 +152626,7 @@
 *://*.hizliteklifler.com.tr/*
 *://*.hizliteknolojihizmetler2023.online/*
 *://*.hizlitercihin.com/*
+*://*.hizlitermosteklfielriburda.store/*
 *://*.hizliteslim.com.tr/*
 *://*.hizliteslimat.online/*
 *://*.hizliteslimat.shop/*
@@ -184601,6 +184611,7 @@
 *://*.kilometresorgu.fun/*
 *://*.kilometresorgu.shop/*
 *://*.kilometresorguacimaz.cfd/*
+*://*.kilometresorgubayiltan.cfd/*
 *://*.kilometresorgudomaltan.cfd/*
 *://*.kilometresorguekibi.cfd/*
 *://*.kilometresorgula.fun/*
@@ -197647,6 +197658,7 @@
 *://*.markettrcepte.net.tr/*
 *://*.markettrcepte.org.tr/*
 *://*.markettrendingcenter.com/*
+*://*.marketurunlerindekidegisenfiyatlarburada.cfd/*
 *://*.marketuygunu.com/*
 *://*.marketx-indirxmleri.com/*
 *://*.marketxbitcoin.com/*
@@ -199877,6 +199889,7 @@
 *://*.melttrnch.top/*
 *://*.melturine.top/*
 *://*.meluya.cn/*
+*://*.melvariq.net/*
 *://*.melzkott3.com/*
 *://*.melzsolcn56.com/*
 *://*.memajesty.top/*
@@ -245155,6 +245168,7 @@
 *://*.redirects-bn.com/*
 *://*.redirectsarea.click/*
 *://*.redirectsarea.com/*
+*://*.redirectseervice.click/*
 *://*.redirectservice.click/*
 *://*.redirectservice.sbs/*
 *://*.redirectservicearea.com/*
@@ -249815,6 +249829,7 @@
 *://*.sackhysterical.top/*
 *://*.saclakama.com/*
 *://*.saclarindagozlerimsokaklarda.xyz/*
+*://*.saclsamkatlk3l4k.store/*
 *://*.sacmalamwesd.net/*
 *://*.sacpools.com/*
 *://*.sacredclench.top/*
@@ -256914,6 +256929,7 @@
 *://*.sepettekampanya.info/*
 *://*.sepettekampanya.one/*
 *://*.sepettekampanya.org/*
+*://*.sepettekampanyavar.click/*
 *://*.sepetteki-urunler.com.tr/*
 *://*.sepettekiefsaneindirim101.com/*
 *://*.sepettekimutluluk.top/*
@@ -272590,6 +272606,7 @@
 *://*.supermarketindulgence.top/*
 *://*.supermarketkampanya.click/*
 *://*.supermarketrecur.top/*
+*://*.supermarketsepetindekikazancliurunler.cfd/*
 *://*.supermarketshorthand.top/*
 *://*.supermarkett-eptt-alisverismerkezleri.online/*
 *://*.supermartindirimleri.com/*
@@ -282177,6 +282194,7 @@
 *://*.tokisahibiol.com/*
 *://*.tokisbasvuruss.online/*
 *://*.tokishuzky.store/*
+*://*.tokisite.com/*
 *://*.tokisosyalbasvuru.net/*
 *://*.tokisosyalkonutbasvuru.net/*
 *://*.tokisosyalkonutlar.com/*

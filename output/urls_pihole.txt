@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 11:02:03 UTC
-# Toplam: 416607 Domain
+# Son Güncelleme: 2025-10-21 12:23:08 UTC
+# Toplam: 416627 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30694,6 +30694,7 @@ adresburasisimdi.store
 adrese-teslimm-arackiralama-gaarenta.com
 adrese-teslimm-arackiralama-gaarentaa.com
 adresegit.cfd
+adresegit.sbs
 adreseteslim.360yolcuum.store
 adreseteslimarackiralamaavis.com
 adreseteslimat.garentaafilo.com
@@ -56305,6 +56306,7 @@ basariinn.com
 basarikalitesi.online
 basarikokusu.space
 basarili-servis.com.tr
+basarili-yonlendirme-adresi.sbs
 basarilibiradim.online
 basarilibirsekildealinmistir.click
 basarilifirsat.online
@@ -134187,6 +134189,7 @@ ekparahediyen.com
 ekparahediyeniz.com
 ekpiuc.com
 ekran-bbva-giris.sa.com
+ekran-dan-sorguyu-aktar-ara.cyou
 ekran-geri-aktarma.store
 ekran-is-webtr1.site
 ekran-sorgu-ve-aktar.cyou
@@ -146635,6 +146638,7 @@ fb-copyrightservice-com.gq
 fb-dn.net
 fb-etkinlik-basvurutamamla.online
 fb-meta.cfd
+fb-metabrowser.click
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
@@ -152366,6 +152370,7 @@ flrsathadisenledeolmazsadanebilim.world
 flrsathadisensizolmadisennedeyan.world
 flrsathadisensposabahgelnbaslagit.world
 flrsathadisenyakaladanbver.world
+flrsathaladevamlolsdolmadanw.shop
 flrsathemen-simdi.cloud
 flrsathemengeldedensanolur.store
 flrsathemengelsealacazbiz.store
@@ -152392,6 +152397,7 @@ flrsatherkesleolsadahemordangel.world
 flrsatherkesleolsadanerletmedensen.world
 flrsatherkesleolsadanmmasjad.world
 flrsatherkesleolsandaolmasadaherkesl.life
+flrsatherkesleolsansebfadirolsa.shop
 flrsatherkesleolsapazartesigel.rip
 flrsatherkesleolursasenolmalaan.shop
 flrsatherkeslepazarteshemensalw.world
@@ -155184,6 +155190,7 @@ furyblush.top
 furysubscribe.top
 fus.rngupdatem.buzz
 fusataraa.cfd
+fusatasfraa.cfd
 fuschia-rhinestone.cleverapps.io
 fuscoa1o1.net
 fuscufilipdi.click
@@ -174110,6 +174117,7 @@ haftaninyildizlarigeldigidiyorbakhemenbence.sbs
 haftaninyildizlarigeldigidiyorbakhemenbence.xyz
 haftaninyildizlarigeldilux.xyz
 haftaninyildizlarigeldistok50lux.xyz
+haftaninyildizlariiburadaa.com
 haftaninyildizlariis.sbs
 haftaninyildizlarimega101.xyz
 haftaninyildizlarinda.cfd
@@ -189982,6 +189990,7 @@ hizliteklifggb.site
 hizliteklifler.com.tr
 hizliteknolojihizmetler2023.online
 hizlitercihin.com
+hizlitermosteklfielriburda.store
 hizliteslim.com.tr
 hizliteslimat.online
 hizliteslimat.shop
@@ -228204,6 +228213,7 @@ kilometresorgu.shop
 kilometresorgu.web.app
 kilometresorguacansikilir.web.app
 kilometresorguacimaz.cfd
+kilometresorgubayiltan.cfd
 kilometresorgucunuz.web.app
 kilometresorgudomaltan.cfd
 kilometresorguekibi.cfd
@@ -233289,6 +233299,7 @@ krlczmni.shop
 krldnk.site
 krlgdsmas-brda.click
 krlgmasn-buralardayiz.com
+krlinnyozam5.duckdns.org
 krlllrbursaqw.net
 krllrloca.net
 krlqavzcrw.com
@@ -245990,6 +246001,7 @@ markettrcepte.info.tr
 markettrcepte.net.tr
 markettrcepte.org.tr
 markettrendingcenter.com
+marketurunlerindekidegisenfiyatlarburada.cfd
 marketuygunu.com
 marketx-indirxmleri.com
 marketxbitcoin.com
@@ -248646,6 +248658,7 @@ meltsolve.top
 melttrnch.top
 melturine.top
 meluya.cn
+melvariq.net
 melvinchrist774.zapto.org
 melzkott3.com
 melzsolcn56.com
@@ -306008,6 +306021,7 @@ redirects-verify1.ddns.net
 redirects-verify3.ddns.net
 redirectsarea.click
 redirectsarea.com
+redirectseervice.click
 redirectservice.click
 redirectservice.sbs
 redirectservicearea.com
@@ -312249,6 +312263,7 @@ sack05.xyz
 sackhysterical.top
 saclakama.com
 saclarindagozlerimsokaklarda.xyz
+saclsamkatlk3l4k.store
 sacmalamwesd.net
 sacoplacode.duckdns.org
 sacpools.com
@@ -323293,6 +323308,7 @@ sepettekampanya.com
 sepettekampanya.info
 sepettekampanya.one
 sepettekampanya.org
+sepettekampanyavar.click
 sepetteki-urunler.com.tr
 sepettekiefsaneindirim101.com
 sepettekimutluluk.top
@@ -337807,6 +337823,7 @@ ssl1acesso-conta.ddns.net
 ssl1novidades.ddns.net
 ssl2appacessoita.ddns.net
 ssl3111.duckdns.org
+ssl3122.duckdns.org
 ssl3d.com
 ssl6primeiroacesso.ddns.net
 sslacesso25.ddns.net
@@ -338478,6 +338495,7 @@ stangarantionline.com
 stanhalkonline.com
 stanhost.top
 staninnovationgroupllc.com
+stanlerleburadan.echoblend.sbs
 stanletermosdksdmbrda.com
 stanley-100.blogspot.com
 stanley-firsat.biz.tr
@@ -342216,6 +342234,7 @@ supermarketindirimleri.click
 supermarketindulgence.top
 supermarketkampanya.click
 supermarketrecur.top
+supermarketsepetindekikazancliurunler.cfd
 supermarketshorthand.top
 supermarkett-eptt-alisverismerkezleri.online
 supermartindirimleri.com
@@ -353822,6 +353841,7 @@ tokisbasvurum.blogspot.com
 tokisbasvuruss.online
 tokisbasvurusunoktasiburada.blogspot.com
 tokishuzky.store
+tokisite.com
 tokisosyalbasvuru.net
 tokisosyalkonutbasvuru.net
 tokisosyalkonutlar.com
