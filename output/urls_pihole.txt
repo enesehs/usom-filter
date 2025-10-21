@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-21 07:10:24 UTC
-# Toplam: 416537 Domain
+# Son Güncelleme: 2025-10-21 08:13:40 UTC
+# Toplam: 416588 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38045,6 +38045,7 @@ aktr1.app
 aktr2.app
 aktr3.app
 aktrcepsubeonline.com
+aktrma-stiye-hzli.sbs
 aktrncldrdigel3.online
 aktrrgirisbasvur.com
 aktrsonlinebasvuru.com
@@ -44415,6 +44416,7 @@ antespan.com
 antetokumpo.ddns.net
 anthaigroup.vn
 anthems-log2129.hopto.org
+antheriq.com
 anthige.top
 anthonyrr55.ddns.net
 anthonywibberding.com
@@ -50029,6 +50031,7 @@ ates.is-great.org
 atesbocegimmisin.net
 atesbuzcular.rf.gd
 atesbuzonlineee.net
+ateslerdeyan.click
 ateslmdnydyaner.online
 atesogalsckascksxaxz.net
 atesogluholding.net
@@ -51350,6 +51353,7 @@ avantajlipazar.online
 avantajlireklamlar.com
 avantajlisepet.xyz
 avantajlisiparis.click
+avantajliurun.cfd
 avantajliurunler.online
 avantajliurunlerburada.site
 avantajliurunlerburada.store
@@ -56061,6 +56065,7 @@ banquetbarometer.top
 banquetingenious.top
 bansdwesd.wtf
 bansheebey.com
+bansheegate.site
 bansko-furniture.co.uk
 banta.ddns.net
 bantasis.com
@@ -56167,6 +56172,7 @@ bareconnotation.top
 barefootcontractor.com
 barefoots-api.com
 barekalop.shop
+barekethayati.com
 bareknuckle.top
 barelistscatalyst.com
 barelycommend.top
@@ -62404,6 +62410,7 @@ berofc.org.tr
 beroiu.ddns.net
 beroxe.com
 berped.co.za
+berrakanlar.com
 berrokaslan.com
 berrtur.site
 berryallergic.top
@@ -64102,6 +64109,7 @@ bilgicgiris.com
 bilgicgirisim.com
 bilgicgirisin.com
 bilgicin.name.tr
+bilgidan.info
 bilgidenetlememerkez.com
 bilgidenizfirsat.info
 bilgidenizonlinefirsatkontrol.info
@@ -75102,6 +75110,7 @@ blog.chectersom.cfd
 blog.digialpha.net
 blog.eduelects.com
 blog.kobisi.com
+blog.kriptodunya.online
 blog.lasoy.net
 blog.medkad.com
 blog.mitrampolin.com
@@ -77294,6 +77303,7 @@ bnctr-kampanyakayit.com
 bnctr-ramazankampanyam.net
 bnctr.com.tr
 bnctr.sbs
+bnctr1.sbs
 bnctr2.sbs
 bnctr3.sbs
 bnctrbasvuru.com
@@ -79562,6 +79572,7 @@ borsaistanbul24.com
 borsakampanya.site
 borsakampanya.website
 borsakampanyasi.store
+borsakaynak.org
 borsalira.com
 borsaliraturk.com
 borsalivehaber.online
@@ -79577,6 +79588,7 @@ borsashop.com
 borsastratejileri.online
 borsatakibi.online
 borsatakip.net
+borsatakip.world
 borsatpao-tr.com
 bortigroup.com
 borusansafakvakfi.com
@@ -91045,6 +91057,7 @@ cevrerasd5.site
 cevrim-ici2024.online
 cevrimici2024.xyz
 cevrimicialisveris.com
+cevrimicideniz034.my-homeip.com
 cevrimicionline1o1.net
 cevrimicisorgula.shop
 cevrimicitbmmsorgulama.site
@@ -134026,6 +134039,7 @@ ekmfrst-ilekacrlmzdeger.online
 ekmgbwrc.com
 ekmi-kmpanyalari-ayzbir.sbs
 ekmiflrsatlari.cfd
+ekmindenkpinaflrsatlr.cfd
 ekmmndgrlrlrl.com
 ekmravaswesd.net
 ekmsekrledeme.net
@@ -134086,6 +134100,7 @@ ekonomikgise.xyz
 ekonomikgiseniz.xyz
 ekonomikguclen.world
 ekonomikguven.org
+ekonomikhaber.org
 ekonomikilerleme.online
 ekonomikokusu.online
 ekonomikontrol.online
@@ -145935,6 +145950,7 @@ farhgsbi.is-best.net
 farhgsks.is-best.net
 farhgss.com
 faries-studios.com
+farindor.com
 farkcar.com.tr
 farketmeden-biraz-iyi-hissedecekseniz-hemen-yakinlasin.com
 farketmez30.cfd
@@ -149028,6 +149044,7 @@ finansozelkampanyamiz.com
 finansozelkampanyan.com
 finansparibu.com
 finansplus.online
+finansplus.world
 finansportalwebtr.com
 finanspulseeurope.info
 finanspusulasi.org
@@ -149035,8 +149052,11 @@ finansqnb-islemler.com
 finansqnb-sube.com
 finansqnb.com
 finansqnbgrisii.duckdns.org
+finansradyosu.online
 finansramazan-hediyeleri.com
 finansrehberi.world
+finanssal.com
+finanssal.pages.dev
 finanssbank.com
 finanssifirfaizle.online
 finanssorgulamak.site
@@ -153068,6 +153088,7 @@ forest.angsame.ru
 forestallinygs.site
 forestbrowser.com
 forestcanyon.site
+forestcloud.site
 forestduplicate.top
 foresterdam.info
 forestnote.top
@@ -160468,6 +160489,7 @@ gdsqhhfb.ddns.net
 gdssagsagsasagsfsfagsasasasafs.online
 gdswmp.top
 gdsxdsv.click
+gdt.eunewsportal.online
 gdtaopdabporcme.su
 gdtfms.top
 gdtgmx.top
@@ -161270,6 +161292,7 @@ gelirimindeyim.net
 gelirimplanlari.site
 gelirinsan.org
 gelirkapisi.site
+gelirkaynak.online
 gelirlersimdipros.duckdns.org
 gelirmisinbenimle.com.tr
 gelirmmusterisi.com
@@ -168131,6 +168154,7 @@ greenmagicbd.com
 greenmantr.pu020ev.com
 greenmovementltd.com
 greennegox.ddns.net
+greenonlinelife.com
 greenpapers.org
 greenparameter.top
 greenpeacesite.com
@@ -177757,6 +177781,7 @@ hangieczhome.club
 hangikapi.com
 hangikr4di-0-faizlikredi-sorgulama.online
 hangikredi-basvuru.com
+hangikredi.gocampai.com
 hangikredi.shop
 hangikredi.website
 hangikredim.com
@@ -200549,6 +200574,7 @@ ilkevim-portal-giris.org
 ilkevim-t-0-k-i-basvuru.cfd
 ilkevim-t-0-k-i-basvuru.click
 ilkevim-t-0-k-i-basvuru.com
+ilkevim-t-0-k-i-basvuru.icu
 ilkevim-t-0-k-i-basvuru.sbs
 ilkevim-t-o-k-i-bsrv.com
 ilkevim.click
@@ -228168,6 +228194,7 @@ kilometresorgu.web.app
 kilometresorguacansikilir.web.app
 kilometresorguacimaz.cfd
 kilometresorgucunuz.web.app
+kilometresorgudomaltan.cfd
 kilometresorguekibi.cfd
 kilometresorgugecmis.web.app
 kilometresorguhizmet.web.app
@@ -232105,6 +232132,7 @@ krallarkaybedersehomest.com
 krallarkeyfssslrndvuuu.net
 krallarnvidesizeizlemekkalir2779.net
 krallarvesoytarilarx.net
+krallarzamzum543.duckdns.org
 kralmacun.bid
 kralnatekmes.net
 kralodeme.net
@@ -263755,6 +263783,7 @@ newmms.ru
 newmodernrunner.info
 newmodernrunner.online
 newmodernrunner24.info
+newmodernrunner24.online
 newmoderns.online
 newmoviedb.zapto.org
 newmunchman.pro
@@ -263825,6 +263854,7 @@ news-turkey.org
 news-twitter.gq
 news-uk.net
 news-xnfgyrmhqx.duckdns.org
+news.borsaanaliz.info
 news.bradpitt.kz
 news.colourtinctem.com
 news.comsnews.com
@@ -266573,6 +266603,7 @@ now-have-a-nice-day.tk
 now-refer-several-tariff.trycloudflare.com
 now-release.tk
 now-yardim-talep-olustur.com
+now.finanslive.online
 nowaitapk.site
 nowayright.biz
 nowcaptive.top
@@ -283063,6 +283094,7 @@ paraguwende.net
 parahaber.info
 parahaber.online
 parahaber.world
+parahaberci.online
 parahaberleri.online
 parahaberleri.org
 parahalkbankasi.com
@@ -283089,6 +283121,7 @@ parakazanmak.tk
 parakazanmak2022.com
 parakral.com
 parakrediborc.com
+parakulubu.org
 paralaparayardim.com
 paralarimguvende.com
 paralas.click
@@ -283903,6 +283936,7 @@ paraslkgas.vercel.app
 paraspot.online
 paratakacamlan.club
 paratpao.com
+paratrend.world
 paratrendleri.online
 paraveisimdegucumdeyim.online
 paravizyon.org
@@ -289600,6 +289634,8 @@ piyasam-govtr.blogspot.com
 piyasam.online
 piyasam.site
 piyasam.website
+piyasanet.org
+piyasanews.online
 piyasarapor.top
 piyasastrongasrrrtzz.net
 piyasatracker.online
@@ -290173,6 +290209,7 @@ plekasubesi.com
 plekazamani.com
 plekesube.com
 pleksbluetirenti.site
+plendrix.com
 plengreg.fun
 plentifulbrown.top
 plentyofgiftbnnannce.buzz
@@ -302403,6 +302440,7 @@ quantohub.com
 quantrexapisystems.ct.ws
 quantrez.space
 quanttivise.com
+quanttrobot.com
 quantum-ai.link
 quantum-dreamlab.online
 quantum-mindfusion.sbs
@@ -309027,6 +309065,7 @@ rivatalk.net
 rivavanxlarg.com
 rivbimcell.com
 rivelignli.net
+rivenal.com
 riveoasdknasmadaas.blogspot.com
 river-cruises-13890.bond
 river.dipleas.ru
@@ -321592,6 +321631,7 @@ sefukaletrading.co.za
 segap.hopto.org
 segate.ddns.net
 segeneraneatilnt.ddns.net
+segernokalokas.com
 seghuesg.site
 segindirimkampanya.shop
 segirbayi.dev
@@ -323515,6 +323555,7 @@ serkerterasd.duckdns.org
 serks215435.cloud
 serlyuklemeler.sg-host.com
 sermarketin.com
+sermayedunyasi.world
 sermayehaber.info
 sermayehaber.org
 sermayehaberleri.org
@@ -332446,6 +332487,7 @@ softleaf.online
 softlesssocking.com
 softlinko.com
 softmicro.zapto.org
+softmusicplaylist.com
 softofmobi.list
 softofmobi.lisx.ru
 softonline.ddns.net
@@ -335427,6 +335469,7 @@ sosyalkonut.org
 sosyalkonut.shop
 sosyalkonut2026.com
 sosyalkonut2026.vercel.app
+sosyalkonutbasvuru.click
 sosyalkonutbasvuru.net
 sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurusu.net
@@ -339440,6 +339483,7 @@ stormgocolocrest.xyz
 stormi1ng.com.tr
 stormlegue.com
 stormpipa.pro
+stormpipo.pro
 stormsirinbyte.xyz
 stormslva.net
 stormxdt007.zapto.org
@@ -353555,6 +353599,7 @@ toki-basvur.cfd
 toki-basvur.com
 toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
+toki-basvuru.info
 toki-basvuru.online
 toki-basvurum.vercel.app
 toki-basvurusistemi.rest
@@ -358639,6 +358684,7 @@ trend-yol.store
 trend.derbederbonuslar.com.tr
 trend.finanskaynak.online
 trend.firsattanyararlan.com
+trend.kazancgundemi.online
 trend2.online
 trend3.online
 trend4.online
@@ -359993,6 +360039,7 @@ trmrtpzretsr.net
 trmrtrm.net
 trmrtrmcrrrerr.net
 trmrtsafcmrts.net
+trmrtscmrts.net
 trmrtscsbzsl.net
 trmrtscsslbz.net
 trmrtscssmba.net
@@ -371916,6 +371963,7 @@ vahlallha.duckdns.org
 vahoris241.live
 vahtangafisha.ru
 vahycapthdoclpb.ru
+vaiasolocom.online
 vaidevisa2022.ddns.net
 vaidtlrismlrniz.net
 vaikf-danislem.online
@@ -405091,12 +405139,14 @@ yatirimtr.online
 yatirimtrend.info
 yatirimtrend.live
 yatirimtrend.org
+yatirimtrendleri.world
 yatirimvakifim.shop
 yatirimvizyon.space
 yatirimwave.online
 yatirimyolcusu.blogspot.com
 yatirimzaman.info
 yatirimzaman.world
+yatirimzinciri.org
 yatirol.com
 yatlerrnin.click
 yatrts.rf.gd
@@ -406645,6 +406695,7 @@ yenikgssgecislerim.duckdns.org
 yenikiralikaracbirimi.online
 yenikitaplar-mobilden-sendeoku.shop
 yenikonut.store
+yenikonutbasvurulari.cloud
 yenikonutbasvurusu.cloud
 yenikrallik.click
 yenikredi-basvurusu.com
