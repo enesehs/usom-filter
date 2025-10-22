@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-22 15:02:16 UTC
-# Toplam: 416825 Domain
+# Son Güncelleme: 2025-10-22 16:12:08 UTC
+# Toplam: 416834 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3499,6 +3499,7 @@
 11v7xpteq.duckdns.org
 11vdohd3y.duckdns.org
 11ypz0rxk.duckdns.org
+11ziraat11.cfd
 12-21-32-43.tk
 12-55-52-63.cfd
 12-glenkarrg-larexsipariszam.com
@@ -77337,6 +77338,7 @@ bnctr1.sbs
 bnctr2.sbs
 bnctr3.sbs
 bnctr5.sbs
+bnctr6.sbs
 bnctrbasvuru.com
 bnctrdestekbasvuru.com
 bnctrduyuru.com
@@ -94515,6 +94517,7 @@ clogerix.com
 cloguprising.top
 clohomeslvdrdali.com
 cloisterliness.com
+clokarlerler.xyz
 clokdnr.com
 clokeringkisalink.xyz
 clolor.photoyellowclolor.com
@@ -95802,6 +95805,7 @@ colectivesubtlety.top
 colegasdojohn.ddns.net
 colegiorosales.com
 colemaligt.top
+colendimenkuldegerler.com
 colenesphotography.co.za
 coleochaete.com
 coleoptilum.com
@@ -116301,6 +116305,8 @@ dklojbc.com
 dklsendungsverfolgung.com
 dklxmzncjds.net
 dkm-express.com
+dkmenkularacikurum.com
+dkmenkuldegerler.com
 dkncdzenytos.com
 dknetlogarea.zapto.org
 dkomet.zapto.org
@@ -273099,6 +273105,7 @@ onitzech.sbs
 onixcar.com
 onizlemeyap.com
 onjfaj.duckdns.org
+onkayitilk.com
 onkayitlar.online
 onkbpkdfhv.duckdns.org
 onkt3d7buxehenk81x7r321.ddns.net
@@ -283272,6 +283279,7 @@ parakazanmak.cf
 parakazanmak.shop
 parakazanmak.tk
 parakazanmak2022.com
+parakazanmaninmarketyoluhazirlik.cfd
 parakral.com
 parakrediborc.com
 parakulubu.org
@@ -312565,6 +312573,7 @@ sadeceguzelgunlerseninle.xyz
 sadecehaftaninfirsatlarinda.duckdns.org
 sadecehayaller.online
 sadeceinterneteozel-alisverisler.cfd
+sadeceinternettegecerliaktuelurun.cfd
 sadeceizle.online
 sadeceizle.zapto.org
 sadeceizlersiniz.cfd
