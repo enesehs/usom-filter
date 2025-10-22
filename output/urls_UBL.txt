@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-22 18:14:36 UTC
-! Total: 332057 rules
+! Last modified: 2025-10-22 19:02:02 UTC
+! Total: 332072 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26811,6 +26811,7 @@
 *://*.aldinaldinbuhafta.shop/*
 *://*.aldinaldinburdansonfirsat.cfd/*
 *://*.aldinaldinburdansonfirsat.sbs/*
+*://*.aldinaldincampanyasi.click/*
 *://*.aldinaldincaydanlik.com.tr/*
 *://*.aldinaldincepte.biz.tr/*
 *://*.aldinaldincepte.com.tr/*
@@ -60101,6 +60102,7 @@
 *://*.bonuskazandiriyor.com/*
 *://*.bonuskazani2.com/*
 *://*.bonuskolay.digital/*
+*://*.bonuskredi.digital/*
 *://*.bonuskredi2025.com/*
 *://*.bonusladeniz.com/*
 *://*.bonuslafirsatlar.cf/*
@@ -61983,6 +61985,7 @@
 *://*.bsvrn-ak-yeniyil.xyz/*
 *://*.bsvrnoktasihzlihemnbasvr.com/*
 *://*.bsvrrgrnti124242412.com/*
+*://*.bsvrrkmnpnyaa.click/*
 *://*.bsvrrkmpnyaaaprmsnyn.click/*
 *://*.bsvrrkmpnyaaaprmsyn.click/*
 *://*.bsvrrkmpnyaaaprmsynn.click/*
@@ -90956,6 +90959,7 @@
 *://*.doctorsordersltd.co.uk/*
 *://*.doctorstrange.buzz/*
 *://*.doctorstrong.net/*
+*://*.doctorsystems.pro/*
 *://*.doctorvj.com/*
 *://*.doctransfer.online/*
 *://*.doctrineassorted.top/*
@@ -117115,6 +117119,7 @@
 *://*.fhjrw.icu/*
 *://*.fhjyd.icu/*
 *://*.fhlhgngd.cn/*
+*://*.fhlsgs-skdfh-gsgsd.cfd/*
 *://*.fhlsgs-skdfh-gsgsd.cyou/*
 *://*.fhlsgs-skdfh-gsgsd.icu/*
 *://*.fhlvbqehpaxrwpp.ru/*
@@ -135357,6 +135362,7 @@
 *://*.gunceltrsikayetler-259.sbs/*
 *://*.gunceltrsikayetler-26.sbs/*
 *://*.gunceltrsikayetler-261.sbs/*
+*://*.gunceltrsikayetler-27.sbs/*
 *://*.gunceltrsikayetler-28.sbs/*
 *://*.gunceltrsikayetler-29.sbs/*
 *://*.gunceltrsikayetler-3.sbs/*
@@ -185936,6 +185942,7 @@
 *://*.klmtruzmanim.autos/*
 *://*.klmvergi.net/*
 *://*.klnhgss.com/*
+*://*.klni.tr/*
 *://*.klnipzvegniorsajdr.net/*
 *://*.klnjsfkhjasfabfa432321.space/*
 *://*.klockm8.com/*
@@ -207855,6 +207862,7 @@
 *://*.mugopaque.top/*
 *://*.mugosbs.net/*
 *://*.muhabbetburadass.sbs/*
+*://*.muhakkak-giris-acik.digital/*
 *://*.muhamedgillespie56.xyz/*
 *://*.muhammedov.icu/*
 *://*.muhammercevik.com/*
@@ -219401,6 +219409,7 @@
 *://*.online-ilanim.com.tr/*
 *://*.online-ilanim.online/*
 *://*.online-ilanlar.com.tr/*
+*://*.online-ilanlar.com/*
 *://*.online-ilanlarim.com.tr/*
 *://*.online-indirim-a1o1.xyz/*
 *://*.online-indirim.name.tr/*
@@ -239387,6 +239396,7 @@
 *://*.pttgovtr.xyz/*
 *://*.pttgovtr1-tr.top/*
 *://*.pttgovtra.top/*
+*://*.pttgovtral.cc/*
 *://*.pttgovtrb.top/*
 *://*.pttgovtrc.club/*
 *://*.pttgovtrc.top/*
@@ -262981,6 +262991,7 @@
 *://*.sizinlebirliktehepberaber.xyz/*
 *://*.sizinlebizimdemirden.com/*
 *://*.sizinlebizleiletisim.xyz/*
+*://*.sizinlebuyuyoruz-akbasvuru.click/*
 *://*.sizinlebuyuyoruz-akonline.xyz/*
 *://*.sizinlefirsatkacmazlar.click/*
 *://*.sizinleharikafirsatlar.com.tr/*
@@ -268441,6 +268452,7 @@
 *://*.sponsor365fb0000ak.com/*
 *://*.sponsor781239girsisyap.com/*
 *://*.sponsorblackmail.top/*
+*://*.sponsorbngiris.com/*
 *://*.sponsorcunuz-844381.com/*
 *://*.sponsoredads.sbs/*
 *://*.sponsoredrklmvkkf.com/*
@@ -276691,6 +276703,8 @@
 *://*.tceb-katilim-basvuru-form.tk/*
 *://*.tceb-katilim-basvurulari-form-com.ga/*
 *://*.tceb-katilim-basvurulari-form-com.tk/*
+*://*.tcedevlet.net/*
+*://*.tcedevlet.org/*
 *://*.tcekobak.com/*
 *://*.tcekobkn.com/*
 *://*.tcekonomi-bakanligi-aidatiadeleri-basvuru-form.ml/*
@@ -282316,6 +282330,7 @@
 *://*.tokikonutbasvurusu.com/*
 *://*.tokikonutbasvuruun.net/*
 *://*.tokikonutdan.com/*
+*://*.tokikonutevleri.cloud/*
 *://*.tokikonutevleribasvurusu.com/*
 *://*.tokikonutlaribasvru.click/*
 *://*.tokikonutlaribasvuru.cloud/*
