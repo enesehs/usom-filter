@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-22 04:12:12 UTC
-# Toplam: 416725 Domain
+# Son Güncelleme: 2025-10-22 05:09:52 UTC
+# Toplam: 416727 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18916,6 +18916,7 @@
 8547483-6483.cloud
 854935854930554326543.online
 855158494733628.com
+855624856212s.store
 8559r787899s8844641.hopto.org
 85632.cloud
 8564437o168jq9134.work.gd
@@ -353938,6 +353939,7 @@ tokitoplukntlri.com
 tokiturkiyebasvuru.com
 tokivbasvurulari.blogspot.com
 tokixleregelinbizimle.blogspot.com
+tokiyebasvuruyap.com
 tokj.kcrmsalhszmt.shop
 tokjbassvuru.click
 tokki-basvuru.online
