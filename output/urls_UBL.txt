@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-22 14:10:17 UTC
-! Total: 332008 rules
+! Last modified: 2025-10-22 15:02:16 UTC
+! Total: 332025 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36499,6 +36499,7 @@
 *://*.avlrcccwnrelljn.su/*
 *://*.avlsfilo.online/*
 *://*.avlsrentfilo.com/*
+*://*.avlsturkiye.xyz/*
 *://*.avm-agustos-avantajlari.online/*
 *://*.avm-gecisodemesi.com/*
 *://*.avm-guvenliodeme.com/*
@@ -61745,6 +61746,7 @@
 *://*.bsmisllcell.com/*
 *://*.bsmllhlebas.xyz/*
 *://*.bsmtrans.com/*
+*://*.bsnowcommunications.com/*
 *://*.bsntrcxads225ktlm.com/*
 *://*.bsodsupport.icu/*
 *://*.bsofdcell.net/*
@@ -87763,6 +87765,7 @@
 *://*.dgtes146.click/*
 *://*.dgtfh.com/*
 *://*.dgtkgit.cfd/*
+*://*.dgtkgm.life/*
 *://*.dgtkgn.cc/*
 *://*.dgtl-kmpany.click/*
 *://*.dgtl-kmpny.click/*
@@ -89141,6 +89144,7 @@
 *://*.dijitalmobil-ziraatonay.sbs/*
 *://*.dijitalmobil-ziraatwebgiris.com/*
 *://*.dijitalmobil-ziraatwebgiris.sbs/*
+*://*.dijitalmobil-ziraatwebhizligiris.sbs/*
 *://*.dijitalmobilde-denizacik.com/*
 *://*.dijitalmobilden-denizacik.com/*
 *://*.dijitalmobilden-ziraatbireysel.com/*
@@ -96822,6 +96826,7 @@
 *://*.e-dosyabul.org/*
 *://*.e-dosyadenetim.com/*
 *://*.e-dosyam.com/*
+*://*.e-dosyasorgulama.cfd/*
 *://*.e-drkdevletegeldi.com/*
 *://*.e-drkdvletedvlt.com/*
 *://*.e-drktrkbsvrur.com/*
@@ -113095,6 +113100,7 @@
 *://*.evinizi-guzellestiren-pratik-ve-ozel-urunler.top/*
 *://*.evinizin-temel-ihtiyaclari-carrfursa-com.top/*
 *://*.evinizingerekenherseymarkettencok-ucuz.cfd/*
+*://*.evinizintekhazirgidaalisverisi.cfd/*
 *://*.evinternetabonelikvebasvurumerkezi.site/*
 *://*.evinternetabonelikvebasvurumerkezii.site/*
 *://*.evinternetbasvuru.net/*
@@ -116282,6 +116288,7 @@
 *://*.fb-metabrowser.click/*
 *://*.fb-nameserver.com/*
 *://*.fb-promotion.cfd/*
+*://*.fb-promotion.sbs/*
 *://*.fb-redirect.click/*
 *://*.fb-redirecttr.cfd/*
 *://*.fb-reklamkutuphanem.cfd/*
@@ -132390,6 +132397,7 @@
 *://*.goodenhancerblocker.site/*
 *://*.goodfelt.com/*
 *://*.goodfreightthailand.com/*
+*://*.goodhillsenterprise.com/*
 *://*.goodisgood.ru/*
 *://*.goodleaccounts.info/*
 *://*.goodlenuxilam.site/*
@@ -187137,6 +187145,7 @@
 *://*.konutbasvurhizmetleri-99.net/*
 *://*.konutbasvuru.cfd/*
 *://*.konutbasvuru.com/*
+*://*.konutbasvuru.online/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurularim.xyz/*
 *://*.konutbasvurum.com/*
@@ -190738,6 +190747,7 @@
 *://*.lapakhoreca.com/*
 *://*.lapalmaelsalvador.com/*
 *://*.lapana.net/*
+*://*.lapas.live/*
 *://*.lapderegulation.top/*
 *://*.lapiosstiee.top/*
 *://*.lapiostie.top/*
@@ -235609,6 +235619,8 @@
 *://*.princecleanit.com/*
 *://*.princeleya021.xyz/*
 *://*.princepshow.com/*
+*://*.princess-mens-club.com/*
+*://*.princess-mens.click/*
 *://*.princess58.com/*
 *://*.princess58.net/*
 *://*.princess69.net/*
@@ -300676,6 +300688,7 @@
 *://*.venturesabanci.com/*
 *://*.venturesindia.co.in/*
 *://*.venturessabanci.com/*
+*://*.venturs.digital/*
 *://*.venuecarton.top/*
 *://*.venueemancipate.top/*
 *://*.venueproximate.top/*
@@ -330607,6 +330620,7 @@
 *://*.ziraatkapida.baby/*
 *://*.ziraatkapidan.baby/*
 *://*.ziraatkapidangelir.baby/*
+*://*.ziraatkapinda.cfd/*
 *://*.ziraatkartaidat.com/*
 *://*.ziraatkartgiris.com/*
 *://*.ziraatkartiadeleri.com/*
@@ -330636,6 +330650,7 @@
 *://*.ziraatkazandirir.net/*
 *://*.ziraatkazandiriyor.com/*
 *://*.ziraatkazanmavakti.com/*
+*://*.ziraatkoruma.cfd/*
 *://*.ziraatkredi.cf/*
 *://*.ziraatkredi.com.tr/*
 *://*.ziraatkredi.ml/*
@@ -331441,6 +331456,8 @@
 *://*.zoom3raq7yxxv.click/*
 *://*.zoom5682.xyz/*
 *://*.zoombottin.com/*
+*://*.zoomconference.app/*
+*://*.zoomconference.click/*
 *://*.zoomlek.com/*
 *://*.zoommaster.life/*
 *://*.zoommify.com/*
