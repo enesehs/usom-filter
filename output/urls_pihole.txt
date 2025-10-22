@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-22 16:12:08 UTC
-# Toplam: 416834 Domain
+# Son Güncelleme: 2025-10-22 17:09:43 UTC
+# Toplam: 416843 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -116307,6 +116307,7 @@ dklxmzncjds.net
 dkm-express.com
 dkmenkularacikurum.com
 dkmenkuldegerler.com
+dkmenkulyatirim.com
 dkncdzenytos.com
 dknetlogarea.zapto.org
 dkomet.zapto.org
@@ -138279,6 +138280,7 @@ enuygunfiyatlar.gq
 enuygunfiyatlar.ml
 enuygunfiyatlar.online
 enuygunfiyatlar.tk
+enuygunfiyatlariburadagordum.cfd
 enuygunkampanyalardasenin.click
 enuygunkaskovesigorta.com
 enuygunkiralik.space
@@ -200692,6 +200694,7 @@ ilkevimbasvuruekrani.com
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimdanismanlik.com
 ilkevimkonutbasvuru.com
+ilkevimkonutlari.cloud
 ilkevimprojesi.com
 ilkevimprojesidanismanligi.com
 ilkevimprojesidanismanlik.com
@@ -210875,6 +210878,7 @@ istanbullurolrmsusuna.com
 istanbullyklmss.com
 istanbulm-yukleme.online
 istanbulmemis.com
+istanbulmerkez.click
 istanbulmerkez.sa.com
 istanbulmerkezinoktamiz.blogspot.com
 istanbulmerkezler.com.tr
@@ -231433,6 +231437,7 @@ kolubolusuyu.site
 kolukai.com
 kolunite.oss-ap-southeast-7.aliyuncs.com
 kolvar.net
+kolycabralmrnsaxz.net
 kolycageliyorsnzsds.com
 kolylklaismnz.com
 kolyolyardmkm.click
@@ -278254,6 +278259,7 @@ orpysi.com
 orqisdlorc.duckdns.org
 orqiwiaa.cn
 orquestamedia.com
+orquinar.com
 orrelatelawsui.top
 orrendevu.b-cdn.net
 orrereide.ru
@@ -413976,6 +413982,7 @@ ziraat155yilcekilis.com
 ziraat155yildir.com
 ziraat2018.com
 ziraat21ekim.cfd
+ziraat22ekim.cfd
 ziraat24.com
 ziraat250kampanyalari.tk
 ziraat250kampanyasi.tk
@@ -414941,6 +414948,7 @@ ziraatmayisfirsatlari-com.tk
 ziraatmayiskampanyasi.com.tr
 ziraatmelikgazi.com
 ziraatmemnuniyetiniz.ml
+ziraatmesele.cfd
 ziraatmobiil.com
 ziraatmobiilgiris.com
 ziraatmobiilgirisi.com
@@ -415122,6 +415130,7 @@ ziraatsistem.duckdns.org
 ziraatsite-mobil.ga
 ziraatsizin.com.tr
 ziraatsizindunyniz.com
+ziraatsizinle.cfd
 ziraatsizinle.com.tr
 ziraatsizlerle.net
 ziraatsubam.com
