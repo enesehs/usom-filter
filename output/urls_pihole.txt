@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-23 19:01:48 UTC
-# Toplam: 417083 Domain
+# Son Güncelleme: 2025-10-23 20:10:04 UTC
+# Toplam: 417086 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78796,6 +78796,7 @@ bolbolclick.cfd
 bolbolgb-vakifbank.com
 bolbolikramiye.com
 bolbolkampanya.com
+bolcabonus.digital
 bold-accepts-wide-te.trycloudflare.com
 bold-bartik.20-199-66-103.plesk.page
 bold-dhawan.45-139-104-115.plesk.page
@@ -275251,6 +275252,7 @@ onlinebrcsorgu.com
 onlinebrcsorgulama.com
 onlinebrnnrctr-girisi.com
 onlinebsvuru-girisbnnrtr.com
+onlinebsvurular2025.sbs
 onlinebtk.com
 onlinebudget.net
 onlinebuffalo.top
@@ -415138,6 +415140,7 @@ ziraatkredikartiborcusorgula.org
 ziraatkredinburada.com.tr
 ziraatkredinburada.xyz
 ziraatkredinhazir.com.tr
+ziraatkredinhazir.sbs
 ziraatkredipromosyonbasvurma.click
 ziraatkredisistemi.com
 ziraatkrediuzmani.site
