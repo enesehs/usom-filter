@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-23 16:11:07 UTC
-! Total: 332219 rules
+! Last modified: 2025-10-23 17:02:12 UTC
+! Total: 332232 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -30826,6 +30826,7 @@
 *://*.anvaatm.cn/*
 *://*.anvc.me/*
 *://*.anvetinet.com/*
+*://*.anvil.org.ph/*
 *://*.anviplwxrnzy.com/*
 *://*.anvvcctystyetysm-12.com/*
 *://*.anxi21etydepart.top/*
@@ -39530,6 +39531,7 @@
 *://*.bandageepel.top/*
 *://*.bandageunprecedented.top/*
 *://*.bandanasugandhiagarbatti.com/*
+*://*.bandarpowder.com/*
 *://*.bandcampmusicalbumsseo.com/*
 *://*.bandcamponlinemusicmkt.com/*
 *://*.bandcampwebplayer.com/*
@@ -75739,6 +75741,7 @@
 *://*.coqqwx.ru/*
 *://*.coragem.cf/*
 *://*.coralconsulting.org/*
+*://*.coralsunmarine.com/*
 *://*.coraltribe.top/*
 *://*.corana-virus.healthcare/*
 *://*.coranavirusaware.xyz/*
@@ -100394,6 +100397,7 @@
 *://*.ectujon.com/*
 *://*.ecuadorbananas4sale.site/*
 *://*.ecubulls.fr/*
+*://*.ecudecode.mx/*
 *://*.ecumhuriyet.com/*
 *://*.ecvdlvrt-vcert.com/*
 *://*.ecvgaranitisllemenum.com/*
@@ -123942,6 +123946,7 @@
 *://*.galatasubesi.com.tr/*
 *://*.galatasubesinde.com.tr/*
 *://*.galatasubesinde.xyz/*
+*://*.galaterrace.com/*
 *://*.galaxex.com.tr/*
 *://*.galaxi.com.tr/*
 *://*.galaxias.cc/*
@@ -183287,6 +183292,7 @@
 *://*.kazefatih.com/*
 *://*.kazeligunlerim.com/*
 *://*.kazimmazim-siri.site/*
+*://*.kazitradebd.com/*
 *://*.kazkar.com/*
 *://*.kazlcomposite.com/*
 *://*.kazmitarijakanu.club/*
@@ -217893,6 +217899,7 @@
 *://*.oldkbzgldkbrdasgas.shop/*
 *://*.oldking.ml/*
 *://*.oldlarburasjs.com/*
+*://*.oldlinewoodwork.com/*
 *://*.oldlumma.fun/*
 *://*.oldmoneyy.sbs/*
 *://*.oldnmaasizmt.net/*
@@ -230266,6 +230273,7 @@
 *://*.partnerburglar.top/*
 *://*.partnercrybite.com/*
 *://*.partnerfeed.ru/*
+*://*.partnerls.pl/*
 *://*.partnerresi.com/*
 *://*.partnershipcomplimentary.top/*
 *://*.partnersind.biz/*
@@ -232599,6 +232607,7 @@
 *://*.pierrecardinmalls.top/*
 *://*.pierrecardinshop.top/*
 *://*.pierrecardinvip.top/*
+*://*.pierregems.com/*
 *://*.pierrishar.ru/*
 *://*.pierst.site/*
 *://*.piesspolev.org/*
@@ -254270,6 +254279,7 @@
 *://*.sceyiz.buzz/*
 *://*.sceyiz.sbs/*
 *://*.scfmrct.cn/*
+*://*.scgestor.com.br/*
 *://*.scghmavj.com/*
 *://*.schaferdnyazinn.shop/*
 *://*.scharwz.fun/*
@@ -268022,6 +268032,7 @@
 *://*.spaghetticomic.top/*
 *://*.spain2020novflplayer.site/*
 *://*.spain2020octflplayer.info/*
+*://*.spaincaramoon.com/*
 *://*.spamhouseanilingus.ru/*
 *://*.spamhuas.com/*
 *://*.spampenhrs.biz/*
@@ -285653,6 +285664,7 @@
 *://*.trainermissionary.top/*
 *://*.training-investment.info/*
 *://*.trainingmilitia.top/*
+*://*.trainingpharmacist.co.uk/*
 *://*.trainleavechalktomato.click/*
 *://*.trainplaintiff.top/*
 *://*.trainrrepression.top/*
@@ -330800,6 +330812,7 @@
 *://*.ziraatkampanyamkatilim.tk/*
 *://*.ziraatkampanyamm.net/*
 *://*.ziraatkampanyaniz.com/*
+*://*.ziraatkampanyasi.sbs/*
 *://*.ziraatkampanyasibasvuru.com/*
 *://*.ziraatkampanyasiformaile.com/*
 *://*.ziraatkampanyasondakika.com/*
