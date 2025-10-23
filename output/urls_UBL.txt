@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-23 17:02:12 UTC
-! Total: 332232 rules
+! Last modified: 2025-10-23 18:13:34 UTC
+! Total: 332243 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19219,6 +19219,7 @@
 *://*.administratereign.top/*
 *://*.administratevibrate.top/*
 *://*.administrationpremature.top/*
+*://*.adminmadridbet2323.com/*
 *://*.adminmmi.biz/*
 *://*.adminpanelikestinmi.icu/*
 *://*.adminpanelikestinmi2.icu/*
@@ -41968,6 +41969,7 @@
 *://*.basvurumerkezim.com/*
 *://*.basvurumerkezim.net/*
 *://*.basvurumerkezim.site/*
+*://*.basvurumerkezinden.org/*
 *://*.basvurumerkezinizbbva.com/*
 *://*.basvurumerkezinn.com/*
 *://*.basvurumerkezipandemi.com/*
@@ -62033,6 +62035,7 @@
 *://*.bsvru1-garntl.name.tr/*
 *://*.bsvru20.click/*
 *://*.bsvru25.click/*
+*://*.bsvru30.click/*
 *://*.bsvru5x5bmwvakf.com/*
 *://*.bsvruaidtiad0.net/*
 *://*.bsvrualimxa22.net/*
@@ -105441,6 +105444,7 @@
 *://*.ekim-ayi-boyunca-buradan-sorgulaveaktar.sbs/*
 *://*.ekim-ayi-destekleri-kararname.tk/*
 *://*.ekim-cumafrsti.com/*
+*://*.ekim-cumaonlndem.com/*
 *://*.ekim-etkinligi.cf/*
 *://*.ekim-firstlarikacmaz.com/*
 *://*.ekim-flrsatlari-kampanya.com/*
@@ -166335,6 +166339,7 @@
 *://*.internetsubesigiris-sekerbank.com/*
 *://*.internetsubesigiris-sekerbank.net/*
 *://*.internetsubesigiris.ml/*
+*://*.internetsubesigiris1.com/*
 *://*.internetsubesigiris2019-halkbank.com/*
 *://*.internetsubesigirisacikdenizbankbonus2019.com/*
 *://*.internetsubesigirisbonusaktari-tr-com.tk/*
@@ -181599,6 +181604,7 @@
 *://*.karkaas674.shop/*
 *://*.karkaine.com/*
 *://*.karkatalogirislemenusu.com/*
+*://*.karkazanirkenkimseninfarketmedigiyontem.cfd/*
 *://*.karko-bayiyetkili.com/*
 *://*.karkolakcebor.com.tr/*
 *://*.karlandpearson.com/*
@@ -187287,6 +187293,7 @@
 *://*.konutsalisiniz.com/*
 *://*.konutsalprojeler.app/*
 *://*.konutun.org/*
+*://*.konutyeni.click/*
 *://*.konyahasereyesonilaclamacilari.site/*
 *://*.konyakarataysoksubesi.store/*
 *://*.konyakarataysoksubesi.xyz/*
@@ -216820,6 +216827,7 @@
 *://*.odemeislemleri.xyz/*
 *://*.odemeislemlerim.xyz/*
 *://*.odemeislemlerimiz.com/*
+*://*.odemeislemlerindekienhizlicozum.cfd/*
 *://*.odemeislemsmerkez.net/*
 *://*.odemeistanbul.net/*
 *://*.odemeitnerkq.net/*
@@ -282419,6 +282427,7 @@
 *://*.tokibasvurum.com/*
 *://*.tokibasvurum.net/*
 *://*.tokibasvurum.online/*
+*://*.tokibasvurum.org/*
 *://*.tokibasvurum.xyz/*
 *://*.tokibasvurumerkez.store/*
 *://*.tokibasvurumm.net/*
@@ -330060,6 +330069,7 @@
 *://*.ziraatarimkampanya.com/*
 *://*.ziraatarimozel.com/*
 *://*.ziraatarkanizda.cfd/*
+*://*.ziraataylari.sbs/*
 *://*.ziraatb-a.cc/*
 *://*.ziraatb-a.com/*
 *://*.ziraatb-intl.com/*
@@ -330643,6 +330653,7 @@
 *://*.ziraatdesenlikampanyavar.com/*
 *://*.ziraatdesonbahar.ga/*
 *://*.ziraatdestek.com/*
+*://*.ziraatdestek.sbs/*
 *://*.ziraatdestek.site/*
 *://*.ziraatdestekduyuru.com/*
 *://*.ziraatdestekkredisi.site/*
