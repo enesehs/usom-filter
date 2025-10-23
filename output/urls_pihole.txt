@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-23 07:01:42 UTC
-# Toplam: 416909 Domain
+# Son Güncelleme: 2025-10-23 08:13:27 UTC
+# Toplam: 416951 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50609,6 +50609,7 @@ aurera.ddns.net
 auricbay.com
 aurlytnhgd.duckdns.org
 aurmidh.pw
+aurnelis.com
 aurora-fm.com
 aurora.arenvatica.ru
 aurora.dawn-904.workers.dev
@@ -79604,6 +79605,7 @@ borsa.xn--bitc-oza.com
 borsadijital-tr.com
 borsadijitaltr.com
 borsadonusum.com
+borsagundem.world
 borsahaber.world
 borsahaberler.online
 borsahaberleri.world
@@ -83815,6 +83817,8 @@ burganbanks.com
 burganezfeysidenizdem.site
 burganga.com
 burganglobal.com
+burganmenkul.com
+burganmenkuldegerler.com
 burganprivate-tr.com
 burgantrading.com
 burgasarackiralama.com
@@ -94223,6 +94227,7 @@ clearlyretarded.top
 clearnetfab.net
 clearpact.top
 clearplow.com
+clearrsteps.com
 clearservice4upgrade.date
 clearservice4upgrade.stream
 clearservice4upgrades.download
@@ -111572,6 +111577,7 @@ destek.bedavadestek.com
 destek.bireysel-bizbize-yeteriz-kampanyasi-basvuru.xyz
 destek.cf
 destek.click
+destek.coresphere.cfd
 destek.tk
 destek.xyz
 destek1000tl-tr.com
@@ -124790,6 +124796,7 @@ e-iade-webd-girisd-aidatlari-turkiye-gov-tr.com
 e-iade-webd-girisd-aidatlarim-turkiye-gov-tr.com
 e-iade-webde-girisd-aidatlari-turkiye-gov-tr.com
 e-iade-webde-girisde-aidatlari-turkiye-gov-tr.com
+e-iade.com
 e-iade.com.de
 e-iade.de
 e-iade.org
@@ -146921,6 +146928,7 @@ fcufa-kassa.ru
 fcurrentky.ddns.net
 fcuserviceaccountttstsesd.duckdns.org
 fcw1020.com
+fcxfistartxxrrd-1.com
 fcxrnlxsov.duckdns.org
 fcyjrz.com
 fcytr.duckdns.org
@@ -149142,6 +149150,7 @@ finansqnb-islemler.com
 finansqnb-sube.com
 finansqnb.com
 finansqnbgrisii.duckdns.org
+finansradari.online
 finansradyosu.online
 finansramazan-hediyeleri.com
 finansrehberi.world
@@ -170258,6 +170267,7 @@ gundemintsube-com.gq
 gundemintsube-com.ml
 gundemkazani.name.tr
 gundemodeme.tk
+gundemyatirim.online
 gundigundikral.xyz
 gundispors92.site
 gundnhbhrbnhmbrda.online
@@ -182568,6 +182578,7 @@ hemengeriadeportali.xyz
 hemengeriaktar3.b-cdn.net
 hemengeriodemesistemi.com
 hemengir.pw
+hemengirenler.com.tr
 hemengiris-akbnkk.ip-ddns.com
 hemengiris-garantibnkk.ip-ddns.com
 hemengiris-garantimobillonay.b-cdn.net
@@ -184165,6 +184176,7 @@ hesapsatisi.xyz
 hesapsatislari.tk
 hesapsizajans.com
 hesapstore.net
+hesaptasendealhemen.site
 hesapv2-bildirim-giris.xyz
 hesapv2-hizli-giris.xyz
 hesapvarmi.shop
@@ -212739,6 +212751,7 @@ ivaloasis.com
 ivamnudasvsi.net
 ivan23ru.ddns.net
 ivancalderon.duckdns.org
+ivandrix.com
 ivanlogistics.com
 ivano433pro.xyz
 ivanokaramone.xyz
@@ -218481,6 +218494,7 @@ julnow111.top
 julnow333.top
 julnow555.top
 julnow777.top
+julvenis.com
 julvioiloy.duckdns.org
 july-byramfirsatidaybsvur.net
 july-cam-paings-events-acc.net
@@ -219514,6 +219528,7 @@ kacavetin.store
 kacelid.com
 kachi2020.hopto.org
 kachijosh19.hopto.org
+kachingmail.com
 kachoww.hopto.org
 kachsurf.zapto.org
 kaciecook2.xyz
@@ -230635,6 +230650,7 @@ kmsorgulmachpknt.shop
 kmsorgulmachpknt.xyz
 kmsorgulmazss.info
 kmsorgunzlamx.com
+kmsorgupatronu.cfd
 kmsorgupttavmgotr.duckdns.org
 kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
@@ -233389,6 +233405,7 @@ kriptodunyasi.online
 kriptoex.com
 kriptofirsatlarinikacirma.store
 kriptofirsatlarinikacirma.xyz
+kriptogazete.online
 kriptogelecek.top
 kriptogundem.top
 kriptohaber.info
@@ -233399,6 +233416,7 @@ kriptokoin.vip
 kriptolive.online
 kriptomarket.online
 kriptomasakblokesi.com
+kriptoparalar.online
 kriptoparaveblockchainrehberiniz.xyz
 kriptoparaveblokzinciryatirimrehberi.xyz
 kriptoparayatirimvesanalpazar.xyz
@@ -240405,6 +240423,7 @@ lomanca.name.tr
 lomavcazleb.site
 lomeasderasdewse.com
 lomendo.online
+lomendra.com
 lomento.de
 lomesbolasfas.com
 lomirento.com
@@ -246147,6 +246166,7 @@ markette-ozel-firsatlar-var-tr.online
 markettebugun.com.tr
 markettefirsatlar.com
 markettegordumsepeteattimsonra.top
+markettekiaktifurunfirsatlarianaliz.cfd
 markettekikutularinarkasindakifiyat.cfd
 markettemmuz.xyz
 markettemmuzfirsatlari.com.tr
@@ -250994,6 +251014,7 @@ milfarka.store
 milfcheeks.com
 milfhunter.duckdns.org
 miliaraic.ru
+miliarder.store
 militancyclearing.top
 militancygleam.top
 militancyhumiliation.top
@@ -260100,6 +260121,7 @@ my-tr.my-homeip.com
 my-tr1.my-homeip.com
 my-tr2.my-homeip.com
 my-tr3.my-homeip.com
+my-tr4.my-homeip.com
 my-twitter.gq
 my-valice.com
 my-venmo.ddns.net
@@ -278100,6 +278122,7 @@ oreversa.com
 orevon.xyz
 orevonet.net
 orevonet.xyz
+orevuc.com
 orfeum.hu
 orflhkyuw.duckdns.org
 orfrhl.duckdns.org
@@ -283541,6 +283564,7 @@ param.manuelalim-tr.net
 param.onlinealimim.net
 param.trguvendesatinal.ru.com
 param.trguvenlesatinal.com
+paramagazin.online
 paramakdanakit2024.xyz
 paramanset.info
 paramanset.world
@@ -289841,6 +289865,7 @@ piyasalar.site
 piyasalar.website
 piyasalar.xyz
 piyasalardaastrongartzzz.net
+piyasalive.online
 piyasam-govtr.blogspot.com
 piyasam.online
 piyasam.site
@@ -289848,6 +289873,7 @@ piyasam.website
 piyasanet.org
 piyasanews.online
 piyasarapor.top
+piyasaraporu.online
 piyasastrongasrrrtzz.net
 piyasatracker.online
 piycacj7.duckdns.org
@@ -290959,6 +290985,7 @@ polarinvincible.top
 polaris-bios-editor.ru
 polarisan.com
 polarispulse.online
+polarisynsc.com
 polarnimbus.space
 polarof.koyhelp.top
 polarpeace.top
@@ -293434,6 +293461,7 @@ princebarren.top
 princecleanit.com
 princeleya021.xyz
 princeoff.ddns.net
+princeperss.com
 princepshow.com
 princess-mens-club.com
 princess-mens.click
@@ -304666,6 +304694,7 @@ ranirezervasyon1-163c82d941df.herokuapp.com
 ranirezervasyon19-285f72d27883.herokuapp.com
 rankbullerston.win
 ranked-accordingly-ab-hired.trycloudflare.com
+rankharm.shop
 rankingen.top
 rankkarachi.com
 rankkovize.com
@@ -310206,6 +310235,7 @@ rotatehobby.top
 rotatemonkey.top
 rotationcoincidence.top
 rotationlivestock.top
+rotationsartichoke.shop
 rotationtill.top
 rotavakfi.com
 rotavizyonu.online
@@ -318025,6 +318055,7 @@ sanasntsmdmasmsa.blogspot.com
 sanasorusormambile.sbs
 sanateksperi.pro
 sanatincografiavrupagezisi.xyz
+sanativeoasis.com
 sanatvedogaltasarimlarincografyasi.xyz
 sanatveguncelprojelerplani.xyz
 sanatvesanatcihayatlari.xyz
@@ -323792,6 +323823,7 @@ serkerterasd.duckdns.org
 serks215435.cloud
 serlyuklemeler.sg-host.com
 sermarketin.com
+sermayedunyasi.online
 sermayedunyasi.world
 sermayehaber.info
 sermayehaber.org
@@ -324330,6 +324362,7 @@ servidorinformatica.com
 servidorwindows.ddns.com.br
 servidorwindows.duckdns.org
 servingdeplete.top
+servino.click
 servipanxtr.duckdns.org
 servis-150basvurular.com
 servis-alimin.com.tr
@@ -328266,12 +328299,14 @@ sikayetin-var-22.sbs
 sikayetin-var-var.tk
 sikayetin-var.click
 sikayetin-var.co
+sikayetinmerkezi-1.sbs
 sikayetinmerkezi-24.sbs
 sikayetinmerkezi-29.sbs
 sikayetinmerkezi-32.sbs
 sikayetinmerkezi-37.sbs
 sikayetinmerkezi-38.sbs
 sikayetinmerkezi-50.sbs
+sikayetinmerkezi-57.sbs
 sikayetinmerkezi-58.sbs
 sikayetinmerkezi-9.sbs
 sikayetinvar-11.sbs
@@ -329192,6 +329227,7 @@ sinemadestekyetki.ml
 sinemaevsahibiyleguncelvizyon.xyz
 sinemavetelevizyonprojelerigozlemi.xyz
 sinemazaman.cloud
+sinemcicek.com
 sinemlerbulut.host
 sineparibu.com
 sineprom.com
@@ -359299,6 +359335,7 @@ trepmob.sbs
 treporter.com
 trerrrerre.duckdns.org
 tresjomert.com
+tresklkeres5432.blogspot.com
 tresubevakifbank.com
 tretanetokera.top
 tretkinliklerbnsorgu.net
@@ -386473,6 +386510,7 @@ willpowerappall.top
 willpowerpos.co.za
 willtecindustrial.com.br
 willwater.top
+wilstomc.com
 wilvreeburg.nl
 wilyam.zapto.org
 wilyam30.ddns.net
@@ -405381,6 +405419,7 @@ yatirimbaykar.com
 yatirimbilgisi.info
 yatirimbulutu.com
 yatirimcenter.com
+yatirimcenter.world
 yatirimcilogin.com
 yatirimcimobilacikv2denizbank.com
 yatirimcitop.top
@@ -405423,6 +405462,7 @@ yatirimmi.com
 yatirimmport.com
 yatirimmzinciri.com
 yatirimonaylagirisimcilik.com
+yatirimonline.live
 yatirimonlinehaber.online
 yatirimplani.top
 yatirimportal.online
@@ -405432,6 +405472,8 @@ yatirimradar.world
 yatirimraporu.online
 yatirimrehberi.org
 yatirimrehberi.world
+yatirimsesleri.online
+yatirimsesleri.org
 yatirimspot.online
 yatirimtavsiyesi.net
 yatirimtr.online
