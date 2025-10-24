@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-24 18:13:46 UTC
-# Toplam: 417268 Domain
+# Son Güncelleme: 2025-10-24 19:02:02 UTC
+# Toplam: 417274 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13301,6 +13301,7 @@
 455686.c1.biz
 4556950.space
 456123-145353.com.tr
+456123-fawn.vercel.app
 456124127489612974581541.biz
 45623456.com
 4563-4623-74235-872.com
@@ -56727,6 +56728,7 @@ basvru-online.com.tr
 basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
 basvru-trbnnrcn.com
+basvru.lat
 basvru.sa.com
 basvrubilgiedin-devleltigirisim.com
 basvrubnancekampanyaa-frsatkmpanyaa.com
@@ -87775,6 +87777,7 @@ carreefourmarketekimkampanylar.com
 carreefourmarketekimkampanylari.cfd
 carreefourmarketim.cfd
 carreefourmarketimekim.cfd
+carreefourmarketonline.cfd
 carreefourmobilgiris2025.cfd
 carreefourmobiliris.cfd
 carreefourmobilmarket.cfd
@@ -146799,6 +146802,7 @@ fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
 fb-promotion.cfd
+fb-promotion.info
 fb-promotion.sbs
 fb-redirect.click
 fb-redirecttr.cfd
@@ -184854,6 +184858,7 @@ hgmgftf.com
 hgmhgsm.com
 hgmmmm.com
 hgmmonline.duckdns.org
+hgmneburalardaiymz.com
 hgmobilborcdn.com
 hgmobilonline.net
 hgmodesiyeni.bond
@@ -195373,6 +195378,7 @@ hzlagecmk.net
 hzlalsverskampanya.xyz
 hzlalsverskapnda.com
 hzlanmaknk.net
+hzlcasndegels.xyz
 hzlcasrfsaa.click
 hzlcasrfssa.click
 hzlcasrgla.buzz
