@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-24 13:23:52 UTC
-# Toplam: 417174 Domain
+# Son Güncelleme: 2025-10-24 14:09:18 UTC
+# Toplam: 417178 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14330,6 +14330,7 @@
 500dogekampanyakatilimgirisi.net
 500dolarbinancehediyegirisleri.ml
 500ed27c.top
+500konut-bsrv.bond
 500konut-bsrv.click
 500konut-bsrv.lol
 500konut-bsrv.sbs
@@ -54677,6 +54678,7 @@ babanneyiyen.wuaze.com
 babanovex.cf
 babaonline.neveihaha.net
 babaparayapmakta.com
+babapiyasadayine.net
 babapiyasasddas.net
 babapro.pro
 babarenclave.pk
@@ -192098,6 +192100,7 @@ homensgleksadflesksad.cloud
 homensleft.click
 homenslerataksfleskasd.cloud
 homensnsfekfercino.cloud
+homenstereosmfser.com
 homensterkk.duckdns.org
 homensterkkssd.com
 homensterodler.com
@@ -236645,6 +236648,7 @@ lastgrtflap.site
 lasthuddle.top
 lastikcibaba.shop
 lastitalian658.weebly.com
+lastizf.click
 lastkalndansnn.com
 lastknight.xyz
 lastlyanonymity.top
