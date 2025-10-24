@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-24 15:09:29 UTC
-# Toplam: 417193 Domain
+# Son Güncelleme: 2025-10-24 16:12:33 UTC
+# Toplam: 417214 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -54657,6 +54657,7 @@ babalaronline.online
 babalaronlineonline.ru
 babalaroyunda.store
 babalarpiyasa.net
+babalarpiyasaonline.net
 babalarsahadadmslyrs.net
 babalarsozunututar.live
 babalarszntutar.site
@@ -105355,6 +105356,7 @@ delipayz.com
 delirdim3d.xyz
 delirmeyedevam.xyz
 delirtatlim.xyz
+delirtenburda.cfd
 delirtendeli.host
 delirtir.space
 delirtmeyinla.com
@@ -174081,6 +174083,7 @@ haftalik-kapinizda-urunler.com
 haftalikaktuelkampanyalar.life
 haftalikalisverisburasi.xyz
 haftalikalisveriskampanyasiyakalamaca.cfd
+haftalikalisveristekararvermeyardimcisi.cfd
 haftalikbize.com
 haftalikfirsatgunu.baby
 haftalikfirsatlarimiz.com
@@ -184262,6 +184265,7 @@ hesapsatislari.tk
 hesapsizajans.com
 hesapstore.net
 hesaptasendealhemen.site
+hesaptasendehemenal.site
 hesapv2-bildirim-giris.xyz
 hesapv2-hizli-giris.xyz
 hesapvarmi.shop
@@ -217659,6 +217663,7 @@ jngmjznojmnxsfqxexknbhjnnvzd.info
 jngrm.com
 jnhackerr.con-ip.com
 jnhbjkadfnsdfjkl.top
+jnhjdgfgeyer47t32gd326t6t436eg26.store
 jnhjuds.click
 jnkfpdbydhytwpfyvodyugsoq.net
 jnkhfbdjk12.top
@@ -227889,6 +227894,7 @@ kgmgecswebodmsi.com
 kgmgeeciishgmii.duckdns.org
 kgmgeo.cfd
 kgmggovtr.top
+kgmgio.icu
 kgmglo.life
 kgmgov-tr.bond
 kgmgov-tr.ink
@@ -228227,6 +228233,7 @@ ki-rmiz-i-bas-vur-alan-asdas.click
 ki-yol12.22web.org
 ki7m26hw6.duckdns.org
 ki98swf.duckdns.org
+kia-almotores.s3.amazonaws.com
 kiaceitn.store
 kiaemz.com
 kiakxcvqvn.duckdns.org
@@ -228492,6 +228499,7 @@ kilometresorgu.shop
 kilometresorgu.web.app
 kilometresorguacansikilir.web.app
 kilometresorguacimaz.cfd
+kilometresorguacimaz.web.app
 kilometresorgubayiltan.cfd
 kilometresorgucunuz.web.app
 kilometresorgudomaltan.cfd
@@ -230239,6 +230247,7 @@ kmaasorgulama-27326f44722f.herokuapp.com
 kmaasorgulama-88ea0dd95fda.herokuapp.com
 kmabfcn.duckdns.org
 kmacimaz.cfd
+kmacimazdoser.cfd
 kmahsygya.shop
 kmalrajavirk.com
 kmanco.hopto.org
@@ -230396,6 +230405,7 @@ kmkavbilgi.sbs
 kmkaydim.net
 kmkhgss.com
 kmkilometre.com
+kmkkmkslgrlmaburdaogren.web.app
 kmkkssogrulamagovpttt.com
 kmkmsorgulahemen-gov-tr.duckdns.org
 kmkmsorguskyokyaw.duckdns.org
@@ -230403,6 +230413,7 @@ kmkmsrogruszpttgovavm.com
 kmkskmlsrgolamapadisahi.web.app
 kmkskmsrglamapadisahi.web.app
 kmksksklsroglarinburda.web.app
+kmksksmsrglamayenemezsiniz.web.app
 kmksorgulamayaphemengovpttasdwaz.com
 kmksrgoulavgovptthmnshz.duckdns.org
 kmksroguslarhemenptt.vercel.app
@@ -272577,6 +272588,7 @@ ommunite.top
 omniaconsultingparma.it
 omnibeesweb.hopto.org
 omnibeesweb01.hopto.org
+omnileadzdev.s3.amazonaws.com
 omnzj.duckdns.org
 omoba.ddns.net
 omobilbonusolasifirsatgirisim.com
@@ -354731,6 +354743,7 @@ topluislemlerin.app
 toplukonut-onlinebasvuru.blogdns.net
 toplukonut.vercel.app
 toplukonut400.com
+toplukonut500bin.com
 toplukonutaonline.com
 toplukonutbasvulariacildi.ooguy.com
 toplukonutbasvuru.cfd
@@ -359357,6 +359370,7 @@ trendyol.ile-alimin.com
 trendyol.in
 trendyol.iranshik.com
 trendyol.islem-hizmetlerim-mobil.com.tr
+trendyol.it.com
 trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lat
@@ -359435,6 +359449,8 @@ trendyolhediyecekilisi.com
 trendyolhedyebakiye.co.vu
 trendyolhizmet.xyz
 trendyoli.click
+trendyolidn.org
+trendyolidn.vip
 trendyolilesiparis.com
 trendyolindirim.xyz
 trendyolk.net
@@ -378068,6 +378084,7 @@ vexillum23.xyz
 vexio.io
 vexiubpya.com
 vexmordiant.shop
+vexoquery.icu
 vexorahubs.shop
 vexoro.pro
 vexrgihixlivergodeme.net
@@ -384976,6 +384993,7 @@ website6577988.nicepage.io
 website65792141.nicepage.io
 website6580479.nicepage.io
 website6580852.nicepage.io
+website6581274.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
 websitekampanyasi.tk
@@ -406906,6 +406924,7 @@ yeniden-gelenler-yakinda-bitecek-burada.com
 yeniden-girisim.com
 yeniden-hayata-mujdeli-sekilde-devam.com
 yeniden-hizmet.net
+yeniden-hizmete-acilmistir-resmi-olarak.sbs
 yeniden-kapina-gelenler-mutluluk-getirdi.com
 yeniden-kapiniza-geldi-simdilik-burada.com
 yeniden-karsina-cikiyor-mujdeli-sekilde.com
@@ -415029,6 +415048,7 @@ ziraatetkinlikleri.cloud-ip.biz
 ziraatevdekal.site
 ziraatevrak.com
 ziraateytbasvuru-u-kayit.com.tr
+ziraatfarm.cfd
 ziraatfast.tk
 ziraatfilo.com
 ziraatfinance.com
@@ -415473,6 +415493,7 @@ ziraatsbnk.com
 ziraatse.duckdns.org
 ziraatseninle.sbs
 ziraatsi.com
+ziraatsign.cfd
 ziraatsistem.duckdns.org
 ziraatsite-mobil.ga
 ziraatsizin.com.tr
