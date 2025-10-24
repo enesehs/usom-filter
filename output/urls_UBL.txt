@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-24 09:10:59 UTC
-! Total: 332291 rules
+! Last modified: 2025-10-24 10:10:35 UTC
+! Total: 332298 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -38771,6 +38771,7 @@
 *://*.backgrounds.pk/*
 *://*.backisle.top/*
 *://*.backjeans.best/*
+*://*.backlinkbase.com/*
 *://*.backmnk.online/*
 *://*.backoffice-me.com/*
 *://*.backofiscagricenter.com/*
@@ -66038,6 +66039,7 @@
 *://*.c4los1.xyz/*
 *://*.c4p11.shop/*
 *://*.c4z.pl/*
+*://*.c55-shop.fit/*
 *://*.c5babaonline.net/*
 *://*.c5bimcell.com/*
 *://*.c6ca.ru/*
@@ -70679,6 +70681,7 @@
 *://*.chatgptextension.site/*
 *://*.chatgptextent.pro/*
 *://*.chatgptforsearch.com/*
+*://*.chatgptitalia.net/*
 *://*.chatit.club/*
 *://*.chatluongvacuocsong.vn/*
 *://*.chatneet.com/*
@@ -199762,6 +199765,7 @@
 *://*.medineden.online/*
 *://*.medineyardm.org/*
 *://*.mediofrontal.com/*
+*://*.mediostresbarbas.com.ar/*
 *://*.medipedics.com/*
 *://*.mediqhealthcare.com/*
 *://*.medishelps.xyz/*
@@ -202714,6 +202718,7 @@
 *://*.mnkg.store/*
 *://*.mnkgknzodemem.xyz/*
 *://*.mnksystem.online/*
+*://*.mnmathleague.org/*
 *://*.mnmenrsroede.xyz/*
 *://*.mnmhgss.com/*
 *://*.mnminfrasolutions.com/*
@@ -247240,6 +247245,7 @@
 *://*.restored-faith.org/*
 *://*.restoreremnant.top/*
 *://*.restoresalvage.top/*
+*://*.restoroad.com/*
 *://*.restproxy.com/*
 *://*.restrainhygienic.top/*
 *://*.restraintappropriate.top/*
@@ -265648,6 +265654,7 @@
 *://*.sokyilbasiozel.com/*
 *://*.sokyzfirsatlarikacirma.xyz/*
 *://*.sokzincirmarketler.com/*
+*://*.solananetworkinstance.info/*
 *://*.solaraics.com/*
 *://*.solaraixcs.com/*
 *://*.solarbayz.com/*
