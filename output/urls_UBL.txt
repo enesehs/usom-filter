@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-24 19:02:02 UTC
-! Total: 332399 rules
+! Last modified: 2025-10-24 20:09:56 UTC
+! Total: 332408 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62079,6 +62079,7 @@
 *://*.bsvruu15.click/*
 *://*.bsvruu2.click/*
 *://*.bsvruu3.click/*
+*://*.bsvruu40.click/*
 *://*.bsvruuu17.sbs/*
 *://*.bsvruuu18.click/*
 *://*.bsvruyon.click/*
@@ -66644,6 +66645,7 @@
 *://*.camptheyoukwthefs.net/*
 *://*.camptodaythe1oldbasvr2.site/*
 *://*.camptodaythekwtsheon.net/*
+*://*.campusportals.in/*
 *://*.campusteen.ru/*
 *://*.campusveterinario.com/*
 *://*.campusvoltaire.com/*
@@ -69703,6 +69705,7 @@
 *://*.ceptektebwebgiris.com/*
 *://*.ceptelefon-elektronik-paramguvende-pro-sahibinden.com/*
 *://*.ceptelefonu-elektronik-paramguvende-pro-sahibinden.com/*
+*://*.ceptelefonundanmarketkontrolsistemi.cfd/*
 *://*.ceptelirayukle.com/*
 *://*.ceptem-tebinfirsatlari.com/*
 *://*.ceptemagaza.com.tr/*
@@ -187373,6 +187376,7 @@
 *://*.konutresmibasvuru-21.com/*
 *://*.konutsalisiniz.com/*
 *://*.konutsalprojeler.app/*
+*://*.konuttrend.click/*
 *://*.konutun.org/*
 *://*.konutyeni.click/*
 *://*.konyahasereyesonilaclamacilari.site/*
@@ -191079,6 +191083,7 @@
 *://*.lastpassdesktop.app/*
 *://*.lastpassdesktop.com/*
 *://*.lastpasspulse.blog/*
+*://*.lastpassrecovery.com/*
 *://*.lastracheck.xyz/*
 *://*.lastseptemberdealsarewithyouboonus.cloud/*
 *://*.lasvegasapi.cloud/*
@@ -209532,6 +209537,7 @@
 *://*.myp0nysite.ru/*
 *://*.mypaintdressk13.com/*
 *://*.mypaketim.site/*
+*://*.mypasskey.info/*
 *://*.mypat.xyz/*
 *://*.mypdfonestart.com/*
 *://*.mypets.ws/*
@@ -224956,6 +224962,7 @@
 *://*.ozelb-securityparamguvensahibinden.com/*
 *://*.ozelbasvuru-2022bireyselkampanya-online.ml/*
 *://*.ozelbasvuru-bireyselkampanya-online.ml/*
+*://*.ozelbasvuru.sbs/*
 *://*.ozelbasvurubinnce.tech/*
 *://*.ozelbasvurufirsatlari-aralikkampanyasi10yil.com/*
 *://*.ozelbasvuruicintiklabonusfirsatlari.online/*
@@ -230592,6 +230599,7 @@
 *://*.passiveassortment.top/*
 *://*.passivecontrive.top/*
 *://*.passiveobstruct.top/*
+*://*.passkeysetup.com/*
 *://*.passo-lig-only.com/*
 *://*.passo-lig.com/*
 *://*.passoi1g.com/*
@@ -330184,6 +330192,7 @@
 *://*.ziraat.kim/*
 *://*.ziraat.lol/*
 *://*.ziraat.ml/*
+*://*.ziraat.monster/*
 *://*.ziraat.online/*
 *://*.ziraat.pro/*
 *://*.ziraat.site/*
