@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-25 22:07:36 UTC
-# Toplam: 417445 Domain
+# Son Güncelleme: 2025-10-25 23:07:52 UTC
+# Toplam: 417449 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -81038,6 +81038,7 @@ brrjimmceell.com
 brrncntccrgirs.com
 brrsadasfawrty.cfd
 brsakartyklemenyt.net
+brsakenayss-aca.cfd
 brsakrtnexts.net
 brsemrglrd.net
 brsevsel-bbwaabasvru.net
@@ -117778,6 +117779,7 @@ dolap-online-islem.com
 dolap-online-urundetay.com
 dolap-online.t-sepetlerin.com.tr
 dolap-param-guvende-s.com
+dolap-profilim.com
 dolap-s.com
 dolap-secure-pay.com.tr
 dolap-security-ilan.com.tr
@@ -142708,6 +142710,7 @@ evevevelvelllllve.net
 evevlelgelletlelte.com
 evex1pagevip.cfd
 evezneiade.org
+evfirsati.click
 evfmyr.com
 evfvdz992.duckdns.org
 evga-precision.com
@@ -346895,6 +346898,7 @@ tc-soylu69.net
 tc-ss-o-ss-yal-de-s-tek-bsv.com
 tc-teb-iade.com
 tc-teb.com
+tc-toki.basvuruodemesi.com
 tc-vatan-das-hizmet.com
 tc-vatandas-hiz-met.com
 tc-ww-cimer.com
