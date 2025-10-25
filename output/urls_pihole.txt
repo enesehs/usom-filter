@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-25 08:10:53 UTC
-# Toplam: 417333 Domain
+# Son Güncelleme: 2025-10-25 09:08:20 UTC
+# Toplam: 417337 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8125,6 +8125,7 @@
 2025tenduyurular.com
 2025tenhaberler.com
 2025trdenhaber.com
+2025xjsbasvurunt-oki.xyz
 2025yeniurunler.online
 2025yeniyilozelkampanyacepteonaylarimiz.vercel.app
 2025yeniyilsuprizleri.com.tr
@@ -82320,6 +82321,7 @@ bububu.net
 bubucheatin2.ru
 bubugatti.cfd
 bubushkalioua.com
+bubutcemizeozeltasarimsepetler.cfd
 bubutunindirimlerintoplandigiyer.cfd
 bubuyukindirimsadecebuyerdevar.cfd
 bubzmemlkaode.blogspot.com
@@ -152943,6 +152945,7 @@ fnbank-online.com
 fnbbankonlinebnk.com
 fnbo.duckdns.org
 fnbobankyusa.zapto.org
+fnbzlfrstalarlabas.xyz
 fncvja.com
 fndjbtbjch.duckdns.org
 fndkstrd.com
@@ -354235,6 +354238,7 @@ toki-yonlendirme.online
 toki-yuvam.click
 toki-yuvam.forum
 toki.2024ocak-kampanyasi.vip
+toki.2025xjsbasvurunt-oki.xyz
 toki.basvuru-2025.sbs
 toki.basvuruyorum.com
 toki.ilkevim-basvuru.com
