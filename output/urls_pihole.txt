@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-25 15:01:48 UTC
-# Toplam: 417404 Domain
+# Son Güncelleme: 2025-10-25 16:09:34 UTC
+# Toplam: 417417 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9860,6 +9860,7 @@
 293293923544213.cloud
 2933c61a60d4.com
 2937.hopto.org
+2937927737.cloud
 2938.ddns.net
 293cyz.duckdns.org
 294145276.corolain.ru
@@ -37797,6 +37798,7 @@ aktif-20gb-internet-turkcell.com
 aktif-aidat.com
 aktif-basvuru-onay.blogdns.net
 aktif-basvuru-yapiceplionay.vercel.app
+aktif-basvurular-onay.blogdns.net
 aktif-basvurumisimcepteonlinebasvuru.vercel.app
 aktif-bilgiler-koksal.duckdns.org
 aktif-guvenli.com.tr
@@ -57093,6 +57095,7 @@ basvur10gb-hemen.com
 basvur150aile.com
 basvur2023.fun
 basvur2023deniz.online
+basvur2025tokl.qzz.io
 basvuraile150.com
 basvuraile150hizmet.com
 basvurailegenc.com
@@ -151945,6 +151948,7 @@ fiyatiniduydumaldim.xyz
 fiyatkarsilastir.cfd
 fiyatlar-dusunce-bizim-aklimiz-da-gitti.com
 fiyatlardakisihirlikdegisimiburada.cfd
+fiyatlarindipgorupgerigeldigisistem.cfd
 fiyatlariniduyuncainanamayacaksiniz.cfd
 fiyatlarinyalaninisoylemedigitekadres.cfd
 fiyatsokunuyasayacaginizalisveris.cfd
@@ -179797,6 +179801,7 @@ hayatfinanskatilimbankasi.com
 hayatfinanskatilimbankasi.org
 hayatgarantibbvadaguzel.ml
 hayatgecis.is-best.net
+hayatglnceckglzbabaririri.click
 hayatgroup.tech
 hayatguzeldenizile.ml
 hayatguzeldenizile.tk
@@ -183210,6 +183215,7 @@ hemnsizlerinkarsisinndavariz.com
 hemnszlerle-frsatlar-dnyasndaa.arass-hizmetlerdee.com
 hemnszlerlefrsatlardnyasndaa.com
 hemnyakala.store
+hemnyklemelisin.mooo.com
 hemo3.ddns.net
 hemogom.online
 hemometry.com
@@ -194363,6 +194369,7 @@ hukukdosyamaliye.com
 hukukdosyasi.in
 hukukdosyasi.info
 hukukdosyasorgu.com
+hukukegm.org
 hukukesorgu.org
 hukukgecisbildirisi.info
 hukukhgsbirim.com
@@ -209679,6 +209686,7 @@ islemanindaidat.app
 islemarac.com
 islemasdfdf.com
 islemaxipuankazan.com
+islembasvuru.sbs
 islembasvurulari.com
 islembasvurusu.com
 islembasvurusuacikdenizv2denizbank.co.vu
@@ -231971,6 +231979,7 @@ konutbasvurutamamla.cloud
 konutbilgi.click
 konutcan.com
 konutdestegi6060.net
+konutduyuru.click
 konutemlakgayrimenkul.info
 konutemlakgayrimenkul.online
 konutemlkodemeler.net
@@ -255201,6 +255210,7 @@ mobilsubeziraatgiris.com
 mobiltakipciyiz.com
 mobiltakipuygulamasi.online
 mobiltalep.com
+mobiltalep.xyz
 mobiltarifeleri.com
 mobilteknolojim.com
 mobiltemmuzkampanyasibasvurusubugece.monster
@@ -354301,6 +354311,8 @@ toki.turkiye-basvuru.com
 toki.yapiyoruzbuisi.xyz
 toki2025-2025yeni.blogspot.com
 toki2025sonbasvuru.mooo.com
+toki500konutbasvuru.sbs
+toki600konutbasvuru.sbs
 toki7.lightchord.cfd
 tokial500binprojebasvuruekrani.com
 tokibasladi.com.tr
@@ -415802,6 +415814,7 @@ ziraatxxkreddi.info
 ziraatxxkreddiiisci.info
 ziraatxxkredii.xyz
 ziraatyakit.com
+ziraatyaninda.cfd
 ziraatyaninda.com.tr
 ziraatyaninda.tk
 ziraatyazkacirilmazfirsat.tk
