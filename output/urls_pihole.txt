@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-25 12:14:19 UTC
-# Toplam: 417375 Domain
+# Son Güncelleme: 2025-10-25 13:15:10 UTC
+# Toplam: 417386 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9752,6 +9752,7 @@
 28178898566.ru.com
 28178898566.sa.com
 281fd08510c5362b045ab151b9164e64.us
+2820772632.cloud
 28218.xc.41gw.com
 28282835456.cloud
 28292.xyz
@@ -58870,6 +58871,7 @@ basvurunuztrbnncrs.online
 basvurunuzu-buradan-yapin.cyou
 basvurunuzu-buradan-yapin.icu
 basvurunuzunhazir.com
+basvurunuzutamamlayalim.net
 basvurunuzutamamlayin.site
 basvurunworldyapikredi.com
 basvurunyapi-kredi.com
@@ -146283,6 +146285,7 @@ fasizm34.com
 fasjkhgfwqhjk.net
 faskjfasjkjrkw21.xyz
 fasletorspi.icu
+fasliaf.click
 faslyewx.blogspot.com
 fasmtvhzl.tk
 fasoluvurdu.tk
@@ -168135,6 +168138,7 @@ gratis-tr.wikaba.com
 gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.fatibara.com
+gratis.from-ca.com
 gratis.from-il.com
 gratis.hookextender.com
 gratis.is-a-caterer.com
@@ -169976,6 +169980,7 @@ guncelguvenlibakiyesorgulama.ml
 guncelhaber.epizy.com
 guncelhaber.online
 guncelhaber.site
+guncelhaber2026.proxydns.com
 guncelhaberajansi.xyz
 guncelhabercilik.net
 guncelhaberler.club
@@ -171679,6 +171684,7 @@ guvenliiode-param-guvende.com
 guvenliiodemesahibinden.tk
 guvenliislem.duckdns.org
 guvenliislem.net
+guvenliislem.sbs
 guvenliislemmerkezi.cyou
 guvenlik-btc-turk.com
 guvenlik-cihazonay.xyz
@@ -222952,6 +222958,7 @@ kampanyazamani.shop
 kampanyazamani.site
 kampanyazamani.xyz
 kampanyazamanibuguneozel.tk
+kampanyazamanihemenal.site
 kampanyazamanikasimda.online
 kampanyazamanim.net
 kampanyazamanimiziraat.tk
@@ -246422,6 +246429,7 @@ markettefirsatlar.com
 markettegibutunbuyukindirimlerinarkasi.cfd
 markettegordumsepeteattimsonra.top
 markettekiaktifurunfirsatlarianaliz.cfd
+markettekibutunfirsatlarianlikizle.cfd
 markettekikutularinarkasindakifiyat.cfd
 markettekiurunlerinyarisifiyatina.cfd
 markettemmuz.xyz
@@ -345695,6 +345703,7 @@ tam-simdi-sirasi.com
 tam-sirasi-simdi.com
 tam-suanda-burada.shop
 tam-zamani-com-tr.sbs
+tam-zamani-su-siralar.cyou
 tamadasesaas.ltd
 tamafadadestek.com
 tamam-onay.xyz
@@ -354477,6 +354486,7 @@ tokisitelerimiz.b-cdn.net
 tokislem.com
 tokisosyalbasvuru.net
 tokisosyalbasvurularim.vercel.app
+tokisosyalbasvurularin.vercel.app
 tokisosyalkonutbasvuru.net
 tokisosyalkonutlar.com
 tokisosyalkonutlar.sa.com
@@ -415596,6 +415606,7 @@ ziraatonline-sube.com
 ziraatonline-tk.ml
 ziraatonline-tr.com
 ziraatonline-yilbasi.com
+ziraatonline.cfd
 ziraatonline.net
 ziraatonline.org
 ziraatonline.site
