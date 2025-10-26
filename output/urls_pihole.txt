@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-26 08:11:19 UTC
-# Toplam: 417453 Domain
+# Son Güncelleme: 2025-10-26 09:08:09 UTC
+# Toplam: 417469 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14342,6 +14342,7 @@
 500konut-bsrv.click
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konutprojesi.lol
 500prbhediye.taplink.ws
 500tl-pandemi-destek.com
 500tl-yukle-finansbank.com
@@ -43645,6 +43646,7 @@ aninda-acikdenizkredihemenbasvurgelsin.click
 aninda-acikdenizkredihemenbasvurgelsin.fun
 aninda-acikdenizkredihemenbasvurgelsin.site
 aninda-arackiralama.com
+aninda-basvur.duckdns.org
 aninda-basvuru-yap.co.uk
 aninda-etkinlik.com
 aninda-hgsyukleme.onrender.com
@@ -88191,6 +88193,7 @@ cashconsultconsult.info
 cashcryptivestmy.info
 casher777soft.pw
 cashflow-central.com
+cashflowhayata.duckdns.org
 cashforjunkcartampa.com
 cashforyousa.co.za
 cashieralienation.top
@@ -114260,6 +114263,7 @@ dijital-bankacilik.com
 dijital-basvur.xyz
 dijital-basvuru-islemi.click
 dijital-basvuru.com
+dijital-basvurum.blogdns.org
 dijital-bildirim-kanali.xyz
 dijital-birlik.org
 dijital-denizbank.com
@@ -174185,6 +174189,7 @@ haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
 haftalikodemem.net
 haftaliktanitim.com.tr
+haftalikurunincelemeleriveindirimleri.cfd
 haftalikurunler.duckdns.org
 haftalikurunlerimiz.duckdns.org
 haftalkurunlr.xyz
@@ -188222,6 +188227,7 @@ hilfecenter-direkt.info
 hilfegv.com
 hilfulfudulvakfi.org
 hilifetimes.xyz
+hilikonutbasvurularinirtamamlar.cloud
 hilipizie.hopto.org
 hilkatturizm.com
 hillalala.com
@@ -230387,6 +230393,7 @@ kmasxnsxanwer.click
 kmavotohizligecisode.xyz
 kmbaksende.online
 kmbgfgbf.shop
+kmbilgiburdaogren.cfd
 kmbilgilendirme.cfd
 kmbjjpqnbgxjfmh.ru
 kmbnbnv.shop
@@ -232010,6 +232017,7 @@ konutgunceldestekhatti.com
 konutislembasvurularislem.net
 konutislemler.net
 konutislemlerihizlica.com
+konutkampanya.click
 konutkapisi.org
 konutkredisihesaplamalari.blogspot.com
 konutlarsite.com
@@ -336149,6 +336157,7 @@ sosyalkonutlarabasvur.net
 sosyalkonutlarin.click
 sosyalkonutproje.net
 sosyalkonutprojeilkevimm.blogspot.com
+sosyalkonutprojesi.hizlibsavuruolusturma.cloud
 sosyalkonutprojesi.net
 sosyalkonutprojesindeyerinizialin.shop
 sosyalkonuts.sbs
@@ -354374,6 +354383,7 @@ tokibasvuruguncel.net
 tokibasvuruislemi.com
 tokibasvuruislemleri.com
 tokibasvurular.vercel.app
+tokibasvurular.xyz
 tokibasvurularcomtrs.blogspot.com
 tokibasvurularhxzlica.online
 tokibasvurulari.blogspot.com
@@ -354397,6 +354407,7 @@ tokibasvurum.org
 tokibasvurum.xyz
 tokibasvurumerkez.store
 tokibasvurumm.net
+tokibasvurumutamamla.online
 tokibasvurumuyapiyorum.b-cdn.net
 tokibasvurunuz.click
 tokibasvurunuzonline.click
@@ -354404,6 +354415,7 @@ tokibasvuruonline.com
 tokibasvurusorgu.tk
 tokibasvurusu.info
 tokibasvurusu.online
+tokibasvurusu.org
 tokibasvurusubizimleancak.blogspot.com
 tokibasvurusuedevlet-2137d.kxcdn.com
 tokibasvurusuyap.com
@@ -354473,6 +354485,7 @@ tokikonut.org
 tokikonutal500binbasvuruekrani.com
 tokikonutbaskanligi.org
 tokikonutbasvulari.com
+tokikonutbasvur.xyz
 tokikonutbasvuru.gq
 tokikonutbasvurular.vercel.app
 tokikonutbasvurulari.cloud
@@ -354526,6 +354539,7 @@ tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipislemleri.click
 tokiproje.com
+tokiprojesi.com
 tokisahibiol.com
 tokisatisedevlet-2137d.kxcdn.com
 tokisbasvuru9.blogspot.com
@@ -354557,6 +354571,7 @@ tokitoplukntlri.com
 tokiturkiyebasvuru.com
 tokivbasvurulari.blogspot.com
 tokixleregelinbizimle.blogspot.com
+tokiyebasvur.xyz
 tokiyebasvuruyap.com
 tokj.kcrmsalhszmt.shop
 tokjbassvuru.click
@@ -393375,6 +393390,7 @@ www-tojs-pak-ettt12.blogspot.com
 www-toki-basvur-gov-tr.com
 www-toki-basvur-gov-tr.xyz
 www-toki-gov-tr.blogspot.com
+www-toki-gov-tr.cloud
 www-toki-gov-tr.com
 www-toki-gov-tr.sa.com
 www-torproject.top
