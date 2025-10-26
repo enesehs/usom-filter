@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-26 15:08:16 UTC
-# Toplam: 417501 Domain
+# Son Güncelleme: 2025-10-26 16:09:36 UTC
+# Toplam: 417512 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -52910,6 +52910,7 @@ aylikarackiralama.org
 aylikekpaket-turkcell.com
 aylikfatura.net
 aylikindieimlimagaza.com.tr
+aylikmarketbutcenizintekduzenleyicisi.cfd
 aylikpaket-turkcell.com
 aylikpaket.xyz
 ayliktarife-turkcell.com
@@ -58939,6 +58940,7 @@ basvuruparidestektr.com
 basvurupbdestek.com
 basvuruplartformu2.com
 basvuruplartformu3.com
+basvuruportal-toki.com
 basvuruportali.blogspot.com
 basvuruportaliercan.com
 basvuruportaliercanvv.com
@@ -79778,6 +79780,7 @@ bosugras.xyz
 bosugraslarbos.blogspot.com
 bosunadenemeyin.cfd
 bosunadeniyosunuzanlayinartik.cfd
+bosx100xkxdmdxmmdxmd.fund
 bosxlfw.com
 bosyd.com
 bosyqxpjuz.duckdns.org
@@ -134224,6 +134227,7 @@ eklmtermosfirlrsatlri.com
 eklmtermosflrsatlarl.com
 eklmtermosflrsatlarl.duckdns.org
 eklmtermosflrsatlndirlmi.com
+eklmtermosflrsatlndirlmi.duckdns.org
 eklmtermosflrstaerlar.com
 eklmtermosflrstalri.com
 eklmtermosflrstalrl.com
@@ -189205,6 +189209,7 @@ hizlibursum.net
 hizlibuzdolabisiparisi.xyz
 hizlibvsvr.net
 hizlica-al-senesonu.shop
+hizlica-arasim-kapinda.com
 hizlica-arasssbeyy-kargo-kapinda.com
 hizlica-betibet-kargo-kapinda.com
 hizlica-islem-yap.online
@@ -303075,6 +303080,7 @@ quantumdynamics.top
 quantumfllare.com
 quantumglide.org
 quantumhalo.website
+quantumhatch.sbs
 quantumleapinnovate.com
 quantumlighthouse.top
 quantummyself.top
@@ -342838,6 +342844,7 @@ superfirsatlarinhaftasi.online
 superfirsatlarinhaftasi.xyz
 superfirstlardasin.com
 superfit.name.tr
+superfiyat.cfd
 superfluouscritic.top
 superfluousranch.top
 superfluousrandom.top
@@ -354515,6 +354522,7 @@ tokikonutbasvurulari.com
 tokikonutbasvurularim.vercel.app
 tokikonutbasvurum.com
 tokikonutbasvurun.com
+tokikonutbasvuruonline.duckdns.org
 tokikonutbasvurus.rf.gd
 tokikonutbasvurusu.blogspot.com
 tokikonutbasvurusu.com
@@ -354563,6 +354571,7 @@ tokionlinebasvuruun.net
 tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipislemleri.click
+tokiportalhub.digital
 tokiproje.com
 tokiprojesi.com
 tokisahibiol.com
@@ -393417,6 +393426,7 @@ www-togg-com-tr-1.blogspot.com
 www-tojs-pak-ettt12.blogspot.com
 www-toki-basvur-gov-tr.com
 www-toki-basvur-gov-tr.xyz
+www-toki-basvuru-gov-tr.com
 www-toki-gov-tr.blogspot.com
 www-toki-gov-tr.cloud
 www-toki-gov-tr.com
@@ -414292,6 +414302,7 @@ ziraat-basvur-online.vercel.app
 ziraat-basvur.top
 ziraat-basvuru-com-tr.cfd
 ziraat-basvuru-com.cfd
+ziraat-basvuru.sbs
 ziraat-basvuruekranim.com
 ziraat-basvuruonline.vercel.app
 ziraat-bayram-hediyesi.net
