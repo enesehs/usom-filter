@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-26 10:08:29 UTC
-! Total: 332565 rules
+! Last modified: 2025-10-26 11:01:44 UTC
+! Total: 332566 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9420,6 +9420,7 @@
 *://*.500konut-bsrv.bond/*
 *://*.500konut-bsrv.cfd/*
 *://*.500konut-bsrv.click/*
+*://*.500konut-bsrv.homes/*
 *://*.500konut-bsrv.lol/*
 *://*.500konut-bsrv.sbs/*
 *://*.500konutprojesi.lol/*
