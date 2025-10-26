@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-26 18:11:30 UTC
-# Toplam: 417529 Domain
+# Son Güncelleme: 2025-10-26 19:01:47 UTC
+# Toplam: 417537 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9338,6 +9338,7 @@
 250bintoplukonut.com
 250bintoplukonut.xyz
 250bintoplukonutbasvurusu.com
+250bintoplukonutproje.com
 250bintoplukonutprojesi.com
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
@@ -11774,6 +11775,7 @@
 36716.url.7wkw.com
 36718.url.xrzzk.com
 36719.7c2c.876soft.com
+3672792732.cloud
 36733.url.7wkw.com
 36740.7c2c.966soft.com
 36743.7c2c.chouchuai.com
@@ -74817,6 +74819,7 @@ bllqqkfm.duckdns.org
 blltly.com
 bllxmcelhayat.com
 bllzmlklycmm.com
+bllzzzhllzzlgcssllerr.giize.com
 blm-cell-kampanya.com
 blm-cell-kampanyalar.gq
 blm-celll.com
@@ -91788,6 +91791,7 @@ charmingflirt.top
 charmingmanuscript.top
 charmmarble.top
 charmonick2link.website
+charnakola.com
 charonx.fun
 charonx.pro
 chart-metric-servicr.com
@@ -211265,6 +211269,7 @@ istanbulyuklemexsfs.com
 istanbulyuklesen.net
 istanbulyxklemeeee.com
 istanbulzuah.online
+istanbunlu8.click
 istanbus.net
 istanbuslastar.click
 istanbuslda.net
@@ -290895,6 +290900,7 @@ plnkvavxv.net
 plnkvavxvx.net
 plnpzbwsk.duckdns.org
 plnv.top
+plnylncrf.cfd
 plo.antropoledia.info
 plobbfgg.vercel.app
 plocafasc.vercel.app
@@ -313020,6 +313026,7 @@ sadecebos.com
 sadecebufirsatlaraozel.com.tr
 sadecebufirsatlaritakipet.online
 sadecebuguneozel.site
+sadecebuguneozelenbuyukalisverissoku.cfd
 sadecebuguneozelfirsat.site
 sadecebuguneozelfirsatibance.tech
 sadecebuguneozelkampanya.online
@@ -354642,6 +354649,7 @@ toknowall.com
 toko-3.vip
 tokobundo.my.id
 tokonutlar.com.tr
+tokonutlarimiz.com.tr
 tokonutlarimiz.xyz
 toksbasvrshuzky.site
 toksiqortacim.com.tr
