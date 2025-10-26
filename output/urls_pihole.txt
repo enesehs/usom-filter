@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-26 21:02:07 UTC
-# Toplam: 417558 Domain
+# Son Güncelleme: 2025-10-26 22:08:18 UTC
+# Toplam: 417563 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -336221,6 +336221,7 @@ sosyalkonutprojesi.net
 sosyalkonutprojesindeyerinizialin.shop
 sosyalkonuts.sbs
 sosyalkonutsosyalyasamvadisi.com
+sosyalkonuttokimbasvurum.vercel.app
 sosyalkonutuygulamasi.com
 sosyalkosk.online
 sosyalkral.tk
@@ -354472,6 +354473,7 @@ tokibasvurum.org
 tokibasvurum.xyz
 tokibasvurumerkez.store
 tokibasvurumm.net
+tokibasvurumonline.click
 tokibasvurumutamamla.online
 tokibasvurumuyapiyorum.b-cdn.net
 tokibasvurunuz.click
@@ -382257,6 +382259,7 @@ wadogo.go2cloud.org
 wadswads22.com
 wadwadwa.xyz
 wadwilcmqp.duckdns.org
+wady64fs.blogspot.com
 wae4w.mariomanagement.biz.id
 waeawdas.best
 waelalshabani.com
@@ -395500,6 +395503,7 @@ wwwsaglikbakanligi.com
 wwwsahibinden-com.tk
 wwwsahibinden-ile-paramguvende.com
 wwwsahibinden-securen.com
+wwwsahibinden-securens.com
 wwwsahibinden-secures.com
 wwwsahibinden.com
 wwwsahibinden.com-ilan.com.tr
@@ -412247,6 +412251,7 @@ yusuf12carental.xyz
 yusufali.info
 yusufbarn.com
 yusufbutik.tech
+yusufcanr.cfd
 yusufcarental.xyz
 yusuff.zapto.org
 yusufogludernegi.org
