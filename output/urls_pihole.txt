@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-26 17:01:57 UTC
-# Toplam: 417524 Domain
+# Son Güncelleme: 2025-10-26 18:11:30 UTC
+# Toplam: 417529 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14667,6 +14667,7 @@
 534158753.istanbul
 53423.cloud
 5342643423234234.com
+534324.vercel.app
 53434342-234234003.online
 534389874.corolain.ru
 5343982232.cloud
@@ -142863,6 +142864,7 @@ evjrdkrskgrj.net
 evjrht.com
 evkamlaskvrdi.net
 evkasdqwda.net
+evkazanci.click
 evkdncdksk.net
 evkecmkaiz.net
 evklrdbsvrklr.net
@@ -354363,6 +354365,7 @@ toki-gov-tr.ml
 toki-gov-tr.tk
 toki-konut-basvuru.com
 toki-konutlar.sbs
+toki-konutlari-basvuru.best
 toki-konutlari.sbs
 toki-projeleri.com
 toki-turkiye.com
@@ -354580,6 +354583,7 @@ tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
 tokionlineodeme.com.tr
 tokip-islemleri.click
+tokipagecloud.org
 tokipislemleri.click
 tokiportalhub.digital
 tokiproje.com
@@ -356280,6 +356284,7 @@ tr-garenta.net
 tr-garenta.org
 tr-garentaonline.com
 tr-gateio.com
+tr-get-guvenli-odeme.online
 tr-get-ilanlar.com
 tr-get-ilanlarim.com
 tr-get-secure.online
