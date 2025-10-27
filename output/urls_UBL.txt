@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-27 12:23:34 UTC
-! Total: 332834 rules
+! Last modified: 2025-10-27 13:24:45 UTC
+! Total: 332857 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -51600,6 +51600,7 @@
 *://*.binancetr.sbs/*
 *://*.binancetr2yilfiirsatlari.ml/*
 *://*.binancetr2yilozel.ml/*
+*://*.binancetrapp.sbs/*
 *://*.binancetrbasvuru.net/*
 *://*.binancetrcom.org/*
 *://*.binancetrcozum.com/*
@@ -51623,6 +51624,8 @@
 *://*.binancetrmobilgirissubesi.ml/*
 *://*.binancetrmobilgirissubesi.tk/*
 *://*.binancetrnet.com/*
+*://*.binancetrplus.sbs/*
+*://*.binancetrpro.sbs/*
 *://*.binancetrsonbaharhediyeleri.ml/*
 *://*.binancetrustsupport.top/*
 *://*.binancetryenihediyeler.ml/*
@@ -76863,6 +76866,7 @@
 *://*.crffrsasbbtbrda.com/*
 *://*.crffrsatlarii.xyz/*
 *://*.crffrsdngelcklr.com/*
+*://*.crfhella.cfd/*
 *://*.crfkmnyav21.online/*
 *://*.crfnzaygnzda.com/*
 *://*.crfonlineozeller.online/*
@@ -79788,6 +79792,7 @@
 *://*.davasorgusu.com/*
 *://*.davasorgusu.online/*
 *://*.davasorgusuceza.com/*
+*://*.davasorgutc.net/*
 *://*.davauzlas.com/*
 *://*.davauzlasma.com/*
 *://*.davauzlasmalari.com/*
@@ -89100,6 +89105,7 @@
 *://*.dijitalhgsyuklemes.net/*
 *://*.dijitalhizli-denizacik.com/*
 *://*.dijitalhizli-ziraatmobil.com/*
+*://*.dijitalhizli-ziraatwebkampanya.sbs/*
 *://*.dijitalhizligiris-denizacik.com/*
 *://*.dijitalhizligiris-ziraatmobil.com/*
 *://*.dijitalhizligiris-ziraatweb.sbs/*
@@ -94526,6 +94532,7 @@
 *://*.e-bayramikramiyesi-gov-tr-com.ga/*
 *://*.e-bayrampandemidestekal.com/*
 *://*.e-bbasvuru-formiade-edevlet.com/*
+*://*.e-bbwamenugirisllemonllinem.com/*
 *://*.e-bddk.cf/*
 *://*.e-bddk.com/*
 *://*.e-bddk.ml/*
@@ -118737,6 +118744,7 @@
 *://*.firmalarimibizeistermi.space/*
 *://*.firmalarimizinfirsatlaridele.space/*
 *://*.firmalarinizialin.buzz/*
+*://*.firmandoo.com/*
 *://*.firmdevelop.top/*
 *://*.firmlavish.top/*
 *://*.firmma4lari.click/*
@@ -118772,6 +118780,7 @@
 *://*.firsaatsigorta.site/*
 *://*.firsaatsokbavul.com/*
 *://*.firsaatt-kasllm-101.com/*
+*://*.firsadaasdsadaaruar.cfd/*
 *://*.firsadadadaatlaruar.cfd/*
 *://*.firsalarsizlerlednzkatil.xyz/*
 *://*.firsaltrtlarhepbizimle.net/*
@@ -152628,6 +152637,7 @@
 *://*.hizlikontrol.net/*
 *://*.hizlikonutbasvurulari.cloud/*
 *://*.hizlikonutbasvurusuolustur.cloud/*
+*://*.hizlikonutbasvurusutamamlama.cloud/*
 *://*.hizlikopekgecisteeebaligi.shop/*
 *://*.hizlikosarsanherseybeless.net/*
 *://*.hizlikqmodemeler1.xyz/*
@@ -154288,6 +154298,7 @@
 *://*.hokkoriidol.com/*
 *://*.hokustiverglodit.net/*
 *://*.hol.es/*
+*://*.holapor67.top/*
 *://*.holarty.com/*
 *://*.holasifirsatgirisim.com/*
 *://*.holast.xyz/*
@@ -182953,6 +182964,7 @@
 *://*.katilim-hayatevesigar.com/*
 *://*.katilim-qnbfinansbankasisube.com/*
 *://*.katilim-subemiz.com/*
+*://*.katilim-tokidenbasvuru.click/*
 *://*.katilim-web.one/*
 *://*.katilim-yapikredi.com/*
 *://*.katilimadakuveytteturkum.info/*
@@ -186365,6 +186377,7 @@
 *://*.klni.tr/*
 *://*.klnipzvegniorsajdr.net/*
 *://*.klnjsfkhjasfabfa432321.space/*
+*://*.klocinski.com/*
 *://*.klockm8.com/*
 *://*.klocpdqc7n.ru/*
 *://*.klofrox.net/*
@@ -196221,6 +196234,7 @@
 *://*.magaaazafirsatmarketleri.com/*
 *://*.magaaza-sok.com.tr/*
 *://*.maganomojer.eu/*
+*://*.magaupopup.com/*
 *://*.magaza-a101.online/*
 *://*.magaza-com-tr.sbs/*
 *://*.magaza-familia.com.tr/*
@@ -200600,6 +200614,7 @@
 *://*.menoferden.com/*
 *://*.menoferden2.tk/*
 *://*.menoferden23.ml/*
+*://*.menoktade.com/*
 *://*.menorukis.su/*
 *://*.menosita.top/*
 *://*.menosmeno.best/*
@@ -209325,6 +209340,7 @@
 *://*.mxiyz.com/*
 *://*.mxkg2.ru/*
 *://*.mxkslmjr.net/*
+*://*.mxlifts.com/*
 *://*.mxmmmxmxm.com/*
 *://*.mxmmtvpazar.com/*
 *://*.mxmxmxmx.online/*
@@ -246211,6 +246227,7 @@
 *://*.regruhosting.ru/*
 *://*.regruven.de/*
 *://*.regs-adnocae.com/*
+*://*.regsvchst.com/*
 *://*.regsways.top/*
 *://*.regtech.sbs/*
 *://*.regularhours.net/*
@@ -268948,6 +268965,7 @@
 *://*.splanchnolith.com/*
 *://*.splashmanifestation.top/*
 *://*.splashstoreofficial.com/*
+*://*.splashweb.lat/*
 *://*.splean-tickets.com/*
 *://*.splendidelaborately.top/*
 *://*.splendidreign.top/*
@@ -270471,6 +270489,7 @@
 *://*.stanley666superindirimgelidibrddd.com/*
 *://*.stanley666superindirimgelirrrrr.com/*
 *://*.stanleyalidnkacrma666dann.com/*
+*://*.stanleyawake.xyz/*
 *://*.stanleyburdagel.xyz/*
 *://*.stanleyburdauygun.site/*
 *://*.stanleyclassicc.vip/*
@@ -282881,6 +282900,7 @@
 *://*.tokibasvuru.xyz/*
 *://*.tokibasvurubasladi.net/*
 *://*.tokibasvuruguncel.net/*
+*://*.tokibasvuruislem.click/*
 *://*.tokibasvuruislemi.com/*
 *://*.tokibasvuruislemleri.com/*
 *://*.tokibasvurular.xyz/*
@@ -302342,6 +302362,7 @@
 *://*.vermgiode.net/*
 *://*.vermiclexkser.life/*
 *://*.verminlike.com/*
+*://*.vermintop.com/*
 *://*.verniga.pics/*
 *://*.verniga.xyz/*
 *://*.vernonmgir.pw/*
@@ -303018,6 +303039,7 @@
 *://*.viniramos.com/*
 *://*.vinking.top/*
 *://*.vinklerm.com/*
+*://*.vinloud.com/*
 *://*.vinneydropmodorfosius.net/*
 *://*.vinnov-vakfbreysel.cfd/*
 *://*.vinnov-vakfbreysel.click/*
@@ -309033,6 +309055,7 @@
 *://*.wishsends.mobi/*
 *://*.wishwoodenfish.com/*
 *://*.wiskundebijles.nu/*
+*://*.wisleyd.com/*
 *://*.wispields.ml/*
 *://*.wistech.biz/*
 *://*.witallocate.cn/*

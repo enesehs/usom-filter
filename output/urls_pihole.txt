@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-27 12:23:34 UTC
-# Toplam: 417775 Domain
+# Son Güncelleme: 2025-10-27 13:24:45 UTC
+# Toplam: 417803 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -35444,6 +35444,7 @@ ak.tknxg.cf
 ak0sigorta.com
 ak1-1-1-1-1s-ss-s-s-s.sbs
 ak1nc.is-best.net
+ak2.my-homeip.com
 ak2024-10-18-2024-2135878.com
 ak2024-4567890567807892678.online
 ak2024-ozel2122-2024ceklis-var.com
@@ -69480,6 +69481,7 @@ binancetr2yilfiirsatlari.ml
 binancetr2yilozel.ml
 binancetr3.duckdns.org
 binancetrahermen.vercel.app
+binancetrapp.sbs
 binancetrbasvuru.net
 binancetrboundddsher.vercel.app
 binancetrboundstsqher.vercel.app
@@ -69540,7 +69542,9 @@ binancetrmobilgirissubesi.gq
 binancetrmobilgirissubesi.ml
 binancetrmobilgirissubesi.tk
 binancetrnet.com
+binancetrplus.sbs
 binancetrportleeand.vercel.app
+binancetrpro.sbs
 binancetrrewarddbentley.vercel.app
 binancetrrewardebentley.vercel.app
 binancetrrewardjbentley.vercel.app
@@ -96942,6 +96946,7 @@ commoditycelebrity.top
 common-au-weallth.online-login-digital-mobile.com
 common-weallth-au.online-web-login-mobile.com
 commoncrunch.top
+commondatastorage.googleapis.com
 commoninteresting.click
 commonlifestyle.online
 commonline.space
@@ -100136,6 +100141,7 @@ crfffscdncrfdsyahmnal.com
 crffrsasbbtbrda.com
 crffrsatlarii.xyz
 crffrsdngelcklr.com
+crfhella.cfd
 crfkmnyav21.online
 crfnzaygnzda.com
 crfonlineozeller.online
@@ -104187,6 +104193,7 @@ davasorgumaliye.com
 davasorgusu.com
 davasorgusu.online
 davasorgusuceza.com
+davasorgutc.net
 davauzlas.com
 davauzlasma.com
 davauzlasmalari.com
@@ -114898,6 +114905,7 @@ dijitalhgsportal.sbs
 dijitalhgsyuklemes.net
 dijitalhizli-denizacik.com
 dijitalhizli-ziraatmobil.com
+dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatmobil.com
 dijitalhizligiris-ziraatweb.sbs
@@ -121695,6 +121703,7 @@ e-bayramikramiyesi-gov-tr-com.ga
 e-bayrampandemidestekal.com
 e-bays-24x7support-number.vercel.app
 e-bbasvuru-formiade-edevlet.com
+e-bbwamenugirisllemonllinem.com
 e-bddk.cf
 e-bddk.com
 e-bddk.ml
@@ -149735,6 +149744,7 @@ firmaguvencesi.com.tr
 firmalarimibizeistemi.space
 firmalarimizinfirsatlaridele.space
 firmalarinizialin.buzz
+firmandoo.com
 firmdevelop.top
 firmes777.duckdns.org
 firmlavish.top
@@ -149772,6 +149782,7 @@ firsaatsigorta.site
 firsaatsokbavul.com
 firsaatt-kasllm-101.com
 firsaattttmarketsokmarkeett.duckdns.org
+firsadaasdsadaaruar.cfd
 firsadadadaatlaruar.cfd
 firsakarcara.duckdns.org
 firsalarsizlerlednzkatil.xyz
@@ -189989,6 +190000,7 @@ hizlikontoryukleme.net
 hizlikontrol.net
 hizlikonutbasvurulari.cloud
 hizlikonutbasvurusuolustur.cloud
+hizlikonutbasvurusutamamlama.cloud
 hizlikopekgecisteeebaligi.shop
 hizlikosarsanherseybeless.net
 hizlikqmodemeler1.xyz
@@ -191983,6 +191995,7 @@ hokkoriidol.com
 hokogege-accosaurn37rw89adihuwb3rjn.duckdns.org
 hokustiverglodit.net
 hokxvbccrb.duckdns.org
+holapor67.top
 holarty.com
 holasifirsatgirisim.com
 holast.xyz
@@ -210976,6 +210989,7 @@ istanbulhaber.site
 istanbulharikasinya.online
 istanbulharikax.net
 istanbulhepimizin.net
+istanbulheryerde.myshopify.com
 istanbulhizliyiz.me
 istanbulhizmet.com
 istanbulhizmetlermbzurd.store
@@ -226021,6 +226035,7 @@ katilim-hayatevesigar.com
 katilim-qnbfinansbankasisube.com
 katilim-sonkampanya29.duckdns.org
 katilim-subemiz.com
+katilim-tokidenbasvuru.click
 katilim-web.one
 katilim-yapikredi.com
 katilimacikdenizv2denizbank.co.vu
@@ -230420,6 +230435,7 @@ klni.tr
 klnipzvegniorsajdr.net
 klnjsfkhjasfabfa432321.space
 klnsanbuisness.blogspot.com
+klocinski.com
 klockm8.com
 klocpdqc7n.ru
 klofrox.net
@@ -243765,6 +243781,7 @@ magalu-ultra4k.hopto.org
 magalumobile.hopto.org
 maganomojer.eu
 magarionhully.duckdns.org
+magaupopup.com
 magaza-a101.online
 magaza-carrafoursa.vercel.app
 magaza-com-tr.sbs
@@ -249522,6 +249539,7 @@ menodlap.com
 menoferden.com
 menoferden2.tk
 menoferden23.ml
+menoktade.com
 menoomegaaleacion.hopto.org
 menork2k2.ddns.net
 menorte.ddns.net
@@ -260432,6 +260450,7 @@ mxiyz.com
 mxjcs9q.duckdns.org
 mxjjihuuij.duckdns.org
 mxkslmjr.net
+mxlifts.com
 mxmmmxmxm.com
 mxmmtvpazar.com
 mxmxmxmx.online
@@ -307242,6 +307261,7 @@ regrettableskeptical.top
 regrettablestumble.top
 regretterminate.top
 regruven.de
+regsvchst.com
 regsways.top
 regtech.sbs
 regular.ptbaconsulting.com
@@ -315383,6 +315403,7 @@ sahibinden-web.com.tr
 sahibinden-x.com
 sahibinden.3dsistemi.com
 sahibinden.a-guvenli-alisveris.sa.com
+sahibinden.a-onlinealisveris.sa.com
 sahibinden.ad0-odeme.com
 sahibinden.ad1-odeme.com
 sahibinden.aguvende.com
@@ -337333,6 +337354,7 @@ spl-express.help
 splanchnolith.com
 splashmanifestation.top
 splashstoreofficial.com
+splashweb.lat
 splean-tickets.com
 splendidelaborately.top
 splendidreign.top
@@ -339405,6 +339427,7 @@ stanley499atermos.com
 stanley666superindirimgelidibrddd.com
 stanley666superindirimgelirrrrr.com
 stanleyalidnkacrma666dann.com
+stanleyawake.xyz
 stanleyburdagel.xyz
 stanleyburdauygun.site
 stanleyclassicc.vip
@@ -354615,6 +354638,7 @@ tokibasvuru.xyz
 tokibasvurubasladi.net
 tokibasvuruedevlet-20f08.kxcdn.com
 tokibasvuruguncel.net
+tokibasvuruislem.click
 tokibasvuruislemi.com
 tokibasvuruislemleri.com
 tokibasvurular.vercel.app
@@ -378331,6 +378355,7 @@ vermasterss.com
 vermgiode.net
 vermiclexkser.life
 verminlike.com
+vermintop.com
 verna.bpcardiocapture.com
 verniga.pics
 verniga.xyz
@@ -379198,6 +379223,7 @@ vinidauu.com
 viniramos.com
 vinking.top
 vinklerm.com
+vinloud.com
 vinnellarabia.myftp.org
 vinneydropmodorfosius.net
 vinngec.sg-host.com
@@ -385501,6 +385527,7 @@ website6581355.nicepage.io
 website6581364.nicepage.io
 website6581463.nicepage.io
 website6581519.nicepage.io
+website665s12.nicepage.io
 website665z22f.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
@@ -387677,6 +387704,7 @@ wishwoodenfish.com
 wiskundebijles.nu
 wislerwr.sg-host.com
 wislerwr1.sg-host.com
+wisleyd.com
 wislyytest.ddns.net
 wispields.ml
 wispy-field-a970.adumktsa.workers.dev
