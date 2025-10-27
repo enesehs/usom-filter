@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-27 19:01:47 UTC
-! Total: 332963 rules
+! Last modified: 2025-10-27 20:01:48 UTC
+! Total: 332973 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40877,6 +40877,7 @@
 *://*.basvurmzx.com.tr/*
 *://*.basvurmzx.xyz/*
 *://*.basvurnhs.com.tr/*
+*://*.basvurnhs.xyz/*
 *://*.basvurnmr.com.tr/*
 *://*.basvurnmr.cyou/*
 *://*.basvurnmr.xyz/*
@@ -63848,6 +63849,7 @@
 *://*.bunlarxenxiyisixndrmlrm.click/*
 *://*.bunlrsdcesnaozelolmli.shop/*
 *://*.bunninge.com/*
+*://*.bunnwave.com/*
 *://*.bunny19.com/*
 *://*.bunnydog.xyz/*
 *://*.bunq-app-nl.net/*
@@ -85843,6 +85845,7 @@
 *://*.departstationery.top/*
 *://*.departureauditor.top/*
 *://*.depasom.com/*
+*://*.depeek.store/*
 *://*.dependableempirical.top/*
 *://*.dependablegroan.top/*
 *://*.dependableslack.top/*
@@ -123016,6 +123019,7 @@
 *://*.frizend.com/*
 *://*.frjnqoksm.com/*
 *://*.frk-101-online-ozel.sbs/*
+*://*.frkbelasi.cfd/*
 *://*.frklf.cn/*
 *://*.frknonlinege.com/*
 *://*.frlathhadiigelseetmedensen.world/*
@@ -187802,6 +187806,7 @@
 *://*.korayaba.com/*
 *://*.korayhegese.com/*
 *://*.korayturk.com/*
+*://*.korbastudio.com/*
 *://*.korbenmarsden64575463.xyz/*
 *://*.korcanbabahizmetleri2024.shop/*
 *://*.kord23.com/*
@@ -206605,6 +206610,7 @@
 *://*.moxingdexiaoliang.top/*
 *://*.moy.su/*
 *://*.moyabelorussiya.by/*
+*://*.moybirs.com/*
 *://*.moydovv.com/*
 *://*.moyenezhaliyikamacises.site/*
 *://*.moysukalisoptamdurpes.tech/*
@@ -213848,6 +213854,7 @@
 *://*.nohfmeovkioqbft.ru/*
 *://*.nohooch.top/*
 *://*.noibmw.top/*
+*://*.noicegee.com/*
 *://*.noil.top/*
 *://*.noioalhiterto.top/*
 *://*.noip.me/*
@@ -213907,6 +213914,7 @@
 *://*.nolarbusektre.app/*
 *://*.nolcakbudosyalarhakimamca.online/*
 *://*.nolekans.top/*
+*://*.nolitko.tr/*
 *://*.nolovenolivethiiswarinworld.com/*
 *://*.nolpoast.online/*
 *://*.nolrfot.net/*
@@ -256840,6 +256848,7 @@
 *://*.sendegelkazankampanyasi.tech/*
 *://*.sendegell.net/*
 *://*.sendegelmabanaoppa.online/*
+*://*.sendegelsenolur.cfd/*
 *://*.sendegerikalma.com/*
 *://*.sendegetende.online/*
 *://*.sendegirkazan.com/*
@@ -315895,6 +315904,7 @@
 *://*.xemlakimxodemem.net/*
 *://*.xemlakvergimxodmx.net/*
 *://*.xenithix.com/*
+*://*.xentroum.com/*
 *://*.xenturai.com/*
 *://*.xeoghehofuuxo.su/*
 *://*.xeohgswl.com/*

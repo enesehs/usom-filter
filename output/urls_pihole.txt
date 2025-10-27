@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-27 19:01:47 UTC
-# Toplam: 418114 Domain
+# Son Güncelleme: 2025-10-27 20:01:48 UTC
+# Toplam: 418126 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57450,6 +57450,7 @@ basvurmz.site
 basvurmzx.com.tr
 basvurmzx.xyz
 basvurnhs.com.tr
+basvurnhs.xyz
 basvurnmr.com.tr
 basvurnmr.cyou
 basvurnmr.xyz
@@ -83574,6 +83575,7 @@ bunlarxenxiyisixndrmlrm.click
 bunlrsdcesnaozelolmli.shop
 bunnea.duckdns.org
 bunninge.com
+bunnwave.com
 bunny19.com
 bunnydog.xyz
 bunq-app-nl.net
@@ -111168,6 +111170,7 @@ departstationery.top
 departureauditor.top
 depasom.com
 depbnlqtyb.duckdns.org
+depeek.store
 dependableempirical.top
 dependablegroan.top
 dependableslack.top
@@ -154895,6 +154898,7 @@ frjamqsphe.duckdns.org
 frjnqoksm.com
 frk-101-online-ozel.sbs
 frkarayoluhgsgecsode.duckdns.org
+frkbelasi.cfd
 frkbhqofda.duckdns.org
 frklf.cn
 frknonlinege.com
@@ -170118,6 +170122,7 @@ guncel-islemlerim-web-kredim.net
 guncel-islemozetleriile-guvendee.net
 guncel-kamudan-sikayetler.tk
 guncel-kmp-zmni.shop
+guncel-konut-basvurusu.blogdns.net
 guncel-kredi-firsatlari.net
 guncel-market-tr.site
 guncel-maxipuan-tr.space
@@ -232516,6 +232521,7 @@ koratyma.com
 korayaba.com
 korayhegese.arabamuayenesi.xyz
 korayhegese.com
+korbastudio.com
 korbenmarsden64575463.xyz
 korcanbabahizmetleri2024.shop
 kord23.com
@@ -257169,6 +257175,7 @@ moxiewave.online
 moxingdexiaoliang.top
 moxon.sa.com
 moyabelorussiya.by
+moybirs.com
 moydovv.com
 moyenezhaliyikamacises.site
 moyhoeagri.ddns.net
@@ -266899,6 +266906,7 @@ nohfmeovkioqbft.ru
 nohooch.top
 nohosst.ddns.net
 noibmw.top
+noicegee.com
 noideasinthere.hopto.org
 noihf46f.duckdns.org
 noioalhiterto.top
@@ -266978,6 +266986,7 @@ nolandsintl.com
 nolarbusektre.app
 nolcakbudosyalarhakimamca.online
 nolekans.top
+nolitko.tr
 nolm5q998.duckdns.org
 nolova.duckdns.org
 nolovenolivethiiswarinworld.com
@@ -323480,6 +323489,7 @@ sendegelkazan-brdakmpanyalarina.com
 sendegelkazankampanyasi.tech
 sendegell.net
 sendegelmabanaoppa.online
+sendegelsenolur.cfd
 sendegetende.online
 sendegirkazan.com
 sendegirsene.com
@@ -354897,6 +354907,7 @@ tokibasvuru-edevlet-girisyap.online
 tokibasvuru.apathe.net
 tokibasvuru.cyou
 tokibasvuru.info
+tokibasvuru.myvnc.com
 tokibasvuru.net
 tokibasvuru.online
 tokibasvuru.org
@@ -397189,6 +397200,7 @@ xenodochial-villani.18-219-65-232.plesk.page
 xenogdwxva.duckdns.org
 xenoncss.zapto.org
 xenosissexy.ddns.net
+xentroum.com
 xenturai.com
 xeo99ty.duckdns.org
 xeoghehofuuxo.su
