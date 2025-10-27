@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-27 13:24:45 UTC
-! Total: 332857 rules
+! Last modified: 2025-10-27 14:09:32 UTC
+! Total: 332896 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3329,6 +3329,7 @@
 *://*.155trpolisi155.online/*
 *://*.155yilimiz.tk/*
 *://*.156161961991.com/*
+*://*.156253-gemini.com/*
 *://*.1562587027.cfd/*
 *://*.156565226516565659909036580.xyz/*
 *://*.156565226516565659909036591.xyz/*
@@ -3339,6 +3340,7 @@
 *://*.1565897119856231989.buzz/*
 *://*.156667.site/*
 *://*.15694987156659811.net/*
+*://*.156953coinbase.com/*
 *://*.15698445616565132.net/*
 *://*.156986551165165516.net/*
 *://*.157-187-250-0.vip/*
@@ -3367,6 +3369,7 @@
 *://*.1581236656699856922311.net/*
 *://*.158123665669985692236.net/*
 *://*.15812366566998569322223.net/*
+*://*.158253-kraken.com/*
 *://*.158312-coinbase.com/*
 *://*.158372-coinbase.com/*
 *://*.15864251921546010.com.tr/*
@@ -3536,6 +3539,7 @@
 *://*.16712942-coinbase.com/*
 *://*.16718672-coinbase.com/*
 *://*.16720s.xyz/*
+*://*.167253-binance.com/*
 *://*.16728342-coinbase.com/*
 *://*.16728348-coinbase.com/*
 *://*.16728442-coinbase.com/*
@@ -3688,6 +3692,7 @@
 *://*.176981243862439360.xyz/*
 *://*.176981243862439380.com.tr/*
 *://*.176981243862439390.online/*
+*://*.177954coinbase.com/*
 *://*.178-1-1-7.com/*
 *://*.178-1-187-198.com/*
 *://*.178-125-134-3-1.cloud/*
@@ -4077,6 +4082,7 @@
 *://*.195-15-158-15-1.website/*
 *://*.195.214.165.188/*
 *://*.195.231.0.120/*
+*://*.195023-coinbase.com/*
 *://*.1952w4ddc.ru/*
 *://*.195312522680.online/*
 *://*.19572-coinbase.com/*
@@ -5774,6 +5780,7 @@
 *://*.2025ocakilkaykampanyalarinda.sbs/*
 *://*.2025primakovreadings.info/*
 *://*.2025s0rgu-yap.com/*
+*://*.2025sbsvrktoi.sbs/*
 *://*.2025senikampanya.top/*
 *://*.2025sghbsvbsvr.sbs/*
 *://*.2025sonfirsatlari.online/*
@@ -10874,6 +10881,7 @@
 *://*.72109.site/*
 *://*.7215445677-2025.xyz/*
 *://*.7223xg.cn/*
+*://*.7226119-coinbase.com/*
 *://*.7227376281638364.fyi/*
 *://*.723458266102183i4op84.icu/*
 *://*.72347235366342.com/*
@@ -11862,6 +11870,7 @@
 *://*.88376729009083892.site/*
 *://*.8841246.cfd/*
 *://*.884236246384736.cloud/*
+*://*.884394-coinbase.com/*
 *://*.8845-78899-78855-998965.site/*
 *://*.8847747747234230909.online/*
 *://*.8856558888.cloud/*
@@ -19556,6 +19565,7 @@
 *://*.adstat.red/*
 *://*.adstat477d.xyz/*
 *://*.adstreamly.online/*
+*://*.adsupport-google.com/*
 *://*.adsurfle.com/*
 *://*.adsurvey.tk/*
 *://*.adsv123.com/*
@@ -35717,6 +35727,7 @@
 *://*.aut-postqt.xin/*
 *://*.aut0deskk.com/*
 *://*.auth-203315.org/*
+*://*.auth-cb.com/*
 *://*.auth-commercial-bnc.cc/*
 *://*.auth-compline.cfd/*
 *://*.auth-updater45.info/*
@@ -40913,6 +40924,7 @@
 *://*.basvurrmyk.com.tr/*
 *://*.basvurrmyk.cyou/*
 *://*.basvurrmyk.xyz/*
+*://*.basvurrrprmsnynn.online/*
 *://*.basvurrrruuackmobilbireyselackkk.com/*
 *://*.basvurru-aidatiadenizform.com/*
 *://*.basvurru-eiadeform.com/*
@@ -51588,6 +51600,7 @@
 *://*.binanceteknolojiduyurukampanyasi.ml/*
 *://*.binanceteknolojiduyurukampanyasi.tk/*
 *://*.binanceterminal.site/*
+*://*.binancetickets.com/*
 *://*.binancetlr.com/*
 *://*.binancetlr.xyz/*
 *://*.binancetoggtrcekilisi-sizlereozel.cloud/*
@@ -58939,6 +58952,7 @@
 *://*.bnkclk-islemleri.com/*
 *://*.bnkingportal.cf/*
 *://*.bnkisa.shop/*
+*://*.bnkisalt.online/*
 *://*.bnkisalttr.com/*
 *://*.bnkmpnylrgiris.cloud/*
 *://*.bnkmrsylda.xyz/*
@@ -62191,6 +62205,7 @@
 *://*.bsvurumerkezire1.net/*
 *://*.bsvurunadevamet.site/*
 *://*.bsvurunadevmet.site/*
+*://*.bsvurunburada.net/*
 *://*.bsvurunburada.site/*
 *://*.bsvurundevamet.site/*
 *://*.bsvurutrduyurular.online/*
@@ -64541,6 +64556,7 @@
 *://*.bustxl.club/*
 *://*.bustylookingmistake.com/*
 *://*.busvruu50.click/*
+*://*.busvruu60.click/*
 *://*.busymarket.click/*
 *://*.busyreign.cn/*
 *://*.butanse.shop/*
@@ -73524,6 +73540,7 @@
 *://*.coinbase-bonus.com/*
 *://*.coinbase-bonus.net/*
 *://*.coinbase-btc-give.com/*
+*://*.coinbase-com.info/*
 *://*.coinbase-drop.com/*
 *://*.coinbase-gift.com/*
 *://*.coinbase-giveaway.online/*
@@ -74032,6 +74049,7 @@
 *://*.com-e-eurun.com.tr/*
 *://*.com-e-islem.com/*
 *://*.com-e-islemler.com.tr/*
+*://*.com-e-islemlerim.com.tr/*
 *://*.com-eislem.com.tr/*
 *://*.com-emea.top/*
 *://*.com-emzwepr.xin/*
@@ -86219,6 +86237,7 @@
 *://*.deskoftvturk.net/*
 *://*.deskpaypal.com/*
 *://*.desktecmexico.com/*
+*://*.desktickets-ssl.com/*
 *://*.desktop-app-download.com/*
 *://*.desktop-app-pc.com/*
 *://*.desktop-apps.com/*
@@ -88798,6 +88817,7 @@
 *://*.dijital-magaza-net.cf/*
 *://*.dijital-magaza-net.ga/*
 *://*.dijital-magaza-net.ml/*
+*://*.dijital-merkezi.sbs/*
 *://*.dijital-mobil-giris.ml/*
 *://*.dijital-mobil-giris.tk/*
 *://*.dijital-mobil-hizmet.online/*
@@ -132864,6 +132884,7 @@
 *://*.googlecode-card.cf/*
 *://*.googlecontinue.com/*
 *://*.googlecstorage.com/*
+*://*.googledesk-ssl.com/*
 *://*.googledoesnotknowabout.com/*
 *://*.googledovm.com/*
 *://*.googledovvm.com/*
@@ -146015,6 +146036,7 @@
 *://*.help-bitfinex.com/*
 *://*.help-center-support-teams.tk/*
 *://*.help-center-support.ml/*
+*://*.help-coinba.se/*
 *://*.help-confirm-application-forms.xyz/*
 *://*.help-copyright-appeal-centerr-form.tk/*
 *://*.help-copyright-help.cf/*
@@ -146766,6 +146788,7 @@
 *://*.hemenonlinebasvurdumfirsatimla.xyz/*
 *://*.hemenonlinebasvurundeniz.xyz/*
 *://*.hemenonlinekredi.online/*
+*://*.hemenonlniislem.net/*
 *://*.hemenotoarackiralama.com/*
 *://*.hemenotokiralama.online/*
 *://*.hemenozelbasvurubinnce.tech/*
@@ -161846,6 +161869,7 @@
 *://*.ilkevimprojesidanismanlik.com/*
 *://*.ilkevimsosyal.cfd/*
 *://*.ilkevimsosyalkonutprojesi.net/*
+*://*.ilkevimtokibasvuru.sbs/*
 *://*.ilkevkonultlkapi.com/*
 *://*.ilkevlerisattik.cfd/*
 *://*.ilkevm.com/*
@@ -209598,6 +209622,7 @@
 *://*.mycoceit.top/*
 *://*.mycoffeeshop.shop/*
 *://*.mycogentrading.com/*
+*://*.mycoinba.se/*
 *://*.mycomp.cyou/*
 *://*.myconnect-support.com/*
 *://*.mycopywriterpro.com/*
@@ -264185,6 +264210,7 @@
 *://*.skoltmkrkmckmzyfkymxc.org/*
 *://*.skopych.kiev.ua/*
 *://*.skoroviboriunas.info/*
+*://*.skoru-o-belirler.sbs/*
 *://*.skovia.com/*
 *://*.skozaibasp.xyz/*
 *://*.skqv.eu/*
@@ -270004,6 +270030,10 @@
 *://*.ssksads.net/*
 *://*.sskskllfklrmckzxmktmrmsmtr.store/*
 *://*.sskslfkmckmtkmrkmcktmrmlfll.store/*
+*://*.ssl-127-0-0-1-goo-gl.com/*
+*://*.ssl-4-4-192-1-g-o-o-g-l.com/*
+*://*.ssl-8-8-8-8-goo-gl.com/*
+*://*.ssl-8-8-9-8-goo-gl.com/*
 *://*.ssl-forward.services/*
 *://*.ssl-gstatic.online/*
 *://*.ssl-gstatic.xn--net-0da/*
@@ -270258,6 +270288,7 @@
 *://*.stafftest.ru/*
 *://*.staffveftsretce011.com/*
 *://*.staffvibration.top/*
+*://*.staffvirtual.website/*
 *://*.stage-tickets.com/*
 *://*.stagedchheiqwo.shop/*
 *://*.stagepsychiatrist.top/*
@@ -274131,6 +274162,7 @@
 *://*.swampmetropolitan.top/*
 *://*.swamppatronise.top/*
 *://*.swampprovide.top/*
+*://*.swan-btc.com/*
 *://*.swanndvr.net/*
 *://*.swapautonomous.top/*
 *://*.swapfavour.com/*
@@ -282865,6 +282897,8 @@
 *://*.toki-konutlari.sbs/*
 *://*.toki-projeleri.com/*
 *://*.toki-turkiye.com/*
+*://*.toki-turkiye.online/*
+*://*.toki-turkiye.site/*
 *://*.toki-yonlendirme.online/*
 *://*.toki-yuvam.click/*
 *://*.toki-yuvam.forum/*
@@ -282967,6 +283001,7 @@
 *://*.tokigovtr.com/*
 *://*.tokigovtr.tk/*
 *://*.tokigovtr1.ga/*
+*://*.tokihouse.digital/*
 *://*.tokihousingapplication.com/*
 *://*.tokii-basvuru.online/*
 *://*.tokiibasvuru.info/*
@@ -294304,6 +294339,7 @@
 *://*.ucretsiztwitterservisi.xyz/*
 *://*.ucretsizuyelikfirsatlari.com/*
 *://*.ucretsizvize.ml/*
+*://*.ucrffea.cfd/*
 *://*.ucrtl661266.store/*
 *://*.ucrtln6001206.online/*
 *://*.ucshgsm.com/*
@@ -325002,6 +325038,7 @@
 *://*.yenieventkampanya.net/*
 *://*.yenieventlerimizisorguladinizmi.net/*
 *://*.yenieventlerisorgulayin.net/*
+*://*.yenievim.click/*
 *://*.yenievlenenlere.link/*
 *://*.yenievlenenleredestek.xyz/*
 *://*.yenievlenenlerekredi.com/*
@@ -329330,6 +329367,7 @@
 *://*.z1raatgiris.cfd/*
 *://*.z1raatkampanyalari.cfd/*
 *://*.z1raatonline.cfd/*
+*://*.z1raatsongun.cfd/*
 *://*.z1raatsonislem.cfd/*
 *://*.z1raattemuzfirsati.com/*
 *://*.z1raatyaninda.cfd/*
@@ -330573,6 +330611,7 @@
 *://*.ziraat-ozel-kampanyasi.com/*
 *://*.ziraat-payment.sbs/*
 *://*.ziraat-ramazan-bireysel.com/*
+*://*.ziraat-sansini-dene.cfd/*
 *://*.ziraat-senlik-giris.com/*
 *://*.ziraat-sizinle.com/*
 *://*.ziraat-sonkampanya.tk/*
