@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-27 14:09:32 UTC
-! Total: 332896 rules
+! Last modified: 2025-10-27 15:10:01 UTC
+! Total: 332932 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2489,6 +2489,7 @@
 *://*.12679437658.top/*
 *://*.12694.cloud/*
 *://*.12724.xyz/*
+*://*.127253-ledger.com/*
 *://*.1273167823867.com/*
 *://*.127368.buzz/*
 *://*.127483127984312971891.cloud/*
@@ -3360,6 +3361,7 @@
 *://*.157.230.84.68/*
 *://*.157.230.86.42/*
 *://*.157.230.92.210/*
+*://*.157253-kucoin.com/*
 *://*.1572687668435aaaa.online/*
 *://*.158-858-97-55.cfd/*
 *://*.158.255.5.204/*
@@ -3692,6 +3694,7 @@
 *://*.176981243862439360.xyz/*
 *://*.176981243862439380.com.tr/*
 *://*.176981243862439390.online/*
+*://*.177253-coinbase.com/*
 *://*.177954coinbase.com/*
 *://*.178-1-1-7.com/*
 *://*.178-1-187-198.com/*
@@ -3820,6 +3823,7 @@
 *://*.182967-coinbase.com/*
 *://*.182marsbahis.tech/*
 *://*.1833.site/*
+*://*.1835304-coinbase.com/*
 *://*.18378219294848819119384.xyz/*
 *://*.1838472928474462.com/*
 *://*.184.154.150.66/*
@@ -3889,6 +3893,7 @@
 *://*.185.62.188.233/*
 *://*.185.62.190.191/*
 *://*.185.99.1.94/*
+*://*.185126-coinbase.com/*
 *://*.1852034587554865.com/*
 *://*.185205795612879100.com/*
 *://*.185205980612854480.com/*
@@ -3928,6 +3933,7 @@
 *://*.1870y4rr4y3d1k757673q.xyz/*
 *://*.18719562-coinbase.com/*
 *://*.18724512564712648724.shop/*
+*://*.187253-uphold.com/*
 *://*.1875290-coinbase.com/*
 *://*.187562345622.online/*
 *://*.18761434656378318963.com/*
@@ -3942,6 +3948,7 @@
 *://*.1882730-coinbase.com/*
 *://*.18902-coinbase.com/*
 *://*.18903-coinbase.com/*
+*://*.18912-coinbase.com/*
 *://*.189126-coinbase.com/*
 *://*.18952-coinbase.com/*
 *://*.1896257430.top/*
@@ -4094,6 +4101,7 @@
 *://*.19582970-coinbase.com/*
 *://*.19582971-coinbase.com/*
 *://*.19583-coinbase.com/*
+*://*.195834-coinbase.com/*
 *://*.19586048940590.link/*
 *://*.195860489405901000.com.tr/*
 *://*.195860489405901000.xyz/*
@@ -4259,6 +4267,7 @@
 *://*.197-7-8-1-172.shop/*
 *://*.1970-1934.net/*
 *://*.1970auto.net/*
+*://*.197253-trezor.io/*
 *://*.197254254172.site/*
 *://*.197304-coinbase.com/*
 *://*.19730492-coinbase.com/*
@@ -7016,6 +7025,7 @@
 *://*.278395671.cloud/*
 *://*.2793130-4310498.com/*
 *://*.279484.cloud/*
+*://*.27954383-coinbase.com/*
 *://*.27ank37.com/*
 *://*.27araliksizleakfirsatlarimiz.tr/*
 *://*.27araliksonindirim.xyz/*
@@ -7164,6 +7174,7 @@
 *://*.298-152-66-176.com/*
 *://*.2981264.cloud/*
 *://*.29817347839214789.com/*
+*://*.298193-coinbase.com/*
 *://*.29872.cloud/*
 *://*.299-91-21-1.cf/*
 *://*.299-91-21-1.ga/*
@@ -9538,6 +9549,7 @@
 *://*.51694725.cloud/*
 *://*.516prorenata.com/*
 *://*.51718141815trk.com.tr/*
+*://*.518256-coinbase.com/*
 *://*.51875871325.xyz/*
 *://*.51951951919951959195.cloud/*
 *://*.51asfds12s.xyz/*
@@ -11662,6 +11674,7 @@
 *://*.82375328-532.xyz/*
 *://*.823b4381739bh473.cfd/*
 *://*.823jkfs4829nk48kef742kj675.com/*
+*://*.824346-coinbase.com/*
 *://*.825498451568.cloud/*
 *://*.825t45p20oc9ge08.com/*
 *://*.825testsites.com/*
@@ -11726,6 +11739,7 @@
 *://*.8438com.com/*
 *://*.844106c92ac5210a.com/*
 *://*.84511253623153815356.com/*
+*://*.845223-ledger.com/*
 *://*.845342-34325.com/*
 *://*.8464536433.cloud/*
 *://*.846545646546645.space/*
@@ -11760,6 +11774,7 @@
 *://*.8523816.net/*
 *://*.853059134.cloud/*
 *://*.853121986558862.com/*
+*://*.853221-gmail.com/*
 *://*.85357212523.online/*
 *://*.85377997974464125988.com/*
 *://*.853c9e57.biz/*
@@ -42282,6 +42297,7 @@
 *://*.basvuruqnb-finans.com/*
 *://*.basvuruqnbfinans.com/*
 *://*.basvururandevu.nl/*
+*://*.basvururehberimtt.com/*
 *://*.basvururemsibnncetr.com/*
 *://*.basvururesmibncsgiris.com/*
 *://*.basvururesmibncstr.com/*
@@ -63205,6 +63221,7 @@
 *://*.bugundebizdeenguzelurnlersendebak.shop/*
 *://*.bugundeencokbunlargidermiszaten.shop/*
 *://*.bugundefrstlarimizdanfaydalaninhepiniz.shop/*
+*://*.bugundegelsendegorsen.sbs/*
 *://*.bugundemhaber.site/*
 *://*.bugundenizmevsimleri.online/*
 *://*.bugundenmutluaa.com/*
@@ -66829,6 +66846,7 @@
 *://*.cancanbonbon234.com/*
 *://*.cancandomaincuzdan.com/*
 *://*.cancase.top/*
+*://*.cancel-google.com/*
 *://*.cancelgasp.top/*
 *://*.cancellationbald.top/*
 *://*.cancellationfabulous.top/*
@@ -70150,6 +70168,7 @@
 *://*.ceptetlyuklemefirsatlari.com/*
 *://*.ceptetrfirsat.biz.tr/*
 *://*.ceptetrfirsat.net.tr/*
+*://*.ceptetrfirsat.org.tr/*
 *://*.ceptetrink.digital/*
 *://*.ceptettelekomlatanis.com/*
 *://*.cepteurunskhizmetler.com/*
@@ -113129,6 +113148,7 @@
 *://*.evdeyasamvar.com/*
 *://*.evdeyasamvar20gbozel.com/*
 *://*.evdeyasamvardiye10gbhediyemiz.com/*
+*://*.evdeyeni.click/*
 *://*.evdeyizturkiyem.com/*
 *://*.evdigitaliscepislemenu.online/*
 *://*.evdkaldiye.club/*
@@ -115929,6 +115949,7 @@
 *://*.fanfuld.com/*
 *://*.fanfuldaed.com/*
 *://*.fanhediyeparib.com/*
+*://*.fankkaoan.cfd/*
 *://*.fanmusic.xyz/*
 *://*.fannice.top/*
 *://*.fanningcpaz.com/*
@@ -129932,6 +129953,9 @@
 *://*.ggjmyngyqkdiaod.cn/*
 *://*.ggkaskocuteklif.com.tr/*
 *://*.ggkaskocuteklif.xyz/*
+*://*.ggl-desk-activity.com/*
+*://*.ggl-desk-archive.com/*
+*://*.ggl-desk-line.com/*
 *://*.gglhostingmo.ga/*
 *://*.gglhostingn.cf/*
 *://*.gglifbvpyfndilic.com/*
@@ -136927,6 +136951,7 @@
 *://*.guvenlie-ticaret.com/*
 *://*.guvenlieticareodemehizmetleri.com/*
 *://*.guvenlieticaret.com/*
+*://*.guvenlieticaret.online/*
 *://*.guvenlieticaretget.com/*
 *://*.guvenlieticaretodeme.com/*
 *://*.guvenlifaturaodeme.com/*
@@ -146104,6 +146129,7 @@
 *://*.helpdesk-apple.com/*
 *://*.helpdesk-eofficemanager.com/*
 *://*.helpdesk-gemini.com/*
+*://*.helpdesk-google.com/*
 *://*.helpdesk-icloud.com/*
 *://*.helpdesk-lab.site/*
 *://*.helpearthquake.com/*
@@ -183932,6 +183958,7 @@
 *://*.kefilsizbasvurumobilsiz.com/*
 *://*.kefilsizbasvuruplatformu.com/*
 *://*.kefogkorbefylk.com/*
+*://*.kegmgv.sbs/*
 *://*.kehlababafivem.net/*
 *://*.kehnntttkrtdlm.net/*
 *://*.kehoumpa.xyz/*
@@ -253192,6 +253219,7 @@
 *://*.salesonline2021.ru/*
 *://*.saletrendyol.com/*
 *://*.salevoo.xyz/*
+*://*.saleymanca.cfd/*
 *://*.salfirstmzlarmiz12351.com/*
 *://*.salgibmtxyx.net/*
 *://*.salgindesteginiz.ml/*
@@ -262920,6 +262948,7 @@
 *://*.siqgortaladim.online/*
 *://*.siqgqortateklifial.com.tr/*
 *://*.siqgqortateklifial.xyz/*
+*://*.siqkcser.cfd/*
 *://*.siqkmortam.com.tr/*
 *://*.siqkmortam.xyz/*
 *://*.siqkortam.site/*
@@ -270031,6 +270060,7 @@
 *://*.sskskllfklrmckzxmktmrmsmtr.store/*
 *://*.sskslfkmckmtkmrkmcktmrmlfll.store/*
 *://*.ssl-127-0-0-1-goo-gl.com/*
+*://*.ssl-192-168-29-122-goo-gl.com/*
 *://*.ssl-4-4-192-1-g-o-o-g-l.com/*
 *://*.ssl-8-8-8-8-goo-gl.com/*
 *://*.ssl-8-8-9-8-goo-gl.com/*
@@ -280476,6 +280506,7 @@
 *://*.thaihomewell.com/*
 *://*.thaipoliticstoday.com/*
 *://*.thaivilan.com/*
+*://*.thalassiansanctuary.com/*
 *://*.thalassophilous.com/*
 *://*.thalvire.com/*
 *://*.thammyvienanthea.com/*
@@ -282849,6 +282880,7 @@
 *://*.tokbasvrshz.online/*
 *://*.tokbasvur.online/*
 *://*.tokbasvuruform.com/*
+*://*.tokbasvurum.click/*
 *://*.tokbsvrla.com/*
 *://*.tokcanbungalov.com.tr/*
 *://*.tokcarsfilo.com/*
@@ -295569,6 +295601,7 @@
 *://*.unstowsd.com/*
 *://*.unstylizeddif.com/*
 *://*.unsustaining.com/*
+*://*.unsync-trezor.io/*
 *://*.untailorly.xyz/*
 *://*.untangcardio.com/*
 *://*.untc.me/*
@@ -314081,6 +314114,8 @@
 *://*.www-tmmuzfrsatay.com.tr/*
 *://*.www-tmmuzfrsatay.online/*
 *://*.www-tmmuzfrsatay.xyz/*
+*://*.www-toki-basvur-gov-tr.click/*
+*://*.www-toki-basvur-gov-tr.cloud/*
 *://*.www-toki-basvur-gov-tr.com/*
 *://*.www-toki-basvur-gov-tr.xyz/*
 *://*.www-toki-basvuru-gov-tr.click/*
@@ -329364,6 +329399,7 @@
 *://*.z1raat-com.cfd/*
 *://*.z1raat.sbs/*
 *://*.z1raat25ekim.cfd/*
+*://*.z1raat27ekim.cfd/*
 *://*.z1raatgiris.cfd/*
 *://*.z1raatkampanyalari.cfd/*
 *://*.z1raatonline.cfd/*
