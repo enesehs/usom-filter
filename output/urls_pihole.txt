@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-27 16:11:51 UTC
-# Toplam: 418087 Domain
+# Son Güncelleme: 2025-10-27 17:08:28 UTC
+# Toplam: 418100 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -36549,6 +36549,7 @@ akbrdaa.shop
 akbreklamaktif5.giize.com
 akbreklamaktif8.duckdns.org
 akbreysel.xyz
+akbrkr.com
 akbrslbsvurlar.com
 akbrsyslbsvuru.com
 akbryselbasvr.com
@@ -69607,6 +69608,7 @@ binancetrhediye.ml
 binancetrhediyeler.ml
 binancetrheyebnlt.vercel.app
 binancetrhshermen.vercel.app
+binancetrhub.sbs
 binancetrhztoaste.vercel.app
 binancetrjore.vercel.app
 binancetrkampanyagirisislemi2022.com
@@ -77348,6 +77350,7 @@ bnccseduyurutr.com
 bnccsektifgirisler.com
 bnccsgirisburda.com
 bnccsntrbsnnbsscnaceesngsetr.com
+bnccxsastrkygrs.icu
 bncddntr-turns7-wheel.cloud
 bncdedekcmzglalfrst.shop
 bncdestekbasvurutr.com
@@ -115040,6 +115043,7 @@ dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatmobil.com
 dijitalhizligiris-ziraatweb.sbs
+dijitalhizligiris-ziraatwebkampanya.sbs
 dijitalhizliislemler-denizacik.com
 dijitalhizliislemler.com
 dijitalhizliislemleriniz-denizacik.com
@@ -149571,6 +149575,7 @@ finansplus.online
 finansplus.world
 finansportali.online
 finansportalwebtr.com
+finanspulse.online
 finanspulseeurope.info
 finanspusulasi.org
 finansqnb-islemler.com
@@ -211676,6 +211681,7 @@ istbank.co.vu
 istbankhediye.ml
 istbas1.com
 istbasim.net
+istbasvru.istanbul
 istbayidenyukle.net
 istbb-original.net
 istbb.net
@@ -294461,6 +294467,7 @@ prmguvendesahipinden.store
 prmgvnde-onlinesatis.com
 prminfo.org
 prmkontrol.com
+prmooobsvrrr.online
 prmooqnbbkmpnyaa.click
 prmopromo.com
 prmossssynbsvrrr.click
@@ -310252,6 +310259,7 @@ rkiye.xyz
 rkksiqorm.com.tr
 rklemasq.shop
 rklmcysal.com
+rklmgiris.spnsrlutrynlndrlyrsnz.com
 rklmskqwevktm.shop
 rklmvktmaracam.shop
 rkn-redirect.net
@@ -354836,6 +354844,7 @@ toki-yonlendirme.online
 toki-yuvam.click
 toki-yuvam.forum
 toki.2024ocak-kampanyasi.vip
+toki.2025jtkibsvrsnikot.sbs
 toki.2025sghbsvbsvr.sbs
 toki.2025xjsbasvurunt-oki.xyz
 toki.a-basvr25.sbs
@@ -355003,6 +355012,7 @@ tokikonutbasvurular.vercel.app
 tokikonutbasvurulari.cloud
 tokikonutbasvurulari.com
 tokikonutbasvurularim.vercel.app
+tokikonutbasvurularin.vercel.app
 tokikonutbasvurum.com
 tokikonutbasvurun.com
 tokikonutbasvuruonline.duckdns.org
@@ -373487,6 +373497,7 @@ vakflayeniyilda.gq
 vakfltrgiris.ml
 vakfmbilgiris.tk
 vakfmbll-int-svbessi-webhizmtiml981.b-cdn.net
+vakfmobil-basvuru.click
 vakfmobilsubesizgiris.tk
 vakfmobl-web-sub-kampnylarizo183.b-cdn.net
 vakfnkacirlimayacaz.com
@@ -385793,6 +385804,7 @@ website6581463.nicepage.io
 website6581519.nicepage.io
 website665s12.nicepage.io
 website665z22f.nicepage.io
+website666454211.nicepage.io
 website66645621a.nicepage.io
 websitedesign.com.mm
 websitedesignhouston.com
@@ -413265,6 +413277,7 @@ z1raat-com.cfd
 z1raat.sbs
 z1raat25ekim.cfd
 z1raat27ekim.cfd
+z1raatbuyukkampanya.cfd
 z1raatgiris.cfd
 z1raatkampanyalari.cfd
 z1raatonline.cfd

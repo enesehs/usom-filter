@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-27 16:11:51 UTC
-! Total: 332941 rules
+! Last modified: 2025-10-27 17:08:28 UTC
+! Total: 332952 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5771,6 +5771,7 @@
 *://*.2025infirsatlari.xyz/*
 *://*.2025jenerator.com.tr/*
 *://*.2025jenerator.online/*
+*://*.2025jtkibsvrsnikot.sbs/*
 *://*.2025kampanyabasvuru.blog/*
 *://*.2025kampanyabekliyoruz.top/*
 *://*.2025kampvemalzemeleri.shop/*
@@ -24163,6 +24164,7 @@
 *://*.akbqroups.com/*
 *://*.akbrdaa.shop/*
 *://*.akbreysel.xyz/*
+*://*.akbrkr.com/*
 *://*.akbrslbsvurlar.com/*
 *://*.akbrsyslbsvuru.com/*
 *://*.akbryselbasvr.com/*
@@ -51644,6 +51646,7 @@
 *://*.binancetrguvenlikonayla.ml/*
 *://*.binancetrhediye.ml/*
 *://*.binancetrhediyeler.ml/*
+*://*.binancetrhub.sbs/*
 *://*.binancetrkampanyagirisislemi2022.com/*
 *://*.binancetrkampanyagirisislemi2022.net/*
 *://*.binancetrkampanyagirisislemi2022.org/*
@@ -58622,6 +58625,7 @@
 *://*.bnccsektifgirisler.com/*
 *://*.bnccsgirisburda.com/*
 *://*.bnccsntrbsnnbsscnaceesngsetr.com/*
+*://*.bnccxsastrkygrs.icu/*
 *://*.bncddntr-turns7-wheel.cloud/*
 *://*.bncdedekcmzglalfrst.shop/*
 *://*.bncdestekbasvurutr.com/*
@@ -89151,6 +89155,7 @@
 *://*.dijitalhizligiris-denizacik.com/*
 *://*.dijitalhizligiris-ziraatmobil.com/*
 *://*.dijitalhizligiris-ziraatweb.sbs/*
+*://*.dijitalhizligiris-ziraatwebkampanya.sbs/*
 *://*.dijitalhizliislemler-denizacik.com/*
 *://*.dijitalhizliislemler.com/*
 *://*.dijitalhizliislemleriniz-denizacik.com/*
@@ -118490,6 +118495,7 @@
 *://*.finansplus.world/*
 *://*.finansportali.online/*
 *://*.finansportalwebtr.com/*
+*://*.finanspulse.online/*
 *://*.finanspulseeurope.info/*
 *://*.finanspusulasi.org/*
 *://*.finansqnb-islemler.com/*
@@ -170816,6 +170822,7 @@
 *://*.istbankhediye.ml/*
 *://*.istbas1.com/*
 *://*.istbasim.net/*
+*://*.istbasvru.istanbul/*
 *://*.istbayidenyukle.net/*
 *://*.istbb-original.net/*
 *://*.istbb.net/*
@@ -236452,6 +236459,7 @@
 *://*.prmgvnde-onlinesatis.com/*
 *://*.prminfo.org/*
 *://*.prmkontrol.com/*
+*://*.prmooobsvrrr.online/*
 *://*.prmooqnbbkmpnyaa.click/*
 *://*.prmopromo.com/*
 *://*.prmossssynbsvrrr.click/*
@@ -269075,6 +269083,7 @@
 *://*.spnsrlu-vakf34.xyz/*
 *://*.spnsrlu-zir34.xyz/*
 *://*.spnsrlukmpnyalariniz.com/*
+*://*.spnsrlutrynlndrlyrsnz.com/*
 *://*.spo32se34007.site/*
 *://*.spobymbfdkdwlhg.su/*
 *://*.spoilappraisal.top/*
@@ -298364,6 +298373,7 @@
 *://*.vakflayeniyilda.gq/*
 *://*.vakfltrgiris.ml/*
 *://*.vakfmbilgiris.tk/*
+*://*.vakfmobil-basvuru.click/*
 *://*.vakfmobilsubesizgiris.tk/*
 *://*.vakfnkacirlimayacaz.com/*
 *://*.vakfnkatilimnkmpanya.com/*
@@ -329408,6 +329418,7 @@
 *://*.z1raat.sbs/*
 *://*.z1raat25ekim.cfd/*
 *://*.z1raat27ekim.cfd/*
+*://*.z1raatbuyukkampanya.cfd/*
 *://*.z1raatgiris.cfd/*
 *://*.z1raatkampanyalari.cfd/*
 *://*.z1raatonline.cfd/*
