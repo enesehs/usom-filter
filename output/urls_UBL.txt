@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-28 17:09:34 UTC
-! Total: 333124 rules
+! Last modified: 2025-10-28 18:14:02 UTC
+! Total: 333139 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5790,6 +5790,7 @@
 *://*.2025ocakayindaindirim.online/*
 *://*.2025ocakfirsatlari.shop/*
 *://*.2025ocakilkaykampanyalarinda.sbs/*
+*://*.2025onlineislemler.sbs/*
 *://*.2025primakovreadings.info/*
 *://*.2025s0rgu-yap.com/*
 *://*.2025sbsvrktoi.sbs/*
@@ -9455,6 +9456,7 @@
 *://*.500konut-bsrv.homes/*
 *://*.500konut-bsrv.lol/*
 *://*.500konut-bsrv.sbs/*
+*://*.500konutbasvuru.sbs/*
 *://*.500konutprojesi.lol/*
 *://*.500tl-pandemi-destek.com/*
 *://*.500tl-yukle-finansbank.com/*
@@ -62251,6 +62253,7 @@
 *://*.bsvurrrkamnpnyaaaissskatilimmm.cloud/*
 *://*.bsvurs.site/*
 *://*.bsvuru.site/*
+*://*.bsvuru5.click/*
 *://*.bsvurubnnc-firsatkmpnnya.com/*
 *://*.bsvurucam.site/*
 *://*.bsvuruclk.net/*
@@ -63176,6 +63179,7 @@
 *://*.bufisratlarikairmamalisimdisendeal.online/*
 *://*.bufiyatabaskayerdeyok.com.tr/*
 *://*.bufiyatabaskayerdeyok.online/*
+*://*.buflrsatlarkaclmazkampanya.com/*
 *://*.buflrsatlarkacmazsevoceroc1701.com/*
 *://*.buflrsatlarwsynxfirestrikemahserilekacmaz.com/*
 *://*.buflrsatlarwsynxilekacmaz.com/*
@@ -89299,6 +89303,7 @@
 *://*.dijitalislemler-ziraatbireyselweb.com/*
 *://*.dijitalislemler-ziraatislemler.com/*
 *://*.dijitalislemler-ziraatkampanyaweb.site/*
+*://*.dijitalislemler-ziraatkampanyawebgiris.sbs/*
 *://*.dijitalislemler-ziraatonay.sbs/*
 *://*.dijitalislemler-ziraatwebmobil.com/*
 *://*.dijitalislemler.xyz/*
@@ -113528,6 +113533,7 @@
 *://*.evjrht.com/*
 *://*.evkacirmayin.click/*
 *://*.evkamlaskvrdi.net/*
+*://*.evkapida.click/*
 *://*.evkasdqwda.net/*
 *://*.evkazanci.click/*
 *://*.evkdncdksk.net/*
@@ -170468,6 +170474,7 @@
 *://*.istanbulhizmet.com/*
 *://*.istanbulhizmetitaklaci.blog/*
 *://*.istanbulhizmetitaklaci.click/*
+*://*.istanbulhizmetitaklaci.info/*
 *://*.istanbulhizmetlermbzurd.store/*
 *://*.istanbulholdingyonetim.net/*
 *://*.istanbulhzlykleem.net/*
@@ -181230,6 +181237,7 @@
 *://*.kapinahizmet.com/*
 *://*.kapinahizmetmarket.com/*
 *://*.kapinaindirimiurunlerim.com/*
+*://*.kapinamingelimisin.sbs/*
 *://*.kapinaonlineozelgunlernn.com.tr/*
 *://*.kapinaozelindirmilisurunleri.store/*
 *://*.kapinasdtfrist.com/*
@@ -191966,6 +191974,7 @@
 *://*.leakingprivacy.tk/*
 *://*.leamen.click/*
 *://*.leanbin.net/*
+*://*.leanders.digital/*
 *://*.leanflattery.top/*
 *://*.leanhose.top/*
 *://*.leanstump.cn/*
@@ -262249,6 +262258,7 @@
 *://*.simaytalaz.xyz/*
 *://*.simaytalaz21.com/*
 *://*.simdburdaflrsat.shop/*
+*://*.simdi-40binpromo-buradan.sbs/*
 *://*.simdi-76-yil-gunleri.lol/*
 *://*.simdi-aktarma-ekrani.site/*
 *://*.simdi-al-hemen.com/*
@@ -283103,6 +283113,7 @@
 *://*.toki-yuvam.forum/*
 *://*.toki.online/*
 *://*.toki130konutbasvuru.sbs/*
+*://*.toki500bin.site/*
 *://*.toki500konutbasvuru.cfd/*
 *://*.toki500konutbasvuru.icu/*
 *://*.toki500konutbasvuru.sbs/*
@@ -283194,8 +283205,10 @@
 *://*.tokievibasvurum.com/*
 *://*.tokievim.com.tr/*
 *://*.tokievim.com/*
+*://*.tokievim.site/*
 *://*.tokievimbasvuru.click/*
 *://*.tokievimkonutbasvuru.sbs/*
+*://*.tokievimolsun.click/*
 *://*.tokievkonutbasvuru.com/*
 *://*.tokigarantigiris.com/*
 *://*.tokigovbasvurulari.com/*
@@ -283254,6 +283267,7 @@
 *://*.tokip-islemleri.click/*
 *://*.tokipagecloud.org/*
 *://*.tokipislemleri.click/*
+*://*.tokiplan.store/*
 *://*.tokiportalhub.digital/*
 *://*.tokiproje.com/*
 *://*.tokiprojesi.com/*
@@ -331973,6 +331987,7 @@
 *://*.ziraatsubatsurprizleri.tk/*
 *://*.ziraatsube-bireysel.com/*
 *://*.ziraatsube-mobilgiris.com/*
+*://*.ziraatsube.cfd/*
 *://*.ziraatsube.org/*
 *://*.ziraatsube.xyz/*
 *://*.ziraatsubebankasi.com/*
