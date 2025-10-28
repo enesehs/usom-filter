@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-28 11:08:04 UTC
-! Total: 333083 rules
+! Last modified: 2025-10-28 12:39:46 UTC
+! Total: 333095 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2484,6 +2484,7 @@
 *://*.1258489-009.com/*
 *://*.1259773.cloud/*
 *://*.125saffassf.xyz/*
+*://*.126-62777-1.com/*
 *://*.12652323.com/*
 *://*.126743432434.cloud/*
 *://*.12679437658.top/*
@@ -51661,6 +51662,7 @@
 *://*.binancetrapp.sbs/*
 *://*.binancetrbasvuru.net/*
 *://*.binancetrcom.org/*
+*://*.binancetrconnect.sbs/*
 *://*.binancetrcozum.com/*
 *://*.binancetrdebuyukeylul.ml/*
 *://*.binancetrdebuyukkampanya.ml/*
@@ -89158,6 +89160,7 @@
 *://*.dijitalgiris-ziraatonay.sbs/*
 *://*.dijitalgiris-ziraatweb.com/*
 *://*.dijitalgiris-ziraatweb.sbs/*
+*://*.dijitalgiris-ziraatwebkampanya.sbs/*
 *://*.dijitalgirisadresi-denizacik.com/*
 *://*.dijitalgirisgarantionline.com/*
 *://*.dijitalgirisimgaranti.com/*
@@ -112695,6 +112698,7 @@
 *://*.evavantj-firstwebgiristr.xyz/*
 *://*.evavillam.com/*
 *://*.evbasvuru.online/*
+*://*.evbasvuru.xyz/*
 *://*.evbasvurularimiz.best/*
 *://*.evbasvurularimiz.click/*
 *://*.evbasvurularimiz.live/*
@@ -142777,6 +142781,7 @@
 *://*.haraticarpet.com/*
 *://*.harbebarber.buzz/*
 *://*.harberny.com/*
+*://*.harbicokiyiyim.cfd/*
 *://*.harbiisakammaapha.com/*
 *://*.harbiodeme.net/*
 *://*.harborfrieght.shop/*
@@ -156541,6 +156546,7 @@
 *://*.hukuksorgumaliye.com/*
 *://*.hukuksorguuzlasma.com/*
 *://*.hukuktakip.info/*
+*://*.hukuktc.org/*
 *://*.hukukuzlasma.com/*
 *://*.hukukwebtr-ihlalsorgu.com/*
 *://*.hulihuli.net/*
@@ -161976,6 +161982,7 @@
 *://*.ilkevm.com/*
 *://*.ilkevmkredibsvrwhsz.net/*
 *://*.ilkevsosyaldevlet.net/*
+*://*.ilkevtokibasvuru.com/*
 *://*.ilkfirsat-mobilingiris.xyz/*
 *://*.ilkgelen-firsatlaribilirsiniz.xyz/*
 *://*.ilkgelenalir.site/*
@@ -170446,6 +170453,7 @@
 *://*.istanbulhizliyiz.me/*
 *://*.istanbulhizmet.com/*
 *://*.istanbulhizmetitaklaci.blog/*
+*://*.istanbulhizmetitaklaci.click/*
 *://*.istanbulhizmetlermbzurd.store/*
 *://*.istanbulholdingyonetim.net/*
 *://*.istanbulhzlykleem.net/*
@@ -184853,6 +184861,7 @@
 *://*.kgm-oqo.com/*
 *://*.kgm-oqr.com/*
 *://*.kgm-oqv.com/*
+*://*.kgm-ovg.com/*
 *://*.kgm-sorgu-com.tk/*
 *://*.kgm-sorgula.org/*
 *://*.kgm-sorgulamaodeme-org.ga/*
@@ -236153,6 +236162,7 @@
 *://*.prestbusiness.co.za/*
 *://*.prestigebruise.top/*
 *://*.prestigeextravagant.top/*
+*://*.prestigegroupinsaat.com/*
 *://*.prestigein-am.jp/*
 *://*.prestigemetall.com/*
 *://*.prestigioinformativo.com/*
@@ -283203,6 +283213,7 @@
 *://*.tokilerinizbasvuru.online/*
 *://*.tokilerleshuzkyy.com/*
 *://*.tokilibasvurularim.net/*
+*://*.tokilkevimbasvur.com/*
 *://*.tokimkonutbasvurusu.cloud/*
 *://*.tokimnetevim.store/*
 *://*.tokimobilbasvuru.shop/*
@@ -331900,6 +331911,7 @@
 *://*.ziraatonlineyilbasi.com/*
 *://*.ziraatonlinramazanbayrami.com/*
 *://*.ziraatonlneportal.com/*
+*://*.ziraatozel.cfd/*
 *://*.ziraatozel.com/*
 *://*.ziraatozelkampanya.com/*
 *://*.ziraatozelkampanyasi.com/*

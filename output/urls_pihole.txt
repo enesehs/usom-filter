@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-28 11:08:04 UTC
-# Toplam: 418257 Domain
+# Son Güncelleme: 2025-10-28 12:39:46 UTC
+# Toplam: 418269 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3821,6 +3821,7 @@
 125aifdt.duckdns.org
 125saffassf.xyz
 125wzweum.duckdns.org
+126-62777-1.com
 126.hearabold.live
 1261291218.corolain.ru
 1261858750.corolain.ru
@@ -69609,6 +69610,7 @@ binancetrclaimserturkey.vercel.app
 binancetrclaimsmerturkey.vercel.app
 binancetrclaismplace.vercel.app
 binancetrcom.org
+binancetrconnect.sbs
 binancetrcozum.com
 binancetrcsolast.vercel.app
 binancetrcsolkas.vercel.app
@@ -115045,6 +115047,7 @@ dijitalgiris-ziraatmobilweb.com
 dijitalgiris-ziraatonay.sbs
 dijitalgiris-ziraatweb.com
 dijitalgiris-ziraatweb.sbs
+dijitalgiris-ziraatwebkampanya.sbs
 dijitalgiris.ziraatmobilweb.com
 dijitalgirisadresi-denizacik.com
 dijitalgirisgarantionline.com
@@ -142258,6 +142261,7 @@ evatds.ru
 evavantj-firstwebgiristr.xyz
 evavillam.com
 evbasvuru.online
+evbasvuru.xyz
 evbasvurularimiz.best
 evbasvurularimiz.click
 evbasvurularimiz.live
@@ -178611,6 +178615,7 @@ haraticarpet.com
 harbebarber.buzz
 harberny.com
 harbi.k4lkamiyomm.com
+harbicokiyiyim.cfd
 harbiisakammaapha.com
 harbimilaaa.duckdns.org
 harbiodeme.net
@@ -194822,6 +194827,7 @@ hukuksorgu.com
 hukuksorgumaliye.com
 hukuksorguuzlasma.com
 hukuktakip.info
+hukuktc.org
 hukukuzlasma.com
 hukukwebtr-ihlalsorgu.com
 hukumaru.nobody.jp
@@ -201367,6 +201373,7 @@ ilkevlerisattik.cfd
 ilkevm.com
 ilkevmkredibsvrwhsz.net
 ilkevsosyaldevlet.net
+ilkevtokibasvuru.com
 ilkfirsat-mobilingiris.xyz
 ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
@@ -211250,6 +211257,7 @@ istanbulheryerde.myshopify.com
 istanbulhizliyiz.me
 istanbulhizmet.com
 istanbulhizmetitaklaci.blog
+istanbulhizmetitaklaci.click
 istanbulhizmetlermbzurd.store
 istanbulholdingyonetim.net
 istanbulhzlykleem.net
@@ -228412,6 +228420,7 @@ kgm-oqn.com
 kgm-oqo.com
 kgm-oqr.com
 kgm-oqv.com
+kgm-ovg.com
 kgm-poc.novadsa.com
 kgm-sorgu-com.tk
 kgm-sorgula.org
@@ -294112,6 +294121,7 @@ prestaverse.com
 prestbusiness.co.za
 prestigebruise.top
 prestigeextravagant.top
+prestigegroupinsaat.com
 prestigein-am.jp
 prestigemetall.com
 prestigioinformativo.com
@@ -355186,6 +355196,7 @@ tokilerinizegelin.blogspot.com
 tokilerisbasvuru.blogspot.com
 tokilerleshuzkyy.com
 tokilibasvurularim.net
+tokilkevimbasvur.com
 tokim.bounceme.net
 tokim.vercel.app
 tokimkonutbasvurusu.cloud
@@ -416507,6 +416518,7 @@ ziraatonlinetk.cf
 ziraatonlineyilbasi.com
 ziraatonlinramazanbayrami.com
 ziraatonlneportal.com
+ziraatozel.cfd
 ziraatozel.com
 ziraatozelkampanya.com
 ziraatozelkampanyasi.com
