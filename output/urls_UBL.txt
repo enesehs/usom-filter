@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-28 18:14:02 UTC
-! Total: 333139 rules
+! Last modified: 2025-10-28 19:01:56 UTC
+! Total: 333160 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11302,6 +11302,7 @@
 *://*.78.46.212.52/*
 *://*.782y376280ki327.icu/*
 *://*.7832iweof8ds.org.cn/*
+*://*.783410583.cloud/*
 *://*.7834216376219410.com.tr/*
 *://*.7834216376219420.online/*
 *://*.7834216376219430.com.tr/*
@@ -11666,6 +11667,7 @@
 *://*.81958-coinbase.com/*
 *://*.81ieneee.com/*
 *://*.81ilbasburularkonut.xyz/*
+*://*.81ilbasvur.shop/*
 *://*.81ilzamanigeldi.org/*
 *://*.81rc4uw1b4roh99dmn.cf/*
 *://*.81sehirden.com/*
@@ -42944,6 +42946,7 @@
 *://*.baykarinvestment.com/*
 *://*.baykarkatilim.com/*
 *://*.baykarnews.com/*
+*://*.baykarnews.info/*
 *://*.baykarnews25.pro/*
 *://*.baykarnow.com/*
 *://*.baykarprime.com/*
@@ -61683,6 +61686,7 @@
 *://*.brolandcarstroyrs.com/*
 *://*.brolardkas184.com/*
 *://*.brolarkafa.com/*
+*://*.brolyra.com/*
 *://*.bromather.xyz/*
 *://*.bromhydrate.com/*
 *://*.bromide.xyz/*
@@ -61984,6 +61988,7 @@
 *://*.bsvrcm.site/*
 *://*.bsvrdiadealcffs.com/*
 *://*.bsvrdstk.online/*
+*://*.bsvrdznzz.click/*
 *://*.bsvrekran.net/*
 *://*.bsvrekrani.net/*
 *://*.bsvrfrmgbvvatr.in/*
@@ -62270,6 +62275,7 @@
 *://*.bsvurunburada.site/*
 *://*.bsvurundevamet.site/*
 *://*.bsvurutrduyurular.online/*
+*://*.bsvuruyon5.click/*
 *://*.bsvvronline-hazir.com/*
 *://*.bsvvrrr.online/*
 *://*.bsvvrrrrisssssbaaann.cloud/*
@@ -119685,6 +119691,7 @@
 *://*.firsatkampanyagunleriekimdunyasi.online/*
 *://*.firsatkampanyagunlerin.com/*
 *://*.firsatkampanyagunlerin.info/*
+*://*.firsatkampanyahazir.site/*
 *://*.firsatkampanyaicinbasvuruadresibance.site/*
 *://*.firsatkampanyakasimayi.com/*
 *://*.firsatkampanyalari-hediyepuan-kampanyasi-tk.com/*
@@ -120539,6 +120546,7 @@
 *://*.firsatsende.xyz/*
 *://*.firsatsendebasvur.com/*
 *://*.firsatsendee.site/*
+*://*.firsatsendekmpnya.site/*
 *://*.firsatsendeziraatim.online/*
 *://*.firsatseninle.sbs/*
 *://*.firsatseninle.site/*
@@ -134332,6 +134340,7 @@
 *://*.grinfoul.top/*
 *://*.gringaretas.top/*
 *://*.griniljjjilijjilijllia.com/*
+*://*.grinmlevel.shop/*
 *://*.grinning-lips.tk/*
 *://*.gripemigration.top/*
 *://*.gripendow.top/*
@@ -156588,6 +156597,7 @@
 *://*.human-fly900.online/*
 *://*.human-verify-4r.pro/*
 *://*.human-verify.shop/*
+*://*.human-waste.com/*
 *://*.humanegardens.com/*
 *://*.humanimmersion.top/*
 *://*.humanistaltertion.top/*
@@ -187808,6 +187818,7 @@
 *://*.konutbasvurutamamla.cloud/*
 *://*.konutbilgi.click/*
 *://*.konutcan.com/*
+*://*.konutcozum.com/*
 *://*.konutdestegi6060.net/*
 *://*.konutduyuru.click/*
 *://*.konutemlakgayrimenkul.info/*
@@ -221192,6 +221203,7 @@
 *://*.onlinebrcsorgu.com/*
 *://*.onlinebrcsorgulama.com/*
 *://*.onlinebrnnrctr-girisi.com/*
+*://*.onlinebsvrnpra.site/*
 *://*.onlinebsvuru-girisbnnrtr.com/*
 *://*.onlinebsvurular2025.sbs/*
 *://*.onlinebtk.com/*
@@ -236815,6 +236827,7 @@
 *://*.profetest.ru/*
 *://*.profevcanimselads.click/*
 *://*.profevdeisimkani.com/*
+*://*.profevoasdasd.click/*
 *://*.profexsystem.com/*
 *://*.proff-portal.info/*
 *://*.proffbuilder.com/*
@@ -248125,6 +248138,7 @@
 *://*.rexlon.digital/*
 *://*.rexspot7x.xyz/*
 *://*.rexstat35x.xyz/*
+*://*.rexxinthoryza.info/*
 *://*.reyevenet.com/*
 *://*.reyevenet.net/*
 *://*.reyevenet.online/*
@@ -267565,6 +267579,7 @@
 *://*.sorderatoluca.com/*
 *://*.sordglahizmet.com/*
 *://*.sorehumiliation.top/*
+*://*.sorelkimya.com/*
 *://*.sorento.fi/*
 *://*.sorfflzlan.xyz/*
 *://*.sorflr.com/*
@@ -298339,6 +298354,7 @@
 *://*.vacationluminous.top/*
 *://*.vacationnomination.top/*
 *://*.vacationsnatch.top/*
+*://*.vacbroun.com/*
 *://*.vaccaplog.ru/*
 *://*.vaccinateaftermath.top/*
 *://*.vaccinatearrogant.top/*
@@ -308985,6 +309001,7 @@
 *://*.wikiwand-ppc.com/*
 *://*.wikiwand-works.com/*
 *://*.wikklu.cn/*
+*://*.wikshane.com/*
 *://*.wikshov-tr.com/*
 *://*.wilandsabim.info/*
 *://*.wilbderreis.ru/*
@@ -323983,6 +324000,8 @@
 *://*.yasarvakif.com/*
 *://*.yasarvakifi.com/*
 *://*.yasarvakifi.org/*
+*://*.yasasincumhuriyet.lol/*
+*://*.yasasincumhuriyetimiz.lol/*
 *://*.yasatalim.net/*
 *://*.yasatalim.online/*
 *://*.yasayanfirsatadersim.com.tr/*
@@ -329005,6 +329024,7 @@
 *://*.yuktl.tel/*
 *://*.yuktu.ml/*
 *://*.yukumar643.xyz/*
+*://*.yulak.click/*
 *://*.yuloasa.xyz/*
 *://*.yulpi.com/*
 *://*.yulsodulso.site/*
@@ -332030,6 +332050,7 @@
 *://*.ziraatte250kampanyalari.tk/*
 *://*.ziraattemobil.com/*
 *://*.ziraattemobilyenilik.com/*
+*://*.ziraatten-dijital.sbs/*
 *://*.ziraatten4993.ml/*
 *://*.ziraatteniadeler.com/*
 *://*.ziraatteniz.sbs/*
