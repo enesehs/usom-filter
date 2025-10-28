@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-28 09:10:21 UTC
-# Toplam: 418194 Domain
+# Son Güncelleme: 2025-10-28 10:10:30 UTC
+# Toplam: 418251 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8548,6 +8548,7 @@
 2132132111111.cloud
 2132132135125.cloud
 213222225242.duckdns.org
+2132323.vercel.app
 21323342423212121.cloud
 21324232423x.click
 2132913000914331.cloud
@@ -16255,6 +16256,7 @@
 65498482158.com
 65498746158961513151.cloud
 65498794165989784.net
+654f0c60385dacdc2396c60.com.tr
 654f0c60385dacdc2396c60.net.tr
 654f0c60zfgadacdc2396c60.com.tr
 654sa16d5sa16d41as.site
@@ -39254,6 +39256,8 @@ alayinizamaloakaliyter.club
 alayiniztekbenetmez.com
 alazilrmcservice.duckdns.org
 alb-turk-mobil.com
+albacosmeticos.online
+albacosmeticos.shop
 albahasereilaclamasi.site
 albandy.zapto.org
 albankasi.com
@@ -44996,6 +45000,7 @@ api.btfdf.com
 api.camdriverhelp.club
 api.camera-drive.org
 api.camtuneup.online
+api.clearit.sbs
 api.cloudservers.kz
 api.clpclptrefinder.com
 api.cyberhavenext.pro
@@ -45016,6 +45021,7 @@ api.erfedfvgf.com
 api.farstream.org
 api.fbconnect.net
 api.fesder.com
+api.flashstore.sbs
 api.flushcdn.com
 api.fuyflash.om
 api.fxsdk.com
@@ -49646,6 +49652,7 @@ aspecto.top
 aspectoffspring.top
 aspectrulesme.ddns.net
 aspectwelcome.top
+aspeimoveis342235.online
 aspektnn.ru
 aspernatur-quis.site
 asphgsz.com
@@ -59273,6 +59280,7 @@ basvuruyap-iadesorguportalim.com
 basvuruyap-istanbul.cfd
 basvuruyap-turkeygovtr.com
 basvuruyap-turkiyegovtr.com
+basvuruyap.cfd
 basvuruyap.com.tr
 basvuruyap.mefound.com
 basvuruyap.mooo.com
@@ -72771,6 +72779,7 @@ biz-denedik-sira-sende-haydi-basla-gelsin.com
 biz-eskileri-birakt.net
 biz-gelene-kadar-hicbir-sey-baslamis-sayilmaz.com
 biz-hep-beraber-halkimizadestek.com
+biz-istedik-mi-yapariz.sbs
 biz-kazandik.epizy.com
 biz-mubarek-gunde-indirim-yaptik-mutlu-olun.com
 biz-sizi-bi-an-biile-unuutmaadik-unutamazdik.com
@@ -80040,8 +80049,10 @@ botprivate.ug
 botprivate1.ug
 botprsa.com
 bots-me.ga
+bots.autoupdate.online
 bots.configbinbots.info
 bots.gxz.me
+botsc.autoupdate.xyz
 botscriptshop.com
 botslabturkiye.com
 botslabturkiye.online
@@ -81759,6 +81770,7 @@ bsvruuu17.sbs
 bsvruuu18.click
 bsvruyon.click
 bsvruyon2.click
+bsvruyon3.click
 bsvryrm.site
 bsvs.fun
 bsvuraa.site
@@ -84399,6 +84411,7 @@ bustvch.com
 bustxl.club
 bustylookingmistake.com
 busvruu.click
+busvruu10.click
 busvruu50.click
 busvruu60.click
 busvruu70.click
@@ -88341,6 +88354,7 @@ casadaembalagemriopreto.com
 casadecampoamazonas.com
 casadere.my-homeip.com
 casadilunas.com
+casadoconector.online
 casalmeida.duckdns.org
 casamer.com
 casaroyai.com
@@ -92251,6 +92265,7 @@ check-security-update.azurewebsites.net
 check-standars-app.duckdns.org
 check-updates.com
 check-your-account-now.xyz
+check.datatabletemplate.shop
 check.homeip.net
 check.m4rcy.fun
 check.nejyd.icu
@@ -92568,6 +92583,7 @@ chiwork.ddns.net
 chjngyg.ddns.net
 chjrqlbdxi.duckdns.org
 chjxazim.com
+chkactive.online
 chkatcam.pw
 chkjpchse.ddns.net
 chkjpmscma.ddns.net
@@ -94929,6 +94945,7 @@ cloud-server-updater6.co.za
 cloud-server-updater7.co.za
 cloud-server-updater8.co.za
 cloud-server-updater9.co.za
+cloud-server.store
 cloud-service23.ddns.net
 cloud-start.at
 cloud-storage.live
@@ -102169,6 +102186,7 @@ curseconcede.top
 cursiane.com
 cursoguia.com
 cursos.feyda.net
+cursosgratiss.com.br
 curt.hopto.org
 curtailrectification.top
 curtainaristocratic.top
@@ -119151,6 +119169,8 @@ download.asiasoftnet.com
 download.asyncfox.xyz
 download.az-link.email
 download.data-server.cloudns.club
+download.datatabletemplate.xyz
+download.face-online.world
 download.gdriveupload.site
 download.getnewupdatesdownload.net
 download.glzip.cn
@@ -148882,6 +148902,7 @@ filedl.mdownl.cn
 filedocs.hopto.org
 filedownloaderservers.com
 filedporer4online.com
+filedrive.online
 fileetnmilka.com
 filefactory.online
 filehubspot.com
@@ -151944,7 +151965,9 @@ first-larmzndsnokatlrmsnsz.com
 first-stk2023yeni.online
 first-zmni-geldi-catti.duckdns.org
 first.getnewupdatesdownload.net
+first.longlastfor.online
 first.luckshery.com
+first.system-update.xyz
 first.universalwebsolutions.info
 first.webpublicservices.org
 first325.xyz
@@ -152557,6 +152580,7 @@ flashpleyr.top
 flashpromosynlar.shop
 flashroms.com
 flashsalehub.xyz
+flashserve.store
 flashtvindirimlerigerigeldi.com
 flashupdate.digital
 flashx.com.tr
@@ -201323,6 +201347,7 @@ ilkevimprojesidanismanligi.com
 ilkevimprojesidanismanlik.com
 ilkevimsosyal.cfd
 ilkevimsosyalkonutprojesi.net
+ilkevimtoki.click
 ilkevimtoki.sa.com
 ilkevimtoki1.sa.com
 ilkevimtoki2.sa.com
@@ -205341,6 +205366,7 @@ instancephysiological.top
 instancestreak.top
 instancewrestle.top
 instant-credit-turkey.com
+instant-update.online
 instantaneousalienate.top
 instantaneouscommendation.top
 instantdeployment.top
@@ -214241,6 +214267,7 @@ izeltasalmak.xyz
 izeltascampnysal.sbs
 izeltasdolucantasi.vip
 izeltasf0r543sq.duckdns.org
+izeltasfir101xcom.ddns.net
 izeltasfirsat.com.tr
 izeltasfirsat.online
 izeltasfirsatlari.online
@@ -224988,6 +225015,7 @@ kargmngkonusanlarr.online
 kargo-hemensizle.com
 kargo-hizmetinizde-bizimlesin.com
 kargo-hizmetlerinizdesiniz.com
+kargo-islem.click
 kargo-islem.org
 kargo-takbiniz-hemen.com
 kargo-takibi.net
@@ -227457,6 +227485,7 @@ kekntsskart.net
 keknxtu.duckdns.org
 keko.vercel.app
 kekomanci.cyou
+kekotirasi.cfd
 kekpanel.xyz
 kekreyemis.club
 kekreyemis.info
@@ -232468,6 +232497,7 @@ konutu-basvurum.click
 konutu-basvurusu.click
 konutumsenleguzel.site
 konutun.org
+konutvakti.click
 konutyeni.click
 konuyyedineydi.sa.com
 kony2015.ddns.net
@@ -237974,6 +238004,7 @@ lefors.my-style.in
 lefretder3.pw
 leftcapsigottensikcem.com
 leftfieldmgir.pw
+lefthandsuperstructures.com
 leftii.zapto.org
 leftilliterate.top
 leftistlime.top
@@ -246786,6 +246817,7 @@ marketin.blob.core.windows.net
 marketinapp.com
 marketinde-bugune-ozel-indirimler.online
 marketinde-ozel-firsatlar-var-tr.online
+marketindeindirimivar.sbs
 marketindirim.click
 marketindirimgunleri.xyz
 marketindirmleri.xyz
@@ -248345,6 +248377,7 @@ mayxw9402.duckdns.org
 mayyis-firstlrmm.com
 mazahfkp.duckdns.org
 mazda.georgewkohn.com
+mazdafinancialsevrices.com
 mazdakrichest.com
 maze-abstracted-catboat.glitch.me
 mazeargueconnectdeliver.com
@@ -255895,6 +255928,7 @@ mocwhsne.com
 mod-gov-bd.dwnlld.info
 mod-gov-bd.live-co.org
 mod-gov-bd.org-liv.net
+mod.gov.bd.pk-mail.org
 moda-nisa.site
 modabone.club
 modabone.site
@@ -256092,6 +256126,7 @@ moeurolandbabisde.net
 mof-gov-bd.nic-svc.net
 mof-gov-np.dwnlld.info
 mofa-gov-bd.dwnlld.info
+mofa-gov-bd.filenest.live
 mofa-gov-bd.live-co.org
 mofa-gov-np.live-co.org
 mofa-gov-np.net-src.info
@@ -257014,6 +257049,8 @@ motmxe.com
 motoilanonlineozel.shop
 motoindiriimsli.shop
 motonsthefor.com
+motopartshonda.shop
+motopartshonda.site
 motoqu.com
 motor-eplaka.blogspot.com
 motor-fxrstlarii.online
@@ -267841,6 +267878,7 @@ ns-4722638262.xyz
 ns-client.net
 ns-krt.online
 ns-vaikf.online
+ns-wwwhaberlercom.cyberpath.cfd
 ns.fushing.org
 ns.glbaitech.com
 ns.infinitycloud.info
@@ -270081,6 +270119,7 @@ nwokeomadaxy.hopto.org
 nwonew.dev
 nwqlpuihrpksked.ru
 nwqmzfoupd.duckdns.org
+nwr.xo.je
 nwrr.pw
 nwsrremssn.us
 nwurevzsa.com
@@ -293786,6 +293825,7 @@ prdangldkbrda.bond
 prdenizbank.com
 prdlommfaq.pro
 pre-checker.tk
+pre.alwayswait.site
 preach687786.xyz
 preachererrand.top
 preacherhierarchical.top
@@ -309880,6 +309920,7 @@ ribotqtonut.com
 ribstalk.top
 ribtech.shop
 ric7br0e.duckdns.org
+ricardasphotography.com
 ricardo-mell.online
 ricardo-off.zapto.org
 ricardo.aljiri.es
@@ -310982,6 +311023,7 @@ roony.zapto.org
 rooofrsbptsv.info
 rooom.zapto.org
 roostersbroast.com
+root.security-update.xyz
 root01.zapto.org
 root1331.duckdns.org
 root20system20macosxdriver.serveusers.com
@@ -313339,6 +313381,8 @@ sabomarshdominik.ml
 sabomarshdominik2.ml
 sabomarshdominik3.ml
 sabomarshdominik4.ml
+saborizerefeicoes34.online
+saborizerefeicoes34.site
 sabrabra.online
 sabrina.zapto.org
 sabrinasdivination.com
@@ -313355,6 +313399,7 @@ sac.gmarx.com.br
 sac.onecenter.com.br
 sac1.ddns.net
 sac2.ddns.net
+sacascsqwdwq.online
 sacasdsa.com
 sacbakim-dyson-airwrap.com.tr
 sacbakim-dyson.com.tr
@@ -321058,7 +321103,9 @@ secoc-truist0.ddns.net
 secode.sg-host.com
 second-handaggravate.top
 second-handmobilise.top
+second.awaitingfor.online
 second.getnewupdatesdownload.net
+second.systemupdate.cloud
 second.universalwebsolutions.info
 second.webpublicservices.org
 second1.app
@@ -321074,6 +321121,7 @@ secondglancedesign.ca
 secondlytr1.app
 secondnickname.cn
 secondrust.lat
+secondshop.online
 secondsing.top
 secondtest422413.zapto.org
 secondvocal.top
@@ -324685,6 +324733,7 @@ series-mpegs.gl.at.ply.gg
 series236.xyz
 seriesprogressive.top
 serigrafik.pro
+serihizlisitanbulcusndus.store
 serihizliyukle.sg-host.com
 serikatil007.com
 serilrlsrmkl.duckdns.org
@@ -327934,6 +327983,8 @@ signpetition.co
 signqaknncippc.duckdns.org
 signr1yedp6jo1.duckdns.org
 signrc0svpvayp.duckdns.org
+signsafe.site
+signsafe.xyz
 signsc9akzifns.duckdns.org
 signsghqf6tge0.duckdns.org
 signsjwx3l7aly.duckdns.org
@@ -334405,6 +334456,7 @@ soksanalmarket.net
 soksanalmarket.online
 soksanalmarketindirim.site
 soksanalmarkets.com
+sokseherbur.o000x1x11.workers.dev
 sokseviyoruz.online
 soksokdaucuz.biz.tr
 soksokdaucuz.com.tr
@@ -343729,6 +343781,7 @@ support.fortineat.com
 support.gac.gov.lr
 support.gdrvcheck.co
 support.hosting-hero.com
+support.ms-live.us
 support.myfirstdealplaybook.com
 support.private-meeting.online
 support.trustmeeting.online
@@ -346734,6 +346787,7 @@ tarikbacaklari.sbs
 tarim-giris-hizli.com
 tarim-kooperatiff.online
 tarim-kooperatiff.xyz
+tarim.my-homeip.com
 tarim20avmfirsat2024.online
 tarim20firsatavm2024.online
 tarimadestek.com.tr
@@ -379573,6 +379627,7 @@ vingecc.sg-host.com
 vinglosine.ml
 vinherena.sonyofbonfim.net
 vinho-online.com
+vinhomeshungyentheempires.com
 vinicivenito.freemyip.com
 vinidauu.com
 viniramos.com
@@ -384285,6 +384340,7 @@ web.bystats.io
 web.cafderx1.shop
 web.clobelrex.cfd
 web.cloudfront.kz
+web.commoncome.online
 web.corei7amdx.cfd
 web.eng.ubu.ac.th
 web.eversviphomo.cfd
@@ -384358,6 +384414,7 @@ web03c.hopto.org
 web03tbbmmcc.ga
 web05-zoom.us
 web05tbbmmcc.ga
+web071zoom.us
 web0nline.com
 web1-kvkregistratie.ddns.net
 web10-mijnoverheid.ddns.net
