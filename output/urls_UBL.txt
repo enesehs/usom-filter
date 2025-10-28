@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-28 20:11:06 UTC
-! Total: 333168 rules
+! Last modified: 2025-10-28 21:08:23 UTC
+! Total: 333172 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -142721,6 +142721,7 @@
 *://*.hanifbaba.com/*
 *://*.hanifevycgirisgirisgiris.xyz/*
 *://*.hanikredim.com/*
+*://*.hanimanya.com/*
 *://*.hanimkadin.com/*
 *://*.hanistatrous.top/*
 *://*.hanjusrancal.com/*
@@ -170489,6 +170490,7 @@
 *://*.istanbulhizmetitaklaci.blog/*
 *://*.istanbulhizmetitaklaci.click/*
 *://*.istanbulhizmetitaklaci.info/*
+*://*.istanbulhizmetitaklaci.pro/*
 *://*.istanbulhizmetlermbzurd.store/*
 *://*.istanbulholdingyonetim.net/*
 *://*.istanbulhzlykleem.net/*
@@ -186872,6 +186874,7 @@
 *://*.kmpnyafrsatlarnz.com/*
 *://*.kmpnyagaranti.online/*
 *://*.kmpnyagnlerinizx.com/*
+*://*.kmpnyahazirfirsat.site/*
 *://*.kmpnyalaricnsongun1o1.online/*
 *://*.kmpnyalaricnsongun1o1.xyz/*
 *://*.kmpnyalarimizdevam.online/*
@@ -211022,6 +211025,7 @@
 *://*.nazgroup0.com/*
 *://*.nazifeevdepaketleme.com/*
 *://*.nazik.cfd/*
+*://*.naziltaks.com/*
 *://*.nazliokuyucu.com/*
 *://*.nazqxq.net/*
 *://*.nb5kw9rt2m.lol/*
