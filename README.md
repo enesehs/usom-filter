@@ -12,7 +12,7 @@
 
 Bu proje, T.C. Ulaştırma ve Altyapı Bakanlığı Siber Güvenlik Daire Başkanlığı (USOM) tarafından yayınlanan [zararlı URL listesini](https://www.usom.gov.tr/url-list.txt) çeşitli güvenlik araçları için uygun formatlara dönüştürmektedir.
 
-Canlı web sayfası: https://enesehs.me/usom-filter
+Canlı web sayfası: https://enesehs.dev/usom-filter
 
 ## İçindekiler
 
