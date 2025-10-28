@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-28 16:11:46 UTC
-! Total: 333122 rules
+! Last modified: 2025-10-28 17:09:34 UTC
+! Total: 333124 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -113460,6 +113460,7 @@
 *://*.evindekal2020.com/*
 *://*.evindekaldiye20gbhediye.net/*
 *://*.evindepaketle.net/*
+*://*.evindirim.click/*
 *://*.evineteslim.com.tr/*
 *://*.evineteslim.site/*
 *://*.evineteslimoto.online/*
@@ -137304,6 +137305,7 @@
 *://*.guvenlipazaradresi.xyz/*
 *://*.guvenliplatform.online/*
 *://*.guvenliportal.fun/*
+*://*.guvenliportal.shop/*
 *://*.guvenlironaldo.com/*
 *://*.guvenlis-iades-basvurusu-ucret-al.xyz/*
 *://*.guvenlisahibinden.tk/*
