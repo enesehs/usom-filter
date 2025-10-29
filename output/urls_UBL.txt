@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-29 06:14:43 UTC
-! Total: 333177 rules
+! Last modified: 2025-10-29 07:10:23 UTC
+! Total: 333179 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -51693,6 +51693,7 @@
 *://*.binancetrmobilgirissubesi.ml/*
 *://*.binancetrmobilgirissubesi.tk/*
 *://*.binancetrnet.com/*
+*://*.binancetrpay.sbs/*
 *://*.binancetrplus.sbs/*
 *://*.binancetrpro.sbs/*
 *://*.binancetrsonbaharhediyeleri.ml/*
@@ -283160,6 +283161,7 @@
 *://*.tokibasvur.online/*
 *://*.tokibasvur.org/*
 *://*.tokibasvur.site/*
+*://*.tokibasvurdum.xyz/*
 *://*.tokibasvurlilerim.net/*
 *://*.tokibasvurr.com/*
 *://*.tokibasvurtoplukonut.com/*
