@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-29 19:01:54 UTC
-! Total: 333337 rules
+! Last modified: 2025-10-29 20:10:24 UTC
+! Total: 333357 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27311,6 +27311,7 @@
 *://*.alert-notice.com/*
 *://*.alertaempresarial.com.br/*
 *://*.alertbefore.top/*
+*://*.alertpla.shop/*
 *://*.alerts-icloud.com/*
 *://*.alertsprinkle.top/*
 *://*.ales66325.site/*
@@ -34317,6 +34318,7 @@
 *://*.asdfkjlkjasdfasdf.com/*
 *://*.asdfksvdvt-dsvt.com/*
 *://*.asdflflfaajsdaakdf.cyou/*
+*://*.asdflflfaajsdaakdf.icu/*
 *://*.asdfqw.xyz/*
 *://*.asdfqwervcxz.net/*
 *://*.asdfsadfasdfsadfsfd.xyz/*
@@ -37552,6 +37554,7 @@
 *://*.azsijorta.xyz/*
 *://*.azsxdcns-ansszas-anands.cfd/*
 *://*.azsxdcns-ansszas-anands.sbs/*
+*://*.azsxlmkdmx-amzamal-azlsml.icu/*
 *://*.aztec.org.tr/*
 *://*.aztecchiatohumu.com/*
 *://*.azteksanar.com/*
@@ -42966,6 +42969,7 @@
 *://*.baykarfly.com/*
 *://*.baykarform.com/*
 *://*.baykarfuture.com/*
+*://*.baykarglobal.info/*
 *://*.baykarglobal.pro/*
 *://*.baykarhold.space/*
 *://*.baykarhorizon.com/*
@@ -72810,6 +72814,7 @@
 *://*.clinicaoxford.com.br/*
 *://*.clinicavitalite.com/*
 *://*.cliniccrouch.top/*
+*://*.cliniceliteclubiiargturkiye.com/*
 *://*.clinichole.top/*
 *://*.clinicimperative.top/*
 *://*.cliniconce.top/*
@@ -116211,6 +116216,7 @@
 *://*.farmivory.top/*
 *://*.farnith.com/*
 *://*.farnotrapisyaniksatromunyazrasyon.net/*
+*://*.farnouxo.com/*
 *://*.farpalaranca.com/*
 *://*.farroshgxer.life/*
 *://*.farsigorta.site/*
@@ -118158,6 +118164,7 @@
 *://*.filtrehaber.site/*
 *://*.fimanscredis.com/*
 *://*.fimato.store/*
+*://*.fimcim.com/*
 *://*.fimiosbiomrehko.ru/*
 *://*.fimkyaxi.top/*
 *://*.fimsilpey.tk/*
@@ -118815,6 +118822,7 @@
 *://*.finmaster24.com/*
 *://*.finminx.com/*
 *://*.finmiu.top/*
+*://*.finmope.com/*
 *://*.finmourn.com/*
 *://*.finnewstoday.com/*
 *://*.finnflowtech.com/*
@@ -162072,6 +162080,7 @@
 *://*.ilkevbasvurusu.sbs/*
 *://*.ilkevim-basvuru.com/*
 *://*.ilkevim-basvuru.org/*
+*://*.ilkevim-basvuru.work/*
 *://*.ilkevim-online-basvuru.cfd/*
 *://*.ilkevim-portal-giris.com/*
 *://*.ilkevim-portal-giris.org/*
@@ -162106,6 +162115,7 @@
 *://*.ilkevimtokibasvuru.com/*
 *://*.ilkevimtokibasvuru.sbs/*
 *://*.ilkevinkayitlari.org/*
+*://*.ilkevkayitlari.org/*
 *://*.ilkevkonultlkapi.com/*
 *://*.ilkevlerisattik.cfd/*
 *://*.ilkevm.com/*
@@ -175606,6 +175616,7 @@
 *://*.jarinamaers.shop/*
 *://*.jarkijden.com/*
 *://*.jarlsbergys.live/*
+*://*.jarnixor.com/*
 *://*.jarododling75.xyz/*
 *://*.jaroffset.top/*
 *://*.jaromivanexl.xyz/*
@@ -194702,6 +194713,7 @@
 *://*.loss352.xyz/*
 *://*.loss57.xyz/*
 *://*.lossycristi.cyou/*
+*://*.lostbonuses.digital/*
 *://*.lostbuy8.quest/*
 *://*.lostdark.xyz/*
 *://*.lostekmneo.xyz/*
@@ -210833,6 +210845,7 @@
 *://*.narkosaglambisiklet.com/*
 *://*.narkotik.app/*
 *://*.narkotikizlo.ru/*
+*://*.narlivo.com/*
 *://*.narmpnpqnh.us/*
 *://*.narod.ru/*
 *://*.naroyaldiamonds.com/*
@@ -263625,6 +263638,7 @@
 *://*.sivasigorta.xyz/*
 *://*.sivasin-yollarina-cik-usta.lol/*
 *://*.sivaslilardayanismasi.com/*
+*://*.sivasotelterligi.com/*
 *://*.sivassahibinden.online/*
 *://*.sivjo6ht.top/*
 *://*.sivonsaki.com/*
@@ -267514,6 +267528,7 @@
 *://*.sonsuzbilgelik.space/*
 *://*.sonsuzdan-bu-yana-sevgili-gunu-hissedin.com.tr/*
 *://*.sonsuzdunya.org/*
+*://*.sonsuzduru.com/*
 *://*.sonsuzfikirler.online/*
 *://*.sonsuzgece.com/*
 *://*.sonsuzhislerinbize.cfd/*
@@ -283238,6 +283253,7 @@
 *://*.toki-basvur-2025.com/*
 *://*.toki-basvur.cfd/*
 *://*.toki-basvur.com/*
+*://*.toki-basvur.info/*
 *://*.toki-basvurru.info/*
 *://*.toki-basvuru-2025.xyz/*
 *://*.toki-basvuru.info/*
@@ -301792,6 +301808,7 @@
 *://*.veltrona.site/*
 *://*.veltru.click/*
 *://*.veltru.digital/*
+*://*.veltrunz.com/*
 *://*.velttrixora.com/*
 *://*.velupra.pro/*
 *://*.velvest.xyz/*
@@ -309171,6 +309188,7 @@
 *://*.wikiwand-ppc.com/*
 *://*.wikiwand-works.com/*
 *://*.wikklu.cn/*
+*://*.wikpoun.com/*
 *://*.wikshane.com/*
 *://*.wikshov-tr.com/*
 *://*.wilandsabim.info/*
@@ -316498,6 +316516,7 @@
 *://*.xinsta.org/*
 *://*.xinteraktifgov.lat/*
 *://*.xioamiking.top/*
+*://*.xioge.cn/*
 *://*.xioimininyazfirsatlariburada.cfd/*
 *://*.xiomifirsatlariburada.cfd/*
 *://*.xiominfirsatlariburada.cfd/*
@@ -329793,6 +329812,7 @@
 *://*.z1raat27ekim.cfd/*
 *://*.z1raatbuyukkampanya.cfd/*
 *://*.z1raatgiris.cfd/*
+*://*.z1raatiniz.cfd/*
 *://*.z1raatkampanyalari.cfd/*
 *://*.z1raatonline.cfd/*
 *://*.z1raatsize.cfd/*
