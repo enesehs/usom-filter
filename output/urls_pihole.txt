@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-29 13:26:09 UTC
-# Toplam: 418520 Domain
+# Son Güncelleme: 2025-10-29 14:09:27 UTC
+# Toplam: 418544 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8061,6 +8061,7 @@
 2025-ocakfirsatlari.shop
 2025-online-iscepbasvuru.vercel.app
 2025-onlinebasvurcepteonayis.vercel.app
+2025-onlinebasvurumerkezi.duckdns.org
 2025-onlinekredi766986.4444444444455555.com
 2025-ozel-firsatlar.shop
 2025-s0rgunuyap.com
@@ -8159,6 +8160,7 @@
 2025sonfirsatlari.online
 2025tenduyurular.com
 2025tenhaberler.com
+2025toki.81ileproje.sbs
 2025toki.toplukonut-projesi.sbs
 2025toki.yeniuygunknz.sbs
 2025trdenhaber.com
@@ -14393,11 +14395,19 @@
 500konut-bsrv.bond
 500konut-bsrv.cfd
 500konut-bsrv.click
+500konut-bsrv.club
 500konut-bsrv.homes
+500konut-bsrv.lat
 500konut-bsrv.lol
 500konut-bsrv.sbs
+500konut.com
 500konutbasvuru.sbs
 500konutprojesi.cfd
+500konutprojesi.click
+500konutprojesi.club
+500konutprojesi.com
+500konutprojesi.life
+500konutprojesi.locker
 500konutprojesi.lol
 500konutprojesi.sbs
 500prbhediye.taplink.ws
@@ -18808,6 +18818,7 @@
 81ieneee.com
 81ilbasburularkonut.xyz
 81ilbasvur.shop
+81ileproje.sbs
 81ilzamanigeldi.org
 81kad0m1d.duckdns.org
 81o0yxnpu.duckdns.org
@@ -49019,6 +49030,7 @@ asdfkasdhjasd.net
 asdfkjasdfasld32.ml
 asdfkjlkjasdfasdf.com
 asdfksvdvt-dsvt.com
+asdflflfaajsdaakdf.cyou
 asdfqff22fasf.blogspot.com
 asdfqw.xyz
 asdfqwervcxz.net
@@ -79595,6 +79607,7 @@ bonustransferidunyasibu.online
 bonustrink.click
 bonustrink.digital
 bonustrinks.click
+bonustrinks.digital
 bonusudenizbank.com
 bonusum.click
 bonusumbakiyem.net
@@ -118341,6 +118354,7 @@ dolaptr.com
 dolapurundevamguvenliodeme.com.tr
 dolasimuka.com
 dolatonlargeldibabam.online
+dolayli-web-tr.digital
 dolcegabbanadeniyozsalin.net
 doldudolduneselidnirimayyi.com.tr
 doldudoluindirimlerburada.cfd
@@ -201432,6 +201446,7 @@ ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
 ilkevbasvurular.sbs
+ilkevbasvurusu.sbs
 ilkevim-basvuru.com
 ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
@@ -232603,6 +232618,7 @@ konut-guncelislemler.com
 konut-idarisie.com
 konut-kredi-basvur.blogspot.com
 konut-kredim-finansbank.com
+konut-t-o-k-i-500.com
 konut.app
 konut20012024.com
 konut5000.com
@@ -234427,6 +234443,7 @@ krmzbimcelltlyukle.tk
 krmzii.click
 krnative.com
 krnchmn.com
+krnczdnekmbbtsi.com
 krnl.ddns.net
 kroal.com
 kroberzra543vebercak73.xyz
@@ -267242,6 +267259,7 @@ nolarbusektre.app
 nolcakbudosyalarhakimamca.online
 nolekans.top
 nolinoerti.fit
+nolinoerti.info
 nolitko.tr
 nolm5q998.duckdns.org
 nolova.duckdns.org
@@ -307366,6 +307384,7 @@ redjewelry.biz
 redjkjshj234.digital
 redjournal.cloud
 redkent0.info
+redkitchecker.site
 redkite-polkafoundry.online
 redkitler.duckdns.org
 redl-i02veryusps.ddns.net
@@ -326004,6 +326023,7 @@ sevgininsaridoslari.xyz
 sevgiogrencidestekvakfi.net
 sevgipaneli.xyz
 sevgiprojesivakfi.com
+sevgiseli.online
 sevgiseli2.com
 sevgiseliform1.online
 sevgisenli.com
@@ -326023,6 +326043,7 @@ sevgiyenigelecegim.online
 sevgiyenigelecek.online
 sevgiyigelecegim.online
 sevgiyigelecek.online
+sevgiyili.online
 sevgiyiyonlendir.com
 sevgiyle-gelip-bizleri-sevenleri-unutmayiz.com
 sevgiyle-hislerle-guzeldir-iyiden-geriye-sever.com
@@ -355281,6 +355302,7 @@ tokibasvurumerkez.store
 tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
+tokibasvurumutamamla.click
 tokibasvurumutamamla.online
 tokibasvurumutamamla.site
 tokibasvurumuyapiyorum.b-cdn.net
@@ -355713,6 +355735,7 @@ toogfirsatcekilisi-sizlerle.net
 toogggggarantkatilimmmm.cloud
 toogggtf10tf.com
 tookiibasvvur.art
+tookiibasvvur.info
 tookiibasvvur.pro
 tookiibasvvur.sa.com
 tookiibasvvur.xyz
@@ -377133,6 +377156,7 @@ vbl9mf.duckdns.org
 vbluroinaiqz.boyacentury.cn
 vbm3kwdtrza9.click
 vbmckay.org
+vbmobil.com
 vbmobilhizmettrgiris.co.vu
 vbmobill-v-dijitall-v.tk
 vbmobilllvdijitall-v.tk
