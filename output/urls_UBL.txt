@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-29 08:13:27 UTC
-! Total: 333190 rules
+! Last modified: 2025-10-29 09:10:00 UTC
+! Total: 333210 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2624,6 +2624,7 @@
 *://*.13-ocakfirsatlari.shop/*
 *://*.13-ocakozelfirsatlar.shop/*
 *://*.1305002024.com/*
+*://*.130ilkevim-toki-basvuru.sbs/*
 *://*.1312314.online/*
 *://*.1312412431243124312124.cloud/*
 *://*.13128964681684648412.com/*
@@ -3316,6 +3317,7 @@
 *://*.155905735612879370.com/*
 *://*.155984615.site/*
 *://*.155f00ffd2d4.com/*
+*://*.155konutbasvuru.sbs/*
 *://*.155polis-tr.online/*
 *://*.155polisi155tr.online/*
 *://*.155polisil155tr.online/*
@@ -41067,6 +41069,8 @@
 *://*.basvurtny.xyz/*
 *://*.basvurtoki.com/*
 *://*.basvurtoki.online/*
+*://*.basvurtoki.xyz/*
+*://*.basvurtokim.xyz/*
 *://*.basvurtrbinance.com/*
 *://*.basvurtrbinance.info/*
 *://*.basvurtrbinance.shop/*
@@ -42458,6 +42462,7 @@
 *://*.basvurutoki.site/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokl.click/*
+*://*.basvurutokl.com/*
 *://*.basvurutoplukonutlar.com/*
 *://*.basvurutr-bnncrgiris.online/*
 *://*.basvurutr-bnnrgiris.online/*
@@ -51687,6 +51692,7 @@
 *://*.binancetrkampanyagirisislemi2022.org/*
 *://*.binancetrkaydetmeksorguonline.net/*
 *://*.binancetrkayitdogrulama.online/*
+*://*.binancetrmarket.sbs/*
 *://*.binancetrmobilgiris.ml/*
 *://*.binancetrmobilgirissubesi.cf/*
 *://*.binancetrmobilgirissubesi.ga/*
@@ -51700,6 +51706,7 @@
 *://*.binancetrpro.sbs/*
 *://*.binancetrsonbaharhediyeleri.ml/*
 *://*.binancetrustsupport.top/*
+*://*.binancetrwallet.sbs/*
 *://*.binancetryenihediyeler.ml/*
 *://*.binancetumeventlerivekampanyalaritekbiryerdesorgula.net/*
 *://*.binanceturkey.org/*
@@ -113963,6 +113970,7 @@
 *://*.evlyliykkredibasvur.net/*
 *://*.evlyliykredsinibasvuru.net/*
 *://*.evlytkyttlt-deh.xyz/*
+*://*.evmbasvr2025.online/*
 *://*.evmfk.com/*
 *://*.evmlskmvxzcbla.net/*
 *://*.evmos-claim.org/*
@@ -151968,6 +151976,7 @@
 *://*.hizli-tl-yuklem.com/*
 *://*.hizli-tl-yukleme-bimcelll.net/*
 *://*.hizli-tlyukle-bimcelll.com/*
+*://*.hizli-toklbsvur.com/*
 *://*.hizli-tr.com.tr/*
 *://*.hizli-transfer-ekrani.online/*
 *://*.hizli-yenidenizbasvurubireysel.com/*
@@ -157400,6 +157409,7 @@
 *://*.hzlfkslee.net/*
 *://*.hzlgecsdmelrhgs.com/*
 *://*.hzlgvjcsykglme.net/*
+*://*.hzli-bsvrtokl.com/*
 *://*.hzli-islemler-ptthgcsogs.com/*
 *://*.hzli-yonlndirici.sbs/*
 *://*.hzlibasvrhemengriskaytmerkezi.com/*
@@ -161986,6 +161996,7 @@
 *://*.ilkehaberajanss.com/*
 *://*.ilkemburs.net/*
 *://*.ilkemedya.com/*
+*://*.ilkevbasvurular.sbs/*
 *://*.ilkevim-basvuru.com/*
 *://*.ilkevim-online-basvuru.cfd/*
 *://*.ilkevim-portal-giris.com/*
@@ -162011,6 +162022,7 @@
 *://*.ilkevimkonutlari.cloud/*
 *://*.ilkevimnet.com/*
 *://*.ilkevimprojesi.com/*
+*://*.ilkevimprojesi.xyz/*
 *://*.ilkevimprojesidanismanligi.com/*
 *://*.ilkevimprojesidanismanlik.com/*
 *://*.ilkevimsosyal.cfd/*
@@ -237133,6 +237145,7 @@
 *://*.projehavuzumuz.com/*
 *://*.projekthd.com/*
 *://*.projeler-toki-burada.cfd/*
+*://*.projeler-toki-buradan.icu/*
 *://*.projemizvarbayramdan.com/*
 *://*.projesosylakonutbasvuru.net/*
 *://*.projetodegente.com/*
@@ -282171,6 +282184,7 @@
 *://*.tkibsvurlarim.com/*
 *://*.tkibsvuru2023.com/*
 *://*.tkilerevdler12521.net/*
+*://*.tkilkevim.sbs/*
 *://*.tkioe.com/*
 *://*.tkipetislemlerim.info/*
 *://*.tkipfirsatbasvuru-globalkmpnyasibu.com/*
@@ -283243,9 +283257,13 @@
 *://*.tokicloudpage.com/*
 *://*.tokicloudpages.com/*
 *://*.tokiden.org/*
+*://*.tokidenbasvur.live/*
 *://*.tokidenbasvuru.com/*
+*://*.tokiebasvur.xyz/*
 *://*.tokiekkonut.com/*
 *://*.tokiev.com/*
+*://*.tokiev.xyz/*
+*://*.tokievbasvuru.xyz/*
 *://*.tokievibasvurum.com/*
 *://*.tokievim.com.tr/*
 *://*.tokievim.com/*
@@ -283267,6 +283285,7 @@
 *://*.tokiilkevimbasvuruekrani.com/*
 *://*.tokikayitlar.org/*
 *://*.tokikonut.org/*
+*://*.tokikonut.xyz/*
 *://*.tokikonutal500binbasvuruekrani.com/*
 *://*.tokikonutbaskanligi.org/*
 *://*.tokikonutbasvulari.com/*
@@ -283281,6 +283300,7 @@
 *://*.tokikonutdan.com/*
 *://*.tokikonutevleri.cloud/*
 *://*.tokikonutevleribasvurusu.com/*
+*://*.tokikonutlar.xyz/*
 *://*.tokikonutlari-2025.com/*
 *://*.tokikonutlaribasvru.click/*
 *://*.tokikonutlaribasvuru.cloud/*
