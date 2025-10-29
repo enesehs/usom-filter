@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-29 07:10:23 UTC
-# Toplam: 418373 Domain
+# Son Güncelleme: 2025-10-29 08:13:27 UTC
+# Toplam: 418391 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14317,6 +14317,7 @@
 5000dogeparibudanhediyeler.com
 5000dogeparibudanhediyeleri.com
 5000fast.com
+5000konut.site
 5000tldestek.gq
 5000tldestek.ml
 5000tldestek.tk
@@ -14758,6 +14759,7 @@
 53holdx.ddns.net
 53holdxx.ddns.net
 53ipw6z.duckdns.org
+53lzqqd.storage.googleapis.com
 53mhgxt82.duckdns.org
 53q86v2r.duckdns.org
 53qvtfnk.duckdns.org
@@ -69666,6 +69668,7 @@ binancetrmobilgirissubesi.gq
 binancetrmobilgirissubesi.ml
 binancetrmobilgirissubesi.tk
 binancetrnet.com
+binancetrnet.sbs
 binancetrpay.sbs
 binancetrplus.sbs
 binancetrportleeand.vercel.app
@@ -185227,6 +185230,7 @@ hgesssaaduxwwxpwwsheelivejanti.tech
 hgetknlkksaksammm.tk
 hgetknlkksoglnn.tk
 hgetknlksaksammm.tk
+hgeu.cn
 hgexdsotuyolsh.site
 hgexdsotuyolsh.store
 hgf.bvwds.icu
@@ -190762,6 +190766,7 @@ hizlitlyukle.xyz
 hizlitlyuklebimtlyukle.com
 hizlitlyukleme.com
 hizlitlyuklemehizmetibim.com
+hizlitokislemleri.duckdns.org
 hizlitrafikcezasiodememerkeziburada.blogspot.com
 hizlitrafiksigortasi.com
 hizlitrafiksigortasi.com.tr
@@ -192962,6 +192967,7 @@ hominesdenizlesk.com
 hominesfleskcan.com
 hominesminesflesk.com
 hominestebcanflesk.com
+homipeo.store
 homisefleskfero.com
 homisgeceakflesk.com
 homisnetfleskcan.com
@@ -196428,6 +196434,7 @@ i5pb9ki.cn
 i5s5ck.duckdns.org
 i5scga.duckdns.org
 i5shwc1to.duckdns.org
+i5vwrodoxui.storage.googleapis.com
 i5w2r98f.duckdns.org
 i5yzej6p.duckdns.org
 i60f1bri.duckdns.org
@@ -219215,6 +219222,7 @@ julnow333.top
 julnow555.top
 julnow777.top
 julvenis.com
+julveriq.com
 julvioiloy.duckdns.org
 july-byramfirsatidaybsvur.net
 july-cam-paings-events-acc.net
@@ -229125,6 +229133,7 @@ kilometrenizsmdican.web.app
 kilometreogrenin.cfd
 kilometreogrenmeservis.web.app
 kilometreoline.web.app
+kilometreonay.web.app
 kilometrepatronum.cfd
 kilometrepttavm.web.app
 kilometresaygilar.cfd
@@ -310717,6 +310726,7 @@ rnkjxwsrnl.duckdns.org
 rnkkhfxuqn.duckdns.org
 rnkkjfetpm.duckdns.org
 rnkyxtqmkj.duckdns.org
+rnlcx9pe8.storage.googleapis.com
 rnliheapmi.duckdns.org
 rnlolbab.duckdns.org
 rnlwl.duckdns.org
@@ -330378,6 +330388,7 @@ sinirlisureile.com
 sinirlisureli.online
 sinirlisureliindirimler.com
 sinirliteklif.online
+sinirliurunlerinkampanyasi.sbs
 sinirran.net
 sinirsiz-20gb-internet.com
 sinirsiz-e-hizmetler2023.com
@@ -337920,6 +337931,7 @@ sponros22123.nicepage.io
 sponrsrlklu1o1temmzkapida.com
 sponrssklu1o1frsattlar.com
 spons0rlu-592519529595292.online
+spons0rlu-y0nlendirme-wsynx.com
 sponsarp.com
 sponsarp.info
 sponslrumedya2025.duckdns.org
@@ -338401,6 +338413,7 @@ sponsorumgirisyaptirdi.com
 sponsorunuzbbvanizttog.com
 sponsorverdict.top
 sponsorxs.cfd
+sponsoryonlendirmebntr.com
 sponsotinegiriyombe.com
 sponsporlugonderi.onlinemagazaislemlerin.com
 sponsrklu1o1firsat.duckdns.org
@@ -355028,9 +355041,11 @@ toki-adresi.xyz
 toki-bas-vur.net
 toki-bas-vurru.pro
 toki-basvur-2025.com
+toki-basvur.blogspot.com
 toki-basvur.cfd
 toki-basvur.com
 toki-basvurru.sa.com
+toki-basvuru-2025.xyz
 toki-basvuru-99.blogspot.com
 toki-basvuru-e-devlet.b-cdn.net
 toki-basvuru.duckdns.org
@@ -355105,6 +355120,7 @@ tokibasvur.net
 tokibasvur.online
 tokibasvur.org
 tokibasvur.site
+tokibasvur.xyz
 tokibasvur2025.qzz.io
 tokibasvurdum.xyz
 tokibasvuredevlet-20f08.kxcdn.com
@@ -355115,12 +355131,14 @@ tokibasvuru-20f08.kxcdn.com
 tokibasvuru-adresim.xyz
 tokibasvuru-edevlet-girisyap.online
 tokibasvuru.apathe.net
+tokibasvuru.blogspot.com
 tokibasvuru.cyou
 tokibasvuru.info
 tokibasvuru.myvnc.com
 tokibasvuru.net
 tokibasvuru.online
 tokibasvuru.org
+tokibasvuru.sbs
 tokibasvuru.tech
 tokibasvuru.xyz
 tokibasvurubasladi.net
