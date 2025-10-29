@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-29 21:08:29 UTC
-# Toplam: 418623 Domain
+# Son Güncelleme: 2025-10-29 22:08:35 UTC
+# Toplam: 418632 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40418,6 +40418,7 @@ aleynakkuzu.info
 aleynanurfirat.com
 alfa1000.zapto.org
 alfabank.156953coinbase.com
+alfabank.basvuru-toki.sa.com
 alfabankhack.ddns.net
 alfabe2024-try.xyz
 alfabenis0302.site
@@ -59275,6 +59276,7 @@ basvurutoki.com
 basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
+basvurutokii1451.xyz
 basvurutokileri.online
 basvurutokl.click
 basvurutokl.com
@@ -105329,6 +105331,7 @@ deepallergic.top
 deepbluebay.com
 deepbroke.net
 deepface.pro
+deepfish.com.tr
 deepgraphics.co.za
 deephq.store
 deepislem.22web.org
@@ -201482,6 +201485,7 @@ ilkevbasvurular.sbs
 ilkevbasvurusu.sbs
 ilkevim-basvuru.com
 ilkevim-basvuru.org
+ilkevim-basvuru.sa.com
 ilkevim-basvuru.work
 ilkevim-online-basvuru.blogdns.com
 ilkevim-online-basvuru.cfd
@@ -233082,6 +233086,7 @@ kpida101.com
 kpidaa-ekkstrraaaonllne.com
 kpidaa-kmlamarr.com
 kpinim.com
+kpinizgtrlmshemnbrda.net
 kpiyfz1ya.duckdns.org
 kpjbdrh13526248.ua
 kpjdzbk7234792.ua
@@ -297387,6 +297392,7 @@ ptt-onlineship.online
 ptt-ontr.cc
 ptt-ost.top
 ptt-otoyol.cf
+ptt-ov-tr.cc
 ptt-parcel.cc
 ptt-parcel.top
 ptt-parcel.xyz
@@ -355251,6 +355257,7 @@ toki-gov-tr.gq
 toki-gov-tr.ml
 toki-gov-tr.tk
 toki-ilkevim.shop
+toki-kampanya.com
 toki-konut-basvuru.com
 toki-konutlar.sbs
 toki-konutlari-basvuru.best
@@ -355304,6 +355311,7 @@ tokibasvur.com
 tokibasvur.net
 tokibasvur.online
 tokibasvur.org
+tokibasvur.pro
 tokibasvur.site
 tokibasvur.xyz
 tokibasvur2025.qzz.io
@@ -413781,6 +413789,7 @@ z1fqby0n.duckdns.org
 z1o1comtr.online
 z1q4cusb.duckdns.org
 z1raat-com.cfd
+z1raat-online-islemler.cfd
 z1raat.sbs
 z1raat25ekim.cfd
 z1raat27ekim.cfd

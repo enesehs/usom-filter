@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-29 21:08:29 UTC
-! Total: 333358 rules
+! Last modified: 2025-10-29 22:08:35 UTC
+! Total: 333365 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42488,6 +42488,7 @@
 *://*.basvurutoki.digital/*
 *://*.basvurutoki.pro/*
 *://*.basvurutoki.site/*
+*://*.basvurutokii1451.xyz/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokl.click/*
 *://*.basvurutokl.com/*
@@ -80571,6 +80572,7 @@
 *://*.deepbluebay.com/*
 *://*.deepbroke.net/*
 *://*.deepface.pro/*
+*://*.deepfish.com.tr/*
 *://*.deepgraphics.co.za/*
 *://*.deephq.store/*
 *://*.deepl-fanyi.com/*
@@ -188270,6 +188272,7 @@
 *://*.kpidaa-ekkstrraaaonllne.com/*
 *://*.kpidaa-kmlamarr.com/*
 *://*.kpinim.com/*
+*://*.kpinizgtrlmshemnbrda.net/*
 *://*.kpjbdrh13526248.ua/*
 *://*.kpjdzbk7234792.ua/*
 *://*.kpjemjk5137640.ua/*
@@ -238938,6 +238941,7 @@
 *://*.ptt-ontr.cc/*
 *://*.ptt-ost.top/*
 *://*.ptt-otoyol.cf/*
+*://*.ptt-ov-tr.cc/*
 *://*.ptt-parcel.cc/*
 *://*.ptt-parcel.top/*
 *://*.ptt-parcel.xyz/*
@@ -283276,6 +283280,7 @@
 *://*.toki-gov-tr.ml/*
 *://*.toki-gov-tr.tk/*
 *://*.toki-ilkevim.shop/*
+*://*.toki-kampanya.com/*
 *://*.toki-konut-basvuru.com/*
 *://*.toki-konutlar.sbs/*
 *://*.toki-konutlari-basvuru.best/*
@@ -283307,6 +283312,7 @@
 *://*.tokibasvur.net/*
 *://*.tokibasvur.online/*
 *://*.tokibasvur.org/*
+*://*.tokibasvur.pro/*
 *://*.tokibasvur.site/*
 *://*.tokibasvur.xyz/*
 *://*.tokibasvurdum.xyz/*
@@ -329808,6 +329814,7 @@
 *://*.z1cv.com/*
 *://*.z1o1comtr.online/*
 *://*.z1raat-com.cfd/*
+*://*.z1raat-online-islemler.cfd/*
 *://*.z1raat.sbs/*
 *://*.z1raat25ekim.cfd/*
 *://*.z1raat27ekim.cfd/*
