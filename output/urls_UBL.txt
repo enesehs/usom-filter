@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-29 11:08:45 UTC
-! Total: 333231 rules
+! Last modified: 2025-10-29 13:26:09 UTC
+! Total: 333278 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6805,6 +6805,7 @@
 *://*.250bintoplukonut.com/*
 *://*.250bintoplukonut.xyz/*
 *://*.250bintoplukonutbasvurusu.com/*
+*://*.250bintoplukonutlarproje.com/*
 *://*.250bintoplukonutproje.com/*
 *://*.250bintoplukonutprojesi.com/*
 *://*.250ekpromosyon.ml/*
@@ -9460,7 +9461,9 @@
 *://*.500konut-bsrv.lol/*
 *://*.500konut-bsrv.sbs/*
 *://*.500konutbasvuru.sbs/*
+*://*.500konutprojesi.cfd/*
 *://*.500konutprojesi.lol/*
+*://*.500konutprojesi.sbs/*
 *://*.500tl-pandemi-destek.com/*
 *://*.500tl-yukle-finansbank.com/*
 *://*.500tlaidatiadesi.com/*
@@ -42627,6 +42630,8 @@
 *://*.basvurzsr.xyz/*
 *://*.basvurzuz.site/*
 *://*.basvutrruresmibnncs.com/*
+*://*.basvvurtooki.art/*
+*://*.basvvurtooki.pro/*
 *://*.basvvuru-ieademerkezi-edevlet.com/*
 *://*.basvvuuurrrissssskatilim.cloud/*
 *://*.basyurtinternetcafe.ml/*
@@ -42896,9 +42901,11 @@
 *://*.baykar-fashion.ru/*
 *://*.baykar-fly.digital/*
 *://*.baykar-invest.com/*
+*://*.baykar-investment-opportunity.com/*
 *://*.baykar-investmentopportunity.com/*
 *://*.baykar-news.info/*
 *://*.baykar-opt.com.ua/*
+*://*.baykar-platform.com/*
 *://*.baykar-pro.world/*
 *://*.baykar-teknolojiler.pro/*
 *://*.baykar-tr.click/*
@@ -42923,6 +42930,7 @@
 *://*.baykara.eu/*
 *://*.baykaradim.com/*
 *://*.baykaraegitimvakfi.com/*
+*://*.baykarai.net/*
 *://*.baykaral.xyz/*
 *://*.baykarapps.com/*
 *://*.baykaras.xyz/*
@@ -42952,6 +42960,7 @@
 *://*.baykarinvest.xyz/*
 *://*.baykarinvesting.com/*
 *://*.baykarinvestment.com/*
+*://*.baykarinvestmentopportunity.net/*
 *://*.baykarkatilim.com/*
 *://*.baykarnews.com/*
 *://*.baykarnews.info/*
@@ -42970,10 +42979,12 @@
 *://*.baykarrrgelir.com/*
 *://*.baykars-tr.com/*
 *://*.baykars.org/*
+*://*.baykarsavunmasanayi.com/*
 *://*.baykarsmartai.com/*
 *://*.baykarstr.com/*
 *://*.baykarsystem.tr/*
 *://*.baykarsystems.com/*
+*://*.baykartech.cc/*
 *://*.baykartech.icu/*
 *://*.baykartech.life/*
 *://*.baykartech.live/*
@@ -51678,6 +51689,8 @@
 *://*.binancetr2yilozel.ml/*
 *://*.binancetrapp.sbs/*
 *://*.binancetrbasvuru.net/*
+*://*.binancetrchain.sbs/*
+*://*.binancetrcloud.sbs/*
 *://*.binancetrcom.org/*
 *://*.binancetrconnect.sbs/*
 *://*.binancetrcozum.com/*
@@ -51685,6 +51698,7 @@
 *://*.binancetrdebuyukkampanya.ml/*
 *://*.binancetrdeeylulfirsatlari.ml/*
 *://*.binancetrdestek.com/*
+*://*.binancetrfuture.sbs/*
 *://*.binancetrgiris-user.tech/*
 *://*.binancetrglobal.sbs/*
 *://*.binancetrguvenlikonayla.ml/*
@@ -51712,6 +51726,7 @@
 *://*.binancetrustsupport.top/*
 *://*.binancetrwallet.sbs/*
 *://*.binancetryenihediyeler.ml/*
+*://*.binancetrzone.sbs/*
 *://*.binancetumeventlerivekampanyalaritekbiryerdesorgula.net/*
 *://*.binanceturkey.org/*
 *://*.binanceturkiye.cloud/*
@@ -59646,6 +59661,7 @@
 *://*.bntr-3949324412412.com/*
 *://*.bntr-5435439513245123421.com/*
 *://*.bntr-5435439513245123421.xyz/*
+*://*.bntr-sponsorlugiris1.cfd/*
 *://*.bntr-xrpbasvuru.com/*
 *://*.bntr.info/*
 *://*.bntr155213165giris.com/*
@@ -62004,6 +62020,7 @@
 *://*.bsvrdiadealcffs.com/*
 *://*.bsvrdstk.online/*
 *://*.bsvrdznzz.click/*
+*://*.bsvrdznzz10.click/*
 *://*.bsvrekran.net/*
 *://*.bsvrekrani.net/*
 *://*.bsvrfrmgbvvatr.in/*
@@ -74844,6 +74861,7 @@
 *://*.comonwealthplc.com/*
 *://*.comoxxossq.asia/*
 *://*.compact-miracle-abounds.top/*
+*://*.compact.link/*
 *://*.compactembed.ml/*
 *://*.compactmediate.top/*
 *://*.compactrejoice.top/*
@@ -92581,6 +92599,7 @@
 *://*.doyartik.club/*
 *://*.doyartik.online/*
 *://*.doyartik.site/*
+*://*.doydukmudoyduk.sbs/*
 *://*.doyourbestyet.com/*
 *://*.doyumsuzakisverlerhafaasi.cfd/*
 *://*.doyumsuzakisverlerhafaasi.sbs/*
@@ -100191,6 +100210,7 @@
 *://*.ebasvur-qnbfinansbank.com/*
 *://*.ebasvur-teb-bilgi.com/*
 *://*.ebasvur-turkeygovtr.com/*
+*://*.ebasvur.com/*
 *://*.ebasvur.online/*
 *://*.ebasvur150aile.com/*
 *://*.ebasvur150ailegenc.com/*
@@ -113570,6 +113590,7 @@
 *://*.evklrkdbsvr.net/*
 *://*.evklrmiredial.net/*
 *://*.evknrkj.net/*
+*://*.evkolay.click/*
 *://*.evkrbsvrlr.net/*
 *://*.evkrdbskr.net/*
 *://*.evkrdbsvr.net/*
@@ -114079,6 +114100,7 @@
 *://*.evsaklism.net/*
 *://*.evscklemkaiz.net/*
 *://*.evsdkrltrltr.net/*
+*://*.evsenin.click/*
 *://*.evsizler.cloud/*
 *://*.evskdmkaiz.net/*
 *://*.evsldrktr3er-er.com/*
@@ -120454,6 +120476,7 @@
 *://*.firsatlartemmuz-101.space/*
 *://*.firsatlartemmuzda.com/*
 *://*.firsatlartemmuzu.com.tr/*
+*://*.firsatlartirlebiz.xyz/*
 *://*.firsatlartrbasliyortronline.net/*
 *://*.firsatlarvar.com/*
 *://*.firsatlarvekampanyalar.cfd/*
@@ -133497,6 +133520,7 @@
 *://*.govtrs.top/*
 *://*.govtrturkiyecom.com/*
 *://*.govtur.top/*
+*://*.govturkey.click/*
 *://*.govturkiye-tr-online-aidat-kontrol-sistemi-aspx.tk/*
 *://*.govturkiye.website/*
 *://*.govu.ml/*
@@ -144923,6 +144947,7 @@
 *://*.hazirihtiyackredim.com/*
 *://*.hazirindirimliurunlerimonline.com/*
 *://*.hazirkiralamaofisi.com/*
+*://*.hazirkmpnyasendekatil.site/*
 *://*.hazirkredi.org/*
 *://*.hazirkredi.tk/*
 *://*.hazirkredial.com/*
@@ -162043,6 +162068,7 @@
 *://*.ilkevimtoki.click/*
 *://*.ilkevimtokibasvuru.com/*
 *://*.ilkevimtokibasvuru.sbs/*
+*://*.ilkevinkayitlari.org/*
 *://*.ilkevkonultlkapi.com/*
 *://*.ilkevlerisattik.cfd/*
 *://*.ilkevm.com/*
@@ -170841,6 +170867,7 @@
 *://*.istanbulucyumben.pro/*
 *://*.istanbulularyuklmesi.net/*
 *://*.istanbululasim.org/*
+*://*.istanbululasiminizz.info/*
 *://*.istanbululxsim.net/*
 *://*.istanbulum.online/*
 *://*.istanbulumasdsasd.net/*
@@ -184624,6 +184651,7 @@
 *://*.keredtite.shop/*
 *://*.keremakturkoglu.sbs/*
 *://*.keremanrakler.click/*
+*://*.keremcalnacl.com/*
 *://*.keremmakklok.com/*
 *://*.keremmingrt.site/*
 *://*.keremsaksalsak.xyz/*
@@ -187838,6 +187866,7 @@
 *://*.konut-kredim-finansbank.com/*
 *://*.konut.app/*
 *://*.konut20012024.com/*
+*://*.konut5000.com/*
 *://*.konutbasvur.com/*
 *://*.konutbasvurhizmetleri-89.net/*
 *://*.konutbasvurhizmetleri-99.net/*
@@ -194411,6 +194440,7 @@
 *://*.lohuis.ae/*
 *://*.loiol.site/*
 *://*.lojogisoro.com/*
+*://*.lokal-internet-bvtr.digital/*
 *://*.lokalut.ru/*
 *://*.lokaxz.xyz/*
 *://*.lokelokwdx.click/*
@@ -194472,6 +194502,7 @@
 *://*.loncarr.com/*
 *://*.lonchocarpus.com/*
 *://*.londoil.com/*
+*://*.london-borough.com/*
 *://*.london-elektro-market.com/*
 *://*.london-escorts-agency.org.uk/*
 *://*.londonbeautyclinic.pk/*
@@ -212723,6 +212754,7 @@
 *://*.nexigate.digital/*
 *://*.nexilar.shop/*
 *://*.nexis.pro/*
+*://*.nexixor.com/*
 *://*.nexo-okta.com/*
 *://*.nexo-tr.com/*
 *://*.nexodream.com/*
@@ -214089,6 +214121,7 @@
 *://*.nolarbusektre.app/*
 *://*.nolcakbudosyalarhakimamca.online/*
 *://*.nolekans.top/*
+*://*.nolinoerti.fit/*
 *://*.nolitko.tr/*
 *://*.nolovenolivethiiswarinworld.com/*
 *://*.nolpoast.online/*
@@ -264983,6 +265016,7 @@
 *://*.smarttech-turk.com/*
 *://*.smarttptt.com/*
 *://*.smartturkproj.com/*
+*://*.smartvisioncom.com/*
 *://*.smartwashingtonhomebuyers.com/*
 *://*.smartwealth24.info/*
 *://*.smartweb9.com/*
@@ -266213,6 +266247,7 @@
 *://*.sokmarketlerr.com/*
 *://*.sokmarketlersanal.site/*
 *://*.sokmarketlertr.site/*
+*://*.sokmarketlervveb.com/*
 *://*.sokmarketlerzinciri.online/*
 *://*.sokmarketlim.online/*
 *://*.sokmarketonline.com.tr/*
@@ -274296,6 +274331,7 @@
 *://*.susunamdasusunam.com/*
 *://*.suteno.click/*
 *://*.sutherlandtaylor94.xyz/*
+*://*.sutileincir.cfd/*
 *://*.sutmarkjer.site/*
 *://*.sutrablin.club/*
 *://*.sutranjdf.info/*
@@ -281235,6 +281271,7 @@
 *://*.thetcneonle.xyz/*
 *://*.thetcotonthers.com/*
 *://*.thetisweb.it/*
+*://*.thetitlebalcony.com/*
 *://*.thetollroads-errp.top/*
 *://*.thetollroads-paytollhmm.xn--world-vz3b/*
 *://*.thetollroads-paytollktc.xn--world-vz3b/*
@@ -283152,6 +283189,7 @@
 *://*.toki-basvur-2025.com/*
 *://*.toki-basvur.cfd/*
 *://*.toki-basvur.com/*
+*://*.toki-basvurru.info/*
 *://*.toki-basvuru-2025.xyz/*
 *://*.toki-basvuru.info/*
 *://*.toki-basvuru.online/*
@@ -283206,6 +283244,9 @@
 *://*.tokibasvurdum.xyz/*
 *://*.tokibasvurlilerim.net/*
 *://*.tokibasvurr.com/*
+*://*.tokibasvurru.art/*
+*://*.tokibasvurru.info/*
+*://*.tokibasvurru.pro/*
 *://*.tokibasvurtoplukonut.com/*
 *://*.tokibasvuru-adresim.xyz/*
 *://*.tokibasvuru-edevlet-girisyap.online/*
@@ -283246,6 +283287,7 @@
 *://*.tokibasvurumm.net/*
 *://*.tokibasvurumonline.click/*
 *://*.tokibasvurumutamamla.online/*
+*://*.tokibasvurumutamamla.site/*
 *://*.tokibasvurunuz.click/*
 *://*.tokibasvurunuzonline.click/*
 *://*.tokibasvuruonline.com/*
@@ -283552,6 +283594,9 @@
 *://*.toogfirsatcekilisi-sizlerle.net/*
 *://*.toogggggarantkatilimmmm.cloud/*
 *://*.toogggtf10tf.com/*
+*://*.tookiibasvvur.art/*
+*://*.tookiibasvvur.pro/*
+*://*.tookiibasvvur.xyz/*
 *://*.tookiso.live/*
 *://*.tookmgir.pw/*
 *://*.toolkitapi.xyz/*
@@ -328236,6 +328281,7 @@
 *://*.yolhgss.com/*
 *://*.yolipfasda.one/*
 *://*.yolkaramhgsgecisbilgi.com/*
+*://*.yolkun.click/*
 *://*.yollar-bilgilendirme.com/*
 *://*.yollar-sirlarla-gezginler-hayalperest.com/*
 *://*.yollar-sirlarla-gezginler-uzaklarda.com/*
@@ -332287,6 +332333,7 @@
 *://*.ziratmobilimtr.ml/*
 *://*.ziratmobiliniz.cf/*
 *://*.ziratmobiliniz.ga/*
+*://*.ziratmobilsube.cfd/*
 *://*.ziratmobilyenilendi.com/*
 *://*.ziratmobilyenilendiii.com/*
 *://*.ziratoffshorebnk-tr.com/*
