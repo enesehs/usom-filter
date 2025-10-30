@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 11:08:19 UTC
-# Toplam: 418735 Domain
+# Son Güncelleme: 2025-10-30 13:23:52 UTC
+# Toplam: 418759 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14378,6 +14378,7 @@
 500bintoplukonutbasvuru.webhop.org
 500bintoplukonutbasvurusu.com
 500bintoplukonutlar.com
+500bintoplukonutlarproje.com
 500bintoplukonutonline.webhop.org
 500bnanceusdt.com
 500bnb-tr2022bnbmobilgiris.com
@@ -47271,6 +47272,7 @@ aracrandvunx.net
 aracrandvutruk.net
 aracrandvutvk.net
 aracrandvutvuk.net
+aracrent.com
 aracrndevum.xyz
 aracrndvuhizmtleri.xyz
 aracrsndavum.net
@@ -75588,6 +75590,7 @@ bloomingdales-digital.com
 bloomingdales-dos.com
 bloomingdalesseo.com
 bloomingdayspa.com
+bloommzone.com
 bloomoptimum.top
 bloomprerequisite.top
 bloomridge.site
@@ -118989,6 +118992,7 @@ doruklarasevdalancaz.blogspot.com
 doruksl.store
 dorupakevdepaketleme.com
 dorusio.com
+dorvenis.com
 dorwjb.duckdns.org
 dosageautonomy.top
 dosagesnap.top
@@ -135748,6 +135752,7 @@ email-verify-apple.com
 email.gov.in.attachment.drive.servicesmail.site
 email.gov.in.maildrive.email
 email.mg-d0.substack.com
+email.mg-d1.substack.com
 email.microsoftonline.services
 email.sco.gov.pk.viewdoc.online
 email.uqauv.cn
@@ -143227,6 +143232,7 @@ evimaltus.com
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
+evimeyonlendirbeni.site
 evimfirsatta.click
 evimgroup.tech
 evimicin.click
@@ -183810,6 +183816,7 @@ hemnebinmeyebasla.com.tr
 hemnebinmeyebasla.xyz
 hemnenkosfirsatlara.com.tr
 hemnenkosfirsatlara.online
+hemnhizlionnline.net
 hemnhzligirsbasvrunktassi.com
 hemnkampanyalarburdasendefaydalan.com.tr
 hemnkatl-firsatiniyakla.com
@@ -201476,6 +201483,8 @@ ilinternette-ziraat.club
 ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
+ilk-evden-gov-tr.vercel.app
+ilk-evim-gov-tr.vercel.app
 ilk-evim-sosyalkonut.click
 ilk-evim-sosyalkonut.icu
 ilk-evim-sosyalkonut.lol
@@ -228645,6 +228654,7 @@ kgm-govz-tr.cfd
 kgm-guv.com
 kgm-hgs.com
 kgm-kgs.com
+kgm-oag.com
 kgm-oga.com
 kgm-ogc.com
 kgm-ogd.com
@@ -229308,6 +229318,7 @@ kilometreislmlrnzz.web.app
 kilometrekanirtan.cfd
 kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
+kilometrekayitlari.sa.com
 kilometrekayitlarim.web.app
 kilometrelerinizleogren.cfd
 kilometrem.sa.com
@@ -229333,6 +229344,7 @@ kilometreonay.web.app
 kilometrepatronum.cfd
 kilometrepttavm.web.app
 kilometreraporcusu.web.app
+kilometreraporu.sa.com
 kilometresaygilar.cfd
 kilometreservisleri.sa.com
 kilometresine.sa.com
@@ -229456,6 +229468,7 @@ kilometreuzmanim.cfd
 kilometrev.web.app
 kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
+kilometreverisi.web.app
 kilometreyokeden.cfd
 kilometrosgorgulamahemengovpttsxsaz.com
 kilometrsorgularbenzina.web.app
@@ -279791,6 +279804,7 @@ osmanlikatilim.com
 osmanlikkbaytar.space
 osmanlikkcba.com
 osmanlimenkul.in
+osmanlisosyalyardimvakfi.com
 osmanlivakf.com
 osmanlix.com
 osmanliyardimkurulusu.org
@@ -334069,6 +334083,8 @@ sofa.rs
 sofarrada.com
 sofaseatsclearance.com
 sofatvsales.com
+sofewas2.ddnsfree.com
+sofewas3.ddnsfree.com
 sofexjordanx.com
 sofialorin2.zapto.org
 sofianx.ddns.net
@@ -345422,6 +345438,7 @@ syrtime.me
 syrtsnsndj.net
 syrupsouth.top
 syrusim.com
+syrvona.com
 sys-auth-account8652984.org
 sys.688.org
 sys.traceroute.vip
@@ -355260,6 +355277,7 @@ toiwbcm.com
 toiyeuvn.dongaruou.com
 tojqvmse.com
 tok-gar.online
+tok1fortok1.click
 tokaizhudixuanzhe.top
 tokajimafr-55624.portmap.host
 tokanayamaki.digital
@@ -355452,6 +355470,7 @@ tokibasvurularibasladi.com
 tokibasvurularii.online
 tokibasvurularii.shop
 tokibasvurularin.shop
+tokibasvurulariniz.site
 tokibasvurularinizburada.com
 tokibasvurularinizomar.b-cdn.net
 tokibasvurularinizzburadadir.com
@@ -355594,6 +355613,7 @@ tokikonutlarimbasvurum.vercel.app
 tokikonutlarimbasvurusu.vercel.app
 tokikonutlarprojem.best
 tokikonutprojesi.com
+tokikonutprojesibasvur.vercel.app
 tokikonutprojesibasvuru.com
 tokikonutprojesikayitlar.vercel.app
 tokikura.com
@@ -360354,6 +360374,7 @@ trcxmsfcuasd.com
 trczerpronex.net
 trd-finlink.com
 trdavaesorgu.com
+trdavaesorgu.net
 trdblnnnc.click
 trdbrs.online
 trdebugunbslngickmp.sbs
@@ -364439,6 +364460,7 @@ turkcellpasajin.com
 turkcellpasajmagaza.com
 turkcellpasajmagazalar.com
 turkcellpasajmagazalari.com
+turkcellpasajmagazalari.store
 turkcellpasajmagazam.com
 turkcellpasajmagazasi.com
 turkcellpasajmarket.com
@@ -364999,6 +365021,7 @@ turkey-earthquake.com
 turkey-foundation.com
 turkey-gofundme.com
 turkey-gov-tr.online
+turkey-gov.com
 turkey-haberler.life
 turkey-healthform.org
 turkey-help.ru
@@ -415679,6 +415702,7 @@ ziraat-mobilsuben.com
 ziraat-mobilsubeniz.com
 ziraat-mobilsubesi.com
 ziraat-netsube.com
+ziraat-online-islemler.cfd
 ziraat-online-islemmobil.vercel.app
 ziraat-online-islemobiilm.vercel.app
 ziraat-online-islemobiliim.vercel.app

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 11:08:19 UTC
-! Total: 333459 rules
+! Last modified: 2025-10-30 13:23:52 UTC
+! Total: 333474 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9444,6 +9444,7 @@
 *://*.500bintoplukonut.com/*
 *://*.500bintoplukonutbasvurusu.com/*
 *://*.500bintoplukonutlar.com/*
+*://*.500bintoplukonutlarproje.com/*
 *://*.500bnanceusdt.com/*
 *://*.500bnb-tr2022bnbmobilgiris.com/*
 *://*.500bnb-tr2022bnbmobilgiris.xyz/*
@@ -32821,6 +32822,7 @@
 *://*.aracrandvutruk.net/*
 *://*.aracrandvutvk.net/*
 *://*.aracrandvutvuk.net/*
+*://*.aracrent.com/*
 *://*.aracrndevum.xyz/*
 *://*.aracrndvuhizmtleri.xyz/*
 *://*.aracrsndavum.net/*
@@ -56971,6 +56973,7 @@
 *://*.bloomingdales-dos.com/*
 *://*.bloomingdalesseo.com/*
 *://*.bloomingdayspa.com/*
+*://*.bloommzone.com/*
 *://*.bloomoptimum.top/*
 *://*.bloomprerequisite.top/*
 *://*.bloomridge.site/*
@@ -92340,6 +92343,7 @@
 *://*.doruksl.store/*
 *://*.dorupakevdepaketleme.com/*
 *://*.dorusio.com/*
+*://*.dorvenis.com/*
 *://*.dosageautonomy.top/*
 *://*.dosagesnap.top/*
 *://*.dosdevelopers.com/*
@@ -113554,6 +113558,7 @@
 *://*.evimaltus.com/*
 *://*.evimbutik.tech/*
 *://*.evimdekal.org/*
+*://*.evimeyonlendirbeni.site/*
 *://*.evimfirsatta.click/*
 *://*.evimgroup.tech/*
 *://*.evimicin.click/*
@@ -147279,6 +147284,7 @@
 *://*.hemnebinmeyebasla.xyz/*
 *://*.hemnenkosfirsatlara.com.tr/*
 *://*.hemnenkosfirsatlara.online/*
+*://*.hemnhizlionnline.net/*
 *://*.hemnhzligirsbasvrunktassi.com/*
 *://*.hemnkampanyalarburdasendefaydalan.com.tr/*
 *://*.hemnkatl-firsatiniyakla.com/*
@@ -185046,6 +185052,7 @@
 *://*.kgm-guv.com/*
 *://*.kgm-hgs.com/*
 *://*.kgm-kgs.com/*
+*://*.kgm-oag.com/*
 *://*.kgm-oga.com/*
 *://*.kgm-ogc.com/*
 *://*.kgm-ogd.com/*
@@ -224359,6 +224366,7 @@
 *://*.osmanlikkbaytar.space/*
 *://*.osmanlikkcba.com/*
 *://*.osmanlimenkul.in/*
+*://*.osmanlisosyalyardimvakfi.com/*
 *://*.osmanlivakf.com/*
 *://*.osmanlix.com/*
 *://*.osmanliyardimkurulusu.org/*
@@ -275003,6 +275011,7 @@
 *://*.syrtsnsndj.net/*
 *://*.syrupsouth.top/*
 *://*.syrusim.com/*
+*://*.syrvona.com/*
 *://*.sys-auth-account8652984.org/*
 *://*.sys-stat.download/*
 *://*.sys140.cf/*
@@ -283305,6 +283314,7 @@
 *://*.toiwbcm.com/*
 *://*.tojqvmse.com/*
 *://*.tok-gar.online/*
+*://*.tok1fortok1.click/*
 *://*.tokaizhudixuanzhe.top/*
 *://*.tokanayamaki.digital/*
 *://*.tokarackiralama.com/*
@@ -283434,6 +283444,7 @@
 *://*.tokibasvurularii.online/*
 *://*.tokibasvurularii.shop/*
 *://*.tokibasvurularin.shop/*
+*://*.tokibasvurulariniz.site/*
 *://*.tokibasvurularinizburada.com/*
 *://*.tokibasvurularinizzburadadir.com/*
 *://*.tokibasvurularinizzqwea.com/*
@@ -287625,6 +287636,7 @@
 *://*.trczerpronex.net/*
 *://*.trd-finlink.com/*
 *://*.trdavaesorgu.com/*
+*://*.trdavaesorgu.net/*
 *://*.trdblnnnc.click/*
 *://*.trdbrs.online/*
 *://*.trdebugunbslngickmp.sbs/*
@@ -291124,6 +291136,7 @@
 *://*.turkcellpasajmagaza.com/*
 *://*.turkcellpasajmagazalar.com/*
 *://*.turkcellpasajmagazalari.com/*
+*://*.turkcellpasajmagazalari.store/*
 *://*.turkcellpasajmagazam.com/*
 *://*.turkcellpasajmagazasi.com/*
 *://*.turkcellpasajmarket.com/*
@@ -291682,6 +291695,7 @@
 *://*.turkey-foundation.com/*
 *://*.turkey-gofundme.com/*
 *://*.turkey-gov-tr.online/*
+*://*.turkey-gov.com/*
 *://*.turkey-haberler.life/*
 *://*.turkey-healthform.org/*
 *://*.turkey-help.ru/*
@@ -331144,6 +331158,7 @@
 *://*.ziraat-mobilsubeniz.com/*
 *://*.ziraat-mobilsubesi.com/*
 *://*.ziraat-netsube.com/*
+*://*.ziraat-online-islemler.cfd/*
 *://*.ziraat-online.cf/*
 *://*.ziraat-online.ga/*
 *://*.ziraat-online.ml/*
