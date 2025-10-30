@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 16:12:06 UTC
-! Total: 333497 rules
+! Last modified: 2025-10-30 17:09:13 UTC
+! Total: 333539 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2485,6 +2485,7 @@
 *://*.1259773.cloud/*
 *://*.125saffassf.xyz/*
 *://*.126-62777-1.com/*
+*://*.126-62777-1.online/*
 *://*.12652323.com/*
 *://*.126743432434.cloud/*
 *://*.12679437658.top/*
@@ -19380,6 +19381,7 @@
 *://*.adobedownloadupdate.com/*
 *://*.adobefileshare.com/*
 *://*.adobeflashplayer.mobi/*
+*://*.adobeglobal.com/*
 *://*.adobeincorp.com/*
 *://*.adobejiljiouoijlnji9.com/*
 *://*.adobeproduct.com/*
@@ -39832,6 +39834,7 @@
 *://*.bankasubesigiris.com/*
 *://*.bankasziraatintl.com/*
 *://*.bankaverisorgulama.com/*
+*://*.bankaziraat.cfd/*
 *://*.bankaziraat.com/*
 *://*.bankbasvurun.com/*
 *://*.bankbbva.net/*
@@ -40302,6 +40305,7 @@
 *://*.basoglucit.com/*
 *://*.baspinarlartulumpeyniri.com/*
 *://*.baspk.com/*
+*://*.basriasrl.shop/*
 *://*.bassaksigorta.com.tr/*
 *://*.bassaksigorta.xyz/*
 *://*.bassescalation.top/*
@@ -41005,6 +41009,7 @@
 *://*.basvurrrprmsnynn.online/*
 *://*.basvurrrruuackmobilbireyselackkk.com/*
 *://*.basvurrtoki.art/*
+*://*.basvurrtoki.pro/*
 *://*.basvurru-aidatiadenizform.com/*
 *://*.basvurru-eiadeform.com/*
 *://*.basvurru-formeiade.com/*
@@ -42500,6 +42505,7 @@
 *://*.basvurutoki.pro/*
 *://*.basvurutoki.site/*
 *://*.basvurutokii1451.xyz/*
+*://*.basvurutokiii145858.xyz/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokl.click/*
 *://*.basvurutokl.com/*
@@ -43580,6 +43586,8 @@
 *://*.bbuildersget.com/*
 *://*.bbunlarii-nasil-gormezsin.com/*
 *://*.bburadayiz.shop/*
+*://*.bburdsaistsnadbul.store/*
+*://*.bburdsaistsnadbulasd.com/*
 *://*.bbv38.com/*
 *://*.bbv387.com/*
 *://*.bbv4344.xyz/*
@@ -59747,6 +59755,7 @@
 *://*.bntrgiris.shop/*
 *://*.bntrgiris.xyz/*
 *://*.bntrgirisonline.com/*
+*://*.bntrhemengirissponsor.com/*
 *://*.bntrkeygiris.com/*
 *://*.bntrkolaybasvuru-xrp.com/*
 *://*.bntrkolaybasvuru-xrp2.xyz/*
@@ -64255,6 +64264,7 @@
 *://*.burayagirisyok.com/*
 *://*.burayatikla.club/*
 *://*.burayatikla.live/*
+*://*.burayayetisenalir.cfd/*
 *://*.burayaynlyrnsznzbrda.cfd/*
 *://*.burayayonlendrmsks.shop/*
 *://*.burbankgardenstore.com/*
@@ -67644,6 +67654,7 @@
 *://*.carreefourmarketimekim.cfd/*
 *://*.carreefourmarketingmobilgiris.cfd/*
 *://*.carreefourmarketonline.cfd/*
+*://*.carreefourmobil.cfd/*
 *://*.carreefourmobilgiris2025.cfd/*
 *://*.carreefourmobiliris.cfd/*
 *://*.carreefourmobilmarket.cfd/*
@@ -71265,6 +71276,7 @@
 *://*.chjxazim.com/*
 *://*.chkactive.online/*
 *://*.chkatcam.pw/*
+*://*.chkstate.online/*
 *://*.chlirabimcell.com/*
 *://*.chlorenchyma.com/*
 *://*.chobotser.xyz/*
@@ -72283,6 +72295,7 @@
 *://*.cisco-help.cf/*
 *://*.cisco-helpdesk.cf/*
 *://*.cisco-webexxapp.xyz/*
+*://*.ciscoheartbeat.com/*
 *://*.ciscovpn1.com/*
 *://*.ciscovpn2.com/*
 *://*.ciscovpn3.com/*
@@ -92602,6 +92615,7 @@
 *://*.download-desktops-app.com/*
 *://*.download-desktops-pc.com/*
 *://*.download-desktops.com/*
+*://*.download-doc.net/*
 *://*.download-pc-app.com/*
 *://*.download-plugin.co.za/*
 *://*.download-plugins.co.za/*
@@ -94235,6 +94249,7 @@
 *://*.dystvxz.net/*
 *://*.dytlg.com/*
 *://*.dytt88.org/*
+*://*.dytt888.net/*
 *://*.dyurubncagiristr.com/*
 *://*.dyusvppke.org/*
 *://*.dyvifsqfdnj.com/*
@@ -106145,6 +106160,7 @@
 *://*.ekmde-yakla-bunlari.com/*
 *://*.ekmdekrca.cfd/*
 *://*.ekmdekrca.com/*
+*://*.ekmdnbitsgldi.com/*
 *://*.ekmedogrusfrrdksmdkzert.online/*
 *://*.ekmeginesahip.xyz/*
 *://*.ekmekcii.net/*
@@ -106160,6 +106176,7 @@
 *://*.ekmi-kmpanyalari-ayzbir.sbs/*
 *://*.ekmiflrsatlari.cfd/*
 *://*.ekmindenkpinaflrsatlr.cfd/*
+*://*.ekmindnkapnaflrsatlar.sbs/*
 *://*.ekmlim-ayi-flrsatlari.sbs/*
 *://*.ekmmndgrlrlrl.com/*
 *://*.ekmravaswesd.net/*
@@ -114527,6 +114544,7 @@
 *://*.exomphalos.com/*
 *://*.exoobeyy.com/*
 *://*.exopertys.net/*
+*://*.exosel.info/*
 *://*.exostarin.com/*
 *://*.exotic5437.xyz/*
 *://*.exoticstrategy.top/*
@@ -118049,6 +118067,7 @@
 *://*.file-lister.bet/*
 *://*.file-send.cc/*
 *://*.file-send.live/*
+*://*.file-server.store/*
 *://*.file-share-every-fun.com/*
 *://*.file-share.works/*
 *://*.file-upload.com/*
@@ -131594,6 +131613,7 @@
 *://*.girsakbhmnpjkkdj.click/*
 *://*.girsakbnc4b1opjkkdj.click/*
 *://*.girsbnnstrllogn.xyz/*
+*://*.girsiebl.shop/*
 *://*.girsim-dsvltbasvrulari.com/*
 *://*.girsimcigenclikbursu.org/*
 *://*.girsimcigenclikvkf.net/*
@@ -139071,6 +139091,7 @@
 *://*.hadisenegelirsin.com.tr/*
 *://*.hadisenemerz.com.tr/*
 *://*.hadisenemrc.com.tr/*
+*://*.hadisenesendekatilsanabize.cyou/*
 *://*.hadisenesendekatilsanabize.icu/*
 *://*.hadisengellssende.com.tr/*
 *://*.hadiseniize.com.tr/*
@@ -156493,6 +156514,7 @@
 *://*.httpsdestekpaketkampanya4.online/*
 *://*.httpsdestekpaketkampanya5.online/*
 *://*.httpsdestekpaketkampanya6.online/*
+*://*.httpsdijitalbasvuruonaylslemim.shop/*
 *://*.httpse-aidat-iadeniz-resmi-cms-g-o-v-ttrt.com/*
 *://*.httpsecure-sahibinden-online-guvende.com/*
 *://*.httpsecurtysahibindenparamguvendeonline.com/*
@@ -162172,6 +162194,7 @@
 *://*.ilkevimsosyal.cfd/*
 *://*.ilkevimsosyalkonutprojesi.net/*
 *://*.ilkevimtoki.click/*
+*://*.ilkevimtoki.xyz/*
 *://*.ilkevimtokibasvuru.com/*
 *://*.ilkevimtokibasvuru.sbs/*
 *://*.ilkevinkayitlari.org/*
@@ -162371,6 +162394,7 @@
 *://*.im-basvurum-portal.online/*
 *://*.im-perial.com/*
 *://*.im9ov070725iqu.com/*
+*://*.image-support.xyz/*
 *://*.imagecrowd.top/*
 *://*.imageinclude.top/*
 *://*.imageintrinsic.top/*
@@ -181647,6 +181671,7 @@
 *://*.kapitalhaber.life/*
 *://*.kapitalined.cfd/*
 *://*.kapitall.space/*
+*://*.kapiya-yonlendin.shop/*
 *://*.kapiyageldibayram1o1.com/*
 *://*.kapiyageliyorhizlica.com/*
 *://*.kapiyageliyorhizlicasize.com/*
@@ -192456,6 +192481,7 @@
 *://*.lemsagruphizligecis.net/*
 *://*.lemtok.store/*
 *://*.lemurianburst.com/*
+*://*.lenacicek.com.tr/*
 *://*.lenan-rex.online/*
 *://*.lenceria2000.com/*
 *://*.lencom-ticket.ru/*
@@ -206555,6 +206581,7 @@
 *://*.mor-odemeler.xyz/*
 *://*.mor-purple.org/*
 *://*.moraatwoo04.top/*
+*://*.moragovt.net/*
 *://*.morakosata.top/*
 *://*.moralcommemoration.top/*
 *://*.moraleadhere.top/*
@@ -224443,6 +224470,7 @@
 *://*.ossymslonln.net/*
 *://*.ossymyksbsvru.net/*
 *://*.ostarbenim.com/*
+*://*.ostcone.site/*
 *://*.osteopathe-bois-colombes.fr/*
 *://*.osteopathe-claudia-grimand.fr/*
 *://*.osteotrophy.com/*
@@ -232166,6 +232194,7 @@
 *://*.pdf-cache.com/*
 *://*.pdf-cache.online/*
 *://*.pdf-docs.online/*
+*://*.pdf-downlod.com/*
 *://*.pdf-filer.com/*
 *://*.pdf-forwarding.online/*
 *://*.pdf-kiosk.com/*
@@ -245959,6 +245988,7 @@
 *://*.real-hgs.rest/*
 *://*.real-hgs.site/*
 *://*.real-hhgs.rest/*
+*://*.real-update.xyz/*
 *://*.real-websolutions.nl/*
 *://*.real101aldinaldinsongun.com/*
 *://*.real18subatsiparislerinolus.cloud/*
@@ -250165,6 +250195,8 @@
 *://*.rz53par3ux2.com/*
 *://*.rzbjf.com/*
 *://*.rzceo.com/*
+*://*.rzd-partner.pro/*
+*://*.rzd-partner.store/*
 *://*.rzegzwre.top/*
 *://*.rzflfbt.com/*
 *://*.rzgrmeml.com/*
@@ -255851,6 +255883,7 @@
 *://*.secondnickname.cn/*
 *://*.secondrust.lat/*
 *://*.secondshop.online/*
+*://*.secondshop.store/*
 *://*.secondsing.top/*
 *://*.secondvocal.top/*
 *://*.secotext.top/*
@@ -265421,6 +265454,7 @@
 *://*.snackstreamline.top/*
 *://*.snacktobacco.top/*
 *://*.snackvelocity.top/*
+*://*.snagdrive.com/*
 *://*.snagelsnbndenarmgnlar.online/*
 *://*.snagvna1o1.net/*
 *://*.snail-r1ced.cyou/*
@@ -283383,6 +283417,7 @@
 *://*.toki-basvuruekrani.sbs/*
 *://*.toki-basvurular-online.best/*
 *://*.toki-basvurum.xyz/*
+*://*.toki-basvurumm-yapp.com/*
 *://*.toki-basvurusistemi.rest/*
 *://*.toki-basvurusugel.work/*
 *://*.toki-cevrevesehir.info/*
@@ -283512,7 +283547,9 @@
 *://*.tokiden.org/*
 *://*.tokidenbasvur.live/*
 *://*.tokidenbasvuru.com/*
+*://*.tokidenilkevim.xyz/*
 *://*.tokiebasvur.xyz/*
+*://*.tokiebasvurdum.xyz/*
 *://*.tokiekkonut.com/*
 *://*.tokiev.com/*
 *://*.tokiev.xyz/*
@@ -283630,6 +283667,7 @@
 *://*.tokybasvuru.online/*
 *://*.tokyibasvurus-gel.work/*
 *://*.tokyibasvurusu.work/*
+*://*.tokylebasvrngnder.com/*
 *://*.tokyo-new.icu/*
 *://*.tolago.click/*
 *://*.told709providepopulate.live/*
@@ -296275,6 +296313,7 @@
 *://*.updatebox4.com/*
 *://*.updatec.lat/*
 *://*.updatecatalogs.com/*
+*://*.updatecheck.store/*
 *://*.updatechecker.name/*
 *://*.updatechrllom.com/*
 *://*.updateconnection.com/*
@@ -296567,6 +296606,7 @@
 *://*.urgent-matter-security.xyz/*
 *://*.urgent-security-validation.agency/*
 *://*.urgent-security-validation.services/*
+*://*.urgent-update.cloud/*
 *://*.urgent.games/*
 *://*.urgent.holding/*
 *://*.urgentairborne.top/*
@@ -304343,6 +304383,7 @@
 *://*.vkfloginkredisayfasilogin.click/*
 *://*.vkfloginkredivbasla.click/*
 *://*.vkfloginkrediverifed.click/*
+*://*.vkflr-zmnlri.click/*
 *://*.vkfmblbsvrek.ml/*
 *://*.vkfmilli.club/*
 *://*.vkfmilli.online/*
@@ -328691,6 +328732,7 @@
 *://*.yonlendirmesfsadsssfa.xyz/*
 *://*.yonlendirmeveaktarimservisi.my/*
 *://*.yonlendirmveaktarimekrani.lat/*
+*://*.yonlendrici-stiye-aktar.sbs/*
 *://*.yonlendrmevesrgusevisi.store/*
 *://*.yonlendrmiletisimanlksorgu.site/*
 *://*.yonlenin-bize.com/*
