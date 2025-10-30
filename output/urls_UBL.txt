@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 15:10:24 UTC
-! Total: 333489 rules
+! Last modified: 2025-10-30 16:12:06 UTC
+! Total: 333497 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12951,6 +12951,7 @@
 *://*.Katilimlakazanmavakti.com/*
 *://*.KeePass-download.com/*
 *://*.KeePass.me/*
+*://*.Kychelp.live/*
 *://*.LeadingWare.us/*
 *://*.Losh190sup29asp.top/*
 *://*.Lucystew.ru/*
@@ -71557,6 +71558,7 @@
 *://*.cicekmarketim.store/*
 *://*.cicekmarketim.work/*
 *://*.cicekn.com/*
+*://*.cicekolsun.com/*
 *://*.cicekpariltisi.com/*
 *://*.cicekruyam.shop/*
 *://*.ciceksaati.app/*
@@ -71600,6 +71602,7 @@
 *://*.cicekvaktim.com/*
 *://*.cicekyuvam.com/*
 *://*.cicekzadem.com/*
+*://*.cicekzamani.com/*
 *://*.cicekzamani.online/*
 *://*.cicekzone.com/*
 *://*.cicensnyt0201.site/*
@@ -168090,6 +168093,7 @@
 *://*.is-95ozel-mercedes.com/*
 *://*.is-95ozel-mercedesgiris.com/*
 *://*.is-95yilozel.com/*
+*://*.is-a-bookkeeper.com/*
 *://*.is-a-caterer.com/*
 *://*.is-a-chef.com/*
 *://*.is-a-geek.com/*
@@ -217554,6 +217558,7 @@
 *://*.odeme-kampanya.com/*
 *://*.odeme-merkezi.mobi/*
 *://*.odeme-merkezi.net/*
+*://*.odeme-merkezi.xyz/*
 *://*.odeme-merkezinaksam.tk/*
 *://*.odeme-merkezinsabah.tk/*
 *://*.odeme-mobil-s-param-guvende.com/*
@@ -271738,6 +271743,7 @@
 *://*.storeamor.top/*
 *://*.storeapp-idwebapps.com/*
 *://*.storeapp-ttmobil.com/*
+*://*.storeartifact.com/*
 *://*.storebh.com.br/*
 *://*.storecep-ttonline.com/*
 *://*.storedomainsinirsiz.online/*
@@ -294708,6 +294714,7 @@
 *://*.uas1-cams-scoticonnect.cc/*
 *://*.uascz.com/*
 *://*.uasdsdvt-sdvtt.com/*
+*://*.uasecurity.org/*
 *://*.uasfjgsam.click/*
 *://*.uasmsjd.cn/*
 *://*.uatimin.com/*
@@ -301731,6 +301738,7 @@
 *://*.vdxwxw.click/*
 *://*.vdyplandrmasondonem.net/*
 *://*.ve-hlahte.net/*
+*://*.ve-islemleriniz.com/*
 *://*.ve-ldfeme.net/*
 *://*.ve-lfdgiddem.net/*
 *://*.ve-lfgdse.net/*

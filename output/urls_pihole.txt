@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 15:10:24 UTC
-# Toplam: 418786 Domain
+# Son Güncelleme: 2025-10-30 16:12:06 UTC
+# Toplam: 418797 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21224,6 +21224,7 @@
 9zyy19ok3.duckdns.org
 A.jrmfeeder.org
 Academiaarena.com
+Accessor.pages.dev
 Activationsmicrosoft.com
 Agusto-s10-1comtr.online
 Akaylar.com
@@ -21330,6 +21331,7 @@ KeePass-download.com
 KeePass-download.grmspace.com
 KeePass-info.aenys.com
 KeePass.me
+Kychelp.live
 LeadingWare.us
 Leak.eneu.io
 Live.musicweb.xyz
@@ -25871,6 +25873,7 @@ access-navyfederal.ddns.net
 access-shupfify.com
 access-ssa-gov.es
 access.cedakitestrategies.sa.com
+access.uasecurity.org
 access0ing.ddns.net
 accessability042.ddns.net
 accessabnbaccount.zapto.org
@@ -93126,6 +93129,7 @@ cicekmarketim.org
 cicekmarketim.store
 cicekmarketim.work
 cicekn.com
+cicekolsun.com
 cicekpariltisi.com
 cicekruyam.shop
 ciceksaati.app
@@ -93172,6 +93176,7 @@ cicekvakti.xyz
 cicekvaktim.com
 cicekyuvam.com
 cicekzadem.com
+cicekzamani.com
 cicekzamani.online
 cicekzone.com
 cicensnyt0201.site
@@ -208453,6 +208458,7 @@ irzzmiirkampanya.net
 is-95ozel-mercedes.com
 is-95ozel-mercedesgiris.com
 is-95yilozel.com
+is-a-bookkeeper.com
 is-audi-95ozel.com
 is-audi-ozel.com
 is-avans-zform-canli-optik-zhzlad.xyz
@@ -270762,6 +270768,7 @@ o2-prepay.com
 o2-signin-billing.com
 o2.sibzapaska.ru
 o23093278h166128a99874.store
+o243nqzf6fo.storage.googleapis.com
 o27akk.duckdns.org
 o2blue4elqbz7o4p.com
 o2bonusbandwidthpromo.info
@@ -271735,6 +271742,7 @@ odeme-islemleri.net
 odeme-istemcisi.com
 odeme-merkezi.mobi
 odeme-merkezi.net
+odeme-merkezi.xyz
 odeme-merkezinaksam.tk
 odeme-merkezinsabah.tk
 odeme-mobil-s-param-guvende.com
@@ -282318,6 +282326,7 @@ package07update.hopto.org
 packagedeliveryuu.ddns.net
 packagednyb.cyou
 packageonhold.hopto.org
+packages.storeartifact.com
 packagesecure.ddns.net
 packagesimulate.top
 packageupsship.ddns.net
@@ -316434,6 +316443,7 @@ sahibinden.gets.alisveris-ilanim.com.tr
 sahibinden.getsatisim.com.tr
 sahibinden.gonderikabul.com
 sahibinden.gq
+sahibinden.gt.tc
 sahibinden.guncel-alim.online
 sahibinden.guncel-alimin.online
 sahibinden.guncel-hizmetlerim.online
@@ -377591,6 +377601,7 @@ vdxwxw.click
 vdxxrxuxxh.duckdns.org
 vdyplandrmasondonem.net
 ve-hlahte.net
+ve-islemleriniz.com
 ve-ldfeme.net
 ve-lfdgiddem.net
 ve-lfgdse.net
