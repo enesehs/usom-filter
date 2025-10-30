@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 22:08:51 UTC
-# Toplam: 418908 Domain
+# Son Güncelleme: 2025-10-30 23:08:17 UTC
+# Toplam: 418917 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -69747,6 +69747,7 @@ binancetrheyebnlt.vercel.app
 binancetrhshermen.vercel.app
 binancetrhub.sbs
 binancetrhztoaste.vercel.app
+binancetrio.sbs
 binancetrjore.vercel.app
 binancetrkampanyagirisislemi2022.com
 binancetrkampanyagirisislemi2022.net
@@ -80775,6 +80776,7 @@ brdnsnkzbryaybnl.icu
 brdnsnkzkldksznrd.icu
 brdnsnkzynlyrzbraya.bond
 brdnsnrbedasdytasd.ignorelist.com
+brdnszdealbrlsnz.ignorelist.com
 brdoge--treozio.webflow.io
 brdrkydumtekydilabu.xyz
 brdsfrstlrrs.duckdns.org
@@ -228365,6 +228367,7 @@ kernestel.ddns.net
 kernfmkqnqi.pw
 kernsmee.ru
 keroo2010.zapto.org
+kerosenesas.duckdns.org
 kerpetenalii345.shop
 kerpicten.biz
 kerrmerrsdds.wiki
@@ -232848,6 +232851,7 @@ konutbasvuru.online
 konutbasvuru.org
 konutbasvurulari.cloud
 konutbasvurulari.online
+konutbasvurulariacildi.icu
 konutbasvurularim.xyz
 konutbasvurularolustur.cloud
 konutbasvurum.com
@@ -307744,6 +307748,7 @@ redmionlinealimyeri.click
 redmionlinealimyeri.pics
 redmiozelindirmlerlea1o1farki.blogspot.com
 redmisadeceonlineaozelburda.blogspot.com
+redmitelfonkind1rimi.blogspot.com
 redmivestanelydefrsatlar.duckdns.org
 redmiyonlendirmesiburadanyapilyor.baby
 redmiyonlendirmesiburadanyapilyor.click
@@ -355786,6 +355791,7 @@ tokionlinebasvurularin.vercel.app
 tokionlinebasvurun.vercel.app
 tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
+tokionlineislem.vercel.app
 tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipagecloud.org
@@ -355860,7 +355866,10 @@ toktoktoktokt.org
 tokxxbsvur.online
 tokybasfguwtuqwr24.online
 tokybasvuru.online
+tokybasvurugonder.art
 tokybasvurugonder.info
+tokybasvurugonder.pro
+tokybasvurugonder.sa.com
 tokyibasvurus-gel.work
 tokyibasvurusu.work
 tokylebasvrngnder.com
