@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 18:13:05 UTC
-! Total: 333552 rules
+! Last modified: 2025-10-30 19:01:52 UTC
+! Total: 333559 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9444,6 +9444,7 @@
 *://*.500binsosyalkonutbasvuru.org/*
 *://*.500bintokievimbasvuruekrani.com/*
 *://*.500bintokikonutlaribasvuruekrani.com/*
+*://*.500bintopluhaneler.com/*
 *://*.500bintoplukonut.com/*
 *://*.500bintoplukonutbasvurusu.com/*
 *://*.500bintoplukonutlar.com/*
@@ -62290,6 +62291,7 @@
 *://*.bsvrrrprsmsnynn.pro/*
 *://*.bsvrrrqnbbprmsyn.click/*
 *://*.bsvrrrrprmsynn.click/*
+*://*.bsvrrrrprsmmsnynn.online/*
 *://*.bsvrrrrrkmpnyaaqnb.click/*
 *://*.bsvrrrrrkmpnyyyaafinss.click/*
 *://*.bsvrrrrronlinnnn.click/*
@@ -171009,6 +171011,7 @@
 *://*.istanbulucyumben.pro/*
 *://*.istanbulularyuklmesi.net/*
 *://*.istanbululasim.org/*
+*://*.istanbululasiminizz.click/*
 *://*.istanbululasiminizz.info/*
 *://*.istanbululxsim.net/*
 *://*.istanbulum.online/*
@@ -173156,6 +173159,7 @@
 *://*.iyilikelii.org/*
 *://*.iyilikgunleri.online/*
 *://*.iyilikguzeldir.org/*
+*://*.iyilikhalkalari.org/*
 *://*.iyilikhuzuru.online/*
 *://*.iyilikiyidir.com/*
 *://*.iyilikkervani.online/*
@@ -283567,6 +283571,7 @@
 *://*.tokiev.com/*
 *://*.tokiev.xyz/*
 *://*.tokievbasvuru.xyz/*
+*://*.tokievbasvurulari.xyz/*
 *://*.tokievbasvurum.click/*
 *://*.tokievibasvurum.com/*
 *://*.tokievim.com.tr/*
@@ -283597,6 +283602,7 @@
 *://*.tokikonutbasvuru.gq/*
 *://*.tokikonutbasvurulari.cloud/*
 *://*.tokikonutbasvurulari.com/*
+*://*.tokikonutbasvurum.click/*
 *://*.tokikonutbasvurum.com/*
 *://*.tokikonutbasvurun.com/*
 *://*.tokikonutbasvurusu.com/*
@@ -290804,6 +290810,7 @@
 *://*.tumile-indir.online/*
 *://*.tumile.app/*
 *://*.tumileindir.net/*
+*://*.tumillerebasladi.cloud/*
 *://*.tumindirimlerburadak.click/*
 *://*.tuminsaat.com/*
 *://*.tumioutlets.com/*
