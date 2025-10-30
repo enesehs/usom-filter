@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 06:13:58 UTC
-# Toplam: 418642 Domain
+# Son Güncelleme: 2025-10-30 07:09:42 UTC
+# Toplam: 418669 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17359,6 +17359,7 @@
 724avm.net
 724avmbusiness.com
 724calisinparalazim.com
+724cloud.sbs
 724czislemhizmetleri.com
 724destek.com
 724garent.icu
@@ -25768,6 +25769,7 @@ acarkurumlari.com.tr
 acarmarkets.com
 acarmenkuldegerler.com
 acarmenkuldegerler.online
+acarmenkulkiymetler.com
 acarmenkulonline.com
 acarmenkulonline.com.tr
 acarmenkultr.com
@@ -84807,6 +84809,7 @@ buyzkmp.site
 buyzkmp.store
 buzamana-okadar-kalmadi-sende-bilirsin-daima.top
 buzamandaa.pitikargarr.shop
+buzamandabufiyat.sbs
 buzamandaki-yalnizda-kalmayana-kaderine-gelirse.top
 buzdiyarien.online
 buzdolabindakampanyalisatis.xyz
@@ -113845,6 +113848,7 @@ dgt-gob.duckdns.org
 dgt1.xyz
 dgtase.top
 dgtbgni.cc
+dgtckgm.ink
 dgtes146.click
 dgtfh.com
 dgtkgit.cfd
@@ -148686,7 +148690,9 @@ fibakredimbasvuru.net
 fibakrediniz.com
 fibakredionay.net
 fibakurumsalcom.cfd
+fibamenkuldegerler.com
 fibamenkultrade.com
+fibamenkulyatirim.com
 fibanakitihtiyacim.net
 fibank.blog
 fibank.online
@@ -168027,6 +168033,7 @@ govtr.aidat-iade-birimi.ga
 govtr.aidat-iade-birimi.gq
 govtr.aidat-iade-birimi.ml
 govtr.aidat-iade-birimi.tk
+govtr.click
 govtr.cyou
 govtr.net
 govtr.site
@@ -201516,6 +201523,7 @@ ilkevimbasvuru.click
 ilkevimbasvuru.com
 ilkevimbasvuru.online
 ilkevimbasvuruekrani.com
+ilkevimbasvurular.com
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimburada.com
 ilkevimdanismanlik.com
@@ -228555,6 +228563,7 @@ kgm-gecis-sorgu-com.tk
 kgm-gis.com
 kgm-gou.com
 kgm-gov-shop.top
+kgm-gov-tr.icu
 kgm-gov-tr.ink
 kgm-gov-tr.one
 kgm-gov-tr.top
@@ -228574,12 +228583,15 @@ kgm-gov.xyz
 kgm-govc.sbs
 kgm-govc.top
 kgm-govc.xyz
+kgm-gove.site
 kgm-gove.top
+kgm-govl.cyou
 kgm-govm.top
 kgm-govm.xyz
 kgm-govn.life
 kgm-govo.life
 kgm-govr.top
+kgm-govt.site
 kgm-govt.top
 kgm-govtr.bond
 kgm-govtr.cfd
@@ -228693,6 +228705,7 @@ kgmgovet.cfd
 kgmgovetctr.com
 kgmgovitr.top
 kgmgovm.top
+kgmgovonline.qpon
 kgmgovot.top
 kgmgovs.sbs
 kgmgovt.top
@@ -228741,6 +228754,7 @@ kgmmn.cc
 kgmmobilhgsbrc.com
 kgmmobilhgsler.com
 kgmmu.cc
+kgmng.life
 kgmngov.top
 kgmo-odemesi-org.ml
 kgmobilhgsbrc.duckdns.org
@@ -228788,6 +228802,7 @@ kgmsorgu.digital
 kgmsorgu.xyz
 kgmsorgulamaveodeme.click
 kgmsorgullarcx.net
+kgmsss.cfd
 kgmsswbkadrgcshgsbrc.duckdns.org
 kgmstrategy.com
 kgmswebgcshsgoss.duckdns.org
@@ -228850,6 +228865,7 @@ kgmyukleme.sg-host.com
 kgmyuklemeislemleri.xyz
 kgmz-gov.top
 kgmz.cc
+kgmzxa.cc
 kgmzz.cc
 kgnavllhal.duckdns.org
 kgngovtr.top
@@ -267743,7 +267759,11 @@ noticeflank.top
 noticepagapp.duckdns.org
 noticepasser-by.top
 noticeprofitable.top
+notices.icu
+notices.lol
 noticesgove.top
+noticess.cfd
+noticess.site
 noticestuff.top
 noticetoxic.top
 noticiafamosos.com
@@ -275779,6 +275799,7 @@ onlinea1o1.com
 onlinea1o1.net
 onlineaaidatodemegovtr.com
 onlineacarmarket.com
+onlineacarmarkets.com
 onlineaccess.hopto.org
 onlineaccesscit.ddns.net
 onlineacenta365.site
@@ -299281,6 +299302,7 @@ pttgovyy.top
 pttgovyya.top
 pttgovyye.top
 pttgovyyi.top
+pttgovyyn.top
 pttgovyyo.top
 pttgovyyp.top
 pttgovyyq.top
@@ -303768,6 +303790,7 @@ qtrsg1imv.duckdns.org
 qtt.objectioncase.com
 qttg.site
 qttgav.sbs
+qttgov.lol
 qttgov.sbs
 qttgov.site
 qttgov.top
@@ -335865,6 +335888,7 @@ sonkezynlenyrzbrda.club
 sonkmkpsawajeno.shop
 sonkmpanyalartukenyr101.shop
 sonkmpnyasf101.com
+sonkonutbasvurulari.cloud
 sonkurtbukucu.tk
 sonkzbrdyzsbsas.sbs
 sonkzkrctncrefrst.shop
@@ -340816,6 +340840,7 @@ stlntilzww.info
 stlwhifgpwfe.info
 stmarysnh.hopto.org
 stmxzqkah.com
+stnaksan.cfd
 stnalyetrmeostbrdslc.com
 stnayleyozela1o1kampanya.blogspot.com
 stnblgvnlddexx.net
@@ -361420,6 +361445,7 @@ trkclldeneme.duckdns.org
 trkclllyiz.net
 trkcllmobile.com.tr
 trkcllsd.net
+trkgmgove.sbs
 trkgsmmtvv.com
 trkhgsodeme.com
 trkhgsodemelerm.com
@@ -370769,6 +370795,7 @@ upij1aq.duckdns.org
 upiserversys1212.com
 upjobs.click
 upkbwykuchtb.net
+upkgm.click
 upkht.duckdns.org
 upknittsoappz.shop
 upladuusevmia.ddns.net

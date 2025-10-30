@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 06:13:58 UTC
-! Total: 333372 rules
+! Last modified: 2025-10-30 07:09:42 UTC
+! Total: 333399 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10941,6 +10941,7 @@
 *://*.724avm.net/*
 *://*.724avmbusiness.com/*
 *://*.724calisinparalazim.com/*
+*://*.724cloud.sbs/*
 *://*.724czislemhizmetleri.com/*
 *://*.724destek.com/*
 *://*.724garent.icu/*
@@ -15748,6 +15749,7 @@
 *://*.acarmarkets.com/*
 *://*.acarmenkuldegerler.com/*
 *://*.acarmenkuldegerler.online/*
+*://*.acarmenkulkiymetler.com/*
 *://*.acarmenkulonline.com.tr/*
 *://*.acarmenkulonline.com/*
 *://*.acarmenkultr.com/*
@@ -64963,6 +64965,7 @@
 *://*.buyzkmp.site/*
 *://*.buyzkmp.store/*
 *://*.buzamana-okadar-kalmadi-sende-bilirsin-daima.top/*
+*://*.buzamandabufiyat.sbs/*
 *://*.buzamandaki-yalnizda-kalmayana-kaderine-gelirse.top/*
 *://*.buzdiyarien.online/*
 *://*.buzdolabindakampanyalisatis.xyz/*
@@ -88148,6 +88151,7 @@
 *://*.dgt1.xyz/*
 *://*.dgtase.top/*
 *://*.dgtbgni.cc/*
+*://*.dgtckgm.ink/*
 *://*.dgtes146.click/*
 *://*.dgtfh.com/*
 *://*.dgtkgit.cfd/*
@@ -117758,7 +117762,9 @@
 *://*.fibakrediniz.com/*
 *://*.fibakredionay.net/*
 *://*.fibakurumsalcom.cfd/*
+*://*.fibamenkuldegerler.com/*
 *://*.fibamenkultrade.com/*
+*://*.fibamenkulyatirim.com/*
 *://*.fibanakitihtiyacim.net/*
 *://*.fibank.blog/*
 *://*.fibank.online/*
@@ -133535,6 +133541,7 @@
 *://*.govtr-saglikbakanligi-govtrbasvurular.tk/*
 *://*.govtr-tr.tk/*
 *://*.govtr-turkiyegov.com/*
+*://*.govtr.click/*
 *://*.govtr.cyou/*
 *://*.govtr.net/*
 *://*.govtr.site/*
@@ -162106,6 +162113,7 @@
 *://*.ilkevimbasvuru.com/*
 *://*.ilkevimbasvuru.online/*
 *://*.ilkevimbasvuruekrani.com/*
+*://*.ilkevimbasvurular.com/*
 *://*.ilkevimburada.com/*
 *://*.ilkevimdanismanlik.com/*
 *://*.ilkevimkonutbasvuru.com/*
@@ -184960,6 +184968,7 @@
 *://*.kgm-gis.com/*
 *://*.kgm-gou.com/*
 *://*.kgm-gov-shop.top/*
+*://*.kgm-gov-tr.icu/*
 *://*.kgm-gov-tr.ink/*
 *://*.kgm-gov-tr.one/*
 *://*.kgm-gov-tr.top/*
@@ -184979,12 +184988,15 @@
 *://*.kgm-govc.sbs/*
 *://*.kgm-govc.top/*
 *://*.kgm-govc.xyz/*
+*://*.kgm-gove.site/*
 *://*.kgm-gove.top/*
+*://*.kgm-govl.cyou/*
 *://*.kgm-govm.top/*
 *://*.kgm-govm.xyz/*
 *://*.kgm-govn.life/*
 *://*.kgm-govo.life/*
 *://*.kgm-govr.top/*
+*://*.kgm-govt.site/*
 *://*.kgm-govt.top/*
 *://*.kgm-govtr.bond/*
 *://*.kgm-govtr.cfd/*
@@ -185075,6 +185087,7 @@
 *://*.kgmgovetctr.com/*
 *://*.kgmgovitr.top/*
 *://*.kgmgovm.top/*
+*://*.kgmgovonline.qpon/*
 *://*.kgmgovot.top/*
 *://*.kgmgovs.sbs/*
 *://*.kgmgovt.top/*
@@ -185117,6 +185130,7 @@
 *://*.kgmmobilhgsbrc.com/*
 *://*.kgmmobilhgsler.com/*
 *://*.kgmmu.cc/*
+*://*.kgmng.life/*
 *://*.kgmngov.top/*
 *://*.kgmo-odemesi-org.ml/*
 *://*.kgmodeme.com/*
@@ -185158,6 +185172,7 @@
 *://*.kgmsorgu.xyz/*
 *://*.kgmsorgulamaveodeme.click/*
 *://*.kgmsorgullarcx.net/*
+*://*.kgmsss.cfd/*
 *://*.kgmstrategy.com/*
 *://*.kgmswebgcsodemees.com/*
 *://*.kgmtr.org/*
@@ -185198,6 +185213,7 @@
 *://*.kgmyuklemeislemleri.xyz/*
 *://*.kgmz-gov.top/*
 *://*.kgmz.cc/*
+*://*.kgmzxa.cc/*
 *://*.kgmzz.cc/*
 *://*.kgngovtr.top/*
 *://*.kgnodevihhlalweb.site/*
@@ -214514,7 +214530,11 @@
 *://*.noticeflank.top/*
 *://*.noticepasser-by.top/*
 *://*.noticeprofitable.top/*
+*://*.notices.icu/*
+*://*.notices.lol/*
 *://*.noticesgove.top/*
+*://*.noticess.cfd/*
+*://*.noticess.site/*
 *://*.noticestuff.top/*
 *://*.noticetoxic.top/*
 *://*.noticiafamosos.com/*
@@ -220897,6 +220917,7 @@
 *://*.onlinea1o1.net/*
 *://*.onlineaaidatodemegovtr.com/*
 *://*.onlineacarmarket.com/*
+*://*.onlineacarmarkets.com/*
 *://*.onlineacenta365.site/*
 *://*.onlineacenta365.xyz/*
 *://*.onlineacikdeniz-denizsube.com/*
@@ -240441,6 +240462,7 @@
 *://*.pttgovyya.top/*
 *://*.pttgovyye.top/*
 *://*.pttgovyyi.top/*
+*://*.pttgovyyn.top/*
 *://*.pttgovyyo.top/*
 *://*.pttgovyyp.top/*
 *://*.pttgovyyq.top/*
@@ -243830,6 +243852,7 @@
 *://*.qtrsearch.com/*
 *://*.qttg.site/*
 *://*.qttgav.sbs/*
+*://*.qttgov.lol/*
 *://*.qttgov.sbs/*
 *://*.qttgov.site/*
 *://*.qttgov.top/*
@@ -267435,6 +267458,7 @@
 *://*.sonkmkpsawajeno.shop/*
 *://*.sonkmpanyalartukenyr101.shop/*
 *://*.sonkmpnyasf101.com/*
+*://*.sonkonutbasvurulari.cloud/*
 *://*.sonkurtbukucu.tk/*
 *://*.sonkzbrdyzsbsas.sbs/*
 *://*.sonkzkrctncrefrst.shop/*
@@ -271453,6 +271477,7 @@
 *://*.stlntilzww.info/*
 *://*.stlwhifgpwfe.info/*
 *://*.stmxzqkah.com/*
+*://*.stnaksan.cfd/*
 *://*.stnalyetrmeostbrdslc.com/*
 *://*.stnblgvnlddexx.net/*
 *://*.stnblllgvnldddx.net/*
@@ -288520,6 +288545,7 @@
 *://*.trkclllyiz.net/*
 *://*.trkcllmobile.com.tr/*
 *://*.trkcllsd.net/*
+*://*.trkgmgove.sbs/*
 *://*.trkgsmmtvv.com/*
 *://*.trkhgsodeme.com/*
 *://*.trkhgsodemelerm.com/*
@@ -296240,6 +296266,7 @@
 *://*.upiserversys1212.com/*
 *://*.upjobs.click/*
 *://*.upkbwykuchtb.net/*
+*://*.upkgm.click/*
 *://*.upknittsoappz.shop/*
 *://*.uplandpro.com/*
 *://*.uplayground.online/*
