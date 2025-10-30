@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 17:09:13 UTC
-! Total: 333539 rules
+! Last modified: 2025-10-30 18:13:05 UTC
+! Total: 333552 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7013,6 +7013,7 @@
 *://*.270486327.cloud/*
 *://*.270bimcell4444kamoanya.org/*
 *://*.2715465165165.cloud/*
+*://*.271703744.cloud/*
 *://*.27226588665.cloud/*
 *://*.2729ceb5d6d4.com/*
 *://*.27357523-231.xyz/*
@@ -42086,6 +42087,7 @@
 *://*.basvurum.icu/*
 *://*.basvurum.link/*
 *://*.basvurum.online/*
+*://*.basvurum.org/*
 *://*.basvurum.sbs/*
 *://*.basvurum.store/*
 *://*.basvurum.tk/*
@@ -62086,6 +62088,7 @@
 *://*.bsvrisllm.com/*
 *://*.bsvrislm.com/*
 *://*.bsvrkrdfrm.xyz/*
+*://*.bsvrlrm.xyz/*
 *://*.bsvrlrmtrkye.digital/*
 *://*.bsvrmalimmerkeztr1.net/*
 *://*.bsvrmavisdfnz.com/*
@@ -65187,6 +65190,7 @@
 *://*.bvqwdqasfmsa.net/*
 *://*.bvrgi-3meler.net/*
 *://*.bvrkftmdh.com/*
+*://*.bvrknt10.click/*
 *://*.bvrmcencell.com/*
 *://*.bvsiimcleellll.com/*
 *://*.bvsjhrtn.com/*
@@ -113592,6 +113596,7 @@
 *://*.evimiz-turkiye.xyz/*
 *://*.evimizbil.info/*
 *://*.evimoldu.click/*
+*://*.evimolsuntoki.xyz/*
 *://*.evimolsuntokibasvuruekrani.com/*
 *://*.evimzinherseyi.com/*
 *://*.evindeawm.com.tr/*
@@ -120522,6 +120527,7 @@
 *://*.firsatlarr20233.xyz/*
 *://*.firsatlarramazandabirbaska.online/*
 *://*.firsatlarrdunyasi.sbs/*
+*://*.firsatlarrfkyari.com/*
 *://*.firsatlarrronline.me/*
 *://*.firsatlarsanagelsinsokmarket1.click/*
 *://*.firsatlarsanagelsinsokmarket2.click/*
@@ -132624,6 +132630,7 @@
 *://*.godzillaraksel.net/*
 *://*.goe-groups.com/*
 *://*.goelites.cc/*
+*://*.goeui.cn/*
 *://*.gofilo.xyz/*
 *://*.gofilom.com.tr/*
 *://*.gofilom.xyz/*
@@ -142875,6 +142882,7 @@
 *://*.hanheningwil.com/*
 *://*.hani-gectik-geldikten-onceden-gorun-bakin-yetis.online/*
 *://*.hani-nerden-gectigimizi-onceden-gorun-karar-verin.online/*
+*://*.hanianufs4.net/*
 *://*.hanibizimfirsatimiz.com/*
 *://*.hanidestekazerkardeslere.site/*
 *://*.hanifawaller24.xyz/*
@@ -171846,6 +171854,7 @@
 *://*.istrt.net/*
 *://*.ists-basvrrkoly.click/*
 *://*.istsabah.net/*
+*://*.istsadurdsaistsnadbulasd.com/*
 *://*.istsagns.com/*
 *://*.istsagns2ss.com/*
 *://*.istsanbul34.cf/*
@@ -177727,6 +177736,7 @@
 *://*.kaanyilmaz.online/*
 *://*.kaapcomponents.com/*
 *://*.kaapida-firsat101.store/*
+*://*.kaapmaylaarafirsati.com/*
 *://*.kaaraca.com/*
 *://*.kaarcaindisim.com/*
 *://*.kaasimayiozel.com.tr/*
@@ -180678,6 +180688,7 @@
 *://*.kampanyasii.com/*
 *://*.kampanyasindanbugune.xyz/*
 *://*.kampanyasindangecilmiyor.xyz/*
+*://*.kampanyasiniza.sbs/*
 *://*.kampanyasistemi.com/*
 *://*.kampanyasitesi.site/*
 *://*.kampanyasivoltan.cfd/*
@@ -244032,6 +244043,7 @@
 *://*.quantohub.com/*
 *://*.quantrez.space/*
 *://*.quanttivise.com/*
+*://*.quanttoki.site/*
 *://*.quanttrobot.com/*
 *://*.quantum-ai.link/*
 *://*.quantum-dreamlab.online/*
@@ -258016,6 +258028,7 @@
 *://*.sepetim-odeme.com/*
 *://*.sepetim-odemeler.com.tr/*
 *://*.sepetim-onayli-127422.com/*
+*://*.sepetim-onayli-127423.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
