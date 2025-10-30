@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-30 08:13:02 UTC
-! Total: 333434 rules
+! Last modified: 2025-10-30 09:10:24 UTC
+! Total: 333441 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61581,6 +61581,7 @@
 *://*.brillianthumane.top/*
 *://*.brilliantperish.top/*
 *://*.brilliantroad.top/*
+*://*.brilono.sbs/*
 *://*.briloza.org/*
 *://*.brimvakfbankmobil.tk/*
 *://*.brinchil.xyz/*
@@ -137758,6 +137759,7 @@
 *://*.guzelizmirimkart.net/*
 *://*.guzelkalpler.com/*
 *://*.guzelkampanya-katil-online.ml/*
+*://*.guzelkampanyabru.sbs/*
 *://*.guzelkampanyalar.com.tr/*
 *://*.guzelkampanyalarsizlerlebirlikte.xyz/*
 *://*.guzelkampnayalarinteknotkati.com.tr/*
@@ -144058,6 +144060,7 @@
 *://*.haustierhause.de/*
 *://*.haustopyz.xyz/*
 *://*.hauyrt883.xyz/*
+*://*.hava-ist.org/*
 *://*.havaalaniarackira.co/*
 *://*.havaalaniarackirala.xyz/*
 *://*.havaalaniarackiralama.org/*
@@ -175983,6 +175986,7 @@
 *://*.jestmob.pics/*
 *://*.jesulobao.com/*
 *://*.jeswfpbttqkisbl.cn/*
+*://*.jet-hizmet-mobil.online/*
 *://*.jet-islem.com.tr/*
 *://*.jet-pay.online/*
 *://*.jet-servis.online/*
@@ -187125,6 +187129,7 @@
 *://*.kmsorglhizli.xyz/*
 *://*.kmsorgogrenmas.net/*
 *://*.kmsorgu.tech/*
+*://*.kmsorgucunuz.cfd/*
 *://*.kmsorgucusu.cfd/*
 *://*.kmsorgucvsdislemclar.com.tr/*
 *://*.kmsorgugulyan.shop/*
@@ -202959,6 +202964,7 @@
 *://*.misunderstandingenactment.top/*
 *://*.misunderstandstunning.top/*
 *://*.miswarte.cloud/*
+*://*.misyontrade.com/*
 *://*.mitas.space/*
 *://*.mitas.tech/*
 *://*.mitay.com.tr/*
@@ -283463,6 +283469,7 @@
 *://*.tokiev.com/*
 *://*.tokiev.xyz/*
 *://*.tokievbasvuru.xyz/*
+*://*.tokievbasvurum.click/*
 *://*.tokievibasvurum.com/*
 *://*.tokievim.com.tr/*
 *://*.tokievim.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 08:13:02 UTC
-# Toplam: 418705 Domain
+# Son Güncelleme: 2025-10-30 09:10:24 UTC
+# Toplam: 418714 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -54463,6 +54463,7 @@ b46.gdn
 b464.m0rx1.com
 b485c.rmene.ru
 b48ded58.dsfiurb-u.shop
+b48qokag4zsl.storage.googleapis.com
 b4bios.com
 b4c4dd8d.dj-hd5kfu.shop
 b4diyc.duckdns.org
@@ -81005,6 +81006,7 @@ brilliantglamour.top
 brillianthumane.top
 brilliantperish.top
 brilliantroad.top
+brilono.sbs
 briloza.org
 brimvakfbankmobil.tk
 brinchil.xyz
@@ -172800,6 +172802,7 @@ guzeliyilikliler.com
 guzelizmirimkart.net
 guzelkalpler.com
 guzelkampanya-katil-online.ml
+guzelkampanyabru.sbs
 guzelkampanyalar.com.tr
 guzelkampanyalarsizlerlebirlikte.xyz
 guzelkampnayalarinteknotkati.com.tr
@@ -180017,6 +180020,7 @@ haustierhause.de
 haustopyz.xyz
 hauuctlaqj.duckdns.org
 hauyrt883.xyz
+hava-ist.org
 havaalaniarackira.co
 havaalaniarackirala.xyz
 havaalaniarackiralama.org
@@ -217736,6 +217740,7 @@ jesusamado.duckdns.org
 jesusdeuber.hopto.org
 jesussorgu.0hi.me
 jeswfpbttqkisbl.cn
+jet-hizmet-mobil.online
 jet-pay.online
 jet-servis.online
 jet-servisim.com.tr
@@ -228578,6 +228583,7 @@ kgm-cezaodeme.org
 kgm-cezas.click
 kgm-cometr.com
 kgm-demo.com
+kgm-e-sorgu.blogspot.com
 kgm-etc.com
 kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
@@ -231541,6 +231547,7 @@ kmsorgu.tech
 kmsorguahemen.web.app
 kmsorgualmasd.duckdns.org
 kmsorgucum-com.web.app
+kmsorgucunuz.cfd
 kmsorgucunuzqae89.duckdns.org
 kmsorgucusu.cfd
 kmsorgucvsdislemclar.com.tr
@@ -252709,6 +252716,7 @@ misunderstandingenactment.top
 misunderstandstunning.top
 miswarte.cloud
 misyonkredihizmetleri.ru.com
+misyontrade.com
 mitac.com.knick.tw
 mitamsklguinns.webflow.io
 mitas.melikrfb.site
@@ -355494,6 +355502,7 @@ tokiev.xyz
 tokievbasvuru.xyz
 tokievbasvurulari.vercel.app
 tokievbasvurularim.vercel.app
+tokievbasvurum.click
 tokievibasvurum.com
 tokievim.com
 tokievim.com.tr
