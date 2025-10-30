@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-30 07:09:42 UTC
-# Toplam: 418669 Domain
+# Son Güncelleme: 2025-10-30 08:13:02 UTC
+# Toplam: 418705 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39253,6 +39253,7 @@ alanlaridoldur.net
 alanlarmutlu.com.tr
 alanlranindilsmlr.xyz
 alanmarketonl.com
+alanmeyerlforce.ONLINE
 alanrori.com
 alansandle2ni.website
 alantube.com
@@ -53097,6 +53098,7 @@ aynacihaliciyikamaci.site
 aynedurhasereilaclamasi.site
 aynenbanasurdantouchbluealsana.net
 aynenknk.xyz
+ayneret.shop
 aynersekc.click
 aynh0d.duckdns.org
 aynhkbkcmtwtn.com
@@ -59888,6 +59890,7 @@ baykarinvesting.com
 baykarinvestment.com
 baykarinvestmentopportunity.net
 baykarkatilim.com
+baykarlabs.com
 baykarlanding.vicchk.com
 baykarnews.com
 baykarnews.info
@@ -62736,6 +62739,7 @@ bert.aefrant.com
 bertaraf.app
 berthack.zapto.org
 berthingadvancer.com
+bertixo.store
 bertkelsu.shop
 bertox23557.ddns.net
 berurn.com
@@ -79768,6 +79772,7 @@ boostcreatives-ai.com
 boostcreatives.ai
 boostdaphic.top
 boosthurricane.top
+boostlyyy.store
 boostora.click
 boostracea.com
 bootasactive.icu
@@ -83854,6 +83859,7 @@ buradan-sorgulamasistemi.cyou
 buradan-suanda.shop
 buradanaldim.icu
 buradanaltr.club
+buradanbasvur.site
 buradanbasvurum.sbs
 buradanbsvur.site
 buradandevam.net
@@ -85929,6 +85935,7 @@ bydxahimdo.duckdns.org
 byebyecoronavirus.com
 byebyeizuna.ddns.net
 byehayvan.ddns.net
+byequx.pics
 byeserver.com
 byfkdedcsl.duckdns.org
 byfpo4c.duckdns.org
@@ -98573,6 +98580,7 @@ coordinateks.cfd
 coordinateparrot.top
 coordinatevoid.top
 coordinateword.top
+coordinatife.cfd
 coordinationcrate.top
 coordinationduplicate.top
 coordinatorairborne.top
@@ -100585,6 +100593,7 @@ crissamconsulting.co.za
 crissnda5.ddns.net
 cristiano-collection.etfmerlin.com
 cristinahurtado.duckdns.org
+criterbeytepe.com
 criterion-receipt-proceeds-fate.trycloudflare.com
 criterioncanvas.top
 criteriondesignate.top
@@ -111360,6 +111369,7 @@ deploreintrigue.top
 deployimperative.top
 deploymentannex.top
 deplys.herokuapp.com
+depmilionario.store
 depndncefantic.top
 depnmdzvro.duckdns.org
 depo-satisi-tkns.online
@@ -134708,9 +134718,11 @@ ekonomianaliz.org
 ekonomidestekhibesi.com
 ekonomidunyasi.best
 ekonomiduyuru.click
+ekonomiegitimi.org
 ekonomiflow.live
 ekonomigelisimturkiye.site
 ekonomigoz.online
+ekonomiguncel.org
 ekonomigundem.best
 ekonomigundem.co
 ekonomigundem.today
@@ -143901,6 +143913,7 @@ evrakrandevu.blogspot.com
 evraksorgulama.net
 evraksorgulama.org
 evrenbursum.com
+evrendekiiz.com
 evrendickers.click
 evrenhuzuru.space
 evrenismecis.duckdns.org
@@ -165805,6 +165818,7 @@ gizpvovur.top
 gizqt.xyz
 gizzlls3dl.com
 gj1hqyxo5.duckdns.org
+gj23j4jg.google-firebase.digital
 gj2ug1.duckdns.org
 gj34qfol5pu6y452m81.ddns.net
 gj9n0rrr.duckdns.org
@@ -165925,6 +165939,7 @@ gksmedya.sorgupanel.net
 gktTpF.cn
 gktrgoolwdhh.net
 gktsk.cyou
+gkub0uapsrbj.storage.googleapis.com
 gkulbntr.online
 gkwsjnftn.xdk8ax.cn
 gkxtbg.duckdns.org
@@ -170108,6 +170123,7 @@ guestwinner.com
 gueyes.com
 guezlgnler.online
 guf-tickets.ru
+gufaley.mom
 gufbkk.cn
 gufdisoud.click
 gufekpode1.website
@@ -170931,6 +170947,7 @@ guncelvakifvurgunlarim.click
 guncelveguvenilirgirishizmeti.tk
 guncelveyuklemeler.sg-host.com
 guncelyatirim.online
+guncelyatirimlar.online
 guncelyuklee.sg-host.com
 guncelyukleme.net
 guncelyuklemeler.sg-host.com
@@ -180749,6 +180766,7 @@ hazinekazaniyoruz.com
 hazinelialtinfirsati.com
 hazinemali.cf
 hazinemaliyeeiade1.com
+hazinemaliyeodeme.com
 hazineonline.hdirwanda.org
 hazinetrgirisuktr.com
 hazinetrgovuktr.com
@@ -190958,6 +190976,7 @@ hizliy2.sg-host.com
 hizliy3.sg-host.com
 hizliyapilandir.app
 hizliyardim.online
+hizliyatirim.online
 hizliyatirimyap.com.tr
 hizliyenigiris1.com
 hizliyenigise.xyz
@@ -213880,6 +213899,7 @@ ivoespro.hopto.org
 ivogjcnqsk.duckdns.org
 ivolvepture.top
 ivolxmmuuupp.xyz
+ivorenth.com
 ivoryfix.top
 ivoryhotela.top
 ivorytwo.top
@@ -227532,6 +227552,7 @@ keantkrt.net
 keantleriminbonuslari.net
 keaqau.org
 kebabci.xyz
+kebabi.cfd
 kebabsharm.best
 kebabturkiyem.co.id
 kebapyokmulaaan51.com
@@ -228554,6 +228575,7 @@ kgm-borcsorgula.org
 kgm-ceza.click
 kgm-ceza.org
 kgm-cezaodeme.org
+kgm-cezas.click
 kgm-cometr.com
 kgm-demo.com
 kgm-etc.com
@@ -228627,6 +228649,7 @@ kgm-oqo.com
 kgm-oqr.com
 kgm-oqv.com
 kgm-ovg.com
+kgm-ozg.com
 kgm-poc.novadsa.com
 kgm-sorgu-com.tk
 kgm-sorgula.org
@@ -260156,6 +260179,7 @@ multilateralbuffer.top
 multilateralmalignant.top
 multilateralrim.top
 multilobar.com
+multionnario.store
 multipayps.com
 multipleaggravation.top
 multiplefiscal.top
@@ -263978,6 +264002,7 @@ nemekelerfe.online
 nemen9.com
 nemesis.pro
 nemesis.vip
+nemfinro.com
 nemijqqjgephjube.com
 nemixxvgsbgurgl.cn
 nemklksfmsv.net
@@ -278737,6 +278762,7 @@ operacional2019.services
 operam.net
 operams.net
 operanorma.ru
+operanossoturktelekom.com
 operarevlt.top
 operatecomplexion.top
 operatehypothesis.top
@@ -292083,6 +292109,7 @@ poinecheck.com
 poinecraft.pro
 poinse.hopto.org
 point780.xyz
+pointbilgisayar.com
 pointblank100.zapto.org
 pointbook.us
 pointbooks.us
@@ -293389,6 +293416,7 @@ poyeruk.shop
 poykoqnl7jkj632.info
 poyolarpo.vercel.app
 poypol.duckdns.org
+poyrazotelbozcaada.com
 poyuduyusuyu.site
 poyuiugdgi.duckdns.org
 poyureavva.vercel.app
@@ -300593,6 +300621,7 @@ putaria777.ddns.net
 putasemchamas.ddns.net
 putcalligoanswer.hopto.org
 putdenizbank.com
+putdpattern.shop
 putelephant.top
 puterectdis78.xyz
 putfolklore.top
@@ -304033,6 +304062,7 @@ questionsdatabases.azurewebsites.net
 questionsurveyapp.azurewebsites.net
 questionsurveyappserver.azurewebsites.net
 questnovaic.com
+questtraill.com
 queueaspire.top
 queueassimilate.top
 queuelight.space
@@ -311058,6 +311088,7 @@ robot.wikaba.com
 robot999.net
 robot9999.ddns.net
 robotatten.com
+robotence.com
 robotfirsat-sokta.com.tr
 robotfirsatsokta.biz.tr
 robotfirsatsokta.net.tr
@@ -311516,6 +311547,7 @@ rovercrc.com
 rovley.10001mb.com
 rovm.cn
 rovn1y.ddns.net
+rovyno.xyz
 rowbetcoaning.com
 rowcars.com
 rowdea.ddns.net
@@ -345795,6 +345827,7 @@ t0ggservisi.org
 t0ggturkiyem.net
 t0hqjwh.duckdns.org
 t0ki-hemenbrda.com
+t0ki.com.tr
 t0ki.shop
 t0kibasvurularii.click
 t0ku2yfz.duckdns.org
@@ -356086,6 +356119,7 @@ topposition.online
 toppptalent.com
 topptechy.com
 toppttgov.help
+toppvision.com
 toppyneedus.biz
 topqqrrgovwt.space
 topquantgem.com
@@ -366205,6 +366239,7 @@ turkiyegowx.pw
 turkiyegowy.pw
 turkiyegowz.pw
 turkiyegumruk-gov-tr.com
+turkiyegundemi.online
 turkiyeguvenligiris.cf
 turkiyehaber.store
 turkiyehaberler.net
@@ -388069,6 +388104,7 @@ willcall31712123456.tk
 willcall317121234567.tk
 willcall3171212345678.tk
 willcall317121234567890.tk
+willdpath.com
 willdynamic.top
 willemshoeck.nl
 willhem.top
