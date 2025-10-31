@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-31 10:10:10 UTC
-! Total: 333609 rules
+! Last modified: 2025-10-31 11:08:04 UTC
+! Total: 333610 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -72604,6 +72604,7 @@
 *://*.clarlyconration.top/*
 *://*.clarmodq.top/*
 *://*.claroic.top/*
+*://*.clarvix.sbs/*
 *://*.clas-c7.biz/*
 *://*.claserell.com/*
 *://*.clashbenevolent.top/*
