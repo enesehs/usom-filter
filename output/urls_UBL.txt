@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-31 00:41:56 UTC
-! Total: 333574 rules
+! Last modified: 2025-10-31 02:24:07 UTC
+! Total: 333578 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42510,7 +42510,10 @@
 *://*.basvurutoki.pro/*
 *://*.basvurutoki.site/*
 *://*.basvurutokii1451.xyz/*
+*://*.basvurutokiii1452.xyz/*
 *://*.basvurutokiii145858.xyz/*
+*://*.basvurutokiiilkevimproje81.org/*
+*://*.basvurutokiiilkevimproje81.xyz/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokl.click/*
 *://*.basvurutokl.com/*
@@ -283617,6 +283620,7 @@
 *://*.tokikonutbasvurum.com/*
 *://*.tokikonutbasvurun.com/*
 *://*.tokikonutbasvurusu.com/*
+*://*.tokikonutbasvurususongun.icu/*
 *://*.tokikonutbasvuruun.net/*
 *://*.tokikonutdan.com/*
 *://*.tokikonutevleri.cloud/*
