@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-10-31 09:10:16 UTC
-! Total: 333599 rules
+! Last modified: 2025-10-31 10:10:10 UTC
+! Total: 333609 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19440,6 +19440,7 @@
 *://*.adreklam.in/*
 *://*.adrelatemedia.com/*
 *://*.adrenaline-kassa.ru/*
+*://*.adrenallinehub.com/*
 *://*.adres-talepmerkezi.com/*
 *://*.adres-turkiyegovtr.com/*
 *://*.adresassurbu.vip/*
@@ -115101,6 +115102,7 @@
 *://*.eylul.name.tr/*
 *://*.eylul2022binance.ml/*
 *://*.eylul2024-hb-00.com/*
+*://*.eylul27firsatsizinle101.icu/*
 *://*.eylul3fazbasvurilariniz.com/*
 *://*.eylulaidatiadem.com/*
 *://*.eylulaktuelflrsatlari.com/*
@@ -140668,6 +140670,7 @@
 *://*.halkacenta.com.tr/*
 *://*.halkacentam.com.tr/*
 *://*.halkadestekkredisi.com/*
+*://*.halkaduyurutokibsvuru.icu/*
 *://*.halkafabrikadan.com.tr/*
 *://*.halkafabrikadan.net.tr/*
 *://*.halkafabrikadan.org.tr/*
@@ -141712,6 +141715,7 @@
 *://*.halkfirsatformu80yil.ml/*
 *://*.halkfirsatgunlerim.ml/*
 *://*.halkfirsati.tk/*
+*://*.halkfirsati0faizoranlasizlerle.icu/*
 *://*.halkfirsatim.com/*
 *://*.halkfirsatkatilim.com/*
 *://*.halkfirsatkazancim.com/*
@@ -142688,6 +142692,7 @@
 *://*.hallowirsineheibe.buzz/*
 *://*.halmibucilmi.net/*
 *://*.halmibucilmibu.net/*
+*://*.halmiraq.com/*
 *://*.halmorin.com/*
 *://*.haloadoxy.com/*
 *://*.haloalbatro.com/*
@@ -235597,6 +235602,7 @@
 *://*.potunulit.org/*
 *://*.potwitta.xyz/*
 *://*.poufandlrbdjn.xyz/*
+*://*.poulfirst.com/*
 *://*.poullight.ru/*
 *://*.poulsen.work/*
 *://*.poultryappropriation.top/*
@@ -247972,6 +247978,7 @@
 *://*.resmiebasvurusum-merkeztrgiris.com/*
 *://*.resmiedevletbasvuru.com/*
 *://*.resmiedevletbilgilendirmeleri.com/*
+*://*.resmiediploma.shop/*
 *://*.resmiegirisadrees-merkezgiiris.com/*
 *://*.resmiegirisadres-merkezgiiriis.com/*
 *://*.resmiegirisadres-merkezgiiris.com/*
@@ -258063,6 +258070,7 @@
 *://*.sepetim-odemeler.com.tr/*
 *://*.sepetim-onayli-127422.com/*
 *://*.sepetim-onayli-127423.com/*
+*://*.sepetim-onayli-127424.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
@@ -291767,6 +291775,7 @@
 *://*.turkcellyukle.ml/*
 *://*.turkcellyukleme.org/*
 *://*.turkcelpasaj.com/*
+*://*.turkcelslglobal.com/*
 *://*.turkcelsuperonline-fiberbasvurumerkezim.site/*
 *://*.turkceltlyukle.tk/*
 *://*.turkceltlyuklemem.cf/*
@@ -308893,6 +308902,7 @@
 *://*.wellnesszoneyour.top/*
 *://*.welloffrap.cn/*
 *://*.wellscoastink.biz/*
+*://*.wellstoms-tr.com/*
 *://*.wellsystemte.net/*
 *://*.wellthey.net/*
 *://*.welnessfit.com/*
