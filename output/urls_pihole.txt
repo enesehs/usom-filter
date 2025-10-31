@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-31 16:11:06 UTC
-# Toplam: 419045 Domain
+# Son Güncelleme: 2025-10-31 17:02:06 UTC
+# Toplam: 419051 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58835,6 +58835,7 @@ basvurum-bireysele-ozel-iade.com
 basvurum-birysel-kart-aidat-iade.xyz
 basvurum-birysel-kart-aidat-iadesi.xyz
 basvurum-bn-days.net
+basvurum-burada-tokii.com
 basvurum-denizde-tr.xyz
 basvurum-dest-ek-tr.com
 basvurum-e-platform-prtal-girisim-katilim.xyz
@@ -87336,6 +87337,7 @@ campanynewonline-sendebasvur.com
 campanynewonline-sendebasvurhemen.com
 campanynewonline.com
 campanyonline.click
+campanysepet.click
 campanysepet.com
 campanysepet.info
 campanysepet.store
@@ -147591,6 +147593,7 @@ fbxkctfro.duckdns.org
 fbxlogin.ddns.net
 fbxvrpeawu.duckdns.org
 fbynlhdcyq.duckdns.org
+fbyonlendir.click
 fbyup.duckdns.org
 fbzvspmbza.duckdns.org
 fc-akron.com
@@ -233692,6 +233695,7 @@ krcnin-kahveesi.shop
 krcnin-kahvesi.shop
 krcnzdnsongnlri.com
 krcnzdnsongnlri.info
+krcnzkasmda.cfd
 krcnznszesundklari.com
 krconline.net.tr
 krconline.org.tr
@@ -321181,6 +321185,7 @@ sdalfqlflelqr.fit
 sdali.cf
 sdam.loveslife.biz
 sdaqraswqa.site
+sdasdfcasdsdc.duckdns.org
 sdasdsadasda.tk
 sdasdsafafaf.space
 sdasfrdfrdserrc.xyz
@@ -331247,6 +331252,7 @@ siparislerozela101.online
 siparislistokgunleri.xyz
 siparismagicfoot.xyz
 siparismpayw.com.tr
+siparismypay.online
 siparisngeldiburada.xyz
 siparisnhazir.click
 siparisnhazir.net
