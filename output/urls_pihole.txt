@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-31 19:01:48 UTC
-# Toplam: 419066 Domain
+# Son Güncelleme: 2025-10-31 20:10:28 UTC
+# Toplam: 419073 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57394,6 +57394,7 @@ basvurdumfirsatimianindaonay.xyz
 basvurdumonayladimfirsatim.info
 basvurdumonayladimfirsatim.xyz
 basvurdumsonbaharfirsatidenizle.online
+basvurdunkacirma.sbs
 basvurdunuzkolycabrda.giize.com
 basvuredevlet.com
 basvuredevletiade.com
@@ -79456,6 +79457,7 @@ bonusec.online
 bonuseglemi.b-cdn.net
 bonusel.b-cdn.net
 bonuserode.top
+bonuseslost.digital
 bonusets.cf
 bonusets.ga
 bonusets.gq
@@ -125931,6 +125933,7 @@ e-kolayodeme.net
 e-kontrol-ladelslemlerim-portal2021.tk
 e-kontrol-turkiye-gov-tr.org
 e-kontrolet.org
+e-konutbasvur.sbs
 e-konutislemleri.com
 e-konutprojesi.com
 e-krdverbasvur.net
@@ -201740,6 +201743,7 @@ ilkevkonultlkapi.com
 ilkevlerisattik.cfd
 ilkevm.com
 ilkevmkredibsvrwhsz.net
+ilkevprojemle.com
 ilkevsosyaldevlet.net
 ilkevtokibasvuru.com
 ilkfirsat-mobilingiris.xyz
@@ -231664,6 +231668,7 @@ kmpyadestek.club
 kmpyalarherg.click
 kmpyalarlac.click
 kmpyanlartukenmkuzere1o1.shop
+kmpyasendeaalhizlica.site
 kmpyn612599.store
 kmpyn900178.sbs
 kmpynyenliil-mobligr.com
@@ -262197,6 +262202,7 @@ myserverissrknismyserver.tech
 myservers.site
 myserversmp.ddns.net
 myserveur855.cc
+myservices.my-homeip.com
 myservr1.duckdns.org
 myservr4.duckdns.org
 mysethlogin.com
@@ -313607,6 +313613,7 @@ s323213s.cloud
 s323vj.duckdns.org
 s33k3er.top
 s342.ltd
+s34rfgf12azs.blogspot.com
 s3bucket-azure.online
 s3caccverifisubmit.xyz
 s3cloud-azure.com
