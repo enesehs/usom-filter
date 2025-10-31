@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-10-31 06:14:13 UTC
-# Toplam: 418925 Domain
+# Son Güncelleme: 2025-10-31 07:09:59 UTC
+# Toplam: 418932 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10314,6 +10314,7 @@
 2joints.libre
 2jppsld.duckdns.org
 2jq2sh53t.duckdns.org
+2jqel8yla.storage.googleapis.com
 2jrm54.duckdns.org
 2juzi3oh.duckdns.org
 2jva1tu70.duckdns.org
@@ -58058,6 +58059,7 @@ basvuru-toki.com
 basvuru-toki.sa.com
 basvuru-tokii.online
 basvuru-tokki.online
+basvuru-tr.online
 basvuru-tse.org
 basvuru-tse.org.tr
 basvuru-turkeygovtr.com
@@ -69804,6 +69806,7 @@ binancetrtheszhop.vercel.app
 binancetrtheyosl.vercel.app
 binancetrustsupport.top
 binancetrwallet.sbs
+binancetrx.sbs
 binancetrxsocial.vercel.app
 binancetrxxfurkle.vercel.app
 binancetryenihediyeler.ml
@@ -263079,6 +263082,7 @@ nasenka.net
 naseraddin2015.ddns.net
 naserakasas.net
 naserviceebaysmman.shop
+nasessoca1o.net
 nasetsa.net
 nasfnahnf.net
 nashelper.com
@@ -355552,6 +355556,7 @@ tokibasquru.com
 tokibasvquru.com
 tokibasvqurutoplukonut.com
 tokibasvrss.cfd
+tokibasvru.org
 tokibasvrulariii.com
 tokibasvur.art
 tokibasvur.com
@@ -377928,6 +377933,7 @@ vekuna.store
 vel2iasdl2ol.site
 vel2iasdl3ol.site
 vel32vest.xyz
+velaira.sbs
 velaran.com
 velarcads.top
 velarfdzs.top
@@ -418044,6 +418050,7 @@ zororo.mobi
 zoros.ddns.net
 zorpleflux.top
 zorra123.duckdns.org
+zortbabbosf.duckdns.org
 zortfacemont.cfd
 zortladinusiird.com
 zortladinusmnnd.com
