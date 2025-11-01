@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-01 15:07:37 UTC
-# Toplam: 419147 Domain
+# Son Güncelleme: 2025-11-01 16:09:00 UTC
+# Toplam: 419156 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4370,6 +4370,7 @@
 143241432414324.cloud
 14324233324234.com
 1433223.duckdns.org
+14332312312312.duckdns.org
 1435940522.goloser.ru
 144-2-13-133.fwd.coinbase-com.info
 144-2-17-238.fwd.coinbase-com.info
@@ -8531,6 +8532,7 @@
 212.159.9.151
 212.33.237.86
 212.ip.ply.gg
+21200021202.duckdns.org
 21211546122.xyz
 21212126513212156.space
 2121232323232.cloud
@@ -57917,6 +57919,7 @@ basvuru-formu-giris-yeni.com
 basvuru-formu-giris.com
 basvuru-formu-gonderitanitimsv301.duckdns.org
 basvuru-formu-gonderitanitimsv304fg.duckdns.org
+basvuru-formu-gov.ignorelist.com
 basvuru-formu.net
 basvuru-formudoldurkatil.com
 basvuru-formudoldurkatila.com
@@ -59511,6 +59514,7 @@ basvuryenisi.com
 basvuryhl.online
 basvurymn.com.tr
 basvurymn.xyz
+basvurytokk.xyz
 basvuryu-tamamla.free.site.pro
 basvurzmn.com.tr
 basvurzmn.xyz
@@ -240593,6 +240597,7 @@ lll-sghhd.sbs
 lll.super1024.com
 lll1l.xyz
 lll3shot-yklmlrrr.blogspot.com
+lll4643w26.duckdns.org
 lllaaadffdsd.sbs
 lllilll.online
 lllinoistollwayc.top
@@ -356448,6 +356453,7 @@ toplukonutbasvrmonline.vercel.app
 toplukonutbasvrmonline1.vercel.app
 toplukonutbasvrmonline11.vercel.app
 toplukonutbasvrmonline111.vercel.app
+toplukonutbasvrmonline1111.vercel.app
 toplukonutbasvronline.vercel.app
 toplukonutbasvulariacildi.ooguy.com
 toplukonutbasvuru.cfd
@@ -387589,6 +387595,7 @@ weltxyt5925600.hopto.org
 welu111.ddns.net
 weluvhotels.com
 welxwrm.duckdns.org
+welynthor.com
 welz.duckdns.org
 wemarpqahs.in
 wemart-apk.com
@@ -415257,6 +415264,7 @@ zenithcascade.org
 zenithchase.com
 zenithchisel.com
 zenithdelcom.com
+zenithfllow.com
 zenithmono.cfd
 zenixmedia.com.tr
 zenkogroup.com
@@ -416948,6 +416956,7 @@ ziraatebanka.com
 ziraatebankasi.com
 ziraatebanktr.com
 ziraatecep.online
+ziraatekim.cfd
 ziraatekimkampanyasi.ml
 ziraatemeklileremujde.com
 ziraatemeklilerleberaber.com
