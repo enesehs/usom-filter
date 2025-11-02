@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-02 22:07:55 UTC
-# Toplam: 419312 Domain
+# Son Güncelleme: 2025-11-02 23:08:06 UTC
+# Toplam: 419315 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -240736,6 +240736,7 @@ lllres2101.duckdns.org
 lllstanbnnllkxrtmmbasvlrrr.giize.com
 lllswg453g.duckdns.org
 llltttrmbllonllineisllemmenugiris.net
+lllwsr43ax.duckdns.org
 lllxmrdavss.net
 lllyyy.adsoft.name
 llm-0014.com
@@ -288288,6 +288289,7 @@ pasajsanal.com
 pasajsanalmagaza.com
 pasajsanalmagazalar.com
 pasajsanalmagazam.com
+pasajsanalmagazam.store
 pasajsanalmagazasi.com
 pasajsanalmarket.cfd
 pasajsanalmarket.com
@@ -364993,6 +364995,7 @@ turkcellsanal.com
 turkcellsanalmagaza.com
 turkcellsanalmagaza.cyou
 turkcellsanalmagaza.sbs
+turkcellsanalmagaza.store
 turkcellsanalmagaza.xyz
 turkcellsanalmagazalari.com
 turkcellsanalmagazasi.com
