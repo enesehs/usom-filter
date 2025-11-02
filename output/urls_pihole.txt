@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-02 21:07:39 UTC
-# Toplam: 419303 Domain
+# Son Güncelleme: 2025-11-02 22:07:55 UTC
+# Toplam: 419312 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14400,6 +14400,7 @@
 500bintopluhane.com
 500bintopluhaneler.com
 500bintoplukonut.com
+500bintoplukonutbasvuru.com
 500bintoplukonutbasvuru.webhop.org
 500bintoplukonutbasvurusu.com
 500bintoplukonutlar.com
@@ -91918,6 +91919,7 @@ cfrewr-cfqweqg-qwfe.uk
 cfrfwsaa.baby
 cfrfwsaa.icu
 cfrhsw.xyz
+cfrsakan.cfd
 cfskcskabenfikportxcvcom.com
 cfsparts-logsclients.com
 cfsrvbu.cn
@@ -174821,6 +174823,7 @@ hadisenemerz.com.tr
 hadisenemrc.com.tr
 hadisenesendekatilsanabize.cyou
 hadisenesendekatilsanabize.icu
+hadisenesendekatilsanabize.sbs
 hadisengellssende.com.tr
 hadiseniize.com.tr
 hadisenizgelin.com.tr
@@ -231714,6 +231717,7 @@ kmpfrstm2024.online
 kmphbzlesstttrgml.com
 kmphstsrgllmm.com
 kmpnkrdbsvronl.online
+kmpnnnyaaabsvrrrgrnntt.click
 kmpnnya-aldn-aldn-frssatlar.com
 kmpnnylrii-kacciirmaa.com
 kmpny.2023araclar.xyz
@@ -337537,6 +337541,7 @@ sosyalkonutsosyalyasamvadisi.com
 sosyalkonuttokimbasvurularim.vercel.app
 sosyalkonuttokimbasvurum.vercel.app
 sosyalkonutumtoki.com
+sosyalkonutumtoki.vercel.app
 sosyalkonutuygulamasi.com
 sosyalkosk.online
 sosyalkral.tk
@@ -355776,6 +355781,7 @@ toki-gov-tr.ga
 toki-gov-tr.gq
 toki-gov-tr.ml
 toki-gov-tr.tk
+toki-gov.cfd
 toki-gov.sbs
 toki-ilkevim.shop
 toki-kampanya.com
@@ -355916,6 +355922,7 @@ tokibasvurumerkez.store
 tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
+tokibasvurumtr.click
 tokibasvurumutamamla.click
 tokibasvurumutamamla.online
 tokibasvurumutamamla.site
@@ -356412,6 +356419,7 @@ toolproo.com
 toolsathomes.com
 toolscare.net
 toolzzup.com
+tooookibasvururlari.blogspot.com
 tooookideyizya.shop
 tooouimi.zapto.org
 tooox.zapto.org
@@ -364992,6 +365000,7 @@ turkcellsanalmarket.com
 turkcellsanalmarket.sbs
 turkcellsanalmarket.xyz
 turkcellsanalmarketi.com
+turkcellsanalmarketleri.com
 turkcellservices.com
 turkcellservis.net
 turkcellservisler.com
