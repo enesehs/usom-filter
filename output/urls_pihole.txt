@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-02 17:01:56 UTC
-# Toplam: 419260 Domain
+# Son Güncelleme: 2025-11-02 18:10:47 UTC
+# Toplam: 419264 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59375,6 +59375,7 @@ basvurutokiiilkevim1453.com
 basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
 basvurutokileri.online
+basvurutokimilkevim81.xyz
 basvurutokionline.click
 basvurutokl.click
 basvurutokl.com
@@ -201806,6 +201807,7 @@ ilkevimtoki1.sa.com
 ilkevimtoki2.sa.com
 ilkevimtokibasvuru.com
 ilkevimtokibasvuru.sbs
+ilkevimtokibasvurularibasladi.blogspot.com
 ilkevimtokii3.sa.com
 ilkevimtokii4.sa.com
 ilkevimtokii5.sa.com
@@ -355797,6 +355799,7 @@ toki.yapiyoruzbuisi.xyz
 toki130konutbasvuru.sbs
 toki2025-2025yeni.blogspot.com
 toki2025basvuru.blogspot.com
+toki2025basvuru.com
 toki2025sonbasvuru.mooo.com
 toki500bin.site
 toki500konutbasvuru.cfd
@@ -384826,6 +384829,7 @@ web-binancetr.com
 web-bireyselyapikredi.com
 web-bncadestek.com
 web-bntr.com
+web-bntr.online
 web-browser.cfd
 web-bsvrlar.site
 web-btcturk.net
