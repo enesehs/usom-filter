@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-02 11:01:44 UTC
-! Total: 333792 rules
+! Last modified: 2025-11-02 12:14:45 UTC
+! Total: 333793 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -132025,6 +132025,7 @@
 *://*.glbldstekekibi.net/*
 *://*.glbnlarbrlktehalldlmhmn.cyou/*
 *://*.glbrayagtoryagmtebrya.sbs/*
+*://*.glbserv.com/*
 *://*.glchqx.com/*
 *://*.glcloudservice.com/*
 *://*.gld1aldv0indrim-1.com/*
