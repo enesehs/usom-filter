@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-02 18:10:47 UTC
-# Toplam: 419264 Domain
+# Son Güncelleme: 2025-11-02 19:01:39 UTC
+# Toplam: 419281 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2107,6 +2107,7 @@
 10116254team-acces.line.pm
 1011expressss.online
 101202303404505.com
+101202303404505.info
 1014903274.corolain.ru
 1015664156.corolain.ru
 10156749948413.cloud
@@ -21591,6 +21592,7 @@ a-1-o1.net
 a-10-1-bu-haftada-indrim-var.com
 a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
 a-10-1-kapimda-tr.online
+a-10-1flrsatlari.cfd
 a-10-firsatlardunyasia101.wuaze.com
 a-101-aktuel-market.online
 a-101-aktuel-market.shop
@@ -57893,6 +57895,7 @@ basvuru-e-bireysel-aidat-iade-platformu.xyz
 basvuru-e-devlet.online
 basvuru-e-devletiadegov.com
 basvuru-e-edevletiade.com
+basvuru-e-toki.com
 basvuru-e-turkiye.com
 basvuru-eba.org
 basvuru-edevlet-e-iadeler.com
@@ -169102,6 +169105,7 @@ greatfulnicetomeet.buzz
 greatfurnituretradingco.org
 greatgreed.top
 greatingusa.com
+greatis.from-ma.com
 greatkingtravel8200.duckdns.org
 greatknowledgegood24.com
 greatlakes-alarm.com
@@ -201691,6 +201695,7 @@ ilinternette-ziraat.club
 ilizxoxlvz.duckdns.org
 ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com
 ilk-e-aidat-basvurusu-bireysel-giris.xyz
+ilk-evbasvurusu.com
 ilk-evden-gov-tr.vercel.app
 ilk-evim-basvurum.vercel.app
 ilk-evim-gov-tr.vercel.app
@@ -232893,6 +232898,7 @@ kontbayi.22web.org
 kontec.quest
 kontguncel.click
 kontkarla.fun
+kontlarms.sbs
 konto-verifizieren-postfinance.com
 konto-verifizieren.com
 konto.direkt-hilfe-center.eu
@@ -239850,6 +239856,7 @@ linedengiz.click
 linedrv.com
 linefragrance.top
 linegut.com
+linen-hyena-625122.hostingersite.com
 linen32r.site
 linendoctrine.top
 linenperplexity.top
@@ -337510,6 +337517,7 @@ sosyalkonutprojeilkevimm.blogspot.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
 sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
+sosyalkonutprojesi.kasimdahilibasvurulariolursutr.cloud
 sosyalkonutprojesi.net
 sosyalkonutprojesindeyerinizialin.shop
 sosyalkonuts.sbs
@@ -337675,6 +337683,7 @@ sotkelec.yachts
 sotoairexamjon.duckdns.org
 sotrmarket.com.tr
 sotrmarket.info.tr
+sotrmarket.org.tr
 sotrmldzwx.duckdns.org
 soubhi1998.ddns.net
 soucdtevoceumcuzao.duckdns.org
@@ -346247,6 +346256,7 @@ t0ggturkiyem.net
 t0hqjwh.duckdns.org
 t0ki-hemenbrda.com
 t0ki.com.tr
+t0ki.kontlarms.sbs
 t0ki.shop
 t0kibasvurularii.click
 t0ku2yfz.duckdns.org
@@ -355761,6 +355771,7 @@ toki-konutlari-basvuru.best
 toki-konutlari.sbs
 toki-projeleri.com
 toki-slv-basvuru.com
+toki-slv-basvuru.net
 toki-slv-basvuru.sbs
 toki-tr.com
 toki-turkiye.com
@@ -355913,6 +355924,7 @@ tokibasvuruumm.com
 tokibasvuruyap.com
 tokibasvuruyap.xyz
 tokibasvuruyap332.lol
+tokibasvuruyap332.sbs
 tokibasvuruyumsendegel.blogspot.com
 tokibasvvuru.blogspot.com
 tokibbasvurrularii.com
@@ -356005,6 +356017,7 @@ tokikonutbasvurularim.vercel.app
 tokikonutbasvurularin.vercel.app
 tokikonutbasvurum.click
 tokikonutbasvurum.com
+tokikonutbasvurumtr.click
 tokikonutbasvurun.com
 tokikonutbasvuruonline.duckdns.org
 tokikonutbasvurus.rf.gd
@@ -356545,6 +356558,7 @@ toplukonut500bin.com
 toplukonutaonline.com
 toplukonutbasvr2.vercel.app
 toplukonutbasvr3.vercel.app
+toplukonutbasvr4.vercel.app
 toplukonutbasvrlr01.vercel.app
 toplukonutbasvrmonline.vercel.app
 toplukonutbasvrmonline1.vercel.app
@@ -357136,6 +357150,7 @@ tptrborsa.com
 tptrhisse.com
 tptrpl.com
 tpttgov.top
+tpttt.top
 tpttuicwxome.biz
 tpupleco.duckdns.org
 tpus20.net
@@ -364893,6 +364908,7 @@ turkcellmarketing.com
 turkcellmarketler.com
 turkcellmarketleri.com
 turkcellmarketweb.com
+turkcellmgazam.store
 turkcellmobilodeme.com
 turkcellmuster1.net
 turkcellodemehizmetleri.com
@@ -364912,6 +364928,7 @@ turkcellpasaj.ilan.com.pt
 turkcellpasaj.satiskurumsal-tr-ilanlarim.com.tr
 turkcellpasaj.sbs
 turkcellpasaj.site
+turkcellpasaj.store
 turkcellpasaj.top
 turkcellpasaj.tr-ilan.com.tr
 turkcellpasaj.tr-ilanimiz.com
