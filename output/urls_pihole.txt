@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 05:10:54 UTC
-# Toplam: 419335 Domain
+# Son Güncelleme: 2025-11-03 06:15:21 UTC
+# Toplam: 419339 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -174713,6 +174713,7 @@ hadesizinleguzell.com.tr
 hadeszcheck.online
 hadevndz2031.ddns.net
 hadezvendas.ddns.net
+hadi-40000-basvr.icu
 hadi-40bin-basvur.icu
 hadi-40bin-basvur.sbs
 hadi-bakalim-kampanyan-bizde900tl-oonline.cf
@@ -288272,6 +288273,7 @@ pasajcell.com.tr
 pasajcell.fr
 pasajdunyasi.com
 pasajfirsat.com
+pasajfirsatlari.store
 pasajgunleri.com.tr
 pasajguvenilirmarket.com
 pasajhemenpt-tal.cfd
@@ -322399,6 +322401,7 @@ secure-ssl-sec.com
 secure-sso---robinhood-com---cdn.webflow.io
 secure-sso-coinbasepro--d--auth.webflow.io
 secure-telemetry.net
+secure-tr-get.com
 secure-tr.com
 secure-trendyol.com.tr
 secure-trsahibindentr-paramguvende-com.tk
@@ -355840,6 +355843,7 @@ toki.hemenbasvuru2025.org
 toki.hizlislem.com
 toki.ilkevim-basvuru.com
 toki.islemy.com
+toki.islemyo.com
 toki.naziltaks.com
 toki.online
 toki.otoyedekbura.it.com
