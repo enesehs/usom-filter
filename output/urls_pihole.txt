@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 12:23:19 UTC
-# Toplam: 419397 Domain
+# Son Güncelleme: 2025-11-03 13:23:33 UTC
+# Toplam: 419406 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60041,6 +60041,7 @@ baykarteknoloji.net
 baykarter.space
 baykartr.com
 baykartur.com
+baykarturk.life
 baykarturkey.org
 baykarv.glitch.me
 baykarvest.com
@@ -143464,6 +143465,7 @@ evinizi-guzellestiren-pratik-ve-ozel-urunler.top
 evinizin-temel-ihtiyaclari-carrfursa-com.top
 evinizingerekenherseymarkettencok-ucuz.cfd
 evinizintekhazirgidaalisverisi.cfd
+evinolsun.click
 evinternetabonelikvebasvurumerkezi.site
 evinternetabonelikvebasvurumerkezii.site
 evinternetbasvuru.net
@@ -174731,6 +174733,7 @@ hadesizinleguzell.com.tr
 hadeszcheck.online
 hadevndz2031.ddns.net
 hadezvendas.ddns.net
+hadi-40000-basvr.cfd
 hadi-40000-basvr.cyou
 hadi-40000-basvr.icu
 hadi-40000-basvr.sbs
@@ -174783,6 +174786,7 @@ hadiburdanalsimdial.net
 hadicicek.co
 hadicicek.online
 hadicicekci.com
+hadidaa.blogdns.org
 hadidebuhafta.site
 hadidelioglan23.site
 hadiellerhavaya.cfd
@@ -228835,6 +228839,7 @@ kfqdj.com
 kfqfj1.com
 kfqnxce.duckdns.org
 kfrag5b8.duckdns.org
+kfrcwrgzbhppguh.com
 kfs8dbhpg.duckdns.org
 kfsinfo.byinter.net
 kftnhae.com
@@ -262385,6 +262390,7 @@ myservices.my-homeip.com
 myservr1.duckdns.org
 myservr4.duckdns.org
 mysethlogin.com
+mysexdollcanada.ca
 myshiffts.ddns.net
 myshipment03locate-00onlineimaps-reshiproute-mail.ddns.net
 myshipping-info.ddns.net
@@ -330919,6 +330925,7 @@ simon123dsa.ddns.net
 simonandschuster.shop
 simond.zapto.org
 simone.10001mb.com
+simonenkrs.life
 simoneylinks.com
 simonline.nl
 simonloyjss.ddns.net
@@ -355985,6 +355992,7 @@ tokibasvurum.net
 tokibasvurum.online
 tokibasvurum.org
 tokibasvurum.xyz
+tokibasvurumedevlet.click
 tokibasvurumerkez.store
 tokibasvurumhizlandir.click
 tokibasvurumhizli.top
@@ -356007,6 +356015,7 @@ tokibasvurusubizimleancak.blogspot.com
 tokibasvurusuedevlet-2137d.kxcdn.com
 tokibasvurusuyap.com
 tokibasvurusuyappsende.net
+tokibasvurutakibi.com
 tokibasvuruturkiyedevleti.com
 tokibasvuruu.blogspot.com
 tokibasvuruum.net
