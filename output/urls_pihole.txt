@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 08:14:23 UTC
-# Toplam: 419345 Domain
+# Son Güncelleme: 2025-11-03 09:12:42 UTC
+# Toplam: 419374 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30519,6 +30519,7 @@ adilburs.com
 adile56tasarim.com
 adiliqbal.com.pk
 adilnice.zapto.org
+adilyatirim.com
 adimatak.xyz
 adimbilaldegilaracsonses.net
 adimikalbineyaz.sbs
@@ -53592,6 +53593,7 @@ b-istb.blogspot.com
 b-istn.blogspot.com
 b-karcahome.shop
 b-kypr.cz
+b-larboy.com
 b-ljimecell.gq
 b-m-h.tk
 b-magaza.cf
@@ -56948,6 +56950,7 @@ basvrl-istlem.icu
 basvrlarbrdahmntklasndekazn.info
 basvrlari-dvvttgirsi.com
 basvrlariniz.com
+basvrlarmtki.sbs
 basvrlmztki.sbs
 basvrlmztkki.sbs
 basvrmerkezgrishemnkaytol.com
@@ -101188,6 +101191,7 @@ csdfb-svssg-hfghj-gss.icu
 csdsadvvt-svvttt.com
 csdveirfsconfrim.com
 csec-03citizenverif.hopto.org
+cseconline.org
 csecure-02infverify.hopto.org
 csecure-04infverifp.hopto.org
 csecure-05infoverip.hopto.org
@@ -103453,6 +103457,7 @@ d303790c.top
 d3081vh.duckdns.org
 d30jd5t.cn
 d317t.emmen365.com
+d32tpl7xt7175h.cloudfront.net
 d3597n5ksdpw1qf.duckdns.org
 d36rrippt2k8a8.cloudfront.net
 d3726xtvl3uhpt.cloudfront.net
@@ -104524,6 +104529,7 @@ dataprotectioner.ddns.net
 dataprotectionnc.ddns.net
 dataprotectionnm.ddns.net
 dataprufen.com
+datapush.shop
 datarioks.com
 datasaharefile.ddns.net
 datasahrefile.ddns.net
@@ -118234,6 +118240,7 @@ dogusyolyardim.com
 doguvakfi.com
 dohavevictem2024.duckdns.org
 dohigu.com
+dohod.store
 doijj.in
 doil.hopto.org
 doingz23.ddns.net
@@ -119123,6 +119130,7 @@ dorakiletisim.com
 dorakurumlari.com
 dorakurumu.com
 doraphillips221.xyz
+dorareco.net
 dorateks.top
 doratopelase.pw
 dorcarskiralama.com
@@ -222073,6 +222081,7 @@ kalsfkasfl.com
 kalsinlarsdsa.space
 kalskaldfk.com
 kalskdasdaldadma.blogspot.com
+kalthira.com
 kaltieliidnirimlerdesongun.sbs
 kaltm.2kool4u.net
 kaluga.xyz
@@ -231582,6 +231591,7 @@ kmkavbilgi.sbs
 kmkaydim.net
 kmkhgss.com
 kmkilometre.com
+kmkkksorgulamaghovvvprrr.duckdns.org
 kmkkmkslgrlmaburdaogren.web.app
 kmkkssogrulamagovpttt.com
 kmkmsorgulahemen-gov-tr.duckdns.org
@@ -232713,6 +232723,7 @@ kolaysagelhadi.cfd
 kolaysdnevilarn.net
 kolaysepet.click
 kolaysepetde.shop
+kolaysepetin-tr.shop
 kolaysepetin.click
 kolaysepte.click
 kolaysiparis.click
@@ -242990,6 +243001,7 @@ lutcmz.net
 luteappiaoupghv.cn
 lutfengirmeyinlan.online
 lutfikirdarhastanem.xyz
+lutharen.com
 luthegiolle.freemyip.com
 lutheranph.com
 lutm3j3r.duckdns.org
@@ -250872,6 +250884,7 @@ merlinmors23q.digital
 merlinturkey.site
 merlinturkey.xyz
 merlungkanchase.ddns.net
+merlystore.com
 mermaidcommunity.duckdns.org
 mermerfatihlerimde.com
 mermerrrrdddlll.wiki
@@ -250939,6 +250952,7 @@ mervedursun.com
 mervelerdeyizburaklar.net
 mervelilo.com
 mervemikrofonunacikk.net
+mervoys.com
 mery.tech
 meryembutik.fun
 meryemyavuz.xyz
@@ -261841,6 +261855,9 @@ mydomain913136.com
 mydomainsbnbcekk2022.ml
 mydomainxyz.xyz
 mydorra.my
+mydownfile.z11.web.core.windows.net
+mydownload.z29.web.core.windows.net
+mydownloadfile.z7.web.core.windows.net
 mydpd-swiss.ddns.net
 mydreamfly.com
 mydrivepersonfanb.icu
@@ -263460,6 +263477,7 @@ natrifyzone.com
 natrium100gram.site
 natsevskiy.zapto.org
 nattavipolbo.ddns.net
+naturadeco.net
 naturafirsati.duckdns.org
 natural-kw.at.ply.gg
 naturalblog.name.tr
@@ -282084,6 +282102,7 @@ ozlfirsatlarbizdekacirma.duckdns.org
 ozlgelensiparsler.com
 ozlgnlergerigeldiiixx.online
 ozlhjua.duckdns.org
+ozlideretiket.com.tr
 ozlkasmindrim.com
 ozllz-yzsiinfrstllxrilyla.net.tr
 ozlndrmleridefirtalrdaburda.duckdns.org
@@ -284607,6 +284626,7 @@ paqrjlz.com
 paqtsoqdywffdth.ru
 paqueta-espera.ddns.net
 paquete-enespera.ddns.net
+paquimetro.net
 par-abumobil.com
 par-bu-girris.com
 par-bu-mobil.com
@@ -305224,6 +305244,7 @@ rachelnovosad.com
 rachesxwdavid.duckdns.org
 rachicourement.zapto.org
 rachid.ddns.net
+racineupci.org
 racinginparadise.com
 racionais.hopto.org
 racismallot.top
@@ -336796,6 +336817,7 @@ sorgucomm.pw
 sorgucommunity.pw
 sorgucudayi.com.tr
 sorgucumeryem.com.tr
+sorgucunuz.cfd
 sorgueceza.com
 sorguedevlet.com
 sorguedevlet.org
@@ -341941,6 +341963,7 @@ studentsportal.live
 studentsportal.live.geo-news.tv
 studentsportal.website
 studentstandby.top
+studeward.com
 studies-session.at.ply.gg
 studio-candybox.com
 studio-obs.com
@@ -355958,6 +355981,7 @@ tokibasvurunuz.click
 tokibasvurunuzonline.click
 tokibasvuruonline.com
 tokibasvurusorgu.tk
+tokibasvurusu.com
 tokibasvurusu.info
 tokibasvurusu.online
 tokibasvurusu.org
@@ -376084,6 +376108,7 @@ vakifkatilim-kampanyalar.net
 vakifkatilim-kampanyalar.org
 vakifkatilim-pandemigirisleri.xyz
 vakifkatilim-subehizlidangirs.com
+vakifkatilim.blogspot.com
 vakifkatilim.duckdns.org
 vakifkatilim.fringe-benefit.com
 vakifkatilim.goldenlig.com
@@ -381901,6 +381926,7 @@ vnote.fuwenkeji.cn
 vnote.info
 vnotepad.com
 vnpiuxdglx.duckdns.org
+vnptgroup.it.com
 vnrgy.com
 vnrovnfyxf.duckdns.org
 vnrsales.com
@@ -409264,6 +409290,7 @@ yenihizmetler.app
 yenihizmetler.net
 yeniiade.net
 yeniicerikler2021.blogspot.com
+yeniidenn.basvrudvltggggg.icu
 yeniidunyasendegelyasaa.com
 yeniikili-bakiyem.net
 yeniilamizda-girisler.com
@@ -412050,6 +412077,7 @@ ynyrkdzk.com
 ynyuvwvebi.duckdns.org
 ynz8gd.duckdns.org
 ynzhzpovrm.duckdns.org
+yo-taym.com
 yo-um7.com
 yo.utube.digital
 yo.utube.to
@@ -418349,6 +418377,7 @@ zones.systems
 zonescim.com
 zonesdurmaz.xyz
 zoneshewa.net
+zonespanels666.tk
 zonetravellinguludag.tk
 zonexdrive4ptv.click
 zonezje.space
