@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 17:08:50 UTC
-# Toplam: 419467 Domain
+# Son Güncelleme: 2025-11-03 19:05:58 UTC
+# Toplam: 419504 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14408,6 +14408,7 @@
 500bintoplukonutlar.com
 500bintoplukonutlarproje.com
 500bintoplukonutonline.webhop.org
+500binyerlesim.com
 500binyerlesimkonut.com
 500binyerlesimyeri.com
 500bnanceusdt.com
@@ -16372,6 +16373,7 @@
 660danm.top
 66201.cloud
 66205552.cloud
+6623026662026.duckdns.org
 6627c220b5daa507c6cca1c5--votedme.netlify.app
 662pl9.duckdns.org
 6632200666.cloud
@@ -35228,6 +35230,7 @@ aisoraplus.com
 aisozsymbsvur.net
 aisp74.asso.fr
 aisretinizukak.shop
+aistokimarket.store
 aisturkiye-gov.cf
 aisturkiye-gov.tk
 aisturkiye.tk
@@ -37722,6 +37725,7 @@ akskrsbsvr.online
 aksmalrsa.app
 aksmcitrkmtv.tk
 aksmhgsmerkezi.tk
+aksmizzf.blogspot.com
 aksmlarlala.app
 aksmlvxrtkx.app
 aksmmtvtkn.tk
@@ -94877,6 +94881,7 @@ cleverwedge.cn
 clfejanpry.duckdns.org
 clfrm7.duckdns.org
 clgfvxkirc.duckdns.org
+clgnfstaln.cfd
 clgsh.xyz
 clhdl.duckdns.org
 clhfeqamax.gpublicida.ru
@@ -106027,6 +106032,7 @@ deltadisseny.com
 deltaled.es
 deltamontero.company
 deltaproject.us
+deltavip.xyz
 delten.2kool4u.net
 deludegroove.top
 deluderusty.top
@@ -118652,6 +118658,7 @@ dollrealdoll.online
 dolls-pet-bon-shirts.trycloudflare.com
 dollsgoals.info
 dolly2cyan.temp.swtest.ru
+dollyviewnus.live
 dolmabah.info
 dolmabolmazingo.pro
 dolmadakibizimki.cfd
@@ -155525,6 +155532,7 @@ frskqy.duckdns.org
 frsllrmskmczskkkckczc.click
 frslr0shop.shop
 frsltkbzlhld.online
+frsmtnzdsavrsnzs.giize.com
 frsocgenaqoenoreply.duckdns.org
 frsocgensg.duckdns.org
 frspeed.ddns.net
@@ -169638,6 +169646,7 @@ grntinefrisat.com
 grntionlinebasvuru.site
 grntiprmsynlrinizhsbinizaytcak.com
 grntiprn23242.com
+grntipromosyn.store
 grntipromosyon.net
 grntirespectaak.com
 grntisizinle.com
@@ -171183,6 +171192,7 @@ gunceltrsikayetler-453.sbs
 gunceltrsikayetler-463.sbs
 gunceltrsikayetler-464.sbs
 gunceltrsikayetler-473.sbs
+gunceltrsikayetler-561.sbs
 gunceltrsikayetler-7.sbs
 gunceltrsikayetler-863.sbs
 gunceltrsikayetler-9.sbs
@@ -201912,6 +201922,7 @@ ilkkayvakfi.org
 ilkkonut-basvuru.com
 ilkkonut.click
 ilkkonutum.click
+ilkkonutumm.sbs
 ilknur.pro
 ilknuracokasigim.co
 ilknuracokasigim.com
@@ -219828,6 +219839,7 @@ junkrat-veryfast.com
 junktejry.hopto.org
 junky.club
 junllian.net
+junok.click
 junona-and-avos.ru
 junpio70.hopto.org
 junsdfjasdslcdsjfndszcsdgjsdscmsdaff.xyz
@@ -225582,6 +225594,7 @@ kareemrestaurant.com
 karelebiko.net
 karem.no-ip.org
 karemsub.duckdns.org
+karenaloursan.sbs
 karenandkarren.com
 karenlergeldi.cfd
 karens-dapper-site-ea9b50.webflow.io
@@ -229719,6 +229732,7 @@ kilometresorgula.fun
 kilometresorgula.page.gd
 kilometresorgula.web.app
 kilometresorgula2.web.app
+kilometresorgulaa11.web.app
 kilometresorgulaa9.web.app
 kilometresorgulachp.web.app
 kilometresorgulagulyan.com.tr
@@ -231577,6 +231591,7 @@ kmgodm.net
 kmgulyan.shop
 kmgulyansorgu.shop
 kmgulyansorgula.shop
+kmguvenli.web.app
 kmh-zrt.online
 kmhalszxc.net
 kmhasar.app
@@ -233841,6 +233856,7 @@ krcdankrlignler.com
 krcdnarlkyl.com
 krcdnsizlregldiler.com
 krcdnsizlrlebuluscak.com
+krcdntkrargeldi.com
 krcdnynigeldler.shop
 krcekmsonc.com
 krcerotostandyikama.store
@@ -240750,7 +240766,9 @@ lll0sw54g.duckdns.org
 lll0sw564g.duckdns.org
 lll0waosfee.duckdns.org
 lll1l.xyz
+lll1o1bzllllhzlllccanlik.giize.com
 lll3shot-yklmlrrr.blogspot.com
+lll43wdq51.duckdns.org
 lll4643w26.duckdns.org
 lll564wsd.duckdns.org
 lllaaadffdsd.sbs
@@ -242588,6 +242606,7 @@ lstanbullolunhemen.com
 lstanbullu.shop
 lstanbulluburasi.click
 lstanbullularhediye.sa.com
+lstanbulluluollunn.com
 lstanbulluollunn.com
 lstanbulluolnn.click
 lstanbulluolun.click
@@ -283313,6 +283332,7 @@ paleboreei.biz
 paleenkos.com
 paleflesh.app
 palegoldenrod-ram-979712.hostingersite.com
+palenasa.sbs
 palenco.net
 palenko.net
 palesana.net
@@ -304023,6 +304043,7 @@ qou50w.duckdns.org
 qouatnrg.net
 qoudmwg5m.duckdns.org
 qoudsjejdjsndj.com.tr
+qov-tr.com
 qov.hu.com
 qov.web.tr
 qoveadlieh.ddns.net
@@ -309702,6 +309723,7 @@ resmeden-sizlere-biraz-once-getirdik.com
 resmen-bunlari-getirmek-sizden-bize-gorev.com
 resmen-bunun-hizlisina-buzamana-denkk-gelmez.top
 resmen-sadece-bilerek-getirdik-kacirmayin.com
+resmen-sistemden-srgulayin-ve-aktarn.sbs
 resmen-sona-gidenleri-bilirler-sende-katil.com
 resmen-sonlarda-geliriz-bizler-sevgi-ile.com
 resmi-0demeal.000.pe
@@ -312883,6 +312905,7 @@ rwqpmwswms.org
 rwqruop.com
 rwrdwp.top
 rwrid.id
+rwrite-go.com
 rwrpaor.duckdns.org
 rwrwrqwdghe.click
 rwshsrqams.org
@@ -332961,6 +332984,7 @@ sketchysymmetry.top
 skfaitmuqwntvmh.ru
 skfisrasfsdf243204102401246546546.site
 skflforbsmsb.xyz
+skfrstlmrnzsadfsa.giize.com
 skglaceptemrkt.com
 skglgxorw.duckdns.org
 skgmhgsborcblgsl.duckdns.org
@@ -337629,6 +337653,7 @@ sosyalkonut2026.vercel.app
 sosyalkonutbasvuru.click
 sosyalkonutbasvuru.net
 sosyalkonutbasvuru2026.vercel.app
+sosyalkonutbasvurularim.vercel.app
 sosyalkonutbasvurusu.net
 sosyalkonutbasvurusu.vercel.app
 sosyalkonutbasvurusum.vercel.app
@@ -337644,6 +337669,7 @@ sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
 sosyalkonutprojesi.kasimdahilibasvurulariolursutr.cloud
 sosyalkonutprojesi.net
+sosyalkonutprojesi.ozelkonutsistemi.cloud
 sosyalkonutprojesindeyerinizialin.shop
 sosyalkonuts.sbs
 sosyalkonutsosyalyasamvadisi.com
@@ -341749,6 +341775,7 @@ strajit.yachts
 strakonltd.co.ug
 straleprotocol.top
 stramdigital.yachts
+stramoisfier.cfd
 stranape.top
 strandabortion.top
 strandstifle.top
@@ -346389,6 +346416,7 @@ t0ki-hemenbrda.com
 t0ki.com.tr
 t0ki.kontlarms.sbs
 t0ki.shop
+t0ki.teawxw.click
 t0kibasvurularii.click
 t0ku2yfz.duckdns.org
 t0mcy8k.duckdns.org
@@ -355688,6 +355716,7 @@ togg-basvuru.online
 togg-cekilis.com
 togg-faizsiz-limitim.netlify.app
 togg-hazir-limitim.netlify.app
+togg-limit.netlify.app
 togg-on-basvuru.blogspot.com
 togg-onbasvuru.com
 togg-yetkili-acente.org
@@ -355937,6 +355966,7 @@ toki.hanimanya.com
 toki.hemenbasvuru2025.org
 toki.hizlislem.com
 toki.ilkevim-basvuru.com
+toki.ilkevimproje.com
 toki.islemy.com
 toki.islemyo.com
 toki.naziltaks.com
@@ -355944,6 +355974,7 @@ toki.online
 toki.otoyedekbura.it.com
 toki.turkiye-basvuru.com
 toki.yapiyoruzbuisi.xyz
+toki11.elevatesolutions.sbs
 toki130konutbasvuru.sbs
 toki2025-2025yeni.blogspot.com
 toki2025basvuru.blogspot.com
@@ -356307,6 +356338,7 @@ tokl.toklgovtr.sbs
 tokl.ts11xqd.icu
 tokl.yenievimm.sbs
 tokl.yenievimye.sbs
+tokl.yeniikonutmm.click
 tokl.yenikonut-basvur.sbs
 tokl2025giris.qzz.io
 tokl2025projesi.qzz.io
@@ -356318,6 +356350,7 @@ toklbsvrlaribrda.online
 toklbsvrrlari.org
 toklerbasvuru.blogspot.com
 toklgovtr.sbs
+toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
 toknohaftasonuindirimin.net
 toknowall.com
@@ -365123,10 +365156,12 @@ turkcellpasajsanalmarket.com
 turkcellpasajsanalmarketi.com
 turkcellpasajsite.com
 turkcellpasajsite.sbs
+turkcellpasajsitesi.com
 turkcellpasajstore.xyz
 turkcellpasajtr.com
 turkcellpasajweb.com
 turkcellpasajwebsite.com
+turkcellreklam.com
 turkcellsanal.com
 turkcellsanalmagaza.com
 turkcellsanalmagaza.cyou
@@ -397046,6 +397081,7 @@ wwwgrntibbvgiris.com
 wwwgrntigiriskampanyakatilim.com
 wwwguvenliodemesayfasi.gq
 wwwguvenliwebpos.gq
+wwwhabertgrt.techsolve.cfd
 wwwhalk-bank.com
 wwwhalkbank-2019yilbasicekilis.com
 wwwhalkbank-80yilsubesi-com.tk
@@ -409383,6 +409419,7 @@ yeniicerikler2021.blogspot.com
 yeniidenn.basvrudvltggggg.icu
 yeniidunyasendegelyasaa.com
 yeniikili-bakiyem.net
+yeniikonutmm.click
 yeniilamizda-girisler.com
 yeniillarimizda-girilm.com
 yeniindirimfirsatlari.cfd
