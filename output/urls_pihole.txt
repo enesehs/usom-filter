@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 15:10:11 UTC
-# Toplam: 419450 Domain
+# Son Güncelleme: 2025-11-03 16:11:46 UTC
+# Toplam: 419458 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -86313,6 +86313,7 @@ bzlerlegeldnzbralarada.com
 bzlerleszdebasvrnzhmn.com.tr
 bzlerleszdebsvrnzhmnz.com.tr
 bzlerleszdehmnanindabsvrnz.com.tr
+bzllealdinaldinkacirmmaa.giize.com
 bzlmleanndabsvrnzhmn1.com.tr
 bzlounge.hopto.org
 bzmc3ldeyz.net
@@ -93361,6 +93362,7 @@ cifsigorta.net
 ciftbolmedemon.click
 ciftci-destekli.pii.at
 ciftci-supriz.online
+ciftci-ziraat.cfd
 ciftcibxsvxrxakxank2.online
 ciftcibxsvxrxakxank3.online
 ciftcibxsvxrxakxank4.online
@@ -119227,6 +119229,7 @@ dostolalimpaketi.com
 dostpaketler.net
 dostsandik.ml
 dostseninderdinden.com
+dostumdusleredaldin.o000x1x11.workers.dev
 dostumladevam.shop
 dostumsakinol.com
 dostumyasamaz.ml
@@ -214936,6 +214939,7 @@ izlerkalirizlerkalirsinn.blogspot.com
 izlerkalirizlerkalirsinxd.blogspot.com
 izleseneq.com
 izletakipdenetimak.com
+izlfirsatii.duckdns.org
 izlfzl.top
 izlikm-sorgu-2025.web.app
 izlkvlkvlkvllkk.net
@@ -233142,6 +233146,7 @@ konutkapisi.org
 konutkredisihesaplamalari.blogspot.com
 konutlarim2026.sbs
 konutlarsite.com
+konutolsun.click
 konutonbasvuru.com
 konutprojeleribasladi.cloud
 konutresmibasvuru-21.com
@@ -356704,6 +356709,8 @@ toplukonutaonline.com
 toplukonutbasvr2.vercel.app
 toplukonutbasvr3.vercel.app
 toplukonutbasvr4.vercel.app
+toplukonutbasvr6.vercel.app
+toplukonutbasvr7.vercel.app
 toplukonutbasvrlr01.vercel.app
 toplukonutbasvrmonline.vercel.app
 toplukonutbasvrmonline1.vercel.app
@@ -416424,6 +416431,7 @@ ziraat-subem.net
 ziraat-subesi.gq
 ziraat-suprizleri-onay.tk
 ziraat-tarim--x0s20.duckdns.org
+ziraat-tarima.sbs
 ziraat-ticari.com
 ziraat-tr-bireysel-web.com
 ziraat-tr-bireysel.com
