@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-03 16:11:46 UTC
-! Total: 333967 rules
+! Last modified: 2025-11-03 17:08:50 UTC
+! Total: 333974 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41473,6 +41473,7 @@
 *://*.basvuru-toki.com/*
 *://*.basvuru-tokii.online/*
 *://*.basvuru-tokki.online/*
+*://*.basvuru-tokl-81.online/*
 *://*.basvuru-tr.online/*
 *://*.basvuru-tse.org.tr/*
 *://*.basvuru-tse.org/*
@@ -162338,6 +162339,7 @@
 *://*.ilkemburs.net/*
 *://*.ilkemedya.com/*
 *://*.ilkevbasvurtokl.info/*
+*://*.ilkevbasvurtokl.online/*
 *://*.ilkevbasvurular.sbs/*
 *://*.ilkevbasvurusu.sbs/*
 *://*.ilkevim-basvuru.com/*
@@ -185258,6 +185260,7 @@
 *://*.kgm-cezaodeme.org/*
 *://*.kgm-cezas.click/*
 *://*.kgm-cometr.com/*
+*://*.kgm-cvs.com/*
 *://*.kgm-demo.com/*
 *://*.kgm-etc.com/*
 *://*.kgm-example.com/*
@@ -188282,6 +188285,7 @@
 *://*.konutbasvurusuhizliform.cloud/*
 *://*.konutbasvurutamamla.cloud/*
 *://*.konutbilgi.click/*
+*://*.konutbul.click/*
 *://*.konutcan.com/*
 *://*.konutcozum.com/*
 *://*.konutdestegi6060.net/*
@@ -231534,6 +231538,7 @@
 *://*.pasajmagazam.store/*
 *://*.pasajmagazasi.com/*
 *://*.pasajmagazatr.com/*
+*://*.pasajmagazm.store/*
 *://*.pasajmarket.com/*
 *://*.pasajmarketim.com/*
 *://*.pasajmarketler.com/*
@@ -283862,6 +283867,7 @@
 *://*.tokibasvurumm.net/*
 *://*.tokibasvurumonline.click/*
 *://*.tokibasvurumtr.click/*
+*://*.tokibasvurumturkiye.click/*
 *://*.tokibasvurumutamamla.click/*
 *://*.tokibasvurumutamamla.online/*
 *://*.tokibasvurumutamamla.site/*
@@ -291604,6 +291610,7 @@
 *://*.turkcellpasajsanalmarketi.com/*
 *://*.turkcellpasajsite.com/*
 *://*.turkcellpasajsite.sbs/*
+*://*.turkcellpasajstore.xyz/*
 *://*.turkcellpasajtr.com/*
 *://*.turkcellpasajweb.com/*
 *://*.turkcellpasajwebsite.com/*
