@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 11:08:14 UTC
-# Toplam: 419378 Domain
+# Son Güncelleme: 2025-11-03 12:23:19 UTC
+# Toplam: 419397 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -35819,6 +35819,7 @@ akbanik.com
 akbank--bireysel.com
 akbank--isube.com
 akbank-access.ml
+akbank-aidat-iade.uisreno.com
 akbank-aidat-iadelerial.com
 akbank-aidat-iadelerinionayla.com
 akbank-basvuru-kartaidat.com
@@ -88071,6 +88072,7 @@ carefourcepte.cfd
 carefourlufirlar.shop
 carefourlugunler.shop
 carefourmobilkasim.cfd
+carefourmobilmuhtesemkasim.cfd
 carefourrsa.com
 carefoursa-flrsat.com.tr
 carefoursa-flrsatgunleri.com.tr
@@ -120732,6 +120734,7 @@ dumanaltiizom.net
 dumanhaber.online
 dumanhaber.site
 dumanhaber.xyz
+dumanhaberim.com
 dumaniduvara.synergize.co
 dumanigon0706.site
 dumansiz.name.tr
@@ -141446,6 +141449,7 @@ esube-ziraatbank.com
 esube-ziraatbankasi.ml
 esube-ziraatgiris.com
 esube-ziraatkatilim.com
+esube-zirraatkatiilim.com
 esube-zirraatkatilim.com
 esube.albankasi.com
 esube.baskentmnkldgr.com
@@ -143435,6 +143439,7 @@ evimizbil.info
 evimoldu.click
 evimolsuntoki.xyz
 evimolsuntokibasvuruekrani.com
+evimtokide500basvuruekrani.com
 evimzinherseyi.com
 evince.supportcodeblitz.com
 evindeawm.com.tr
@@ -174726,7 +174731,9 @@ hadesizinleguzell.com.tr
 hadeszcheck.online
 hadevndz2031.ddns.net
 hadezvendas.ddns.net
+hadi-40000-basvr.cyou
 hadi-40000-basvr.icu
+hadi-40000-basvr.sbs
 hadi-40bin-basvur.icu
 hadi-40bin-basvur.sbs
 hadi-bakalim-kampanyan-bizde900tl-oonline.cf
@@ -228970,6 +228977,7 @@ kgm-ogr.com
 kgm-ogs.com
 kgm-ogtt.com
 kgm-ogu.com
+kgm-omg.com
 kgm-onlineodeme.org
 kgm-oqc.com
 kgm-oqe.com
@@ -228981,6 +228989,7 @@ kgm-oqv.com
 kgm-ovg.com
 kgm-ozg.com
 kgm-poc.novadsa.com
+kgm-qzz.com
 kgm-sorgu-com.tk
 kgm-sorgula.org
 kgm-sorgulama.blogspot.com
@@ -237606,6 +237615,7 @@ lalelisubeindirimayi.com.tr
 lalelisubeindirimayi.online
 lalelisubeindirimayi.xyz
 laleterziblog.blogspot.com
+lalfd7456.github.io
 lalitenvbakif.com
 lalkklakllaa.net
 lalkrere.com
@@ -298490,6 +298500,7 @@ pttavm.resmitrpasaj.com
 pttavm.s-guvende.com
 pttavm.sa.com
 pttavm.sanalemarket.com
+pttavm.satinal-guvenli.com
 pttavm.satis-urunler.com
 pttavm.satisguvencesi.com.tr
 pttavm.satisim.info.tr
@@ -325160,6 +325171,7 @@ sepetim-onayli-127423.com
 sepetim-onayli-127424.com
 sepetim-onayli-127425.com
 sepetim-onayli-137426.com
+sepetim-onayli-147426.com
 sepetim-online.com
 sepetim-pttavm.com.tr
 sepetim-tedarikte.com
@@ -337562,6 +337574,7 @@ sosyalkazani.ml
 sosyalkontbasvuru.net
 sosyalkonut-basvuru.blogspot.com
 sosyalkonut-ilkevim.com
+sosyalkonut.net
 sosyalkonut.org
 sosyalkonut.shop
 sosyalkonut2026.com
@@ -349272,6 +349285,7 @@ tcka-e-form-iiade.com
 tckamuportal.org
 tckartaidatmobil.com
 tckartodemeler.com
+tckgm.cc
 tckhkvytgoldpointpuanfirsat.com
 tckiadesayfasi.com
 tckimlik-psi.vercel.app
@@ -355972,6 +355986,7 @@ tokibasvurum.online
 tokibasvurum.org
 tokibasvurum.xyz
 tokibasvurumerkez.store
+tokibasvurumhizlandir.click
 tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
@@ -356035,6 +356050,7 @@ tokiev.com-e-islemler.com.tr
 tokiev.com-e-islemlerim.com.tr
 tokiev.vercel.app
 tokiev.xyz
+tokievbasvuru.com
 tokievbasvuru.xyz
 tokievbasvurulari.vercel.app
 tokievbasvurulari.xyz
@@ -356084,6 +356100,7 @@ tokikonutal500binbasvuruekrani.com
 tokikonutbaskanligi.org
 tokikonutbasvulari.com
 tokikonutbasvur.xyz
+tokikonutbasvuru.com
 tokikonutbasvuru.gq
 tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvurular.vercel.app
@@ -356171,6 +356188,7 @@ tokionlinebasvurun.vercel.app
 tokionlinebasvurusu.vercel.app
 tokionlinebasvuruun.net
 tokionlineislem.vercel.app
+tokionlinekonutbasvuru.com
 tokionlineodeme.com.tr
 tokip-islemleri.click
 tokipagecloud.org
@@ -414185,6 +414203,7 @@ yuzyilarcaziraat.com
 yuzyildabirfirsatlar.cfd
 yuzyildabirfirsatlar.icu
 yuzyildabirfirsatlar.my
+yuzyilin-evi.com
 yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com
 yuzyilinindirimlisayfasi.online
 yuzyilinindirimlisayfasi.xyz
