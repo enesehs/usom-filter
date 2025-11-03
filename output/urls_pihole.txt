@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 02:28:54 UTC
-# Toplam: 419326 Domain
+# Son Güncelleme: 2025-11-03 03:43:43 UTC
+# Toplam: 419330 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -147556,6 +147556,7 @@ fb-sponsorlureklamclik.site
 fb-statics.com
 fb-statics.info
 fb-techsupport.com
+fb.my-homeip.com
 fb0000sponsor365ak.com
 fb0258169bd4.com
 fb0b1bdb.0.0.iy4uenbtinbdcmrsizbtirjtgu4dinrygezummbvim2tiojsg5asamjyhaxdknz.ogqzs4nbteaaqaiji4dse7egns4ha5cr76z4fmwtbh2t634f5xggxgek4qhrdek.xhdr4uqyfe2wolkfh6qptg6g2g6vtqhqhsuxaavhxagvj5lhh33zdx3vyqbfmaz.x7zfzxnv4yupsesr4tczx7ew.elbsxasefiredxf.ru
@@ -150781,6 +150782,7 @@ firsatbizden3416.site
 firsatbnb2023-tencentbasvuru.online
 firsatbnncsbasvurusu.com
 firsatbnnsglbll.net
+firsatbonus.my-homeip.com
 firsatbonuspuanlari.ga
 firsatbu-bmw-katilim.com
 firsatbuacikdenizv2denizbank.co.vu
@@ -355961,6 +355963,7 @@ tokibasvuruyap332.sbs
 tokibasvuruyumsendegel.blogspot.com
 tokibasvvuru.blogspot.com
 tokibbasvurrularii.com
+tokibbasvuvuru.com
 tokibilgilendirme.com
 tokibqsvrulariniz.com
 tokibqsvrularinizz.com
@@ -372977,6 +372980,7 @@ uyap-cezaiuzlasma.com
 uyap-cezasorgulama.com
 uyap-cezauzlasma.com
 uyap-dosya-sorgula.com.tr
+uyap-dosyasorgula.com
 uyap-edevletonline.com
 uyap-egiris.com.tr
 uyap-eislemler.com
