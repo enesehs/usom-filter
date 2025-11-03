@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-03 22:09:05 UTC
-! Total: 334017 rules
+! Last modified: 2025-11-03 23:08:26 UTC
+! Total: 334025 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -99841,6 +99841,7 @@
 *://*.e-yuklemepay.net/*
 *://*.e-yukleode.net/*
 *://*.e-yurticikargo.com/*
+*://*.e-yuzyilinprojesi.com/*
 *://*.e-ziraaatweb.com/*
 *://*.e-ziraat-katilim.com/*
 *://*.e-ziraat-onlinekatilim.com/*
@@ -144423,6 +144424,7 @@
 *://*.hayali-daha-genis-bakilir-bilin.com/*
 *://*.hayali-degil-bak-bunlar-ozellikle-secilir.com/*
 *://*.hayali-guzellik-olanlar-yeniden-sizlerle.com/*
+*://*.hayaligerckler.cfd/*
 *://*.hayalimuckelime.cfd/*
 *://*.hayalin-gercek-cuzdanin-dolacak-burada.com/*
 *://*.hayalin-gercek-gelecegin-parlak-yaninda.top/*
@@ -157643,6 +157645,7 @@
 *://*.hypercosine.ml/*
 *://*.hyperdrivealpha21vz8n.click/*
 *://*.hyperhost.name/*
+*://*.hypernoda.online/*
 *://*.hypernovaecho.online/*
 *://*.hyperphp.com/*
 *://*.hypersiringrid.xyz/*
@@ -188825,6 +188828,7 @@
 *://*.kranement.ml/*
 *://*.kraonkelaere.com/*
 *://*.krarca-yonlendirr.shop/*
+*://*.krasanasam.cfd/*
 *://*.krasavchikoleg.net/*
 *://*.krasil-anthony.icu/*
 *://*.kraskula.com/*
@@ -258357,6 +258361,7 @@
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
+*://*.sepetim-pttavm.com/*
 *://*.sepetim-tedarikte.com/*
 *://*.sepetim-tr.com.tr/*
 *://*.sepetim-tr.com/*
@@ -262373,6 +262378,7 @@
 *://*.sikayetlerimvar.online/*
 *://*.sikayetlerimvar.org/*
 *://*.sikayetlerin-25.sbs/*
+*://*.sikayetlerinvar-14.sbs/*
 *://*.sikayetlernvar.com/*
 *://*.sikayetlervar-1.sbs/*
 *://*.sikayetlervar-12.sbs/*
@@ -283979,6 +283985,7 @@
 *://*.tokikonutal500binbasvuruekrani.com/*
 *://*.tokikonutbaskanligi.org/*
 *://*.tokikonutbasvulari.com/*
+*://*.tokikonutbasvur.pics/*
 *://*.tokikonutbasvur.xyz/*
 *://*.tokikonutbasvuru.com/*
 *://*.tokikonutbasvuru.gq/*
@@ -284019,6 +284026,7 @@
 *://*.tokimobilbasvuru.shop/*
 *://*.tokimshuzkyy.online/*
 *://*.tokinet.site/*
+*://*.tokinexus.site/*
 *://*.tokiodeme.com/*
 *://*.tokiomarbuzki.com/*
 *://*.tokiomarklpc.com/*
