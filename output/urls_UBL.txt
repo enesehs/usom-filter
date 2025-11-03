@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-03 19:05:58 UTC
-! Total: 333998 rules
+! Last modified: 2025-11-03 20:10:29 UTC
+! Total: 334002 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10366,6 +10366,7 @@
 *://*.635455de9d716500.xyz/*
 *://*.6356255521907676932.com.tr/*
 *://*.6356255521907676932.online/*
+*://*.63566122134743247012.xyz/*
 *://*.6357854357875.com.tr/*
 *://*.63661654654.cloud/*
 *://*.6366615459.cloud/*
@@ -185434,6 +185435,7 @@
 *://*.kgmiletisim.ink/*
 *://*.kgmimgovtr.top/*
 *://*.kgminfo-ihlalsis.com/*
+*://*.kgminfo.cc/*
 *://*.kgmivdodeme.net/*
 *://*.kgmkarayoluajan.com/*
 *://*.kgmkarayoluajans.com/*
@@ -276891,6 +276893,7 @@
 *://*.tarzini-yansit-cuzdani-yorma-burada.top/*
 *://*.tarzlarimiz-burdan-daha-iyi-gelecekler-hep.com/*
 *://*.tarzoose.com/*
+*://*.tas1tsr1.click/*
 *://*.tasameh.com/*
 *://*.tasangrc.com/*
 *://*.tasanzvz.net/*
@@ -285939,6 +285942,7 @@
 *://*.tr-odeme-472210.com/*
 *://*.tr-odeme-472211.com/*
 *://*.tr-odeme-472213.com/*
+*://*.tr-odeme-bilgi.online/*
 *://*.tr-odeme-ilan.com/*
 *://*.tr-odeme-ilanlar.com/*
 *://*.tr-odeme.online/*
