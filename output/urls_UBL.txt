@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-04 06:14:43 UTC
-! Total: 334032 rules
+! Last modified: 2025-11-04 07:12:47 UTC
+! Total: 334057 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9467,6 +9467,7 @@
 *://*.500bintoplukonutlar.com/*
 *://*.500bintoplukonutlarproje.com/*
 *://*.500binyerlesim.com/*
+*://*.500binyerlesimi.com/*
 *://*.500binyerlesimkonut.com/*
 *://*.500binyerlesimyeri.com/*
 *://*.500bnanceusdt.com/*
@@ -18896,6 +18897,7 @@
 *://*.adadasdasdsasaassa.online/*
 *://*.adadsadadbimcell.org/*
 *://*.adafsdafsfsfs.online/*
+*://*.adaicons.com/*
 *://*.adakemegood24.com/*
 *://*.adakkevw.info/*
 *://*.adalatsa.ru/*
@@ -45429,6 +45431,7 @@
 *://*.bereketlipt-tavvm.cfd/*
 *://*.bereketp-ttde.cfd/*
 *://*.bereketpttmarket.cfd/*
+*://*.berekettas.com/*
 *://*.bereketvakfi.site/*
 *://*.bereketversin.nl/*
 *://*.berendegelsendeferne.net/*
@@ -60409,6 +60412,7 @@
 *://*.bonusgiris-acikdenizbank2019.tc/*
 *://*.bonusgirisacikdenizbankinternetsubesi.com/*
 *://*.bonusgirisacikdenizbankinternetsubesi.net/*
+*://*.bonusgirismobil.cfd/*
 *://*.bonusgiveawayapril23.us/*
 *://*.bonusgrtn.com/*
 *://*.bonushavale.com/*
@@ -60908,6 +60912,7 @@
 *://*.bosna3d.xyz/*
 *://*.bosnam.com/*
 *://*.bosphorgaz.com/*
+*://*.bosphorugaz.world/*
 *://*.bosphorusbreeze.online/*
 *://*.bosphorusgaztr.com/*
 *://*.boss777.ga/*
@@ -71703,6 +71708,7 @@
 *://*.cicekse.online/*
 *://*.cicekse.shop/*
 *://*.cicekse.xyz/*
+*://*.ciceksensin.shop/*
 *://*.ciceksepeti.ml/*
 *://*.ciceksepetim.de/*
 *://*.ciceksepetim.info/*
@@ -72598,6 +72604,7 @@
 *://*.ckhdpvprjsmrcll.ru/*
 *://*.ckhxlixmdeodxml.net/*
 *://*.ckiipmayvjdannh.cn/*
+*://*.ckitu.online/*
 *://*.ckj2.cn/*
 *://*.ckjdx.xyz/*
 *://*.ckjfgo.top/*
@@ -77785,6 +77792,7 @@
 *://*.ctguvende.online/*
 *://*.ctiadesistemi.com/*
 *://*.cticmourn.top/*
+*://*.ctideo.shop/*
 *://*.ctintelligible.top/*
 *://*.ctionuber.top/*
 *://*.ctkuveyonli.ml/*
@@ -90116,6 +90124,7 @@
 *://*.dimcservation.top/*
 *://*.dimebewilderment.top/*
 *://*.dimecynical.top/*
+*://*.dimenbold.click/*
 *://*.dimension465.xyz/*
 *://*.dimensionalstrain.top/*
 *://*.dimensioncomplacent.top/*
@@ -111751,6 +111760,7 @@
 *://*.esmehatunsokakatan.tk/*
 *://*.esmeneale78.top/*
 *://*.esmeratatladi.best/*
+*://*.esmercicek.com/*
 *://*.esmerin-tadiyla-kalitenin-bulusu.top/*
 *://*.esmerkumlar.com/*
 *://*.esmesedegurlerrsn.tk/*
@@ -123178,6 +123188,7 @@
 *://*.freedubcs.com/*
 *://*.freedynamicdns.net/*
 *://*.freedynamicdns.org/*
+*://*.freeedomly.com/*
 *://*.freefinder.me/*
 *://*.freefolllow.com/*
 *://*.freefollowers-instagram.tk/*
@@ -157217,6 +157228,7 @@
 *://*.huzurlu-bir-gune-mutluluk-geldi.top/*
 *://*.huzurlugunler.com/*
 *://*.huzurlular.online/*
+*://*.huzurlupensiyon.com/*
 *://*.huzurluyasam.org/*
 *://*.huzurluyasamlar.com/*
 *://*.huzurnoktasi.org/*
@@ -182179,6 +182191,7 @@
 *://*.karadeliksiralariuzayarastirmalari.xyz/*
 *://*.karademirstore.com/*
 *://*.karadenizpetshop.xyz/*
+*://*.karadenizturlari.net/*
 *://*.karadgtrmer.shop/*
 *://*.karadigit.quest/*
 *://*.karaduyarlihdfilm.xyz/*
@@ -196862,6 +196875,7 @@
 *://*.mackenziemacleod342.xyz/*
 *://*.maclefen.xyz/*
 *://*.macleodphotography.com/*
+*://*.maclois-tr.com/*
 *://*.macmafia.top/*
 *://*.macnavicat.com/*
 *://*.macombmgir.pw/*
@@ -203103,6 +203117,7 @@
 *://*.minrezviko.com/*
 *://*.minrungis.shop/*
 *://*.minstagram.net/*
+*://*.mintarize.sbs/*
 *://*.mintcorex.com/*
 *://*.mintdemographic.top/*
 *://*.mintello.my/*
@@ -215697,6 +215712,7 @@
 *://*.nuvoria.sbs/*
 *://*.nuvoriax.site/*
 *://*.nuxcdq.top/*
+*://*.nuxgera.xyz/*
 *://*.nuxmobomoob.site/*
 *://*.nuxq.net/*
 *://*.nuyersar.com/*
@@ -219325,6 +219341,7 @@
 *://*.ommunite.top/*
 *://*.omniaconsultingparma.it/*
 *://*.omnicron.sbs/*
+*://*.omnifla.online/*
 *://*.omobilbonusolasifirsatgirisim.com/*
 *://*.omofk.com/*
 *://*.ompdrj.com/*
@@ -233968,6 +233985,7 @@
 *://*.pineist.com/*
 *://*.pineloop.top/*
 *://*.pineloseesrae.com/*
+*://*.pinepathway.com/*
 *://*.pinewood-financial.com/*
 *://*.pinflour.com/*
 *://*.pingaksh.com/*
@@ -241941,6 +241959,7 @@
 *://*.pureci007acenti.site/*
 *://*.puredoffustow.shop/*
 *://*.puredropdrink.com/*
+*://*.pureedride.my/*
 *://*.purefacet.top/*
 *://*.purefoe.cc/*
 *://*.purefoe.top/*
@@ -244391,6 +244410,7 @@
 *://*.quanty-growth-pro.space/*
 *://*.quantyradevelopmentlabs.com/*
 *://*.quapin.online/*
+*://*.quarenth.com/*
 *://*.quarenthilomia.lat/*
 *://*.quarex.army/*
 *://*.quarex.online/*
@@ -273985,6 +274005,7 @@
 *://*.summerrain.cloud/*
 *://*.summervacation.bit/*
 *://*.summi.space/*
+*://*.summiseek.com/*
 *://*.summit-files.com/*
 *://*.summitartillery.top/*
 *://*.summitelaboration.top/*
@@ -310986,6 +311007,7 @@
 *://*.wrecknegligent.top/*
 *://*.wreckthorny.top/*
 *://*.wrenchautobiography.top/*
+*://*.wrenchmaster.xyz/*
 *://*.wrenchreconciliation.top/*
 *://*.wrenchsaturate.cyou/*
 *://*.wrenchsolitude.top/*
@@ -316410,6 +316432,7 @@
 *://*.wwwwsahibinden.com/*
 *://*.wwwwslack.top/*
 *://*.wwwwturkiyegovtr.com/*
+*://*.wwwww-facebook-mbasic.click/*
 *://*.wwwww34444bimcelkamtc.org/*
 *://*.wwwww34wwwlxa.net/*
 *://*.wwwww4444bmcl444.org/*
@@ -326387,6 +326410,7 @@
 *://*.yeniler-daha-gormedi-bunlar-ozel-gelir.com/*
 *://*.yeniler.site/*
 *://*.yenilerden-biraz-secme-gelir-sabit-kaliriz.com/*
+*://*.yenilerdomherzamaniyi.com/*
 *://*.yenilereiyigelecekvakfi.com/*
 *://*.yenilereyenizamanlarvakfi.com/*
 *://*.yenilertoptan.com/*
@@ -331618,6 +331642,7 @@
 *://*.ziraat-girisim.tk/*
 *://*.ziraat-guncelsube.com/*
 *://*.ziraat-haftasi.com/*
+*://*.ziraat-hakkinda.cfd/*
 *://*.ziraat-halk.cfd/*
 *://*.ziraat-hediyeleri.com/*
 *://*.ziraat-hediyelerim.com/*
