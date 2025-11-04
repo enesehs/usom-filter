@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-04 20:10:28 UTC
-# Toplam: 419717 Domain
+# Son Güncelleme: 2025-11-04 21:08:40 UTC
+# Toplam: 419727 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -56980,6 +56980,7 @@ basvrlariniz.com
 basvrlarmtki.sbs
 basvrlmztki.sbs
 basvrlmztkki.sbs
+basvrlrmzknttki.sbs
 basvrmerkezgrishemnkaytol.com
 basvrmerkezgriskaytol.com
 basvrmerkezi.online
@@ -57211,6 +57212,7 @@ basvur-bn-campaign.net
 basvur-bn-clickkampanyafirsati.cloud
 basvur-bn-firsatkampanyadays.cloud
 basvur-bnturkey.com
+basvur-bnturkey.site
 basvur-bonus-bbwa.com2024bonusayricaliklari.shop
 basvur-bonus.com
 basvur-bryselgarantibbvakrdihmngrs.com
@@ -59484,6 +59486,7 @@ basvuruyap-turkiyegovtr.com
 basvuruyap.cfd
 basvuruyap.click
 basvuruyap.com.tr
+basvuruyap.duckdns.org
 basvuruyap.mefound.com
 basvuruyap.mooo.com
 basvuruyap.net
@@ -64507,6 +64510,7 @@ biletim.xyz
 biletindirme.com
 biletlericebimde.com
 biletmerkezi.online
+biletmerkezim.com.tr
 biletonya.com
 biletpegasus.ru
 biletprivet.com
@@ -81788,6 +81792,7 @@ bsvrcm.site
 bsvrdiadealcffs.com
 bsvrdmsktmmattimm.com
 bsvrdnuz.click
+bsvrdnuz20.click
 bsvrdstk.online
 bsvrdyssongunkatl.duckdns.org
 bsvrdznzz.click
@@ -181430,6 +181435,7 @@ hazirkmpnyasendekatil.site
 hazirkredi.org
 hazirkredi.tk
 hazirkredial.com
+hazirkrediburda.digital
 hazirkredii.tk
 hazirkredin.com
 hazirkredin.ml
@@ -222470,6 +222476,7 @@ kampanya-burda-online.org
 kampanya-carrefoursa.com
 kampanya-carrefoursa.vercel.app
 kampanya-cekilisleri.net
+kampanya-com.cfd
 kampanya-dakika-bim-cell.blogspot.com
 kampanya-deniz.byethost8.com
 kampanya-deniz.com
@@ -248777,6 +248784,7 @@ maxikampanya.com
 maxilekiralikarac.online
 maxim2906.ddns.net
 maximalnegligent.top
+maximamhanmhhamnhmnam.xyz
 maximcepte.com
 maximiseadversity.top
 maximisechunk.top
@@ -256615,6 +256623,7 @@ mobiltemmuzkampanyasibasvurusubugece.monster
 mobilticaretp-ttsnaal.com
 mobiltlyukle.com
 mobiltlyukleme.com
+mobiltm.misecure.com
 mobiltogbasvuru.duckdns.org
 mobiltr-ilan.com.tr
 mobiltr-islem.com.tr
@@ -272588,6 +272597,7 @@ odemesayfamssl.tk
 odemesayfasi.mobi
 odemesayfasi.xyz
 odemesayfasi256bit.tk
+odemesepeti.com.tr
 odemeservis.info
 odemeservisaglayici.tk
 odemeservisi.info
