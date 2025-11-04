@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-04 21:08:40 UTC
-! Total: 334179 rules
+! Last modified: 2025-11-04 22:01:46 UTC
+! Total: 334186 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -162484,6 +162484,7 @@
 *://*.ilkevm.com/*
 *://*.ilkevmkredibsvrwhsz.net/*
 *://*.ilkevprojemle.com/*
+*://*.ilkevrehber.com/*
 *://*.ilkevsosyaldevlet.net/*
 *://*.ilkevtokibasvuru.com/*
 *://*.ilkfirsat-mobilingiris.xyz/*
@@ -190611,6 +190612,7 @@
 *://*.kusakel9.com/*
 *://*.kusaodspse.net/*
 *://*.kusapspoeta.net/*
+*://*.kushanovistanbul.sbs/*
 *://*.kushikushi.us/*
 *://*.kushiro-artist-school.com/*
 *://*.kushmeadows4.xyz/*
@@ -251839,6 +251841,7 @@
 *://*.safirbetuygulama9.com/*
 *://*.safjkasfjk2542.com/*
 *://*.safjksaf2.com/*
+*://*.safk45wkaslax-bab.com/*
 *://*.safkak2522.com/*
 *://*.safkalsaf125.church/*
 *://*.safkj2151sasdas.xyz/*
@@ -268278,6 +268281,7 @@
 *://*.soonbubble.top/*
 *://*.soonicon.top/*
 *://*.soonlineozel.biz.tr/*
+*://*.soonlineozel.org.tr/*
 *://*.soonmeasure.top/*
 *://*.soonnydfokkhekildfr.info/*
 *://*.soonsolidarity.top/*
@@ -283953,6 +283957,7 @@
 *://*.toki-yuvam.forum/*
 *://*.toki.blog/*
 *://*.toki.homes/*
+*://*.toki.onl/*
 *://*.toki.online/*
 *://*.toki130konutbasvuru.sbs/*
 *://*.toki2025basvuru.com/*
@@ -284084,6 +284089,7 @@
 *://*.tokiedevletbasvur.click/*
 *://*.tokiekkonut.com/*
 *://*.tokiev.com/*
+*://*.tokiev.org/*
 *://*.tokiev.xyz/*
 *://*.tokievbasvuru.com/*
 *://*.tokievbasvuru.xyz/*
@@ -297288,6 +297294,7 @@
 *://*.urlablisim.xyz/*
 *://*.urlbrowser-fb.site/*
 *://*.urlbrowser-fbclick.com/*
+*://*.urlbrowser-fbclicke.com/*
 *://*.urlca.com/*
 *://*.urlchecker.online/*
 *://*.urlclicks11.sbs/*
