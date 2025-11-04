@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-03 23:08:26 UTC
-# Toplam: 419543 Domain
+# Son Güncelleme: 2025-11-04 00:42:04 UTC
+# Toplam: 419549 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9606,6 +9606,7 @@
 2698139875134.com
 269zs.panade.ru
 26adetkaldilababoss.blogspot.com
+26adetkaldilababoss654wf.blogspot.com
 26adetkaldilababuss.blogspot.com
 26agtwins.duckdns.org
 26aralikakfirsatlarin.tr
@@ -126027,6 +126028,7 @@ e-kdviademerkezi.com
 e-keyode.net
 e-keysode.net
 e-kgd.kz
+e-kgm.digital
 e-kimlik-dogrula.org
 e-kisa.com
 e-kisalt.com
@@ -240724,6 +240726,7 @@ ll11001142.cloud
 ll11l.xyz
 ll1enshq.duckdns.org
 ll52nlwz.duckdns.org
+ll54erwl3q.duckdns.org
 ll6c87.duckdns.org
 ll6lv58o.duckdns.org
 ll9lj9.duckdns.org
@@ -320041,6 +320044,7 @@ sansaispa.com
 sansareklamxtg.com
 sansariletisim.com
 sansarmacit.com
+sansarsalvo.sbs
 sansdunya.net
 sansesdersese002.site
 sansfinn.com
@@ -347848,6 +347852,7 @@ tarzimnizmr.net
 tarzini-yansit-cuzdani-yorma-burada.top
 tarzlarimiz-burdan-daha-iyi-gelecekler-hep.com
 tarzoose.com
+tas1x1x1.sbs
 tasagera.duckdns.org
 tasameh.com
 tasangrc.com
@@ -387167,6 +387172,7 @@ website6582884.nicepage.io
 website6583911.nicepage.io
 website6584612.nicepage.io
 website658723356.nicepage.io
+website658734534643.nicepage.io
 website665s12.nicepage.io
 website665z22f.nicepage.io
 website666454211.nicepage.io

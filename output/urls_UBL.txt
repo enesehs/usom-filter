@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-03 23:08:26 UTC
-! Total: 334025 rules
+! Last modified: 2025-11-04 00:42:04 UTC
+! Total: 334028 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -98481,6 +98481,7 @@
 *://*.e-keyode.net/*
 *://*.e-keysode.net/*
 *://*.e-kgd.kz/*
+*://*.e-kgm.digital/*
 *://*.e-kimlik-dogrula.org/*
 *://*.e-kisa.com/*
 *://*.e-kisalt.com/*
@@ -254701,6 +254702,7 @@
 *://*.sansareklamxtg.com/*
 *://*.sansariletisim.com/*
 *://*.sansarmacit.com/*
+*://*.sansarsalvo.sbs/*
 *://*.sansdunya.net/*
 *://*.sansesdersese002.site/*
 *://*.sansfinn.com/*
@@ -276911,6 +276913,7 @@
 *://*.tarzlarimiz-burdan-daha-iyi-gelecekler-hep.com/*
 *://*.tarzoose.com/*
 *://*.tas1tsr1.click/*
+*://*.tas1x1x1.sbs/*
 *://*.tasameh.com/*
 *://*.tasangrc.com/*
 *://*.tasanzvz.net/*
