@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-04 19:01:37 UTC
-# Toplam: 419711 Domain
+# Son Güncelleme: 2025-11-04 20:10:28 UTC
+# Toplam: 419717 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78894,6 +78894,7 @@ bnturkiyebakiyeiiade.net
 bnturkiyegirisyap.cc
 bnturkiyegirisyap.com
 bnudestekbasvurutr.com
+bnusa-basvur.sbs
 bnvdfgd.click
 bnveliabn.vercel.app
 bnveve.click
@@ -178977,6 +178978,7 @@ handyeject.top
 handyevaporate.top
 handylevy.top
 hane-sos-yal-destekk-basvuru.com
+hanebasvurulari.org
 hanecaklaw.com
 hanedanisconiyces.site
 hanederbacanesilaclama.site
@@ -226562,6 +226564,7 @@ kasimaayinindirimlerinikacirmayin.online
 kasimakfirsatlar.online
 kasimaktuel.xyz
 kasimaktul.shop
+kasimaozelacik.sbs
 kasimaozelfirsatkampanyasiburada.tech
 kasimaozelindirim.online
 kasimaozlindrmlerglir.com
@@ -349823,6 +349826,7 @@ tea-tray.com
 tea1o1.net
 teaaffixation.top
 teach-invest.info
+teach.link
 teachaloft.top
 teachblush.top
 teacher-are.click
@@ -378816,6 +378820,7 @@ ventriculitidae.com
 ventriloquistic.com
 ventronics.co.za
 ventroxibnk.com
+venturalin.digital
 ventureaffiliation.top
 venturecoconut.top
 venturemeets.com
@@ -387319,6 +387324,7 @@ website6581364.nicepage.io
 website6581463.nicepage.io
 website6581519.nicepage.io
 website6582884.nicepage.io
+website6583251.nicepage.io
 website6583911.nicepage.io
 website6584612.nicepage.io
 website658723356.nicepage.io
