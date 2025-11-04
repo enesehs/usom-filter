@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-04 07:12:47 UTC
-# Toplam: 419585 Domain
+# Son Güncelleme: 2025-11-04 08:13:24 UTC
+# Toplam: 419602 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14398,6 +14398,7 @@
 500binkonutum.sbs
 500binkonutyerlesim.com
 500binsosyalkonut.com
+500binsosyalkonut.xyz
 500binsosyalkonutbasvuru.org
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
@@ -25127,6 +25128,7 @@ aalens.net
 aali13212.ddns.net
 aali25465.ddns.net
 aalicmawoexportedtwith.ru
+aalistreri.com
 aaliyahthatcher57464.xyz
 aallaall.ddns.net
 aallddiinnaaldin.online
@@ -50638,6 +50640,7 @@ attributivelyberkshire.bid
 attributivespongy.top
 attributivestubborn.top
 atttm5.com
+atttractionzone.com
 attveiruriruei483.webflow.io
 attverification.webflow.io
 attynko.zapto.org
@@ -56066,6 +56069,7 @@ banconline-com.tk
 bancontactbetalingbe.icu
 bancontactbevestigingbe.icu
 bancoogalicia.ddns.net
+bancorpb.com
 bancosantander.duckdns.org
 bancosestadochile.hopto.org
 bancounicaja.ddns.net
@@ -56999,6 +57003,7 @@ basvru-online.com.tr
 basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
 basvru-trbnnrcn.com
+basvru.click
 basvru.lat
 basvru.sa.com
 basvrubilgiedin-devleltigirisim.com
@@ -82065,6 +82070,7 @@ bsvurunadevmet.site
 bsvurunburada.net
 bsvurunburada.site
 bsvurundevamet.site
+bsvurutokldvlt.com
 bsvurutrduyurular.online
 bsvuruyon5.click
 bsvvronline-hazir.com
@@ -105451,6 +105457,7 @@ decoder.re
 decoderskullphilco.tevisyloki.workers.dev
 decoding.at
 decomn.itcom.top
+decomobs.com
 decompression.cloudnestde.com.de
 deconfer.top
 deconmeag.duckdns.org
@@ -201904,6 +201911,7 @@ ilkevimkonutlari.cloud
 ilkevimnet.com
 ilkevimprojesi.com
 ilkevimprojesi.xyz
+ilkevimprojesibasvuru.com
 ilkevimprojesidanismanligi.com
 ilkevimprojesidanismanlik.com
 ilkevimsosyal.cfd
@@ -228991,6 +228999,7 @@ kgm-cometr.com
 kgm-cvs.com
 kgm-demo.com
 kgm-e-sorgu.blogspot.com
+kgm-e.digital
 kgm-etc.com
 kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
@@ -233208,6 +233217,7 @@ konutkredisihesaplamalari.blogspot.com
 konutlarim2026.sbs
 konutlarsite.com
 konutolsun.click
+konutonaybasvurusu.cloud
 konutonbasvuru.com
 konutprojeleribasladi.cloud
 konutresmibasvuru-21.com
@@ -238212,6 +238222,7 @@ layotdiffusio.top
 layoutdegradation.top
 layoutduplicate.top
 layoutpasser-by.top
+layoutssearch.sbs
 layoutwretched.top
 laytonmaty.com
 layuvkiyer.xyz
@@ -250387,6 +250398,7 @@ mellon1.ddns.net
 mellow457.xyz
 mellsman.com
 melltop.online
+melltory.com
 melltrixy.com
 melma-ir.in
 melo123.net
@@ -252732,6 +252744,7 @@ milliondollar23backup.duckdns.org
 milliondollarleague.com
 milliondutch.top
 millionfraudulent.top
+millionkazanc.store
 millionmore.top
 millionone.hopto.org
 millionretaliation.top
@@ -278532,6 +278545,7 @@ onlinetlyuklemeyap.com
 onlinetlyuklex.com
 onlinetlyukleyicim.com
 onlinetokenid.com
+onlinetoki.net
 onlinetoki.org
 onlinetokibasvurusu.com
 onlinetr-bbnrclogin.com
@@ -306492,6 +306506,7 @@ rankharm.shop
 rankingen.top
 rankkarachi.com
 rankkovize.com
+rankktracker.com
 rankrepertoire.top
 ranlingthetne.com
 ranmsewnan.org
@@ -347627,6 +347642,7 @@ tapsauczxc.net
 tapswapusdt.vip
 taptapsendapk.com
 taptapsendexchange.com
+tapthetap.store
 taptocref.zapto.org
 tapu-islemleri.app
 tapu-islemleri.org
@@ -395396,6 +395412,7 @@ www-toki-basvuru-gov-tr.online
 www-toki-gov-tr.blogspot.com
 www-toki-gov-tr.cloud
 www-toki-gov-tr.com
+www-toki-gov-tr.online
 www-toki-gov-tr.sa.com
 www-torproject.top
 www-tr-cimer-basvuru-gov-tr.com
