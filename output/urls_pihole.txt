@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-04 22:01:46 UTC
-# Toplam: 419736 Domain
+# Son Güncelleme: 2025-11-04 23:08:30 UTC
+# Toplam: 419766 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9383,12 +9383,14 @@
 250binkonutbasvuru.sbs
 250binkonutbasvuruislemi.com
 250binkonutbasvurusu.com
+250binkonutprojebasvurusu.com
 250binkonutprojesibasvuru.com
 250bintokibasvuru.com
 250bintokibasvurusu.com
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoplukontproje.com
 250bintoplukonut.com
 250bintoplukonut.xyz
 250bintoplukonutbasvur.com
@@ -14389,6 +14391,7 @@
 500binilkevim.com
 500binkontprojesi.com
 500binkonut.com
+500binkonut.xyz
 500binkonutaciklandisonguntokibasvurulari.icu
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuru.cfd
@@ -57541,6 +57544,7 @@ basvurkby.com.tr
 basvurkdvlilik.blogspot.com
 basvurkml.com.tr
 basvurkml.online
+basvurkonuttoki.info
 basvurkonuttoki.pro
 basvurkrd.online
 basvurkrd.xyz
@@ -59029,6 +59033,7 @@ basvurumkolay.com
 basvurumkredi.com
 basvurumm.click
 basvurummis.org
+basvurummtokiimevim1453.xyz
 basvurumnk.com
 basvurumnk.world
 basvurumobiilacikdenizv2denizbank.co.vu
@@ -59424,6 +59429,7 @@ basvurutokiiiii21456.xyz
 basvurutokiiilkevim1453.com
 basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
+basvurutokiiimilkevimm81.xyz
 basvurutokiilkeviniz.xyz
 basvurutokileri.online
 basvurutokimilkevim81.xyz
@@ -81807,6 +81813,7 @@ bsvrisllm.com
 bsvrislm.com
 bsvrkatlsondayssnde.duckdns.org
 bsvrkrdfrm.xyz
+bsvrlmiztki.sbs
 bsvrlrm.xyz
 bsvrlrmtrkye.digital
 bsvrmalimmerkeztr1.net
@@ -97286,6 +97293,7 @@ comcom-comspacetemiz.com
 comcom-xswqs-csrd.com
 comdirect-de.duckdns.org
 comdirect.duckdns.org
+come-kasim-basvurus.net
 come34657.xyz
 comeanalyze.8x19.com
 comeandgodude.org
@@ -104029,6 +104037,7 @@ damienondek.ga
 damkahill.com
 damlabakim.name.tr
 damlacicek.com.tr
+damlacicekci.xyz
 damlacikolata.tk
 damlaegitimvakfi.org
 damlaekmekcioglu.xyz
@@ -142127,6 +142136,8 @@ etnkorea.com
 etnqeqwbqw.net
 etoccdgklsby.org
 etog3fj85xb8.duckdns.org
+etoki.net
+etoki.org
 etomgir.pw
 etonel.chickenkiller.com
 etonrocynz.duckdns.org
@@ -157714,6 +157725,7 @@ garantburdakrdstk.click
 garantbv.com
 garantbvaa.com
 garantbvb-mobilim.sbs
+garantbvb-mobillim.top
 garantbvvagovtr.b-cdn.net
 garantbxmd.com
 garantcekilis.click
@@ -191558,6 +191570,7 @@ hizmetesendekatil.com
 hizmetetmek.info
 hizmetetmek.ru.com
 hizmetetmek.sa.com
+hizmetev.com
 hizmetexpress.com.tr
 hizmetfast.net
 hizmetfilo.com.tr
@@ -201905,6 +201918,7 @@ ilkcagegitimkurumu.net
 ilkdairem.org
 ilkdairembenim.alwaysdata.net
 ilkdeneme.online
+ilkdenevimtokim.org
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
@@ -201940,6 +201954,7 @@ ilkevim.konutbasvurulari.cloud
 ilkevim.xyz
 ilkevim.yenikonutbasvurusu.cloud
 ilkevim250binbasvurusu.com
+ilkevimbasvr.xyz
 ilkevimbasvrmonline.vercel.app
 ilkevimbasvur2025.online
 ilkevimbasvuru.cfd
@@ -201954,6 +201969,7 @@ ilkevimburada.com
 ilkevimdanismanlik.com
 ilkevimden-basvurular.vercel.app
 ilkevimden.com
+ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutlari.cloud
 ilkevimnet.com
@@ -233292,6 +233308,7 @@ konutonaybasvurusu.cloud
 konutonbasvuru.com
 konutprojeleribasladi.cloud
 konutresmibasvuru-21.com
+konutsahibiol.org
 konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
@@ -240901,6 +240918,7 @@ lll43wdq51.duckdns.org
 lll4643w26.duckdns.org
 lll564wsd.duckdns.org
 lllaaadffdsd.sbs
+llleras23qw.duckdns.org
 lllilll.online
 lllinoistollwayc.top
 llliww.cloud
@@ -337835,6 +337853,7 @@ sosyalkonutlarabasvur.net
 sosyalkonutlarin.click
 sosyalkonutproje.net
 sosyalkonutprojeilkevimm.blogspot.com
+sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
 sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
@@ -356073,6 +356092,7 @@ toki-basvur.cfd
 toki-basvur.com
 toki-basvur.info
 toki-basvur.sa.com
+toki-basvurl.digital
 toki-basvurru.info
 toki-basvurru.sa.com
 toki-basvuru-2025.xyz
@@ -356320,6 +356340,7 @@ tokiedevletbasvur-21393.kxcdn.com
 tokiedevletbasvur.click
 tokiedevletbasvuru-21358.kxcdn.com
 tokiekkonut.com
+tokiemlak.org
 tokiev.com
 tokiev.com-e-islemler.com.tr
 tokiev.com-e-islemlerim.com.tr
@@ -356333,10 +356354,13 @@ tokievbasvurulari.xyz
 tokievbasvurularim.vercel.app
 tokievbasvurularin.vercel.app
 tokievbasvurum.click
+tokievbasvurusu.com
 tokievbasvurusuonline.com
 tokievibasvurum.com
 tokievim.com
 tokievim.com.tr
+tokievim.net
+tokievim.org
 tokievim.site
 tokievimbasvuru.click
 tokievimkonutbasvuru.sbs
@@ -356361,6 +356385,7 @@ tokigovtr1.ga
 tokihouse.digital
 tokihousingapplication.com
 tokii-basvuru.online
+tokii.digital
 tokiibasvuru.info
 tokiibasvurus.blogspot.com
 tokiibasvurusu.blogspot.com
@@ -356368,10 +356393,12 @@ tokiikevimprojesibasvuru.com
 tokiilerbasvuruu.sa.com
 tokiilkevimbasvuru.site
 tokiilkevimbasvuruekrani.com
+tokikayit.org
 tokikayitlar.org
 tokikbasuvurlari.blogspot.com
 tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
+tokikonut.net
 tokikonut.org
 tokikonut.xyz
 tokikonutal500binbasvuruekrani.com
@@ -356496,6 +356523,8 @@ tokislemyap.com
 tokisosyalbasvuru.net
 tokisosyalbasvurularim.vercel.app
 tokisosyalbasvurularin.vercel.app
+tokisosyalkonut.net
+tokisosyalkonut.org
 tokisosyalkonutbasvuru.net
 tokisosyalkonutevbasvuru.vercel.app
 tokisosyalkonutlar.com
@@ -415348,6 +415377,7 @@ zamknutoeprostranstvo.app
 zamlara-inat-hep-birlikte-devam.com
 zamlmob.pics
 zamman65s.duckdns.org
+zammazing0lll2ewsx.blogspot.com
 zamnaci-1011de-kllm.com
 zamnaci-101de-kasllm.com
 zamnaci-101de-kllm.com
