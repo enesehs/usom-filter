@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-04 18:13:27 UTC
-! Total: 334149 rules
+! Last modified: 2025-11-04 19:01:37 UTC
+! Total: 334166 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9446,6 +9446,7 @@
 *://*.500bin-konut.com/*
 *://*.500bin-konutbasvuru.cfd/*
 *://*.500binasrinprojesi.com/*
+*://*.500binhazirkonutrojesi.cloud/*
 *://*.500binilkevim.com/*
 *://*.500binkontprojesi.com/*
 *://*.500binkonut.com/*
@@ -40661,6 +40662,7 @@
 *://*.basvur-bn-campaign.net/*
 *://*.basvur-bn-clickkampanyafirsati.cloud/*
 *://*.basvur-bn-firsatkampanyadays.cloud/*
+*://*.basvur-bnturkey.com/*
 *://*.basvur-bonus.com/*
 *://*.basvur-bryselgarantibbvakrdihmngrs.com/*
 *://*.basvur-btcturkpro.com/*
@@ -40936,6 +40938,7 @@
 *://*.basvurkby.com.tr/*
 *://*.basvurkml.com.tr/*
 *://*.basvurkml.online/*
+*://*.basvurkonuttoki.pro/*
 *://*.basvurkrd.online/*
 *://*.basvurkrd.xyz/*
 *://*.basvurkredidenizgrs.click/*
@@ -41235,6 +41238,7 @@
 *://*.basvuru-akonay.com/*
 *://*.basvuru-al.ml/*
 *://*.basvuru-aralik.shop/*
+*://*.basvuru-basladi.cfd/*
 *://*.basvuru-bfcturk.com/*
 *://*.basvuru-binancetr.com/*
 *://*.basvuru-bireysel-aidat-geri-iade.com/*
@@ -54745,6 +54749,7 @@
 *://*.biz-sizleri-burdan-mutlu-ayrilmadangondermiycez.com/*
 *://*.biz-yaptik.com.tr/*
 *://*.biz-yardim-severiz-e-devlet-tr-gov.cf/*
+*://*.biz-yeniden-kalkinacagiz-beraber.sbs/*
 *://*.biz.ua/*
 *://*.biz9holdings.com/*
 *://*.bizadvice.online/*
@@ -89491,6 +89496,7 @@
 *://*.dijitalhizli-ziraatmobil.com/*
 *://*.dijitalhizli-ziraatwebkampanya.sbs/*
 *://*.dijitalhizligiris-denizacik.com/*
+*://*.dijitalhizligiris-ziraatbireysel.sbs/*
 *://*.dijitalhizligiris-ziraatmobil.com/*
 *://*.dijitalhizligiris-ziraatweb.sbs/*
 *://*.dijitalhizligiris-ziraatwebkampanya.sbs/*
@@ -92542,6 +92548,7 @@
 *://*.dosmylighthouse.com/*
 *://*.dosses938.xyz/*
 *://*.dostaneyardim.xyz/*
+*://*.dostantm.site/*
 *://*.dostawapapajohns.online/*
 *://*.dostcebedost.com/*
 *://*.dostcwnlisikentyukleme.net/*
@@ -168657,6 +168664,7 @@
 *://*.isaiafsfsafasbfajfwq444.fun/*
 *://*.isaidatiadebsvuru-tr.com/*
 *://*.isalic.ru/*
+*://*.isallanhanmhanmhanmbnanamamnanmahamhnamn.xyz/*
 *://*.isanbulklkn.net/*
 *://*.isandrix.net/*
 *://*.isanitation.cyou/*
@@ -188365,10 +188373,12 @@
 *://*.konutbasvurumerkezi.online/*
 *://*.konutbasvurumtr.click/*
 *://*.konutbasvurun.org/*
+*://*.konutbasvurunet.online/*
 *://*.konutbasvurunuyap.com/*
 *://*.konutbasvurunuz.nl/*
 *://*.konutbasvurunuzuyapin.com/*
 *://*.konutbasvurunuzuyapin.org/*
+*://*.konutbasvuruportal.online/*
 *://*.konutbasvurusistemi-basvur.click/*
 *://*.konutbasvurusistemi-basvur.icu/*
 *://*.konutbasvurusistemi-basvur.rest/*
@@ -188399,6 +188409,7 @@
 *://*.konutislemler.net/*
 *://*.konutislemlerihizlica.com/*
 *://*.konutkampanya.click/*
+*://*.konutkampanya.online/*
 *://*.konutkapisi.org/*
 *://*.konutlarim2026.sbs/*
 *://*.konutlarsite.com/*
@@ -213374,6 +213385,7 @@
 *://*.nexuscoveinccorp.com/*
 *://*.nexusfern.com/*
 *://*.nexusfleck.com/*
+*://*.nexusframe.cfd/*
 *://*.nexuslagoon.com/*
 *://*.nexuslink.click/*
 *://*.nexuspatrimonial.city/*
@@ -283928,6 +283940,7 @@
 *://*.toki-yuvam.click/*
 *://*.toki-yuvam.forum/*
 *://*.toki.blog/*
+*://*.toki.homes/*
 *://*.toki.online/*
 *://*.toki130konutbasvuru.sbs/*
 *://*.toki2025basvuru.com/*
@@ -284064,6 +284077,7 @@
 *://*.tokievbasvuru.xyz/*
 *://*.tokievbasvurulari.xyz/*
 *://*.tokievbasvurum.click/*
+*://*.tokievbasvurusuonline.com/*
 *://*.tokievibasvurum.com/*
 *://*.tokievim.com.tr/*
 *://*.tokievim.com/*
@@ -284358,6 +284372,7 @@
 *://*.toogfirsatcekilisi-sizlerle.net/*
 *://*.toogggggarantkatilimmmm.cloud/*
 *://*.toogggtf10tf.com/*
+*://*.took-ii.click/*
 *://*.tookiibasvvur.art/*
 *://*.tookiibasvvur.info/*
 *://*.tookiibasvvur.pro/*
@@ -284519,6 +284534,7 @@
 *://*.toplukonut400.com/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonutaonline.com/*
+*://*.toplukonutbasvrlarimbaslamis.space/*
 *://*.toplukonutbasvuru.cfd/*
 *://*.toplukonutbasvurular-45.com/*
 *://*.toplukonutbasvurular.com/*
@@ -291390,6 +291406,7 @@
 *://*.tunavakfi.online/*
 *://*.tunavida.com/*
 *://*.tunaysenturkhacker.club/*
+*://*.tuncaykantarc.cfd/*
 *://*.tunedia.com/*
 *://*.tunehal.click/*
 *://*.tunelounge.top/*
