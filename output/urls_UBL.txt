@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-05 17:09:49 UTC
-! Total: 334354 rules
+! Last modified: 2025-11-05 19:01:42 UTC
+! Total: 334366 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11394,6 +11394,7 @@
 *://*.786654789.com/*
 *://*.786743232.cloud/*
 *://*.786marketing.net/*
+*://*.787-85-69-88.cfd/*
 *://*.78732090932677981209.cloud/*
 *://*.7877656555.cloud/*
 *://*.787789764.cloud/*
@@ -40467,6 +40468,7 @@
 *://*.basvrmproms.click/*
 *://*.basvrmproms25.click/*
 *://*.basvrmtrcbnrcc.com/*
+*://*.basvrn-hizlitokl.com/*
 *://*.basvrnsbbrdahmnetkla.click/*
 *://*.basvrnzbzleszdebsvrn.com.tr/*
 *://*.basvrpromlar.click/*
@@ -42632,6 +42634,7 @@
 *://*.basvurutokiiimilkevimm81.xyz/*
 *://*.basvurutokiilkeviniz.xyz/*
 *://*.basvurutokileri.online/*
+*://*.basvurutokimerkezim.com/*
 *://*.basvurutokimilkevim81.xyz/*
 *://*.basvurutokionline.click/*
 *://*.basvurutokl.click/*
@@ -89514,6 +89517,7 @@
 *://*.dijitalgirism.org/*
 *://*.dijitalgirismerkezi-denizacik.com/*
 *://*.dijitalgirismobil-ziraatbireysel.com/*
+*://*.dijitalgirismobil-ziraatbireysel.sbs/*
 *://*.dijitalgirismobil-ziraatwebkampanya.sbs/*
 *://*.dijitalgirismobilweb-ziraatbireysel.com/*
 *://*.dijitalgirisnoktasi-denizacik.com/*
@@ -90039,6 +90043,7 @@
 *://*.dijitalwebgiris-isbankbireysel.com/*
 *://*.dijitalwebgiris-ziraat.com/*
 *://*.dijitalwebgiris-ziraatbireysel.com/*
+*://*.dijitalwebgiris-ziraatbireysel.sbs/*
 *://*.dijitalwebgiris-ziraatkampanya.com/*
 *://*.dijitalwebgiris-ziraatkampanyamobil.com/*
 *://*.dijitalwebgiris-ziraatmobil.com/*
@@ -132693,6 +132698,7 @@
 *://*.gn-clslxmr-firsstlylann.net.tr/*
 *://*.gn3clisleemleri0niz.xyz/*
 *://*.gnaednouebaoubefoubu.info/*
+*://*.gnahkarbiradam.click/*
 *://*.gnaoedoaoounauubueu.ru/*
 *://*.gnaoedoaoounauubueuu.info/*
 *://*.gnasigsndshadgdsas54.icu/*
@@ -133931,6 +133937,7 @@
 *://*.govyu.vip/*
 *://*.govzj.help/*
 *://*.govzk.help/*
+*://*.govzq.help/*
 *://*.gownalert.top/*
 *://*.gownfame.top/*
 *://*.gownmeadow.top/*
@@ -143892,6 +143899,7 @@
 *://*.harikalargunufirsatlari.pics/*
 *://*.harikalargunukampanaar.cfd/*
 *://*.harikalargunukampanaar.sbs/*
+*://*.harikalarotesi.cfd/*
 *://*.harikalaryanindasimdi.cfd/*
 *://*.harikamarketimm.com/*
 *://*.harikamayisfirsatlari.com.tr/*
@@ -188485,6 +188493,7 @@
 *://*.konutbasvurusu.click/*
 *://*.konutbasvurusu.com/*
 *://*.konutbasvurusuhizliform.cloud/*
+*://*.konutbasvurusutoki.xyz/*
 *://*.konutbasvurutamamla.cloud/*
 *://*.konutbilgi.click/*
 *://*.konutbul.click/*
@@ -258594,6 +258603,7 @@
 *://*.sepetim-onayli-137426.com/*
 *://*.sepetim-onayli-147426.com/*
 *://*.sepetim-onayli-167426.com/*
+*://*.sepetim-onayli-177426.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
@@ -283077,6 +283087,7 @@
 *://*.tkgov.com/*
 *://*.tki-kplrnzda.click/*
 *://*.tki-online-bsvr.cyou/*
+*://*.tkibasvrlmzbrda.sbs/*
 *://*.tkibsvbrda.site/*
 *://*.tkibsvrlr-gov.pics/*
 *://*.tkibsvru-gov.pics/*
@@ -286514,6 +286525,7 @@
 *://*.tr-sikaytmvar.net/*
 *://*.tr-sikkayetmerkezi-guncel.net/*
 *://*.tr-siparis-gets.online/*
+*://*.tr-siparis-secure.online/*
 *://*.tr-siparis.com.tr/*
 *://*.tr-siparis.net/*
 *://*.tr-siparisim.com.tr/*
