@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-05 14:09:33 UTC
-! Total: 334320 rules
+! Last modified: 2025-11-05 15:10:41 UTC
+! Total: 334346 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -16066,6 +16066,7 @@
 *://*.accountrecovery-coinbase.com/*
 *://*.accountrecovery.org/*
 *://*.accountrenewsinformation.com/*
+*://*.accountroyal.com/*
 *://*.accounts-ads.site/*
 *://*.accounts-appie.com/*
 *://*.accounts-binance-checks.net/*
@@ -23000,6 +23001,7 @@
 *://*.airbnb-reservation.cloud/*
 *://*.airbseeker.com/*
 *://*.airbusco.net/*
+*://*.airbushiring.com/*
 *://*.aircafe24.com/*
 *://*.airci.net/*
 *://*.aircompsp.ru/*
@@ -29104,6 +29106,7 @@
 *://*.alwaysdata.net/*
 *://*.alwaysgoodidea.com/*
 *://*.alwaysinbusiness.xyz/*
+*://*.alwayslivehealthy.com/*
 *://*.alwaysp.com/*
 *://*.alwaysp.net/*
 *://*.alwaysp.xyz/*
@@ -29435,6 +29438,7 @@
 *://*.amipya.xyz/*
 *://*.amirabedin.com/*
 *://*.amiralmedya.com.tr/*
+*://*.amirkusbiyov.sbs/*
 *://*.amirmenahem.com/*
 *://*.amirziv.info/*
 *://*.amishaiscomeback.net/*
@@ -60112,6 +60116,7 @@
 *://*.bodyprogram.top/*
 *://*.bodyshoppechiropractic.com/*
 *://*.bodysvkmxczs.net/*
+*://*.bodywellnessbycynthia.com/*
 *://*.bodywork-sf.net/*
 *://*.boeing-careers.com/*
 *://*.boekportret.nl/*
@@ -62228,6 +62233,7 @@
 *://*.bsvrdmsktmmattimm.com/*
 *://*.bsvrdnuz.click/*
 *://*.bsvrdnuz20.click/*
+*://*.bsvrdnuz40.click/*
 *://*.bsvrdstk.online/*
 *://*.bsvrdznzz.click/*
 *://*.bsvrdznzz10.click/*
@@ -70973,6 +70979,7 @@
 *://*.chairsboom.xyz/*
 *://*.chairsit.surf/*
 *://*.chairtravel.net/*
+*://*.chakracleansetherapy.com/*
 *://*.chaldear.com/*
 *://*.chalkclench.top/*
 *://*.challengestrata.com.au/*
@@ -72891,6 +72898,7 @@
 *://*.clearlivate.com/*
 *://*.clearlybolster.top/*
 *://*.clearlyretarded.top/*
+*://*.clearmindhealthandwellness.com/*
 *://*.clearnetfab.net/*
 *://*.clearpact.top/*
 *://*.clearplow.com/*
@@ -93301,6 +93309,7 @@
 *://*.droneisgood.site/*
 *://*.dronekargo.pro/*
 *://*.dronerc.it/*
+*://*.dronetechasia.org/*
 *://*.dronnoovista.com/*
 *://*.droogggdhfhf.com/*
 *://*.droohsdronfhystgfh.info/*
@@ -100750,6 +100759,7 @@
 *://*.ebireyselpayfix.com/*
 *://*.ebisde-kampanyabasvur-bireysel-online.ml/*
 *://*.ebitbr.com/*
+*://*.ebixcareers.com/*
 *://*.ebizbosunamiburdayizbabayigit.com/*
 *://*.ebizgoogle.ml/*
 *://*.ebjv.com.au/*
@@ -145842,11 +145852,13 @@
 *://*.healthcaption.com/*
 *://*.healthcarefluent.com/*
 *://*.healthclubfun.com/*
+*://*.healthcrescent.com/*
 *://*.healthfulharmony.fun/*
 *://*.healthfy.bio/*
 *://*.healthherofit.com/*
 *://*.healthhostess.com/*
 *://*.healthhues.website/*
+*://*.healthiestmama.com/*
 *://*.healthnonetheless.top/*
 *://*.healthoffword.xyz/*
 *://*.healthpressurepilot.com/*
@@ -152437,6 +152449,7 @@
 *://*.hizli-tl-yuklem.com/*
 *://*.hizli-tl-yukleme-bimcelll.net/*
 *://*.hizli-tlyukle-bimcelll.com/*
+*://*.hizli-toklbasvm.sbs/*
 *://*.hizli-toklbsvur.com/*
 *://*.hizli-tr.com.tr/*
 *://*.hizli-transfer-ekrani.online/*
@@ -162532,6 +162545,7 @@
 *://*.ilkevimtokbasvuru.info/*
 *://*.ilkevimtokbasvuru.online/*
 *://*.ilkevimtoki.click/*
+*://*.ilkevimtoki.com/*
 *://*.ilkevimtoki.xyz/*
 *://*.ilkevimtokibasvuru.com/*
 *://*.ilkevimtokibasvuru.sbs/*
@@ -168294,6 +168308,7 @@
 *://*.iqykew.com/*
 *://*.iqykl.com/*
 *://*.iqylkkoehwiv.space/*
+*://*.iqzirat.online/*
 *://*.iqzndvsj.com/*
 *://*.iqzww.com/*
 *://*.iraatbank.tk/*
@@ -176976,6 +176991,7 @@
 *://*.join4957.ga/*
 *://*.join708singlebrought.live/*
 *://*.joinabrupt.top/*
+*://*.joinboeing.com/*
 *://*.joindiversity.top/*
 *://*.joindvw.com/*
 *://*.joininbnnanncegiris.space/*
@@ -188250,6 +188266,7 @@
 *://*.kolyolyardmkm.click/*
 *://*.kolypsotract.net/*
 *://*.kom-odemeler.online/*
+*://*.kom4ltkmpsan.cfd/*
 *://*.komaru.today/*
 *://*.komatireddy.net/*
 *://*.kombi-servisi.click/*
@@ -199022,6 +199039,7 @@
 *://*.marketingduo.co.kr/*
 *://*.marketinggrow.sbs/*
 *://*.marketinginvictus.com/*
+*://*.marketinglw.com/*
 *://*.marketingmanager.social/*
 *://*.marketingparadigm.top/*
 *://*.marketingscorn.top/*
@@ -207182,6 +207200,7 @@
 *://*.mos24ben2eiff2.wiki/*
 *://*.mos2uddv3eeiff2.wiki/*
 *://*.mos2uddv3eess2iff2.wiki/*
+*://*.mosaichealthsolutions.com/*
 *://*.mosaichomedesign.com/*
 *://*.mosaytira.nl/*
 *://*.mosbatbilit.com/*
@@ -207787,6 +207806,8 @@
 *://*.msn-center.uk/*
 *://*.msn-microsoft.org/*
 *://*.msn-service.co/*
+*://*.msnapp.help/*
+*://*.msnapp.live/*
 *://*.msnhw.com/*
 *://*.msnrwrnnrn.in/*
 *://*.msntv.org/*
@@ -227275,6 +227296,7 @@
 *://*.palacecirwoos.shop/*
 *://*.palacewinner.top/*
 *://*.palaeophytologist.com/*
+*://*.palaerospace.careers/*
 *://*.palakiy4.click/*
 *://*.palalto.live/*
 *://*.palaltocloud.online/*
@@ -249079,6 +249101,7 @@
 *://*.rhc-jo.com/*
 *://*.rhctiz9xijd4yc.com/*
 *://*.rhe-rhejntr-nte-gqe.store/*
+*://*.rhealthylivingsolutions.com/*
 *://*.rhecakloza.xyz/*
 *://*.rheinmetallcareer.com/*
 *://*.rheinmetallcareer.org/*
@@ -281684,6 +281707,7 @@
 *://*.thebest1jewels.waw.pl/*
 *://*.thebestcentraplacecontentinggood.date/*
 *://*.thebestconference.org/*
+*://*.thebesthomehealth.com/*
 *://*.thebestinterest.tk/*
 *://*.thebestsguide.co.uk/*
 *://*.thebesttime.buzz/*
@@ -284018,6 +284042,7 @@
 *://*.toki-basvuru.xyz/*
 *://*.toki-basvuruekrani.sbs/*
 *://*.toki-basvurular-online.best/*
+*://*.toki-basvurum.org/*
 *://*.toki-basvurum.xyz/*
 *://*.toki-basvurumm-yapp.com/*
 *://*.toki-basvurusistemi.rest/*
@@ -334257,6 +334282,7 @@
 *://*.zyrohgs.xyz/*
 *://*.zysnuy.com/*
 *://*.zysqshjs.com/*
+*://*.zytonhealth.com/*
 *://*.zytrox.tk/*
 *://*.zyugcfmh.com/*
 *://*.zyukle.com/*
