@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-06 15:10:37 UTC
-# Toplam: 420089 Domain
+# Son Güncelleme: 2025-11-06 16:11:59 UTC
+# Toplam: 420099 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18549,6 +18549,7 @@
 7rwphjk3d.duckdns.org
 7rwpjach.duckdns.org
 7ry4ij56a67216m.ddns.net
+7rylanxzs.storage.googleapis.com
 7s1w56s.duckdns.org
 7s4a15d7s8a4dasda35d.com.tr
 7s9kbk0jb0.com
@@ -202142,6 +202143,7 @@ ilkevmkredibsvrwhsz.net
 ilkevprojemle.com
 ilkevrehber.com
 ilkevsosyaldevlet.net
+ilkevtoki.digital
 ilkevtokibasvuru.com
 ilkevtokibasvuru.org
 ilkfirsat-mobilingiris.xyz
@@ -204698,6 +204700,7 @@ indirsminlerinikacirma.shop
 indirxmfirsatlari.com
 indisimillerikacirmsa.store
 indisimrinilerinikacisam.shop
+indisnxndmsncmsd.sbs
 indispensablederail.top
 indispensableoak.top
 indispensablewinner.top
@@ -233409,6 +233412,7 @@ konutbasvuru.online
 konutbasvuru.org
 konutbasvuruac1v58aha58sndgfa5d8c5d5.online
 konutbasvuruac1v58aha58sndgfa5d8c5d5.site
+konutbasvuruac1v58aha58sndgfa5d8c5d5.space
 konutbasvurulari.cloud
 konutbasvurulari.online
 konutbasvurulariacildi.icu
@@ -233435,6 +233439,7 @@ konutbasvurusuhizliform.cloud
 konutbasvurusutoki.xyz
 konutbasvurutamamla.cloud
 konutbilgi.click
+konutborsasi.online
 konutbul.click
 konutcan.com
 konutcozum.com
@@ -233446,6 +233451,7 @@ konutemlkodemeler.net
 konutevim.org
 konutevim2025.org
 konutevinbasvurusu.org
+konutevinebasvur.org
 konutevlik.cfd
 konutfirsat.click
 konutfirsati.click
@@ -274811,6 +274817,7 @@ onbasvuru-tog.com
 onbasvuru.basvuruekrani.online
 onbasvuru.org
 onbasvuru.sbs
+onbasvuru.shop
 onbasvurularkayit.odoo.com
 onbasvurum.com
 onbasvurum.online
@@ -304775,6 +304782,7 @@ quandex.org
 quanggop.at
 quantaflux.store
 quantaglitch.live
+quantari.sbs
 quantavibe.online
 quantexagroup.autos
 quantflare.live
@@ -356279,6 +356287,7 @@ tojqvmse.com
 tok-gar.online
 tok-kayit.click
 tok-kayitlari.click
+tok-kayitlarim.click
 tok1etapbasvrlari.com
 tok1fortok1.click
 tok1fortok1.sbs
@@ -415343,6 +415352,7 @@ z7brlu.duckdns.org
 z7elljx.cn
 z7kh8k2cm.duckdns.org
 z7qj3htylsop4.click
+z7ra1t.cfd
 z7s.org
 z7slthy.duckdns.org
 z82kyj.duckdns.org
