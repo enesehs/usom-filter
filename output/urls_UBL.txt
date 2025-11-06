@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-06 11:08:21 UTC
-! Total: 334429 rules
+! Last modified: 2025-11-06 12:23:23 UTC
+! Total: 334441 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41592,6 +41592,7 @@
 *://*.basvuruadresimayis25.com/*
 *://*.basvuruadresimdeniizkatilim.site/*
 *://*.basvuruadresiniz.site/*
+*://*.basvuruadresinizbizimleberaber.sbs/*
 *://*.basvuruadresinizhaziran.com/*
 *://*.basvuruadresinizhaziran25.com/*
 *://*.basvuruai-datiad-e.com/*
@@ -65367,6 +65368,7 @@
 *://*.bvqlgvi.cn/*
 *://*.bvqwdqasfmsa.net/*
 *://*.bvrdunz.click/*
+*://*.bvrdunz20.click/*
 *://*.bvrgi-3meler.net/*
 *://*.bvrkftmdh.com/*
 *://*.bvrknt10.click/*
@@ -129955,6 +129957,7 @@
 *://*.get-sparamguvende.com/*
 *://*.get-sparamguvende.online/*
 *://*.get-sparamguvende.xyz/*
+*://*.get-sparanguvende.xyz/*
 *://*.get-ssl.online/*
 *://*.get-ticaretlerim-siparisonay.shop/*
 *://*.get-tr-ilan.com/*
@@ -162595,6 +162598,7 @@
 *://*.ilkevrehber.com/*
 *://*.ilkevsosyaldevlet.net/*
 *://*.ilkevtokibasvuru.com/*
+*://*.ilkevtokibasvuru.org/*
 *://*.ilkfirsat-mobilingiris.xyz/*
 *://*.ilkgelen-firsatlaribilirsiniz.xyz/*
 *://*.ilkgelenalir.site/*
@@ -187915,6 +187919,7 @@
 *://*.knzmvkom.online/*
 *://*.ko-cuce.org/*
 *://*.ko-post-gov.top/*
+*://*.ko-t0ki-b4svur.com/*
 *://*.ko.tc/*
 *://*.ko3a-dere3a.ru/*
 *://*.koagux.top/*
@@ -188495,6 +188500,7 @@
 *://*.konutbasvuru.online/*
 *://*.konutbasvuru.org/*
 *://*.konutbasvuruac1v58aha58sndgfa5d8c5d5.online/*
+*://*.konutbasvuruac1v58aha58sndgfa5d8c5d5.site/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurulari.online/*
 *://*.konutbasvurulariacildi.icu/*
@@ -190744,6 +190750,7 @@
 *://*.kushikushi.us/*
 *://*.kushiro-artist-school.com/*
 *://*.kushmeadows4.xyz/*
+*://*.kusmakensabakoanmaka.cfd/*
 *://*.kusmdpoaks.net/*
 *://*.kuspacsaalvo.net/*
 *://*.kuspomeag1.net/*
@@ -214471,6 +214478,7 @@
 *://*.nl2jkkuqs8efp.life/*
 *://*.nl5329.ir/*
 *://*.nlalktr3.com.tr/*
+*://*.nlalnalnalnalnal.net/*
 *://*.nlalnatnanla.net/*
 *://*.nlamnalaaala.net/*
 *://*.nlanlaaalaal.net/*
@@ -235023,6 +235031,7 @@
 *://*.plwxdlwxw.click/*
 *://*.plxnva67001gs6gljacjpqudhatjqf.ml/*
 *://*.ply.gg/*
+*://*.plygmeslnu.cfd/*
 *://*.plyhdkzac.com/*
 *://*.plymouth-hn.org/*
 *://*.plyx-sync.cfd/*
@@ -247488,6 +247497,7 @@
 *://*.reklink253.site/*
 *://*.reklink341.site/*
 *://*.reklink457.site/*
+*://*.rekllamb-basvrum.com/*
 *://*.reklm.link/*
 *://*.reklmkmpnya.site/*
 *://*.reklmlrsvktm.shop/*
@@ -284197,6 +284207,7 @@
 *://*.tokibasvuru-adresim.xyz/*
 *://*.tokibasvuru-edevlet-girisyap.online/*
 *://*.tokibasvuru-edevletgir.site/*
+*://*.tokibasvuru-islemim.digital/*
 *://*.tokibasvuru.com/*
 *://*.tokibasvuru.cyou/*
 *://*.tokibasvuru.info/*
@@ -288831,6 +288842,7 @@
 *://*.trendyolgain1.com/*
 *://*.trendyolgomobil.com.tr/*
 *://*.trendyolgunceladres.com/*
+*://*.trendyolgunceladresim.com/*
 *://*.trendyolgunlukleri.store/*
 *://*.trendyolh.net/*
 *://*.trendyolhaftasonufirsat.site/*
