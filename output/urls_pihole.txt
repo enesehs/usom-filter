@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-06 17:10:49 UTC
-# Toplam: 420121 Domain
+# Son Güncelleme: 2025-11-06 18:13:55 UTC
+# Toplam: 420129 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -227985,6 +227985,7 @@ kbuvohw6uf1674y.ddns.net
 kbwebgecshizliodeavbigli.duckdns.org
 kbxrvwnixn.immonre.ru
 kbyjn3cux.duckdns.org
+kbykonn.storage.googleapis.com
 kbyte.ml
 kbyvakfi.com.tr
 kbzdijd.duckdns.org
@@ -233448,6 +233449,7 @@ konutbasvurusu.click
 konutbasvurusu.com
 konutbasvurusu.net
 konutbasvurusuhizliform.cloud
+konutbasvurusutoki.com
 konutbasvurusutoki.xyz
 konutbasvurutamamla.cloud
 konutbilgi.click
@@ -274831,6 +274833,7 @@ onbasvuru.basvuruekrani.online
 onbasvuru.org
 onbasvuru.sbs
 onbasvuru.shop
+onbasvuru.website
 onbasvurularkayit.odoo.com
 onbasvurum.com
 onbasvurum.online
@@ -313929,6 +313932,7 @@ s-paramguvenli.elektronik-alimlarim.online
 s-paramguvenli.elektronik-alimlariniz.online
 s-paramguvenli.elektronik-hizmetim-tr.com.tr
 s-paramguvenli.elektronik-hizmetler.online
+s-paramguvenli.elektronikalimimiz.ru.com
 s-paramguvenli.kolayal.shop
 s-paramguvenli.kolayalisveris.shop
 s-paramguvenli.online
@@ -356394,6 +356398,7 @@ toki-basvurular-online.best
 toki-basvurulari-basladi.marketten.store
 toki-basvurulari-com.kapidaode.store
 toki-basvurulari.duckdns.org
+toki-basvurulari.urlsalt.space
 toki-basvurum.loginconceptwomen.online
 toki-basvurum.org
 toki-basvurum.vercel.app
@@ -356560,6 +356565,7 @@ tokibasvurular.xyz
 tokibasvurularcomtrs.blogspot.com
 tokibasvurularhxzlica.online
 tokibasvurulari.blogspot.com
+tokibasvurulari.duckdns.org
 tokibasvurulari.help
 tokibasvurulari.online
 tokibasvurulari.org
@@ -356827,6 +356833,7 @@ tokisbasvuru9.blogspot.com
 tokisbasvurum.blogspot.com
 tokisbasvuruss.online
 tokisbasvurusunoktasiburada.blogspot.com
+tokisbsvuru.org
 tokiservis.webredirect.org
 tokishuzky.store
 tokisite.com
@@ -357288,6 +357295,7 @@ topluhizmetler.app
 topluindirim.com
 topluislemi.app
 topluislemlerin.app
+toplukayitgirisleri.com
 toplukonut-onlinebasvuru.blogdns.net
 toplukonut-onlinebasvuru.duckdns.org
 toplukonut-projesi.sbs
