@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-06 18:13:55 UTC
-# Toplam: 420129 Domain
+# Son Güncelleme: 2025-11-06 19:01:53 UTC
+# Toplam: 420147 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2436,6 +2436,7 @@
 101inotozone.click
 101internetsube.cfd
 101internetsubeozel.app
+101is1mlerimizleyiz.org
 101islemlerimindirimi.com
 101islemmerkezionline.perkndemagzasimdi.com
 101kabsakal.com
@@ -88251,6 +88252,7 @@ carfourkapmanyalar.shop
 carfourrse.com
 carfoursa.site
 carfoussa.shop
+carfoussa.xyz
 carfrdasirada.cfd
 carfrmarketinegeldi.cfd
 carfrnbzeyaptklari.com
@@ -115696,6 +115698,7 @@ dijitalkampanyavakifmobil.com
 dijitalkampanyaweb-denizacik.com
 dijitalkampanyaweb-ziraat.com
 dijitalkampanyaweb-ziraatbireysel.com
+dijitalkampanyaweb-ziraatbireysel.sbs
 dijitalkampnya.net
 dijitalkanal-ziraatmobilweb.com
 dijitalkanal.sbs
@@ -178974,6 +178977,7 @@ hamamamammamaamama1321.com
 hamamamammamama9924.com
 hamamamammamamama2345.com
 hamamammaamama0238.com
+hamamammaammamah9021.com
 hamamammamamama8862.com
 hamamammamamamaama2451.com
 hamamammamamamam172.site
@@ -202094,6 +202098,7 @@ ilkevim250binbasvurusu.com
 ilkevimbasvr.xyz
 ilkevimbasvrmonline.vercel.app
 ilkevimbasvur2025.online
+ilkevimbasvurlarim.org
 ilkevimbasvuru.cfd
 ilkevimbasvuru.click
 ilkevimbasvuru.com
@@ -233458,6 +233463,7 @@ konutbul.click
 konutcan.com
 konutcozum.com
 konutdestegi6060.net
+konutdestek.online
 konutduyuru.click
 konutemlakgayrimenkul.info
 konutemlakgayrimenkul.online
@@ -274830,6 +274836,7 @@ onbasvuru-pandemidestek.com
 onbasvuru-sosyaldestek.com
 onbasvuru-tog.com
 onbasvuru.basvuruekrani.online
+onbasvuru.bond
 onbasvuru.org
 onbasvuru.sbs
 onbasvuru.shop
@@ -290418,6 +290425,7 @@ pepperjel.co
 peppers.duckdns.org
 pepperyear.top
 pepsivip-usdt.com
+peptechdigital.com
 peq6fk.duckdns.org
 peqevent.com
 peqkmvuy.duckdns.org
@@ -319925,6 +319933,7 @@ samfarmhouse.com
 samfishtrading.com
 samfrtest.ddns.net
 samgazwebapp-test-cefpayawa5cdc9h3.westeurope-01.azurewebsites.net
+samiboshayev.sbs
 samideejay.ddns.net
 samir.totalh.net
 samir.zapto.org
@@ -355214,6 +355223,7 @@ tkibsvru-gov.pics
 tkibsvurlarim.club
 tkibsvurlarim.com
 tkibsvuru2023.com
+tkibsvyptmbrda.sbs
 tkilerevdler12521.net
 tkilkevim.sbs
 tkioe.com
@@ -356370,6 +356380,7 @@ tokenzdropz.name
 tokesozf.com
 tokgebyron.duckdns.org
 toki-2025.com
+toki-500binkonut.digital
 toki-adresi.xyz
 toki-bas-vur.net
 toki-bas-vurru.pro
@@ -356464,6 +356475,7 @@ toki.basvuruyorum.com
 toki.blog
 toki.castgard.com
 toki.ebasvur.com
+toki.evbasvurusu.com
 toki.glbserv.com
 toki.hanimanya.com
 toki.hemenbasvuru2025.org
@@ -356744,6 +356756,7 @@ tokikonutbasvuruyap.vercel.app
 tokikonutdan.com
 tokikonutevleri.cloud
 tokikonutevleribasvurusu.com
+tokikonutlar.duckdns.org
 tokikonutlar.xyz
 tokikonutlari-2025.com
 tokikonutlaribasvru.click
@@ -356762,6 +356775,7 @@ tokikonutlarprojem.best
 tokikonutlarprojem.site
 tokikonutprojeleri.com
 tokikonutprojesi.com
+tokikonutprojesi.versel.app
 tokikonutprojesibasvur.vercel.app
 tokikonutprojesibasvuri.vercel.app
 tokikonutprojesibasvurim.vercel.app
@@ -356894,6 +356908,7 @@ tokl2025giris.qzz.io
 tokl2025projesi.qzz.io
 toklbasvrlra.com
 toklbasvuruadresl.duckdns.org
+toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
 toklbsvrbrd.online
 toklbsvrlaribrda.online
@@ -379298,6 +379313,7 @@ verdigimiz-emekler-onca-zama-inat.com
 verdik-sizlere-tonla.net
 verdim.site
 verdos.click
+verdoxa.sbs
 verdsvt-dsvrt.com
 vere.bireye-ozel-basvur-destek-kampanya.xyz
 verecey.quest
@@ -403073,6 +403089,7 @@ xn--tofak-mdb.net
 xn--toggekilibavurusu-dsb99tca.online
 xn--tok-basvuru-1zb.net
 xn--tok-yeniden-1zb.net
+xn--toki-konutlar-gbc.com
 xn--tomtrkmoayn-thb.net
 xn--topobject-869d.top
 xn--tr-bnance-35a.ml
@@ -411226,6 +411243,7 @@ yetkiliortakpanel.com
 yetkilipaketbayi.com
 yetkiliservisinler.com
 yetkiliservistalep.web.tr
+yetkilisistemgirisi.misecure.com
 yetkilisite.xyz
 yetkilitahsilat.xyz
 yetkilitahsilatmerkezi.xyz

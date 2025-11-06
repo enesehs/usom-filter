@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-06 18:13:55 UTC
-! Total: 334512 rules
+! Last modified: 2025-11-06 19:01:53 UTC
+! Total: 334526 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1360,6 +1360,7 @@
 *://*.101inotozone.click/*
 *://*.101internetsube.cfd/*
 *://*.101internetsubeozel.app/*
+*://*.101is1mlerimizleyiz.org/*
 *://*.101islemlerimindirimi.com/*
 *://*.101kabsakal.com/*
 *://*.101kacirmabunlari.space/*
@@ -67711,6 +67712,7 @@
 *://*.carfourrse.com/*
 *://*.carfoursa.site/*
 *://*.carfoussa.shop/*
+*://*.carfoussa.xyz/*
 *://*.carfrdasirada.cfd/*
 *://*.carfrmarketinegeldi.cfd/*
 *://*.carfrnbzeyaptklari.com/*
@@ -89719,6 +89721,7 @@
 *://*.dijitalkampanyaweb-denizacik.com/*
 *://*.dijitalkampanyaweb-ziraat.com/*
 *://*.dijitalkampanyaweb-ziraatbireysel.com/*
+*://*.dijitalkampanyaweb-ziraatbireysel.sbs/*
 *://*.dijitalkampnya.net/*
 *://*.dijitalkanal-ziraatmobilweb.com/*
 *://*.dijitalkanal.sbs/*
@@ -143075,6 +143078,7 @@
 *://*.hamamamammamama9924.com/*
 *://*.hamamamammamamama2345.com/*
 *://*.hamamammaamama0238.com/*
+*://*.hamamammaammamah9021.com/*
 *://*.hamamammamamama8862.com/*
 *://*.hamamammamamamaama2451.com/*
 *://*.hamamammamamamam172.site/*
@@ -162575,6 +162579,7 @@
 *://*.ilkevim250binbasvurusu.com/*
 *://*.ilkevimbasvr.xyz/*
 *://*.ilkevimbasvur2025.online/*
+*://*.ilkevimbasvurlarim.org/*
 *://*.ilkevimbasvuru.cfd/*
 *://*.ilkevimbasvuru.click/*
 *://*.ilkevimbasvuru.com/*
@@ -188567,6 +188572,7 @@
 *://*.konutcan.com/*
 *://*.konutcozum.com/*
 *://*.konutdestegi6060.net/*
+*://*.konutdestek.online/*
 *://*.konutduyuru.click/*
 *://*.konutemlakgayrimenkul.info/*
 *://*.konutemlakgayrimenkul.online/*
@@ -219962,6 +219968,7 @@
 *://*.onbasvuru-pandemidestek.com/*
 *://*.onbasvuru-sosyaldestek.com/*
 *://*.onbasvuru-tog.com/*
+*://*.onbasvuru.bond/*
 *://*.onbasvuru.org/*
 *://*.onbasvuru.sbs/*
 *://*.onbasvuru.shop/*
@@ -233196,6 +233203,7 @@
 *://*.pepperjel.co/*
 *://*.pepperyear.top/*
 *://*.pepsivip-usdt.com/*
+*://*.peptechdigital.com/*
 *://*.peqevent.com/*
 *://*.per2sonbro.com/*
 *://*.perabet2017.com/*
@@ -254582,6 +254590,7 @@
 *://*.sametttbeyyy.com/*
 *://*.samfarmhouse.com/*
 *://*.samfishtrading.com/*
+*://*.samiboshayev.sbs/*
 *://*.samiseto.ru/*
 *://*.samkart.net/*
 *://*.samknut.click/*
@@ -283203,6 +283212,7 @@
 *://*.tkibsvurlarim.club/*
 *://*.tkibsvurlarim.com/*
 *://*.tkibsvuru2023.com/*
+*://*.tkibsvyptmbrda.sbs/*
 *://*.tkilerevdler12521.net/*
 *://*.tkilkevim.sbs/*
 *://*.tkioe.com/*
@@ -284157,6 +284167,7 @@
 *://*.tokenzdropz.name/*
 *://*.tokesozf.com/*
 *://*.toki-2025.com/*
+*://*.toki-500binkonut.digital/*
 *://*.toki-adresi.xyz/*
 *://*.toki-bas-vur.net/*
 *://*.toki-bas-vurru.pro/*
@@ -303037,6 +303048,7 @@
 *://*.verdik-sizlere-tonla.net/*
 *://*.verdim.site/*
 *://*.verdos.click/*
+*://*.verdoxa.sbs/*
 *://*.verdsvt-dsvrt.com/*
 *://*.verecey.quest/*
 *://*.verecilianemine.top/*
@@ -303949,6 +303961,7 @@
 *://*.versedkinfe.sbs/*
 *://*.verseelegitimat.top/*
 *://*.verseescalator.top/*
+*://*.versel.app/*
 *://*.versendegelsendefur.net/*
 *://*.versfhglsfhsf.com/*
 *://*.versg.online/*
@@ -321028,6 +321041,7 @@
 *://*.xn--toggekilibavurusu-dsb99tca.online/*
 *://*.xn--tok-basvuru-1zb.net/*
 *://*.xn--tok-yeniden-1zb.net/*
+*://*.xn--toki-konutlar-gbc.com/*
 *://*.xn--tomtrkmoayn-thb.net/*
 *://*.xn--topobject-869d.top/*
 *://*.xn--tr-bnance-35a.ml/*
