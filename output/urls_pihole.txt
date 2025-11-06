@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-06 19:01:53 UTC
-# Toplam: 420147 Domain
+# Son Güncelleme: 2025-11-06 20:10:06 UTC
+# Toplam: 420161 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -25779,6 +25779,7 @@ abuzerkomurcu99.xyz
 abvegtndbs.click
 abvhgs.rf.gd
 abvrdun.click
+abvrdun10.click
 abvsecurity.co.za
 abwehrphas.sa.com
 abwrqw.blogspot.com
@@ -55885,6 +55886,7 @@ baltika-ticket.ru
 baltika-tickets.ru
 baltimoreondemand.com
 baltrapbalyalama22.com
+baltrednr.click
 balu001.0catch.com
 balu002.0catch.com
 balu003.0catch.com
@@ -115692,6 +115694,7 @@ dijitalkampanya.net
 dijitalkampanyagiris-denizacik.com
 dijitalkampanyagiris-ziraatbireysel.sbs
 dijitalkampanyagiris-ziraatweb.sbs
+dijitalkampanyahizmet-ziraatbireysel.sbs
 dijitalkampanyamobil-ziraat.com
 dijitalkampanyanet-ziraatbireysel.com
 dijitalkampanyavakifmobil.com
@@ -227890,6 +227893,7 @@ kazanmazamanibasvurusubnance.tech
 kazanmissiniadeni.com
 kazanmissinwebde.com
 kazanmkadar23.top
+kazanncyolu.com
 kazanonline.hu
 kazanordaburda.shop
 kazanredmiyleberaber.duckdns.org
@@ -231300,6 +231304,7 @@ kklguncelodemell.tk
 kkllwkxwxw.click
 kklvmfksfesfes.hopto.org
 kkmangeldigeliyoruz.com
+kkmangeldikkgeliyoruz.com
 kkmbasvurudenetlmservisin.com
 kkmeoi03q.duckdns.org
 kkmftmutas.duckdns.org
@@ -246466,6 +246471,7 @@ maksimumisteiadevakti.com
 maksimus.org
 maksiparahavale.com
 maksipay.com
+maksipuan.com
 maksisafe.com
 makskkdd.click
 maksodemem.com
@@ -330636,6 +330642,7 @@ sikayetlerimvar.org
 sikayetlerin-25.sbs
 sikayetlerin.var.ru.com
 sikayetlerinvar-14.sbs
+sikayetlerinvar-29.sbs
 sikayetlernvar.com
 sikayetlervar-12.sbs
 sikayetlervar-14.sbs
@@ -330755,9 +330762,12 @@ sikayetvarturkiye.net
 sikayetvarturkiyem.xyz
 sikayetwar.com
 sikayetwar.org
+sikaythizmetleri-27.sbs
 sikaythizmetleri-43.sbs
 sikaythizmetleri-55.sbs
 sikaytmerkezleri-14.sbs
+sikaytmerkezleri-38.sbs
+sikaytmerkezleri-9.sbs
 sikaytmerkeztr-13.sbs
 sikaytmerkeztr-14.sbs
 sikaytmerkeztr-2.sbs
@@ -346888,6 +346898,7 @@ t0ki.kontlarms.sbs
 t0ki.shop
 t0ki.teawxw.click
 t0kibasvurularii.click
+t0kibsvrdi.sbs
 t0kibsvrdmdi.sbs
 t0kibsvrmliz.sbs
 t0kisbirdu.sbs
@@ -356723,6 +356734,7 @@ tokiilkevimbasvuruekrani.com
 tokikayit.org
 tokikayitlar.org
 tokikbasuvurlari.blogspot.com
+tokikntarsaisyeri2025.com
 tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
 tokikonut.net
@@ -356782,6 +356794,7 @@ tokikonutprojesibasvurim.vercel.app
 tokikonutprojesibasvuru.com
 tokikonutprojesiburda.vercel.app
 tokikonutprojesikayitlar.vercel.app
+tokikonutum.com
 tokikura.com
 tokikura.shop
 tokikurulus.fun
@@ -356854,6 +356867,7 @@ tokisite.com
 tokisitelerimiz.b-cdn.net
 tokislem.com
 tokislemyap.com
+tokisony.omnicron.sbs
 tokisosyalbasvuru.net
 tokisosyalbasvurularim.vercel.app
 tokisosyalbasvurularin.vercel.app
