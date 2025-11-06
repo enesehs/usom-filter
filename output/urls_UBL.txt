@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-06 14:11:50 UTC
-! Total: 334462 rules
+! Last modified: 2025-11-06 15:10:37 UTC
+! Total: 334477 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5807,6 +5807,7 @@
 *://*.2025sonfirsatlari.online/*
 *://*.2025tenduyurular.com/*
 *://*.2025tenhaberler.com/*
+*://*.2025tjknbsvr.sbs/*
 *://*.2025tkiobnsrv.com.tr/*
 *://*.2025trdenhaber.com/*
 *://*.2025xjsbasvurunt-oki.xyz/*
@@ -61682,6 +61683,7 @@
 *://*.brhjtgyas.com/*
 *://*.brian-krebs-erectile-dysfunction.com/*
 *://*.brianmira.ru/*
+*://*.brianoconner.sbs/*
 *://*.brianssclub.cm/*
 *://*.brianzashop.it/*
 *://*.briaydawe.net/*
@@ -65376,6 +65378,8 @@
 *://*.bvqwdqasfmsa.net/*
 *://*.bvrdunz.click/*
 *://*.bvrdunz20.click/*
+*://*.bvrdunz40.click/*
+*://*.bvrdunz60.click/*
 *://*.bvrgi-3meler.net/*
 *://*.bvrkftmdh.com/*
 *://*.bvrknt10.click/*
@@ -132541,6 +132545,7 @@
 *://*.globals-sizinicinkampanyalarbizden.com/*
 *://*.globals.international/*
 *://*.globalseasurfer.xyz/*
+*://*.globalsec.sbs/*
 *://*.globalsecurity.com.uy/*
 *://*.globalsecuritybasvuruservcs.com/*
 *://*.globalsergeant.top/*
@@ -162572,6 +162577,7 @@
 *://*.ilkevimdanismanlik.com/*
 *://*.ilkevimdemtokimler.org/*
 *://*.ilkevimden.com/*
+*://*.ilkevimiz.com/*
 *://*.ilkevimkonut.xyz/*
 *://*.ilkevimkonutbasvuru.com/*
 *://*.ilkevimkonutlari.cloud/*
@@ -188129,6 +188135,7 @@
 *://*.kolayalisveirisn.store/*
 *://*.kolayalisveris.name.tr/*
 *://*.kolayalisveris.online/*
+*://*.kolayalisveris.shop/*
 *://*.kolayalisverisimden.com/*
 *://*.kolayalisverisinadresi101.online/*
 *://*.kolayalisverisveriget.com/*
@@ -237468,6 +237475,7 @@
 *://*.prlbudanhediyem.com/*
 *://*.prlfryigrgpkdwe.cn/*
 *://*.prmailyadoescnce.top/*
+*://*.prmbsvkzngssg.xyz/*
 *://*.prmguvende-guvenliodeme.com/*
 *://*.prmguvende-ilanonay.com/*
 *://*.prmguvende-onay.com/*
@@ -238153,6 +238161,7 @@
 *://*.promosyon2024-5000hemen.com/*
 *://*.promosyon2025.net.tr/*
 *://*.promosyon2025.xyz/*
+*://*.promosyonadreslm.sbs/*
 *://*.promosyonakatil.com/*
 *://*.promosyonaktif.com/*
 *://*.promosyonalin.com/*
@@ -254034,6 +254043,7 @@
 *://*.sahibnden.net/*
 *://*.sahibnden.space/*
 *://*.sahibndenget-guvenliodemesistemgiris-com.tk/*
+*://*.sahibndenget-param.com/*
 *://*.sahibndengetilan.com/*
 *://*.sahibndenguvende.xyz/*
 *://*.sahibndenguvenliodemeal.com/*
@@ -284080,6 +284090,8 @@
 *://*.toiwbcm.com/*
 *://*.tojqvmse.com/*
 *://*.tok-gar.online/*
+*://*.tok-kayit.click/*
+*://*.tok-kayitlari.click/*
 *://*.tok1etapbasvrlari.com/*
 *://*.tok1fortok1.click/*
 *://*.tok1fortok1.sbs/*
@@ -284160,6 +284172,7 @@
 *://*.toki-kampanya.info/*
 *://*.toki-kampanya.org/*
 *://*.toki-katilim.online/*
+*://*.toki-katilimsayfasi.com/*
 *://*.toki-konut-basvuru.com/*
 *://*.toki-konut-online.best/*
 *://*.toki-konutlar.sbs/*
@@ -322004,6 +322017,7 @@
 *://*.xrxcmuxyenehizmetiniz.net/*
 *://*.xrxcmxyxndndkgj2k582santo.com/*
 *://*.xrxgqf.website/*
+*://*.xryt-path.sbs/*
 *://*.xrziaaatkrxeded.online/*
 *://*.xrziratten.com/*
 *://*.xrzmgbsdwm.info/*
@@ -330720,6 +330734,7 @@
 *://*.yuzyilinkampanyalariburadasasdece.online/*
 *://*.yuzyilinprojesi.com/*
 *://*.yuzyilinprojesigeldi.cfd/*
+*://*.yuzyilkonut.com/*
 *://*.yuzyillik.name.tr/*
 *://*.yvaxm.com/*
 *://*.yvbmagazaa.ml/*
