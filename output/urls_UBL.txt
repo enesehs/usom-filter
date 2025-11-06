@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-06 06:14:39 UTC
-! Total: 334398 rules
+! Last modified: 2025-11-06 07:10:01 UTC
+! Total: 334413 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40452,6 +40452,7 @@
 *://*.basvrdk.site/*
 *://*.basvrhesaplikredin.com/*
 *://*.basvriadefirsatkac21hep654.com.tr/*
+*://*.basvrilkevim2025.online/*
 *://*.basvrkredinal.com/*
 *://*.basvrkreditrgroup.com/*
 *://*.basvrl-istlem.icu/*
@@ -66941,6 +66942,7 @@
 *://*.calquickl6.xyz/*
 *://*.calsury.com/*
 *://*.calthacompany.com/*
+*://*.calveriq.net/*
 *://*.calvinesquivel5463.xyz/*
 *://*.calvinistically.com/*
 *://*.calwear.com.tr/*
@@ -93801,6 +93803,7 @@
 *://*.duneharbor.site/*
 *://*.duneharbor.top/*
 *://*.dunelinezone.com/*
+*://*.dunethrive.com/*
 *://*.dungbreds.org/*
 *://*.dungk.com/*
 *://*.dunia138.info/*
@@ -179304,6 +179307,7 @@
 *://*.kaledernegi.com/*
 *://*.kaledo0nfrsnl.shop/*
 *://*.kaleemimamig.com/*
+*://*.kalegibi.info/*
 *://*.kaleistanbul.net/*
 *://*.kaleler.bid/*
 *://*.kaleler.win/*
@@ -211723,6 +211727,7 @@
 *://*.navarev.xyz/*
 *://*.navasaa44.xyz/*
 *://*.navaspark.com/*
+*://*.navastriko.com/*
 *://*.navatlas.fun/*
 *://*.navatlas.pro/*
 *://*.navatlascheck.xyz/*
@@ -219392,6 +219397,7 @@
 *://*.oline-enpara.com/*
 *://*.olinefw1.com/*
 *://*.olinesubegirisiwebtryapi.com/*
+*://*.olinicika.com/*
 *://*.olinmasot.click/*
 *://*.olio2livoli.xyz/*
 *://*.olipkostwo.online/*
@@ -238360,6 +238366,7 @@
 *://*.proslr3.com/*
 *://*.prosmartlira.com/*
 *://*.prosmdyfnngnrntidsd.com/*
+*://*.prosomsyonqbnbsvr.top/*
 *://*.prosonesti.ru/*
 *://*.prospectesthetic.top/*
 *://*.prospectiveexposition.top/*
@@ -238684,6 +238691,7 @@
 *://*.psyherbal.com/*
 *://*.psyhomob.sbs/*
 *://*.psyjkbn.com/*
+*://*.pt-akas.com/*
 *://*.pt-cpaaccountant.com/*
 *://*.pt-goovtr.top/*
 *://*.pt-gots.rest/*
@@ -249936,6 +249944,7 @@
 *://*.romcarkiralama.com/*
 *://*.romcollectionmelbourne.com/*
 *://*.romeo-and-julietta.ru/*
+*://*.romerome.site/*
 *://*.romeropizza.com/*
 *://*.romforsohep.com/*
 *://*.romhgsz.xyz/*
@@ -269552,6 +269561,7 @@
 *://*.sowixvip.online/*
 *://*.sowixvip.xyz/*
 *://*.sowixxpro.xyz/*
+*://*.sowkqkd.digital/*
 *://*.sowtrench.top/*
 *://*.soyagaci.co/*
 *://*.soyakbjc.com/*
@@ -275057,6 +275067,7 @@
 *://*.surfingturnout.top/*
 *://*.surfistech.xyz/*
 *://*.surge.sh/*
+*://*.surgecom.shop/*
 *://*.surgeon56.xyz/*
 *://*.surgeonauction.cn/*
 *://*.surgerycorrelative.top/*
@@ -281483,6 +281494,7 @@
 *://*.testonmusakkaliyogurt.tk/*
 *://*.testoyukledim.net/*
 *://*.testoyuklemesi.net/*
+*://*.testsamuel.click/*
 *://*.testsider.dk/*
 *://*.testswork.ru/*
 *://*.testtesttest.com/*
@@ -282247,6 +282259,7 @@
 *://*.thinker452.xyz/*
 *://*.thinkforce.com.br/*
 *://*.thinkingenuity.top/*
+*://*.thinkkingup.com/*
 *://*.thinklabs-ltd.de/*
 *://*.thinknodez.com/*
 *://*.thinkphp1.com/*
@@ -289380,6 +289393,7 @@
 *://*.triplooqp.world/*
 *://*.tripod.com/*
 *://*.tripogg.xyz/*
+*://*.trippmindz.com/*
 *://*.trippubheat.live/*
 *://*.triresmigiris-hizlibasvur.com/*
 *://*.triresmihizmetlerigiris-resmibasvurmagirisi.com/*
@@ -304213,6 +304227,7 @@
 *://*.vibi-hizlisubeislemleri.com/*
 *://*.vibilsio2321.com/*
 *://*.vibiyilsonuceklisi.gq/*
+*://*.viblano.click/*
 *://*.viborna.xyz/*
 *://*.vibramturkey.com/*
 *://*.vibrantadtventures.top/*
