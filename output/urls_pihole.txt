@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-07 10:10:32 UTC
-# Toplam: 420290 Domain
+# Son Güncelleme: 2025-11-07 11:01:54 UTC
+# Toplam: 420285 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17291,7 +17291,6 @@
 6zwro3.duckdns.org
 6zyawje.duckdns.org
 7-24-faturaodeme.com
-7-24.site
 7-24callcenter.net
 7-24destekli.com.tr
 7-24destekli.xyz
@@ -59124,6 +59123,7 @@ basvurumonayaidatiadesistemi.co.vu
 basvurumonaydurumu.com
 basvurumonaylandimi.com
 basvurumonayysizhesapsorugulama.duckdns.org
+basvurumonline.com
 basvurumonlinebasvuruozelactivasyontrbinance.ignorelist.com
 basvurumonlinetektikdenizde.4-231-235-170.plesk.page
 basvurumonlinetektinizde.4-231-235-170.plesk.page
@@ -81846,6 +81846,7 @@ bsrpppjamui.duckdns.org
 bsrtangrsfa.net
 bsrv-konut.click
 bsrv-konut.life
+bsrv-konut.sbs
 bss9mi6v.duckdns.org
 bssadvtt-dvttt.com
 bssasascvsbn14-vnblassawkspacket.com
@@ -148637,6 +148638,7 @@ fesanka.net
 fesered.com
 fesfafesa32.s3.eu-central-1.amazonaws.com
 fesfsefseg5.duckdns.org
+fesjake74562.wordpress.com
 fessassi.top
 fessoclick.com
 festalferalweek.online
@@ -218581,6 +218583,7 @@ jfdaqsb.shop
 jfecbzvjgf.duckdns.org
 jferjfejrgjerjg.cyou
 jfes.top
+jfesladzeslfmx.wordpress.com
 jfeuhtrfrv.duckdns.org
 jffdd.icu
 jffhbmbojm.duckdns.org
@@ -222156,7 +222159,6 @@ kah2c.cloud
 kahbe.store
 kahbe.world
 kahetindyt.com
-kahin.org
 kahinabsda.linkpc.net
 kahlid000.zapto.org
 kahmir-n.com
@@ -296525,6 +296527,7 @@ projeler-toki-burada.sbs
 projeler-toki-buradan.icu
 projeler-toki-buradan.sbs
 projemizvarbayramdan.com
+projeresmi.sbs
 projesecimi.com
 projesosylakonutbasvuru.net
 projestydox.hopto.org
@@ -297316,12 +297319,7 @@ prxdda1f.duckdns.org
 prxko01c.duckdns.org
 pryht21u.duckdns.org
 prymx.dosya.space
-prymx.fun
 prymx.net
-prymx.org
-prymx.site
-prymx.store
-prymx.top
 prynt.market
 prythera.com
 pryvnavr.info
@@ -310302,6 +310300,7 @@ resmibasvuru.tk
 resmibasvuruformmerkezi.mefound.com
 resmibasvurugarantibbva.mefound.com
 resmibasvurukanalimgovtr.store
+resmibasvurukanalimgovtrtoki.store
 resmibasvurum-online.cfd
 resmibasvurumobilgiris.mefound.com
 resmibayiodeme.sg-host.com
@@ -390697,10 +390696,6 @@ wordst7512.net
 wordstep.top
 wordyediyelerdunyasi.com
 wordyfindy.lat
-worex.shop
-worex.site
-worex.store
-worexbizservices.info
 worexpack.com.tr
 worexproject.com.tr
 worexproject.duckdns.org
