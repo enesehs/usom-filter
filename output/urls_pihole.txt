@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-07 13:23:06 UTC
-# Toplam: 420325 Domain
+# Son Güncelleme: 2025-11-07 14:09:04 UTC
+# Toplam: 420338 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58151,6 +58151,7 @@ basvuru-online-kart-aidat-iade-gov-tr.com
 basvuru-online-turkeygovtr.com
 basvuru-online-yap.vercel.app
 basvuru-online.com.tr
+basvuru-online.digital
 basvuru-online.one
 basvuru-online.site
 basvuru-online.website
@@ -115923,6 +115924,7 @@ dijitalmobilvarlik-ziraat.com
 dijitalmobilvarlik-ziraatweb.com
 dijitalmobilweb-ziraat.com
 dijitalmobilweb-ziraatbireysel.com
+dijitalmobilweb-ziraatbireysel.sbs
 dijitalmobilweb-ziraatbireyselgiris.com
 dijitalmobilweb-ziraatbireyselgiris.site
 dijitalmobilweb-ziraatgiris.com
@@ -135298,6 +135300,7 @@ ekranaktaqnbbsayfa.com
 ekranaktarmasayasi.com
 ekranaktarsaysfmaqnb.com
 ekrandan-aktar-online.site
+ekrandan-onlineolaraksor-veaktar.sbs
 ekrandan-sorgulama-aktarma.online
 ekrandan-sorgulama-ve-aktarma-hizmetiniz.sbs
 ekrandan-sorgulamani-yap-eylul-ayi.cyou
@@ -189566,6 +189569,7 @@ hispanoles.com
 hissapptr.com
 hisse-yatirim.com.tr
 hissebono.com
+hissecebim.com
 hissedalgasi.com
 hissekarturk.com
 hisseler-yatirim.com.tr
@@ -194611,6 +194615,7 @@ hrb4b2ghq.duckdns.org
 hrbidpjkyliedqg.su
 hrbkuqgfhz.duckdns.org
 hrca-harca-bitmz.com
+hrca-hrca-btmez-ayzbir-flrsatlari.cfd
 hrca-hrca-btmez-ayzbir.cfd
 hrca-hrca-btmez-yzbir-ekmflsatlari.sbs
 hrcaharcabtmeza1o1.duckdns.org
@@ -248013,6 +248018,7 @@ marketingagency.social
 marketingaktuelsip.vip
 marketingbysteve.com
 marketingduo.co.kr
+marketingg.sbs
 marketinggrow.sbs
 marketinglw.com
 marketingmanager.social
@@ -248202,6 +248208,7 @@ markoislemleri.org
 markosistem.net
 markosistem.org
 markossolomon.com
+markozane.sbs
 markpeterben.duckdns.org
 marksandspencermall.top
 marksandspencershop.top
@@ -274958,6 +274965,7 @@ onbasvuru.bond
 onbasvuru.org
 onbasvuru.sbs
 onbasvuru.shop
+onbasvuru.space
 onbasvuru.website
 onbasvurularkayit.odoo.com
 onbasvurum.com
@@ -296551,6 +296559,7 @@ projeler-toki-burada.cfd
 projeler-toki-burada.sbs
 projeler-toki-buradan.icu
 projeler-toki-buradan.sbs
+projelerinyili2025.b-cdn.net
 projemizvarbayramdan.com
 projeresmi.sbs
 projesecimi.com
@@ -356866,6 +356875,7 @@ tokigovtr.com
 tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
+tokigovtrr.b-cdn.net
 tokihouse.digital
 tokihousingapplication.com
 tokii-basvrur-2025.com
@@ -357048,6 +357058,7 @@ tokitoplukntlri.com
 tokiturkiyebasvuru.com
 tokivbasvurulari.blogspot.com
 tokiwave.site
+tokiway.website
 tokixleregelinbizimle.blogspot.com
 tokiyebasvur.xyz
 tokiyebasvuruyap.com
@@ -397878,6 +397889,7 @@ wwwgrntigiriskampanyakatilim.com
 wwwguncelhaber.omnicron.sbs
 wwwguvenliodemesayfasi.gq
 wwwguvenliwebpos.gq
+wwwguzelgun.techsolve.cfd
 wwwhabertgrt.techsolve.cfd
 wwwhalk-bank.com
 wwwhalkbank-2019yilbasicekilis.com
@@ -415899,6 +415911,7 @@ zamanssgecerss.online
 zamanvakfi.org
 zamanvakfim.net
 zamanvakfim.org
+zamanznafhal3s32r.blogspot.com
 zamaraziringooo.com
 zamazama43sw.duckdns.org
 zamazamazingokl0e.blogspot.com
