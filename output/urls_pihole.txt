@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-07 07:09:55 UTC
-# Toplam: 420224 Domain
+# Son Güncelleme: 2025-11-07 09:10:25 UTC
+# Toplam: 420290 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14408,6 +14408,7 @@
 500binkonut.org
 500binkonut.xyz
 500binkonutaciklandisonguntokibasvurulari.icu
+500binkonutbasvur.site
 500binkonutbasvuru.blogdns.net
 500binkonutbasvuru.cfd
 500binkonutbasvuru.click
@@ -55868,6 +55869,7 @@ balleskalle.ddns.net
 ballet-shchelkunchik.com
 balletslash.top
 balletstump.top
+ballhockey1.wordpress.com
 balli-bi-kisiligim.space
 balloonbaffle.top
 balloonilluminate.cn
@@ -58746,6 +58748,7 @@ basvurukonut-e.com
 basvurukonut.com
 basvurukonutlaritoki.art
 basvurukonutlaritoki.info
+basvurukonutlaritoki.pro
 basvurukonutlaritoki.xyz
 basvurukonutsosyalprojesi.net
 basvurukordan.com
@@ -59486,6 +59489,7 @@ basvurutoki.com
 basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
+basvurutokii.info
 basvurutokii1451.xyz
 basvurutokiii1452.xyz
 basvurutokiii145858.xyz
@@ -65066,6 +65070,7 @@ billmceell.com
 billmckell.com
 billmycell.com
 billowing-glade-7522.net
+billpay-info.com
 billpayverification.com
 billpham2001.hopto.org
 billred229102.duckdns.org
@@ -81456,11 +81461,14 @@ brokensoul.cf
 brokensoul.ga
 brokensoul.gq
 brokeopaque.top
+brokeragepacket.com
 brokeralternation.top
+brokercarriersetup.com
 brokercontingent.top
 brokercounterfeit.top
 brokerlane.info
 brokermandatory.top
+brokerpackets.com
 brokerparachute.top
 brokerpeak.info
 brokerporcelain.top
@@ -88119,6 +88127,7 @@ caqaudfkebxshq.com
 caqqal.sbs
 caquid.ddns.net
 car-dbasvurukampanyafirsati.tech
+car-hauling.com
 car.kocfilo.com.tr
 car.ru
 car1isleft.com
@@ -88630,8 +88639,14 @@ carriagesimulation.top
 carridatslimsecure.ddns.net
 carriefiter.com
 carrier-customersfund.com
+carrier-packets.com
+carrier-packets.net
+carrieragreements.com
 carriercemetery.top
 carrierleverage.top
+carrierpack.net
+carrierpacket.online
+carriersetup.net
 carrinifho.hopto.org
 carrotaptly.top
 carrotbuffalo.top
@@ -90414,6 +90429,7 @@ centralbancshares.com
 centralbaptistchurchnj.org
 centraldecoleta.ddns.net
 centralderendaextra.com.br
+centraldispach.net
 centraldispatchinc.com
 centralgoogle.com
 centralhome.ddns.net
@@ -94756,6 +94772,7 @@ claim-skinnew.new4claim.com
 claim-your-reward.cfd
 claim346.xyz
 claimdome.top
+claimeprogressive.com
 claimeventff2024.ddns.net
 claimeventfreeff.duckdns.org
 claimff2024.duckdns.org
@@ -98171,6 +98188,7 @@ confirmasi-accoun5665.duckdns.org
 confirmation-cancel.servehttp.com
 confirmation-dns65.ddns.net
 confirmation-instagram.gq
+confirmation-rate.com
 confirmation-review.ddns.net
 confirmation-service.info
 confirmation-update.ddns.net
@@ -119068,6 +119086,7 @@ dominationpasser-by.top
 dominican12345.no-ip.biz
 dominicbarrios.com
 dominichampton59.xyz
+dominictoretto.sbs
 dominikanos.hopto.org
 dominiktorettosman.tk
 dominiktorettoxpdf.ml
@@ -121570,6 +121589,7 @@ dwrrrrrbwghw.space
 dws-gov.co.za
 dwsaqafswqegq.blogspot.com
 dwsetpsesjddcnw.com
+dwssa.top
 dwtraddw.sbs
 dwuvjpa.shop
 dwv10wur.duckdns.org
@@ -153285,6 +153305,8 @@ fleeappendix.top
 fleebunga.sbs
 fleeconception.top
 fleetcarrent.net
+fleetcarrier.net
+fleetgo0.com
 fleetnotorious.top
 fleetpremature.top
 fleetwood.tk
@@ -164277,6 +164299,7 @@ ggdevwrt-detlr.com
 ggdjkgdjkgasksagf.com.pl
 ggdkklptskn.click
 ggdoksdodfs.shop
+ggdt35.anondns.net
 ggement.top
 ggenniusprrojecct.site
 ggertyuudgk.ddns.net
@@ -169223,6 +169246,7 @@ gratis-tr.wikaba.com
 gratis-turk.duckdns.org
 gratis.ddnsguru.com
 gratis.dyndns-at-work.com
+gratis.dyndns-blog.com
 gratis.fatibara.com
 gratis.from-ca.com
 gratis.from-il.com
@@ -195833,6 +195857,7 @@ hurtillumination.top
 hurtr.online
 hurtsubsidize.top
 hurtthriller.top
+hurvalen.com
 hurywyy.com
 hus999.ddns.net
 husbandgrief.top
@@ -196911,6 +196936,7 @@ i-kmfinanceservice.net
 i-kuveytturkampanyasi.com
 i-kuveytturkbasvuru.com
 i-like-dicks.pirate
+i-lovepdf.net
 i-m0billislllemler.net
 i-mobilbireyselhizlibasvur.com
 i-mobildenizbireysel.com
@@ -201230,6 +201256,7 @@ ilan-guvenli-siparis-ver.online
 ilan-guvenli.com
 ilan-guvenli.com.tr
 ilan-guvenlialisveris.com
+ilan-guvenlieticaret.com
 ilan-guvenliodeme.com.tr
 ilan-hizli-odemem.com
 ilan-hizlialisveris.com.tr
@@ -202368,6 +202395,7 @@ ilolerelaaracmuyn.net
 ilonerdenisen.com
 ilonoygironitslllemenum.com
 ilovabby.ddns.net
+ilove-pdf.net
 iloveanimals.shop
 iloveat.fr
 ilovegoogle.org
@@ -208094,6 +208122,7 @@ inventbe.top
 inventfuture.online
 inventionactivate.top
 inventionwardrobe.top
+inventiveharmony.cfd
 inventorpsychiatric.top
 inventortaboo.top
 inventorydebut.top
@@ -214984,6 +215013,7 @@ iyiizlenim.online
 iyikalpler.net
 iyikidogdunhalk.com
 iyikligunler.com
+iyikogrji.digital
 iyikupon.com
 iyilercennetegitsin.com
 iyilerguzeldir.com
@@ -229450,6 +229480,7 @@ kgmgovtrbuy.com
 kgmgovzztr.top
 kgmgrv.cfd
 kgmgtio.cfd
+kgmguv.cfd
 kgmgv.cc
 kgmgv.life
 kgmgyo.life
@@ -233499,6 +233530,7 @@ konutbasvurusu.click
 konutbasvurusu.com
 konutbasvurusu.net
 konutbasvurusuhizliform.cloud
+konutbasvurusutoki.art
 konutbasvurusutoki.com
 konutbasvurusutoki.xyz
 konutbasvurutamamla.cloud
@@ -251420,6 +251452,7 @@ merv34i43i2ds.wiki
 mervd12-af.space
 mervedenizbukulmez.online
 mervedursun.com
+mervekocoglu.com
 mervelerdeyizburaklar.net
 mervelilo.com
 mervemikrofonunacikk.net
@@ -257487,6 +257520,7 @@ momentcandy.top
 momentconducive.top
 momentdhs.duckdns.org
 momentfort.top
+momentgui.sbs
 momentoushinge.top
 momentousspinal.top
 momentsuch.top
@@ -266351,7 +266385,10 @@ nextekservice.ddns.net
 nextemulate.top
 nextespnl-musterportali.com
 nextgen-rollep.duckdns.org
+nextgen01.net
+nextgen1.net
 nextgen12.hopto.org
+nextgen223.com
 nextgenerationdigitalautomationtool.top
 nextgenexp.com
 nextgenhealthtrack.azurewebsites.net
@@ -273407,6 +273444,7 @@ officeupdate.hopto.org
 officeupdate.ns01.us
 officeupdates.cleansite.us
 officewk2020.hopto.org
+officews101.com
 officex64.ml
 officezafar.hopto.org
 offichasereviwy.hopto.org
@@ -292683,6 +292721,7 @@ plotpart.top
 plouk.ddns.net
 ploukederys.org
 plovn.com
+plovstan.com
 plow.docupdftext.com
 plow.industryperfectbmi.cc
 ploxoychelovek3097.ddns.net
@@ -300077,6 +300116,7 @@ pttgovs.cfd
 pttgovs.cloud
 pttgovs.club
 pttgovs.com.tr
+pttgovs.help
 pttgovs.ink
 pttgovs.life
 pttgovs.org
@@ -304787,6 +304827,7 @@ qtodwqmlrmodem.net
 qtpbllqrgbbi.pw
 qtpinftjdnvl.site
 qtpinftjdnvl.website
+qtq2haw.anondns.net
 qtqpfipofcuc.xyz
 qtrek.info
 qtrsdg-24-dgsdg.space
@@ -307150,6 +307191,9 @@ ratdesk.ddns.net
 rate-mellat.shop
 rate-saderart.click
 rate-sdrt.click
+ratecnf.com
+ratecnf.net
+rateconfirm.net
 rated.duckdns.org
 ratefacilityframw.fun
 ratefuldowngrad.top
@@ -310257,6 +310301,7 @@ resmibasvuru.sa.com
 resmibasvuru.tk
 resmibasvuruformmerkezi.mefound.com
 resmibasvurugarantibbva.mefound.com
+resmibasvurukanalimgovtr.store
 resmibasvurum-online.cfd
 resmibasvurumobilgiris.mefound.com
 resmibayiodeme.sg-host.com
@@ -321554,6 +321599,7 @@ scarica-app-token.com
 scarica-app.icu
 scarlettppcblog.ddns.net
 scarperplexity.top
+scarrierpack.com
 scaryarrogant.top
 scarycommonwealth.top
 scat01.mcdir.ru
@@ -322265,6 +322311,7 @@ seanowy.com
 seaorlakegaranti.buzz
 sear.yeniden-gelelim.cfd
 searalmasna.sd
+searball.shop
 search-basvuruakba.space
 search-box.in
 search-email.com
@@ -328645,6 +328692,7 @@ shopinclude.top
 shopingchina.net
 shopingl0laldin.online
 shopinistdeals.com
+shopkonutbasvurusutoki.pro
 shopkoton.top
 shoplahohanoda.zapto.org
 shopless.ga
@@ -330656,16 +330704,20 @@ sikayetimvarr.xyz
 sikayetimvartr.info
 sikayetimvartr.ml
 sikayetimvartt.ga
+sikayetin-var-14.sbs
 sikayetin-var-22.sbs
 sikayetin-var-var.tk
 sikayetin-var.click
 sikayetin-var.co
 sikayetinmerkezi-1.sbs
+sikayetinmerkezi-19.sbs
 sikayetinmerkezi-24.sbs
 sikayetinmerkezi-29.sbs
 sikayetinmerkezi-32.sbs
 sikayetinmerkezi-37.sbs
 sikayetinmerkezi-38.sbs
+sikayetinmerkezi-49.sbs
+sikayetinmerkezi-5.sbs
 sikayetinmerkezi-50.sbs
 sikayetinmerkezi-57.sbs
 sikayetinmerkezi-58.sbs
@@ -330693,6 +330745,9 @@ sikayetlerimvar.org
 sikayetlerin-25.sbs
 sikayetlerin.var.ru.com
 sikayetlerinvar-14.sbs
+sikayetlerinvar-16.sbs
+sikayetlerinvar-17.sbs
+sikayetlerinvar-28.sbs
 sikayetlerinvar-29.sbs
 sikayetlernvar.com
 sikayetlervar-12.sbs
@@ -330818,6 +330873,7 @@ sikaythizmetleri-43.sbs
 sikaythizmetleri-55.sbs
 sikaytmerkezleri-14.sbs
 sikaytmerkezleri-38.sbs
+sikaytmerkezleri-55.sbs
 sikaytmerkezleri-9.sbs
 sikaytmerkeztr-13.sbs
 sikaytmerkeztr-14.sbs
@@ -334180,6 +334236,7 @@ smallbusiness-finance.site
 smallbusinesscelestial.weebly.com
 smallduck.ru
 smallfoster.top
+smallfoxy.com
 smallhole.club
 smallindulgence.top
 smalllumi2.ddns.net
@@ -356592,6 +356649,7 @@ tokibasvrurte.shop
 tokibasvur.art
 tokibasvur.com
 tokibasvur.fit
+tokibasvur.info
 tokibasvur.net
 tokibasvur.online
 tokibasvur.org
@@ -356779,7 +356837,9 @@ tokihousingapplication.com
 tokii-basvrur-2025.com
 tokii-basvuru.online
 tokii.digital
+tokiibasvuru.com
 tokiibasvuru.info
+tokiibasvuru.net
 tokiibasvurus.blogspot.com
 tokiibasvuruson2025.com
 tokiibasvurusu.blogspot.com
@@ -356794,6 +356854,7 @@ tokikbasuvurlari.blogspot.com
 tokikntarsaisyeri2025.com
 tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
+tokikonusbasvurusu.xyz
 tokikonut.net
 tokikonut.org
 tokikonut.xyz
@@ -357391,6 +357452,7 @@ toplukonut.vercel.app
 toplukonut400.com
 toplukonut500bin.com
 toplukonutaonline.com
+toplukonutbasvafntw.vercel.app
 toplukonutbasvr2.vercel.app
 toplukonutbasvr3.vercel.app
 toplukonutbasvr4.vercel.app
@@ -379087,6 +379149,7 @@ vehbisubesi.com.tr
 vehbisubesinde.com.tr
 vehhh.pe.hu
 vehhh.tk
+vehicle-release.com
 vehicle-roadway2022.tk
 vehicle31.xyz
 vehicleaugment.top
@@ -381153,6 +381216,7 @@ viciousillegal.top
 vickilawson345.xyz
 vickki.duckdns.org
 vicmgir.pw
+vicroup.com
 victacking.ddns.net
 victems.ddns.net
 victim.fit
@@ -390161,6 +390225,7 @@ wjuhut.top
 wjulbucks.info
 wjwmr2685.duckdns.org
 wjwmrwheyuacpbp.ru
+wjwrateconfirmation.com
 wjxhuq1t.duckdns.org
 wjxpo.pw
 wjyvoayquluyjyw.su
@@ -415022,6 +415087,7 @@ yuzyildabirfirsatlar.icu
 yuzyildabirfirsatlar.my
 yuzyilin-evi.com
 yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com
+yuzyilinevleri.com
 yuzyilinindirimlisayfasi.online
 yuzyilinindirimlisayfasi.xyz
 yuzyilinixndrmlreim.online

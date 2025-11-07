@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-07 07:09:55 UTC
-! Total: 334582 rules
+! Last modified: 2025-11-07 09:10:25 UTC
+! Total: 334643 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9465,6 +9465,7 @@
 *://*.500binkonut.org/*
 *://*.500binkonut.xyz/*
 *://*.500binkonutaciklandisonguntokibasvurulari.icu/*
+*://*.500binkonutbasvur.site/*
 *://*.500binkonutbasvuru.cfd/*
 *://*.500binkonutbasvuru.click/*
 *://*.500binkonutbasvuru.sbs/*
@@ -41975,6 +41976,7 @@
 *://*.basvurukonut.com/*
 *://*.basvurukonutlaritoki.art/*
 *://*.basvurukonutlaritoki.info/*
+*://*.basvurukonutlaritoki.pro/*
 *://*.basvurukonutlaritoki.xyz/*
 *://*.basvurukonutsosyalprojesi.net/*
 *://*.basvurukordan.com/*
@@ -42650,6 +42652,7 @@
 *://*.basvurutoki.digital/*
 *://*.basvurutoki.pro/*
 *://*.basvurutoki.site/*
+*://*.basvurutokii.info/*
 *://*.basvurutokii1451.xyz/*
 *://*.basvurutokiii1452.xyz/*
 *://*.basvurutokiii145858.xyz/*
@@ -47357,6 +47360,7 @@
 *://*.billmckell.com/*
 *://*.billmycell.com/*
 *://*.billowing-glade-7522.net/*
+*://*.billpay-info.com/*
 *://*.billpayverification.com/*
 *://*.billscut.top/*
 *://*.billsyeslclle.com/*
@@ -61946,11 +61950,14 @@
 *://*.brokensoul.ga/*
 *://*.brokensoul.gq/*
 *://*.brokeopaque.top/*
+*://*.brokeragepacket.com/*
 *://*.brokeralternation.top/*
+*://*.brokercarriersetup.com/*
 *://*.brokercontingent.top/*
 *://*.brokercounterfeit.top/*
 *://*.brokerlane.info/*
 *://*.brokermandatory.top/*
+*://*.brokerpackets.com/*
 *://*.brokerparachute.top/*
 *://*.brokerpeak.info/*
 *://*.brokerporcelain.top/*
@@ -67594,6 +67601,7 @@
 *://*.caqaudfkebxshq.com/*
 *://*.caqqal.sbs/*
 *://*.car-dbasvurukampanyafirsati.tech/*
+*://*.car-hauling.com/*
 *://*.car.blog/*
 *://*.car.ru/*
 *://*.car1isleft.com/*
@@ -68037,8 +68045,14 @@
 *://*.carriageslaptop.com/*
 *://*.carriefiter.com/*
 *://*.carrier-customersfund.com/*
+*://*.carrier-packets.com/*
+*://*.carrier-packets.net/*
+*://*.carrieragreements.com/*
 *://*.carriercemetery.top/*
 *://*.carrierleverage.top/*
+*://*.carrierpack.net/*
+*://*.carrierpacket.online/*
+*://*.carriersetup.net/*
 *://*.carrotaptly.top/*
 *://*.carrotbuffalo.top/*
 *://*.carrotconsolation.top/*
@@ -69462,6 +69476,7 @@
 *://*.centralbancshares.com/*
 *://*.centralbaptistchurchnj.org/*
 *://*.centralderendaextra.com.br/*
+*://*.centraldispach.net/*
 *://*.centraldispatchinc.com/*
 *://*.centralgoogle.com/*
 *://*.centralink.online/*
@@ -72770,6 +72785,7 @@
 *://*.claim-your-reward.cfd/*
 *://*.claim346.xyz/*
 *://*.claimdome.top/*
+*://*.claimeprogressive.com/*
 *://*.claimmeplz.top/*
 *://*.claimprior.top/*
 *://*.claimprocessing.org/*
@@ -75633,6 +75649,7 @@
 *://*.confirm-your-member-account.com/*
 *://*.confirmation-airdrops.pro/*
 *://*.confirmation-instagram.gq/*
+*://*.confirmation-rate.com/*
 *://*.confirmation-service.info/*
 *://*.confirmationfort.top/*
 *://*.confirmationmr.top/*
@@ -92454,6 +92471,7 @@
 *://*.dominationpasser-by.top/*
 *://*.dominicbarrios.com/*
 *://*.dominichampton59.xyz/*
+*://*.dominictoretto.sbs/*
 *://*.dominiktorettosman.tk/*
 *://*.dominiktorettoxpdf.ml/*
 *://*.dominoamusellc.com/*
@@ -94340,6 +94358,7 @@
 *://*.dwrrrrrbwghw.space/*
 *://*.dws-gov.co.za/*
 *://*.dwsetpsesjddcnw.com/*
+*://*.dwssa.top/*
 *://*.dwtraddw.sbs/*
 *://*.dwuvjpa.shop/*
 *://*.dwwmaster.com/*
@@ -121787,7 +121806,9 @@
 *://*.fleeconception.top/*
 *://*.fleek.co/*
 *://*.fleetcarrent.net/*
+*://*.fleetcarrier.net/*
 *://*.fleetgaard.com/*
+*://*.fleetgo0.com/*
 *://*.fleetnotorious.top/*
 *://*.fleetpremature.top/*
 *://*.fleetwood.tk/*
@@ -157350,6 +157371,7 @@
 *://*.hurtr.online/*
 *://*.hurtsubsidize.top/*
 *://*.hurtthriller.top/*
+*://*.hurvalen.com/*
 *://*.huryk-asw.com/*
 *://*.hurywyy.com/*
 *://*.husbandgrief.top/*
@@ -158228,6 +158250,7 @@
 *://*.i-kuveytturkampanyasi.com/*
 *://*.i-kuveytturkbasvuru.com/*
 *://*.i-like-dicks.pirate/*
+*://*.i-lovepdf.net/*
 *://*.i-m0billislllemler.net/*
 *://*.i-mobilbireyselhizlibasvur.com/*
 *://*.i-mobildenizbireysel.com/*
@@ -161716,6 +161739,7 @@
 *://*.ilan-guvenli.com.tr/*
 *://*.ilan-guvenli.com/*
 *://*.ilan-guvenlialisveris.com/*
+*://*.ilan-guvenlieticaret.com/*
 *://*.ilan-guvenliodeme.com.tr/*
 *://*.ilan-hizli-odemem.com/*
 *://*.ilan-hizlialisveris.com.tr/*
@@ -162820,6 +162844,7 @@
 *://*.ilolerelaaracmuyn.net/*
 *://*.ilonerdenisen.com/*
 *://*.ilonoygironitslllemenum.com/*
+*://*.ilove-pdf.net/*
 *://*.iloveanimals.shop/*
 *://*.iloveat.fr/*
 *://*.ilovegoogle.org/*
@@ -167892,6 +167917,7 @@
 *://*.inventfuture.online/*
 *://*.inventionactivate.top/*
 *://*.inventionwardrobe.top/*
+*://*.inventiveharmony.cfd/*
 *://*.inventorpsychiatric.top/*
 *://*.inventortaboo.top/*
 *://*.inventorydebut.top/*
@@ -173615,6 +173641,7 @@
 *://*.iyikalpler.net/*
 *://*.iyikidogdunhalk.com/*
 *://*.iyikligunler.com/*
+*://*.iyikogrji.digital/*
 *://*.iyikupon.com/*
 *://*.iyilercennetegitsin.com/*
 *://*.iyilerguzeldir.com/*
@@ -185695,6 +185722,7 @@
 *://*.kgmgovzztr.top/*
 *://*.kgmgrv.cfd/*
 *://*.kgmgtio.cfd/*
+*://*.kgmguv.cfd/*
 *://*.kgmgv.cc/*
 *://*.kgmgv.life/*
 *://*.kgmgyo.life/*
@@ -188597,6 +188625,7 @@
 *://*.konutbasvurusu.com/*
 *://*.konutbasvurusu.net/*
 *://*.konutbasvurusuhizliform.cloud/*
+*://*.konutbasvurusutoki.art/*
 *://*.konutbasvurusutoki.com/*
 *://*.konutbasvurusutoki.xyz/*
 *://*.konutbasvurutamamla.cloud/*
@@ -202079,6 +202108,7 @@
 *://*.mervd12-af.space/*
 *://*.mervedenizbukulmez.online/*
 *://*.mervedursun.com/*
+*://*.mervekocoglu.com/*
 *://*.mervelerdeyizburaklar.net/*
 *://*.mervelilo.com/*
 *://*.mervemikrofonunacikk.net/*
@@ -206872,6 +206902,7 @@
 *://*.momentcandy.top/*
 *://*.momentconducive.top/*
 *://*.momentfort.top/*
+*://*.momentgui.sbs/*
 *://*.momentoushinge.top/*
 *://*.momentousspinal.top/*
 *://*.momentsuch.top/*
@@ -213591,6 +213622,9 @@
 *://*.nextemulate.top/*
 *://*.nextera.capital/*
 *://*.nextespnl-musterportali.com/*
+*://*.nextgen01.net/*
+*://*.nextgen1.net/*
+*://*.nextgen223.com/*
 *://*.nextgenerationdigitalautomationtool.top/*
 *://*.nextgenexp.com/*
 *://*.nextgeninnovation.website/*
@@ -218895,6 +218929,7 @@
 *://*.officetemplatecv.in/*
 *://*.officetoolservices.com/*
 *://*.officeweb.live/*
+*://*.officews101.com/*
 *://*.officex64.ml/*
 *://*.official-app.online/*
 *://*.official-secure-verifcatlon.com/*
@@ -235032,6 +235067,7 @@
 *://*.plotpart.top/*
 *://*.ploukederys.org/*
 *://*.plovn.com/*
+*://*.plovstan.com/*
 *://*.ploynera.com/*
 *://*.ploynix.com/*
 *://*.plozzard.shop/*
@@ -241031,6 +241067,7 @@
 *://*.pttgovs.cloud/*
 *://*.pttgovs.club/*
 *://*.pttgovs.com.tr/*
+*://*.pttgovs.help/*
 *://*.pttgovs.ink/*
 *://*.pttgovs.life/*
 *://*.pttgovs.org/*
@@ -246363,6 +246400,9 @@
 *://*.rate-mellat.shop/*
 *://*.rate-saderart.click/*
 *://*.rate-sdrt.click/*
+*://*.ratecnf.com/*
+*://*.ratecnf.net/*
+*://*.rateconfirm.net/*
 *://*.ratefacilityframw.fun/*
 *://*.ratefuldowngrad.top/*
 *://*.rateventrithathen.info/*
@@ -248604,6 +248644,7 @@
 *://*.resmibasvuru.org/*
 *://*.resmibasvuru.site/*
 *://*.resmibasvuru.tk/*
+*://*.resmibasvurukanalimgovtr.store/*
 *://*.resmibasvurum-online.cfd/*
 *://*.resmibildiriveduyurunoktasii.com/*
 *://*.resmibimpaket.net/*
@@ -255922,6 +255963,7 @@
 *://*.scarica-app-token.com/*
 *://*.scarica-app.icu/*
 *://*.scarperplexity.top/*
+*://*.scarrierpack.com/*
 *://*.scaryarrogant.top/*
 *://*.scarycommonwealth.top/*
 *://*.scat01.tk/*
@@ -256462,6 +256504,7 @@
 *://*.seanowy.com/*
 *://*.seaorlakegaranti.buzz/*
 *://*.searalmasna.sd/*
+*://*.searball.shop/*
 *://*.search-basvuruakba.space/*
 *://*.search-box.in/*
 *://*.search-email.com/*
@@ -260968,6 +261011,7 @@
 *://*.shopingl0laldin.online/*
 *://*.shopingx.store/*
 *://*.shopinistdeals.com/*
+*://*.shopkonutbasvurusutoki.pro/*
 *://*.shopkoton.top/*
 *://*.shopless.ga/*
 *://*.shopli.store/*
@@ -262739,16 +262783,20 @@
 *://*.sikayetimvartr.info/*
 *://*.sikayetimvartr.ml/*
 *://*.sikayetimvartt.ga/*
+*://*.sikayetin-var-14.sbs/*
 *://*.sikayetin-var-22.sbs/*
 *://*.sikayetin-var-var.tk/*
 *://*.sikayetin-var.click/*
 *://*.sikayetin-var.co/*
 *://*.sikayetinmerkezi-1.sbs/*
+*://*.sikayetinmerkezi-19.sbs/*
 *://*.sikayetinmerkezi-24.sbs/*
 *://*.sikayetinmerkezi-29.sbs/*
 *://*.sikayetinmerkezi-32.sbs/*
 *://*.sikayetinmerkezi-37.sbs/*
 *://*.sikayetinmerkezi-38.sbs/*
+*://*.sikayetinmerkezi-49.sbs/*
+*://*.sikayetinmerkezi-5.sbs/*
 *://*.sikayetinmerkezi-50.sbs/*
 *://*.sikayetinmerkezi-57.sbs/*
 *://*.sikayetinmerkezi-58.sbs/*
@@ -262774,6 +262822,9 @@
 *://*.sikayetlerimvar.org/*
 *://*.sikayetlerin-25.sbs/*
 *://*.sikayetlerinvar-14.sbs/*
+*://*.sikayetlerinvar-16.sbs/*
+*://*.sikayetlerinvar-17.sbs/*
+*://*.sikayetlerinvar-28.sbs/*
 *://*.sikayetlerinvar-29.sbs/*
 *://*.sikayetlernvar.com/*
 *://*.sikayetlervar-1.sbs/*
@@ -262895,6 +262946,7 @@
 *://*.sikaythizmetleri-55.sbs/*
 *://*.sikaytmerkezleri-14.sbs/*
 *://*.sikaytmerkezleri-38.sbs/*
+*://*.sikaytmerkezleri-55.sbs/*
 *://*.sikaytmerkezleri-9.sbs/*
 *://*.sikaytmerkeztr-13.sbs/*
 *://*.sikaytmerkeztr-14.sbs/*
@@ -265892,6 +265944,7 @@
 *://*.smallbusiness-finance.site/*
 *://*.smallduck.ru/*
 *://*.smallfoster.top/*
+*://*.smallfoxy.com/*
 *://*.smallhole.club/*
 *://*.smallhome.org/*
 *://*.smallindulgence.top/*
@@ -284311,6 +284364,7 @@
 *://*.tokibasvur.art/*
 *://*.tokibasvur.com/*
 *://*.tokibasvur.fit/*
+*://*.tokibasvur.info/*
 *://*.tokibasvur.net/*
 *://*.tokibasvur.online/*
 *://*.tokibasvur.org/*
@@ -284453,7 +284507,9 @@
 *://*.tokii-basvrur-2025.com/*
 *://*.tokii-basvuru.online/*
 *://*.tokii.digital/*
+*://*.tokiibasvuru.com/*
 *://*.tokiibasvuru.info/*
+*://*.tokiibasvuru.net/*
 *://*.tokiibasvuruson2025.com/*
 *://*.tokiikevimprojesibasvuru.com/*
 *://*.tokiilkevbasvur.com/*
@@ -284462,6 +284518,7 @@
 *://*.tokikayit.org/*
 *://*.tokikayitlar.org/*
 *://*.tokikntarsaisyeri2025.com/*
+*://*.tokikonusbasvurusu.xyz/*
 *://*.tokikonut.net/*
 *://*.tokikonut.org/*
 *://*.tokikonut.xyz/*
@@ -302862,6 +302919,7 @@
 *://*.vehbisubesi.com.tr/*
 *://*.vehbisubesinde.com.tr/*
 *://*.vehhh.tk/*
+*://*.vehicle-release.com/*
 *://*.vehicle-roadway2022.tk/*
 *://*.vehicle31.xyz/*
 *://*.vehicleaugment.top/*
@@ -304411,6 +304469,7 @@
 *://*.vicp.cc/*
 *://*.vicp.co/*
 *://*.vicp.net/*
+*://*.vicroup.com/*
 *://*.victim.fit/*
 *://*.victimaesthetic.top/*
 *://*.victimizefeminism.top/*
@@ -310793,6 +310852,7 @@
 *://*.wjuhut.top/*
 *://*.wjulbucks.info/*
 *://*.wjwmrwheyuacpbp.ru/*
+*://*.wjwrateconfirmation.com/*
 *://*.wjxpo.pw/*
 *://*.wjyvoayquluyjyw.su/*
 *://*.wjzmzp.com/*
@@ -330830,6 +330890,7 @@
 *://*.yuzyildabirfirsatlar.my/*
 *://*.yuzyilin-evi.com/*
 *://*.yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com/*
+*://*.yuzyilinevleri.com/*
 *://*.yuzyilinindirimlisayfasi.online/*
 *://*.yuzyilinindirimlisayfasi.xyz/*
 *://*.yuzyilinixndrmlreim.online/*
