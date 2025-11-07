@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-07 17:08:21 UTC
-! Total: 334720 rules
+! Last modified: 2025-11-07 18:13:07 UTC
+! Total: 334737 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9527,6 +9527,7 @@
 *://*.500konutbasvurum.click/*
 *://*.500konutbasvurumuz.xyz/*
 *://*.500konutilkevim.com/*
+*://*.500konutportal.com/*
 *://*.500konutprojesi.cfd/*
 *://*.500konutprojesi.click/*
 *://*.500konutprojesi.club/*
@@ -15774,7 +15775,9 @@
 *://*.abvrdun14.click/*
 *://*.abvrdun16.click/*
 *://*.abvrdun18.click/*
+*://*.abvrdun2.click/*
 *://*.abvrdun20.click/*
+*://*.abvrdun4.click/*
 *://*.abvsecurity.co.za/*
 *://*.abxess.com/*
 *://*.abyss-world-asset.net/*
@@ -25400,6 +25403,7 @@
 *://*.aktifbasvurubncestr.com/*
 *://*.aktifbasvurubncstr.com/*
 *://*.aktifbasvurubnsacetr.com/*
+*://*.aktifbasvuruekranim.sbs/*
 *://*.aktifbasvuruislemlerim.click/*
 *://*.aktifbasvurularbncestr.com/*
 *://*.aktifbasvurularbncstr.com/*
@@ -41653,6 +41657,7 @@
 *://*.basvurualtiay-erteleme-onay-acik.online/*
 *://*.basvuruarapformudeniz.com/*
 *://*.basvuruasamagiriswebonline.click/*
+*://*.basvuruasamagiriswebonline0.click/*
 *://*.basvuruasamagiriswebonline2.click/*
 *://*.basvuruasamapageweb.site/*
 *://*.basvuruasamasiweb.site/*
@@ -77040,6 +77045,7 @@
 *://*.cqcwyqvsbw-cwfqhsvqjs-gwfshqvs.cyou/*
 *://*.cqcwyqvsbw-cwfqhsvqjs-gwfshqvs.sbs/*
 *://*.cqdenizbank.com/*
+*://*.cqdwtqfwfqxwx-wxqdqdfqxqcq-cwxs.click/*
 *://*.cqegnv.com/*
 *://*.cqfnvznw.info/*
 *://*.cqfqfqxqffa-dqsdqfqcq-dwdwcxa.shop/*
@@ -106762,6 +106768,7 @@
 *://*.ekstra20gb-ekpaket-turkcell.com/*
 *://*.ekstrabaharkampanyasi.com.tr/*
 *://*.ekstraci-kacirilmayacak-firsatlar.online/*
+*://*.ekstradafirsatlar.com/*
 *://*.ekstrafirsat.com/*
 *://*.ekstrafirsatlar.xyz/*
 *://*.ekstrafirsatlaridevam.com.tr/*
@@ -114571,8 +114578,10 @@
 *://*.evsahibiol.org/*
 *://*.evsahibiolduturkiye.com/*
 *://*.evsahibiolturkiye.com/*
+*://*.evsahibiturkey.com/*
 *://*.evsahibiturkiye.media/*
 *://*.evsahibiturkiye.net/*
+*://*.evsahibiturkiye.news/*
 *://*.evsahibturkiye.com/*
 *://*.evsaklism.com/*
 *://*.evsaklism.net/*
@@ -144450,6 +144459,7 @@
 *://*.hat-cup.com/*
 *://*.hat-kett.com/*
 *://*.hat-tasima.com/*
+*://*.hatadanta.cfd/*
 *://*.hataliysamara.store/*
 *://*.hataliysamara.tech/*
 *://*.hatasizcoololmas.com/*
@@ -188516,6 +188526,7 @@
 *://*.konsoloyunhadireportlalansiteyi.net/*
 *://*.konstantinou.info/*
 *://*.konsultasyon-alert.com/*
+*://*.kont-t0k-i-bsvr.com/*
 *://*.kont.ly/*
 *://*.kontakpay.com/*
 *://*.kontakt-s-id-check.com/*
@@ -188635,6 +188646,7 @@
 *://*.konut-idarisie.com/*
 *://*.konut-kredim-finansbank.com/*
 *://*.konut-t-o-k-i-500.com/*
+*://*.konut-t0kin-bas.online/*
 *://*.konut.app/*
 *://*.konut20012024.com/*
 *://*.konut5000.com/*
@@ -195825,6 +195837,7 @@
 *://*.lstanbul.store/*
 *://*.lstanbul.tech/*
 *://*.lstanbulbasvuru.com/*
+*://*.lstanbulblogg.com/*
 *://*.lstanbulbreysell.click/*
 *://*.lstanbulbreysell.online/*
 *://*.lstanbulbreysell.site/*
@@ -238166,6 +238179,7 @@
 *://*.projeler-toki-burada.sbs/*
 *://*.projeler-toki-buradan.icu/*
 *://*.projeler-toki-buradan.sbs/*
+*://*.projemhemen.online/*
 *://*.projemizvarbayramdan.com/*
 *://*.projeresmi.sbs/*
 *://*.projesecimi.com/*
@@ -264087,6 +264101,7 @@
 *://*.siparisinikacirma.com/*
 *://*.siparisinisimditamamla.com/*
 *://*.siparisiniver.click/*
+*://*.siparisinivergelsin.click/*
 *://*.siparisiniz-guvende.com.tr/*
 *://*.siparisinizguvende.com/*
 *://*.siparisinizonline.com.tr/*
@@ -284591,6 +284606,7 @@
 *://*.tokikayitlar.org/*
 *://*.tokikntarsaisyeri2025.com/*
 *://*.tokikonusbasvurusu.xyz/*
+*://*.tokikonut.io/*
 *://*.tokikonut.net/*
 *://*.tokikonut.org/*
 *://*.tokikonut.xyz/*
@@ -292280,6 +292296,7 @@
 *://*.turkcellpasajin.com/*
 *://*.turkcellpasajmagaza.com/*
 *://*.turkcellpasajmagaza.store/*
+*://*.turkcellpasajmagaza.xyz/*
 *://*.turkcellpasajmagazalar.com/*
 *://*.turkcellpasajmagazalari.com/*
 *://*.turkcellpasajmagazalari.store/*
