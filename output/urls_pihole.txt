@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-07 22:08:15 UTC
-# Toplam: 420478 Domain
+# Son Güncelleme: 2025-11-07 23:08:19 UTC
+# Toplam: 420483 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -191244,6 +191244,7 @@ hizlionay.sbs
 hizlionay.tk
 hizlionayislem.com
 hizlionaylat.fun
+hizlionbasvuru.bond
 hizlionlineaktarimislemleri.store
 hizlionlinealisveris.online
 hizlionlinealisveris.xyz
@@ -211502,6 +211503,7 @@ islemyonle.com
 islemziraat.cfd
 islenpiding.hotmail.ru
 islerbasvurdunuzms.duckdns.org
+islerbasvvurular.click
 islercepte.com
 islerev-homepageplatformirtibat.com
 islergroup.pw
@@ -246666,6 +246668,7 @@ maks-korzh.com
 maks-korzh.ru
 maks5554378.zapto.org
 maksarwq.club
+maksikampanya.digital
 maksimconcert.com
 maksimumhediyeler2019.tk
 maksimumisteiadevakti.com
@@ -350101,6 +350104,7 @@ tciadesistemi.mermerfatihlerimde.com
 tcib4677sayili.tk
 tcicisleribakanligi.com
 tciletisimbaskanligin.online
+tcinfaz.com
 tcistanbulbakiye.online
 tcistanbulbakiyem.online
 tcistanbulllkart.net
@@ -390095,6 +390099,7 @@ winnerexpect.top
 winnermilestone.top
 winners1311.ddns.net
 winnersarcastic.top
+winnerscredit.digital
 winnersxxx.hopto.org
 winnertreasure.store
 winnewmobilephone.store
