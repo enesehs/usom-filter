@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-07 11:01:54 UTC
-# Toplam: 420285 Domain
+# Son Güncelleme: 2025-11-07 13:23:06 UTC
+# Toplam: 420325 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8201,6 +8201,7 @@
 2025yildizlarinda.online
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
+2026teslim-tarih.sbs
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
 202eyi.duckdns.org
@@ -9402,6 +9403,9 @@
 250bintokikonutprojesibasvuruekrani.com
 250bintokiprojebasvuruekrani.com
 250bintokisprojeleribasvuruekrani.com
+250bintoklilkev.click
+250bintoklilkev.com
+250bintoklilkev.online
 250bintoplukontproje.com
 250bintoplukonut.com
 250bintoplukonut.xyz
@@ -25788,6 +25792,8 @@ abvrdun.click
 abvrdun10.click
 abvrdun12.click
 abvrdun14.click
+abvrdun16.click
+abvrdun18.click
 abvsecurity.co.za
 abwehrphas.sa.com
 abwrqw.blogspot.com
@@ -53338,6 +53344,7 @@ ayuzbirbasvuruformu.online
 ayuzbircdvasbsda.hopto.org
 ayuzbirci.duckdns.org
 ayuzbirharcabitmez.net
+ayuzbirilfristlarcvkcmzlfirlfl.mooo.com
 ayuzbirim.byethost15.com
 ayuzbirim1.com
 ayuzbirklimasiparis.com
@@ -53377,6 +53384,7 @@ ayyildzbursu.org
 ayyolsk4m23432.com
 ayyolskmm332132142.com
 ayzakpo.ru
+ayzbbirrfhadcrcaabitmzkapmbyasi.mooo.com
 ayzbbirrrrfhadcrcaabitmzkapmbyas.mooo.com
 ayzbirharcacarcabtmzzkmpynds.mooo.com
 ayzedhwnx.com
@@ -58200,6 +58208,7 @@ basvuru-tbt.com
 basvuru-techbance.tech
 basvuru-togg.online
 basvuru-toki.com
+basvuru-toki.digital
 basvuru-toki.sa.com
 basvuru-tokii.online
 basvuru-tokki.online
@@ -58358,6 +58367,7 @@ basvuruaralik11.duckdns.org
 basvuruaralik12.duckdns.org
 basvuruaralik29.duckdns.org
 basvuruarapformudeniz.com
+basvuruasamagiriswebonline.click
 basvuruasamapageweb.site
 basvuruasamasiweb.site
 basvuruaxess.xyz
@@ -93454,6 +93464,7 @@ cicekmarket.site
 cicekmarket.vip
 cicekmarket.xyz
 cicekmarketim.org
+cicekmarketim.site
 cicekmarketim.store
 cicekmarketim.work
 cicekn.com
@@ -106229,6 +106240,7 @@ deluxerndevus.com
 deluxpaketlemee.xyz
 delveintobiz.top
 delvetiade.com
+delvoro.sbs
 delvys.com
 delwafn.com
 dem.businessdeep.com
@@ -141962,6 +141974,7 @@ etapkohbdes.online
 etapkohbes.online
 etapkomsar.online
 etapkonxmz.online
+etaponlinebasvurulari.top
 etaprandemin.online
 etaprandemn.online
 etapu.co
@@ -148399,6 +148412,7 @@ fekelmedenbe.net
 fekeqwdsdckedkeqwesdk211.com
 fekigter2.us
 fekilopol.xyz
+fekmiz2458.wordpress.com
 fekohis1.us
 fekon.s3.ap-south-1.amazonaws.com
 fekoqaydb.duckdns.org
@@ -202152,6 +202166,7 @@ ilkevim-t-o-k-i-bsrv.com
 ilkevim-toki-basvuru.vercel.app
 ilkevim-toki-basvuru1.vercel.app
 ilkevim-toki-basvuruhsojay.vercel.app
+ilkevim-toki-bglrfyga.vercel.app
 ilkevim-toki-bwmpuh.vercel.app
 ilkevim-toki.xyz
 ilkevim.click
@@ -202185,6 +202200,7 @@ ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutlari.cloud
 ilkevimnet.com
+ilkevimproje.com
 ilkevimprojeleri.org
 ilkevimprojesi.com
 ilkevimprojesi.xyz
@@ -221092,6 +221108,7 @@ kabcho.zapto.org
 kabebenim.net
 kabelbrendedjelekbiru.lol
 kabelospy.ga
+kabelsad2904.wordpress.com
 kabelsusogutucu.com.tr
 kabeor.top
 kaberligo.net
@@ -224556,6 +224573,7 @@ kamubilgilerndirmegovtr.com
 kamucezasorgu.org
 kamucezatakip.com
 kamudansikayetimvar.site
+kamudava.net
 kamudestegibasvuruformu.com
 kamudestek-egovtr.epizy.com
 kamudestekleme-govtr.epizy.com
@@ -229359,6 +229377,7 @@ kgm-govtr.ink
 kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
+kgm-govtrr.cfd
 kgm-govv.help
 kgm-govv.xyz
 kgm-govz-tr.cfd
@@ -232135,6 +232154,7 @@ kmpanya-aldn.com.tr
 kmpanya-yeni-kasm.online
 kmpanya101defirstlari.com
 kmpanyabsvrrgrnt.info
+kmpanyabsvrrgrnt.pro
 kmpanyadenizde.site
 kmpanyagunleri.online
 kmpanyagunleri.site
@@ -233509,6 +233529,7 @@ konutbasvuru.org
 konutbasvuruac1v58aha58sndgfa5d8c5d5.online
 konutbasvuruac1v58aha58sndgfa5d8c5d5.site
 konutbasvuruac1v58aha58sndgfa5d8c5d5.space
+konutbasvuruac1v58aha58sndsagfa5d8c5d5.site
 konutbasvurulari.cloud
 konutbasvurulari.online
 konutbasvurulariacildi.icu
@@ -233555,6 +233576,7 @@ konutevlerihazirlaniyor.cloud
 konutevlik.cfd
 konutfirsat.click
 konutfirsati.click
+konutfirsati.online
 konutguncel.click
 konutgunceldestekhatti.com
 konutilkevim.org
@@ -233578,6 +233600,9 @@ konutsahibiol.org
 konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
+konuttokibasvurusu.art
+konuttokibasvurusu.pro
+konuttokibasvurusu.xyz
 konuttokibsvr.sa.com
 konuttokimbasvurum.click
 konuttrend.click
@@ -310341,6 +310366,7 @@ resmiegirisadres-merkezgiriss.com
 resmiegirisadresi-merkezgiris.com
 resmiegirisadresim-merkezgirisi.com
 resmiemlakislemleri.net
+resmievim.com
 resmigarantibbva.mefound.com
 resmigarantibbvabasvuru.mefound.com
 resmigarantibbvabasvurusu.mefound.com
@@ -315350,6 +315376,7 @@ safsafjksfak214.com
 safsafkjfsa124.com
 safsaflk21512.xyz
 safsazasxsawqrwq.app
+safsevza20145.wordpress.com
 safsfafq-ssdgggggg.space
 safsfavxzvv-wqvsdbfd-fqfasdsdbbsd.website
 safsfawqwfq-ssvz-waf.space
@@ -324973,6 +325000,7 @@ sendefirsatalmadangitme.com.tr
 sendefirsatalmadangitme.online
 sendefirsatikacirma.net
 sendefirsatikacirma.online
+sendefirsattakalhizlica.site
 sendegaraaantilebasvr-tr.net
 sendegaraaantilebasvr-tr2.net
 sendegarantilebasvr-tr.net
@@ -330746,6 +330774,7 @@ sikayetlerin.var.ru.com
 sikayetlerinvar-14.sbs
 sikayetlerinvar-16.sbs
 sikayetlerinvar-17.sbs
+sikayetlerinvar-23.sbs
 sikayetlerinvar-28.sbs
 sikayetlerinvar-29.sbs
 sikayetlernvar.com
@@ -342012,6 +342041,7 @@ stiye-gti-ynlendirme.cfd
 stiye-hlzli-aktrma.sbs
 stiye-hzlica-yonlndirme.sbs
 stiye-yonlendililriyorsunuz.sbs
+stiye-yonlendirilme.sbs
 stiyxdm.cn
 stjmxxqtkudy.xyz
 stk-sn-kpdaylbasi.online
@@ -356505,7 +356535,9 @@ toki-500binkonut.digital
 toki-adresi.xyz
 toki-bas-vur.net
 toki-bas-vurru.pro
+toki-basladi-sende.click
 toki-basladi-sende.com
+toki-basladi-sende.xyz
 toki-basvrum.digital
 toki-basvur-2025.com
 toki-basvur.blogspot.com
@@ -356540,6 +356572,7 @@ toki-basvurumm-yapp.com
 toki-basvurusistemi.rest
 toki-basvurusu.org
 toki-basvurusugel.work
+toki-bsvr-slv.sbs
 toki-cevrevesehir.info
 toki-e-basvuru.lat
 toki-e-basvuru.sbs
@@ -356697,6 +356730,7 @@ tokibasvuruislem.click
 tokibasvuruislemi.com
 tokibasvuruislemleri.cfd
 tokibasvuruislemleri.com
+tokibasvurular.com
 tokibasvurular.vercel.app
 tokibasvurular.xyz
 tokibasvurularcomtrs.blogspot.com
@@ -356728,6 +356762,7 @@ tokibasvurumhizlandir.click
 tokibasvurumhizli.top
 tokibasvurumm.net
 tokibasvurumonline.click
+tokibasvurumtoki-basvurular-govtr.sbs
 tokibasvurumtr.click
 tokibasvurumturkiye.click
 tokibasvurumutamamla.click
@@ -356839,6 +356874,7 @@ tokii.digital
 tokiibasvuru.com
 tokiibasvuru.info
 tokiibasvuru.net
+tokiibasvuru.pro
 tokiibasvurus.blogspot.com
 tokiibasvuruson2025.com
 tokiibasvurusu.blogspot.com
@@ -356989,6 +357025,7 @@ tokisony.omnicron.sbs
 tokisosyalbasvuru.net
 tokisosyalbasvurularim.vercel.app
 tokisosyalbasvurularin.vercel.app
+tokisosyalkonut.app
 tokisosyalkonut.net
 tokisosyalkonut.org
 tokisosyalkonutbasvuru.net
@@ -357482,6 +357519,7 @@ toplukonutbasvurusu.vercel.app
 toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
+toplukonutidaresi.app
 toplukonutidaresi.com
 toplukonutidaresi.net
 toplukonutidaresibaskanligi.com
@@ -370789,6 +370827,7 @@ ugsxy.com
 ugt3d8fs.duckdns.org
 ugtaiyvsqq.duckdns.org
 ugunz.zapto.org
+ugur-d.org
 ugurhanem.com
 ugwebz.uk.pn
 ugx4pvongd.storage.googleapis.com
@@ -390309,6 +390348,7 @@ wlghks753951.codns.com
 wlgpxxqstovkttq.su
 wlijq.com
 wliqyd.top
+wljihg2.storage.googleapis.com
 wljwzqk.xyz
 wll9.zapto.org
 wlletr-ledgeur.webflow.io
