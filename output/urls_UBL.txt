@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-08 16:09:37 UTC
-! Total: 334859 rules
+! Last modified: 2025-11-08 17:01:39 UTC
+! Total: 334872 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5830,6 +5830,7 @@
 *://*.2025yildizlarinda.online/*
 *://*.2025yildizlarinda.xyz/*
 *://*.2025yilikampanyasizlere.com/*
+*://*.2026bajsknvtnkito.sbs/*
 *://*.2026teslim-tarih.sbs/*
 *://*.2028.cl/*
 *://*.202firsatlari.online/*
@@ -6806,6 +6807,7 @@
 *://*.250binilkevtokl.help/*
 *://*.250binilkevtokl.online/*
 *://*.250binilkevtokl.top/*
+*://*.250binilktokl.click/*
 *://*.250binilktokl.help/*
 *://*.250binkonut.com/*
 *://*.250binkonutbasvur.com/*
@@ -9472,6 +9474,7 @@
 *://*.500binkonut.com/*
 *://*.500binkonut.org/*
 *://*.500binkonut.xyz/*
+*://*.500binkonutabasvur.org/*
 *://*.500binkonutaciklandisonguntokibasvurulari.icu/*
 *://*.500binkonutbasvur.site/*
 *://*.500binkonutbasvuru.cfd/*
@@ -9479,6 +9482,7 @@
 *://*.500binkonutbasvuru.sbs/*
 *://*.500binkonutbasvuruekrani.com/*
 *://*.500binkonutbasvurusu.cfd/*
+*://*.500binkonutduyurusu.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
 *://*.500binkonutprojesi.org/*
@@ -35533,6 +35537,7 @@
 *://*.atofwxkzu.com/*
 *://*.atokonutlar.com.tr/*
 *://*.atokonutlar.xyz/*
+*://*.atokonutu.com.tr/*
 *://*.atokonutu.xyz/*
 *://*.atolyeinsta.com/*
 *://*.atom-tickets-data.com/*
@@ -42321,6 +42326,7 @@
 *://*.basvurumerkezim.com/*
 *://*.basvurumerkezim.net/*
 *://*.basvurumerkezim.site/*
+*://*.basvurumerkezinde-sosyaldir.com/*
 *://*.basvurumerkezinden.org/*
 *://*.basvurumerkezinizbbva.com/*
 *://*.basvurumerkezinn.com/*
@@ -42465,6 +42471,7 @@
 *://*.basvurunsizdekacirmyn.com.tr/*
 *://*.basvurunsoesaolayom.site/*
 *://*.basvuruntiklatgelsin.com/*
+*://*.basvuruntokiimevime41.xyz/*
 *://*.basvurunu-tamamla-firsati-kacirma.com/*
 *://*.basvurunu-tamamlafibabnkda.com/*
 *://*.basvurunuanindatamamlaodulsource.net/*
@@ -42491,6 +42498,7 @@
 *://*.basvurunuyaphediyenikap.com/*
 *://*.basvurunuyaphemen2024.cloud/*
 *://*.basvurunuyapodulukazanmafirsatiseasypointwild.net/*
+*://*.basvurunuyaponline.site/*
 *://*.basvurunuyapsendekazan.cloud/*
 *://*.basvurunuz-acikdenizv2denizbankyilbasi.com/*
 *://*.basvurunuz-acikdenizv2denizhediye.com/*
@@ -42720,6 +42728,7 @@
 *://*.basvurutokiiilkevimproje81.xyz/*
 *://*.basvurutokiiimilkevimm81.xyz/*
 *://*.basvurutokiilkeviniz.xyz/*
+*://*.basvurutokikmpnya.pro/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokimerkezim.com/*
 *://*.basvurutokimilkevim81.xyz/*
@@ -42899,6 +42908,7 @@
 *://*.basvvurtooki.pro/*
 *://*.basvvuru-ieademerkezi-edevlet.com/*
 *://*.basvvuuurrrissssskatilim.cloud/*
+*://*.basvvvurrtookkampanya.art/*
 *://*.basvvvurrtookkampanya.info/*
 *://*.basvvvurrtookkampanya.pro/*
 *://*.basyurtinternetcafe.ml/*
@@ -44192,6 +44202,7 @@
 *://*.bdbxmy.top/*
 *://*.bdcmcflk.net/*
 *://*.bdcmmk.top/*
+*://*.bdcy7.sbs/*
 *://*.bdd-k.tk/*
 *://*.bdd-kiadenedevletle.com/*
 *://*.bdd1b2i68gj.com/*
@@ -64824,6 +64835,7 @@
 *://*.bursiyerkaydi.site/*
 *://*.bursiyerkayitformu.site/*
 *://*.bursiyerler.online/*
+*://*.bursiyerler.org/*
 *://*.bursiyervakfi.online/*
 *://*.bursiyervakfi.org/*
 *://*.burskapisi.com/*
@@ -326759,6 +326771,7 @@
 *://*.yenibutik.fun/*
 *://*.yenibvruu.click/*
 *://*.yenibvruu20.click/*
+*://*.yenibvruu30.click/*
 *://*.yenicagir.online/*
 *://*.yenicanersler.com/*
 *://*.yenicebsubem.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-08 16:09:37 UTC
-# Toplam: 420564 Domain
+# Son Güncelleme: 2025-11-08 17:01:39 UTC
+# Toplam: 420579 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2105,6 +2105,7 @@
 10111400516.duckdns.org
 10111aktueliiiimblog.com
 10111aktuelim.com
+10112025tarihli.basvurumerkezinde-sosyaldir.com
 1011410466.corolain.ru
 10116254team-acces.line.pm
 1011expressss.online
@@ -9390,6 +9391,7 @@
 250binilkevtokl.help
 250binilkevtokl.online
 250binilkevtokl.top
+250binilktokl.click
 250binilktokl.help
 250binkonut-online.blogdns.net
 250binkonut.com
@@ -14419,6 +14421,7 @@
 500binkonut.com
 500binkonut.org
 500binkonut.xyz
+500binkonutabasvur.org
 500binkonutaciklandisonguntokibasvurulari.icu
 500binkonutbasvur.site
 500binkonutbasvuru.blogdns.net
@@ -14428,6 +14431,7 @@
 500binkonutbasvuruekrani.com
 500binkonutbasvurularionline.webredirect.org
 500binkonutbasvurusu.cfd
+500binkonutduyurusu.com
 500binkonutonlinebasvuru.webhop.org
 500binkonutprojembasvuruekrani.com
 500binkonutprojesi.com
@@ -50551,6 +50555,7 @@ atofwxkzu.com
 atogov.hopto.org
 atokonutlar.com.tr
 atokonutlar.xyz
+atokonutu.com.tr
 atokonutu.xyz
 atom-community.ddns.net
 atom-tickets-data.com
@@ -58425,6 +58430,7 @@ basvuruaxess.xyz
 basvurubanceislemibugunkampanyasi.tech
 basvurubancekampanyasi.tech
 basvurubancetechglolabal.tech
+basvurubasladibasvur.urlsalt.xyz
 basvurubbwa.net
 basvurubddkiade.com
 basvurubduyurutr.com
@@ -59297,6 +59303,7 @@ basvurunonaylandihemns.site
 basvurunsizdekacirmyn.com.tr
 basvurunsoesaolayom.site
 basvuruntiklatgelsin.com
+basvuruntokiimevime41.xyz
 basvurunu-tamamla-firsati-kacirma.com
 basvurunu-tamamlafibabnkda.com
 basvurunuanindatamamlaodulsource.net
@@ -59323,6 +59330,7 @@ basvurunuyaphediyeler.cloud
 basvurunuyaphediyenikap.com
 basvurunuyaphemen2024.cloud
 basvurunuyapodulukazanmafirsatiseasypointwild.net
+basvurunuyaponline.site
 basvurunuyapsendekazan.cloud
 basvurunuz-acikdenizv2denizbankyilbasi.com
 basvurunuz-acikdenizv2denizhediye.com
@@ -59574,6 +59582,7 @@ basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
 basvurutokiiimilkevimm81.xyz
 basvurutokiilkeviniz.xyz
+basvurutokikmpnya.pro
 basvurutokileri.online
 basvurutokimerkezim.com
 basvurutokimilkevim81.xyz
@@ -59770,6 +59779,7 @@ basvvuru-ieademerkezi-edevlet.com
 basvvuruacikdenizv2denizbank.co.vu
 basvvuruvacikdenizv2denizbank.co.vu
 basvvuuurrrissssskatilim.cloud
+basvvvurrtookkampanya.art
 basvvvurrtookkampanya.info
 basvvvurrtookkampanya.pro
 basyislemler.hopto.org
@@ -61384,6 +61394,7 @@ bdbxmy.top
 bdc9lv.duckdns.org
 bdcmcflk.net
 bdcmmk.top
+bdcy7.sbs
 bdd-k.tk
 bdd-kiadenedevletle.com
 bdd1b2i68gj.com
@@ -84704,6 +84715,7 @@ bursiyerimvakfi.com
 bursiyerkaydi.site
 bursiyerkayitformu.site
 bursiyerler.online
+bursiyerler.org
 bursiyervakfi.online
 bursiyervakfi.org
 burskapisi.com
@@ -103425,6 +103437,7 @@ cz.webxyz.net
 cz05231.tw1.ru
 cz0vslt.duckdns.org
 cz3f05xob.duckdns.org
+cz6dgcl.storage.googleapis.com
 cz9ydl.duckdns.org
 czabrocodmeen.net
 czbaoyu.com
@@ -356810,6 +356823,7 @@ toki.2025jtkibsvrsnikot.sbs
 toki.2025onlineislemler.sbs
 toki.2025sghbsvbsvr.sbs
 toki.2025xjsbasvurunt-oki.xyz
+toki.2026bajsknvtnkito.sbs
 toki.a-basvr25.sbs
 toki.autos
 toki.basvuru-2025.sbs
@@ -410125,6 +410139,7 @@ yenibosvurusorgulamazirat.com
 yenibutik.fun
 yenibvruu.click
 yenibvruu20.click
+yenibvruu30.click
 yenicagir.online
 yenicanersler.com
 yeniceas.b-cdn.net
