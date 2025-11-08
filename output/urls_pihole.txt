@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-08 12:15:05 UTC
-# Toplam: 420523 Domain
+# Son Güncelleme: 2025-11-08 14:01:40 UTC
+# Toplam: 420539 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30673,6 +30673,7 @@ adlisorgu.net
 adlisorgulama.org
 adlitakip.com
 adlitakip.org
+adlitc.org
 adliuzlasma.com
 adliye.icu
 adliye.online
@@ -37110,6 +37111,7 @@ akgric.com
 akgrsislmlri0faizkredibasvuru.online
 akgrsislmlrifaizsizkredibasvuru1.online
 akgrsler.store
+akgrslrmbasvuru.vercel.app
 akgullerinsaat.com.tr
 akguncelbasvuru.cloud
 akgunleri-hizlkatilim.click
@@ -38619,6 +38621,7 @@ aktuelbasladi.com
 aktuelbenaktuela101.com
 aktuelbim.website
 aktuelbncaduyurutr.com
+aktuelcampnysfirs.sbs
 aktuelcep.cfd
 aktuelcepte.com.tr
 aktueldea1o1.com
@@ -57063,6 +57066,7 @@ basvrakwebhmnklamant.cloud
 basvrhesaplikredin.com
 basvriadefirsatkac21hep654.com.tr
 basvrilkevim2025.online
+basvrislm.sbs
 basvrkenralari12sgarnt.duckdns.org
 basvrkredinal.com
 basvrkreditrgroup.com
@@ -57588,6 +57592,7 @@ basvurgirisekraniaktarimonline.sbs
 basvurgirisistebilgilerlesizlerle.xyz
 basvurgirislerbilgi.xyz
 basvurgirislerleberaberler.xyz
+basvurgirisportalasamasi.click
 basvurglobalsrvsak77.com
 basvurgnclevl.blogspot.com
 basvurgov.ekonomiplatformu.site
@@ -58408,6 +58413,7 @@ basvuruaralik29.duckdns.org
 basvuruarapformudeniz.com
 basvuruasamagiriswebonline.click
 basvuruasamagiriswebonline0.click
+basvuruasamagiriswebonline00.click
 basvuruasamagiriswebonline2.click
 basvuruasamapageweb.site
 basvuruasamasiweb.site
@@ -59756,6 +59762,7 @@ basvvuru-ieademerkezi-edevlet.com
 basvvuruacikdenizv2denizbank.co.vu
 basvvuruvacikdenizv2denizbank.co.vu
 basvvuuurrrissssskatilim.cloud
+basvvvurrtookkampanya.info
 basyislemler.hopto.org
 basyurtinternetcafe.ml
 baszxwoo.blogspot.com
@@ -87564,6 +87571,7 @@ camkutezyinat.com
 camlibelegitimvakfi.com
 camlikkamping.com
 cammuhitnore.freemyip.com
+camneanakaneaak.cfd
 camnremok.com
 camoglutotoyikamas.tk
 camoldthe21backwhit.online
@@ -104615,6 +104623,7 @@ darlingpreceding.top
 darlingtondc.hopto.org
 darlingtwo.ddns.net
 darlox.zapto.org
+darmadmanimofofof.click
 darnelis.com
 darnovexium.shop
 daronop.info
@@ -183995,6 +184004,7 @@ hemengelincesoyleyelim1o1.com
 hemengelirsenizi.com.tr
 hemengeliyorr.net
 hemengeliyorsadeceonlineozel.xyz
+hemengeliyoruz.sbs
 hemengelkrdibrda.com
 hemengelsenize1o1.com
 hemengelsinkpyiasndsf.com
@@ -202262,6 +202272,7 @@ ilkevim-toki-basvuruhsojay.vercel.app
 ilkevim-toki-bglrfyga.vercel.app
 ilkevim-toki-bwmpuh.vercel.app
 ilkevim-toki.xyz
+ilkevim.app
 ilkevim.click
 ilkevim.com.pl
 ilkevim.konutbasvurulari.cloud
@@ -202344,6 +202355,7 @@ ilkevtoki.digital
 ilkevtokibasvuru.com
 ilkevtokibasvuru.org
 ilkevtokiresmibasvurukanali.com
+ilkevtoklibasvru.cfd
 ilkevtoklibasvru.help
 ilkfirsat-mobilingiris.xyz
 ilkgelen-firsatlaribilirsiniz.xyz
@@ -213366,6 +213378,7 @@ istnblmkart.com
 istnblmkartm.net
 istnblmkarttm.net
 istnblmkkyldkrtt.net
+istnblmzdasmnsa.giize.com
 istnblnextss.net
 istnblnnkartnm.net
 istnblpersembe.net
@@ -235722,6 +235735,7 @@ ksltadress.xyz
 ksltlink.xyz
 kslturl.online
 kslzdakklp.net
+ksmdakrcazmnigldi.cfd
 ksmdoe.ddns.net
 ksmhizmet.app
 ksmhzlihizmet.app
@@ -327689,6 +327703,7 @@ sezonkapmatyasi.shop
 sezonkkksonufirsatlarim.xyz
 sezonlikindirism.store
 sezonlsonukamppanyalarim.com
+sezonluk-firsat.online
 sezonluk-gidisler-sadece-bize-ozel.com
 sezonluk-indirim-kacirma.online
 sezonlukhaberlesim.site
@@ -356801,6 +356816,7 @@ toki.ilkevim-basvuru.com
 toki.ilkevimproje.com
 toki.islemy.com
 toki.islemyo.com
+toki.kakkktaswtqa.it.com
 toki.kasimayibvvrnsktok.sbs
 toki.naziltaks.com
 toki.onl

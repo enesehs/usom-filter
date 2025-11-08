@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-08 12:15:05 UTC
-! Total: 334823 rules
+! Last modified: 2025-11-08 14:01:40 UTC
+! Total: 334836 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19342,6 +19342,7 @@
 *://*.adlisorgulama.org/*
 *://*.adlitakip.com/*
 *://*.adlitakip.org/*
+*://*.adlitc.org/*
 *://*.adliuzlasma.com/*
 *://*.adliye.icu/*
 *://*.adliye.online/*
@@ -25747,6 +25748,7 @@
 *://*.aktuelbenaktuela101.com/*
 *://*.aktuelbim.website/*
 *://*.aktuelbncaduyurutr.com/*
+*://*.aktuelcampnysfirs.sbs/*
 *://*.aktuelcep.cfd/*
 *://*.aktuelcepte.com.tr/*
 *://*.aktueldea1o1.com/*
@@ -40498,6 +40500,7 @@
 *://*.basvrhesaplikredin.com/*
 *://*.basvriadefirsatkac21hep654.com.tr/*
 *://*.basvrilkevim2025.online/*
+*://*.basvrislm.sbs/*
 *://*.basvrkredinal.com/*
 *://*.basvrkreditrgroup.com/*
 *://*.basvrl-istlem.icu/*
@@ -40961,6 +40964,7 @@
 *://*.basvurgirisistebilgilerlesizlerle.xyz/*
 *://*.basvurgirislerbilgi.xyz/*
 *://*.basvurgirislerleberaberler.xyz/*
+*://*.basvurgirisportalasamasi.click/*
 *://*.basvurglobalsrvsak77.com/*
 *://*.basvurgovonline.org/*
 *://*.basvurgrsonaykredideniz.click/*
@@ -41671,6 +41675,7 @@
 *://*.basvuruarapformudeniz.com/*
 *://*.basvuruasamagiriswebonline.click/*
 *://*.basvuruasamagiriswebonline0.click/*
+*://*.basvuruasamagiriswebonline00.click/*
 *://*.basvuruasamagiriswebonline2.click/*
 *://*.basvuruasamapageweb.site/*
 *://*.basvuruasamasiweb.site/*
@@ -42887,6 +42892,7 @@
 *://*.basvvurtooki.pro/*
 *://*.basvvuru-ieademerkezi-edevlet.com/*
 *://*.basvvuuurrrissssskatilim.cloud/*
+*://*.basvvvurrtookkampanya.info/*
 *://*.basyurtinternetcafe.ml/*
 *://*.bat99-11611.co/*
 *://*.batakie.cf/*
@@ -67077,6 +67083,7 @@
 *://*.camkutezyinat.com/*
 *://*.camlibelegitimvakfi.com/*
 *://*.camlikkamping.com/*
+*://*.camneanakaneaak.cfd/*
 *://*.camnremok.com/*
 *://*.camoglutotoyikamas.tk/*
 *://*.camoldthe21backwhit.online/*
@@ -80105,6 +80112,7 @@
 *://*.darkvane.xyz/*
 *://*.darlingdeprive.top/*
 *://*.darlingpreceding.top/*
+*://*.darmadmanimofofof.click/*
 *://*.darnelis.com/*
 *://*.darnovexium.shop/*
 *://*.daronop.info/*
@@ -147375,6 +147383,7 @@
 *://*.hemengelirsenizi.com.tr/*
 *://*.hemengeliyorr.net/*
 *://*.hemengeliyorsadeceonlineozel.xyz/*
+*://*.hemengeliyoruz.sbs/*
 *://*.hemengelkrdibrda.com/*
 *://*.hemengelsenize1o1.com/*
 *://*.hemengelsinkpyiasndsf.com/*
@@ -162710,6 +162719,7 @@
 *://*.ilkevim-t-0-k-i-basvuru.sbs/*
 *://*.ilkevim-t-o-k-i-bsrv.com/*
 *://*.ilkevim-toki.xyz/*
+*://*.ilkevim.app/*
 *://*.ilkevim.click/*
 *://*.ilkevim.com.pl/*
 *://*.ilkevim.xyz/*
@@ -162777,6 +162787,7 @@
 *://*.ilkevtokibasvuru.com/*
 *://*.ilkevtokibasvuru.org/*
 *://*.ilkevtokiresmibasvurukanali.com/*
+*://*.ilkevtoklibasvru.cfd/*
 *://*.ilkevtoklibasvru.help/*
 *://*.ilkfirsat-mobilingiris.xyz/*
 *://*.ilkgelen-firsatlaribilirsiniz.xyz/*
@@ -190414,6 +190425,7 @@
 *://*.ksltlink.xyz/*
 *://*.kslturl.online/*
 *://*.kslzdakklp.net/*
+*://*.ksmdakrcazmnigldi.cfd/*
 *://*.ksmhizmet.app/*
 *://*.ksmhzlihizmet.app/*
 *://*.ksmorgulamak.com/*
@@ -260240,6 +260252,7 @@
 *://*.sezonkkksonufirsatlarim.xyz/*
 *://*.sezonlikindirism.store/*
 *://*.sezonlsonukamppanyalarim.com/*
+*://*.sezonluk-firsat.online/*
 *://*.sezonluk-gidisler-sadece-bize-ozel.com/*
 *://*.sezonluk-indirim-kacirma.online/*
 *://*.sezonlukhaberlesim.site/*
