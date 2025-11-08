@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-08 20:08:41 UTC
-! Total: 334888 rules
+! Last modified: 2025-11-08 21:02:52 UTC
+! Total: 334921 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6818,6 +6818,7 @@
 *://*.250binkonutbasvurusu.com/*
 *://*.250binkonutprojebasvurusu.com/*
 *://*.250binkonutprojesibasvuru.com/*
+*://*.250binltokl.site/*
 *://*.250bintokibasvuru.com/*
 *://*.250bintokibasvurusu.com/*
 *://*.250bintokikonutprojesibasvuruekrani.com/*
@@ -7595,6 +7596,7 @@
 *://*.303a576f4cef5fdd2d609006dc6ec47b.com/*
 *://*.30687560.cloud/*
 *://*.30724.cloud/*
+*://*.307455883.cloud/*
 *://*.30991265.cloud/*
 *://*.30agustos-bayramii.com/*
 *://*.30agustos-sabah.art/*
@@ -27192,6 +27194,7 @@
 *://*.aldinaldinredmigirdekleriburada.sbs/*
 *://*.aldinaldinsalitestere.shop/*
 *://*.aldinaldinsantimelerin.com/*
+*://*.aldinaldinsepetfirsx.sbs/*
 *://*.aldinaldinsimdi.icu/*
 *://*.aldinaldinsimdi.online/*
 *://*.aldinaldinsimdiburada.shop/*
@@ -42347,6 +42350,8 @@
 *://*.basvurumkredi.com/*
 *://*.basvurumm.click/*
 *://*.basvurummis.org/*
+*://*.basvurummmilkkkevimmiz.online/*
+*://*.basvurummmmtokiiiiiilkevimmm71.xyz/*
 *://*.basvurummtokiimevim1453.xyz/*
 *://*.basvurummtokiimevimmilk.xyz/*
 *://*.basvurummtokiimmilkimevim.xyz/*
@@ -42372,6 +42377,7 @@
 *://*.basvurumtoki2025.com/*
 *://*.basvurumtokiiimilkimevim61.xyz/*
 *://*.basvurumtokiilkevim.online/*
+*://*.basvurumtokiimmmilkimevimm.cfd/*
 *://*.basvurumtrbnncrs.online/*
 *://*.basvurumturkiyeiade.org/*
 *://*.basvurumunuzlarbbva.com/*
@@ -42496,6 +42502,7 @@
 *://*.basvurunuyap.sbs/*
 *://*.basvurunuyaphediyeler.cloud/*
 *://*.basvurunuyaphediyenikap.com/*
+*://*.basvurunuyaphemen.site/*
 *://*.basvurunuyaphemen2024.cloud/*
 *://*.basvurunuyapodulukazanmafirsatiseasypointwild.net/*
 *://*.basvurunuyaponline.site/*
@@ -60100,6 +60107,7 @@
 *://*.bnturkiyegirisyap.com/*
 *://*.bnudestekbasvurutr.com/*
 *://*.bnusa-basvur.sbs/*
+*://*.bnusa-basvurws.com/*
 *://*.bnvdfgd.click/*
 *://*.bnveve.click/*
 *://*.bnvlett-verty.com/*
@@ -60241,6 +60249,7 @@
 *://*.bofferinga-customerhgspage.com/*
 *://*.bofflgeorgetown.com/*
 *://*.bofylae.com/*
+*://*.bogaccicekcilik.com.tr/*
 *://*.bogdanandreescu.fit/*
 *://*.bogerando.ru/*
 *://*.bogjerlow.com/*
@@ -77995,6 +78004,7 @@
 *://*.cstmsklmnaopstrlmasistans.net/*
 *://*.cstmsklmnaopstrlmasistans.xyz/*
 *://*.csturkey.org/*
+*://*.csuq10.sbs/*
 *://*.csxtskklmn.com/*
 *://*.csyeywqwyikqaiim.xyz/*
 *://*.csyzf.com/*
@@ -81403,6 +81413,7 @@
 *://*.deltamontero.company/*
 *://*.deltaproject.us/*
 *://*.deltastealer.xyz/*
+*://*.deltavip.online/*
 *://*.deltavip.xyz/*
 *://*.deludegroove.top/*
 *://*.deluderusty.top/*
@@ -112000,6 +112011,7 @@
 *://*.eskixbbxcelnerde.net/*
 *://*.eskiyadunyayahukumdarolur.sbs/*
 *://*.eskiyasasilkern.com/*
+*://*.eskiye-donuk-sorgu-yap.sbs/*
 *://*.eskmelromvrle.net/*
 *://*.eskontbaklye.net/*
 *://*.eskonxlzb.com/*
@@ -114638,6 +114650,7 @@
 *://*.evsahibiturkiye.media/*
 *://*.evsahibiturkiye.net/*
 *://*.evsahibiturkiye.news/*
+*://*.evsahibiturkiye.world/*
 *://*.evsahibiturkiyem.com/*
 *://*.evsahibturkiye.com/*
 *://*.evsaklism.com/*
@@ -123822,6 +123835,7 @@
 *://*.frsat.com.tr/*
 *://*.frsat0vergikmpanyasonteslim.com/*
 *://*.frsataddass1.xyz/*
+*://*.frsataks-bgn.cfd/*
 *://*.frsatayaginakadar-giriswebtr.xyz/*
 *://*.frsatbasvrumtodayhediyem.net/*
 *://*.frsatbrdaa.capetown/*
@@ -124990,6 +125004,7 @@
 *://*.gallonthrifty.top/*
 *://*.galtcoindiscover.top/*
 *://*.galtdentalcambridge.com/*
+*://*.galthira.com/*
 *://*.galtinsubesi.com/*
 *://*.galtofraknispovratisyorkamni.net/*
 *://*.galwayprimary.co.za/*
@@ -138404,6 +138419,7 @@
 *://*.gvende-sahibinden-param.xyz/*
 *://*.gvenimistanbul.net/*
 *://*.gvenli-odmehizmeti.com/*
+*://*.gvenli-stiye-yonlndirici.sbs/*
 *://*.gvenmasdweksc.net/*
 *://*.gvensizronaldo.com/*
 *://*.gventji.com/*
@@ -146191,6 +146207,7 @@
 *://*.hedefgalaksi.space/*
 *://*.hedefilo.com/*
 *://*.hedefimiz2024.dev/*
+*://*.hedefimiz2026.com/*
 *://*.hedefintek.com/*
 *://*.hedefkafasi.space/*
 *://*.hedefmenkul.net/*
@@ -162777,6 +162794,7 @@
 *://*.ilkevimdanismanlik.com/*
 *://*.ilkevimdemtokimler.org/*
 *://*.ilkevimden.com/*
+*://*.ilkevimilkbasvurum.com/*
 *://*.ilkevimiz.com/*
 *://*.ilkevimkonut.xyz/*
 *://*.ilkevimkonutbasvuru.com/*
@@ -188744,6 +188762,7 @@
 *://*.konut-kredim-finansbank.com/*
 *://*.konut-t-o-k-i-500.com/*
 *://*.konut-t-o-k-i.com/*
+*://*.konut-t0k1n-bas.click/*
 *://*.konut-t0kin-bas.online/*
 *://*.konut.app/*
 *://*.konut20012024.com/*
@@ -189383,6 +189402,7 @@
 *://*.krcaysn.com/*
 *://*.krcazmnarlkk.com/*
 *://*.krcazmniarlkkgldi.com/*
+*://*.krcazmniksmda.cfd/*
 *://*.krccepte.biz.tr/*
 *://*.krccepte.com.tr/*
 *://*.krccepte.info.tr/*
@@ -198130,6 +198150,7 @@
 *://*.maks-korzh.com/*
 *://*.maks-korzh.ru/*
 *://*.maksarwq.club/*
+*://*.maksikampanya.com/*
 *://*.maksikampanya.digital/*
 *://*.maksimconcert.com/*
 *://*.maksimumhediyeler2019.tk/*
@@ -199200,6 +199221,7 @@
 *://*.markalarinarasindakiincefiyatfarki.cfd/*
 *://*.markalarinsonindirimleri.com/*
 *://*.markalarlaguzel.sbs/*
+*://*.markalarlayasiyoruz.sbs/*
 *://*.markalarweb.club/*
 *://*.markalaryarisiyor.com/*
 *://*.markalastirdiklarimizdanmisiniz.com/*
@@ -202054,6 +202076,7 @@
 *://*.merkezaida.com/*
 *://*.merkezaidat.com/*
 *://*.merkezaktif.net/*
+*://*.merkezbanakasiyatirim.rest/*
 *://*.merkezbank-a.com/*
 *://*.merkezbank-bddk.cf/*
 *://*.merkezbanka-karthizmeti.tk/*
@@ -238257,6 +238280,7 @@
 *://*.proje-40binsproms-buradda.sbs/*
 *://*.proje-turkweb.com/*
 *://*.projebasvuru.com/*
+*://*.projeci.org/*
 *://*.project-obs.com/*
 *://*.project-obs.net/*
 *://*.project-obs.org/*
@@ -238293,6 +238317,7 @@
 *://*.projeler-toki-buradan.sbs/*
 *://*.projemhemen.online/*
 *://*.projemizvarbayramdan.com/*
+*://*.projeniz.org/*
 *://*.projeresmi.sbs/*
 *://*.projesecimi.com/*
 *://*.projesosylakonutbasvuru.net/*
@@ -256797,6 +256822,7 @@
 *://*.sechsy.com/*
 *://*.sechure-sahhibimnden-com-param-guvendeodeme-yap.tk/*
 *://*.sechureparamguvendeodemeyap-sahibinmden-com.tk/*
+*://*.secili-urunler.online/*
 *://*.secim-destekleri.com/*
 *://*.secimde-muarremince.net/*
 *://*.secimdenonce.net/*
@@ -258561,6 +258587,7 @@
 *://*.senindeyuvan.com/*
 *://*.senindeyuvan.net/*
 *://*.seninduyurun.website/*
+*://*.seninevin.click/*
 *://*.seninfirsatin.com.tr/*
 *://*.seninfirsatlarindenizde.tk/*
 *://*.seningibisigelmedi.top/*
@@ -269655,6 +269682,7 @@
 *://*.sosyalkonutlarimtoki.org/*
 *://*.sosyalkonutlarin.click/*
 *://*.sosyalkonutproje.net/*
+*://*.sosyalkonutproje.xyz/*
 *://*.sosyalkonutprojesi.com/*
 *://*.sosyalkonutprojesi.net/*
 *://*.sosyalkonutprojesindeyerinizialin.shop/*
@@ -284784,9 +284812,11 @@
 *://*.tokilerleshuzkyy.com/*
 *://*.tokilibasvurularim.net/*
 *://*.tokilkev-imbasvuru.com/*
+*://*.tokilkevim500proje.org/*
 *://*.tokilkevimbasvur.com/*
 *://*.tokilkevimbasvuru.com/*
 *://*.tokimkonutbasvurusu.cloud/*
+*://*.tokimmnntokimm-knt-proje.com/*
 *://*.tokimnetevim.store/*
 *://*.tokimntokimm-knt-projesim.com/*
 *://*.tokimobilbasvuru.shop/*
@@ -285190,6 +285220,7 @@
 *://*.topluislemi.app/*
 *://*.topluislemlerin.app/*
 *://*.toplukayitgirisleri.com/*
+*://*.toplukontlar500bin.com/*
 *://*.toplukonut-projesi.sbs/*
 *://*.toplukonut400.com/*
 *://*.toplukonut500bin.com/*
@@ -304324,6 +304355,7 @@
 *://*.versionsenginen.ru/*
 *://*.versionwind.xyz/*
 *://*.versiparisinigelsin.click/*
+*://*.versipsanaker.sbs/*
 *://*.versist.site/*
 *://*.verslerjjjode.net/*
 *://*.verslersmersodm.net/*
@@ -306296,6 +306328,7 @@
 *://*.voulistan.com/*
 *://*.vovguvenl.com/*
 *://*.vovici.net/*
+*://*.vovxi.cn/*
 *://*.vowsk.com/*
 *://*.vowyrym.com/*
 *://*.voxder.at/*
