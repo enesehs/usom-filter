@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-08 18:11:23 UTC
-# Toplam: 420584 Domain
+# Son Güncelleme: 2025-11-08 19:01:48 UTC
+# Toplam: 420588 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -179169,6 +179169,7 @@ hamamamammamama9924.com
 hamamamammamamama2345.com
 hamamammaamama0238.com
 hamamammaammamah9021.com
+hamamammamamaam6361.com
 hamamammamamama8862.com
 hamamammamamamaama2451.com
 hamamammamamamam172.site
@@ -355589,6 +355590,7 @@ tkisybsvrlrhmn.net
 tkkammk.shop
 tkkdendemdebasbabsar.giize.com
 tkkibasvuru.online
+tkkibsvlrmzbrda.sbs
 tkkk2bimcell.com
 tkkkiibasvrr.net
 tkklsddgghfg.com
@@ -357281,6 +357283,7 @@ tokiway.website
 tokixleregelinbizimle.blogspot.com
 tokiyebasvur.xyz
 tokiyebasvuruyap.com
+tokiylesenleson.com
 tokj.kcrmsalhszmt.shop
 tokjbassvuru.click
 tokki-basvuru.online
@@ -357752,6 +357755,7 @@ toplukonutbasvurusu.vercel.app
 toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
+toplukonutbasvuruzamani2025jj.duckdns.org
 toplukonutidaresi.app
 toplukonutidaresi.com
 toplukonutidaresi.net
