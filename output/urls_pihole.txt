@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-08 19:01:48 UTC
-# Toplam: 420588 Domain
+# Son Güncelleme: 2025-11-08 20:08:41 UTC
+# Toplam: 420597 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12504,6 +12504,7 @@
 3le9a5im.duckdns.org
 3leyem.duckdns.org
 3lfkf7is.duckdns.org
+3lgsflltzr.storage.googleapis.com
 3lhzuh3.duckdns.org
 3libdp.duckdns.org
 3lijgxa0mjal1fohedu.ddns.net
@@ -59582,6 +59583,7 @@ basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
 basvurutokiiimilkevimm81.xyz
 basvurutokiilkeviniz.xyz
+basvurutokikmpnya.info
 basvurutokikmpnya.pro
 basvurutokileri.online
 basvurutokimerkezim.com
@@ -100885,6 +100887,7 @@ crffrsdngelcklr.com
 crfhella.cfd
 crfkmnyav21.online
 crfnzaygnzda.com
+crfoldukisayi.cfd
 crfonlineozeller.online
 crfonlineozelurunler.online
 crfozelurunler.cfd
@@ -224662,6 +224665,7 @@ kampnyambasvrm.click
 kampnyaredmiylea1o1dekzansalsna.duckdns.org
 kampnyasepet.store
 kampnyasepete.click
+kampnyatkibsvru.info
 kampnyaurunhizmetler.com
 kampnyaurunhzmet.com
 kampnylialsversisler.online
@@ -227262,6 +227266,7 @@ kasmda-kraca-kampnya.site
 kasmda101frsatlari.com
 kasmdafirsatlar101de.com
 kasmdakrcndzndglnlr.com
+kasmdkrclrdnal.cfd
 kasmindrmleri2023.online
 kasmrsatizmirr.net
 kasol482sd34.duckdns.org
@@ -276317,6 +276322,7 @@ online-islemler-yapi-internet.tk
 online-islemler.cf
 online-islemler.com
 online-islemler.de
+online-islemler.digital
 online-islemler.gtxcdn-ns.pw
 online-islemler.net
 online-islemler.org
@@ -280633,6 +280639,7 @@ ormanlarimizyanmasin.org
 ormanlarimizyanmasinn.com
 ormanlarimizyanmasins.com
 ormanlink.org
+ormanseaak.cfd
 ormanskj.za.com
 ormolesit.com
 ormudoldurunkampanyakatilinbz.com
@@ -356962,6 +356969,7 @@ tokibasvurularibasladi.com
 tokibasvurularii.online
 tokibasvurularii.shop
 tokibasvurularin.shop
+tokibasvurulariniz.com
 tokibasvurulariniz.site
 tokibasvurularinizburada.com
 tokibasvurularinizomar.b-cdn.net
@@ -369659,6 +369667,7 @@ twjfjdvbobksxql.ru
 twkghu.duckdns.org
 twkhfqnlxx.duckdns.org
 twkimlerbakti.tk
+twkn8.sbs
 twlrv0w.cn
 twltch.lol
 twltch.uno

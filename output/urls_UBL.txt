@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-08 19:01:48 UTC
-! Total: 334880 rules
+! Last modified: 2025-11-08 20:08:41 UTC
+! Total: 334888 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42728,6 +42728,7 @@
 *://*.basvurutokiiilkevimproje81.xyz/*
 *://*.basvurutokiiimilkevimm81.xyz/*
 *://*.basvurutokiilkeviniz.xyz/*
+*://*.basvurutokikmpnya.info/*
 *://*.basvurutokikmpnya.pro/*
 *://*.basvurutokileri.online/*
 *://*.basvurutokimerkezim.com/*
@@ -77426,6 +77427,7 @@
 *://*.crfhella.cfd/*
 *://*.crfkmnyav21.online/*
 *://*.crfnzaygnzda.com/*
+*://*.crfoldukisayi.cfd/*
 *://*.crfonlineozeller.online/*
 *://*.crfonlineozelurunler.online/*
 *://*.crfozelurunler.cfd/*
@@ -181550,6 +181552,7 @@
 *://*.kampnyambasvrm.click/*
 *://*.kampnyasepet.store/*
 *://*.kampnyasepete.click/*
+*://*.kampnyatkibsvru.info/*
 *://*.kampnyaurunhizmetler.com/*
 *://*.kampnyaurunhzmet.com/*
 *://*.kampnylialsversisler.online/*
@@ -183886,6 +183889,7 @@
 *://*.kasmda101frsatlari.com/*
 *://*.kasmdafirsatlar101de.com/*
 *://*.kasmdakrcndzndglnlr.com/*
+*://*.kasmdkrclrdnal.cfd/*
 *://*.kasmindrmleri2023.online/*
 *://*.kasmrsatizmirr.net/*
 *://*.kasolasomasolol.net/*
@@ -221322,6 +221326,7 @@
 *://*.online-islemler.cf/*
 *://*.online-islemler.com/*
 *://*.online-islemler.de/*
+*://*.online-islemler.digital/*
 *://*.online-islemler.net/*
 *://*.online-islemler.org/*
 *://*.online-islemler.sbs/*
@@ -225029,6 +225034,7 @@
 *://*.ormanlarimizyanmasinn.com/*
 *://*.ormanlarimizyanmasins.com/*
 *://*.ormanlink.org/*
+*://*.ormanseaak.cfd/*
 *://*.ormolesit.com/*
 *://*.ormphoro.ru/*
 *://*.ormudoldurunkampanyakatilinbz.com/*
@@ -284615,6 +284621,7 @@
 *://*.tokibasvurularii.online/*
 *://*.tokibasvurularii.shop/*
 *://*.tokibasvurularin.shop/*
+*://*.tokibasvurulariniz.com/*
 *://*.tokibasvurulariniz.site/*
 *://*.tokibasvurularinizburada.com/*
 *://*.tokibasvurularinizzburadadir.com/*
@@ -295625,6 +295632,7 @@
 *://*.twizzleflap.top/*
 *://*.twjfjdvbobksxql.ru/*
 *://*.twkimlerbakti.tk/*
+*://*.twkn8.sbs/*
 *://*.twlrv0w.cn/*
 *://*.twltch.lol/*
 *://*.twltch.uno/*
