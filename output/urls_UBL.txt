@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-07 23:08:19 UTC
-! Total: 334793 rules
+! Last modified: 2025-11-08 00:39:46 UTC
+! Total: 334797 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42350,6 +42350,7 @@
 *://*.basvurumonline.com/*
 *://*.basvurums.com/*
 *://*.basvurumstarkampanya.net/*
+*://*.basvurumtokiilkevim.online/*
 *://*.basvurumtrbnncrs.online/*
 *://*.basvurumturkiyeiade.org/*
 *://*.basvurumunuzlarbbva.com/*
@@ -155962,6 +155963,7 @@
 *://*.horme.info/*
 *://*.hormenesgtesls.com/*
 *://*.hormennnnstersertmsirtsirta.com/*
+*://*.hormennssssterkdslere.com/*
 *://*.hormensdtrerr.com/*
 *://*.hormensterkdslere.com/*
 *://*.hormenstersertmsirtsirta.com/*
@@ -162717,6 +162719,7 @@
 *://*.ilkevimbasvurular.com/*
 *://*.ilkevimbasvurulari.org/*
 *://*.ilkevimbasvurularim500.org/*
+*://*.ilkevimbasvurusutoki.xyz/*
 *://*.ilkevimbasvurusuyap.site/*
 *://*.ilkevimbu.com/*
 *://*.ilkevimburada.com/*
@@ -284488,6 +284491,7 @@
 *://*.tokibasvrss.cfd/*
 *://*.tokibasvru.org/*
 *://*.tokibasvru.pics/*
+*://*.tokibasvru500.org/*
 *://*.tokibasvrulari.org/*
 *://*.tokibasvrulariii.com/*
 *://*.tokibasvrularim.org/*
