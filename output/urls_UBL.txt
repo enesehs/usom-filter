@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-08 15:07:53 UTC
-! Total: 334836 rules
+! Last modified: 2025-11-08 16:09:37 UTC
+! Total: 334859 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6830,6 +6830,7 @@
 *://*.250bintoplukonut.xyz/*
 *://*.250bintoplukonutbasvur.com/*
 *://*.250bintoplukonutbasvurusu.com/*
+*://*.250bintoplukonutlar.com/*
 *://*.250bintoplukonutlarproje.com/*
 *://*.250bintoplukonutproje.com/*
 *://*.250bintoplukonutprojesi.com/*
@@ -22795,6 +22796,7 @@
 *://*.aikurdunews.com/*
 *://*.ailarxndevuhizmeti.net/*
 *://*.ailasdoaskdaskdadk.sbs/*
+*://*.aildnglnkrcda.cfd/*
 *://*.aile--destek-pandomi-gov.cf/*
 *://*.aile-basvurulari.tk/*
 *://*.aile-destek-2020-pandomi.tk/*
@@ -40940,6 +40942,7 @@
 *://*.basvurdunkacirma.sbs/*
 *://*.basvuredevlet.com/*
 *://*.basvuredevletiade.com/*
+*://*.basvurekran-edev.com/*
 *://*.basvurerc.com.tr/*
 *://*.basvurerc.online/*
 *://*.basvurercm.com.tr/*
@@ -40965,6 +40968,7 @@
 *://*.basvurgirislerbilgi.xyz/*
 *://*.basvurgirislerleberaberler.xyz/*
 *://*.basvurgirisportalasamasi.click/*
+*://*.basvurgirisportalasamasi0.click/*
 *://*.basvurglobalsrvsak77.com/*
 *://*.basvurgovonline.org/*
 *://*.basvurgrsonaykredideniz.click/*
@@ -42140,6 +42144,7 @@
 *://*.basvurularikampanyafirsatibance.tech/*
 *://*.basvurularim-gov-tr.com/*
 *://*.basvurularim-hizli.com/*
+*://*.basvurularim-sosyalkonut.xyz/*
 *://*.basvurularim.com/*
 *://*.basvurularim.cyou/*
 *://*.basvurularim.sbs/*
@@ -42338,6 +42343,7 @@
 *://*.basvurummis.org/*
 *://*.basvurummtokiimevim1453.xyz/*
 *://*.basvurummtokiimevimmilk.xyz/*
+*://*.basvurummtokiimmilkimevim.xyz/*
 *://*.basvurumnerede.xyz/*
 *://*.basvurumneredekontrol.xyz/*
 *://*.basvurumnk.com/*
@@ -42363,6 +42369,7 @@
 *://*.basvurumtrbnncrs.online/*
 *://*.basvurumturkiyeiade.org/*
 *://*.basvurumunuzlarbbva.com/*
+*://*.basvurumutokiimevimilk.site/*
 *://*.basvurumuyap.cfd/*
 *://*.basvurumuyap.sbs/*
 *://*.basvurumuyapiyorumsorguluyorum.biz/*
@@ -42893,6 +42900,7 @@
 *://*.basvvuru-ieademerkezi-edevlet.com/*
 *://*.basvvuuurrrissssskatilim.cloud/*
 *://*.basvvvurrtookkampanya.info/*
+*://*.basvvvurrtookkampanya.pro/*
 *://*.basyurtinternetcafe.ml/*
 *://*.bat99-11611.co/*
 *://*.batakie.cf/*
@@ -56582,6 +56590,7 @@
 *://*.blackshelter.org/*
 *://*.blackstar.com.pk/*
 *://*.blackstrokampanya.shop/*
+*://*.blacksystem.online/*
 *://*.blackthorn.co.za/*
 *://*.blacktrail.xyz/*
 *://*.blackvue.com.pk/*
@@ -117527,6 +117536,7 @@
 *://*.fearleskes.com.tr/*
 *://*.fearleskkaasdfg.com/*
 *://*.fearlesndandess.com/*
+*://*.fearlesomansss.com/*
 *://*.fearlessdersecan.com/*
 *://*.fearlesskkbaysts.com/*
 *://*.fearlest.services/*
@@ -147704,6 +147714,7 @@
 *://*.hemensiparisiniver.cfd/*
 *://*.hemensiparisiniver.click/*
 *://*.hemensiparisiniver.vip/*
+*://*.hemensiparisiniziver.click/*
 *://*.hemensiparisirriver.click/*
 *://*.hemensiparisleal.com/*
 *://*.hemensiparisnolustur.click/*
@@ -156450,6 +156461,7 @@
 *://*.hrayklsuyms-uyuhsmasnas-smllckmzk.store/*
 *://*.hrbidpjkyliedqg.su/*
 *://*.hrca-harca-bitmz.com/*
+*://*.hrca-hrca-btmez-a-101-flrsatlari-alsvris.cfd/*
 *://*.hrca-hrca-btmez-ayzbir-flrsatlari.cfd/*
 *://*.hrca-hrca-btmez-ayzbir.cfd/*
 *://*.hrca-hrca-btmez-yzbir-ekmflsatlari.sbs/*
@@ -162625,6 +162637,7 @@
 *://*.ilhamdolubirhayat.xyz/*
 *://*.ilhamkurumlari.org/*
 *://*.ilhammoo.com/*
+*://*.ilhamperileriindirimlerlegeldi.shop/*
 *://*.ilhamufku.online/*
 *://*.ilhamuzayi.space/*
 *://*.ilhamvakfi.com/*
@@ -162699,6 +162712,7 @@
 *://*.ilkehaberajanss.com/*
 *://*.ilkemburs.net/*
 *://*.ilkemedya.com/*
+*://*.ilkev-katilim.digital/*
 *://*.ilkevbasvurtokl.info/*
 *://*.ilkevbasvurtokl.online/*
 *://*.ilkevbasvuru.com/*
@@ -162789,6 +162803,7 @@
 *://*.ilkevtokiresmibasvurukanali.com/*
 *://*.ilkevtoklibasvru.cfd/*
 *://*.ilkevtoklibasvru.help/*
+*://*.ilkevtoklibasvru.top/*
 *://*.ilkfirsat-mobilingiris.xyz/*
 *://*.ilkgelen-firsatlaribilirsiniz.xyz/*
 *://*.ilkgelenalir.site/*
@@ -188580,6 +188595,7 @@
 *://*.konradhagelstein.info/*
 *://*.konrayo.space/*
 *://*.konseptvilla.com/*
+*://*.konseptvillacim.com/*
 *://*.konseptvillam.cf/*
 *://*.konserv-kassa.com/*
 *://*.konsolosluknvi.net/*
@@ -188701,6 +188717,7 @@
 *://*.konusanlarbilet.com/*
 *://*.konusbe.name.tr/*
 *://*.konusulurbutabiki.xyz/*
+*://*.konut-500-t-o-k-i.com/*
 *://*.konut-guncelbasvurunuz.net/*
 *://*.konut-guncelislemler.com/*
 *://*.konut-idarisie.com/*
@@ -258572,6 +258589,7 @@
 *://*.seninleolmak.com/*
 *://*.seninmarketin.xyz/*
 *://*.seninmisseninle.com/*
+*://*.seninolsun.click/*
 *://*.seninplatformun.xyz/*
 *://*.seninsansinodulsanacikiyor.net/*
 *://*.seninservislerin.xyz/*
@@ -313010,6 +313028,7 @@
 *://*.ww-sanalmarket-kapinda.xyz/*
 *://*.ww-teknosa.com.tr/*
 *://*.ww-teknosa.store/*
+*://*.ww-took.click/*
 *://*.ww-twitter.com/*
 *://*.ww-vakifbankkampanyalarim2022.com/*
 *://*.ww-wdenizbanki.com/*
@@ -316999,6 +317018,7 @@
 *://*.wwwtebbank-com.tk/*
 *://*.wwwtebcep.com/*
 *://*.wwwtipobet5401.com/*
+*://*.wwwtokibasvur.com/*
 *://*.wwwtonianatara.com/*
 *://*.wwwtr155polis.online/*
 *://*.wwwtr155polisi.online/*
@@ -327098,6 +327118,7 @@
 *://*.yenikonutb.click/*
 *://*.yenikonutbasvurulari.cloud/*
 *://*.yenikonutbasvurusu.cloud/*
+*://*.yenikonuututm.click/*
 *://*.yenikrallik.click/*
 *://*.yenikredi-basvurusu.com/*
 *://*.yenikredievlilikbasvur.tech/*
@@ -328119,6 +328140,7 @@
 *://*.yetkilifaturaodeme.com/*
 *://*.yetkilihizmet.xyz/*
 *://*.yetkilimakroode.net/*
+*://*.yetkilinokta.cfd/*
 *://*.yetkiliortakbayis.com/*
 *://*.yetkiliortakpanel.com/*
 *://*.yetkilipaketbayi.com/*
@@ -331584,6 +331606,7 @@
 *://*.zantocusus.xyz/*
 *://*.zantocusus99.xyz/*
 *://*.zantrao.pro/*
+*://*.zantrix.sbs/*
 *://*.zanvora.site/*
 *://*.zanzibarflyingdress.com/*
 *://*.zaowanglaishoushitamengcook.top/*

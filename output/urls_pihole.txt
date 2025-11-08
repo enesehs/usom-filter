@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-08 15:07:53 UTC
-# Toplam: 420540 Domain
+# Son Güncelleme: 2025-11-08 16:09:37 UTC
+# Toplam: 420564 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9415,6 +9415,7 @@
 250bintoplukonut.xyz
 250bintoplukonutbasvur.com
 250bintoplukonutbasvurusu.com
+250bintoplukonutlar.com
 250bintoplukonutlarproje.com
 250bintoplukonutproje.com
 250bintoplukonutprojesi.com
@@ -34905,6 +34906,7 @@ aikurdunews.com
 ailail1998.ddns.net
 ailarxndevuhizmeti.net
 ailasdoaskdaskdadk.sbs
+aildnglnkrcda.cfd
 aile--destek-pandomi-gov.cf
 aile-basvurulari.tk
 aile-destek-2020-pandomi.tk
@@ -57566,6 +57568,7 @@ basvurdunkacirma.sbs
 basvurdunuzkolycabrda.giize.com
 basvuredevlet.com
 basvuredevletiade.com
+basvurekran-edev.com
 basvurerc.com.tr
 basvurerc.online
 basvurercm.com.tr
@@ -57593,6 +57596,7 @@ basvurgirisistebilgilerlesizlerle.xyz
 basvurgirislerbilgi.xyz
 basvurgirislerleberaberler.xyz
 basvurgirisportalasamasi.click
+basvurgirisportalasamasi0.click
 basvurglobalsrvsak77.com
 basvurgnclevl.blogspot.com
 basvurgov.ekonomiplatformu.site
@@ -58913,6 +58917,7 @@ basvurularailegenc.com
 basvurularailegenc.com.tr
 basvurularaliniyor.xyz
 basvurularbasladi.com
+basvurularbasladi.netlify.app
 basvurularbasladigovtr.com
 basvurularbitiyor.cloud
 basvurularbncasetr.com
@@ -58941,6 +58946,7 @@ basvurulari.org
 basvurulariadeler.de
 basvurularikampanyafirsatibance.tech
 basvurularim-gov-tr.com
+basvurularim-sosyalkonut.xyz
 basvurularim.77-83-201-133.plesk.page
 basvurularim.com
 basvurularim.cyou
@@ -59163,6 +59169,7 @@ basvurumm.click
 basvurummis.org
 basvurummtokiimevim1453.xyz
 basvurummtokiimevimmilk.xyz
+basvurummtokiimmilkimevim.xyz
 basvurumnk.com
 basvurumnk.world
 basvurumobiilacikdenizv2denizbank.co.vu
@@ -59194,6 +59201,7 @@ basvurumtrbnncrs.online
 basvurumturkiyeiade.org
 basvurumunuzlarbbva.com
 basvurumusteriacikdenizv2denizbank.co.vu
+basvurumutokiimevimilk.site
 basvurumuyap.cfd
 basvurumuyap.sbs
 basvurumuyapiyorumsorguluyorum.biz
@@ -59763,6 +59771,7 @@ basvvuruacikdenizv2denizbank.co.vu
 basvvuruvacikdenizv2denizbank.co.vu
 basvvuuurrrissssskatilim.cloud
 basvvvurrtookkampanya.info
+basvvvurrtookkampanya.pro
 basyislemler.hopto.org
 basyurtinternetcafe.ml
 baszxwoo.blogspot.com
@@ -75093,6 +75102,7 @@ blacksky.zapto.org
 blacksniper123.zapto.org
 blackstrokampanya.shop
 blacksudo.duckdns.org
+blacksystem.online
 blackthorn.co.za
 blacktrail.xyz
 blackturtle.hopto.org
@@ -148308,6 +148318,7 @@ fearlescanasddas.com
 fearleskes.com.tr
 fearleskkaasdfg.com
 fearlesndandess.com
+fearlesomansss.com
 fearlessbasvurusayfasi.duckdns.org
 fearlessdersecan.com
 fearlesskkbaysts.com
@@ -184354,6 +184365,7 @@ hemensiparisiniolustur.click
 hemensiparisiniver.cfd
 hemensiparisiniver.click
 hemensiparisiniver.vip
+hemensiparisiniziver.click
 hemensiparisirriver.click
 hemensiparisleal.com
 hemensiparisnolustur.click
@@ -194711,6 +194723,7 @@ hrb4b2ghq.duckdns.org
 hrbidpjkyliedqg.su
 hrbkuqgfhz.duckdns.org
 hrca-harca-bitmz.com
+hrca-hrca-btmez-a-101-flrsatlari-alsvris.cfd
 hrca-hrca-btmez-ayzbir-flrsatlari.cfd
 hrca-hrca-btmez-ayzbir.cfd
 hrca-hrca-btmez-yzbir-ekmflsatlari.sbs
@@ -202143,6 +202156,7 @@ ilhamdestek.org
 ilhamdolubirhayat.xyz
 ilhamkurumlari.org
 ilhammoo.com
+ilhamperileriindirimlerlegeldi.shop
 ilhamufku.online
 ilhamuzayi.space
 ilhamvakfi.com
@@ -202243,6 +202257,7 @@ ilkdenevimtokim.org
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
+ilkev-katilim.digital
 ilkevbasvurtokl.info
 ilkevbasvurtokl.online
 ilkevbasvuru.com
@@ -202357,6 +202372,7 @@ ilkevtokibasvuru.org
 ilkevtokiresmibasvurukanali.com
 ilkevtoklibasvru.cfd
 ilkevtoklibasvru.help
+ilkevtoklibasvru.top
 ilkfirsat-mobilingiris.xyz
 ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
@@ -233633,6 +233649,7 @@ konusanlar-bilet.com.tr
 konusanlarbilet.com
 konusbe.name.tr
 konusulurbutabiki.xyz
+konut-500-t-o-k-i.com
 konut-guncelbasvurunuz.net
 konut-guncelislemler.com
 konut-idarisie.com
@@ -325592,6 +325609,7 @@ seninlehaziran.web.tr
 seninleolmak.com
 seninmarketin.xyz
 seninmisseninle.com
+seninolsun.click
 seninplatformun.xyz
 seninsansinodulsanacikiyor.net
 seninservislerin.xyz
@@ -356828,6 +356846,7 @@ toki.rest
 toki.site
 toki.turkiye-basvuru.com
 toki.yapiyoruzbuisi.xyz
+toki.yetkilinokta.cfd
 toki11.elevatesolutions.sbs
 toki130konutbasvuru.sbs
 toki2025-2025yeni.blogspot.com
@@ -357066,6 +357085,7 @@ tokiilerbasvuruu.sa.com
 tokiilkevbasvur.com
 tokiilkevimbasvuru.site
 tokiilkevimbasvuruekrani.com
+tokikayit.konseptvillacim.com
 tokikayit.org
 tokikayitlar.org
 tokikbasuvurlari.blogspot.com
@@ -392952,6 +392972,7 @@ ww-sanalmarket-kapinda.online
 ww-sanalmarket-kapinda.xyz
 ww-teknosa.com.tr
 ww-teknosa.store
+ww-took.click
 ww-tramrsk-com-tr.blogspot.com
 ww-twitter.com
 ww-vakifbankkampanyalarim2022.com
@@ -398387,6 +398408,7 @@ wwwteb.ml
 wwwtebbank-com.tk
 wwwtebcep.com
 wwwtipobet5401.com
+wwwtokibasvur.com
 wwwtonianatara.com
 wwwtr155polis.online
 wwwtr155polisi.online
@@ -410506,6 +410528,7 @@ yenikonut.store
 yenikonutb.click
 yenikonutbasvurulari.cloud
 yenikonutbasvurusu.cloud
+yenikonuututm.click
 yenikrallik.click
 yenikredi-basvurusu.com
 yenikredievlilikbasvur.tech
@@ -416183,6 +416206,7 @@ zantaclodemo.com
 zantocusus.xyz
 zantocusus99.xyz
 zantrao.pro
+zantrix.sbs
 zanvora.site
 zanzibarflyingdress.com
 zaoc6c74.duckdns.org
