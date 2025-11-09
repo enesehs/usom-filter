@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-09 17:01:54 UTC
-# Toplam: 420724 Domain
+# Son Güncelleme: 2025-11-09 18:11:22 UTC
+# Toplam: 420730 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21701,6 +21701,7 @@ a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
 a-101-firsatlari.online
 a-101-haftannyldizlari.s-get-pays.xyz
 a-101-harca-bitmez.sa.com
+a-101-hrca-hrca-btmez-alsvris.cfd
 a-101-indirim-gunleri-son-saatler.com
 a-101-indirim.buyukfrst.com
 a-101-indirim.martt.vip
@@ -143007,6 +143008,7 @@ evbasvurulariniz.click
 evbasvurum.com
 evbasvurunuz.xyz
 evbasvurusu.com
+evbasvuruyap.com
 evbkjnrkljgn.net
 evburada.click
 evburasi.click
@@ -246735,6 +246737,7 @@ makanlele.duckdns.org
 makaraa.com
 makaro7tnt.ddns.net
 makasatmacaddehosran.xyz
+makasattki1.fun
 makatabasev.xyz
 makatti.duckdns.org
 makaveli.pw
@@ -319938,6 +319941,7 @@ sajdaazhari2801.hopto.org
 sajdasggae.click
 sajdfue.com
 sajebut12421.wordpress.com
+sajebut124219.wordpress.com
 sajhfkew.com.tr
 sajidenterprises.com
 sajkaslkfalkslfsa.duckdns.org
@@ -356947,6 +356951,7 @@ toki.castgard.com
 toki.ebasvur.com
 toki.eczonomm.it.com
 toki.evbasvurusu.com
+toki.evbasvuruyap.com
 toki.evsahibiolduturkiye.com
 toki.glbserv.com
 toki.hanimanya.com
@@ -357893,6 +357898,7 @@ toplukonutlarimsiparislerim.cloud
 toplukonutlsmler.org
 toplukonutonlinebasvuru.com
 toplukonutprojebasvuru.com
+toplukonutprojebasvuru.online
 toplukonutprojeleri.com
 toplukonutprojesi.com
 toplukonutresmibasvuru-35.com
