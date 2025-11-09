@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-09 11:01:44 UTC
-! Total: 334958 rules
+! Last modified: 2025-11-09 12:14:59 UTC
+! Total: 334961 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -147542,6 +147542,7 @@
 *://*.hemenisleminiz.net/*
 *://*.hemenislemktalbs.net/*
 *://*.hemenislemm.net/*
+*://*.hemenislemmbasv00.online/*
 *://*.hemenislemmerkezi.app/*
 *://*.hemenisltblkylme.net/*
 *://*.hemenistjx.cfd/*
@@ -188820,6 +188821,7 @@
 *://*.konutbasvurusistemi-basvur.icu/*
 *://*.konutbasvurusistemi-basvur.rest/*
 *://*.konutbasvurusistemi.cloud/*
+*://*.konutbasvurusitesi.com/*
 *://*.konutbasvurusu.click/*
 *://*.konutbasvurusu.com/*
 *://*.konutbasvurusu.net/*
@@ -297146,6 +297148,7 @@
 *://*.uncertaintyleverage.top/*
 *://*.uncertaintymalnutrition.top/*
 *://*.unchained-capital.co/*
+*://*.unchartedvvay.com/*
 *://*.uncheckhel.com/*
 *://*.uncle-structure.com/*
 *://*.uncle134.xyz/*
