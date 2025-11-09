@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-09 21:11:56 UTC
-! Total: 335009 rules
+! Last modified: 2025-11-09 22:07:48 UTC
+! Total: 335015 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7961,6 +7961,7 @@
 *://*.336891.site/*
 *://*.336bde1d2111h.net/*
 *://*.339004992y-a12232112.shop/*
+*://*.33937499.cloud/*
 *://*.3394539503-3354353.com/*
 *://*.33952395923292.site/*
 *://*.339slxu3bw.ru/*
@@ -14680,6 +14681,7 @@
 *://*.a101sonindirim-saatleri.online/*
 *://*.a101sonsaate-ozel.online/*
 *://*.a101sponsorlu-g.net.tr/*
+*://*.a101stenleytermoskampanyasi.site/*
 *://*.a101subataozel.online/*
 *://*.a101subatfirsati.online/*
 *://*.a101subatfirsatlari.com/*
@@ -132803,6 +132805,7 @@
 *://*.gloomylogistic.top/*
 *://*.gloppastoooos.com/*
 *://*.glorasaa.click/*
+*://*.glorasss.click/*
 *://*.gloriaganise.net/*
 *://*.gloriousbrew.top/*
 *://*.gloriouschapel.top/*
@@ -186556,6 +186559,7 @@
 *://*.kingspy.info/*
 *://*.kingstaronline.com/*
 *://*.kingstonwikkerink.dyn/*
+*://*.kingstress.ru/*
 *://*.kingstylehomes.com.au/*
 *://*.kingsvc.cc/*
 *://*.kingtaypromo.com/*
@@ -257395,6 +257399,7 @@
 *://*.securesender-ntsuitesafemail.com/*
 *://*.securesepet.com/*
 *://*.securesepetimiz.com/*
+*://*.securesepetiniz.com/*
 *://*.secureservis.in/*
 *://*.secureshares.online/*
 *://*.securesodeme.com.tr/*
@@ -267187,6 +267192,7 @@
 *://*.sokakdadostlar.com/*
 *://*.sokakhayvanlarinadestek.com/*
 *://*.sokakhayvanlarinadestektr.com/*
+*://*.sokaklaraktiv.shop/*
 *://*.sokaknakliyat.com/*
 *://*.sokakrapmilitani.net/*
 *://*.sokaksavascilari.net/*
