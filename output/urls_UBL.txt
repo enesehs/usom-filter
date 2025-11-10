@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 16:12:05 UTC
-! Total: 335167 rules
+! Last modified: 2025-11-10 17:08:56 UTC
+! Total: 335178 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9534,6 +9534,7 @@
 *://*.500konut-bsrv.cfd/*
 *://*.500konut-bsrv.click/*
 *://*.500konut-bsrv.club/*
+*://*.500konut-bsrv.com/*
 *://*.500konut-bsrv.homes/*
 *://*.500konut-bsrv.lat/*
 *://*.500konut-bsrv.lol/*
@@ -13211,6 +13212,7 @@
 *://*.a-101-firsatlar.online/*
 *://*.a-101-firsatlari.online/*
 *://*.a-101-hrca-hrca-bltmez-flrsatlar.cfd/*
+*://*.a-101-hrca-hrca-btmez-alisvrls.com/*
 *://*.a-101-hrca-hrca-btmez-alsvris.cfd/*
 *://*.a-101-indirim-gunleri-son-saatler.com/*
 *://*.a-101-kapimda.com/*
@@ -41304,6 +41306,7 @@
 *://*.basvurtoki.online/*
 *://*.basvurtoki.xyz/*
 *://*.basvurtokii2871.xyz/*
+*://*.basvurtokikonutlari.art/*
 *://*.basvurtokikonutlari.info/*
 *://*.basvurtokikonutlari.live/*
 *://*.basvurtokikonutlari.xyz/*
@@ -89578,6 +89581,7 @@
 *://*.dijitalailesinde.com/*
 *://*.dijitalak-juzzdanislem.mom/*
 *://*.dijitalalan.sbs/*
+*://*.dijitalaninda.store/*
 *://*.dijitalasistaninbu.com/*
 *://*.dijitalbank-acikdenizmobil.com/*
 *://*.dijitalbankaciligimdeniz.net/*
@@ -114675,6 +114679,7 @@
 *://*.evostres.xyz/*
 *://*.evotek.vn/*
 *://*.evpage-trirtibatplatformweb.com/*
+*://*.evprojem2026.com/*
 *://*.evpxrfc.com/*
 *://*.evqfrxp.com/*
 *://*.evqvjexv0z.com/*
@@ -183805,6 +183810,7 @@
 *://*.kasimaylarikaracadan.xyz/*
 *://*.kasimbasladi.co/*
 *://*.kasimbasvuru-acikdenizonayhediye.com/*
+*://*.kasimbasvuru.click/*
 *://*.kasimbildirimler1.com.tr/*
 *://*.kasimbildirimler1.online/*
 *://*.kasimbncasdestektr.com/*
@@ -198228,6 +198234,7 @@
 *://*.makaraa.com/*
 *://*.makasatmacaddehosran.xyz/*
 *://*.makasattki1.fun/*
+*://*.makasattki2.fun/*
 *://*.makatabasev.xyz/*
 *://*.makaveli.pw/*
 *://*.makbntr.xyz/*
@@ -256129,6 +256136,7 @@
 *://*.sayfa-ilan.com/*
 *://*.sayfa-kampanyalaribim.com/*
 *://*.sayfa-mygir-trweb.life/*
+*://*.sayfa-soft-vbtr.life/*
 *://*.sayfabasvuruiadeformgiris.ml/*
 *://*.sayfadolusu.club/*
 *://*.sayfadolusu.online/*
@@ -276663,6 +276671,8 @@
 *://*.t0kibsvrdi.sbs/*
 *://*.t0kibsvrdmdi.sbs/*
 *://*.t0kibsvrmliz.sbs/*
+*://*.t0kifirsatlari.click/*
+*://*.t0kikonutlaribasvurulari.com/*
 *://*.t0kisbirdu.sbs/*
 *://*.t0mzamangldi1br0d1a.com/*
 *://*.t0nym1r3l3zz.xyz/*
@@ -285026,6 +285036,7 @@
 *://*.tokilkevim500proje.org/*
 *://*.tokilkevimbasvur.com/*
 *://*.tokilkevimbasvuru.com/*
+*://*.tokim-basvurum.digital/*
 *://*.tokimkonutbasvurusu.cloud/*
 *://*.tokimmnntokimm-knt-proje.com/*
 *://*.tokimnetevim.store/*
