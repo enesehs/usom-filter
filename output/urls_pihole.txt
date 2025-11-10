@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-10 22:09:24 UTC
-# Toplam: 421023 Domain
+# Son Güncelleme: 2025-11-10 23:08:32 UTC
+# Toplam: 421034 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5242,6 +5242,7 @@
 16ocakikacirmasaniz.online
 16ocakikacirmasaniz.xyz
 16ocakimannoor.1ticaret.com
+16tanekalmisurunlerlistesi3.blogspot.com
 16u5r.erevody4.com
 16vq9tv.duckdns.org
 16y2tf4.duckdns.org
@@ -57638,6 +57639,7 @@ basvurercm.cyou
 basvurercm.xyz
 basvuresn.com.tr
 basvuresn.xyz
+basvurev.com
 basvurevlikredin.asyanfinans.com
 basvurevlilikkredi.com
 basvurfirsatl.com
@@ -64910,6 +64912,7 @@ bilgikontrolsaglama.com
 bilgikontrolyeri.com
 bilgikus.info
 bilgikusu.org
+bilgilaw.net
 bilgildrmelhemen.com
 bilgilen-ecz.club
 bilgilen-ecz.life
@@ -79174,6 +79177,7 @@ bnvmfjghs.site
 bnvmghfjdhrg.com
 bnvnmbvnjhggh.click
 bnvnrccnntr-girisonline.com
+bnwebredirectt.store
 bnwquhd.com
 bnwu.lol
 bnwwhsk-crk7.com
@@ -83811,6 +83815,7 @@ buike.duckdns.org
 buike0147.duckdns.org
 buil.my-style.in
 buil.nichesite.org
+build-anasayfa-tr.life
 build-global-mac.net
 build-making-global.net
 buildar.shop
@@ -233914,6 +233919,7 @@ konutbasvuruhaber.org
 konutbasvuruilkevimtr.duckdns.org
 konutbasvurulari.cloud
 konutbasvurulari.online
+konutbasvurulari2025.org
 konutbasvurulariacildi.icu
 konutbasvurularibasladi.com
 konutbasvurularim.xyz
@@ -233979,6 +233985,7 @@ konutkapisi.org
 konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
 konutlar.org
+konutlardan2.fun
 konutlarim2026.sbs
 konutlarimm.icu
 konutlarsite.com
@@ -245741,6 +245748,7 @@ magazap-ttalindirimli.cfd
 magazap-ttfirsat.cfd
 magazap-ttpazarr.com
 magazapasaj.com
+magazapasajim.store
 magazapt-talindirimli.cfd
 magazapttcepte.com
 magazas.ga
@@ -289356,6 +289364,7 @@ pasajmagaza.com
 pasajmagazafirsatlari.store
 pasajmagazakampanyalari.store
 pasajmagazalar.com
+pasajmagazalarim.store
 pasajmagazam.com
 pasajmagazam.store
 pasajmagazasi.com
@@ -332687,6 +332696,7 @@ siparisver-guvenli.com
 siparisver.click
 siparisver.net.tr
 siparisverafyon.com
+siparisvergelir.click
 siparisvergelsin.site
 siparisvergelsindekapina.xyz
 siparisveriniz.com.tr
@@ -346868,6 +346878,7 @@ sxrbz485.duckdns.org
 sxrglanxs.online
 sxrgnlxns.com.tr
 sxryejoagd.duckdns.org
+sxscwworlkl.storage.googleapis.com
 sxskyxwjtpib.biz
 sxsososlylkntbasxvrr.click
 sxsroefsny.info
