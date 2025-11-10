@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-10 12:23:28 UTC
-# Toplam: 420889 Domain
+# Son Güncelleme: 2025-11-10 13:24:28 UTC
+# Toplam: 420900 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10682,6 +10682,7 @@
 2ty4tsdf.duckdns.org
 2tz2jot79.duckdns.org
 2u1ojv.duckdns.org
+2u6sskel2hhd.storage.googleapis.com
 2u928.eymaste.ru
 2uar1o0.duckdns.org
 2ubpjf3.duckdns.org
@@ -18036,6 +18037,7 @@
 7834216376219430.xyz
 7834216376219440.com.tr
 7834216376219440.xyz
+783838.netlify.app
 783dcc9815ee4653.info
 783j309283ju3093.icu
 783xysp.duckdns.org
@@ -21712,6 +21714,7 @@ a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
 a-101-firsatlari.online
 a-101-haftannyldizlari.s-get-pays.xyz
 a-101-harca-bitmez.sa.com
+a-101-hrca-hrca-bltmez-flrsatlar.cfd
 a-101-hrca-hrca-btmez-alsvris.cfd
 a-101-indirim-gunleri-son-saatler.com
 a-101-indirim.buyukfrst.com
@@ -135492,6 +135495,7 @@ ekranii.net
 ekraninizdan-kontrol-ve-sorgu-saglayin.sbs
 ekranlar-try.online
 ekranlar-web-tr.shop
+ekranlarbasvurusu.blogdns.org
 ekranmerkez-tr-web.space
 ekranodem.sg-host.com
 ekranonayidenizde.duckdns.org
@@ -202451,6 +202455,7 @@ ilkevimilkbasvurum.com
 ilkevimiz.com
 ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
+ilkevimkonutfirsatlari.duckdns.org
 ilkevimkonutlari.cloud
 ilkevimnet.com
 ilkevimproje.com
@@ -202482,6 +202487,7 @@ ilkevimtokii5.sa.com
 ilkevimtokii6.sa.com
 ilkevimtokii7.sa.com
 ilkevimtokikonutbasvurususongun.icu
+ilkevimtokim.org
 ilkevimtokiprojeleri.org
 ilkevimyerleske.com
 ilkevinbasvur.click
@@ -248973,6 +248979,7 @@ masteng.org
 master-canal.gl.at.ply.gg
 master-club.info
 master-lawyer.com
+master-tvs.com
 master.hdsjfkgsadoghdsiougds.space
 master.jauxunevi.click
 master.rootmy.site
@@ -331810,6 +331817,7 @@ simdibasvuru-vakif.top
 simdibasvurun.com
 simdibasvurunuz.linkerit.cyou
 simdibasvurunuzonay.linkerit.cyou
+simdibasvurunuzutamamla.urllik.sbs
 simdibasvuruyap-ebatablet.com
 simdibayisintr.com
 simdibayistr.com
@@ -331994,6 +332002,7 @@ simosimo.ch
 simox12.zapto.org
 simpelkocsn.com
 simpexbpo.com
+simple-entry.digital
 simple-updatereport3.com
 simpleaftercare.co.uk
 simpleassimilation.top
@@ -358007,6 +358016,8 @@ toplukonutbasvuru.cfd
 toplukonutbasvuru.online
 toplukonutbasvurubuzcr.vercel.app
 toplukonutbasvuruguvfqhs.vercel.app
+toplukonutbasvurujdspj.vercel.app
+toplukonutbasvurujxhcg.vercel.app
 toplukonutbasvurular-45.com
 toplukonutbasvurular.com
 toplukonutbasvurulari.cloud

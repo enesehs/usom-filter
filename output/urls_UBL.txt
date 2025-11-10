@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 12:23:28 UTC
-! Total: 335106 rules
+! Last modified: 2025-11-10 13:24:28 UTC
+! Total: 335111 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13210,6 +13210,7 @@
 *://*.a-101-firsat.shop/*
 *://*.a-101-firsatlar.online/*
 *://*.a-101-firsatlari.online/*
+*://*.a-101-hrca-hrca-bltmez-flrsatlar.cfd/*
 *://*.a-101-hrca-hrca-btmez-alsvris.cfd/*
 *://*.a-101-indirim-gunleri-son-saatler.com/*
 *://*.a-101-kapimda.com/*
@@ -162892,6 +162893,7 @@
 *://*.ilkevimtokibasvuru.com/*
 *://*.ilkevimtokibasvuru.sbs/*
 *://*.ilkevimtokikonutbasvurususongun.icu/*
+*://*.ilkevimtokim.org/*
 *://*.ilkevimtokiprojeleri.org/*
 *://*.ilkevimyerleske.com/*
 *://*.ilkevinbasvur.click/*
@@ -200054,6 +200056,7 @@
 *://*.masteng.org/*
 *://*.master-club.info/*
 *://*.master-lawyer.com/*
+*://*.master-tvs.com/*
 *://*.master101work.co/*
 *://*.masterbaby.top/*
 *://*.masterbati.net/*
@@ -263940,6 +263943,7 @@
 *://*.simosimo.ch/*
 *://*.simpelkocsn.com/*
 *://*.simpexbpo.com/*
+*://*.simple-entry.digital/*
 *://*.simple-updatereport3.com/*
 *://*.simple-url.com/*
 *://*.simpleaftercare.co.uk/*
@@ -298155,6 +298159,7 @@
 *://*.urlishorter.online/*
 *://*.urliurl.online/*
 *://*.urllie.com/*
+*://*.urllik.sbs/*
 *://*.urllio.com/*
 *://*.urlmanage.com/*
 *://*.urlmeta-browser.cfd/*
