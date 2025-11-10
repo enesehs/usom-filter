@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-10 04:23:29 UTC
-# Toplam: 420825 Domain
+# Son Güncelleme: 2025-11-10 05:11:00 UTC
+# Toplam: 420828 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -220175,6 +220175,7 @@ jtfdq2.duckdns.org
 jtgcky.com
 jtimi5.duckdns.org
 jtjmjuzg.info
+jtl5um6gyps.storage.googleapis.com
 jtlt0eq5.duckdns.org
 jtmjehlesnyyra.pw
 jtnu1i9ln2vjgnjd1wfuhd.ru
@@ -289212,6 +289213,7 @@ pasajdunyasi.com
 pasajfirsat.com
 pasajfirsatlari.store
 pasajfirsatlari.xyz
+pasajfirsatlarim.xyz
 pasajfirsatmagazasi.store
 pasajgunleri.com.tr
 pasajguvenilirmarket.com
@@ -373211,6 +373213,7 @@ urlredirect989.cfd
 urlredirectgiris.cfd
 urlscanner.online
 urlshorter.click
+urlshorter.site
 urlshortero.online
 urlshortiy.online
 urlshortner.hopto.org
