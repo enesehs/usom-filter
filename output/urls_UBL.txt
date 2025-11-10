@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 15:10:39 UTC
-! Total: 335124 rules
+! Last modified: 2025-11-10 16:12:05 UTC
+! Total: 335167 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19395,6 +19395,9 @@
 *://*.admin-br.in/*
 *://*.admin-dept.in/*
 *://*.admin-desk.in/*
+*://*.admin-extranet-reservationsinfos.com/*
+*://*.admin-extranetadm-captcha.com/*
+*://*.admin-extranetadmns-captcha.com/*
 *://*.admin-kraken.com/*
 *://*.admin-mail-settin99s.com/*
 *://*.admin-omincrosft-us10-miosft-office.com/*
@@ -41302,6 +41305,7 @@
 *://*.basvurtoki.xyz/*
 *://*.basvurtokii2871.xyz/*
 *://*.basvurtokikonutlari.info/*
+*://*.basvurtokikonutlari.live/*
 *://*.basvurtokikonutlari.xyz/*
 *://*.basvurtokim.xyz/*
 *://*.basvurtook.art/*
@@ -56356,6 +56360,7 @@
 *://*.bjscmcells.net/*
 *://*.bjscx.com/*
 *://*.bjsemcellkaizen.net/*
+*://*.bjsffsj.sbs/*
 *://*.bjskmcellkol.com/*
 *://*.bjskmcels.net/*
 *://*.bjslmcells.net/*
@@ -56556,6 +56561,7 @@
 *://*.bknfkmbayilxrmzs.net/*
 *://*.bkngnet.com/*
 *://*.bkngrvff.com/*
+*://*.bknqsercise.com/*
 *://*.bkns.com.vn/*
 *://*.bkorvmhkvffu.com/*
 *://*.bkppink.com/*
@@ -60881,9 +60887,16 @@
 *://*.bookf27.com/*
 *://*.bookflirtation.top/*
 *://*.bookgames.pw/*
+*://*.booking-agreementstatementapril0225.com/*
 *://*.booking-confirmation.date/*
+*://*.booking-confview-doc-00097503843.com/*
+*://*.booking-confviewdocum-0079495902.com/*
+*://*.booking-reservationinfosid0251358.com/*
+*://*.booking-reservationsdetail-id0025911.com/*
 *://*.booking-thy.com/*
 *://*.booking-verification.su/*
+*://*.booking-visitorviewdetails-64464043.com/*
+*://*.bookingadmin-updateofmay2705.com/*
 *://*.bookingdusseldorf.com/*
 *://*.bookingitnow.org/*
 *://*.bookingservice.center/*
@@ -61450,6 +61463,7 @@
 *://*.bqinesohdskfwxs.su/*
 *://*.bqjow.ru/*
 *://*.bqkgj.com/*
+*://*.bqknsieasrs.com/*
 *://*.bqkssn.top/*
 *://*.bqlmzy.cn/*
 *://*.bqlrylaeykpxgkt.su/*
@@ -61776,6 +61790,7 @@
 *://*.brer1xnoz0kflsl1yashcx.com/*
 *://*.brerabeisy.xyz/*
 *://*.bresciagrameen.lk/*
+*://*.breserve-custommessagehelp.com/*
 *://*.bresn.com.tr/*
 *://*.bresz.xyz/*
 *://*.bretoffice.com/*
@@ -67836,6 +67851,7 @@
 *://*.careffoursa.care/*
 *://*.careffuorsa.com/*
 *://*.carefour-arg.com/*
+*://*.carefour-tr.cfd/*
 *://*.carefourcepte.cfd/*
 *://*.carefourlufirlar.shop/*
 *://*.carefourlugunler.shop/*
@@ -75531,6 +75547,7 @@
 *://*.comsip.org.mw/*
 *://*.comsnews.com/*
 *://*.comsonyeo19.com/*
+*://*.comsquery.com/*
 *://*.comsystems.xyz/*
 *://*.comt-xfirsattall.net/*
 *://*.comtecav.co.uk/*
@@ -75796,6 +75813,7 @@
 *://*.confirmation-instagram.gq/*
 *://*.confirmation-rate.com/*
 *://*.confirmation-service.info/*
+*://*.confirmation887-booking.com/*
 *://*.confirmationfort.top/*
 *://*.confirmationmr.top/*
 *://*.confirmationsuccess.com/*
@@ -75831,6 +75849,7 @@
 *://*.confusionmetaphor.top/*
 *://*.confusionnoise.com/*
 *://*.confusionpresumption.top/*
+*://*.confvisitor-doc.com/*
 *://*.congcuphongthan.com/*
 *://*.congdongvingroup.com/*
 *://*.conglomeratoid.com/*
@@ -77176,6 +77195,7 @@
 *://*.cqtikqfeiyecad.com/*
 *://*.cquaintequatio.top/*
 *://*.cquifgs.com/*
+*://*.cquopymaiqna.com/*
 *://*.cqupagft.com/*
 *://*.cqwsqo.com/*
 *://*.cr-cimer-iadeformu.com/*
@@ -78093,6 +78113,7 @@
 *://*.ctrasas.click/*
 *://*.ctrbxoxyh.io/*
 *://*.ctre.me/*
+*://*.ctrlcapaserc.com/*
 *://*.cts-comcast.com/*
 *://*.ctsemxlkcj.net/*
 *://*.ctsihgjjxj.net/*
@@ -89956,6 +89977,7 @@
 *://*.dijitalkredi-ziraatkampanya.com/*
 *://*.dijitalkredi-ziraatkampanyawebgiris.sbs/*
 *://*.dijitalkredi-ziraatmobilweb.com/*
+*://*.dijitalkredi-ziraatmobilweb.sbs/*
 *://*.dijitalkredi-ziraatonay.sbs/*
 *://*.dijitalkredi-ziraatweb.com/*
 *://*.dijitalkredibasvur-ziraatbireysel.com/*
@@ -116730,6 +116752,8 @@
 *://*.fantastictag.top/*
 *://*.fantastikkampanyalarim.com/*
 *://*.fantastill.top/*
+*://*.fantasy-hub.online/*
+*://*.fantasy-hub.ru/*
 *://*.fantasy4tabacco.icu/*
 *://*.fantasyclub.com.br/*
 *://*.fantasydoors1.com/*
@@ -133838,6 +133862,7 @@
 *://*.goojoo.net/*
 *://*.goojppeer.site/*
 *://*.goolg-en.com/*
+*://*.goolgepalay.com/*
 *://*.gooline.net/*
 *://*.gooline.pk/*
 *://*.goolineb2b.com/*
@@ -135872,9 +135897,11 @@
 *://*.guesswardrobe.top/*
 *://*.guest-approve.info/*
 *://*.guest-idreserve.com/*
+*://*.guest03442-booking.com/*
 *://*.guestalerthelp.com/*
 *://*.guestdocfound.com/*
 *://*.guestequipment.com.au/*
+*://*.guestinfo-aboutstay1205.com/*
 *://*.guestitemsfound.com/*
 *://*.guestprotocol.top/*
 *://*.guests-reservid.com/*
@@ -154470,6 +154497,7 @@
 *://*.hizmetlerinizburads.store/*
 *://*.hizmetlerinizim.net/*
 *://*.hizmetleriniziz.net/*
+*://*.hizmetlerkesintisizherzmanbizdedevameder.shop/*
 *://*.hizmetlerli.app/*
 *://*.hizmetlerlisteniz.com/*
 *://*.hizmetlermaliyegov.com/*
@@ -181640,6 +181668,7 @@
 *://*.kampnyabasvuru-patform.com/*
 *://*.kampnyabsvrr.com/*
 *://*.kampnyabsvrtoki.art/*
+*://*.kampnyabsvrtoki.info/*
 *://*.kampnyabsvrtoki.pro/*
 *://*.kampnyaburdacm.com/*
 *://*.kampnyadasi.sbs/*
@@ -185534,6 +185563,7 @@
 *://*.keosland.xyz/*
 *://*.kep-adres-hepsiburada.com/*
 *://*.kep-adres-tekno-sa.com/*
+*://*.kep-aktifim.com/*
 *://*.kepadres-guncelleme-hepsi.com/*
 *://*.kepadres-tekno-sa.com/*
 *://*.kepadresaktiflestirme.net/*
@@ -235246,8 +235276,10 @@
 *://*.plaveient.store/*
 *://*.plavton.com/*
 *://*.play-google-com-store-hl-tr-e-devlet.tk/*
+*://*.play-google-store.ru/*
 *://*.play-google.site/*
 *://*.play-googyle.com/*
+*://*.play-market-com.online/*
 *://*.play-protect.pro/*
 *://*.play-youtube.com/*
 *://*.play2win.buzz/*
@@ -269823,6 +269855,7 @@
 *://*.sosyalkonut2026.com/*
 *://*.sosyalkonutbasvuru.click/*
 *://*.sosyalkonutbasvuru.net/*
+*://*.sosyalkonutbasvurugirislerii.cfd/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutbasvuuru2025.com.tr/*
 *://*.sosyalkonutevim.org/*
@@ -271501,6 +271534,7 @@
 *://*.squre39-cld.info/*
 *://*.sqwcpgbl.com/*
 *://*.sqwoxmcyk.com/*
+*://*.sqwqwasresbkng.com/*
 *://*.sr-deniz-kampanyam.net/*
 *://*.sr1bimcell.net/*
 *://*.sr55x.click/*
@@ -272630,6 +272664,7 @@
 *://*.stempudding.top/*
 *://*.stemrotation.top/*
 *://*.stemtec.click/*
+*://*.stenleykampanyaa-101-aldinaldin.online/*
 *://*.stenngg.com/*
 *://*.stenocephalia.com/*
 *://*.stenocranial.com/*
@@ -280700,6 +280735,7 @@
 *://*.telegramreport.me/*
 *://*.telegramsz.net/*
 *://*.telegramt.net/*
+*://*.telegramunlock.ru/*
 *://*.telegramup.com/*
 *://*.telegramxe.com/*
 *://*.telegramxe.net/*
@@ -283279,6 +283315,8 @@
 *://*.tikislemler.tk/*
 *://*.tikitikimikigitenti.site/*
 *://*.tikitok-app.ru/*
+*://*.tikitok-goolges.sbs/*
+*://*.tikitok-playgoolge.sbs/*
 *://*.tikkieverification.site/*
 *://*.tikla-al.club/*
 *://*.tikla-edevletdestegibasvuru.com/*
@@ -283329,6 +283367,7 @@
 *://*.tikontok18.net/*
 *://*.tikora.top/*
 *://*.tikpara.store/*
+*://*.tikpremplaymarktuzb.sbs/*
 *://*.tikraal.com/*
 *://*.tiksindimrezil.net/*
 *://*.tiktarget.website/*
@@ -283345,7 +283384,9 @@
 *://*.tiktokdestekturkiye.cf/*
 *://*.tiktokfollow.org/*
 *://*.tiktokfollowershack.com/*
+*://*.tiktokgplya.sbs/*
 *://*.tiktokhellpsupport.ml/*
+*://*.tiktoki-goolge.sbs/*
 *://*.tiktokinfluncer.com/*
 *://*.tiktokkkmmz.com/*
 *://*.tiktokkola.host/*
@@ -304407,6 +304448,7 @@
 *://*.verifydocument.online/*
 *://*.verifyeloquent.top/*
 *://*.verifyguarding.com.tr/*
+*://*.verifyguest02667-booking.com/*
 *://*.verifyingnetflix.com/*
 *://*.verifyinstagram.cf/*
 *://*.verifykneea.top/*
@@ -310780,6 +310822,7 @@
 *://*.wholookedprof2019.cf/*
 *://*.whomrefund.top/*
 *://*.whonkinew.com/*
+*://*.whooamisercise.com/*
 *://*.whosilocabroba.com/*
 *://*.whosis5231thisbro.xyz/*
 *://*.whoulatech.com/*
