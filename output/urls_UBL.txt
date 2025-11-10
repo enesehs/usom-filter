@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 21:08:25 UTC
-! Total: 335205 rules
+! Last modified: 2025-11-10 22:09:24 UTC
+! Total: 335215 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9455,6 +9455,7 @@
 *://*.5.253.84.159/*
 *://*.50-1-11-11-1113r111-11.sbs/*
 *://*.50-gb-internet.online/*
+*://*.500-binbasvurutakip.com/*
 *://*.50000110101.cloud/*
 *://*.5000coins.com/*
 *://*.5000dogecoinhediyeparibudan.com/*
@@ -92103,6 +92104,7 @@
 *://*.dogmuncher.xyz/*
 *://*.dogratanet.xyz/*
 *://*.dogroam.xyz/*
+*://*.dogru-adresten-sorgula.sbs/*
 *://*.dogru-gun-simdi.com/*
 *://*.dogru-gunu-simdi.com/*
 *://*.dogru-kararlariniz.com/*
@@ -123317,6 +123319,7 @@
 *://*.found214.xyz/*
 *://*.foundation4864.xyz/*
 *://*.foundationpermeation.top/*
+*://*.foundderset.com/*
 *://*.founddhog.com/*
 *://*.founderantibiotic.top/*
 *://*.founderga.com/*
@@ -190822,6 +190825,7 @@
 *://*.kulkoleolsandaa.xyz/*
 *://*.kullananlarbilir.name.tr/*
 *://*.kullanatrecetem.net/*
+*://*.kullandelfa.click/*
 *://*.kullandiracikdenizbank.com/*
 *://*.kullanici-turkiyegovtr.com/*
 *://*.kullanici.name.tr/*
@@ -256291,6 +256295,7 @@
 *://*.sbmibb.net/*
 *://*.sbmorgtr.net/*
 *://*.sbmsa.wiki/*
+*://*.sbmsorgu.org/*
 *://*.sbmsorgula.com/*
 *://*.sbmsorgullma.net/*
 *://*.sbmvselov.app/*
@@ -276687,6 +276692,7 @@
 *://*.t0ki-hemenbrda.com/*
 *://*.t0ki.com.tr/*
 *://*.t0ki.shop/*
+*://*.t0kibasvurkonutlari.com/*
 *://*.t0kibasvuru01.com/*
 *://*.t0kibasvuru02.com/*
 *://*.t0kibasvurularii.click/*
@@ -285122,6 +285128,7 @@
 *://*.tokl-hizlibsvuru.com/*
 *://*.tokl-konthizlbsvr.com/*
 *://*.tokl-konutbsvru.com/*
+*://*.tokl500konut-projeler.com/*
 *://*.tokl500konut.org/*
 *://*.tokl500konutlar.org/*
 *://*.toklbasvrlra.com/*
@@ -285130,6 +285137,7 @@
 *://*.toklbsvrlaribrda.online/*
 *://*.toklbsvrrlari.org/*
 *://*.toklgovtr.sbs/*
+*://*.toklprojebasvru.help/*
 *://*.toknohaftasonuindirimin.net/*
 *://*.toknowall.com/*
 *://*.toko-3.vip/*
@@ -285477,6 +285485,7 @@
 *://*.toplukonut500bin.com/*
 *://*.toplukonutaonline.com/*
 *://*.toplukonutbasvrlarimbaslamis.space/*
+*://*.toplukonutbasvur.online/*
 *://*.toplukonutbasvuru.cfd/*
 *://*.toplukonutbasvuru.online/*
 *://*.toplukonutbasvurular-45.com/*
@@ -332255,6 +332264,7 @@
 *://*.zenithmono.cfd/*
 *://*.zenixmedia.com.tr/*
 *://*.zenkogroup.com/*
+*://*.zenkora2.sbs/*
 *://*.zenlod.com/*
 *://*.zenmrktingsnl.shop/*
 *://*.zennabe.com/*
