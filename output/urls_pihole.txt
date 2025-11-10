@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-10 07:10:30 UTC
-# Toplam: 420839 Domain
+# Son Güncelleme: 2025-11-10 09:12:08 UTC
+# Toplam: 420868 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40240,6 +40240,7 @@ aldinaldinsonfirsat.site
 aldinaldinsonfisatlar.shop
 aldinaldinsonguun.com
 aldinaldinsonsaat.online
+aldinaldinstenley.site
 aldinaldinstok100.com
 aldinaldintakvimi.online
 aldinaldintemmuz.biz.tr
@@ -59047,6 +59048,7 @@ basvurularsongunsayfa.org
 basvurulartektiklahesabinda.74-234-25-133.plesk.page
 basvurulartektiklahesabinda.74-234-25-l33.plesk.page
 basvurulartiklahesabindav2.74-234-25-133.plesk.page
+basvurulartoki.org
 basvurulartoky.online
 basvurulartr-bnnrcgiris.online
 basvurulartr-girisiniz.online
@@ -59610,7 +59612,9 @@ basvurutoki.digital
 basvurutoki.pro
 basvurutoki.site
 basvurutokii.art
+basvurutokii.com
 basvurutokii.info
+basvurutokii.pro
 basvurutokii1451.xyz
 basvurutokiii1452.xyz
 basvurutokiii145858.xyz
@@ -60290,11 +60294,13 @@ baykartech.life
 baykartech.live
 baykartech.top
 baykartech.world
+baykartechar.com
 baykarteknoloji.net
 baykarter.space
 baykartr.com
 baykartur.com
 baykarturk.life
+baykarturk.top
 baykarturkey.org
 baykarv.glitch.me
 baykarvest.com
@@ -82021,6 +82027,7 @@ bsvbutxael.duckdns.org
 bsvcllee.com
 bsvimiceell.com
 bsviyjbjoxyj.com
+bsvlrbdatki.sbs
 bsvlymoxsc.duckdns.org
 bsvr-acikdenizv2denizonay.com
 bsvr-evlk.net
@@ -137230,6 +137237,7 @@ emniyet-anadolubank.ph
 emniyet-sorgulama.net
 emniyetgenelmudurlugu.com
 emnjimawfd.duckdns.org
+emnomics.com
 emnycq.top
 emnyetsrdipzrsx.net
 emobe.eu
@@ -156940,6 +156948,7 @@ fyltuckryt.duckdns.org
 fylvwtlgyzq.info
 fymumiddomj.wcnv20.cn
 fyn001.ddns.net
+fynlith.com
 fynty.net
 fyosxsi.info
 fyoutside.com
@@ -169167,6 +169176,7 @@ gralst.xyz
 gralsx.xyz
 gralvt.xyz
 gralxp.xyz
+gramaden.com
 gramaj.xyz
 gramalj.xyz
 grambegeni.com
@@ -202375,6 +202385,7 @@ ilkevim-basvuru.com
 ilkevim-basvuru.org
 ilkevim-basvuru.sa.com
 ilkevim-basvuru.work
+ilkevim-basvurum.com
 ilkevim-bsvrum.sbs
 ilkevim-katilim.vercel.app
 ilkevim-online-basvuru.blogdns.com
@@ -230271,6 +230282,7 @@ kilometrebabasi.cfd
 kilometrebasedemezsin.cfd
 kilometrebicepsi.cfd
 kilometrebilgin.web.app
+kilometrebilginz.web.app
 kilometrebilgisi.xyz
 kilometrebizdensorulur.cfd
 kilometreboss.cfd
@@ -240801,6 +240813,8 @@ linkedin-resetpassword.duckdns.org
 linkedincn.ddns.net
 linkedln.in
 linkedopports.com
+linkerit.cyou
+linkerit.online
 linkermak.online
 linkerservice2upgrade.bid
 linkerservice2upgrade.review
@@ -240919,6 +240933,7 @@ lionmoan.top
 lionoi.adygeya.su
 lionsdl.fit
 lionsguard.ddns.net
+liontrail.pro
 liopard.zapto.org
 liouamajdee.ddns.net
 liouas.ddns.net
@@ -299449,6 +299464,7 @@ pttavm.satismerkezi.shop
 pttavm.satisnoktasi.com.tr
 pttavm.satisofisi.info.tr
 pttavm.secure.info.tr
+pttavm.securesepetiniz.com
 pttavm.seninfirsatin.com.tr
 pttavm.seninsiparisin.com.tr
 pttavm.sepet-onay.com.tr
@@ -322968,6 +322984,7 @@ secshow.net
 secshow.online
 secsorgla.net
 sect.web1337.net
+sectechnz.com
 sectegro.com
 sectiginizurunler.site
 sectiginizurunler.space
@@ -331778,6 +331795,7 @@ simdibasvurparitr.com
 simdibasvuru-vakif.top
 simdibasvurun.com
 simdibasvurunuz.linkerit.cyou
+simdibasvurunuzonay.linkerit.cyou
 simdibasvuruyap-ebatablet.com
 simdibayisintr.com
 simdibayistr.com
@@ -337820,6 +337838,7 @@ sorgmsadjqwee.net
 sorgmsbm.pages.dev
 sorgmstrmsere.net
 sorgmtrmses1970.com
+sorgmzuslfk.com
 sorgu-2025-sistemi.cyou
 sorgu-745566511323.com
 sorgu-aidatiadelerikart.com
@@ -338643,6 +338662,7 @@ sosyalkonutbasvurusu.net
 sosyalkonutbasvurusu.vercel.app
 sosyalkonutbasvurusum.vercel.app
 sosyalkonutbasvuuru2025.com.tr
+sosyalkonutevim.org
 sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
 sosyalkonutlar.net
@@ -356964,6 +356984,7 @@ toki-basvurulari-com.kapidaode.store
 toki-basvurulari.duckdns.org
 toki-basvurulari.urlsalt.click
 toki-basvurulari.urlsalt.space
+toki-basvurum.click
 toki-basvurum.com
 toki-basvurum.loginconceptwomen.online
 toki-basvurum.org
@@ -357091,6 +357112,7 @@ toki700konutbasvuru.sbs
 tokial500binprojebasvuruekrani.com
 tokibasladi.com.tr
 tokibasquru.com
+tokibasssvur.com
 tokibasvquru.com
 tokibasvqurutoplukonut.com
 tokibasvrss.cfd
@@ -357295,6 +357317,7 @@ tokigncelbavsv.mooo.com
 tokigovbasvurulari.com
 tokigovtr.b-cdn.net
 tokigovtr.com
+tokigovtr.org
 tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
@@ -371647,6 +371670,7 @@ ultra-vest.one
 ultra-viewer.com
 ultraassimilate.top
 ultrablock.pro
+ultrabonus.digital
 ultracore.site
 ultracorebytexplz.click
 ultradelux.buzz
@@ -383425,6 +383449,7 @@ vodafonetlpaket.biz
 vodafonetlyukleme.com
 vodafonetr-yazkampynyalari.tk
 vodafonevdmdestek.com
+vodafonevdmm.com
 vodafoneyanimda.net
 vodafoneyaztlkampanyalaari.tk
 vodahelp.sytes.net
@@ -398676,6 +398701,8 @@ wwwtebbank-com.tk
 wwwtebcep.com
 wwwtipobet5401.com
 wwwtokibasvur.com
+wwwtokibasvur.online
+wwwtokibasvur.sbs
 wwwtonianatara.com
 wwwtr155polis.online
 wwwtr155polisi.online
@@ -403648,6 +403675,7 @@ xn--sonndrmbu-xpb.shop
 xn--sonndrml0erde-59b.shop
 xn--sonndrmler-zubcb.shop
 xn--sonyzfrtlsr-9zb.shop
+xn--sorgualdsnz-6zb.com
 xn--sorgulasnaagiri-n6c.app
 xn--sorgulasnaagiri-n6c.dev
 xn--sorumluluktedbirdirsalk2021-2wd73c.com
@@ -411900,6 +411928,7 @@ yetkili-vezne.weebly.com
 yetkili-veznem.724czislemhizmetleri.com
 yetkili.app
 yetkili.xyz
+yetkilibasvuru.cfd
 yetkilibayiii.com
 yetkilibayiiler-inten.com
 yetkilibayikgmodu.net

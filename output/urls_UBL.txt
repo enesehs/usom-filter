@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 07:10:30 UTC
-! Total: 335062 rules
+! Last modified: 2025-11-10 09:12:08 UTC
+! Total: 335087 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27222,6 +27222,7 @@
 *://*.aldinaldinsonfisatlar.shop/*
 *://*.aldinaldinsonguun.com/*
 *://*.aldinaldinsonsaat.online/*
+*://*.aldinaldinstenley.site/*
 *://*.aldinaldinstok100.com/*
 *://*.aldinaldintakvimi.online/*
 *://*.aldinaldintemmuz.biz.tr/*
@@ -42226,6 +42227,7 @@
 *://*.basvurularresmigovtrcom.click/*
 *://*.basvurularsizinle.com/*
 *://*.basvurularsongunsayfa.org/*
+*://*.basvurulartoki.org/*
 *://*.basvurulartoky.online/*
 *://*.basvurulartr-bnnrcgiris.online/*
 *://*.basvurulartr-girisiniz.online/*
@@ -42748,7 +42750,9 @@
 *://*.basvurutoki.pro/*
 *://*.basvurutoki.site/*
 *://*.basvurutokii.art/*
+*://*.basvurutokii.com/*
 *://*.basvurutokii.info/*
+*://*.basvurutokii.pro/*
 *://*.basvurutokii1451.xyz/*
 *://*.basvurutokiii1452.xyz/*
 *://*.basvurutokiii145858.xyz/*
@@ -43311,11 +43315,13 @@
 *://*.baykartech.live/*
 *://*.baykartech.top/*
 *://*.baykartech.world/*
+*://*.baykartechar.com/*
 *://*.baykarteknoloji.net/*
 *://*.baykarter.space/*
 *://*.baykartr.com/*
 *://*.baykartur.com/*
 *://*.baykarturk.life/*
+*://*.baykarturk.top/*
 *://*.baykarturkey.org/*
 *://*.baykarvest.com/*
 *://*.baykaryardim.com/*
@@ -62385,6 +62391,7 @@
 *://*.bsvcllee.com/*
 *://*.bsvimiceell.com/*
 *://*.bsviyjbjoxyj.com/*
+*://*.bsvlrbdatki.sbs/*
 *://*.bsvr-acikdenizv2denizonay.com/*
 *://*.bsvr-evlk.net/*
 *://*.bsvr-taki.info/*
@@ -108336,6 +108343,7 @@
 *://*.emniyet-anadolubank.ph/*
 *://*.emniyet-sorgulama.net/*
 *://*.emniyetgenelmudurlugu.com/*
+*://*.emnomics.com/*
 *://*.emnycq.top/*
 *://*.emnyetsrdipzrsx.net/*
 *://*.emobe.eu/*
@@ -124602,6 +124610,7 @@
 *://*.fylvwtlgyzq.info/*
 *://*.fym.fm/*
 *://*.fym5gserobhh.pw/*
+*://*.fynlith.com/*
 *://*.fynty.net/*
 *://*.fyosxsi.info/*
 *://*.fyoutside.com/*
@@ -134467,6 +134476,7 @@
 *://*.gralsx.xyz/*
 *://*.gralvt.xyz/*
 *://*.gralxp.xyz/*
+*://*.gramaden.com/*
 *://*.gramaj.xyz/*
 *://*.gramalj.xyz/*
 *://*.grambegeni.com/*
@@ -162810,6 +162820,7 @@
 *://*.ilkevim-basvuru.com/*
 *://*.ilkevim-basvuru.org/*
 *://*.ilkevim-basvuru.work/*
+*://*.ilkevim-basvurum.com/*
 *://*.ilkevim-bsvrum.sbs/*
 *://*.ilkevim-online-basvuru.cfd/*
 *://*.ilkevim-portal-giris.com/*
@@ -194261,6 +194272,7 @@
 *://*.linkedln.in/*
 *://*.linkedopports.com/*
 *://*.linkerit.cyou/*
+*://*.linkerit.online/*
 *://*.linkermak.online/*
 *://*.linkerservice2upgrade.bid/*
 *://*.linkerservice2upgrade.review/*
@@ -194349,6 +194361,7 @@
 *://*.lionleese.cc/*
 *://*.lionmoan.top/*
 *://*.lionsdl.fit/*
+*://*.liontrail.pro/*
 *://*.liopakerb.black/*
 *://*.liounglean.ru/*
 *://*.lip4u5.se/*
@@ -257002,6 +257015,7 @@
 *://*.secshow.net/*
 *://*.secshow.online/*
 *://*.secsorgla.net/*
+*://*.sectechnz.com/*
 *://*.sectegro.com/*
 *://*.sectiginizurunler.site/*
 *://*.sectiginizurunler.space/*
@@ -269043,6 +269057,7 @@
 *://*.sorgmsadjqwee.net/*
 *://*.sorgmstrmsere.net/*
 *://*.sorgmtrmses1970.com/*
+*://*.sorgmzuslfk.com/*
 *://*.sorgu-2025-sistemi.cyou/*
 *://*.sorgu-745566511323.com/*
 *://*.sorgu-aidatiadelerikart.com/*
@@ -269783,6 +269798,7 @@
 *://*.sosyalkonutbasvuru.net/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutbasvuuru2025.com.tr/*
+*://*.sosyalkonutevim.org/*
 *://*.sosyalkonutilkevim.com/*
 *://*.sosyalkonutilkevimilkisyerim.net/*
 *://*.sosyalkonutlar.net/*
@@ -284635,6 +284651,7 @@
 *://*.toki-basvuruekrani.sbs/*
 *://*.toki-basvuruislemleri.digital/*
 *://*.toki-basvurular-online.best/*
+*://*.toki-basvurum.click/*
 *://*.toki-basvurum.com/*
 *://*.toki-basvurum.org/*
 *://*.toki-basvurum.xyz/*
@@ -284703,6 +284720,7 @@
 *://*.tokial500binprojebasvuruekrani.com/*
 *://*.tokibasladi.com.tr/*
 *://*.tokibasquru.com/*
+*://*.tokibasssvur.com/*
 *://*.tokibasvquru.com/*
 *://*.tokibasvqurutoplukonut.com/*
 *://*.tokibasvrss.cfd/*
@@ -284861,6 +284879,7 @@
 *://*.tokigarantigiris.com/*
 *://*.tokigovbasvurulari.com/*
 *://*.tokigovtr.com/*
+*://*.tokigovtr.org/*
 *://*.tokigovtr.tk/*
 *://*.tokigovtr1.ga/*
 *://*.tokihemenbasvur.com/*
@@ -296981,6 +297000,7 @@
 *://*.ultra-viewer.com/*
 *://*.ultraassimilate.top/*
 *://*.ultrablock.pro/*
+*://*.ultrabonus.digital/*
 *://*.ultracore.site/*
 *://*.ultracorebytexplz.click/*
 *://*.ultradelux.buzz/*
@@ -306196,6 +306216,7 @@
 *://*.vodafonetlyukleme.com/*
 *://*.vodafonetr-yazkampynyalari.tk/*
 *://*.vodafonevdmdestek.com/*
+*://*.vodafonevdmm.com/*
 *://*.vodafoneyanimda.net/*
 *://*.vodafoneyaztlkampanyalaari.tk/*
 *://*.vodfaturaodeme.com/*
@@ -317217,6 +317238,8 @@
 *://*.wwwtebcep.com/*
 *://*.wwwtipobet5401.com/*
 *://*.wwwtokibasvur.com/*
+*://*.wwwtokibasvur.online/*
+*://*.wwwtokibasvur.sbs/*
 *://*.wwwtonianatara.com/*
 *://*.wwwtr155polis.online/*
 *://*.wwwtr155polisi.online/*
@@ -321448,6 +321471,7 @@
 *://*.xn--sonndrml0erde-59b.shop/*
 *://*.xn--sonndrmler-zubcb.shop/*
 *://*.xn--sonyzfrtlsr-9zb.shop/*
+*://*.xn--sorgualdsnz-6zb.com/*
 *://*.xn--sorgulasnaagiri-n6c.app/*
 *://*.xn--sorgulasnaagiri-n6c.dev/*
 *://*.xn--sorumluluktedbirdirsalk2021-2wd73c.com/*
@@ -328329,6 +328353,7 @@
 *://*.yetkili-takipbayi.com/*
 *://*.yetkili.app/*
 *://*.yetkili.xyz/*
+*://*.yetkilibasvuru.cfd/*
 *://*.yetkilibayiii.com/*
 *://*.yetkilibayiiler-inten.com/*
 *://*.yetkilibayikgmodu.net/*
