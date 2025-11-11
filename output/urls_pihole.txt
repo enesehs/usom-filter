@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 05:10:23 UTC
-# Toplam: 421059 Domain
+# Son Güncelleme: 2025-11-11 06:14:53 UTC
+# Toplam: 421067 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59470,6 +59470,7 @@ basvuruonaylari.sbs
 basvuruonaymerkezi.short.gy
 basvuruonaysayfasikayitlari.duckdns.org
 basvuruonaysmdi.duckdns.org
+basvuruonayver.xyz
 basvuruonline.org
 basvuruonline.site
 basvuruonline.tc
@@ -143118,6 +143119,7 @@ evbasvurularimiz.live
 evbasvurularimiz.sa.com
 evbasvurularimizi.pro
 evbasvurulariniz.click
+evbasvurulariyap.xyz
 evbasvurum.com
 evbasvurunuz.xyz
 evbasvurusu.com
@@ -148723,6 +148725,7 @@ felonntra.com
 felootny.ru.com
 felotj.com
 felsefeyolu.com
+felto9.sbs
 feltshirt.net
 felunato.store
 felysofke.com
@@ -220879,6 +220882,7 @@ jvp954kr.duckdns.org
 jvpghaxdt.com
 jvplqxnrtkmz.sa.com
 jvpsfunerals.co.za
+jvqpxzhw.storage.googleapis.com
 jvrzhkndzmjj.cf
 jvszln.wtf
 jvtcuw.cyou
@@ -229715,6 +229719,7 @@ kgm-gis.com
 kgm-gou.com
 kgm-gov-shop.top
 kgm-gov-tr.com
+kgm-gov-tr.cyou
 kgm-gov-tr.help
 kgm-gov-tr.icu
 kgm-gov-tr.ink
@@ -293138,6 +293143,7 @@ plekesube.com
 pleksbluetirenti.site
 plendrix.com
 plengreg.fun
+plent5.sbs
 plentifulbrown.top
 plentyofgiftbnnannce.buzz
 plenzor.com
@@ -358163,6 +358169,7 @@ toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujxhcg.vercel.app
 toplukonutbasvurukigwp.vercel.app
+toplukonutbasvurukollobbr.vercel.app
 toplukonutbasvurukvzbhku.vercel.app
 toplukonutbasvurular-45.com
 toplukonutbasvurular.com
@@ -383895,6 +383902,7 @@ vortax.space
 vortex-cloudgaming.com
 vortex-crystal.com
 vortex.ismatch.ru
+vortexal4.sbs
 vortexchase.com
 vortexgleam.shop
 vortexharbor.com
