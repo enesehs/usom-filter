@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 19:01:41 UTC
-# Toplam: 421278 Domain
+# Son Güncelleme: 2025-11-11 20:09:59 UTC
+# Toplam: 421298 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6642,6 +6642,7 @@
 1lfel1o.duckdns.org
 1lin3gpjubhmxh3o.hopto.org
 1line.news
+1lkevim-knt-proje.click
 1llc5nv.duckdns.org
 1ls1fjwdp.duckdns.org
 1lsjsnm.duckdns.org
@@ -14398,6 +14399,7 @@
 50-1-11-11-1113r111-11.sbs
 50-gb-internet.online
 500-bin-konut-basvuru.definebul.com
+500-bin-tok1.org.tr
 500-bin-toki-basvuru.referansbilisim.online
 500-binbasvurutakip.com
 50000110101.cloud
@@ -14429,6 +14431,7 @@
 50082773562.duckdns.org
 50087254931.duckdns.org
 5009a51a0347.com
+500basvuruekrani.org
 500basvurular.site
 500bin-konut.com
 500bin-konutbasvuru.cfd
@@ -40469,6 +40472,7 @@ aldnkialdnikazan.blogdns.org
 aldnkiyapcaza1o1de.ddnsgeek.com
 aldnkzcazkia1o1de.duckdns.org
 aldnn-aldnnxmrktindrmlleryle.xyz
+aldnnaldlnazlflrstlrr.com
 aldnnaldlnozlflrstlrr.com
 aldnnindrmll-firsttlrszllerle.net
 aldnnldnozlflrstlr.com
@@ -53134,6 +53138,7 @@ ayaksrg5lira5lira.net
 ayaksrg6lira6lira.net
 ayanesdomeneshaliyikanacasi.site
 ayanlo.com
+ayar-web.today
 ayasofyadayanismavakfi.com
 ayasofyayardimvakfi.com
 ayasofyaydv.com
@@ -59459,6 +59464,7 @@ basvurunuztrbnncrs.online
 basvurunuzu-buradan-yapin.cyou
 basvurunuzu-buradan-yapin.icu
 basvurunuzunhazir.com
+basvurunuzuonaylayandi.urlbee.icu
 basvurunuzutamamlayalim.net
 basvurunuzutamamlayin.site
 basvurunuzuyapabilirsiniz.urlbee.help
@@ -82358,6 +82364,7 @@ bsvrsmdi.store
 bsvrsmdii1.store
 bsvru-frsatkmpanysi2023.net
 bsvru-frstlari.online
+bsvru-t-o-k-i-500.com
 bsvru1-garntl.name.tr
 bsvru20.click
 bsvru25.click
@@ -144002,6 +144009,7 @@ evimfirsatta.click
 evimgroup.tech
 evimicin.click
 evimilkkktokiiiibasvurumm51.xyz
+evimilktokibasvur.info
 evimilktokibasvur.xyz
 eviminbunaihtiyacivar.xyz
 evimiz-turkiye.biz
@@ -185540,6 +185548,7 @@ herkesfaydalandi.com
 herkesgelirsfedtgdgider.com
 herkesgelsinberaber.online
 herkesgibi-oralardan-yillarca-iyisini-getirdikleri.top
+herkeshakettigi.click
 herkesi-mutlulukla-karsiliyoruz-burada-sizlerin-yaninda.com
 herkesicinpromosyon.online
 herkesicinsepetteurunler.com.tr
@@ -234027,6 +234036,7 @@ konutbasvurhizmetleri-89.net
 konutbasvurhizmetleri-99.net
 konutbasvuru.cfd
 konutbasvuru.com
+konutbasvuru.cyou
 konutbasvuru.online
 konutbasvuru.org
 konutbasvuruac1v58aha58sndgfa5d8c5d5.online
@@ -238529,6 +238539,7 @@ ladybughge.click
 ladyessecret.com
 ladyhop.top
 ladyinvert.top
+ladyjoy-dbvvoik.work
 ladyqdxca.com
 ladywaks10line.site
 ladzone.shop
@@ -299739,6 +299750,7 @@ pttavm.sepet-onay.com.tr
 pttavm.sepetfirsati.com.tr
 pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
+pttavm.sepetim-onayli-207426.com
 pttavm.sepetimguvenli.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
@@ -333303,6 +333315,7 @@ sitesgiris-d-blg.com
 sitesi-burasi.net
 sitestats.world
 sitestory.xyz
+siteturkcell.com
 sitewebvakfo.cfd
 siteye-git.sbs
 siteye-yonlndirici.sbs
@@ -357426,11 +357439,13 @@ toki.site
 toki.turkiye-basvuru.com
 toki.yapiyoruzbuisi.xyz
 toki.yetkilinokta.cfd
+toki.you
 toki11.elevatesolutions.sbs
 toki130konutbasvuru.sbs
 toki2025-2025yeni.blogspot.com
 toki2025basvuru.blogspot.com
 toki2025basvuru.com
+toki2025basvuru.org
 toki2025sonbasvuru.mooo.com
 toki22.digitalkick.cfd
 toki500bin.site
@@ -357901,6 +357916,7 @@ tokl2025projesi.qzz.io
 tokl500konut-projeler.com
 tokl500konut.org
 tokl500konutlar.org
+tokl500proje.com
 toklbasvrlra.com
 toklbasvrproje.com
 toklbasvruproje.com
@@ -357917,6 +357933,7 @@ tokliverinzgeln.blogspot.com
 toklprojebasv.com
 toklprojebasvru.help
 toklprojembasvru.com
+toklprojembasvru2025.com
 toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
@@ -358366,6 +358383,7 @@ toplukonutbasvurularigov.webhop.org
 toplukonutbasvurularihizlitamamla.cloud
 toplukonutbasvurum.cloud
 toplukonutbasvurumqyacsji.vercel.app
+toplukonutbasvuruoyizyt.vercel.app
 toplukonutbasvurupjwhpm.vercel.app
 toplukonutbasvuruqpshbrjg.vercel.app
 toplukonutbasvururesmi.com
@@ -372300,6 +372318,7 @@ unablefoster.top
 unableissue.top
 unad3d.xyz
 unadverseness.com
+unalemptonal.com
 unalikeapparel.com
 unampanel.ddns.net
 unanimousplaintiff.top
@@ -416372,6 +416391,7 @@ z-portalbasvr.online
 z-raatbnkfrsrtlr.sbs
 z-rrsawqweqdsssadss.xyz
 z-rrtttmonfsawdqdddwq.xyz
+z-tok.click
 z-ziraatmobil.xyz
 z.hxhk.cc
 z.madagent.tm
