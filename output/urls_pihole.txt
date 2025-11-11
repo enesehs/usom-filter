@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 06:14:53 UTC
-# Toplam: 421067 Domain
+# Son Güncelleme: 2025-11-11 08:13:01 UTC
+# Toplam: 421077 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59647,6 +59647,7 @@ basvurutoki.pro
 basvurutoki.site
 basvurutokievim.com
 basvurutokii.art
+basvurutokii.cloud
 basvurutokii.com
 basvurutokii.info
 basvurutokii.pro
@@ -93603,6 +93604,7 @@ cicekbahcesi.pro
 cicekbahcesi.site
 cicekbuketim.info
 cicekbuketim.vip
+cicekburada.co
 cicekburda.com
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
@@ -151307,6 +151309,7 @@ firsatbasladiekimguzel.chickenkiller.com
 firsatbasvur.online
 firsatbasvur.xyz
 firsatbasvurr.xyz
+firsatbasvuru.digital
 firsatbasvuruacikdenizv2denizbank.co.vu
 firsatbasvurualtiaysonraonay.online
 firsatbasvurucekiliskampanyasihmnkatill.cloud
@@ -202564,6 +202567,7 @@ ilkevimtoki.xyz
 ilkevimtoki1.sa.com
 ilkevimtoki2.sa.com
 ilkevimtokibasvur.live
+ilkevimtokibasvur.pro
 ilkevimtokibasvuru.com
 ilkevimtokibasvuru.sbs
 ilkevimtokibasvurularibasladi.blogspot.com
@@ -227297,6 +227301,7 @@ kasimdayinebirlikteyiz.com
 kasimdekampanyabitmez.online
 kasimdekampanyabitmez.xyz
 kasimfirsat.online
+kasimfirsat.shop
 kasimfirsata101.online
 kasimfirsati.shop
 kasimfirsati.site
@@ -289320,6 +289325,7 @@ partsapp.com.br
 partsignnertesi.app
 partsimulation.top
 partstop-caplimited.com
+parttimeisiniz.cloud
 partuiculier.duckdns.org
 partusog.com
 partxyukle.sg-host.com
@@ -301828,6 +301834,7 @@ puanfirsatlarimobilozle.tk
 puankampanyabasvurusuozelonline.line.pm
 puankampanyalari-mobilozel.cf
 puankampanyalari-mobilozel.ga
+puankampanyalari.pro
 puankampanyasi-bireyseleozel-firsat.club
 puankampanyasi-bireyseleozel-firsat.icu
 puankampanyasi-bireyseleozel-firsat.space
@@ -357176,6 +357183,7 @@ toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
 toki-ile.evsahibturkiye.com
+toki-ilkevim.com
 toki-ilkevim.duckdns.org
 toki-ilkevim.shop
 toki-kampanya.com
@@ -357331,6 +357339,7 @@ tokibasvuru.net
 tokibasvuru.online
 tokibasvuru.org
 tokibasvuru.sbs
+tokibasvuru.site
 tokibasvuru.tech
 tokibasvuru.work.gd
 tokibasvuru.xyz
@@ -357506,6 +357515,7 @@ tokiibasvurus.blogspot.com
 tokiibasvuruson2025.com
 tokiibasvurusu.blogspot.com
 tokiikevimprojesibasvuru.com
+tokiilemutluluk.com
 tokiilerbasvuruu.sa.com
 tokiilkevbasvur.com
 tokiilkevimbasvuru.site
