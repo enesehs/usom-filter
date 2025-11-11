@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 09:10:39 UTC
-# Toplam: 421079 Domain
+# Son Güncelleme: 2025-11-11 10:10:39 UTC
+# Toplam: 421080 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -283076,6 +283076,7 @@ ozelserisonsonbahartr.net
 ozelserviceonaymerkezi2023.online
 ozelsiparislercmtsifirst.com
 ozelsiparsslfirs.com
+ozelsistem.cfd
 ozelsizeozelsubembbva.biz.tr
 ozelsizeozelsubembbva.org.tr
 ozelsokfirsatlar.com.tr
