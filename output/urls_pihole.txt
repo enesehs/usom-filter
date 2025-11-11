@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 18:13:09 UTC
-# Toplam: 421260 Domain
+# Son Güncelleme: 2025-11-11 19:01:41 UTC
+# Toplam: 421278 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -133546,6 +133546,7 @@ efsaneflrsatlarikacirma8agustos.duckdns.org
 efsaneflrsatlarkacmaz.duckdns.org
 efsanefrstlar1o1kapinda.shop
 efsanefrstlarburada1o1.com
+efsanefrstlartukenmkuzere1o1.xyz
 efsanefrstlrkapinizda1o1.com
 efsanegeldiburada.biz.tr
 efsanegeldiburada.info.tr
@@ -139374,6 +139375,7 @@ enselez.site
 ensemblintegral.live
 ensevdigimsensin.com
 ensevdigimturkiye.cyou
+ensevdigimturkiye.xyz
 ensevdiginizurunlersizlericinsepette.online
 ensevdiginizurunlersizlericinsepette.xyz
 ensevdiginrenkne.online
@@ -143991,6 +143993,7 @@ evimbasvur2025.site
 evimbasvur2025.us
 evimbasvuru2025.com
 evimbasvuru2025.online
+evimbasvuru2025.site
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
@@ -144008,6 +144011,7 @@ evimoldu.click
 evimolsuntoki.xyz
 evimolsuntokibasvuruekrani.com
 evimprojesi.com
+evimtokibasvurkmpnya.live
 evimtokibasvurkmpnya.pro
 evimtokide500basvuruekrani.com
 evimzinherseyi.com
@@ -156202,6 +156206,7 @@ frstlr-brds.duckdns.org
 frstlrbrdaaa.duckdns.org
 frstlrburdatukenyr1o1.xyz
 frstlrdnyasnsnl.shop
+frstlrefsanetukenyr1o1.xyz
 frstlrgldikabnledenykla.com
 frstlrin-kmpnyasiii-tmmuza-ozel-smdii-al.com
 frstlrkcmzgbndeglds.shop
@@ -183818,6 +183823,7 @@ hemen-basvurfirsatiyakala.tech
 hemen-basvuru-3000tl-destek.com
 hemen-basvuru.com
 hemen-basvuruaidatiadesistembilgisi.fun
+hemen-basvurum.sbs
 hemen-basvurumdestek-portal.tk
 hemen-basvuruyapiadenial.com
 hemen-biradan.b-cdns.ru.com
@@ -228265,6 +228271,7 @@ kazan-prb.ml
 kazan.mycoinba.se
 kazan.world
 kazanabilirsin.duckdns.org
+kazanaksfsa1o1.duckdns.org
 kazanalim-yapidann.epizy.com
 kazanalim-yapii.epizy.com
 kazanalimsecimi.net
@@ -241663,6 +241670,7 @@ lkwny.duckdns.org
 lkx4iu.duckdns.org
 lkxzvu6.cn
 lkypedcl.duckdns.org
+lkytrsadw3.duckdns.org
 lkyzbpg.com
 lkzgit.com
 lkzvrpnlzv.duckdns.org
@@ -289544,6 +289552,7 @@ pasajwebmagaza.com
 pasajwebmagazasi.com
 pasajwebmarket.com
 pasajwebsite.com
+pasajwebsitesi.com
 pasala31.xyz
 pasalarcheck.com.tr
 pasalarr.buzz
@@ -315595,6 +315604,7 @@ sadece-online-ozel.site
 sadece-onlineda-a101kampanya.shop
 sadece-sanaozel.com
 sadece-trafik.dev
+sadece1o1defirsatlartr.blogspot.com
 sadece1o1defisrattr.duckdns.org
 sadecearalikayinaozel.com.tr
 sadecearalikayinaozel.online
@@ -357554,6 +357564,7 @@ tokibasvurusu.com
 tokibasvurusu.info
 tokibasvurusu.online
 tokibasvurusu.org
+tokibasvurusu2025.org
 tokibasvurusubaslamis.urlbee.icu
 tokibasvurusubizimleancak.blogspot.com
 tokibasvurusuedevlet-2137d.kxcdn.com
@@ -357594,6 +357605,8 @@ tokiden.org
 tokiden0faiz.mooo.com
 tokidenbasvur.live
 tokidenbasvuru.com
+tokidenbasvurubasladi.urlbee.icu
+tokidenbasvurusunutamamla.urlbee.icu
 tokidenilkevim.xyz
 tokidirdetok.com
 tokiebasvur.xyz
@@ -358340,6 +358353,7 @@ toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujxhcg.vercel.app
 toplukonutbasvurujytlqlk.vercel.app
+toplukonutbasvurukevtnoj.vercel.app
 toplukonutbasvurukigwp.vercel.app
 toplukonutbasvuruklgspll.vercel.app
 toplukonutbasvurukollobbr.vercel.app
@@ -358352,6 +358366,7 @@ toplukonutbasvurularigov.webhop.org
 toplukonutbasvurularihizlitamamla.cloud
 toplukonutbasvurum.cloud
 toplukonutbasvurumqyacsji.vercel.app
+toplukonutbasvurupjwhpm.vercel.app
 toplukonutbasvuruqpshbrjg.vercel.app
 toplukonutbasvururesmi.com
 toplukonutbasvurusu.com
@@ -365796,6 +365811,7 @@ tt.servicemusthave.com
 tt.sporaberturk.com
 tt.srlmetal.com
 tt.termoplys-m.com
+tt0k1-b4svr-evm.com
 tt111t11t111.info
 tt54rfdjhb34rfbnknaerg.milerteddy.com
 tt55w2s.duckdns.org
@@ -377946,6 +377962,7 @@ vakifkmpyasubatozel.xyz
 vakifkrdilimtleril.xyz
 vakifkrdionline.xyz
 vakifkrdnguzel.xyz
+vakifkredi-bilgisistemi.click
 vakifkredi.online
 vakifkredibankasi.co.vu
 vakifkredibasvurasamagiris.click
@@ -410807,6 +410824,7 @@ yenibvruu.click
 yenibvruu20.click
 yenibvruu30.click
 yenibvruu40.click
+yenibvruu70.click
 yenibvruu80.click
 yenibvruu90.click
 yenicagir.online
