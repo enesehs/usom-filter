@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-11 11:08:40 UTC
-! Total: 335259 rules
+! Last modified: 2025-11-11 12:23:18 UTC
+! Total: 335278 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8842,6 +8842,7 @@
 *://*.424443451255.cloud/*
 *://*.42444446547.cloud/*
 *://*.424454598033398.xyz/*
+*://*.4246050502729503.com/*
 *://*.42484454546.xyz/*
 *://*.4251521521.shop/*
 *://*.4253153316836601.com/*
@@ -9501,6 +9502,7 @@
 *://*.500binkonutyerlesim.com/*
 *://*.500binsosyalkonut.com/*
 *://*.500binsosyalkonut.xyz/*
+*://*.500binsosyalkonutbasvuru.com/*
 *://*.500binsosyalkonutbasvuru.org/*
 *://*.500bintokievimbasvuruekrani.com/*
 *://*.500bintokikonutlaribasvuruekrani.com/*
@@ -72015,6 +72017,7 @@
 *://*.cicekse.info/*
 *://*.cicekse.online/*
 *://*.cicekse.shop/*
+*://*.cicekse.store/*
 *://*.cicekse.xyz/*
 *://*.ciceksensin.shop/*
 *://*.ciceksepeti.ml/*
@@ -91373,6 +91376,7 @@
 *://*.dmadeneme.xyz/*
 *://*.dmaks21os.net/*
 *://*.dman33ualfascinating.top/*
+*://*.dmanoldim.click/*
 *://*.dmarisbayhotel.com/*
 *://*.dmarisbayhotelresort.com/*
 *://*.dmarisbayhotelspa.com/*
@@ -114147,6 +114151,7 @@
 *://*.evimgroup.tech/*
 *://*.evimicin.click/*
 *://*.evimilkkktokiiiibasvurumm51.xyz/*
+*://*.evimilktokibasvur.xyz/*
 *://*.eviminbunaihtiyacivar.xyz/*
 *://*.evimiz-turkiye.biz/*
 *://*.evimiz-turkiye.xyz/*
@@ -125206,6 +125211,7 @@
 *://*.ganadineroextra.club/*
 *://*.ganadineroextra.site/*
 *://*.ganakiy.com/*
+*://*.gananswidhqgdwdbbagw.cfd/*
 *://*.ganardinerohrbkg.shop/*
 *://*.ganardineroksdjd.shop/*
 *://*.ganarti.com/*
@@ -139519,6 +139525,7 @@
 *://*.habersosyalmedya.site/*
 *://*.haberspeedsayfasi.click/*
 *://*.habertmy.site/*
+*://*.habertoki724.com/*
 *://*.habertrend.online/*
 *://*.habertrend.site/*
 *://*.habertur.club/*
@@ -183847,6 +183854,7 @@
 *://*.kasimbasladi.co/*
 *://*.kasimbasvuru-acikdenizonayhediye.com/*
 *://*.kasimbasvuru.click/*
+*://*.kasimbasvurulari.org/*
 *://*.kasimbildirimler1.com.tr/*
 *://*.kasimbildirimler1.online/*
 *://*.kasimbncasdestektr.com/*
@@ -196710,6 +196718,7 @@
 *://*.lylink.online/*
 *://*.lymantase.com/*
 *://*.lymbtafehotg.info/*
+*://*.lymeta5.sbs/*
 *://*.lymggswoxxmuobs.su/*
 *://*.lymh.net/*
 *://*.lymhmczmdsbxsryi.io/*
@@ -238545,6 +238554,7 @@
 *://*.projeler-toki-buradan.icu/*
 *://*.projeler-toki-buradan.sbs/*
 *://*.projemhemen.online/*
+*://*.projemhemen.site/*
 *://*.projemizvarbayramdan.com/*
 *://*.projeniz.org/*
 *://*.projeresmi.sbs/*
@@ -248079,6 +248089,7 @@
 *://*.reklink457.site/*
 *://*.rekllamb-basvrum.com/*
 *://*.reklm.link/*
+*://*.reklma-basvrm-burada.com/*
 *://*.reklmkmpnya.site/*
 *://*.reklmlrsvktm.shop/*
 *://*.rekolseforonorek1.com.tr/*
@@ -269162,9 +269173,11 @@
 *://*.sorgburada.cfd/*
 *://*.sorgcl.com/*
 *://*.sorghasrtrmkm.com/*
+*://*.sorghizmetleriniz.cfd/*
 *://*.sorgl-l.com/*
 *://*.sorgl.online/*
 *://*.sorglans.xyz/*
+*://*.sorglarburdasub.com/*
 *://*.sorglardesteks.com.tr/*
 *://*.sorglarhepburda.cfd/*
 *://*.sorglarimburda.cfd/*
@@ -280298,6 +280311,7 @@
 *://*.tek-basvuru-yillik-kart-ucret-kesinti-itiraz.xyz/*
 *://*.tek-giris-size-ozel-kvyt.online/*
 *://*.tek-haber.site/*
+*://*.tek-page.digital/*
 *://*.tek-seveceginiz.com/*
 *://*.tek-turkiyegov-tr2023.com/*
 *://*.tek.link/*
@@ -285082,6 +285096,7 @@
 *://*.tokikonutidaresi.org/*
 *://*.tokikonutlar.xyz/*
 *://*.tokikonutlari-2025.com/*
+*://*.tokikonutlari.com.tr/*
 *://*.tokikonutlari.xyz/*
 *://*.tokikonutlaribasvru.click/*
 *://*.tokikonutlaribasvuru.cloud/*
@@ -285172,16 +285187,19 @@
 *://*.tokl500konut.org/*
 *://*.tokl500konutlar.org/*
 *://*.toklbasvrlra.com/*
+*://*.toklbasvrproje.com/*
 *://*.toklbasvyryap.org/*
 *://*.toklbsvrbrd.online/*
 *://*.toklbsvrlaribrda.online/*
 *://*.toklbsvrrlari.org/*
 *://*.toklgovtr.sbs/*
+*://*.toklprojebasv.com/*
 *://*.toklprojebasvru.help/*
 *://*.toknohaftasonuindirimin.net/*
 *://*.toknowall.com/*
 *://*.toko-3.vip/*
 *://*.tokobundo.my.id/*
+*://*.tokonum.com.tr/*
 *://*.tokonutlar.com.tr/*
 *://*.tokonutlarimiz.com.tr/*
 *://*.tokonutlarimiz.xyz/*
@@ -303391,6 +303409,7 @@
 *://*.vdxwxw.click/*
 *://*.vdyplandrmasondonem.net/*
 *://*.ve-hlahte.net/*
+*://*.ve-islemleri.com/*
 *://*.ve-islemleriniz.com/*
 *://*.ve-ldfeme.net/*
 *://*.ve-lfdgiddem.net/*

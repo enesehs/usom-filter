@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 11:08:40 UTC
-# Toplam: 421083 Domain
+# Son Güncelleme: 2025-11-11 12:23:18 UTC
+# Toplam: 421107 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13102,6 +13102,7 @@
 424443451255.cloud
 42444446547.cloud
 424454598033398.xyz
+4246050502729503.com
 42484454546.xyz
 424w7.shivb1.com
 4251521521.shop
@@ -14464,6 +14465,7 @@
 500binkonutyerlesim.com
 500binsosyalkonut.com
 500binsosyalkonut.xyz
+500binsosyalkonutbasvuru.com
 500binsosyalkonutbasvuru.org
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
@@ -93697,6 +93699,7 @@ ciceksaatim.store
 cicekse.info
 cicekse.online
 cicekse.shop
+cicekse.store
 cicekse.xyz
 ciceksensin.shop
 ciceksepeti.hicaku.com
@@ -117676,6 +117679,7 @@ dmadeneme.xyz
 dmak777.ddns.net
 dmaks21os.net
 dman33ualfascinating.top
+dmanoldim.click
 dmar305.zapto.org
 dmar32.duckdns.org
 dmarisbayhotel.com
@@ -143954,6 +143958,7 @@ evimfirsatta.click
 evimgroup.tech
 evimicin.click
 evimilkkktokiiiibasvurumm51.xyz
+evimilktokibasvur.xyz
 eviminbunaihtiyacivar.xyz
 evimiz-turkiye.biz
 evimiz-turkiye.xyz
@@ -157851,6 +157856,7 @@ gamzekurumlari.com
 ganadineroextra.club
 ganadineroextra.site
 ganakiy.com
+gananswidhqgdwdbbagw.cfd
 ganardinerohrbkg.shop
 ganardineroksdjd.shop
 ganarti.com
@@ -175102,6 +175108,7 @@ habersosyalmedya.online
 habersosyalmedya.site
 haberspeedsayfasi.click
 habertmy.site
+habertoki724.com
 habertrend.online
 habertrend.site
 habertur.club
@@ -197562,6 +197569,7 @@ i7pml9wl.duckdns.org
 i7qims0s.duckdns.org
 i7ruga16.duckdns.org
 i801b8.com
+i85ooxlh.storage.googleapis.com
 i87hur5rq2qvofmrobaxars.ddns.net
 i89bydzi.dynns.com
 i8a6qfgjc6u6u01rg8sx5lg.ddns.net
@@ -202620,6 +202628,7 @@ ilkkayvakfi.com
 ilkkayvakfi.org
 ilkkonut-basvuru.com
 ilkkonut.click
+ilkkonutbasvurulari500bin.wordpress.com
 ilkkonutum.click
 ilkkonutumm.sbs
 ilknur.pro
@@ -213528,6 +213537,7 @@ istmmllsad.com
 istmmrkrlslykleee.com
 istmn.net
 istmnblkaart.net
+istmnblrmzndas.giize.com
 istmnkart.blogspot.com
 istmusicc.surf
 istmvlanca.myshopify.com
@@ -227265,6 +227275,7 @@ kasimaylarikaracadan.xyz
 kasimbasladi.co
 kasimbasvuru-acikdenizonayhediye.com
 kasimbasvuru.click
+kasimbasvurulari.org
 kasimbildirimler1.com.tr
 kasimbildirimler1.online
 kasimbncasdestektr.com
@@ -244240,6 +244251,7 @@ lyle.homedns.org
 lylink.online
 lymantase.com
 lymbtafehotg.info
+lymeta5.sbs
 lymggswoxxmuobs.su
 lymhmczmdsbxsryi.io
 lymiqa.com
@@ -272999,6 +273011,7 @@ ocwkqpthkn.duckdns.org
 oczan-wave.online
 od-pttgov.top
 od.lk
+od3meh1zm3tleri.duckdns.org
 od3v3rgi.com
 od3v3rgi.net
 od666y3.duckdns.org
@@ -297060,6 +297073,7 @@ projeler-toki-buradan.icu
 projeler-toki-buradan.sbs
 projelerinyili2025.b-cdn.net
 projemhemen.online
+projemhemen.site
 projemizvarbayramdan.com
 projeniz.org
 projeresmi.sbs
@@ -299648,6 +299662,7 @@ pttavm.urunler-vitrin.com
 pttavm.urunlerle-tr.com
 pttavm.urunsatislari.com
 pttavm.uygunfirsat.com.tr
+pttavm.ve-islemleri.com
 pttavm.vitringuvence.com.tr
 pttavm.web-ile-islemleriniz.com
 pttavm.web-trilan.com
@@ -309678,6 +309693,7 @@ reklink341.site
 reklink457.site
 rekllamb-basvrum.com
 reklm.link
+reklma-basvrm-burada.com
 reklmkmpnya.site
 reklmlnklbntrss.vercel.app
 reklmlnklbnwtr.vercel.app
@@ -337970,10 +337986,12 @@ sorgahizmeti.com
 sorgburada.cfd
 sorgcl.com
 sorghasrtrmkm.com
+sorghizmetleriniz.cfd
 sorgl-l.com
 sorgl.online
 sorglamhemen.web.app
 sorglans.xyz
+sorglarburdasub.com
 sorglardesteks.com.tr
 sorglarhepburda.cfd
 sorglarimburda.cfd
@@ -351763,6 +351781,7 @@ tek-basvuru-yillik-kart-ucret-kesinti-itiraz-basvuru-geri-odeme.xyz
 tek-basvuru-yillik-kart-ucret-kesinti-itiraz.xyz
 tek-giris-size-ozel-kvyt.online
 tek-haber.site
+tek-page.digital
 tek-seveceginiz.com
 tek-turkiyegov-tr2023.com
 tek.link
@@ -357220,6 +357239,7 @@ toki-yonlendirme.online
 toki-yuvam.click
 toki-yuvam.forum
 toki.2024ocak-kampanyasi.vip
+toki.2025evgrtkibsvn.it.com
 toki.2025jtkibsvrsnikot.sbs
 toki.2025onlineislemler.sbs
 toki.2025sghbsvbsvr.sbs
@@ -357571,6 +357591,7 @@ tokikonutidaresi.org
 tokikonutlar.duckdns.org
 tokikonutlar.xyz
 tokikonutlari-2025.com
+tokikonutlari.com.tr
 tokikonutlari.xyz
 tokikonutlaribasvru.click
 tokikonutlaribasvuru.cloud
@@ -357741,6 +357762,7 @@ tokl500konut-projeler.com
 tokl500konut.org
 tokl500konutlar.org
 toklbasvrlra.com
+toklbasvrproje.com
 toklbasvuruadresl.duckdns.org
 toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
@@ -357751,11 +357773,13 @@ toklerbasvuru.blogspot.com
 toklgovtr.sbs
 toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
+toklprojebasv.com
 toklprojebasvru.help
 toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
 tokobundo.my.id
+tokonum.com.tr
 tokonutlar.com.tr
 tokonutlarimiz.com.tr
 tokonutlarimiz.xyz
