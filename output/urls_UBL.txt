@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-11 00:43:32 UTC
-! Total: 335229 rules
+! Last modified: 2025-11-11 02:26:21 UTC
+! Total: 335238 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40558,6 +40558,7 @@
 *://*.basvrlmztkki.sbs/*
 *://*.basvrlrmzknttki.sbs/*
 *://*.basvrlrmzknttkii.sbs/*
+*://*.basvrm-bruda-reklma.com/*
 *://*.basvrmerkezgrishemnkaytol.com/*
 *://*.basvrmerkezgriskaytol.com/*
 *://*.basvrmerkezi.online/*
@@ -68439,6 +68440,7 @@
 *://*.cassiatora.name.tr/*
 *://*.cassiduloid.com/*
 *://*.cassinaweb.com/*
+*://*.cast-oto.com/*
 *://*.cast73.xyz/*
 *://*.castaldiart.com/*
 *://*.castb.click/*
@@ -79330,6 +79332,7 @@
 *://*.cwzavo.com/*
 *://*.cwztipfmu.com/*
 *://*.cx-fgr-binance-campaign.net/*
+*://*.cx-tok.click/*
 *://*.cx4xzuwesx.com/*
 *://*.cxbdf.icu/*
 *://*.cxbha.icu/*
@@ -114157,6 +114160,7 @@
 *://*.evindekaldiye20gbhediye.net/*
 *://*.evindepaketle.net/*
 *://*.evindirim.click/*
+*://*.evinesahipol.org/*
 *://*.evineteslim.com.tr/*
 *://*.evineteslim.site/*
 *://*.evineteslimoto.online/*
@@ -188967,6 +188971,7 @@
 *://*.konutbasvurusu.com/*
 *://*.konutbasvurusu.net/*
 *://*.konutbasvurusu.org/*
+*://*.konutbasvurusu.sbs/*
 *://*.konutbasvurusuhizliform.cloud/*
 *://*.konutbasvurusutoki.art/*
 *://*.konutbasvurusutoki.com/*
@@ -188975,6 +188980,7 @@
 *://*.konutbasvurutamamla.cloud/*
 *://*.konutbasvutrlarindansongunler.cloud/*
 *://*.konutbilgi.click/*
+*://*.konutbilgilendirme.org/*
 *://*.konutborsasi.online/*
 *://*.konutbul.click/*
 *://*.konutcan.com/*
@@ -197897,6 +197903,7 @@
 *://*.mah0ney.com/*
 *://*.mahallafond.com/*
 *://*.mahalledekideli.site/*
+*://*.mahallekasimindirimlerinikacirma.shop/*
 *://*.mahanheat.com/*
 *://*.mahb4.com.tr/*
 *://*.mahcikles.site/*
@@ -245160,6 +245167,7 @@
 *://*.quantaglitch.live/*
 *://*.quantara.sbs/*
 *://*.quantari.sbs/*
+*://*.quantariq6.sbs/*
 *://*.quantavibe.online/*
 *://*.quantexagroup.autos/*
 *://*.quantflare.live/*
@@ -327124,6 +327132,7 @@
 *://*.yenibvruu20.click/*
 *://*.yenibvruu30.click/*
 *://*.yenibvruu40.click/*
+*://*.yenibvruu80.click/*
 *://*.yenicagir.online/*
 *://*.yenicanersler.com/*
 *://*.yenicebsubem.com/*
