@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-10 23:08:32 UTC
-! Total: 335224 rules
+! Last modified: 2025-11-11 00:43:32 UTC
+! Total: 335229 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62319,6 +62319,7 @@
 *://*.brztnek.es/*
 *://*.bs-hsmesxlrl.net/*
 *://*.bs-mcll.com/*
+*://*.bs-tok.click/*
 *://*.bsacierwh.com/*
 *://*.bsaldo.com/*
 *://*.bsasssssvrufirrsatlarrri.xyz/*
@@ -211861,6 +211862,7 @@
 *://*.nallaaala.online/*
 *://*.nalnalnlatata.net/*
 *://*.naltbuckya.ru/*
+*://*.naltlnakantkama.online/*
 *://*.nalyticaltenan.top/*
 *://*.namazvergisi.net/*
 *://*.name-kampanya1.site/*
@@ -285002,6 +285004,7 @@
 *://*.tokigovtr.org/*
 *://*.tokigovtr.tk/*
 *://*.tokigovtr1.ga/*
+*://*.tokigovtrresmi------toki-----govtremdmddmdmn.store/*
 *://*.tokihaber724.com/*
 *://*.tokihemenbasvur.com/*
 *://*.tokihouse.digital/*
@@ -289679,6 +289682,7 @@
 *://*.treparibu.com/*
 *://*.trepmob.sbs/*
 *://*.treporter.com/*
+*://*.tresiq10.sbs/*
 *://*.tresjomert.com/*
 *://*.tresubevakifbank.com/*
 *://*.tretanetokera.top/*
@@ -308730,6 +308734,7 @@
 *://*.web-randevum.com/*
 *://*.web-rank.cc/*
 *://*.web-rank.pw/*
+*://*.web-rapor.digital/*
 *://*.web-saderat.store/*
 *://*.web-saderat1.shop/*
 *://*.web-sahibinden.com/*

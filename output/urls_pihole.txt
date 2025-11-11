@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-10 23:08:32 UTC
-# Toplam: 421034 Domain
+# Son Güncelleme: 2025-11-11 00:43:32 UTC
+# Toplam: 421044 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3223,6 +3223,7 @@
 10yilozelethkampanyasi.com
 10yilozelkampanyalaripro.com
 10ylndvm.duckdns.org
+10yotlctt.storage.googleapis.com
 10yri17wh.duckdns.org
 11-111--123333.cloud
 11-15-sdfdxdf-fdxgf-gfxgh-vhgbj-ffdxgf.com
@@ -15145,6 +15146,7 @@
 5645780.c1.biz
 5646150000.cloud
 564625246.cloud
+5646545645644j46544.duckdns.org
 564654654654654654654654.xyz
 564788722164562.shop
 564898664.com
@@ -81905,6 +81907,7 @@ brzjmnnccell.com
 bs-ftp.ddns.net
 bs-hsmesxlrl.net
 bs-mcll.com
+bs-tok.click
 bs017x1hr.duckdns.org
 bs36de.duckdns.org
 bs42r8.duckdns.org
@@ -218522,6 +218525,7 @@ jcrxn.com
 jcsengenhariacivil.com.br
 jcshannonpasharepoint.pages.dev
 jcsspymbqpxo.xyz
+jcstiossdzj0.storage.googleapis.com
 jctmep.com
 jcwlf.com
 jcwqatkbjw.duckdns.org
@@ -264017,6 +264021,7 @@ nalitravel.co.za
 nalkfnalkfbaddsfasdfpoldo.info
 nallaaala.online
 nalnalnlatata.net
+naltlnakantkama.online
 nalyticaltenan.top
 naman-pn2.usa.cc
 namananananf.hopto.org
@@ -357466,6 +357471,7 @@ tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
 tokigovtrr.b-cdn.net
+tokigovtrresmi------toki-----govtremdmddmdmn.store
 tokihaber724.com
 tokihemenbasvur.com
 tokihouse.digital
@@ -358143,6 +358149,7 @@ toplukonutbasvurubuzcr.vercel.app
 toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
 toplukonutbasvurujxhcg.vercel.app
+toplukonutbasvurukigwp.vercel.app
 toplukonutbasvurular-45.com
 toplukonutbasvurular.com
 toplukonutbasvurulari.cloud
@@ -358157,6 +358164,7 @@ toplukonutbasvurusu.vercel.app
 toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
+toplukonutbasvuruxmyrq.vercel.app
 toplukonutbasvuruzamani2025jj.duckdns.org
 toplukonutbasvuruzhuspm.vercel.app
 toplukonutidaresi.app
@@ -362997,6 +363005,7 @@ treparibu.com
 trepmob.sbs
 treporter.com
 trerrrerre.duckdns.org
+tresiq10.sbs
 tresjomert.com
 tresklkeres5432.blogspot.com
 tresubevakifbank.com
@@ -386861,6 +386870,7 @@ web-ramazanayidestek.com
 web-randevum.com
 web-rank.cc
 web-rank.pw
+web-rapor.digital
 web-saderat.store
 web-saderat1.shop
 web-sahibinden.com
