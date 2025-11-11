@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 20:09:59 UTC
-# Toplam: 421298 Domain
+# Son Güncelleme: 2025-11-11 21:08:10 UTC
+# Toplam: 421315 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14465,6 +14465,7 @@
 500binkonutprojesi.com
 500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
+500binkonutprojesibasvurusu.urlbee.icu
 500binkonutum.sbs
 500binkonutyerlesim.com
 500binsosya1konut.com.tr
@@ -14476,6 +14477,7 @@
 500binsosyalkonutbasvuru.org
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
+500bintokikonutprojesiacildi.urlbee.help
 500bintopluhane.com
 500bintopluhaneler.com
 500bintoplukonut.com
@@ -58305,6 +58307,7 @@ basvuru-onlinedenizsube.com
 basvuru-onlinedenizsubesiz.com
 basvuru-onlinehalk.com
 basvuru-onlines.cfd
+basvuru-onlinne.sbs
 basvuru-ozel-aidat-geri-iade.com
 basvuru-paariibuhediyeteknolojisi-com.tk
 basvuru-paribuhediye1teknolojisi-com.tk
@@ -59021,6 +59024,7 @@ basvurularailegenc.com
 basvurularailegenc.com.tr
 basvurularaliniyor.xyz
 basvurularbasladi.com
+basvurularbasladi.neocities.org
 basvurularbasladi.netlify.app
 basvurularbasladigovtr.com
 basvurularbitiyor.cloud
@@ -82323,6 +82327,7 @@ bsvrmkggx.site
 bsvrmkggy.site
 bsvrmkggz.site
 bsvrmmurkzi.sbs
+bsvrmrkzniknttkii.sbs
 bsvrn-ak-yeniyil.xyz
 bsvrnoktasihzlihemnbasvr.com
 bsvrqrpgsm.bogaccicekcilik.com.tr
@@ -121288,6 +121293,7 @@ dunamistrd.com
 duncan-technologies.net
 duncy.life
 dundar.pro
+dundarfidan44-mkcoq.wordpress.com
 dundenbugunealisveris.online
 dunefoam.top
 duneharbor.site
@@ -144009,6 +144015,7 @@ evimfirsatta.click
 evimgroup.tech
 evimicin.click
 evimilkkktokiiiibasvurumm51.xyz
+evimilktokibasvur.art
 evimilktokibasvur.info
 evimilktokibasvur.xyz
 eviminbunaihtiyacivar.xyz
@@ -144031,6 +144038,7 @@ evindekal2020.com
 evindekaldiye20gbhediye.net
 evindepaketle.net
 evindirim.click
+evinebasvuru.org
 evinesahipol.org
 evineteslim.com.tr
 evineteslim.site
@@ -202684,6 +202692,7 @@ ilkevtokiresmibasvurukanali.com
 ilkevtoklibasvru.cfd
 ilkevtoklibasvru.help
 ilkevtoklibasvru.top
+ilkevviiimmbasruutookii82.online
 ilkfirsat-mobilingiris.xyz
 ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
@@ -219510,6 +219519,7 @@ jliwckkr55l8hpdi.info
 jljoxhls.duckdns.org
 jlk-comercial.com
 jllmnn.site
+jllmnns.site
 jllp1.site
 jlmnahzxr.com
 jlnnm1.xyz
@@ -234097,6 +234107,7 @@ konutemlakgayrimenkul.online
 konutemlkodemeler.net
 konutevim.org
 konutevim2025.org
+konutevin2025.org
 konutevinbasvurusu.org
 konutevinebasvur.org
 konutevlerihazirlaniyor.cloud
@@ -311322,6 +311333,7 @@ resvat.co
 resvat.com
 reswloofeuue.space
 reta5.s3.eu-north-1.amazonaws.com
+retail-attached-hewlett-librarian.trycloudflare.com
 retail-santander.com
 retail-santander.org
 retaildemo.info
@@ -340569,6 +340581,7 @@ sponsorxs.cfd
 sponsoryonlendirmebntr.com
 sponsotinegiriyombe.com
 sponsporlugonderi.onlinemagazaislemlerin.com
+sponsrdgarntikampanyalari.com
 sponsrklu1o1firsat.duckdns.org
 sponsrlklu1o1frsatlarkacmazzz.com
 sponsrlu-onlinevakf.duckdns.org
@@ -349890,6 +349903,7 @@ tcbakanliklar.com
 tcbasbakanlik.com
 tcbaskanligi.ml
 tcbasvurgovtr.online
+tcbasvuru.cfd
 tcbasvuruziraat.com
 tcbbaskanlikuygulamasi.com
 tcbbaskanlikuygulamasi99.com
@@ -357622,6 +357636,7 @@ tokidenbasvur.live
 tokidenbasvuru.com
 tokidenbasvurubasladi.urlbee.icu
 tokidenbasvurusunutamamla.urlbee.icu
+tokidenevler.xyz
 tokidenilkevim.xyz
 tokidirdetok.com
 tokiebasvur.xyz
@@ -409453,6 +409468,7 @@ yasamdestegi.org
 yasamdestek.cf
 yasamdestek.online
 yasamdongusu.shop
+yasamevim81.cfd
 yasamevimilkprojekonut81.cfd
 yasamgenclikvakfi.org
 yasamguzel.info
@@ -410841,6 +410857,7 @@ yenibosvurusorgulamazirat.com
 yenibutik.fun
 yenibvruu.click
 yenibvruu20.click
+yenibvruu200.click
 yenibvruu30.click
 yenibvruu40.click
 yenibvruu70.click
