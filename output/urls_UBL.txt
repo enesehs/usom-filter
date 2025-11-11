@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-11 15:10:41 UTC
-! Total: 335318 rules
+! Last modified: 2025-11-11 16:11:37 UTC
+! Total: 335382 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9478,6 +9478,7 @@
 *://*.500bin-konut.com/*
 *://*.500bin-konutbasvuru.cfd/*
 *://*.500binasrinprojesi.com/*
+*://*.500binbasvuruekrani.org/*
 *://*.500binhazirkonutrojesi.cloud/*
 *://*.500binilkevim.com/*
 *://*.500binkontprojesi.com/*
@@ -9500,6 +9501,7 @@
 *://*.500binkonutprojesibasvuruekrani.com/*
 *://*.500binkonutum.sbs/*
 *://*.500binkonutyerlesim.com/*
+*://*.500binsosya1konut.com.tr/*
 *://*.500binsosya1konut.cyou/*
 *://*.500binsosya1konut.xyz/*
 *://*.500binsosyalkonut.com/*
@@ -19976,6 +19978,7 @@
 *://*.aerocorpevionics.com/*
 *://*.aerofluidthermo.org/*
 *://*.aeromexi.co/*
+*://*.aeronowva.com/*
 *://*.aeroplans.info/*
 *://*.aeropoer.top/*
 *://*.aerosolesyservicios.com.ar/*
@@ -30542,6 +30545,7 @@
 *://*.anita1898kurovsk1.xyz/*
 *://*.anitafoam.com/*
 *://*.anitagaribaldi.app/*
+*://*.anittek.com/*
 *://*.anixzirete.xyz/*
 *://*.aniymansngihynenrne.com/*
 *://*.anjau2.cfd/*
@@ -33771,6 +33775,7 @@
 *://*.aribuyeniyilda.com/*
 *://*.aricente.com/*
 *://*.aridgena.com/*
+*://*.aridgenix.com/*
 *://*.aridlytica.com/*
 *://*.ariehandomri.com/*
 *://*.arieirawanfauzi.com/*
@@ -35220,6 +35225,7 @@
 *://*.astatize.com/*
 *://*.astdg.top/*
 *://*.astedams.it/*
+*://*.astelyra.com/*
 *://*.asteroidroom.space/*
 *://*.astforum.net/*
 *://*.asth.app/*
@@ -36076,6 +36082,8 @@
 *://*.automobileration.top/*
 *://*.automotosport.net/*
 *://*.automtionsectator.top/*
+*://*.autoniriumx.com/*
+*://*.autonironic.com/*
 *://*.autonomousillicit.top/*
 *://*.autonomousmalice.top/*
 *://*.autonomyherald.top/*
@@ -40391,6 +40399,7 @@
 *://*.basinclik6.shop/*
 *://*.basinclikarcherk6.shop/*
 *://*.basinclimk6.store/*
+*://*.basincx.com/*
 *://*.basinda-ugradik-gelenden-gelip-gitmeden-almalisin.com/*
 *://*.basinda-ugradik-kacmadan-gelip-gitmeden-alalim.com/*
 *://*.basinduyuruluk.com/*
@@ -52450,6 +52459,7 @@
 *://*.biotechreview.net/*
 *://*.biotechtoday.co.uk/*
 *://*.biotecstudio.mx/*
+*://*.biotoki.site/*
 *://*.biototec.co/*
 *://*.biovitaminonline.com/*
 *://*.bioworksinc.com/*
@@ -56892,6 +56902,7 @@
 *://*.blkviewz.com/*
 *://*.blkwav.com/*
 *://*.blkwinz.com/*
+*://*.blkyoo.com/*
 *://*.bllcemlll.com/*
 *://*.bllcllhizmet.com/*
 *://*.bllcmellodele.com/*
@@ -62358,11 +62369,13 @@
 *://*.bsdfsdtrcsd.com/*
 *://*.bsdk-islemler.com/*
 *://*.bsdrin.top/*
+*://*.bseabee.com/*
 *://*.bseafun.com/*
 *://*.bseaguy.com/*
 *://*.bseahit.com/*
 *://*.bseajoy.com/*
 *://*.bseasea.com/*
+*://*.bseazen.com/*
 *://*.bsehuehfeirif.top/*
 *://*.bsehuehfeiril.cc/*
 *://*.bsehuehfeirir.top/*
@@ -64034,6 +64047,7 @@
 *://*.buildviet.info/*
 *://*.buildvogue.top/*
 *://*.buildwellpak.com/*
+*://*.buildwise.buzz/*
 *://*.buildwith307.com/*
 *://*.buildyoursalon.com/*
 *://*.builtgoogle.top/*
@@ -68416,6 +68430,7 @@
 *://*.cashlazim.net/*
 *://*.cashleproblem.com/*
 *://*.cashmere.com.tr/*
+*://*.cashmonal.com/*
 *://*.cashmybycash.info/*
 *://*.cashnow.ee/*
 *://*.cashoutguide.com/*
@@ -70905,6 +70920,7 @@
 *://*.cesmesubesi-ekim.com/*
 *://*.cessdtv.com/*
 *://*.cesurbakkalonline.online/*
+*://*.cesurio.com/*
 *://*.cesurlar.win/*
 *://*.cesyasa.click/*
 *://*.cetalischi.com/*
@@ -73171,6 +73187,7 @@
 *://*.cleartransient.top/*
 *://*.clearultra.top/*
 *://*.clearviewuae.com/*
+*://*.clearwave.buzz/*
 *://*.clearworksystem.coach/*
 *://*.clebervidros.com/*
 *://*.cleeverss.com/*
@@ -81793,6 +81810,7 @@
 *://*.dengebilisimdendevv.com/*
 *://*.dengebonybonysis.site/*
 *://*.dengeleryerd.store/*
+*://*.dengely.com/*
 *://*.dengenoesesdes010203.site/*
 *://*.dengesizler.online/*
 *://*.dengesonsus.site/*
@@ -93457,6 +93475,7 @@
 *://*.dreamuygunkiralama.online/*
 *://*.dreamwatching.ink/*
 *://*.dreamweaverhollow.org/*
+*://*.dreamweaverlodge.com/*
 *://*.dreamy-job.com/*
 *://*.dreamy-jobs.com/*
 *://*.dreamycareer.com/*
@@ -93571,6 +93590,7 @@
 *://*.drivethrough.top/*
 *://*.driveword.top/*
 *://*.driving32.xyz/*
+*://*.drivomaticx.com/*
 *://*.drjozain.top/*
 *://*.drk-frsksksmfpwqeasda.xyz/*
 *://*.drk-ssssswwwwww.xyz/*
@@ -114086,6 +114106,7 @@
 *://*.everettholland76.xyz/*
 *://*.evergi-tasit.com/*
 *://*.evergiler.com/*
+*://*.evergrovia.com/*
 *://*.evergsanace.net/*
 *://*.everification-session-load.com/*
 *://*.everitual.top/*
@@ -114906,6 +114927,7 @@
 *://*.exacttimid.top/*
 *://*.exaggeratevibrate.top/*
 *://*.exaggerationamplify.top/*
+*://*.exalvia.com/*
 *://*.exam-reveal-picture.com/*
 *://*.examaftermath.top/*
 *://*.exameendorse.top/*
@@ -122200,6 +122222,7 @@
 *://*.florian-koenig.de/*
 *://*.florievenimente.com/*
 *://*.florin-skincare.com/*
+*://*.florisynth.com/*
 *://*.florizonix.com/*
 *://*.flornclearvint.top/*
 *://*.floryi.com/*
@@ -122236,6 +122259,7 @@
 *://*.flowit.pics/*
 *://*.flowlinevalve.com/*
 *://*.flowmatrix.online/*
+*://*.flowmind.buzz/*
 *://*.flowmudy.com/*
 *://*.flowpulse.click/*
 *://*.flowrulesbreathtaking.shop/*
@@ -123786,6 +123810,7 @@
 *://*.freshchat.info/*
 *://*.freshcomplacency.top/*
 *://*.freshconnect.live/*
+*://*.freshcore.buzz/*
 *://*.freshdepor.com/*
 *://*.freshdesk.com/*
 *://*.freshenvironmentaldesigns.com/*
@@ -125028,6 +125053,7 @@
 *://*.gahusuhgwqhuqwi-wfqhuwfquhas.sbs/*
 *://*.gahydoh.com/*
 *://*.gahyvew.com/*
+*://*.gaiatrail.com/*
 *://*.gaibarricade.top/*
 *://*.gaibasis.top/*
 *://*.gaiboundary.top/*
@@ -135495,6 +135521,7 @@
 *://*.grovestro.com/*
 *://*.grow-light.online/*
 *://*.growcapitall.net/*
+*://*.growelocity.com/*
 *://*.growerautoliike.com/*
 *://*.growerlikerperffect.com/*
 *://*.growforest.pro/*
@@ -183058,6 +183085,7 @@
 *://*.kardeslercheckersalon.com/*
 *://*.kardeslerkokorec.com/*
 *://*.kardesleryikama.xyz/*
+*://*.kardesx.com/*
 *://*.kardinalartisan.com/*
 *://*.kardiz.org/*
 *://*.karebir1nok.net/*
@@ -183565,6 +183593,7 @@
 *://*.kartellerburda.click/*
 *://*.kartellerburdas.click/*
 *://*.karthaidatislemlerii.net/*
+*://*.kartharaata.com/*
 *://*.karthikrajesh.com/*
 *://*.karthizmetiadatlariadetrg.com/*
 *://*.karthizmetiadatlariadetrgo.com/*
@@ -188328,6 +188357,7 @@
 *://*.knt-nvcsystem.com/*
 *://*.kntads-allhsely.net/*
 *://*.kntalsmd-glal.com/*
+*://*.kntbsvmrkerzibrdatki.sbs/*
 *://*.kntbsvrrr00.click/*
 *://*.kntbsvruuu1.click/*
 *://*.kntdebizimleglsne.com/*
@@ -193220,6 +193250,7 @@
 *://*.leadersnews.org/*
 *://*.leadersoftstats.com/*
 *://*.leaderthreshold.top/*
+*://*.leadgenerals.com/*
 *://*.leadger.online/*
 *://*.leadlifearkformyphone.com/*
 *://*.leads-management.net/*
@@ -194071,6 +194102,8 @@
 *://*.liftally.top/*
 *://*.liftdetox-2023.com/*
 *://*.liftedscheme.cfd/*
+*://*.liftogen.digital/*
+*://*.liftosensor.com/*
 *://*.liftpropel.top/*
 *://*.liftrich.pics/*
 *://*.lifttheweight.top/*
@@ -201475,6 +201508,7 @@
 *://*.mechanizetaboo.top/*
 *://*.mecharnise.ir/*
 *://*.mechat.info/*
+*://*.mechavolvee.com/*
 *://*.mechlinse.com/*
 *://*.mechta-dachnika-tut.ru/*
 *://*.meclis-aidatodeme.com/*
@@ -201984,6 +202018,7 @@
 *://*.mellle.com/*
 *://*.melllo447.net/*
 *://*.mellow457.xyz/*
+*://*.mellowsands.com/*
 *://*.mellsman.com/*
 *://*.melltop.online/*
 *://*.melltory.com/*
@@ -207890,6 +207925,7 @@
 *://*.motionjockey.top/*
 *://*.motionritm.ru/*
 *://*.motionx.space/*
+*://*.motivantica.com/*
 *://*.motivaro.click/*
 *://*.motivatedrhino.com/*
 *://*.motivateeaster.top/*
@@ -207907,6 +207943,8 @@
 *://*.motivepharmacy.top/*
 *://*.motiverandevu.net/*
 *://*.motiverandevuvu.net/*
+*://*.motivian.digital/*
+*://*.motivonityx.com/*
 *://*.motiyu.net/*
 *://*.motlity.com/*
 *://*.motmxe.com/*
@@ -212241,6 +212279,7 @@
 *://*.natoexhibitionff14.com/*
 *://*.natonlineaccess.com/*
 *://*.natrifyzone.com/*
+*://*.natriglow.com/*
 *://*.natrium100gram.site/*
 *://*.naturadeco.net/*
 *://*.naturalblog.name.tr/*
@@ -218451,6 +218490,7 @@
 *://*.ocakkampanyasii.com/*
 *://*.ocakkampanylarivebnnfirsatlari.com/*
 *://*.ocakkkampanyasi.net/*
+*://*.ocaklab.com/*
 *://*.ocaklndirimflrsatlari.site/*
 *://*.ocaklndrimflrsatlari.store/*
 *://*.ocakmtw.net/*
@@ -226619,6 +226659,7 @@
 *://*.ovrz52z140.ru/*
 *://*.ovswqncvpivqvne.cn/*
 *://*.ovtovcnnlxjcswfvqizg.net/*
+*://*.ovuneva.com/*
 *://*.ovxuf.com/*
 *://*.ovymsdesdd.net/*
 *://*.ovzde.com/*
@@ -233898,6 +233939,7 @@
 *://*.periodlistedautomation.com/*
 *://*.periodpredominance.top/*
 *://*.perioicrnaissnce.top/*
+*://*.perioophoritis.com/*
 *://*.peripancreatic.com/*
 *://*.perishconviction.top/*
 *://*.perisigmoiditis.com/*
@@ -235264,6 +235306,7 @@
 *://*.plantationcertification.top/*
 *://*.plantationlogistical.top/*
 *://*.plantationsob.top/*
+*://*.plantavise.com/*
 *://*.plantconsultants.co.za/*
 *://*.plantemulation.top/*
 *://*.plantengineering.com/*
@@ -242715,6 +242758,7 @@
 *://*.puffpuff421.top/*
 *://*.puffsatis.com/*
 *://*.pufycol.com/*
+*://*.pufyna.com/*
 *://*.pughtekto.ru/*
 *://*.puigov.vip/*
 *://*.puixgrdf.com/*
@@ -247497,6 +247541,7 @@
 *://*.recurrenceegate.top/*
 *://*.recurrenceirritating.top/*
 *://*.recurslack.top/*
+*://*.recurvirostral.com/*
 *://*.recyclablebesiege.top/*
 *://*.recyclabledeterrent.top/*
 *://*.recyclableproximity.top/*
@@ -250122,6 +250167,7 @@
 *://*.riverstonefield.site/*
 *://*.riverwalktrader.co.za/*
 *://*.riverwoodhomes.org/*
+*://*.rivetroom.com/*
 *://*.riviararwa.xyz/*
 *://*.rivilegecti.top/*
 *://*.rivonpvypi.com/*
@@ -250438,6 +250484,8 @@
 *://*.robo-claim.site/*
 *://*.robo-erectus.org/*
 *://*.robo51.info/*
+*://*.roboarm.click/*
+*://*.robodaptica.com/*
 *://*.robooottkmngff.wiki/*
 *://*.roborobonsnsnn.net/*
 *://*.robot-dyson.com.tr/*
@@ -256152,6 +256200,7 @@
 *://*.savannajewel.com/*
 *://*.savannawave.com/*
 *://*.savannetra.com/*
+*://*.savannic.com/*
 *://*.savapueo.com/*
 *://*.savare.net/*
 *://*.savare.xyz/*
@@ -257030,6 +257079,7 @@
 *://*.searoupas.shop/*
 *://*.searsefcu.com/*
 *://*.searss.top/*
+*://*.seascopehub.com/*
 *://*.seasonalcurfew.top/*
 *://*.seasonesthetics.top/*
 *://*.seasonjuvenile.top/*
@@ -259041,6 +259091,7 @@
 *://*.senseversinyalani.fit/*
 *://*.sensibledemographic.cn/*
 *://*.sensino.click/*
+*://*.sensiorama.com/*
 *://*.sensira.click/*
 *://*.sensirtentidendi.site/*
 *://*.sensititycntertion.top/*
@@ -260028,6 +260079,7 @@
 *://*.servncdnservnrj.info/*
 *://*.servnet24.de/*
 *://*.servodream.com/*
+*://*.servoniquee.com/*
 *://*.servsiteyhdjfnserv.co/*
 *://*.servsonline.tk/*
 *://*.servsrg01.online/*
@@ -269460,6 +269512,7 @@
 *://*.sorgulavtr.net/*
 *://*.sorgulaweb-tr.com/*
 *://*.sorgulayan-bunlara-ileriyi-getirdikten-hemeni.com/*
+*://*.sorgulayip-ogrenip-aktarin.sbs/*
 *://*.sorgulchizli.net/*
 *://*.sorgullamabbdkaidat.com/*
 *://*.sorgultr.com/*
@@ -270481,6 +270534,7 @@
 *://*.sparkassen-support.info/*
 *://*.sparkasseonline.info/*
 *://*.sparkboardz.com/*
+*://*.sparkdoor.buzz/*
 *://*.sparkiob.digital/*
 *://*.sparkjoy.cc/*
 *://*.sparkkbrake.com/*
@@ -284989,6 +285043,7 @@
 *://*.tokibasvurum.online/*
 *://*.tokibasvurum.org/*
 *://*.tokibasvurum.xyz/*
+*://*.tokibasvurum2025.org/*
 *://*.tokibasvurumedevlet.click/*
 *://*.tokibasvurumerkez.store/*
 *://*.tokibasvurumhizlandir.click/*
@@ -295890,6 +295945,7 @@
 *://*.twinklenotestool.com/*
 *://*.twinkontwink.com/*
 *://*.twinkyloc.online/*
+*://*.twinkzor.com/*
 *://*.twinnovations.co.za/*
 *://*.twinnutrient.top/*
 *://*.twisstersystems.cloud/*
@@ -297850,6 +297906,7 @@
 *://*.unveilsubmit.top/*
 *://*.unveilzeous.top/*
 *://*.unverifiedintigoosjai.info/*
+*://*.unvisualized.com/*
 *://*.unwbrasj.com/*
 *://*.unwindhaven.com/*
 *://*.unwired.com.fj/*
@@ -306708,6 +306765,7 @@
 *://*.vowyrym.com/*
 *://*.voxder.at/*
 *://*.voxdreamz.com/*
+*://*.voxenya.com/*
 *://*.voxglider.com/*
 *://*.voxly.top/*
 *://*.voyage-omra.com/*
@@ -307887,6 +307945,7 @@
 *://*.wander5471.xyz/*
 *://*.wanderdreamers.com/*
 *://*.wanderingechoes.online/*
+*://*.wanderlusstwave.com/*
 *://*.wanderrefund.top/*
 *://*.wanerberud.xyz/*
 *://*.wanft5000l.cloud/*
@@ -318177,10 +318236,12 @@
 *://*.xercjbdm.com/*
 *://*.xerobotany.com/*
 *://*.xeroburivin.com/*
+*://*.xeroplantix.com/*
 *://*.xerstaysja.click/*
 *://*.xerunu.info/*
 *://*.xerznaet.xyz/*
 *://*.xesan1.net/*
+*://*.xesecu.com/*
 *://*.xesr.net/*
 *://*.xesubecsxonlineigibxgovxv1tr.fun/*
 *://*.xesubecsxonlineigibxgovxv1tr.site/*
@@ -322977,6 +323038,7 @@
 *://*.xurum.com/*
 *://*.xusezo.com/*
 *://*.xusloc6.com/*
+*://*.xutuma.com/*
 *://*.xuuefmf.org/*
 *://*.xuvnfz.top/*
 *://*.xuy-dnxcklizgxriz2023.net/*
@@ -323657,6 +323719,7 @@
 *://*.yanindakigucdestek.com/*
 *://*.yanindakiguzellik.top/*
 *://*.yanindakiheyecandolusu.com/*
+*://*.yanindakikapindasimdi.cfd/*
 *://*.yanindakimutlulukgeldi.cfd/*
 *://*.yanindakimutlusimdi.site/*
 *://*.yanindakineseligunler.site/*
@@ -326303,6 +326366,7 @@
 *://*.yayinprojeleri.com/*
 *://*.yayinsohbet81.net/*
 *://*.yayinsvasldi.online/*
+*://*.yaylax.com/*
 *://*.yayman101.com/*
 *://*.yayonlenmezseananiyedim.net/*
 *://*.yayrofilezdomez.com/*

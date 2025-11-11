@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-11 15:10:41 UTC
-# Toplam: 421152 Domain
+# Son Güncelleme: 2025-11-11 16:11:37 UTC
+# Toplam: 421220 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14438,6 +14438,7 @@
 500bin.konutbasvurutamamla.cloud
 500bin.yenikonutbasvurulari.cloud
 500binasrinprojesi.com
+500binbasvuruekrani.org
 500binhazirkonutrojesi.cloud
 500binilkevim.com
 500binkontprojesi.com
@@ -14463,6 +14464,7 @@
 500binkonutprojesibasvuruekrani.com
 500binkonutum.sbs
 500binkonutyerlesim.com
+500binsosya1konut.com.tr
 500binsosya1konut.cyou
 500binsosya1konut.xyz
 500binsosyalkonut.com
@@ -31502,6 +31504,7 @@ aerocorpevionics.com
 aerofluidthermo.org
 aeroiayuroa.duckdns.org
 aeromexi.co
+aeronowva.com
 aeroplans.info
 aeropoer.top
 aerospaceavenue.com
@@ -44319,6 +44322,7 @@ aniss268.ddns.net
 anita1898kurovsk1.xyz
 anitafoam.com
 anitagaribaldi.app
+anittek.com
 anixzirete.xyz
 aniymansngihynenrne.com
 anjau2.cfd
@@ -48369,6 +48373,7 @@ aribu.co.vu
 aribuyeniyilda.com
 aricente.com
 aridgena.com
+aridgenix.com
 aridlytica.com
 arielzaqx.ddns.net
 arieshost.ddns.net
@@ -50138,6 +50143,7 @@ astartinga.com
 astatize.com
 astdg.top
 astedams.it
+astelyra.com
 astered.zapto.org
 asteriongamemetin2.ddns.net
 asteroidroom.space
@@ -51619,6 +51625,8 @@ automobilehomogeneous.top
 automobileration.top
 automotiveload178.weebly.com
 automtionsectator.top
+autoniriumx.com
+autonironic.com
 autonomousillicit.top
 autonomousmalice.top
 autonomyherald.top
@@ -56921,6 +56929,7 @@ basinc.store
 basinclik6.shop
 basinclikarcherk6.shop
 basinclimk6.store
+basincx.com
 basinda-ugradik-gelenden-gelip-gitmeden-almalisin.com
 basinda-ugradik-kacmadan-gelip-gitmeden-alalim.com
 basinduyuruluk.com
@@ -62737,6 +62746,7 @@ benderhall.com
 benderkehe.online
 benders.zapto.org
 bendes.co.uk
+bendespatasmtksarl.giize.com
 bendevdsfsasssagfas.online
 bendigo-alerts.ddns.net
 bendigo-au.duckdns.org
@@ -70613,6 +70623,7 @@ biotechnologycurfew.top
 biotechreview.net
 biotechtoday.co.uk
 biotecstudio.mx
+biotoki.site
 biototec.co
 bioverfym8t.ddns.net
 biovitaminonline.com
@@ -75478,6 +75489,7 @@ blkviewz.com
 blkvkmkinj.duckdns.org
 blkwav.com
 blkwinz.com
+blkyoo.com
 bllcemlll.com
 bllcllhizmet.com
 bllcmellodele.com
@@ -81964,11 +81976,13 @@ bsdfsdtrcsd.com
 bsdk-islemler.com
 bsdrin.top
 bsdw.pages.dev
+bseabee.com
 bseafun.com
 bseaguy.com
 bseahit.com
 bseajoy.com
 bseasea.com
+bseazen.com
 bsebjimzkp.duckdns.org
 bsec.nconfhz.com
 bsehuehfeirif.top
@@ -83865,6 +83879,7 @@ buildoc.co.jp
 buildviet.info
 buildvogue.top
 buildwellpak.com
+buildwise.buzz
 buildwith307.com
 buildyoursalon.com
 builtgoogle.top
@@ -89081,6 +89096,7 @@ cashinvestcashby.info
 cashlazim.net
 cashleproblem.com
 cashmere.com.tr
+cashmonal.com
 cashmybycash.info
 cashnow.ee
 cashout2018.ddns.de
@@ -92027,6 +92043,7 @@ ceskkppostaa.xyz
 cesmesubesi-ekim.com
 cessdtv.com
 cesurbakkalonline.online
+cesurio.com
 cesurlar.win
 cesyasa.click
 ceszzzllly.duckdns.org
@@ -95253,6 +95270,7 @@ cleartnfzj.com
 cleartransient.top
 clearultra.top
 clearvisoingraphicsremcoz.ddns.net
+clearwave.buzz
 clearworksystem.coach
 clebervidros.com
 clebiorss.ddns.net
@@ -106814,6 +106832,7 @@ dengebilisimdendevv.com
 dengebonybonysis.site
 dengekredihizmetleri.ru.com
 dengeleryerd.store
+dengely.com
 dengenoesesdes010203.site
 dengesizler.online
 dengesonsus.site
@@ -120414,6 +120433,7 @@ dreamteamup.shop
 dreamuygunkiralama.online
 dreamwatching.ink
 dreamweaverhollow.org
+dreamweaverlodge.com
 dreamy-job.com
 dreamy-jobs.com
 dreamy-murdock.20-83-167-226.plesk.page
@@ -120559,6 +120579,7 @@ drivestransfer.com
 drivethrough.top
 driveword.top
 driving32.xyz
+drivomaticx.com
 drixxysmcserver.ddns.net
 drjozain.top
 drjrkgtydq.duckdns.org
@@ -143876,6 +143897,7 @@ everettholland76.xyz
 everfound.anondns.net
 evergi-tasit.com
 evergiler.com
+evergrovia.com
 evergsanace.net
 everification-session-load.com
 everitual.top
@@ -144887,6 +144909,7 @@ exacttimid.top
 exaggeratevibrate.top
 exaggerationamplify.top
 exalt.aquatrackergo.com
+exalvia.com
 exam-reveal-picture.com
 examaftermath.top
 exameendorse.top
@@ -153796,6 +153819,7 @@ florian-koenig.de
 florida.serveblog.net
 florievenimente.com
 florin-skincare.com
+florisynth.com
 florizonix.com
 flornclearvint.top
 floruit.drinkh2osphere.com
@@ -153841,6 +153865,7 @@ flowhomogeneous.top
 flowit.pics
 flowlinevalve.com
 flowmatrix.online
+flowmind.buzz
 flowmoney.ddns.net
 flowmudy.com
 flowpulse.click
@@ -155813,6 +155838,7 @@ freshbreath.space
 freshchat.info
 freshcomplacency.top
 freshconnect.live
+freshcore.buzz
 freshdepor.com
 freshenvironmentaldesigns.com
 freshfragility.top
@@ -157607,6 +157633,7 @@ gahusuhgwqhuqwi-wfqhuwfquhas.icu
 gahusuhgwqhuqwi-wfqhuwfquhas.sbs
 gahydoh.com
 gahyvew.com
+gaiatrail.com
 gaibarricade.top
 gaibasis.top
 gaiboundary.top
@@ -170409,6 +170436,7 @@ grovestro.com
 grovik71.theweb.place
 grow-light.online
 growcapitall.net
+growelocity.com
 growerautoliike.com
 growerlikerperffect.com
 growforest.pro
@@ -221196,6 +221224,7 @@ k-wiki---l----cv-ad----ia5.icu
 k-wiki---l----cv-ad----ia7.icu
 k-wiki---l----cv-ad----ia8.icu
 k.bilgiislemim.net
+k.leadgenerals.com
 k.top4top.io
 k.veuwb.live
 k038jp4616.info
@@ -226360,6 +226389,7 @@ kardesimiz.org
 kardeslercheckersalon.com
 kardeslerkokorec.com
 kardesleryikama.xyz
+kardesx.com
 kardinalartisan.com
 kardiz.org
 kardo1010.zapto.org
@@ -226966,6 +226996,7 @@ kartdolumnoktasi.com
 kartellerburda.click
 kartellerburdas.click
 karthaidatislemlerii.net
+kartharaata.com
 karthikrajesh.com
 karthizmetiadatlariadetrg.com
 karthizmetiadatlariadetrgo.com
@@ -233150,6 +233181,7 @@ knt-conkcsely.net
 knt-nvcsystem.com
 kntads-allhsely.net
 kntalsmd-glal.com
+kntbsvmrkerzibrdatki.sbs
 kntbsvrrr00.click
 kntbsvruuu1.click
 kntdebizimleglsne.com
@@ -240535,6 +240567,8 @@ liftallotment.top
 liftally.top
 liftdetox-2023.com
 liftedscheme.cfd
+liftogen.digital
+liftosensor.com
 liftpropel.top
 liftrich.pics
 lifttheweight.top
@@ -250667,6 +250701,7 @@ mechanizerevenge.top
 mechanizetaboo.top
 mecharnise.ir
 mechat.info
+mechavolvee.com
 mechlinse.com
 mechta-dachnika-tut.ru
 meclis-aidatodeme.com
@@ -251298,6 +251333,7 @@ mellle.com
 melllo447.net
 mellon1.ddns.net
 mellow457.xyz
+mellowsands.com
 mellsman.com
 melltop.online
 melltory.com
@@ -258752,6 +258788,7 @@ motionhockey.top
 motionjockey.top
 motionritm.ru
 motionx.space
+motivantica.com
 motivaro.click
 motivatedrhino.com
 motivateeaster.top
@@ -258770,6 +258807,8 @@ motiveformidable.top
 motivepharmacy.top
 motiverandevu.net
 motiverandevuvu.net
+motivian.digital
+motivonityx.com
 motiyu.net
 motlity.com
 motmxe.com
@@ -264537,6 +264576,7 @@ natoexhibitionff14.com
 natonlineaccess.com
 natos-drp.ddns.net
 natrifyzone.com
+natriglow.com
 natrium100gram.site
 natsevskiy.zapto.org
 nattavipolbo.ddns.net
@@ -272859,6 +272899,7 @@ ocakkampanyasihemenkatil.cloud
 ocakkampanyasii.com
 ocakkampanylarivebnnfirsatlari.com
 ocakkkampanyasi.net
+ocaklab.com
 ocaklndirimflrsatlari.site
 ocaklndrimflrsatlari.store
 ocakmtw.net
@@ -282565,6 +282606,7 @@ ovuixaxtelyn.wcnv20.cn
 ovukfq.duckdns.org
 ovuljfbwgh.duckdns.org
 ovumr.uqauv.cn
+ovuneva.com
 ovusecsdht.duckdns.org
 ovvjgecayn.duckdns.org
 ovvnfcqdbx.duckdns.org
@@ -291257,6 +291299,7 @@ periodicproximity.top
 periodlistedautomation.com
 periodpredominance.top
 perioicrnaissnce.top
+perioophoritis.com
 peripancreatic.com
 perishconviction.top
 perisigmoiditis.com
@@ -292941,6 +292984,7 @@ plantapel.top
 plantationcertification.top
 plantationlogistical.top
 plantationsob.top
+plantavise.com
 plantconsultants.co.za
 plantemulation.top
 plantengineering.com
@@ -302026,6 +302070,7 @@ puffsatis.com
 puffypuf.gleeze.com
 pufmbzbal.duckdns.org
 pufycol.com
+pufyna.com
 pugc3t.duckdns.org
 puigov.vip
 puigoxwoldrh.wcnv20.cn
@@ -308757,6 +308802,7 @@ recursing-rubin.20-199-66-103.plesk.page
 recursing-sanderson.34-125-197-109.plesk.page
 recursing-shamir.194-163-174-222.plesk.page
 recurslack.top
+recurvirostral.com
 recyclablebesiege.top
 recyclabledeterrent.top
 recyclableproximity.top
@@ -312197,6 +312243,7 @@ riverstonefield.site
 rivertracker.pages.dev
 riverwalktrader.co.za
 riverwoodhomes.org
+rivetroom.com
 riviararwa.xyz
 rivilegecti.top
 rivindu.ddns.net
@@ -312707,6 +312754,8 @@ robloxuacin.babalarsahadadmslyrs.net
 robo-claim.site
 robo-erectus.org
 robo51.info
+roboarm.click
+robodaptica.com
 robooottkmngff.wiki
 roborobonsnsnn.net
 roboscchi.duckdns.org
@@ -321762,6 +321811,7 @@ savanes.net
 savannajewel.com
 savannawave.com
 savannetra.com
+savannic.com
 savapueo.com
 savare.net
 savare.xyz
@@ -322950,6 +323000,7 @@ searnew.xyz
 searoupas.shop
 searsefcu.com
 searss.top
+seascopehub.com
 seashadow.ddns.net
 seasonalcurfew.top
 seasonesthetics.top
@@ -323147,6 +323198,7 @@ secre.zapto.org
 secrecyenvelop.top
 secreelec.shop
 secreeng.space
+secret-cnet-forums-stays.trycloudflare.com
 secretariageneral.duckdns.org
 secretaryairborne.top
 secretarybinoculars.top
@@ -326148,6 +326200,7 @@ sensevdaminase9.com
 senseversinyalani.fit
 sensibledemographic.cn
 sensino.click
+sensiorama.com
 sensira.click
 sensirtentidendi.site
 sensititycntertion.top
@@ -327457,6 +327510,7 @@ servnationsculturell.duckdns.org
 servncdnservnrj.info
 servnet24.de
 servodream.com
+servoniquee.com
 servpaypa1.zapto.org
 servr.hopto.org
 servs-istanblm.sa.com
@@ -338299,6 +338353,7 @@ sorgulavtr.net
 sorgulaweb-tr.com
 sorgulayan-bunlara-ileriyi-getirdikten-hemeni.com
 sorgulayin.workers.dev
+sorgulayip-ogrenip-aktarin.sbs
 sorgulchizli.net
 sorgullamabbdkaidat.com
 sorgultr.com
@@ -339443,6 +339498,7 @@ sparkassen-hilfe.info
 sparkassen-support.info
 sparkasseonline.info
 sparkboardz.com
+sparkdoor.buzz
 sparked.ddns.net
 sparkinject.ddns.net
 sparkiob.digital
@@ -357255,6 +357311,7 @@ toki-konutlari.sbs
 toki-konutprojebasvuru.duckdns.org
 toki-konutprojelerimbasvuruvercelap.vercel.app
 toki-konutprojesi.digital
+toki-mobilbasvurular.vercel.app
 toki-projeleri.com
 toki-slv-basvuru.com
 toki-slv-basvuru.net
@@ -357441,6 +357498,7 @@ tokibasvurum.net
 tokibasvurum.online
 tokibasvurum.org
 tokibasvurum.xyz
+tokibasvurum2025.org
 tokibasvurumedevlet.click
 tokibasvurumerkez.store
 tokibasvurumhizlandir.click
@@ -357824,6 +357882,7 @@ toksiqortacim.com.tr
 toktoktokt.duckdns.org
 toktoktoktokt.org
 tokxxbsvur.online
+toky2025bsdvlrmkl.giize.com
 tokybasfguwtuqwr24.online
 tokybasvuru.online
 tokybasvurugonder.art
@@ -370032,6 +370091,7 @@ twinklenotestool.com
 twinkontwink.com
 twinks234.duckdns.org
 twinkyloc.online
+twinkzor.com
 twinnovations.co.za
 twinnutrient.top
 twint-connect.duckdns.org
@@ -372664,6 +372724,7 @@ unveilmimic.top
 unveilsubmit.top
 unveilzeous.top
 unverifiedintigoosjai.info
+unvisualized.com
 unw5tma.duckdns.org
 unwanted404page.duckdns.org
 unwanteds846-pages.duckdns.org
@@ -384049,6 +384110,7 @@ vowjw2ul.duckdns.org
 vowsk.com
 vowyrym.com
 voxdreamz.com
+voxenya.com
 voxglider.com
 voxly.top
 voyage-omra.com
@@ -385846,6 +385908,7 @@ wandasicks.duckdns.org
 wander5471.xyz
 wanderdreamers.com
 wanderingechoes.online
+wanderlusstwave.com
 wanderrefund.top
 wandriveamazon.duckdns.org
 wanerberud.xyz
@@ -400134,10 +400197,12 @@ xercjbdm.com
 xero-login.ddns.net
 xerobotany.com
 xeroburivin.com
+xeroplantix.com
 xerstaysja.click
 xerunu.info
 xerznaet.xyz
 xesan1.net
+xesecu.com
 xesftx9.zapto.org
 xesubecsxonlineigibxgovxv1tr.fun
 xesubecsxonlineigibxgovxv1tr.site
@@ -405494,6 +405559,7 @@ xusrfavqpj.duckdns.org
 xutmjhdebu.duckdns.org
 xutpljyuqo.duckdns.org
 xutso.duckdns.org
+xutuma.com
 xuuefmf.org
 xuuuspfdby.duckdns.org
 xuvnfz.top
@@ -406660,6 +406726,7 @@ yanindakifirsatlarbugunler.xyz
 yanindakigucdestek.com
 yanindakiguzellik.top
 yanindakiheyecandolusu.com
+yanindakikapindasimdi.cfd
 yanindakimutlulukgeldi.cfd
 yanindakimutlusimdi.site
 yanindakineseligunler.site
@@ -409581,6 +409648,7 @@ yayinprojeleri.com
 yayinsohbet81.net
 yayinsvasldi.online
 yayinyexd.blogspot.com
+yaylax.com
 yayman101.com
 yayna1.firsatlimerkez.info
 yayna2.firsatlimerkez.info
