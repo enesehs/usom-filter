@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-11 22:09:02 UTC
-! Total: 335466 rules
+! Last modified: 2025-11-11 23:08:15 UTC
+! Total: 335472 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -90064,6 +90064,7 @@
 *://*.dijitalkredinet-ziraatbireysel.com/*
 *://*.dijitalkrediweb-ziraat.com/*
 *://*.dijitalkrediweb-ziraatbireysel.com/*
+*://*.dijitalkrediyebasvur.sbs/*
 *://*.dijitalkurumacikdenizbank.com/*
 *://*.dijitall-ilet-isim.net/*
 *://*.dijitall-web.net/*
@@ -149115,6 +149116,7 @@
 *://*.hesap-tanimlama.net/*
 *://*.hesap-telifihtari.com/*
 *://*.hesap-tr-basvuru.com/*
+*://*.hesap-tr-online.today/*
 *://*.hesap-yukselt.net/*
 *://*.hesap.cf/*
 *://*.hesapalin.com/*
@@ -184024,6 +184026,7 @@
 *://*.kasiminfirsatlari.com.tr/*
 *://*.kasiminfirsatlari.xyz/*
 *://*.kasiminfirsatliurunleriim.com/*
+*://*.kasiminibasvurusu.online/*
 *://*.kasiminindirimikacirmaal.online/*
 *://*.kasiminkampanyalari.com.tr/*
 *://*.kasiminkampanyalari.online/*
@@ -198031,6 +198034,7 @@
 *://*.mahallafond.com/*
 *://*.mahalledekideli.site/*
 *://*.mahallekasimindirimlerinikacirma.shop/*
+*://*.mahallendeindirimlifirsatlarikacirmayalim.sbs/*
 *://*.mahanheat.com/*
 *://*.mahb4.com.tr/*
 *://*.mahcikles.site/*
@@ -327353,6 +327357,7 @@
 *://*.yenibvruu200.click/*
 *://*.yenibvruu30.click/*
 *://*.yenibvruu40.click/*
+*://*.yenibvruu50.click/*
 *://*.yenibvruu70.click/*
 *://*.yenibvruu80.click/*
 *://*.yenibvruu90.click/*
@@ -331719,6 +331724,7 @@
 *://*.yuzyilkonut.com/*
 *://*.yuzyilkonutevi.xyz/*
 *://*.yuzyillik.name.tr/*
+*://*.yuzyilprojeesiilkevimmbasvruu81.xyz/*
 *://*.yvaxm.com/*
 *://*.yvbmagazaa.ml/*
 *://*.yvbmagazaa.tk/*
