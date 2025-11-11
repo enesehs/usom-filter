@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-11 13:24:14 UTC
-! Total: 335288 rules
+! Last modified: 2025-11-11 15:10:41 UTC
+! Total: 335318 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9500,6 +9500,8 @@
 *://*.500binkonutprojesibasvuruekrani.com/*
 *://*.500binkonutum.sbs/*
 *://*.500binkonutyerlesim.com/*
+*://*.500binsosya1konut.cyou/*
+*://*.500binsosya1konut.xyz/*
 *://*.500binsosyalkonut.com/*
 *://*.500binsosyalkonut.xyz/*
 *://*.500binsosyalkonutbasvuru.com/*
@@ -11773,6 +11775,7 @@
 *://*.81ieneee.com/*
 *://*.81ilbasburularkonut.xyz/*
 *://*.81ilbasvur.shop/*
+*://*.81ildeflrsat.com/*
 *://*.81ileproje.sbs/*
 *://*.81ilzamanigeldi.org/*
 *://*.81rc4uw1b4roh99dmn.cf/*
@@ -26292,6 +26295,7 @@
 *://*.aktykmd.net/*
 *://*.aktyvplus.com/*
 *://*.akuluarabam.com.tr/*
+*://*.akulugunler.sbs/*
 *://*.akuma.pw/*
 *://*.akumaiotsolutions.pw/*
 *://*.akureklam.com/*
@@ -27400,6 +27404,7 @@
 *://*.aldngeliadi.art/*
 *://*.aldnn-aldnnxmrktindrmlleryle.xyz/*
 *://*.aldnnindrmll-firsttlrszllerle.net/*
+*://*.aldnnldnozlflrstlr.com/*
 *://*.aldnxalin101pkahd.com/*
 *://*.aldojuanpettiti.com.ar/*
 *://*.aldranerz.info/*
@@ -35572,6 +35577,7 @@
 *://*.atokonutlar.com.tr/*
 *://*.atokonutlar.xyz/*
 *://*.atokonutu.com.tr/*
+*://*.atokonutu.cyou/*
 *://*.atokonutu.xyz/*
 *://*.atolyeinsta.com/*
 *://*.atom-tickets-data.com/*
@@ -42597,6 +42603,7 @@
 *://*.basvuruonay.online/*
 *://*.basvuruonay.sbs/*
 *://*.basvuruonay200000kayitsayfasi.space/*
+*://*.basvuruonayadimi.xyz/*
 *://*.basvuruonaybireyselmobilsubecilik.ml/*
 *://*.basvuruonaydanbnsgranti.net/*
 *://*.basvuruonaydankredilerim.net/*
@@ -62745,6 +62752,7 @@
 *://*.bsvurutokldvlt.com/*
 *://*.bsvurutrduyurular.online/*
 *://*.bsvuruyon5.click/*
+*://*.bsvuruyptm.digital/*
 *://*.bsvvronline-hazir.com/*
 *://*.bsvvrrr.online/*
 *://*.bsvvrrrrisssssbaaann.cloud/*
@@ -110243,6 +110251,7 @@
 *://*.enselez.site/*
 *://*.ensemblintegral.live/*
 *://*.ensevdigimsensin.com/*
+*://*.ensevdigimturkiye.cyou/*
 *://*.ensevdiginizurunlersizlericinsepette.online/*
 *://*.ensevdiginizurunlersizlericinsepette.xyz/*
 *://*.ensevdiginrenkne.online/*
@@ -114144,6 +114153,7 @@
 *://*.evimaltus.com/*
 *://*.evimbasvur2025.online/*
 *://*.evimbasvur2025.site/*
+*://*.evimbasvur2025.us/*
 *://*.evimbutik.tech/*
 *://*.evimdekal.org/*
 *://*.evimeyonlendirbeni.site/*
@@ -114769,6 +114779,7 @@
 *://*.evsahibiturkiye.media/*
 *://*.evsahibiturkiye.net/*
 *://*.evsahibiturkiye.news/*
+*://*.evsahibiturkiye.org/*
 *://*.evsahibiturkiye.world/*
 *://*.evsahibiturkiyem.com/*
 *://*.evsahibturkiye.com/*
@@ -127955,6 +127966,7 @@
 *://*.garnnnnnntipronosyob.com/*
 *://*.garnnntoooogggkatilimmbsvrrr.top/*
 *://*.garnntrbvba.com/*
+*://*.garnorix.com/*
 *://*.garnreklm.com/*
 *://*.garnt-flas.online/*
 *://*.garnt-iapromosyon11205.com/*
@@ -134178,6 +134190,9 @@
 *://*.govcei.cc/*
 *://*.govco.icu/*
 *://*.govcom.online/*
+*://*.govcza.help/*
+*://*.govcza.homes/*
+*://*.govczb.help/*
 *://*.goveloms.space/*
 *://*.gover.icu/*
 *://*.govermentsecintro.com/*
@@ -149282,6 +149297,7 @@
 *://*.hfta101qkmpycm.com/*
 *://*.hfta1c1kcmazkmpnyal0r.com/*
 *://*.hfta1sn0km1yabrda.com/*
+*://*.hftabsiksmdakrca.cfd/*
 *://*.hftad33indirimgunuadsf.com/*
 *://*.hftadsnndabykndrmlr.shop/*
 *://*.hftaicidvkmpnya1br0d1.com/*
@@ -162861,6 +162877,7 @@
 *://*.ilk-kart-iade-basvurusu-2021.xyz/*
 *://*.ilk-konut2026.sbs/*
 *://*.ilk-sen-al.com/*
+*://*.ilk-t0ki-kntbasvur.click/*
 *://*.ilk0.xyz/*
 *://*.ilkadimfirsatlariyaninda.online/*
 *://*.ilkadimfirsatlariyaninda.xyz/*
@@ -183890,6 +183907,7 @@
 *://*.kasimdakfirsatlarvardir.xyz/*
 *://*.kasimdamarket.com.tr/*
 *://*.kasimdamutlulukiscepte.com/*
+*://*.kasimdan-kapnda-flsratlari.cfd/*
 *://*.kasimdan-kapnda.cfd/*
 *://*.kasimdasonfiyatindirimi.com/*
 *://*.kasimdasonukacirma.com/*
@@ -184156,6 +184174,7 @@
 *://*.katalogdanalisverisyap.click/*
 *://*.katalogfirsatlari.net/*
 *://*.katalogfirsatlarimwx.online/*
+*://*.kataloghaftaninyildizix.sbs/*
 *://*.katalogincele.cfd/*
 *://*.katalogindirimi.com.tr/*
 *://*.katalogiriislemenulerim.com/*
@@ -187922,6 +187941,7 @@
 *://*.kmninpadisahlariburdaaa.cfd/*
 *://*.kmniogrenhemen.app/*
 *://*.kmnndadskfkkf.space/*
+*://*.kmnoktasi.online/*
 *://*.kmnpnaya1crff.online/*
 *://*.kmnsamcsamc246sac.digital/*
 *://*.kmnsdalkjnelk.net/*
@@ -227115,6 +227135,7 @@
 *://*.ozkandan.com/*
 *://*.ozkandernegi.com/*
 *://*.ozkanegitimkulturvakfi.com/*
+*://*.ozkaya.site/*
 *://*.ozkaya.store/*
 *://*.ozkayacolak.cfd/*
 *://*.ozkgptyhi.com/*
@@ -269945,6 +269966,7 @@
 *://*.sosyalkonut2026.com/*
 *://*.sosyalkonutbasvuru.click/*
 *://*.sosyalkonutbasvuru.net/*
+*://*.sosyalkonutbasvuru.site/*
 *://*.sosyalkonutbasvurugirislerii.cfd/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutbasvuuru2025.com.tr/*
@@ -276750,6 +276772,7 @@
 *://*.t0kibasvurkonutlari.com/*
 *://*.t0kibasvuru01.com/*
 *://*.t0kibasvuru02.com/*
+*://*.t0kibasvuru03.com/*
 *://*.t0kibasvurularii.click/*
 *://*.t0kibsvrdi.sbs/*
 *://*.t0kibsvrdmdi.sbs/*
@@ -289932,6 +289955,7 @@
 *://*.trgvnli.online/*
 *://*.trgvu.top/*
 *://*.trhaber.dev/*
+*://*.trhaber724.com/*
 *://*.trhaberler-listesi.xyz/*
 *://*.trhaberyardimvakfi.org/*
 *://*.trhafikode.net/*
@@ -298312,6 +298336,8 @@
 *://*.url-web.cfd/*
 *://*.url008.xyz/*
 *://*.urlablisim.xyz/*
+*://*.urlbee.help/*
+*://*.urlbee.icu/*
 *://*.urlbrowser-fb.site/*
 *://*.urlbrowser-fbclick.com/*
 *://*.urlbrowser-fbclicke.com/*
@@ -303826,6 +303852,7 @@
 *://*.vergdmlermsvd.net/*
 *://*.vergdmmcx.net/*
 *://*.vergehixmetikoru.net/*
+*://*.vergelsinn.click/*
 *://*.vergemint.top/*
 *://*.vergerodelasma.net/*
 *://*.vergestroll.top/*
@@ -327183,6 +327210,7 @@
 *://*.yenibvruu30.click/*
 *://*.yenibvruu40.click/*
 *://*.yenibvruu80.click/*
+*://*.yenibvruu90.click/*
 *://*.yenicagir.online/*
 *://*.yenicanersler.com/*
 *://*.yenicebsubem.com/*
@@ -327364,6 +327392,7 @@
 *://*.yenieventlerisorgulayin.net/*
 *://*.yenievim.click/*
 *://*.yenievimm.sbs/*
+*://*.yenievimmkonutlari.info/*
 *://*.yenievimye.sbs/*
 *://*.yenievlenenlere.link/*
 *://*.yenievlenenleredestek.xyz/*
@@ -330453,6 +330482,7 @@
 *://*.yonlendirmesfsadsssfa.xyz/*
 *://*.yonlendirmeveaktarimservisi.my/*
 *://*.yonlendirmveaktarimekrani.lat/*
+*://*.yonlendrici-guvenli.sbs/*
 *://*.yonlendrici-stiye-aktar.sbs/*
 *://*.yonlendriciye-aktarliyorsunuz.sbs/*
 *://*.yonlendrmevesrgusevisi.store/*
