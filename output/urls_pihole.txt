@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-12 21:08:45 UTC
-# Toplam: 421559 Domain
+# Son Güncelleme: 2025-11-12 22:09:15 UTC
+# Toplam: 421587 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57318,6 +57318,7 @@ basvulvekazanirsin.cfd
 basvur---qnbfinansbank.com
 basvur--qnbfinansbank.com
 basvur-0faiz-ile.com
+basvur-6yil.com
 basvur-acik-onay-giris.online
 basvur-acikdenizbilgihizmetkredionaylat.com
 basvur-acikdenizbilgihizmetkredionaylat.online
@@ -57886,6 +57887,7 @@ basvurnzs.xyz
 basvurnzx.com.tr
 basvuronayhislial.icu
 basvuronayonayfinansalhizmetlerin.click
+basvuronayt0ki.xyz
 basvuronline.com
 basvuronline.org
 basvuronlineakgrs.online
@@ -83827,6 +83829,7 @@ buhaftakampanyahaftasi.shop
 buhaftakampanyalaria101com.xyz
 buhaftakampanyalarimiz-bitmiyor.shop
 buhaftakampanyam.com.tr
+buhaftakatologs.sbs
 buhaftalarbuurunler.com
 buhaftamatkapindirimde.xyz
 buhaftanevar.online
@@ -126375,6 +126378,7 @@ e-islemlerturkiyegov.net
 e-islemlerturkiyegov.tc
 e-islemmerkerzi-portal.tk
 e-islemsorguodemeler-portal.tk
+e-islemtoki.digital
 e-islemvatandas.com
 e-islemyap.app
 e-islm-lr.com
@@ -159905,6 +159909,7 @@ garantibva.krediislemleri.com.tr
 garantibva.krediislemlerim.com.tr
 garantibva.lat
 garantibva.ml
+garantibva.wzd1.com
 garantibvaa.tk
 garantibvabank.com
 garantibvabnk.com
@@ -202748,6 +202753,7 @@ ilkevimtokii6.sa.com
 ilkevimtokii7.sa.com
 ilkevimtokikonutbasvurususongun.icu
 ilkevimtokim.org
+ilkevimtokimdir.org
 ilkevimtokimve.org
 ilkevimtokiprojeleri.org
 ilkevimyerleske.com
@@ -225312,6 +225318,7 @@ kapaidatini.com
 kapaligise.xyz
 kapaligiseyeri.xyz
 kapalikes.com
+kapaliyizpazargunleri.sbs
 kapandarehkomedkoruih.duckdns.org
 kapanmasaglikdestek.epizy.com
 kapanya-denizbankzamani.org
@@ -233372,6 +233379,7 @@ kntukleme.net
 kntwkrt.net
 kntxkrt.net
 knudandersen.zapto.org
+knut-bsvr-t0k1.click
 knvbcnz832.online
 knvbcnz833.online
 knvbcnz834.online
@@ -245605,6 +245613,7 @@ maansmeahs.in
 maantfragility.top
 maarrtta-indiirrrmmlleriina1o1de.shop
 maasssa.duckdns.org
+maasyapi.xyz
 maat.f5network.com.br
 maateusmc.zapto.org
 maaxtqcyax.duckdns.org
@@ -245962,6 +245971,7 @@ magazafirsatmarketleri.com
 magazagiris-hizmetlerim.com
 magazahizmetlerinoktasi.com
 magazahizmetuygunfiyat.xyz
+magazakampanyalari.site
 magazakampanyalari.store
 magazakataloglarguzel.duckdns.org
 magazakatologirisslemenusu.com
@@ -269045,6 +269055,7 @@ nolcakbudosyalarhakimamca.online
 nolekans.top
 nolinoerti.fit
 nolinoerti.info
+nolinoerti.pro
 nolitko.tr
 nolm5q998.duckdns.org
 nolova.duckdns.org
@@ -270436,6 +270447,7 @@ nur-news.com
 nuralan.org
 nurcicek.com.tr
 nurcicekcim.com
+nurex10.work.gd
 nurgazcreative.nicepage.io
 nurgazgeldifirsati.blogspot.com
 nurgazindirim.vip
@@ -289763,6 +289775,7 @@ pasif.xyz
 pasifdinlenme1.info
 pasificdocumentagency.com
 pasiportalbara.net
+pasjyonlendirmelerim.xyz
 paskjldf.ug
 pasmoiapp.com
 pasoligonlinee.net
@@ -290264,6 +290277,7 @@ paykinger.com
 paylahsg.today
 paylardenizden.com
 paylartrtdenizde.com
+paylas-kayit.digital
 paylasimdurumum.com
 paylibfrance.ddns.net
 payliiisevportsgs.duckdns.org
@@ -299887,6 +299901,7 @@ pttavm.sepetfirsati.com.tr
 pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
 pttavm.sepetim-onayli-207426.com
+pttavm.sepetim-onayli-227426.com
 pttavm.sepetimguvenli.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
@@ -303163,6 +303178,7 @@ qawuqfbvvs.duckdns.org
 qaxz4wx.duckdns.org
 qaynky.biz
 qaytoridcd.page.link
+qazci7o3.storage.googleapis.com
 qazedcwsx123.ddns.net
 qazqaz.ddns.net
 qazsporttv.com
@@ -315665,6 +315681,7 @@ sadardst.live
 sadardst.tokyo
 sadardst.tokyoX
 sadasckalsldkalsdaskdas.shop
+sadascofnfslristlartr.duckdns.org
 sadasconmldsitde.duckdns.org
 sadasdas.duckdns.org
 sadasdasd.great-site.net
@@ -315762,6 +315779,7 @@ sadece-onlineda-a101kampanya.shop
 sadece-sanaozel.com
 sadece-trafik.dev
 sadece1o1defirsatlartr.blogspot.com
+sadece1o1defirsatlartrtr.blogspot.com
 sadece1o1defisrattr.duckdns.org
 sadecearalikayinaozel.com.tr
 sadecearalikayinaozel.online
@@ -326646,6 +326664,7 @@ sepetim-onayli-177426.com
 sepetim-onayli-187426.com
 sepetim-onayli-207426.com
 sepetim-onayli-217426.com
+sepetim-onayli-227426.com
 sepetim-online.com
 sepetim-pttavm.com
 sepetim-pttavm.com.tr
@@ -347947,6 +347966,7 @@ t0kifirsatlari.click
 t0kikonutlaribasvur0.com
 t0kikonutlaribasvurulari.com
 t0kisbirdu.sbs
+t0klevlriprjekontevilk.online
 t0ku2yfz.duckdns.org
 t0mcy8k.duckdns.org
 t0mk10.duckdns.org
@@ -349652,6 +349672,7 @@ tbaeubuegsuxo.su
 tbasvurparidestek.com
 tbasvuru.digital
 tbasvurusisteminde.com
+tbasvuruyap.com
 tbavyz.com
 tbazxwljmk.duckdns.org
 tbb-finans.org
@@ -356251,6 +356272,7 @@ tkatavalkvallaa.com
 tkatklwandaw.online
 tkatlmastlandasn.net
 tkatsaltaksldasra.top
+tkbasvurunuyap.org
 tkbasvurunuz.cyou
 tkbasvurunuz.icu
 tkbimcellkampanyas.com
@@ -357577,8 +357599,10 @@ toki.basvuruyapev.com
 toki.basvuruyorum.com
 toki.beauty
 toki.blog
+toki.blue
 toki.boo
 toki.builders
+toki.business
 toki.castgard.com
 toki.ebasvur.com
 toki.eczonomm.it.com
@@ -357614,6 +357638,7 @@ toki.rehberi.click
 toki.rehberler.click
 toki.rest
 toki.site
+toki.tbasvuruyap.com
 toki.turkiye-basvuru.com
 toki.yapiyoruzbuisi.xyz
 toki.yetkilinokta.cfd
@@ -358560,6 +358585,7 @@ toplukonutbasvulariacildi.ooguy.com
 toplukonutbasvur.online
 toplukonutbasvuru.cfd
 toplukonutbasvuru.online
+toplukonutbasvuru7jyf8d4ks.vercel.app
 toplukonutbasvurubuzcr.vercel.app
 toplukonutbasvurucyyzmdku.vercel.app
 toplukonutbasvurudnxjxk.vercel.app
@@ -358598,6 +358624,7 @@ toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
 toplukonutbasvuruuobdmq.vercel.app
+toplukonutbasvuruwiyv69lfn3mk.vercel.app
 toplukonutbasvuruxmogg2noh43.vercel.app
 toplukonutbasvuruxmyrq.vercel.app
 toplukonutbasvuruzamani2025jj.duckdns.org
@@ -416341,6 +416368,7 @@ yuzyilarcaziraat.com
 yuzyildabirfirsatlar.cfd
 yuzyildabirfirsatlar.icu
 yuzyildabirfirsatlar.my
+yuzyilemrakkonutproje.xyz
 yuzyilin-evi.com
 yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com
 yuzyilinbasvurusu.online
