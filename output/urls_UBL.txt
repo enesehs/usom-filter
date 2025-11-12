@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-12 11:09:01 UTC
-! Total: 335518 rules
+! Last modified: 2025-11-12 12:23:53 UTC
+! Total: 335573 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41238,6 +41238,7 @@
 *://*.basvurrtoki.pro/*
 *://*.basvurru-aidatiadenizform.com/*
 *://*.basvurru-eiadeform.com/*
+*://*.basvurru-et-hemen-isiem.com.tr/*
 *://*.basvurru-formeiade.com/*
 *://*.basvurru-toki.info/*
 *://*.basvurrueylulayidagitimgunleri-trc.tk/*
@@ -52077,6 +52078,7 @@
 *://*.binanceteknolojiduyurukampanyasi.tk/*
 *://*.binanceterminal.site/*
 *://*.binancetickets.com/*
+*://*.binancetir.com.xn--tr-2caa/*
 *://*.binancetlr.com/*
 *://*.binancetlr.xyz/*
 *://*.binancetoggtrcekilisi-sizlereozel.cloud/*
@@ -62769,6 +62771,7 @@
 *://*.bsvurrrkamnpnyaaaissskatilimmm.cloud/*
 *://*.bsvurs.site/*
 *://*.bsvuru.site/*
+*://*.bsvuru2025tki.com.tr/*
 *://*.bsvuru5.click/*
 *://*.bsvurubnnc-firsatkmpnnya.com/*
 *://*.bsvurucam.site/*
@@ -100281,6 +100284,7 @@
 *://*.e-yuklemepay.net/*
 *://*.e-yukleode.net/*
 *://*.e-yurticikargo.com/*
+*://*.e-yuzyilim.org/*
 *://*.e-yuzyilinprojesi.com/*
 *://*.e-ziraaatweb.com/*
 *://*.e-ziraat-katilim.com/*
@@ -114205,6 +114209,7 @@
 *://*.evimbasvur2025.online/*
 *://*.evimbasvur2025.site/*
 *://*.evimbasvur2025.us/*
+*://*.evimbasvuronay.xyz/*
 *://*.evimbasvuru2025.com/*
 *://*.evimbasvuru2025.online/*
 *://*.evimbasvuru2025.site/*
@@ -170733,6 +170738,8 @@
 *://*.isleminhizmet.de/*
 *://*.isleminiburadantamamla.com/*
 *://*.isleminiburadantamamlaa.com/*
+*://*.isleminiolustur.com.xn--tr-2caa/*
+*://*.isleminiolusturonline.com.xn--tr-2caa/*
 *://*.isleminiyap.com/*
 *://*.isleminiyap.de/*
 *://*.isleminiyap.online/*
@@ -189123,6 +189130,8 @@
 *://*.konutbasvutrlarindansongunler.cloud/*
 *://*.konutbilgi.click/*
 *://*.konutbilgilendirme.org/*
+*://*.konutbilgimerkezi.com.tr/*
+*://*.konutbilgimerkezi.com.xn--tr-2caa/*
 *://*.konutborsasi.online/*
 *://*.konutbul.click/*
 *://*.konutcan.com/*
@@ -215162,6 +215171,7 @@
 *://*.nlalktr3.com.tr/*
 *://*.nlalnalnalnalnal.net/*
 *://*.nlalnatnanla.net/*
+*://*.nlaltalnlalnalntla.net/*
 *://*.nlamnalaaala.net/*
 *://*.nlanlaaalaal.net/*
 *://*.nlazar.me/*
@@ -266327,6 +266337,7 @@
 *://*.slayerslayer1.tk/*
 *://*.slayerslayerizm.tk/*
 *://*.slayerzamanigeldi.tk/*
+*://*.slayt-web.digital/*
 *://*.slazerdefault.online/*
 *://*.slb1rud0gle1snd.com/*
 *://*.slbjuris.fr/*
@@ -269822,6 +269833,9 @@
 *://*.sosixiyybludok.com/*
 *://*.soskitut.ru/*
 *://*.soskmnyyyy.club/*
+*://*.soskonbsv202521.com.xn--tr-2caa/*
+*://*.soskonbsv202522.com.xn--tr-2caa/*
+*://*.soskonbsv202523.com.xn--tr-2caa/*
 *://*.soskuns.org/*
 *://*.soslavanderia.com.co/*
 *://*.soslaymedyadenizkeyfinizden.site/*
@@ -270105,6 +270119,7 @@
 *://*.sosyalkampanyanet.cf/*
 *://*.sosyalkapimedvletbasvuru.online/*
 *://*.sosyalkazani.ml/*
+*://*.sosyalknutbsvr.com.xn--tr-2caa/*
 *://*.sosyalkont.com/*
 *://*.sosyalkont2025.sbs/*
 *://*.sosyalkontbasvuru.net/*
@@ -270113,6 +270128,7 @@
 *://*.sosyalkonut.org/*
 *://*.sosyalkonut.shop/*
 *://*.sosyalkonut2025.com.tr/*
+*://*.sosyalkonut2025.com.xn--tr-2caa/*
 *://*.sosyalkonut2026.com/*
 *://*.sosyalkonutbasvuru.click/*
 *://*.sosyalkonutbasvuru.net/*
@@ -270120,6 +270136,7 @@
 *://*.sosyalkonutbasvurugirislerii.cfd/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutbasvuuru2025.com.tr/*
+*://*.sosyalkonutbasvuuru2025.com.xn--tr-2caa/*
 *://*.sosyalkonutevim.org/*
 *://*.sosyalkonutilkevim.com/*
 *://*.sosyalkonutilkevimilkisyerim.net/*
@@ -271957,6 +271974,7 @@
 *://*.ssahibinden-paramguvende.com/*
 *://*.ssahibinden-paramguvende.online/*
 *://*.ssahibinden-paramguvende.xyz/*
+*://*.ssahibinden.com.tr/*
 *://*.ssahibindenbireyselparamguvende.online/*
 *://*.ssahibindennguvende.com/*
 *://*.ssahibindenparamguvende.com.tr/*
@@ -276921,6 +276939,7 @@
 *://*.t0ggservisi.org/*
 *://*.t0ggturkiyem.net/*
 *://*.t0k1-b4svar.click/*
+*://*.t0kbasvurum.click/*
 *://*.t0ki-hemenbrda.com/*
 *://*.t0ki.com.tr/*
 *://*.t0ki.shop/*
@@ -284012,6 +284031,7 @@
 *://*.tkibsvbrda.site/*
 *://*.tkibsvrlr-gov.pics/*
 *://*.tkibsvru-gov.pics/*
+*://*.tkibsvru2025.com.tr/*
 *://*.tkibsvurlarim.club/*
 *://*.tkibsvurlarim.com/*
 *://*.tkibsvuru2023.com/*
@@ -285397,6 +285417,7 @@
 *://*.toklgovtr.sbs/*
 *://*.toklprojebasv.com/*
 *://*.toklprojebasvru.help/*
+*://*.toklprojebasvrusu.com/*
 *://*.toklprojembasvru.com/*
 *://*.toklprojembasvru2025.com/*
 *://*.toknohaftasonuindirimin.net/*
@@ -289245,6 +289266,7 @@
 *://*.trbinanceyardim.com/*
 *://*.trbinarcen.com/*
 *://*.trbinase.com.tr/*
+*://*.trbinase.com.xn--tr-2caaaa/*
 *://*.trbininance.com/*
 *://*.trbinnceeiadesi.net/*
 *://*.trbinrance.net/*
@@ -289260,6 +289282,7 @@
 *://*.trblasvxzmblda.net/*
 *://*.trbllnance.com/*
 *://*.trblnance-49343249234135324.com/*
+*://*.trblnance.com.xn--tr-2caaaa/*
 *://*.trblnance.info/*
 *://*.trblnance.lat/*
 *://*.trblnance.org/*
@@ -289297,8 +289320,11 @@
 *://*.trbnadestek.com/*
 *://*.trbnan-ceteknoloji.net/*
 *://*.trbnancdestektr.com/*
+*://*.trbnance-tr.com.tr/*
+*://*.trbnance-tr.com.xn--tr-2ca/*
 *://*.trbnance-tr.online/*
 *://*.trbnance.com.tr/*
+*://*.trbnance.com.xn--tr-2caa/*
 *://*.trbnance.com/*
 *://*.trbnance.net/*
 *://*.trbnancebasvuru.com/*
@@ -289838,6 +289864,7 @@
 *://*.trendyolkatilim.com/*
 *://*.trendyolkazandiriyor.com.tr/*
 *://*.trendyolkep.com/*
+*://*.trendyolkep.net/*
 *://*.trendyolkupon.com/*
 *://*.trendyoll-shoppiing.com/*
 *://*.trendyoll.cc/*
@@ -310333,6 +310360,7 @@
 *://*.webtpuc.net/*
 *://*.webtr-6yil.com/*
 *://*.webtr-6yil.info/*
+*://*.webtr-6yil.site/*
 *://*.webtr-denizbankimiz.com/*
 *://*.webtr-iade.com/*
 *://*.webtr-infotr.com/*
@@ -319334,6 +319362,7 @@
 *://*.xn--binancegiri-1gc.com/*
 *://*.xn--binanctr-p1a.art/*
 *://*.xn--binanctr-p1a.com/*
+*://*.xn--binanetr-w0a.com.xn--tr-2caa/*
 *://*.xn--binanstr-p1a.com/*
 *://*.xn--binnc-tqa9d.com/*
 *://*.xn--binnc-tr-kza6f.com/*
@@ -319397,6 +319426,7 @@
 *://*.xn--bnance-cdn-tr-pjb.ml/*
 *://*.xn--bnance-iwa.ml/*
 *://*.xn--bnance-iwa.net/*
+*://*.xn--bnancetr-tkb.com.xn--tr-2caa/*
 *://*.xn--bnanctr-nya84d.online/*
 *://*.xn--bnnc-tr-qwa8e9a.com/*
 *://*.xn--bnncetr-qwa0i.com/*
@@ -321964,6 +321994,7 @@
 *://*.xn--tazeiek-xxab.com/*
 *://*.xn--tb-h7s.com/*
 *://*.xn--tb-rts.com/*
+*://*.xn--tbnancetr-wpb.com.xn--tr-2caa/*
 *://*.xn--tc-salk-bakanl-20gb-kazan-evdekal-voej35diab.online/*
 *://*.xn--tcbbsosyalpandemidestekuygulamas-21e.com/*
 *://*.xn--teb-islem-kampanyas-y5c.com/*
@@ -322047,25 +322078,46 @@
 *://*.xn--trbinanc-i1a.net/*
 *://*.xn--trbinanc-r1a.com/*
 *://*.xn--trbinanc-r1a.net/*
+*://*.xn--trbinance-vpb.com.xn--tr-2caa/*
 *://*.xn--trbinane-79a.com/*
+*://*.xn--trbinane-tr-s9a.com.xn--tr-2caaa/*
 *://*.xn--trbinanetr-u6a.online/*
 *://*.xn--trbinanse-vpb.com.tr/*
+*://*.xn--trbinanse-vpb.com.xn--tr-2caa/*
+*://*.xn--trbnace-tfb.com.tr/*
 *://*.xn--trbnanc-pya.com/*
 *://*.xn--trbnanc-pya4b.ml/*
 *://*.xn--trbnanc-pya5a.com/*
+*://*.xn--trbnanc-t2a68b.com.xn--tr-2caaa/*
 *://*.xn--trbnance-dkb.com/*
 *://*.xn--trbnance-e2a.com/*
 *://*.xn--trbnance-n2a.com/*
 *://*.xn--trbnance-tib.com/*
 *://*.xn--trbnance-tkbc.com.tr/*
+*://*.xn--trbnance-tkbc.com.xn--tr-2caa/*
+*://*.xn--trbnance-tr-1zb.com.xn--tr-2ca/*
+*://*.xn--trbnance-vkb.com.xn--tr-2caa/*
 *://*.xn--trbnance-vkb.com/*
 *://*.xn--trbnance-vkb.net/*
 *://*.xn--trbnance-vkb.store/*
 *://*.xn--trbnance-w2a.net/*
 *://*.xn--trbnance-yilbasi-2023-48b.ml/*
+*://*.xn--trbnancetr-zub.com.xn--tr-2caa/*
+*://*.xn--trbnancv-vkb.com.xn--tr-2caa/*
+*://*.xn--trbnane-zxa.com.xn--tr-2ca/*
+*://*.xn--trbnane-zxa67d.com.xn--tr-2caa/*
+*://*.xn--trbnanse-tr-1zb.com.xn--tr-2caa/*
+*://*.xn--trbnanse-vkb.com.xn--tr-2caa/*
+*://*.xn--trbnanze-vkb.com.xn--tr-2caa/*
+*://*.xn--trbnasce-vkb.com.tr/*
+*://*.xn--trbnase-tfb.com.tr/*
 *://*.xn--trbnasem-vkb.com.tr/*
+*://*.xn--trbnasem-vkb.com.xn--tr-2caa/*
 *://*.xn--trbnece-tfb.com.tr/*
+*://*.xn--trbnece-tfb.com.xn--tr-2caa/*
+*://*.xn--trbnence-vkb.com.xn--tr-2ca/*
 *://*.xn--trbsance-vkb.com.tr/*
+*://*.xn--trbsance-vkb.com.xn--tr-2caa/*
 *://*.xn--trendbolster-nz9f.top/*
 *://*.xn--trendyl-f1a.com/*
 *://*.xn--trendyollcanldestek-s5c.online/*
@@ -322168,6 +322220,7 @@
 *://*.xn--trtmhaberduyurularonline-xsc70l.app/*
 *://*.xn--trustglobals-nz9f.com/*
 *://*.xn--tsbnance-vkb.com.tr/*
+*://*.xn--tsbnance-vkb.com.xn--tr-2caaaaaaaa/*
 *://*.xn--tuktukktutktlv-bgcc.net/*
 *://*.xn--turiyegovtr-31b.com/*
 *://*.xn--turkhalknadestek-hqc.com/*
@@ -327403,6 +327456,7 @@
 *://*.yenibvruu30.click/*
 *://*.yenibvruu40.click/*
 *://*.yenibvruu50.click/*
+*://*.yenibvruu60.click/*
 *://*.yenibvruu70.click/*
 *://*.yenibvruu80.click/*
 *://*.yenibvruu90.click/*
@@ -331759,6 +331813,7 @@
 *://*.yuzyilin-evi.com/*
 *://*.yuzyilin-sevgisi-filizlendi-ellerimizde-hayat-buldu.com/*
 *://*.yuzyilinbasvurusu.online/*
+*://*.yuzyilinevleri-basvur.org/*
 *://*.yuzyilinevleri.com/*
 *://*.yuzyilinindirimlisayfasi.online/*
 *://*.yuzyilinindirimlisayfasi.xyz/*
