@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-12 18:13:47 UTC
-# Toplam: 421520 Domain
+# Son Güncelleme: 2025-11-12 19:01:45 UTC
+# Toplam: 421549 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14453,6 +14453,7 @@
 500binilkevim.com
 500binkontprojesi.com
 500binkonut.com
+500binkonut.neocities.org
 500binkonut.org
 500binkonut.xyz
 500binkonutabasvur.org
@@ -59825,6 +59826,7 @@ basvuruyapkazan.tk
 basvuruyapkazan.xyz
 basvuruyapmaekrani.com
 basvuruyapmasayfasi.online
+basvuruyaponline.site
 basvuruyaps.com
 basvuruyaps.online
 basvuruyapsende.tk
@@ -63448,6 +63450,7 @@ bestzones.ddns.net
 besuj.com
 besvaxmf.com
 besyilhediyezamani.xyz
+besyuzbinkonut.com
 besyuzbinkonutbasvuru.com
 bet-ter-electr.org
 bet.panel.market
@@ -84566,6 +84569,7 @@ buralari-iyi-biliriz.com
 buralarinda-bilinenlere-ikiletmeden-bulunursaniz-olur.top
 buralarksa.duckdns.org
 buralaronlinehomestler.click
+buralarsende.work.gd
 burali-bilir-hepzamana-kazandiran-alir.top
 burali-olan-daha-hizli-alirsa-kazanirsiniz-bilin.com
 buralr.pro
@@ -116129,6 +116133,7 @@ dijitalkredigiris-ziraat.com
 dijitalkredikampanya-ziraat.com
 dijitalkrediler-ziraat.com
 dijitalkrediler-ziraatbireysel.com
+dijitalkrediler-ziraatmobilbireysel.sbs
 dijitalkrediler-ziraatmobilweb.sbs
 dijitalkredim-ziraatbireysel.com
 dijitalkredimdenizv2.co
@@ -144050,6 +144055,7 @@ evimbasvuronay.xyz
 evimbasvuru2025.com
 evimbasvuru2025.online
 evimbasvuru2025.site
+evimbasvurusu.online
 evimbutik.tech
 evimdekal.org
 evimden.html-5.me
@@ -151455,6 +151461,7 @@ firsatbildirimi.xyz
 firsatbildirimileri.online
 firsatbildirimileri.xyz
 firsatbildirimleri.com
+firsatbildirimleri.store
 firsatbilgilendirme.ga
 firsatbilisimonline.store
 firsatbilisimyuklemenoktasi.xyz
@@ -152457,6 +152464,7 @@ firsatlarimizsizlerlesepetteurunler.online
 firsatlarimizsizlerlesepetteurunler.xyz
 firsatlarimkampanya.net
 firsatlarimonlinedatr.name.tr
+firsatlarimpasaj.xyz
 firsatlarimqndenvar.duckdns.org
 firsatlarimyaz.site
 firsatlarin.com.tr
@@ -166465,6 +166473,7 @@ giristrprbduyuru.com
 giristrresmiprbm.com
 giristrsnduyuru.com
 giristryazfirsat-bbavtr.xyz
+giristtokiresmikanalbasvurgovtr.store
 giristurkeydevlet13.net
 giristurkiye-gov-tr.com
 giristurkiye-govtr.org
@@ -184312,6 +184321,7 @@ hemenenguzelksko.com.tr
 hemenenguzelksko.xyz
 hemenetkilim.gq
 hemenev2025.com
+hemenevimbasvuru.com
 hemenevlen.blogspot.com
 hemenevlilikdestek.pw
 hemenfirsatadahilolkacirma.com
@@ -202675,6 +202685,7 @@ ilkevimbasvuru.cfd
 ilkevimbasvuru.click
 ilkevimbasvuru.com
 ilkevimbasvuru.online
+ilkevimbasvuru5g6oe5zpesp.vercel.app
 ilkevimbasvuruekrani.com
 ilkevimbasvurukanali.com
 ilkevimbasvurular.com
@@ -202699,6 +202710,7 @@ ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutfirsatlari.duckdns.org
 ilkevimkonutlari.cloud
+ilkevimlerimtokiler.org
 ilkevimnet.com
 ilkevimproje.com
 ilkevimprojeleri.org
@@ -217772,6 +217784,7 @@ izomeroknksal.net
 izomirwetnqe.click
 izonlinemx.net
 izonykelmne.com
+izoofln.blogspot.com
 izoooggs.blogspot.com
 izosefermonibusof.net
 izqrmkrlsaqnt.net
@@ -254466,6 +254479,7 @@ mjn3e4j2432423.com
 mjnok.com
 mjo1ejodinox.org
 mjosh6995.ddns.net
+mjosqggpib.storage.googleapis.com
 mjot.pw
 mjqloeydrsmrnyu.cn
 mjqmqtadfk.duckdns.org
@@ -256832,6 +256846,7 @@ mobileqnbfinansbank.com
 mobileretrospective.top
 mobiles-sessionid.customize-identity.info
 mobilesahibiniden.app
+mobilescfsbenkazanirimsizkazanin.shop
 mobilesolo.top
 mobilesolutions.store
 mobilesprinkle.top
@@ -263707,6 +263722,7 @@ mytkllolhm.ddns.net
 mytogg10xgirisozel.cloud
 mytokayogas-antiad.mqid8.com
 mytokenacademy.com
+mytokibasvuralarii.art
 mytoolsapps.cf
 mytracking-parcel.ddns.net
 mytrackingh.top
@@ -276041,6 +276057,7 @@ onl2.my-homeip.com
 onlalnie-xmrkktfirstllrifyla.net.tr
 onlanykazanaldin.blogspot.com
 onlaozelreklamfirsatlari.ddnsgeek.com
+onlardayalanbizdeflrsatbitmez.com
 onlari-unutmayanlarin-sonunda-yine-gorusecegi.top
 onlarin-bildigi-buralara-kadarini-gorunen-alir.com
 onlay3islemleriniz.xyz
@@ -289651,6 +289668,7 @@ pasajp-ttceponline.com
 pasajp-ttmobil.com
 pasajpt-tonlinecep.cfd
 pasajreklam.com
+pasajreklamlar.com
 pasajsanal.com
 pasajsanalmagaza.com
 pasajsanalmagaza.store
@@ -297307,6 +297325,7 @@ projemhemen.site
 projemizvarbayramdan.com
 projeniz.org
 projeresmi.sbs
+projesecim.site
 projesecimi.com
 projesosylakonutbasvuru.net
 projestydox.hopto.org
@@ -339183,6 +339202,7 @@ sosyalpaylas.ml
 sosyalpetek2025.online
 sosyalplatinsky.shop
 sosyalportal.online
+sosyalproje500tokl.com
 sosyalrehber.name.tr
 sosyalsarayim.online
 sosyalsarayimm.online
@@ -357439,6 +357459,7 @@ toki-bas-vurru.pro
 toki-basladi-sende.click
 toki-basladi-sende.com
 toki-basladi-sende.xyz
+toki-basvrubilgisistemi.click
 toki-basvrum.digital
 toki-basvur-2025.com
 toki-basvur.blogspot.com
@@ -358093,6 +358114,7 @@ toklhemensorgula.qzz.io
 tokliverinzgeln.blogspot.com
 toklprojebasv.com
 toklprojebasvr.com
+toklprojebasvr2025.com
 toklprojebasvru.help
 toklprojebasvrusu.com
 toklprojembasvru.com
@@ -358534,6 +358556,7 @@ toplukonutbasvurucyyzmdku.vercel.app
 toplukonutbasvurudnxjxk.vercel.app
 toplukonutbasvurudqiimu.vercel.app
 toplukonutbasvurue0o64rpf6.vercel.app
+toplukonutbasvuruekyelyu21d.vercel.app
 toplukonutbasvurufbcnjj04ql.vercel.app
 toplukonutbasvuruguvfqhs.vercel.app
 toplukonutbasvurujdspj.vercel.app
@@ -358565,6 +358588,7 @@ toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
 toplukonutbasvuruuobdmq.vercel.app
+toplukonutbasvuruxmogg2noh43.vercel.app
 toplukonutbasvuruxmyrq.vercel.app
 toplukonutbasvuruzamani2025jj.duckdns.org
 toplukonutbasvuruzhuspm.vercel.app
@@ -358580,6 +358604,7 @@ toplukonutlarbasvurusu.com
 toplukonutlaridaresi.com
 toplukonutlarimsiparislerim.cloud
 toplukonutlsmler.org
+toplukonutonay.xyz
 toplukonutonlinebasvuru.com
 toplukonutprojebasvuru.com
 toplukonutprojebasvuru.online
@@ -366930,6 +366955,7 @@ turkcellmagazalar.com
 turkcellmagazalari.com
 turkcellmagazaonline.com
 turkcellmagazatr.com
+turkcellmagazaweb.com
 turkcellmarketi.com
 turkcellmarketing.com
 turkcellmarketler.com
@@ -416162,6 +416188,7 @@ yuvam.click
 yuvamission.com
 yuvamkonut.com
 yuvanikur.click
+yuvaniz.click
 yuvhhhoptg.duckdns.org
 yuvkhwoq.com
 yuvvgirisislemenuu.com
@@ -416321,6 +416348,7 @@ yuzyilkonutevi.xyz
 yuzyillarberaberiz.duckdns.org
 yuzyillik.name.tr
 yuzyilprojeesiilkevimmbasvruu81.xyz
+yuzyilprojesiilkevimhaksahipleri50.xyz
 yv0fdi.duckdns.org
 yv1qb3pn3.duckdns.org
 yv21xwxt4.duckdns.org
@@ -421254,6 +421282,7 @@ zxb.isdun.com
 zxbfyxy8.duckdns.org
 zxbjt.com
 zxbvasgasgvzx.cyou
+zxc-tok.click
 zxc.global
 zxc228.ddns.net
 zxc3421.xyz

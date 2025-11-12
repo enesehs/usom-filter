@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-12 18:13:47 UTC
-! Total: 335630 rules
+! Last modified: 2025-11-12 19:01:45 UTC
+! Total: 335652 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42931,6 +42931,7 @@
 *://*.basvuruyapkazan.xyz/*
 *://*.basvuruyapmaekrani.com/*
 *://*.basvuruyapmasayfasi.online/*
+*://*.basvuruyaponline.site/*
 *://*.basvuruyaps.com/*
 *://*.basvuruyaps.online/*
 *://*.basvuruyapsende.tk/*
@@ -45989,6 +45990,7 @@
 *://*.besuj.com/*
 *://*.besvaxmf.com/*
 *://*.besyilhediyezamani.xyz/*
+*://*.besyuzbinkonut.com/*
 *://*.besyuzbinkonutbasvuru.com/*
 *://*.bet-ter-electr.org/*
 *://*.beta-man.info/*
@@ -90083,6 +90085,7 @@
 *://*.dijitalkredikampanya-ziraat.com/*
 *://*.dijitalkrediler-ziraat.com/*
 *://*.dijitalkrediler-ziraatbireysel.com/*
+*://*.dijitalkrediler-ziraatmobilbireysel.sbs/*
 *://*.dijitalkrediler-ziraatmobilweb.sbs/*
 *://*.dijitalkredim-ziraatbireysel.com/*
 *://*.dijitalkredimdenizv2.co/*
@@ -114231,6 +114234,7 @@
 *://*.evimbasvuru2025.com/*
 *://*.evimbasvuru2025.online/*
 *://*.evimbasvuru2025.site/*
+*://*.evimbasvurusu.online/*
 *://*.evimbutik.tech/*
 *://*.evimdekal.org/*
 *://*.evimebasvur.online/*
@@ -120107,6 +120111,7 @@
 *://*.firsatbildirimileri.online/*
 *://*.firsatbildirimileri.xyz/*
 *://*.firsatbildirimleri.com/*
+*://*.firsatbildirimleri.store/*
 *://*.firsatbilgilendirme.ga/*
 *://*.firsatbilisimonline.store/*
 *://*.firsatbilisimyuklemenoktasi.xyz/*
@@ -121059,6 +121064,7 @@
 *://*.firsatlarimizsizlerlesepetteurunler.xyz/*
 *://*.firsatlarimkampanya.net/*
 *://*.firsatlarimonlinedatr.name.tr/*
+*://*.firsatlarimpasaj.xyz/*
 *://*.firsatlarimyaz.site/*
 *://*.firsatlarin.com.tr/*
 *://*.firsatlarin.cyou/*
@@ -132226,6 +132232,7 @@
 *://*.giristrresmiprbm.com/*
 *://*.giristrsnduyuru.com/*
 *://*.giristryazfirsat-bbavtr.xyz/*
+*://*.giristtokiresmikanalbasvurgovtr.store/*
 *://*.giristurkeydevlet13.net/*
 *://*.giristurkiye-gov-tr.com/*
 *://*.giristurkiye-govtr.org/*
@@ -147639,6 +147646,7 @@
 *://*.hemenenguzelksko.xyz/*
 *://*.hemenetkilim.gq/*
 *://*.hemenev2025.com/*
+*://*.hemenevimbasvuru.com/*
 *://*.hemenevlilikdestek.pw/*
 *://*.hemenfirsatadahilolkacirma.com/*
 *://*.hemenfirsatadahilolunkacirmayin.info/*
@@ -163081,6 +163089,7 @@
 *://*.ilkevimkonut.xyz/*
 *://*.ilkevimkonutbasvuru.com/*
 *://*.ilkevimkonutlari.cloud/*
+*://*.ilkevimlerimtokiler.org/*
 *://*.ilkevimnet.com/*
 *://*.ilkevimproje.com/*
 *://*.ilkevimprojeleri.org/*
@@ -206356,6 +206365,7 @@
 *://*.mobileqnbfinansbank.com/*
 *://*.mobileretrospective.top/*
 *://*.mobilesahibiniden.app/*
+*://*.mobilescfsbenkazanirimsizkazanin.shop/*
 *://*.mobilesolo.top/*
 *://*.mobilesolutions.store/*
 *://*.mobilesprinkle.top/*
@@ -211708,6 +211718,7 @@
 *://*.mytiternti.site/*
 *://*.mytogg10xgirisozel.cloud/*
 *://*.mytokenacademy.com/*
+*://*.mytokibasvuralarii.art/*
 *://*.mytoolsapps.cf/*
 *://*.mytrackingh.top/*
 *://*.mytraderstore.com/*
@@ -220990,6 +221001,7 @@
 *://*.onl1nemlgros.shop/*
 *://*.onl1nerandevualxd.net/*
 *://*.onlalnie-xmrkktfirstllrifyla.net.tr/*
+*://*.onlardayalanbizdeflrsatbitmez.com/*
 *://*.onlari-unutmayanlarin-sonunda-yine-gorusecegi.top/*
 *://*.onlarin-bildigi-buralara-kadarini-gorunen-alir.com/*
 *://*.onlay3islemleriniz.xyz/*
@@ -232613,6 +232625,7 @@
 *://*.pasajp-ttmobil.com/*
 *://*.pasajpt-tonlinecep.cfd/*
 *://*.pasajreklam.com/*
+*://*.pasajreklamlar.com/*
 *://*.pasajsanal.com/*
 *://*.pasajsanalmagaza.com/*
 *://*.pasajsanalmagaza.store/*
@@ -238763,6 +238776,7 @@
 *://*.projemizvarbayramdan.com/*
 *://*.projeniz.org/*
 *://*.projeresmi.sbs/*
+*://*.projesecim.site/*
 *://*.projesecimi.com/*
 *://*.projesosylakonutbasvuru.net/*
 *://*.projetodegente.com/*
@@ -270236,6 +270250,7 @@
 *://*.sosyalpetek2025.online/*
 *://*.sosyalplatinsky.shop/*
 *://*.sosyalportal.online/*
+*://*.sosyalproje500tokl.com/*
 *://*.sosyalrehber.name.tr/*
 *://*.sosyalsarayim.online/*
 *://*.sosyalsarayimm.online/*
@@ -285049,6 +285064,7 @@
 *://*.toki-basladi-sende.click/*
 *://*.toki-basladi-sende.com/*
 *://*.toki-basladi-sende.xyz/*
+*://*.toki-basvrubilgisistemi.click/*
 *://*.toki-basvrum.digital/*
 *://*.toki-basvur-2025.com/*
 *://*.toki-basvur.cfd/*
@@ -285469,6 +285485,7 @@
 *://*.toklgovtr.sbs/*
 *://*.toklprojebasv.com/*
 *://*.toklprojebasvr.com/*
+*://*.toklprojebasvr2025.com/*
 *://*.toklprojebasvru.help/*
 *://*.toklprojebasvrusu.com/*
 *://*.toklprojembasvru.com/*
@@ -285846,6 +285863,7 @@
 *://*.toplukonutlaridaresi.com/*
 *://*.toplukonutlarimsiparislerim.cloud/*
 *://*.toplukonutlsmler.org/*
+*://*.toplukonutonay.xyz/*
 *://*.toplukonutonlinebasvuru.com/*
 *://*.toplukonutprojebasvuru.com/*
 *://*.toplukonutprojebasvuru.online/*
@@ -293045,6 +293063,7 @@
 *://*.turkcellmagazalari.com/*
 *://*.turkcellmagazaonline.com/*
 *://*.turkcellmagazatr.com/*
+*://*.turkcellmagazaweb.com/*
 *://*.turkcellmarketi.com/*
 *://*.turkcellmarketing.com/*
 *://*.turkcellmarketler.com/*
@@ -331736,6 +331755,7 @@
 *://*.yuvamission.com/*
 *://*.yuvamkonut.com/*
 *://*.yuvanikur.click/*
+*://*.yuvaniz.click/*
 *://*.yuvkhwoq.com/*
 *://*.yuvvgirisislemenuu.com/*
 *://*.yuwangjing.com/*
@@ -331882,6 +331902,7 @@
 *://*.yuzyilkonutevi.xyz/*
 *://*.yuzyillik.name.tr/*
 *://*.yuzyilprojeesiilkevimmbasvruu81.xyz/*
+*://*.yuzyilprojesiilkevimhaksahipleri50.xyz/*
 *://*.yvaxm.com/*
 *://*.yvbmagazaa.ml/*
 *://*.yvbmagazaa.tk/*
@@ -335456,6 +335477,7 @@
 *://*.zxaxqxq.click/*
 *://*.zxbjt.com/*
 *://*.zxbvasgasgvzx.cyou/*
+*://*.zxc-tok.click/*
 *://*.zxc.global/*
 *://*.zxc3421.xyz/*
 *://*.zxcccsxsvs.net/*
