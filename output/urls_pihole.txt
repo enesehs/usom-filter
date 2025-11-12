@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-12 16:12:48 UTC
-# Toplam: 421502 Domain
+# Son Güncelleme: 2025-11-12 17:10:03 UTC
+# Toplam: 421505 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -217757,6 +217757,7 @@ iznl47k7.duckdns.org
 iznmrkrkrjdkgsfjg.blogspot.com
 iznnirkart.net
 iznnirrdolummerkezi.net
+izodef.duckdns.org
 izofghg.blogspot.com
 izokarttxd.net
 izolacija.tk
@@ -357481,6 +357482,7 @@ toki-gov-tr.ml
 toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.sbs
+toki-hizlibasvurularim.vercel.app
 toki-hizlibasvuruyap.vercel.app
 toki-ile.evsahibturkiye.com
 toki-ilkevim.com
@@ -366264,6 +366266,7 @@ tu.rkiye.dev
 tu02n.website
 tu321985.ddns.net
 tu3t6v.duckdns.org
+tu5hp8tpikj2.storage.googleapis.com
 tu6w5ins.duckdns.org
 tu75ljci.duckdns.org
 tuaaiirkiye.online
