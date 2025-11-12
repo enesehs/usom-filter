@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-12 07:10:17 UTC
-! Total: 335490 rules
+! Last modified: 2025-11-12 08:13:37 UTC
+! Total: 335499 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35078,6 +35078,7 @@
 *://*.asrabasvuru.net/*
 *://*.asrhd.com/*
 *://*.asrinorganizasyon.com/*
+*://*.asrinprojesibasvuruekrani.vip/*
 *://*.asrway.com/*
 *://*.assaddadadsadbimcell.net/*
 *://*.assadsdasad.net/*
@@ -39703,6 +39704,7 @@
 *://*.bambooamendment.top/*
 *://*.bamboobrewery.top/*
 *://*.bamboocabinlegcrawl.com/*
+*://*.bambooharbors.com/*
 *://*.bambooindigenous.top/*
 *://*.bamboosturdy.top/*
 *://*.bamboozle.cfd/*
@@ -58146,6 +58148,7 @@
 *://*.bmcmsdkdlmcm.net/*
 *://*.bmcnellamcasmahalle.tk/*
 *://*.bmcofa.net/*
+*://*.bmcorsi.com/*
 *://*.bmcqllturk1ye.com/*
 *://*.bmcsdmsdlkm.net/*
 *://*.bmcsellpazartesiodemeleriniz.com/*
@@ -80030,6 +80033,7 @@
 *://*.daltonkm.shop/*
 *://*.daltonlarsehirde.space/*
 *://*.daltonlarsehireindi.com/*
+*://*.dalvoros.com/*
 *://*.damade.fit/*
 *://*.damagedskull.xyz/*
 *://*.damagefantasypeasantenvelope.click/*
@@ -163009,6 +163013,7 @@
 *://*.ilkevim.com.pl/*
 *://*.ilkevim.xyz/*
 *://*.ilkevim250binbasvurusu.com/*
+*://*.ilkevim500bsvru-t-o-k-i.com/*
 *://*.ilkevimbasvr.xyz/*
 *://*.ilkevimbasvur2025.online/*
 *://*.ilkevimbasvurlarim.org/*
@@ -207752,6 +207757,7 @@
 *://*.moovrent.com/*
 *://*.moovtiktkak.xyz/*
 *://*.moowxpx.click/*
+*://*.mopasue.com/*
 *://*.mopcapsule.top/*
 *://*.mopedigit.shop/*
 *://*.mopescalation.top/*
@@ -214547,6 +214553,7 @@
 *://*.nighetwhisper.top/*
 *://*.night7485twodays.xyz/*
 *://*.nightauxiliary.top/*
+*://*.nightbreeze.click/*
 *://*.nightcarfilo.com/*
 *://*.nightcolorsmusic.com/*
 *://*.nightfallridge.site/*
@@ -226242,6 +226249,7 @@
 *://*.otorentmax.online/*
 *://*.otorezervasyon.com/*
 *://*.otoritem.pro/*
+*://*.otoritem.xyz/*
 *://*.otorqworqwos21.com/*
 *://*.otosektorl.com/*
 *://*.otoservisdesinbizle.net/*
@@ -251362,6 +251370,7 @@
 *://*.rusoti.com/*
 *://*.rusptheater.ru/*
 *://*.ruspyc.top/*
+*://*.russellhw.com/*
 *://*.russellrutherford123.xyz/*
 *://*.russia-basket.com/*
 *://*.russiancl.top/*
