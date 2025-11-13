@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-12 23:08:59 UTC
-! Total: 335685 rules
+! Last modified: 2025-11-13 00:43:27 UTC
+! Total: 335690 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -87123,6 +87123,7 @@
 *://*.destek-katilim.net/*
 *://*.destek-katilim.org/*
 *://*.destek-kbasvuruu.com/*
+*://*.destek-kollari.digital/*
 *://*.destek-kredisi-2000tl.com/*
 *://*.destek-kredisi.com.tr/*
 *://*.destek-maliye-pandemi.com/*
@@ -163828,6 +163829,7 @@
 *://*.inchlef.ru/*
 *://*.inchlevy.top/*
 *://*.inchtitle.xyz/*
+*://*.inci-otocikma.com.tr/*
 *://*.incibileklik.tk/*
 *://*.incidenceambiguous.top/*
 *://*.incidenceplumber.top/*
@@ -285178,6 +285180,7 @@
 *://*.toki500konutbasvuru.org/*
 *://*.toki500konutbasvuru.sbs/*
 *://*.toki500konutbasvurulari.xyz/*
+*://*.toki500proje.xyz/*
 *://*.toki600konutbasvuru.sbs/*
 *://*.toki700konutbasvuru.sbs/*
 *://*.tokial500binprojebasvuruekrani.com/*
@@ -285472,6 +285475,7 @@
 *://*.tokisite.com/*
 *://*.tokislem.com/*
 *://*.tokislemyap.com/*
+*://*.tokisondakikahaber.org/*
 *://*.tokisosyalbasvuru.net/*
 *://*.tokisosyalkonut.app/*
 *://*.tokisosyalkonut.net/*
@@ -319408,6 +319412,7 @@
 *://*.xn--bavuru-cimergovtr-0jd.com/*
 *://*.xn--bavuruadresi150-95c.com/*
 *://*.xn--bavuruaile150-jtc.com/*
+*://*.xn--bavurutoki-f9b.com/*
 *://*.xn--bay-lua.com.tr/*
 *://*.xn--bayram-mjdesi-3ob.com/*
 *://*.xn--bbbvasdabsvassdh-nqc.net/*
