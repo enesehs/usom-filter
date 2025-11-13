@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-13 14:09:53 UTC
-! Total: 335769 rules
+! Last modified: 2025-11-13 15:10:58 UTC
+! Total: 335792 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28383,6 +28383,7 @@
 *://*.allegiancetaska.top/*
 *://*.allehizmeetelerde.tech/*
 *://*.allelectronics.club/*
+*://*.allenduro.com/*
 *://*.allenfromfalmouth.com/*
 *://*.allenservice.ga/*
 *://*.allergicfrantic.top/*
@@ -35094,6 +35095,7 @@
 *://*.asrinorganizasyon.com/*
 *://*.asrinprojesibasvuruekrani.org/*
 *://*.asrinprojesibasvuruekrani.vip/*
+*://*.asrinprojesigeldi.com/*
 *://*.asrway.com/*
 *://*.assaddadadsadbimcell.net/*
 *://*.assadsdasad.net/*
@@ -36444,6 +36446,7 @@
 *://*.avinfo-sorgukgm.com/*
 *://*.avinfo-websorgu.com/*
 *://*.avirasecure.com/*
+*://*.avironx.com/*
 *://*.avis-arabakiralama.com/*
 *://*.avis-arac-kirala.com/*
 *://*.avis-arackirala.com/*
@@ -60955,6 +60958,7 @@
 *://*.book-handwrite.online/*
 *://*.book-house.org/*
 *://*.bookaires.com/*
+*://*.bookalow.com/*
 *://*.bookanswers.net/*
 *://*.bookapartial.com/*
 *://*.bookaustriavisit.com/*
@@ -62757,6 +62761,7 @@
 *://*.bsvrumonlineisubemkuveytturk.net/*
 *://*.bsvrun.click/*
 *://*.bsvrunuztoki.click/*
+*://*.bsvruportalim.com.tr/*
 *://*.bsvrutarihh.net/*
 *://*.bsvrutoiki.pics/*
 *://*.bsvrutrx1.com.tr/*
@@ -114281,6 +114286,7 @@
 *://*.evimolsuntoki.xyz/*
 *://*.evimolsuntokibasvuruekrani.com/*
 *://*.evimprojesi.com/*
+*://*.evimt0kibasvur.xyz/*
 *://*.evimtokibasvurkmpnya.info/*
 *://*.evimtokibasvurkmpnya.live/*
 *://*.evimtokibasvurkmpnya.pro/*
@@ -134332,6 +134338,7 @@
 *://*.govcza.help/*
 *://*.govcza.homes/*
 *://*.govczb.help/*
+*://*.govczk.homes/*
 *://*.goveloms.space/*
 *://*.gover.icu/*
 *://*.govermentsecintro.com/*
@@ -162984,6 +162991,7 @@
 *://*.iletsimbaskanligi-heryone20gb.com/*
 *://*.iletsimbaskanligigeriaktarmahizmeti.site/*
 *://*.iletsmynlendirmesorgu.store/*
+*://*.ilevprojebasvr.com/*
 *://*.ilezo.com/*
 *://*.ilfungodilacco.it/*
 *://*.ilgar.xyz/*
@@ -182003,6 +182011,7 @@
 *://*.kamuhizmeti-cimer-aidat-iadeleri.com/*
 *://*.kamuhizmetler.com/*
 *://*.kamuilan.org.tr/*
+*://*.kamuinfaz.com/*
 *://*.kamukpssgirisleri.tk/*
 *://*.kamulitariunas.com/*
 *://*.kamulumemuru.com/*
@@ -184077,6 +184086,7 @@
 *://*.kasimdaaldin2fakasimdakykalmadinalamadinxyckyc.com/*
 *://*.kasimdaalisverisccokguzel.online/*
 *://*.kasimdabasvurular.info/*
+*://*.kasimdabasvurular.online/*
 *://*.kasimdabasvurular.top/*
 *://*.kasimdabasvurularbitiyor.cloud/*
 *://*.kasimdabi1rbaskakmpnysxcw1.com/*
@@ -186600,6 +186610,7 @@
 *://*.killredls.pw/*
 *://*.killwhenabusing1.xyz/*
 *://*.killymilly.net/*
+*://*.kilmoora.com/*
 *://*.kilogramcocktail.top/*
 *://*.kilogramcompliment.top/*
 *://*.kilogramdegeneration.top/*
@@ -194677,6 +194688,7 @@
 *://*.linpttinteraktif.com/*
 *://*.linq.ink/*
 *://*.linshenlubosuxingwenqingsilansixin.top/*
+*://*.linshor.com/*
 *://*.lint18.com/*
 *://*.lintant.top/*
 *://*.linteling.com/*
@@ -201592,6 +201604,7 @@
 *://*.meaningpumpkin.top/*
 *://*.meaninurdu.com/*
 *://*.meanmalignant.top/*
+*://*.meanmoo.com/*
 *://*.meanrecurnce.top/*
 *://*.meansabide.top/*
 *://*.meansulphur.top/*
@@ -248542,6 +248555,7 @@
 *://*.remodelingquotestoday.site/*
 *://*.remodelingx.com/*
 *://*.remote1.cf/*
+*://*.remoteinterpretationpro.com/*
 *://*.remoteonlinehub.com/*
 *://*.remotepx.net/*
 *://*.remotesystemday.com/*
@@ -251116,6 +251130,7 @@
 *://*.royqqqvnmfiw.info/*
 *://*.royylnclepwbabhou.me/*
 *://*.rozavetrovv.com/*
+*://*.rozichain.com/*
 *://*.rozixoojyu.info/*
 *://*.rozkatech.yachts/*
 *://*.rparibu.com/*
@@ -256958,6 +256973,7 @@
 *://*.screensubscription.top/*
 *://*.screwallocate.top/*
 *://*.screwugentation.top/*
+*://*.scrfsagnlerim.cfd/*
 *://*.scribesphere.net/*
 *://*.scriptdenemeyelna.net/*
 *://*.scriptdesire.com/*
@@ -273353,6 +273369,7 @@
 *://*.stomachspectacular.top/*
 *://*.stomatalgia.com/*
 *://*.stomatoplasty.com/*
+*://*.stomint.com/*
 *://*.stone234.xyz/*
 *://*.stonecanoe.top/*
 *://*.stonedeyes.top/*
@@ -285372,6 +285389,7 @@
 *://*.tokibqsvrularinizz.com/*
 *://*.tokibqsvurucunuzz.com/*
 *://*.tokibqsvurulqrii.com/*
+*://*.tokibsrvuruhmzetler.com.tr/*
 *://*.tokibsvrlnzz.online/*
 *://*.tokibsvrlrr.com/*
 *://*.tokibsvrqlari.com/*
@@ -303985,6 +304003,7 @@
 *://*.vekistrane.com/*
 *://*.vekjous.com/*
 *://*.vekmirt.com/*
+*://*.veksout.com/*
 *://*.vekumora.store/*
 *://*.vekuna.store/*
 *://*.vel2iasdl2ol.site/*
@@ -304038,6 +304057,7 @@
 *://*.veloves.com/*
 *://*.veloxcart.store/*
 *://*.veloxrealestateng.com/*
+*://*.velstrox.com/*
 *://*.velsweebsodeme.net/*
 *://*.velthara.store/*
 *://*.veltrixxy.com/*
@@ -305779,6 +305799,7 @@
 *://*.vinovvakifanindakredi.xyz/*
 *://*.vinovvakifkredilimitim.xyz/*
 *://*.vinoymas.ch/*
+*://*.vinstam.com/*
 *://*.vinstome.com/*
 *://*.vintage.ae/*
 *://*.vintagebag.top/*
@@ -305993,6 +306014,7 @@
 *://*.viscarsfilo.org/*
 *://*.visgrate.com/*
 *://*.vishalbrassproducts.com/*
+*://*.vishoun.com/*
 *://*.vishuddhiyogaindia.com/*
 *://*.vishvagujarat.com/*
 *://*.visibilitrease.top/*
@@ -306038,6 +306060,7 @@
 *://*.visitpeel.top/*
 *://*.visitsolitary.top/*
 *://*.visiwonarypath.top/*
+*://*.viskand.com/*
 *://*.vislins23l.site/*
 *://*.visnav-dyson.com.tr/*
 *://*.visonleyr.com/*
