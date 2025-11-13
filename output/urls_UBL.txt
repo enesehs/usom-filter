@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-13 20:10:37 UTC
-! Total: 335847 rules
+! Last modified: 2025-11-13 21:09:15 UTC
+! Total: 335853 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11063,6 +11063,7 @@
 *://*.724garentakiralama.net.tr/*
 *://*.724garentakiralama.org.tr/*
 *://*.724garentarackiralama.org/*
+*://*.724hal-sen.sbs/*
 *://*.724hizmet.cf/*
 *://*.724hizmet.ga/*
 *://*.724hizmet.gq/*
@@ -41144,6 +41145,7 @@
 *://*.basvurmhs.cyou/*
 *://*.basvurmhs.xyz/*
 *://*.basvurmlarx.com/*
+*://*.basvurmna.cyou/*
 *://*.basvurmnr.com.tr/*
 *://*.basvurmnr.cyou/*
 *://*.basvurmnr.xyz/*
@@ -189315,6 +189317,7 @@
 *://*.konutkurabasvuru.com/*
 *://*.konutlar.org/*
 *://*.konutlardan2.fun/*
+*://*.konutlardan3.fun/*
 *://*.konutlarim2026.sbs/*
 *://*.konutlarimm.icu/*
 *://*.konutlarsite.com/*
@@ -264327,6 +264330,7 @@
 *://*.simdiislemnoktasi.com/*
 *://*.simdiistegeldiflrsat.xyz/*
 *://*.simdikampanya.online/*
+*://*.simdikapinagelenmutluluk.com/*
 *://*.simdikapinda.online/*
 *://*.simdikapinda1.online/*
 *://*.simdikayita.com/*
@@ -277467,6 +277471,7 @@
 *://*.takeusall.online/*
 *://*.takevoid.top/*
 *://*.takhgsb.com/*
+*://*.taki-bsvr.click/*
 *://*.taki-bsvr.com/*
 *://*.takibcimerkezi.cf/*
 *://*.takibcimerkezi.ga/*
@@ -285479,6 +285484,7 @@
 *://*.tokievimbasvuru.click/*
 *://*.tokievimkonutbasvuru.sbs/*
 *://*.tokievimolsun.click/*
+*://*.tokievimyuzyilabasvur.com/*
 *://*.tokievkonutbasvuru.com/*
 *://*.tokievler.net/*
 *://*.tokigarantigiris.com/*
