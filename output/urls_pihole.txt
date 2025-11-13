@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-13 00:43:27 UTC
-# Toplam: 421600 Domain
+# Son Güncelleme: 2025-11-13 02:28:08 UTC
+# Toplam: 421602 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -358016,6 +358016,7 @@ tokilkevimtrtr.blogspot.com
 tokim-basvurum.digital
 tokim.bounceme.net
 tokim.vercel.app
+tokimileilkevimler.org
 tokimkonutbasvurusu.cloud
 tokimmnntokimm-knt-proje.com
 tokimnetevim.store
@@ -417051,6 +417052,7 @@ zakzak100.zapto.org
 zalamafiapopcultur.eu
 zalbisgo.duckdns.org
 zaletelicaferestoran.ru
+zalient.org
 zalikomanperis.com
 zalimaracmuaynerxer.net
 zalimlerle.com
