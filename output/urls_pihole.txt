@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-13 11:01:50 UTC
-# Toplam: 421637 Domain
+# Son Güncelleme: 2025-11-13 12:23:42 UTC
+# Toplam: 421678 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10084,6 +10084,7 @@
 2adobea.com
 2aepha2n.duckdns.org
 2af26cnh.duckdns.org
+2agsbbf6tu.storage.googleapis.com
 2agustosgunlerineozelfrstlr.online
 2ajeirvn505k.duckdns.org
 2ajm57.duckdns.org
@@ -13677,6 +13678,7 @@
 487855yilbasizamnalari.com
 487fh73hf8345.blogspot.com
 488564648789.com
+4889321.netlify.app
 48895625412.com.tr
 48895625412.online
 488knul7n.duckdns.org
@@ -14450,6 +14452,7 @@
 500binasrinprojesi.com
 500binbasvuruekrani.org
 500binevproje.xyz
+500binevprojesi.xyz
 500bingirisekrani-gov.click
 500binhazirkonutrojesi.cloud
 500binilkevim.com
@@ -14487,6 +14490,7 @@
 500binsosyalkonut.xyz
 500binsosyalkonutbasvuru.com
 500binsosyalkonutbasvuru.org
+500bintoki.online
 500bintokievimbasvuruekrani.com
 500bintokikonutlaribasvuruekrani.com
 500bintokikonutprojesiacildi.urlbee.help
@@ -46010,6 +46014,7 @@ application-2020-merkez-sorgulama-yardim-taleb-olustur.com
 application-api.xyz
 application-document.com
 application-network-merkez-basvuru-iade-talebini-olustur.com
+application-review.org
 application-supportapple.com
 application8process.hopto.org
 applicationaffixation.top
@@ -58558,6 +58563,7 @@ basvurubanceislemibugunkampanyasi.tech
 basvurubancekampanyasi.tech
 basvurubancetechglolabal.tech
 basvurubasladibasvur.urlsalt.xyz
+basvurubasladihementamamlamasi.url-hero.click
 basvurubbwa.net
 basvurubddkiade.com
 basvurubduyurutr.com
@@ -58867,6 +58873,7 @@ basvuruilekazan.com
 basvuruilesendekazan.tk
 basvuruiletisim-portal.tk
 basvuruilkevim.com
+basvuruilkevim.pro
 basvuruimzaacikdenizv2denizbankatilis.co.vu
 basvuruingkasim02.duckdns.org
 basvuruinternet-yapikredi.com
@@ -92657,6 +92664,7 @@ chanhouses.com
 chanism.cfd
 chanism.sbs
 chanmiraiserver1.duckdns.org
+channel-review.org
 channelaffirm.top
 channelfacet.top
 channelinfo.pw
@@ -95881,6 +95889,7 @@ cloudupdates.co.za
 cloudupdatesss.com
 cloudusonly.ddns.net
 cloudvn.info
+cloudwardena.com
 cloudwebfile.com
 cloudwebstart.net
 cloudwebstorage.com
@@ -98082,6 +98091,7 @@ complexityicon.top
 complexitystudent.top
 complexorj.ddns.net
 complexsnap.top
+compliance-review.org
 complicatebeware.top
 complicatedelicit.top
 complication2356.xyz
@@ -104393,6 +104403,7 @@ daireeee.com
 daireeeeeee.com
 dairefkcdf.net
 daireislem.net
+dairekonutevimtalep.xyz
 dairesivrg.net
 dairevrgg.net
 dairevrglerode.net
@@ -153567,6 +153578,10 @@ flabblequap.website
 flablenitev.site
 flaboyserver.zapto.org
 flace-eylulcampanyasi-katilsongun.online
+flacergurad.com
+flaegrudad.com
+flaezguerad.com
+flaezguered.com
 flaflaflsanlmn.net
 flaflsaalm.net
 flafsalfan.net
@@ -153715,10 +153730,12 @@ flavorlegay.top
 flavourallcate.top
 flavourappalling.top
 flavourtestify.top
+flavregurads.com
 flawcomplement.top
 flawlessdeduct.top
 flawlessfraudulent.top
 flaxelle.com
+flaxergaurds.com
 flaxlarahatlas.net
 flayzon.com
 flbe.link
@@ -153727,6 +153744,7 @@ flbox.net
 flbpqgmsbskdmym.ru
 flbzwo.duckdns.org
 flch1z16g.duckdns.org
+flcreagurade.com
 flde-lity.com-jw.icu
 flde-lity.com-lg.icu
 fldsn.click
@@ -153751,6 +153769,7 @@ flejae6h.duckdns.org
 flekkb.cn
 fleldsupply.com
 flemaergvy.duckdns.org
+flenieregurd.com
 flentsac.top
 flersathadisengfelsenmedenyanio.world
 flesderklimendes.online
@@ -153803,6 +153822,7 @@ flfncxebjw.duckdns.org
 flftley.com
 flgjhwixg.duckdns.org
 flgvywnoycgz.duckdns.org
+flheregurend.com
 flibberwump.top
 flibp.suleqi1.website
 flickerxxx.com
@@ -153867,6 +153887,7 @@ fllfg00.cn
 fllxprint.com
 flmomywtju.duckdns.org
 flnansbank-online-hediye.tk
+flnaresgurard.com
 flnarvhu.com
 flnkiralama.com.tr
 flnovakru.com
@@ -153980,6 +154001,7 @@ flpevgn.com
 flpjc.com
 flplaintiff.com
 flpnlbaxef.duckdns.org
+flqaergwaard.com
 flqei.com
 flqpjqtcjf.duckdns.org
 flrasatolurolmazolursadagelsen.store
@@ -154239,6 +154261,7 @@ flrwatherkesleolsadanbansenleolmaz.world
 flrwsatherkesleolmasadnedme.world
 fls-portal.co.uk
 fls10l1kmpyafhacici.com
+flsaregursd.com
 flsbz25.duckdns.org
 flshopbd.com
 flsihiryjv.duckdns.org
@@ -169792,6 +169815,7 @@ grattis-tr.ddnsguru.com
 grattis-tr.dynuddns.com
 grattis-turkiye.dynuddns.com
 grattis.ddnsguru.com
+grattis.dyndns-at-work.com
 grattis.dynuddns.com
 grattis.laviewddns.com
 grattis.myvnc.com
@@ -171104,6 +171128,7 @@ gudfelips.site
 gudguy.zapto.org
 gudonenksxgfsaw.ru
 guendolenbertrand.net
+gueradflwre.com
 guerdofest.com
 gueridpqkp.com
 guerrilla453.xyz
@@ -185885,6 +185910,7 @@ herzamanburdayiz.cfd
 herzamancekilis.duckdns.org
 herzamanchpbababurda.blogspot.com
 herzamandestek.online
+herzamandevamediyoruzalisverise.shop
 herzamanfirsat.cfd
 herzamanfirsat.shop
 herzamanfirsatlari.shop
@@ -194463,6 +194489,7 @@ hormenesgtesls.com
 hormennnnstersertmsirtsirta.com
 hormennssssterkdslere.com
 hormensdtrerr.com
+hormenssteerlerss.com
 hormensterkdslere.com
 hormensterlerss.com
 hormenstersertmsirtsirta.com
@@ -202615,6 +202642,7 @@ ilk-evlerim-basvuru.vercel.app
 ilk-kart-iade-basvurusu-2021-karar.xyz
 ilk-kart-iade-basvurusu-2021.xyz
 ilk-konut2026.sbs
+ilk-lkntumm-bas.click
 ilk-sen-al.com
 ilk-t0ki-kntbasvur.click
 ilk0.xyz
@@ -219102,6 +219130,7 @@ jetselect.xyz
 jetshow-qi.cloud
 jetsigorta.net.tr
 jetsigortamburadan.com
+jetspayments.com
 jetsrenta.com
 jetta.10001mb.com
 jettavcbimcell.com
@@ -227114,6 +227143,7 @@ kartalrklm.com
 kartalsondakikalar.com
 kartaltvhd.com
 kartalvbs.site
+kartalvenus.myvnc.com
 kartalxbasvurular.cloud
 kartalxd.myvnc.com
 kartaodemeal.com
@@ -309967,6 +309997,7 @@ reklamlink26.vercel.app
 reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
 reklamm.cf
+reklammilazimhemenulasin.cfd
 reklamnurgaz.icu
 reklamnurgazis.my
 reklamonizlemes.site
@@ -325339,6 +325370,7 @@ sekizi.online
 sekizodeme.tk
 sekizzekim.com
 seklolesefhges.site
+sekme-giris.digital
 sekmwu.com
 seko.vipers.pw
 seko.zapto.org
@@ -345164,6 +345196,7 @@ submissivedilute.top
 submissiveprofile.top
 submissivescrape.top
 submissivesubscription.top
+submit-appeal.com
 submit-busines-restricted.duckdns.org
 submitdetails.ddns.net
 submitfactory.com
@@ -347979,6 +348012,7 @@ t0k1-b4svar.click
 t0kbasvurular.click
 t0kbasvurulari.sbs
 t0kbasvurularim.click
+t0kbasvurularim.sbs
 t0kbasvurum.click
 t0ki-hemenbrda.com
 t0ki.com.tr
@@ -354883,6 +354917,7 @@ thegreatestcentraplaceforcontentsafealways.win
 thegreensystems.com
 thegrntold91basvrcampdrybur.site
 theguardian.webredirect.org
+theguardshield.com
 theguild22.ddns.net
 theguitarstudio.co.za
 thegundemden.site
@@ -358048,6 +358083,7 @@ tokilkevimtrtr.blogspot.com
 tokim-basvurum.digital
 tokim.bounceme.net
 tokim.vercel.app
+tokimbasvurunaktif.vercel.app
 tokimileilkevimler.org
 tokimkonutbasvurusu.cloud
 tokimmnntokimm-knt-proje.com
@@ -358180,6 +358216,7 @@ tokl500proje.com
 toklbasvrlra.com
 toklbasvrproje.com
 toklbasvruproje.com
+toklbasvurlarim.com
 toklbasvuruadresl.duckdns.org
 toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
@@ -365574,6 +365611,7 @@ trusarfo.muropatrovantorlastormafaratasarka.net
 trust-aplicationn.hopto.org
 trust-certificate.net
 trust-country-mac.net
+trust-review.org
 trust-s-b.com
 trust-updates.duckdns.org
 trust-wallet.hopto.org
@@ -373921,6 +373959,7 @@ urlclicksgavarans.click
 urlcod.com
 urlfb-sponsorlu.site
 urlgoal.com
+urlhero.top
 urlintimacygoombguch.blogspot.com
 urlishort-er.click
 urlishorter.online
@@ -393847,6 +393886,7 @@ wvwpttavm-securem.com
 wvwpttavm-securen.com
 wvwpttavm-securess.com
 wvwpttavm.com
+wvwpttavmsecurem.com
 wvwqnbfinans.click
 wvwramazanozeletkinlik.com
 wvwsahibinden-securem.com
@@ -421358,6 +421398,7 @@ zwzgislcyk.duckdns.org
 zwzpchn.com
 zwzrpomlki.duckdns.org
 zx-sahibindenguvenle-online.ml
+zx-tok.click
 zx11sv30r.day
 zx11yy57.duckdns.org
 zx38oyxrna4ckrnq.com
