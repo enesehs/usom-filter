@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-13 21:09:15 UTC
-# Toplam: 421799 Domain
+# Son Güncelleme: 2025-11-13 22:09:18 UTC
+# Toplam: 421806 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58888,6 +58888,7 @@ basvuruilekazan.com
 basvuruilesendekazan.tk
 basvuruiletisim-portal.tk
 basvuruilkevim.com
+basvuruilkevim.live
 basvuruilkevim.pro
 basvuruimzaacikdenizv2denizbankatilis.co.vu
 basvuruingkasim02.duckdns.org
@@ -114651,6 +114652,7 @@ dgyrxsirlyowrpp.su
 dgysru.duckdns.org
 dgz09ya.duckdns.org
 dgzambia.com
+dgzeahtdzfz4.storage.googleapis.com
 dh135.world
 dh507r.duckdns.org
 dh98tqv48.duckdns.org
@@ -184576,6 +184578,7 @@ hemenislem.mywire.org
 hemenislem.net
 hemenislem88.22web.org
 hemenisleminiz.net
+hemenislemkalsnouta.online
 hemenislemktalbs.net
 hemenislemm.net
 hemenislemmbasv00.online
@@ -194949,6 +194952,7 @@ housewifewharf.top
 houseworkcurfew.top
 houshds.com
 houssainov.zapto.org
+houstnsa.click
 housworkmood.hopto.org
 hovarelec.shop
 hoverdeprivation.top
@@ -289759,6 +289763,7 @@ pasabeydestek.net
 pasabeydestek.org
 pasacoktatli.xyz
 pasadenapetrol.com
+pasagemzam.xyz
 pasailetapu.xyz
 pasaiotuzuncuyil.com
 pasaj-alisveris.com
@@ -289930,6 +289935,7 @@ pass0l1g-bletal.net
 pass2pass.xyz
 passagecomplacent.top
 passagecorrelation.top
+passagestima.store
 passagstark.top
 passanta.net
 passaportrandevusu.b-cdn.net
@@ -415733,6 +415739,7 @@ yubahack.duckdns.org
 yubamobilrat.ddns.net
 yubarat.ddns.net
 yubarats.ddns.net
+yubenhai.com
 yubi-afisha.ru
 yubi-bilet.ru
 yubit.co.za
