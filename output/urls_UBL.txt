@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-13 19:01:38 UTC
-! Total: 335842 rules
+! Last modified: 2025-11-13 20:10:37 UTC
+! Total: 335847 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9536,6 +9536,7 @@
 *://*.500bintoplukonutlar.com/*
 *://*.500bintoplukonutlarproje.com/*
 *://*.500bintoplukonutprojeleri-toki-basladi-2025.sbs/*
+*://*.500bintplu-knt.com/*
 *://*.500binyerlesim.com/*
 *://*.500binyerlesimi.com/*
 *://*.500binyerlesimkonut.com/*
@@ -155538,6 +155539,7 @@
 *://*.hoimoedreslerstss.com.tr/*
 *://*.hoisllemenulogin.com/*
 *://*.hoistlogistics.top/*
+*://*.hojestelerkst.click/*
 *://*.hojestkersts.com/*
 *://*.hojestkertlest.cloud/*
 *://*.hojestlertok.click/*
@@ -272755,6 +272757,7 @@
 *://*.stanleymarket.info.tr/*
 *://*.stanleymarket.net.tr/*
 *://*.stanleynexus.xyz/*
+*://*.stanleyparlar.com/*
 *://*.stanleyreborn.xyz/*
 *://*.stanleyrevive.xyz/*
 *://*.stanleyrise.xyz/*
@@ -277130,6 +277133,7 @@
 *://*.t0ggservisi.org/*
 *://*.t0ggturkiyem.net/*
 *://*.t0k1-b4svar.click/*
+*://*.t0k1basvuronay.top/*
 *://*.t0kbasvurular.click/*
 *://*.t0kbasvurulari.sbs/*
 *://*.t0kbasvurularim.click/*
@@ -285357,6 +285361,7 @@
 *://*.tokibasvurubasladi.net/*
 *://*.tokibasvuruekrani.org/*
 *://*.tokibasvuruguncel.net/*
+*://*.tokibasvuruhemen.org/*
 *://*.tokibasvuruil.com/*
 *://*.tokibasvuruislem.click/*
 *://*.tokibasvuruislemi.com/*
