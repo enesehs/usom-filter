@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 20:10:58 UTC
-# Toplam: 422695 Domain
+# Son Güncelleme: 2025-11-14 21:08:09 UTC
+# Toplam: 422701 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -27926,6 +27926,7 @@ acikdeniz.mobilfirsat.35-158-6-212.plesk.page
 acikdeniz.mobilfirsatinizde2023.xyz
 acikdeniz.mobilhizlibasvuruportalin.info
 acikdeniz.mobilsubebasvuruekranin.info
+acikdeniz.my-homeip.com
 acikdeniz.neguzellfirsatim.xyz
 acikdeniz.onaylibasvurudepartmani.com
 acikdeniz.onaylibasvuruekranim.com
@@ -59210,6 +59211,7 @@ basvurulartoky.online
 basvurulartr-bnnrcgiris.online
 basvurulartr-girisiniz.online
 basvurulartrbnncrsra.online
+basvurulartukeniyor.cloud
 basvurularucretsiz.com
 basvurularv0.denizozel.209-38-246-220.plesk.page
 basvurularv2.denizozelonatektiky.209-38-246-220.plesk.page
@@ -129596,6 +129598,7 @@ ebikegetsahibindentr.tk
 ebikeguvenliodemesahibinden.ml
 ebilenler.site
 ebiletara.com
+ebiletasimacilik.com
 ebilg-ony.servepics.com
 ebilgi-cepteteb-basvuru.com
 ebilgilendirme-acikdeniz-dijitalmobil-com.tk
@@ -280474,6 +280477,7 @@ onlinetahsilat2020.com
 onlinetahsilatsistemi.net
 onlinetakip.app
 onlinetakip.cloud
+onlinetalepbasvuru.sbs
 onlinetarifehizmetleribim.com
 onlinetasarruf-basvuru-yapicep.vercel.app
 onlinete-bfirsati.com
@@ -359138,6 +359142,7 @@ toklbasvuruhlzmetlerl.wordpress.com
 toklbasvyryap.org
 toklbsvrbrd.online
 toklbsvrlaribrda.online
+toklbsvrlarinizburda.com
 toklbsvrrlari.org
 toklerbasvuru.blogspot.com
 toklgovtr.sbs
@@ -359156,6 +359161,7 @@ toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
 tokobundo.my.id
+tokonudum.cyou
 tokonum.com.tr
 tokonum.xyz
 tokonutbasvurulari.org

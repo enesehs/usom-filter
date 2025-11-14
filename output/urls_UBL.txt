@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 20:10:58 UTC
-! Total: 336724 rules
+! Last modified: 2025-11-14 21:08:09 UTC
+! Total: 336729 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42350,6 +42350,7 @@
 *://*.basvurulartr-bnnrcgiris.online/*
 *://*.basvurulartr-girisiniz.online/*
 *://*.basvurulartrbnncrsra.online/*
+*://*.basvurulartukeniyor.cloud/*
 *://*.basvurularucretsiz.com/*
 *://*.basvurularyap150aile.com/*
 *://*.basvurularyapikredi.com/*
@@ -101545,6 +101546,7 @@
 *://*.ebikeguvenliodemesahibinden.ml/*
 *://*.ebilenler.site/*
 *://*.ebiletara.com/*
+*://*.ebiletasimacilik.com/*
 *://*.ebilgi-cepteteb-basvuru.com/*
 *://*.ebilgilendirme-acikdeniz-dijitalmobil-com.tk/*
 *://*.ebilgilendirme-akkartimiadalerim.com/*
@@ -225016,6 +225018,7 @@
 *://*.onlinetahsilatsistemi.net/*
 *://*.onlinetakip.app/*
 *://*.onlinetakip.cloud/*
+*://*.onlinetalepbasvuru.sbs/*
 *://*.onlinetarifehizmetleribim.com/*
 *://*.onlinete-bfirsati.com/*
 *://*.onlinetebbasvurunuz.tk/*
@@ -286443,6 +286446,7 @@
 *://*.toklbasvyryap.org/*
 *://*.toklbsvrbrd.online/*
 *://*.toklbsvrlaribrda.online/*
+*://*.toklbsvrlarinizburda.com/*
 *://*.toklbsvrrlari.org/*
 *://*.toklgovtr.sbs/*
 *://*.toklprojebasv.com/*
@@ -286458,6 +286462,7 @@
 *://*.toknowall.com/*
 *://*.toko-3.vip/*
 *://*.tokobundo.my.id/*
+*://*.tokonudum.cyou/*
 *://*.tokonum.com.tr/*
 *://*.tokonum.xyz/*
 *://*.tokonutbasvurulari.org/*
