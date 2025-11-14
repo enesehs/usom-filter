@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 07:10:06 UTC
-! Total: 335882 rules
+! Last modified: 2025-11-14 08:13:11 UTC
+! Total: 335892 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20979,6 +20979,7 @@
 *://*.agvlmtkxmdqy.top/*
 *://*.agvlmtkxmtq4.top/*
 *://*.agvyjnlxaancvnjfo.com/*
+*://*.agw-repos.com/*
 *://*.agwannews.com/*
 *://*.agxcvxc.ru/*
 *://*.agxfxwvfblofqtr.su/*
@@ -78528,6 +78529,7 @@
 *://*.cumayahizlibasla.online/*
 *://*.cumayaozelindirim.com/*
 *://*.cumbasklcim.com/*
+*://*.cumbergin.com/*
 *://*.cumberlanddermatology.com/*
 *://*.cumbull4h.xyz/*
 *://*.cumcum-yonusukekem.com/*
@@ -91420,6 +91422,7 @@
 *://*.dkys.org/*
 *://*.dkzelenograd-kassa.com/*
 *://*.dkzh-nsk.ru/*
+*://*.dl-chuguo.com/*
 *://*.dl-file.com/*
 *://*.dl-files.com/*
 *://*.dl-icloud.com/*
@@ -188218,6 +188221,7 @@
 *://*.kmosoada.com/*
 *://*.kmosoda.com/*
 *://*.kmosrgusuyapalimhemengovptersx.com/*
+*://*.kmosrozlgb.com/*
 *://*.kmosterlingler.com/*
 *://*.kmp-gnc-bg.cfd/*
 *://*.kmp-gnc-onl.cfd/*
@@ -191007,6 +191011,7 @@
 *://*.kssmkgmtrmr.shop/*
 *://*.kssnsnsnsn.tk/*
 *://*.kstika3.com/*
+*://*.kstra.shop/*
 *://*.kstumslesta.xyz/*
 *://*.kstyyksennt.net/*
 *://*.ksu.com.tr/*
@@ -214374,6 +214379,7 @@
 *://*.nextcheck.info/*
 *://*.nextdenhicbisiolmaz.com/*
 *://*.nextdimensionkingdomcollege.org/*
+*://*.nexteknoloji.cfd/*
 *://*.nextemulate.top/*
 *://*.nextera.capital/*
 *://*.nextespnl-musterportali.com/*
@@ -243775,6 +243781,7 @@
 *://*.qezdqxobxlxxvkdk31.com/*
 *://*.qezn.org/*
 *://*.qezxwouy.com/*
+*://*.qf-amsj.com/*
 *://*.qf-pttgov.top/*
 *://*.qf2020.top/*
 *://*.qf2x3pe8andb.com/*
@@ -252656,6 +252663,7 @@
 *://*.sacredloomperu.com/*
 *://*.sacredsummon.top/*
 *://*.sacrelcs.top/*
+*://*.sacrementsr.click/*
 *://*.sacrifiappease.top/*
 *://*.sacrificialexquisite.top/*
 *://*.sacrificialsimulate.top/*
@@ -277176,6 +277184,7 @@
 *://*.t0kibsvrdi.sbs/*
 *://*.t0kibsvrdmdi.sbs/*
 *://*.t0kibsvrmliz.sbs/*
+*://*.t0kievbasvurularim.com/*
 *://*.t0kievleribasvurulari.sbs/*
 *://*.t0kifirsatlari.click/*
 *://*.t0kikonutlaribasvur0.com/*
@@ -335615,6 +335624,7 @@
 *://*.zua9.top/*
 *://*.zuahub.buzz/*
 *://*.zubeydehanimvakfi.com/*
+*://*.zublin-sg.com/*
 *://*.zucts.com/*
 *://*.zucutu.com/*
 *://*.zudmlbws.com/*
