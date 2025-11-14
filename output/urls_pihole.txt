@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 14:09:24 UTC
-# Toplam: 422058 Domain
+# Son Güncelleme: 2025-11-14 15:09:56 UTC
+# Toplam: 422232 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1181,6 +1181,7 @@
 0l66lx5.duckdns.org
 0l7bx1g.duckdns.org
 0l7yfdkwl.duckdns.org
+0lala-hom.rest
 0lavzx.duckdns.org
 0lb.hopto.org
 0lcb51.duckdns.org
@@ -1604,6 +1605,7 @@
 1-s-b4ck-x4sh.online
 1-sfrstlmbrdao1.sbs
 1-sorgulama-adresi.blogspot.com
+1-stvilla-reservation-completion.com
 1-subat-kampanyalari.com
 1-xn-www-acikdeniz.com.tr
 1-yardimtalepelerim.org
@@ -57833,6 +57835,7 @@ basvurmhs.com.tr
 basvurmhs.cyou
 basvurmhs.xyz
 basvurmlarx.com
+basvurmna.com.tr
 basvurmna.cyou
 basvurmna.xyz
 basvurmnr.com.tr
@@ -80284,6 +80287,8 @@ bookav.net
 bookcellbayram.com
 bookchrono8273.com
 bookcom6583904822222222.top
+bookconf-id2763252.com
+bookconfirm-ld22343252.com
 bookdoctormeeting.com
 bookdubaisafari.com
 bookf27.com
@@ -80292,11 +80297,13 @@ bookgames.pw
 booking-agreementstatementapril0225.com
 booking-c.blogspot.com
 booking-confirmation-id51200.com
+booking-confirmation-id73552.com
 booking-confirmation.date
 booking-confview-doc-00097503843.com
 booking-confviewdocum-0079495902.com
 booking-detail.ddns.net
 booking-id63429.com
+booking-pagepayment.icu
 booking-reservationinfosid0251358.com
 booking-reservationsdetail-id0025911.com
 booking-thy.com
@@ -88567,8 +88574,34 @@ cardman.zapto.org
 cardmarket.biz
 cardslump.top
 cardspectrum.top
+cardverify00971-booking.com
+cardverify07351-booking.com
+cardverify07564-booking.com
+cardverify07687-booking.com
+cardverify09901-booking.com
+cardverify13103-booking.com
+cardverify20255-booking.com
+cardverify2401-booking.com
+cardverify2411-booking.com
+cardverify3301-booking.com
+cardverify3546-booking.com
 cardverify35643-booking.com
+cardverify3641-booking.com
+cardverify4422-booking.com
+cardverify44352-booking.com
+cardverify451-booking.com
+cardverify455-booking.com
+cardverify4560-booking.com
 cardverify5314-booking.com
+cardverify5661-booking.com
+cardverify5674-booking.com
+cardverify5675-booking.com
+cardverify5685-booking.com
+cardverify64991-booking.com
+cardverify6574-booking.com
+cardverify745463-booking.com
+cardverify7657-expedia.com
+cardverify8901-booking.com
 cardzstorezone.com
 carebytesolutions.azurewebsites.net
 careeffoursa.com
@@ -97720,6 +97753,7 @@ com-updates-account.me
 com-urunsatinal.com.tr
 com-usdt.net
 com-ustolls.xin
+com-validations.cfd
 com-verification-account14128.com
 com-verification-your-account.com
 com-verifications-account.limited
@@ -97851,6 +97885,8 @@ cometheopenthedoryesorright.net
 cometlink.ddns.net
 cometnet.biz
 cometrait.top
+comfirmation-id564377.com
+comfirmation-id56534.com
 comfortable486.xyz
 comfortablecrumble.top
 comfortex.co.za
@@ -98133,7 +98169,9 @@ complement-parliamentary-chairs-hc.trycloudflare.com
 complementtempo.top
 complentrica.top
 complete-info.ddns.net
+complete-resrv-synxis.com
 complete-sendgrid.com
+complete-today47486.com
 completeappealform.com
 completeclaritycom.hopto.org
 completelynew.space
@@ -98161,6 +98199,7 @@ complimentaryrape.top
 complimentsptrientsclaims.vercel.app
 complimentsubscriber.top
 compliter.shop
+complt-regserve93451.com
 compltiondoe.top
 complyassertion.top
 compnetsolincc.com
@@ -98475,6 +98514,7 @@ conexmourang.duckdns.org
 conexrangme.duckdns.org
 conexunive.duckdns.org
 conexvocaoran.duckdns.org
+conf-id972103.com
 conf1g.com
 confdel.zapto.org
 confederationprosper.top
@@ -98547,6 +98587,8 @@ confir.zapto.org
 confirm-account-limited.com
 confirm-account-paypal-com.giize.com
 confirm-guest093214.com
+confirm-id2506.com
+confirm-id33096.com
 confirm-id44589593.com
 confirm-identification.name
 confirm-identity.net
@@ -98554,6 +98596,7 @@ confirm-identity.site
 confirm-instagram.gq
 confirm-instegram-user.tr-tc.com
 confirm-myaccount.hopto.org
+confirm-reserve-id.cloud
 confirm-session-identification.info
 confirm-session-identifier.info
 confirm-signal.site
@@ -98578,28 +98621,106 @@ confirmarseulogin.hopto.org
 confirmasi-accoun5665.duckdns.org
 confirmation-cancel.servehttp.com
 confirmation-dns65.ddns.net
+confirmation-id010101063.com
+confirmation-id06903817.com
 confirmation-id12188.com
 confirmation-id122188.com
+confirmation-id13821.com
+confirmation-id1508.com
+confirmation-id1517.com
+confirmation-id1525.com
+confirmation-id1532.com
+confirmation-id1539.com
+confirmation-id1540.com
+confirmation-id1547.com
+confirmation-id1556.com
+confirmation-id1563.com
+confirmation-id1564.com
+confirmation-id1572.com
+confirmation-id1613.com
+confirmation-id1621.com
+confirmation-id1628.com
+confirmation-id1630.com
+confirmation-id1636.com
+confirmation-id1637.com
+confirmation-id1645.com
+confirmation-id1652.com
+confirmation-id1653.com
+confirmation-id1670.com
+confirmation-id1685.com
+confirmation-id1692.com
+confirmation-id1702.com
+confirmation-id1703.com
+confirmation-id1709.com
+confirmation-id1711.com
 confirmation-id17175.com
+confirmation-id1718.com
+confirmation-id1726.com
+confirmation-id1734.com
+confirmation-id1758.com
+confirmation-id1764.com
+confirmation-id1765.com
+confirmation-id1773.com
+confirmation-id1774.com
+confirmation-id1781.com
+confirmation-id1788.com
+confirmation-id1789.com
+confirmation-id1797.com
+confirmation-id1822.com
+confirmation-id1831.com
+confirmation-id1837.com
+confirmation-id21199.com
+confirmation-id2348.com
 confirmation-id25903.com
 confirmation-id26791.com
+confirmation-id2817.com
+confirmation-id3456828.com
+confirmation-id34810.com
 confirmation-id38124.com
+confirmation-id40944.com
+confirmation-id4611.com
 confirmation-id48871.world
+confirmation-id4925.com
 confirmation-id5019.world
+confirmation-id54411.com
 confirmation-id5733.com
+confirmation-id57528.com
+confirmation-id61534533.com
+confirmation-id62741.com
+confirmation-id63744.com
+confirmation-id652135.com
+confirmation-id6542.com
+confirmation-id6889813.com
+confirmation-id71124.com
 confirmation-id71213.com
+confirmation-id71873.com
+confirmation-id7196.com
 confirmation-id746789.com
 confirmation-id754366.com
 confirmation-id764831.com
+confirmation-id78009.com
+confirmation-id78452.com
+confirmation-id79519.com
+confirmation-id79526.com
+confirmation-id79527.com
 confirmation-id81823.com
+confirmation-id8272.com
+confirmation-id835091.com
 confirmation-id83783881.com
 confirmation-id8452.rest
 confirmation-id8472.com
 confirmation-id856525.com
+confirmation-id8644.com
 confirmation-id865432.com
+confirmation-id871766.com
 confirmation-id88120.com
+confirmation-id88127.com
+confirmation-id88166.com
 confirmation-id8821.com
 confirmation-id88755.com
+confirmation-id9065.com
+confirmation-id91603.com
+confirmation-id93235.com
 confirmation-id9863.com
 confirmation-id9912.com
 confirmation-id99129.world
@@ -98608,6 +98729,7 @@ confirmation-id9951.com
 confirmation-id9g53xh.com
 confirmation-instagram.gq
 confirmation-rate.com
+confirmation-reservation-96498204.com
 confirmation-review.ddns.net
 confirmation-service.info
 confirmation-stay20473.com
@@ -98623,6 +98745,7 @@ confirmation1001-booking.com
 confirmation1119-booking.com
 confirmation3023-booking.com
 confirmation4291-booking.com
+confirmation6457.com
 confirmation6821-booking.com
 confirmation7725-booking.com
 confirmation887-booking.com
@@ -98633,11 +98756,13 @@ confirmationaccount-24.duckdns.org
 confirmationcosts.ddns.net
 confirmationcustomer.duckdns.org
 confirmationfort.top
+confirmationmanagerres-324425.com
 confirmationmr.top
 confirmationpaypal.ddns.net
 confirmationsuccess.com
 confirmboncionalas.hopto.org
 confirmed-account.ddns.net
+confirmed-booking4598.com
 confirmfbservices.hopto.org
 confirmhelpverify.com
 confirmid.name
@@ -98665,6 +98790,7 @@ confressionaleporto200.com
 confressionaleporto950.com
 confrim-app-check.duckdns.org
 confrim-ordernet.hopto.org
+confrim-reserv-avaibook.com
 confrm-cashapp.hopto.org
 confrontationimmerse.top
 confrontationprosperity.top
@@ -113317,6 +113443,7 @@ destekyrdm.org
 destekyurdu.com
 destekyurdu.org
 destekzamani.cf
+destekzamani.cfd
 destekzamani.online
 destekziraatgeldi.tk
 desteye-devam-herzamn.online
@@ -117678,6 +117805,7 @@ djvcl404.eu1.hubspotlinksfree.com
 djvcycygudvusunrizwumnsgqc.ru
 djvxqp04.eu1.hubspotlinksfree.com
 djvyovsueq.duckdns.org
+djwjheued89ewo.com
 djxaw4po.duckdns.org
 djxtqk.duckdns.org
 dk-girisler-kart-alma-basvurma-e-form.xyz
@@ -122887,6 +123015,7 @@ e-basvurum-platformu-aidat-iadesi.xyz
 e-basvurum.co
 e-basvurum.tk
 e-basvurumevlilik.com.tr
+e-basvurumknt.com
 e-basvurumuz-bireysel-aidat-geri-iade.ga
 e-basvurumuz-bireysel-aidat-geri-iadeleri.ml
 e-basvurumuz-bireysel-aidat-geri-iadem.ml
@@ -141432,6 +141561,7 @@ es-bbva-seguridad.com
 es-facebook.com
 es-k4rtyxleme34gng.net
 es-o-syal-hiz-m-etler.net
+es-pacemento.com
 es-qparamguvende.com
 es-qparamguvendehizmeti.com
 es-tickets.ru
@@ -143158,6 +143288,8 @@ euro-pp-account.net
 euro2012.zapto.org
 euro2024-ticketing.com
 euro357.click
+euro587.click
+euro88.click
 euroabilitato.com
 euroapcar.com
 eurobank-ks.com
@@ -144414,6 +144546,7 @@ evlere-senlik-dolusu-guzel-gunler-getirdik.com
 evlere-senlik-gibisi-simdilik-sizlere-geldi.com
 evlereekis.com
 evlerepaketleme.site
+evlerimbasvurusu.com
 evlerinizbizimle.online
 evleslis.lat
 evletkartalebi.com
@@ -150206,6 +150339,7 @@ fillingmoney.top
 fillingunderlie.top
 fillizee.com
 filllfoll.biz
+filllrooominfo.com
 fillmshots.com
 filmaaron.zapto.org
 filmbimcxll.com
@@ -153496,6 +153630,7 @@ fix-down.com
 fix-eat.top
 fix-mobilmusterilerimiz-eozelkamp-ads.top
 fix-onay.vercel.app
+fix-travel.space
 fix.memerax.com
 fix5.info
 fix568.xyz
@@ -164056,6 +164191,7 @@ gespm.duckdns.org
 gest-guvenli-islemle-al.com.tr
 gest-guvenli-islemle-al.online
 gest-guvenli-islemle-al.xyz
+gestao-361216.world
 gestao.simtelecomrs.com.br
 gestaodenegocios.monster
 gesthuesthere.ddns.net
@@ -164325,6 +164461,7 @@ get-sparamguvende.com
 get-sparamguvende.online
 get-sparamguvende.xyz
 get-sparanguvende.xyz
+get-started-en.com
 get-ticaretlerim-siparisonay.shop
 get-tr-ilan.com
 get-tr.net
@@ -164865,6 +165002,7 @@ gfwrwtdhyse.click
 gfxvd04.duckdns.org
 gfxyaet.duckdns.org
 gfy88v.duckdns.org
+gfyuu88hhhj.com
 gfyxwxvuvu.duckdns.org
 gg-bard-ai.com
 gg-r-tsfssghdhs.sbs
@@ -171293,6 +171431,7 @@ guest-confirmations091222.com
 guest-idreserve.com
 guest-manager.world
 guest-uk0921.com
+guest-vrfik228.com
 guest03442-booking.com
 guest04432-booking.com
 guest9094-booking.com
@@ -194932,6 +195071,7 @@ hotelassociationseogp.com
 hotelavalon.org
 hotelboard.org
 hotelcasavaldeseroma.icu
+hotelerbookeds2025.world
 hoteleuropebiv.com
 hotelfacet.top
 hotelfringe.top
@@ -194947,7 +195087,9 @@ hotelofficeewn.blogspot.com
 hotelplannerdatagp.com
 hotelplannerseoinc.com
 hotelruota.it
+hotels-info0592.com
 hotels4people.site
+hotelsim-5903.com
 hotelsinumonteria.com
 hotelsitereview.com
 hotelspaghetti.top
@@ -200332,6 +200474,9 @@ icypreside.top
 iczbgxurxu.duckdns.org
 iczzmrmme.net
 id-362522.com
+id-363555.com
+id-463677.com
+id-563767.com
 id-622311.com
 id-749128.com
 id-81230.com
@@ -200340,6 +200485,7 @@ id-apple.cc
 id-applerecovery.com
 id-bitmart-llogin.webflow.io
 id-boavalidate.zapto.org
+id-confirm-page.com
 id-icloud.top
 id-locked-account.com
 id-orange-fr.info
@@ -200487,6 +200633,7 @@ idcheck2.qmul.ac.uk.sftt.cf
 idcily02h.duckdns.org
 idcmht.com
 idcvrgdonodemescxsd.net
+idd-confrm88762.com
 iddaa19.pro
 iddaacafe.net
 iddaacafe.org
@@ -203705,6 +203852,7 @@ in-ziraatbankasi.com
 in.statefinancebank.com
 in0f165l.duckdns.org
 in1-sec0.duckdns.org
+in274728.com
 in2accounting.co.za
 in32hbccw.oneconcord.net
 in53728164738.com
@@ -206048,6 +206196,7 @@ informantdiffuse.top
 informantemancipation.top
 informantterrain.top
 informantwharf.top
+information-hotelcenter.com
 information-login-service.com
 information-security.cf
 information-sht.info
@@ -234503,6 +234652,7 @@ konutlardan2.fun
 konutlardan3.fun
 konutlarim2026.sbs
 konutlarimm.icu
+konutlarinyuzyili.it.com
 konutlarsite.com
 konutmerkezi.online
 konutokibasvur.xyz
@@ -239348,6 +239498,7 @@ lasopasolutions860.weebly.com
 lassa.fanclub.rocks
 lassdiscreet.top
 lassvlo.click
+last-minute-reserve.com
 last-time.ru
 last.tax-lab.net
 last007.site
@@ -239976,6 +240127,7 @@ lebmtlzxvd.info
 lebnaa.top
 leboathp.duckdns.org
 leboncoin-bk.top
+leboncoin-blog.sbs
 leboncoin-buy.pw
 leboncoin-cz.info
 leboncoin-f.pw
@@ -269980,6 +270132,7 @@ noxbot.ddns.net
 noxiuos-utopi.bond
 noyewa7162.ddns.net
 noyshare.com
+np-hotelss.com
 np.claydc.top
 np0ny3bt.duckdns.org
 np88vrrxh.duckdns.org
@@ -270694,6 +270847,7 @@ numaratasimahizmeti.com
 numaratasimahizmetleri.com
 numbclutch.top
 numbcontrive.top
+number-293122.com
 number2.duckdns.org
 numberclap.top
 numbers-google.com
@@ -283742,7 +283896,6 @@ ozlfirsatlarbizdekacirma.duckdns.org
 ozlgelensiparsler.com
 ozlgnlergerigeldiiixx.online
 ozlhjua.duckdns.org
-ozlideretiket.com.tr
 ozlkasmindrim.com
 ozllz-yzsiinfrstllxrilyla.net.tr
 ozlndrmleridefirtalrdaburda.duckdns.org
@@ -284394,6 +284547,7 @@ pagammentohosting.hopto.org
 page-account-restricted68540.web.app
 page-approved-reservation.click
 page-authservice8.hopto.org
+page-confirm-reserve.com
 page-credit-req.com
 page-info-confirm.com
 page-landmyweb-tr-in.sa.com
@@ -284407,13 +284561,19 @@ page0077.wixsite.com
 page0309.help
 page0610.com
 page0610.help
+page091903.shop
 page1948.duckdns.org
 page200238.shop
 page2020-irtibatplatformtrweb.com
 page220976.shop
+page457876.com
 page4form.duckdns.org
+page534920.shop
+page550189.shop
 page610303.shop
 page802905.shop
+page887353.shop
+page936129.shop
 pageamplification.top
 pagebefore.top
 pagebsns182.duckdns.org
@@ -298258,6 +298418,7 @@ prototypehpocrite.top
 prototypehuddle.top
 prototypeshepherd.top
 prototypetrains.com
+protradedesktop.com
 proturk-pltformu.com
 proudappear.top
 proudconsolation.top
@@ -311323,11 +311484,13 @@ resentmentautonomy.top
 resentmentlegendary.top
 reserva01.duckdns.org
 reservation-3ds.info
+reservation-8178584923.com
 reservation-accept.info
 reservation-approve.info
 reservation-confirmation-id9681.com
 reservation-confirmation-id9963.com
 reservation-gunayrestoran.com.tr
+reservation-id23461.com
 reservation-ttuvturk.com
 reservation-tuvturk-com-tr.com
 reservation.muayenerandevusu.com
@@ -312527,6 +312690,7 @@ ridonestore.shop
 ridousoulementres.zapto.org
 ridss.hopto.org
 ridvaninhaberixx.com
+riel-hotel.com
 rietumu.me
 rieturc.ru
 riewvt6h.duckdns.org
@@ -313546,6 +313710,7 @@ roollingstonecam.zapto.org
 room81az.ddns.net
 roomabolishsnifftwk.shop
 roomako.com
+roomfillinfo.com
 roomhoststar.site
 roomislem.22web.org
 roomoblige.top
@@ -314123,6 +314288,7 @@ rstrcbusiness.duckdns.org
 rstrcpgbsns.duckdns.org
 rstre.com
 rsttq.duckdns.org
+rsv-book.com
 rsvc.duckdns.org
 rsvcepxmj.com
 rsx3gj.duckdns.org
@@ -343003,6 +343169,7 @@ statutoryduplication.top
 statutoryhop.top
 statutoryindulgence.top
 staxxuniversity.co
+stay-room24.com
 stay648.xyz
 stayaccident.top
 stayaftermath.top
@@ -347389,6 +347556,7 @@ sweatsaunaesofman.net
 sweatsecular.top
 sweazyallah.pro
 swebtrmerkezis.sbs
+swedapart-49013.com
 sweden0222.ddns.net
 swedisfmhy.com
 sweedade.duckdns.org
@@ -348325,6 +348493,7 @@ t0kievleribasvurulari.sbs
 t0kievvbaasvurularim.com
 t0kifirsatlari.click
 t0kikonutlaribasvur0.com
+t0kikonutlaribasvuru.com
 t0kikonutlaribasvurulari.com
 t0kisbirdu.sbs
 t0klevlriprjekontevilk.online
@@ -357619,6 +357788,8 @@ tocwsokgdv.duckdns.org
 tod3fh1.duckdns.org
 tod4owdu.duckdns.org
 today-campaign-opportunities-complete.net
+today-compl-reserve65743.com
+today-complt-reserv45383.com
 today-newday.cn
 todaybread.hopto.org
 todaychina.world
@@ -381100,6 +381271,7 @@ verftsaayscss2-connea2.com
 verfy-amazonncojp.hopto.org
 verfyauthalerts.zapto.org
 verfyrepairforms.tk
+verfyreseve-julyc.com
 verfyw4.hopto.org
 verg-emlk-dmodenet.net
 verg-har.dev
@@ -382054,6 +382226,7 @@ verify01-info.ddns.net
 verify011b.duckdns.org
 verify014huntington.hopto.org
 verify01accnt.ddns.net
+verify0242-booking.com
 verify04.hopto.org
 verify08mnntonline.ddns.net
 verify08mtb.ddns.net
@@ -383538,6 +383711,7 @@ visitfy.top
 visitjeopardise.top
 visitor-pros2019.com
 visitor.truckxscan.com
+visitor678412.help
 visitoralign.top
 visitorartifact.top
 visitoroppressive.top
