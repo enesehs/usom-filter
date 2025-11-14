@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 05:10:00 UTC
-! Total: 335872 rules
+! Last modified: 2025-11-14 06:14:31 UTC
+! Total: 335879 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42214,6 +42214,7 @@
 *://*.basvurular-trqnbfinans.com/*
 *://*.basvurular-yapikredi.com/*
 *://*.basvurular-yapikredim.com/*
+*://*.basvurular-yuzyili.com/*
 *://*.basvurular.biz/*
 *://*.basvurular.fun/*
 *://*.basvurular.online/*
@@ -42262,6 +42263,7 @@
 *://*.basvurulari.org/*
 *://*.basvurulariadeler.de/*
 *://*.basvurularikampanyafirsatibance.tech/*
+*://*.basvurularim-ekonut.com/*
 *://*.basvurularim-gov-tr.com/*
 *://*.basvurularim-hizli.com/*
 *://*.basvurularim-sosyalkonut.xyz/*
@@ -170808,6 +170810,7 @@
 *://*.islemdijtal-kontrolyap.com/*
 *://*.islemdogurlama.app/*
 *://*.islemealonlinebasvur.click/*
+*://*.islemebasla.com.tr/*
 *://*.islemebasvur.app/*
 *://*.islemedevamet.site/*
 *://*.islemegirisyap.de/*
@@ -285245,6 +285248,7 @@
 *://*.toki-basvuru.online/*
 *://*.toki-basvuru.org/*
 *://*.toki-basvuru.xyz/*
+*://*.toki-basvurubilgisistem.click/*
 *://*.toki-basvuruekrani.sbs/*
 *://*.toki-basvuruislemleri.digital/*
 *://*.toki-basvurular-online.best/*
@@ -285381,6 +285385,7 @@
 *://*.tokibasvuru.tech/*
 *://*.tokibasvuru.xyz/*
 *://*.tokibasvurubasladi.net/*
+*://*.tokibasvurubasladi.org/*
 *://*.tokibasvuruekrani.org/*
 *://*.tokibasvuruguncel.net/*
 *://*.tokibasvuruhemen.org/*
@@ -285511,6 +285516,7 @@
 *://*.tokigovtr.org/*
 *://*.tokigovtr.tk/*
 *://*.tokigovtr1.ga/*
+*://*.tokigovtrbasvurukanaliresmikanaltokigovtr.com/*
 *://*.tokigovtrresmi------basvuru-----govtremdmddmdmn.store/*
 *://*.tokigovtrresmi------toki-----govtremdmddmdmn.store/*
 *://*.tokihaber724.com/*
@@ -290078,6 +290084,7 @@
 *://*.trendyoladres.com/*
 *://*.trendyoladresim.com/*
 *://*.trendyolagent.com/*
+*://*.trendyolaktiflik.com/*
 *://*.trendyolarackiralama.com.tr/*
 *://*.trendyolarsa.com/*
 *://*.trendyolatr.com/*

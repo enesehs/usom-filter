@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 05:10:00 UTC
-# Toplam: 421825 Domain
+# Son Güncelleme: 2025-11-14 06:14:31 UTC
+# Toplam: 421833 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59048,6 +59048,7 @@ basvurular-trqnbfinans.com
 basvurular-yapicepnline.vercel.app
 basvurular-yapikredi.com
 basvurular-yapikredim.com
+basvurular-yuzyili.com
 basvurular.ailevegenclik.alkumru.com.tr
 basvurular.ailevegenclik.bugatechnic.com
 basvurular.ailevegenclik.sedesa.com.tr
@@ -59106,6 +59107,7 @@ basvurulari-tokki.online
 basvurulari.org
 basvurulariadeler.de
 basvurularikampanyafirsatibance.tech
+basvurularim-ekonut.com
 basvurularim-gov-tr.com
 basvurularim-sosyalkonut.xyz
 basvurularim.77-83-201-133.plesk.page
@@ -211703,6 +211705,7 @@ islemdijitalim.app
 islemdijtal-kontrolyap.com
 islemdogurlama.app
 islemealonlinebasvur.click
+islemebasla.com.tr
 islemebasvur.app
 islemedevamet.site
 islemegirisyap.de
@@ -309062,6 +309065,7 @@ recognitionstreak.top
 recognizejunction.top
 recommendationcompassionate.top
 recommendbarge.top
+recommended-repeat-smith-dressing.trycloudflare.com
 recommendignite.top
 recommendnavigation.top
 recommendretrieval.top
@@ -357689,6 +357693,7 @@ toki-basvuru.org
 toki-basvuru.org.mail-tesla.de
 toki-basvuru.xyz
 toki-basvuru.zapto.org
+toki-basvurubilgisistem.click
 toki-basvuruekrani.sbs
 toki-basvuruislemleri.digital
 toki-basvurular-online.best
@@ -357913,6 +357918,7 @@ tokibasvuru.tech
 tokibasvuru.work.gd
 tokibasvuru.xyz
 tokibasvurubasladi.net
+tokibasvurubasladi.org
 tokibasvuruedevlet-20f08.kxcdn.com
 tokibasvuruekrani.org
 tokibasvuruguncel.net
@@ -358086,6 +358092,7 @@ tokigovtr.org
 tokigovtr.tk
 tokigovtr.weebly.com
 tokigovtr1.ga
+tokigovtrbasvurukanaliresmikanaltokigovtr.com
 tokigovtrr.b-cdn.net
 tokigovtrresmi------basvuru-----govtremdmddmdmn.store
 tokigovtrresmi------toki-----govtremdmddmdmn.store
@@ -363530,6 +363537,7 @@ trendyola.icu
 trendyoladres.com
 trendyoladresim.com
 trendyolagent.com
+trendyolaktiflik.com
 trendyolarackiralama.com.tr
 trendyolarsa.com
 trendyolatr.com
