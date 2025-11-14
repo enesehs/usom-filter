@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 06:14:31 UTC
-# Toplam: 421833 Domain
+# Son Güncelleme: 2025-11-14 07:10:06 UTC
+# Toplam: 421836 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58485,6 +58485,7 @@ basvuru.kredi-hizmeti.com
 basvuru.kredi-mobil.com.tr
 basvuru.kredi-servisle.com
 basvuru.lflink.com
+basvuru.maksi.digital
 basvuru.mefound.com
 basvuru.misecure.com
 basvuru.mobildeniz.hediye.3-77-235-143.plesk.page
@@ -212864,6 +212865,7 @@ istanbulkart.bsvrisllm.com
 istanbulkart.cf
 istanbulkart.click
 istanbulkart.co
+istanbulkart.kampanyan.sbs
 istanbulkart.live
 istanbulkart.net
 istanbulkart.online
@@ -357598,6 +357600,7 @@ toiyeuvn.dongaruou.com
 tojqvmse.com
 tok-a.click
 tok-as.click
+tok-bsvrlrm.com
 tok-gar.online
 tok-kayit.click
 tok-kayitlari.click
