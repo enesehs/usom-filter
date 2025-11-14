@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 08:13:11 UTC
-! Total: 335892 rules
+! Last modified: 2025-11-14 09:10:23 UTC
+! Total: 335900 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46262,6 +46262,7 @@
 *://*.beylikduzualemleri.com/*
 *://*.beylikduzundenhaberler.com/*
 *://*.beymenplay.com/*
+*://*.beymensale.com/*
 *://*.beynagemonbunys03.site/*
 *://*.beynoir.com/*
 *://*.beyoglu3d.xyz/*
@@ -113476,6 +113477,7 @@
 *://*.ev-internti-basvuru9.pw/*
 *://*.ev-is-interneti.net/*
 *://*.ev-konforunu-yakalayin-hemen.top/*
+*://*.ev-konut-basvuru.com/*
 *://*.ev1llennkred2x.net/*
 *://*.ev2cdn.com/*
 *://*.evacuateambiguous.top/*
@@ -189235,6 +189237,7 @@
 *://*.konusulurbutabiki.xyz/*
 *://*.konut-500-t-o-k-i.com/*
 *://*.konut-basvuru-guvenli.com/*
+*://*.konut-basvuru.com/*
 *://*.konut-guncelbasvurunuz.net/*
 *://*.konut-guncelislemler.com/*
 *://*.konut-idarisie.com/*
@@ -200323,6 +200326,7 @@
 *://*.marvelsmgir.pw/*
 *://*.marvelspear.top/*
 *://*.marvest.top/*
+*://*.marvionx.com/*
 *://*.marx-thomas.com/*
 *://*.marxket-x-haxfxta-indxirimz.xyz/*
 *://*.mary-crawley.com/*
@@ -212723,6 +212727,7 @@
 *://*.nbkgxspu.com/*
 *://*.nbluvnikkxhpush.cn/*
 *://*.nbluyqcvg.com/*
+*://*.nbmayapet.com/*
 *://*.nbmbbc.top/*
 *://*.nbmdsfbmdsbdm.net/*
 *://*.nbmsbmsn.net/*
@@ -213826,6 +213831,7 @@
 *://*.networkupdate.online/*
 *://*.networkupdate.tech/*
 *://*.networkwool.top/*
+*://*.networxxy.com/*
 *://*.netyapiikredi.biz/*
 *://*.netyayin.site/*
 *://*.netykasy.us/*
@@ -256777,6 +256783,7 @@
 *://*.scaespikgmhizligecis.net/*
 *://*.scaker.com/*
 *://*.scaleforfeit.top/*
+*://*.scalepayyy.com/*
 *://*.scaleslaughter.top/*
 *://*.scaletai.com/*
 *://*.scaleturn.xyz/*
@@ -312331,6 +312338,7 @@
 *://*.workerintrigue.top/*
 *://*.workers.dev/*
 *://*.workflow-microsoftexchange-suites.com/*
+*://*.workflowery.com/*
 *://*.workforceafloat.top/*
 *://*.workgroundmod.com/*
 *://*.workingcouples.com/*
