@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 13:23:50 UTC
-! Total: 336087 rules
+! Last modified: 2025-11-14 14:09:24 UTC
+! Total: 336097 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41155,6 +41155,7 @@
 *://*.basvurmhs.xyz/*
 *://*.basvurmlarx.com/*
 *://*.basvurmna.cyou/*
+*://*.basvurmna.xyz/*
 *://*.basvurmnr.com.tr/*
 *://*.basvurmnr.cyou/*
 *://*.basvurmnr.xyz/*
@@ -55362,6 +55363,7 @@
 *://*.bizimdanismanlik.com.tr/*
 *://*.bizimekip.net/*
 *://*.bizimev.click/*
+*://*.bizimevlerimiz.com/*
 *://*.bizimfirma75.com/*
 *://*.bizimgarantikupon.buzz/*
 *://*.bizimgarantino.buzz/*
@@ -163919,6 +163921,7 @@
 *://*.in-www.com/*
 *://*.in-ziraatbankasi.com/*
 *://*.in.net/*
+*://*.in.nf/*
 *://*.in2accounting.co.za/*
 *://*.in53728164738.com/*
 *://*.in91914737.com/*
@@ -189365,6 +189368,7 @@
 *://*.konutbasvur.com/*
 *://*.konutbasvurhizmetleri-89.net/*
 *://*.konutbasvurhizmetleri-99.net/*
+*://*.konutbasvurt0ki.top/*
 *://*.konutbasvuru.cfd/*
 *://*.konutbasvuru.com/*
 *://*.konutbasvuru.cyou/*
@@ -189453,6 +189457,7 @@
 *://*.konutkayit.online/*
 *://*.konutkurabasvuru.com/*
 *://*.konutlar.org/*
+*://*.konutlar724.com/*
 *://*.konutlardan2.fun/*
 *://*.konutlardan3.fun/*
 *://*.konutlarim2026.sbs/*
@@ -264399,6 +264404,7 @@
 *://*.simdi-degilse-ne-zaman.com/*
 *://*.simdi-destekal.online/*
 *://*.simdi-devletkartaidatiade.com/*
+*://*.simdi-ebasvuru.com/*
 *://*.simdi-gel-senin.com/*
 *://*.simdi-geldik-kapiya-hizlica.com/*
 *://*.simdi-geri-al-odemeni-hizli-aktarma-ekrani.site/*
@@ -277342,6 +277348,7 @@
 *://*.t0kibsvrmliz.sbs/*
 *://*.t0kievbasvurularim.com/*
 *://*.t0kievleribasvurulari.sbs/*
+*://*.t0kievvbaasvurularim.com/*
 *://*.t0kifirsatlari.click/*
 *://*.t0kikonutlaribasvur0.com/*
 *://*.t0kikonutlaribasvurulari.com/*
@@ -285674,6 +285681,7 @@
 *://*.tokievim.net/*
 *://*.tokievim.org/*
 *://*.tokievim.site/*
+*://*.tokievim2025.blog/*
 *://*.tokievimbasvuru.click/*
 *://*.tokievimde.online/*
 *://*.tokievimkonutbasvuru.sbs/*
@@ -298945,6 +298953,7 @@
 *://*.url-gkhafa.sbs/*
 *://*.url-gonderitanitim.cfd/*
 *://*.url-hero.click/*
+*://*.url-hero.top/*
 *://*.url-isbank.sbs/*
 *://*.url-kampanya.sbs/*
 *://*.url-kampanyalar.sbs/*
@@ -321618,6 +321627,7 @@
 *://*.xn--konm-ryab.com/*
 *://*.xn--konm-wpa32b.com/*
 *://*.xn--konm-ww5ab.com/*
+*://*.xn--konutbavurusu-otc.com/*
 *://*.xn--konutsosyalprojebavuru-che.net/*
 *://*.xn--kpdenzbank-1ub.com/*
 *://*.xn--krd-masraflar-iade-q0c.com/*

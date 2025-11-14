@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 13:23:50 UTC
-# Toplam: 422048 Domain
+# Son Güncelleme: 2025-11-14 14:09:24 UTC
+# Toplam: 422058 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57834,6 +57834,7 @@ basvurmhs.cyou
 basvurmhs.xyz
 basvurmlarx.com
 basvurmna.cyou
+basvurmna.xyz
 basvurmnr.com.tr
 basvurmnr.cyou
 basvurmnr.xyz
@@ -58589,6 +58590,7 @@ basvurubanceislemibugunkampanyasi.tech
 basvurubancekampanyasi.tech
 basvurubancetechglolabal.tech
 basvurubasladibasvur.urlsalt.xyz
+basvurubasladihemensimdikaydinitamamla.url-hero.top
 basvurubasladihementamamlamasi.url-hero.click
 basvurubasladihementamamlayinizz.url-hero.click
 basvurubbwa.net
@@ -73755,6 +73757,7 @@ bizimburalargzl.click
 bizimdanismanlik.com.tr
 bizimekip.net
 bizimev.click
+bizimevlerimiz.com
 bizimfirma75.com
 bizimgarantikupon.buzz
 bizimgarantino.buzz
@@ -135448,6 +135451,7 @@ ekiminflrsatlaribitmiyorwsynxpurna.shop
 ekimingunleriindiriiminizis.com
 ekiminharikalisindirimligunleri.com
 ekiminharikalisindirimligunlersaasi.com
+ekiminidirmi.in.nf
 ekiminindirimikacirmayiniz.com
 ekiminkampanyaligunlerinnn.com.tr
 ekiminkampanyaligunlerinnn.online
@@ -234404,6 +234408,7 @@ konut5000.com
 konutbasvur.com
 konutbasvurhizmetleri-89.net
 konutbasvurhizmetleri-99.net
+konutbasvurt0ki.top
 konutbasvuru.cfd
 konutbasvuru.com
 konutbasvuru.cyou
@@ -234493,6 +234498,7 @@ konutkayit.online
 konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
 konutlar.org
+konutlar724.com
 konutlardan2.fun
 konutlardan3.fun
 konutlarim2026.sbs
@@ -332533,6 +332539,7 @@ simdi-buradan-eskiye-donuk-sorgulama.sbs
 simdi-degilse-ne-zaman.com
 simdi-destekal.online
 simdi-devletkartaidatiade.com
+simdi-ebasvuru.com
 simdi-gel-senin.com
 simdi-geldik-kapiya-hizlica.com
 simdi-geri-al-odemeni-hizli-aktarma-ekrani.site
@@ -348315,6 +348322,7 @@ t0kibsvrmliz.sbs
 t0kiedevlet2025.giize.com
 t0kievbasvurularim.com
 t0kievleribasvurulari.sbs
+t0kievvbaasvurularim.com
 t0kifirsatlari.click
 t0kikonutlaribasvur0.com
 t0kikonutlaribasvurulari.com
@@ -358246,6 +358254,7 @@ tokievim.com.tr
 tokievim.net
 tokievim.org
 tokievim.site
+tokievim2025.blog
 tokievimbasvuru.click
 tokievimde.online
 tokievimkonutbasvuru.sbs
@@ -403981,6 +403990,7 @@ xn--konm-rvbb.com
 xn--konm-ryab.com
 xn--konm-wpa32b.com
 xn--konm-ww5ab.com
+xn--konutbavurusu-otc.com
 xn--konutsosyalprojebavuru-che.net
 xn--kotaayar-0kb.weebly.com
 xn--kpdenzbank-1ub.com
