@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 10:11:13 UTC
-# Toplam: 421855 Domain
+# Son Güncelleme: 2025-11-14 11:08:12 UTC
+# Toplam: 421861 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21766,6 +21766,7 @@ a-101-firsat.shop
 a-101-firsatlar.online
 a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
 a-101-firsatlari.online
+a-101-flrsatlari-hrca-hrca-bltmez.sbs
 a-101-haftannyldizlari.s-get-pays.xyz
 a-101-harca-bitmez.sa.com
 a-101-hrca-hrca-bltmez-flrsatlar.cfd
@@ -166614,6 +166615,7 @@ girisuyap-vatandas.com
 girisuyap-vatandas.com.tr
 girisuyap.com
 girisuygulamasiyeni.com
+girisvakif-bilgisistemleri.click
 girisvakifbank.tk
 girisvakifbankasi.com
 girisvakifbnkasi.b-cdn.net
@@ -326849,6 +326851,7 @@ sepetim-onayli-187426.com
 sepetim-onayli-207426.com
 sepetim-onayli-217426.com
 sepetim-onayli-227426.com
+sepetim-onayli-237426.com
 sepetim-online.com
 sepetim-pttavm.com
 sepetim-pttavm.com.tr
@@ -358089,6 +358092,7 @@ tokievim.net
 tokievim.org
 tokievim.site
 tokievimbasvuru.click
+tokievimde.online
 tokievimkonutbasvuru.sbs
 tokievimolsun.click
 tokievimyuzyilabasvur.com
@@ -411423,6 +411427,7 @@ yeniden-girisim.com
 yeniden-hayata-mujdeli-sekilde-devam.com
 yeniden-hizmet.net
 yeniden-hizmete-acilmistir-resmi-olarak.sbs
+yeniden-hmn5s.sbs
 yeniden-kapina-gelenler-mutluluk-getirdi.com
 yeniden-kapiniza-geldi-simdilik-burada.com
 yeniden-karsina-cikiyor-mujdeli-sekilde.com
@@ -416652,6 +416657,7 @@ yuzyillik.name.tr
 yuzyilprojeesiilkevimmbasvruu81.xyz
 yuzyilprojesiilkevimhaksahipleri50.xyz
 yuzyiltokievleri.xyz
+yuzyiltokiprojesi.xyz
 yv0fdi.duckdns.org
 yv1qb3pn3.duckdns.org
 yv21xwxt4.duckdns.org

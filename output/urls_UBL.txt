@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-14 10:11:13 UTC
-! Total: 335900 rules
+! Last modified: 2025-11-14 11:08:12 UTC
+! Total: 335906 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13242,6 +13242,7 @@
 *://*.a-101-firsat.shop/*
 *://*.a-101-firsatlar.online/*
 *://*.a-101-firsatlari.online/*
+*://*.a-101-flrsatlari-hrca-hrca-bltmez.sbs/*
 *://*.a-101-hrca-hrca-bltmez-flrsatlar.cfd/*
 *://*.a-101-hrca-hrca-btmez-alisverls.com/*
 *://*.a-101-hrca-hrca-btmez-alisvrls.com/*
@@ -132356,6 +132357,7 @@
 *://*.girisuyap-vatandas.com/*
 *://*.girisuyap.com/*
 *://*.girisuygulamasiyeni.com/*
+*://*.girisvakif-bilgisistemleri.click/*
 *://*.girisvakifbank.tk/*
 *://*.girisvakifbankasi.com/*
 *://*.girisvatandasuyap.com/*
@@ -259670,6 +259672,7 @@
 *://*.sepetim-onayli-207426.com/*
 *://*.sepetim-onayli-217426.com/*
 *://*.sepetim-onayli-227426.com/*
+*://*.sepetim-onayli-237426.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
@@ -285523,6 +285526,7 @@
 *://*.tokievim.org/*
 *://*.tokievim.site/*
 *://*.tokievimbasvuru.click/*
+*://*.tokievimde.online/*
 *://*.tokievimkonutbasvuru.sbs/*
 *://*.tokievimolsun.click/*
 *://*.tokievimyuzyilabasvur.com/*
@@ -327807,6 +327811,7 @@
 *://*.yeniden-hayata-mujdeli-sekilde-devam.com/*
 *://*.yeniden-hizmet.net/*
 *://*.yeniden-hizmete-acilmistir-resmi-olarak.sbs/*
+*://*.yeniden-hmn5s.sbs/*
 *://*.yeniden-kapina-gelenler-mutluluk-getirdi.com/*
 *://*.yeniden-kapiniza-geldi-simdilik-burada.com/*
 *://*.yeniden-karsina-cikiyor-mujdeli-sekilde.com/*
@@ -332148,6 +332153,7 @@
 *://*.yuzyilprojeesiilkevimmbasvruu81.xyz/*
 *://*.yuzyilprojesiilkevimhaksahipleri50.xyz/*
 *://*.yuzyiltokievleri.xyz/*
+*://*.yuzyiltokiprojesi.xyz/*
 *://*.yvaxm.com/*
 *://*.yvbmagazaa.ml/*
 *://*.yvbmagazaa.tk/*
