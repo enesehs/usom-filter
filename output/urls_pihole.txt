@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-14 22:01:47 UTC
-# Toplam: 422717 Domain
+# Son Güncelleme: 2025-11-14 23:08:49 UTC
+# Toplam: 422725 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59809,6 +59809,7 @@ basvurutokitakip.com
 basvurutokkampanya.art
 basvurutokkampanya.info
 basvurutokkampanya.live
+basvurutokkampanya.pro
 basvurutokkampanya.xyz
 basvurutokl.click
 basvurutokl.com
@@ -139290,6 +139291,7 @@ enkasko.website
 enkazyardim.online
 enklaysigrtamnet.b-cdn.net
 enkolayarabakiralama.com
+enkolaygirisi.com
 enkolayhgs.xyz
 enkolayiburada.com.tr
 enkolayiburada.online
@@ -175483,6 +175485,7 @@ haber-home.club
 haber-home.site
 haber-kapital.life
 haber-kartinizinislemlerigovtr.org
+haber-konut-basvuru.com
 haber-leer.site
 haber-man.club
 haber-nerde.club
@@ -234948,6 +234951,7 @@ konutislemlerihizlica.com
 konutkampanya.click
 konutkampanya.online
 konutkapisi.org
+konutkatilim.net
 konutkayit.online
 konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
@@ -358388,6 +358392,7 @@ toiyeuvn.dongaruou.com
 tojqvmse.com
 tok-a.click
 tok-as.click
+tok-bsvr.com.tr
 tok-bsvrlrm.com
 tok-gar.online
 tok-kayit.click
@@ -358397,6 +358402,7 @@ tok1etapbasvrlari.com
 tok1fortok1.click
 tok1fortok1.sbs
 tok4.tok1fortok1.sbs
+tokaiksafiwfksaigdswq.cyou
 tokaizhudixuanzhe.top
 tokajimafr-55624.portmap.host
 tokanayamaki.digital
@@ -358878,6 +358884,7 @@ tokievler.net
 tokievleribasvur.top
 tokifirsatlari.blogspot.com
 tokigarantigiris.com
+tokigenel5000basvurukanalgovtr.com
 tokigenelmudurlugu.store
 tokiggbasvurularisf.blogspot.com
 tokigncelbasvuru.mooo.com
@@ -422571,6 +422578,7 @@ zydalafobyxo.tk
 zydivo.site
 zye785yv.duckdns.org
 zyecbujql.com
+zyenibvruu80.click
 zyerindegec.sg-host.com
 zyfaywwrmxup.org
 zyfijao.com
