@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-15 05:09:13 UTC
-! Total: 336756 rules
+! Last modified: 2025-11-15 06:12:26 UTC
+! Total: 336761 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -163730,6 +163730,7 @@
 *://*.ilkevimdanismanlik.com/*
 *://*.ilkevimdemtokimler.org/*
 *://*.ilkevimden.com/*
+*://*.ilkevimdestek1.fun/*
 *://*.ilkevimdestek2.fun/*
 *://*.ilkevimdestek3.fun/*
 *://*.ilkevimdestek4.fun/*
@@ -163812,6 +163813,7 @@
 *://*.ilkkonut-basvuru.com/*
 *://*.ilkkonut.click/*
 *://*.ilkkonutum.click/*
+*://*.ilkkonutum.com/*
 *://*.ilkkonutumm.sbs/*
 *://*.ilknur.pro/*
 *://*.ilknuracokasigim.co/*
@@ -184743,6 +184745,7 @@
 *://*.kasimfirsatinikacirmayin.com.tr/*
 *://*.kasimfirsatinikacirmayin.online/*
 *://*.kasimfirsatipt-t.cfd/*
+*://*.kasimfirsatlar.shop/*
 *://*.kasimfirsatlar.site/*
 *://*.kasimfirsatlari-a101.online/*
 *://*.kasimfirsatlari.click/*
@@ -278595,6 +278598,7 @@
 *://*.talep-t0ki.com/*
 *://*.talep-turkiyegovtr.com/*
 *://*.talepaktif-turkiyegovtr.com/*
+*://*.talepbasvuruisle.online/*
 *://*.talepdestekim.tk/*
 *://*.talepformudoldur-portal.tk/*
 *://*.talepiade.online/*
@@ -286090,6 +286094,7 @@
 *://*.toki.apartments/*
 *://*.toki.autos/*
 *://*.toki.beauty/*
+*://*.toki.best/*
 *://*.toki.blog/*
 *://*.toki.blue/*
 *://*.toki.boo/*
