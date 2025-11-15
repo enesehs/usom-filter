@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-15 15:07:58 UTC
-! Total: 336787 rules
+! Last modified: 2025-11-15 16:09:05 UTC
+! Total: 336793 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42112,6 +42112,7 @@
 *://*.basvuruiadem.de/*
 *://*.basvuruiadeqnbfinans.com/*
 *://*.basvuruiarim.site/*
+*://*.basvuruicinsongun365.cloud/*
 *://*.basvuruikramiye-acikdenizv2.com/*
 *://*.basvuruilekazan.com/*
 *://*.basvuruilesendekazan.tk/*
@@ -98765,6 +98766,7 @@
 *://*.e-hgsyuklemi.com/*
 *://*.e-hgsyuklemi.mobi/*
 *://*.e-hizli-alim.com.tr/*
+*://*.e-hizli-basvuru-online.sbs/*
 *://*.e-hizli-bireysel-kampanya-basvur-online.ml/*
 *://*.e-hizli-islem-vatandas.com/*
 *://*.e-hizli.net/*
@@ -148721,6 +148723,7 @@
 *://*.hemnebinmeyebasla.xyz/*
 *://*.hemnenkosfirsatlara.com.tr/*
 *://*.hemnenkosfirsatlara.online/*
+*://*.hemneonlasinislem.online/*
 *://*.hemnhizlionnline.net/*
 *://*.hemnhzligirsbasvrunktassi.com/*
 *://*.hemnkampanyalarburdasendefaydalan.com.tr/*
@@ -259287,6 +259290,7 @@
 *://*.sellgfvs.best/*
 *://*.sellgiggle.top/*
 *://*.sellifypro.com/*
+*://*.sellindd1omains.click/*
 *://*.sellinicapital.com/*
 *://*.sellitron.store/*
 *://*.sellix.io/*
@@ -286431,6 +286435,7 @@
 *://*.tokimshuzkyy.online/*
 *://*.tokimudurlugu.com/*
 *://*.tokinet.site/*
+*://*.tokinetgovislemlertokiislem.com/*
 *://*.tokinexus.site/*
 *://*.tokiodeme.com/*
 *://*.tokiomarbuzki.com/*
@@ -336685,6 +336690,7 @@
 *://*.zydivo.site/*
 *://*.zyecbujql.com/*
 *://*.zyenibvruu80.click/*
+*://*.zyenibvruu90.click/*
 *://*.zyfaywwrmxup.org/*
 *://*.zyfijao.com/*
 *://*.zyfqs.com/*
