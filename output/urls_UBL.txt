@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-15 21:02:47 UTC
-! Total: 336819 rules
+! Last modified: 2025-11-15 22:01:54 UTC
+! Total: 336826 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42938,6 +42938,7 @@
 *://*.basvuruugrntttkmpnnya.art/*
 *://*.basvuruugrntttkmpnnya.xyz/*
 *://*.basvuruuilktokevim.art/*
+*://*.basvuruuilktokevim.info/*
 *://*.basvuruuilktokevim.live/*
 *://*.basvuruummtokkimmilkevimmmm.online/*
 *://*.basvuruurmm.click/*
@@ -158409,6 +158410,7 @@
 *://*.hurrocel.net/*
 *://*.hurryunderlying.top/*
 *://*.hurtambiguity.top/*
+*://*.hurtasptr.click/*
 *://*.hurtfulfragile.top/*
 *://*.hurtfulrigor.top/*
 *://*.hurtillumination.top/*
@@ -163756,6 +163758,7 @@
 *://*.ilkevimdestek4.fun/*
 *://*.ilkevimdestek5.fun/*
 *://*.ilkevimdestek6.fun/*
+*://*.ilkevimhizlitokim.org/*
 *://*.ilkevimilkbasvurum.com/*
 *://*.ilkevimiz.com/*
 *://*.ilkevimkampanyasi.com/*
@@ -277982,6 +277985,7 @@
 *://*.t0kibsvrdi.sbs/*
 *://*.t0kibsvrdmdi.sbs/*
 *://*.t0kibsvrmliz.sbs/*
+*://*.t0kibsvrulari2.com/*
 *://*.t0kievbasvurularim.com/*
 *://*.t0kievleribasvurulari.sbs/*
 *://*.t0kievvbaasvurularim.com/*
@@ -286263,6 +286267,7 @@
 *://*.tokibasvurumutamamla.click/*
 *://*.tokibasvurumutamamla.online/*
 *://*.tokibasvurumutamamla.site/*
+*://*.tokibasvurun.com/*
 *://*.tokibasvurunuz.click/*
 *://*.tokibasvurunuzonline.click/*
 *://*.tokibasvuruonline.com/*
@@ -286865,6 +286870,7 @@
 *://*.toplu-konut-projesi-toki-gov-tr.ml/*
 *://*.toplu-konut-projesi-toki-gov-tr.tk/*
 *://*.toplu-konut.sbs/*
+*://*.toplu-konut500.xyz/*
 *://*.toplu-proje-dentim.shop/*
 *://*.toplual.name.tr/*
 *://*.toplubasvuruvekonut.cloud/*
@@ -320821,6 +320827,7 @@
 *://*.xn--ceptenkolaytanmcell-t5c.net/*
 *://*.xn--ceptetb-f9a.com/*
 *://*.xn--ceptlbakiyeykleme-e3b.net/*
+*://*.xn--cevrelimdrlg-klbbcb.com/*
 *://*.xn--cezand3-e1a44c.net/*
 *://*.xn--cgrhaberleregeleende-j3d.app/*
 *://*.xn--cgronlinehabertrkigiri-6lc39uea.app/*
