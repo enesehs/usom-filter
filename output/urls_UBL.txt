@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-15 12:14:59 UTC
-! Total: 336768 rules
+! Last modified: 2025-11-15 14:01:39 UTC
+! Total: 336783 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42296,6 +42296,7 @@
 *://*.basvurulari-tokki.online/*
 *://*.basvurulari.org/*
 *://*.basvurulariadeler.de/*
+*://*.basvurularicinsongunlerde.cloud/*
 *://*.basvurularikampanyafirsatibance.tech/*
 *://*.basvurularim-ekonut.com/*
 *://*.basvurularim-gov-tr.com/*
@@ -68409,6 +68410,7 @@
 *://*.carreyazfirsatlari.online/*
 *://*.carrfeourfirsat.shop/*
 *://*.carrfeourfirsatlari.shop/*
+*://*.carrfiurrr.online/*
 *://*.carrfor-sa.com.tr/*
 *://*.carrfor-sa.info.tr/*
 *://*.carrfour-online-indirim.com/*
@@ -72168,6 +72170,7 @@
 *://*.cicekbuketim.info/*
 *://*.cicekbuketim.vip/*
 *://*.cicekburada.co/*
+*://*.cicekburada.store/*
 *://*.cicekburda.com/*
 *://*.cicekcigledx.com.tr/*
 *://*.cicekcikaan.com.tr/*
@@ -113531,6 +113534,7 @@
 *://*.etoccdgklsby.org/*
 *://*.etoki.net/*
 *://*.etoki.org/*
+*://*.etokibasvurusss2025.space/*
 *://*.etomgir.pw/*
 *://*.etopluhizmet.dev/*
 *://*.etoro-miners.com/*
@@ -130464,6 +130468,7 @@
 *://*.geriaktarmavesorgulama.site/*
 *://*.geriaktarmsrgu.cfd/*
 *://*.geriaktarvesorgula.site/*
+*://*.geribasvuru-iadeislem.net/*
 *://*.geribildirim-destek-com.ml/*
 *://*.geribildirim-merkezi.com/*
 *://*.geribildirim-merkezi.ml/*
@@ -130632,6 +130637,7 @@
 *://*.gerzeksas8.com/*
 *://*.gerzeksas9.com/*
 *://*.gesaasnasosmy.net/*
+*://*.gesallur.store/*
 *://*.gesamaehler.de/*
 *://*.gesan.online/*
 *://*.gesdefscoa1.com/*
@@ -184763,6 +184769,7 @@
 *://*.kasimfirsatlarinikacirma.online/*
 *://*.kasimfirsatlarlageldi.shop/*
 *://*.kasimfirssatt.online/*
+*://*.kasimflrsatlarininadresi.com/*
 *://*.kasimfrstlarianindakapnda.com/*
 *://*.kasimfrstlarievinde.com/*
 *://*.kasimicinozel.site/*
@@ -243901,6 +243908,7 @@
 *://*.purto-port-id8245.world/*
 *://*.purvoyage.com/*
 *://*.purylev.com/*
+*://*.pusagemez.store/*
 *://*.pusatxxx.info/*
 *://*.push21sing.top/*
 *://*.push900holdnature.live/*
@@ -270467,6 +270475,7 @@
 *://*.sorgulama-islemleri.org/*
 *://*.sorgulama-kuryenet.online/*
 *://*.sorgulama-nvi.xyz/*
+*://*.sorgulama-sistemi.click/*
 *://*.sorgulama-sistemi.one/*
 *://*.sorgulama-teb.com/*
 *://*.sorgulama-tr.com/*
@@ -272694,6 +272703,7 @@
 *://*.spselc.org/*
 *://*.spshhstrm.com/*
 *://*.spsleyakgmhizligecis.net/*
+*://*.spsmo.com/*
 *://*.spstnviidnm.com/*
 *://*.spstshsnviniz.com/*
 *://*.spstslknvi.com/*
@@ -286109,6 +286119,7 @@
 *://*.toki.onl/*
 *://*.toki.online/*
 *://*.toki.rest/*
+*://*.toki.run/*
 *://*.toki.site/*
 *://*.toki.you/*
 *://*.toki130konutbasvuru.sbs/*
@@ -286168,6 +286179,7 @@
 *://*.tokibasvuru-edevlet-girisyap.online/*
 *://*.tokibasvuru-edevletgir.site/*
 *://*.tokibasvuru-islemim.digital/*
+*://*.tokibasvuru.click/*
 *://*.tokibasvuru.com/*
 *://*.tokibasvuru.cyou/*
 *://*.tokibasvuru.info/*
@@ -286409,6 +286421,7 @@
 *://*.tokimkonutbasvurusu.cloud/*
 *://*.tokimmnntokimm-knt-proje.com/*
 *://*.tokimnetevim.store/*
+*://*.tokimnetgovtokimbasvurnetgovtrkurumgovtr.com/*
 *://*.tokimntokimm-knt-projesim.com/*
 *://*.tokimobilbasvuru.shop/*
 *://*.tokimshuzkyy.online/*
@@ -286678,6 +286691,7 @@
 *://*.toogggtf10tf.com/*
 *://*.took-i.click/*
 *://*.took-ii.click/*
+*://*.tookibasvurusuu.info/*
 *://*.tookiibasvvur.art/*
 *://*.tookiibasvvur.info/*
 *://*.tookiibasvvur.pro/*
@@ -286843,6 +286857,7 @@
 *://*.toplukontlar500bin.com/*
 *://*.toplukonut-projesi.sbs/*
 *://*.toplukonut.forum/*
+*://*.toplukonut.homes/*
 *://*.toplukonut400.com/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonutaonline.com/*
