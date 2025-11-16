@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-16 05:09:15 UTC
-# Toplam: 422833 Domain
+# Son Güncelleme: 2025-11-16 06:13:13 UTC
+# Toplam: 422835 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -114241,6 +114241,7 @@ devlet-yoldolum8.info
 devlet.bsvruaidtiad0.net
 devlet.co
 devlet.destegi.peandemikomerkez.site
+devlet.dijitalbasvuru.com
 devlet.e-portalaidatislemleri-gov-tr.com
 devlet.joe.dj
 devlet.me
@@ -358251,6 +358252,7 @@ to-gar.online
 to-ggsiparisforumlari.org
 to-ggtr-camp-aning.net
 to-giris.com
+to-ki.alhizli.shop
 to-kibas.click
 to-kibsvr.com
 to-webmy-intranet.sa.com
