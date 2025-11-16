@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-16 17:01:53 UTC
-# Toplam: 422884 Domain
+# Son Güncelleme: 2025-11-16 18:12:12 UTC
+# Toplam: 422897 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14556,6 +14556,7 @@
 500konut-bsrv.lol
 500konut-bsrv.sbs
 500konut.com
+500konutbasvur.shop
 500konutbasvuru.sbs
 500konutbasvurum.click
 500konutbasvurumuz.xyz
@@ -57689,6 +57690,7 @@ basvuramazan.online
 basvuramazan.xyz
 basvuran.sbs
 basvuranindayapikredi.com
+basvurbasladi.org
 basvurbbvaonlin.xyz
 basvurbireysele.com
 basvurblinancetr.com
@@ -212281,6 +212283,7 @@ islem-subevibionlinegiris.com
 islem-tl.xyz
 islem-tokibasvuru.vercel.app
 islem-tokibasvurum.vercel.app
+islem-tokikonutbasvuru.vercel.app
 islem-tr.com
 islem-vibihizlesube.com
 islem-vibionlinecekilis.com
@@ -231242,6 +231245,7 @@ kiddlanka.com
 kiddust.top
 kidem-krat12.site
 kiderlodewer1.website
+kidevister.store
 kidiscall12.xyz
 kidiscall34343.xyz
 kidiscall7485.xyz
@@ -234126,6 +234130,7 @@ kntdecasodayz.net
 kntdesizinleyiz.net
 kntggbyjia.duckdns.org
 kntilecasodayz.net
+kntilkbsvrnsensn.xyz
 kntiqkllyi.duckdns.org
 kntizd.tk
 kntkarllt.com
@@ -279714,6 +279719,7 @@ onlineislemlers.site
 onlineislemlersayfasivkfgirisicom.cf
 onlineislemlersayfasivkfgirisicom.tk
 onlineislemlersayfasivkfgirisicomtr.cf
+onlineislemlertoki.site
 onlineislemlerturkiyegovtr.com
 onlineislemlerturkoperator.net
 onlineislemlerturktelekom.net
@@ -290532,6 +290538,7 @@ pasacoktatli.xyz
 pasadenapetrol.com
 pasagemzam.xyz
 pasages.store
+pasagesite.com
 pasailetapu.xyz
 pasaiotuzuncuyil.com
 pasaj-alisveris.com
@@ -349035,6 +349042,7 @@ t0kikonutlaribasvur0.com
 t0kikonutlaribasvuru.com
 t0kikonutlaribasvurulari.com
 t0kiprojebasvuru.art
+t0kiprojebasvuru.pro
 t0kisbirdu.sbs
 t0klevlriprjekontevilk.online
 t0ku2yfz.duckdns.org
@@ -358503,6 +358511,7 @@ toiwbcm.com
 toiyeuvn.dongaruou.com
 tojqvmse.com
 tok-a.click
+tok-a.com
 tok-as.click
 tok-bsvr.com
 tok-bsvr.com.tr
@@ -358958,6 +358967,7 @@ tokidenevler.xyz
 tokidenilkevim.xyz
 tokidenkonut.xyz
 tokidenproje.xyz
+tokidigitalbasvurulari.click
 tokidigtalbsvru.click
 tokidigtalbsvrux.click
 tokidirdetok.com
@@ -359160,6 +359170,7 @@ tokimilkevimlerimiz.org
 tokimizilkeivm.org
 tokimkonutbasvurusu.cloud
 tokimlerimilkevimler.org
+tokimlerimizilkevim.org
 tokimmnntokimm-knt-proje.com
 tokimnetevim.store
 tokimnetgovtokimbasvurnetgovtrkurumgovtr.com
@@ -419519,6 +419530,7 @@ zir0ot-bank1s5.click
 zir1at.fun
 zira-atbank.com
 zira-attbankasi.com
+zira1at-1.click
 zira4t-firsat-zamani.duckdns.org
 ziraa-tofficalfirsat.com
 ziraaaaturkye.com
@@ -422734,6 +422746,7 @@ zydalafobyxo.tk
 zydivo.site
 zye785yv.duckdns.org
 zyecbujql.com
+zyenibvruu40.click
 zyenibvruu50.click
 zyenibvruu70.click
 zyenibvruu80.click
