@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-16 15:07:43 UTC
-# Toplam: 422872 Domain
+# Son Güncelleme: 2025-11-16 16:09:20 UTC
+# Toplam: 422877 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -212278,6 +212278,7 @@ islem-sorguvekontrol-ekran.sbs
 islem-subevibionlinegiris.com
 islem-tl.xyz
 islem-tokibasvuru.vercel.app
+islem-tokibasvurum.vercel.app
 islem-tr.com
 islem-vibihizlesube.com
 islem-vibionlinecekilis.com
@@ -213744,6 +213745,7 @@ istanbullularh.myshopify.com
 istanbullumkart.net
 istanbulluol.click
 istanbulluolamzamsdnic.com
+istanbulluolasmdbr.store
 istanbulluolasmzbdsgeldi.com
 istanbulluolmafirsatbr.com
 istanbulluolmak.net
@@ -349883,6 +349885,7 @@ talepleritopluyoruz.site
 talepolustur.com
 talepolusturiq.tk
 talepolusturma.cf
+taleponlinebasvuru.site
 talepsayfasi.online
 taleptokigovbasvuru.blogspot.com
 taleptokigovtr.blogspot.com
@@ -359133,6 +359136,7 @@ tokilerinizbasvuru.online
 tokilerinizegelin.blogspot.com
 tokilerisbasvuru.blogspot.com
 tokilerleshuzkyy.com
+tokilermord.org
 tokilibasvurularim.net
 tokilkev-imbasvuru.com
 tokilkevim500proje.org
@@ -422723,6 +422727,7 @@ zydalafobyxo.tk
 zydivo.site
 zye785yv.duckdns.org
 zyecbujql.com
+zyenibvruu50.click
 zyenibvruu70.click
 zyenibvruu80.click
 zyenibvruu90.click
