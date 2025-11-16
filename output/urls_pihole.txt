@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-16 12:15:20 UTC
-# Toplam: 422844 Domain
+# Son Güncelleme: 2025-11-16 14:07:38 UTC
+# Toplam: 422859 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8109,6 +8109,7 @@
 2025262723.com
 2025aidat.wuaze.com
 2025ayuzbrr.click
+2025basvurulari.org
 2025bntogg.com
 2025bntr2025bntr2025bntr2025.com
 2025bntr2025bntr2025bntr2025.live
@@ -8216,6 +8217,7 @@
 2025yildizlarinda.online
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
+2026bvsnrsmdikyt.sbs
 2026teslim-tarih.sbs
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
@@ -14520,6 +14522,7 @@
 500bintoplukonutonline.webhop.org
 500bintoplukonutprojeleri-toki-basladi-2025.sbs
 500bintplu-knt.com
+500bintplukntbsvru2026.com
 500binyerlesim.com
 500binyerlesimi.com
 500binyerlesimkonut.com
@@ -22304,6 +22307,7 @@ a1-0-1onlinefirsatlarhemenkapida.com
 a1-0-1onlinemarketozel.com
 a1-0-1onlineyilbasikampanyalari.com
 a1-0-1yeniyilfirsatlariocak.xyz
+a1-01-kaslm-flrsatlari.cfd
 a1-01alisveriskampanyam.com
 a1-o-1-central.site
 a1-o-1-firsatlari.com
@@ -58540,6 +58544,7 @@ basvuru.pandemidesteks.xyz
 basvuru.passotr.com
 basvuru.peandemikomerkez.site
 basvuru.sorgula.site
+basvuru.sosyal-konut.xyz
 basvuru.talep.yardimlarinizicin-geldik2.org
 basvuru.tk
 basvuru.toki.site
@@ -103888,6 +103893,7 @@ cxq27vadsdo0admlurkxyb1.ddns.net
 cxq3sq0ny.duckdns.org
 cxqytmtflyj.click
 cxqyvqjtmtflyj.com
+cxrrefour-sa.dvrlists.com
 cxrsuave.ddns.net
 cxrt1lk9.site
 cxsctbtcoqljjxxpi.me
@@ -182804,6 +182810,7 @@ hazran-lndlrm.com
 hazrans-hemen-aldn-aladn.com
 hazrans-hemen-aldn-aladn.shop
 hazretleri.tk
+hazrettyali.net
 hazrindki-firssatlrr.com
 hazrn-firstlari1o1.com
 hazrn-frstlrii-bayram.com
@@ -225832,6 +225839,7 @@ kampnynzpayfxde.com
 kampnysepete.one
 kampnysepete.online
 kampnyyaaacekilisssstoggg.cloud
+kampnyyaabasvrrprmsynn.pro
 kampocadir.shop
 kampocadirke.shop
 kampocdr.shop
@@ -228227,6 +228235,7 @@ kasimdaaskbaskasenlecokbaska.chickenkiller.com
 kasimdabasvurular.info
 kasimdabasvurular.online
 kasimdabasvurular.shop
+kasimdabasvurular.store
 kasimdabasvurular.top
 kasimdabasvurularbitiyor.cloud
 kasimdabasvurularkapaniyor.cloud
@@ -340133,6 +340142,7 @@ sosyalkonut-basvuru.blogspot.com
 sosyalkonut-basvurutoki.vercel.app
 sosyalkonut-ilkevim.com
 sosyalkonut.evsahibiturkiye.media
+sosyalkonut.myonlineportal.de
 sosyalkonut.net
 sosyalkonut.org
 sosyalkonut.sbs
@@ -349008,6 +349018,7 @@ t0kifirsatlari.click
 t0kikonutlaribasvur0.com
 t0kikonutlaribasvuru.com
 t0kikonutlaribasvurulari.com
+t0kiprojebasvuru.art
 t0kisbirdu.sbs
 t0klevlriprjekontevilk.online
 t0ku2yfz.duckdns.org
@@ -349811,6 +349822,7 @@ talaterenerdogan.com
 taldonelso.freedynamicdns.org
 tale787.xyz
 taleb-btc.info
+talebinigonder.com.tr
 talebinizalindi.com
 talebinizaliyor.site
 taleconviction.top
@@ -359122,6 +359134,7 @@ tokimbasvuru.com
 tokimbasvurunaktif.vercel.app
 tokimileilkevimler.org
 tokimilkevimlerimiz.org
+tokimizilkeivm.org
 tokimkonutbasvurusu.cloud
 tokimlerimilkevimler.org
 tokimmnntokimm-knt-proje.com
@@ -359285,6 +359298,7 @@ toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
 tokobundo.my.id
+tokonudlari.com.tr
 tokonudlari.cyou
 tokonudum.cyou
 tokonum.com.tr
@@ -408240,6 +408254,7 @@ yanardunya06.com
 yanarimsana.com
 yanas.zapto.org
 yanb3b34.xyz
+yanblbsvnrn.it.com
 yancommato.com
 yancy.ddns.net
 yanda-yukle.22web.org
