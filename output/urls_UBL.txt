@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-16 22:07:56 UTC
-! Total: 336928 rules
+! Last modified: 2025-11-16 23:08:10 UTC
+! Total: 336942 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7064,6 +7064,7 @@
 *://*.2743.cloud/*
 *://*.2750623.cloud/*
 *://*.2753542163453234.com/*
+*://*.276-basvurularim.com/*
 *://*.27600.cloud/*
 *://*.2763.cloud/*
 *://*.2763492.net/*
@@ -41921,6 +41922,7 @@
 *://*.basvurudenizi.site/*
 *://*.basvurudenizikontrol.xyz/*
 *://*.basvurudepartmaniz.com/*
+*://*.basvurudestek.click/*
 *://*.basvurudestek.net/*
 *://*.basvurudestek.tk/*
 *://*.basvurudestekbnc.com/*
@@ -42338,6 +42340,7 @@
 *://*.basvurularimqnbbdeeex.website/*
 *://*.basvurularimqnbbdeex.website/*
 *://*.basvurularin-konut.sbs/*
+*://*.basvurularin.online/*
 *://*.basvurularinadresidenide.biz/*
 *://*.basvurularinadresisri.com/*
 *://*.basvurularinguvendeonlinesuben.xyz/*
@@ -42668,6 +42671,7 @@
 *://*.basvurunuyap-check-sistem.net/*
 *://*.basvurunuyap-hemenkatil2.cloud/*
 *://*.basvurunuyap.com.tr/*
+*://*.basvurunuyap.org/*
 *://*.basvurunuyap.sbs/*
 *://*.basvurunuyaphediyeler.cloud/*
 *://*.basvurunuyaphediyenikap.com/*
@@ -42926,6 +42930,7 @@
 *://*.basvurutokkampanya.xyz/*
 *://*.basvurutokl.click/*
 *://*.basvurutokl.com/*
+*://*.basvurutokl.xyz/*
 *://*.basvurutoplukonutlar.com/*
 *://*.basvurutr-bnncrgiris.online/*
 *://*.basvurutr-bnnrgiris.online/*
@@ -63619,6 +63624,7 @@
 *://*.buckwheatlike.com/*
 *://*.bucocukaslan.online/*
 *://*.bucowyadamop.kz/*
+*://*.bucphones.com/*
 *://*.bucukbiragustosta1.cloud/*
 *://*.bucukdasipairlseinrnddne30.cloud/*
 *://*.bucuktemmuzsiparislerinde.cloud/*
@@ -125083,6 +125089,7 @@
 *://*.fundamentalterminate.top/*
 *://*.fundamentalwaive.top/*
 *://*.fundbook.xyz/*
+*://*.funddwise.com/*
 *://*.fundfusionz.com/*
 *://*.funding-exchange.org/*
 *://*.fundingalignment.top/*
@@ -163699,6 +163706,7 @@
 *://*.ilk-sen-al.com/*
 *://*.ilk-t0ki-kntbasvur.click/*
 *://*.ilk0.xyz/*
+*://*.ilkadim.click/*
 *://*.ilkadimfirsatlariyaninda.online/*
 *://*.ilkadimfirsatlariyaninda.xyz/*
 *://*.ilkadimhediyenburada.com/*
@@ -189910,6 +189918,7 @@
 *://*.konutbasvuruac1v58aha58sndgfa5d8c5d5.space/*
 *://*.konutbasvuruac1v58aha58sndsagfa5d8c5d5.site/*
 *://*.konutbasvuruhaber.org/*
+*://*.konutbasvurulari.cfd/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurulari.online/*
 *://*.konutbasvurulari2025.org/*
@@ -271216,6 +271225,7 @@
 *://*.sosyalkonutlarimtoki.org/*
 *://*.sosyalkonutlarin.click/*
 *://*.sosyalkonutoki.xyz/*
+*://*.sosyalkonutonline.sbs/*
 *://*.sosyalkonutproje.net/*
 *://*.sosyalkonutproje.xyz/*
 *://*.sosyalkonutprojebasvuru.online/*
@@ -278711,6 +278721,7 @@
 *://*.talep-t0ki.com/*
 *://*.talep-turkiyegovtr.com/*
 *://*.talepaktif-turkiyegovtr.com/*
+*://*.talepbasvuru.com/*
 *://*.talepbasvuruisle.online/*
 *://*.talepdestekim.tk/*
 *://*.talepformudoldur-portal.tk/*
@@ -278731,6 +278742,7 @@
 *://*.talepolustur.com/*
 *://*.talepolusturiq.tk/*
 *://*.talepolusturma.cf/*
+*://*.taleponlinebasvuru.sbs/*
 *://*.taleponlinebasvuru.site/*
 *://*.talepsayfasi.online/*
 *://*.taleptopla.org/*
@@ -297752,6 +297764,7 @@
 *://*.tzuvtrkodeme.net/*
 *://*.tzxc3441.xyz/*
 *://*.tzz10b.cn/*
+*://*.u-bbwamenugirisllemonlinem.com/*
 *://*.u-c-z-l-k-zamani.com/*
 *://*.u-guvenliodeme.online/*
 *://*.u-hgs.com/*
@@ -336818,6 +336831,7 @@
 *://*.zydalafobyxo.tk/*
 *://*.zydivo.site/*
 *://*.zyecbujql.com/*
+*://*.zyenibvruu00.click/*
 *://*.zyenibvruu10.click/*
 *://*.zyenibvruu20.click/*
 *://*.zyenibvruu30.click/*
