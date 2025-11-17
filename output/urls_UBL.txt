@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-17 15:11:15 UTC
-! Total: 337008 rules
+! Last modified: 2025-11-17 16:12:40 UTC
+! Total: 337030 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13572,6 +13572,7 @@
 *://*.a1-0-1onlinemarketozel.com/*
 *://*.a1-0-1onlineyilbasikampanyalari.com/*
 *://*.a1-0-1yeniyilfirsatlariocak.xyz/*
+*://*.a1-01-flrsatlari-kapnda.click/*
 *://*.a1-01-kaslm-flrsatlari.cfd/*
 *://*.a1-01alisveriskampanyam.com/*
 *://*.a1-o-1-central.site/*
@@ -62889,6 +62890,7 @@
 *://*.bsvrsmdi.store/*
 *://*.bsvrsmdii1.store/*
 *://*.bsvrto-ki.com/*
+*://*.bsvrtooki.com/*
 *://*.bsvru-frsatkmpanysi2023.net/*
 *://*.bsvru-frstlari.online/*
 *://*.bsvru-t-o-k-i-500.com/*
@@ -73770,6 +73772,7 @@
 *://*.cloudapp.net/*
 *://*.cloudaskquestionanswers.com/*
 *://*.cloudbasvurunutamamla.cloud/*
+*://*.cloudbluefox.com/*
 *://*.cloudboats.vip/*
 *://*.cloudbrocloud.com/*
 *://*.cloudcanvas.homes/*
@@ -73802,6 +73805,7 @@
 *://*.cloudflareaddons.com/*
 *://*.cloudflarecdn.com/*
 *://*.cloudflorepageglobalcatilim.online/*
+*://*.cloudfoxhub.com/*
 *://*.cloudfront.kz/*
 *://*.cloudfront.net/*
 *://*.cloudfront.site/*
@@ -80627,6 +80631,7 @@
 *://*.daniegonderoses.site/*
 *://*.danielaaleixo.com/*
 *://*.danielevarriale.it/*
+*://*.danielliu.info/*
 *://*.danielodesets.site/*
 *://*.danielogenisdesn01.site/*
 *://*.danielosganb.site/*
@@ -95890,6 +95895,7 @@
 *://*.e-bbwamenugirislemfirsationline.com/*
 *://*.e-bbwamenugirislemfirsatlarimonline.com/*
 *://*.e-bbwamenugirisllemonllinem.com/*
+*://*.e-bbwamenulerigirislemonline.com/*
 *://*.e-bddk.cf/*
 *://*.e-bddk.com/*
 *://*.e-bddk.ml/*
@@ -122297,6 +122303,7 @@
 *://*.firyama.com/*
 *://*.fis-uae.com.ng/*
 *://*.fisaattlarmm-burddxa.com/*
+*://*.fisaneews.cfd/*
 *://*.fisatkacirmahediyekwtshes.net/*
 *://*.fisbonline.com/*
 *://*.fiscal.monster/*
@@ -124088,11 +124095,14 @@
 *://*.foxs58.com/*
 *://*.foxupdate1.me/*
 *://*.foxusmedia.com/*
+*://*.foxvsun.com/*
 *://*.foxxbank.com/*
 *://*.foxxhaberajans.com/*
 *://*.foxy.net.tr/*
 *://*.foxya19.com/*
 *://*.foxyrushgame.online/*
+*://*.foxysunstudio.com/*
+*://*.foxysunstudios.com/*
 *://*.foxyy.fun/*
 *://*.foydihbkr.com/*
 *://*.fozuzd.cn/*
@@ -159126,6 +159136,7 @@
 *://*.hzlgecsdmelrhgs.com/*
 *://*.hzlgvjcsykglme.net/*
 *://*.hzli-bsvrtokl.com/*
+*://*.hzli-gvuneli-stiyeii-git.click/*
 *://*.hzli-islemler-ptthgcsogs.com/*
 *://*.hzli-stiye-gvenli-aktarici.sbs/*
 *://*.hzli-stiye-gvenli-yonlndirici.sbs/*
@@ -178068,6 +178079,8 @@
 *://*.jinrizizhi.com/*
 *://*.jintdom.top/*
 *://*.jintianbuxingjiehenrenao.top/*
+*://*.jinyang.asia/*
+*://*.jinyang.services/*
 *://*.jinyurl.com/*
 *://*.jionilo.com/*
 *://*.jioplustu.pro/*
@@ -184604,6 +184617,7 @@
 *://*.kartlarimiz-deniz.net/*
 *://*.kartlarinizaiadezzamani.com/*
 *://*.kartlarinizinaidati.com/*
+*://*.kartlasenka.com/*
 *://*.kartlimitimisorgula.com/*
 *://*.kartmadlmyapxx.net/*
 *://*.kartmadolxmyxpp.net/*
@@ -191776,6 +191790,7 @@
 *://*.ktriekdebte363.online/*
 *://*.ktrsnl.shop/*
 *://*.ktrwiohx.com/*
+*://*.ktsolution.tech/*
 *://*.ktttyc.top/*
 *://*.ktunnelegiris.net/*
 *://*.kturkonline.com/*
@@ -212199,6 +212214,7 @@
 *://*.mycitadell.org/*
 *://*.mycloaker.store/*
 *://*.mycloud2021.tk/*
+*://*.mycloudfox.com/*
 *://*.mycloudvds.com/*
 *://*.myco.site/*
 *://*.mycoceit.top/*
@@ -233672,6 +233688,7 @@
 *://*.passagstark.top/*
 *://*.passanta.net/*
 *://*.passas.us/*
+*://*.passasge.store/*
 *://*.passatempobasico.com.br/*
 *://*.passatorkktrmrsrglma.net/*
 *://*.passatorktoyerkaju.net/*
@@ -265110,6 +265127,7 @@
 *://*.silverseaeyecentre.com/*
 *://*.silvershope.store/*
 *://*.silversky.club/*
+*://*.silverstarchina.com/*
 *://*.silverstones-electric.com/*
 *://*.silversystem.xyz/*
 *://*.silvertakip.net/*
@@ -283946,6 +283964,8 @@
 *://*.thefivemyspeeds.eu/*
 *://*.theflyingpeckerheads.com/*
 *://*.thefocuscompany.org/*
+*://*.thefoxcloud.com/*
+*://*.thefoxesgroup.com/*
 *://*.thefphoto.com/*
 *://*.thefrostery.co.uk/*
 *://*.thefulcrum.ml/*
@@ -329463,6 +329483,7 @@
 *://*.yenisitep-ttavm.com/*
 *://*.yeniskerlscsc.net/*
 *://*.yenislem.online/*
+*://*.yenisosyalkonut.com/*
 *://*.yenisoxlssokxlozelsadece.store/*
 *://*.yenissorgulama2021.com/*
 *://*.yenistandliyikama.shop/*
@@ -336927,6 +336948,7 @@
 *://*.zyngacdn.com/*
 *://*.zynhostinginden.gq/*
 *://*.zynibvruu00.click/*
+*://*.zynibvruu10.click/*
 *://*.zynkbaykar.com/*
 *://*.zyns.com/*
 *://*.zypherlax.com/*
