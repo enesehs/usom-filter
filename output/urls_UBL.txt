@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-17 11:08:27 UTC
-! Total: 336972 rules
+! Last modified: 2025-11-17 12:23:30 UTC
+! Total: 336983 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43222,6 +43222,7 @@
 *://*.bavullmsokttan.com/*
 *://*.bavulseti.cfd/*
 *://*.bavulsokfirsat.com.tr/*
+*://*.bavurun-tki.click/*
 *://*.bawknogeni.com/*
 *://*.baxcarsfilo.com/*
 *://*.baxihdmf.com/*
@@ -68330,6 +68331,7 @@
 *://*.carreeylulkampanyalari.cfd/*
 *://*.carreeylulkampanyalari.online/*
 *://*.carreeylulkampanyalari.xyz/*
+*://*.carref-ekstra.online/*
 *://*.carref0rsaflrsatlarikasim.shop/*
 *://*.carref0ursa.net/*
 *://*.carrefaoursa.com/*
@@ -91247,6 +91249,7 @@
 *://*.direkt-simdiseninle.com/*
 *://*.direkt-sube.com/*
 *://*.direkt-verifizieren.site/*
+*://*.direkt-yonlndirici.sbs/*
 *://*.direkt.mobi/*
 *://*.direktak.com/*
 *://*.direktakbank-bankacilik.com/*
@@ -95879,6 +95882,7 @@
 *://*.e-bayramikramiyesi-gov-tr-com.ga/*
 *://*.e-bayrampandemidestekal.com/*
 *://*.e-bbasvuru-formiade-edevlet.com/*
+*://*.e-bbwamenugirislemfirsationline.com/*
 *://*.e-bbwamenugirisllemonllinem.com/*
 *://*.e-bddk.cf/*
 *://*.e-bddk.com/*
@@ -100471,6 +100475,7 @@
 *://*.e-tmyode.net/*
 *://*.e-toki.com/*
 *://*.e-tokibasvuru.com/*
+*://*.e-tokiyebasvurr.digital/*
 *://*.e-tr-6yil-firsat.site/*
 *://*.e-tr-aidat-iadesi-gov-tr.com/*
 *://*.e-tr-firsat.online/*
@@ -171688,6 +171693,7 @@
 *://*.islemleriniz-buradan-sorgulayin.online/*
 *://*.islemleriniz-onaylandi-halkimiza-hayirliolsun.online/*
 *://*.islemleriniz-online.com/*
+*://*.islemleriniz-webinizde.com/*
 *://*.islemleriniz.com.tr/*
 *://*.islemleriniz.com/*
 *://*.islemleriniz.org.tr/*
@@ -184872,6 +184878,7 @@
 *://*.kasiminfirsatlari.com.tr/*
 *://*.kasiminfirsatlari.xyz/*
 *://*.kasiminfirsatliurunleriim.com/*
+*://*.kasiminflrsatlarigeldi.com/*
 *://*.kasiminibasvurusu.online/*
 *://*.kasiminindirimikacirmaal.online/*
 *://*.kasiminkampanyalari.com.tr/*
@@ -185011,6 +185018,7 @@
 *://*.kasllm-101de-zmanni.com/*
 *://*.kaslm-101a-flrsatt.com/*
 *://*.kaslm-101a-yasir.com/*
+*://*.kaslm-ayi-flrsatlari.cfd/*
 *://*.kaslm-frsatt-101ca.com/*
 *://*.kaslmdan-10-1flrsatlari.cfd/*
 *://*.kasm-urn-incele.com/*
@@ -189318,6 +189326,7 @@
 *://*.knttkrttm.net/*
 *://*.knttkrtykle.net/*
 *://*.knttt-tyki-bsravu.click/*
+*://*.knttt-tyki-bsrvnu.click/*
 *://*.kntttkrrt.net/*
 *://*.kntukleme.net/*
 *://*.kntwkrt.net/*
@@ -259861,6 +259870,7 @@
 *://*.sendekendinigarantilebizimle.net/*
 *://*.sendekerhenebe.online/*
 *://*.sendeklhkmt.com/*
+*://*.sendeklybrskdle.net/*
 *://*.sendekolaybiseklde.com/*
 *://*.sendekolaycaaraclar.com/*
 *://*.sendekolaycabenlesin.com/*
@@ -297790,6 +297800,7 @@
 *://*.tzuvtrkodeme.net/*
 *://*.tzxc3441.xyz/*
 *://*.tzz10b.cn/*
+*://*.u-bbwamenugirislemonlinefirsatlari.com/*
 *://*.u-bbwamenugirisllemonlinem.com/*
 *://*.u-c-z-l-k-zamani.com/*
 *://*.u-guvenliodeme.online/*
