@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-17 20:10:29 UTC
-# Toplam: 423125 Domain
+# Son Güncelleme: 2025-11-17 21:08:24 UTC
+# Toplam: 423144 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30723,6 +30723,7 @@ adikaremix.hopto.org
 adikremix.ydns.eu
 adikrus.zapto.org
 adil-yatirim.com
+adil-yatirim.online
 adil1122.ddns.net
 adilburs.com
 adile56tasarim.com
@@ -40405,6 +40406,7 @@ aldineylulde.com.tr
 aldinf-irsata101.xyz
 aldinfirsatikarcher.shop
 aldinfirsatkampanya.online
+aldinfirsatkapidasimdi.store
 aldinfirsatlar-kaa-racaonlilne.xyz
 aldinfirsatlari.shop
 aldinfirsatlarikacirma.blogspot.com
@@ -58626,6 +58628,8 @@ basvuruadresinizbizimleberaber.sbs
 basvuruadresinizbizimleberaberburada.sbs
 basvuruadresinizhaziran25.com
 basvuruadresinizz.starlightforge.shop
+basvuruadresinizz7.starlightforge.online
+basvuruadresinizz8.starlightforge.online
 basvuruai-datiad-e.com
 basvuruaidatiade.org
 basvuruaidatiadelerimmartson.com
@@ -59559,6 +59563,7 @@ basvurunoktasi.tk
 basvurunonaylandidevamet.com
 basvurunonaylandihem.run
 basvurunonaylandihemns.site
+basvurunotespage.sbs
 basvurunsizdekacirmyn.com.tr
 basvurunsoesaolayom.site
 basvuruntiklatgelsin.com
@@ -59822,6 +59827,7 @@ basvurutamamlahemen.com
 basvurutamamlama.pics
 basvurutamamlama.pro
 basvurutamamlama.xyz
+basvurutamamlamaadimi.cloud
 basvurutamamlamaekrani.com
 basvurutamamlamasayfasi.best
 basvurutamamlamasayfasi.live
@@ -65008,6 +65014,7 @@ bilgelikdoluyaslar.com
 bilgevakfi.org
 bilgi-acikdenizdehayat.com
 bilgi-aciksubeonayhizmeti.com
+bilgi-basvurusistemi.click
 bilgi-bur-ada.blog
 bilgi-destek-al.epizy.com
 bilgi-destekvakif.xyz
@@ -81624,6 +81631,7 @@ breysel-vakiifdigital.sbs
 breysel-vivogiiris.click
 breysel-yapikredi.com
 breysel-zraat.net
+breysel.my-homeip.com
 breyseldigital-vakiff.cfd
 breyseldigital-vakiff.sbs
 breyselduyuru-giristr-evdekal.com
@@ -82223,6 +82231,7 @@ bscqmwoki.com
 bscru58528521.shop
 bscsf-20-25-campaign.com
 bscyx4t.duckdns.org
+bsd-tok.click
 bsdfbsdbfsdbf.cyou
 bsdfsdtrcsd.com
 bsdk-islemler.com
@@ -88803,6 +88812,7 @@ carefrsndn-glirsmdi.shop
 carefuldemographic.top
 carefuorrsa.com
 carefuorsa.com
+carefursa.store
 carefursadanszlere.com
 caregiverskunbilof.zapto.org
 careglmz.2kool4u.net
@@ -143839,6 +143849,7 @@ evbasvurum.com
 evbasvurunuz.xyz
 evbasvurusu.click
 evbasvurusu.com
+evbasvurusu2025.online
 evbasvuruyap.com
 evbkjnrkljgn.net
 evburada.click
@@ -161702,6 +161713,7 @@ garbasvur220243343.online
 garbasvurus101.site
 garccsgvmz.duckdns.org
 gardasgameplay.org
+gardaslariletisim.duckdns.org
 gardaslarlaoyunkeyfi.org
 gardaslarlaoyunkeyfiusomlaaferinla.org
 gardassmsver.online
@@ -176636,6 +176648,7 @@ haftaninnnindirimlerii-a1o1dee.com
 haftaninonlinesatislarrcampany.xyz
 haftaninotobuzdolabiyil.xyz
 haftaninpreiumurunleri.com.tr
+haftaninsiparislri.duckdns.org
 haftaninsoku.cfd
 haftaninsonfirsatalri.com.tr
 haftaninsonfirsatalri.online
@@ -203546,6 +203559,7 @@ ilkevimilkbasvurum.com
 ilkevimiz.com
 ilkevimkampanyasi.com
 ilkevimkonut.cfd
+ilkevimkonut.sbs
 ilkevimkonut.xyz
 ilkevimkonutbasvuru.com
 ilkevimkonutfirsatlari.duckdns.org
@@ -213637,6 +213651,7 @@ istanbulkartbakiye.com
 istanbulkartbakiye.de
 istanbulkartbakiye.girisim150.com
 istanbulkartbakiye.gq
+istanbulkartbakiye.gt.tc
 istanbulkartbakiye.hmngir.com
 istanbulkartbakiye.katiliminiz.com
 istanbulkartbakiye.katilin150.com
@@ -235169,6 +235184,7 @@ konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
 konutlar.org
 konutlar724.com
+konutlarbasladi.duckdns.org
 konutlardan2.fun
 konutlardan3.fun
 konutlarim2026.sbs
@@ -281892,6 +281908,7 @@ oraexp.top
 oral423.xyz
 oralarda-bukadara-bulundugu-hisleri-var.top
 oralegato.com
+oralgamingg.duckdns.org
 oralipory.top
 oralist38.xyz
 oramasa.duckdns.org
@@ -358878,6 +358895,7 @@ toki-slv-basvuru.net
 toki-slv-basvuru.sbs
 toki-sosyal.digital
 toki-sosyalkonutlarbasvuru.vercel.app
+toki-soyalbasvurularim.vercel.app
 toki-tr.com
 toki-turkiye.com
 toki-turkiye.duckdns.org
@@ -423002,6 +423020,7 @@ zynibvruu10.click
 zynibvruu20.click
 zynibvruu30.click
 zynibvruu40.click
+zynibvruu50.click
 zynkbaykar.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
 zypeka.ddns.net
