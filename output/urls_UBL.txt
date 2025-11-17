@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-17 22:08:34 UTC
-! Total: 337084 rules
+! Last modified: 2025-11-17 23:08:33 UTC
+! Total: 337103 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -18565,6 +18565,7 @@
 *://*.acikonaymobildenizbasvral.space/*
 *://*.acikonfaisbsvurutektik.co.uk/*
 *://*.acikonline-basvurumdeniz.tk/*
+*://*.acikonlinedeniz.com/*
 *://*.acikonlinesubemiz.com/*
 *://*.acikonlinev2denizbank.com/*
 *://*.acikonlinev2denizbank.online/*
@@ -19928,6 +19929,7 @@
 *://*.advfiit.com/*
 *://*.advisablestunning.top/*
 *://*.adviserseef.com/*
+*://*.advisorsmk.com/*
 *://*.advitya-heights.com/*
 *://*.advjaksvdjkdss.com/*
 *://*.advkpokybyroajmle.org/*
@@ -42156,6 +42158,7 @@
 *://*.basvuruilkevim.live/*
 *://*.basvuruilkevim.pro/*
 *://*.basvuruilkevimt0ki.info/*
+*://*.basvuruilkevimt0ki.pro/*
 *://*.basvuruinternet-yapikredi.com/*
 *://*.basvuruiphone-teb.net/*
 *://*.basvuruislem-2023.com/*
@@ -66747,6 +66750,7 @@
 *://*.bytestrxeam.ru/*
 *://*.bytesyncs.com/*
 *://*.bytevista.cloud/*
+*://*.bytfl.site/*
 *://*.bytheskin.xyz/*
 *://*.byticsecure.com/*
 *://*.bytli.us/*
@@ -80918,6 +80922,7 @@
 *://*.datacatch.xyz/*
 *://*.datacentreonline.com/*
 *://*.datacheck.cc/*
+*://*.dataclypser.com/*
 *://*.datacntrsecured.com/*
 *://*.datacoveo.com/*
 *://*.datacrab-analytics.com/*
@@ -94111,6 +94116,7 @@
 *://*.dribble586.xyz/*
 *://*.driesengard.com/*
 *://*.drifajizo.fun/*
+*://*.drifana.com/*
 *://*.drifftlogic.com/*
 *://*.driftcompan.top/*
 *://*.driftinexhaustible.top/*
@@ -122899,6 +122905,7 @@
 *://*.florievenimente.com/*
 *://*.florin-skincare.com/*
 *://*.florisynth.com/*
+*://*.floritia.cfd/*
 *://*.florizonix.com/*
 *://*.flornclearvint.top/*
 *://*.floryi.com/*
@@ -193311,6 +193318,7 @@
 *://*.kz-moscow.ru/*
 *://*.kz-zaryadye.ru/*
 *://*.kz8535821521.shop/*
+*://*.kzancmillionario.store/*
 *://*.kzbsvr22851929501.shop/*
 *://*.kzcdpl.shop/*
 *://*.kzdvq.in/*
@@ -204821,6 +204829,7 @@
 *://*.miltech-innovations.com/*
 *://*.miltonhouse.nl/*
 *://*.miltonmerlos.com/*
+*://*.miltrom.com/*
 *://*.milwary.top/*
 *://*.milyolodeme.com/*
 *://*.milyonermmtrmr.org/*
@@ -208172,6 +208181,7 @@
 *://*.modern-ve-fonksiyonel-ev-urunleri-magaza.top/*
 *://*.modernatx-zoom.com/*
 *://*.modernbaslangic.online/*
+*://*.modernbrench.com/*
 *://*.modernbrench.online/*
 *://*.modernbungalov.com.tr/*
 *://*.modernclergy.top/*
@@ -226249,6 +226259,7 @@
 *://*.ordasdgbrdansnasdtgqw.bond/*
 *://*.ordealfrantically.top/*
 *://*.ordealnutrition.top/*
+*://*.ordekweb.com/*
 *://*.order-9362.click/*
 *://*.order12431.online/*
 *://*.order13245.cyou/*
@@ -228230,6 +228241,7 @@
 *://*.ozeniyorlar-ama-cozemezler.net/*
 *://*.ozeozel-ihtiyaclarile.net/*
 *://*.ozerlernakliyat.cf/*
+*://*.ozerpvc.com/*
 *://*.ozethaber.online/*
 *://*.ozetodeme.tk/*
 *://*.ozexlgun-vmtyqsl-zpwun-rba.click/*
@@ -235306,6 +235318,7 @@
 *://*.personwomen.net/*
 *://*.persoonlijk-knab.best/*
 *://*.persoonlijk-knb-nl.pw/*
+*://*.persosense.sbs/*
 *://*.perspectiveaggravate.top/*
 *://*.perspectivesmesh.site/*
 *://*.perspectivespice.top/*
@@ -258351,6 +258364,7 @@
 *://*.sebastian-a.sbs/*
 *://*.sebastianmarcelyn.net/*
 *://*.sebastianqweas.net/*
+*://*.sebastrtr.click/*
 *://*.sebdemon.vip/*
 *://*.sebdemonbuz.vip/*
 *://*.sebebg.cfd/*
@@ -271901,6 +271915,7 @@
 *://*.speakaggravation.top/*
 *://*.speakerfragility.top/*
 *://*.speakerob.top/*
+*://*.speakershead.online/*
 *://*.speakpage.top/*
 *://*.speakupomaha.com/*
 *://*.spearadhere.top/*
@@ -286613,6 +286628,7 @@
 *://*.tokikonut.net/*
 *://*.tokikonut.org/*
 *://*.tokikonut.xyz/*
+*://*.tokikonut500.xyz/*
 *://*.tokikonutal500binbasvuruekrani.com/*
 *://*.tokikonutbaskanligi.org/*
 *://*.tokikonutbasvulari.com/*
@@ -291005,6 +291021,7 @@
 *://*.treika.com/*
 *://*.trejregeghkdef.com/*
 *://*.trekfejgh.com/*
+*://*.trekkside.com/*
 *://*.trekonomibakanligi.com/*
 *://*.treksubsidize.top/*
 *://*.tremar.com.tr/*
@@ -291797,6 +291814,7 @@
 *://*.trisbankasi.com/*
 *://*.trisbankasipromosyon.net/*
 *://*.trisbuy.tk/*
+*://*.trisca.online/*
 *://*.trishpintar.com/*
 *://*.trisilanlariniz.com/*
 *://*.triswhnzswilsznw.net/*
@@ -299961,6 +299979,7 @@
 *://*.urlsalt.store/*
 *://*.urlsalt.xyz/*
 *://*.urlscanner.online/*
+*://*.urlshorten.website/*
 *://*.urlshorter.blog/*
 *://*.urlshorter.click/*
 *://*.urlshorter.site/*
