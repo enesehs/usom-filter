@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-17 13:25:22 UTC
-! Total: 336990 rules
+! Last modified: 2025-11-17 14:09:44 UTC
+! Total: 336996 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -72215,6 +72215,7 @@
 *://*.cicekburda.com/*
 *://*.cicekcigledx.com.tr/*
 *://*.cicekcikaan.com.tr/*
+*://*.cicekcim.biz/*
 *://*.cicekcinur.com/*
 *://*.cicekdiyari.co/*
 *://*.cicekdunyalari.xyz/*
@@ -95885,6 +95886,7 @@
 *://*.e-bayrampandemidestekal.com/*
 *://*.e-bbasvuru-formiade-edevlet.com/*
 *://*.e-bbwamenugirislemfirsationline.com/*
+*://*.e-bbwamenugirislemfirsatlarimonline.com/*
 *://*.e-bbwamenugirisllemonllinem.com/*
 *://*.e-bddk.cf/*
 *://*.e-bddk.com/*
@@ -123294,6 +123296,7 @@
 *://*.fncvja.com/*
 *://*.fndkstrd.com/*
 *://*.fndtapp.com/*
+*://*.fnduygulama.com/*
 *://*.fndynqh.com/*
 *://*.fnewmetdestekatelffhakki.xyz/*
 *://*.fniwhv.com/*
@@ -273786,6 +273789,7 @@
 *://*.starknet.pm/*
 *://*.starlark.online/*
 *://*.starlightfb.top/*
+*://*.starlightforge.online/*
 *://*.starmech.in/*
 *://*.starmech.net/*
 *://*.starofliught.top/*
@@ -291088,6 +291092,7 @@
 *://*.trendyola.icu/*
 *://*.trendyoladres.com/*
 *://*.trendyoladresim.com/*
+*://*.trendyoladresyenile.com/*
 *://*.trendyolagent.com/*
 *://*.trendyolaktiflik.com/*
 *://*.trendyolarackiralama.com.tr/*
@@ -332047,6 +332052,7 @@
 *://*.yonlendirici.click/*
 *://*.yonlendirici.shop/*
 *://*.yonlendirici.site/*
+*://*.yonlendiricii.com/*
 *://*.yonlendiricinimiz.cloud/*
 *://*.yonlendiriliyorsun-wsynx.sbs/*
 *://*.yonlendiriliyorsunuz-bekleyin-wsynx.shop/*
