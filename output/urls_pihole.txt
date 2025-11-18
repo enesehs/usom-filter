@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-18 11:08:37 UTC
-# Toplam: 423831 Domain
+# Son Güncelleme: 2025-11-18 12:23:39 UTC
+# Toplam: 423849 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -95852,6 +95852,7 @@ client.iceglobalmarket.com
 client.iceglobalyatirim.org
 client.yatirim-garanti.com
 client.zrtyatirim.com
+client1.inftrimool.xyz
 clientacceuil202405.ddns.net
 clientarea-guzelnet-tr.studiodentisticocanossa.com
 clientbanquepopulairesecuritemail.duckdns.org
@@ -145068,6 +145069,7 @@ evinesahipol.org
 evineteslim.com.tr
 evineteslim.site
 evineteslimoto.online
+evinevin.click
 evineyoloas.net
 evinfeoptasw.dedyn.io
 eviniz-icin-ozel-tasarim-urunler.top
@@ -177097,6 +177099,7 @@ haftaninyildizlari.shop
 haftaninyildizlari.site
 haftaninyildizlari.xyz
 haftaninyildizlari101.blogspot.com
+haftaninyildizlari101.online
 haftaninyildizlariaralik.shop
 haftaninyildizlariburada.online
 haftaninyildizlaribusefergeldi.cfd
@@ -194037,6 +194040,7 @@ hlabmdvgt.com
 hladvvt-dvrt.com
 hlajgmdx.com
 hlakbca.boyacentury.cn
+hlalskgmls.com
 hlan.synergize.co
 hlasdfqe.tk
 hlbagckljkhilaxxc.org
@@ -204000,6 +204004,7 @@ ilkevimprojesidanismanlik.com
 ilkevimsosyal.cfd
 ilkevimsosyalkonut.com
 ilkevimsosyalkonutprojesi.net
+ilkevimt0kikmpnya.pro
 ilkevimtok.info
 ilkevimtok.online
 ilkevimtokbasvuru.info
@@ -232023,6 +232028,7 @@ kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
 kilometrekayitlari.sa.com
 kilometrekayitlarim.web.app
+kilometrekontrol.sa.com
 kilometrelerinizleogren.cfd
 kilometrem.sa.com
 kilometrem.web.app
@@ -235543,6 +235549,7 @@ konutbasvuruac1v58aha58sndgfa5d8c5d5.space
 konutbasvuruac1v58aha58sndsagfa5d8c5d5.site
 konutbasvuruhaber.org
 konutbasvuruilkevimtr.duckdns.org
+konutbasvurular.com
 konutbasvurulari.cfd
 konutbasvurulari.cloud
 konutbasvurulari.online
@@ -237421,6 +237428,7 @@ krkredimkuvetytteturkkte.link
 krkrkrirrbsvru.online
 krksmtlgftasl.net
 krktakip.com
+krl3wszwqsdx2.blogspot.com
 krlbzdeszegldk.site
 krlczmni.shop
 krldnk.site
@@ -243416,6 +243424,7 @@ llrpr.cn
 llrys.com
 llsdsrswsx2.duckdns.org
 llsihebhsbsksgmsb.xyz
+llstanbullullar.istanbul
 llstnbbllkrrtykklleee.giize.com
 lltemmuzkmpyns.com
 lltnltnltlntlnlln.net
@@ -245829,6 +245838,7 @@ lxatrmrlerinb.net
 lxatrmrlerinx.net
 lxawv.com
 lxbypmhhii.duckdns.org
+lxdwske2q2.duckdns.org
 lxdxc.com
 lxfob8.duckdns.org
 lxgvepjzrb.arketshoot.ru
@@ -275629,6 +275639,7 @@ office.onedriveglobal.com
 office.rsvp
 office.webxpo.us
 office.windown-update.com
+office21.mdbgo.io
 office356docu.hopto.org
 office360-update.com
 office360.ddns.net
@@ -300275,6 +300286,7 @@ ptt-avm-troyy.online
 ptt-avm-yilin-firsatlaari.online
 ptt-avm-yilin-firsatlari.online
 ptt-avm-yuklemelerim.com
+ptt-avm.alhizli.shop
 ptt-avm.alim-servisleri.sa.com
 ptt-avm.alimservisin.sa.com
 ptt-avm.com
@@ -316637,6 +316649,7 @@ s-paramguvendetr.odeme-ilanlarim.sa.com
 s-paramguvendetr.online
 s-paramguvendeyleode.tk
 s-paramguvenleodeme.com
+s-paramguvenli.alhizli.shop
 s-paramguvenli.com
 s-paramguvenli.e-alim.online
 s-paramguvenli.e-alisveristicaret.net
@@ -359414,6 +359427,7 @@ tokenversez.com
 tokenwayz.com
 tokenzdropz.name
 tokesozf.com
+toketurkiye.xyz
 tokgebyron.duckdns.org
 toki-2025.com
 toki-500bin.digital
@@ -359609,6 +359623,7 @@ toki2025sonbasvuru.mooo.com
 toki22.digitalkick.cfd
 toki500bin.site
 toki500binkonut-dairesi.sbs
+toki500binproje.com
 toki500konutbasvuru.cfd
 toki500konutbasvuru.icu
 toki500konutbasvuru.org
@@ -359769,6 +359784,7 @@ tokibasvuruumm.com
 tokibasvuruyap.com
 tokibasvuruyap.onrender.com
 tokibasvuruyap.org
+tokibasvuruyap.up.railway.app
 tokibasvuruyap.xyz
 tokibasvuruyap332.lol
 tokibasvuruyap332.sbs
@@ -359914,6 +359930,7 @@ tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
 tokikonj1pznfr77.vercel.app
 tokikonusbasvurusu.xyz
+tokikonut-basvurularin.vercel.app
 tokikonut.io
 tokikonut.net
 tokikonut.org
@@ -423708,6 +423725,7 @@ zynibvruu40.click
 zynibvruu50.click
 zynibvruu55.click
 zynibvruu60.click
+zynibvruu65.click
 zynkbaykar.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
 zypeka.ddns.net
