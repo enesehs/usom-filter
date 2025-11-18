@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-18 20:11:00 UTC
-! Total: 337751 rules
+! Last modified: 2025-11-18 22:08:52 UTC
+! Total: 337765 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5741,6 +5741,7 @@
 *://*.2025202520252025202520252025202520252025.xyz/*
 *://*.2025262723.com/*
 *://*.2025ayuzbrr.click/*
+*://*.2025basvuruekrani.sbs/*
 *://*.2025basvurulari.org/*
 *://*.2025bntogg.com/*
 *://*.2025bntr2025bntr2025bntr2025.com/*
@@ -14568,6 +14569,7 @@
 *://*.a101mobilimcepte.com/*
 *://*.a101mobilindirim.com/*
 *://*.a101mobilindirimlerin.online/*
+*://*.a101mobilkanal.cfd/*
 *://*.a101mobilkapinda.com/*
 *://*.a101mobilmarket.com/*
 *://*.a101mobilonline.com/*
@@ -42360,6 +42362,7 @@
 *://*.basvurularaliniyor.xyz/*
 *://*.basvurularbasladi.com/*
 *://*.basvurularbasladi500.com/*
+*://*.basvurularbasladi500bin.com/*
 *://*.basvurularbasladigovtr.com/*
 *://*.basvurularbitiyor.cloud/*
 *://*.basvurularbncasetr.com/*
@@ -42548,6 +42551,7 @@
 *://*.basvurumenum.com/*
 *://*.basvurumenusu.com/*
 *://*.basvurumerkez.com/*
+*://*.basvurumerkezde.com/*
 *://*.basvurumerkezi-denizbank.com/*
 *://*.basvurumerkezi-denz.com/*
 *://*.basvurumerkezi-denz.online/*
@@ -68460,6 +68464,7 @@
 *://*.carreffoueoarsa.com/*
 *://*.carreffoueor-sa.online/*
 *://*.carreffoueoursa.com/*
+*://*.carreffouersa.com/*
 *://*.carreffouoursa.com/*
 *://*.carreffour-sa.online/*
 *://*.carreffourca.com/*
@@ -68585,6 +68590,7 @@
 *://*.carrfrindrm.online/*
 *://*.carrfrsa.shop/*
 *://*.carrfrsakmps.sbs/*
+*://*.carrfrslnk.cfd/*
 *://*.carrfrsnznguzellgi.com/*
 *://*.carrfshzrnz.com/*
 *://*.carrfurssa.shop/*
@@ -181148,6 +181154,7 @@
 *://*.kalimakore.club/*
 *://*.kalimantan.site/*
 *://*.kalimbabax.xyz/*
+*://*.kalimdan-10-1kmpanylari.cfd/*
 *://*.kalimentpre.com/*
 *://*.kalimera-23.net/*
 *://*.kaliningrad-arena.ru/*
@@ -190436,6 +190443,7 @@
 *://*.konutbasvuruac1v58aha58sndsagfa5d8c5d5.site/*
 *://*.konutbasvuruhaber.org/*
 *://*.konutbasvurular.com/*
+*://*.konutbasvurular.online/*
 *://*.konutbasvurulari.cfd/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurulari.online/*
@@ -216600,6 +216608,7 @@
 *://*.nknkddx2.cat/*
 *://*.nknskndksn.net/*
 *://*.nkolay-kampanya.click/*
+*://*.nkolay.click/*
 *://*.nkolay.ml/*
 *://*.nkoxhibtr1.net/*
 *://*.nkpxbmipmxhkthrma.org/*
@@ -246896,6 +246905,7 @@
 *://*.qsqjeuno53.ru/*
 *://*.qsrimages.co.za/*
 *://*.qsrkifufjkplsxsrh.me/*
+*://*.qss.onl/*
 *://*.qssehnmocqhu.info/*
 *://*.qssnxj.net/*
 *://*.qstom.com/*
@@ -274336,6 +274346,7 @@
 *://*.stanleyclassicc.vip/*
 *://*.stanleydunyasi.xyz/*
 *://*.stanleyevriliyor.xyz/*
+*://*.stanleyferrto.me/*
 *://*.stanleyferto.me/*
 *://*.stanleyforge.xyz/*
 *://*.stanleyfrsattermosburda.com/*
@@ -278778,6 +278789,8 @@
 *://*.t0kiilkevimbasvuru.info/*
 *://*.t0kiilkevimbasvuru.live/*
 *://*.t0kiilkevimbasvuru.pro/*
+*://*.t0kiilkevimmmbasvuru.info/*
+*://*.t0kiilkevimmmbasvuru.pro/*
 *://*.t0kikonutlaribasvur0.com/*
 *://*.t0kikonutlaribasvuru.com/*
 *://*.t0kikonutlaribasvurulari.com/*
@@ -337670,6 +337683,7 @@
 *://*.zynibvruu55.click/*
 *://*.zynibvruu60.click/*
 *://*.zynibvruu65.click/*
+*://*.zynibvruu70.click/*
 *://*.zynkbaykar.com/*
 *://*.zyns.com/*
 *://*.zypherlax.com/*
