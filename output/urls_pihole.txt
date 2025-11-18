@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-18 05:10:07 UTC
-# Toplam: 423394 Domain
+# Son Güncelleme: 2025-11-18 06:14:51 UTC
+# Toplam: 423400 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -203734,6 +203734,8 @@ ilkevtoklibasvru.cfd
 ilkevtoklibasvru.help
 ilkevtoklibasvru.top
 ilkevviiimmbasruutookii82.online
+ilkevvvimbasvurusut0ki.info
+ilkevvvimbasvurusut0ki.pro
 ilkfirsat-mobilingiris.xyz
 ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
@@ -235205,6 +235207,7 @@ konut20012024.com
 konut5000.com
 konut724haber.com
 konutabasvuru.org
+konutbasvur.cfd
 konutbasvur.com
 konutbasvurhizmetleri-89.net
 konutbasvurhizmetleri-99.net
@@ -264691,6 +264694,7 @@ mypaketim.site
 myparcel-dhlday.ddns.net
 myparcel-track.ddns.net
 myparceldelivreds.ddns.net
+mypassag.store
 mypasskey.info
 mypat.xyz
 mypatar.ddns.net
@@ -266094,6 +266098,7 @@ naziltaks.com
 nazliokuyucu.com
 nazonwaree.ddns.net
 nazqxq.net
+nb0wi8ym.storage.googleapis.com
 nb2y7lscc.duckdns.org
 nb4ixx3kg.duckdns.org
 nb50dmwo4zo5edo8.zapto.org
@@ -359286,6 +359291,7 @@ tokibasvuru.work.gd
 tokibasvuru.xyz
 tokibasvurubasladi.net
 tokibasvurubasladi.org
+tokibasvurubilgi.com
 tokibasvuruedevlet-20f08.kxcdn.com
 tokibasvuruekrani.org
 tokibasvuruguncel.net
