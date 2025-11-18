@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-18 17:10:15 UTC
-# Toplam: 423872 Domain
+# Son Güncelleme: 2025-11-18 18:14:21 UTC
+# Toplam: 423885 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -87200,6 +87200,7 @@ c-tr.online
 c.189hn.in
 c.65a9b4549d87a.digital
 c.beni-sev-me-sevme.xyz
+c.dravencia.sbs
 c.eredirected.xyz
 c.getmoney.company
 c.glb-ru.info
@@ -104689,6 +104690,7 @@ d-zk.zapto.org
 d.ackng.com
 d.diragame.com
 d.disgogoweb.com
+d.dravencia.sbs
 d.enizbank.com
 d.filebox.moe
 d.kjlhiwee.ltd
@@ -121311,6 +121313,7 @@ drasticerrand.top
 drasticingle.top
 drasticsource.top
 dratasilsese.site
+dravencia.sbs
 dravenquish.shop
 dravinex-tr.com
 dravonovalect.pro
@@ -129016,6 +129019,7 @@ e.basvurunoktan-online.top
 e.browsersyn.com
 e.coinbase-com.info
 e.dangeana.com
+e.dravencia.sbs
 e.esbasvuru.com
 e.indir-desdek-basvurusu-bireysel.xyz
 e.interaktifiptt.com
@@ -147471,6 +147475,7 @@ f-pttgov.top
 f-tqn.com
 f.b4lb4zar.xyz
 f.codingdrunk.cc
+f.dravencia.sbs
 f.misecure.com
 f.taoquanquan.com
 f.zapto.org
@@ -158361,6 +158366,7 @@ g-v-s.ru
 g-verify-information-account.com
 g.bannerbroker.org
 g.biggeekpanel.org
+g.dravencia.sbs
 g.top4top.io
 g.tunus.ru
 g009clvp1l7.com
@@ -175542,6 +175548,7 @@ h-trsikayet.merkezleri.ru.com
 h-u-i.co.za
 h-zlbasvuru.site
 h.catervelvet.top
+h.dravencia.sbs
 h.m0662.com
 h.p.formaxprime.co.uk
 h.windowsupdatesupport.link
@@ -176379,6 +176386,7 @@ habersonline.com
 habersosyalmedya.online
 habersosyalmedya.site
 haberspeedsayfasi.click
+habertk724.com
 habertmy.site
 habertoki724.com
 habertrend.online
@@ -198748,6 +198756,7 @@ i.cubeupload.com
 i.cyzzzz.com
 i.czf2sgt5g2xg1gs.pw
 i.dfthv815mhg9132.pw
+i.dravencia.sbs
 i.hiyo19tv.com
 i.homelove19.com
 i.j82ds236fs2b1cx.pw
@@ -219369,6 +219378,7 @@ j-eeee.duckdns.org
 j-hemntrafik.net
 j-karcahome.shop
 j-pttgov.top
+j.dravencia.sbs
 j.maxmind.com
 j.misecure.com
 j.xnyidc.top
@@ -222700,6 +222710,7 @@ k-wiki---l----cv-ad----ia5.icu
 k-wiki---l----cv-ad----ia7.icu
 k-wiki---l----cv-ad----ia8.icu
 k.bilgiislemim.net
+k.dravencia.sbs
 k.leadgenerals.com
 k.top4top.io
 k.veuwb.live
@@ -359586,6 +359597,7 @@ toki.basvuruyapev.com
 toki.basvuruyorum.com
 toki.beauty
 toki.best
+toki.biz
 toki.blog
 toki.blue
 toki.boo
@@ -404217,6 +404229,7 @@ xn--ceptetb-f9a.com
 xn--ceptlbakiyeykleme-e3b.net
 xn--cevrelimdrlg-klbbcb.com
 xn--cezand3-e1a44c.net
+xn--cfa.dravencia.sbs
 xn--cgrhaberleregeleende-j3d.app
 xn--cgronlinehabertrkigiri-6lc39uea.app
 xn--cigkfteciforcousta-g3b.bgleak.online
