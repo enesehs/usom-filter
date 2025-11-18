@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-18 12:23:39 UTC
-! Total: 337730 rules
+! Last modified: 2025-11-18 13:25:16 UTC
+! Total: 337734 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3242,6 +3242,7 @@
 *://*.14sz7qk1tqjn361gctsi91fjjaa5.com/*
 *://*.15-11-ewasz-fdxgfcg-rtcvyv-ghjbkj-fhj-ddrtf.com/*
 *://*.15-2-6-7-8-9-9-1.com/*
+*://*.15-36-78-52-64.top/*
 *://*.15-eyluldekacmaz.site/*
 *://*.15-ocak-aldinaldin.com/*
 *://*.150-basvurular-turkiye.com/*
@@ -41029,6 +41030,7 @@
 *://*.basvur-portal-in.online/*
 *://*.basvur-qnbfinans.com/*
 *://*.basvur-qnbfinansci.com/*
+*://*.basvur-rehber.com/*
 *://*.basvur-saglikgovtr.tk/*
 *://*.basvur-sende1.cloud/*
 *://*.basvur-sglrxc301wssscv3ss.com/*
@@ -157881,6 +157883,7 @@
 *://*.hraptrapdrapfst.site/*
 *://*.hrayklsuyms-uyuhsmasnas-smllckmzk.store/*
 *://*.hrbidpjkyliedqg.su/*
+*://*.hrc-hrc-btmez-flsatlar.click/*
 *://*.hrca-harca-bitmz.com/*
 *://*.hrca-hrca-btmez-a-101-flrsatlari-alsvris.cfd/*
 *://*.hrca-hrca-btmez-ayzbir-flrsatlari.cfd/*
@@ -332262,6 +332265,7 @@
 *://*.ynitrfsb.dev/*
 *://*.yniyilhediyebnnceozel.cloud/*
 *://*.yniyilozelhediyebnnce.cloud/*
+*://*.ynlendirme-git-stiye.click/*
 *://*.ynlendrmelersite.live/*
 *://*.ynln-bgn.shop/*
 *://*.ynln1bst.xyz/*
