@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-18 04:13:29 UTC
-# Toplam: 423377 Domain
+# Son Güncelleme: 2025-11-18 05:10:07 UTC
+# Toplam: 423394 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10636,6 +10636,7 @@
 2rk4na.duckdns.org
 2rknbp.duckdns.org
 2rncgq.duckdns.org
+2rohtnb.storage.googleapis.com
 2rquthhqi.duckdns.org
 2rsems.duckdns.org
 2rtdfcallus.tk
@@ -22019,6 +22020,7 @@ a-deniz20382942.xyz
 a-devlet.cf
 a-dns-google.com
 a-duyuru.net
+a-facebook.click
 a-findmy-icloud.com
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.com.tr
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.net.tr
@@ -31257,6 +31259,7 @@ adsbazar.net
 adsblockforyoutube.site
 adsbook.co.za
 adsbusinesscampaingscoupons.com
+adsclick.me
 adsclubpartners.ru
 adsd33fdsf.nicepage.io
 adsdasfasfasfasf90.click
@@ -39573,6 +39576,7 @@ alanlarmutlu.com.tr
 alanlranindilsmlr.xyz
 alanmarketonl.com
 alanmeyerlforce.ONLINE
+alanoas.com
 alanrori.com
 alansandle2ni.website
 alantube.com
@@ -80737,6 +80741,7 @@ borsara-tr.com
 borsarapor.online
 borsarehberi.pro
 borsashop.com
+borsasinyali.org
 borsastratejileri.online
 borsatakibi.online
 borsatakip.net
@@ -88871,6 +88876,7 @@ caremoney.life
 carentcar.com
 carepvtltdpk.com
 carery.is-best.net
+carettoursa.com
 carey.is-best.net
 carffosusa.xyz
 carffoursa.shop
@@ -89080,6 +89086,7 @@ carrefaursa.online
 carrefaursa.site
 carrefaursa.store
 carrefaylikindirim.online
+carrefekstra.online
 carreffaursa.com
 carreffeursa.com
 carreffoauersa.com
@@ -120340,6 +120347,7 @@ dopworld.weebly.com
 dopyzlguzn.duckdns.org
 doqantekstil.com
 doqinghafiza.com
+doqoose.com
 dora2bora4life.website
 dorafinansal.com
 dorakiletisim.com
@@ -148820,6 +148828,7 @@ faultown.top
 faultyideology.top
 faultyregiment.top
 faumoussuperstars.ru
+fauqlirraxim.site
 faureciausa.com
 faust22.mypressonline.com
 faustus.pulserecordbp.com
@@ -229470,6 +229479,7 @@ kazancdunyasi.shop
 kazancekilisl.workers.dev
 kazancfikri.org
 kazancgundem.online
+kazancgundem.org
 kazancgundemi.online
 kazancgunleri.com
 kazanchaber.com
@@ -239346,6 +239356,7 @@ kz4ztzg5.duckdns.org
 kz8535821521.shop
 kz9909rt.duckdns.org
 kz9zwc.duckdns.org
+kzancmilionario.store
 kzancmillionario.store
 kzbsvr22851929501.shop
 kzc8z6.duckdns.org
@@ -240956,6 +240967,7 @@ legendlife.online
 legendnextdoor.com
 legendofbozkurt.icu
 legendoffline.com
+legendreach.com
 legendtr.xyz
 legensdarycin.com
 leger--wilteliv.webflow.io
@@ -260133,6 +260145,7 @@ motivonityx.com
 motiyu.net
 motlity.com
 motmxe.com
+motoduct.qpon
 motoilanonlineozel.shop
 motoindiriimsli.shop
 motonsthefor.com
@@ -270845,6 +270858,7 @@ nowinfotech.online
 nowley-rus.ru
 nowmurmur.top
 nowosci-pl.cloud
+nowose.com
 nowpetrochemical.top
 nowsmartinfo.online
 nowsmartmodern.online
@@ -280437,6 +280451,7 @@ onlineozel.ct.ws
 onlineozel.hovamusic.com
 onlineozel.mobi
 onlineozel.online
+onlineozel.sbs
 onlineozel.shop
 onlineozel.site
 onlineozel1o1alisveris.com.tr
@@ -394125,6 +394140,7 @@ wqmkxtokkl.duckdns.org
 wqnkujg.com
 wqodemeislem.mywire.org
 wqoi9mqu.turcell.org
+wqose.com
 wqqkgzmrdwxl8j.duckdns.org
 wqrhqgbthf.hancerecords.ru
 wqrowqr-jsfaxcz-wqtew.space
@@ -419475,6 +419491,7 @@ zenthrachecker.xyz
 zentinalmusique.co.uk
 zentixorats.ddns.net
 zentlig.site
+zentoplex.org
 zentrademarketing.com
 zentrademarketingcom.leo-osti.click
 zentroxio.pro
