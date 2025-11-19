@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-19 05:10:01 UTC
-! Total: 337782 rules
+! Last modified: 2025-11-19 06:14:36 UTC
+! Total: 337786 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4049,6 +4049,7 @@
 *://*.192.243.103.52/*
 *://*.19213491564.cloud/*
 *://*.1923-istanbul-12.xyz/*
+*://*.1923den.com/*
 *://*.192652418128.com/*
 *://*.192752.cloud/*
 *://*.192854-coinbase.com/*
@@ -67310,6 +67311,7 @@
 *://*.cahdepalazzomaslakk.com/*
 *://*.cahide-palazzorezervasyon.com/*
 *://*.cahide1453palazzo.xyz/*
+*://*.cahide1453rezerve.online/*
 *://*.cahidee1453palazzo.xyz/*
 *://*.cahideepalazzo.xyz/*
 *://*.cahideepalazzoo.xyz/*
@@ -287253,6 +287255,7 @@
 *://*.tokikonutbasvur.xyz/*
 *://*.tokikonutbasvuru.com/*
 *://*.tokikonutbasvuru.gq/*
+*://*.tokikonutbasvuru.org/*
 *://*.tokikonutbasvurulari.cloud/*
 *://*.tokikonutbasvurulari.com/*
 *://*.tokikonutbasvurum.click/*
@@ -287363,6 +287366,7 @@
 *://*.tokiworks.digital/*
 *://*.tokiye-basvur.digital/*
 *://*.tokiyebasvur.xyz/*
+*://*.tokiyebasvurdum.top/*
 *://*.tokiyebasvuruyap.com/*
 *://*.tokiylesenleson.com/*
 *://*.tokiyuzyilinkonutprojesi.online/*

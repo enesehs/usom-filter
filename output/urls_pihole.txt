@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-19 05:10:01 UTC
-# Toplam: 423954 Domain
+# Son Güncelleme: 2025-11-19 06:14:36 UTC
+# Toplam: 423962 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5778,6 +5778,7 @@
 1921680100.ddns.net
 1923-istanbul-12.xyz
 1923236846.dfgqdsd.ru
+1923den.com
 192652418128.com
 1926jh.duckdns.org
 192752.cloud
@@ -87623,6 +87624,7 @@ cabukalisveris.online
 cabukhallet.net
 cabuktikla.com
 cabuucakhizla-alin.com
+cacacaa.dravencia.sbs
 cacaisseregnaiongrcole.duckdns.org
 cacaocacao.zapto.org
 cacat.ddns.net
@@ -87817,6 +87819,7 @@ cahgsyi.rf.gd
 cahhidee-pallazzo-rezervasyonn.business.site
 cahide-palazzorezervasyon.com
 cahide1453palazzo.xyz
+cahide1453rezerve.online
 cahidee1453palazzo.xyz
 cahideepalazzo.xyz
 cahideepalazzoo.xyz
@@ -90615,6 +90618,7 @@ ceddindede.com.tr
 cedesir.com
 cedevletgiris.com
 cedipsa.com
+cedqrkq.storage.googleapis.com
 cedricnet.site
 cedsa.my-homeip.com
 cedsxoisslv2nim.club
@@ -243287,6 +243291,7 @@ lkrendvum.b-cdn.net
 lkrhvpnmltmmrrx.cn
 lkriongx.com
 lkrkysr0o.online
+lkrtweaas342.duckdns.org
 lkrvmb.xyz
 lksadl213jfdsjfas3-sd12312.shop
 lksadnlkj.net
@@ -339197,6 +339202,7 @@ son100adetstook.com
 son101firsatlarimaralik.xyz
 son1nd1r1mlersimdikacmzfirsatlarla.com
 son2023-hizlisipariskampanya.shop
+son26adetkalanize32tas.blogspot.com
 son2basvur.com
 son4fazdestek.com
 sona101detailing.com
@@ -360036,6 +360042,7 @@ tokikonutbasvur.pics
 tokikonutbasvur.xyz
 tokikonutbasvuru.com
 tokikonutbasvuru.gq
+tokikonutbasvuru.org
 tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvuruev.unaux.com
 tokikonutbasvurular.vercel.app
@@ -360223,6 +360230,7 @@ tokiworks.digital
 tokixleregelinbizimle.blogspot.com
 tokiye-basvur.digital
 tokiyebasvur.xyz
+tokiyebasvurdum.top
 tokiyebasvuruyap.com
 tokiylesenleson.com
 tokiyuzyilinkonutprojesi.online
