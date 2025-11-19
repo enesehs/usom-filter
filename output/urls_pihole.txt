@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-19 22:09:12 UTC
-# Toplam: 424903 Domain
+# Son Güncelleme: 2025-11-19 23:09:11 UTC
+# Toplam: 424912 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9721,6 +9721,7 @@
 26subattarz.click
 26t2n3.duckdns.org
 26ye4pi09.duckdns.org
+26yeniekran.sbs
 26yxpte.duckdns.org
 27-ashaja-annsa-akdkfb.cfd
 27-ashaja-annsa-akdkfb.cyou
@@ -17123,6 +17124,7 @@
 6ocakozelsurprizleri2019.com
 6odemehgstr.net
 6oejb2frd.duckdns.org
+6of35k9.storage.googleapis.com
 6ogy2ndjf.duckdns.org
 6ok40ctf.duckdns.org
 6okmyoku.duckdns.org
@@ -58592,6 +58594,7 @@ basvuru-toki.com
 basvuru-toki.digital
 basvuru-toki.sa.com
 basvuru-tokii.online
+basvuru-tokisosyalkonut.vercel.app
 basvuru-tokki.online
 basvuru-tokl-81.online
 basvuru-tr.online
@@ -89365,6 +89368,7 @@ carrefekstra.online
 carreffaursa.com
 carreffeursa.com
 carreffoauersa.com
+carreffoeursa.com
 carreffoueoarsa.com
 carreffoueor-sa.online
 carreffoueoursa.com
@@ -165403,6 +165407,7 @@ gernik.site
 gerooted.ddns.net
 gerots.s3.eu-north-1.amazonaws.com
 gerplay.com
+gerpolastr.click
 gerqviutgt.duckdns.org
 gerradsrich.xyz
 gerradteks.site
@@ -208096,6 +208101,7 @@ ingturuncuweb.com
 inguae.com
 inguinoscrotal.com
 ingushblabla.top
+ingweb.lat
 ingwebeturuncu.com
 ingwebinternetbireysel.com
 ingx.shop
@@ -250664,6 +250670,7 @@ maritimfasst.top
 maritosrickytos.com
 mariuna.duckdns.org
 mariush91.ddns.net
+marivento.sbs
 marivi.info
 marixpanel.ga
 mariyamadv.com
@@ -318027,6 +318034,7 @@ saa0p3l.duckdns.org
 saaadnesss.shop
 saaaphoifh.duckdns.org
 saaapxpjglvjgrb.com
+saaaszty.storage.googleapis.com
 saacaste3d.xyz
 saacma.co.za
 saad03.zapto.org
@@ -383494,6 +383502,7 @@ velocityrehabilitate.top
 velocityreputable.top
 velocora.com
 velomestio.eu
+velontrix.sbs
 veloves.com
 veloxcart.store
 veloxrealestateng.com
