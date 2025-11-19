@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-19 00:43:11 UTC
-# Toplam: 423935 Domain
+# Son Güncelleme: 2025-11-19 02:24:41 UTC
+# Toplam: 423953 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6559,6 +6559,7 @@
 1jb.us
 1jb19l0.duckdns.org
 1jbeyrkn.duckdns.org
+1jc6e1950.storage.googleapis.com
 1jdh66h.duckdns.org
 1je45ri.duckdns.org
 1jfixh9.duckdns.org
@@ -21907,6 +21908,7 @@ a-101harcaharcabitmezz.com
 a-101hizmetleri.karlaparalaras.com
 a-101indirimfirsatlarisubatayikatalog.com
 a-101indirimlisiparisler.xyz
+a-101indirimsepeti.cfd
 a-101kanpanya.com
 a-101kapida.com-son-firsatlari-yakala.xyz
 a-101kapiinda.store
@@ -41042,6 +41044,7 @@ alimlarim-ilanim.com
 alimlarim-tr.com.tr
 alimlarim.com
 alimlarim.net
+alimlarim.online
 alimlarimiz-online.net
 alimlarimonline.com
 alimlarin-tr-online.com.tr
@@ -57088,6 +57091,7 @@ basgcaissechabp.duckdns.org
 basgit.xyz
 basgmpngtgem.duckdns.org
 basgndolnfsfasarn.sbs
+bash.dravencia.sbs
 bash.givemexyz.in
 bashancorp.co.za
 bashconnectseclgin.ddns.net
@@ -57880,6 +57884,7 @@ basvurgecisyapisleme.online
 basvurgiris.xyz
 basvurgirisbilgiler.xyz
 basvurgirisbilgilerleberaberler.xyz
+basvurgirisekraniaktarim2025.sbs
 basvurgirisekraniaktarimonline.sbs
 basvurgirisistebilgilerlesizlerle.xyz
 basvurgirislerbilgi.xyz
@@ -152543,6 +152548,7 @@ firsatcampkwtburda.net
 firsatcamptoodaygrtn.net
 firsatcarki.click
 firsatcarki.shop
+firsatcarrefourindirimleri.online
 firsatcebi.dev
 firsatcekilisbasvurum.net
 firsatcekilisinekatilhemenkazan.net
@@ -176409,6 +176415,7 @@ haberspeedsayfasi.click
 habertk724.com
 habertmy.site
 habertoki724.com
+habertr724.com
 habertrend.online
 habertrend.site
 habertur.club
@@ -185459,6 +185466,7 @@ hemenburasii.online
 hemencehalledin.org
 hemencehalledin.xyz
 hemencehallediyoruz.com.tr
+hemencehallediyoruz.info
 hemencepte.dev
 hemencepte.digital
 hemenceyukle.22web.org
@@ -185887,6 +185895,7 @@ hemensigortayaptir.site
 hemensigotladim.net
 hemensigrtamnet.b-cdn.net
 hemensigrtamnett.b-cdn.net
+hemensimdi-ebasvurunuzuonalayiiniz.ursnor.website
 hemensimdialddinaldintesterehyundai.xyz
 hemensimdialinaldin.shop
 hemensimdibasv.com
@@ -221784,6 +221793,7 @@ jshjaowiw.click
 jshsajk.top
 jsi43qd1bmex0q5ygd.com
 jsimg.zapto.org
+jsjbjsfj.dravencia.sbs
 jsjjsjsjsjsjssh.cf
 jsjldnxk25.com
 jskgdhjkdfhjdkjhd844.ru
@@ -280860,6 +280870,7 @@ onlineozel-mobilpuanlar.ml
 onlineozel-mobilpuanlar.tk
 onlineozel-ziraatbasvurular.art
 onlineozel.b-cdn.net
+onlineozel.cfd
 onlineozel.ct.ws
 onlineozel.hovamusic.com
 onlineozel.mobi
@@ -305381,6 +305392,7 @@ qjhashvdavsdasdh.buzz
 qjibudn1z.duckdns.org
 qjihss3.duckdns.org
 qjjvp53.duckdns.org
+qjkwrrmlthwc.storage.googleapis.com
 qjlvc.uqauv.cn
 qjmto.com
 qjncjs.xyz
@@ -309935,6 +309947,7 @@ rawnotepad.com
 rawnumber.top
 rawonlline.com
 rawscrutinize.top
+rawsrfsarwarfasf3424w.blogspot.com
 rawvolcanomixtureuncover.click
 rawya308.ddns.net
 raxdevunual.net
@@ -344183,6 +344196,7 @@ stanleymarket.info.tr
 stanleymarket.net.tr
 stanleynexus.xyz
 stanleyparlar.com
+stanleyrebirth.xyz
 stanleyreborn.xyz
 stanleyrevive.xyz
 stanleyrise.xyz
@@ -358668,6 +358682,7 @@ tlpler.site
 tlplrnztplnyr.site
 tlqertqletql.fit
 tlraflkcezaodemesl.site
+tlrtq3lb7mn.storage.googleapis.com
 tlrxv67cy.duckdns.org
 tlsademelerinizsleyim.net
 tlscat.net
@@ -360497,6 +360512,7 @@ took-ii.click
 tookibasvrum.cfd
 tookibasvurusuu.info
 tookibasvurusuu.pro
+tookibsvrum.cfd
 tookiibasvvur.art
 tookiibasvvur.info
 tookiibasvvur.pro
@@ -364735,6 +364751,7 @@ trbianceonline.com
 trbicense.click
 trbiinanc.com
 trbiinance.com.tr
+trbilgi.com
 trbilgimerkez.viewdns.net
 trbilgirehberi.cfd
 trbilimler.club
@@ -393735,6 +393752,7 @@ wkhqnkih.duckdns.org
 wkibawvjff.duckdns.org
 wkj0pc7ju.duckdns.org
 wkjnvugt.com
+wkjvvyrb3d.storage.googleapis.com
 wkjxdxhmfglopsi.ru
 wkk.ddns.net
 wkkismshed.duckdns.org

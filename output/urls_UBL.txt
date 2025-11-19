@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-19 00:43:11 UTC
-! Total: 337771 rules
+! Last modified: 2025-11-19 02:24:41 UTC
+! Total: 337782 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13331,6 +13331,7 @@
 *://*.a-101harcaharcabitmezz.com/*
 *://*.a-101indirimfirsatlarisubatayikatalog.com/*
 *://*.a-101indirimlisiparisler.xyz/*
+*://*.a-101indirimsepeti.cfd/*
 *://*.a-101kanpanya.com/*
 *://*.a-101kapiinda.store/*
 *://*.a-101kapinda.com/*
@@ -27825,6 +27826,7 @@
 *://*.alimlarim-tr.com.tr/*
 *://*.alimlarim.com/*
 *://*.alimlarim.net/*
+*://*.alimlarim.online/*
 *://*.alimlarimiz-online.net/*
 *://*.alimlarimonline.com/*
 *://*.alimlarin-tr-online.com.tr/*
@@ -41180,6 +41182,7 @@
 *://*.basvurgiris.xyz/*
 *://*.basvurgirisbilgiler.xyz/*
 *://*.basvurgirisbilgilerleberaberler.xyz/*
+*://*.basvurgirisekraniaktarim2025.sbs/*
 *://*.basvurgirisekraniaktarimonline.sbs/*
 *://*.basvurgirisistebilgilerlesizlerle.xyz/*
 *://*.basvurgirislerbilgi.xyz/*
@@ -121098,6 +121101,7 @@
 *://*.firsatcamptoodaygrtn.net/*
 *://*.firsatcarki.click/*
 *://*.firsatcarki.shop/*
+*://*.firsatcarrefourindirimleri.online/*
 *://*.firsatcebi.dev/*
 *://*.firsatcekilisbasvurum.net/*
 *://*.firsatcekilisinekatilhemenkazan.net/*
@@ -140705,6 +140709,7 @@
 *://*.habertk724.com/*
 *://*.habertmy.site/*
 *://*.habertoki724.com/*
+*://*.habertr724.com/*
 *://*.habertrend.online/*
 *://*.habertrend.site/*
 *://*.habertur.club/*
@@ -148686,6 +148691,7 @@
 *://*.hemencehalledin.org/*
 *://*.hemencehalledin.xyz/*
 *://*.hemencehallediyoruz.com.tr/*
+*://*.hemencehallediyoruz.info/*
 *://*.hemencepte.dev/*
 *://*.hemencepte.digital/*
 *://*.hemencicek.biz/*
@@ -225315,6 +225321,7 @@
 *://*.onlineozel-mobilpuanlar.ml/*
 *://*.onlineozel-mobilpuanlar.tk/*
 *://*.onlineozel-ziraatbasvurular.art/*
+*://*.onlineozel.cfd/*
 *://*.onlineozel.mobi/*
 *://*.onlineozel.online/*
 *://*.onlineozel.sbs/*
@@ -274372,6 +274379,7 @@
 *://*.stanleymarket.net.tr/*
 *://*.stanleynexus.xyz/*
 *://*.stanleyparlar.com/*
+*://*.stanleyrebirth.xyz/*
 *://*.stanleyreborn.xyz/*
 *://*.stanleyrevive.xyz/*
 *://*.stanleyrise.xyz/*
@@ -287582,6 +287590,7 @@
 *://*.tookibasvrum.cfd/*
 *://*.tookibasvurusuu.info/*
 *://*.tookibasvurusuu.pro/*
+*://*.tookibsvrum.cfd/*
 *://*.tookiibasvvur.art/*
 *://*.tookiibasvvur.info/*
 *://*.tookiibasvvur.pro/*
@@ -291208,6 +291217,7 @@
 *://*.trbicense.click/*
 *://*.trbiinanc.com/*
 *://*.trbiinance.com.tr/*
+*://*.trbilgi.com/*
 *://*.trbilgiform.com/*
 *://*.trbilgirehberi.cfd/*
 *://*.trbilimler.club/*
@@ -300629,6 +300639,7 @@
 *://*.urquilam.com.ar/*
 *://*.urservices.net/*
 *://*.ursgtenvrd.net/*
+*://*.ursnor.website/*
 *://*.ursulapaulet.com/*
 *://*.urtafacatopralarmilaswortfactivedelemental.net/*
 *://*.urtekarilamenduren.online/*
