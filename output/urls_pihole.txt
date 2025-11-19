@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-19 12:23:31 UTC
-# Toplam: 424377 Domain
+# Son Güncelleme: 2025-11-19 14:09:41 UTC
+# Toplam: 424417 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -43031,6 +43031,7 @@ amend-bills.com
 amend.sugarscanmaster.com
 amende-gouv.ddns.net
 amendeafrance.com
+amendeasfrance.com
 amended.army-govbd.info
 amendegouv.ddns.net
 amendegouvregul.duckdns.org
@@ -48562,6 +48563,7 @@ arifeilebimcokguzel.net
 arifemtarifeem.com
 arifeniztarifenizzz.com
 arifgrouporg-my.sharepoint.com
+arionhotelgr.com
 ariopolanetyoa.com
 arisanet.club
 arisanet.online
@@ -89526,6 +89528,7 @@ casalmeida.duckdns.org
 casamagica-busteni-reservation.world
 casamer.com
 casaroyai.com
+casavaldeseroma.com
 casavi77.zapto.org
 casawds.com
 casbygroup.com
@@ -94179,6 +94182,7 @@ cicekdunyasndalar.online
 cicekdunyasndalar.xyz
 cicekella.xyz
 cicekevim.info
+cicekevim.live
 cicekevin.com
 cicekevin.net
 cicekevreni.com
@@ -99262,6 +99266,7 @@ confirmation-id643654.com
 confirmation-id64434569.com
 confirmation-id645255.com
 confirmation-id645355.com
+confirmation-id64819.com
 confirmation-id652135.com
 confirmation-id65242.com
 confirmation-id6542.com
@@ -103934,6 +103939,7 @@ cupboardg2irl3c.com
 cupboardsusceptible.top
 cupbrotten.top
 cupbty.ddns.net
+cupcoffee.org
 cupdesdi.site
 cupdsft.site
 cupersip.com
@@ -145235,6 +145241,7 @@ evindekal10.com
 evindekal2020.com
 evindekaldiye20gbhediye.net
 evindepaketle.net
+evindesin.click
 evindirim.click
 evinebasvuru.org
 evinesahipol.org
@@ -150639,7 +150646,9 @@ fibabank2022.ml
 fibabanka-kart-aidat-iadeleri.cf
 fibabanka-kart-aidat-iadeleri.ml
 fibabanka-tr.online
+fibabanka-web.click
 fibabanka.agencylook.org
+fibabanka.click
 fibabanka.club
 fibabanka.com.gr
 fibabanka.ml
@@ -164797,6 +164806,7 @@ gercekten-super-rrnler-varmis.com
 gercektenbunlar-kacmamali.com
 gerd31e2sa1.click
 gerd31edd2sa1.click
+gerdesglouds.com
 gerdmoller.com
 gerdos9ika.today
 gereginebasvurbugun.site
@@ -168303,6 +168313,7 @@ glennuniat.com
 glercomandre.com
 gletavo.store
 gleudjlmhqry.space
+gleversfarmguste.com
 glfau9.duckdns.org
 glflggiqaa.duckdns.org
 glfmgklf55fg.top
@@ -169155,6 +169166,7 @@ godzillaraksel.net
 goe-groups.com
 goest.mrbonus.com
 goeui.cn
+goexplorience.com
 gof.planetgoodimages.info
 gofilo.xyz
 gofilom.com.tr
@@ -173647,6 +173659,7 @@ gurasclephoteram.com
 gurcistanlicruel331144.com
 gurcuhewal.app
 gurebbeaa.xyz
+guresredwaser.com
 gurestremasert.com
 gurghyfqjv.duckdns.org
 guridorosh.com
@@ -186710,6 +186723,7 @@ hepsiburas.cyou
 hepsiburas.shop
 hepsiburas.top
 hepsiburashopmarket.com
+hepsiburda.codeasdp.com
 hepsiburda.site
 hepsiburdaa.net
 hepsiburdacom.com.tr
@@ -187635,8 +187649,10 @@ hfjypc.duckdns.org
 hfktichen.com
 hfkunbgtfytisead.com
 hfkwlzr.com
+hfm666.com
 hfm678.com
 hfm789.com
+hfm888.vip
 hfm888.xyz
 hfm99.xyz
 hfm999.xyz
@@ -194839,6 +194855,7 @@ hockvideos2.ddns.net
 hockvvee.com
 hockypresents.com
 hocoso.mobi
+hodenserholse.com
 hodge.robustdrink.net
 hodgeshoward65.xyz
 hodilomodis.com
@@ -196171,6 +196188,7 @@ hotele2025.de
 hotelerbookeds2025.world
 hoteleuropebiv.com
 hotelfacet.top
+hotelfazendavista.com
 hotelfringe.top
 hotelhadieh.ir
 hotelierjobz.com
@@ -196182,6 +196200,7 @@ hotellaluna.it
 hotellasopa281.weebly.com
 hotelmilagroguest.com
 hotelmilano.world
+hotelnamegb.com
 hotelneueramsee.world
 hotelofficeewn.blogspot.com
 hotelplannerdatagp.com
@@ -207328,6 +207347,7 @@ infobinanceonline.com
 infocarnames.ru
 infocatalog.pics
 infocentre.icu
+infoconfirm.world
 infoconnectstorage.com
 infocontact.duckdns.org
 infocontacts.hopto.org
@@ -243596,6 +243616,7 @@ llaa11.xyz
 llallagua.ch
 llama-2.com
 llap29h4.duckdns.org
+llargentiere.com
 llary.com
 llb-cll.com
 llbbdekartodemeliibb.net
@@ -272268,6 +272289,7 @@ numastays-confirm.world
 numbclutch.top
 numbcontrive.top
 number-293122.com
+number-room.com
 number2.duckdns.org
 numberclap.top
 numbers-google.com
@@ -282372,6 +282394,7 @@ opensedvturdes.org
 opensedvtures.org
 openside.shop
 opensniff.top
+openspy.co
 opensteak.top
 openstore.club
 openstreetpro.com
@@ -282848,6 +282871,7 @@ orchestrathrone.top
 orchestratry.sbs
 orchid-vpn.com
 orchomenos.news
+orchwoodgarden.com
 orcohomes.com
 orcorroion.top
 orcus.dyndns.org
@@ -285987,6 +286011,7 @@ pafghqcpv.duckdns.org
 pafk.us
 pafzzf.net
 paga-fattura-it986589.duckdns.org
+pagadeupedate.com
 pagagdasgpalslsk.net
 pagamento-fattuaazione.duckdns.org
 pagamento-fattura.duckdns.org
@@ -286021,6 +286046,7 @@ page1009.com
 page104114.shop
 page1109.shop
 page1209.help
+page1209.shop
 page1309.shop
 page1609.rest
 page1609.shop
@@ -298264,6 +298290,7 @@ prestij-insankaynaklari.com
 prestijdiploma.com
 prestijrentacars.com
 prestijvilla.com
+prestocard.cfd
 preston7.ddns.net
 presuggestion.com
 presumablyprolong.top
@@ -298320,6 +298347,7 @@ preview.codepad.co
 preview.jpainting.ca
 preview.manage.org-view.work
 previewassimilation.top
+previewdoc.us
 previosaugmention.top
 previous.petsquickscan.com
 previousadverse.top
@@ -298779,6 +298807,7 @@ pro-navor.com
 pro-onlinebonus.link
 pro-paribu.com
 pro-payment.xyz
+pro-registration.world
 pro-s-sahibinden.com
 pro-sahibinden-param-guvende.com
 pro-sahibinden-paramguvende.com
@@ -311331,6 +311360,7 @@ reddressing.top
 redeastbay.com
 redecessor.top
 redeemsg.cfd
+redeemsg.icu
 redeitt.com
 redejenare.buzz
 redelivery-services.ddns.net
@@ -334786,6 +334816,9 @@ singlilpost.top
 singlipost.top
 singmejinx.shop
 singnaqgol33fn.duckdns.org
+singpass.cyou
+singpass.icu
+singpass.sbs
 singpilost.top
 singpiost.top
 singpposts.top
@@ -359953,6 +359986,7 @@ toki-slv-basvuru.net
 toki-slv-basvuru.sbs
 toki-sosyal.digital
 toki-sosyalbasvurukonut.vercel.app
+toki-sosyalbasvurukonutlar.vercel.app
 toki-sosyalkonutlarbasvuru.vercel.app
 toki-soyalbasvurularim.vercel.app
 toki-tr.com
@@ -361441,6 +361475,7 @@ tourdream.net
 toureye.top
 tourhotelresourt.icu
 tourindia.in
+touringhotelresourt.icu
 tourismartillery.top
 tourismcompilation.top
 touristentrust.top
@@ -375956,6 +375991,7 @@ updlnrzis.com
 updnetflxverf.ddns.net
 updo.pw
 updpcn.online
+updsecondv.com
 updsql.me
 updsupportdashpost.ddns.net
 updt-servc-app2.com
@@ -375965,6 +376001,7 @@ upebj9ktk.duckdns.org
 upecllysxmsfbso.ru
 upedata-chang.com
 upedatedepaga.com
+upedatpago.com
 upeg-system-app.com
 upehildloginx.webflow.io
 upempaxtcubmndh.su
@@ -385049,6 +385086,7 @@ vialer.com.br
 vialikedin.org
 vialis.life
 vialivolpe.zapto.org
+viapay.cfd
 viasalvia.de
 vib.econeurqa.com
 vibaavaacademy.com
@@ -391036,6 +391074,8 @@ webhosttr.online
 webhotell.enivest.no
 webhotelselc.com
 webhotelslim-4973.world
+webhotelslim.com
+webhotelsls.com
 webhotmail.weebly.com
 webhsgz.com
 webhukuk-ihlalsorgu.com
