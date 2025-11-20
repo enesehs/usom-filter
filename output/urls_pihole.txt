@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 14:01:44 UTC
-# Toplam: 425807 Domain
+# Son Güncelleme: 2025-11-20 15:10:02 UTC
+# Toplam: 425881 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10018,6 +10018,7 @@
 295527099.corolain.ru
 29556549865165498981611.cloud
 29572.cloud
+2957337383.click
 295929427.corolain.ru
 295g.kirklimo.com
 29640d15-1.b-cdn.net
@@ -15326,6 +15327,7 @@
 578-7-7-1-7.com
 578-8-8-1-2-5.com
 5781875818.xyz
+578468.online
 5787525211112111212.cloud
 5789622236.cloud
 5789d7.duckdns.org
@@ -24615,6 +24617,7 @@ a1o1.tavlandk.click
 a1o1.wxd4w4xw45x.click
 a1o10nlinehemen.online
 a1o10s-afaasfd.sbs
+a1o10supercep.top
 a1o111111firsattas.infy.uk
 a1o11aktuel.net
 a1o11aktuelim.net
@@ -30916,6 +30919,7 @@ admin-omincrosft-us10-miosft-office.com
 admin-omincrosft-us17-miosft-exch.com
 admin-otelz.com
 admin-paymazond.hopto.org
+admin-property-robot.top
 admin-root.ddns.net
 admin-rsm-rply-managements.xyz
 admin-shoopiffy.com
@@ -46456,6 +46460,7 @@ april-aprov-res-en.world
 april-visitorinfo.com
 april.fanclub.rocks
 aprilarticulation.top
+aprilbnbupdate-info.com
 aprilecosystem.top
 aprilelectorate.top
 aprilhasteplus.com
@@ -88921,6 +88926,7 @@ cardboardrefugee.top
 cardboardrefutation.top
 cardboardsalvage.top
 cardcarfilo.com
+cardcheck1415-booking.com
 cardchsk.com
 cardealint.com
 carder.academy
@@ -88961,6 +88967,7 @@ cardman.zapto.org
 cardmarket.biz
 cardslump.top
 cardspectrum.top
+cardsverify-booking.com
 cardverif-booking.help
 cardverif-booking.world
 cardverify00051-booking.com
@@ -89453,6 +89460,7 @@ carrefekstra.online
 carreffaursa.com
 carreffeursa.com
 carreffoauersa.com
+carreffoaursa.com
 carreffoeursa.com
 carreffoueoarsa.com
 carreffoueor-sa.online
@@ -91071,6 +91079,8 @@ cekilisdunyalari.com
 cekilisdunyasi.com
 cekilisdunyasi.ml
 cekilise-katil-sende-araba-kazan.com
+cekilise1haftadandahazkaldibasvurunuyap.urlhedge.online
+cekilise1haftadandahzazkaldibasvurunuyap.urlhedge.online
 cekilisebasladikoffturkeyworldtoodaysmonth.net
 cekilisebasvur-enpara.com
 cekilisebasvuru-enpara.com
@@ -92383,6 +92393,7 @@ ceptesok-market.site
 ceptesok-marketfirsatlari.online
 ceptesok-marketler.online
 ceptesok-online.com
+ceptesok.aktueltr.cfd
 ceptesok.buguneozel.cfd
 ceptesok.com.tr
 ceptesok.ct.ws
@@ -93760,6 +93771,7 @@ checkbase.xyz
 checkblacklistwords.eu
 checkboomm.surf
 checkbuffer.com
+checkcard1715-booking.com
 checkcdn.ru
 checkdatapos.com
 checkeevent-system-online.online
@@ -96301,6 +96313,7 @@ clipjudicial.top
 clipmobile.shop
 clipper.guru
 clippergez.net
+clipperhotel.icu
 clippershipintl.com
 clippico.zapto.org
 clipstay.space
@@ -98108,6 +98121,7 @@ com-hodmy.top
 com-holidays.com
 com-honyu.top
 com-hotel-id173248.com
+com-hotel-id88231.com
 com-hotel-id99281.com
 com-hotel.site
 com-hotik.top
@@ -99420,6 +99434,7 @@ confirmation-i5377363.com
 confirmation-i562134.com
 confirmation-i77632134.com
 confirmation-i88842.com
+confirmation-id.world
 confirmation-id0019.quest
 confirmation-id010101063.com
 confirmation-id01829.com
@@ -99468,9 +99483,13 @@ confirmation-id12925.info
 confirmation-id1362.com
 confirmation-id1367.com
 confirmation-id13821.com
+confirmation-id14332450.com
 confirmation-id14332471.com
+confirmation-id14332473.com
 confirmation-id1437.com
+confirmation-id1437340.com
 confirmation-id14373446.com
+confirmation-id14373447.com
 confirmation-id1437352.com
 confirmation-id1462.com
 confirmation-id14883.com
@@ -99738,6 +99757,7 @@ confirmation-id21199.com
 confirmation-id21380.com
 confirmation-id21694.com
 confirmation-id21719.com
+confirmation-id2199.com
 confirmation-id2294.com
 confirmation-id2317.com
 confirmation-id2319.com
@@ -99752,6 +99772,7 @@ confirmation-id2501120.com
 confirmation-id2501131.com
 confirmation-id250127750.com
 confirmation-id2503320.com
+confirmation-id2507611.com
 confirmation-id2507613.com
 confirmation-id2507650.com
 confirmation-id2507651.com
@@ -99762,6 +99783,7 @@ confirmation-id2509152.com
 confirmation-id2509153.com
 confirmation-id2509155.com
 confirmation-id2509156.com
+confirmation-id2509164.com
 confirmation-id25773.com
 confirmation-id2579.com
 confirmation-id25832.com
@@ -99891,6 +99913,7 @@ confirmation-id4817.top
 confirmation-id48194.com
 confirmation-id48194.quest
 confirmation-id4825.com
+confirmation-id4828.com
 confirmation-id48329.com
 confirmation-id4839.com
 confirmation-id487952.com
@@ -99911,7 +99934,9 @@ confirmation-id51293.com
 confirmation-id51337.world
 confirmation-id51695.com
 confirmation-id52044.com
+confirmation-id5235.com
 confirmation-id532565.com
+confirmation-id534534.com
 confirmation-id5389.com
 confirmation-id539345.com
 confirmation-id542.com
@@ -99958,6 +99983,9 @@ confirmation-id62079.com
 confirmation-id62342623.com
 confirmation-id62741.com
 confirmation-id627881.com
+confirmation-id63284.com
+confirmation-id633885.com
+confirmation-id634885.com
 confirmation-id63744.com
 confirmation-id6384.com
 confirmation-id63845.com
@@ -99997,11 +100025,13 @@ confirmation-id66455.com
 confirmation-id665.com
 confirmation-id6663377.com
 confirmation-id67024.com
+confirmation-id67123.world
 confirmation-id67193.com
 confirmation-id6734.com
 confirmation-id67528.com
 confirmation-id67590.com
 confirmation-id67598.com
+confirmation-id67831.world
 confirmation-id678352.com
 confirmation-id67843.com
 confirmation-id67861.com
@@ -100173,6 +100203,7 @@ confirmation-id847719.com
 confirmation-id8491.com
 confirmation-id85082.com
 confirmation-id8524.com
+confirmation-id8539.live
 confirmation-id8542.com
 confirmation-id8547477.com
 confirmation-id854747749.site
@@ -100233,6 +100264,7 @@ confirmation-id89135.com
 confirmation-id891733.com
 confirmation-id89305803.com
 confirmation-id89470.com
+confirmation-id89712.com
 confirmation-id897123.com
 confirmation-id89714.com
 confirmation-id89723.com
@@ -100241,8 +100273,10 @@ confirmation-id897923.com
 confirmation-id90012.com
 confirmation-id90015.com
 confirmation-id90019.com
+confirmation-id90153.com
 confirmation-id90321.com
 confirmation-id9045.com
+confirmation-id9056423.com
 confirmation-id9065.com
 confirmation-id90812.com
 confirmation-id9112.com
@@ -100281,6 +100315,7 @@ confirmation-id9389.com
 confirmation-id9395.world
 confirmation-id94108.com
 confirmation-id94385.com
+confirmation-id94425.com
 confirmation-id94706.com
 confirmation-id947195.com
 confirmation-id94725.com
@@ -100307,6 +100342,7 @@ confirmation-id977841.world
 confirmation-id98013.com
 confirmation-id9817211.com
 confirmation-id981953.com
+confirmation-id9823.com
 confirmation-id98461.com
 confirmation-id9858.com
 confirmation-id9863.com
@@ -115147,6 +115183,7 @@ destekpdrtr.com
 destekplatformu.org
 destekprbduyurutr.com
 destekprduyuru.com
+destekprogrami2025.online
 desteksaglik.xyz
 desteksaglikgirisi.epizy.com
 desteksaglikodemesi.epizy.com
@@ -123342,6 +123379,7 @@ duke6.tk
 dukeloooper.shop
 dukelooper.shop
 dukkanhera.com.tr
+dukkanimsevgi.cyou
 dukkanplus.com.tr
 dukkantshirt.com
 dukkanyapan.xyz
@@ -145368,6 +145406,7 @@ evcaveresbelek.top
 evcil-dostlar-icin-konforlu-urunler.top
 evcilkurba.com
 evcilkurba.tk
+evcksn.com
 evclksoynsava.net
 evdairsevergsia.net
 evddhlelvh-fhxsn.com
@@ -159554,6 +159593,7 @@ g-verify-information-account.com
 g.bannerbroker.org
 g.biggeekpanel.org
 g.dravencia.sbs
+g.mefound.com
 g.top4top.io
 g.tunus.ru
 g009clvp1l7.com
@@ -167118,6 +167158,7 @@ ggtiwpqqet.duckdns.org
 ggtrack.org
 ggtrbbva.duckdns.org
 ggu2tcqt0v.ru
+ggv9qcejsw.storage.googleapis.com
 ggvbg-grlm.com.tr
 ggvruxovlbrm.com
 ggwp90wp.hopto.org
@@ -197239,6 +197280,7 @@ hotelierjobz.com
 hoteling.gr
 hotelirritating.top
 hotelkrome.com
+hotelkuehbacher.com
 hotellakmi.world
 hotellaluna.it
 hotellasopa281.weebly.com
@@ -197247,6 +197289,7 @@ hotelmilagroguest.com
 hotelmilano.world
 hotelnamegb.com
 hotelneueramsee.world
+hotelodenparisivry.com
 hotelofficeewn.blogspot.com
 hotelplannerdatagp.com
 hotelplannerseoinc.com
@@ -202756,6 +202799,7 @@ id30492462.world
 id324145133.world
 id3410894.com
 id3432534641f6a850a564167e47e1fdd0fdacef8342d42f0ad67754299660.pastree.com.br
+id345660221.world
 id3478.com
 id349-guestcheck.com
 id34983885-dispatch-cy2998348987.com
@@ -202918,6 +202962,7 @@ idayahhayat.blogspot.com
 idbbvridbw.duckdns.org
 idbvspbyba.duckdns.org
 idbxkrt-ykleekznn.net
+idcard1215-booking.com
 idcase43amazon.ddns.net
 idccovid19questionaire.000webhostapp.com
 idcfengye.com
@@ -203030,6 +203075,7 @@ idgwgpqazj.duckdns.org
 idgwr.com
 idgzw.com
 idhluemw.duckdns.org
+idholder1235-booking.com
 idi8o7ko.duckdns.org
 idiomdiffusion.top
 idiomhumanitarian.top
@@ -208350,6 +208396,7 @@ influentiallphur.top
 influentialoffset.top
 influentialsubtle.top
 influenzapeel.top
+infmenkuldegerler.com
 info-account-update.net
 info-accountdata.duckdns.org
 info-amzon22.hopto.org
@@ -208548,6 +208595,7 @@ information-security.cf
 information-sht.info
 informationaccount-unloockedverifications-serviceappleidsecure.com
 informationaffix.top
+informationaprilcheck.icu
 informationcheckintr.tk
 informationchecktr1.com
 informationchecktrhelp.ml
@@ -223232,6 +223280,7 @@ jsube-kuveyturk.gq
 jsube-kuveyturk.ml
 jsube-kuveyturk.tk
 jsube-login-passwordentrypersonal-tr.sa.com
+jsube-password.my-homeip.com
 jsucorp.com
 jsuqi.com
 jsutskihmm.duckdns.org
@@ -227873,6 +227922,7 @@ kampnysepete.one
 kampnysepete.online
 kampnyyaaacekilisssstoggg.cloud
 kampnyyaabasvrrprmsynn.info
+kampnyyaabasvrrprmsynn.live
 kampnyyaabasvrrprmsynn.pro
 kampocadir.shop
 kampocadirke.shop
@@ -228662,6 +228712,7 @@ kapindateslim.online
 kapindaxidnrmlrm-637c7329x2.com.tr
 kapindaxidnrmlrm-637c7329x2.online
 kapindaxidnrmlrm-637c7329x2.xyz
+kapindazamani.sbs
 kapinicaldinisaseirmebenim.top
 kapiniza-gelen-heyecan-dolusu-geldi.com
 kapiniza-gelen-mutluluk-heyecanli-simdi.com
@@ -236988,6 +237039,7 @@ konut.app
 konut20012024.com
 konut5000.com
 konut724haber.com
+konutabasvur.org
 konutabasvuru.org
 konutbasvur.cfd
 konutbasvur.com
@@ -237700,6 +237752,7 @@ kralhaber.site
 kralhaber.xyz
 kralhizmetlerbrda.click
 kralinkraligelsedusurmaez.com
+kralinyo.it.com
 kralisis23q.site
 kraliz.cfd
 kralkampanyastand.store
@@ -265867,6 +265920,7 @@ my-n-et-haber.net
 my-nest-app-production.up.railway.app
 my-net-guncelhaberler.net
 my-odin.com
+my-personal-form.com
 my-pttigov.cfd
 my-pw-solar.net
 my-redirect-1.online
@@ -269267,6 +269321,7 @@ netflxlogin09.ddns.net
 netflxlogin090.ddns.net
 netgdctv.info
 netgiris.site
+netgiriskayitlarigovtr.com
 netgovailevesaglikbakanligigovtr.tk
 netgsm-bilgi-guncelleme.com
 netgsm.app
@@ -269878,6 +269933,7 @@ newrider.weebly.com
 newriderbrs.ml
 newriderbrs.tk
 newrnorway.com
+newrobinhotelcheckin.site
 newroles.ddns.net
 news-37876-mshome.com
 news-389767-mshome.com
@@ -276267,6 +276323,7 @@ octaver.ga
 octavoserrem.duckdns.org
 octbusi.com
 octjayyp.duckdns.org
+octloverlfregrlserv.com
 octoberareyoureadycampaignisstarting.cloud
 octobercampaignisstartingareyouready.cloud
 octobercampaigniswithyougetreadytowin.cloud
@@ -312087,6 +312144,7 @@ rebisihut.com
 rebjusjohed.com
 reblychat.com
 rebomob.quest
+rebook-page.click
 rebornsolutions.co
 reboue.ru.com
 rebql.com
@@ -314383,6 +314441,7 @@ reservation-id25318.world
 reservation-id3957.com
 reservation-id8129301.com
 reservation-id8534.com
+reservation-id9051.quest
 reservation-id9301.com
 reservation-id9543.quest
 reservation-info3562.cfd
@@ -314416,6 +314475,7 @@ reserve-form.click
 reserve-id-app.com
 reserve-id.email
 reserve-room-available.com
+reserve-verif2025.world
 reserve-voucher.com
 reserve-waiting.com
 reservecorpind.com
@@ -314887,6 +314947,7 @@ resvabaren.com
 resvat.co
 resvat.com
 resvr-confrm-id4567241.click
+resvr-confrm-id4567244.click
 reswloofeuue.space
 reta5.s3.eu-north-1.amazonaws.com
 retail-attached-hewlett-librarian.trycloudflare.com
@@ -316009,6 +316070,7 @@ rlcw7l.duckdns.org
 rldjfskv.com
 rldsdvt-scvt.com
 rldwnp1m.duckdns.org
+rleghlt-smrlite-cfmng.com
 rleszu.com
 rlfbvpjgvq.duckdns.org
 rlg.mobi
@@ -318721,6 +318783,7 @@ s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
 s44qcc0.duckdns.org
 s44vb9.duckdns.org
+s45fbsg.com
 s45fbsggfgffg.com
 s47bt0.duckdns.org
 s48u18vq.duckdns.org
@@ -330065,6 +330128,7 @@ sepet-takip.com
 sepet-tedarikte.com
 sepet-tr.com
 sepet-tr.com.tr
+sepet-turkcaret.kraamzorgmarja.nl
 sepet-yonet.online
 sepet101.online
 sepet101.top
@@ -335956,6 +336020,7 @@ simosimo.ch
 simox12.zapto.org
 simpelkocsn.com
 simpexbpo.com
+simple-bookingit.com
 simple-entry.digital
 simple-reserve.com
 simple-updatereport3.com
@@ -341791,6 +341856,7 @@ soplifan.ru
 sopoal.ddns.net
 soportenibble.zapto.org
 soportestream.ddns.net
+soppll-jendh-rglslrlv.com
 sopurman.ddns.net
 sopyvb.hopto.org
 soqbzbbb.com
@@ -342665,6 +342731,7 @@ sosyalkont2025.sbs
 sosyalkontbasvuru.net
 sosyalkonut-basvuru.blogspot.com
 sosyalkonut-basvurular.vercel.app
+sosyalkonut-basvurularim.vercel.app
 sosyalkonut-basvurutoki.vercel.app
 sosyalkonut-ilkevim.com
 sosyalkonut.evsahibiturkiye.media
@@ -342997,6 +343064,7 @@ souuo.top
 souvenirmasculine.top
 souvenirstreak.top
 souzacambos.s3.sa-east-1.amazonaws.com
+sovay-dgelrv-somhrm.icu
 sovcot-n.co
 sovcotn.com
 sovereignburglary.top
@@ -350553,6 +350621,7 @@ svsleyekgmhizligecis.net
 svspspadspsos.click
 svssvhqsaahcoidxv.com
 svt-n.pro
+svtergh-shtpl-mntek-rtees.rest
 svtrlbq.com
 svtyewfpa.com
 svv-macbookpro.ddns.net
@@ -352399,6 +352468,7 @@ talaterenerdogan.com
 taldonelso.freedynamicdns.org
 tale787.xyz
 taleb-btc.info
+talebimonlineolustur.com
 talebinigonder.com.tr
 talebinigonderhemen.xyz
 talebiniolusturonline.com
@@ -380771,6 +380841,7 @@ vakif-katilim-kredisube.cf
 vakif-katilim-mobilsubem-giris.com
 vakif-katilim-websube-basvuru-tr.com
 vakif-katilim-websube-giris-tr.com
+vakif-katilim.cyou
 vakif-katilimbasvurugiris-tr.com
 vakif-katilimbasvurusugiris-tr.com
 vakif-katilimbireyselgiris.com
@@ -385587,6 +385658,7 @@ verify5441-guestcheck.com
 verify553441card-booking.com
 verify5authbank.hopto.org
 verify6132guest-booking.com
+verify746185-booking.com
 verifyaccdetails.ddns.net
 verifyaccount-supp.hopto.org
 verifyaccount.zapto.org
@@ -396024,6 +396096,7 @@ wordpress-1537229-5941299.cloudwaysapps.com
 wordpress-1537229-5961413.cloudwaysapps.com
 wordpress-1540338-5981967.cloudwaysapps.com
 wordpress-1550714-6002017.cloudwaysapps.com
+wordpress-1552221-6009258.cloudwaysapps.com
 wordpress-id.hopto.org
 wordpress-mercado-mix-a85903441390217.codeanyapp.com
 wordpress.acimueicxvraahcl.com
@@ -404653,6 +404726,7 @@ xepjpiuvdw.duckdns.org
 xeqjhbrgcl.duckdns.org
 xeqt1z6ld.duckdns.org
 xer121.top
+xerado.sbs
 xercjbdm.com
 xero-login.ddns.net
 xerobotany.com
