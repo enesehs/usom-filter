@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-20 19:01:47 UTC
-! Total: 340050 rules
+! Last modified: 2025-11-20 20:10:46 UTC
+! Total: 340065 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9552,7 +9552,6 @@
 *://*.500binsosya1konut.com.tr/*
 *://*.500binsosya1konut.cyou/*
 *://*.500binsosya1konut.xyz/*
-*://*.500binsosyalkonut.com/*
 *://*.500binsosyalkonut.xyz/*
 *://*.500binsosyalkonutbasvuru.com/*
 *://*.500binsosyalkonutbasvuru.org/*
@@ -10687,6 +10686,7 @@
 *://*.66tye9kcnxi.com/*
 *://*.66works.com/*
 *://*.6712037932.cloud/*
+*://*.6723483770.best/*
 *://*.673236782584.com.tr/*
 *://*.6742309061461234152505124507145.biz/*
 *://*.67435153424.com/*
@@ -39422,6 +39422,7 @@
 *://*.baglanti-ailegenclik.com/*
 *://*.baglanti.site/*
 *://*.baglantiailegenc.com/*
+*://*.baglantibasarili.digital/*
 *://*.baglantiforumonline.info/*
 *://*.baglantikatilgrt.site/*
 *://*.baglantilanma.com/*
@@ -67978,6 +67979,7 @@
 *://*.canimlecanamin.net/*
 *://*.canimlzmir.net/*
 *://*.canimportalbenim.net/*
+*://*.canimturkiye.cyou/*
 *://*.canimulkemturkiyem.com/*
 *://*.canimyrkmycc.com/*
 *://*.caninelerister.ga/*
@@ -79807,6 +79809,7 @@
 *://*.crfsafrstlarkmpnya.xyz/*
 *://*.crfsahaftnsnu.com/*
 *://*.crfsalrdnglaln.shop/*
+*://*.crfsandaalmsn.cfd/*
 *://*.crfsanisnbasi.com/*
 *://*.crfsarz.cfd/*
 *://*.crfsaykkmpan.cfd/*
@@ -79840,6 +79843,7 @@
 *://*.crfsnztmmz.com/*
 *://*.crfsnzz.com/*
 *://*.crfsrdnhlkageldkk.shop/*
+*://*.crfssadlnk.cfd/*
 *://*.crfssdanfrcrdfsa.com/*
 *://*.crfssdanfrcrdfsadnbbze.com/*
 *://*.crfsssead.cfd/*
@@ -79848,6 +79852,7 @@
 *://*.crftseydisehir.cfd/*
 *://*.crfursaabzmolursa.com/*
 *://*.crfyonlendirme.shop/*
+*://*.crfytsac.cfd/*
 *://*.crgjhhsodmxc.net/*
 *://*.crhammerstein.de/*
 *://*.crhecbeaw.com/*
@@ -134380,6 +134385,7 @@
 *://*.girisiniyap.de/*
 *://*.girisiniyap.online/*
 *://*.girisiniyapislem.de/*
+*://*.girisiniz.digital/*
 *://*.girisiniztr-basvurular.online/*
 *://*.girisintr-onlinebntrnnnrc.com/*
 *://*.girisintrbnnrtc.online/*
@@ -142950,6 +142956,7 @@
 *://*.haftninyildzlarisokta.site/*
 *://*.haftninyilldizlari101.site/*
 *://*.haftsnuksmdakrcaa.com/*
+*://*.haftsnuyaknkrca.com/*
 *://*.haftsonlidnirimler101com.com/*
 *://*.hagafabudabizde.com.tr/*
 *://*.hagafabudabizde.online/*
@@ -165939,6 +165946,7 @@
 *://*.ilkevimhizlitokim.org/*
 *://*.ilkevimilkbasvurum.com/*
 *://*.ilkevimiz.com/*
+*://*.ilkevimizvelerrtokimler.org/*
 *://*.ilkevimkampanyasi.com/*
 *://*.ilkevimkonut.cfd/*
 *://*.ilkevimkonut.sbs/*
@@ -165946,6 +165954,7 @@
 *://*.ilkevimkonutbasvuru.com/*
 *://*.ilkevimkonutlari.cloud/*
 *://*.ilkevimlerimdentokilerimx.org/*
+*://*.ilkevimlerimiztoki.org/*
 *://*.ilkevimlerimtokiler.app/*
 *://*.ilkevimlerimtokiler.org/*
 *://*.ilkevimnet.com/*
@@ -192236,6 +192245,7 @@
 *://*.konutlarim2026.sbs/*
 *://*.konutlarimm.icu/*
 *://*.konutlarsite.com/*
+*://*.konutmerkezi.com/*
 *://*.konutmerkezi.online/*
 *://*.konutokibasvur.xyz/*
 *://*.konutolsun.click/*
@@ -203699,6 +203709,7 @@
 *://*.maved2tejdt.info/*
 *://*.mavegnis.com/*
 *://*.mavenradar.com/*
+*://*.maventa.sbs/*
 *://*.maverahakamer.com.tr/*
 *://*.maverahakamer.com/*
 *://*.maverahakamer.net.tr/*
@@ -287281,6 +287292,7 @@
 *://*.thzras.com/*
 *://*.ti-frit.com/*
 *://*.ti-hgs.net/*
+*://*.ti-mobile.xyz/*
 *://*.ti-talk.com/*
 *://*.ti7.us/*
 *://*.tiabmjce.com/*
@@ -287824,6 +287836,7 @@
 *://*.tironaf.store/*
 *://*.tirtaningnusantara.com/*
 *://*.tirwvy.org/*
+*://*.tiryakicaysimdisepette.cfd/*
 *://*.tisbankasi-tr.com/*
 *://*.tisbankgroup.com/*
 *://*.tisbonline.com/*
@@ -289439,6 +289452,7 @@
 *://*.toklprojesibasvr.com/*
 *://*.toklyilinprojesl.com/*
 *://*.tokmilkevimz.org/*
+*://*.tokmlerimizilkevimaz.org/*
 *://*.toknohaftasonuindirimin.net/*
 *://*.toknowall.com/*
 *://*.toko-3.vip/*
@@ -294103,6 +294117,7 @@
 *://*.trgarantiweb-subesi.com/*
 *://*.trgarentam.com.tr/*
 *://*.trgasfx.com/*
+*://*.trgasploras.xyz/*
 *://*.trgbfrm12a.day/*
 *://*.trgbvva34bsv.dev/*
 *://*.trgbvvabsv.dev/*
