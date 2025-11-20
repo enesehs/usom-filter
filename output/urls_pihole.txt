@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 20:10:46 UTC
-# Toplam: 426316 Domain
+# Son Güncelleme: 2025-11-20 21:08:50 UTC
+# Toplam: 426339 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8080,6 +8080,7 @@
 2025-akk-bnk-yn-yil.com
 2025-basvuru-sistemi.xyz
 2025-basvuru.com
+2025-basvuzru.com
 2025-ekimayi-sorveaktar.sbs
 2025-ertelemeli.xyz
 2025-faizsiz.duckdns.org
@@ -22121,6 +22122,7 @@ a-kapinda-siparis.net.tr
 a-kapinda.com.tr
 a-kapinizda-hafta.com.tr
 a-kariyerkapisi.com
+a-kbankinternet.click
 a-kfffsfsdws.sbs
 a-kffslsdwqwqesqdadsa.xyz
 a-kfirsatlar.com.tr
@@ -81719,6 +81721,7 @@ brdankcmazk.com
 brdanlardansandaseasn.bond
 brdansknzbnrynlasdew.bond
 brdansnkzynlnyrz.icu
+brdansrglayacksinsnde.mooo.com
 brdaynidosylarlabsvrunuzuyapn.site
 brdcallcenter.org
 brdcst.email
@@ -151896,6 +151899,7 @@ fibabank-top.ml
 fibabank-web.click
 fibabank.click
 fibabank.kisal.cc
+fibabank.lat
 fibabank.site
 fibabank2022.ml
 fibabanka-kart-aidat-iadeleri.cf
@@ -160552,6 +160556,7 @@ gar-arg.online
 gar-gar.xyz
 gar-grs-inst-islm.duckdns.org
 gar-rantionline.fixip.org
+gar.mefound.com
 gara-ntihzmet.online
 gara.bidmygardgets.online
 gara.thetupaus.com
@@ -205771,6 +205776,7 @@ ilkevimtokii7.sa.com
 ilkevimtokikonutbasvurususongun.icu
 ilkevimtokim.org
 ilkevimtokimdir.org
+ilkevimtokimlerixm.org
 ilkevimtokimve.org
 ilkevimtokiprojeleri.org
 ilkevimyerleske.com
@@ -231457,6 +231463,7 @@ kayitolmakicin.com
 kayitolsana724.com
 kayitolunrahatlayin.com
 kayitpromosyonlari.com
+kayitsayfasi2025.sbs
 kayitsizcuzdanonaysorgulamasayfasi.line.pm
 kayitsizkalamam.com
 kayitsorgu-09c4be32ae16.herokuapp.com
@@ -343100,6 +343107,7 @@ sosyalkontbasvuru.net
 sosyalkonut-basvuru.blogspot.com
 sosyalkonut-basvurular.vercel.app
 sosyalkonut-basvurularim.vercel.app
+sosyalkonut-basvurularin.vercel.app
 sosyalkonut-basvurutoki.vercel.app
 sosyalkonut-ilkevim.com
 sosyalkonut.evsahibiturkiye.media
@@ -343167,6 +343175,7 @@ sosyalkonutprojesi.konutevlerihazirlaniyor.cloud
 sosyalkonutprojesi.myonlineportal.eu
 sosyalkonutprojesi.net
 sosyalkonutprojesi.ozelkonutsistemi.cloud
+sosyalkonutprojesi.sbs
 sosyalkonutprojesibasvur.com
 sosyalkonutprojesindeyerinizialin.shop
 sosyalkonutprojesitoki.wordpress.com
@@ -350829,6 +350838,7 @@ susuna.istnblluolrmusnsusuna.com
 susuna.susunamadakomasusuna.com
 susunacigimxx.mooo.com
 susunaistanblluolms.com
+susunamakomaspornamako.com
 susunamdasusuna.mooo.com
 susunamdasusunam.com
 susunanxzdsdaqs.myshopify.com
@@ -352846,8 +352856,10 @@ taldonelso.freedynamicdns.org
 tale787.xyz
 taleb-btc.info
 talebimonlineolustur.com
+talebimonlineolustur.world
 talebinigonder.com.tr
 talebinigonderhemen.xyz
+talebinigonderhemenonline.xyz
 talebiniolusturonline.com
 talebinizalindi.com
 talebinizaliyor.site
@@ -356932,6 +356944,7 @@ telfhakkimerkezitr.ml
 telfhakkimerkezitrig.tk
 telfhaklarimerkeziihl.ml
 telfhelpdestek.com
+telfira.sbs
 telfonuburdanalcaksin.blogspot.com
 telif-bildirge-com.tk
 telif-bildirge.com
@@ -360489,6 +360502,7 @@ tklyrdmmmns.net
 tkm9961b.site
 tkmanbbcds.duckdns.org
 tkmfkea.club
+tkmlerimizilkevimler.org
 tknkhbr.com
 tknklnklvklnlkn.net
 tknlktlknltklnktln.shop
@@ -361943,6 +361957,7 @@ tokibasvurulrnqw.com
 tokibasvurum.click
 tokibasvurum.com
 tokibasvurum.giize.com
+tokibasvurum.info
 tokibasvurum.net
 tokibasvurum.online
 tokibasvurum.org
@@ -362216,6 +362231,7 @@ tokikurulus.fun
 tokiler-basladilar.sbs
 tokiler724.com
 tokilerhizmetleri145.best
+tokilerimbsvlarimilkevim.org
 tokilerimegelin.blogspot.com
 tokilerimizevleirmiz.org
 tokilerinizbasvuru.online
@@ -362240,6 +362256,7 @@ tokimilkevimlerimiz.org
 tokimizilkeivm.org
 tokimkonutbasvurusu.cloud
 tokimlerimilkevimler.org
+tokimlerimilkevimsa.org
 tokimlerimizilkevim.org
 tokimmnntokimm-knt-proje.com
 tokimnetevim.store
@@ -362308,6 +362325,7 @@ tokisite.com
 tokisitelerimiz.b-cdn.net
 tokislem.com
 tokislemyap.com
+tokislemyap.net
 tokisondakikahaber.org
 tokisony.omnicron.sbs
 tokisosyalbasvuru.net
@@ -362346,6 +362364,7 @@ tokiye-basvur.digital
 tokiyebasvur.xyz
 tokiyebasvurdum.top
 tokiyebasvuruyap.com
+tokiyeniprojeleri.com
 tokiylesenleson.com
 tokiyuzyilinkonutprojesi.online
 tokj.kcrmsalhszmt.shop
@@ -384501,6 +384520,7 @@ vdiodemesi.net
 vdisiplin.fun
 vdjz80o.duckdns.org
 vdk-online.com
+vdkerxah.storage.googleapis.com
 vdkrldmzxnxk.net
 vdkzxlxmdcsn.net
 vdlenizbank.com
@@ -396523,6 +396543,7 @@ wordpress-1456694-5478131.cloudwaysapps.com
 wordpress-1537229-5941299.cloudwaysapps.com
 wordpress-1537229-5961413.cloudwaysapps.com
 wordpress-1540338-5981967.cloudwaysapps.com
+wordpress-1548641-6015355.cloudwaysapps.com
 wordpress-1550714-6002017.cloudwaysapps.com
 wordpress-1552221-6009258.cloudwaysapps.com
 wordpress-id.hopto.org
@@ -408995,6 +409016,7 @@ xn--sorgulasnaagiri-n6c.dev
 xn--sorumluluktedbirdirsalk2021-2wd73c.com
 xn--sosyal-konut-bavuru-4wd.net
 xn--sosyal-konut-bavurumuz-8ge.net
+xn--sosyalkonut-basvurularm-9qd.vercel.app
 xn--sosyalkonutarbavuru-4wd.net
 xn--sosyalkonutarbavurusu-v9d.net
 xn--sosyalkonutlarbavurusu-9ge.net
@@ -426193,6 +426215,7 @@ zynibvruu65.click
 zynibvruu70.click
 zynibvruu80.click
 zynibvruu85.click
+zynibvruu90.click
 zynkbaykar.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
 zypeka.ddns.net
