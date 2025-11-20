@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 08:13:49 UTC
-# Toplam: 424944 Domain
+# Son Güncelleme: 2025-11-20 09:10:57 UTC
+# Toplam: 424962 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18187,6 +18187,7 @@
 78jn0dq.cn
 78jx0ci.duckdns.org
 78kkhn.duckdns.org
+78kwijczjz0mcig0f0.com
 78nencjdz.duckdns.org
 78ns1.lwu0z.ru
 78qj94w.duckdns.org
@@ -41790,6 +41791,7 @@ allloptttgov.com
 alllsmkkmm55.com
 allm432n432234432.com
 allmantravel.com
+allmanualsreader.com
 allmedicalpro.com
 allmeganews.com
 allmoae.run
@@ -45204,6 +45206,7 @@ anyonespeciality.top
 anyonetonight.duckdns.org
 anypon.online
 anyportals.com
+anyproductmanual.com
 anyroot100.ddns.net
 anyscandleshop.com
 anythingeverlol.ddns.net
@@ -52945,6 +52948,7 @@ awardsatirical.top
 awardscrub.top
 awardstreamline.top
 aware-opaque-ironclad.glitch.me
+aware-raw-limits-satin.trycloudflare.com
 aware325.xyz
 awareeast.top
 awareneorld.top
@@ -83074,6 +83078,7 @@ btcturk-webbasvuru.net
 btcturk.app
 btcturk.basvuruforms.app
 btcturk.basvurum.app
+btcturk.biz
 btcturk.cab
 btcturk.cf
 btcturk.click
@@ -83090,6 +83095,7 @@ btcturk.online
 btcturk.us.com
 btcturk9yilozel-eth.com
 btcturkapp.com
+btcturkb.com
 btcturkbank.com
 btcturkbank.net
 btcturkbank.xyz
@@ -89857,6 +89863,7 @@ cat.lamdallc.com
 catalogcement.top
 catalogdrawback.top
 catalogoptical.top
+catalogreference.comv
 catalogs-amounts-functions-chicago.trycloudflare.com
 catalogsound.top
 catalogsumut.com
@@ -95574,6 +95581,7 @@ cj5ca2cn.duckdns.org
 cj9k91l.duckdns.org
 cjb42tw.duckdns.org
 cjbs1t.duckdns.org
+cjby76nlcynrc4jvrb.com
 cjbznmsjyby22.com
 cjc6.hopto.org
 cjchijioke.zapto.org
@@ -176118,6 +176126,7 @@ h-guvenli-alisveris.online
 h-guvenli.online
 h-hepsizinlegarntimm.click
 h-hgs.com
+h-hre23r-safhnmrgfdbvfqdwsf.com.tr
 h-hre23r-safhnmrgfdbvfqdwsf.net.tr
 h-i-z-l-i-b-a-s-v-u-r-u.net.tr
 h-ikarcahome.shop
@@ -176634,6 +176643,7 @@ haber-basvurusu.com
 haber-bulteni.club
 haber-bulteni.online
 haber-bulteni.site
+haber-den.my-homeip.com
 haber-dergisi.site
 haber-gezegen.site
 haber-gun.site
@@ -241313,6 +241323,7 @@ latertime.icu
 latescheck.xyz
 latespro.xyz
 latess.ddns.net
+latest-manuals.com
 latest-tools.store
 latestab.top
 latestgrace2024.duckdns.org
@@ -250432,6 +250443,7 @@ manualchaellor.top
 manualmgir.pw
 manualpatron.top
 manualpl.ddns.net
+manualreaderpro.com
 manuel-alim.net
 manuela.com
 manuelalim-tr.net
@@ -295863,6 +295875,7 @@ playstore.com-apk-6712qw123asd8awf7.site
 playstore.site
 playstoreandroidguncel.co.vu
 playstoreguncelleme.net
+playthechess.com
 playyourbeat.com
 playzone12x2.xyz
 playzonex.xyz
@@ -353869,6 +353882,7 @@ tcpandemidestek.ml
 tcpandemidestek.tk
 tcpandemidestekuygulamasi03.com
 tcpandemidestekuygulamasi05.com
+tcpanel.cfd
 tcpaylari2020.com
 tcpbereka.co.za
 tcqhyudvw.com
@@ -361927,6 +361941,7 @@ totalmgir.pw
 totalpopsociety.com
 totalpunch.online
 totaltop.top
+totalusermanuals.com
 tothecktitres.com
 tothproject.hu
 totix.zapto.org
@@ -388298,6 +388313,7 @@ vtplytokgd.duckdns.org
 vtpolkbbzx.duckdns.org
 vtpskinchanger.com
 vtqgczvrqg.duckdns.org
+vtqgo0729ilnmyxs9q.com
 vtqma.duckdns.org
 vtrhcyupnk.duckdns.org
 vtrksjer.shop
@@ -390010,6 +390026,7 @@ wcoltfuv.duckdns.org
 wcop.site
 wcpam.duckdns.org
 wcqqjiixqutt.com
+wcsset.com
 wcstpnw.cn
 wctjgvxhgf.manascreati.ru
 wcumzx.top
@@ -424687,6 +424704,7 @@ zxelc.ddns.net
 zxeqmcproi.duckdns.org
 zxewnsj.com
 zxewtgcryv.duckdns.org
+zxg4jy1ssoynji24po.com
 zxgeotectonic.com
 zxgnbt.com
 zxgnnedpre.duckdns.org
