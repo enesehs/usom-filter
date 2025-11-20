@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-20 15:10:02 UTC
-! Total: 339646 rules
+! Last modified: 2025-11-20 16:11:42 UTC
+! Total: 340036 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7225,6 +7225,7 @@
 *://*.29195-coinbase.com/*
 *://*.29291-guestcheck.com/*
 *://*.29292911-11412s.cloud/*
+*://*.293184.store/*
 *://*.29322205054200045.cloud/*
 *://*.2932939232213.cloud/*
 *://*.293293923544213.cloud/*
@@ -10529,6 +10530,7 @@
 *://*.64537896465-37464648090.xyz/*
 *://*.64537896465-37464648092.online/*
 *://*.64537896465-37464648092.xyz/*
+*://*.6453verifycard-booking.com/*
 *://*.6455465465446546541111111111111111111111111111111111.space/*
 *://*.645616666.cloud/*
 *://*.64646465465465465465446.store/*
@@ -21232,6 +21234,7 @@
 *://*.ahknivesindustry.com/*
 *://*.ahkod.com/*
 *://*.ahlada.com/*
+*://*.ahlatcikuyumculukaltin.com/*
 *://*.ahlatyatirimkiymetler.com.tr/*
 *://*.ahlbrandt.eu/*
 *://*.ahlform.online/*
@@ -23272,6 +23275,7 @@
 *://*.airtravellog.com/*
 *://*.airtravels.us/*
 *://*.airtronuae.com/*
+*://*.airupdateinfomay.com/*
 *://*.airwhite.net/*
 *://*.airwrap-dyson.com.tr/*
 *://*.airwrap.com.tr/*
@@ -29433,6 +29437,7 @@
 *://*.amaliomano.com/*
 *://*.amamanamanereyrgeldik.site/*
 *://*.aman2allah3m.site/*
+*://*.amandaboutiquehotel.com/*
 *://*.amandafix.space/*
 *://*.amandafix.tech/*
 *://*.amangezesantariopulpe.com/*
@@ -31668,6 +31673,7 @@
 *://*.apparentbeset.top/*
 *://*.apparentlyclench.top/*
 *://*.apparentlydiesel.top/*
+*://*.appartaments-booking.com/*
 *://*.appartement-sailer.at/*
 *://*.appbeijwie.top/*
 *://*.appbhg6523.com/*
@@ -32060,7 +32066,9 @@
 *://*.aprilbnbupdate-info.com/*
 *://*.aprilecosystem.top/*
 *://*.aprilelectorate.top/*
+*://*.aprilguestinfo.cfd/*
 *://*.aprilhasteplus.com/*
+*://*.aprilinfoguest.cfd/*
 *://*.aprilknob.top/*
 *://*.apriloffspring.top/*
 *://*.aprimo-data.life/*
@@ -34488,6 +34496,7 @@
 *://*.ascertaindepot.top/*
 *://*.ascertaininversion.top/*
 *://*.ascertainmansion.top/*
+*://*.asclrt-feserlv-ypsay.icu/*
 *://*.ascochytashgxer.life/*
 *://*.ascoglobe.com/*
 *://*.ascortimisoara.ro/*
@@ -38071,6 +38080,8 @@
 *://*.b-wcl2022.com/*
 *://*.b-yy.xyz/*
 *://*.b.link/*
+*://*.b00kingc0nfirmati0n.help/*
+*://*.b00kingreservadoc0nfirm.top/*
 *://*.b00ostta.xyz/*
 *://*.b00ss1.xyz/*
 *://*.b01l9.com/*
@@ -56736,6 +56747,7 @@
 *://*.bjzxmll.net/*
 *://*.bk-bg.com/*
 *://*.bk-dnz-grss.com/*
+*://*.bk-for-glres.click/*
 *://*.bk-nkdenlz-kampanya.site/*
 *://*.bk-tr.com/*
 *://*.bk-vkf-grss.com/*
@@ -60655,6 +60667,7 @@
 *://*.boitexano.com/*
 *://*.boja4d8sytumc8hfp3.com/*
 *://*.bojbthxqummi.xyz/*
+*://*.bokedashotell25.world/*
 *://*.bokhoreshonline.com/*
 *://*.bokkeriejesj.nl/*
 *://*.boklaralemi.net/*
@@ -61192,6 +61205,7 @@
 *://*.bonysaturation.top/*
 *://*.bonytenure.top/*
 *://*.bonzaibommm.surf/*
+*://*.boo-hotelconfirmation.com/*
 *://*.booblexygekuhk12fu.com/*
 *://*.boobsnamedbenefits.com/*
 *://*.boocmhstufvn.info/*
@@ -61199,6 +61213,7 @@
 *://*.book-advp.com/*
 *://*.book-handwrite.online/*
 *://*.book-house.org/*
+*://*.book-octrate.com/*
 *://*.bookaires.com/*
 *://*.bookalow.com/*
 *://*.bookanswers.net/*
@@ -61230,13 +61245,16 @@
 *://*.bookedshotelese2025.com/*
 *://*.bookedsshostel25.com/*
 *://*.bookedsshostel25.world/*
+*://*.bookeseshostel2025.world/*
 *://*.bookextrasingin.com/*
 *://*.bookf27.com/*
 *://*.bookflirtation.top/*
 *://*.bookgames.pw/*
+*://*.bookindatesourcle.quest/*
 *://*.booking-777.com/*
 *://*.booking-agreementstatementapril0225.com/*
 *://*.booking-com-payment-update.com/*
+*://*.booking-completeid2025.world/*
 *://*.booking-confirm-id48382.com/*
 *://*.booking-confirm-page.com/*
 *://*.booking-confirmation-id51200.com/*
@@ -61261,6 +61279,7 @@
 *://*.booking-guestingreservations295912.com/*
 *://*.booking-guestingservicesres2901252.com/*
 *://*.booking-hlp50230133.cyou/*
+*://*.booking-id-5482047.com/*
 *://*.booking-id032931.com/*
 *://*.booking-id1105.world/*
 *://*.booking-id1458914.com/*
@@ -61300,8 +61319,10 @@
 *://*.bookingconfirmat1on.com/*
 *://*.bookingdevcustomer425234.com/*
 *://*.bookingdusseldorf.com/*
+*://*.bookingid291784671.sbs/*
 *://*.bookingitnow.org/*
 *://*.bookingrefound.icu/*
+*://*.bookingreserv.world/*
 *://*.bookingsecureguestrefund.com/*
 *://*.bookingservice.center/*
 *://*.bookingverification.click/*
@@ -61318,6 +61339,7 @@
 *://*.bookmystudy.org.pk/*
 *://*.bookmytrip.us/*
 *://*.bookncheck.com/*
+*://*.bookng-supportdesk.com/*
 *://*.bookpoint.us/*
 *://*.bookrack.pk/*
 *://*.bookratestay.com/*
@@ -62546,6 +62568,7 @@
 *://*.bromhydrate.com/*
 *://*.bromide.xyz/*
 *://*.bronerg.tk/*
+*://*.bronirovaniebooking1.icu/*
 *://*.bronirovaniebooking2.world/*
 *://*.brontalreadyture.pro/*
 *://*.bronthal.com/*
@@ -66805,6 +66828,7 @@
 *://*.byavail.top/*
 *://*.byayatirim.xyz/*
 *://*.bybitts.com/*
+*://*.bybok-cont-tday.click/*
 *://*.bybyjaoraa.com/*
 *://*.bycyxao.com/*
 *://*.bydaoto.com/*
@@ -67733,6 +67757,7 @@
 *://*.camping-katilimyuzde35girisleriniz.com/*
 *://*.campingbncgiriskampanya.net/*
 *://*.campinggiriskampanyakatilimbn.net/*
+*://*.campinghotelelena.com/*
 *://*.campingkatilimgirishediyeniz.net/*
 *://*.campingkatilimkampanyagirisburasikatilim.net/*
 *://*.campingkatilimkampanyagirisyuzde.net/*
@@ -68286,6 +68311,7 @@
 *://*.cardfinanssorgulama.com/*
 *://*.cardiacpure.ru/*
 *://*.cardiapp.cc/*
+*://*.cardid5185-booking.com/*
 *://*.cardiffpower.com/*
 *://*.cardifydev.co/*
 *://*.cardkampguvenilir.shop/*
@@ -68297,7 +68323,10 @@
 *://*.cardspectrum.top/*
 *://*.cardsverify-booking.com/*
 *://*.cardverif-booking.help/*
+*://*.cardverif-booking.icu/*
 *://*.cardverif-booking.world/*
+*://*.cardverificati0n.icu/*
+*://*.cardverification-booking.icu/*
 *://*.cardverify00051-booking.com/*
 *://*.cardverify00121-booking.com/*
 *://*.cardverify00249-booking.com/*
@@ -68442,6 +68471,7 @@
 *://*.cardverify4601-booking.com/*
 *://*.cardverify463222-booking.com/*
 *://*.cardverify46435-booking.com/*
+*://*.cardverify4651-booking.com/*
 *://*.cardverify465724-booking.com/*
 *://*.cardverify47532-booking.com/*
 *://*.cardverify47552-booking.com/*
@@ -68458,6 +68488,7 @@
 *://*.cardverify53685-booking.com/*
 *://*.cardverify54220-booking.com/*
 *://*.cardverify54311-booking.com/*
+*://*.cardverify54951-booking.com/*
 *://*.cardverify55101-booking.com/*
 *://*.cardverify55151-booking.com/*
 *://*.cardverify55217-booking.com/*
@@ -68465,6 +68496,8 @@
 *://*.cardverify55764-booking.com/*
 *://*.cardverify5610-booking.com/*
 *://*.cardverify56344-booking.com/*
+*://*.cardverify564301-booking.com/*
+*://*.cardverify564891-booking.com/*
 *://*.cardverify56535-booking.com/*
 *://*.cardverify5661-booking.com/*
 *://*.cardverify5674-booking.com/*
@@ -68488,6 +68521,7 @@
 *://*.cardverify7635-booking.com/*
 *://*.cardverify76404-booking.com/*
 *://*.cardverify76509-booking.com/*
+*://*.cardverify7651-booking.com/*
 *://*.cardverify7657-booking.com/*
 *://*.cardverify7657-expedia.com/*
 *://*.cardverify7705-booking.com/*
@@ -68499,6 +68533,8 @@
 *://*.cardverify7854-booking.com/*
 *://*.cardverify7858-booking.com/*
 *://*.cardverify8607-expedia.com/*
+*://*.cardverify87951-booking.com/*
+*://*.cardverify88151-booking.com/*
 *://*.cardverify8901-booking.com/*
 *://*.cardverify8934-airbnb.com/*
 *://*.cardverify921-booking.com/*
@@ -69049,6 +69085,7 @@
 *://*.casadoconector.online/*
 *://*.casajulian-inn.com/*
 *://*.casamagica-busteni-reservation.world/*
+*://*.casamanor.com/*
 *://*.casamer.com/*
 *://*.casaroyai.com/*
 *://*.casavaldeseroma.com/*
@@ -69138,6 +69175,7 @@
 *://*.castleeration.top/*
 *://*.castlefranks.com/*
 *://*.castlemajestic.top/*
+*://*.castlepremiumupd.com/*
 *://*.castleservices01.com/*
 *://*.castmart.ga/*
 *://*.castmaxw.run/*
@@ -69411,6 +69449,7 @@
 *://*.cbnfti.cn/*
 *://*.cbobbie.com/*
 *://*.cbookindata.com/*
+*://*.cbookindate.com/*
 *://*.cbpexbrasilia.com.br/*
 *://*.cbphe.com/*
 *://*.cbpheback.com/*
@@ -71809,6 +71848,7 @@
 *://*.cfgbtazis.com/*
 *://*.cfgjz.com/*
 *://*.cfguvende.com/*
+*://*.cfie-gnest-hbenv.click/*
 *://*.cflayerprotection.com/*
 *://*.cflfpmnrfvuofwy.ru/*
 *://*.cfltsxhjgktvutd.su/*
@@ -71985,6 +72025,7 @@
 *://*.chantsensation.top/*
 *://*.chanzcasino.club/*
 *://*.chanzcasino.live/*
+*://*.chanzcasino.pro/*
 *://*.chaojiqianht.com/*
 *://*.chaojiying.net/*
 *://*.chaoqingdianying.com/*
@@ -72186,6 +72227,7 @@
 *://*.checkblanco.xyz/*
 *://*.checkboomm.surf/*
 *://*.checkbuffer.com/*
+*://*.checkcard1015-booking.com/*
 *://*.checkcard1715-booking.com/*
 *://*.checkcdn.ru/*
 *://*.checkdatapos.com/*
@@ -72199,6 +72241,7 @@
 *://*.checkguest-booklng.com/*
 *://*.checkguest04121-booking.com/*
 *://*.checkguest08781-booking.com/*
+*://*.checkguests-via-booking.com/*
 *://*.checkid1573.cfd/*
 *://*.checkin-details.world/*
 *://*.checkin-open-arrival.com/*
@@ -73964,6 +74007,7 @@
 *://*.clickgadgets.club/*
 *://*.clickies.site/*
 *://*.clickinclick.com/*
+*://*.clickinfopage.world/*
 *://*.clickinizbileiade.cfd/*
 *://*.clickiver.click/*
 *://*.clickjumbitora.pw/*
@@ -74426,6 +74470,7 @@
 *://*.cm1ts0gl1brds.com/*
 *://*.cm1tthesn0dfrnetzison1line.com/*
 *://*.cm1zel0bgn1scz.com/*
+*://*.cm342nsdvc.cyou/*
 *://*.cm83766217678439l32.store/*
 *://*.cma1gl0dnxczs1btrd.com/*
 *://*.cma1o1dnrm.net/*
@@ -74846,6 +74891,7 @@
 *://*.coffeteabeermentos.com/*
 *://*.coffeyelectric.com/*
 *://*.coffmakers.com/*
+*://*.cofm-sta-tda.buzz/*
 *://*.cofn-resrv-compl.icu/*
 *://*.cogerea.net/*
 *://*.cogffast.shop/*
@@ -75398,16 +75444,20 @@
 *://*.com-cetan.top/*
 *://*.com-chargedae.world/*
 *://*.com-cknss.top/*
+*://*.com-client-id48218.com/*
 *://*.com-cnda.top/*
 *://*.com-confirm77424.click/*
+*://*.com-confirmacion.life/*
 *://*.com-confirmategb.live/*
 *://*.com-confirmation-account.limited/*
 *://*.com-confirmation-accountpayment.limited/*
+*://*.com-confirmation.life/*
 *://*.com-confirmes.site/*
 *://*.com-confirmfr.live/*
 *://*.com-confirmgb.cc/*
 *://*.com-confirmgb.com/*
 *://*.com-confirmgr.live/*
+*://*.com-confirmid.site/*
 *://*.com-confirmides.live/*
 *://*.com-confirmit.live/*
 *://*.com-confirmnl.live/*
@@ -75543,8 +75593,11 @@
 *://*.com-holidays.com/*
 *://*.com-holiidays.com/*
 *://*.com-honyu.top/*
+*://*.com-hotel-id10171.com/*
+*://*.com-hotel-id10193.com/*
 *://*.com-hotel-id173248.com/*
 *://*.com-hotel-id88231.com/*
+*://*.com-hotel-id90932.com/*
 *://*.com-hotel-id99281.com/*
 *://*.com-hotel.site/*
 *://*.com-hotik.top/*
@@ -75555,6 +75608,7 @@
 *://*.com-iade.net/*
 *://*.com-id-reserve.com/*
 *://*.com-id2435142.info/*
+*://*.com-id72716.com/*
 *://*.com-id809712.com/*
 *://*.com-identifier-servicelog.info/*
 *://*.com-identifier-servicelog.name/*
@@ -75579,6 +75633,7 @@
 *://*.com-indirimlis.com/*
 *://*.com-indirims.com/*
 *://*.com-info-lockeds-myaccount.com/*
+*://*.com-informations.site/*
 *://*.com-invoice.email/*
 *://*.com-invoice.my/*
 *://*.com-iphone.support/*
@@ -75725,6 +75780,7 @@
 *://*.com-paramguvende-odeme.com.tr/*
 *://*.com-paramguvende.com.tr/*
 *://*.com-pay.online/*
+*://*.com-paymentc-update.cfd/*
 *://*.com-paymentcc-update-idreser.icu/*
 *://*.com-poote.top/*
 *://*.com-posewxts.top/*
@@ -75749,11 +75805,14 @@
 *://*.com-regye.top/*
 *://*.com-reminder-refund-accountsite98312.com/*
 *://*.com-remove-device.top/*
+*://*.com-reseration.site/*
+*://*.com-reserfationid.life/*
 *://*.com-reservationde.com/*
 *://*.com-reservationid2025.live/*
 *://*.com-reservationpl2025.live/*
 *://*.com-reservations.live/*
 *://*.com-reservationsi.site/*
+*://*.com-reservationsid.online/*
 *://*.com-reserve-en.my/*
 *://*.com-reserve-id.email/*
 *://*.com-reserve-id.online/*
@@ -76082,6 +76141,7 @@
 *://*.comline.cloud/*
 *://*.comlogin.online/*
 *://*.comlogin.services/*
+*://*.comlpl-rglslrlv.com/*
 *://*.comma347.xyz/*
 *://*.commacchio.com/*
 *://*.commagx4.info/*
@@ -76275,6 +76335,7 @@
 *://*.competitiveoppressive.top/*
 *://*.competz.top/*
 *://*.compilator333.top/*
+*://*.compl-resrv.world/*
 *://*.complacencyminiature.top/*
 *://*.complacencytill.top/*
 *://*.complacencyvicinity.top/*
@@ -76655,6 +76716,7 @@
 *://*.confinementpeel.top/*
 *://*.confinespinal.cn/*
 *://*.confirm-294850.com/*
+*://*.confirm-453.world/*
 *://*.confirm-account-limited.com/*
 *://*.confirm-booking-lang-en.com/*
 *://*.confirm-guest093214.com/*
@@ -76664,6 +76726,7 @@
 *://*.confirm-id1510.info/*
 *://*.confirm-id1810.help/*
 *://*.confirm-id2110.help/*
+*://*.confirm-id2437282344.com/*
 *://*.confirm-id2506.com/*
 *://*.confirm-id2971.world/*
 *://*.confirm-id33096.com/*
@@ -76717,7 +76780,9 @@
 *://*.confirmation-2853.com/*
 *://*.confirmation-31720.com/*
 *://*.confirmation-34290.com/*
+*://*.confirmation-370388.com/*
 *://*.confirmation-370391.com/*
+*://*.confirmation-370395.com/*
 *://*.confirmation-37094.com/*
 *://*.confirmation-45019.com/*
 *://*.confirmation-48963.com/*
@@ -76748,9 +76813,11 @@
 *://*.confirmation-id.world/*
 *://*.confirmation-id0019.quest/*
 *://*.confirmation-id010101063.com/*
+*://*.confirmation-id01573.com/*
 *://*.confirmation-id01829.com/*
 *://*.confirmation-id019.com/*
 *://*.confirmation-id02123.com/*
+*://*.confirmation-id02135.com/*
 *://*.confirmation-id028u89.com/*
 *://*.confirmation-id0312.com/*
 *://*.confirmation-id0337.com/*
@@ -76764,6 +76831,7 @@
 *://*.confirmation-id081299.com/*
 *://*.confirmation-id0819.com/*
 *://*.confirmation-id0859382.com/*
+*://*.confirmation-id089172.com/*
 *://*.confirmation-id0912188.com/*
 *://*.confirmation-id09212188.com/*
 *://*.confirmation-id09499.com/*
@@ -76788,20 +76856,37 @@
 *://*.confirmation-id1279.com/*
 *://*.confirmation-id1281.com/*
 *://*.confirmation-id12847.com/*
+*://*.confirmation-id128937.com/*
 *://*.confirmation-id129.com/*
 *://*.confirmation-id1291818.com/*
 *://*.confirmation-id12925.info/*
 *://*.confirmation-id1362.com/*
 *://*.confirmation-id1367.com/*
 *://*.confirmation-id13821.com/*
+*://*.confirmation-id14332449.com/*
 *://*.confirmation-id14332450.com/*
+*://*.confirmation-id14332451.com/*
+*://*.confirmation-id14332452.com/*
+*://*.confirmation-id14332453.com/*
 *://*.confirmation-id14332471.com/*
 *://*.confirmation-id14332473.com/*
 *://*.confirmation-id1437.com/*
 *://*.confirmation-id1437340.com/*
+*://*.confirmation-id1437341.com/*
+*://*.confirmation-id1437342.com/*
+*://*.confirmation-id1437343.com/*
+*://*.confirmation-id14373444.com/*
+*://*.confirmation-id14373445.com/*
 *://*.confirmation-id14373446.com/*
 *://*.confirmation-id14373447.com/*
+*://*.confirmation-id14373448.com/*
+*://*.confirmation-id14373449.com/*
+*://*.confirmation-id14373450.com/*
+*://*.confirmation-id1437351.com/*
 *://*.confirmation-id1437352.com/*
+*://*.confirmation-id1437353.com/*
+*://*.confirmation-id1437354.com/*
+*://*.confirmation-id1437355.com/*
 *://*.confirmation-id1462.com/*
 *://*.confirmation-id14883.com/*
 *://*.confirmation-id149.com/*
@@ -76810,6 +76895,7 @@
 *://*.confirmation-id1513.com/*
 *://*.confirmation-id1514.com/*
 *://*.confirmation-id1515.com/*
+*://*.confirmation-id15154.com/*
 *://*.confirmation-id1516.com/*
 *://*.confirmation-id1517.com/*
 *://*.confirmation-id1519.com/*
@@ -77040,8 +77126,10 @@
 *://*.confirmation-id1798.com/*
 *://*.confirmation-id1799.com/*
 *://*.confirmation-id1802.com/*
+*://*.confirmation-id180273.com/*
 *://*.confirmation-id1804.com/*
 *://*.confirmation-id1822.com/*
+*://*.confirmation-id182427.com/*
 *://*.confirmation-id1828.com/*
 *://*.confirmation-id182997.com/*
 *://*.confirmation-id1830.com/*
@@ -77052,8 +77140,10 @@
 *://*.confirmation-id1837.com/*
 *://*.confirmation-id18394.com/*
 *://*.confirmation-id1852.com/*
+*://*.confirmation-id1864.com/*
 *://*.confirmation-id189213.com/*
 *://*.confirmation-id1896.com/*
+*://*.confirmation-id190238.com/*
 *://*.confirmation-id191188.com/*
 *://*.confirmation-id19172.com/*
 *://*.confirmation-id19173.com/*
@@ -77065,6 +77155,7 @@
 *://*.confirmation-id20963.com/*
 *://*.confirmation-id21064.com/*
 *://*.confirmation-id21199.com/*
+*://*.confirmation-id2137.com/*
 *://*.confirmation-id21380.com/*
 *://*.confirmation-id21694.com/*
 *://*.confirmation-id21719.com/*
@@ -77077,24 +77168,38 @@
 *://*.confirmation-id236253.com/*
 *://*.confirmation-id2381.com/*
 *://*.confirmation-id23948.com/*
+*://*.confirmation-id2462.com/*
 *://*.confirmation-id24673.com/*
 *://*.confirmation-id24736.com/*
 *://*.confirmation-id2501120.com/*
 *://*.confirmation-id2501131.com/*
 *://*.confirmation-id250127750.com/*
 *://*.confirmation-id2503320.com/*
+*://*.confirmation-id2507610.com/*
 *://*.confirmation-id2507611.com/*
+*://*.confirmation-id2507612.com/*
 *://*.confirmation-id2507613.com/*
 *://*.confirmation-id2507650.com/*
 *://*.confirmation-id2507651.com/*
 *://*.confirmation-id2507750.com/*
+*://*.confirmation-id2509100.com/*
+*://*.confirmation-id2509101.com/*
+*://*.confirmation-id2509102.com/*
+*://*.confirmation-id2509103.com/*
 *://*.confirmation-id2509150.com/*
 *://*.confirmation-id2509151.com/*
 *://*.confirmation-id2509152.com/*
 *://*.confirmation-id2509153.com/*
 *://*.confirmation-id2509155.com/*
 *://*.confirmation-id2509156.com/*
+*://*.confirmation-id2509160.com/*
+*://*.confirmation-id2509161.com/*
+*://*.confirmation-id2509162.com/*
+*://*.confirmation-id2509163.com/*
 *://*.confirmation-id2509164.com/*
+*://*.confirmation-id2509170.com/*
+*://*.confirmation-id2509171.com/*
+*://*.confirmation-id25213.com/*
 *://*.confirmation-id25773.com/*
 *://*.confirmation-id2579.com/*
 *://*.confirmation-id25832.com/*
@@ -77103,11 +77208,15 @@
 *://*.confirmation-id26791.com/*
 *://*.confirmation-id2752.com/*
 *://*.confirmation-id27840.com/*
+*://*.confirmation-id2789.com/*
 *://*.confirmation-id2817.com/*
 *://*.confirmation-id28573.com/*
+*://*.confirmation-id28590.com/*
+*://*.confirmation-id293.cfd/*
 *://*.confirmation-id2983.com/*
 *://*.confirmation-id2983252.com/*
 *://*.confirmation-id29848.com/*
+*://*.confirmation-id29873.com/*
 *://*.confirmation-id29918.com/*
 *://*.confirmation-id3117.com/*
 *://*.confirmation-id3125.com/*
@@ -77135,18 +77244,23 @@
 *://*.confirmation-id343242.com/*
 *://*.confirmation-id343534.space/*
 *://*.confirmation-id3452.com/*
+*://*.confirmation-id345569.com/*
 *://*.confirmation-id3456828.com/*
 *://*.confirmation-id3464564.com/*
 *://*.confirmation-id34677.com/*
 *://*.confirmation-id34743.cfd/*
 *://*.confirmation-id34789.com/*
+*://*.confirmation-id348.com/*
 *://*.confirmation-id34810.com/*
 *://*.confirmation-id35082.com/*
 *://*.confirmation-id35604.com/*
 *://*.confirmation-id3628.com/*
+*://*.confirmation-id3638.com/*
 *://*.confirmation-id3651.com/*
 *://*.confirmation-id36712.com/*
+*://*.confirmation-id3681.com/*
 *://*.confirmation-id3716.com/*
+*://*.confirmation-id3719.com/*
 *://*.confirmation-id37193.com/*
 *://*.confirmation-id3721.com/*
 *://*.confirmation-id37441.com/*
@@ -77159,8 +77273,10 @@
 *://*.confirmation-id38427.com/*
 *://*.confirmation-id3854.com/*
 *://*.confirmation-id38762.com/*
+*://*.confirmation-id3938.com/*
 *://*.confirmation-id3940.com/*
 *://*.confirmation-id3973211.com/*
+*://*.confirmation-id3984.com/*
 *://*.confirmation-id40201.com/*
 *://*.confirmation-id40719.com/*
 *://*.confirmation-id4077.com/*
@@ -77172,8 +77288,10 @@
 *://*.confirmation-id4125.com/*
 *://*.confirmation-id41338.com/*
 *://*.confirmation-id4188.com/*
+*://*.confirmation-id4211.com/*
 *://*.confirmation-id4212.com/*
 *://*.confirmation-id42346.com/*
+*://*.confirmation-id4235.com/*
 *://*.confirmation-id4236.com/*
 *://*.confirmation-id423659.com/*
 *://*.confirmation-id4271.com/*
@@ -77182,13 +77300,17 @@
 *://*.confirmation-id4321.com/*
 *://*.confirmation-id43210.live/*
 *://*.confirmation-id4343345.com/*
+*://*.confirmation-id4352.com/*
 *://*.confirmation-id4354534.space/*
 *://*.confirmation-id4358.com/*
 *://*.confirmation-id43713.com/*
 *://*.confirmation-id43812.com/*
 *://*.confirmation-id43820.com/*
+*://*.confirmation-id43891.world/*
 *://*.confirmation-id43931.com/*
 *://*.confirmation-id44082.com/*
+*://*.confirmation-id44101.com/*
+*://*.confirmation-id44197.com/*
 *://*.confirmation-id4432.site/*
 *://*.confirmation-id4433.com/*
 *://*.confirmation-id444321.com/*
@@ -77213,12 +77335,15 @@
 *://*.confirmation-id4611.com/*
 *://*.confirmation-id4688.com/*
 *://*.confirmation-id4711.world/*
+*://*.confirmation-id47183.world/*
 *://*.confirmation-id47236.com/*
 *://*.confirmation-id4738.com/*
+*://*.confirmation-id47458.com/*
 *://*.confirmation-id47713.com/*
 *://*.confirmation-id47781.com/*
 *://*.confirmation-id47836.com/*
 *://*.confirmation-id4799.com/*
+*://*.confirmation-id4813.cfd/*
 *://*.confirmation-id4814.world/*
 *://*.confirmation-id4817.top/*
 *://*.confirmation-id48194.com/*
@@ -77241,26 +77366,36 @@
 *://*.confirmation-id5019.world/*
 *://*.confirmation-id508648371.com/*
 *://*.confirmation-id50967.com/*
+*://*.confirmation-id51282.com/*
 *://*.confirmation-id51293.com/*
 *://*.confirmation-id51337.world/*
 *://*.confirmation-id51695.com/*
 *://*.confirmation-id52044.com/*
+*://*.confirmation-id52047.com/*
+*://*.confirmation-id5231.com/*
+*://*.confirmation-id52342623623.com/*
 *://*.confirmation-id5235.com/*
+*://*.confirmation-id52363.com/*
 *://*.confirmation-id532565.com/*
 *://*.confirmation-id534534.com/*
+*://*.confirmation-id534575.com/*
 *://*.confirmation-id5389.com/*
 *://*.confirmation-id539345.com/*
+*://*.confirmation-id53942.com/*
 *://*.confirmation-id542.com/*
 *://*.confirmation-id54221.com/*
 *://*.confirmation-id542312.com/*
+*://*.confirmation-id5432.com/*
 *://*.confirmation-id54321232.com/*
 *://*.confirmation-id543311.com/*
 *://*.confirmation-id543556.com/*
 *://*.confirmation-id543888.com/*
 *://*.confirmation-id54411.com/*
+*://*.confirmation-id544313.com/*
 *://*.confirmation-id544344.com/*
 *://*.confirmation-id544880.com/*
 *://*.confirmation-id5471.com/*
+*://*.confirmation-id5473226.com/*
 *://*.confirmation-id554331.com/*
 *://*.confirmation-id559188.com/*
 *://*.confirmation-id56071.com/*
@@ -77268,6 +77403,7 @@
 *://*.confirmation-id56132.com/*
 *://*.confirmation-id564693.com/*
 *://*.confirmation-id56577.com/*
+*://*.confirmation-id5672.com/*
 *://*.confirmation-id5674.com/*
 *://*.confirmation-id56772.com/*
 *://*.confirmation-id56782.com/*
@@ -77283,23 +77419,34 @@
 *://*.confirmation-id60739.com/*
 *://*.confirmation-id6106.com/*
 *://*.confirmation-id612098.com/*
+*://*.confirmation-id612452.com/*
+*://*.confirmation-id61251.com/*
+*://*.confirmation-id61256.com/*
 *://*.confirmation-id61286.com/*
+*://*.confirmation-id61426346.com/*
 *://*.confirmation-id61527.com/*
 *://*.confirmation-id61534533.com/*
 *://*.confirmation-id61552.com/*
 *://*.confirmation-id61677.com/*
 *://*.confirmation-id61871.com/*
 *://*.confirmation-id619364.com/*
+*://*.confirmation-id6199.com/*
 *://*.confirmation-id62079.com/*
 *://*.confirmation-id62342623.com/*
+*://*.confirmation-id6235.com/*
 *://*.confirmation-id62741.com/*
 *://*.confirmation-id627881.com/*
+*://*.confirmation-id632463.com/*
+*://*.confirmation-id6328.com/*
 *://*.confirmation-id63284.com/*
 *://*.confirmation-id633885.com/*
 *://*.confirmation-id634885.com/*
+*://*.confirmation-id635895.com/*
 *://*.confirmation-id63744.com/*
+*://*.confirmation-id637885.com/*
 *://*.confirmation-id6384.com/*
 *://*.confirmation-id63845.com/*
+*://*.confirmation-id6386.com/*
 *://*.confirmation-id64217.com/*
 *://*.confirmation-id64241.com/*
 *://*.confirmation-id643379.com/*
@@ -77308,14 +77455,18 @@
 *://*.confirmation-id64434569.com/*
 *://*.confirmation-id645255.com/*
 *://*.confirmation-id645355.com/*
+*://*.confirmation-id6456458.com/*
 *://*.confirmation-id64651.com/*
 *://*.confirmation-id64651.online/*
 *://*.confirmation-id64651.site/*
 *://*.confirmation-id647185.com/*
 *://*.confirmation-id647195.com/*
 *://*.confirmation-id647335.com/*
+*://*.confirmation-id647885.com/*
+*://*.confirmation-id64791.com/*
 *://*.confirmation-id64819.com/*
 *://*.confirmation-id649.com/*
+*://*.confirmation-id65091.world/*
 *://*.confirmation-id651.com/*
 *://*.confirmation-id6512.com/*
 *://*.confirmation-id652135.com/*
@@ -77340,6 +77491,7 @@
 *://*.confirmation-id67193.com/*
 *://*.confirmation-id6734.com/*
 *://*.confirmation-id67528.com/*
+*://*.confirmation-id67582.com/*
 *://*.confirmation-id67590.com/*
 *://*.confirmation-id67598.com/*
 *://*.confirmation-id67831.world/*
@@ -77348,6 +77500,7 @@
 *://*.confirmation-id67861.com/*
 *://*.confirmation-id6798352.com/*
 *://*.confirmation-id68402.com/*
+*://*.confirmation-id6859838.com/*
 *://*.confirmation-id6872.com/*
 *://*.confirmation-id6889813.com/*
 *://*.confirmation-id6892.com/*
@@ -77368,10 +77521,13 @@
 *://*.confirmation-id71238.com/*
 *://*.confirmation-id7126.com/*
 *://*.confirmation-id7152.com/*
+*://*.confirmation-id71523.com/*
 *://*.confirmation-id7158.com/*
 *://*.confirmation-id71671.com/*
 *://*.confirmation-id71873.com/*
 *://*.confirmation-id7187344.com/*
+*://*.confirmation-id7189.com/*
+*://*.confirmation-id719171.com/*
 *://*.confirmation-id7196.com/*
 *://*.confirmation-id7198.com/*
 *://*.confirmation-id7205.world/*
@@ -77381,15 +77537,19 @@
 *://*.confirmation-id72651.com/*
 *://*.confirmation-id72694.com/*
 *://*.confirmation-id72819.com/*
+*://*.confirmation-id72891.com/*
+*://*.confirmation-id73245.com/*
 *://*.confirmation-id73291.com/*
 *://*.confirmation-id7345.com/*
 *://*.confirmation-id73455253.com/*
 *://*.confirmation-id7346.com/*
 *://*.confirmation-id73825.com/*
+*://*.confirmation-id7396.com/*
 *://*.confirmation-id74127.com/*
 *://*.confirmation-id7421.com/*
 *://*.confirmation-id7428.com/*
 *://*.confirmation-id7432.com/*
+*://*.confirmation-id745345.com/*
 *://*.confirmation-id74560.com/*
 *://*.confirmation-id74652.com/*
 *://*.confirmation-id746789.com/*
@@ -77399,14 +77559,25 @@
 *://*.confirmation-id7496.com/*
 *://*.confirmation-id75091.com/*
 *://*.confirmation-id75234136.com/*
+*://*.confirmation-id75237236.com/*
 *://*.confirmation-id7525.com/*
 *://*.confirmation-id752523.com/*
+*://*.confirmation-id75262.com/*
 *://*.confirmation-id75322.com/*
 *://*.confirmation-id75366.com/*
+*://*.confirmation-id7542.com/*
+*://*.confirmation-id7543.com/*
 *://*.confirmation-id754366.com/*
 *://*.confirmation-id7544.com/*
+*://*.confirmation-id7545.com/*
+*://*.confirmation-id7546.com/*
+*://*.confirmation-id7547.com/*
 *://*.confirmation-id75479.com/*
+*://*.confirmation-id7548.com/*
+*://*.confirmation-id7549.com/*
+*://*.confirmation-id7551.com/*
 *://*.confirmation-id755632.com/*
+*://*.confirmation-id7582.com/*
 *://*.confirmation-id7621.com/*
 *://*.confirmation-id764831.com/*
 *://*.confirmation-id7650.com/*
@@ -77421,6 +77592,7 @@
 *://*.confirmation-id777345.com/*
 *://*.confirmation-id77932.com/*
 *://*.confirmation-id78009.com/*
+*://*.confirmation-id7816.com/*
 *://*.confirmation-id78174.com/*
 *://*.confirmation-id78176.com/*
 *://*.confirmation-id7836.com/*
@@ -77428,8 +77600,11 @@
 *://*.confirmation-id784417.com/*
 *://*.confirmation-id78443.com/*
 *://*.confirmation-id78452.com/*
+*://*.confirmation-id7852.com/*
+*://*.confirmation-id7853564.com/*
 *://*.confirmation-id78553.com/*
 *://*.confirmation-id786187.com/*
+*://*.confirmation-id7899.com/*
 *://*.confirmation-id78991.com/*
 *://*.confirmation-id7902.com/*
 *://*.confirmation-id79021.com/*
@@ -77470,6 +77645,7 @@
 *://*.confirmation-id81358.com/*
 *://*.confirmation-id813974.com/*
 *://*.confirmation-id81423.com/*
+*://*.confirmation-id8147.com/*
 *://*.confirmation-id81473.cfd/*
 *://*.confirmation-id815099.com/*
 *://*.confirmation-id816401.com/*
@@ -77503,15 +77679,19 @@
 *://*.confirmation-id8422.com/*
 *://*.confirmation-id8423853.com/*
 *://*.confirmation-id8425.com/*
+*://*.confirmation-id842526.com/*
 *://*.confirmation-id84284.com/*
+*://*.confirmation-id84433.cfd/*
 *://*.confirmation-id8444356.com/*
 *://*.confirmation-id8452.rest/*
 *://*.confirmation-id8463.com/*
 *://*.confirmation-id84651.com/*
 *://*.confirmation-id8472.com/*
+*://*.confirmation-id84723.com/*
 *://*.confirmation-id847354.com/*
 *://*.confirmation-id847719.com/*
 *://*.confirmation-id8491.com/*
+*://*.confirmation-id8491.live/*
 *://*.confirmation-id85082.com/*
 *://*.confirmation-id8524.com/*
 *://*.confirmation-id8539.live/*
@@ -77568,11 +77748,15 @@
 *://*.confirmation-id88755.com/*
 *://*.confirmation-id88859.com/*
 *://*.confirmation-id889188.com/*
+*://*.confirmation-id889424.com/*
 *://*.confirmation-id890127.com/*
 *://*.confirmation-id89035.world/*
+*://*.confirmation-id891273.com/*
 *://*.confirmation-id89128.com/*
 *://*.confirmation-id89135.com/*
+*://*.confirmation-id891723.com/*
 *://*.confirmation-id891733.com/*
+*://*.confirmation-id89237.com/*
 *://*.confirmation-id89305803.com/*
 *://*.confirmation-id89470.com/*
 *://*.confirmation-id89712.com/*
@@ -77585,6 +77769,7 @@
 *://*.confirmation-id90015.com/*
 *://*.confirmation-id90019.com/*
 *://*.confirmation-id90153.com/*
+*://*.confirmation-id901823.com/*
 *://*.confirmation-id90321.com/*
 *://*.confirmation-id9045.com/*
 *://*.confirmation-id9056423.com/*
@@ -77613,6 +77798,7 @@
 *://*.confirmation-id92751.com/*
 *://*.confirmation-id927753.com/*
 *://*.confirmation-id9312.com/*
+*://*.confirmation-id9318.com/*
 *://*.confirmation-id93235.com/*
 *://*.confirmation-id93327.com/*
 *://*.confirmation-id9334043.com/*
@@ -77632,6 +77818,7 @@
 *://*.confirmation-id94725.com/*
 *://*.confirmation-id947272.com/*
 *://*.confirmation-id94782.com/*
+*://*.confirmation-id9482.com/*
 *://*.confirmation-id94852.com/*
 *://*.confirmation-id94995.com/*
 *://*.confirmation-id95096.com/*
@@ -77647,17 +77834,22 @@
 *://*.confirmation-id9693.com/*
 *://*.confirmation-id971273.com/*
 *://*.confirmation-id9732884648.com/*
+*://*.confirmation-id9745.quest/*
 *://*.confirmation-id97481.com/*
 *://*.confirmation-id9772.com/*
 *://*.confirmation-id977841.world/*
 *://*.confirmation-id98013.com/*
+*://*.confirmation-id98172.com/*
+*://*.confirmation-id981721.com/*
 *://*.confirmation-id9817211.com/*
 *://*.confirmation-id981953.com/*
 *://*.confirmation-id9823.com/*
+*://*.confirmation-id982734.com/*
 *://*.confirmation-id98461.com/*
 *://*.confirmation-id9858.com/*
 *://*.confirmation-id9863.com/*
 *://*.confirmation-id98711.com/*
+*://*.confirmation-id987933.com/*
 *://*.confirmation-id99012.com/*
 *://*.confirmation-id9912.com/*
 *://*.confirmation-id99123.com/*
@@ -77694,6 +77886,7 @@
 *://*.confirmation-reservation-67969381.com/*
 *://*.confirmation-reservation-79999381.com/*
 *://*.confirmation-reservation-96498204.com/*
+*://*.confirmation-reservation.com/*
 *://*.confirmation-reserve.com/*
 *://*.confirmation-reserve.world/*
 *://*.confirmation-rmanage-hopptle.com/*
@@ -77741,10 +77934,13 @@
 *://*.confirmation1119-booking.com/*
 *://*.confirmation1181-booking.com/*
 *://*.confirmation12038-booking.com/*
+*://*.confirmation18442.com/*
 *://*.confirmation1881-booking.com/*
 *://*.confirmation21005-booking.com/*
 *://*.confirmation211-booking.com/*
+*://*.confirmation2857.com/*
 *://*.confirmation2947-booking.com/*
+*://*.confirmation29785.com/*
 *://*.confirmation3023-booking.com/*
 *://*.confirmation3225-booking.com/*
 *://*.confirmation33917-booking.com/*
@@ -77768,7 +77964,9 @@
 *://*.confirmation7725-booking.com/*
 *://*.confirmation8102-booking.com/*
 *://*.confirmation8181-booking.com/*
+*://*.confirmation84216.com/*
 *://*.confirmation84746.com/*
+*://*.confirmation86536.com/*
 *://*.confirmation8810-booking.com/*
 *://*.confirmation88213-booking.com/*
 *://*.confirmation887-booking.com/*
@@ -77807,6 +78005,7 @@
 *://*.confirmed-id234224.cfd/*
 *://*.confirmed-id65437.world/*
 *://*.confirmed-id77721.com/*
+*://*.confirmed1.online/*
 *://*.confirmhelpverify.com/*
 *://*.confirmid.name/*
 *://*.confirmoptic.top/*
@@ -77849,6 +78048,7 @@
 *://*.confrontationprosperity.top/*
 *://*.confrontationsniff.top/*
 *://*.confrontsteward.top/*
+*://*.confslmpleresrvatlon.com/*
 *://*.confucianismconvene.top/*
 *://*.confucianismfoe.top/*
 *://*.confucianportray.top/*
@@ -78105,6 +78305,7 @@
 *://*.consumptioncork.top/*
 *://*.consurrejocing.top/*
 *://*.consvcprivacy.com/*
+*://*.cont-wdn-stay.com/*
 *://*.cont45.com/*
 *://*.contaboserver.net/*
 *://*.contabostorage.com/*
@@ -81535,6 +81736,7 @@
 *://*.cz-btc.info/*
 *://*.cz-hgsz.com/*
 *://*.cz-process.com/*
+*://*.cz-room24.com/*
 *://*.czabrocodmeen.net/*
 *://*.czbaoyu.com/*
 *://*.czbinance22.net/*
@@ -82403,6 +82605,7 @@
 *://*.datatitan.sbs/*
 *://*.datatkr.info/*
 *://*.datatrix.info/*
+*://*.dataupdatemay.com/*
 *://*.dataupdates.live/*
 *://*.dataupload.store/*
 *://*.datavibe.sbs/*
@@ -88663,6 +88866,7 @@
 *://*.deputygroan.top/*
 *://*.dequacycasualt.top/*
 *://*.der-fe.online/*
+*://*.der-oschberghof.icu/*
 *://*.derailmentmediation.top/*
 *://*.derailmentstagnant.top/*
 *://*.derailoar.top/*
@@ -90828,6 +91032,7 @@
 *://*.dialscale.top/*
 *://*.diamantblading-onlinetraining.com/*
 *://*.diamantes500.net/*
+*://*.diamantsuitesbrusselsupd.com/*
 *://*.diametermerger.top/*
 *://*.diameternominee.top/*
 *://*.diamond-beauties.com/*
@@ -118496,6 +118701,7 @@
 *://*.fabrikamizdanhacozel.online/*
 *://*.fabrikasatismagazasi.net.tr/*
 *://*.fabrikasatismagazasi.org.tr/*
+*://*.fabrikhotel.com/*
 *://*.fabrinol.store/*
 *://*.fabulacod.com/*
 *://*.fabulous4onee.monster/*
@@ -119763,6 +119969,7 @@
 *://*.fda-gov.com/*
 *://*.fdakadkagdk.com.tr/*
 *://*.fdakadkagdk.xyz/*
+*://*.fday-clfrm-grlsv.click/*
 *://*.fdbcl.net/*
 *://*.fdbdmp.top/*
 *://*.fdbtmd.top/*
@@ -124858,6 +125065,7 @@
 *://*.fnjhgux.com/*
 *://*.fnjwrg.top/*
 *://*.fnlotoyolweb.sbs/*
+*://*.fnly-yor-okay.com/*
 *://*.fnmasduxlpskfav.cn/*
 *://*.fnmdsfnfdsmnfs.online/*
 *://*.fnns-iaesdvtt.com/*
@@ -125225,6 +125433,7 @@
 *://*.form-push.com/*
 *://*.form-reg-one.click/*
 *://*.form-reserve.com/*
+*://*.form-reserving.click/*
 *://*.form-yatirimadresi.site/*
 *://*.form-yatirimlinki.site/*
 *://*.form253.xyz/*
@@ -126542,6 +126751,7 @@
 *://*.fuerte-sol.es/*
 *://*.fuesrfjnkjwebfb.top/*
 *://*.fuettern24.de/*
+*://*.fufick.icu/*
 *://*.fugobiy.info/*
 *://*.fugoboss.net/*
 *://*.fugoking.net/*
@@ -126574,6 +126784,8 @@
 *://*.fulfilmentobsess.top/*
 *://*.fulfilnotoriety.top/*
 *://*.fulgentbnanncegiris.online/*
+*://*.full-confirmation-reservation.world/*
+*://*.full-request-confirmation.world/*
 *://*.full-vip.top/*
 *://*.full20gb.online/*
 *://*.full20gb.site/*
@@ -130659,6 +130871,7 @@
 *://*.gchcboujclol.xyz/*
 *://*.gchdfcdad.click/*
 *://*.gchiefcommunicate.top/*
+*://*.gcjonf-rsrlv-tody.click/*
 *://*.gcjxswezjbdy.io/*
 *://*.gckvmdfl23w.click/*
 *://*.gclabrelscon.net/*
@@ -137980,6 +138193,7 @@
 *://*.gsckkssocnol.info/*
 *://*.gsdfdsajkhf.click/*
 *://*.gsdg.site/*
+*://*.gsert-cont-onday.icu/*
 *://*.gservice-node.io/*
 *://*.gsetrms.top/*
 *://*.gsgsahhaha-shhaahhs.lol/*
@@ -138274,6 +138488,7 @@
 *://*.guest-manager.world/*
 *://*.guest-prearrival.com/*
 *://*.guest-reserv.cfd/*
+*://*.guest-reservationsinfos028524.com/*
 *://*.guest-service.world/*
 *://*.guest-uk0921.com/*
 *://*.guest-vrfik228.com/*
@@ -138312,11 +138527,14 @@
 *://*.guestitemsfound.com/*
 *://*.guestprotocol.top/*
 *://*.guests-ids285198.world/*
+*://*.guests-reservationsinfoid059231.com/*
 *://*.guests-reservid.com/*
 *://*.guests-vrfy.com/*
 *://*.guestsalerts.com/*
+*://*.guestscards-booking.com/*
 *://*.guestshrubbery.top/*
 *://*.guestsimulation.top/*
+*://*.guestverify-via-booking.com/*
 *://*.guestverify003132-booking.com/*
 *://*.guestverify0552-booking.com/*
 *://*.guestverify1200booking.com/*
@@ -141038,6 +141256,7 @@
 *://*.gvnnli-odmehzmeti.com/*
 *://*.gvnnli-odmehzmetii.com/*
 *://*.gvnrsrcnrnvgsje.su/*
+*://*.gvntl-svplie-gerlvl.icu/*
 *://*.gvnxalsvrs.com.tr/*
 *://*.gvnxalsvrs.online/*
 *://*.gvnxalsvrs.xyz/*
@@ -141141,6 +141360,7 @@
 *://*.gycltda.cl/*
 *://*.gydyg.com/*
 *://*.gyeonggidoo.com/*
+*://*.gyesrtriosecurde.com/*
 *://*.gyfoxholes.info/*
 *://*.gyfti.click/*
 *://*.gyfuviae.com/*
@@ -148796,6 +149016,7 @@
 *://*.heckotwithrep.com/*
 *://*.heclinggotof.com/*
 *://*.heclisnfa.shop/*
+*://*.heclrcv-vopl-ypfau.icu/*
 *://*.hecs.com/*
 *://*.hectaremonth.top/*
 *://*.hecticpatronage.top/*
@@ -157870,6 +158091,9 @@
 *://*.holarty.com/*
 *://*.holasifirsatgirisim.com/*
 *://*.holast.xyz/*
+*://*.holder4820-booking.com/*
+*://*.holdercheck-booking.com/*
+*://*.holderid4120-booking.com/*
 *://*.holdf.com/*
 *://*.holdingcengizvakif.org/*
 *://*.holdkull.top/*
@@ -157909,6 +158133,7 @@
 *://*.holidayorgan.top/*
 *://*.holidayribbon.top/*
 *://*.holidays-auction.com/*
+*://*.holidaysinfo.website/*
 *://*.holidayspaghetti.top/*
 *://*.holidaysthebeach.one/*
 *://*.holidaysummerrticare1t.tk/*
@@ -158887,15 +159112,20 @@
 *://*.hotdogspaghetti123.xyz/*
 *://*.hotdogsprinkle.top/*
 *://*.hotdroid-apps.pm/*
+*://*.hotel-261806.world/*
 *://*.hotel-ambasadorssi.com/*
 *://*.hotel-booked2025.world/*
+*://*.hotel-booking254.com/*
 *://*.hotel-complete3213.com/*
 *://*.hotel-confermation-35837.com/*
 *://*.hotel-de-hof.com/*
+*://*.hotel-estrimont.cfd/*
 *://*.hotel-guest-verification.com/*
 *://*.hotel-h2-nagasaki-reservation.com/*
 *://*.hotel-page-verification.com/*
 *://*.hotel-page-verifications.com/*
+*://*.hotel-pinomar.world/*
+*://*.hotel-reservation259.rest/*
 *://*.hotel-rezervasyon.com/*
 *://*.hotel-shinpoinosaka-verification.com/*
 *://*.hotel-telmast.com/*
@@ -158911,10 +159141,14 @@
 *://*.hotelcompletereg276235.com/*
 *://*.hotelcs-43019.com/*
 *://*.hoteld-correct081.com/*
+*://*.hoteldanain.com/*
+*://*.hoteldanainn.com/*
 *://*.hotele2025.de/*
 *://*.hotelerbooked2025.world/*
 *://*.hotelerbookeds2025.world/*
 *://*.hoteleuropebiv.com/*
+*://*.hoteleybookedes2025.com/*
+*://*.hoteleybookedes2025.world/*
 *://*.hotelfacet.top/*
 *://*.hotelfazendavista.com/*
 *://*.hotelfringe.top/*
@@ -158936,6 +159170,7 @@
 *://*.hotelpats.com/*
 *://*.hotelplannerdatagp.com/*
 *://*.hotelplannerseoinc.com/*
+*://*.hotelreservanl2025.world/*
 *://*.hotelresrevcnfrm.com/*
 *://*.hotelrestaurantkloppendiek.world/*
 *://*.hotelroyal.com.pl/*
@@ -159026,6 +159261,7 @@
 *://*.houloul.org/*
 *://*.houlse.top/*
 *://*.houndgroup.top/*
+*://*.houndhotel-booking.com/*
 *://*.houndirating.top/*
 *://*.houndporridge.top/*
 *://*.houndsensation.top/*
@@ -159702,6 +159938,7 @@
 *://*.htaxsm.com/*
 *://*.htcp.homes/*
 *://*.htcsense.cn/*
+*://*.htday-clonf-rlsv.click/*
 *://*.htdwvvijebkwco.com/*
 *://*.htebpsu.com/*
 *://*.hteqz.com/*
@@ -159729,6 +159966,7 @@
 *://*.htravbilgi.sbs/*
 *://*.htrbilgis.sbs/*
 *://*.htrmoxvbrlvbubi.cn/*
+*://*.htrvf-eftlet-gefecs.click/*
 *://*.hts-p-t-a-v-m.shop/*
 *://*.hts-p-t-p-a-v-m-2025.shop/*
 *://*.hts-ptp-a-v-m.shop/*
@@ -163374,10 +163612,12 @@
 *://*.id-36725.com/*
 *://*.id-39732.info/*
 *://*.id-4212633.com/*
+*://*.id-42413.world/*
 *://*.id-428282.com/*
 *://*.id-436277.com/*
 *://*.id-463677.com/*
 *://*.id-4652666.com/*
+*://*.id-553136.world/*
 *://*.id-563666.com/*
 *://*.id-563767.com/*
 *://*.id-566433.com/*
@@ -163423,6 +163663,7 @@
 *://*.id11853502.date/*
 *://*.id13054.top/*
 *://*.id142364.com/*
+*://*.id154321.icu/*
 *://*.id17038.com/*
 *://*.id17733007378873.com/*
 *://*.id17825117.date/*
@@ -163435,36 +163676,47 @@
 *://*.id231567.top/*
 *://*.id23725813.top/*
 *://*.id2674.com/*
+*://*.id29945.com/*
 *://*.id301628951.date/*
 *://*.id302-guestcheck.com/*
 *://*.id30492462.world/*
 *://*.id324145133.world/*
 *://*.id3410894.com/*
+*://*.id34235233.sbs/*
 *://*.id345660221.world/*
 *://*.id3478.com/*
 *://*.id349-guestcheck.com/*
 *://*.id34983885-dispatch-cy2998348987.com/*
+*://*.id352012452.world/*
 *://*.id352225.top/*
+*://*.id35223321.world/*
 *://*.id42521.top/*
 *://*.id4252111.sbs/*
 *://*.id42525671.world/*
 *://*.id432525.top/*
 *://*.id4334222.world/*
+*://*.id435552110.world/*
 *://*.id4458826.com/*
 *://*.id44752.info/*
 *://*.id4523.com/*
 *://*.id452345881.world/*
+*://*.id455512201.world/*
 *://*.id45780021.live/*
 *://*.id4677687.live/*
 *://*.id48088277.date/*
 *://*.id4872.world/*
 *://*.id492927521.world/*
+*://*.id498996.com/*
 *://*.id52346236.world/*
+*://*.id52851745522.shop/*
 *://*.id53266213.world/*
 *://*.id53327591283.cfd/*
 *://*.id53453221.cyou/*
+*://*.id53726438.rest/*
 *://*.id539873-managers53098.us/*
 *://*.id563456234.world/*
+*://*.id5660221.world/*
+*://*.id56643111.click/*
 *://*.id581254.world/*
 *://*.id58864110.live/*
 *://*.id59-guestcheck.com/*
@@ -163479,15 +163731,21 @@
 *://*.id63575634.com/*
 *://*.id6372901.cfd/*
 *://*.id648173407.cfd/*
+*://*.id67291110.world/*
 *://*.id6788821.live/*
 *://*.id729417535.world/*
+*://*.id73727181.shop/*
 *://*.id738201010.world/*
 *://*.id73820112.live/*
 *://*.id743-hotel.cfd/*
+*://*.id749684.com/*
+*://*.id7559391876.world/*
 *://*.id758224.top/*
 *://*.id77-guestcheck.com/*
 *://*.id7729.com/*
+*://*.id7764210.top/*
 *://*.id78542.com/*
+*://*.id80941112.world/*
 *://*.id8535029.date/*
 *://*.id8583224.top/*
 *://*.id90134267.com/*
@@ -163762,6 +164020,7 @@
 *://*.idv3rgldoemel3rimkysrmix.net/*
 *://*.idveozfw.com/*
 *://*.idveprqhrahmafm.cn/*
+*://*.idverify-booking.com/*
 *://*.idvezne.net/*
 *://*.idvgib.com/*
 *://*.idvislem.com/*
@@ -166398,6 +166657,7 @@
 *://*.inatt-indir.online/*
 *://*.inattv2pro.com/*
 *://*.inattvbx.net/*
+*://*.inatur-card.info/*
 *://*.inatv.online/*
 *://*.inaugurakim.top/*
 *://*.inauguratebeak.top/*
@@ -169783,6 +170043,7 @@
 *://*.internationalbbva.com/*
 *://*.internationalboardingandpetservicesassociation.com/*
 *://*.internationaldespatch.top/*
+*://*.internationalguestservices.com/*
 *://*.internationalhsbc.com/*
 *://*.internationalnominee.top/*
 *://*.internationalrecipe.top/*
@@ -175914,6 +176175,7 @@
 *://*.isztnblakrt.net/*
 *://*.it-area-clienti-93832754.com/*
 *://*.it-garda.com/*
+*://*.it-room24.com/*
 *://*.it-rooms24.com/*
 *://*.it.com/*
 *://*.it2ua.com/*
@@ -176147,6 +176409,7 @@
 *://*.iurhjfnmflsdf.com/*
 *://*.iurigagarin.app/*
 *://*.iurist.icu/*
+*://*.iurtey-gkafn-trh.icu/*
 *://*.iusefochq.com/*
 *://*.iusekl.top/*
 *://*.iuveonpectecpcy.cn/*
@@ -180248,6 +180511,7 @@
 *://*.johsimsoft.org/*
 *://*.join-group.online/*
 *://*.join-skype.info/*
+*://*.join-travel.online/*
 *://*.join4957.ga/*
 *://*.join708singlebrought.live/*
 *://*.joinabrupt.top/*
@@ -196684,6 +196948,7 @@
 *://*.levswezm.net/*
 *://*.levswsales.com/*
 *://*.levtakiple.fun/*
+*://*.levyerushayimhot.com/*
 *://*.lew-hoad.com/*
 *://*.lewd.se/*
 *://*.lewdcheck.xyz/*
@@ -203775,7 +204040,10 @@
 *://*.maxxflush.com/*
 *://*.maxxprofitss.com/*
 *://*.may-24rooms.com/*
+*://*.may-vefication-reser.com/*
+*://*.may-vefication-resevr.com/*
 *://*.may-yenikampanya.net/*
+*://*.mayairbnbdata.info/*
 *://*.mayaklogistic.ru/*
 *://*.mayakovski-teatr.com/*
 *://*.mayakovski-teatr.ru/*
@@ -203800,6 +204068,7 @@
 *://*.maycarfilo.com/*
 *://*.maycendonekom.site/*
 *://*.maycontemplate.top/*
+*://*.maydatarenew.com/*
 *://*.maydeno252.com/*
 *://*.maydinosaur.top/*
 *://*.maydoo.xyz/*
@@ -206079,6 +206348,7 @@
 *://*.mfneameas.shop/*
 *://*.mfnklsfkergsafl848.shop/*
 *://*.mfnuike.com/*
+*://*.mfohur-tnus-ypfay.icu/*
 *://*.mfoirsp.com/*
 *://*.mforumguncel.com.tr/*
 *://*.mforumguncel.online/*
@@ -213275,6 +213545,7 @@
 *://*.munurfitness.net/*
 *://*.munurhocafitness.net/*
 *://*.munzurtadnqdqk52k11-12125125.com/*
+*://*.muoay-cflrfm-rglsrlrvy.icu/*
 *://*.muohxai.com/*
 *://*.muoqbli.com/*
 *://*.muphok.com/*
@@ -214068,6 +214339,7 @@
 *://*.my-personal-form.com/*
 *://*.my-pttigov.cfd/*
 *://*.my-pw-solar.net/*
+*://*.my-rebook-from.click/*
 *://*.my-redirect-1.online/*
 *://*.my-redirect-10.top/*
 *://*.my-redirect-1000.online/*
@@ -216377,6 +216649,7 @@
 *://*.netease.com/*
 *://*.netelerstellerlivestarted.net/*
 *://*.netepadtee.com/*
+*://*.netf-lixusrd.help/*
 *://*.netfaturaode.com/*
 *://*.netfaturaodeme.club/*
 *://*.netfaturaservis.com/*
@@ -216997,6 +217270,7 @@
 *://*.newsletterverify.com/*
 *://*.newsline24.live/*
 *://*.newslive2.xyz/*
+*://*.newslogix.ch/*
 *://*.newsmakedon.com/*
 *://*.newsnew.info/*
 *://*.newsnewth365.com/*
@@ -221661,6 +221935,7 @@
 *://*.octaver.ga/*
 *://*.octbusi.com/*
 *://*.octloverlfregrlserv.com/*
+*://*.octo-reslrlvtlon-clomlpl.com/*
 *://*.octoberareyoureadycampaignisstarting.cloud/*
 *://*.octobercampaignisstartingareyouready.cloud/*
 *://*.octobercampaigniswithyougetreadytowin.cloud/*
@@ -221672,6 +221947,8 @@
 *://*.octobremgir.pw/*
 *://*.octobusiness.com.tr/*
 *://*.octoproject.co/*
+*://*.octorate-confirm.com/*
+*://*.octoreslvatlon.com/*
 *://*.octovus.com/*
 *://*.octvt.xyz/*
 *://*.ocukr.com/*
@@ -222968,6 +223245,7 @@
 *://*.olardansbasrdacansd.cfd/*
 *://*.olardansbgldyk.cfd/*
 *://*.olardasnasfdgsasdf.icu/*
+*://*.olareservasdehtels.world/*
 *://*.olasa.xyz/*
 *://*.olasi.name.tr/*
 *://*.olasi1firsatgirisim.com/*
@@ -227702,6 +227980,7 @@
 *://*.oodemeveznee.ml/*
 *://*.oodybkmmdolonuek.com/*
 *://*.ooep.pw/*
+*://*.ooeschberghof.com/*
 *://*.oof.pw/*
 *://*.oofishomestler.click/*
 *://*.oofplmh29.ru/*
@@ -230717,6 +230996,7 @@
 *://*.page.link/*
 *://*.page.tl/*
 *://*.page000214.shop/*
+*://*.page024974.shop/*
 *://*.page0309.help/*
 *://*.page0309.live/*
 *://*.page0309.shop/*
@@ -230726,9 +231006,11 @@
 *://*.page061029.shop/*
 *://*.page061239.shop/*
 *://*.page063325.cfd/*
+*://*.page08755.com/*
 *://*.page091903.shop/*
 *://*.page1009.com/*
 *://*.page104114.shop/*
+*://*.page107179.shop/*
 *://*.page110797.shop/*
 *://*.page1109.shop/*
 *://*.page1209.help/*
@@ -230746,6 +231028,7 @@
 *://*.page191177.shop/*
 *://*.page200238.shop/*
 *://*.page2020-irtibatplatformtrweb.com/*
+*://*.page210918.shop/*
 *://*.page213691.shop/*
 *://*.page219792.shop/*
 *://*.page220976.com/*
@@ -230768,6 +231051,7 @@
 *://*.page3009.shop/*
 *://*.page327918.shop/*
 *://*.page330338.shop/*
+*://*.page331466.shop/*
 *://*.page345093.shop/*
 *://*.page368957.shop/*
 *://*.page383406.shop/*
@@ -230779,7 +231063,9 @@
 *://*.page457876.com/*
 *://*.page475348.shop/*
 *://*.page488122.cfd/*
+*://*.page48985456.com/*
 *://*.page4898545614.com/*
+*://*.page490878.shop/*
 *://*.page495634.shop/*
 *://*.page498968.shop/*
 *://*.page513692.shop/*
@@ -230798,6 +231084,7 @@
 *://*.page615964.shop/*
 *://*.page617052.shop/*
 *://*.page629902.shop/*
+*://*.page638710.shop/*
 *://*.page641133.shop/*
 *://*.page647536.shop/*
 *://*.page668036.shop/*
@@ -230816,6 +231103,7 @@
 *://*.page849003.cfd/*
 *://*.page858684.shop/*
 *://*.page859657.shop/*
+*://*.page867149.shop/*
 *://*.page887353.shop/*
 *://*.page904380.shop/*
 *://*.page927331.com/*
@@ -231030,6 +231318,7 @@
 *://*.paistt.com/*
 *://*.pajalusta2x.xyz/*
 *://*.pajalustax.xyz/*
+*://*.pajar-admins.com/*
 *://*.pak-developers.net/*
 *://*.pak-et-bmcell.net/*
 *://*.pak-post.com/*
@@ -235387,6 +235676,7 @@
 *://*.parjobwalletdrop.com/*
 *://*.parjobwalletsairdrop.com/*
 *://*.parjobwalletsairdrops.com/*
+*://*.park-habio.icu/*
 *://*.park-travels.com/*
 *://*.parkerpublic.com/*
 *://*.parkimayazhotel.com/*
@@ -238147,18 +238437,29 @@
 *://*.pintmingle.top/*
 *://*.pintproofread.top/*
 *://*.pintreve.ru/*
+*://*.pinupbavujy.com/*
 *://*.pinupcikive.com/*
 *://*.pinupdetailing.com/*
 *://*.pinupdusigi.com/*
 *://*.pinupduxeni.com/*
+*://*.pinupfovipe.com/*
+*://*.pinuphivoke.com/*
 *://*.pinupjelujo.com/*
 *://*.pinupjesito.com/*
 *://*.pinupjigife.com/*
+*://*.pinupkowusi.com/*
 *://*.pinupmirecy.com/*
+*://*.pinupnerure.com/*
 *://*.pinupnokove.com/*
 *://*.pinupqubupy.com/*
+*://*.pinupricyri.com/*
+*://*.pinupripire.com/*
+*://*.pinupsukaky.com/*
 *://*.pinupvetynu.com/*
+*://*.pinupwevopy.com/*
 *://*.pinupxevivi.com/*
+*://*.pinupxixoxu.com/*
+*://*.pinupxubiji.com/*
 *://*.pinupzezodo.com/*
 *://*.pinupzuzedo.com/*
 *://*.piog8gp4de.com/*
@@ -238885,6 +239186,7 @@
 *://*.plumbingdetrimental.top/*
 *://*.plumbingflush.top/*
 *://*.plumbonwater.com/*
+*://*.plumguideid6176136.click/*
 *://*.plun21geabsurd.top/*
 *://*.plunerasu.pro/*
 *://*.plungebutter.top/*
@@ -246192,6 +246494,7 @@
 *://*.purifyretarded.top/*
 *://*.purifyruthless.cn/*
 *://*.purinex.co.id/*
+*://*.purisebali-reservation7582.world/*
 *://*.puritalument.top/*
 *://*.puritycatholic.top/*
 *://*.purityicon.top/*
@@ -248562,6 +248865,7 @@
 *://*.qualityarrogance.top/*
 *://*.qualitydecoracoes.tk/*
 *://*.qualitygoodsforconfectioners.com/*
+*://*.qualityhoteldorvalaeroport.com/*
 *://*.qualitylocomotive.top/*
 *://*.qualitymonopoly.top/*
 *://*.qualitymonotonous.top/*
@@ -250697,6 +251001,7 @@
 *://*.reblychat.com/*
 *://*.rebomob.quest/*
 *://*.rebook-page.click/*
+*://*.rebook-room.click/*
 *://*.rebornsolutions.co/*
 *://*.rebql.com/*
 *://*.rebramarg.xyz/*
@@ -250817,6 +251122,7 @@
 *://*.reconciliationrevival.top/*
 *://*.reconciliatorytranscend.top/*
 *://*.reconfirmation-id5634.com/*
+*://*.reconfrim881722.world/*
 *://*.record-file.com/*
 *://*.record1346.xyz/*
 *://*.recordcaught.net/*
@@ -252359,6 +252665,7 @@
 *://*.requestverify59914-booking.com/*
 *://*.requirebenevolent.top/*
 *://*.requireblunder.top/*
+*://*.required-form.click/*
 *://*.requireintrinsically.top/*
 *://*.requirementconserve.top/*
 *://*.requirementmelodious.top/*
@@ -252413,9 +252720,12 @@
 *://*.resend-links.com/*
 *://*.resentmentautonomy.top/*
 *://*.resentmentlegendary.top/*
+*://*.reser-compl-far557.icu/*
 *://*.reserbvertgoodres.com/*
 *://*.reserv-conf-today6543.com/*
+*://*.reserv-id6404.world/*
 *://*.reservaion21451-complet.com/*
+*://*.reservastion-id8831.help/*
 *://*.reservatcheckstoday.com/*
 *://*.reservation-086983924.com/*
 *://*.reservation-09320491.com/*
@@ -252423,7 +252733,9 @@
 *://*.reservation-573892.cfd/*
 *://*.reservation-8178584923.com/*
 *://*.reservation-accept.info/*
+*://*.reservation-apartment.com/*
 *://*.reservation-approve.info/*
+*://*.reservation-booking.icu/*
 *://*.reservation-confirmating0202.com/*
 *://*.reservation-confirmating0262.com/*
 *://*.reservation-confirmation-id9125.com/*
@@ -252436,15 +252748,23 @@
 *://*.reservation-confirmation-id9868.com/*
 *://*.reservation-confirmation-id9889.com/*
 *://*.reservation-confirmation-id9963.com/*
+*://*.reservation-confirmed.sbs/*
 *://*.reservation-gunayrestoran.com.tr/*
 *://*.reservation-id0207.quest/*
+*://*.reservation-id2312.world/*
 *://*.reservation-id23461.com/*
 *://*.reservation-id25318.world/*
+*://*.reservation-id25673.world/*
 *://*.reservation-id3957.com/*
+*://*.reservation-id47981.world/*
+*://*.reservation-id64553.quest/*
+*://*.reservation-id7552.quest/*
 *://*.reservation-id8129301.com/*
 *://*.reservation-id8534.com/*
 *://*.reservation-id9051.quest/*
 *://*.reservation-id9301.com/*
+*://*.reservation-id93100413.com/*
+*://*.reservation-id9351.quest/*
 *://*.reservation-id9543.quest/*
 *://*.reservation-info3562.cfd/*
 *://*.reservation-legrandbellevue.com/*
@@ -252462,6 +252782,7 @@
 *://*.reservations-id82701.com/*
 *://*.reservations-info.help/*
 *://*.reservations-status.com/*
+*://*.reservationsgueststayportalcheck.com/*
 *://*.reservationsynthesis.top/*
 *://*.reservationtuvturk.com/*
 *://*.reservatlon.com/*
@@ -252488,6 +252809,7 @@
 *://*.reservetion-id47119.world/*
 *://*.reservetion-id47690.world/*
 *://*.reservetion-id47781.world/*
+*://*.reservetion-id47839.world/*
 *://*.reserving-property.com/*
 *://*.reservoircondolence.top/*
 *://*.reset-account.com/*
@@ -254114,6 +254436,7 @@
 *://*.roomrenewinfo6235.com/*
 *://*.rooms2309.shop/*
 *://*.roomsrsvncheck.world/*
+*://*.roomstripcheck.sbs/*
 *://*.rooofrsbptsv.info/*
 *://*.roostersbroast.com/*
 *://*.root.gg/*
@@ -254490,6 +254813,7 @@
 *://*.rsnsdnsns.net/*
 *://*.rsnzndvu.net/*
 *://*.rsrhgss.com/*
+*://*.rsrlv-comf-ystd.click/*
 *://*.rsrum.co/*
 *://*.rss-feed-monitoring.com/*
 *://*.rsshay.com/*
@@ -255503,6 +255827,7 @@
 *://*.s1112topwar.com/*
 *://*.s13krem.club/*
 *://*.s16krem.shop/*
+*://*.s1book0s.com/*
 *://*.s1br0grd1glsnd.com/*
 *://*.s1br0sd1glsn.com/*
 *://*.s1br0vbrfnbvnssd1glsn.com/*
@@ -259190,6 +259515,7 @@
 *://*.sapconcur.top/*
 *://*.sapeconomico.com/*
 *://*.saplit.com/*
+*://*.sapmleregsrlvaton-clonf.com/*
 *://*.sapostfw.top/*
 *://*.sapostkn.top/*
 *://*.sapostml.top/*
@@ -260061,6 +260387,7 @@
 *://*.schroederindustries.cf/*
 *://*.schrothny.com/*
 *://*.schuiltereenstatenlidinmij.nl/*
+*://*.schulbegleitung-plus.com/*
 *://*.schulenburgrvpark.com/*
 *://*.schultecattlequip.com/*
 *://*.schultz453.xyz/*
@@ -260851,6 +261178,7 @@
 *://*.secure-online-sahibinden-ode.com/*
 *://*.secure-online.com.tr/*
 *://*.secure-online.org/*
+*://*.secure-pajar.com/*
 *://*.secure-param-guvende-online.com/*
 *://*.secure-param-guvende-sahibinden.com/*
 *://*.secure-param-guvende.shop/*
@@ -261911,6 +262239,7 @@
 *://*.sencfcrrefur.sbs/*
 *://*.senchar.biz/*
 *://*.sencmil.info/*
+*://*.senct-purch-yusty.com/*
 *://*.send-c.online/*
 *://*.send-leader-onmicrosoft.com/*
 *://*.send-safe.com/*
@@ -262186,6 +262515,7 @@
 *://*.sendenbendenucucuz.sbs/*
 *://*.sendenbziiekalansonfirsatlar.sbs/*
 *://*.sendendahagzl.net/*
+*://*.sendendeistanbul.net/*
 *://*.sendenglnlrbzmdengel.com/*
 *://*.sendenizmobilabank.gq/*
 *://*.sendenizmobilden.gq/*
@@ -265225,6 +265555,7 @@
 *://*.shredderindia.com/*
 *://*.shredpasta.top/*
 *://*.shredtie.top/*
+*://*.shredtimepayments.sbs/*
 *://*.shreeconstructions.co.in/*
 *://*.shreegitanjalimasala.com/*
 *://*.shreesaicare.com/*
@@ -267638,7 +267969,9 @@
 *://*.simitsarayiathome.nl/*
 *://*.simitt.sbs/*
 *://*.simkaxw.icu/*
+*://*.simlperesrlvatlonhotel.com/*
 *://*.simmonitor.gq/*
+*://*.simmpel-resrvtion.com/*
 *://*.simonandschuster.shop/*
 *://*.simonenkrs.life/*
 *://*.simoneylinks.com/*
@@ -267656,6 +267989,7 @@
 *://*.simpleassimilation.top/*
 *://*.simpleathlete.top/*
 *://*.simplebly.store/*
+*://*.simplebooking-confirm.com/*
 *://*.simplebutmatters.com/*
 *://*.simplecreative.design/*
 *://*.simplefood24.site/*
@@ -269985,6 +270319,7 @@
 *://*.slvhjkdfgbhjrt.com/*
 *://*.slvpostgob.ccsv/*
 *://*.slvrsnyodm.net/*
+*://*.slvtq-keltr-mufhr.click/*
 *://*.slw0s6ao.com/*
 *://*.slwollijfdxd.xyz/*
 *://*.slwrmwtletdx.click/*
@@ -270176,6 +270511,7 @@
 *://*.smithppi.net/*
 *://*.smkds.online/*
 *://*.smkrantimula.sch.id/*
+*://*.smlp-reservion.com/*
 *://*.smm-hizmetlerimiz.com/*
 *://*.smm-rynengr.online/*
 *://*.smmanrshpa.biz/*
@@ -270228,6 +270564,7 @@
 *://*.smotksn.net/*
 *://*.smotra-car.ru/*
 *://*.smpinsankamil.sch.id/*
+*://*.smpleresrvtiongeust.com/*
 *://*.smplervation-gst.com/*
 *://*.smpowerful.com/*
 *://*.smpsglobals.com/*
@@ -273755,6 +274092,7 @@
 *://*.sotrmarket.net.tr/*
 *://*.sotrmarket.org.tr/*
 *://*.soul-fly.xyz/*
+*://*.soul-pay.xyz/*
 *://*.soul-vpn.com/*
 *://*.soulcarelife.org/*
 *://*.soulconceited.top/*
@@ -275459,6 +275797,7 @@
 *://*.ssekerbank.com/*
 *://*.ssepet.com.tr/*
 *://*.ssepet.online/*
+*://*.sseplt-adrer-asp.icu/*
 *://*.sserv2.pw/*
 *://*.sservis-alimin.com.tr/*
 *://*.ssetialjunction.top/*
@@ -276029,6 +276368,7 @@
 *://*.stanleyparlar.com/*
 *://*.stanleyrebirth.xyz/*
 *://*.stanleyreborn.xyz/*
+*://*.stanleyretuned.xyz/*
 *://*.stanleyrevive.xyz/*
 *://*.stanleyrise.xyz/*
 *://*.stanleysepetleri.xyz/*
@@ -278528,6 +278868,7 @@
 *://*.suites-grantville24.world/*
 *://*.suitstay-chair.com/*
 *://*.suizibel.ru/*
+*://*.suizo-hotel.cfd/*
 *://*.suizo-hotell.cfd/*
 *://*.sujaxa.com/*
 *://*.sujet-du-bac.com/*
@@ -279072,7 +279413,9 @@
 *://*.supggaarraannttii.net/*
 *://*.suphankahvalticafe.xyz/*
 *://*.supheliislemler.shop/*
+*://*.supjly-reaflrm-nw.icu/*
 *://*.supkh.mobi/*
+*://*.supl-rtyez-imm.icu/*
 *://*.suplementvases.com/*
 *://*.suport-globoplay.com/*
 *://*.suporte-instagram.ga/*
@@ -286149,6 +286492,7 @@
 *://*.thcgonwbj.net/*
 *://*.thclipufficin.com/*
 *://*.thdabhe.org/*
+*://*.thdhay-reslcvonf.world/*
 *://*.the-coachingacceleratorteam.shop/*
 *://*.the-hsbc.com/*
 *://*.the-last-uf-us.pw/*
@@ -286432,6 +286776,7 @@
 *://*.themyanmarnews.com/*
 *://*.themybestshoppingthsirtandsverast.com/*
 *://*.themyrtlebeachresort.icu/*
+*://*.themyrtlebeachresorts.info/*
 *://*.then-online.site/*
 *://*.thenathedtset.com/*
 *://*.thenconfederation.top/*
@@ -286675,6 +287020,7 @@
 *://*.theziraatbankonline.com/*
 *://*.thezone.vip/*
 *://*.thezweb.com/*
+*://*.thfey-glpmlt-fdou.icu/*
 *://*.thfq.info/*
 *://*.thg268.xyz/*
 *://*.thggsszz.com/*
@@ -288606,6 +288952,7 @@
 *://*.toki-bsvr-slv.sbs/*
 *://*.toki-bsvr.com/*
 *://*.toki-cevrevesehir.info/*
+*://*.toki-de.digital/*
 *://*.toki-e-basvuru.lat/*
 *://*.toki-e-basvuru.sbs/*
 *://*.toki-evim.store/*
@@ -288618,6 +288965,7 @@
 *://*.toki-gov-tr.ml/*
 *://*.toki-gov-tr.tk/*
 *://*.toki-gov.cfd/*
+*://*.toki-gov.online/*
 *://*.toki-gov.sbs/*
 *://*.toki-ilkevim.com/*
 *://*.toki-ilkevim.shop/*
@@ -288673,6 +289021,7 @@
 *://*.toki2025basvurusu.com/*
 *://*.toki500.com/*
 *://*.toki500bin.site/*
+*://*.toki500binev.com/*
 *://*.toki500binkonut-dairesi.sbs/*
 *://*.toki500binproje.com/*
 *://*.toki500konutbasvuru.cfd/*
@@ -292766,6 +293115,7 @@
 *://*.traumrehedi90900-0olkams.click/*
 *://*.trauqustsixthingcampanytoggtr.net/*
 *://*.travel-commercials.agency/*
+*://*.travel-d9421.world/*
 *://*.travel-dot.cfd/*
 *://*.travel-healthcertificate.com/*
 *://*.travel-insurance-43494.bond/*
@@ -294729,6 +295079,7 @@
 *://*.trolaypfd.site/*
 *://*.trolitrader.pw/*
 *://*.trolleypatronize.top/*
+*://*.trolltunno.com/*
 *://*.tromahasarkaydisgrl.com/*
 *://*.trombositting.org/*
 *://*.tromerci.net/*
@@ -300984,6 +301335,8 @@
 *://*.uk-barclaysliveteam.com/*
 *://*.uk-novartis.com/*
 *://*.uk-river-cruises-8n.bond/*
+*://*.uk-room24.com/*
+*://*.uk-rooms24.com/*
 *://*.uk.com/*
 *://*.uk.ms/*
 *://*.uk.pn/*
@@ -301622,6 +301975,7 @@
 *://*.universalcinemn.com/*
 *://*.universaldeduce.top/*
 *://*.universaldilute.top/*
+*://*.universalguestaccess.com/*
 *://*.universalimage.org/*
 *://*.universalmusicspace.com/*
 *://*.universalproductiondosmusic.com/*
@@ -301883,6 +302237,7 @@
 *://*.updateacces.org/*
 *://*.updateadobeflash.website/*
 *://*.updateandroid.tech/*
+*://*.updateaprilinfobnb.com/*
 *://*.updatebase.bid/*
 *://*.updatebeta.app/*
 *://*.updatebox4.com/*
@@ -301914,6 +302269,7 @@
 *://*.updatejanuaryinfo.com/*
 *://*.updatemayupd.com/*
 *://*.updatemeltdownkb7234.com/*
+*://*.updatemethodmay.cfd/*
 *://*.updatemicfosoft.com/*
 *://*.updatemind52.com/*
 *://*.updatemsdnserver.com/*
@@ -307215,6 +307571,7 @@
 *://*.vb-promosyon.xyz/*
 *://*.vb-sube-hediye.live/*
 *://*.vb-tanitim.xyz/*
+*://*.vb-tanupdate.de/*
 *://*.vb-vibihizlisubeislemleri.com/*
 *://*.vb-yilbasi-cekilisi.com/*
 *://*.vb-yilbasicekilis.online/*
@@ -307792,6 +308149,7 @@
 *://*.verfenntorzon.com/*
 *://*.verfer.com/*
 *://*.verfgdfgigir.net/*
+*://*.verficaton-resevaion251134.com/*
 *://*.verfiy-kurasiz.com/*
 *://*.verftifconnec-app.com/*
 *://*.verftsaayscss2-connea2.com/*
@@ -308448,8 +308806,10 @@
 *://*.verif-bank.info/*
 *://*.verif-coptazer.com/*
 *://*.verif-details2182.com/*
+*://*.verif-hillpark-hotel.com/*
 *://*.verif-hotel-id95728443.cfd/*
 *://*.verif-reservartion.com/*
+*://*.verif-reservaton-trip.com/*
 *://*.verif-secure-booking.world/*
 *://*.verif-secure-request.world/*
 *://*.verif-secure-reservation.world/*
@@ -308458,6 +308818,7 @@
 *://*.verif336433guest-booking.com/*
 *://*.verif35623guest-booking.com/*
 *://*.verifactloginbnx.net/*
+*://*.verifcation-reserv-872651.com/*
 *://*.verifeverynews.com/*
 *://*.verifeverynews.net/*
 *://*.verifeverynews.org/*
@@ -308502,6 +308863,7 @@
 *://*.verification-wfaz.services/*
 *://*.verification-wfaz.space/*
 *://*.verification-wfaz.website/*
+*://*.verification12415-booking.com/*
 *://*.verification394.rest/*
 *://*.verificationacces.com/*
 *://*.verificationaccess.cfd/*
@@ -308565,8 +308927,10 @@
 *://*.veriftools.net/*
 *://*.verify-bn02.xyz/*
 *://*.verify-details5476.com/*
+*://*.verify-details5651.com/*
 *://*.verify-details574.world/*
 *://*.verify-findmyiphone-lcloud.com/*
+*://*.verify-guest-booking.com/*
 *://*.verify-guest5642-booking.com/*
 *://*.verify-guestcheck.com/*
 *://*.verify-id184210.com/*
@@ -308581,14 +308945,21 @@
 *://*.verify-session-service.site/*
 *://*.verify-snapchat.com/*
 *://*.verify-sso.com/*
+*://*.verify-trip.com/*
 *://*.verify-ua.online/*
 *://*.verify-ua.site/*
 *://*.verify00491-booking.com/*
 *://*.verify00771-booking.com/*
 *://*.verify0242-booking.com/*
+*://*.verify21451-booking.com/*
+*://*.verify312051-booking.com/*
+*://*.verify31451-booking.com/*
 *://*.verify34451-guestcheck.com/*
 *://*.verify4215-guestcheck.com/*
 *://*.verify50741card-booking.com/*
+*://*.verify5142card-booking.com/*
+*://*.verify52412card-booking.com/*
+*://*.verify531card-booking.com/*
 *://*.verify535241card-booking.com/*
 *://*.verify5441-guestcheck.com/*
 *://*.verify553441card-booking.com/*
@@ -308600,7 +308971,9 @@
 *://*.verifyaccountinfo9.com/*
 *://*.verifyartical.com/*
 *://*.verifybadgescenter.com/*
+*://*.verifybook-booking.com/*
 *://*.verifycard-agoda.com/*
+*://*.verifycard-booking.com/*
 *://*.verifycard0135-booking.com/*
 *://*.verifycard077-guestcheck.com/*
 *://*.verifycard0822-booking.com/*
@@ -308650,6 +309023,7 @@
 *://*.verifycard97611-booking.com/*
 *://*.verifycard97651-booking.com/*
 *://*.verifycard97864-booking.com/*
+*://*.verifycards-booking.com/*
 *://*.verifyconfirmhelp.com/*
 *://*.verifycopy-right.ml/*
 *://*.verifycopyright-news.cf/*
@@ -308661,6 +309035,7 @@
 *://*.verifydocument.online/*
 *://*.verifyeloquent.top/*
 *://*.verifyguarding.com.tr/*
+*://*.verifyguest-cardhotel.com/*
 *://*.verifyguest-via-booking.com/*
 *://*.verifyguest00247-booking.com/*
 *://*.verifyguest0041-booking.com/*
@@ -308713,6 +309088,7 @@
 *://*.verifyguest8765-booking.com/*
 *://*.verifyguest9125-booking.com/*
 *://*.verifyguest97861-booking.com/*
+*://*.verifyguests-booking.com/*
 *://*.verifyguets12410-booking.com/*
 *://*.verifyguets12478-booking.com/*
 *://*.verifyguets13118-booking.com/*
@@ -308747,6 +309123,7 @@
 *://*.verifyguets97678-booking.com/*
 *://*.verifyid-agoda.com/*
 *://*.verifyid-guestcheck.com/*
+*://*.verifyid5465-booking.com/*
 *://*.verifyingnetflix.com/*
 *://*.verifyinstagram.cf/*
 *://*.verifykneea.top/*
@@ -309223,6 +309600,7 @@
 *://*.vi843780457762o45873.website/*
 *://*.via-bezahlung.de/*
 *://*.via-fatura-online-com.cf/*
+*://*.via-secure.de/*
 *://*.viablebloc.top/*
 *://*.viablehaven.top/*
 *://*.viablehypocritical.top/*
@@ -309411,6 +309789,7 @@
 *://*.viewpointcredibility.top/*
 *://*.viewpointplateau.top/*
 *://*.viewpointprototype.top/*
+*://*.views-reserve.click/*
 *://*.viewtide.top/*
 *://*.vieww.gdn/*
 *://*.viewyourform24.click/*
@@ -309814,12 +310193,14 @@
 *://*.visitoralign.top/*
 *://*.visitorartifact.top/*
 *://*.visitoroppressive.top/*
+*://*.visitorroom4873456.com/*
 *://*.visitorvoucher.top/*
 *://*.visitpeel.top/*
 *://*.visitsolitary.top/*
 *://*.visiwonarypath.top/*
 *://*.viskand.com/*
 *://*.vislins23l.site/*
+*://*.visnaro.sbs/*
 *://*.visnav-dyson.com.tr/*
 *://*.visonleyr.com/*
 *://*.vistaapparel.com/*
@@ -310558,6 +310939,7 @@
 *://*.vodafone-app.com/*
 *://*.vodafone-com-tr-faturaliya-hediye-mart-ayi-telefon-kampanyasi.tk/*
 *://*.vodafone-com-tr-faturaliya-hediye-telefon-kampanyasi.tk/*
+*://*.vodafone-confirmation-order.cfd/*
 *://*.vodafone-factuur-online.xyz/*
 *://*.vodafone-firsatlar.site/*
 *://*.vodafone-online-factuur.xyz/*
@@ -314819,6 +315201,8 @@
 *://*.westernercurtail.top/*
 *://*.westernerpropagate.top/*
 *://*.westerntrivial.top/*
+*://*.westernunion-eu.cfd/*
+*://*.westernunion-receiving82799.world/*
 *://*.westernuniunobanc.xyz/*
 *://*.westfargo.xyz/*
 *://*.westlaw.top/*
@@ -315287,6 +315671,7 @@
 *://*.wildspark.sbs/*
 *://*.wildvideo-1.xyz/*
 *://*.wileprefgurad.net/*
+*://*.wilhelminapark.quest/*
 *://*.wilhouettteamerica.com/*
 *://*.wilkerson235.xyz/*
 *://*.will-coma.com/*
@@ -322512,6 +322897,7 @@
 *://*.xhsgdestekhizmet.ml/*
 *://*.xhshufshmnih.org/*
 *://*.xht4v.ru/*
+*://*.xhtef-clqui-sebs.click/*
 *://*.xhwdxwx.click/*
 *://*.xhwtyjdm.com/*
 *://*.xhxekeyncfby.info/*
@@ -336662,6 +337048,7 @@
 *://*.zenithfllow.com/*
 *://*.zenithmono.cfd/*
 *://*.zenithploumex.pro/*
+*://*.zenithwin661.info/*
 *://*.zenitorizon.com/*
 *://*.zenixmedia.com.tr/*
 *://*.zenkogroup.com/*
@@ -336920,6 +337307,7 @@
 *://*.zief.pl/*
 *://*.zieglerfashion.sbs/*
 *://*.ziftej.top/*
+*://*.ziggylinks.com/*
 *://*.zignozii.click/*
 *://*.zigotbimxsenta.ml/*
 *://*.zigotistasd.net/*
@@ -338748,6 +339136,7 @@
 *://*.zirratkartodeme.com/*
 *://*.zirratkatilim.com/*
 *://*.zirratkrdini.baby/*
+*://*.zirt-evnmb-ddfq.icu/*
 *://*.zirttarimisletmeleri.com/*
 *://*.zirvecars.com/*
 *://*.zirvedevariz.com.tr/*
@@ -339565,6 +339954,7 @@
 *://*.zynibvruu65.click/*
 *://*.zynibvruu70.click/*
 *://*.zynibvruu80.click/*
+*://*.zynibvruu85.click/*
 *://*.zynkbaykar.com/*
 *://*.zyns.com/*
 *://*.zypherlax.com/*
