@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 07:09:59 UTC
-# Toplam: 424935 Domain
+# Son Güncelleme: 2025-11-20 08:13:49 UTC
+# Toplam: 424944 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30826,6 +30826,7 @@ adkshdhjskskehje.net
 adksjdjkasads22.com
 adksjdjkasads31.com
 adkvipcim.com.tr
+adl-yatirim.com
 adlabgames.com
 adleiran-ir.tk
 adlfavs.biz
@@ -30872,6 +30873,7 @@ adlokyanus.site
 adlsgsdlkfjsahkas.buzz
 adlucia.com
 adlvanced-ip-scanner.com
+adlyatirim.com
 adm-musulmans.com
 adm01010.ddns.net
 admagnet1.com
@@ -54029,6 +54031,7 @@ b-ncesasaa.ertenler.club
 b-nisankarcahome.shop
 b-o-s-c-h-c-l-i-m-a-t-e.net.tr
 b-o-s-c-h-c-l-i-m-a-t-e.website
+b-onlineislem.com
 b-onlineyatirimmenkul.com
 b-pakt.blogspot.com
 b-paribu.com
@@ -83091,6 +83094,7 @@ btcturkbank.com
 btcturkbank.net
 btcturkbank.xyz
 btcturkbanks.xyz
+btcturkbit.com
 btcturkbtc.com
 btcturkc.com
 btcturkcoin.com
@@ -83164,9 +83168,11 @@ btcturkramazan-ozel.com
 btcturkripto.com
 btcturkripto.info
 btcturkripto.net
+btcturkrt.cc
 btcturks.com
 btcturksbtc.top
 btcturkssokripto.com
+btcturksvip.com
 btcturktexrphediye.co.vu
 btcturktogg.com
 btcturktr-pro.com
@@ -177916,6 +177922,7 @@ haftninyildzlarii.online
 haftninyildzlarii101.site
 haftninyildzlarisokta.site
 haftninyilldizlari101.site
+haftsnuksmdakrcaa.com
 haftsonlidnirimler101com.com
 hagafabudabizde.com.tr
 hagafabudabizde.online
@@ -347493,6 +347500,7 @@ subesiz-vakifmobill.gq
 subesiz-vakifmobill.ml
 subesiz-vakifmobill.tk
 subesiz-vakifonlinbasvuru.chickenkiller.com
+subesiz-vakilfbank.com
 subesiz-vaklfbank.com
 subesiz-vaklfmobil.ml
 subesiz-vakmobil-bilgi.xyz
@@ -353761,6 +353769,7 @@ tcib4677sayili.tk
 tcicisleribakanligi.com
 tciletisimbaskanligin.online
 tcinfaz.com
+tcinfaz.net
 tcistanbulbakiye.online
 tcistanbulbakiyem.online
 tcistanbulllkart.net
