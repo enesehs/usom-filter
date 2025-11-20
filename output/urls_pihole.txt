@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 21:08:50 UTC
-# Toplam: 426339 Domain
+# Son Güncelleme: 2025-11-20 22:08:56 UTC
+# Toplam: 426351 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45282,6 +45282,7 @@ aobtzcge.com
 aoc50u.duckdns.org
 aoc78pn.duckdns.org
 aocagjarmk.duckdns.org
+aocgiohqx.storage.googleapis.com
 aocsff.c1.biz
 aodjsnfhwyu.com.tr
 aodkqiwjdqwezxcmasdqynu.com
@@ -82616,6 +82617,7 @@ bsvbutxael.duckdns.org
 bsvcllee.com
 bsvimiceell.com
 bsviyjbjoxyj.com
+bsvlraimsatokim.org
 bsvlrbdatki.sbs
 bsvlymoxsc.duckdns.org
 bsvr-acikdenizv2denizonay.com
@@ -85395,6 +85397,7 @@ bursiyerkaydi.site
 bursiyerkayitformu.site
 bursiyerler.online
 bursiyerler.org
+bursiyersonuc.org
 bursiyervakfi.online
 bursiyervakfi.org
 burskapisi.com
@@ -146406,6 +146409,7 @@ evglslakaslasv.com
 evgp8ak.duckdns.org
 evh001.gitlab.io
 evhaberi.click
+evhayalim2025.online
 evhedefim.click
 evhizmetleriniz.xyz
 eviatapkon.online
@@ -151910,6 +151914,7 @@ fibabanka.agencylook.org
 fibabanka.click
 fibabanka.club
 fibabanka.com.gr
+fibabanka.lat
 fibabanka.ml
 fibabanka.online
 fibabanka.site
@@ -153943,6 +153948,7 @@ firsatbukaydet.com
 firsatbulteni101.xyz
 firsatbuprbkatilim.com
 firsatburada-aldin-aldin.com.tr
+firsatburada.cfd
 firsatburada.online-sahane.com.tr
 firsatburada.xyz
 firsatburadaanindakredi.site
@@ -172966,6 +172972,7 @@ grntmobilbasvruekrani.com
 grntmobilpromosyn.bounceme.net
 grntnfisfrstlri.com
 grntprmsynnnbsvrr.xyz
+grntprmsynnnkampanyasi.pro
 grntqrdbnqmblsube.fixip.org
 grntramazanaozel.site
 grntrtebsvlr.duckdns.org
@@ -205699,6 +205706,7 @@ ilkevimbasvuruekrani.com
 ilkevimbasvuruinlwr3p03c1.vercel.app
 ilkevimbasvuruiovwd0m99bux.vercel.app
 ilkevimbasvurukanali.com
+ilkevimbasvurul48vl0wbr0.vercel.app
 ilkevimbasvurular.com
 ilkevimbasvurulari.org
 ilkevimbasvurularim500.org
@@ -231457,6 +231465,7 @@ kayitkabulbasvurusu.com
 kayitkredi.com
 kayitlar-webbit-try1.info
 kayitlar-yapikredi.com
+kayitlarbasladi-toki.sbs
 kayitlibilgiler.com
 kayitmekani.com
 kayitolmakicin.com
@@ -343138,6 +343147,7 @@ sosyalkonutbasvurusu.vercel.app
 sosyalkonutbasvurusum.vercel.app
 sosyalkonutbasvuuru2025.com.tr
 sosyalkonutbasvuuru2025.com.xn--tr-2caa
+sosyalkonutev-toki.vercel.app
 sosyalkonutevim.org
 sosyalkonutilkevim.com
 sosyalkonutilkevimilkisyerim.net
@@ -422471,6 +422481,7 @@ zerlhocantcompete.dyn
 zermnf.com
 zermnfl.com
 zernfl.com
+zernixo.sbs
 zero-ehizlibasvur-girisyap-kayitol.com
 zero-hemenal-kurumsalgirisim-tolerance.com
 zero-turkeygovtr.com
@@ -426231,6 +426242,7 @@ zyr0hgs.tech
 zyr0hgs.xyz
 zyr5xv.duckdns.org
 zyrdaware.site
+zyrdaware.xyz
 zyreni.store
 zyrlo.top
 zyrohgs.xyz
