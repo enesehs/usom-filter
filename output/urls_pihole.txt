@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-20 22:08:56 UTC
-# Toplam: 426351 Domain
+# Son Güncelleme: 2025-11-20 23:09:12 UTC
+# Toplam: 426358 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14456,6 +14456,7 @@
 500-bin-toki-basvuru.referansbilisim.online
 500-binbasvurutakip.com
 500-m.online
+5000-konut-basvuru.top
 5000-online-konut-basvuru.top
 50000110101.cloud
 5000coins.com
@@ -49443,6 +49444,7 @@ asddas.shop
 asddasdfasfasf.click
 asdddasd.hopto.org
 asdddlvrt-dvrt.com
+asddfs333.nicepage.io
 asddfsdfs.ddns.net
 asddsa.site
 asddsdesdsdfsfdfebimcell444.net
@@ -151904,6 +151906,7 @@ fibabank-web.click
 fibabank.click
 fibabank.kisal.cc
 fibabank.lat
+fibabank.online
 fibabank.site
 fibabank2022.ml
 fibabanka-kart-aidat-iadeleri.cf
@@ -172984,6 +172987,7 @@ grnttbbkredibasvurr.net
 grnttbbvvaa.com
 grnttbbvvaa.online
 grnttbnvvca.net
+grnttbsvruekrani.com
 grnttfiirsattzzamanii.site
 grnttibsvrruum.com
 grnttikredibassvur.vercel.app
@@ -245332,6 +245336,7 @@ lmrkrtdldrm.net
 lmrsanduuy.duckdns.org
 lms.hopto.org
 lms.latrobe.aroe.me
+lmt52frul2qt.storage.googleapis.com
 lmvfdkfdnv.net
 lmwcke.org
 lmx6yf1.duckdns.org
@@ -254441,6 +254446,7 @@ medusachecker.xyz
 medusapaketleme.com
 medusax.net
 medya-ajans.net
+medyacilarlayiz.net
 medyahaberim.com
 medyahabersitesi.duckdns.org
 medyahizmeti.com
@@ -268920,6 +268926,7 @@ nefesvakfi.org
 nefesveyasamvakfi.net
 nefisindirim-yklee.net
 nefismutfagim.com
+nefkonut.site
 neflix-pl.duckdns.org
 nefonbindcrafter.top
 nefosferta.com
