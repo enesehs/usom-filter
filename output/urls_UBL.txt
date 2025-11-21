@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-21 11:08:04 UTC
-! Total: 340155 rules
+! Last modified: 2025-11-21 13:23:17 UTC
+! Total: 340176 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -30975,6 +30975,7 @@
 *://*.annaasti-tickets.ru/*
 *://*.annabellaconstable.net/*
 *://*.annabelle.nl/*
+*://*.annamarinatatekrard.cloud/*
 *://*.annaplebanek.com/*
 *://*.anncute.com/*
 *://*.anndaindr-indaavgs-aaa10001.cfd/*
@@ -42811,6 +42812,7 @@
 *://*.basvurunu-tamamla-firsati-kacirma.com/*
 *://*.basvurunu-tamamlafibabnkda.com/*
 *://*.basvurunuanindatamamlaodulsource.net/*
+*://*.basvurunuhalayapmadiysan.cloud/*
 *://*.basvurunuhementamamla.com/*
 *://*.basvurunuhementamamlachekstatusorgrandfather.net/*
 *://*.basvurunuhemenyapsana.net/*
@@ -120894,6 +120896,7 @@
 *://*.fibaylakiraz2022.ml/*
 *://*.fibaylakirazhesap2022.ml/*
 *://*.fibaylaocaksonu.ml/*
+*://*.fibbankaturk.com/*
 *://*.fibemoi.com/*
 *://*.fiber-ev-internetbasvurusu.site/*
 *://*.fiber-evdeinternetbasvuru.site/*
@@ -122784,6 +122787,7 @@
 *://*.firsatinadresisimdindrm.online/*
 *://*.firsatinadresitemmuzgunleri.com/*
 *://*.firsatinakta25temmuzz.cloud/*
+*://*.firsatinanindahesap.site/*
 *://*.firsatinboylesi.site/*
 *://*.firsatinbuldu.com/*
 *://*.firsatinburaya-geldi.com/*
@@ -129096,6 +129100,7 @@
 *://*.garantibk.com/*
 *://*.garantibk.online/*
 *://*.garantibkbva.com/*
+*://*.garantibkonline.com/*
 *://*.garantibnk-com.tk/*
 *://*.garantibnk.com/*
 *://*.garantibnk.online/*
@@ -147530,6 +147535,7 @@
 *://*.hauyrt883.xyz/*
 *://*.hava-ist.com/*
 *://*.hava-ist.org/*
+*://*.hava.bio/*
 *://*.havaalaniarackira.co/*
 *://*.havaalaniarackirala.xyz/*
 *://*.havaalaniarackiralama.org/*
@@ -165955,6 +165961,7 @@
 *://*.ilkevim.com.pl/*
 *://*.ilkevim.xyz/*
 *://*.ilkevim250binbasvurusu.com/*
+*://*.ilkevim2tokimlerim.org/*
 *://*.ilkevim500bsvru-t-o-k-i.com/*
 *://*.ilkevimbasvr.xyz/*
 *://*.ilkevimbasvur2025.online/*
@@ -168040,6 +168047,7 @@
 *://*.indirimlersizlerleguncel.online/*
 *://*.indirimlersizlerleguncel.xyz/*
 *://*.indirimlersultani.com.tr/*
+*://*.indirimlervarsimdi.com/*
 *://*.indirimlerzamani.com/*
 *://*.indirimlgunlerim.store/*
 *://*.indirimli-20gb-internet.com/*
@@ -184956,6 +184964,7 @@
 *://*.kamuhizmetler.com/*
 *://*.kamuilan.org.tr/*
 *://*.kamuinfaz.com/*
+*://*.kamuinfaz.net/*
 *://*.kamukpssgirisleri.tk/*
 *://*.kamulitariunas.com/*
 *://*.kamulumemuru.com/*
@@ -191202,6 +191211,8 @@
 *://*.kmpnyaabsvrrraafinnss.click/*
 *://*.kmpnyaabsvrrrgrnntt.click/*
 *://*.kmpnyaakdayaz.name.tr/*
+*://*.kmpnyaaprmsynngrntt.info/*
+*://*.kmpnyaaprmsynngrntt.pro/*
 *://*.kmpnyaaqnbbbsvrr.click/*
 *://*.kmpnyabnctrgiris.online/*
 *://*.kmpnyabrda.xyz/*
@@ -194503,6 +194514,7 @@
 *://*.kuruvaslindol.online/*
 *://*.kurveytiturk.com/*
 *://*.kurveyturkk.com/*
+*://*.kurvio.sbs/*
 *://*.kurvyetturk.com/*
 *://*.kuryelikbasvurum.online/*
 *://*.kuryenetsorgu.online/*
@@ -199502,6 +199514,7 @@
 *://*.lstanbulkartislem.net/*
 *://*.lstanbulkartyukleme.ml/*
 *://*.lstanbulkartyukleme.net/*
+*://*.lstanbullcom.istanbul/*
 *://*.lstanbullolunhemen.com/*
 *://*.lstanbullu.shop/*
 *://*.lstanbulluburasi.click/*
@@ -205721,6 +205734,7 @@
 *://*.merkezbanks.info/*
 *://*.merkezbelediyeislemi.net/*
 *://*.merkezcicekevi.com/*
+*://*.merkezcicekevi.info/*
 *://*.merkezcimeri.com/*
 *://*.merkezdernegi.com/*
 *://*.merkezdernegi.net/*
@@ -216806,6 +216820,7 @@
 *://*.netinternets-my.cloud/*
 *://*.netisube-qnbfinansbank.com/*
 *://*.netivagator.com/*
+*://*.netkayitresmigiristok-i-govtr.com/*
 *://*.netkirlama.site/*
 *://*.netklop.life/*
 *://*.netkoruma.xyz/*
@@ -263237,6 +263252,7 @@
 *://*.sepetim-onayli-217426.com/*
 *://*.sepetim-onayli-227426.com/*
 *://*.sepetim-onayli-237426.com/*
+*://*.sepetim-onayli-24126.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
@@ -267979,6 +267995,7 @@
 *://*.simdilik-karaca-geldi-tabak-setleri-burada.com/*
 *://*.simdilik-ucuzluk-dolusu-yeniden-geldi.com/*
 *://*.simdilik-yaninda-olanlar-bitmeden-yakala.com/*
+*://*.simdiliksizlerehadigeldik.cfd/*
 *://*.simdillerdegelir1-11indirimlercm.com/*
 *://*.simdimialdinburaya.store/*
 *://*.simdimobile-ozelmobilkampanyasi-icintikla.tech/*
@@ -293957,6 +293974,7 @@
 *://*.trendyol66.com/*
 *://*.trendyola.icu/*
 *://*.trendyoladres.com/*
+*://*.trendyoladres.net/*
 *://*.trendyoladresim.com/*
 *://*.trendyoladresyenile.com/*
 *://*.trendyolagent.com/*
@@ -301265,6 +301283,7 @@
 *://*.ueox.club/*
 *://*.ueoxnzseacencs.online/*
 *://*.uepolicae.top/*
+*://*.uepttgov.click/*
 *://*.uera1o1.net/*
 *://*.uercusd.com/*
 *://*.ueropcar.net/*
@@ -311723,6 +311742,7 @@
 *://*.vrybztw.com/*
 *://*.vrycdop.com/*
 *://*.vrysanao0v.online/*
+*://*.vryx-node.sbs/*
 *://*.vsbgiky.shop/*
 *://*.vsble.me/*
 *://*.vscode.digital/*
@@ -333158,6 +333178,7 @@
 *://*.yepyeniaktuelindiirm.online/*
 *://*.yepyeniaktuelindiirm.xyz/*
 *://*.yepyenialisverisfirsatlari.com.tr/*
+*://*.yepyenifirsatlar.com/*
 *://*.yepyeniislm.net/*
 *://*.yepyenisigortacim.com.tr/*
 *://*.yepyenisigortacim.xyz/*
