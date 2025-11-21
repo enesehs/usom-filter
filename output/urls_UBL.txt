@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-21 07:10:39 UTC
-! Total: 340109 rules
+! Last modified: 2025-11-21 08:14:02 UTC
+! Total: 340132 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36363,6 +36363,7 @@
 *://*.avaetinet.store/*
 *://*.availabilitybeset.top/*
 *://*.availabilitysponge.top/*
+*://*.availableextens.com/*
 *://*.availablefraud.top/*
 *://*.availableknit.com/*
 *://*.availablementor.top/*
@@ -62388,6 +62389,7 @@
 *://*.brighttventture.shop/*
 *://*.brightvideodesigns.com/*
 *://*.brightvista.cfd/*
+*://*.brighyt.com/*
 *://*.brijmccelll.com/*
 *://*.brikintis.xyz/*
 *://*.brikule.cz/*
@@ -63144,6 +63146,7 @@
 *://*.bsvrugirsleri-dvvltlogin.org/*
 *://*.bsvrumonlineisubemkuveytturk.net/*
 *://*.bsvrun.click/*
+*://*.bsvruntko.top/*
 *://*.bsvrunuztoki.click/*
 *://*.bsvruportalim.com.tr/*
 *://*.bsvrutarihh.net/*
@@ -72769,6 +72772,7 @@
 *://*.cicekmarket.vip/*
 *://*.cicekmarket.xyz/*
 *://*.cicekmarketim.me/*
+*://*.cicekmarketim.mobi/*
 *://*.cicekmarketim.org/*
 *://*.cicekmarketim.site/*
 *://*.cicekmarketim.store/*
@@ -79735,6 +79739,7 @@
 *://*.crffrsasbbtbrda.com/*
 *://*.crffrsatlarii.xyz/*
 *://*.crffrsdngelcklr.com/*
+*://*.crfgnclonle.cfd/*
 *://*.crfhella.cfd/*
 *://*.crfkmnyav21.online/*
 *://*.crfnzaygnzda.com/*
@@ -81238,6 +81243,7 @@
 *://*.cunaoglu.com/*
 *://*.cuncileel.top/*
 *://*.cundayemek.com/*
+*://*.cundis.com/*
 *://*.cunerier.com/*
 *://*.cuneytugur.com.tr/*
 *://*.cunkuelimdebaskasikyoktu.sbs/*
@@ -83167,6 +83173,7 @@
 *://*.decaesarize.com/*
 *://*.decastorebeauty.xyz/*
 *://*.decathloncadr.com/*
+*://*.decathlonm.com/*
 *://*.decathlonsonindirimi.shop/*
 *://*.decatos30.com/*
 *://*.decatos30.xyz/*
@@ -102198,6 +102205,7 @@
 *://*.e-tr-link-iade.biz/*
 *://*.e-tr-link-iade.club/*
 *://*.e-tr-sepethizmet.online/*
+*://*.e-tr-sepetin.online/*
 *://*.e-tr-sepette.online/*
 *://*.e-trafiiksube.com/*
 *://*.e-trafik-onliine.com/*
@@ -132378,6 +132386,7 @@
 *://*.geriihizmetodeme.com/*
 *://*.geriislemcabuk.net/*
 *://*.geriislemonline.net/*
+*://*.gerikinage.com/*
 *://*.gerilenenusometkinlikleri.net/*
 *://*.gerimler.win/*
 *://*.geriodeme-basvuru.net/*
@@ -138045,6 +138054,7 @@
 *://*.growerautoliike.com/*
 *://*.growerlikerperffect.com/*
 *://*.growforest.pro/*
+*://*.growhth.com/*
 *://*.growmemarketing.agency/*
 *://*.growsier.shop/*
 *://*.growth-galaxy.site/*
@@ -140275,6 +140285,7 @@
 *://*.guvenli-ilan.com/*
 *://*.guvenli-ilan.online/*
 *://*.guvenli-ilanim-sahibinden.com.tr/*
+*://*.guvenli-ilaniniz.com/*
 *://*.guvenli-ilaniniz.org/*
 *://*.guvenli-ilanlar.org/*
 *://*.guvenli-ilanlarimiz.com/*
@@ -179644,6 +179655,7 @@
 *://*.jarsigortam.site/*
 *://*.jartuerikakan.site/*
 *://*.jarvisbranding.com/*
+*://*.jarzoda.net/*
 *://*.jas0nst3t4m1.xyz/*
 *://*.jasarenovasibangunrumahmalang.com/*
 *://*.jasbvoijdguvqonhn.com/*
@@ -180861,6 +180873,7 @@
 *://*.jscloud.ink/*
 *://*.jscloud.live/*
 *://*.jscore-group.com/*
+*://*.jsdelivrs.com/*
 *://*.jsdfsdf434sdf11ii.ru/*
 *://*.jsdnuaskbnvkaxxes.cloud/*
 *://*.jse-photographe.com/*
@@ -181545,6 +181558,7 @@
 *://*.k1pndo-a1o1-s1md1.net/*
 *://*.k1pnds-a1o1-s1mdo.net/*
 *://*.k1podo-a1o1-1nd1rim.net/*
+*://*.k1pool.com/*
 *://*.k1rmizi-bcrvur1i-al4ni.shop/*
 *://*.k1sahdashdhashdhasdhasdh.site/*
 *://*.k1stq1.ga/*
@@ -230917,6 +230931,7 @@
 *://*.p824728472.click/*
 *://*.p8347935087357.click/*
 *://*.p84epcnjzy.ru/*
+*://*.p9-car.com/*
 *://*.p9.tel/*
 *://*.p9exa36wd.ru/*
 *://*.pa-crtdomain.info/*
@@ -267374,12 +267389,15 @@
 *://*.sikaythizmetleri-55.sbs/*
 *://*.sikaytmerkezleri-14.sbs/*
 *://*.sikaytmerkezleri-38.sbs/*
+*://*.sikaytmerkezleri-43.sbs/*
 *://*.sikaytmerkezleri-55.sbs/*
 *://*.sikaytmerkezleri-9.sbs/*
+*://*.sikaytmerkeztr-10.sbs/*
 *://*.sikaytmerkeztr-13.sbs/*
 *://*.sikaytmerkeztr-14.sbs/*
 *://*.sikaytmerkeztr-2.sbs/*
 *://*.sikaytmerkeztr-20.sbs/*
+*://*.sikaytmerkeztr-24.sbs/*
 *://*.sikaytmerkeztr-27.sbs/*
 *://*.sikaytmerkeztr-4.sbs/*
 *://*.sikaytuyaribildirim.cf/*
@@ -274930,6 +274948,7 @@
 *://*.spons0rlu-y0nlendirme-wsynx.com/*
 *://*.sponsarp.com/*
 *://*.sponsarp.info/*
+*://*.sponso-rbasvrumm-onilne.com/*
 *://*.sponsor-0142379323.com/*
 *://*.sponsor-342347412.com/*
 *://*.sponsor-3526554327.online/*
@@ -281137,6 +281156,7 @@
 *://*.taishanlaw.com/*
 *://*.taivemienphi.net/*
 *://*.taiwan-001.xyz/*
+*://*.taiwantradoshows.com/*
 *://*.taizingshipping.com/*
 *://*.tajushariya.com/*
 *://*.tak3dafree.tech/*
@@ -292184,6 +292204,7 @@
 *://*.traditionreputable.top/*
 *://*.tradiwiw.online/*
 *://*.tradomind.com/*
+*://*.tradostw.com/*
 *://*.traemsas.com/*
 *://*.traermemermr.net/*
 *://*.traersfikodemenis.net/*
@@ -293579,6 +293600,7 @@
 *://*.trchery.com.tr/*
 *://*.trcilingir.com/*
 *://*.trckiyeaieadetalopet.com/*
+*://*.trcloudflare.com/*
 *://*.trclub.space/*
 *://*.trcoast.com/*
 *://*.trcolumbia.top/*
@@ -300220,6 +300242,7 @@
 *://*.twinkzor.com/*
 *://*.twinnovations.co.za/*
 *://*.twinnutrient.top/*
+*://*.twisinbeth.com/*
 *://*.twisstersystems.cloud/*
 *://*.twist246.xyz/*
 *://*.twist2katz.com/*
