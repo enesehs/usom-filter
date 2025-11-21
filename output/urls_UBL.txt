@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-21 21:07:59 UTC
-! Total: 340264 rules
+! Last modified: 2025-11-21 22:08:43 UTC
+! Total: 340267 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41468,6 +41468,7 @@
 *://*.basvurrmyk.cyou/*
 *://*.basvurrmyk.xyz/*
 *://*.basvurrrprmsnynn.online/*
+*://*.basvurrrprmsynnnnnn.info/*
 *://*.basvurrrruuackmobilbireyselackkk.com/*
 *://*.basvurrtoki.art/*
 *://*.basvurrtoki.info/*
@@ -274102,6 +274103,7 @@
 *://*.sosyalkonutsosyalyasamvadisi.com/*
 *://*.sosyalkonutum2025.com/*
 *://*.sosyalkonutumtoki.com/*
+*://*.sosyalkonutunuz.cfd/*
 *://*.sosyalkonutuygulamasi.com/*
 *://*.sosyalkosk.online/*
 *://*.sosyalkral.tk/*
@@ -284944,6 +284946,7 @@
 *://*.tektipdnz.site/*
 *://*.tektipwp.site/*
 *://*.tektokat.cfd/*
+*://*.tektokiilkevimgovtr.com/*
 *://*.tektonit.ru/*
 *://*.tekuran.com/*
 *://*.tekvnlll.net/*
