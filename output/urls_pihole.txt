@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-21 00:42:49 UTC
-# Toplam: 426365 Domain
+# Son Güncelleme: 2025-11-21 02:23:42 UTC
+# Toplam: 426371 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -151902,6 +151902,7 @@ fibabangasi.cfd
 fibabank-cekilis-katilim-form.ml
 fibabank-cekilis-katilim-form.tk
 fibabank-online.buzz
+fibabank-online.click
 fibabank-top.ml
 fibabank-web.click
 fibabank.click
@@ -155930,6 +155931,7 @@ fk02m4b.duckdns.org
 fk1vhv.duckdns.org
 fk24f2kf2k4fk.xyz
 fk2ag.info.tr
+fk5ql65lkin.storage.googleapis.com
 fk8ov7lc0.duckdns.org
 fk8pyy9m.duckdns.org
 fk9zgz.duckdns.org
@@ -187238,6 +187240,7 @@ hemenislemm.net
 hemenislemmbasv00.online
 hemenislemmerkezi.app
 hemenislemmx.sg-host.com
+hemenislemosnutlktaktan.blogspot.com
 hemenisltblkylme.net
 hemenistjx.cfd
 hemenistlanbullnnu.online
@@ -205406,6 +205409,7 @@ iletisim-hizmetlerim-porta.tk
 iletisim-hzmtleri.art
 iletisim-hzmtleri.org
 iletisim-iadebakanliginiztr9.com
+iletisim-konut-hizli.sbs
 iletisim-online-aktarim-ekrani.store
 iletisim-sedef.com
 iletisim-sistemleri.net
@@ -216910,6 +216914,7 @@ istnbllukrtdldr.net
 istnblluolrmsnd.com
 istnblluolrmusnsusuna.com
 istnbllwkart.com
+istnbllwkjx.click
 istnbllyklme.net
 istnblmdolmnktasi.net
 istnblmkart.com
@@ -231240,6 +231245,7 @@ katilma.vip
 katilmafirsati-bncloudhmnkatlsdne.cloud
 katilmafirsati.net
 katilmafirsatihemenglobalbance.tech
+katilmeq.blogspot.com
 katilmobilacikdenizv2denizbank.co.vu
 katilmvakfbreysel.cfd
 katilmvakfbreysel.cyou
