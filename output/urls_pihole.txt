@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-21 16:11:38 UTC
-# Toplam: 426499 Domain
+# Son Güncelleme: 2025-11-21 17:08:15 UTC
+# Toplam: 426504 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -205764,6 +205764,7 @@ ilkevimbasvuruekrani.com
 ilkevimbasvuruinlwr3p03c1.vercel.app
 ilkevimbasvuruiovwd0m99bux.vercel.app
 ilkevimbasvurukanali.com
+ilkevimbasvurul34539jsnf.vercel.app
 ilkevimbasvurul48vl0wbr0.vercel.app
 ilkevimbasvurular.com
 ilkevimbasvurulari.org
@@ -283736,6 +283737,7 @@ onpointcu.hopto.org
 onpointsms.duckdns.org
 onpointz.duckdns.org
 onpos.2kool4u.net
+onpttgov.click
 onpvy65hr.duckdns.org
 onradnedusd.online
 onrise.store
@@ -336683,6 +336685,7 @@ sinirlimatkapsuresi.xyz
 sinirlisaydaurunler.com.tr
 sinirlisaydaurunler.online
 sinirlisayidadunyaozelkamsakal.shop
+sinirlisayidafirsaturunus.sbs
 sinirlisayidaflrsat.shop
 sinirlisayidagelenler.cfd
 sinirlisayidaizeltas.xyz
@@ -362356,6 +362359,7 @@ tokikonutlariturkiye.site
 tokikonutlarprojem.best
 tokikonutlarprojem.site
 tokikonutprojeleri.com
+tokikonutprojeleri.hava.bio
 tokikonutprojesi.com
 tokikonutprojesi.hava.bio
 tokikonutprojesi.versel.app
@@ -414676,6 +414680,7 @@ yatirim-atlasi.online
 yatirim-defteri.online
 yatirim-deniz-tr.com
 yatirim-denizbank.ml
+yatirim-dunyasi.info
 yatirim-formlinki.site
 yatirim-garanti.net
 yatirim-garanti.site
