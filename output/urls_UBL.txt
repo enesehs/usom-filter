@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-21 15:09:13 UTC
-! Total: 340202 rules
+! Last modified: 2025-11-21 16:11:38 UTC
+! Total: 340211 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6804,6 +6804,7 @@
 *://*.25-ocakfirsatlari.shop/*
 *://*.25-subat-firsatlar.shop/*
 *://*.25-subatfirsatlar.shop/*
+*://*.25-tok-elkraln.sbs/*
 *://*.25-yil-acik-deniz.cf/*
 *://*.250-bintoplukonut.com/*
 *://*.2500-onlinegeriodemenizkartislemlerigovtr.com/*
@@ -26451,6 +26452,7 @@
 *://*.akustiktrs.com/*
 *://*.akutakviyekit.click/*
 *://*.akutakviyekiti.click/*
+*://*.akutakviyekitin.click/*
 *://*.akutel101.shop/*
 *://*.akutelaldinaldin.store/*
 *://*.akutelfirsati.shop/*
@@ -174517,6 +174519,7 @@
 *://*.istanbul2023um.ml/*
 *://*.istanbul34favela.net/*
 *://*.istanbul35.xyz/*
+*://*.istanbul724.online/*
 *://*.istanbuladawqza.net/*
 *://*.istanbulagelcsen.net/*
 *://*.istanbulairport.xyz/*
@@ -215140,6 +215143,7 @@
 *://*.n834783479.click/*
 *://*.n8472760273461036l382.icu/*
 *://*.n85853.cn/*
+*://*.n8n.cloud/*
 *://*.n9-jobs.com/*
 *://*.n91t78dxr3.com/*
 *://*.n98erejcf9t.com/*
@@ -274056,6 +274060,7 @@
 *://*.sosyalkonutprojesindeyerinizialin.shop/*
 *://*.sosyalkonuts.sbs/*
 *://*.sosyalkonutsosyalyasamvadisi.com/*
+*://*.sosyalkonutum2025.com/*
 *://*.sosyalkonutumtoki.com/*
 *://*.sosyalkonutuygulamasi.com/*
 *://*.sosyalkosk.online/*
@@ -289940,6 +289945,7 @@
 *://*.toplukonut.homes/*
 *://*.toplukonut.site/*
 *://*.toplukonut400.com/*
+*://*.toplukonut400.sbs/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonutaonline.com/*
 *://*.toplukonutapp.com/*
@@ -295241,6 +295247,7 @@
 *://*.tromerci.net/*
 *://*.trominguatedrop.org/*
 *://*.tromtustec.quest/*
+*://*.tron-scan.us/*
 *://*.tronaveil.sbs/*
 *://*.tronayli-ilanlar.com/*
 *://*.tronayli-odeme.com/*
@@ -320549,6 +320556,8 @@
 *://*.www-kasim-pandemisorgulama-tr.com/*
 *://*.www-kasim-pandemisorgulama.com/*
 *://*.www-kasim-pandemisorgulama.org/*
+*://*.www-kgm.com/*
+*://*.www-kgm.me/*
 *://*.www-kmdestek.shop/*
 *://*.www-kmonline.shop/*
 *://*.www-kobi-halkbankasi-com.tk/*
