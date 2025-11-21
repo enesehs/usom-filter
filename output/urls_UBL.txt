@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-21 09:10:22 UTC
-! Total: 340135 rules
+! Last modified: 2025-11-21 10:09:52 UTC
+! Total: 340154 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29909,6 +29909,7 @@
 *://*.anadoludolmen.eu/*
 *://*.anadoluegitimvakfi.net/*
 *://*.anadoluelisx.pro/*
+*://*.anadolufikir.org/*
 *://*.anadoluflexsari.xyz/*
 *://*.anadolugelecekas.blog/*
 *://*.anadolugenclikkurumu.com/*
@@ -30291,6 +30292,7 @@
 *://*.andromediacenter.net/*
 *://*.andrometatech.com.tr/*
 *://*.andropek.at/*
+*://*.androsinyst.com/*
 *://*.androton.online/*
 *://*.andsdud-ansma-amsjs.icu/*
 *://*.andsigorta.net/*
@@ -35220,6 +35222,7 @@
 *://*.asnurarara.click/*
 *://*.asoasotnmyn.net/*
 *://*.asobabastoxd.net/*
+*://*.asockco.com/*
 *://*.asogida.com.tr/*
 *://*.asogida.online/*
 *://*.asomonline.net/*
@@ -37015,6 +37018,7 @@
 *://*.avkrentacar.net/*
 *://*.avktbilgisistemi.icu/*
 *://*.avkymlodesikgm.com/*
+*://*.avlasalas.com/*
 *://*.avlrcccwnrelljn.su/*
 *://*.avlsfilo.online/*
 *://*.avlsrentfilo.com/*
@@ -74817,6 +74821,7 @@
 *://*.codadim.net/*
 *://*.codasal.com/*
 *://*.codcraft.shop/*
+*://*.codderrush.com/*
 *://*.code-cloud1.co.za/*
 *://*.code-cloud2.co.za/*
 *://*.code-cloud3.co.za/*
@@ -83337,6 +83342,7 @@
 *://*.deepmindua.com/*
 *://*.deepmoler.at/*
 *://*.deepnenact.top/*
+*://*.deepperstep.com/*
 *://*.deepprostore.com/*
 *://*.deeps.fun/*
 *://*.deepsearch.com.tr/*
@@ -83744,6 +83750,7 @@
 *://*.deliverynice.club/*
 *://*.deliveryritime.top/*
 *://*.deliveryversatile.top/*
+*://*.delkrano.com/*
 *://*.dell1.ug/*
 *://*.delldrivers.in/*
 *://*.dellenmis.com/*
@@ -119353,6 +119360,7 @@
 *://*.fashionbeautyinternational.com/*
 *://*.fashionbrall.com/*
 *://*.fashionbyprincessmelodicaah.com/*
+*://*.fashionhive.cfd/*
 *://*.fashionhumblee.com/*
 *://*.fashionsources.co.uk/*
 *://*.fashionstuff.ru/*
@@ -138079,6 +138087,7 @@
 *://*.growtrailz.com/*
 *://*.growtura.lat/*
 *://*.growwithusnetflx.com/*
+*://*.growwthopics.com/*
 *://*.growyourwealth.cf/*
 *://*.groz-toolz.com/*
 *://*.groznog-roomner.net/*
@@ -182785,6 +182794,7 @@
 *://*.kakomagato.net/*
 *://*.kakturk53636316.online/*
 *://*.kaktuus.com/*
+*://*.kal-go.com/*
 *://*.kal20gb.site/*
 *://*.kaladamotors.xyz/*
 *://*.kalahariseed.com/*
@@ -196362,6 +196372,7 @@
 *://*.lbvvirclvhkqybt.su/*
 *://*.lbwkfayho.com/*
 *://*.lbydauto.com/*
+*://*.lc-ert.com/*
 *://*.lc3.xyz/*
 *://*.lca.mobi/*
 *://*.lcaft.com/*
@@ -204089,6 +204100,7 @@
 *://*.maxrentotokirala.online/*
 *://*.maxrentsfilo.online/*
 *://*.maxrenttorent.online/*
+*://*.maxriding.com/*
 *://*.maxsaveshop.com/*
 *://*.maxsigorta.net/*
 *://*.maxsimum.ml/*
@@ -207347,6 +207359,7 @@
 *://*.mirtheatre.com/*
 *://*.mirthok.com/*
 *://*.mirtotakapanaritaka.top/*
+*://*.mirvanto.com/*
 *://*.mirverlleknim.com/*
 *://*.mirw.wf/*
 *://*.mirzato.pro/*
@@ -211437,6 +211450,7 @@
 *://*.movolokko.de/*
 *://*.movolta.cfd/*
 *://*.movolta.sbs/*
+*://*.movtrin.com/*
 *://*.movufa.com/*
 *://*.mowboycott.top/*
 *://*.mowcivic.top/*
@@ -214712,6 +214726,7 @@
 *://*.mymediapc.net/*
 *://*.myminiestate.com/*
 *://*.myminimarketplace.com/*
+*://*.myminkme.com/*
 *://*.mymn.xyz/*
 *://*.mymom.info/*
 *://*.mymooney.ru/*
@@ -254440,6 +254455,7 @@
 *://*.romantoskar.net/*
 *://*.romariocheck.online/*
 *://*.rombihecrew.com/*
+*://*.romblous.com/*
 *://*.romcablu.com/*
 *://*.romcarkiralama.com/*
 *://*.romcollectionmelbourne.com/*
@@ -280209,6 +280225,7 @@
 *://*.swiftversity.com/*
 *://*.swim21under.top/*
 *://*.swimarc.top/*
+*://*.swimiffy.com/*
 *://*.swimjerk.top/*
 *://*.swimmerepidemic.top/*
 *://*.swimmerparrot.top/*
@@ -289281,6 +289298,7 @@
 *://*.tokiekkonut.com/*
 *://*.tokiemlak.org/*
 *://*.tokietap.com/*
+*://*.tokiev-konutprojeleri.com/*
 *://*.tokiev.com/*
 *://*.tokiev.org/*
 *://*.tokiev.xyz/*
@@ -332310,6 +332328,7 @@
 *://*.yenikepimguncel.net/*
 *://*.yenikiralikaracbirimi.online/*
 *://*.yenikitaplar-mobilden-sendeoku.shop/*
+*://*.yenikonlterm.click/*
 *://*.yenikonut-basvur.sbs/*
 *://*.yenikonut.click/*
 *://*.yenikonut.store/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-21 09:10:22 UTC
-# Toplam: 426414 Domain
+# Son Güncelleme: 2025-11-21 10:09:52 UTC
+# Toplam: 426433 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -43600,6 +43600,7 @@ anadoludestekekibi-gov-tr.ml
 anadoludolmen.eu
 anadoluegitimvakfi.net
 anadoluelisx.pro
+anadolufikir.org
 anadoluflexsari.xyz
 anadolugelecekas.blog
 anadolugenclikkurumu.com
@@ -44060,6 +44061,7 @@ andromdsqv.com
 andromedacentro.ddns.net
 andrometatech.com.tr
 andropek.at
+androsinyst.com
 androton.online
 andscripts.duckdns.org
 andsdud-ansma-amsjs.icu
@@ -50137,6 +50139,7 @@ asnyc2020.ddns.net
 asoasotnmyn.net
 asobabastoxd.net
 asociacionuproject.ddns.net
+asockco.com
 asogida.com.tr
 asogida.online
 asomonline.net
@@ -52724,6 +52727,7 @@ avkrentacar.net
 avktbilgisistemi.icu
 avkthgsborcodeme.duckdns.org
 avkymlodesikgm.com
+avlasalas.com
 avlbwtyfqx.duckdns.org
 avlle.gnvc.l.k.bilgiislemim.net
 avllegv.nclk.basuvurudurum.net
@@ -97316,6 +97320,7 @@ codashopgratis2021.zapto.org
 codashoplevemttgratiss.duckdns.org
 codashopp-topup.duckdns.org
 codcraft.shop
+codderrush.com
 code-cloud1.co.za
 code-cloud2.co.za
 code-cloud3.co.za
@@ -108345,6 +108350,7 @@ deeplyseak.top
 deepmindua.com
 deepmoler.at
 deepnenact.top
+deepperstep.com
 deepprostore.com
 deeps.fun
 deepsearch.com.tr
@@ -108808,6 +108814,7 @@ deliverys-dhlpaket.zapto.org
 deliverysystempack.ddns.net
 deliveryversatile.top
 delivrysystems.ddns.net
+delkrano.com
 dell1.ug
 dellenmis.com
 dellgenius.hopto.org
@@ -150109,6 +150116,7 @@ fashionandhomestyle.com
 fashionbeautyinternational.com
 fashionbrall.com
 fashionbyprincessmelodicaah.com
+fashionhive.cfd
 fashionhumblee.com
 fashionsources.co.uk
 fashionstuff.ru
@@ -173149,6 +173157,7 @@ growtopiaheys.duckdns.org
 growtrailz.com
 growtura.lat
 growwithusnetflx.com
+growwthopics.com
 growyourwealth.cf
 groz-toolz.com
 groznog-roomner.net
@@ -225991,6 +226000,7 @@ kakomagato.net
 kakturk53636316.online
 kaktuus.com
 kakunlgvn.webflow.io
+kal-go.com
 kal20gb.site
 kaladamotors.xyz
 kalahariseed.com
@@ -242732,6 +242742,7 @@ lbxn5dq.duckdns.org
 lbydauto.com
 lbygrxeu.wcnv20.cn
 lbzxclzxcxzmjrrlyzxmc.blogspot.com
+lc-ert.com
 lc.iranshik.com
 lc13ug.duckdns.org
 lc3w.telemetry.geostatcdn.com
@@ -253346,6 +253357,7 @@ maxrentauto.online
 maxrentotokirala.online
 maxrentsfilo.online
 maxrenttorent.online
+maxriding.com
 maxsaveshop.com
 maxsigorta.net
 maxsimum.ml
@@ -257600,6 +257612,7 @@ mirtheatre.com
 mirthok.com
 mirtotakapanaritaka.top
 mirubzi.zapto.org
+mirvanto.com
 mirverlleknim.com
 mirw.wf
 mirzato.pro
@@ -262593,6 +262606,7 @@ movokold.xyz
 movolokko.de
 movolta.cfd
 movolta.sbs
+movtrin.com
 movufa.com
 mow8aqpnl.duckdns.org
 mowboycott.top
@@ -266852,6 +266866,7 @@ mymetasupport.hopto.org
 myminfinfo.ddns.net
 myminiestate.com
 myminimarketplace.com
+myminkme.com
 mymlife.hopto.org
 mymn.xyz
 mymooney.ru
@@ -317048,6 +317063,7 @@ romario666.ddns.net
 romariocheck.online
 romatotti520.oicp.io
 rombihecrew.com
+romblous.com
 rombro215.duckdns.org
 romcablu.com
 romcarkiralama.com
@@ -351249,6 +351265,7 @@ swiimecoej.duckdns.org
 swiisbarg-wallet.webflow.io
 swim21under.top
 swimarc.top
+swimiffy.com
 swimjerk.top
 swimmerepidemic.top
 swimmerparrot.top
@@ -362130,6 +362147,7 @@ tokiedevletbasvuru-21358.kxcdn.com
 tokiekkonut.com
 tokiemlak.org
 tokietap.com
+tokiev-konutprojeleri.com
 tokiev.com
 tokiev.com-e-islemler.com.tr
 tokiev.com-e-islemlerim.com.tr
@@ -416286,6 +416304,7 @@ yenikepimguncel.net
 yenikgssgecislerim.duckdns.org
 yenikiralikaracbirimi.online
 yenikitaplar-mobilden-sendeoku.shop
+yenikonlterm.click
 yenikonut-basvur.sbs
 yenikonut.click
 yenikonut.store
