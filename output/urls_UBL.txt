@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-22 15:07:38 UTC
-! Total: 340302 rules
+! Last modified: 2025-11-22 17:06:41 UTC
+! Total: 340319 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13132,6 +13132,7 @@
 *://*.Lzmnelemenemndeyklme.net/*
 *://*.Macosapp-apple.com/*
 *://*.Macosxappstore.com/*
+*://*.Medcv.beer/*
 *://*.Microsearch.me/*
 *://*.Mstores.top/*
 *://*.Mua1s5tV.kr/*
@@ -61898,6 +61899,7 @@
 *://*.bpkayit.com/*
 *://*.bpkazikazan.com/*
 *://*.bpkazikazan1.com/*
+*://*.bpkgsm.cc/*
 *://*.bpkjvfye.com/*
 *://*.bpkrqeg.com/*
 *://*.bpl5w00.cn/*
@@ -79181,6 +79183,7 @@
 *://*.coursedeploy.top/*
 *://*.coursedonnyre.shop/*
 *://*.courseflush.top/*
+*://*.coursefoursa.online/*
 *://*.courtaesthetic.top/*
 *://*.courtappdirectory.com/*
 *://*.courtcredible.top/*
@@ -115826,6 +115829,7 @@
 *://*.evcalisma.com/*
 *://*.evcanpaket.store/*
 *://*.evcaveresbelek.top/*
+*://*.evcenter.click/*
 *://*.evcil-dostlar-icin-konforlu-urunler.top/*
 *://*.evcilkurba.com/*
 *://*.evcilkurba.tk/*
@@ -117239,6 +117243,7 @@
 *://*.evvdensitendesinevlilik.com.tr/*
 *://*.evvdepaketleyapipkazan.gq/*
 *://*.evvermantix.com/*
+*://*.evvizyon.click/*
 *://*.evvlilikbasvuru.site/*
 *://*.evvlilikkrasindeesn.com.tr/*
 *://*.evvlilikkrasindesn.com.tr/*
@@ -120794,6 +120799,7 @@
 *://*.fibabanka-tr.online/*
 *://*.fibabanka-web.click/*
 *://*.fibabanka-web.lat/*
+*://*.fibabanka.cfd/*
 *://*.fibabanka.click/*
 *://*.fibabanka.club/*
 *://*.fibabanka.com.gr/*
@@ -165704,6 +165710,7 @@
 *://*.ileriadimvakfi.com/*
 *://*.ileriadimvakfi.org/*
 *://*.ileride-guzelden-hislerle-tanisip-sevilir.com/*
+*://*.ilerievleriprojem.com/*
 *://*.ilerigiden.online/*
 *://*.ilerinesillervakfi.org/*
 *://*.ilerinesillervakifi.org/*
@@ -188428,6 +188435,7 @@
 *://*.kefilsizbasvuruplatformu.com/*
 *://*.kefogkorbefylk.com/*
 *://*.kegmgv.sbs/*
+*://*.kegmty.click/*
 *://*.kehlababafivem.net/*
 *://*.kehnntttkrtdlm.net/*
 *://*.kehoumpa.xyz/*
@@ -188543,6 +188551,7 @@
 *://*.kemiyegol.xyz/*
 *://*.kemmkd.com/*
 *://*.kemoge.net/*
+*://*.kemsoft.la/*
 *://*.kemtkrtaski.net/*
 *://*.ken42142142.shop/*
 *://*.kena-mobile.info/*
@@ -189316,6 +189325,7 @@
 *://*.kgmgov.live/*
 *://*.kgmgov.store/*
 *://*.kgmgov.vip/*
+*://*.kgmgov.xyz/*
 *://*.kgmgovet.cfd/*
 *://*.kgmgovetctr.com/*
 *://*.kgmgovitr.top/*
@@ -189351,6 +189361,7 @@
 *://*.kgmimgovtr.top/*
 *://*.kgminfo-ihlalsis.com/*
 *://*.kgminfo.cc/*
+*://*.kgmisgv.click/*
 *://*.kgmivdodeme.net/*
 *://*.kgmkarayoluajan.com/*
 *://*.kgmkarayoluajans.com/*
@@ -189389,6 +189400,7 @@
 *://*.kgmotoyolwebsis.icu/*
 *://*.kgmouw.cc/*
 *://*.kgmov.life/*
+*://*.kgmovt.cyou/*
 *://*.kgmpgo.life/*
 *://*.kgmplakadanajans.info/*
 *://*.kgmplakadanajansindirimlicezaodemesii.com/*
@@ -244304,6 +244316,7 @@
 *://*.pttappmarket.xyz/*
 *://*.pttapps.one/*
 *://*.pttarc.top/*
+*://*.pttarcel.live/*
 *://*.pttasdgonderistakipa.com/*
 *://*.pttasvo.life/*
 *://*.pttavghizliodemeservis.net/*
@@ -274117,6 +274130,7 @@
 *://*.sosyalkonutlar2025.com/*
 *://*.sosyalkonutlarabasvur.net/*
 *://*.sosyalkonutlari.sbs/*
+*://*.sosyalkonutlarim.click/*
 *://*.sosyalkonutlarimtoki.com/*
 *://*.sosyalkonutlarimtoki.org/*
 *://*.sosyalkonutlarin.click/*
@@ -289150,6 +289164,7 @@
 *://*.toki-basvur.com/*
 *://*.toki-basvur.info/*
 *://*.toki-basvurl.digital/*
+*://*.toki-basvurru.click/*
 *://*.toki-basvurru.info/*
 *://*.toki-basvuru-2025.xyz/*
 *://*.toki-basvuru.info/*
@@ -289361,6 +289376,7 @@
 *://*.tokibasvurumutamamla.site/*
 *://*.tokibasvurun.com/*
 *://*.tokibasvurunuz.click/*
+*://*.tokibasvurunuz.com/*
 *://*.tokibasvurunuzonline.click/*
 *://*.tokibasvuruonline.com/*
 *://*.tokibasvurusorgu.tk/*
@@ -332281,6 +332297,7 @@
 *://*.yenieklimitim.site/*
 *://*.yeniekrem.net/*
 *://*.yenielelefirsat.net/*
+*://*.yeniemlak.click/*
 *://*.yeniemlakvergi-odemeleri2022.tk/*
 *://*.yeniemlakvergisikasim2022.ml/*
 *://*.yenienpara.com/*

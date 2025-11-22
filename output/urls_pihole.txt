@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-22 15:07:38 UTC
-# Toplam: 426613 Domain
+# Son Güncelleme: 2025-11-22 17:06:41 UTC
+# Toplam: 426634 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21600,6 +21600,7 @@ Lzmxlrmdlmyp.blogspot.com
 MAIL.starmech.in
 Macosapp-apple.com
 Macosxappstore.com
+Medcv.beer
 Microsearch.me
 MoOHyAYeuaut2scr.ddns.net
 Mstores.top
@@ -78935,6 +78936,7 @@ bnncsonlinebasvurutr.com
 bnncsrbasvurular.online
 bnncsresmigrsdstk.com
 bnncss5343-4634523-34bn.com
+bnncssgrslrm.vercel.app
 bnncsstrwebgiris.com
 bnncstraccountstr.online
 bnncstrgrc.vercel.app
@@ -81393,6 +81395,7 @@ bpk4d3e.duckdns.org
 bpkayit.com
 bpkazikazan.com
 bpkazikazan1.com
+bpkgsm.cc
 bpkjvfye.com
 bpkosten.ddns.net
 bpkrqeg.com
@@ -102139,6 +102142,7 @@ course-math.info
 coursedeploy.top
 coursedonnyre.shop
 courseflush.top
+coursefoursa.online
 court-agrees.gl.at.ply.gg
 courtaesthetic.top
 courtcredible.top
@@ -121863,6 +121867,7 @@ domisnossopicason.tk
 domisnossopicasozn.tk
 domisnossopicasozvn.tk
 domkalkayaklan.site
+domlarkes.duckdns.org
 domlarkestasdasheajk.duckdns.org
 domlavergodelsl.com
 dommemnsda.wiki
@@ -145684,6 +145689,7 @@ evburasi.click
 evcalisma.com
 evcanpaket.store
 evcaveresbelek.top
+evcenter.click
 evcil-dostlar-icin-konforlu-urunler.top
 evcilkurba.com
 evcilkurba.tk
@@ -147328,6 +147334,7 @@ evvdensitendesinevlilik.com.tr
 evvdepaketleyapipkazan.gq
 evvelkkkk.blogspot.com
 evvermantix.com
+evvizyon.click
 evvlilikbasvuru.site
 evvlilikkrasindeesn.com.tr
 evvlilikkrasindesn.com.tr
@@ -151982,6 +151989,7 @@ fibabanka-tr.online
 fibabanka-web.click
 fibabanka-web.lat
 fibabanka.agencylook.org
+fibabanka.cfd
 fibabanka.click
 fibabanka.club
 fibabanka.com.gr
@@ -205439,6 +205447,7 @@ ileriadimat.online
 ileriadimvakfi.com
 ileriadimvakfi.org
 ileride-guzelden-hislerle-tanisip-sevilir.com
+ilerievleriprojem.com
 ilerigiden.online
 ilerinesillervakfi.org
 ilerinesillervakifi.org
@@ -232320,6 +232329,7 @@ kefogkorbefylk.com
 kefzh6h7.duckdns.org
 keg38u.duckdns.org
 kegmgv.sbs
+kegmty.click
 kehlababafivem.net
 kehnntttkrtdlm.net
 kehora.ddns.net
@@ -232457,6 +232467,7 @@ kemiyegol.xyz
 kemmkd.com
 kemoelsayed7.no-ip.biz
 kemoge.net
+kemsoft.la
 kemtkrtaski.net
 ken.synergize.co
 ken.zapto.org
@@ -233387,6 +233398,7 @@ kgmgov-tr.ink
 kgmgov.live
 kgmgov.store
 kgmgov.vip
+kgmgov.xyz
 kgmgovet.cfd
 kgmgovetctr.com
 kgmgovitr.top
@@ -233427,6 +233439,7 @@ kgmiletisim.ink
 kgmimgovtr.top
 kgminfo-ihlalsis.com
 kgminfo.cc
+kgmisgv.click
 kgmivdodeme.net
 kgmkarayoluajan.com
 kgmkarayoluajans.com
@@ -233471,6 +233484,7 @@ kgmotoyolmobilgc.duckdns.org
 kgmotoyolwebsis.icu
 kgmouw.cc
 kgmov.life
+kgmovt.cyou
 kgmpgo.life
 kgmplakadanajans.info
 kgmplakadanajansindirimlicezaodemesii.com
@@ -303495,6 +303509,7 @@ pttappa.yachts
 pttappmarket.xyz
 pttapps.one
 pttarc.top
+pttarcel.live
 pttasdgonderistakipa.com
 pttasf5421.blogspot.com
 pttasvo.life
@@ -317085,6 +317100,7 @@ roe.efeoyundasal.click
 roebaba.duckdns.org
 roebaba1.duckdns.org
 roebaba6.duckdns.org
+roebaba8.duckdns.org
 roebabaoyunda.click
 roebabareklamda.efeoyundaefefefe.click
 roelpaketleme.site
@@ -343366,6 +343382,7 @@ sosyalkonutlar2025.com
 sosyalkonutlarabasvur.net
 sosyalkonutlarbasvurutoki.vercel.app
 sosyalkonutlari.sbs
+sosyalkonutlarim.click
 sosyalkonutlarimkayit-toki.vercel.app
 sosyalkonutlarimtoki.com
 sosyalkonutlarimtoki.org
@@ -361874,6 +361891,7 @@ toki-basvur.com
 toki-basvur.info
 toki-basvur.sa.com
 toki-basvurl.digital
+toki-basvurru.click
 toki-basvurru.info
 toki-basvurru.sa.com
 toki-basvuru-2025.xyz
@@ -361969,6 +361987,7 @@ toki-sosyalbasvurukonutlari.vercel.app
 toki-sosyalbasvurularikonut.vercel.app
 toki-sosyalbasvurularkonut.vercel.app
 toki-sosyalkonutlarbasvuru.vercel.app
+toki-sosyalkonutlarin.vercel.app
 toki-sosyalkonutprojeleri.vercel.app
 toki-sosyalkonutprojesi.vercel.app
 toki-soyalbasvurularim.vercel.app
@@ -362216,6 +362235,7 @@ tokibasvurumutamamla.site
 tokibasvurumuyapiyorum.b-cdn.net
 tokibasvurun.com
 tokibasvurunuz.click
+tokibasvurunuz.com
 tokibasvurunuzonline.click
 tokibasvuruonline.com
 tokibasvurusorgu.tk
@@ -416262,6 +416282,7 @@ yenieklimitim.online
 yenieklimitim.site
 yeniekrem.net
 yenielelefirsat.net
+yeniemlak.click
 yeniemlakvergi-odemeleri2022.tk
 yeniemlakvergisikasim2022.ml
 yenienpara.com
