@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-22 06:12:41 UTC
-# Toplam: 426582 Domain
+# Son Güncelleme: 2025-11-22 07:08:31 UTC
+# Toplam: 426589 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -35401,6 +35401,7 @@ ainternetsubesiqnbfinansbank-com.tk
 ainude.site
 aiofotoevideo.com
 aiontop.ddns.net
+aiopolotriinv.com
 aioufhaoiuyasf.duckdns.org
 aiovomc.com
 aipa.ca
@@ -41450,6 +41451,7 @@ alisverislerim.com
 alisverislerimizde.click
 alisverislerin.com.tr
 alisverislerin.online
+alisverislerinde.click
 alisverislerinizguvende14.com.tr
 alisverislerinizguvende14.xyz
 alisverislerintr.com.tr
@@ -231700,6 +231702,7 @@ kazanbonuspuan.com
 kazanc-ekseni.online
 kazanc-evrim.com
 kazanc-finansalgelir.org
+kazanc-firsatlari.info
 kazanc-kapisi.online
 kazanc-mimari.online
 kazanc-serisi.online
@@ -233682,6 +233685,7 @@ kho8arje.ddns.net
 khoavuaudio.com
 khod3pu0cj7p7pe6opuno4i.ddns.net
 kholapqua.com
+khold.info
 khotsonglodge.co.ls
 khoumainis.com
 khpcbznsl.com
@@ -234811,6 +234815,7 @@ kisayindakiaralikozelfirsat.shop
 kisayontclr.com
 kisbest.blogspot.com
 kisbest1.blogspot.com
+kiscrrefrsa.cfd
 kisdenizkampanya.cf
 kiseads.com
 kisel228.zapto.org
@@ -320189,6 +320194,7 @@ safelyredirecting.digital
 safeme691.ddns.net
 safeosecure.online
 safepage.cloud
+safepayly.com
 safeprocessor.com
 safeprojectbr.duckdns.org
 safepudatelink.site
@@ -331201,6 +331207,7 @@ sermayehaber.info
 sermayehaber.online
 sermayehaber.org
 sermayehaberleri.org
+sermayehub.world
 sermayelive.online
 sermayeplan.online
 sermayepress.online
