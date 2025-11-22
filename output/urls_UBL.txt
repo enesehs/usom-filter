@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-22 14:01:44 UTC
-! Total: 340295 rules
+! Last modified: 2025-11-22 15:07:38 UTC
+! Total: 340302 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -117147,6 +117147,7 @@
 *://*.evostres.xyz/*
 *://*.evotek.vn/*
 *://*.evpage-trirtibatplatformweb.com/*
+*://*.evprojeleri.click/*
 *://*.evprojem2026.com/*
 *://*.evprojem2026.online/*
 *://*.evpxrfc.com/*
@@ -120782,6 +120783,7 @@
 *://*.fibabank-online.click/*
 *://*.fibabank-top.ml/*
 *://*.fibabank-web.click/*
+*://*.fibabank.cfd/*
 *://*.fibabank.click/*
 *://*.fibabank.lat/*
 *://*.fibabank.online/*
@@ -146111,6 +146113,7 @@
 *://*.halmibucilmibu.net/*
 *://*.halmiraq.com/*
 *://*.halmorin.com/*
+*://*.halnibo.sbs/*
 *://*.haloadoxy.com/*
 *://*.haloalbatro.com/*
 *://*.halocantermes.com/*
@@ -166002,6 +166005,7 @@
 *://*.ilkevim4tokim.org/*
 *://*.ilkevim500bsvru-t-o-k-i.com/*
 *://*.ilkevim5tokim.org/*
+*://*.ilkevim6tokim.org/*
 *://*.ilkevimbasvr.xyz/*
 *://*.ilkevimbasvur2025.online/*
 *://*.ilkevimbasvurlarim.org/*
@@ -191195,6 +191199,7 @@
 *://*.kmnndadskfkkf.space/*
 *://*.kmnoktasi.online/*
 *://*.kmnpnaya1crff.online/*
+*://*.kmnpyaagarantbasvurusu.info/*
 *://*.kmnsamcsamc246sac.digital/*
 *://*.kmnsdalkjnelk.net/*
 *://*.kmnwebavsis.sbs/*
@@ -294081,6 +294086,7 @@
 *://*.trendyola.icu/*
 *://*.trendyoladres.com/*
 *://*.trendyoladres.net/*
+*://*.trendyoladres.org/*
 *://*.trendyoladresim.com/*
 *://*.trendyoladresyenile.com/*
 *://*.trendyolagent.com/*
@@ -340292,6 +340298,7 @@
 *://*.zztoa.net/*
 *://*.zzux.com/*
 *://*.zzwx.ru/*
+*://*.zzyenibvruu00.click/*
 *://*.zzygdx.com/*
 *://*.zzyrhgsb.com/*
 *://*.zzz.com.ua/*
