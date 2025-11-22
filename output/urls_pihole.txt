@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-21 23:08:56 UTC
-# Toplam: 426573 Domain
+# Son Güncelleme: 2025-11-22 00:41:27 UTC
+# Toplam: 426580 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -35844,6 +35844,7 @@ ak-kampanyasi1.cloud
 ak-kampanyasikayitanalr.com
 ak-katilimlariniz-pasanihatulker.dvrlists.com
 ak-katilimlariniz.dvrlists.com
+ak-katilimlarinizlar.dvrlists.com
 ak-kazandiriyor.com.tr
 ak-kmpfssfdssd.net
 ak-kmpmstasdasw.online
@@ -214591,6 +214592,7 @@ iskmifaturam.net
 isknbnka.online
 isknbnka.xyz
 iskolaygirisservisi.com
+iskred.qss.onl
 iskredibasvurularim.vercel.app
 iskredifirsatimizla.duckdns.org
 iskredimbasvurum.duckdns.org
@@ -266397,6 +266399,7 @@ my-sso--itrustcapitall--com-auth--h.webflow.io
 my-sso-itrustcapital--com-h.webflow.io
 my-sso-itrustcapital--coms.webflow.io
 my-steamunlocked.online
+my-sube.my-homeip.com
 my-support-robinhood-com-auth.webflow.io
 my-system-cyc.net
 my-system-docs.net
@@ -289778,6 +289781,7 @@ para-ya-gris.com
 para-yagiris.com
 para-yapikredi.com
 para-yardimi-e-devlet-gov-tr.cf
+para-yatirim-turu.info
 paraall.com
 paraam-guvende.com
 paraamguveende.net
@@ -304978,6 +304982,7 @@ pttgovtur.pics
 pttgovtur.skin
 pttgovtur.top
 pttgovtur.yachts
+pttgovturey.top
 pttgovturr.top
 pttgovturr.xyz
 pttgovtv.top
@@ -317054,6 +317059,7 @@ rodtimberproducts.co.za
 rodujuhocafy.biz
 roe.efeoyundasal.click
 roebaba.duckdns.org
+roebaba1.duckdns.org
 roebabaoyunda.click
 roebabareklamda.efeoyundaefefefe.click
 roelpaketleme.site
@@ -391955,6 +391961,7 @@ web-erism-hizmtleri.org
 web-evdekal.com
 web-familia.net.tr
 web-familia.org.tr
+web-fibabank.lat
 web-finansbank.com
 web-finansiadeleri.com
 web-firsatlari.com.tr
