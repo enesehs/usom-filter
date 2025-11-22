@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-22 12:14:38 UTC
-! Total: 340285 rules
+! Last modified: 2025-11-22 14:01:44 UTC
+! Total: 340295 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19097,6 +19097,7 @@
 *://*.adalet-iade.com.tr/*
 *://*.adaletagaogluvakfi.com/*
 *://*.adaletagaogluvakfi.org/*
+*://*.adaletagimiz.org/*
 *://*.adaletariyoruz.net/*
 *://*.adaletbakanligi.org/*
 *://*.adaletbakanligigov.xyz/*
@@ -19144,6 +19145,7 @@
 *://*.adanahavalomano.tk/*
 *://*.adanaindirimlerii.online/*
 *://*.adanakentkartdolum.info/*
+*://*.adanalivakukan.xyz/*
 *://*.adanamerke-patliyorherkez1.site/*
 *://*.adanasubesiekimayikampanyasi.online/*
 *://*.adanasubesiekimayikampanyasi.xyz/*
@@ -72843,6 +72845,7 @@
 *://*.cicekstore.co/*
 *://*.cicekvadisi.co/*
 *://*.cicekvakti.info/*
+*://*.cicekvakti.life/*
 *://*.cicekvakti.me/*
 *://*.cicekvakti.online/*
 *://*.cicekvakti.xyz/*
@@ -117220,6 +117223,7 @@
 *://*.evsdkrltrltr.net/*
 *://*.evsec.click/*
 *://*.evsenin.click/*
+*://*.evsepeti.click/*
 *://*.evsizler.cloud/*
 *://*.evskdmkaiz.net/*
 *://*.evsldrktr3er-er.com/*
@@ -138007,6 +138011,7 @@
 *://*.grnttbsvruekrani.com/*
 *://*.grnttfiirsattzzamanii.site/*
 *://*.grnttibsvrruum.com/*
+*://*.grnttkampnyasibasvurusu.pro/*
 *://*.grnttrade.com/*
 *://*.grntttihbrbsvruekrani.online/*
 *://*.grntttprmsnynnn.click/*
@@ -165864,6 +165869,7 @@
 *://*.iletsmynlendirmesorgu.store/*
 *://*.ilevlerimprojesi.com/*
 *://*.ilevleriproje.com/*
+*://*.ilevleriproje2025.com/*
 *://*.ilevprojebasvr.com/*
 *://*.ilezo.com/*
 *://*.ilfungodilacco.it/*
@@ -165995,6 +166001,7 @@
 *://*.ilkevim3tokimlerim.org/*
 *://*.ilkevim4tokim.org/*
 *://*.ilkevim500bsvru-t-o-k-i.com/*
+*://*.ilkevim5tokim.org/*
 *://*.ilkevimbasvr.xyz/*
 *://*.ilkevimbasvur2025.online/*
 *://*.ilkevimbasvurlarim.org/*
@@ -172075,6 +172082,7 @@
 *://*.is-audi-95ozel.com/*
 *://*.is-audi-ozel.com/*
 *://*.is-avans-zform-canli-optik-zhzlad.xyz/*
+*://*.is-bank-basvuru.cfd/*
 *://*.is-bank-bireysel-bankacilik-iscep-com-tr.ga/*
 *://*.is-bank-bireysel-bankacilik-iscep-com-tr.ml/*
 *://*.is-bank-bireysel-bankacilik-iscep-com-tr.tk/*
@@ -219079,6 +219087,7 @@
 *://*.normalchoir.top/*
 *://*.normaldestekhibeleri.com/*
 *://*.normaldestekhibeleri.org/*
+*://*.normalee.click/*
 *://*.normalfusion.top/*
 *://*.normalgunler.net/*
 *://*.normalhub.online/*
@@ -253029,6 +253038,7 @@
 *://*.resmi-a101.com/*
 *://*.resmi-aidat-iade-alma.org/*
 *://*.resmi-aracmuayene.net/*
+*://*.resmi-basvrrum-songun.com/*
 *://*.resmi-basvuru.com/*
 *://*.resmi-cmer-tbmm-gov-tr.com/*
 *://*.resmi-devlet-aidat.org/*

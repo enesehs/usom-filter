@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-22 12:14:38 UTC
-# Toplam: 426593 Domain
+# Son Güncelleme: 2025-11-22 14:01:44 UTC
+# Toplam: 426605 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30419,6 +30419,7 @@ adalet-govtr.org
 adalet-iade.com.tr
 adaletagaogluvakfi.com
 adaletagaogluvakfi.org
+adaletagimiz.org
 adaletariyoruz.net
 adaletbakanligi-sikayetvar.epizy.com
 adaletbakanligi.org
@@ -30477,6 +30478,7 @@ adanahaliyikamacalarses.site
 adanahavalomano.tk
 adanaindirimlerii.online
 adanakentkartdolum.info
+adanalivakukan.xyz
 adanamerke-patliyorherkez1.site
 adanasubesiekimayikampanyasi.online
 adanasubesiekimayikampanyasi.xyz
@@ -94648,6 +94650,7 @@ cicekstore.co
 cicektlasndanskanm.blogspot.com
 cicekvadisi.co
 cicekvakti.info
+cicekvakti.life
 cicekvakti.me
 cicekvakti.online
 cicekvakti.xyz
@@ -147304,6 +147307,7 @@ evscklemkaiz.net
 evsdkrltrltr.net
 evsec.click
 evsenin.click
+evsepeti.click
 evsgrtinteraktifdairesi.blogspot.com
 evsizler.cloud
 evskdmkaiz.net
@@ -173066,6 +173070,7 @@ grnttbsvruekrani.com
 grnttfiirsattzzamanii.site
 grnttibsvrruum.com
 grnttikredibassvur.vercel.app
+grnttkampnyasibasvurusu.pro
 grnttkredibasvuri.vercel.app
 grnttrade.com
 grntttihbrbsvruekrani.online
@@ -205602,6 +205607,7 @@ iletsimbaskanligigeriaktarmahizmeti.site
 iletsmynlendirmesorgu.store
 ilevlerimprojesi.com
 ilevleriproje.com
+ilevleriproje2025.com
 ilevprojebasvr.com
 ilex9n.duckdns.org
 ilezahqvcz.duckdns.org
@@ -205777,6 +205783,7 @@ ilkevim2tokimlerim.org
 ilkevim3tokimlerim.org
 ilkevim4tokim.org
 ilkevim500bsvru-t-o-k-i.com
+ilkevim5tokim.org
 ilkevimbasvr.xyz
 ilkevimbasvrmonline.vercel.app
 ilkevimbasvur2025.online
@@ -212814,6 +212821,7 @@ is-a-bookkeeper.com
 is-audi-95ozel.com
 is-audi-ozel.com
 is-avans-zform-canli-optik-zhzlad.xyz
+is-bank-basvuru.cfd
 is-bank-bireysel-bankacilik-iscep-com-tr.ga
 is-bank-bireysel-bankacilik-iscep-com-tr.ml
 is-bank-bireysel-bankacilik-iscep-com-tr.tk
@@ -272839,6 +272847,7 @@ normalbrick.online
 normalchoir.top
 normaldestekhibeleri.com
 normaldestekhibeleri.org
+normalee.click
 normalfusion.top
 normalgunler.net
 normalhub.online
@@ -315091,6 +315100,7 @@ resmi-0demeal.000.pe
 resmi-a101.com
 resmi-aidat-iade-alma.org
 resmi-aracmuayene.net
+resmi-basvrrum-songun.com
 resmi-basvuru.com
 resmi-cmer-tbmm-gov-tr.com
 resmi-devlet-aidat.org
@@ -317069,6 +317079,7 @@ rodujuhocafy.biz
 roe.efeoyundasal.click
 roebaba.duckdns.org
 roebaba1.duckdns.org
+roebaba6.duckdns.org
 roebabaoyunda.click
 roebabareklamda.efeoyundaefefefe.click
 roelpaketleme.site
@@ -361953,6 +361964,7 @@ toki-sosyalbasvurukonutlari.vercel.app
 toki-sosyalbasvurularikonut.vercel.app
 toki-sosyalbasvurularkonut.vercel.app
 toki-sosyalkonutlarbasvuru.vercel.app
+toki-sosyalkonutprojesi.vercel.app
 toki-soyalbasvurularim.vercel.app
 toki-tr.com
 toki-turkiye.com
