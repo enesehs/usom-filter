@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-23 20:09:52 UTC
-! Total: 340398 rules
+! Last modified: 2025-11-23 21:01:53 UTC
+! Total: 340427 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36562,6 +36562,7 @@
 *://*.avekcarfilo.com/*
 *://*.avengebuffer.top/*
 *://*.aventadoralmamizlazim.tk/*
+*://*.aventalis.top/*
 *://*.aventix.pw/*
 *://*.aventixx.network/*
 *://*.avenueallusion.top/*
@@ -37848,6 +37849,7 @@
 *://*.ayuzbirbasvuruformu.online/*
 *://*.ayuzbirharcabitmez.net/*
 *://*.ayuzbirim1.com/*
+*://*.ayuzbirimbirimbicimicincocuncocuk.site/*
 *://*.ayuzbirklimasiparis.com/*
 *://*.ayuzbirmarketapp.com/*
 *://*.ayuzbirndrm.net/*
@@ -67559,6 +67561,7 @@
 *://*.calastool.cfd/*
 *://*.calcdigit.pics/*
 *://*.calciumgarlic.top/*
+*://*.calcugreat.pro/*
 *://*.calculactcal.org/*
 *://*.calculatingailment.top/*
 *://*.calculatingarea.top/*
@@ -68934,6 +68937,7 @@
 *://*.carrefourssa.online/*
 *://*.carrefourtr.shop/*
 *://*.carrefouursa.shop/*
+*://*.carreftoursa.store/*
 *://*.carrefuorsa-alisveris.online/*
 *://*.carrefurosa.online/*
 *://*.carrehaftasonukmpanya.online/*
@@ -72304,6 +72308,7 @@
 *://*.checkjuly-daycampany.site/*
 *://*.checkjuly-firsatdaybasvurum.net/*
 *://*.checklicence.net/*
+*://*.checkljanmer.xyz/*
 *://*.checkmaster.online/*
 *://*.checkmate.zone/*
 *://*.checkode.gq/*
@@ -73792,6 +73797,7 @@
 *://*.claim-serv.me/*
 *://*.claim-your-reward.cfd/*
 *://*.claim346.xyz/*
+*://*.claimbrowglot.pro/*
 *://*.claimdome.top/*
 *://*.claimeprogressive.com/*
 *://*.claimmeplz.top/*
@@ -79031,6 +79037,7 @@
 *://*.cortanasyn.com/*
 *://*.cortanaupdates.com/*
 *://*.cortanazone.com/*
+*://*.cortelana.pro/*
 *://*.cortinasperuanas.com/*
 *://*.corumescort6.xyz/*
 *://*.corvettescruisingalveston.com/*
@@ -82537,6 +82544,7 @@
 *://*.darskadamkarta.org/*
 *://*.dartalienate.top/*
 *://*.dartcurtail.top/*
+*://*.dartengton.pro/*
 *://*.dartproximity.top/*
 *://*.dartspeak.xyz/*
 *://*.daruaji.info/*
@@ -83505,6 +83513,7 @@
 *://*.defendfabricate.top/*
 *://*.defendonset.top/*
 *://*.defenestrationlabs.shop/*
+*://*.defengtonsai.info/*
 *://*.defenseamendment.top/*
 *://*.defensenews.online/*
 *://*.defensetrcourse.com/*
@@ -83535,6 +83544,7 @@
 *://*.defilumina.com/*
 *://*.defimetrica.com/*
 *://*.defimob.bar/*
+*://*.definatiola.pro/*
 *://*.definebul.com/*
 *://*.defineempirically.top/*
 *://*.definform.com/*
@@ -83762,6 +83772,7 @@
 *://*.delimanyak.space/*
 *://*.delimine3d.xyz/*
 *://*.delindrimlerfarkli.online/*
+*://*.delinimaies.xyz/*
 *://*.delinmeal.com/*
 *://*.delipayz.com/*
 *://*.delirdim3d.xyz/*
@@ -88945,6 +88956,7 @@
 *://*.derainlay.info/*
 *://*.derariowag.com/*
 *://*.deratopatera.top/*
+*://*.deravento.top/*
 *://*.derbederberk.sbs/*
 *://*.derbederbonuslar.com.tr/*
 *://*.derbi.name.tr/*
@@ -95506,6 +95518,7 @@
 *://*.downlooter.net/*
 *://*.downlying.com/*
 *://*.downparwaswith.com/*
+*://*.downtherai.pro/*
 *://*.downtownfoe.top/*
 *://*.downtownspectacle.top/*
 *://*.downurl.icu/*
@@ -159109,6 +159122,7 @@
 *://*.hoseembody.top/*
 *://*.hoseinmaleki.com/*
 *://*.hoseyutarmef.shop/*
+*://*.hosg-eld-in-y0n.store/*
 *://*.hosgejdiniz.com/*
 *://*.hosgeldin-2025-firsatlari.shop/*
 *://*.hosgeldin-2025-kampanyalari.shop/*
@@ -160259,6 +160273,7 @@
 *://*.hubilasorica.xyz/*
 *://*.hubinfodocs.com/*
 *://*.hublevelup.com/*
+*://*.hubnedther.pro/*
 *://*.hubofstyle.com/*
 *://*.hubservices-crm.com/*
 *://*.hubspot-okta.com/*
@@ -195875,6 +195890,7 @@
 *://*.lahorewholesalemarket.com/*
 *://*.lahsfz.top/*
 *://*.laidatiadelerimonlneil.fun/*
+*://*.laimafderfoil.top/*
 *://*.lain.la/*
 *://*.laipostie.top/*
 *://*.lakabimtonyysnrlm.net/*
@@ -197594,6 +197610,7 @@
 *://*.lilyideology.top/*
 *://*.lilymayanderson1678.online/*
 *://*.lima-limon.net/*
+*://*.limaiewasten.top/*
 *://*.limanyapidenetim.com.tr/*
 *://*.limanzon.com/*
 *://*.limaybarth.xyz/*
@@ -202932,6 +202949,7 @@
 *://*.markazincirlerin.com/*
 *://*.markconstituent.top/*
 *://*.markel-servicedesk.com/*
+*://*.markenzisight.pro/*
 *://*.markerking1.cfd/*
 *://*.market-0nline.app/*
 *://*.market-1-0-1.com.tr/*
@@ -211055,6 +211073,7 @@
 *://*.monthtestimony.top/*
 *://*.montmartrix.com/*
 *://*.montraifa.online/*
+*://*.montrelicon.top/*
 *://*.monulk.de/*
 *://*.monumental.ga/*
 *://*.monumentaladolescence.top/*
@@ -216357,6 +216376,7 @@
 *://*.nefesveyasamvakfi.net/*
 *://*.nefisindirim-yklee.net/*
 *://*.nefismutfagim.com/*
+*://*.nefissduyurularim.cfd/*
 *://*.nefkonut.site/*
 *://*.nefonbindcrafter.top/*
 *://*.nefosferta.com/*
@@ -228292,6 +228312,7 @@
 *://*.opcez.xyz/*
 *://*.opcobw.top/*
 *://*.opdbjtag.com/*
+*://*.opedanholes.info/*
 *://*.opehostionline.ga/*
 *://*.opehostionline.ml/*
 *://*.opela.ru/*
@@ -239611,6 +239632,7 @@
 *://*.podcastmedia.online/*
 *://*.podenfightlos.xyz/*
 *://*.podenizbank.com/*
+*://*.poderfaikta.info/*
 *://*.podjad.click/*
 *://*.podnamivnizu.xyz/*
 *://*.podobadigit.quest/*
@@ -239645,6 +239667,7 @@
 *://*.poianst.top/*
 *://*.poiasdmnzxcwer.com/*
 *://*.poidelt.sbs/*
+*://*.poidfertan.xyz/*
 *://*.poikpanelhizmetleri.com/*
 *://*.poil2ad2c0z3a61.pw/*
 *://*.poiland.click/*
@@ -240180,6 +240203,7 @@
 *://*.portben.top/*
 *://*.portbleaistraic.top/*
 *://*.portconnfcuu.com/*
+*://*.portendail.pro/*
 *://*.porter652.xyz/*
 *://*.porteroutrageous.top/*
 *://*.portfolio-roman.ml/*
@@ -247499,6 +247523,7 @@
 *://*.qledinxh.com/*
 *://*.qlemk.com/*
 *://*.qlhkbuxilruhujs.ru/*
+*://*.qliitewjoing.pro/*
 *://*.qljvbspblrlyyixxj.in/*
 *://*.qlkkitwcvrlvnui.ru/*
 *://*.qlnlfeqmshclldj.cn/*
@@ -266063,6 +266088,7 @@
 *://*.sifirizgelir1o1senin.online/*
 *://*.sifirsatflareyurtgllbal.online/*
 *://*.sifirsitelerim.site/*
+*://*.siflotimes.com/*
 *://*.sifrdksndkzmysaltay.store/*
 *://*.sifre-esube-teb-bank-com.tk/*
 *://*.sifrebazcep.com/*
@@ -281074,6 +281100,7 @@
 *://*.t0kbasvurum.click/*
 *://*.t0ki-hemenbrda.com/*
 *://*.t0ki-hizlabasvur.sbs/*
+*://*.t0ki-yeni500.sbs/*
 *://*.t0ki-yepyenikonutlar.sbs/*
 *://*.t0ki.com.tr/*
 *://*.t0ki.shop/*
@@ -290006,6 +290033,7 @@
 *://*.topcruisesplan.com/*
 *://*.topcryptoprotect.com/*
 *://*.topdealsinfo.store/*
+*://*.topdengun.info/*
 *://*.topecogreen.org/*
 *://*.topendpower.top/*
 *://*.topesex.club/*
@@ -340217,6 +340245,7 @@
 *://*.zxgeotectonic.com/*
 *://*.zxgnbt.com/*
 *://*.zxhuraesghmauldepjdaqinhx.info/*
+*://*.zxineright.info/*
 *://*.zxjhczx.com.tr/*
 *://*.zxjmxdeklyyklemelerrr.net/*
 *://*.zxjt9183.icu/*
