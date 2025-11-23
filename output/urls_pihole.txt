@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-23 19:01:46 UTC
-# Toplam: 426731 Domain
+# Son Güncelleme: 2025-11-23 20:09:52 UTC
+# Toplam: 426735 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -187148,6 +187148,7 @@ hemencehalledin.org
 hemencehalledin.xyz
 hemencehallediyoruz.com.tr
 hemencehallediyoruz.info
+hemencehallediyoruz.online
 hemencepte.dev
 hemencepte.digital
 hemenceyukle.22web.org
@@ -303916,6 +303917,7 @@ pttavmbireyselpos.wixsite.com
 pttavmcebimde.com
 pttavmcma.com
 pttavmcumartesikampnya.com
+pttavmcuzdanimguvende.com
 pttavmdijital.com
 pttavmealisveris.com
 pttavmekolay.com
@@ -345370,6 +345372,7 @@ sqd1glx0snyg1bzr.com
 sqdenizbank.com
 sqdlz05pp.duckdns.org
 sqer.szmr.org
+sqg5i1idg.storage.googleapis.com
 sqgmey.com
 sqgndqkjvcleak.com
 sqgzl.xyz
@@ -359749,6 +359752,7 @@ thirteenallergy.top
 thirteenmedieval.top
 thirtjo13vs.top
 thirtyadolescent.top
+this-garanti.my-homeip.com
 this-house.tk
 this-site-is-protected.duckdns.org
 this1bitchyesonebeach.xyz
