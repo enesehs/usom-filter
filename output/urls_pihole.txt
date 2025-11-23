@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-23 10:08:34 UTC
-# Toplam: 426694 Domain
+# Son Güncelleme: 2025-11-23 11:02:04 UTC
+# Toplam: 426696 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -122862,6 +122862,7 @@ dreamotokiralamalar.online
 dreamotoline.online
 dreampayglad.live
 dreampoint.click
+dreamqueenloans.com
 dreamrent.online
 dreamrentfilo.online
 dreamrentotokirala.online
@@ -123553,6 +123554,7 @@ du5wdu7r.duckdns.org
 du7mlm.duckdns.org
 du8uvukrd.duckdns.org
 du9wsoljavrddfb.xyz
+duabeat.com
 duabvibmcll.net
 duad-tess-piki.com
 dualfoam.top
