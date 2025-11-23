@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-23 14:07:39 UTC
-! Total: 340373 rules
+! Last modified: 2025-11-23 15:08:00 UTC
+! Total: 340376 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27447,6 +27447,7 @@
 *://*.aldinfirsatkapidasimdi.store/*
 *://*.aldinfirsatlar-kaa-racaonlilne.xyz/*
 *://*.aldinfirsatlari.shop/*
+*://*.aldinfirsatlarikampanyasi.lol/*
 *://*.aldinfirsatlarionline.com/*
 *://*.aldinfirsatlarkampanya.online/*
 *://*.aldinfirsatsimdi.shop/*
@@ -40528,6 +40529,7 @@
 *://*.bas-vur-alanyazim.cloud/*
 *://*.bas-vur-edestek.com/*
 *://*.bas-vuru-destek.com/*
+*://*.bas-vuru-kampanya-sendeqnb.xyz/*
 *://*.bas-vurum-destek-tr.com/*
 *://*.basadayasadabugada.site/*
 *://*.basagie.com/*
@@ -192332,6 +192334,7 @@
 *://*.konutbasvurunuzuyapin.com/*
 *://*.konutbasvurunuzuyapin.org/*
 *://*.konutbasvuruportal.online/*
+*://*.konutbasvururehberi.cfd/*
 *://*.konutbasvurus2025.info/*
 *://*.konutbasvurusistemi-basvur.click/*
 *://*.konutbasvurusistemi-basvur.icu/*
