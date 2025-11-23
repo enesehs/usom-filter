@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-23 18:12:31 UTC
-# Toplam: 426725 Domain
+# Son Güncelleme: 2025-11-23 19:01:46 UTC
+# Toplam: 426731 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -184967,6 +184967,7 @@ hazirkrediburda.digital
 hazirkredii.tk
 hazirkredin.com
 hazirkredin.ml
+hazirkredin.sbs
 hazirkredinbbvadaonaylial.com
 hazirkredinhemenal.site
 hazirladik-senin-icin.com
@@ -188147,6 +188148,7 @@ hepsiburadaseyahat.lib.ms.us
 hepsiburadashop.site
 hepsiburadashop.top
 hepsiburadashopp.com
+hepsiburadasiparis.com
 hepsiburadasirketozel.online
 hepsiburadat.com
 hepsiburadatop.com
@@ -247247,6 +247249,7 @@ lstanbulqrt.net
 lstanbulu.net
 lstanbululasim.click
 lstanbulumuz.net
+lstanbuluolmakistermisiniz.com
 lstanbulyilbasi.net
 lstanbwlk4rt.com
 lstblkart.blogspot.com
@@ -309444,6 +309447,7 @@ qqgqwgqwgwqgwq.online
 qqh6pha.duckdns.org
 qqhcqvdmp.ru
 qqihhjq.duckdns.org
+qqjif2tns08n.storage.googleapis.com
 qqkmonskrfgn.com
 qqljbfswxc.duckdns.org
 qqlmynfqckbb.xyz
@@ -422759,6 +422763,7 @@ zengingunlereylulayinda.xyz
 zengingunlereylulkampanyalari.com.tr
 zengingunlereylulkampanyalari.online
 zengingunlereylulkampanyalari.xyz
+zenginlik-yatirimci.info
 zenginlikruyasi.online
 zenginlikvebasarihikayesi.xyz
 zengo--wallet.webflow.io
@@ -426285,6 +426290,7 @@ zuqwwjwqyv.duckdns.org
 zurat.store
 zurichbrothers.info
 zurifo.pro
+zurmok.sbs
 zurterenzuley.com
 zush.hopto.org
 zusp.xyz
