@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-23 12:14:34 UTC
-! Total: 340371 rules
+! Last modified: 2025-11-23 14:07:39 UTC
+! Total: 340373 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -67501,6 +67501,7 @@
 *://*.cahidepalazzoistanbul.xyz/*
 *://*.cahidepalazzom.com/*
 *://*.cahidepalazzom1453.xyz/*
+*://*.cahidepalazzomaslak-1453.xyz/*
 *://*.cahidepalazzomaslak.com/*
 *://*.cahidepalazzomaslak.net/*
 *://*.cahidepalazzomaslak.xyz/*
@@ -199651,6 +199652,7 @@
 *://*.lsxfifoxifk0xifxk.net/*
 *://*.lsykizwu.com/*
 *://*.lsym9q.cn/*
+*://*.lt.tc/*
 *://*.lt0a2g.cn/*
 *://*.ltalaltnalstlsalma.online/*
 *://*.ltalntlalnalntlm.online/*
