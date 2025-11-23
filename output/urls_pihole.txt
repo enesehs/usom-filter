@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-23 07:09:04 UTC
-# Toplam: 426693 Domain
+# Son Güncelleme: 2025-11-23 08:11:44 UTC
+# Toplam: 426694 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -322284,6 +322284,7 @@ sahibinden.e-alisveristr.sa.com
 sahibinden.e-guvende-odeme-tr.sa.com
 sahibinden.e-guvende-odeme.sa.com
 sahibinden.e-guvende-odemetr.sa.com
+sahibinden.e-guvendealisveris.sa.com
 sahibinden.e-guvendeodeme.sa.com
 sahibinden.e-guvendeonline.sa.com
 sahibinden.e-guvenli-odeme-tr.sa.com
