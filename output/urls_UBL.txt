@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-24 18:14:28 UTC
-! Total: 340507 rules
+! Last modified: 2025-11-24 19:01:47 UTC
+! Total: 340524 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9524,6 +9524,7 @@
 *://*.5009a51a0347.com/*
 *://*.500basvuruekrani.org/*
 *://*.500basvurular.site/*
+*://*.500bin-basvuru.shop/*
 *://*.500bin-konut.com/*
 *://*.500bin-konutbasvuru.cfd/*
 *://*.500binasrinprojesi.com/*
@@ -9551,6 +9552,7 @@
 *://*.500binkonutduyurusu.com/*
 *://*.500binkonutprojembasvuruekrani.com/*
 *://*.500binkonutprojesi.com/*
+*://*.500binkonutprojesi.online/*
 *://*.500binkonutprojesi.org/*
 *://*.500binkonutprojesibasvuruekrani.com/*
 *://*.500binkonutprojesim.cloud/*
@@ -19518,6 +19520,7 @@
 *://*.adlucia.com/*
 *://*.adlvanced-ip-scanner.com/*
 *://*.adlyatirim.com/*
+*://*.adlyatirim.net/*
 *://*.adm-musulmans.com/*
 *://*.admagnet1.com/*
 *://*.admaris.ir/*
@@ -41349,6 +41352,7 @@
 *://*.basvurkby.com.tr/*
 *://*.basvurkml.com.tr/*
 *://*.basvurkml.online/*
+*://*.basvurkonut.cfd/*
 *://*.basvurkonuttoki.info/*
 *://*.basvurkonuttoki.pro/*
 *://*.basvurkrd.online/*
@@ -41931,6 +41935,7 @@
 *://*.basvuru-togg.online/*
 *://*.basvuru-toki.com/*
 *://*.basvuru-toki.digital/*
+*://*.basvuru-toki.info/*
 *://*.basvuru-tokii.online/*
 *://*.basvuru-tokki.online/*
 *://*.basvuru-tokl-81.online/*
@@ -43111,6 +43116,7 @@
 *://*.basvurutokiiiii123543.xyz/*
 *://*.basvurutokiiiii21456.xyz/*
 *://*.basvurutokiiilkevim1453.com/*
+*://*.basvurutokiiilkevimmproje.xyz/*
 *://*.basvurutokiiilkevimproje81.org/*
 *://*.basvurutokiiilkevimproje81.xyz/*
 *://*.basvurutokiiimilkevimm81.xyz/*
@@ -100435,6 +100441,7 @@
 *://*.e-giris-kartaidat.site/*
 *://*.e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-tr.com/*
 *://*.e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-trt.com/*
+*://*.e-giris-merkez.space/*
 *://*.e-giris-onlinehizmet-portal.tk/*
 *://*.e-giris-onlinemobildevlettenislemlerim-portal.com/*
 *://*.e-giris-panel.online/*
@@ -136915,6 +136922,7 @@
 *://*.govt.hu/*
 *://*.govt.lat/*
 *://*.govtoday.homes/*
+*://*.govtokibasvuru.icu/*
 *://*.govtr-basvuru.org/*
 *://*.govtr-e.com.tr/*
 *://*.govtr-iadedevlet.com/*
@@ -148599,6 +148607,7 @@
 *://*.hazirbasvuruyapgirisicin.online/*
 *://*.hazirbonus.digital/*
 *://*.hazirdageldinaldin.online/*
+*://*.hazirdahemen.sbs/*
 *://*.hazirdakredi.sbs/*
 *://*.hazirdan.sbs/*
 *://*.hazirdasipairisleriniyonlendir.cloud/*
@@ -165787,6 +165796,7 @@
 *://*.ileriadimvakfi.com/*
 *://*.ileriadimvakfi.org/*
 *://*.ileride-guzelden-hislerle-tanisip-sevilir.com/*
+*://*.ilerievlerimprojesi.com/*
 *://*.ilerievleriprojem.com/*
 *://*.ilerigiden.online/*
 *://*.ilerinesillervakfi.org/*
@@ -192367,9 +192377,11 @@
 *://*.konutbasvuruhaber.org/*
 *://*.konutbasvurular.com/*
 *://*.konutbasvurular.online/*
+*://*.konutbasvurular.xyz/*
 *://*.konutbasvurulari.cfd/*
 *://*.konutbasvurulari.cloud/*
 *://*.konutbasvurulari.online/*
+*://*.konutbasvurulari.sbs/*
 *://*.konutbasvurulari2025.org/*
 *://*.konutbasvurulariacildi.icu/*
 *://*.konutbasvurularibasladi.com/*
@@ -192488,6 +192500,7 @@
 *://*.konuttokibasvurusu.art/*
 *://*.konuttokibasvurusu.pro/*
 *://*.konuttokibasvurusu.xyz/*
+*://*.konuttokibasvurusuu.xyz/*
 *://*.konuttokimbasvurum.click/*
 *://*.konuttrend.click/*
 *://*.konutu-basvuru.click/*
@@ -274268,6 +274281,8 @@
 *://*.sosyalkonutbasvuru.site/*
 *://*.sosyalkonutbasvuru2025.online/*
 *://*.sosyalkonutbasvurugirislerii.cfd/*
+*://*.sosyalkonutbasvurular.com/*
+*://*.sosyalkonutbasvurular.online/*
 *://*.sosyalkonutbasvurular.xyz/*
 *://*.sosyalkonutbasvurusu.net/*
 *://*.sosyalkonutbasvuuru2025.com.tr/*
@@ -289283,6 +289298,7 @@
 *://*.tokbasvur.online/*
 *://*.tokbasvuruform.com/*
 *://*.tokbasvurum.click/*
+*://*.tokbasvurun.com/*
 *://*.tokbsvrla.com/*
 *://*.tokcanbungalov.com.tr/*
 *://*.tokcarsfilo.com/*
@@ -289854,6 +289870,7 @@
 *://*.tokonutlar.com.tr/*
 *://*.tokonutlar.icu/*
 *://*.tokonutlargiris.cyou/*
+*://*.tokonutlargiris.xyz/*
 *://*.tokonutlarimiz.com.tr/*
 *://*.tokonutlarimiz.xyz/*
 *://*.toksbasvrshuzky.site/*

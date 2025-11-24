@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-24 18:14:28 UTC
-# Toplam: 426867 Domain
+# Son Güncelleme: 2025-11-24 19:01:47 UTC
+# Toplam: 426884 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14494,6 +14494,7 @@
 5009a51a0347.com
 500basvuruekrani.org
 500basvurular.site
+500bin-basvuru.shop
 500bin-konut.com
 500bin-konutbasvuru.cfd
 500bin.evsahibiturkiye.news
@@ -14530,6 +14531,7 @@
 500binkonutonlinebasvuru.webhop.org
 500binkonutprojembasvuruekrani.com
 500binkonutprojesi.com
+500binkonutprojesi.online
 500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
 500binkonutprojesibasvurusu.urlbee.icu
@@ -30915,6 +30917,7 @@ adlsgsdlkfjsahkas.buzz
 adlucia.com
 adlvanced-ip-scanner.com
 adlyatirim.com
+adlyatirim.net
 adm-musulmans.com
 adm01010.ddns.net
 admagnet1.com
@@ -58073,6 +58076,7 @@ basvurkby.com.tr
 basvurkdvlilik.blogspot.com
 basvurkml.com.tr
 basvurkml.online
+basvurkonut.cfd
 basvurkonuttoki.info
 basvurkonuttoki.pro
 basvurkrd.online
@@ -58697,6 +58701,7 @@ basvuru-techbance.tech
 basvuru-togg.online
 basvuru-toki.com
 basvuru-toki.digital
+basvuru-toki.info
 basvuru-toki.sa.com
 basvuru-tokii.online
 basvuru-tokisosyalkonut.vercel.app
@@ -60080,6 +60085,7 @@ basvurutokiiii209473.xyz
 basvurutokiiiii123543.xyz
 basvurutokiiiii21456.xyz
 basvurutokiiilkevim1453.com
+basvurutokiiilkevimmproje.xyz
 basvurutokiiilkevimproje81.org
 basvurutokiiilkevimproje81.xyz
 basvurutokiiimilkevimm81.xyz
@@ -128168,6 +128174,7 @@ e-giris-kartaidat.site
 e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-tr.com
 e-giris-kredi-kart-iade-aidat-sismeleriniz-g-o-v-trt.com
 e-giris-kredim.blogspot.com
+e-giris-merkez.space
 e-giris-onlinehizmet-portal.tk
 e-giris-onlinemobildevlettenislemlerim-portal.com
 e-giris-panel.online
@@ -171745,6 +171752,7 @@ govt.boats
 govt.hair
 govt.lat
 govtoday.homes
+govtokibasvuru.icu
 govtr-basvuru.org
 govtr-e.com.tr
 govtr-iadedevlet.com
@@ -184996,6 +185004,7 @@ hazirbasvuruyapgirisicin.online
 hazirbonus.digital
 hazirceptefirsat.camdvr.org
 hazirdageldinaldin.online
+hazirdahemen.sbs
 hazirdakredi.sbs
 hazirdan.sbs
 hazirdaonaydogrulae.duckdns.org
@@ -205540,6 +205549,7 @@ ileriadimat.online
 ileriadimvakfi.com
 ileriadimvakfi.org
 ileride-guzelden-hislerle-tanisip-sevilir.com
+ilerievlerimprojesi.com
 ilerievleriprojem.com
 ilerigiden.online
 ilerinesillervakfi.org
@@ -237620,9 +237630,11 @@ konutbasvuruhaber.org
 konutbasvuruilkevimtr.duckdns.org
 konutbasvurular.com
 konutbasvurular.online
+konutbasvurular.xyz
 konutbasvurulari.cfd
 konutbasvurulari.cloud
 konutbasvurulari.online
+konutbasvurulari.sbs
 konutbasvurulari2025.org
 konutbasvurulariacildi.icu
 konutbasvurularibasladi.com
@@ -237746,6 +237758,7 @@ konutsuzkalmasin.cloud
 konuttokibasvurusu.art
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
+konuttokibasvurusuu.xyz
 konuttokibsvr.sa.com
 konuttokimbasvurum.click
 konuttrend.click
@@ -343541,6 +343554,8 @@ sosyalkonutbasvuru.site
 sosyalkonutbasvuru2025.online
 sosyalkonutbasvuru2026.vercel.app
 sosyalkonutbasvurugirislerii.cfd
+sosyalkonutbasvurular.com
+sosyalkonutbasvurular.online
 sosyalkonutbasvurular.xyz
 sosyalkonutbasvurularim.vercel.app
 sosyalkonutbasvurularin-toki.vercel.app
@@ -362023,6 +362038,7 @@ tokbasvrshz.online
 tokbasvur.online
 tokbasvuruform.com
 tokbasvurum.click
+tokbasvurun.com
 tokbsvrla.com
 tokcanbungalov.com.tr
 tokcarsfilo.com
@@ -362904,6 +362920,7 @@ tokonutbasvurulari.org
 tokonutlar.com.tr
 tokonutlar.icu
 tokonutlargiris.cyou
+tokonutlargiris.xyz
 tokonutlarimiz.com.tr
 tokonutlarimiz.xyz
 toksbasvrshuzky.site
