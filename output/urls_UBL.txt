@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-25 21:01:53 UTC
-! Total: 341049 rules
+! Last modified: 2025-11-25 22:09:23 UTC
+! Total: 341067 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23226,6 +23226,7 @@
 *://*.aipa.ca/*
 *://*.aiphishy.com/*
 *://*.aipornsites.ai/*
+*://*.aipowerrr.com/*
 *://*.aipproject.top/*
 *://*.aiprincipal.top/*
 *://*.air-are.xyz/*
@@ -30918,6 +30919,7 @@
 *://*.anklemindset.top/*
 *://*.anklony-ilntk.com/*
 *://*.anknkolaybakiye.net/*
+*://*.ankoria.info/*
 *://*.ankracrrefour.sbs/*
 *://*.ankrkartdolum.ml/*
 *://*.ankrkrt.com/*
@@ -34329,6 +34331,7 @@
 *://*.artexpectations.com/*
 *://*.artflowerstreet.net/*
 *://*.artforums.net/*
+*://*.arthassh.com/*
 *://*.arthearts.com/*
 *://*.arthemo.com/*
 *://*.arthrodirous.com/*
@@ -68471,6 +68474,7 @@
 *://*.card-verification.xyz/*
 *://*.card4you.review/*
 *://*.cardable.online/*
+*://*.cardafin.com/*
 *://*.cardapiodigitalonline.com/*
 *://*.cardazzle.top/*
 *://*.cardboardcrisp.top/*
@@ -115390,6 +115394,7 @@
 *://*.eter.pw/*
 *://*.eterarolasifirsatgirisim.com/*
 *://*.eterekem.net/*
+*://*.eteriq.com/*
 *://*.eternalbanner.top/*
 *://*.eternalcheck.net/*
 *://*.eternalcheck.online/*
@@ -120650,6 +120655,7 @@
 *://*.fenerilaclamasifeyzi.net/*
 *://*.fenerim.store/*
 *://*.fenerissosdenissos.site/*
+*://*.fenerium-store.store/*
 *://*.fenerium.click/*
 *://*.fenerium.org/*
 *://*.fenerium.site/*
@@ -127810,6 +127816,7 @@
 *://*.gafancc.com/*
 *://*.gafcvba62ckca.com/*
 *://*.gafishqhsh-gqgshqdgqe.icu/*
+*://*.gafqwsafkfwhwfwqkr.sbs/*
 *://*.gaga01.net/*
 *://*.gagaft48terads.net/*
 *://*.gagagaahqmqh-gahamqnhqh2.lol/*
@@ -160922,6 +160929,7 @@
 *://*.hurriyetblog.top/*
 *://*.hurriyetcomtr.com/*
 *://*.hurriyetdaily.news/*
+*://*.hurriyettnews.com/*
 *://*.hurrocel.net/*
 *://*.hurryunderlying.top/*
 *://*.hurtambiguity.top/*
@@ -171933,6 +171941,7 @@
 *://*.investwell.ml/*
 *://*.investwell.site/*
 *://*.invesuccess.com/*
+*://*.invesxora.com/*
 *://*.invesyrkprimeakkayit.com/*
 *://*.invhousehq.xyz/*
 *://*.inviableter.com/*
@@ -180104,6 +180113,7 @@
 *://*.jaroffset.top/*
 *://*.jaromivanexl.xyz/*
 *://*.jarramn.live/*
+*://*.jarredperlas.com/*
 *://*.jarsigortam.site/*
 *://*.jartuerikakan.site/*
 *://*.jarvisbranding.com/*
@@ -185533,6 +185543,7 @@
 *://*.kapanya-zamanlarimiz.com/*
 *://*.kapanyalialisverisler.online/*
 *://*.kapanyalialisverisler.xyz/*
+*://*.kapapoint.info/*
 *://*.kaparsakkrca.xyz/*
 *://*.kapcimerim.com/*
 *://*.kapda-frstyuzbirile.site/*
@@ -198735,6 +198746,7 @@
 *://*.llg-sdg-hsdkt2k2rfw-s-53h53-dsgf132-2f.com.tr/*
 *://*.llgetrbtislllemenuugiriss.com/*
 *://*.llhjbainanxtqtp.ru/*
+*://*.llifestyleclub.com/*
 *://*.lliilliislllemenuugiriss.com/*
 *://*.llilililimiilimml.online/*
 *://*.llimango.com/*
@@ -239462,6 +239474,7 @@
 *://*.plainchef.top/*
 *://*.plainer.shop/*
 *://*.plainlist.top/*
+*://*.plainstory.info/*
 *://*.plainsuite.top/*
 *://*.plainsynthesize.top/*
 *://*.plaintiff453.xyz/*
@@ -270853,6 +270866,7 @@
 *://*.skyxd.site/*
 *://*.skyxd.tech/*
 *://*.skyxdx.com/*
+*://*.skyybizness.com/*
 *://*.skzcm.com/*
 *://*.skzegugvy.info/*
 *://*.sl1bgunbrd0kcmz1gl.com/*
@@ -290112,6 +290126,7 @@
 *://*.tokigarantigiris.com/*
 *://*.tokigenel5000basvurukanalgovtr.com/*
 *://*.tokigenelmudurlugu.store/*
+*://*.tokigov.org/*
 *://*.tokigovbasvurulari.com/*
 *://*.tokigovtr.com/*
 *://*.tokigovtr.org/*
@@ -290123,6 +290138,7 @@
 *://*.tokigovtrresmi------toki-----govtremdmddmdmn.store/*
 *://*.tokihaber724.com/*
 *://*.tokihemenbasvur.com/*
+*://*.tokihome.digital/*
 *://*.tokihome.site/*
 *://*.tokihome.website/*
 *://*.tokihouse.digital/*
@@ -310153,6 +310169,7 @@
 *://*.verlmdgfmldgj.com/*
 *://*.verlomsdv.com/*
 *://*.verlsfkog.com/*
+*://*.verlummirgar.com/*
 *://*.vermasterss.com/*
 *://*.vermeernigeria.buzz/*
 *://*.vermgiode.net/*
@@ -312766,6 +312783,7 @@
 *://*.vv99ay4wuo.ru/*
 *://*.vvakifbbaankkredibasvurusu.online/*
 *://*.vvakifgirisdestekmobils.ml/*
+*://*.vvakkifibbasvclick.store/*
 *://*.vvbnuyderfe.click/*
 *://*.vvc-mblgttrturkiyegbamkasi.com/*
 *://*.vvd-vakf.com/*
