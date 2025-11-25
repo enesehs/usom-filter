@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-25 18:14:32 UTC
-# Toplam: 427408 Domain
+# Son Güncelleme: 2025-11-25 19:08:31 UTC
+# Toplam: 427416 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14548,6 +14548,7 @@
 500binkonutum.sbs
 500binkonutyerlesim.com
 500binnewkonut.xyz
+500binproje.site
 500binproje.xyz
 500binsosya1konut.com.tr
 500binsosya1konut.cyou
@@ -206335,6 +206336,7 @@ ilknur.pro
 ilknuracokasigim.co
 ilknuracokasigim.com
 ilkonce-hatirina-buradaysa-sonrada-olamaz.top
+ilkonutprojem.com
 ilkparam.ml
 ilkrenkkaraaa.com
 ilksaat.com
@@ -216838,6 +216840,7 @@ istbank.co.vu
 istbankhediye.ml
 istbas1.com
 istbasim.net
+istbasvlradimz.gleeze.com
 istbasvru.istanbul
 istbayidenyukle.net
 istbb-original.net
@@ -364058,6 +364061,7 @@ torminator.ddns.net
 tormirrlinv.com
 tornado-ai.com
 tornadocockpit.top
+tornavida118parca.sbs
 tornavidaizeltasal.xyz
 tornavidaizeltasalinir.xyz
 tornavidakmpnnyasi.xyz
@@ -397560,8 +397564,10 @@ wordpress-1550714-6002017.cloudwaysapps.com
 wordpress-1552221-6009258.cloudwaysapps.com
 wordpress-1553616-6017290.cloudwaysapps.com
 wordpress-1554074-6019645.cloudwaysapps.com
+wordpress-1554074-6019696.cloudwaysapps.com
 wordpress-1554374-6021033.cloudwaysapps.com
 wordpress-1555264-6025426.cloudwaysapps.com
+wordpress-1555264-6025512.cloudwaysapps.com
 wordpress-id.hopto.org
 wordpress-mercado-mix-a85903441390217.codeanyapp.com
 wordpress.acimueicxvraahcl.com
@@ -420629,6 +420635,7 @@ yonlndirsmeswwws.sbs
 yonlndrmeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.sbs
 yonlndrmenz-burdn.cfd
 yonmako.net
+yonnd-ver-sdz.store
 yonnebal.com
 yonnnersdwesd.net
 yonsei.lol
@@ -427393,6 +427400,7 @@ zzxxccllkkjj99.zapto.org
 zzyenibvruu00.click
 zzyenibvruu05.click
 zzyenibvruu100.click
+zzyenibvruu20.click
 zzygdx.com
 zzyrhgsb.com
 zzz1.dezhen.icu
