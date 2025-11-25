@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-24 23:09:00 UTC
-! Total: 340543 rules
+! Last modified: 2025-11-25 00:41:59 UTC
+! Total: 340551 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -59443,6 +59443,7 @@
 *://*.bnccescnnonlnegirisler.com/*
 *://*.bnccesonlnegirisler.com/*
 *://*.bnccnscsktifgirisler.com/*
+*://*.bnccrytr.sbs/*
 *://*.bnccsaktifgirisler.com/*
 *://*.bnccsas-trgiris.click/*
 *://*.bnccscaktifgirisler.com/*
@@ -136916,6 +136917,7 @@
 *://*.govqin.life/*
 *://*.govr.site/*
 *://*.govrandvutr.net/*
+*://*.govsac.help/*
 *://*.govsafebreakthrough.com/*
 *://*.govsaglikdestekbasvurusu.online/*
 *://*.govslsngs.life/*
@@ -191313,6 +191315,7 @@
 *://*.kmnoktasi.online/*
 *://*.kmnpnaya1crff.online/*
 *://*.kmnpyaagarantbasvurusu.info/*
+*://*.kmnpyaagarantbasvurusu.pro/*
 *://*.kmnsamcsamc246sac.digital/*
 *://*.kmnsdalkjnelk.net/*
 *://*.kmnwebavsis.sbs/*
@@ -243960,6 +243963,7 @@
 *://*.ptt-gov.top/*
 *://*.ptt-gov.vip/*
 *://*.ptt-gov.wiki/*
+*://*.ptt-gov.work/*
 *://*.ptt-gov.xyz/*
 *://*.ptt-gov1.cyou/*
 *://*.ptt-gov1.help/*
@@ -290235,6 +290239,7 @@
 *://*.toplukayitgirisleri.com/*
 *://*.toplukontlar500bin.com/*
 *://*.toplukonut-projesi.sbs/*
+*://*.toplukonut.click/*
 *://*.toplukonut.forum/*
 *://*.toplukonut.homes/*
 *://*.toplukonut.site/*
@@ -299399,6 +299404,7 @@
 *://*.turkiyekonomibakanligi.com/*
 *://*.turkiyekonomibankasi.com/*
 *://*.turkiyekonutbasvuru.online/*
+*://*.turkiyekonutprojeleri.cfd/*
 *://*.turkiyekredikartborcsorgulama.com/*
 *://*.turkiyekredikartiborcusorgulama.com/*
 *://*.turkiyekullanicigirisi.cloud/*
@@ -303128,6 +303134,7 @@
 *://*.urlgoal.com/*
 *://*.urlhedge.online/*
 *://*.urlhedge.store/*
+*://*.urlhedge.website/*
 *://*.urlhero.top/*
 *://*.urlishort-er.click/*
 *://*.urlishorter.online/*
@@ -328792,6 +328799,7 @@
 *://*.yaninizdafirsatlarsizlerlebirlikte.cyou/*
 *://*.yaninizdafirsatlarsizlerlebirlikte.xyz/*
 *://*.yaninizdakigucvakif.tk/*
+*://*.yaninizdayiz.sbs/*
 *://*.yaniyorumhalaaa.cyou/*
 *://*.yaniyorumvovov.com/*
 *://*.yaniyorumyanginvarrr.click/*
