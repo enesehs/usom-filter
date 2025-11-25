@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-25 07:11:11 UTC
-# Toplam: 426922 Domain
+# Son Güncelleme: 2025-11-25 09:12:47 UTC
+# Toplam: 426936 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57184,6 +57184,7 @@ baseballcompressn.top
 baseballconception.top
 baseballoar.top
 basebinaria.com
+basecenter.info
 basecinco.com.ar
 baseclub-tickets.com
 basedemezler.info
@@ -94653,6 +94654,7 @@ ciceklerimizozelveguzeldir.blogspot.com
 cicekmarket.life
 cicekmarket.online
 cicekmarket.site
+cicekmarket.store
 cicekmarket.vip
 cicekmarket.xyz
 cicekmarketim.me
@@ -138068,6 +138070,7 @@ ekonomiportali.com
 ekonomiportali.online
 ekonomiportali.org
 ekonomipulse.com
+ekonomipulse.info
 ekonomipulse.world
 ekonomipusulasi.info
 ekonomipusulasi.online
@@ -145664,6 +145667,7 @@ ev-internti-basvuru9.pw
 ev-is-interneti.net
 ev-konforunu-yakalayin-hemen.top
 ev-konut-basvuru.com
+ev-li.click
 ev.th0mass4n.xyz
 ev1hjn.duckdns.org
 ev1llennkred2x.net
@@ -172446,6 +172450,7 @@ gratis.dyndns-blog.com
 gratis.fatibara.com
 gratis.from-ca.com
 gratis.from-il.com
+gratis.from-ks.com
 gratis.homelinux.net
 gratis.hookextender.com
 gratis.is-a-caterer.com
@@ -174853,6 +174858,7 @@ gundelikurunler.life
 gundelikurunler.online
 gundem-turk.com
 gundemajans24.com
+gundembolgesi.cfd
 gundemburada.name.tr
 gundemden.site
 gundemhaber.org
@@ -182363,6 +182369,7 @@ halmibucilmi.net
 halmibucilmibu.net
 halmiraq.com
 halmorin.com
+halnibo.cyou
 halnibo.sbs
 haloadoxy.com
 haloalbatro.com
@@ -193138,6 +193145,7 @@ hizla.net
 hizla1o1frsatakos.com
 hizla3yukleme.22web.org
 hizlabirsipaisleri28bucukda.cloud
+hizladea-vam-95bfc01d760c.herokuapp.com
 hizlagvn-2ccd42973cd8.herokuapp.com
 hizlahgsyukle.com
 hizlaislem.online
@@ -215338,6 +215346,7 @@ islmtkpetmnislminiz.online
 islmvlcrqwt2312ttfff.com
 islob00641.hopto.org
 islov.top
+isltfmslbasvlrm.com
 isltnalsalk.com
 isltnblellyon.net
 isltnblkartlm.com
@@ -284308,6 +284317,7 @@ operacional2019.services
 operam.net
 operams.net
 operanorma.ru
+operanosso-turktelekom.com
 operanossoturktelekom.com
 operarevlt.top
 operatecomplexion.top
@@ -303034,6 +303044,7 @@ ptt-gov.lat
 ptt-gov.link
 ptt-gov.me
 ptt-gov.mom
+ptt-gov.one
 ptt-gov.online
 ptt-gov.pics
 ptt-gov.qpon
@@ -305063,6 +305074,7 @@ pttgovstr.xyz
 pttgovsw.top
 pttgovsyp.top
 pttgovsyttt.top
+pttgovt.bar
 pttgovt.blog
 pttgovt.bond
 pttgovt.buzz
@@ -351804,6 +351816,7 @@ sxtxaxr-dxrxmxler.online
 sxtxaxr-dxrxmxler.xyz
 sxtxn0007rnvulrm.net
 sxunim2br.duckdns.org
+sxvrzfe2.storage.googleapis.com
 sxwh0e9m.duckdns.org
 sxwm9f5.duckdns.org
 sxx8sut6u3w96mzo0.541bgt.ru
@@ -418593,7 +418606,6 @@ yildirim-firsati.shop
 yildirim-firsati.store
 yildirim-firsati.xyz
 yildirimfirsati.live
-yildirimsimsek.av.tr
 yildirimsubeleri.com.tr
 yildirimsubeleri.online
 yildirimsubeleri.xyz
@@ -420207,6 +420219,7 @@ yoshflex.ddns.net
 yosidiraskeoc.cloud
 yosifiko.co.il
 yosigdir-edu.org
+yosisisisiece.cloud
 yosvltczlw.duckdns.org
 yoszlmnhre.duckdns.org
 yot8y2lsv.duckdns.org
@@ -422250,6 +422263,7 @@ zafocla-pazaradogru-ekim25.com
 zafxvdtgop.duckdns.org
 zagiubcq9.duckdns.org
 zagmbelyud.duckdns.org
+zagres.online
 zaguamo.com
 zagxy.com
 zahaagbn.click
