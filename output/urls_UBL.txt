@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-25 13:26:53 UTC
-! Total: 340589 rules
+! Last modified: 2025-11-25 14:10:02 UTC
+! Total: 340594 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26458,6 +26458,7 @@
 *://*.akulars.sbs/*
 *://*.akuluarabam.com.tr/*
 *://*.akulugunler.sbs/*
+*://*.akulukitt.click/*
 *://*.akuma.pw/*
 *://*.akumaiotsolutions.pw/*
 *://*.akureklam.com/*
@@ -43632,6 +43633,7 @@
 *://*.baykara.eu/*
 *://*.baykaradim.com/*
 *://*.baykaraegitimvakfi.com/*
+*://*.baykaragency.info/*
 *://*.baykarai.net/*
 *://*.baykaral.xyz/*
 *://*.baykarapps.com/*
@@ -160787,6 +160789,7 @@
 *://*.huzuryardim.com/*
 *://*.huzuryardimkurumu.com/*
 *://*.huzuryardimlari.org/*
+*://*.huzustanbul.net/*
 *://*.hv4fi1.cn/*
 *://*.hv58.net/*
 *://*.hv7verjdhfbvdd44f.info/*
@@ -243967,6 +243970,7 @@
 *://*.ptt-gov.asia/*
 *://*.ptt-gov.bar/*
 *://*.ptt-gov.beer/*
+*://*.ptt-gov.best/*
 *://*.ptt-gov.bid/*
 *://*.ptt-gov.cc/*
 *://*.ptt-gov.cfd/*
@@ -289506,6 +289510,7 @@
 *://*.tokibasssvur.com/*
 *://*.tokibasvquru.com/*
 *://*.tokibasvqurutoplukonut.com/*
+*://*.tokibasvrilkevim.org/*
 *://*.tokibasvrlarimizz.org/*
 *://*.tokibasvrss.cfd/*
 *://*.tokibasvru.org/*
