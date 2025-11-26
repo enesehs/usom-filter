@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-26 00:43:23 UTC
-! Total: 341096 rules
+! Last modified: 2025-11-26 02:27:49 UTC
+! Total: 341132 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19236,6 +19236,7 @@
 *://*.addatamarket.net/*
 *://*.adddorzx.cyou/*
 *://*.addendumtheshall.net/*
+*://*.addeniofexis.top/*
 *://*.addetective.world/*
 *://*.addhgz.com/*
 *://*.addictdkp.com/*
@@ -31932,6 +31933,7 @@
 *://*.applicablehumanism.cyou/*
 *://*.applicantbotany.top/*
 *://*.applicantdissent.top/*
+*://*.applicatehuis.info/*
 *://*.application-2020-iade-yardim-merkez-taleb-olustur.com/*
 *://*.application-2020-iade-yardim-merkez-talebim-olustur.com/*
 *://*.application-2020-merkez-sorgulama-yardim-taleb-olustur.com/*
@@ -62236,6 +62238,7 @@
 *://*.branrce.com.tr/*
 *://*.bransfen.com/*
 *://*.branter.tk/*
+*://*.brantilos.top/*
 *://*.brantoneqs.top/*
 *://*.branzome.online/*
 *://*.brappmbxx.to/*
@@ -62415,6 +62418,7 @@
 *://*.brekkegard.no/*
 *://*.brelliantshon.com/*
 *://*.breltorn.buzz/*
+*://*.bremstaufel.pro/*
 *://*.brendo.biz/*
 *://*.brendonline.com/*
 *://*.brenity.store/*
@@ -62515,6 +62519,7 @@
 *://*.bridgestobodhi.org/*
 *://*.bridgetoturkey.org/*
 *://*.bridgetowncityphotos.org/*
+*://*.bridgewanstel.info/*
 *://*.bridgewax.science/*
 *://*.bridgewaybpo.com/*
 *://*.bridgwaterplumbing.co.uk/*
@@ -67722,6 +67727,7 @@
 *://*.calculatorsceptical.top/*
 *://*.calculustea.org/*
 *://*.caldas-cca.com/*
+*://*.calderavion.info/*
 *://*.calderon12.xyz/*
 *://*.caldownthatwil.com/*
 *://*.calduebds-regsrvl-conlnf.com/*
@@ -69485,6 +69491,7 @@
 *://*.cathasa.com/*
 *://*.catherineminnis.com/*
 *://*.catherinereynolds.info/*
+*://*.cathidraldominate.top/*
 *://*.catholicdeduction.top/*
 *://*.catholicmidwife.top/*
 *://*.caticisme.ru/*
@@ -70569,6 +70576,7 @@
 *://*.censorglitter.top/*
 *://*.censorshipinsulate.top/*
 *://*.censortracker.pro/*
+*://*.censusbott.top/*
 *://*.censys.xyz/*
 *://*.censysinspect.com/*
 *://*.centent-management.net/*
@@ -78886,6 +78894,7 @@
 *://*.copeauditing.top/*
 *://*.copechronic.top/*
 *://*.copeconvergence.top/*
+*://*.copedrengois.top/*
 *://*.copefood.xyz/*
 *://*.copelustration.xyz/*
 *://*.coperwire.com/*
@@ -79064,6 +79073,7 @@
 *://*.corelynxx.com/*
 *://*.coremailxt5mainjsp.com/*
 *://*.coreme.store/*
+*://*.corenavento.pro/*
 *://*.corendonairlinestr.com/*
 *://*.corenext.site/*
 *://*.coreos.rest/*
@@ -83428,6 +83438,7 @@
 *://*.deathstars.pw/*
 *://*.deatroleo.xyz/*
 *://*.deauthorization.online/*
+*://*.deavean.top/*
 *://*.deb-cn.net/*
 *://*.debank-extension.world/*
 *://*.debank.click/*
@@ -91476,6 +91487,7 @@
 *://*.difficultyeruption.top/*
 *://*.difficultygreed.top/*
 *://*.difficultypsychiatrist.top/*
+*://*.difficutlspeach.top/*
 *://*.difflugia.life/*
 *://*.diffregistar.cfd/*
 *://*.diffregistar.click/*
@@ -95438,6 +95450,7 @@
 *://*.doratopelase.pw/*
 *://*.dorcarskiralama.com/*
 *://*.dorfact.at/*
+*://*.dorhelfas.top/*
 *://*.dorhgsz.xyz/*
 *://*.doribre.pics/*
 *://*.doril.site/*
@@ -97274,6 +97287,7 @@
 *://*.dynamictours.co.il/*
 *://*.dynamiczl.live/*
 *://*.dynamix11.com/*
+*://*.dynamkloupet.info/*
 *://*.dynamo-fc-moscow.ru/*
 *://*.dynamobilet.ru/*
 *://*.dynamodevicegadgets.com/*
@@ -103207,6 +103221,7 @@
 *://*.eashotonlineaktfi.net/*
 *://*.easilycanyon.top/*
 *://*.easilyglider.top/*
+*://*.easlyhorts.top/*
 *://*.easohotsaonlines.net/*
 *://*.eastaward-development.com/*
 *://*.eastcountynorthstar.com/*
@@ -119625,6 +119640,7 @@
 *://*.farmgrandfather.com/*
 *://*.farmingconsulate.top/*
 *://*.farmivory.top/*
+*://*.farnelisup.info/*
 *://*.farnith.com/*
 *://*.farnotrapisyaniksatromunyazrasyon.net/*
 *://*.farnouxo.com/*
@@ -120431,6 +120447,7 @@
 *://*.fe2rltao23ts.top/*
 *://*.fe4850237811h.net/*
 *://*.fe76f11127ae65b3157f527764e07b80.de/*
+*://*.feaduodert.xyz/*
 *://*.feahrewses.shop/*
 *://*.fearbq.top/*
 *://*.fearchaple.xyz/*
@@ -120680,6 +120697,7 @@
 *://*.feneroldestek.com/*
 *://*.feneyisdenigenis.site/*
 *://*.feng-lian.com.tw/*
+*://*.fengoviewo.info/*
 *://*.fengyunzt.cn/*
 *://*.fenicius-id72483.world/*
 *://*.fenipourashava.com/*
@@ -124805,6 +124823,7 @@
 *://*.flashtvindirimlerigerigeldi.com/*
 *://*.flashupdate.digital/*
 *://*.flashventora.pro/*
+*://*.flashverdanks.info/*
 *://*.flashx.com.tr/*
 *://*.flashxs.com.tr/*
 *://*.flashxs.xyz/*
@@ -127150,6 +127169,7 @@
 *://*.fueleducate.top/*
 *://*.fuelhumane.top/*
 *://*.fuelshipyard.top/*
+*://*.fueltorch.top/*
 *://*.fuerer-net.ru/*
 *://*.fuerte-sol.es/*
 *://*.fuesrfjnkjwebfb.top/*
@@ -137175,6 +137195,7 @@
 *://*.govsae.help/*
 *://*.govsafebreakthrough.com/*
 *://*.govsaglikdestekbasvurusu.online/*
+*://*.govsg.homes/*
 *://*.govslsngs.life/*
 *://*.govsred.buzz/*
 *://*.govt-r.top/*
@@ -138026,6 +138047,7 @@
 *://*.grencardbavuru.com/*
 *://*.grencrdbasvu.pw/*
 *://*.grendcrbasvur.pw/*
+*://*.grendorvax.info/*
 *://*.grentbbvevo.com/*
 *://*.grenthira.com/*
 *://*.grentrepostorh.com/*
@@ -164542,6 +164564,7 @@
 *://*.ie8eamus.com/*
 *://*.ieadecilernniciz.net/*
 *://*.ieadecilernniciz2.net/*
+*://*.ieanpoleak.info/*
 *://*.ieb7k2xq.ru/*
 *://*.iebbotobbuskartyuklee724.tk/*
 *://*.iebimcemeell.com/*
@@ -166662,6 +166685,7 @@
 *://*.illustriousx.site/*
 *://*.ilmcv.com/*
 *://*.ilmentwrethed.top/*
+*://*.ilmontuksis.info/*
 *://*.ilnhhbmgvoebrgk.cn/*
 *://*.ilnk.xyz/*
 *://*.ilnowaustinhomes.com.tr/*
@@ -180425,6 +180449,7 @@
 *://*.jellyplateau.top/*
 *://*.jellythreshold.top/*
 *://*.jemlmbnofffn.xyz/*
+*://*.jemmielogerd.top/*
 *://*.jenassosta.space/*
 *://*.jenb128hiuedfhajduihfa.com/*
 *://*.jengagame.top/*
@@ -180436,6 +180461,7 @@
 *://*.jenta.wtf/*
 *://*.jenya239.com/*
 *://*.jeo.cc/*
+*://*.jeonagrosman.top/*
 *://*.jeonhyanghee-verifyacoount3453001.net/*
 *://*.jeopardisebatter.top/*
 *://*.jeopardisewoman.top/*
@@ -189380,6 +189406,7 @@
 *://*.kerisanter.biz/*
 *://*.kerivo.click/*
 *://*.keriyer.net/*
+*://*.kermalixsey.xyz/*
 *://*.kermane.online/*
 *://*.kermansarax.app/*
 *://*.kermo.pw/*
@@ -189387,6 +189414,7 @@
 *://*.kerndslsmf.net/*
 *://*.kernel4windows.in/*
 *://*.kernfmkqnqi.pw/*
+*://*.kernoplexaut.pro/*
 *://*.kernsmee.ru/*
 *://*.kerpetenalii345.shop/*
 *://*.kerpicten.biz/*
@@ -191267,6 +191295,7 @@
 *://*.klemelferllstannnbll.com/*
 *://*.klemx.net/*
 *://*.klen.cc/*
+*://*.klenderbont.info/*
 *://*.kleoskent.net/*
 *://*.kleovp.top/*
 *://*.klepdrafooip.com/*
@@ -191420,6 +191449,7 @@
 *://*.klosherskymoneyd.com/*
 *://*.klosscngtqs.shop/*
 *://*.klostraklsalacas.com/*
+*://*.kloupfenst.pro/*
 *://*.klourfin.com/*
 *://*.klowtron.com/*
 *://*.klp1.online/*
@@ -191592,6 +191622,7 @@
 *://*.kmkaydim.net/*
 *://*.kmkhgss.com/*
 *://*.kmkilometre.com/*
+*://*.kmkkksorgulamagovvptt.shop/*
 *://*.kmkkssogrulamagovpttt.com/*
 *://*.kmkmsrogruszpttgovavm.com/*
 *://*.kmksorgulamayaphemengovpttasdwaz.com/*
@@ -197821,6 +197852,7 @@
 *://*.lidaspor.xyz/*
 *://*.liddellmgir.pw/*
 *://*.liderancaspoliticas.com.br/*
+*://*.liderfairt.info/*
 *://*.lidergibikampanya.com/*
 *://*.lidervakfi.com/*
 *://*.lidgeys.ru/*
@@ -198319,6 +198351,7 @@
 *://*.linuxwork.net/*
 *://*.linverano.pro/*
 *://*.linverapressa.info/*
+*://*.linverasolora.top/*
 *://*.liodeme-yap.com/*
 *://*.lionb.com/*
 *://*.lionbrush.top/*
@@ -199486,6 +199519,7 @@
 *://*.loheb.co.za/*
 *://*.lohmsoodsywedsfsdhwqa.shop/*
 *://*.lohuis.ae/*
+*://*.loikaslopus.info/*
 *://*.loiol.site/*
 *://*.lojogisoro.com/*
 *://*.lokal-internet-bvtr.digital/*
@@ -201961,6 +201995,7 @@
 *://*.maildye.top/*
 *://*.maileconomic.top/*
 *://*.mailecosystem.top/*
+*://*.mailedhouwer.top/*
 *://*.mailedit.top/*
 *://*.mailelect.top/*
 *://*.mailengage.top/*
@@ -205921,6 +205956,7 @@
 *://*.melondisplace.top/*
 *://*.meloniclose.cfd/*
 *://*.melooyna03.com/*
+*://*.melorintguy.xyz/*
 *://*.melosamz.com/*
 *://*.melosiar.com/*
 *://*.melotchi.ru/*
