@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-25 23:08:45 UTC
-! Total: 341082 rules
+! Last modified: 2025-11-26 00:43:23 UTC
+! Total: 341096 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -72501,6 +72501,7 @@
 *://*.checkyesterdayonline.online/*
 *://*.checkyourstayaddguestinservicereserv.com/*
 *://*.chectersom.cfd/*
+*://*.chedoxdesign.com/*
 *://*.chedwr0dpg.com/*
 *://*.cheekmatar.com/*
 *://*.cheeksulfur.top/*
@@ -72520,6 +72521,7 @@
 *://*.chellor.cfd/*
 *://*.chelonidae.com/*
 *://*.chelotec.quest/*
+*://*.chelseasosa.com/*
 *://*.chelylx.com.tr/*
 *://*.chemberekend.xyz/*
 *://*.chembook.ir/*
@@ -72856,6 +72858,7 @@
 *://*.chrsstiansen.com/*
 *://*.chrtu.com/*
 *://*.chsclbd.com/*
+*://*.chseplastics.com/*
 *://*.chsepterra.com/*
 *://*.chsocawoeitbhmedu.pw/*
 *://*.chtopiehgwlw.xyz/*
@@ -80171,6 +80174,7 @@
 *://*.criogetikfenbut.org/*
 *://*.crippleappalling.top/*
 *://*.cripplemute.top/*
+*://*.criptojackpot.com/*
 *://*.criptolayer.net/*
 *://*.crir.me/*
 *://*.crisispetrochemical.top/*
@@ -80733,6 +80737,7 @@
 *://*.culturalcanvas.site/*
 *://*.culturalinco.top/*
 *://*.culturaltow.top/*
+*://*.culturalviscera.com/*
 *://*.culturando.org/*
 *://*.culture-quest.shop/*
 *://*.cultureentail.top/*
@@ -103770,6 +103775,7 @@
 *://*.ecardfinansciqnb.com/*
 *://*.ecardfinansqnb.com/*
 *://*.ecardqnbfinans.com/*
+*://*.ecardsroom.com/*
 *://*.ecb-payments.com/*
 *://*.ecb-payments.eu/*
 *://*.ecb-payments.org/*
@@ -108895,6 +108901,7 @@
 *://*.eiyjledibrhm.xyz/*
 *://*.eiysualxc.com/*
 *://*.eizrtu.com/*
+*://*.ejbruner.com/*
 *://*.ejccjejcjeget.com/*
 *://*.ejcjjhllkjyw.me.uk/*
 *://*.ejdcvvdhsjdj.ml/*
@@ -119182,6 +119189,7 @@
 *://*.facturasfiel.com/*
 *://*.facturasonlinemx.com/*
 *://*.facultydisease.top/*
+*://*.facultyfeedbackfactory.com/*
 *://*.facultypreceding.top/*
 *://*.facultytrade.top/*
 *://*.fadaehh.com/*
@@ -120815,6 +120823,7 @@
 *://*.fet0r34i.xyz/*
 *://*.fetch5897.xyz/*
 *://*.fetchimpetus.top/*
+*://*.fetchmechanic.com/*
 *://*.fetchstats.net/*
 *://*.feteh-asefa.com/*
 *://*.fetfasenmi.net/*
@@ -124449,6 +124458,7 @@
 *://*.fisherman623.xyz/*
 *://*.fishermanoptimal.top/*
 *://*.fishermanredundancy.top/*
+*://*.fishermansforum.com/*
 *://*.fishery.co.in/*
 *://*.fishing777.pw/*
 *://*.fishingarchive.top/*
@@ -126551,6 +126561,7 @@
 *://*.freese-architekten.de/*
 *://*.freeseathere.com/*
 *://*.freeshop.cam/*
+*://*.freeshopcoupon.com/*
 *://*.freeshoptur.com/*
 *://*.freesite.us/*
 *://*.freesite.vip/*
@@ -127278,6 +127289,7 @@
 *://*.fundamentalwaive.top/*
 *://*.fundbook.xyz/*
 *://*.funddwise.com/*
+*://*.fundeble.com/*
 *://*.fundfusionz.com/*
 *://*.funding-exchange.org/*
 *://*.fundingalignment.top/*
@@ -181017,6 +181029,7 @@
 *://*.johncboins.com/*
 *://*.johnccastro.live/*
 *://*.johncheston.com/*
+*://*.johnelwayclaremontcdjr.com/*
 *://*.johnfabiconinteraption.ru/*
 *://*.johnfoxphotography.com/*
 *://*.johnfrenchart.com/*
@@ -181178,6 +181191,7 @@
 *://*.jovolewnac.info/*
 *://*.jovomirgaji.club/*
 *://*.jowhtues.com/*
+*://*.jowi-academy.com/*
 *://*.jowinjoinery.icu/*
 *://*.jowwalkingvs.host/*
 *://*.joxe-network.click/*
