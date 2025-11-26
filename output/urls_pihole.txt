@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-26 06:15:10 UTC
-# Toplam: 427566 Domain
+# Son Güncelleme: 2025-11-26 07:10:39 UTC
+# Toplam: 427622 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -55259,6 +55259,7 @@ baayramfirsatlari.online
 baayykar.com
 baayykaren.com
 baayykarr.com
+baayykars.com
 bab24242424boboo125.com
 baba-asle-behtarin100.buzz
 baba-asle-behtarin20.buzz
@@ -104108,6 +104109,7 @@ cryptancu.duckdns.org
 cryptdatagate.com
 cryptdatahub.com
 cryptdomain.dp.ua
+crypteg.com
 cryptendlogoin.webflow.io
 crypter202019.ddns.net
 crypterium.world
@@ -104194,6 +104196,7 @@ cryptowisea.com
 cryptoworl857.ddns.net
 cryptserver.hopto.org
 cryptslgninisues.webflow.io
+crypttobox.com
 cryptyk.ddns.net
 cryptyk.hopto.org
 cryptyk.info
@@ -124246,6 +124249,7 @@ duv-cen.xyz
 duv28wps.duckdns.org
 duvalitatli.com
 duvarprojem.com.tr.ht
+duveliy.com
 duverta.pro
 duvetkr.live
 duvida.duckdns.org
@@ -187078,6 +187082,7 @@ helpwhatsapp.xyz
 helpzonecisco.com
 helsinkim.com
 helsoki.com
+helstoun.com
 helthbrotthersg.com
 helvforalls2.digital
 helytra.com
@@ -222338,6 +222343,7 @@ jayboyd.t15.org
 jaydenostervoldes.online
 jaydenscott509.ddns.net
 jayhost.zapto.org
+jayldfortens.top
 jayshreeram.cf
 jaysonmorrison.com
 jaytagprojects.co.za
@@ -223132,6 +223138,7 @@ jimmyvirtu.zapto.org
 jimoda.name.tr
 jimw.club
 jin98816.kro.kr
+jinchinkun.top
 jindustezteger.hopto.org
 jinenciwan8.xyz
 jinex18427-24062.portmap.host
@@ -223638,6 +223645,7 @@ joincloud.duckdns.org
 joindiversity.top
 joindvw.com
 joined-zimbabwe.gl.at.ply.gg
+joingerrelite.info
 joingo.duckdns.org
 joingroubbwa1.duckdns.org
 joingroup-whatsapp.ddns.net
@@ -235940,6 +235948,7 @@ kl6wehmv.duckdns.org
 kla1hgs.com
 klaarinstelling.duckdns.org
 klaaslol.zapto.org
+klaimentglobe.top
 klalim2x.com.tr
 klamer-vandel.duckdns.org
 klanbilisimdestekhatti.com
@@ -238209,6 +238218,7 @@ kop1da-a1o1-f1rsatnet.net
 kopahghm.click
 kopakopaz.host
 koparas.click
+kopasertgois.info
 kopatych112.ddns.net
 kopekcik.art
 kopekgibizleyin.cfd
@@ -243691,6 +243701,7 @@ ledeehub.shop
 ledekranikimyapar.com
 ledekrankimyapar.com
 ledenizbank.com
+lederhoise.info
 ledferlivelogin.webflow.io
 ledgarliveloogen.webflow.io
 ledger--logen-helps.webflow.io
@@ -246509,6 +246520,7 @@ logicstationery.top
 logictrackngs.com
 logicunfair.top
 logiin-yapikredii.com
+logikfermound.pro
 logili.duckdns.org
 logimetumasuiiiff.webflow.io
 login--yapiikredii.com
@@ -246906,6 +246918,7 @@ logowanie-pl.site
 logpanel1.cf
 logpnc.duckdns.org
 logremngerb.info
+logrenisie.xyz
 logs7wa.ddns.net
 logsapimanagement.azurewebsites.net
 logsapimanagements.azurewebsites.net
@@ -251867,6 +251880,7 @@ mall777.vip
 mallcommend.top
 malleableness.com
 mallelectricarsgb.bond
+malleneaser.top
 mallqicjdn.duckdns.org
 malls-36.top
 mallsvip.vip
@@ -254897,6 +254911,7 @@ mecchawise.com
 mecdanlshasereilaclamasi.net
 mechanical258.xyz
 mechanicalantenna.top
+mechanicalentitlement.top
 mechanicaltrauma.top
 mechanicmelodious.top
 mechanicshormone.top
@@ -255614,6 +255629,7 @@ meltsolve.top
 melttrnch.top
 melturine.top
 meluya.cn
+melvaranid.top
 melvariq.net
 melvastream.info
 melvinchrist774.zapto.org
@@ -256835,6 +256851,7 @@ meudominiosoziks.duckdns.org
 meuhostlinduu.ddns.net
 meukowcognac.com
 meunknown.duckdns.org
+meuog.com
 meupdv.ddns.net
 meupregoepequeno.zapto.org
 meurlar.net
@@ -258260,6 +258277,7 @@ mirconnect.info
 mircosofdevice.com
 mircosoftdefender.com
 mirediohq.store
+mirelcastona.pro
 mirento.store
 mirexaorigin.com
 mirgarllumnim.com
@@ -262618,6 +262636,7 @@ montcarper.hopto.org
 montechristo.ru
 montecortelhas.com
 montecristo.zapto.org
+montelavento.pro
 montera.sbs
 montesoftware.arabamuayenesi.xyz
 montesoftware.com
@@ -271257,6 +271276,7 @@ nexcity.vip
 nexflarex.com
 nexflixonlinehelp.duckdns.org
 nexflixpay-update.ddns.net
+nexformaveld.pro
 nexfw.com
 nexiandevel.com
 nexigate.digital
@@ -271995,6 +272015,7 @@ nimp.org
 nimrodic.com
 nimrolp.net
 nimtohulin.ddns.net
+nimtorrsoll.com
 ninaerato.top
 ninapro.site
 nincompoop.cfd
@@ -272350,6 +272371,7 @@ nivhvtfnvu.duckdns.org
 niviee.com
 nivilsanslnvl.net
 nivlariislemler.net
+nivolacastira.info
 nivranvdvvubasvuru.net
 nivsiemdsi.com
 nivus.ddns.net
@@ -274694,6 +274716,7 @@ nuttyshopr.biz
 nutukotixirijir.weebly.com
 nuudle-yeni-paket.blogspot.com
 nuv-kmlkpsfort.net
+nuvartesia.top
 nuvez110.ddns.net
 nuvez111.ddns.net
 nuvez112.ddns.net
@@ -278024,6 +278047,7 @@ odentinisorgulama.net
 odentinniaal.net
 odentnial.com
 oder-online-internet.store
+oderanhouse.info
 oderstrg.site
 odesen.sg-host.com
 odeseneverginiabe.net
@@ -284643,6 +284667,7 @@ opcobw.top
 opdbjtag.com
 opdulvlvjq.duckdns.org
 opedanholes.info
+opedrengois.top
 opedro.ddns.net
 opehostionline.ga
 opehostionline.ml
@@ -285260,6 +285285,7 @@ oreclazabu99.xyz
 orecounteract.top
 orefrantically.top
 oreganogf.su
+oregfurits.top
 oregonreversemortgage.com
 oregrntyesco.buzz
 oreheatq.live
@@ -286733,6 +286759,7 @@ ourbanyourban1.website
 ourbatman.club
 ourbusiness4us.com
 ourcoming.com
+ouresagloia.top
 ourgariwerdstories.com
 ourhome234.blogspot.com
 ourleadership-mail-microsoft.com
@@ -295391,6 +295418,7 @@ peacefulentity.top
 peacefulpreoccupied.top
 peacefulpsychiatric.top
 peacemaker-recruit.com
+peaceoto.pro
 peacepresidentunited.org
 peaembodiment.top
 peahdcasai.net
@@ -298154,6 +298182,7 @@ plutoniy.hopto.org
 plutooo.ddns.net
 plutooo.hopto.org
 plutus-key.online
+pluvantopulls.top
 plvk-power.com
 plwjz4lhq.duckdns.org
 plwldxlaxw.click
@@ -298368,6 +298397,7 @@ podcastdeduction.top
 podcastdeplore.top
 podcastimmersion.top
 podcastmedia.online
+podefrongae.top
 podenfightlos.xyz
 podenizbank.com
 poderfaikta.info
@@ -298521,6 +298551,7 @@ polatmematibas.shop
 polbayjoke.store
 poldarew.xyz
 poldasatyr.xyz
+poldemarig.xyz
 polderfeed.info
 polderiquet.xyz
 poldikterse.click
@@ -298677,6 +298708,7 @@ polsadasa.site
 polsafgjaksf.vercel.app
 polsasttsa.vercel.app
 polsataposteas.vercel.app
+polsenfaik.xyz
 polsgagtasetlq.vercel.app
 polskieradio.cfd
 polssaqerpp.vercel.app
@@ -306915,6 +306947,7 @@ pulsecelebrity.top
 pulseprofit.online
 pulserecordbp.com
 pulseriseglobal.com
+pulsetreinkom.info
 pulseverse.website
 pulsevictory.top
 pulsewhiz.com
@@ -316579,6 +316612,7 @@ rexspot7x.xyz
 rexsrupmoney979.ditchyourip.com
 rexstat35x.xyz
 rexxinthoryza.info
+reydencoffs.xyz
 reyevenet.com
 reyevenet.net
 reyevenet.online
@@ -316991,6 +317025,7 @@ rigbot.ddns.net
 rigeferenti.site
 rigers.zapto.org
 righhedteventdidn.com
+righitflow.xyz
 rightarrive.net
 rightcorrelation.top
 rightfragile.top
@@ -317204,6 +317239,7 @@ rivalautonomous.top
 rivalfoster.top
 rivalrybarracks.top
 rivalvessel.top
+rivanelitho.online
 rivatalk.net
 rivavanxlarg.com
 rivbimcell.com
@@ -317943,6 +317979,7 @@ romeo-and-julietta.ru
 romeo55555.ddns.net
 romeobaba.duckdns.org
 romerome.site
+romestavia.info
 romforsohep.com
 romhgsz.xyz
 romidonionhhgtt.com
@@ -326188,6 +326225,7 @@ sandrarhgsmerkezi.com
 sandray.duckdns.org
 sandrepressive.top
 sandromedas.xyz
+sandseems.top
 sandsenseharm.com
 sandshoe.myfirewall.org
 sandshoe.zapto.org
@@ -331854,6 +331892,7 @@ serefeter.net
 serefsizler.com
 sereke.net
 serenabyte.online
+serenacastora.info
 serenade.erfedfvgf.com
 serenaykurumlari.com
 serenaykurumu.com
@@ -337451,6 +337490,7 @@ sindilik101.online
 sindisatinal101.online
 sindoproperty.org
 sindraline.info
+sindravaface.info
 sinebar.co.za
 sinekbaranewqeq.click
 sinekizmirleyukle.net
@@ -338417,6 +338457,7 @@ siteyeyonlendirildiniz.gleeze.com
 sithchibb.com
 sitheadrest.top
 sithole.net
+sitimemergo.pro
 sitioconectado.com
 sitistntv.com
 sitmanifestation.top
@@ -344428,6 +344469,7 @@ southhappy.net
 southivory.top
 southlander.ru
 southlubricate.top
+southmajor.top
 southpadreislandinformation.com
 southtowerclt.com
 southwestembodiment.top
@@ -348403,6 +348445,7 @@ strato-kunden.zapto.org
 stratorpriv.lubni23.com
 stratosferiss.ru
 straughtforwardlog.xyz
+straumfeld.pro
 strawbalegardenclub.com
 strawberriesandmangos.com
 strawberrylikidomilk.site
@@ -353885,6 +353928,7 @@ talapain.ddns.net
 talasyemeksepeti.com
 talasyemeksepeti.xyz
 talaterenerdogan.com
+talderanio.info
 taldonelso.freedynamicdns.org
 tale787.xyz
 taleb-btc.info
@@ -360642,6 +360686,7 @@ thunderbird.top
 thunderblrd.top
 thunderbluet97.no-ip.org
 thundercodes.ddns.net
+thundergaupix.info
 thundernews.org
 thunderoppression.top
 thunderousbinoculars.top
@@ -368520,6 +368565,7 @@ tremlk2.com
 tremmker.net
 tremnalber.ddns.net
 tremolo.shockglowup.com
+tremonique.top
 tremorlessly.com
 tremplinedu.com
 tremscpx.org
@@ -370094,6 +370140,7 @@ trolitrader.pw
 trollbased1452.ddns.net
 trollerface.duckdns.org
 trolleypatronize.top
+trolleyproduce.top
 trollg77.ddns.net
 trolltest.ddns.net
 trolltunno.com
@@ -370244,6 +370291,7 @@ trousersembodiment.top
 trousersintimidate.top
 troutbrook.hopto.org
 trovano.site
+trovantojob.top
 troverylit.com
 trovesta.space
 trovexa.pro
@@ -384574,6 +384622,7 @@ valawelog.ml
 valcaproductions.com
 valcredonlin59.unicicomonsultanlonko.org
 valdenewds.info
+valderanit.xyz
 valdmir.noriysha.ru
 valdrmedia.top
 valdtor.hopto.org
@@ -384583,6 +384632,7 @@ valefgo.ru
 valefrih.shop
 valekiralamaavis.xyz
 valenco.sbs
+valencrestora.top
 valensildia.net
 valentakkx.store
 valentina002.zapto.org
@@ -384847,6 +384897,7 @@ vareangold.de
 varegjopeaks.com
 varemusunbunaneduyusen.xyz
 vareto.site
+vargentolar.top
 varhgss.com
 variableannexation.top
 variableindictment.top
@@ -385323,6 +385374,7 @@ vatnadasvsinvl.blogspot.com
 vatra.at
 vatwx4wx.click
 vaude-visions.com
+vaudeltroks.info
 vaudois.h2owavelog.com
 vaughn527.xyz
 vault.appsuites.ai
@@ -385747,6 +385799,7 @@ vecr.ddns.net
 vecrigiodmece.net
 vector123.xyz
 vectordmanagesoft.com
+vectorhaubens.pro
 vectorinvesst.com
 vectormind.store
 vectorto.com
@@ -385942,6 +385995,7 @@ velingkome.de
 velinizkim72.xyz
 velinoleyva.org
 velisdaerfdsfas.site
+velisimalkernkis.info
 velivearthur.xyz
 velixxxop.com.tr
 velkgioduyo.net
@@ -388805,6 +388859,7 @@ visgrate.com
 vishalbrassproducts.com
 vishnuvardhan.coinbase-com.info
 vishoun.com
+vishowei.xyz
 vishuddhiyogaindia.com
 vishvagujarat.com
 visibilitrease.top
@@ -406322,6 +406377,7 @@ xelfarabetosx.xyz
 xeloriax.com
 xelphoria.store
 xeltykzmpr.duckdns.org
+xelvadorgas.xyz
 xelvira.space
 xelycui.com
 xelzads.cyou
