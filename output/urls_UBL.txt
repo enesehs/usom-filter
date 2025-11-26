@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-26 14:01:42 UTC
-! Total: 341679 rules
+! Last modified: 2025-11-26 15:08:41 UTC
+! Total: 341903 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6750,6 +6750,7 @@
 *://*.24homeplay.top/*
 *://*.24host.lt/*
 *://*.24hoursand7dayofferz.website/*
+*://*.24hoursconfirn.com/*
 *://*.24hrsservicepack.site/*
 *://*.24hurriyetnews.com/*
 *://*.24iade-hizmetleri.com/*
@@ -7654,6 +7655,7 @@
 *://*.30ekimkatalog.online/*
 *://*.30ekimozeel.online/*
 *://*.30ekimozel.online/*
+*://*.30fbest-grandhotel-savoy.com/*
 *://*.30gb-internet.com/*
 *://*.30gb-kampanya.online/*
 *://*.30gb-kampanya.org/*
@@ -12616,6 +12618,7 @@
 *://*.954152167319110.com.tr/*
 *://*.954152167319110.xyz/*
 *://*.9544738.cloud/*
+*://*.95463visitor.com/*
 *://*.95548456-2051.com/*
 *://*.95560.cc/*
 *://*.95623.maison/*
@@ -23245,12 +23248,17 @@
 *://*.air-mag.ro/*
 *://*.air-wrap.com.tr/*
 *://*.airarticlegenerate.com/*
+*://*.airbnb-39114reservation.com/*
+*://*.airbnb-46846reservation.com/*
+*://*.airbnb-49836reservation.com/*
 *://*.airbnb-89373reservation.com/*
+*://*.airbnb-89802reservation.com/*
 *://*.airbnb-booking-confirmation.com/*
 *://*.airbnb-confirmed.icu/*
 *://*.airbnb-id4432.site/*
 *://*.airbnb-payverification.com/*
 *://*.airbnb-reservation.cloud/*
+*://*.airbnbhotel.icu/*
 *://*.airbseeker.com/*
 *://*.airbusco.net/*
 *://*.airbushiring.com/*
@@ -28583,6 +28591,7 @@
 *://*.allergyentity.top/*
 *://*.allergyhavoc.top/*
 *://*.allesandradesigns.com/*
+*://*.allessentialshoodie.com/*
 *://*.allevegencbasvurkredl.com/*
 *://*.alleviateeruption.top/*
 *://*.alleviateliner.top/*
@@ -30783,6 +30792,7 @@
 *://*.anittek.com/*
 *://*.anixzirete.xyz/*
 *://*.aniymansngihynenrne.com/*
+*://*.anjanaspernheavily.info/*
 *://*.anjau2.cfd/*
 *://*.ank342543c.com/*
 *://*.anka-token.com/*
@@ -30870,6 +30880,7 @@
 *://*.ankayardim.net/*
 *://*.ankdanyukle.net/*
 *://*.ankegoileyukle.net/*
+*://*.ankerhotel2025.world/*
 *://*.ankese.com/*
 *://*.ankeshwarmet.ru/*
 *://*.anket-bonus-parapuan.com/*
@@ -31459,11 +31470,13 @@
 *://*.aparmando.ru/*
 *://*.apartamentbs.com/*
 *://*.apartamentossupermolina.com/*
+*://*.apartamentsnederlands.forum/*
 *://*.apartdetrimental.top/*
 *://*.apartjeopardize.top/*
 *://*.apartmankapisi.ga/*
 *://*.apartmankontrol.site/*
 *://*.apartmengreenpramukacity.com/*
+*://*.apartment-reservation.com/*
 *://*.apartment5d.com/*
 *://*.apartmentcynical.top/*
 *://*.apartmentnegligible.top/*
@@ -34243,6 +34256,7 @@
 *://*.arrivaassinatin.top/*
 *://*.arrival-checkininfo.com/*
 *://*.arrival-confcheckin-10053653.com/*
+*://*.arrival-info-checkin.com/*
 *://*.arrival-info-review-09499934.com/*
 *://*.arrival-openstir-checkin-099439294.com/*
 *://*.arrivalalmighty.top/*
@@ -34967,6 +34981,7 @@
 *://*.asfhgasjkfla.click/*
 *://*.asfhgsz.com/*
 *://*.asfilo.com/*
+*://*.asfinag-pay.live/*
 *://*.asfinag-pay.shop/*
 *://*.asfintom.com/*
 *://*.asfirey.com/*
@@ -35769,6 +35784,7 @@
 *://*.athabonift99.xyz/*
 *://*.atharvafinancial.in/*
 *://*.atheere.com/*
+*://*.athenianhouse.cfd/*
 *://*.athensplatinum.cfd/*
 *://*.athentitevent.com/*
 *://*.atheravyin.ru/*
@@ -35822,6 +35838,7 @@
 *://*.atksdhsdms.net/*
 *://*.atlantar.ru/*
 *://*.atlantarecyclingcenters.com/*
+*://*.atlanteplaza-book.com/*
 *://*.atlantic-council.com/*
 *://*.atlantic-id3891.world/*
 *://*.atlanticsdda.com/*
@@ -36158,6 +36175,7 @@
 *://*.auqowoehdndkd.xyz/*
 *://*.auqusttrsixthingyearstoggcampany.net/*
 *://*.auraco.ca/*
+*://*.auramar-id724.world/*
 *://*.auraria.org/*
 *://*.aurasarnia.com/*
 *://*.auraxhoiyly.org/*
@@ -37870,6 +37888,7 @@
 *://*.ayricaliklardenizde.com/*
 *://*.ayricaliklardunyasi.info/*
 *://*.ayricaliklarfinansta.com/*
+*://*.ayrilalim.click/*
 *://*.ayrisdawjrkskffksadjsbnk.cfd/*
 *://*.ayrisdawjrkskffksadjsbnk.cyou/*
 *://*.ayrisdawjrkskffksadjsbnk.icu/*
@@ -43339,6 +43358,7 @@
 *://*.basvurvnm.com.tr/*
 *://*.basvurvnm.xyz/*
 *://*.basvurvnr.cyou/*
+*://*.basvurvns.xyz/*
 *://*.basvurvpr.com.tr/*
 *://*.basvurvpr.online/*
 *://*.basvurvpr.xyz/*
@@ -45181,6 +45201,7 @@
 *://*.be7a823f1111h.net/*
 *://*.be7bs3.com/*
 *://*.beachbing.com/*
+*://*.beachhouse-hotelregistry2945.com/*
 *://*.beachhouseplans.com/*
 *://*.beachhue.com/*
 *://*.beachroad.ae/*
@@ -46217,6 +46238,7 @@
 *://*.besparta.com/*
 *://*.bespessengin.xyz/*
 *://*.bespitech.sbs/*
+*://*.bessahotelliberdade-id854.world/*
 *://*.bessekuzyuzsenin.com/*
 *://*.besststtuddy.online/*
 *://*.best-bikes24.online/*
@@ -57188,6 +57210,7 @@
 *://*.blattoamsterdam.com/*
 *://*.blavhasr33.com/*
 *://*.blaxies3.com/*
+*://*.blayneferocekabalas.social/*
 *://*.blaze-free.site/*
 *://*.blaze-mobiles.com/*
 *://*.blazedebut.top/*
@@ -59402,6 +59425,7 @@
 *://*.bnbsvrtr.site/*
 *://*.bnbsvrtr.tech/*
 *://*.bnbsvrtr.xyz/*
+*://*.bnbswitzerland.help/*
 *://*.bnbtr-actice01.cloud/*
 *://*.bnbtr01aply.cloud/*
 *://*.bnbtr7yilkutlamalaribasvur.com/*
@@ -61404,6 +61428,7 @@
 *://*.bookedhotel1803.world/*
 *://*.bookedhotel190.world/*
 *://*.bookedhotel191.world/*
+*://*.bookedhotel671.world/*
 *://*.bookedhotel891.world/*
 *://*.bookedhoteles2025.world/*
 *://*.bookeditre.com/*
@@ -61411,6 +61436,7 @@
 *://*.bookedorder-5642378134.site/*
 *://*.bookedreserveview.com/*
 *://*.bookedreserveviews.com/*
+*://*.bookedshotele2025.world/*
 *://*.bookedshoteles2025.world/*
 *://*.bookedshotelese2025.com/*
 *://*.bookedshotelese2025.world/*
@@ -61426,6 +61452,7 @@
 *://*.bookflirtation.top/*
 *://*.bookfromres.com/*
 *://*.bookgames.pw/*
+*://*.bookguestnotice.com/*
 *://*.bookindatesconfirmist.quest/*
 *://*.bookindatesour.quest/*
 *://*.bookindatesource.quest/*
@@ -61434,8 +61461,11 @@
 *://*.booking-agreementstatementapril0225.com/*
 *://*.booking-com-info-update.com/*
 *://*.booking-com-payment-update.com/*
+*://*.booking-com-payment-updates.help/*
 *://*.booking-com-payments-check.help/*
+*://*.booking-com-payments-upd.help/*
 *://*.booking-com-payments-upd.sbs/*
+*://*.booking-com-payments-update.help/*
 *://*.booking-completeid2025.world/*
 *://*.booking-confirm-id48382.com/*
 *://*.booking-confirm-page.com/*
@@ -61454,6 +61484,7 @@
 *://*.booking-confirmation-id9841.com/*
 *://*.booking-confirmation-id9897.com/*
 *://*.booking-confirmation.date/*
+*://*.booking-confirmed.icu/*
 *://*.booking-confirmed.shop/*
 *://*.booking-confview-doc-00097503843.com/*
 *://*.booking-confviewdocum-0079495902.com/*
@@ -61467,9 +61498,11 @@
 *://*.booking-id032931.com/*
 *://*.booking-id1105.world/*
 *://*.booking-id1458914.com/*
+*://*.booking-id2232.com/*
 *://*.booking-id25034931.com/*
 *://*.booking-id293.com/*
 *://*.booking-id4617.world/*
+*://*.booking-id46391.com/*
 *://*.booking-id475.com/*
 *://*.booking-id4814.com/*
 *://*.booking-id4832.com/*
@@ -61528,6 +61561,7 @@
 *://*.bookingscompleted.world/*
 *://*.bookingsecureguestrefund.com/*
 *://*.bookingservice.center/*
+*://*.bookingvereficatioons.com/*
 *://*.bookingverification.click/*
 *://*.bookingverification.world/*
 *://*.bookingverificationnumber342456.com/*
@@ -61544,6 +61578,8 @@
 *://*.bookmytrip.us/*
 *://*.bookncheck.com/*
 *://*.bookng-supportdesk.com/*
+*://*.booknoteguest.com/*
+*://*.booknoticeguest.com/*
 *://*.bookpoint.us/*
 *://*.bookrack.pk/*
 *://*.bookratestay.com/*
@@ -61565,13 +61601,16 @@
 *://*.bookspace.us/*
 *://*.bookspoint.us/*
 *://*.bookstayover.com/*
+*://*.booksuphasoni.com/*
 *://*.booksupred.com/*
 *://*.booksupredi.com/*
 *://*.booksupreds.com/*
 *://*.booksupreserves.com/*
 *://*.booksupy.com/*
+*://*.bookvalidreserve.com/*
 *://*.bookview-reserve.com/*
 *://*.bookviewform.click/*
+*://*.bookviewguest.com/*
 *://*.bookviewstay.com/*
 *://*.bookworld.us/*
 *://*.bookyourstay2025.world/*
@@ -62186,6 +62225,7 @@
 *://*.bragancasbrasil.com/*
 *://*.bragaonline.com/*
 *://*.bragconceive.top/*
+*://*.bragencia.com/*
 *://*.bragi-studio.com/*
 *://*.bragprobe.top/*
 *://*.bragsubordination.top/*
@@ -62549,6 +62589,7 @@
 *://*.bridegroominsulate.top/*
 *://*.bridegroompersecution.top/*
 *://*.bridemediate.top/*
+*://*.bridge-id3841.world/*
 *://*.bridge-info5432.info/*
 *://*.bridge-reference6543.info/*
 *://*.bridgecompany.top/*
@@ -62650,6 +62691,7 @@
 *://*.briskmagistrate.top/*
 *://*.briskmartyrdom.top/*
 *://*.briskways.net/*
+*://*.brit-hotel-fr.com/*
 *://*.britanniaautenberry.net/*
 *://*.britanniacharissa.net/*
 *://*.britay.store/*
@@ -69351,6 +69393,8 @@
 *://*.casaoliv-id484.world/*
 *://*.casaoliverhotel.world/*
 *://*.casaroyai.com/*
+*://*.casasdabaixa-id672.world/*
+*://*.casasdabaixa.world/*
 *://*.casavaldeseroma.com/*
 *://*.casawds.com/*
 *://*.casbygroup.com/*
@@ -69403,6 +69447,7 @@
 *://*.casinomaxi784.com.tr/*
 *://*.casinomhub118.com/*
 *://*.casinonetfinance.com/*
+*://*.casinoridola-id2748.world/*
 *://*.casinoridolaita.com/*
 *://*.casinosonlineapostas.com/*
 *://*.casla-abd-aldin-aldin.cfd/*
@@ -72339,7 +72384,9 @@
 *://*.charge731.icu/*
 *://*.charge87331.icu/*
 *://*.charge8744101.shop/*
+*://*.charge874441.cfd/*
 *://*.charge87444101.cfd/*
+*://*.charge874441301.cfd/*
 *://*.charge87491.shop/*
 *://*.charge87491410.shop/*
 *://*.chargeaesthetics.top/*
@@ -72507,8 +72554,10 @@
 *://*.checkbase.xyz/*
 *://*.checkblacklistwords.eu/*
 *://*.checkblanco.xyz/*
+*://*.checkbookinfo.com/*
 *://*.checkboomm.surf/*
 *://*.checkbuffer.com/*
+*://*.checkcard-via-booking.com/*
 *://*.checkcard1015-booking.com/*
 *://*.checkcard1715-booking.com/*
 *://*.checkcdn.ru/*
@@ -72527,13 +72576,18 @@
 *://*.checkguests-via-booking.com/*
 *://*.checkid1573.cfd/*
 *://*.checkin-arrival.com/*
+*://*.checkin-arrivalinfo.com/*
 *://*.checkin-details.world/*
 *://*.checkin-info-confi.com/*
+*://*.checkin-infodetails.com/*
+*://*.checkin-information.com/*
 *://*.checkin-open-arrival.com/*
 *://*.checkinformationrequestforguestsstay.com/*
 *://*.checking-paneling.live/*
 *://*.checkingaccesswf.com/*
 *://*.checkings-procedure.com/*
+*://*.checkinlist-arrival.com/*
+*://*.checkinupdate.com/*
 *://*.checkjuly-daycampany.site/*
 *://*.checkjuly-firsatdaybasvurum.net/*
 *://*.checklicence.net/*
@@ -72575,6 +72629,7 @@
 *://*.chefreight.com/*
 *://*.chekax.com/*
 *://*.chekeelec.quest/*
+*://*.chekisd-nowgustiport.com/*
 *://*.chekup-out.cfd/*
 *://*.cheldranx.net/*
 *://*.cheleseafc82.info/*
@@ -75089,6 +75144,7 @@
 *://*.coconuthysteria.website/*
 *://*.coconutjungle.top/*
 *://*.coconutknob.top/*
+*://*.cocoon-theis.cfd/*
 *://*.cocshipmanagment.com/*
 *://*.cocuk-adamm.cf/*
 *://*.cocukiistismarinason.org/*
@@ -75507,6 +75563,7 @@
 *://*.colectivekarayolbhizli.net/*
 *://*.colectivekarayolhizli.net/*
 *://*.colectivesubtlety.top/*
+*://*.colegadeestudo.com.br/*
 *://*.colegiorosales.com/*
 *://*.colemaligt.top/*
 *://*.colendimenkulblog.com/*
@@ -76483,6 +76540,7 @@
 *://*.commagx4.info/*
 *://*.command-investment.info/*
 *://*.command.com/*
+*://*.commande56399.cc/*
 *://*.commandentrance.com/*
 *://*.commandercivic.top/*
 *://*.commandercontagious.top/*
@@ -76695,6 +76753,7 @@
 *://*.complete-today41986.com/*
 *://*.complete-today47486.com/*
 *://*.completeappealform.com/*
+*://*.completedguest.world/*
 *://*.completelynew.space/*
 *://*.completeobscure.top/*
 *://*.completeposhmarrk.com/*
@@ -80453,6 +80512,7 @@
 *://*.crueltymsacre.top/*
 *://*.cruhvfkricdkdbl.su/*
 *://*.cruisecaught.top/*
+*://*.cruisequest-nl.com/*
 *://*.cruiserconsole.top/*
 *://*.cruiserrepute.top/*
 *://*.cruisespaghetti.top/*
@@ -89537,6 +89597,7 @@
 *://*.designercandleco.com/*
 *://*.designercavity.top/*
 *://*.designereradicate.top/*
+*://*.designerslyjgangnam.com/*
 *://*.designgiri.pw/*
 *://*.designjaumguest.com/*
 *://*.designloop.top/*
@@ -103725,6 +103786,7 @@
 *://*.ebay8.icu/*
 *://*.ebaydatagp.com/*
 *://*.ebayseollc.com/*
+*://*.ebayshop.help/*
 *://*.ebbausersupport.com/*
 *://*.ebcprjowbvooyjnwd.me/*
 *://*.ebddkvsvr.de/*
@@ -113141,6 +113203,7 @@
 *://*.entertainmentreferendum.top/*
 *://*.entertaintoyou.com/*
 *://*.entertrainingmail.com/*
+*://*.enterzigust-rsrv.com/*
 *://*.enthusiasm-father.com/*
 *://*.enthusiasmequate.top/*
 *://*.enthusiasmquest.top/*
@@ -114178,6 +114241,7 @@
 *://*.eradicationturbulent.top/*
 *://*.eradvocacia.adv.br/*
 *://*.eragerow.ru/*
+*://*.erakorislandresortspa.forum/*
 *://*.eramazanayi-destek.com/*
 *://*.eramazanayi-destekpaketi.com/*
 *://*.eramekanixd.com/*
@@ -116063,6 +116127,7 @@
 *://*.eurofootball-tickets.com/*
 *://*.eurofootballchamp.com/*
 *://*.eurohive.store/*
+*://*.eurohotelbooking.com/*
 *://*.euroinvest.ge/*
 *://*.euromopy.tech/*
 *://*.euronews.ink/*
@@ -118034,6 +118099,7 @@
 *://*.expectationlieutenant.top/*
 *://*.expectationtumble.top/*
 *://*.expedia-book.cloud/*
+*://*.expedia-confirmed.icu/*
 *://*.expedia-reserve.help/*
 *://*.expeditionreign.top/*
 *://*.expedownhe.com/*
@@ -119230,6 +119296,7 @@
 *://*.facebookismetanow.com/*
 *://*.facebooklogin-facebook.com/*
 *://*.facebookmap.top/*
+*://*.facebookmoney.world/*
 *://*.facebooknavigation.com/*
 *://*.facebooksecuritycenter.com/*
 *://*.facebookservices.gq/*
@@ -125510,6 +125577,7 @@
 *://*.fluxhorizon.online/*
 *://*.fluxivo1.sbs/*
 *://*.fluxorahubs.shop/*
+*://*.fluxshadow.sbs/*
 *://*.fluxswift.biz/*
 *://*.flwrbbdabrddydi.com/*
 *://*.fly-pegasus.com/*
@@ -125784,6 +125852,7 @@
 *://*.footballbeach12.xyz/*
 *://*.footballdisperse.top/*
 *://*.footballeurochamp.com/*
+*://*.footballfanprof.com/*
 *://*.footballfortify.top/*
 *://*.footballfraudulent.top/*
 *://*.footballhitherto.top/*
@@ -136276,6 +136345,7 @@
 *://*.goalkutoffsa.top/*
 *://*.goalmentor.top/*
 *://*.goalmobilize.top/*
+*://*.goalofthetennis.com/*
 *://*.goals-hockey.com/*
 *://*.goals1in.xyz/*
 *://*.goalskeptical.top/*
@@ -136513,6 +136583,7 @@
 *://*.goldenskyportal.com/*
 *://*.goldenspikerails.net/*
 *://*.goldenspoon.click/*
+*://*.goldenstarscr.com/*
 *://*.goldenstoor.com/*
 *://*.goldensun43.top/*
 *://*.goldentendaddtsad.wiki/*
@@ -137344,8 +137415,10 @@
 *://*.govsafebreakthrough.com/*
 *://*.govsaglikdestekbasvurusu.online/*
 *://*.govsg.homes/*
+*://*.govsj.homes/*
 *://*.govsk.homes/*
 *://*.govslsngs.life/*
+*://*.govsm.homes/*
 *://*.govsred.buzz/*
 *://*.govt-r.top/*
 *://*.govt-uk.top/*
@@ -138330,6 +138403,7 @@
 *://*.grizz-id9463.com/*
 *://*.grizz-id9481.world/*
 *://*.grizzholder.com/*
+*://*.grizzhotel-id4283.world/*
 *://*.grjdvcvg.cn/*
 *://*.grjkvjywfukdwtdgi.org/*
 *://*.grjseguros.com/*
@@ -139147,9 +139221,11 @@
 *://*.guestconfir-submission.com/*
 *://*.guestdocfound.com/*
 *://*.guestequipment.com.au/*
+*://*.guesthookup7345.world/*
 *://*.guestinfo-aboutstay1205.com/*
 *://*.guestinserviceportalreservationcheckadd.com/*
 *://*.guestitemsfound.com/*
+*://*.guestiuportocentrad.com/*
 *://*.guestprotocol.top/*
 *://*.guests-checkhub.com/*
 *://*.guests-ids285198.world/*
@@ -140298,6 +140374,7 @@
 *://*.gurudevgarments.com/*
 *://*.gurulea8.ml/*
 *://*.gurytour.ro/*
+*://*.guseithssewarwick.com/*
 *://*.guserverification.club/*
 *://*.guseyn.link/*
 *://*.gusfeemcaknydmvxhwdmnnljnj.com/*
@@ -146659,6 +146736,7 @@
 *://*.halmibucilmibu.net/*
 *://*.halmiraq.com/*
 *://*.halmorin.com/*
+*://*.halnibo.cfd/*
 *://*.halnibo.cyou/*
 *://*.halnibo.sbs/*
 *://*.haloadoxy.com/*
@@ -147695,6 +147773,7 @@
 *://*.harveric.ru/*
 *://*.harvestcopy.top/*
 *://*.harvestdirect.top/*
+*://*.harvestholidayofficial.com/*
 *://*.harvestvelvet.top/*
 *://*.harvey-ross.info/*
 *://*.harww-tmosrndds.net/*
@@ -158793,6 +158872,7 @@
 *://*.holidaydisclose.top/*
 *://*.holidayglove.top/*
 *://*.holidayinn-express-bilbao.com/*
+*://*.holidayinn-express-bilbaos.com/*
 *://*.holidayorgan.top/*
 *://*.holidayreserv2025.world/*
 *://*.holidayribbon.top/*
@@ -159517,6 +159597,7 @@
 *://*.hookonset.top/*
 *://*.hooksong.party/*
 *://*.hookup4444.top/*
+*://*.hoopdraftin.com/*
 *://*.hoopschampionss.com/*
 *://*.hoopserrorpage.asia/*
 *://*.hoosierforsale.com/*
@@ -159788,10 +159869,13 @@
 *://*.hotel-ambasadorssi.com/*
 *://*.hotel-booked2025.world/*
 *://*.hotel-booking254.com/*
+*://*.hotel-bull-guest.com/*
 *://*.hotel-complete3213.com/*
 *://*.hotel-confermation-35837.com/*
 *://*.hotel-confirm3494729.com/*
 *://*.hotel-de-hof.com/*
+*://*.hotel-de-la-boetiecheck.com/*
+*://*.hotel-de-la.cfd/*
 *://*.hotel-de-la.world/*
 *://*.hotel-duomo-appart.com/*
 *://*.hotel-ebooke.cfd/*
@@ -159816,6 +159900,7 @@
 *://*.hotelamanoroomsapartments.world/*
 *://*.hotelamco-reservas.life/*
 *://*.hotelamhachingerbachbyblattl.top/*
+*://*.hotelamtriller.world/*
 *://*.hotelaragon.world/*
 *://*.hotelarenacity.world/*
 *://*.hotelassociationdosinc.com/*
@@ -159825,6 +159910,9 @@
 *://*.hotelbeekbyanna.world/*
 *://*.hotelbillund.world/*
 *://*.hotelboard.org/*
+*://*.hotelboke2025.world/*
+*://*.hotelbookcheckin.space/*
+*://*.hotelbooking.life/*
 *://*.hotelbookingverefication.world/*
 *://*.hotelcasavaldeseroma.icu/*
 *://*.hotelcomplete76235.com/*
@@ -159841,6 +159929,8 @@
 *://*.hotelerbooked2025.world/*
 *://*.hotelerbookeds2025.world/*
 *://*.hoteles2025bookeds.sbs/*
+*://*.hotelesboked2025.world/*
+*://*.hotelesbokeds2025.world/*
 *://*.hotelesbookedes25.com/*
 *://*.hoteleuropebiv.com/*
 *://*.hoteleybookedes2025.com/*
@@ -159848,13 +159938,16 @@
 *://*.hotelfacet.top/*
 *://*.hotelfarsresort.com/*
 *://*.hotelfazendavista.com/*
+*://*.hotelfreshinn.world/*
 *://*.hotelfringe.top/*
 *://*.hotelgeorge.world/*
 *://*.hotelhadieh.ir/*
+*://*.hotelhoevevoorde.world/*
 *://*.hotelic-7684.com/*
 *://*.hotelierjobz.com/*
 *://*.hoteling.gr/*
 *://*.hotelirritating.top/*
+*://*.hotelkeyserbreda.world/*
 *://*.hotelkrome.com/*
 *://*.hotelkuehbacher.com/*
 *://*.hotellakmi.world/*
@@ -159862,6 +159955,7 @@
 *://*.hotellaristoss.com/*
 *://*.hotellaroyale.world/*
 *://*.hotellessuiteslabelle.world/*
+*://*.hotelmaritimdusseldorf.world/*
 *://*.hotelmastering912.com/*
 *://*.hotelmilagroguest.com/*
 *://*.hotelmilano.world/*
@@ -159873,6 +159967,8 @@
 *://*.hotelplanner2025.world/*
 *://*.hotelplannerdatagp.com/*
 *://*.hotelplannerseoinc.com/*
+*://*.hotelregardsformse.com/*
+*://*.hotelregcpth.com/*
 *://*.hotelreservanl2025.world/*
 *://*.hotelreservs2025.world/*
 *://*.hotelresrevcnfrm.com/*
@@ -159890,6 +159986,8 @@
 *://*.hotelsinumonteria.com/*
 *://*.hotelsitereview.com/*
 *://*.hotelsktann.world/*
+*://*.hotelsktann2025.world/*
+*://*.hotelsmanager-checkinguest-2594.com/*
 *://*.hotelspaghetti.top/*
 *://*.hotelsreservations-checkin-5243534.com/*
 *://*.hotelsreservations-cheup12466.com/*
@@ -161685,6 +161783,7 @@
 *://*.hyklezodemeyakp.net/*
 *://*.hyklmene.net/*
 *://*.hyklmlll.net/*
+*://*.hymgho.top/*
 *://*.hymnfork.com/*
 *://*.hynmerkezisbilgi.sbs/*
 *://*.hyoggcvnlgogjedyw.org/*
@@ -164378,6 +164477,7 @@
 *://*.id-locked-account.com/*
 *://*.id-orange-fr.info/*
 *://*.id-papara.com/*
+*://*.id-reservations48919.com/*
 *://*.id.tc/*
 *://*.id00921112.live/*
 *://*.id0214622.top/*
@@ -164402,6 +164502,7 @@
 *://*.id1971723.xyz/*
 *://*.id1971724.xyz/*
 *://*.id2009.help/*
+*://*.id2025179.world/*
 *://*.id2221124.top/*
 *://*.id22451112.live/*
 *://*.id2297.com/*
@@ -164434,6 +164535,8 @@
 *://*.id42525671.world/*
 *://*.id432525.top/*
 *://*.id4334222.world/*
+*://*.id43522.top/*
+*://*.id43536.top/*
 *://*.id435552110.world/*
 *://*.id43639.world/*
 *://*.id4458826.com/*
@@ -164458,6 +164561,7 @@
 *://*.id53726438.rest/*
 *://*.id539873-managers53098.us/*
 *://*.id563456234.world/*
+*://*.id56471.top/*
 *://*.id5660221.world/*
 *://*.id56643111.click/*
 *://*.id581254.world/*
@@ -164466,6 +164570,8 @@
 *://*.id597.link/*
 *://*.id60157261.date/*
 *://*.id61189387.date/*
+*://*.id621386.world/*
+*://*.id62344236.com/*
 *://*.id627181.live/*
 *://*.id627191102.live/*
 *://*.id627291011.live/*
@@ -164699,6 +164805,7 @@
 *://*.idkfcn.com/*
 *://*.idkff7m1lac3g.biz/*
 *://*.idkyvergmtvev.net/*
+*://*.idlearcana.com/*
 *://*.idlenow.top/*
 *://*.idleperch.top/*
 *://*.idlesynthetic.top/*
@@ -167453,6 +167560,7 @@
 *://*.inbsuin.top/*
 *://*.inc-co.site/*
 *://*.inc-update-account.com/*
+*://*.incaflex-uno.com/*
 *://*.incainn-id8492.world/*
 *://*.incandescentapp.com/*
 *://*.incapable214.xyz/*
@@ -169412,8 +169520,10 @@
 *://*.info-zoomapp.com/*
 *://*.info.gf/*
 *://*.info20gb.com/*
+*://*.infoaboutcheckinpage.com/*
 *://*.infoaccessnetwork.com/*
 *://*.infoafrica.top/*
+*://*.infoarrival-aboutcheck.com/*
 *://*.infoattention.com/*
 *://*.infobinanceonline.com/*
 *://*.infocarnames.ru/*
@@ -169524,6 +169634,7 @@
 *://*.infosystem5234.world/*
 *://*.infosystemsllc.com/*
 *://*.infoterkiinii.xyz/*
+*://*.infoupdatefebruary.com/*
 *://*.infoview.online/*
 *://*.infoviewerdata.com/*
 *://*.infoviewergate.com/*
@@ -169571,6 +169682,7 @@
 *://*.ing-internet-tr.com/*
 *://*.ing-internet2019.com/*
 *://*.ing-internetlogin.com/*
+*://*.ing-internetsube.online/*
 *://*.ing-internetsubesi.com/*
 *://*.ing-internetsubetr.com/*
 *://*.ing-jetzt-verifizieren.info/*
@@ -170414,6 +170526,7 @@
 *://*.insurance354756.xyz/*
 *://*.insurancecompanies-guide.site/*
 *://*.insurancepending.top/*
+*://*.insuristico.com/*
 *://*.insxldmrlsmas.click/*
 *://*.insxldmrlsncmsldnv.sbs/*
 *://*.insye.xyz/*
@@ -176196,6 +176309,7 @@
 *://*.istkartnl.online/*
 *://*.istkartnv.com/*
 *://*.istkartnw.com/*
+*://*.istkartonline.xyz/*
 *://*.istkartssyukle.net/*
 *://*.istkartt.net/*
 *://*.istkarttertdfs.net/*
@@ -191548,6 +191662,7 @@
 *://*.klemx.net/*
 *://*.klen.cc/*
 *://*.klenderbont.info/*
+*://*.kleopatra.world/*
 *://*.kleoskent.net/*
 *://*.kleovp.top/*
 *://*.klepdrafooip.com/*
@@ -193362,6 +193477,7 @@
 *://*.kouapkata1.net/*
 *://*.kouelec.cyou/*
 *://*.kouhansenshi.com/*
+*://*.koujyoken.com/*
 *://*.kova.kz/*
 *://*.kovalkovalihtila.xyz/*
 *://*.kovey-net.ru/*
@@ -197425,6 +197541,7 @@
 *://*.leboncoin-ny.info/*
 *://*.leboncoin-offer.cfd/*
 *://*.leboncoin-offre.icu/*
+*://*.leboncoin-payment-fr.com/*
 *://*.leboncoin-payment.com/*
 *://*.leboncoin-ql.top/*
 *://*.leboncoin-tr.info/*
@@ -197435,6 +197552,7 @@
 *://*.lecanomancy.com/*
 *://*.lecerisierenfleur.net/*
 *://*.lecoffe-hotel-jenusse.com/*
+*://*.lecoffice-id482.world/*
 *://*.lecoffice.com/*
 *://*.lectone.com/*
 *://*.lectro-hub.online/*
@@ -198144,6 +198262,7 @@
 *://*.lieenanscepal.top/*
 *://*.lielecef.cyou/*
 *://*.liemuteste.com/*
+*://*.liencraft.top/*
 *://*.lienews.world/*
 *://*.lienorenalaeuge.com/*
 *://*.liepixcebv.net/*
@@ -199523,6 +199642,7 @@
 *://*.locationverge.top/*
 *://*.loccous.host/*
 *://*.locf02azxz3g.xyz/*
+*://*.lochnesswatergardens.top/*
 *://*.lockads.org/*
 *://*.lockdown-coinbase.com/*
 *://*.locked-appleid.info/*
@@ -202472,6 +202592,7 @@
 *://*.mainworkapp.com/*
 *://*.mainyer6.com/*
 *://*.mainzipper.top/*
+*://*.maisonalbarlemonumentalpalace.world/*
 *://*.maisonarya-by-booking.com/*
 *://*.maisonarya.world/*
 *://*.maisto.site/*
@@ -203324,6 +203445,7 @@
 *://*.maneuvertempo.top/*
 *://*.manevimiras.com/*
 *://*.manfiestandroid.com/*
+*://*.mangaarthoteltokyo.com/*
 *://*.mangalium.com/*
 *://*.mangandeuh.xyz/*
 *://*.mangasiso.top/*
@@ -206116,6 +206238,7 @@
 *://*.meirback.co.uk/*
 *://*.meisenbacher-kunst.de/*
 *://*.meiser.top/*
+*://*.meiseraltstadt.world/*
 *://*.meisersparesort.com/*
 *://*.meisteraidat.org/*
 *://*.meisterbaba.online/*
@@ -207440,6 +207563,7 @@
 *://*.mhmtnrsylmz.net/*
 *://*.mhnckvxgwcomksj.ru/*
 *://*.mhnrs.net/*
+*://*.mhotel2025.world/*
 *://*.mhousecreative.com/*
 *://*.mhp-hotels.buzz/*
 *://*.mhpeeoxsnbyqgs.net/*
@@ -212539,6 +212663,7 @@
 *://*.mrjicruyc.info/*
 *://*.mrkerli4.com/*
 *://*.mrkerli5.com/*
+*://*.mrketplacessuprt.com/*
 *://*.mrkez-bsvrlargrs.com/*
 *://*.mrkez-trgrslerbsvr.com/*
 *://*.mrkezcozmnktsi.com/*
@@ -212711,6 +212836,7 @@
 *://*.msgcollection.com/*
 *://*.msglocalmicro.com/*
 *://*.mshelp365.com/*
+*://*.mshotel-reservation.com/*
 *://*.mshrmlmskmmm.net/*
 *://*.msi-utns.com/*
 *://*.msicrosoft.com/*
@@ -217945,6 +218071,7 @@
 *://*.nevergiveupdude.com/*
 *://*.nevergivmeupthebabay.net/*
 *://*.nevergreen.net/*
+*://*.neverisuitescomlong.com/*
 *://*.neverlose.icu/*
 *://*.neverloselo.net/*
 *://*.neverlosepro.icu/*
@@ -218983,6 +219110,8 @@
 *://*.niotrast.shop/*
 *://*.nioxrmocwnar.com/*
 *://*.niozpnzs.info/*
+*://*.nipa-resort.com/*
+*://*.nipa-resortbeach.com/*
 *://*.niparesort.world/*
 *://*.niparto.store/*
 *://*.nippsdecidekol.com/*
@@ -220119,6 +220248,7 @@
 *://*.nothingprkd.buzz/*
 *://*.nothstreams.info/*
 *://*.notice-guest-form.com/*
+*://*.notice-mirchea.com/*
 *://*.noticeaardy.top/*
 *://*.noticeableblunt.top/*
 *://*.noticeabledivert.top/*
@@ -225137,12 +225267,14 @@
 *://*.oneliveforcopser.com/*
 *://*.onemanforest.com/*
 *://*.onemascot.com/*
+*://*.onemasterscorer.com/*
 *://*.onemindfulstep.com/*
 *://*.oneminitueskampanyadanodulunustartbasvurusub.net/*
 *://*.onemkasttr.click/*
 *://*.onemlibilgilericeri.click/*
 *://*.onemligelisme.online/*
 *://*.onemlivergi.net/*
+*://*.onemomentreservcheckinnow.com/*
 *://*.onenightsten.one/*
 *://*.oneninesixtwo.cfd/*
 *://*.oneninezerothree.buzz/*
@@ -229132,7 +229264,10 @@
 *://*.opehostionline.ga/*
 *://*.opehostionline.ml/*
 *://*.opela.ru/*
+*://*.open-arrival-checkin.com/*
 *://*.open-confarrival-checkin.com/*
+*://*.open-info-arrivalcheckin.com/*
+*://*.open-infocheck-in.com/*
 *://*.open-infocheckin-arrival.com/*
 *://*.open-informmationaboutcheckin.com/*
 *://*.open-mindeddeter.top/*
@@ -230862,6 +230997,7 @@
 *://*.ouptya.xyz/*
 *://*.ouqilacoutdvjag.ru/*
 *://*.ouqtqrqhskwjfaks.xyz/*
+*://*.oura-id8312.world/*
 *://*.ourbanyourban1.website/*
 *://*.ourbatman.club/*
 *://*.ourbusiness4us.com/*
@@ -230878,6 +231014,7 @@
 *://*.ourownsweden.nl/*
 *://*.ourownsweden.one/*
 *://*.ourplanet.xyz/*
+*://*.ourpttgov.click/*
 *://*.ourrajasthan.com/*
 *://*.oursascribe.top/*
 *://*.oursbewilderment.top/*
@@ -231149,6 +231286,7 @@
 *://*.ownpretty.top/*
 *://*.ownprogram.top/*
 *://*.ownyourodd.com/*
+*://*.owoeirweoriwh9we8r.space/*
 *://*.owoolpa8.com/*
 *://*.owopasdk.click/*
 *://*.owoqcocwqhxhkdd.cn/*
@@ -232203,6 +232341,7 @@
 *://*.page744622.shop/*
 *://*.page745344.shop/*
 *://*.page750651.cfd/*
+*://*.page758996.shop/*
 *://*.page774154.shop/*
 *://*.page7856278.cfd/*
 *://*.page802905.shop/*
@@ -232226,6 +232365,7 @@
 *://*.page996267.shop/*
 *://*.pageamplification.top/*
 *://*.pagebefore.top/*
+*://*.pagebooking-confirmation.com/*
 *://*.pagecomposite.top/*
 *://*.pagedelude.top/*
 *://*.pagedigitall.site/*
@@ -232245,6 +232385,7 @@
 *://*.pagesites.cfd/*
 *://*.pagesphp.net/*
 *://*.pagestrtx.cfd/*
+*://*.pagethebrewcon.com/*
 *://*.pagevipex.cfd/*
 *://*.paggyjgebpcfhxmtd.org/*
 *://*.pagi.top/*
@@ -236979,6 +237120,8 @@
 *://*.partner-id2341.info/*
 *://*.partner-id435.info/*
 *://*.partner-id751.world/*
+*://*.partner-id834.world/*
+*://*.partner-id9832.info/*
 *://*.partner-id985.world/*
 *://*.partner-teknosa-kep.com/*
 *://*.partner-trendyol-kepadres.com/*
@@ -238318,11 +238461,13 @@
 *://*.peltrrixy.com/*
 *://*.peluqueriacaninaencordoba.com/*
 *://*.pelutorkli.ru/*
+*://*.pelvenis.com/*
 *://*.pelyba.shop/*
 *://*.pembegozluk.com/*
 *://*.pembemontsreici.net/*
 *://*.pembesir.xyz/*
 *://*.pembridgepalacehotel.world/*
+*://*.pembridgepalacehotel2025.world/*
 *://*.pemfncgdv.com/*
 *://*.pemhnnmqhs.in/*
 *://*.pemimmobiliare.com/*
@@ -241841,6 +241986,7 @@
 *://*.pragrm.xyz/*
 *://*.pragrt.xyz/*
 *://*.praiadaoura.world/*
+*://*.praiadosal-id752.world/*
 *://*.praibbeduyuruhediyetrkiye.com/*
 *://*.praiscourse.top/*
 *://*.praiseagent.top/*
@@ -242998,6 +243144,7 @@
 *://*.processing-stay.com/*
 *://*.processiontrim.top/*
 *://*.processionwise.com/*
+*://*.processominuti.icu/*
 *://*.processparade.top/*
 *://*.processthrive.top/*
 *://*.prochebv9.xyz/*
@@ -243759,13 +243906,22 @@
 *://*.property-753418.com/*
 *://*.property-helps.com/*
 *://*.property-id2874.com/*
+*://*.property-id613.com/*
 *://*.property-id626.com/*
+*://*.property-id628.com/*
 *://*.property-id635.world/*
 *://*.property-id636.com/*
+*://*.property-id637.com/*
 *://*.property-id644.com/*
+*://*.property-id647.com/*
+*://*.property-id648.com/*
+*://*.property-id663.com/*
+*://*.property-id673.com/*
+*://*.property-id682.com/*
 *://*.property-id734.com/*
 *://*.property-id743.com/*
 *://*.property-id74612.com/*
+*://*.property-id834.com/*
 *://*.property-id843.com/*
 *://*.property-inform.com/*
 *://*.property-paids.com/*
@@ -243774,11 +243930,18 @@
 *://*.propertyfast.top/*
 *://*.propertyfast.xyz/*
 *://*.propertyform.info/*
+*://*.propertyhotmy.world/*
+*://*.propertyhotner.world/*
 *://*.propertyiran.ir/*
 *://*.propertyminsk.by/*
+*://*.propertymysource.world/*
 *://*.propertyofiranmy.ir/*
+*://*.propertyoneguest.world/*
 *://*.propertysentimental.cn/*
+*://*.propertysource.world/*
 *://*.propertysourced.world/*
+*://*.propertystayresolve.com/*
+*://*.propertytwoguest.world/*
 *://*.propitiable.com/*
 *://*.propla1.net/*
 *://*.proplanmamalarl.com/*
@@ -247753,6 +247916,7 @@
 *://*.push21sing.top/*
 *://*.push900holdnature.live/*
 *://*.pushconsole.com/*
+*://*.pushehotel.world/*
 *://*.pushup-tayt.club/*
 *://*.pushuptayt.club/*
 *://*.pusikuracbre.me/*
@@ -250113,6 +250277,7 @@
 *://*.quandex.net/*
 *://*.quandex.org/*
 *://*.quanggop.at/*
+*://*.quanta-bumex-9000.com/*
 *://*.quantaflux.store/*
 *://*.quantaglitch.live/*
 *://*.quantara.sbs/*
@@ -252051,6 +252216,7 @@
 *://*.rdwlevis.com/*
 *://*.rdxgsk.com/*
 *://*.rdzzmg.top/*
+*://*.re-checkid2455.world/*
 *://*.re-confirmationstay.com/*
 *://*.re-hiizmet-servisde-deeevam-co.top/*
 *://*.re32ff5game.com/*
@@ -252293,6 +252459,7 @@
 *://*.receptayyiperdogan-turkeygovtr.com/*
 *://*.reception-supsereg.com/*
 *://*.receptionconfer.top/*
+*://*.receptionhotapprovedbook25995.com/*
 *://*.receptioninjection.top/*
 *://*.receptionistvulgar.top/*
 *://*.receptionlawsuit.top/*
@@ -252302,6 +252469,7 @@
 *://*.receptiveintermittent.top/*
 *://*.recessionturbulent.top/*
 *://*.recesspizzas.bid/*
+*://*.recheckyourarrival.com/*
 *://*.reciietmadate.top/*
 *://*.recipehum.com/*
 *://*.recipelister.com/*
@@ -252476,6 +252644,7 @@
 *://*.redictare-a1o1comtr.site/*
 *://*.rediffmail.kz/*
 *://*.redikartaidatiade.com/*
+*://*.redikloaresgustensall.com/*
 *://*.redilife.ru/*
 *://*.redilmatt.biz/*
 *://*.redinctarexyza101comtr.online/*
@@ -253796,6 +253965,7 @@
 *://*.repetitiveunderlying.top/*
 *://*.repetitiveyawn.top/*
 *://*.repherfeted.com/*
+*://*.rephiphop.shop/*
 *://*.repiong.info/*
 *://*.repiwi.info/*
 *://*.repjyrpuqfhmqyi.su/*
@@ -253967,6 +254137,7 @@
 *://*.reserbvertgoodres.com/*
 *://*.reserv-conf-today6543.com/*
 *://*.reserv-confirms-vrf.com/*
+*://*.reserv-id47812164.com/*
 *://*.reserv-id6404.world/*
 *://*.reservaion21451-complet.com/*
 *://*.reservas-property.top/*
@@ -253998,6 +254169,7 @@
 *://*.reservation-confirmed.sbs/*
 *://*.reservation-confirms-vrf.com/*
 *://*.reservation-form.icu/*
+*://*.reservation-guest.cfd/*
 *://*.reservation-gunayrestoran.com.tr/*
 *://*.reservation-id0207.quest/*
 *://*.reservation-id2312.world/*
@@ -254017,6 +254189,8 @@
 *://*.reservation-id9543.quest/*
 *://*.reservation-info3562.cfd/*
 *://*.reservation-legrandbellevue.com/*
+*://*.reservation-mshotel.buzz/*
+*://*.reservation-mshotel.world/*
 *://*.reservation-recheck.world/*
 *://*.reservation-spa.world/*
 *://*.reservation-status.com/*
@@ -254027,6 +254201,7 @@
 *://*.reservation3725.com/*
 *://*.reservation5332.world/*
 *://*.reservation67349.com/*
+*://*.reservationacceptingfromguest59215.com/*
 *://*.reservationcheck-booking.cfd/*
 *://*.reservationpeg.top/*
 *://*.reservations-confirmed.buzz/*
@@ -254071,6 +254246,7 @@
 *://*.reservetion-id47690.world/*
 *://*.reservetion-id47781.world/*
 *://*.reservetion-id47839.world/*
+*://*.reservinfo-id7862.world/*
 *://*.reserving-property.com/*
 *://*.reserving.world/*
 *://*.reservoircondolence.top/*
@@ -254485,6 +254661,7 @@
 *://*.retaliationentrust.top/*
 *://*.retaliationindignant.top/*
 *://*.retalonx.com/*
+*://*.retapatoutp.de/*
 *://*.retardedclassmate.dyn/*
 *://*.retardednominee.top/*
 *://*.retarus.ru/*
@@ -255707,6 +255884,7 @@
 *://*.room-inform201.com/*
 *://*.room-inform6434.com/*
 *://*.room-inform6473.com/*
+*://*.room-inform6859.com/*
 *://*.room-stay24.com/*
 *://*.room220901.world/*
 *://*.roomabolishsnifftwk.shop/*
@@ -256418,6 +256596,8 @@
 *://*.rvnstudios.co.za/*
 *://*.rvsleek.online/*
 *://*.rvsnhotele2025.world/*
+*://*.rvsnhoteles2025.world/*
+*://*.rvsnhotelesy2025.world/*
 *://*.rvuloja.com/*
 *://*.rvuxzg4tcf.com/*
 *://*.rvxnzodzmljk.net/*
@@ -260834,7 +261014,10 @@
 *://*.sapsap.site/*
 *://*.saptr12s58.site/*
 *://*.saptt-gov.top/*
+*://*.sar101.com/*
 *://*.sar102.com/*
+*://*.sar104.com/*
+*://*.sar105.com/*
 *://*.sarabaturbe.xyz/*
 *://*.sarah-louisewoodcock56.top/*
 *://*.sarahtame.at/*
@@ -262234,6 +262417,7 @@
 *://*.secen-biraz-sansini-kullandi-geldi.com/*
 *://*.secenekleriyaap.click/*
 *://*.secerrims.ru/*
+*://*.secessderoper-rsvaids.com/*
 *://*.secfileshare.com/*
 *://*.secgateid87364.org/*
 *://*.sechsy.com/*
@@ -262317,6 +262501,7 @@
 *://*.secshow.net/*
 *://*.secshow.online/*
 *://*.secsorgla.net/*
+*://*.secssanderoperat.com/*
 *://*.sectechnz.com/*
 *://*.sectegro.com/*
 *://*.sectiginizurunler.site/*
@@ -266708,6 +266893,7 @@
 *://*.shoploves.top/*
 *://*.shoplureklam14.xyz/*
 *://*.shopmira.store/*
+*://*.shopopp-2912.click/*
 *://*.shopoutdoorsrus.com/*
 *://*.shopoxbow.club/*
 *://*.shopp-ttonline.com/*
@@ -271746,6 +271932,7 @@
 *://*.smartfutureforbcforests.com/*
 *://*.smartgadgetpros.com/*
 *://*.smartgizmos.website/*
+*://*.smarthideparkinn-guests02095.com/*
 *://*.smartinvestfund.site/*
 *://*.smartinvst.site/*
 *://*.smartlabor.it/*
@@ -271843,6 +272030,7 @@
 *://*.smilerain.live/*
 *://*.smilerbar.online/*
 *://*.smilinghostairbnb.world/*
+*://*.smilinghostmarch.com/*
 *://*.smiple-regrev-compl.com/*
 *://*.smirchy.com/*
 *://*.smiscaluet.space/*
@@ -273223,6 +273411,7 @@
 *://*.solemnsurpass.top/*
 *://*.solentragot.top/*
 *://*.solepsychiatry.top/*
+*://*.soleserra-id842.world/*
 *://*.soletrobuse.ru/*
 *://*.solevux.com/*
 *://*.solfrio.tech/*
@@ -277812,8 +278001,10 @@
 *://*.starecalcium.top/*
 *://*.staremerhadise.top/*
 *://*.starflickz7qpmy.click/*
+*://*.starfootballl.com/*
 *://*.starforgewars.com/*
 *://*.stargazeo.com/*
+*://*.starghotelpremium.world/*
 *://*.starglowventures.com/*
 *://*.starhouse.xyz/*
 *://*.starkappropriation.top/*
@@ -277944,6 +278135,7 @@
 *://*.stateinfospace.com/*
 *://*.statementquo.com/*
 *://*.statementreservas.quest/*
+*://*.statementreservations.quest/*
 *://*.statemob.yachts/*
 *://*.stateresemble.top/*
 *://*.statesales.info/*
@@ -278562,6 +278754,7 @@
 *://*.str3angerrs.online/*
 *://*.str45nashhasx.net/*
 *://*.stra21ightinherit.top/*
+*://*.stradahotel.world/*
 *://*.stragiran48xpatrimonianal.city/*
 *://*.straightenbudism.top/*
 *://*.straightencasino.top/*
@@ -281458,6 +281651,7 @@
 *://*.swe-trans.tk/*
 *://*.swearcounteraction.top/*
 *://*.sweardeplete.cn/*
+*://*.sweatband.top/*
 *://*.sweaterlongevity.top/*
 *://*.sweatershops.com/*
 *://*.sweatherb.top/*
@@ -282380,6 +282574,7 @@
 *://*.tackleobscure.top/*
 *://*.tackleprobe.top/*
 *://*.tacklesyndrome.top/*
+*://*.tackletitansin.com/*
 *://*.tacklocomotive.top/*
 *://*.tacobuo.com/*
 *://*.tacsent.com/*
@@ -287355,10 +287550,13 @@
 *://*.tenniscomplacent.top/*
 *://*.tennisforevers.com/*
 *://*.tennislooking.com/*
+*://*.tennisoneplay.com/*
 *://*.tennisspot.top/*
 *://*.tennistactician.com/*
+*://*.tenniszoneplay.com/*
 *://*.tennoileyklem.net/*
 *://*.tenntysjuxmz.shop/*
+*://*.tennypresents.com/*
 *://*.tenolojiveegitimv.online/*
 *://*.tenor.com.pl/*
 *://*.tenpro69.net/*
@@ -287745,6 +287943,7 @@
 *://*.tevokaxol.com/*
 *://*.tevoken.store/*
 *://*.tevrana.sbs/*
+*://*.tevsorgu.com/*
 *://*.tevtrkaracmuynkjsdms.net/*
 *://*.tewavuo.com/*
 *://*.tewen006.com/*
@@ -287908,6 +288107,7 @@
 *://*.thdhay-reslcvonf.world/*
 *://*.the-bull-hotel.com/*
 *://*.the-coachingacceleratorteam.shop/*
+*://*.the-falcon-bookingid.world/*
 *://*.the-hsbc.com/*
 *://*.the-last-uf-us.pw/*
 *://*.the-ldr.com/*
@@ -287981,6 +288181,7 @@
 *://*.thebossone2.xyz/*
 *://*.thebossone2x2.xyz/*
 *://*.theboxfor.one/*
+*://*.thebridgehostel.world/*
 *://*.thebroad2updatebuddy.bid/*
 *://*.thebroad2updatebuddy.review/*
 *://*.thebroad2updatesbuddy.bid/*
@@ -288250,6 +288451,7 @@
 *://*.theostekno.link/*
 *://*.theostekno.online/*
 *://*.theotherhousesouthkensington.pro/*
+*://*.theotherhousesouthkensington.world/*
 *://*.theotosyolhgz.store/*
 *://*.theoxnoble.com/*
 *://*.thepaketpackaging.com/*
@@ -292418,6 +292620,7 @@
 *://*.tr-get-islem.online/*
 *://*.tr-get-islemler.online/*
 *://*.tr-get-kurumsal.com.tr/*
+*://*.tr-get-odeme-bilgi.online/*
 *://*.tr-get-secure.online/*
 *://*.tr-get-siparis-secure.online/*
 *://*.tr-get-siparis.online/*
@@ -295835,6 +296038,7 @@
 *://*.tribncadestektr.com/*
 *://*.triboro-fcv.org/*
 *://*.tribosgroup.com/*
+*://*.tribu-malasana-hotel.com/*
 *://*.tribu-malasana.com/*
 *://*.tribune-ode.com/*
 *://*.tribunejeopardy.top/*
@@ -300868,6 +301072,7 @@
 *://*.turluindirimler.xyz/*
 *://*.turmash.ru/*
 *://*.turmaze.com/*
+*://*.turmklause.com/*
 *://*.turmoilcounteract.top/*
 *://*.turmoiltime.top/*
 *://*.turn35223.xyz/*
@@ -303251,7 +303456,9 @@
 *://*.uncertaintymalnutrition.top/*
 *://*.unchained-capital.co/*
 *://*.unchartedvvay.com/*
+*://*.uncheckguestdate.com/*
 *://*.uncheckhel.com/*
+*://*.uncheksdatsguesrt.com/*
 *://*.uncle-structure.com/*
 *://*.uncle134.xyz/*
 *://*.uncle24.xyz/*
@@ -303336,6 +303543,7 @@
 *://*.unepeureyore.xyz/*
 *://*.unequaled3467.xyz/*
 *://*.uner-rndvy.net/*
+*://*.unerevers.com/*
 *://*.unetdasi.com/*
 *://*.unevengtheaning.com/*
 *://*.uneventrendi.com/*
@@ -303770,6 +303978,7 @@
 *://*.updateforadobenew.co.za/*
 *://*.updatei.com/*
 *://*.updateinfo-id831.world/*
+*://*.updateinfomarch.com/*
 *://*.updateinfoo.com/*
 *://*.updateinfooctober.com/*
 *://*.updateinfooctoberid20775.com/*
@@ -303901,6 +304110,8 @@
 *://*.upnjfbn.cn/*
 *://*.upnmsgdlz.com/*
 *://*.upnwtufpbwdwuji.cn/*
+*://*.uponangels-id824.world/*
+*://*.uponangels-id8425.world/*
 *://*.uponfamily.top/*
 *://*.uponlad.top/*
 *://*.uponsmile.top/*
@@ -308422,8 +308633,11 @@
 *://*.valicanetes.com/*
 *://*.valid4you13.ru/*
 *://*.validate-id452.life/*
+*://*.validate-id613.com/*
 *://*.validate-id721.life/*
+*://*.validate-id923.life/*
 *://*.validate-user.xyz/*
+*://*.validate832.world/*
 *://*.validateportray.top/*
 *://*.validatesnsation.top/*
 *://*.validatiion.info/*
@@ -310577,6 +310791,7 @@
 *://*.verifydocument.online/*
 *://*.verifyeloquent.top/*
 *://*.verifyguarding.com.tr/*
+*://*.verifyguest-booking.com/*
 *://*.verifyguest-cardhotel.com/*
 *://*.verifyguest-via-booking.com/*
 *://*.verifyguest00247-booking.com/*
@@ -310599,6 +310814,7 @@
 *://*.verifyguest14428-agoda.com/*
 *://*.verifyguest14513-agoda.com/*
 *://*.verifyguest1756-booking.com/*
+*://*.verifyguest232919.world/*
 *://*.verifyguest26535-booking.com/*
 *://*.verifyguest31125-booking.com/*
 *://*.verifyguest31441-booking.com/*
@@ -311376,6 +311592,7 @@
 *://*.vilagedesteklemekampanyasinihemengorsimdi.world/*
 *://*.vilaoaza.com/*
 *://*.vilape.online/*
+*://*.vilarecife-id854.world/*
 *://*.vilaverde.ru/*
 *://*.vildancicek.com/*
 *://*.vildstom.com/*
@@ -313955,6 +314172,7 @@
 *://*.wall3droid.ru/*
 *://*.walla.press/*
 *://*.wallandassociatesresults.com/*
+*://*.wallapop-es-id325235.info/*
 *://*.wallbow.lat/*
 *://*.walldisposition.top/*
 *://*.walldroid.ru/*
@@ -316771,6 +316989,7 @@
 *://*.westcarfilo.com/*
 *://*.westchesterhomesource.com/*
 *://*.westcoastmoulding.com/*
+*://*.westcordcity.world/*
 *://*.westermarh.com/*
 *://*.western-union.click/*
 *://*.western-unlon.click/*
@@ -317308,6 +317527,7 @@
 *://*.win01.xyz/*
 *://*.win03.xyz/*
 *://*.win123888.com/*
+*://*.win2today.com/*
 *://*.win32.live/*
 *://*.win7-update.com/*
 *://*.win79.work/*
@@ -322251,6 +322471,7 @@
 *://*.www-pttbank-govtr.com/*
 *://*.www-pttbank.com/*
 *://*.www-pttbankgovtr.com/*
+*://*.www-pttgouls.cyou/*
 *://*.www-pttgov-tr.com/*
 *://*.www-qnb-duyuru-tr.com/*
 *://*.www-qnb-flnansbank-hediyeli-anket.tk/*
@@ -338565,6 +338786,7 @@
 *://*.zednamo.com/*
 *://*.zednewszm.com/*
 *://*.zedoca.info/*
+*://*.zedwellgreenwich.world/*
 *://*.zedwellpiccadillycircus.world/*
 *://*.zedwellpiccadillycircus2025.com/*
 *://*.zedwellundergroundhoteltottenhamcourtrd.com/*
@@ -338675,6 +338897,7 @@
 *://*.zenithdelcom.com/*
 *://*.zenithfllow.com/*
 *://*.zenithmono.cfd/*
+*://*.zenithotel.world/*
 *://*.zenithploumex.pro/*
 *://*.zenithwin661.info/*
 *://*.zenitorizon.com/*
@@ -341083,6 +341306,7 @@
 *://*.zoomvideo-install.com/*
 *://*.zooncak.com/*
 *://*.zoontalk.com/*
+*://*.zooomasssist.es/*
 *://*.zooparkbizbuda.top/*
 *://*.zoothomesacher.life/*
 *://*.zoozcenv.com/*
