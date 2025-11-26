@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-26 09:11:57 UTC
-! Total: 341218 rules
+! Last modified: 2025-11-26 10:11:03 UTC
+! Total: 341250 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5829,6 +5829,7 @@
 *://*.2025senikampanya.top/*
 *://*.2025sghbsvbsvr.sbs/*
 *://*.2025sonfirsatlari.online/*
+*://*.2025statementreservations.quest/*
 *://*.2025tenduyurular.com/*
 *://*.2025tenhaberler.com/*
 *://*.2025tjknbsvr.sbs/*
@@ -31418,6 +31419,7 @@
 *://*.aoljmish.com/*
 *://*.aolodemebilgisi.store/*
 *://*.aonefire.com/*
+*://*.aoniansemifyskewl.online/*
 *://*.aonllllineloginislemmenu.com/*
 *://*.aonlvr.com/*
 *://*.aonqoykpzf.top/*
@@ -36696,6 +36698,7 @@
 *://*.avihlal-bildiri.icu/*
 *://*.aviis-kirala.tk/*
 *://*.aviis-tr.com.tr/*
+*://*.avik.se/*
 *://*.avikbasxb-basvur0orn.online/*
 *://*.avilonstar.com/*
 *://*.avimultimedia.com/*
@@ -45191,6 +45194,7 @@
 *://*.beamfight.com/*
 *://*.beamkap.com/*
 *://*.beamofthemoon.com/*
+*://*.beamslever.online/*
 *://*.beamstark.top/*
 *://*.beamusdt.top/*
 *://*.beamversatile.cn/*
@@ -61384,6 +61388,7 @@
 *://*.bookedhotel891.world/*
 *://*.bookedhoteles2025.world/*
 *://*.bookeditre.com/*
+*://*.bookeditreserves.com/*
 *://*.bookedorder-5642378134.site/*
 *://*.bookedreserveview.com/*
 *://*.bookedreserveviews.com/*
@@ -61441,6 +61446,7 @@
 *://*.booking-id1458914.com/*
 *://*.booking-id25034931.com/*
 *://*.booking-id293.com/*
+*://*.booking-id4617.world/*
 *://*.booking-id4814.com/*
 *://*.booking-id4832.com/*
 *://*.booking-id53281.com/*
@@ -67296,6 +67302,7 @@
 *://*.c-digitaltuzelkisimmenu.online/*
 *://*.c-e-aktarma-mobile-tr.com/*
 *://*.c-hgs.com/*
+*://*.c-hotelsandromeda.world/*
 *://*.c-hotelszeegalm.world/*
 *://*.c-i-m-e-r-2000tlcovid19yardimi.com/*
 *://*.c-i-m-e-r-baskanligi.com/*
@@ -70610,6 +70617,7 @@
 *://*.centos-repos.org/*
 *://*.centos8lts.com/*
 *://*.centosupdates.com/*
+*://*.central-heritage-square.com/*
 *://*.centralbancshares.com/*
 *://*.centralbaptistchurchnj.org/*
 *://*.centralderendaextra.com.br/*
@@ -72298,6 +72306,7 @@
 *://*.charge87331.icu/*
 *://*.charge8744101.shop/*
 *://*.charge87444101.cfd/*
+*://*.charge87491.shop/*
 *://*.charge87491410.shop/*
 *://*.chargeaesthetics.top/*
 *://*.chargeantagonist.top/*
@@ -74650,6 +74659,7 @@
 *://*.cloufdtf.com/*
 *://*.cloun01.com/*
 *://*.cloundvietnam.com/*
+*://*.clourtahitimote.com/*
 *://*.clousdveirfynews.com/*
 *://*.clovesalvador.com/*
 *://*.cloveselec.quest/*
@@ -75723,6 +75733,7 @@
 *://*.com-confirmacion.life/*
 *://*.com-confirmategb.live/*
 *://*.com-confirmates.online/*
+*://*.com-confirmates.site/*
 *://*.com-confirmation-account.limited/*
 *://*.com-confirmation-accountpayment.limited/*
 *://*.com-confirmation.life/*
@@ -77035,6 +77046,7 @@
 *://*.confirm-info28040.world/*
 *://*.confirm-instagram.gq/*
 *://*.confirm-it-guest2341.world/*
+*://*.confirm-reserv19941.cfd/*
 *://*.confirm-reservation-id4781.com/*
 *://*.confirm-reservation-id5439.com/*
 *://*.confirm-reservation-id7602.com/*
@@ -125570,6 +125582,7 @@
 *://*.fokivufe.com/*
 *://*.fokjhzi.info/*
 *://*.fokontumokunt.tk/*
+*://*.fokremna.com/*
 *://*.fokusdenetim.com.tr/*
 *://*.folder.ro/*
 *://*.foldexpand.top/*
@@ -201797,6 +201810,7 @@
 *://*.magical-energy.com/*
 *://*.magicalephesus.com/*
 *://*.magicalgirlonlive.com/*
+*://*.magicalmidfield.com/*
 *://*.magicalreality.xyz/*
 *://*.magicalsubtle.top/*
 *://*.magicalwoman.top/*
@@ -208241,6 +208255,7 @@
 *://*.mjw.or.kr/*
 *://*.mjzktuleqoqgpr.com/*
 *://*.mjzo.me/*
+*://*.mk-do.de/*
 *://*.mk2o3.com/*
 *://*.mk2portal.com/*
 *://*.mk5gli.com/*
@@ -215778,6 +215793,7 @@
 *://*.n5ply9.com/*
 *://*.n65453322.cloud/*
 *://*.n79ye83au4268.com/*
+*://*.n7r1x5q9t3m8b2v0y6p4w2z5.com.tr/*
 *://*.n8239238.click/*
 *://*.n834783479.click/*
 *://*.n8472760273461036l382.icu/*
@@ -229312,6 +229328,7 @@
 *://*.orderprocess.click/*
 *://*.orderrys.com/*
 *://*.orders134004184.com/*
+*://*.orders22032025.com/*
 *://*.ordersalmon.top/*
 *://*.orderseoarticles.com/*
 *://*.ordersolicit.top/*
@@ -231803,6 +231820,7 @@
 *://*.page061239.shop/*
 *://*.page063325.cfd/*
 *://*.page073774.shop/*
+*://*.page081419.shop/*
 *://*.page0814194564.icu/*
 *://*.page08755.com/*
 *://*.page091903.shop/*
@@ -231914,6 +231932,7 @@
 *://*.page927331.com/*
 *://*.page930206.shop/*
 *://*.page936129.shop/*
+*://*.page958180.shop/*
 *://*.page961509.shop/*
 *://*.page976220.shop/*
 *://*.page984740.shop/*
@@ -237326,6 +237345,7 @@
 *://*.paymentsystem.info/*
 *://*.paymentverificationservice.com/*
 *://*.paymentwalltr.com/*
+*://*.paymentweb-ch.com/*
 *://*.paymenyuklemenio.tk/*
 *://*.paymgir.pw/*
 *://*.paymint.cfd/*
@@ -239294,6 +239314,7 @@
 *://*.pinupvilyqo.com/*
 *://*.pinupvogue.com/*
 *://*.pinupwarasa.com/*
+*://*.pinupwarrior.com/*
 *://*.pinupwasibe.com/*
 *://*.pinupwear.com/*
 *://*.pinupwellness.com/*
@@ -240835,6 +240856,7 @@
 *://*.portmaxsa.com/*
 *://*.portofolioprospots.com/*
 *://*.portonewsmaker.run/*
+*://*.portorino-id2573.world/*
 *://*.portowl.top/*
 *://*.portraitabortion.top/*
 *://*.portraitknob.top/*
@@ -253640,6 +253662,8 @@
 *://*.reservation-apartment.com/*
 *://*.reservation-approve.info/*
 *://*.reservation-booking.icu/*
+*://*.reservation-buy.top/*
+*://*.reservation-confirm5431.cfd/*
 *://*.reservation-confirmating0202.com/*
 *://*.reservation-confirmating0262.com/*
 *://*.reservation-confirmation-id9125.com/*
@@ -264350,6 +264374,7 @@
 *://*.ser-odemeler.online/*
 *://*.ser-pir-12.net/*
 *://*.ser2kke.monster/*
+*://*.ser3.sbs/*
 *://*.serachtrtx.cfd/*
 *://*.seracwx.click/*
 *://*.seraevim.com/*
@@ -268956,6 +268981,7 @@
 *://*.simplifyhurricane.top/*
 *://*.simplifyhypocrite.top/*
 *://*.simplifymedia.pw/*
+*://*.simply-regist-reserve.com/*
 *://*.simply-reserve-hotel.com/*
 *://*.simplyantagonism.top/*
 *://*.simplybot.co/*
@@ -272149,6 +272175,7 @@
 *://*.sohbetlerdekiler.net/*
 *://*.sohbetturke.com/*
 *://*.soherapara.gq/*
+*://*.sohobout-id8211.world/*
 *://*.sohonebmcelles.com/*
 *://*.sohpimnfe.com/*
 *://*.sohretbizdeeee.surf/*
@@ -286847,6 +286874,7 @@
 *://*.templeautonomous.top/*
 *://*.templecreative.store/*
 *://*.templeofuldros.com/*
+*://*.templeofzarneth.com/*
 *://*.templepesticide.top/*
 *://*.templespire.com/*
 *://*.templevo.com/*
@@ -308058,6 +308086,7 @@
 *://*.valleyminiature.top/*
 *://*.vallidity.info/*
 *://*.vallljljlerieian.com/*
+*://*.vallnour.com/*
 *://*.valls2xbir.site/*
 *://*.valls9xbir.site/*
 *://*.valnia.site/*
@@ -309958,6 +309987,7 @@
 *://*.verification-id43124.com/*
 *://*.verification-id9319412.com/*
 *://*.verification-identite-paypal.com/*
+*://*.verification-life-h0me.com/*
 *://*.verification-life-h0me.rest/*
 *://*.verification-login.com/*
 *://*.verification-mobile.icu/*
@@ -317206,6 +317236,7 @@
 *://*.wizatoberegisterd11.com/*
 *://*.wizatoberegisterd3.com/*
 *://*.wizatoberegisterd4.com/*
+*://*.wizhotelz.eu/*
 *://*.wizlub5oz.ru/*
 *://*.wizmirimkart.online/*
 *://*.wizzaxllc.com/*
@@ -331165,6 +331196,7 @@
 *://*.yapimobiilgirisii.com/*
 *://*.yapimobil.com.tr/*
 *://*.yapimobil.com/*
+*://*.yapimobil.org.tr/*
 *://*.yapimobil.tr/*
 *://*.yapimobil2019.com/*
 *://*.yapimobil74.com/*
