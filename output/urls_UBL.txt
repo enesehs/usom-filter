@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-26 11:08:31 UTC
-! Total: 341250 rules
+! Last modified: 2025-11-26 12:23:49 UTC
+! Total: 341264 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -121681,6 +121681,7 @@
 *://*.fin-portal.net/*
 *://*.fin-tech.com/*
 *://*.fin4ller1gels1n.click/*
+*://*.finadra.com/*
 *://*.finalabove.top/*
 *://*.finalcountdown.gq/*
 *://*.finalcrashtest.co.nz/*
@@ -175035,6 +175036,7 @@
 *://*.istanbulakartmayukle.net/*
 *://*.istanbulakbilimdoldur.com/*
 *://*.istanbulaktar.tk/*
+*://*.istanbulanliks.com/*
 *://*.istanbularda2.xyz/*
 *://*.istanbulart.top/*
 *://*.istanbulasd.net/*
@@ -175420,6 +175422,7 @@
 *://*.istanbulnormalyukle.net/*
 *://*.istanbulodemenoktasihizmeti.net/*
 *://*.istanbulok.xyz/*
+*://*.istanbulolmakicindogruyerdesiniz.com/*
 *://*.istanbulolurmsn.click/*
 *://*.istanbulonlnebasvurmanoktasi.com/*
 *://*.istanbulotobusode.net/*
@@ -184013,6 +184016,7 @@
 *://*.kampanyaa1aa01aaa10aaasa1.com/*
 *://*.kampanyaaaaaeylulayiii.info/*
 *://*.kampanyaaaaakatilimmmbsvr.online/*
+*://*.kampanyaaabsvrrrgrnttt.info/*
 *://*.kampanyaaabsvrrrgrnttt.live/*
 *://*.kampanyaaabsvrrrgrnttt.pro/*
 *://*.kampanyaaak.online/*
@@ -187553,6 +187557,7 @@
 *://*.kasimayigunleri.com.tr/*
 *://*.kasimayikampanya.com/*
 *://*.kasimayikampanyalari.co/*
+*://*.kasimayikampanyasi.top/*
 *://*.kasimayikatilimkampanyasi.com/*
 *://*.kasimayinaozelaldinaldinyuzbir.online/*
 *://*.kasimayindadevkampanyaindirimleri.online/*
@@ -192876,6 +192881,7 @@
 *://*.konutkayit.online/*
 *://*.konutkurabasvuru.com/*
 *://*.konutlab.click/*
+*://*.konutland.click/*
 *://*.konutlar.org/*
 *://*.konutlar724.com/*
 *://*.konutlardan2.fun/*
@@ -212313,6 +212319,7 @@
 *://*.mrkzvrgi.com/*
 *://*.mrlbvne.com/*
 *://*.mrlyardim.org/*
+*://*.mrmotorsport.com.ar/*
 *://*.mrmrixmrhmn.net/*
 *://*.mrmrmzmrmxxxvklvkl.net/*
 *://*.mrmurlar.net/*
@@ -218659,6 +218666,7 @@
 *://*.nimrodic.com/*
 *://*.nimrolp.net/*
 *://*.nimtorrsoll.com/*
+*://*.nimtraazenk.com/*
 *://*.ninaerato.top/*
 *://*.ninapro.site/*
 *://*.nincompoop.cfd/*
@@ -246082,6 +246090,7 @@
 *://*.pttgovqo.top/*
 *://*.pttgovqq.top/*
 *://*.pttgovqs.top/*
+*://*.pttgovr.cfd/*
 *://*.pttgovr.top/*
 *://*.pttgovra.top/*
 *://*.pttgovres.help/*
@@ -246566,6 +246575,8 @@
 *://*.pttigov.shop/*
 *://*.pttigov.site/*
 *://*.pttigovtri.top/*
+*://*.pttigovz.icu/*
+*://*.pttigovztr.cc/*
 *://*.pttigsoiv.cfd/*
 *://*.pttigsoiv.top/*
 *://*.pttiigov.top/*
@@ -246836,6 +246847,7 @@
 *://*.pttparcel.live/*
 *://*.pttparcel.xyz/*
 *://*.pttparcelexpressgov-tr.life/*
+*://*.pttparcels.cc/*
 *://*.pttpat.fun/*
 *://*.pttpazaryeri.com/*
 *://*.pttpbt.fun/*
@@ -280890,6 +280902,7 @@
 *://*.suspicionrelentless.top/*
 *://*.suspptrafikodemeleri.net/*
 *://*.suspptrafikyklemeleri.net/*
+*://*.sussesiluxury.com/*
 *://*.sussexmgir.pw/*
 *://*.susshi.one/*
 *://*.sustainabilityaffirm.top/*
@@ -329495,6 +329508,7 @@
 *://*.yansagyesusam.com/*
 *://*.yansinortalikbe56.shop/*
 *://*.yantar-kassa.com/*
+*://*.yanulistanbul.net/*
 *://*.yanwekskararjwkjs.me/*
 *://*.yanyanasevsemseni.site/*
 *://*.yao.cl/*

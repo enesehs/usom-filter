@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-26 11:08:31 UTC
-# Toplam: 427691 Domain
+# Son Güncelleme: 2025-11-26 12:23:49 UTC
+# Toplam: 427707 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -88222,6 +88222,7 @@ cahidepalazomaslak1453.xyz
 cahidepalazomaslakk.com
 cahidepalazomaslaks.durable.co
 cahidepalazorezervasyons.durable.co
+cahidepalazzo.b-cdn.net
 cahidepalazzo.blogspot.com
 cahidepalazzo.info
 cahidepalazzo.website
@@ -153055,6 +153056,7 @@ fin-invest.site
 fin-portal.net
 fin1rsh.duckdns.org
 fin4ller1gels1n.click
+finadra.com
 finalabove.top
 finalcomplainfb-recovery546859.duckdns.org
 finalcountdown.gq
@@ -216291,6 +216293,7 @@ istanbulakartmayukle.net
 istanbulakbilimdoldur.com
 istanbulakrttbakiye.hizli150.com
 istanbulaktar.tk
+istanbulanliks.com
 istanbularda2.xyz
 istanbulart.top
 istanbulasd.net
@@ -216756,6 +216759,7 @@ istanbulnoktasi.info
 istanbulnormalyukle.net
 istanbulodemenoktasihizmeti.net
 istanbulok.xyz
+istanbulolmakicindogruyerdesiniz.com
 istanbulolurmsn.click
 istanbulonlnebasvurmanoktasi.com
 istanbulotobusode.net
@@ -227384,6 +227388,7 @@ kampanyaa1aa01aaa10aaa1.site
 kampanyaa1aa01aaa10aaasa1.com
 kampanyaaaaaeylulayiii.info
 kampanyaaaaakatilimmmbsvr.online
+kampanyaaabsvrrrgrnttt.info
 kampanyaaabsvrrrgrnttt.live
 kampanyaaabsvrrrgrnttt.pro
 kampanyaaacikdenizv2denizbank.co.vu
@@ -231257,6 +231262,7 @@ kasimayifirsatlari.xyz
 kasimayigunleri.com.tr
 kasimayikampanya.com
 kasimayikampanyalari.co
+kasimayikampanyasi.top
 kasimayikatilimkampanyasi.com
 kasimayinaozelaldinaldinyuzbir.online
 kasimayindadevkampanyaindirimleri.online
@@ -238157,6 +238163,7 @@ konutkayit.online
 konutkredisihesaplamalari.blogspot.com
 konutkurabasvuru.com
 konutlab.click
+konutland.click
 konutlar.org
 konutlar724.com
 konutlarbasladi.duckdns.org
@@ -263650,6 +263657,7 @@ mrlogga19.duckdns.org
 mrlolimi2.ddns.net
 mrlyardim.org
 mrm.ddns.net
+mrmotorsport.com.ar
 mrmrixmrhmn.net
 mrmrmzmrmxxxvklvkl.net
 mrmurlar.net
@@ -272055,6 +272063,7 @@ nimrodic.com
 nimrolp.net
 nimtohulin.ddns.net
 nimtorrsoll.com
+nimtraazenk.com
 ninaerato.top
 ninapro.site
 nincompoop.cfd
@@ -305602,6 +305611,7 @@ pttgovql.top
 pttgovqo.top
 pttgovqq.top
 pttgovqs.top
+pttgovr.cfd
 pttgovr.top
 pttgovra.top
 pttgovres.help
@@ -306120,6 +306130,8 @@ pttigov.sbs
 pttigov.shop
 pttigov.site
 pttigovtri.top
+pttigovz.icu
+pttigovztr.cc
 pttigsoiv.cfd
 pttigsoiv.top
 pttiigov.top
@@ -306411,6 +306423,7 @@ pttparcel.help
 pttparcel.live
 pttparcel.xyz
 pttparcelexpressgov-tr.life
+pttparcels.cc
 pttpat.fun
 pttpazaryeri.com
 pttpbt.fun
@@ -351927,6 +351940,7 @@ suspicious-sammet.31-56-60-58.plesk.page
 suspptrafikodemeleri.net
 suspptrafikyklemeleri.net
 sussesetme.sa.com
+sussesiluxury.com
 sussexmgir.pw
 susshi.one
 sussyamous34.ddns.net
@@ -362874,6 +362888,7 @@ toki-konut-online.best
 toki-konutlar.sbs
 toki-konutlari-basvuru.best
 toki-konutlari.sbs
+toki-konutlaribasvuruyap.vercel.app
 toki-konutlarimbasvuru.vercel.app
 toki-konutlarimbasvurular.vercel.app
 toki-konutlarimbasvurum.vercel.app
@@ -413086,6 +413101,7 @@ yanparglobal.com
 yansagyesusam.com
 yansinortalikbe56.shop
 yantar-kassa.com
+yanulistanbul.net
 yanwekskararjwkjs.me
 yanyanasevsemseni.site
 yaodsr.cn
