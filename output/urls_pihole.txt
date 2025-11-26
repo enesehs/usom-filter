@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-26 15:08:41 UTC
-# Toplam: 428357 Domain
+# Son Güncelleme: 2025-11-26 16:11:26 UTC
+# Toplam: 428393 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8622,6 +8622,7 @@
 2132132135125.cloud
 2132154.netlify.app
 213222225242.duckdns.org
+21323123.cyou
 21323123.icu
 2132323.vercel.app
 21323342423212121.cloud
@@ -60351,6 +60352,7 @@ basvurvms.xyz
 basvurvnm.com.tr
 basvurvnm.xyz
 basvurvnr.cyou
+basvurvns.com.tr
 basvurvns.xyz
 basvurvpr.com.tr
 basvurvpr.online
@@ -63144,6 +63146,7 @@ bellami-designboutique.com
 bellasimpson.com
 bellasweetboutique.com
 bellaudo.duckdns.org
+bellavillacabana.com
 bellawynn.com
 bellc0cu.hopto.org
 belldecor.com.br
@@ -79963,6 +79966,7 @@ bobsmith.apiworld.cf
 bobstore.net
 bobstranz.com
 bobulttoriz.xyz
+bocasparadise.world
 bocekilaclama.gen.tr
 bocekilaclamahizmeti.com
 bocekilaclamazeytinburnu.net
@@ -80897,6 +80901,7 @@ booking-id63429.com
 booking-id673.com
 booking-id7842.com
 booking-id8259.world
+booking-id8293.com
 booking-id8381.com
 booking-id845.com
 booking-id8478.com
@@ -80974,6 +80979,7 @@ bookregreserve.com
 bookreqreserve.com
 bookrequestreserve.com
 bookreserve-cust456434.com
+bookreserverequest.com
 bookreservesup.com
 bookreview-reserve.com
 bookreviewreserve.com
@@ -98269,6 +98275,7 @@ collisiongasp.top
 colllaborationhub.com
 collnbestnjays.hopto.org
 colloquialisme.xyz
+colmplaint-page.com
 colnbace-seruserd.hopto.org
 colnbase.duckdns.org
 colnbasetu.duckdns.org
@@ -98768,6 +98775,7 @@ com-paramguvende.com.tr
 com-paymentc-update.cfd
 com-paymentc-update.icu
 com-paymentcc-update-account.sbs
+com-paymentcc-update-idres.help
 com-paymentcc-update-idreser.icu
 com-paymentcc-update-idreser.sbs
 com-paymentcc-update.cfd
@@ -99386,7 +99394,9 @@ complacentinvalid.top
 complacentpropel.top
 complainoar.top
 complainpreoccupy.top
+complaint-book-reserv.com
 complaintaristocrat.top
+complaintbookreserv.com
 complaintbreach.top
 complaintbrood.top
 complaintragile.top
@@ -99860,6 +99870,7 @@ confirm-id991230.com
 confirm-identification.name
 confirm-identity.net
 confirm-identity.site
+confirm-in.com
 confirm-info28040.world
 confirm-instagram.gq
 confirm-instegram-user.tr-tc.com
@@ -170661,6 +170672,7 @@ glosaryhomexual.top
 glossary.fitcalcbmi.com
 glossaryidol.top
 glostrap.com
+glotek.xyz
 glotin.zapto.org
 glotorrents.pw
 glottausdf.info
@@ -174262,6 +174274,7 @@ gtmpbeaxruxy.myftp.org
 gtneifnsyrf.ga
 gtnhm.com
 gtnziklmm.tk
+gtonlinemiislemmenumtr.store
 gtonlinemislemenutr.store
 gtopinvestigate.shop
 gtp9dlav.duckdns.org
@@ -197097,6 +197110,7 @@ holganbet940.com
 holhgsz.com
 holibixmbclell.net
 holidamyup.today
+holiday-inn-bilbao-airport.com
 holiday-otel.cfd
 holiday23l.site
 holidayacrestreefarm.com
@@ -197920,6 +197934,7 @@ hookmanuscript.top
 hookonset.top
 hookshome.ddns.net
 hookup4444.top
+hookuproom6334.world
 hooky.ddns.net
 hoolzkfklr.duckdns.org
 hoonaw.ru.com
@@ -198323,11 +198338,13 @@ hotelamhachingerbachbyblattl.top
 hotelamtriller.world
 hotelaragon.world
 hotelarenacity.world
+hotelaristoss.com
 hotelassociationdosinc.com
 hotelassociationseogp.com
 hotelavalon.org
 hotelbananaazul.world
 hotelbeekbyanna.world
+hotelbilbao-56414564.com
 hotelbillund.world
 hotelboard.org
 hotelboke2025.world
@@ -198346,6 +198363,8 @@ hoteldeals2984.world
 hoteldelangeman.world
 hotelduomk-appart-rescheckinfo.com
 hotele2025.de
+hoteleboke2025.world
+hoteleder.world
 hotelerbooked2025.world
 hotelerbookeds2025.world
 hoteles2025bookeds.sbs
@@ -203893,6 +203912,7 @@ id-boavalidate.zapto.org
 id-confirm-page.com
 id-confirm-reserve.com
 id-guestcheck.com
+id-guestis48901.world
 id-icloud.top
 id-info-reserv64727.cfd
 id-locked-account.com
@@ -203977,6 +203997,7 @@ id45780021.live
 id46098.info
 id4677687.live
 id48088277.date
+id4847281.com
 id4872.world
 id492927521.world
 id498996.com
@@ -204000,6 +204021,7 @@ id60157261.date
 id61189387.date
 id621386.world
 id62344236.com
+id62346.com
 id627181.live
 id627191102.live
 id627291011.live
@@ -204199,6 +204221,7 @@ identicalcasualty.top
 identification-coinbase.com
 identification-verification.online
 identification112.xyz
+identification423.world
 identification493.com
 identification493.world
 identification931.world
@@ -238499,6 +238522,7 @@ konutlardan2.fun
 konutlardan3.fun
 konutlarhizlidan.duckdns.org
 konutlarim2026.sbs
+konutlarim21.cyou
 konutlarimm.icu
 konutlarinyuzyili.it.com
 konutlarsite.com
@@ -244050,6 +244074,7 @@ leboncoin-kp.top
 leboncoin-nnnn.hopto.org
 leboncoin-ny.info
 leboncoin-offer.cfd
+leboncoin-offer.shop
 leboncoin-offre.icu
 leboncoin-payment-fr.com
 leboncoin-payment.com
@@ -254486,6 +254511,7 @@ mayakovskiiy.ru
 mayakovsky-theater.ru
 mayamostaki.xyz
 mayanboats.com
+mayanmonkey.world
 mayarmozza.ddns.net
 mayataboush.hopto.org
 maybank-iud2u.click
@@ -263057,6 +263083,7 @@ montcarper.hopto.org
 montechristo.ru
 montecortelhas.com
 montecristo.zapto.org
+montegordo-id2819.world
 montelavento.pro
 montera.sbs
 montesoftware.arabamuayenesi.xyz
@@ -274093,6 +274120,7 @@ noti.synergize.co
 notice-accnt-scrty3985rz.duckdns.org
 notice-guest-form.com
 notice-mirchea.com
+notice-verdarvens.com
 noticeaardy.top
 noticeableblunt.top
 noticeabledivert.top
@@ -301762,6 +301790,7 @@ prmosyonbasvr.click
 prmosyonbasvrlar.click
 prmsnynnbsvrrkmnpnyaa.click
 prmsnynnkmpanyagrnt.pro
+prmsnyonngrntkmpnyaa.info
 prmsooosynnngrntt.sa.com
 prmssynnkmpnyaabsvrrr.click
 prmsyn-bsvru-guncel.cyou
@@ -302870,6 +302899,7 @@ propertymysource.world
 propertyofiranmy.ir
 propertyoneguest.world
 propertysentimental.cn
+propertysorce.world
 propertysource.world
 propertysourced.world
 propertystayresolve.com
@@ -305453,6 +305483,7 @@ pttghgsbakye.com
 pttghv.top
 pttgi.ink
 pttgi.xyz
+pttgieot.cc
 pttgin.top
 pttgio.top
 pttgioic.cc
@@ -318206,6 +318237,7 @@ rnfofthajcivpkj.cn
 rnfxqlyas.com
 rngaxdeeacitwpk.su
 rngh3do0j.duckdns.org
+rngmedia.es
 rngosudueqbjxqr.ru
 rnhacker3.duckdns.org
 rnhqomkmkb.duckdns.org
@@ -332849,6 +332881,7 @@ service-apple.zapto.org
 service-application.com
 service-authorization.com
 service-cdiscount-tombola.one
+service-ch.com
 service-clientel.ddns.net
 service-com.hopto.org
 service-costumer.duckdns.org
@@ -349359,6 +349392,7 @@ stupyaumxh.duckdns.org
 stur21dywarrior.top
 sturdydeer.top
 sturdyregularrmsnhw.shop
+sturdys-id5832.world
 sturdyversatile.top
 sturt.xyz
 stutorialretort.top
@@ -351785,6 +351819,7 @@ superssigorta.web.tr
 superstarone.one
 superstaronline.site
 superstitiousmultitude.top
+superstrikersin.com
 supersuit.site
 supersuppraka0801234567890.tk
 supertarife-turkcell.com
@@ -359625,6 +359660,7 @@ tenniscomplacent.top
 tennisforevers.com
 tennislooking.com
 tennisoneplay.com
+tennisoutgoing.com
 tennisspot.top
 tennistactician.com
 tenniszoneplay.com
