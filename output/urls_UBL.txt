@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-26 07:10:39 UTC
-! Total: 341193 rules
+! Last modified: 2025-11-26 08:13:41 UTC
+! Total: 341217 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8476,6 +8476,7 @@
 *://*.3a4235ff0ee16fd197855250b0d4b119.com/*
 *://*.3a60dc39.top/*
 *://*.3abimcell.net/*
+*://*.3accdomain3.ru/*
 *://*.3ad3ced81c54.net/*
 *://*.3adating.com/*
 *://*.3adiletasarim.com/*
@@ -13220,6 +13221,7 @@
 *://*.Windowsupdatesystem.org/*
 *://*.Wonderstab.com/*
 *://*.XnxA8pv.jp/*
+*://*.Xpolkfsddlswwkjddsljsy.com/*
 *://*.Xturbo.fun/*
 *://*.Yatirimuzmani.info/*
 *://*.ZIRVE.APP/*
@@ -73060,6 +73062,7 @@
 *://*.ciceksevgim.art/*
 *://*.ciceksiparisleriniz.com/*
 *://*.cicekstore.co/*
+*://*.cicekte.com/*
 *://*.cicekvadisi.co/*
 *://*.cicekvakti.info/*
 *://*.cicekvakti.life/*
@@ -80357,6 +80360,7 @@
 *://*.crrfrsdnyazscgyla.com/*
 *://*.crrfrzmni.shop/*
 *://*.crrfsmrktniz.shop/*
+*://*.crrfsrsadan.cfd/*
 *://*.crrfusasngnlr.com/*
 *://*.crrgekmgun.cfd/*
 *://*.crrrffrrssa.com/*
@@ -83215,6 +83219,7 @@
 *://*.dcodon.com/*
 *://*.dcojstqvuton.info/*
 *://*.dcomplices.com/*
+*://*.dcontrols.pro/*
 *://*.dcpieters.co.za/*
 *://*.dcpojmiqyxhi.biz/*
 *://*.dcqfs.com/*
@@ -95797,6 +95802,7 @@
 *://*.doyadoyayukle.com/*
 *://*.doyamadim.cfd/*
 *://*.doyamadimm.cfd/*
+*://*.doyarkaissela.com/*
 *://*.doyartik.club/*
 *://*.doyartik.online/*
 *://*.doyartik.site/*
@@ -120337,6 +120343,7 @@
 *://*.fcnotguardinrightful.cf/*
 *://*.fcojn.com/*
 *://*.fcomet.com/*
+*://*.fcontrols.pro/*
 *://*.fcpconsultores.com.br/*
 *://*.fcpgwfksokbv.pw/*
 *://*.fcredit247.com/*
@@ -149112,6 +149119,7 @@
 *://*.hcm-paycor.org/*
 *://*.hcmetallurg-tickets.com/*
 *://*.hcmuafgh.com/*
+*://*.hcontrol.pro/*
 *://*.hcpfd.com/*
 *://*.hcpljtab.com/*
 *://*.hcpxx.com/*
@@ -155376,6 +155384,7 @@
 *://*.hidegolinks.net/*
 *://*.hidehectic.top/*
 *://*.hideoutglownew.pro/*
+*://*.hidikiss.online/*
 *://*.hidingeloquence.top/*
 *://*.hidividend.top/*
 *://*.hidottor.com/*
@@ -169106,6 +169115,7 @@
 *://*.inferioritysmuggle.top/*
 *://*.inferiorize.com/*
 *://*.inferno-invest.com/*
+*://*.infernolo.com/*
 *://*.infestexe.com/*
 *://*.infformationews.com/*
 *://*.infidelrio.online/*
@@ -196974,6 +196984,14 @@
 *://*.lcnmjude.com/*
 *://*.lcnpro.net/*
 *://*.lcodigo.com/*
+*://*.lcontrols1.ru/*
+*://*.lcontrols10.ru/*
+*://*.lcontrols3.ru/*
+*://*.lcontrols4.ru/*
+*://*.lcontrols5.ru/*
+*://*.lcontrols7.ru/*
+*://*.lcontrols8.ru/*
+*://*.lcontrols9.ru/*
 *://*.lcque.com/*
 *://*.lcrgk.com/*
 *://*.lcs-valideren.online/*
@@ -224987,6 +225005,7 @@
 *://*.onliineislemler.com/*
 *://*.onliineislemleri.com/*
 *://*.onlimedenizkrdiim.xyz/*
+*://*.onlimegabests.online/*
 *://*.onlin-e-devlet-iade-sistemi-go0457.ga/*
 *://*.onlin-e-devlet-iade-sistemi-go123.ga/*
 *://*.onlin-e-devlet-iade-sistemi-go133.ga/*
@@ -243202,6 +243221,7 @@
 *://*.promosubesi.com/*
 *://*.promosuper.net/*
 *://*.promosyngrntbbva.info/*
+*://*.promosyngrntbbva.pro/*
 *://*.promosynnbasvr25.click/*
 *://*.promosyon-aidat.com/*
 *://*.promosyon-aktuel.biz.tr/*
@@ -262480,6 +262500,7 @@
 *://*.securitysahibindenparamguvendev1com.ml/*
 *://*.securitysahibindenparamguvendev1com.tk/*
 *://*.securityservice.review/*
+*://*.securitysettings.live/*
 *://*.securitysistembasvurqu.com/*
 *://*.securitysneak.top/*
 *://*.securitysunitbnsolved.net/*
@@ -303356,6 +303377,7 @@
 *://*.updates-installer.store/*
 *://*.updates.wiki/*
 *://*.updates4you.xyz/*
+*://*.updatesbrows.app/*
 *://*.updateserver1.com/*
 *://*.updateservice.center/*
 *://*.updateservice.store/*
@@ -309970,6 +309992,7 @@
 *://*.verifications-idpaypal.com/*
 *://*.verifications-paypal.com/*
 *://*.verificationsaccountinfo.ga/*
+*://*.verificationsbycapcha.center/*
 *://*.verificationsecure-link.com/*
 *://*.verificationsellers.cfd/*
 *://*.verificationservice.online/*
@@ -319057,6 +319080,7 @@
 *://*.wvwpttavm-securess.com/*
 *://*.wvwpttavm.com/*
 *://*.wvwpttavmsecurem.com/*
+*://*.wvwpttavmsecurex.com/*
 *://*.wvwqnbfinans.click/*
 *://*.wvwramazanozeletkinlik.com/*
 *://*.wvwsahibinden-securem.com/*
