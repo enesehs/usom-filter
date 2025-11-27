@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-27 21:08:12 UTC
-# Toplam: 428534 Domain
+# Son Güncelleme: 2025-11-27 22:08:59 UTC
+# Toplam: 428574 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45536,6 +45536,7 @@ apethorpevillage.co.uk
 apex-loot.com
 apexcv.ddns.net
 apexdataacademy.com
+apexdrrive.com
 apexenguae.com
 apexfreepanel.duckdns.org
 apexit.yachts
@@ -57423,6 +57424,7 @@ basitusul.b-cdn.net
 baskabirhayat.net
 baskabirkampanyafirsatibance.tech
 baskabuekim.com
+baskadigi.digital
 baskageecis.is-best.net
 baskaglrtntss.vercel.app
 baskajqal.com
@@ -70932,6 +70934,7 @@ binanssupportgiris.tk
 binantech-award.online
 binanuc.org
 binaonce.sbs
+binarce.xyz
 binaries.site
 binarycousins.com
 binaryoptionisnotmelfolz1.com
@@ -79879,6 +79882,7 @@ boaivietnam.com
 boamdrieywbo1.duckdns.org
 boaonlinecdesk.duckdns.org
 boaonlinecdesksession.duckdns.org
+boapp.store
 boaprepaidv1.ddns.net
 boaprepaidverifyca.ddns.net
 boaprotectionca.ddns.net
@@ -80136,6 +80140,7 @@ bohem1.xyz
 bohemianbenz.ddns.net
 bohgiwe.com
 bohoth.com
+bohq.site
 boibleved.ru
 boiibzqmk12j.com
 boika.zapto.org
@@ -80496,6 +80501,7 @@ bonusfirsati.digital
 bonusfirsatkampanya.buzz
 bonusfirsatkampanyalariozel.line.pm
 bonusfirsatkampnya.xyz
+bonusfirsatlar.best
 bonusfirsatlar2019.cf
 bonusfirsatlar2019.ga
 bonusfirsatlar2019.gq
@@ -107244,6 +107250,8 @@ daltonhizmetleri.shop
 daltonkm.shop
 daltonlarsehirde.space
 daltonlarsehireindi.com
+dalvon.store
+dalvonlabs.shop
 dalvoros.com
 dalypz.zapto.org
 damade.fit
@@ -123289,6 +123297,8 @@ dratasilsese.site
 dravencia.sbs
 dravenquish.shop
 dravinex-tr.com
+dravonhq.store
+dravonhubs.shop
 dravonovalect.pro
 drawapp.net
 drawbackdesolate.top
@@ -152016,6 +152026,8 @@ fennelface.lat
 fenniekibi.net
 fenomenbegeni.com
 fenomeno.gq
+fenory.store
+fenoryhq.shop
 fenquara.top
 fensolnnimtor.com
 fensterfaliraki.com
@@ -167451,15 +167463,18 @@ getbildirimlerim.com.tr
 getbildirimlerim.xyz
 getboldique.com
 getbusiness-invest.com
+getcellexa.shop
 getceon.store
 getcert.net
 getclapped.ddns.net
 getclouddoc.com
 getcloudsolutions.dev
+getclytot.store
 getcolumbia.top
 getcookies.ddns.net
 getcord.co.za
 getcoupon.xyz
+getdalvon.store
 getdisclose.top
 getdunaro.site
 getegroup.com
@@ -167475,6 +167490,7 @@ getfasdisadg1.com
 getfasdisadg2.com
 getfasternews.com
 getfausrmaren.com
+getfenthis.store
 getfigmacreator.com
 getfiledown.com
 getfilefox.com
@@ -167580,9 +167596,11 @@ getitnowmate.website
 getityourcredits.com
 getkacaget.com
 getkampanyabasvurunuyapodulnet.net
+getkevano.site
 getkilla.xyz
 getkira.info
 getkitplayer.com
+getlaztot.store
 getle-paranizguvende.com
 getlinkpayment.com
 getlintout.co
@@ -167601,6 +167619,7 @@ getmidjourney.tech
 getmobilodeme.com.tr
 getmoney247.ddns.net
 getmoney3004.duckdns.org
+getmoriva.site
 getmycreditsyourlife.com
 getmyfile.click
 getmyfile.link
@@ -167608,6 +167627,7 @@ getmytoken-claim.ddns.net
 getmytrade.org
 getnationalresearch.com
 getnewkampanyaturkiyedehiwhatsyournameada.net
+getnexory.site
 getnokta-onaysiparis.com.tr
 getns54tope.top
 getobject49.marginisbi.ru
@@ -167656,6 +167676,7 @@ getprofit-bankislam.com
 getpromo.me
 getpwnedlmfao.ddns.net
 getpyratex.store
+getqeptot.store
 getquery.org
 getqures.store
 getraenke-weichmann.de
@@ -167768,6 +167789,7 @@ getsistemi.myvnc.com
 getsize.shop
 getsmartpdf.com
 getsolicitor.top
+getsoltot.shop
 getsparaguvende.ml
 getsparamguvende.com
 getsparamguvende.com.tr
@@ -187360,6 +187382,7 @@ helpnaver.com
 helponline.somee.com
 helponlinetoday.ddns.net
 helpprocessingedd908.duckdns.org
+helppspace.com
 helprepertoire.top
 helpreportclient.ml
 helpreportickets.ml
@@ -206711,6 +206734,7 @@ ilkevimbasvurusutoki.pro
 ilkevimbasvurusutoki.sa.com
 ilkevimbasvurusutoki.xyz
 ilkevimbasvurusuyap.site
+ilkevimbasvurux1bkgmei3t.vercel.app
 ilkevimbasvurux2gzn4urp.vercel.app
 ilkevimbasvuruxysmomwap23k.vercel.app
 ilkevimbasvuruz63fddn7.vercel.app
@@ -247001,6 +247025,7 @@ logdayimknk.com
 logene-trzoree.webflow.io
 logentrzero-website.webflow.io
 loggerderts.tk
+loggimate.com
 loggin-accountamazoneqmwoee.duckdns.org
 loggin-accountamazonprimethpnewk.duckdns.org
 loggin-amazonaccountfk8o7sy.duckdns.org
@@ -255779,6 +255804,8 @@ meettrek.top
 meetvelora.shop
 meetviberapi.com
 meetvibersapi.com
+meetwalls.shop
+meetwans.shop
 meetwithnicholson.ddns.net
 meetworldide.space
 meetyoursoulmate.life
@@ -263442,6 +263469,9 @@ morintesfesen.com
 moris.hopto.org
 morisa.click
 moristaetdfertal9002.ddnsgeek.com
+morivahq.shop
+morivahubs.shop
+morivalabs.site
 morjestler.com
 morker.info
 morkestker.com
@@ -271835,6 +271865,7 @@ nexoracraft.store
 nexorae.shop
 nexoraid.com
 nexoriax.shop
+nexoryapp.store
 nexovortex.online
 nexprice.com
 nexralt.com
@@ -298623,6 +298654,7 @@ plinqok.com
 plint.ddns.net
 plirweb.com
 plixtera.com
+plixzone.com
 pljfc.duckdns.org
 pljfftutpo.duckdns.org
 pljgdcrnkj.duckdns.org
@@ -320723,6 +320755,7 @@ s0u0le.online
 s0ucac0v.duckdns.org
 s0udah3tsf7psn7t5hyjgho.ddns.net
 s0uleb.duckdns.org
+s0wexwsdo6.storage.googleapis.com
 s0yjkknoa.duckdns.org
 s0zpeor.cn
 s1-colgate.orlansavi.fun
@@ -348999,6 +349032,7 @@ stophgsz.xyz
 stopley.host
 stopmichelle.net
 stopmoshenik.online
+stopnona.com
 stoppagescrap.top
 stoppaycardco.ddns.net
 stoppaymentcom.ddns.net
@@ -364939,6 +364973,7 @@ toppleintegral.top
 toppleprosecute.top
 topportas.ddns.net
 topposition.online
+topppoint.com
 toppptalent.com
 topptechy.com
 toppttgov.help
@@ -380678,7 +380713,9 @@ use-courses.at.ply.gg
 use7354537.xyz
 usea1o1.com
 useasfor.site
+usebo.store
 usecooka.xyz
+usedalvon.store
 usedartworkstore.zapto.org
 usedbecause.top
 usedbelow.top
@@ -394366,6 +394403,7 @@ webbndyru2024.com
 webbnglobalhediyelerkampanyasi.com
 webbnnctrgrss.xyz
 webbnsdkkrmdirmn.com
+webbntrt.sbs
 webbs.live
 webbsbayrntilrmiziip25.xyz
 webbsbayrntilrmizil32.xyz
@@ -397865,6 +397903,7 @@ winnerscredit.digital
 winnersxxx.hopto.org
 winnertreasure.store
 winnewmobilephone.store
+winnforce.com
 winningeleven3.re
 winnlinne.com
 winnnerkeradmin.ddns.net
@@ -398134,6 +398173,7 @@ wizmirimkart.online
 wiznon.ddns.net
 wizz.hopto.org
 wizzaxllc.com
+wizzbrand.com
 wizzkye10004.hopto.org
 wizzocane.ddns.net
 wizztrakys.com
