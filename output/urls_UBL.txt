@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-27 07:11:49 UTC
-! Total: 341978 rules
+! Last modified: 2025-11-27 08:14:32 UTC
+! Total: 341992 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20032,6 +20032,7 @@
 *://*.advfiit.com/*
 *://*.advisablestunning.top/*
 *://*.adviserseef.com/*
+*://*.advisorflux.com/*
 *://*.advisorsmk.com/*
 *://*.advitya-heights.com/*
 *://*.advjaksvdjkdss.com/*
@@ -35508,6 +35509,7 @@
 *://*.assurecom.info/*
 *://*.assuredetention.top/*
 *://*.assuredfirst.com/*
+*://*.assureeval.com/*
 *://*.assureglossary.top/*
 *://*.assurmatkap.vip/*
 *://*.assurmatkapguclusagi.xyz/*
@@ -40735,6 +40737,7 @@
 *://*.basicsiparissepette.pro/*
 *://*.basicsjumpbiggest.com/*
 *://*.basidlon.net/*
+*://*.basilic.info/*
 *://*.basilicakitchen.ca/*
 *://*.basilon.online/*
 *://*.basilrentcar.com/*
@@ -69026,6 +69029,7 @@
 *://*.carmodzone.click/*
 *://*.carnegiemonster.app/*
 *://*.carneliantc.com/*
+*://*.carnesmemdesa.com/*
 *://*.carniceriamartinezadria.com/*
 *://*.carnivalaa32.xyz/*
 *://*.carnivivuc.com/*
@@ -69206,6 +69210,7 @@
 *://*.carrentcenter.online/*
 *://*.carrentfilo.com/*
 *://*.carrentina.xyz/*
+*://*.carrerlilla.com/*
 *://*.carreyazaylari.online/*
 *://*.carreyazaylari.xyz/*
 *://*.carreyazfirsatgunleri.online/*
@@ -141125,6 +141130,7 @@
 *://*.guvenli-siparis.online/*
 *://*.guvenli-sipariset.com.tr/*
 *://*.guvenli-sipariset.online/*
+*://*.guvenli-siparisim.com/*
 *://*.guvenli-siparisin.com/*
 *://*.guvenli-siparisiniz.com/*
 *://*.guvenli-siparisler.com/*
@@ -167405,6 +167411,7 @@
 *://*.impressiontranscend.top/*
 *://*.impressivebleak.top/*
 *://*.impressnaples.com/*
+*://*.imprimerie-agp.com/*
 *://*.imprisonmenttransistor.top/*
 *://*.impromptitude.com/*
 *://*.impromptudistortion.top/*
@@ -197854,6 +197861,7 @@
 *://*.lentkartyukleme.net/*
 *://*.lentkrtykle.net/*
 *://*.lentkrtyuklemee.com/*
+*://*.lenvny.com/*
 *://*.leo-bannk-com-az.cfd/*
 *://*.leo-osti.click/*
 *://*.leo1948.com.tr/*
@@ -229956,6 +229964,7 @@
 *://*.orkeasansor.com/*
 *://*.orkelowtqcnsmbwd.com/*
 *://*.orkidem.live/*
+*://*.orlandoscreenenclosure.net/*
 *://*.orlandroot.com/*
 *://*.orlansavi.fun/*
 *://*.orleansban.com/*
@@ -231809,6 +231818,7 @@
 *://*.oziltestfw.ml/*
 *://*.oziqwgmdv.com/*
 *://*.oziriss.club/*
+*://*.ozivoice.com/*
 *://*.ozkandan.com/*
 *://*.ozkandernegi.com/*
 *://*.ozkanegitimkulturvakfi.com/*
@@ -272036,6 +272046,7 @@
 *://*.smartweb9.com/*
 *://*.smartworkcrm.com/*
 *://*.smash6767.xyz/*
+*://*.smashingboss.com/*
 *://*.smashreconciliation.top/*
 *://*.smaulmartinakan.club/*
 *://*.smaximu758.xyz/*
@@ -273444,6 +273455,7 @@
 *://*.solarpraise.top/*
 *://*.solarpulseq8vt.click/*
 *://*.solarquill.com/*
+*://*.solarrayes.com/*
 *://*.solartemplar.com/*
 *://*.solartrackingsystem.net/*
 *://*.solartree.pk/*
@@ -288620,6 +288632,7 @@
 *://*.thesisibrush.com/*
 *://*.thesislife.top/*
 *://*.thesixonefour.buzz/*
+*://*.thesmalladventureguide.com/*
 *://*.thesmartlira.com/*
 *://*.thesn4de56yrarlan45dimadangeld.com/*
 *://*.thesndfrnetzi.com/*
@@ -337221,6 +337234,7 @@
 *://*.youronlinedigitalbusiness.com/*
 *://*.youroverrid.top/*
 *://*.yourownmart.com/*
+*://*.yourpgcountyliving.com/*
 *://*.yourprizeiswaiting.net/*
 *://*.yourpro.top/*
 *://*.yourprofessionalpath.com/*
