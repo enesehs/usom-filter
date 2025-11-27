@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-27 08:14:32 UTC
-# Toplam: 428476 Domain
+# Son Güncelleme: 2025-11-27 09:10:59 UTC
+# Toplam: 428479 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -104292,6 +104292,7 @@ cryptmycryptmycrypt.info
 cryptmyexe.pw
 crypto---com--aauth---isssue.webflow.io
 crypto-2233.ddns.net
+crypto-coplilot-dashboard.vercel.app
 crypto-crest.ltd
 crypto-crypto.site
 crypto-db.com
@@ -104316,6 +104317,7 @@ cryptocmlogissue.webflow.io
 cryptoco.info
 cryptocoinbitcoin.xyz
 cryptocomgift.duckdns.org
+cryptocopilot.app
 cryptocrio.pw
 cryptocrio.top
 cryptocryptobitcoin.xyz
@@ -389388,6 +389390,7 @@ vintagebag.top
 vintagechecker.com.tr
 vintagechecker.xyz
 vintageredwe.xyz
+vinted.lat
 vinujay.com
 vinyl-stars.com
 viocart.store
