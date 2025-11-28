@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-28 13:23:34 UTC
-! Total: 342168 rules
+! Last modified: 2025-11-28 14:09:32 UTC
+! Total: 342172 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -193311,6 +193311,7 @@
 *://*.konutbul.click/*
 *://*.konutcan.com/*
 *://*.konutcozum.com/*
+*://*.konutcun.click/*
 *://*.konutdestegi6060.net/*
 *://*.konutdestek.online/*
 *://*.konutdestek1.fun/*
@@ -195389,6 +195390,7 @@
 *://*.kurmadolndln.com/*
 *://*.kurmanldonlpns.com/*
 *://*.kurmaslodenti.com/*
+*://*.kurmok.cfd/*
 *://*.kurmok.cyou/*
 *://*.kurmok.sbs/*
 *://*.kurmsalhszmt.shop/*
@@ -264858,6 +264860,7 @@
 *://*.sepetim-onayli-237426.com/*
 *://*.sepetim-onayli-24126.com/*
 *://*.sepetim-onayli-24226.com/*
+*://*.sepetim-onayli-24326.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
@@ -274660,6 +274663,7 @@
 *://*.sonsuz-hislere-kuran-bizlerde-iyiyiz.com/*
 *://*.sonsuz-hizmetler.net/*
 *://*.sonsuz-saygilari-goren-hep-devamini-getirir.com/*
+*://*.sonsuzakadartok1.cyou/*
 *://*.sonsuzbilgelik.space/*
 *://*.sonsuzdan-bu-yana-sevgili-gunu-hissedin.com.tr/*
 *://*.sonsuzdunya.org/*
