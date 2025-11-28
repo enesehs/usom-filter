@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-28 11:08:02 UTC
-! Total: 342137 rules
+! Last modified: 2025-11-28 12:23:16 UTC
+! Total: 342165 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -16423,6 +16423,7 @@
 *://*.acfpjxz.com/*
 *://*.acgdvfxjy.com/*
 *://*.acgozunubremin.surf/*
+*://*.ach-uz.com/*
 *://*.achanesman.com/*
 *://*.achatcommercefloride.com/*
 *://*.achecker.tk/*
@@ -36113,6 +36114,7 @@
 *://*.audisportman13.com/*
 *://*.audisportrs3.com/*
 *://*.audisportrs7.com/*
+*://*.audit-kg.com/*
 *://*.audit-pvv.com/*
 *://*.auditdiamond.top/*
 *://*.auditembed.top/*
@@ -45769,6 +45771,7 @@
 *://*.benalmasambaskasialacalan.shop/*
 *://*.benbabadas.top/*
 *://*.benbabamadoyamadim.net/*
+*://*.benbilekendimibitiremiyorum.click/*
 *://*.benbilmem.xyz/*
 *://*.benbilmemama101bilir.sbs/*
 *://*.benbilmemsenbilirsin.xyz/*
@@ -69211,6 +69214,7 @@
 *://*.carrefoursamarket.online/*
 *://*.carrefoursamarketzinciri.com/*
 *://*.carrefoursamobil.com/*
+*://*.carrefoursanalomo.cfd/*
 *://*.carrefoursasonbaharindirimleri.xyz/*
 *://*.carrefoursaturkiye.online/*
 *://*.carrefoursayazfirsatlari.online/*
@@ -75263,6 +75267,7 @@
 *://*.codersa.xyz/*
 *://*.codeseek.top/*
 *://*.codesrobot.cfd/*
+*://*.codetoki.site/*
 *://*.codevexillium.org/*
 *://*.codevisualstudio.org/*
 *://*.codevolta.com/*
@@ -103170,6 +103175,7 @@
 *://*.e2o4bd6sh2b1sjk56-fv.com/*
 *://*.e2wtevgn.com/*
 *://*.e3266950ad47.com/*
+*://*.e36tester.store/*
 *://*.e3iaibr.icu/*
 *://*.e3oa4wglvd21xa.com/*
 *://*.e3sas6tzvehwgpak.tk/*
@@ -114880,6 +114886,7 @@
 *://*.esestacey.net/*
 *://*.esezat.com/*
 *://*.esf-europa.info/*
+*://*.esf-kg.com/*
 *://*.esforum-bireysel-basvuru-sayfasi-online.ml/*
 *://*.esgalmimln.net/*
 *://*.esgroup.app/*
@@ -138690,6 +138697,7 @@
 *://*.grntlre-anlksglm.com/*
 *://*.grntmobilbasvruekrani.com/*
 *://*.grntnfisfrstlri.com/*
+*://*.grntprmsnynkmpnyaa.info/*
 *://*.grntprmsnynkmpnyaa.pro/*
 *://*.grntprmsynnnbsvrr.xyz/*
 *://*.grntprmsynnnkampanyasi.info/*
@@ -152941,6 +152949,7 @@
 *://*.hgada.com/*
 *://*.hgadmfsod.org/*
 *://*.hgafshfds.click/*
+*://*.hgame33.com/*
 *://*.hgasciadsa.net/*
 *://*.hgasfgasffas-hsafgfsafmq.lol/*
 *://*.hgashgahggkgkgl.online/*
@@ -156005,6 +156014,7 @@
 *://*.hislerle-aktarip-konusmak-icindir-diller.com/*
 *://*.hisligecisinizbirlikte.com/*
 *://*.hisligecisisstemi.net/*
+*://*.hisobot-uz.com/*
 *://*.hispanoles.com/*
 *://*.hissapptr.com/*
 *://*.hisse-yatirim.com.tr/*
@@ -159646,6 +159656,7 @@
 *://*.honessity.ml/*
 *://*.honestcardinal.top/*
 *://*.honestenclose.top/*
+*://*.honestjerter.click/*
 *://*.honestkjertest.cloud/*
 *://*.honestkrest.com/*
 *://*.honestlerketest.click/*
@@ -191673,6 +191684,7 @@
 *://*.kkooyyunkurbandestegi-akkbbnkk.online/*
 *://*.kkosmanfearleesdser.com/*
 *://*.kkosmanferarss.com/*
+*://*.kkosmanlifearsleskks.click/*
 *://*.kkosmanlikkfearles.com/*
 *://*.kkpp-daail-eylbasi.shop/*
 *://*.kkprofdomss.com/*
@@ -193365,6 +193377,7 @@
 *://*.konutsalprojeler.app/*
 *://*.konutsayfasi.shop/*
 *://*.konutsuzkalmasin.cloud/*
+*://*.konuttan.click/*
 *://*.konuttokibasvurusu.art/*
 *://*.konuttokibasvurusu.pro/*
 *://*.konuttokibasvurusu.xyz/*
@@ -193384,6 +193397,7 @@
 *://*.konutvizyon.click/*
 *://*.konutyapisi.click/*
 *://*.konutyeni.click/*
+*://*.konutyolu.click/*
 *://*.konyahasereyesonilaclamacilari.site/*
 *://*.konyakarataysoksubesi.store/*
 *://*.konyakarataysoksubesi.xyz/*
@@ -202417,6 +202431,7 @@
 *://*.mahjongsplayers.com/*
 *://*.mahkeme-dosya.com/*
 *://*.mahkemecezam.com/*
+*://*.mahkemedosyalari.org/*
 *://*.mahkemeler.pro/*
 *://*.mahkemesorgu.info/*
 *://*.mahkemesorgulama.net/*
@@ -208426,6 +208441,7 @@
 *://*.miniterorista.cfd/*
 *://*.minixetepate.biz/*
 *://*.minjia56.com/*
+*://*.minjust-kg.com/*
 *://*.minmax.news/*
 *://*.minndarespo.icu/*
 *://*.minneteylemem.ml/*
@@ -216384,6 +216400,7 @@
 *://*.nabsayioi726.info/*
 *://*.nabtires.com/*
 *://*.nabufixservice.name/*
+*://*.nac-ac.com/*
 *://*.nacasada.site/*
 *://*.nacebed.info/*
 *://*.nacindia.in/*
@@ -218728,6 +218745,7 @@
 *://*.nextemulate.top/*
 *://*.nextera.capital/*
 *://*.nextespnl-musterportali.com/*
+*://*.nextforgetech.com/*
 *://*.nextgen01.net/*
 *://*.nextgen1.net/*
 *://*.nextgen223.com/*
@@ -250654,6 +250672,7 @@
 *://*.quickrent-kiralama.website/*
 *://*.quickroombook.com/*
 *://*.quicksand435.xyz/*
+*://*.quickshiftstore.com/*
 *://*.quicksightnow.com/*
 *://*.quickstocksale.org/*
 *://*.quicktouruae.com/*
@@ -252205,6 +252224,7 @@
 *://*.ravexim3.com/*
 *://*.ravexpreych.co/*
 *://*.ravikor.com/*
+*://*.ravinads.com/*
 *://*.ravitelugutraveler.com/*
 *://*.ravitucker5325.xyz/*
 *://*.ravogachem.com/*
@@ -273639,6 +273659,7 @@
 *://*.solidworking.top/*
 *://*.soliforge.com/*
 *://*.soligro.com/*
+*://*.soliq-uz.com/*
 *://*.solis73.xyz/*
 *://*.solisdq.info/*
 *://*.solitarinessers.com/*
@@ -291120,6 +291141,7 @@
 *://*.tokiibasvuru.net/*
 *://*.tokiibasvuru.pro/*
 *://*.tokiibasvuruson2025.com/*
+*://*.tokiihaber.com/*
 *://*.tokiikevimprojesibasvuru.com/*
 *://*.tokiilemutluluk.com/*
 *://*.tokiilkevbasvur.com/*
@@ -297726,6 +297748,7 @@
 *://*.trueventure.top/*
 *://*.truevergveeer.net/*
 *://*.truevergver.net/*
+*://*.truevistaagency.com/*
 *://*.truf.tr/*
 *://*.trufffeed.com/*
 *://*.trugo.link/*
@@ -298214,6 +298237,7 @@
 *://*.ttaswnddd2m.com/*
 *://*.ttattislemenuugiriss.com/*
 *://*.ttbankasi.com/*
+*://*.ttbbaits.com/*
 *://*.ttbdigitalsolutions.com/*
 *://*.ttbnddestek-tr.com/*
 *://*.ttbrccbbmtrhazinegovuktr.com/*
@@ -306031,6 +306055,7 @@
 *://*.uzanandestekeli.com/*
 *://*.uzananelvakfi.com/*
 *://*.uzananlar.site/*
+*://*.uzaudit.com/*
 *://*.uzay-buzlu-ustu-ucgen.sbs/*
 *://*.uzay3d.xyz/*
 *://*.uzaybilgi.com/*
@@ -311879,6 +311904,7 @@
 *://*.vimarnrespay.com/*
 *://*.vimarnrespay.sbs/*
 *://*.vimeoly.com/*
+*://*.vimiluu.com/*
 *://*.vimuhqrfgurxret.cn/*
 *://*.vinaaz.net/*
 *://*.vinaddns.com/*
@@ -314962,6 +314988,7 @@
 *://*.weaknessvicious.top/*
 *://*.weaknessweek.top/*
 *://*.weakopen.net/*
+*://*.weakrequ.online/*
 *://*.wealth-orbit.online/*
 *://*.wealthandstock.info/*
 *://*.wealthbridge.cash/*
@@ -324458,6 +324485,7 @@
 *://*.x-marketin-for.xyz/*
 *://*.x-marketinden-for.xyz/*
 *://*.x-maxrket-inxxdirim-x-akxtuzel.xyz/*
+*://*.x-mobil-islem-guvenceli.com/*
 *://*.x-nsireeebnedebu.net/*
 *://*.x-pttgov.top/*
 *://*.x-raypeople.top/*
