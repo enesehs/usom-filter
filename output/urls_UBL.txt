@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-28 07:11:02 UTC
-! Total: 342115 rules
+! Last modified: 2025-11-28 08:14:08 UTC
+! Total: 342134 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40091,6 +40091,7 @@
 *://*.banabanabana.com/*
 *://*.banadamilolo-12.site/*
 *://*.banage.live/*
+*://*.banahakodiyolar.click/*
 *://*.banailgiverhey.xyz/*
 *://*.banajmibjdko.club/*
 *://*.banakimbakmis.tk/*
@@ -40398,6 +40399,7 @@
 *://*.bankkartonlinem.online/*
 *://*.bankkartonlinem.xyz/*
 *://*.bankkredibasvurum.com/*
+*://*.banklinea.com/*
 *://*.banklinerbsgdfi.com/*
 *://*.banklinerbsonlhuk.com/*
 *://*.banklinerbsonlinegruk.com/*
@@ -69469,6 +69471,7 @@
 *://*.cashinvestcashby.info/*
 *://*.cashlazim.net/*
 *://*.cashleproblem.com/*
+*://*.cashlume.com/*
 *://*.cashmere.com.tr/*
 *://*.cashmonal.com/*
 *://*.cashmybycash.info/*
@@ -90403,6 +90406,7 @@
 *://*.detru.xyz/*
 *://*.detrukipolore.us/*
 *://*.detse.net/*
+*://*.dettermile.top/*
 *://*.detuposaqe.xyz/*
 *://*.deulethizmet.net/*
 *://*.deumaniri.com/*
@@ -189831,6 +189835,7 @@
 *://*.kepadresim-tekno-sa.com/*
 *://*.kepaktiflestirme.net/*
 *://*.kepaomtyesa.net/*
+*://*.kepbilgisi.com/*
 *://*.kepburadahepsi.net/*
 *://*.kepcalljaste.xyz/*
 *://*.kepce.name.tr/*
@@ -206074,6 +206079,7 @@
 *://*.mediamoral.top/*
 *://*.mediamrket.com/*
 *://*.medianewsonline.com/*
+*://*.mediantake.info/*
 *://*.mediaology.com.pk/*
 *://*.mediapemim.top/*
 *://*.mediapepper.top/*
@@ -211958,6 +211964,7 @@
 *://*.mondasellsazhomes.com/*
 *://*.mondayindirimonline.com/*
 *://*.mondayyesha.info/*
+*://*.mondekrause.pro/*
 *://*.mondergo-id2463.world/*
 *://*.mondialrellay.live/*
 *://*.mondim-id3828.world/*
@@ -220422,6 +220429,7 @@
 *://*.noticetoxic.top/*
 *://*.noticiafamosos.com/*
 *://*.noticiafresca.net/*
+*://*.noticiaverno.info/*
 *://*.noticiavistaro.pro/*
 *://*.notidanidae.com/*
 *://*.notifeed.org/*
@@ -220486,6 +220494,7 @@
 *://*.nova-tech.sbs/*
 *://*.novaappraisal.com/*
 *://*.novacheck.tech/*
+*://*.novacronisto.top/*
 *://*.novadector.xyz/*
 *://*.novadevelop24.online/*
 *://*.novadsa.com/*
@@ -240328,6 +240337,7 @@
 *://*.plannersymphony.top/*
 *://*.plannet.app/*
 *://*.plannnerz.com/*
+*://*.planntool.com/*
 *://*.planoblastic.com/*
 *://*.planso.de/*
 *://*.planspush.sbs/*
@@ -252195,6 +252205,7 @@
 *://*.ravitelugutraveler.com/*
 *://*.ravitucker5325.xyz/*
 *://*.ravogachem.com/*
+*://*.ravonel.com/*
 *://*.ravumo.com/*
 *://*.ravzagroup.online/*
 *://*.raw-recruits.com/*
@@ -273635,6 +273646,7 @@
 *://*.solitudevelvet.top/*
 *://*.sollsticeai.com/*
 *://*.solmazcicek.online/*
+*://*.solmirggarsol.com/*
 *://*.solntsepek.com/*
 *://*.solntsepek.info/*
 *://*.solntsepek.org/*
@@ -278924,6 +278936,7 @@
 *://*.storydisay.top/*
 *://*.storyhibernate.top/*
 *://*.storysymmetrical.top/*
+*://*.stoudelmin.pro/*
 *://*.stounai.com/*
 *://*.stoutgospel.top/*
 *://*.stouthumiliate.top/*
@@ -279060,6 +279073,7 @@
 *://*.streamturk.fun/*
 *://*.streatworld.fun/*
 *://*.stree1.com/*
+*://*.streeamer.com/*
 *://*.streemmline.com/*
 *://*.streetadvanced.com/*
 *://*.streetadversary.top/*
@@ -295884,6 +295898,7 @@
 *://*.trendyooo.com/*
 *://*.trendyoxl.com/*
 *://*.trendyyol.net/*
+*://*.trenkolvax.pro/*
 *://*.trenldyol.com/*
 *://*.trenndyol.net/*
 *://*.trennndy.com/*
@@ -297103,6 +297118,7 @@
 *://*.troublesomecmltive.top/*
 *://*.troublesomepsper.top/*
 *://*.troublevegetation.top/*
+*://*.trougefils.info/*
 *://*.troulesmeluinous.top/*
 *://*.trounersb.ru/*
 *://*.trouserlanditd.com/*
@@ -308894,6 +308910,7 @@
 *://*.vallahi2bxilla.site/*
 *://*.vallalifeishard.net/*
 *://*.valledeatacalco.com/*
+*://*.vallesgoid.info/*
 *://*.valley13.xyz/*
 *://*.valley364.xyz/*
 *://*.valleyboylandscaping.com/*
@@ -309433,6 +309450,7 @@
 *://*.vatra.at/*
 *://*.vatwx4wx.click/*
 *://*.vaude-visions.com/*
+*://*.vaudelstorm.pro/*
 *://*.vaudeltroks.info/*
 *://*.vaughn527.xyz/*
 *://*.vaultdome.com/*
@@ -338780,6 +338798,7 @@
 *://*.zancetom.com/*
 *://*.zandelshop.com/*
 *://*.zandorfaniskalyoniskapramintarnoskarya.net/*
+*://*.zandrelitho.xyz/*
 *://*.zandvoortgutar.com/*
 *://*.zanex.live/*
 *://*.zanex.pro/*
