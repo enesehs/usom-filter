@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-29 00:41:55 UTC
-! Total: 342209 rules
+! Last modified: 2025-11-29 02:23:35 UTC
+! Total: 342215 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62672,6 +62672,7 @@
 *://*.bright.su/*
 *://*.brightalizer.info/*
 *://*.brightaxis.org/*
+*://*.brightchoiceacademy.com/*
 *://*.brightconcept.site/*
 *://*.brightenconsul.top/*
 *://*.brightenimpetus.top/*
@@ -116902,6 +116903,7 @@
 *://*.eveinternetabonelikvebasvurumerkezi.site/*
 *://*.eveinternetkampanya.org/*
 *://*.evelel.com/*
+*://*.evelen.click/*
 *://*.evellvelelvlt-gett.com/*
 *://*.evenadvers.top/*
 *://*.evencivic.top/*
@@ -121008,6 +121010,7 @@
 *://*.ferahcagrimerkezi.com/*
 *://*.ferahsigorta.net/*
 *://*.feralenirmes.com/*
+*://*.feralmond.com/*
 *://*.ferankes.cfd/*
 *://*.feratlerasa.sbs/*
 *://*.ferautnex.xyz/*
@@ -147030,6 +147033,7 @@
 *://*.handwritingobscurity.top/*
 *://*.handwritingsubtlety.top/*
 *://*.handy63987.xyz/*
+*://*.handycrewservices.com/*
 *://*.handyeject.top/*
 *://*.handyevaporate.top/*
 *://*.handylevy.top/*
@@ -311424,6 +311428,7 @@
 *://*.vestinfo.net/*
 *://*.vestinfo.org/*
 *://*.vestinfos.net/*
+*://*.vestiron-tr.com/*
 *://*.vestmert.com/*
 *://*.vestmiles.com/*
 *://*.vestna1975.xyz/*
@@ -317684,6 +317689,7 @@
 *://*.wicheck.us/*
 *://*.wickeddissident.top/*
 *://*.wickedneatr.sbs/*
+*://*.wickshon-tr.com/*
 *://*.wicloud.pk/*
 *://*.wideappreciative.space/*
 *://*.widechanges.best/*
