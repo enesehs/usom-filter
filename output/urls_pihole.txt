@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-28 23:09:03 UTC
-# Toplam: 428729 Domain
+# Son Güncelleme: 2025-11-29 00:41:55 UTC
+# Toplam: 428734 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17591,6 +17591,7 @@
 722ad970v.duckdns.org
 723458266102183i4op84.icu
 72347235366342.com
+72358125.cloud
 7237453981d0595033c23.com
 7237b5d65848ac7bffd787dca7516e0e.ir
 723819512.com
@@ -304975,6 +304976,7 @@ ptta1.one
 ptta6vmxlerpax.com
 pttaa-v-m-alisveriszamanii.online
 pttaaavm.click
+pttac-gov.top
 pttac.top
 pttacentam.com.tr
 pttaddress.com
@@ -321711,7 +321713,9 @@ sadertac-web.click
 sadesaconflirslat101de.blogdns.org
 sadesconfrsatlatr.ddns.net
 sadesconfsirsatlartr.blogdns.com
+sadesconsfirsatlstrs.blogdns.com
 sadescsonlirfisrtalarttrvtrt.blogspot.com
+sadescsonlirfisrtalarttrvtrtcctrt.blogspot.com
 sadevert.today
 sadevert.top
 sadevizyon.org
@@ -371413,6 +371417,7 @@ trpttgovbv.cc
 trpttgovc.cc
 trpttgovcs.cc
 trpttgovd.cc
+trpttgovev.cc
 trpttgovf.cc
 trpttgovfd.cc
 trpttgovfm.cc
