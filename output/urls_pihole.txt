@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-29 22:08:06 UTC
-# Toplam: 428778 Domain
+# Son Güncelleme: 2025-11-29 23:08:35 UTC
+# Toplam: 428787 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13618,6 +13618,7 @@
 467455213745334.com
 46816841685416854181.com
 4682.ddns.net
+46842064.cloud
 468468.cloud
 468768456.vercel.app
 4687700987234866992425.duckdns.org
@@ -21829,6 +21830,7 @@ a-1-0-1islemleronlineozel.com.tr
 a-1-0-1onlineozel.com.tr
 a-1-01-haziran.com.tr
 a-1-01-haziran.online
+a-1-01-hlzl-yonlendirime.sbs
 a-1-01-indirimlialisveris.com.tr
 a-1-01-indirimlialisveris.online
 a-1-01-indirimlialisveris.xyz
@@ -141879,6 +141881,7 @@ enn.aralikyilsonubasvurulari-prokampanyasi.com
 ennaeir.icu
 ennamehost.xyz
 enne.zapto.org
+ennghhomefirrstlariilekapidakcmzzzz.mooo.com
 ennghlshomefirrstlariilekapidakcmzzzz.mooo.com
 ennissan-qashaibasvuru.com
 ennmcazbkk.duckdns.org
@@ -206817,6 +206820,7 @@ ilkevimbasvurul48vl0wbr0.vercel.app
 ilkevimbasvurular.com
 ilkevimbasvurulari.org
 ilkevimbasvurularim500.org
+ilkevimbasvurulvh9wb8ip7ib.vercel.app
 ilkevimbasvurus0xpq5f24.vercel.app
 ilkevimbasvurusgb7rmlr.vercel.app
 ilkevimbasvurusuicintiklayiniz.blogspot.com
@@ -232051,6 +232055,7 @@ kaslanmarlas.com
 kaslerser.online
 kaslfaskfl.com
 kaslfkqsl.com
+kaslim-ayi-kmpanylari.cfd
 kaslllm-101dedim.com
 kasllm-101de-zmanni.com
 kaslm-101a-flrsatt.com
@@ -302973,6 +302978,7 @@ promosyongrubu.com
 promosyonguncelleri.com
 promosyonhaziran.click
 promosyonhipodrom.com
+promosyonindirimibbva.com
 promosyoniscep.site
 promosyonkampanyasi.duckdns.org
 promosyonkatil.com
@@ -345171,6 +345177,7 @@ sosyalkonutprojesi.basvurularsonbuldu.cloud
 sosyalkonutprojesi.basvurulartukeniyor.cloud
 sosyalkonutprojesi.com
 sosyalkonutprojesi.hizlibasvurularbasladi.cloud
+sosyalkonutprojesi.hizlibasvuruolustrmalisinn.theworkpc.com
 sosyalkonutprojesi.hizlibasvuruolusturmalisin.cloud
 sosyalkonutprojesi.hizlibasvurusayfasi.cloud
 sosyalkonutprojesi.hizlibsavuruolusturma.cloud
@@ -410507,6 +410514,7 @@ xn--karlmaz-firasat-fmb27jba.online
 xn--karmabupazarbaskapazar-06b09o.online
 xn--karmzasa-vkb.net
 xn--karnmagriyo-2zb.online
+xn--karogsmfzuu-7zb.com
 xn--kartcreti-t9a.com
 xn--kartdemeleri-edevletonline-fvc.com
 xn--kartdemelerisonbasvuru-xhc.com
@@ -428763,6 +428771,7 @@ zzyenibvruu100.click
 zzyenibvruu20.click
 zzyenibvruu25.click
 zzyenibvruu30.click
+zzyenibvruu35.click
 zzygdx.com
 zzyrhgsb.com
 zzz1.dezhen.icu

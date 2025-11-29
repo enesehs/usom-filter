@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-29 22:08:06 UTC
-! Total: 342252 rules
+! Last modified: 2025-11-29 23:08:35 UTC
+! Total: 342258 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9192,6 +9192,7 @@
 *://*.4667734552455.com/*
 *://*.467455213745334.com/*
 *://*.46816841685416854181.com/*
+*://*.46842064.cloud/*
 *://*.468468.cloud/*
 *://*.46a9d45a3ad4.com/*
 *://*.46berriers.com/*
@@ -13283,6 +13284,7 @@
 *://*.a-1-0-1onlineozel.com.tr/*
 *://*.a-1-01-haziran.com.tr/*
 *://*.a-1-01-haziran.online/*
+*://*.a-1-01-hlzl-yonlendirime.sbs/*
 *://*.a-1-01-indirimlialisveris.com.tr/*
 *://*.a-1-01-indirimlialisveris.online/*
 *://*.a-1-01-indirimlialisveris.xyz/*
@@ -188305,6 +188307,7 @@
 *://*.kaslerser.online/*
 *://*.kaslfaskfl.com/*
 *://*.kaslfkqsl.com/*
+*://*.kaslim-ayi-kmpanylari.cfd/*
 *://*.kaslllm-101dedim.com/*
 *://*.kasllm-101de-zmanni.com/*
 *://*.kaslm-101a-flrsatt.com/*
@@ -244015,6 +244018,7 @@
 *://*.promosyonguncelleri.com/*
 *://*.promosyonhaziran.click/*
 *://*.promosyonhipodrom.com/*
+*://*.promosyonindirimibbva.com/*
 *://*.promosyoniscep.site/*
 *://*.promosyonkatil.com/*
 *://*.promosyonkayit.com/*
@@ -327605,6 +327609,7 @@
 *://*.xn--karmabupazarbaskapazar-06b09o.online/*
 *://*.xn--karmzasa-vkb.net/*
 *://*.xn--karnmagriyo-2zb.online/*
+*://*.xn--karogsmfzuu-7zb.com/*
 *://*.xn--kartcreti-t9a.com/*
 *://*.xn--kartdemeleri-edevletonline-fvc.com/*
 *://*.xn--kartdemelerisonbasvuru-xhc.com/*
@@ -342249,6 +342254,7 @@
 *://*.zzyenibvruu20.click/*
 *://*.zzyenibvruu25.click/*
 *://*.zzyenibvruu30.click/*
+*://*.zzyenibvruu35.click/*
 *://*.zzygdx.com/*
 *://*.zzyrhgsb.com/*
 *://*.zzz.com.ua/*
