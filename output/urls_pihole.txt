@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-11-30 19:01:43 UTC
-# Toplam: 428861 Domain
+# Son Güncelleme: 2025-11-30 20:10:10 UTC
+# Toplam: 428865 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9695,6 +9695,7 @@
 26adetkaldilababoss.blogspot.com
 26adetkaldilababoss654wf.blogspot.com
 26adetkaldilababuss.blogspot.com
+26adetkaldios43qsa.blogspot.com
 26agtwins.duckdns.org
 26aralikakfirsatlarin.tr
 26aralikkampanyasi.com
@@ -37678,6 +37679,7 @@ akkartiadelersorgulama-ocak.com
 akkartiadesorgulama2023.com
 akkartsorgulama2023.com
 akkatilbasvurukmpy22.cloud
+akkatilim.digital
 akkatilimiadeformu2021.com
 akkatilimtalebleriniz.com
 akkavaanskaamppny.top
@@ -218365,6 +218367,7 @@ istvncvebllkart.com
 istvnkart.net
 istvrtt.com
 istvublkartsml.ml
+istvvbnbnlk.web.app
 istvvnkartn.net
 istvxm.com
 istwbt.com
@@ -236483,6 +236486,7 @@ kkolaylilkklar-ptt-kaargolariniz-gelsiin.website
 kkolaylilkklar-pttt-kaargoolariniz-gelsiin.com
 kkolaylilkklar-pttt-kaargoolariniz-gelsiin.site
 kkolaylilklar-ptt-kaargolariniz-gelsiin.website
+kkoldsmdsnc.click
 kkomsoanddyabaytr.com
 kkoooosmanlikkfearles.com
 kkooyyunkurbandestegi-akkbbnkk.online
