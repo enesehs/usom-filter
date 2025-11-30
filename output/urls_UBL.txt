@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-30 12:15:31 UTC
-! Total: 342269 rules
+! Last modified: 2025-11-30 13:24:00 UTC
+! Total: 342274 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41786,6 +41786,7 @@
 *://*.basvuru-akonay.com/*
 *://*.basvuru-al.ml/*
 *://*.basvuru-aralik.shop/*
+*://*.basvuru-basladi-tok.online/*
 *://*.basvuru-basladi.cfd/*
 *://*.basvuru-bfcturk.com/*
 *://*.basvuru-binancetr.com/*
@@ -117800,6 +117801,7 @@
 *://*.evsahibiol.org/*
 *://*.evsahibiolduturkiye.com/*
 *://*.evsahibiolturkiye.com/*
+*://*.evsahibirehnberi.cfd/*
 *://*.evsahibiturkey.com/*
 *://*.evsahibiturkiye.cfd/*
 *://*.evsahibiturkiye.media/*
@@ -275254,6 +275256,7 @@
 *://*.sorgupanel.xyz/*
 *://*.sorgupanel1.name.tr/*
 *://*.sorgupanelciniz.com.tr/*
+*://*.sorgupaneli.best/*
 *://*.sorgupaneli.cc/*
 *://*.sorgupaneli.com.tr/*
 *://*.sorgupaneli.com/*
@@ -291325,6 +291328,7 @@
 *://*.tokimnetevim.store/*
 *://*.tokimnetgovtokimbasvurnetgovtrkurumgovtr.com/*
 *://*.tokimnetgovtr.cfd/*
+*://*.tokimnetgovtr.sbs/*
 *://*.tokimnetilkkayitgovtr.com/*
 *://*.tokimnettokimgovtr.com/*
 *://*.tokimntokimm-knt-projesim.com/*
@@ -342266,6 +342270,7 @@
 *://*.zzyenibvruu25.click/*
 *://*.zzyenibvruu30.click/*
 *://*.zzyenibvruu35.click/*
+*://*.zzyenibvruu45.click/*
 *://*.zzygdx.com/*
 *://*.zzyrhgsb.com/*
 *://*.zzz.com.ua/*
