@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-30 18:12:26 UTC
-! Total: 342304 rules
+! Last modified: 2025-11-30 19:01:43 UTC
+! Total: 342319 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1808,6 +1808,7 @@
 *://*.10546-4166185.com/*
 *://*.1056.uk/*
 *://*.1058533.cloud/*
+*://*.10585770783.cloud/*
 *://*.105a93ce0154.net/*
 *://*.10661453145310.xyz/*
 *://*.107.172.41.235/*
@@ -5837,6 +5838,7 @@
 *://*.2025tkiobnsrv.com.tr/*
 *://*.2025toki.com/*
 *://*.2025tokibasvuru.com/*
+*://*.2025tokibasvurum.com/*
 *://*.2025trdenhaber.com/*
 *://*.2025xjsbasvurunt-oki.xyz/*
 *://*.2025yeniurunler.online/*
@@ -6987,6 +6989,7 @@
 *://*.26-ocakfirsatlari.shop/*
 *://*.26012024.com/*
 *://*.2601285.cloud/*
+*://*.2601760774.cloud/*
 *://*.260356c64c0291ff08c79092f7318ae3.store/*
 *://*.26072675.cloud/*
 *://*.26072676.cloud/*
@@ -18671,6 +18674,7 @@
 *://*.acikportal-deniz-iletisimleri.tk/*
 *://*.acikredidenizbvs.online/*
 *://*.acikrediv3denizbank.com/*
+*://*.acikrehber.cfd/*
 *://*.aciksieernwjdn.com/*
 *://*.aciksigorta.site/*
 *://*.aciksistem-hediyeonaybasvuru.com/*
@@ -67526,6 +67530,7 @@
 *://*.c55-shop.fit/*
 *://*.c5babaonline.net/*
 *://*.c5bimcell.com/*
+*://*.c5medya.com/*
 *://*.c6ca.ru/*
 *://*.c6f26405807ed3e567d0b10fc3690011.net/*
 *://*.c6lm.top/*
@@ -69010,6 +69015,7 @@
 *://*.carismargajaya.com/*
 *://*.carizlqjd.com/*
 *://*.cark-bntr.com/*
+*://*.cark-bntr.one/*
 *://*.cark-firsatim-lucky.net/*
 *://*.cark-kampansinda-son-gunler.net/*
 *://*.carkbasvurum-bn-daygiris.net/*
@@ -97189,6 +97195,7 @@
 *://*.duyuruakyazfirsatlari.com/*
 *://*.duyurubasvurugiris.com/*
 *://*.duyurubildirimi.com/*
+*://*.duyurubltns.com/*
 *://*.duyurubnacgiristr.com/*
 *://*.duyurubnascegiristr.com/*
 *://*.duyurubnasgiristr.com/*
@@ -151273,6 +151280,7 @@
 *://*.hemenislemm.net/*
 *://*.hemenislemmbasv00.online/*
 *://*.hemenislemmerkezi.app/*
+*://*.hemenislslsonucsb.online/*
 *://*.hemenisltblkylme.net/*
 *://*.hemenistjx.cfd/*
 *://*.hemenistlanbullnnu.online/*
@@ -178268,6 +178276,7 @@
 *://*.izeltasalmak.xyz/*
 *://*.izeltascampnysal.sbs/*
 *://*.izeltasdolucantasi.vip/*
+*://*.izeltasefsaneflrsatlar.com/*
 *://*.izeltasfirsat.com.tr/*
 *://*.izeltasfirsat.online/*
 *://*.izeltasfirsatlari.online/*
@@ -237467,6 +237476,7 @@
 *://*.pasagemzam.xyz/*
 *://*.pasagereklam.com/*
 *://*.pasagereklamlar.com/*
+*://*.pasagereklamlari.com/*
 *://*.pasages.store/*
 *://*.pasagesite.com/*
 *://*.pasailetapu.xyz/*
@@ -237495,6 +237505,7 @@
 *://*.pasajkampanyalari.online/*
 *://*.pasajkampanyalari.store/*
 *://*.pasajkampanyalari.xyz/*
+*://*.pasajmagaza.cfd/*
 *://*.pasajmagaza.com.tr/*
 *://*.pasajmagaza.com/*
 *://*.pasajmagazafirsatlari.store/*
@@ -278258,6 +278269,7 @@
 *://*.stanleyparlar.com/*
 *://*.stanleyrebirth.xyz/*
 *://*.stanleyreborn.xyz/*
+*://*.stanleyreignites.xyz/*
 *://*.stanleyresurgeagain.xyz/*
 *://*.stanleyretuned.xyz/*
 *://*.stanleyrevive.xyz/*
@@ -290924,6 +290936,7 @@
 *://*.toki-basvurru.info/*
 *://*.toki-basvuru-2025.xyz/*
 *://*.toki-basvuru.info/*
+*://*.toki-basvuru.lol/*
 *://*.toki-basvuru.online/*
 *://*.toki-basvuru.org/*
 *://*.toki-basvuru.xyz/*
@@ -290947,6 +290960,7 @@
 *://*.toki-e-basvuru.lat/*
 *://*.toki-e-basvuru.sbs/*
 *://*.toki-evim.store/*
+*://*.toki-evkonut-basvuru.com/*
 *://*.toki-gov-tr-com.ga/*
 *://*.toki-gov-tr-com.gq/*
 *://*.toki-gov-tr-com.tk/*
@@ -291197,6 +291211,7 @@
 *://*.tokiebasvur.xyz/*
 *://*.tokiebasvurdum.xyz/*
 *://*.tokiebasvuru.org/*
+*://*.tokiedevlet.com/*
 *://*.tokiedevletbasvur.click/*
 *://*.tokiekkonut.com/*
 *://*.tokiemlak.org/*
