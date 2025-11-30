@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-30 16:09:43 UTC
-! Total: 342292 rules
+! Last modified: 2025-11-30 17:08:02 UTC
+! Total: 342298 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -55986,6 +55986,7 @@
 *://*.bizwires.net/*
 *://*.bizxess.com/*
 *://*.bizxmxclel.net/*
+*://*.bizyaparsakeniyisiolurwsynxmorbid.com/*
 *://*.bizyenidengeldik.net/*
 *://*.bizyonlendirecez.com/*
 *://*.bizz-online2019.com/*
@@ -81965,6 +81966,7 @@
 *://*.cuzdanfirsatlarisizeozell.shop/*
 *://*.cuzdanimguvende.site/*
 *://*.cuzdanimguvendeletgo.com.tr/*
+*://*.cuzdanimguvendesiparis.site/*
 *://*.cuzdanindusmanialisverisinmelegi.top/*
 *://*.cuzdanini-koru-firsatlari-kap-burada.top/*
 *://*.cuzdaninizi-koruyan-harika-urunler-burada.com/*
@@ -193609,6 +193611,7 @@
 *://*.korromorkkoxe.work/*
 *://*.kortaksodeme.net/*
 *://*.kortiadea1dat.xyz/*
+*://*.kortin.click/*
 *://*.kortinaswekmli.net/*
 *://*.kortu.icu/*
 *://*.kortu.xyz/*
@@ -206759,6 +206762,7 @@
 *://*.menkamofer.xyz/*
 *://*.menksanfea.com/*
 *://*.menlalvkf.com/*
+*://*.menlokaras.sbs/*
 *://*.mennyudosirso.shop/*
 *://*.menodlap.com/*
 *://*.menoferden.com/*
@@ -216651,6 +216655,7 @@
 *://*.nalnalnlatata.net/*
 *://*.naltbuckya.ru/*
 *://*.naltlnakantkama.online/*
+*://*.naltnlanlanlaana.net/*
 *://*.nalyticaltenan.top/*
 *://*.namazvergisi.net/*
 *://*.name-kampanya1.site/*
@@ -290969,6 +290974,7 @@
 *://*.toki-slv-basvuru.net/*
 *://*.toki-slv-basvuru.sbs/*
 *://*.toki-sosyal.digital/*
+*://*.toki-sosyalkonut.org/*
 *://*.toki-tr.com/*
 *://*.toki-turkiye.com/*
 *://*.toki-turkiye.online/*
