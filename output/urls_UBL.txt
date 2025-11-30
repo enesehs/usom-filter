@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-30 21:07:44 UTC
-! Total: 342324 rules
+! Last modified: 2025-11-30 22:08:13 UTC
+! Total: 342326 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -34156,6 +34156,7 @@
 *://*.arlkfrsatlari00.site/*
 *://*.arlkgunler.online/*
 *://*.arlkkmapnya101dee.site/*
+*://*.arlkzmnikrcandrimi.cfd/*
 *://*.arlsjrmenu.net/*
 *://*.arm-avoid-impact.com/*
 *://*.arm-frskmps9241dskfsasd.online/*
@@ -175612,6 +175613,7 @@
 *://*.istanbulcuolmasdintamzamni.store/*
 *://*.istanbulcuyuzbiz.online/*
 *://*.istanbuldasin.net/*
+*://*.istanbuldasin.site/*
 *://*.istanbulddollmyeri.net/*
 *://*.istanbuldfyukle.net/*
 *://*.istanbuldijitalkart.xyz/*
