@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-11-30 15:08:06 UTC
-! Total: 342289 rules
+! Last modified: 2025-11-30 16:09:43 UTC
+! Total: 342292 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41787,7 +41787,6 @@
 *://*.basvuru-akonay.com/*
 *://*.basvuru-al.ml/*
 *://*.basvuru-aralik.shop/*
-*://*.basvuru-basladi-tok.online/*
 *://*.basvuru-basladi.cfd/*
 *://*.basvuru-bfcturk.com/*
 *://*.basvuru-binancetr.com/*
@@ -137600,6 +137599,7 @@
 *://*.govtrhizmetleri.com/*
 *://*.govtrislem.com/*
 *://*.govtrkurumsaltoki.cfd/*
+*://*.govtrkurumsaltoki.sbs/*
 *://*.govtrnvi.org/*
 *://*.govtro.top/*
 *://*.govtrp.icu/*
@@ -175723,6 +175723,7 @@
 *://*.istanbulkartbasvur.com/*
 *://*.istanbulkartbasvuru.com/*
 *://*.istanbulkartbasvuru.org/*
+*://*.istanbulkartbasvurulari.store/*
 *://*.istanbulkartbasvurulari2025.store/*
 *://*.istanbulkartbasvvur.org/*
 *://*.istanbulkartbireysel.net/*
@@ -193372,6 +193373,7 @@
 *://*.konutbasvutrlarindansongunler.cloud/*
 *://*.konutbilgi.click/*
 *://*.konutbilgilendirme.org/*
+*://*.konutbilgimerkezi.cfd/*
 *://*.konutbilgimerkezi.com.tr/*
 *://*.konutbilgimerkezi.com.xn--tr-2caa/*
 *://*.konutbilgirehberi.com/*
@@ -234847,6 +234849,7 @@
 *://*.paramguvendealisverisyap.com/*
 *://*.paramguvendealisverisyap.xyz/*
 *://*.paramguvendealsat.com/*
+*://*.paramguvendeavm.site/*
 *://*.paramguvendebireysel.com/*
 *://*.paramguvendebireysel.ga/*
 *://*.paramguvendebireysel.tk/*
