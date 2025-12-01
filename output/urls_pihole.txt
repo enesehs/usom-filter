@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-01 21:01:40 UTC
-# Toplam: 429012 Domain
+# Son Güncelleme: 2025-12-01 22:01:46 UTC
+# Toplam: 429029 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14543,6 +14543,7 @@
 500binkonut.neocities.org
 500binkonut.org
 500binkonut.xyz
+500binkonut.yonlendir.cfd
 500binkonutabasvur.org
 500binkonutaciklandisonguntokibasvurulari.icu
 500binkonutbasvur.site
@@ -136052,6 +136053,7 @@ edu0576.xyz
 edu4.co.kr
 eduahx.com
 eduardomarti.com
+eduardososa.com
 eduburs.online
 edubursiyer.online
 edubursiyer.site
@@ -170275,6 +170277,7 @@ gjmnocpdmn.duckdns.org
 gjmuidmkxufuhio.ru
 gjniiu.duckdns.org
 gjogvvpsf.biz
+gjoyc.online
 gjpiunuaje.ddns.net
 gjqygs.cn
 gjrclnwcjn.duckdns.org
@@ -176953,6 +176956,7 @@ guvenlii-iade-e-kartta2021-aidat-hizmet.xyz
 guvenlii.com.tr
 guvenliiadenizi-al.com
 guvenliii-bmcelliq.gq
+guvenliilanlarq.site
 guvenliilanlticareti.com.tr
 guvenliiode-param-guvende.com
 guvenliiodemesahibinden.tk
@@ -188361,6 +188365,7 @@ hemenn-kapinizza-tesliim.com.tr
 hemenn-kapinizzdaa.com
 hemennalsbsvurrlarrr.xyz
 hemennbasvuryaap.co.vu
+hemenndennisilemta.net
 hemenngeciss.22web.org
 hemennlaktnaknak.net
 hemennlatlansanta.net
@@ -194403,6 +194408,7 @@ hizlial.ml
 hizlial.site
 hizlial.xyz
 hizlialanteknoloji.net
+hizlialavm.site
 hizlialdatodeme2024.online
 hizlialdiyeekimayiindirimi.com.tr
 hizlialdiyeekimayiindirimi.online
@@ -198296,6 +198302,7 @@ hormennssssterkdslere.com
 hormensdtrerr.com
 hormenssteerlerss.com
 hormensterkdslere.com
+hormensterlandks.click
 hormensterlerss.com
 hormenstersertmsirtsirta.com
 hormenteserkdmsnd.click
@@ -204475,6 +204482,7 @@ ideas4life.website
 ideaspire.net
 ideasyncro.com
 ideathlike.net
+ideeaquestt.com
 idef-2025-conf-data-file-tr-account-d.netlify.app
 idef2025-com-tr-files-drive-account.netlify.app
 idefilo.aitask.me
@@ -206924,6 +206932,7 @@ ilkevimbasvurusutoki.pro
 ilkevimbasvurusutoki.sa.com
 ilkevimbasvurusutoki.xyz
 ilkevimbasvurusuyap.site
+ilkevimbasvuruto23ksdf.vercel.app
 ilkevimbasvurux1bkgmei3t.vercel.app
 ilkevimbasvurux2gzn4urp.vercel.app
 ilkevimbasvuruxysmomwap23k.vercel.app
@@ -218111,6 +218120,8 @@ istnbbbwa.icu
 istnbbkart.com
 istnbbl.net
 istnbdlkart.net
+istnbduslhziemetlr.shop
+istnbduslhziemetlr.store
 istnbhkrt.com
 istnbkart.blogspot.com
 istnbkart.net
@@ -240848,6 +240859,7 @@ kryll.ug
 kryllian.cfd
 kryloza.com
 krypitalvc.com
+krypptoix.com
 kryptokrypto123.ddns.net
 krypzo-41088.portmap.io
 krystalturkbank.com
@@ -260916,6 +260928,7 @@ mobilbasvurusuacikdenizv2denizbank.co.vu
 mobilbasvurusubenfast.info
 mobilbasvuruuygulamasi-guncel.tk
 mobilbasvuurularinadresitekdeniz.click
+mobilbbva.top
 mobilbbvam.net
 mobilbildirim-kredi.top
 mobilbildirim-kredideniz.top
@@ -305416,6 +305429,7 @@ pttavm.guvenli-sipariset.com.tr
 pttavm.guvenli-sipariset.online
 pttavm.guvenli-siparisim.com
 pttavm.guvenlial-ode.com.tr
+pttavm.guvenliilanlarq.site
 pttavm.guvenliislem.net
 pttavm.gvnlii-odmehzmetii.com
 pttavm.gvnnli-odmehzmetii.com
@@ -322025,6 +322039,7 @@ saeef9999.ddns.net
 saeklesenegicekhsikle.net
 saemaeul.mireene.com
 saf-safee-wqfvzvd-tteew.xyz
+saf.mefound.com
 saf12q3fqwfsaf.com
 saf1qfqwfasfxafv.com
 safaa19991999.zapto.org
@@ -344357,6 +344372,7 @@ soomnexko.de
 soon-soft.com
 soonbit.cn
 soonbubble.top
+sooncrypt.com
 soonicon.top
 soonlineozel.biz.tr
 soonlineozel.org.tr
@@ -353472,6 +353488,7 @@ swissc0m.ddns.net
 swisscom-yy.hopto.org
 swisscom.hopto.org
 swisscryptotokens.email
+swisshotellobisi.sbs
 swisspass-ch.duckdns.org
 swisspitbull.ddns.net
 switch008.hopto.org
