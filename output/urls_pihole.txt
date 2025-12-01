@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-01 15:11:10 UTC
-# Toplam: 428988 Domain
+# Son Güncelleme: 2025-12-01 16:13:19 UTC
+# Toplam: 428991 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -173943,6 +173943,7 @@ grnttkampnyasibasvurusu.info
 grnttkampnyasibasvurusu.pro
 grnttkredibasvuri.vercel.app
 grnttrade.com
+grntttbasvursuuprsmyn.info
 grntttihbrbsvruekrani.online
 grntttprmsnynnn.click
 grntudfrstkmp024.online
@@ -189581,6 +189582,7 @@ herx2x.duckdns.org
 herxwx65.click
 heryanimkanlarkesikler.com
 heryazdenzyannda.tk
+heryedebuadam.click
 heryenigunyenisiparis.com.tr
 heryenigunyenisiparis.online
 heryeralisverslrmlffrt.duckdns.org
@@ -254511,6 +254513,7 @@ mavi-indirim-101de.com
 mavi-indirim-firsatlari.site
 mavi-indirimm-101deim.com
 mavi-sepetim-indirimmimde.com
+mavi-system.com
 mavi-tik-instagram.tk
 mavi1.space
 mavi101sepetimdegeldii.com

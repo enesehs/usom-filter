@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-01 15:11:10 UTC
-! Total: 342408 rules
+! Last modified: 2025-12-01 16:13:19 UTC
+! Total: 342411 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -138798,6 +138798,7 @@
 *://*.grnttkampnyasibasvurusu.info/*
 *://*.grnttkampnyasibasvurusu.pro/*
 *://*.grnttrade.com/*
+*://*.grntttbasvursuuprsmyn.info/*
 *://*.grntttihbrbsvruekrani.online/*
 *://*.grntttprmsnynnn.click/*
 *://*.grntudfrstkmp024.online/*
@@ -152559,6 +152560,7 @@
 *://*.herxwx65.click/*
 *://*.heryanimkanlarkesikler.com/*
 *://*.heryazdenzyannda.tk/*
+*://*.heryedebuadam.click/*
 *://*.heryenigunyenisiparis.com.tr/*
 *://*.heryenigunyenisiparis.online/*
 *://*.heryerbitki.art/*
@@ -205122,6 +205124,7 @@
 *://*.mavi-indirim-firsatlari.site/*
 *://*.mavi-indirimm-101deim.com/*
 *://*.mavi-sepetim-indirimmimde.com/*
+*://*.mavi-system.com/*
 *://*.mavi-tik-instagram.tk/*
 *://*.mavi1.space/*
 *://*.mavi101sepetimdegeldii.com/*
