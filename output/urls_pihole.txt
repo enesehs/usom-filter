@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-01 10:11:51 UTC
-# Toplam: 428920 Domain
+# Son Güncelleme: 2025-12-01 11:01:40 UTC
+# Toplam: 428921 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -239157,6 +239157,7 @@ koyokk1.ddns.net
 koysepeteklenalgoturhemen.com.tr
 koysepeteklenalgoturhemen.online
 koyteriskl.hopto.org
+koyu.click
 koyusiyah.duckdns.org
 koyy01l.duckdns.org
 koza-altin.co
