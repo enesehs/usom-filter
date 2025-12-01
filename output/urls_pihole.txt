@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-01 11:01:40 UTC
-# Toplam: 428921 Domain
+# Son Güncelleme: 2025-12-01 12:23:06 UTC
+# Toplam: 428948 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -90350,6 +90350,7 @@ cashout2018.ddns.de
 cashoutguide.com
 cashpara724.com
 cashpayconsumeredd.ddns.net
+cashpointa.com
 casibom3067.fun
 casillas.hicam.net
 casillas.libfoobar.so
@@ -103781,6 +103782,7 @@ crec-bd.site
 crecil.gruposenhordobonfim.org
 cred-agrcol.ddns.net
 credanza.lat
+credario.com
 credentialglamor.top
 credentials-telekom.online
 credianindaonayal.epizy.com
@@ -107191,6 +107193,7 @@ dahakolyasdwe.net
 dahakylsdarc.net
 dahanemelas.shop
 dahaonce-gelenlerden-buradakine-benzeyeni-gorulmedi.top
+dahasabit-f224dc4af556.herokuapp.com
 dahaucuzuyok.online
 dahaucuzuyok.site
 dahaucuzuyok.store
@@ -108705,6 +108708,7 @@ dealfactory.fun
 dealfinderz.com
 dealhunt.website
 dealing.com.ng
+dealioasia.com
 deallerospfosu.shop
 deallphinity.com
 dealmaterial.top
@@ -147878,6 +147882,7 @@ evokewholesale.top
 evokgtis.gq
 evol.amgyp.org
 evolaok.com
+evoltoki.digital
 evolu.intersnackgruop.com
 evolutionarycrisp.top
 evolutionaryporcelain.top
@@ -173176,6 +173181,7 @@ gratis.homelinux.net
 gratis.hookextender.com
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
+gratis.is-a-musician.com
 gratis.laviewddns.com
 gratis.likescandy.com
 gratis.merseine.com
@@ -193940,6 +193946,7 @@ hizla1o1frsatakos.com
 hizla3yukleme.22web.org
 hizlabirsipaisleri28bucukda.cloud
 hizladea-vam-95bfc01d760c.herokuapp.com
+hizladea-vam-d68937c51c06.herokuapp.com
 hizlagvn-2ccd42973cd8.herokuapp.com
 hizlahgsyukle.com
 hizlaislem.online
@@ -215081,6 +215088,7 @@ isbsanfksfafigdisnasdksaf.cyou
 isbsanfksfafigdisnasdsagdsdh.cfd
 isbsanfksfafigdisnasdsagdsdh.cyou
 isbsanfksfafigdisnasdsagdsdh.sbs
+isbsvrlfmd.com
 isbturk.com
 isbturkey.com
 isbucepbank.com
@@ -215757,6 +215765,7 @@ island-placid-bromine.glitch.me
 islandeject.top
 islandminority.top
 islatures.at
+isldmgkd.com
 isleamplify.top
 isledimay.xyz
 islegs.ru.com
@@ -216932,6 +216941,7 @@ istanbulbilgilendirme.click
 istanbulbireysel.com
 istanbulbireyselkartbasvurumerkezi.site
 istanbulbirreysel.sa.com
+istanbulbizimle.com
 istanbulbolgemerkezi3d.xyz
 istanbulbozum.com
 istanbulbruasdkbe.com
@@ -216958,6 +216968,7 @@ istanbulcuolmasdintamzamni.store
 istanbulcuyuzbiz.online
 istanbulda3d3.blogspot.com
 istanbuldabelbimlisin.vercel.app
+istanbuldanucamgelbsvr.sbs
 istanbuldasin.net
 istanbuldasin.site
 istanbuldasinbizimle.mooo.com
@@ -217934,6 +217945,7 @@ istkartdolumu.net
 istkartdolumyeri.online
 istkartfml.online
 istkarthemen.click
+istkarthemen.xyz
 istkartim.net
 istkartimatlatyukle.net
 istkartimdrbu.com
@@ -227521,6 +227533,7 @@ kamoanyalifirsarlar.xyz
 kamoanyaliindimler.com.tr
 kamoanyaliindimler.xyz
 kamodabkomebo.zapto.org
+kamorszfg.com
 kamotors.net
 kamoyu.bns-vio.space
 kamp-any-alar.com
@@ -231823,6 +231836,7 @@ kasim-son-indirimler-sadece.com
 kasim-zamani-geldi.xyz
 kasim-zamani.com
 kasim-zamanii.com
+kasim.click
 kasim101-de-zamani.com
 kasima1o1.net
 kasimaayinindirimi.com.tr
@@ -232032,6 +232046,7 @@ kasimkampnnlyairam.xyz
 kasimkapnaya.online
 kasimkatilimkuveyt.com
 kasimkaxpxnyalaridevamediyor.xyz
+kasimknt.click
 kasimkonut500.com
 kasimlaharc2024.com
 kasimlaharci2024.com
@@ -239422,6 +239437,7 @@ kralhaber.club
 kralhaber.site
 kralhaber.xyz
 kralhizmetlerbrda.click
+kralibiziz.net
 kralinkraligelsedusurmaez.com
 kralinyo.it.com
 kralisis23q.site
@@ -250677,6 +250693,7 @@ mag8u1tejdt.biz
 magaaazafirsatmarketleri.com
 magaaza-sok.com.tr
 magaji.duckdns.org
+magalieme.com
 magalu-ultra4k.hopto.org
 magalumobile.hopto.org
 maganomojer.eu
@@ -268562,6 +268579,7 @@ mysafetyappcheckntifcations.duckdns.org
 mysafetyapphelop.duckdns.org
 mysaftyaccnthelp.duckdns.org
 mysakqtgbkaswawaawawfas.shop
+mysalescaptains.com
 mysamaaj.com
 mysaysaysay1.click
 mysaysaysay3.click
@@ -300847,6 +300865,7 @@ pptsgovtr.click
 pptsgovtr.icu
 pptt-g0v.top
 pptt-gov.cyou
+pptt-gov.icu
 pptt-gov.ink
 pptt-gov.qpon
 pptt-gov.sbs
@@ -302182,6 +302201,7 @@ prmsynnay.com.tr
 prmsynnbasvrrrrgrntt.click
 prmsynngrntttbsvrrr.info
 prmsynnnbsvrrkmpnyaa.click
+prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
 prmsynnnqnbbbsvr.click
@@ -324596,6 +324616,7 @@ sahibinden.mobil-urun-tr.com
 sahibinden.mobilalisverisget.com.tr
 sahibinden.mobilsepetin-tr.online
 sahibinden.mobilservisi-1.com
+sahibinden.mobilservisler.store
 sahibinden.mobilservisleri.com
 sahibinden.mom
 sahibinden.name
@@ -332625,6 +332646,7 @@ sepetim-onayli-227426.com
 sepetim-onayli-237426.com
 sepetim-onayli-24126.com
 sepetim-onayli-24226.com
+sepetim-onayli-24426.com
 sepetim-online.com
 sepetim-pttavm.com
 sepetim-pttavm.com.tr
@@ -348419,6 +348441,7 @@ stanleyparlar.com
 stanleyrebirth.xyz
 stanleyreborn.xyz
 stanleyreignites.xyz
+stanleyreseted.xyz
 stanleyresurgeagain.xyz
 stanleyretuned.xyz
 stanleyrevive.xyz
@@ -362528,6 +362551,7 @@ titanc5.net
 titanchecksystem.store
 titandughrab.com
 titania92.hopto.org
+titanic2026.cyou
 titanium-hr.com
 titanium31.hopto.org
 titanrpg.ddns.net
@@ -399019,6 +399043,7 @@ wordpress-1546907-6028803.cloudwaysapps.com
 wordpress-1548641-6015355.cloudwaysapps.com
 wordpress-1549443-6019146.cloudwaysapps.com
 wordpress-1549443-6022060.cloudwaysapps.com
+wordpress-1549443-6030662.cloudwaysapps.com
 wordpress-1550714-6002017.cloudwaysapps.com
 wordpress-1552221-6009258.cloudwaysapps.com
 wordpress-1553616-6017290.cloudwaysapps.com
@@ -399026,8 +399051,10 @@ wordpress-1554074-6019645.cloudwaysapps.com
 wordpress-1554074-6019696.cloudwaysapps.com
 wordpress-1554374-6021033.cloudwaysapps.com
 wordpress-1554928-6023682.cloudwaysapps.com
+wordpress-1554928-6033421.cloudwaysapps.com
 wordpress-1555264-6025426.cloudwaysapps.com
 wordpress-1555264-6025512.cloudwaysapps.com
+wordpress-1555264-6031614.cloudwaysapps.com
 wordpress-id.hopto.org
 wordpress-mercado-mix-a85903441390217.codeanyapp.com
 wordpress.acimueicxvraahcl.com
