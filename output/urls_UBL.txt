@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-01 07:13:50 UTC
-! Total: 342343 rules
+! Last modified: 2025-12-01 10:11:51 UTC
+! Total: 342361 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5859,6 +5859,7 @@
 *://*.2025yilikampanyasizlere.com/*
 *://*.2026bajsknvtnkito.sbs/*
 *://*.2026bvsnrsmdikyt.sbs/*
+*://*.2026hedefvizyon.online/*
 *://*.2026konutvizyon.online/*
 *://*.2026teslim-tarih.sbs/*
 *://*.2028.cl/*
@@ -19763,6 +19764,7 @@
 *://*.adressetesslimaarackiralamaavis.com/*
 *://*.adressetesslimarackiralamaavis.com/*
 *://*.adrestrendyol.com/*
+*://*.adrestrendyol.org/*
 *://*.adriaanandryan.com/*
 *://*.adriaanvorster.co.za/*
 *://*.adriandevelop.online/*
@@ -23303,6 +23305,7 @@
 *://*.airhumidifierreviews.com/*
 *://*.airiferous.com/*
 *://*.airinstagram.ru/*
+*://*.airinvesta.ink/*
 *://*.airinvesta.xyz/*
 *://*.airjaldinet.ml/*
 *://*.airjoy.top/*
@@ -46696,6 +46699,7 @@
 *://*.beyoglu3d.xyz/*
 *://*.beyogluegitim.com/*
 *://*.beyogluoil.com/*
+*://*.beyondbalancelife.com/*
 *://*.beyondintricacy.top/*
 *://*.beyondlimitsland.com/*
 *://*.beyondlogx.com/*
@@ -55887,6 +55891,7 @@
 *://*.bizinkoy.site/*
 *://*.bizismlevardingel.app/*
 *://*.bizistanbullyz.net/*
+*://*.bizixoo.com/*
 *://*.biziz-sicak-havada-gulen.top/*
 *://*.bizizmiriniz.com/*
 *://*.biziztlyuklemeyen.net/*
@@ -64717,6 +64722,7 @@
 *://*.bugunun-kampanyasi.xyz/*
 *://*.bugunun-ozel-indirimleri.com/*
 *://*.bugununfirsati.cfd/*
+*://*.bugununfirsati.sbs/*
 *://*.bugununindirimleri.com.tr/*
 *://*.bugununkampanyalarionbasvur.org/*
 *://*.bugununozelfirsati.online/*
@@ -125713,6 +125719,7 @@
 *://*.fluxahead.com/*
 *://*.fluxaran.com/*
 *://*.fluxden.site/*
+*://*.fluxffortex.com/*
 *://*.fluxflare.online/*
 *://*.fluxhorizon.online/*
 *://*.fluxivo1.sbs/*
@@ -151370,6 +151377,7 @@
 *://*.hemenlebirliktehemenalmalisin.com.tr/*
 *://*.hemenlebirliktehemenalmalisin.online/*
 *://*.hemenlebirliktehemenalmalisin.xyz/*
+*://*.hemenllsemolnlne.net/*
 *://*.hemenlsllemkolay.online/*
 *://*.hemenmakek.cfd/*
 *://*.hemenmarketim.com/*
@@ -157797,6 +157805,7 @@
 *://*.hizliveigdirli.com/*
 *://*.hizlivekolayalisveris101.online/*
 *://*.hizlivekolaybasvurusistemi.sbs/*
+*://*.hizlivekolayckckc.net/*
 *://*.hizliveonayli-islemler.online/*
 *://*.hizliveotogecisservis.net/*
 *://*.hizlivergi.net/*
@@ -170121,6 +170130,7 @@
 *://*.inkalex.online/*
 *://*.inkalex.site/*
 *://*.inkalex.store/*
+*://*.inkalexservices.space/*
 *://*.inkandpens.com/*
 *://*.inkapidasiparis.com/*
 *://*.inkas10.com/*
@@ -203075,6 +203085,7 @@
 *://*.malimusavirariyoruz2.cfd/*
 *://*.malinapps2.xyz/*
 *://*.malisorgusistem.com/*
+*://*.malisorgutc.org/*
 *://*.malisorgutr.org/*
 *://*.malisucdosya.org/*
 *://*.malisuclar234.tk/*
@@ -205815,6 +205826,7 @@
 *://*.mcdhyt.org/*
 *://*.mcdir.me/*
 *://*.mcdir.ru/*
+*://*.mcdkidz.com/*
 *://*.mcdlehyt.org/*
 *://*.mcdlhayat.org/*
 *://*.mcdlvrt-vdrt.com/*
@@ -206552,6 +206564,7 @@
 *://*.mekke.us/*
 *://*.mekkecan.online/*
 *://*.mekkokksa.click/*
+*://*.meklorn.com/*
 *://*.meknoisete.com/*
 *://*.mekosaksa.xyz/*
 *://*.mekras.ru/*
@@ -212383,6 +212396,7 @@
 *://*.moovrent.com/*
 *://*.moovtiktkak.xyz/*
 *://*.moowxpx.click/*
+*://*.mopanuy.com/*
 *://*.mopasue.com/*
 *://*.mopcapsule.top/*
 *://*.mopedigit.shop/*
@@ -218262,6 +218276,7 @@
 *://*.netviewremote.com/*
 *://*.netvxi.com/*
 *://*.netwebsoc.com/*
+*://*.netwise.live/*
 *://*.network-application-merkez-iade-basvuru-et.com/*
 *://*.network-application-yardim-talebini-olusturma-merkez.org/*
 *://*.network-cycle.com/*
@@ -239368,6 +239383,7 @@
 *://*.petrocapitaltr.com/*
 *://*.petrochemicndorsement.top/*
 *://*.petrochemus.com/*
+*://*.petroeagl.com/*
 *://*.petrofilokol1278.com/*
 *://*.petrofondturk.site/*
 *://*.petrointurkey.com/*
@@ -284192,6 +284208,7 @@
 *://*.tazecicek.net.tr/*
 *://*.tazecicek.org.tr/*
 *://*.tazecicek.website/*
+*://*.tazecicekci.online/*
 *://*.tazecicekcim.com.tr/*
 *://*.tazecicekcim.xyz/*
 *://*.tazegeldi.site/*
@@ -291301,6 +291318,7 @@
 *://*.tokiihaber.com/*
 *://*.tokiikevimprojesibasvuru.com/*
 *://*.tokiilemutluluk.com/*
+*://*.tokiileyasam.digital/*
 *://*.tokiilkevbasvur.com/*
 *://*.tokiilkevimbasvuru.site/*
 *://*.tokiilkevimbasvuruekrani.com/*
