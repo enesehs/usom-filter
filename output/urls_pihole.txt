@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-02 00:44:49 UTC
-# Toplam: 429035 Domain
+# Son Güncelleme: 2025-12-02 02:29:06 UTC
+# Toplam: 429039 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -209224,6 +209224,7 @@ indirimleriyakala.com
 indirimleriyakala.me
 indirimleriyakala.org
 indirimleriyakaladin.xyz
+indirimleriyakalariz.me
 indirimlerkaldi.biz.tr
 indirimlerkaldi.com.tr
 indirimlerkaldi.name.tr
@@ -267842,6 +267843,7 @@ my-commbank.ddns.net
 my-commbanksupport.ddns.net
 my-commbannk-au.digital-online-login-opportunity.com
 my-den-iz.my-homeip.com
+my-deniz.my-homeip.com
 my-drive365.pub
 my-dyson.com.tr
 my-ent-antin.cfd
@@ -321496,6 +321498,7 @@ sabahverlornv.com
 sabanci-akbankinvestment.com
 sabanci-islamicstock.com
 sabanci-yatirim.com
+sabancibursbasvurulari.online
 sabancibursu.xyz
 sabancikultur.org
 sabancinews.com
@@ -363875,6 +363878,7 @@ togod.is-best.net
 togomory.duckdns.org
 togoopdeluekpio.ddns.net
 togsfortoads.com
+togvakfi.online
 togyza.com
 tohageheg.com
 tohavefuntoday.com
