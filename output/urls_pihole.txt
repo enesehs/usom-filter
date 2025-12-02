@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-02 16:12:56 UTC
-# Toplam: 429137 Domain
+# Son Güncelleme: 2025-12-02 17:13:24 UTC
+# Toplam: 429151 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -117567,6 +117567,7 @@ dgt-gob.duckdns.org
 dgt1.xyz
 dgtase.top
 dgtbgni.cc
+dgtckgm.cc
 dgtckgm.ink
 dgtes146.click
 dgtfh.com
@@ -131724,6 +131725,7 @@ eastcountynorthstar.com
 eastderrytavern.ddns.net
 easterembodiment.top
 eastislem.22web.org
+eastlink.cc
 eastlinksbgltd.ddns.net
 eastmidass.duckdns.org
 eastportcorporation.com
@@ -207056,6 +207058,7 @@ ilkevinebasvur.org
 ilkevinkayitlari.org
 ilkevkayitlari.org
 ilkevkonultlkapi.com
+ilkevlerimproje.com
 ilkevlerimprojem.com
 ilkevlerisattik.cfd
 ilkevlerproje.com
@@ -217494,6 +217497,7 @@ istanbultlyukleme724-iett.tk
 istanbultlyuklemesixzsf.com
 istanbultuvturkrandevu.blogspot.com
 istanbulucyumben.pro
+istanbulugeziyorsun.com
 istanbulularyuklmesi.net
 istanbululasim.org
 istanbululasiminizz.click
@@ -234176,6 +234180,7 @@ kernestel.ddns.net
 kernfmkqnqi.pw
 kernoplexaut.pro
 kernsmee.ru
+kerofnt.cc
 keroo2010.zapto.org
 kerosenesas.duckdns.org
 kerpetenalii345.shop
@@ -234518,6 +234523,7 @@ kgm-example.com
 kgm-gecis-ihlal-odemeleri.ml
 kgm-gecis-sorgu-com.tk
 kgm-gis.com
+kgm-goe.com
 kgm-gou.com
 kgm-gov-shop.top
 kgm-gov-tr.com
@@ -234540,6 +234546,7 @@ kgm-gov.shop
 kgm-gov.site
 kgm-gov.store
 kgm-gov.vip
+kgm-gov.work
 kgm-gov.xyz
 kgm-govc.sbs
 kgm-govc.top
@@ -234680,6 +234687,7 @@ kgmgovm.top
 kgmgovonline.qpon
 kgmgovot.top
 kgmgovs.sbs
+kgmgovt.cc
 kgmgovt.top
 kgmgovtr.cfd
 kgmgovtr.com
@@ -238015,6 +238023,7 @@ kntmony.net
 kntnvkrt.net
 kntodemelikkart.net
 kntodemellisibb.net
+kntplus.click
 kntrtllykmlrmz.org
 kntskrty-klee.net
 kntsohlintesa.net
@@ -286525,6 +286534,7 @@ ortaakttrafik.tk
 ortag-1.dev
 ortagtrafik.tk
 ortak-bayiyetkilis.blogspot.com
+ortak-guzel.kortemetten.eu
 ortak-hizmet.com.tr
 ortak.e.vlilik.kredis.i.basuvuru.net
 ortakbanka.com
@@ -300653,6 +300663,7 @@ postptttr.top
 postrack.sbs
 postrack.xyz
 postrequestin.com
+postrew.icu
 postrojka.com
 posts-lv.sbs
 posts-ptt.cc
@@ -317271,6 +317282,7 @@ resolveprogress.online
 resolveprogressive.online
 resolvesecurity-help.duckdns.org
 resolvesissues.ddns.net
+resonaban.cc
 resonsilestngle.top
 resortedspa.com
 resortmolecule.top
@@ -335703,6 +335715,7 @@ shopdyson.tech
 shopeclotingker122.duckdns.org
 shopeclotingker1323.duckdns.org
 shopee33.com
+shopeefdss.top
 shopeegift.com
 shopeeht.com
 shopegift.org
@@ -396951,6 +396964,7 @@ weiter-zur-bank.biz
 weiterleitung-zur-bank.biz
 weitmob.shop
 weituweritoiwetzer.at
+weiur.qpon
 weiziliang.cn
 wejgvl25v.duckdns.org
 wejjwaaskd.click
