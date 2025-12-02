@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-02 08:14:46 UTC
-! Total: 342493 rules
+! Last modified: 2025-12-02 09:15:05 UTC
+! Total: 342508 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36214,6 +36214,7 @@
 *://*.auqowoehdndkd.xyz/*
 *://*.auqusttrsixthingyearstoggcampany.net/*
 *://*.auraco.ca/*
+*://*.auraliscreate.com/*
 *://*.auramar-id724.world/*
 *://*.auraria.org/*
 *://*.aurasarnia.com/*
@@ -68994,10 +68995,12 @@
 *://*.carffoursa.shop/*
 *://*.carflotyup.com/*
 *://*.carforstanley2.xyz/*
+*://*.carfouersana.org/*
 *://*.carfourileucuzalisveris.cfd/*
 *://*.carfourindirim.shop/*
 *://*.carfourkapmanyalar.com/*
 *://*.carfourkapmanyalar.shop/*
+*://*.carfourrrsa.best/*
 *://*.carfourrse.com/*
 *://*.carfoursa.site/*
 *://*.carfoussa.shop/*
@@ -122470,6 +122473,7 @@
 *://*.finansmansorgulamahizmeti.net/*
 *://*.finansmarket.online/*
 *://*.finansmerkezi.info/*
+*://*.finansmerkezi.world/*
 *://*.finansmerkezi.xyz/*
 *://*.finansmerkezim.site/*
 *://*.finansmerkezin.site/*
@@ -188454,6 +188458,7 @@
 *://*.kasmindrmleri2023.online/*
 *://*.kasmlrdakrcallarda.cfd/*
 *://*.kasmrsatizmirr.net/*
+*://*.kasmsonhftacrrefsa.com/*
 *://*.kasolasomasolol.net/*
 *://*.kasolol03438473.shop/*
 *://*.kasolol03438473.site/*
@@ -192846,6 +192851,7 @@
 *://*.kobikredibasvurusu-hemenkatil.cloud/*
 *://*.kobiler-paraf-halk.com/*
 *://*.kobisi.com/*
+*://*.kobopro.top/*
 *://*.kobprastoniskarmonisyakrofbaslanmba.net/*
 *://*.kobranejdet.com/*
 *://*.kobrmrtyy.online/*
@@ -220742,6 +220748,7 @@
 *://*.nov-at.com/*
 *://*.nova-tech.sbs/*
 *://*.novaappraisal.com/*
+*://*.novabryne.com/*
 *://*.novacheck.tech/*
 *://*.novacronisto.top/*
 *://*.novadector.xyz/*
@@ -229730,6 +229737,7 @@
 *://*.openmindway.online/*
 *://*.openmixg.store/*
 *://*.openmodel.cfd/*
+*://*.openorbitlabs.com/*
 *://*.openorder.site/*
 *://*.openprojectgate.com/*
 *://*.openroadsolutions.com/*
@@ -265531,6 +265539,7 @@
 *://*.serkerdehefer.online/*
 *://*.serks215435.cloud/*
 *://*.sermarketin.com/*
+*://*.sermayeakim.top/*
 *://*.sermayedunyasi.online/*
 *://*.sermayedunyasi.org/*
 *://*.sermayedunyasi.world/*
@@ -272784,6 +272793,7 @@
 *://*.snekmuc.com/*
 *://*.snemrnq.info/*
 *://*.snfirsatbidahagelmz24kpmny.com/*
+*://*.snfirstlardnfaylnsn.cfd/*
 *://*.snfr-nhffd-hnty.xyz/*
 *://*.snfrstlayuzyrhi.online/*
 *://*.snfrstlrbugnn.online/*
@@ -295736,6 +295746,7 @@
 *://*.trcezaesorgu.org/*
 *://*.trcezamasak.com/*
 *://*.trcezamasak.org/*
+*://*.trcfrsanonli.cfd/*
 *://*.trchery.com.tr/*
 *://*.trcilingir.com/*
 *://*.trckiyeaieadetalopet.com/*
@@ -300072,6 +300083,7 @@
 *://*.turkiepetrolleri.pro/*
 *://*.turkiesllemlerilooyillmenusu.com/*
 *://*.turkieyedestekbasvurusu.tk/*
+*://*.turkify.info/*
 *://*.turkihlas-ehaberingov.org/*
 *://*.turkihlas-haberin.org/*
 *://*.turkihlas-haberingov.org/*
@@ -300165,6 +300177,7 @@
 *://*.turkishisbankasi.com/*
 *://*.turkishjet.org/*
 *://*.turkishlira24.com/*
+*://*.turkishmarkets.online/*
 *://*.turkishmenkulyatirim.com/*
 *://*.turkishnewz.com/*
 *://*.turkishpetroll.com/*
@@ -333290,6 +333303,7 @@
 *://*.yatirimsesleri.online/*
 *://*.yatirimsesleri.org/*
 *://*.yatirimsinyal.online/*
+*://*.yatirimsirri.pro/*
 *://*.yatirimspot.online/*
 *://*.yatirimstrat.online/*
 *://*.yatirimtavsiyesi.net/*
@@ -337605,6 +337619,7 @@
 *://*.yoruldumaqyeterdomain45.com/*
 *://*.yoruldumyadayi.click/*
 *://*.yorumlarimaatilansikayetlerigor.tk/*
+*://*.yorvalin.asia/*
 *://*.yosea1o1.net/*
 *://*.yosidiraskeoc.cloud/*
 *://*.yosifiko.co.il/*

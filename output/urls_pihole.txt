@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-02 08:14:46 UTC
-# Toplam: 429084 Domain
+# Son Güncelleme: 2025-12-02 09:15:05 UTC
+# Toplam: 429102 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51459,6 +51459,7 @@ auproject.xyz
 auqowoehdndkd.xyz
 auqusttrsixthingyearstoggcampany.net
 auraco.ca
+auraliscreate.com
 auramar-id724.world
 aurasarnia.com
 auraxhoiyly.org
@@ -57589,6 +57590,7 @@ bastonlukedi.tk
 basu.vuru.al.legvnclk.bislem.net
 basucumakoydum.com
 basuito.com
+basumrs.inkalex.site
 basungaintl.gq
 basursmy.net
 basutkredi.com
@@ -89747,12 +89749,14 @@ carffosusa.xyz
 carffoursa.shop
 carflotyup.com
 carforstanley2.xyz
+carfouersana.org
 carfourharikaindirimler.duckdns.org
 carfourileucuzalisveris.cfd
 carfourindirim.shop
 carfourindirimligunler.duckdns.org
 carfourkapmanyalar.com
 carfourkapmanyalar.shop
+carfourrrsa.best
 carfourrse.com
 carfoursa.site
 carfoussa.shop
@@ -153938,6 +153942,7 @@ finansmankredi.com
 finansmansorgulamahizmeti.net
 finansmarket.online
 finansmerkezi.info
+finansmerkezi.world
 finansmerkezi.xyz
 finansmerkezim.site
 finansmerkezin.site
@@ -210538,6 +210543,7 @@ ink-zany-paw.glitch.me
 ink.inkboom.co.kr
 ink659.xyz
 inkalex.online
+inkalex.site
 inkandpens.com
 inkapidasiparis.com
 inkas10.com
@@ -232232,6 +232238,7 @@ kasmdkrclrdnal.cfd
 kasmindrmleri2023.online
 kasmlrdakrcallarda.cfd
 kasmrsatizmirr.net
+kasmsonhftacrrefsa.com
 kasol482sd34.duckdns.org
 kasolasomasolol.net
 kasolol03438473.shop
@@ -235547,6 +235554,7 @@ kimlikolustur.ezyro.com
 kimlikolusturucu.ezyro.com
 kimlikolusturucu.github.io
 kimlikolusturucuf.netlify.app
+kimlikolusturucux.netlify.app
 kimlikonaysistemleri.org
 kimlikrndvsu.com.tr
 kimlikrndvsu.xyz
@@ -238052,6 +238060,7 @@ kobidenizbank.com
 kobidestekbasvuru.com.tr
 kobikredibasvurusu-hemenkatil.cloud
 kobiler-paraf-halk.com
+kobopro.top
 kobprastoniskarmonisyakrofbaslanmba.net
 kobranejdet.com
 kobrmrtyy.online
@@ -274696,6 +274705,7 @@ nova-tech.sbs
 nova.html-5.me
 nova22.ddns.net
 novaappraisal.com
+novabryne.com
 novacheck.tech
 novacronisto.top
 novadector.xyz
@@ -285678,6 +285688,7 @@ openmindway.online
 openmixg.store
 openmodel.cfd
 openningsoonming.zapto.org
+openorbitlabs.com
 openorder.site
 openoutlookdocs.hopto.org
 openproject.novadsa.com
@@ -333193,6 +333204,7 @@ serkerterasd.duckdns.org
 serks215435.cloud
 serlyuklemeler.sg-host.com
 sermarketin.com
+sermayeakim.top
 sermayedunyasi.online
 sermayedunyasi.org
 sermayedunyasi.world
@@ -341845,6 +341857,7 @@ snemkbl.loveslife.biz
 snemrnq.info
 snezupor.duckdns.org
 snfirsatbidahagelmz24kpmny.com
+snfirstlardnfaylnsn.cfd
 snfr-nhffd-hnty.xyz
 snfrstlayuzyrhi.online
 snfrstlrbugnn.online
@@ -369651,6 +369664,7 @@ trceza.org
 trcezaesorgu.org
 trcezamasak.com
 trcezamasak.org
+trcfrsanonli.cfd
 trcgbest.is-best.net
 trchery.com.tr
 trcilingir.com
@@ -374601,6 +374615,7 @@ turkiepetrolleri.pro
 turkiesllemlerilooyillmenusu.com
 turkieyedestekbasvurusu.tk
 turkifsahane.blogspot.com
+turkify.info
 turkihlas-ehaberingov.org
 turkihlas-haberin.org
 turkihlas-haberingov.org
@@ -374705,6 +374720,7 @@ turkishhairlines.online
 turkishisbankasi.com
 turkishjet.org
 turkishlira24.com
+turkishmarkets.online
 turkishmenkulyatirim.com
 turkishnewz.com
 turkishpetroll.com
@@ -417281,6 +417297,7 @@ yatirimrehberi.world
 yatirimsesleri.online
 yatirimsesleri.org
 yatirimsinyal.online
+yatirimsirri.pro
 yatirimspot.online
 yatirimstrat.online
 yatirimtavsiyesi.net
@@ -422322,6 +422339,7 @@ yorulduk.space
 yoruldumaqyeterdomain45.com
 yoruldumyadayi.click
 yorumlarimaatilansikayetlerigor.tk
+yorvalin.asia
 yosea1o1.net
 yosed.b-cdn.net
 yosfaertmzc0.duckdns.org
