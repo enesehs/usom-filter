@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-03 21:08:45 UTC
-# Toplam: 429282 Domain
+# Son Güncelleme: 2025-12-03 22:10:06 UTC
+# Toplam: 429290 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -89980,6 +89980,7 @@ carref-ekstra.online
 carref0rsaflrlsatlarikasim.duckdns.org
 carref0rsaflrsatlarikasim.shop
 carref0ur.sa.com
+carref0ur.site
 carref0ursa.net
 carrefaoursa.com
 carrefaursa.online
@@ -103985,6 +103986,7 @@ crfnzaygnzda.com
 crfoldukisayi.cfd
 crfonlineozeller.online
 crfonlineozelurunler.online
+crfoousafirsattlarxi.duckdns.org
 crfozelurunler.cfd
 crfozelurunler.online
 crfozelurunler.xyz
@@ -145246,6 +145248,7 @@ esube-ziraatkatilim.com
 esube-ziraatkattilim.com
 esube-zirraatkatiilim.com
 esube-zirraatkatilim.com
+esube-zlrraatkatilim.com
 esube.albankasi.com
 esube.baskentmnkldgr.com
 esube.online
@@ -280796,6 +280799,7 @@ onaylamaservisi.net
 onaylamaservisiglobal.dropei.de
 onaylamobil.fun
 onaylamobil.online
+onaylanan-basvurulariniz-kontrol-ediniz.sbs
 onaylanan-ilan.com.tr
 onaylandi-fbbasvuru.vercel.app
 onaylanmis-ilan.com.tr
@@ -281346,6 +281350,7 @@ onijeuo4j.duckdns.org
 onikiodeme.tk
 oniline-stoklar-com-tr.cfd
 onilne-isllem-resmi.com
+onilne-resm-ibasvrurm.com
 onilpliont.hopto.org
 onineislemlerakbank.com
 onion-sprut-1.top
@@ -327614,6 +327619,7 @@ sansinizbuayhemenkatilglobalfirsatinesende.life
 sansinvarmis.com
 sanskapycalnca.com
 sansli50kisi.com
+sanslibasvuru.sbs
 sanslibonus.digital
 sanslieylulayi.online
 sanslieylulayi.xyz
@@ -418317,6 +418323,7 @@ yeni-dlm.vercel.app
 yeni-donemdestek.tk
 yeni-evlene-nkredisi.blogspot.com
 yeni-firsat-kacmaz.com.tr
+yeni-firsatlarii-incele.com
 yeni-giris-2022.com
 yeni-giris-aidat-imkani.org
 yeni-giris-aidat-imkanicom.net
@@ -420515,6 +420522,7 @@ yiknzeqzb.duckdns.org
 yil-basi-kampanyasi.shop
 yil-basi-siparislerim.xyz
 yil-basiozelkatilim.tk
+yil-sonu-firsati-bu-firsat.sbs
 yil-sonu-indirimi-tkns.online
 yil-sonu-indirimi-tkns.store
 yil-sonu-kampanyasi.online
