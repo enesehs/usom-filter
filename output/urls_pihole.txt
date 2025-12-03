@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-03 11:09:09 UTC
-# Toplam: 429216 Domain
+# Son Güncelleme: 2025-12-03 12:22:46 UTC
+# Toplam: 429226 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15080,6 +15080,7 @@
 54432424.duckdns.org
 5443654.site
 5443654.world
+5444438747834.duckdns.org
 544545454545454454.space
 54455466458956465498498165561.cloud
 5445588515.com
@@ -51470,6 +51471,7 @@ auraliscreate.com
 auramar-id724.world
 aurasarnia.com
 auraxhoiyly.org
+aurecston.com
 aurelec.shop
 aurellion.com
 aureon.news
@@ -121903,6 +121905,7 @@ dolan-yalci-kepente.dnsuser.de
 dolanaodlana2.online
 dolanaodlana2.xyz
 dolandimdolandimdadolandirildim.sbs
+dolap-alisveris.com
 dolap-alisveris.com.tr
 dolap-alisverislerim-ileguvende.click
 dolap-apps.com
@@ -188435,6 +188438,7 @@ hemenngeciss.22web.org
 hemennlaktnaknak.net
 hemennlatlansanta.net
 hemennn-basitce-ppt-karo-kapilara-gelir.com
+hemennonnlinehizmet.online
 hemenntrmrr.net
 hemenodefatura.site
 hemenodeme.cf
@@ -206983,6 +206987,7 @@ ilkevimbasvuru5g6oe5zpesp.vercel.app
 ilkevimbasvuru9806dusl1.vercel.app
 ilkevimbasvuru9wd4sj0bosb.vercel.app
 ilkevimbasvurua2mpzn06t.vercel.app
+ilkevimbasvurue32q403kp48s.vercel.app
 ilkevimbasvuruekrani.com
 ilkevimbasvuruh6bd48ad9j.vercel.app
 ilkevimbasvuruhawmj0mthao4.vercel.app
@@ -224666,6 +224671,7 @@ joyfulblunder.top
 joyfullday.shop
 joyfulpulsepro.com
 joyfulzenithlife.com
+joygolfla.com
 joyjoy.hopto.org
 joylastik.com
 joyn.com.pk
@@ -256953,6 +256959,7 @@ meritoshop.com
 meritsbuisness.com
 merivaara.xyz
 meriwethershaquila.net
+merjoup.com
 merkadseb.xyz
 merkenerji.com
 merker.sh
@@ -312518,6 +312525,7 @@ racsrtcdav-aesdtrayd-arywyd.sbs
 racsrtcdav-aesdtrayd-awezxac.cfd
 racsrtcdav-aesdtrayd-awezxac.sbs
 racucuu.com
+racuestim-59a69edccaaa.herokuapp.com
 rad.geewkmy.com
 rad1orw.duckdns.org
 rada-zakon.firstcloudit.com
@@ -326452,6 +326460,7 @@ sahibnedenalisverislerin-parmguvendealisveris.com.tr
 sahibnedenalisverislerin-parmguvendealisveris.xyz
 sahiden-mutlu-olmak-seninde-hakkin.online
 sahidenparamguvende.com
+sahiguest-58c6cd1ca886.herokuapp.com
 sahihinden.com
 sahiibden-paramguvende.e-ticaret-alisveris.com
 sahiibiiindenparamguvnde.site
@@ -339959,6 +339968,7 @@ size-zaman-herzaman-hizmetinizdeyiz.com
 sizebakanlar.click
 sizebuhafta.online
 sizecrrefrdnglrken.shop
+sizedemedilermiwsynxlisteyedusmez.com
 sizee-heerzaman-hizmet-halindeyiz.com
 sizefirsatlarziraatten.cf
 sizefirsatlarziraatten.ga
