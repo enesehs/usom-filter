@@ -1,6 +1,6 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2025-12-03 04:24:00 UTC
-# Toplam: 432716 URL
+# Son Güncelleme: 2025-12-03 05:10:43 UTC
+# Toplam: 432717 URL
 
 http://0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 http://0--loook.net
@@ -367268,6 +367268,7 @@ http://toki-eportal.bounceme.net
 http://toki-evim-basvurum.org.mail-tesla.de
 http://toki-evim.store
 http://toki-evkonut-basvuru.com
+http://toki-front.vercel.app
 http://toki-gov-tr-com.ga
 http://toki-gov-tr-com.gq
 http://toki-gov-tr-com.tk
