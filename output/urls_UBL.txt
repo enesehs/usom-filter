@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-03 08:14:06 UTC
-! Total: 342586 rules
+! Last modified: 2025-12-03 09:14:17 UTC
+! Total: 342590 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -175962,6 +175962,7 @@
 *://*.istanbulkk.ml/*
 *://*.istanbulkkrts.online/*
 *://*.istanbulknk.net/*
+*://*.istanbulkqartmsd.store/*
 *://*.istanbulkqhilzsartmsd.store/*
 *://*.istanbulkrd-gelsende.net/*
 *://*.istanbulkrt.com/*
@@ -220056,6 +220057,7 @@
 *://*.nlsmdldzhzzndlh.net/*
 *://*.nlsmfnnsbndmad.net/*
 *://*.nlsustrvslostra.com/*
+*://*.nltlntltnalnalnaan.net/*
 *://*.nltozpy.com/*
 *://*.nltssndfnm.net/*
 *://*.nlv-islemlerim.net/*
@@ -262265,6 +262267,7 @@
 *://*.scaespikgmhizligecis.net/*
 *://*.scaker.com/*
 *://*.scaleforfeit.top/*
+*://*.scaleimpactpro.co/*
 *://*.scalepayyy.com/*
 *://*.scaleslaughter.top/*
 *://*.scaletai.com/*
@@ -303925,6 +303928,7 @@
 *://*.umbroturkiyetr.com/*
 *://*.umcbz.com/*
 *://*.umdmvqiinodr.pk/*
+*://*.umehmetistanbul.com/*
 *://*.umerkezbankasi.com/*
 *://*.umeuttiyyynb.biz/*
 *://*.umgmafwwqgnqety.ru/*
