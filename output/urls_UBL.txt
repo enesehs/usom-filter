@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-04 11:09:18 UTC
-! Total: 342744 rules
+! Last modified: 2025-12-04 12:24:13 UTC
+! Total: 342759 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4405,6 +4405,7 @@
 *://*.19subatdenizfirsat.online/*
 *://*.19subatdenizle.online/*
 *://*.19ttttt.com/*
+*://*.19uu3.top/*
 *://*.1a-teensbilder.de/*
 *://*.1a101-1ad-ldidnfirsat101.xyz/*
 *://*.1a101-1f-dirsatd101aldin.xyz/*
@@ -30040,6 +30041,7 @@
 *://*.anadolumsigortaci.com/*
 *://*.anadolumsigortacim.net/*
 *://*.anadolumsigortaciniz.com/*
+*://*.anadolunakliye.site/*
 *://*.anadolununevlatlari.site/*
 *://*.anadolununilacsikaderotu.xyz/*
 *://*.anadoluoffshorebnktr.com/*
@@ -33570,6 +33572,7 @@
 *://*.aralikozelburada.shop/*
 *://*.aralikozelcepte.shop/*
 *://*.aralikozelindirimler.online/*
+*://*.aralikpromosyonu.com/*
 *://*.araliksenin.com.tr/*
 *://*.aralikseningunlerin.com.tr/*
 *://*.aralikseninle.com.tr/*
@@ -69324,6 +69327,7 @@
 *://*.carreileyazgunleri.xyz/*
 *://*.carreirapowerbi.com/*
 *://*.carrekampanyalari.com/*
+*://*.carrelinewgun.online/*
 *://*.carrentbodrum.com/*
 *://*.carrentcenter.online/*
 *://*.carrentfilo.com/*
@@ -73259,6 +73263,7 @@
 *://*.cicekmarket.vip/*
 *://*.cicekmarket.xyz/*
 *://*.cicekmarketi.de/*
+*://*.cicekmarketi.online/*
 *://*.cicekmarketim.me/*
 *://*.cicekmarketim.mobi/*
 *://*.cicekmarketim.online/*
@@ -107998,6 +108003,7 @@
 *://*.efsane-kampanya-saatleri-basladi.shop/*
 *://*.efsane-kampanya-saatleri-yine-basladi.shop/*
 *://*.efsane-kampanya-saatleribasladi.shop/*
+*://*.efsane-kampanyasaatleri-yine-basladi.shop/*
 *://*.efsane-kasim-firsatlari-basladi.shop/*
 *://*.efsane-kasim-geldi.shop/*
 *://*.efsane-kasim-indirimler-online-ozel.com.tr/*
@@ -137027,6 +137033,7 @@
 *://*.gonlinemisllemmnumtr.store/*
 *://*.gonlinemmislemtrapp.store/*
 *://*.gonllinemislemenutr.space/*
+*://*.gonllinemisllemleritrapp.store/*
 *://*.gonllinemobilmenubasvurislemlleri.com/*
 *://*.gonnv.top/*
 *://*.gonoluluis.icu/*
@@ -175780,6 +175787,7 @@
 *://*.istanbulcardbakiyem.net/*
 *://*.istanbulcardx.net/*
 *://*.istanbulcihangir3d.xyz/*
+*://*.istanbulcokpardon.net/*
 *://*.istanbulcscac.net/*
 *://*.istanbulcubakim.pro/*
 *://*.istanbulcuma.net/*
@@ -193616,6 +193624,7 @@
 *://*.konutbasvurusutoki.pro/*
 *://*.konutbasvurusutoki.xyz/*
 *://*.konutbasvurutamamla.cloud/*
+*://*.konutbasvurutr.cfd/*
 *://*.konutbasvuruturkiye.cfd/*
 *://*.konutbasvuruturkiye.sbs/*
 *://*.konutbasvutrlarindansongunler.cloud/*
@@ -194873,6 +194882,7 @@
 *://*.kredimkarti.com/*
 *://*.kredimkuveytte.com/*
 *://*.kredimkuveytte.info/*
+*://*.kredimkuveytte.online/*
 *://*.kredimmmakk.online/*
 *://*.kredimobil-ziraatbireysel.com/*
 *://*.kredimobil.gq/*
@@ -208643,6 +208653,8 @@
 *://*.millionmore.top/*
 *://*.millionretaliation.top/*
 *://*.millipiyangom.net/*
+*://*.millisavunmabakaligi.xyz/*
+*://*.millisavunmabakanligi.com/*
 *://*.millitarytocorp.com/*
 *://*.milliyet-25000tliade.com/*
 *://*.milliyet-haber-basvuru.com/*
@@ -253736,6 +253748,7 @@
 *://*.reignnaive.top/*
 *://*.reimbergit.com.br/*
 *://*.reimglink.com/*
+*://*.reinaeu.com/*
 *://*.reinforcedinosaur.top/*
 *://*.reinforcedirectorywd.shop/*
 *://*.reinforceeligible.top/*
@@ -278624,6 +278637,7 @@
 *://*.stanleyresurgeagain.xyz/*
 *://*.stanleyretuned.xyz/*
 *://*.stanleyrevive.xyz/*
+*://*.stanleyrevvolt.xyz/*
 *://*.stanleyrise.xyz/*
 *://*.stanleysepetleri.xyz/*
 *://*.stanleysoktafirsat.net.tr/*
@@ -338527,6 +338541,7 @@
 *://*.yuqagcfk.com/*
 *://*.yuqbvfopicmp.xyz/*
 *://*.yurdadonusvakfi.xyz/*
+*://*.yurdatkulturmerkez.online/*
 *://*.yurdicikargo.com.tr/*
 *://*.yurdumvakfi.com/*
 *://*.yuregimde-yankilanan-hatiralar.top/*
