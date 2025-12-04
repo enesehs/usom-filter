@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-04 12:24:13 UTC
-! Total: 342759 rules
+! Last modified: 2025-12-04 13:28:51 UTC
+! Total: 342764 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41741,6 +41741,7 @@
 *://*.basvursu.com/*
 *://*.basvursvr.com.tr/*
 *://*.basvursvr.xyz/*
+*://*.basvursvz.com.tr/*
 *://*.basvurszs.com.tr/*
 *://*.basvurszx.com.tr/*
 *://*.basvurt0k.click/*
@@ -137031,6 +137032,7 @@
 *://*.gonlinemislemapptr.store/*
 *://*.gonlinemisllemenumuztr.store/*
 *://*.gonlinemisllemmnumtr.store/*
+*://*.gonlinemisllemtrapp.store/*
 *://*.gonlinemmislemtrapp.store/*
 *://*.gonllinemislemenutr.space/*
 *://*.gonllinemisllemleritrapp.store/*
@@ -204058,6 +204060,7 @@
 *://*.manovediahemen.net.tr/*
 *://*.manramekarnam.com/*
 *://*.manrklm.com/*
+*://*.manrnewmlsan.com/*
 *://*.manruksalar.xyz/*
 *://*.mansahbrothers.com/*
 *://*.manset-haber.online/*
@@ -271453,6 +271456,7 @@
 *://*.sizin-kalbinize-inancimiz-sonsuz-herzaman.com/*
 *://*.sizin-kalbinizi-biliriz-sizde-beni-bilin.com/*
 *://*.sizin-kapiniza-gelen-mutluluk-burada.xyz/*
+*://*.sizin-kontrol-adresiniz.sbs/*
 *://*.sizin-mutlulugunuz-bizim-mutlulugumuz-demekttir.com.tr/*
 *://*.sizin-mutlulugunuz-bizim-mutlulugumuz-demekttir.xyz/*
 *://*.sizin-mutluluk-duraginiz-burada.com/*
@@ -330565,6 +330569,7 @@
 *://*.xzxmxrdevrdn.net/*
 *://*.xzxzizmirimzxzx.net/*
 *://*.xzybzz.com/*
+*://*.xzyenibvruu10.click/*
 *://*.xzyes01zyz3.net/*
 *://*.xzzmrmmmgvlll.net/*
 *://*.y-101sendegelal.com/*
