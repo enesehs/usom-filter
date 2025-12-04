@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-04 02:29:56 UTC
-# Toplam: 429306 Domain
+# Son Güncelleme: 2025-12-04 04:23:08 UTC
+# Toplam: 429308 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -92970,6 +92970,7 @@ ceptesok.gt.tc
 ceptesok.net.tr
 ceptesok.superindirim.cfd
 ceptesok.yazaozel.cfd
+ceptesok.yilbasiozel.cfd
 ceptesokaktuel.com
 ceptesokaktuel.online
 ceptesokbayramaozel.online
@@ -378864,6 +378865,7 @@ uf74723d1f5838yhk0k.ddns.net
 uf8yqxba2.duckdns.org
 uf9m2tb.cn
 ufadaqim.biz
+ufasboclub-ling99.store
 ufavarhesdwe.net
 ufblky.top
 ufbyekhqd.com
