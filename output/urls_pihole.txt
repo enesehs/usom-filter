@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-04 06:15:12 UTC
-# Toplam: 429311 Domain
+# Son Güncelleme: 2025-12-04 07:12:33 UTC
+# Toplam: 429319 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24724,6 +24724,7 @@ a1o1com-aktuelurunlertr.duckdns.org
 a1o1comtr-aktuelrrunler.duckdns.org
 a1o1comtr-aktuelrunler.duckdns.org
 a1o1comtr-aktuelrunlertr.duckdns.org
+a1o1comtr-stanleytermoskampanyalarim.giize.com
 a1o1comtr.com
 a1o1comtr.fun
 a1o1comtr.online
@@ -85518,6 +85519,7 @@ burasibimcelll.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
 burasiguncel.xyz
+burasiiriss.xyz
 burasisogukmusa125.com
 burasitaksimbak.net
 burasiyenidunya.xyz
@@ -217024,6 +217026,7 @@ istanbul-vesnlik.xyz
 istanbul-yapiceponay.vercel.app
 istanbul.kart.express
 istanbul.kart.ink
+istanbul.kuledoviz.com
 istanbul.lequiva.com
 istanbul.lequiva.net
 istanbul.nativezsystem.us
@@ -218252,6 +218255,7 @@ istnbl-kart.blogspot.com
 istnbl.htsdxmadew.net
 istnblakblyklme.net
 istnblbakiyeykleme.net
+istnblbasvrdkz.gleeze.com
 istnblbkiyeyukle.tk
 istnblbkye-ykleme.click
 istnblbkye.net
@@ -295383,6 +295387,7 @@ passagecomplacent.top
 passagecorrelation.top
 passagein.store
 passageinfo.store
+passageinfsend.store
 passagestima.store
 passagstark.top
 passanta.net
@@ -354551,6 +354556,7 @@ t0kibsvrmliz.sbs
 t0kibsvrulari2.com
 t0kiedevlet2025.giize.com
 t0kievbasvurularim.com
+t0kievleribasvuru.sbs
 t0kievleribasvurulari.sbs
 t0kievlerikonutbasvur.top
 t0kievvbaasvurularim.com
@@ -379805,6 +379811,7 @@ unifyshorthand.top
 unifytropical.top
 unifyzealous.top
 unigate.cc
+uniistbner.xyz
 unikeyupdate.com
 unikeyupdating.com
 unikop.ru
@@ -410889,6 +410896,7 @@ xn--isbnksi-r4ac.com
 xn--iscepte-ylba-firsatm-qbddh90i.com
 xn--isdabudraidaeap-85c.app
 xn--isilvakfi-5jf.org
+xn--isizreportatmaoallahini-7me.net
 xn--istanblmkartmatlyukle-vgd.net
 xn--istanbul-kart-bakiye-ykle-0wc.com
 xn--istanbul-kart-bakiye-ykle-0wc.comv
