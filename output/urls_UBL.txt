@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-05 18:12:48 UTC
-! Total: 342861 rules
+! Last modified: 2025-12-05 19:01:57 UTC
+! Total: 342864 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11101,6 +11101,7 @@
 *://*.7177787875445.cloud/*
 *://*.71784515120.com/*
 *://*.718462184665.com.tr/*
+*://*.718462184665.xyz/*
 *://*.719123791793129321917.cloud/*
 *://*.71925-coinbase.com/*
 *://*.71kamahistreet.com/*
@@ -216489,6 +216490,7 @@
 *://*.mypaintdressk13.com/*
 *://*.mypaketim.site/*
 *://*.mypassag.store/*
+*://*.mypassauge.store/*
 *://*.mypasskey.info/*
 *://*.mypat.xyz/*
 *://*.mypdfonestart.com/*
@@ -330660,6 +330662,7 @@
 *://*.xzyenibvruu16.click/*
 *://*.xzyenibvruu18.click/*
 *://*.xzyenibvruu20.click/*
+*://*.xzyenibvruu4.click/*
 *://*.xzyes01zyz3.net/*
 *://*.xzzmrmmmgvlll.net/*
 *://*.y-101sendegelal.com/*
