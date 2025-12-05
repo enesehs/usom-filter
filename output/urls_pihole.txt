@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-05 07:12:21 UTC
-# Toplam: 429457 Domain
+# Son Güncelleme: 2025-12-05 08:13:56 UTC
+# Toplam: 429461 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -95209,6 +95209,7 @@ cicekzadem.com
 cicekzamani.com
 cicekzamani.com.tr
 cicekzamani.online
+cicekzamani.site
 cicekzone.com
 cicensnyt0201.site
 cicero-dropbox.tk
@@ -220431,6 +220432,7 @@ izkrkelebk.net
 izkrr.net
 izkrtbkyeklemesi.com
 izlasmlsabmanskam.blogspot.com
+izldskm.blogspot.com
 izlebasvurunutr.com
 izledekudur.cfd
 izleditummahalle.com
@@ -276002,6 +276004,7 @@ nv2c7thkp.duckdns.org
 nv2diyaxainanim.net
 nv3diyaxainanim.net
 nv3rramnxd.blogspot.com
+nv3zrwefp.storage.googleapis.com
 nv45or.duckdns.org
 nv4diyaxainanim.net
 nv5diyaxainanim.net
@@ -411129,6 +411132,7 @@ xn--kararllkbunugerektirir-rldb.com
 xn--karayollarborckapatma-tgd.com
 xn--karayollarborcodeme-p5c.com
 xn--kargolarnzburada-hqcb.com
+xn--kargoslmvv-6ub.com
 xn--karlmaz-firasat-fmb27jba.online
 xn--karmabupazarbaskapazar-06b09o.online
 xn--karmzasa-vkb.net
