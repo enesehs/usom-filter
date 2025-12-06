@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-06 04:10:43 UTC
-# Toplam: 429578 Domain
+# Son Güncelleme: 2025-12-06 05:09:32 UTC
+# Toplam: 429580 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -167199,6 +167199,7 @@ geri-aktarmalar-islemler-sorgu1.icu
 geri-aktarmalar-islemler-sorgu2.cyou
 geri-aktarmalar-islemler-sorgu2.icu
 geri-aktarmalar-sorgu.cyou
+geri-dondu-gibi.sbs
 geri-ehalkiadeodemeleri.com.tr
 geri-gelmez.kolay-ca-kapinda-aarass-hizzmetleri.com
 geri-iade-aidat-basvur.com
@@ -236441,6 +236442,7 @@ kitebenevolent.top
 kitecatastrophic.top
 kitecruise.top
 kiteextinction.top
+kitinizgeldi.click
 kitjlpaaptmx.com
 kitkat.zapto.org
 kitkattt.com
