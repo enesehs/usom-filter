@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-06 17:07:37 UTC
-# Toplam: 429656 Domain
+# Son Güncelleme: 2025-12-06 18:12:05 UTC
+# Toplam: 429668 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -91842,6 +91842,7 @@ cekislervacikdenizv2denizbank.co.vu
 cekkiliss.uk
 cekkilisss.uk
 ceklis-zamani.net
+cekls-blog-resm.com
 cekmecebayist.online
 cekmekoyugurlar.org
 cekocanaoontsros.vercel.app
@@ -154825,6 +154826,7 @@ firsatagiris.com
 firsatagiris724.com
 firsatagirme.com
 firsatagustosilebaslar.online
+firsatahemengel.xyz
 firsatahemenkatilbance.tech
 firsataidatodeme.net
 firsataislfhzrn.duckdns.org
@@ -171298,6 +171300,7 @@ gncl-sikayet-varr.gq
 gncl-xmrkkstfrstllrinda.xyz
 gncl-xmrkktfrstllrinda.xyz
 gnclakksbt.com.tr
+gnclalsvrscrfsa.cfd
 gnclbaharhizmetlrixd.xyz
 gnclbnanceramazanfirsatlari.com
 gnclbnnsresmigiris.com
@@ -237694,6 +237697,7 @@ kmpnyaaabsvrrrrrgrnttt.click
 kmpnyaaaqnbbbkatilim.cloud
 kmpnyaabsvrrraafinnss.click
 kmpnyaabsvrrrgrnntt.click
+kmpnyaabsvrrrprmo.click
 kmpnyaakdayaz.name.tr
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
@@ -281975,6 +281979,7 @@ online-buyuksehirbelediyesi.com
 online-caixabank.ddns.net
 online-carrefoursa.vercel.app
 online-cekilisbasvuruonay.com
+online-cekls-ekrani.com
 online-cep-btk-duyuru.ml
 online-cep-btk-duyuru.tk
 online-cep-garanti-firsat-tr.cf
@@ -308920,6 +308925,7 @@ pzl7a.xyz
 pzm7wg.duckdns.org
 pzmqymqanh.duckdns.org
 pzmzhlrzot.com
+pznwmylr2.storage.googleapis.com
 pzodmejxsn.net
 pzodmexsuhg.net
 pzodmjxsub.net
@@ -322400,8 +322406,10 @@ sadesconsficsrisatlartrrrcvtrtr.blogspot.com
 sadesconsficsrisatlartrrrcvtrtrt.blogspot.com
 sadesconsficsrisatlartrrrcvtrtrtr.blogspot.com
 sadesconsficsrisatlartrrrcvtrtrtrt.blogspot.com
+sadesconsficsrisatlartrrrcvtrtrtrtc.blogspot.com
 sadesconsfirsatlstrs.blogdns.com
 sadesconsfisfrsatlartr.blogdns.com
+sadesconsfisrsatlartr.blogdns.com
 sadesconsfisrsatlre.blogdns.com
 sadescosnfirsatlartrv.blogdns.com
 sadescsonlirfisrtalarttrvtrt.blogspot.com
@@ -328514,6 +328522,7 @@ savarskulkop.click
 savasaata.online
 savblooling29.xyz
 savc-children.com
+savciliketutani.org
 savciliktr.org
 save-trezor-ste.webflow.io
 save-trzor-login.webflow.io
@@ -365232,6 +365241,7 @@ tokiprojeleri-basvurum.vercel.app
 tokiprojelerim-basvurularim.vercel.app
 tokiprojem.xyz
 tokiprojesi.com
+tokiresmibasvuru.cfd
 tokiresmibasvurun.wordpress.com
 tokiresmiyetgazeteniz.webredirect.org
 tokisahibiol.com
@@ -367454,6 +367464,7 @@ tr-kisa-link.site
 tr-kmpnya.site
 tr-kmpnya.website
 tr-kobi-halksubem.com
+tr-kobimortgage.my-homeip.com
 tr-kofteciyusuf.cloud
 tr-kolaypanel.com
 tr-kontoryukleme.com
@@ -378667,6 +378678,7 @@ ucmadenci.online
 ucmore.fi
 ucmwvbr.com
 ucnano180523.ddns.net
+ucndasanbrg.cfd
 ucodeme.tk
 ucogqao.duckdns.org
 ucoxydmbup.duckdns.org
