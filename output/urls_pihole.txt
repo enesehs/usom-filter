@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-06 21:07:45 UTC
-# Toplam: 429671 Domain
+# Son Güncelleme: 2025-12-06 22:08:11 UTC
+# Toplam: 429680 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -83449,6 +83449,7 @@ bsvurunburada.site
 bsvurundevamet.site
 bsvurutokldvlt.com
 bsvurutrduyurular.online
+bsvuruukonutlaritoki.pro
 bsvuruyon5.click
 bsvuruyptm.digital
 bsvvronline-hazir.com
@@ -119180,6 +119181,7 @@ dijitalkampanya-ziraatbireysel.sbs
 dijitalkampanya-ziraatgiris.sbs
 dijitalkampanya-ziraatweb.com
 dijitalkampanya-ziraatweb.sbs
+dijitalkampanya-ziraatwebmobil.sbs
 dijitalkampanya.net
 dijitalkampanyagiris-denizacik.com
 dijitalkampanyagiris-ziraatbireysel.sbs
@@ -152428,6 +152430,7 @@ ferocansinyalcimisinla.com
 ferohardx.tr.ht
 feroshaliyikamacasi.site
 ferotago.ddns.net
+ferracasa.site
 ferramole.ddns.net
 ferrari-rolling-facilities-lounge.trycloudflare.com
 ferrari.gr.com
@@ -154946,6 +154949,7 @@ firsatbubmwkampanyakatilim.com
 firsatbudurbasvurularbance.tech
 firsatbudursendehemenkatil.site
 firsatbufirsat.club
+firsatbufirsat.duckdns.org
 firsatbufirsat.shop
 firsatbufirsataldinaldin.com
 firsatbufirsataldinaldin.shop
@@ -207164,6 +207168,7 @@ ilkevimbasvuru537h2kp7.vercel.app
 ilkevimbasvuru5g6oe5zpesp.vercel.app
 ilkevimbasvuru7iuox19l3b74.vercel.app
 ilkevimbasvuru7mklfxo4xx6d.vercel.app
+ilkevimbasvuru7tlyxx22h42q.vercel.app
 ilkevimbasvuru9806dusl1.vercel.app
 ilkevimbasvuru9wd4sj0bosb.vercel.app
 ilkevimbasvurua2mpzn06t.vercel.app
@@ -217021,6 +217026,7 @@ istanbbullkartbasvr.org
 istanbbullkartiyuklee.net
 istanbdlkart.blogspot.com
 istanbduslburdsk.shop
+istanbduslburdsk.store
 istanbkkls.net
 istanbklfirsat.net
 istanbklum.net
@@ -226326,6 +226332,7 @@ k7wp1r10e.duckdns.org
 k7zek9ofe.duckdns.org
 k81hqa8mv.duckdns.org
 k83byq4c906mohxeizf.duckdns.org
+k85alg067nkk78.store
 k85fwri2ktobotw85vghglw.ddns.net
 k8asdhahsdhashdhashd.site
 k8asdhashdhasdhahsdhasd.site
@@ -238361,6 +238368,7 @@ kobidestekbasvuru.com.tr
 kobikredibasvurusu-hemenkatil.cloud
 kobiler-paraf-halk.com
 kobilerdestekplatformu.cfd
+kobiportal-bvtr.my-homeip.com
 kobopro.top
 kobprastoniskarmonisyakrofbaslanmba.net
 kobranejdet.com
@@ -413994,6 +414002,7 @@ xxbasvurwebonlingovtr.site
 xxbd4ft.duckdns.org
 xxbvruuu.click
 xxbvruuu2.click
+xxbvruuu4.click
 xxc12f.site
 xxcat12f.site
 xxcev53kad.com
