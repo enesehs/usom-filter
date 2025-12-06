@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-06 12:15:46 UTC
-! Total: 342915 rules
+! Last modified: 2025-12-06 13:23:00 UTC
+! Total: 342923 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40941,6 +40941,7 @@
 *://*.basuito.com/*
 *://*.basungaintl.gq/*
 *://*.basursmy.net/*
+*://*.basurunuzatsa.cfd/*
 *://*.basutkredi.com/*
 *://*.basuvur-odemesi.shop/*
 *://*.basuvurislemleriniz.site/*
@@ -82818,6 +82819,7 @@
 *://*.dakatlamazamani.com/*
 *://*.dakbank.net/*
 *://*.daketheblame.pro/*
+*://*.dakikacicek.site/*
 *://*.dakikalaricindeyararlan.shop/*
 *://*.dakikcicek.com/*
 *://*.dakikcicek.net/*
@@ -92736,6 +92738,7 @@
 *://*.dijitalgiris-ziraatweb.com/*
 *://*.dijitalgiris-ziraatweb.sbs/*
 *://*.dijitalgiris-ziraatwebkampanya.sbs/*
+*://*.dijitalgiris-ziraatwebmobil.sbs/*
 *://*.dijitalgirisadresi-denizacik.com/*
 *://*.dijitalgirisgarantionline.com/*
 *://*.dijitalgirisimgaranti.com/*
@@ -121187,6 +121190,7 @@
 *://*.fenniekibi.net/*
 *://*.fenomenbegeni.com/*
 *://*.fenomeno.gq/*
+*://*.fenoraxis.sbs/*
 *://*.fenory.store/*
 *://*.fenoryhq.shop/*
 *://*.fenquara.top/*
@@ -176200,6 +176204,7 @@
 *://*.istanbulluonlineon.com/*
 *://*.istanbullupazarrr.net/*
 *://*.istanbullurolrmsusuna.com/*
+*://*.istanbulluxms.com/*
 *://*.istanbullyklmss.com/*
 *://*.istanbulm-yukleme.online/*
 *://*.istanbulmemis.com/*
@@ -275589,6 +275594,7 @@
 *://*.sorgula-islemini-hemenbasvur.com/*
 *://*.sorgula-kredim.com/*
 *://*.sorgula-kuryenet.online/*
+*://*.sorgula-onayini-al.sbs/*
 *://*.sorgula-pay.com/*
 *://*.sorgula-sistem2021aldat.ml/*
 *://*.sorgula-ve-ogren-sistemden.sbs/*
@@ -291761,6 +291767,7 @@
 *://*.tokigovtrresmi------basvuru-----govtremdmddmdmn.store/*
 *://*.tokigovtrresmi------toki-----basvurular.store/*
 *://*.tokigovtrresmi------toki-----govtremdmddmdmn.store/*
+*://*.tokigulmeznakliyat.space/*
 *://*.tokihaber724.com/*
 *://*.tokihemenbasvur.com/*
 *://*.tokihome.digital/*
@@ -303876,6 +303883,7 @@
 *://*.ugrasdurrrslk.xyz/*
 *://*.ugraslar.name.tr/*
 *://*.ugrasmabasedemezsin.xyz/*
+*://*.ugrastik-ve-basardik.sbs/*
 *://*.ugrsdr.xyz/*
 *://*.ugstaging2.com/*
 *://*.ugsxy.com/*
