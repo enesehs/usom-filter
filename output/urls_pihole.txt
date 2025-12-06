@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-06 08:11:54 UTC
-# Toplam: 429593 Domain
+# Son Güncelleme: 2025-12-06 09:09:18 UTC
+# Toplam: 429602 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -142779,6 +142779,7 @@ entermonopolise.top
 enterobiliary.com
 enterprise999.ddns.net
 enterprisecrisp.top
+enterpriseflowcenter.com
 enterprisefrantic.top
 enterpriseinhibition.top
 enterpriselift.top
@@ -197074,6 +197075,7 @@ hmdhmd.ddns.net
 hmdllkhahs.com
 hmdllkhahssag.com
 hmdllmttlsm.com
+hmdnmfdd.com
 hmdoktay.net
 hmduwp.com
 hme4h4m9.duckdns.org
@@ -275029,6 +275031,7 @@ novakcy.ddns.net
 novakovic.hopto.org
 novaleadsai.com
 novalitoserdns.duckdns.org
+novalynex.com
 novanctar.com
 novaneste.icu
 novanew24.online
@@ -275136,6 +275139,7 @@ noyshare.com
 np-hotelss.com
 np.claydc.top
 np0ny3bt.duckdns.org
+np0per1kj.storage.googleapis.com
 np88vrrxh.duckdns.org
 np9s4l.duckdns.org
 npage.zapto.org
@@ -346123,6 +346127,7 @@ sovereigntyannexation.top
 sovereigntydogma.top
 sovereigntypumpkin.top
 sovetkirov.ddns.net
+sovetrion.com
 soviettm48.hopto.org
 sovotelboutiquehotel-conezionputrajaya-verification.com
 sovremennik-kassa.com
@@ -346237,6 +346242,7 @@ space.lovingallupdates.life
 spaceball.top
 spaceblock.eu
 spacecomdomainscomcocspaces.space
+spacecove.space
 spacecraftbrisk.top
 spacecraftknight.top
 spacecraftshorthand.top
@@ -370303,6 +370309,7 @@ treki.duckdns.org
 trekkside.com
 trekonomibakanligi.com
 treksubsidize.top
+trellayard.com
 trelve47.hopto.org
 tremar.com.tr
 trembala.zapto.org
@@ -388026,6 +388033,7 @@ verdigenix.com
 verdigimiz-emekler-onca-zama-inat.com
 verdik-sizlere-tonla.net
 verdim.site
+verdorix.com
 verdos.click
 verdoxa.sbs
 verdsvt-dsvrt.com
@@ -416825,6 +416833,7 @@ yapimobilkazandiriyor.com
 yapimobilkredinhazir.com
 yapimobill.com
 yapimobill.net.tr
+yapimobill.org.tr
 yapimobiller.xyz
 yapimobilsube-destek.com
 yapimobilsube.shop

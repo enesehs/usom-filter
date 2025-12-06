@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-06 08:11:54 UTC
-! Total: 342900 rules
+! Last modified: 2025-12-06 09:09:18 UTC
+! Total: 342908 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -113443,6 +113443,7 @@
 *://*.enterobiliary.com/*
 *://*.enterprisecar.com.tr/*
 *://*.enterprisecrisp.top/*
+*://*.enterpriseflowcenter.com/*
 *://*.enterprisefrantic.top/*
 *://*.enterpriseinhibition.top/*
 *://*.enterpriselift.top/*
@@ -158869,6 +158870,7 @@
 *://*.hmdllkhahs.com/*
 *://*.hmdllkhahssag.com/*
 *://*.hmdllmttlsm.com/*
+*://*.hmdnmfdd.com/*
 *://*.hmdoktay.net/*
 *://*.hmduwp.com/*
 *://*.hmeeen-kazzn-cklisss.site/*
@@ -221017,6 +221019,7 @@
 *://*.novagoodsplace.shop/*
 *://*.novahorizonrise.com/*
 *://*.novaleadsai.com/*
+*://*.novalynex.com/*
 *://*.novanctar.com/*
 *://*.novand.at/*
 *://*.novaneste.icu/*
@@ -276542,6 +276545,7 @@
 *://*.sovereigntyannexation.top/*
 *://*.sovereigntydogma.top/*
 *://*.sovereigntypumpkin.top/*
+*://*.sovetrion.com/*
 *://*.sovotelboutiquehotel-conezionputrajaya-verification.com/*
 *://*.sovremennik-kassa.com/*
 *://*.sow-anahaber.club/*
@@ -276634,6 +276638,7 @@
 *://*.spaceball.top/*
 *://*.spaceblock.eu/*
 *://*.spacecomdomainscomcocspaces.space/*
+*://*.spacecove.space/*
 *://*.spacecraftbrisk.top/*
 *://*.spacecraftknight.top/*
 *://*.spacecraftshorthand.top/*
@@ -296253,6 +296258,7 @@
 *://*.trekkside.com/*
 *://*.trekonomibakanligi.com/*
 *://*.treksubsidize.top/*
+*://*.trellayard.com/*
 *://*.tremar.com.tr/*
 *://*.trembledilution.top/*
 *://*.tremendousglove.top/*
@@ -310786,6 +310792,7 @@
 *://*.verdigimiz-emekler-onca-zama-inat.com/*
 *://*.verdik-sizlere-tonla.net/*
 *://*.verdim.site/*
+*://*.verdorix.com/*
 *://*.verdos.click/*
 *://*.verdoxa.sbs/*
 *://*.verdsvt-dsvrt.com/*
@@ -332808,6 +332815,7 @@
 *://*.yapimobilkredinhazir.com/*
 *://*.yapimobill.com/*
 *://*.yapimobill.net.tr/*
+*://*.yapimobill.org.tr/*
 *://*.yapimobiller.xyz/*
 *://*.yapimobilsube-destek.com/*
 *://*.yapimobilsube.shop/*
