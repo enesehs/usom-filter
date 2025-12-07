@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-07 14:08:04 UTC
-# Toplam: 429742 Domain
+# Son Güncelleme: 2025-12-07 15:07:39 UTC
+# Toplam: 429747 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1263,6 +1263,7 @@
 0nlinesmsubesizislemlerims.net
 0nlinesorgulamaiadat.online
 0nlline-dcu3scur.duckdns.org
+0nllinemiisllemmtrapp.online
 0nlllinebasvurul1arimfakifsube.net
 0nlllllineingm0bil.net
 0nlp0rtaaldn.duckdns.org
@@ -40606,6 +40607,7 @@ aldinaldinsonfirsat.site
 aldinaldinsonfisatlar.shop
 aldinaldinsonguun.com
 aldinaldinsonsaat.online
+aldinaldinss.blogspot.com
 aldinaldinstenley.site
 aldinaldinstok100.com
 aldinaldintakvimi.online
@@ -194938,6 +194940,7 @@ hizlica-kapinizda.pthzmtlrmm.info
 hizlica-mutluluk.com
 hizlica-oto-kirala.com
 hizlica-satinal.com
+hizlica-satinalim.com
 hizlica-sepette-ocak.shop
 hizlica-siparisler.com.tr
 hizlica-sizlerle.com
@@ -229857,6 +229860,7 @@ kampnya-indirim-gunleri.com
 kampnya-zamanim.net
 kampnya101firstlarinda.com
 kampnyaaaaabasvruukatilim.cloud
+kampnyaabasvrrrprmsyyn.info
 kampnyaabasvrrrprmsyyn.pro
 kampnyaakdayaz.net.tr
 kampnyabasvrm2.click
@@ -324972,6 +324976,7 @@ sahibinden.hizli-islemler.com.tr
 sahibinden.hizli-odemen.online
 sahibinden.hizli-tedarik.com.tr
 sahibinden.hizli-ticaret.com
+sahibinden.hizlica-satinalim.com
 sahibinden.hizlii-odemem.online
 sahibinden.hizlisepet.org.tr
 sahibinden.hizlisiparis.site
