@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-07 02:52:57 UTC
-# Toplam: 429686 Domain
+# Son Güncelleme: 2025-12-07 03:53:03 UTC
+# Toplam: 429688 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -306054,6 +306054,7 @@ pttavmarketleri.com
 pttavmbakiyeodeme.ml
 pttavmbakiyeyukleme.com
 pttavmbasdvd.click
+pttavmbireysaticim.com
 pttavmbireysaticin.com
 pttavmbireyselpos.wixsite.com
 pttavmcebimde.com
@@ -350797,6 +350798,7 @@ sube-garantibankasi.cf
 sube-garantibankasi.ph
 sube-garantibankasitr.com
 sube-garantibbca.com
+sube-garantibbua.online
 sube-garantibbva-basvur.buzz
 sube-garantibbva-basvuru.click
 sube-garantibbva-basvuru.site
