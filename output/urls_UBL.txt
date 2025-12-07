@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-07 13:23:13 UTC
-! Total: 342991 rules
+! Last modified: 2025-12-07 14:08:04 UTC
+! Total: 342996 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -63084,6 +63084,7 @@
 *://*.brrjimmceell.com/*
 *://*.brrncntccrgirs.com/*
 *://*.brrsadasfawrty.cfd/*
+*://*.brsagunclcfrskmp.cfd/*
 *://*.brsakartyklemenyt.net/*
 *://*.brsakenayss-aca.cfd/*
 *://*.brsakrtnexts.net/*
@@ -80485,6 +80486,7 @@
 *://*.crfsnznsunduguteklflr.com/*
 *://*.crfsnztmmz.com/*
 *://*.crfsnzz.com/*
+*://*.crfsonlingnc.cfd/*
 *://*.crfsonlnfrsaa.cfd/*
 *://*.crfsrdnhlkageldkk.shop/*
 *://*.crfssadlnk.cfd/*
@@ -140455,6 +140457,7 @@
 *://*.gunceodeme.tk/*
 *://*.gunckerolu.xyz/*
 *://*.gunclbasvurulkarimizdanbiz.space/*
+*://*.gunclcfrskmp.cfd/*
 *://*.gunclerzwebinverg.net/*
 *://*.gunclfixrsatlar.click/*
 *://*.gunclislmlr.app/*
@@ -151522,6 +151525,7 @@
 *://*.hemeniadeniz-geldi.com/*
 *://*.hemeniislemonlinr.online/*
 *://*.hemenileti.de/*
+*://*.hemenindirimegel.me/*
 *://*.hemenindirimler.me/*
 *://*.hemenisanleosamtad.net/*
 *://*.hemeniscanflesk.com/*
@@ -291589,6 +291593,7 @@
 *://*.toki.site/*
 *://*.toki.you/*
 *://*.toki130konutbasvuru.sbs/*
+*://*.toki2025.com/*
 *://*.toki2025basvuru.com/*
 *://*.toki2025basvuru.org/*
 *://*.toki2025basvurulari-basladi.sbs/*
