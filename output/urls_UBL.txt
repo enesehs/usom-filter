@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-07 18:12:30 UTC
-! Total: 343008 rules
+! Last modified: 2025-12-07 19:02:36 UTC
+! Total: 343012 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5841,6 +5841,7 @@
 *://*.2025tenhaberler.com/*
 *://*.2025tjknbsvr.sbs/*
 *://*.2025tkiobnsrv.com.tr/*
+*://*.2025toki.click/*
 *://*.2025toki.com/*
 *://*.2025tokibasvuru.com/*
 *://*.2025tokibasvurum.com/*
@@ -218600,6 +218601,7 @@
 *://*.netgiriskayitlarigovtr.com/*
 *://*.netgovailevesaglikbakanligigovtr.tk/*
 *://*.netgovtrresmitoki.cfd/*
+*://*.netgovtrresmitoki.sbs/*
 *://*.netgsm-bilgi-guncelleme.com/*
 *://*.netgsm.app/*
 *://*.netgundem.online/*
@@ -277580,6 +277582,7 @@
 *://*.sponsorlu.icu/*
 *://*.sponsorlu.net/*
 *://*.sponsorlu.online/*
+*://*.sponsorlu.page/*
 *://*.sponsorlu.web.tr/*
 *://*.sponsorlu26.xyz/*
 *://*.sponsorlu4367e86p27i14k432.com/*
@@ -338755,6 +338758,7 @@
 *://*.yungbucksbbq.com/*
 *://*.yungie.net/*
 *://*.yungouzo.cfd/*
+*://*.yunnddhsrregfdshlvsbsw.cfd/*
 *://*.yunqhi.com/*
 *://*.yunusbabanburulas.icu/*
 *://*.yunusbaligi-haber.com/*
