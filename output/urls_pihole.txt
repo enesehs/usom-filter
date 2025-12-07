@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-07 16:09:41 UTC
-# Toplam: 429748 Domain
+# Son Güncelleme: 2025-12-07 17:07:30 UTC
+# Toplam: 429756 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -83463,6 +83463,7 @@ bsvurunburada.site
 bsvurundevamet.site
 bsvurutokldvlt.com
 bsvurutrduyurular.online
+bsvuruukonutlaritoki.info
 bsvuruukonutlaritoki.pro
 bsvuruyon5.click
 bsvuruyptm.digital
@@ -130892,6 +130893,7 @@ e-toki.com
 e-tokibasladi.digital
 e-tokibasvuru.com
 e-tokibasvurulari.digital
+e-tokiileyasama.digital
 e-tokiyebasvurr.digital
 e-tr-6yil-firsat.site
 e-tr-aidat-iadesi-gov-tr.com
@@ -138925,6 +138927,7 @@ ekrandan-sorgulamani-yap-eylul-ayi.cyou
 ekrandan-sorgulayin-ve-onaylayin.sbs
 ekrandan-sorgulayiniz-bir-cok-islem.sbs
 ekrandan-sorgulayip-aktariniz-aktif.sbs
+ekrandan-tutarinizi-ogrenin-aktarin.sbs
 ekrandanalonaylarisimdi.duckdns.org
 ekrandanonline-olaraksor-bilgial.cyou
 ekrandanonlineolarak-sorgulamaniyap.cyou
@@ -175835,6 +175838,7 @@ gunceltrsikayetler-27.sbs
 gunceltrsikayetler-28.sbs
 gunceltrsikayetler-29.sbs
 gunceltrsikayetler-3.sbs
+gunceltrsikayetler-319.sbs
 gunceltrsikayetler-351.sbs
 gunceltrsikayetler-352.sbs
 gunceltrsikayetler-353.sbs
@@ -239537,6 +239541,7 @@ kosomak.ddns.net
 kostunivo.com
 kosubandi.store
 kosubandiiiiii.online
+kosubandisiparisiniza-101verhemen.shorted.sbs
 kosubandisizin.space
 kosubandisporzamani.shop
 kosubandiurunu.store
@@ -288711,6 +288716,7 @@ oyumakpye234.site
 oyumanadaeds.net
 oyun.420community.tech
 oyunbaimlisi35.com
+oyuncukoltugua-101siparissitesi.shorted.sbs
 oyuncutombalikmasali.xyz
 oyundemirler.online
 oyunduragi.net.tr
@@ -328139,6 +328145,7 @@ sarigunlerinkesfi.xyz
 sarihayatveduygular.xyz
 sarikizlarimmm.sa.com
 sarilarabiteriiiz.shop
+sarilarabiteriz.click
 sarilartarim.com
 sarilermese.duckdns.org
 sarimercedes.vercel.app
@@ -387736,6 +387743,7 @@ veb.yeniyilozzeellindrmirlerr.click
 veb7hs51p.duckdns.org
 vebatteries.com
 vebavirus.cfd
+vebosta-a101alisverissiparis.shorted.sbs
 vebsmzmks.click
 vebsnl.shop
 vec6cqww.duckdns.org
