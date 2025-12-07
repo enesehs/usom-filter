@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-07 10:08:38 UTC
-! Total: 342975 rules
+! Last modified: 2025-12-07 11:01:41 UTC
+! Total: 342979 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41105,6 +41105,7 @@
 *://*.basvrutrbnnrce.online/*
 *://*.basvrutrcbrncr.com/*
 *://*.basvrutrrbntbn.online/*
+*://*.basvruuukampanyaprmsyn.info/*
 *://*.basvruuukampanyaprmsyn.pro/*
 *://*.basvruwu3534654756856odulunucehrk.com.tr/*
 *://*.basvruysuadhizmet.store/*
@@ -151526,6 +151527,7 @@
 *://*.hemenislem.net/*
 *://*.hemenisleminiz.net/*
 *://*.hemenislemkalsnouta.online/*
+*://*.hemenislemkmesonuc.net/*
 *://*.hemenislemksnosnucv.net/*
 *://*.hemenislemktalbs.net/*
 *://*.hemenislemm.net/*
@@ -158547,6 +158549,7 @@
 *://*.hizmtlerresmi.site/*
 *://*.hizmtmrkzgl.online/*
 *://*.hizmtportaluygula.xyz/*
+*://*.hizmtrtki4.click/*
 *://*.hizpapara.com/*
 *://*.hizpayfix.com/*
 *://*.hizsigorta.click/*
@@ -287934,6 +287937,7 @@
 *://*.temaklar.com/*
 *://*.temaplaydestekbasvuru.com/*
 *://*.temarketim.com/*
+*://*.temaro.sbs/*
 *://*.temasra.net/*
 *://*.temassiz.org/*
 *://*.temelbilgi.name.tr/*

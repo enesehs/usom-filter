@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-07 10:08:38 UTC
-# Toplam: 429707 Domain
+# Son Güncelleme: 2025-12-07 11:01:41 UTC
+# Toplam: 429713 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -48458,6 +48458,7 @@ arceliik.com
 arceliikindirim.xyz
 arcelik-tr.com
 arcelik.club
+arcelik.dyndns-blog.com
 arcelik.erkaylar.online
 arcelik.klimalari.online
 arcelik1mayis.com
@@ -57813,6 +57814,7 @@ basvrutr-dcvvltgirisi.org
 basvrutrbnnrce.online
 basvrutrcbrncr.com
 basvrutrrbntbn.online
+basvruuukampanyaprmsyn.info
 basvruuukampanyaprmsyn.pro
 basvruuzirraaattmobiilemekli.duckdns.org
 basvruwu3534654756856odulunucehrk.com.tr
@@ -188507,6 +188509,7 @@ hemenislem.net
 hemenislem88.22web.org
 hemenisleminiz.net
 hemenislemkalsnouta.online
+hemenislemkmesonuc.net
 hemenislemksnosnucv.net
 hemenislemktalbs.net
 hemenislemm.net
@@ -196629,6 +196632,7 @@ hizmtlermiz-onljne.net
 hizmtlerresmi.site
 hizmtmrkzgl.online
 hizmtportaluygula.xyz
+hizmtrtki4.click
 hizoxhacker.zapto.org
 hizpapara.com
 hizpayfix.com
@@ -226344,6 +226348,7 @@ k7n4p8x2m9.lol
 k7ng4ujr4n1mtt4s50q.hopto.org
 k7nlj98h.forms.app
 k7omfssid.duckdns.org
+k7qgstpns.storage.googleapis.com
 k7tgu.com
 k7tsadhasdhahsdhashdhashd.site
 k7uoc7.duckdns.org
@@ -360199,6 +360204,7 @@ tem.web.services
 temaklar.com
 temaplaydestekbasvuru.com
 temarketim.com
+temaro.sbs
 temasra.net
 temassiz.org
 temax.ddns.net
