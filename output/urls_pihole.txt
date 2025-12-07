@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-07 21:07:21 UTC
-# Toplam: 429772 Domain
+# Son Güncelleme: 2025-12-07 22:08:20 UTC
+# Toplam: 429793 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38275,6 +38275,7 @@ aktar-onlineislemleriniz.online
 aktar-onlinesorgu.cyou
 aktar-sorgulama-ekrani.cyou
 aktar-sorgulama-sistem.cyou
+aktaranlar.my-homeip.com
 aktarbeni.my-homeip.com
 aktardinmi.duckdns.org
 aktarhemen.online
@@ -48188,6 +48189,7 @@ aralikin20indirmi.com.tr
 aralikin20indirmi.online
 aralikin20indirmim.xyz
 aralikindirimleri.online
+aralikindirimlericepte.me
 aralikindrmfrstlar.com.tr
 aralikkampanyalari-basladi.shop
 aralikkampanyalari-yine-basladi.shop
@@ -56029,6 +56031,7 @@ baglantikatilgrt.site
 baglantilanma.com
 baglantilar-ailegenc.com
 baglantilar-ailegenc.org
+baglantilariniz.com
 baglantisi-ailegenc.com
 baglantisi-ailegenc.org
 baglantisiailegenc.com
@@ -57814,6 +57817,7 @@ basvrunoktasi-hizlikayittol.com
 basvrunoktasii-hemenkayitol.com
 basvrunuz-dvettgirsleri.com
 basvruonayi.pro
+basvrurrprsmynnkmonyaaa.info
 basvrusasnaaid.com
 basvrusorgulama-acikdenz.com
 basvrutcrnrnbnnrc.com
@@ -90111,6 +90115,7 @@ carrefour-market.online
 carrefour-saa-com.duckdns.org
 carrefourdan.online
 carrefoureban.ddns.net
+carrefouresawetr.space
 carrefourlugnler.shop
 carrefourmarketleriekim.cfd
 carrefourmarketleriekimayi.cfd
@@ -126023,6 +126028,7 @@ e-bddkhaziran.com
 e-bddkiade.com
 e-bdk-onlineislemiadebildirim.com
 e-bdode.net
+e-bebek.is-a-guru.com
 e-bebek.online
 e-bebek.xyz
 e-beldeportal.com
@@ -138409,6 +138415,7 @@ ekgsigorta.com
 ekguvenlik-yapikredi.com
 ekhaber.club
 ekhesap-tr.net
+ekhizmetlerburosu.sbs
 ekhizmetnoktasi1.xyz
 ekhome.site
 ekhu.aefrant.com
@@ -207209,6 +207216,7 @@ ilkevimbasvuru.click
 ilkevimbasvuru.com
 ilkevimbasvuru.online
 ilkevimbasvuru.org
+ilkevimbasvuru1pkkfh562fs.vercel.app
 ilkevimbasvuru2tm7fezb9r8g.vercel.app
 ilkevimbasvuru537h2kp7.vercel.app
 ilkevimbasvuru5g6oe5zpesp.vercel.app
@@ -215328,6 +215336,7 @@ isbfinanceonline.com
 isbigfish.xyz
 isbilgiaktarimiservisi.com
 isbilgidogrulama.com
+isbilgitakip.my-homeip.com
 isbintl.com
 isbireybasvurum.com
 isbireyselcekilis.com
@@ -216807,6 +216816,7 @@ isprkonlodmess.blogspot.com
 ispromispromispromosyon.shop
 ispshdfwx.info
 ispywithmylittleeye.ddns.net
+isq8cnqv2p.storage.googleapis.com
 isqkvs9ht.duckdns.org
 isqlhezuth.duckdns.org
 isqpeydiqi.io
@@ -262773,12 +262783,14 @@ mobilsepet.online
 mobilsepetim-tr.online
 mobilservisi-2.com
 mobilservisi.com
+mobilservisim.com
 mobilservisin.com
 mobilservisler.com
 mobilservisler.online
 mobilservisler.xyz
 mobilservisleri.online
 mobilservislerim.com
+mobilservisleriniz.com
 mobilservisyukle.com
 mobilsiadeplatformalgiris-oneminute.cloud
 mobilsifrebaz.com
@@ -305904,6 +305916,7 @@ pttavm.alisveriyap-online.com
 pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
 pttavm.ayinfirsati.com.tr
+pttavm.baglantilariniz.com
 pttavm.bireyselalsat.com.tr
 pttavm.bireyselfirma.com.tr
 pttavm.bireyselfirsatlar.com.tr
@@ -306066,6 +306079,7 @@ pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
 pttavm.sepetim-onayli-207426.com
 pttavm.sepetim-onayli-227426.com
+pttavm.sepetim-onayli-24526.com
 pttavm.sepetimguvenli.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
@@ -323430,7 +323444,9 @@ sahibinden-get.ml
 sahibinden-get.mobil-hizmetiniz.com
 sahibinden-get.mobil-islemler-hizmet.online
 sahibinden-get.mobil-jet-hizmet.online
+sahibinden-get.mobilservisim.com
 sahibinden-get.mobilservisin.com
+sahibinden-get.mobilservisleriniz.com
 sahibinden-get.net
 sahibinden-get.odeme-ilanlarim.sa.com
 sahibinden-get.online-odemeler.sa.com
@@ -324083,6 +324099,7 @@ sahibinden-param-guvende.shop
 sahibinden-param-guvende.store
 sahibinden-param-guvende.tk
 sahibinden-param-guvende.tr-alisveris-odeme.online
+sahibinden-param-guvende.tr-odeme-hizmet.online
 sahibinden-param-guvende.tr-odeme-servis.online
 sahibinden-param-guvende.tr-online-odemelerim.sa.com
 sahibinden-param-guvende.v-tr.sa.com
@@ -326925,6 +326942,7 @@ sahinbiden.com
 sahinbinden-alisverisin-expresstr.shop
 sahinblisim.com
 sahinblisim.org
+sahinden-get.mobilservisleriniz.com
 sahinden-ilanim.com
 sahinden-online.com
 sahinden-param-alisveris.site
@@ -327949,6 +327967,7 @@ sanitarysaturate.top
 sanitationaggravation.top
 sanitationblaze.top
 sanitationliner.top
+sanits.click
 saniye.me
 saniyelericindealin.cfd
 sankalpana-kurulu.blogspot.com
@@ -367702,6 +367721,7 @@ tr-odeme-472210.com
 tr-odeme-472211.com
 tr-odeme-472213.com
 tr-odeme-bilgi.online
+tr-odeme-hizmet.online
 tr-odeme-ilan.com
 tr-odeme-ilanlar.com
 tr-odeme-online.sa.com
@@ -425728,6 +425748,7 @@ zeliha3d.xyz
 zelkrgvrqs.duckdns.org
 zelsio.net
 zelvianix.site
+zelvixi.sbs
 zelvorrry.com
 zelzereytren.com
 zem91max.duckdns.org
