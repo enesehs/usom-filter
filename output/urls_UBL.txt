@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-07 23:08:09 UTC
-! Total: 343031 rules
+! Last modified: 2025-12-08 00:45:14 UTC
+! Total: 343034 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11106,6 +11106,7 @@
 *://*.71784515120.com/*
 *://*.718462184665.com.tr/*
 *://*.718462184665.xyz/*
+*://*.7184678864.info/*
 *://*.719123791793129321917.cloud/*
 *://*.71925-coinbase.com/*
 *://*.71kamahistreet.com/*
@@ -43838,6 +43839,7 @@
 *://*.baykarc.eu/*
 *://*.baykarcapitalgroup.space/*
 *://*.baykarcloud.com/*
+*://*.baykardevlet-programi.com/*
 *://*.baykardevletprogrami.net/*
 *://*.baykardrone.com/*
 *://*.baykaress.icu/*
@@ -181003,6 +181005,7 @@
 *://*.janeairintroduction.com/*
 *://*.janechu.com/*
 *://*.janeness.com/*
+*://*.janero.sbs/*
 *://*.jangasm.org/*
 *://*.jango-data.com/*
 *://*.jango-seo.com/*
