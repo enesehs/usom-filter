@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-08 14:10:26 UTC
-# Toplam: 429933 Domain
+# Son Güncelleme: 2025-12-08 15:10:51 UTC
+# Toplam: 429947 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -109442,6 +109442,7 @@ degisen-kimse-yok-bak-gizli-gor.com
 degisen-yok-hala-ayni-hisler-devam-ediyor.com
 degisenler-biraz-farkeder-sende-gul-diye.com
 degisik-hislere-yonelen-hep-kazancli-olur.com
+degisikligi.com
 degisim-kredi.com
 degisime-onay-verenler-bir-kere-daha-kazanir.com
 degisimebasla.name.tr
@@ -147609,6 +147610,7 @@ evklrkdbsvr.net
 evklrmiredial.net
 evknrkj.net
 evkolay.click
+evkonutbasvuru.cfd
 evkonutsahibiol.bounceme.net
 evkrbsvrlr.net
 evkrdbskr.net
@@ -237840,6 +237842,7 @@ kmpanyurn.duckdns.org
 kmpanyya1o1frsat.com
 kmpbgns422.shop
 kmpbthgsbska.shop
+kmpcfrsksa.cfd
 kmpct.top
 kmpdst.club
 kmpfrstm2024.online
@@ -237933,6 +237936,7 @@ kmrgyl.xyz
 kmrjj.com
 kmrlsnamn.shop
 kmrmasdanfirsaktkiwi24sports.shop
+kmrsoglzg.com
 kms-win11-update.net
 kmsa1gncl.com
 kmsaaero.com
@@ -249267,6 +249271,7 @@ luckexitfloor.com
 luckey.hopto.org
 luckgraze.top
 luckhacking201zv.hopto.org
+lucki.online
 luckies.cc
 luckipath.shop
 luckkystar.shop
@@ -256978,6 +256983,7 @@ melosentoduro.ddns.net
 melosiar.com
 melotchi.ru
 melovingsangria.online
+melqor.sbs
 melshox.com
 melsmels.zapto.org
 melstons.com
@@ -316290,6 +316296,7 @@ reklambizimisimiz.site
 reklamburda.co
 reklamci.space
 reklamcilerdm.cf
+reklamclick.shop
 reklamcll.store
 reklamda-urunx.com.tr
 reklamdayim.xyz
@@ -322618,6 +322625,7 @@ sadesconsfisfrsatlartr.blogdns.com
 sadesconsfisrsatlartr.blogdns.com
 sadesconsfisrsatlre.blogdns.com
 sadescosnfirsatlartrv.blogdns.com
+sadescosnfirsdraftartr.blogdns.com
 sadescsonlirfisrtalarttrvtrt.blogspot.com
 sadescsonlirfisrtalarttrvtrtcctrt.blogspot.com
 sadevert.today
@@ -365309,6 +365317,8 @@ tokikolaybasvurulari.vercel.app
 tokikolaybasvuruyap.vercel.app
 tokikonj1pznfr77.vercel.app
 tokikonusbasvurusu.xyz
+tokikonut-basvurukayit.vercel.app
+tokikonut-basvurukayitlari.vercel.app
 tokikonut-basvurularin.vercel.app
 tokikonut.io
 tokikonut.net
@@ -366080,6 +366090,7 @@ toplukonutbasvurulgxgeiqu.vercel.app
 toplukonutbasvurum.cloud
 toplukonutbasvurumpssrp.vercel.app
 toplukonutbasvurumqyacsji.vercel.app
+toplukonutbasvurumv3kviifns.vercel.app
 toplukonutbasvurun7mmswwk.vercel.app
 toplukonutbasvuruoyizyt.vercel.app
 toplukonutbasvurupjwhpm.vercel.app
@@ -414247,6 +414258,7 @@ xxbd4ft.duckdns.org
 xxbvruuu.click
 xxbvruuu2.click
 xxbvruuu4.click
+xxbvruuu6.click
 xxc12f.site
 xxcat12f.site
 xxcev53kad.com
@@ -419320,6 +419332,7 @@ yenicelersubesinde.online
 yenicigecisim.sg-host.com
 yenicksacbisweasd.net
 yenicozumlerimiz.com
+yenicrfsonlingnc.cfd
 yenidairem.blogspot.com
 yeniddenaktif.net
 yeniden-aktarimlar-baslamistir.online
@@ -421898,6 +421911,7 @@ yilsonukampanyasini.com.tr
 yilsonukampanyasini.xyz
 yilsonukampanyasinial.online
 yilsonukampanyasinial.xyz
+yilsonukmpnyalari1o1.xyz
 yilsonumobilpromosyon.com
 yilsonuna-ozel-firsat-puan-kampanyasi-tr.xyz
 yilsonuna-ozel-firsat-puan-kampanyasi.icu

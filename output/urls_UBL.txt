@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-08 14:10:26 UTC
-! Total: 343140 rules
+! Last modified: 2025-12-08 15:10:51 UTC
+! Total: 343150 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -84305,6 +84305,7 @@
 *://*.degisen-yok-hala-ayni-hisler-devam-ediyor.com/*
 *://*.degisenler-biraz-farkeder-sende-gul-diye.com/*
 *://*.degisik-hislere-yonelen-hep-kazancli-olur.com/*
+*://*.degisikligi.com/*
 *://*.degisim-kredi.com/*
 *://*.degisime-onay-verenler-bir-kere-daha-kazanir.com/*
 *://*.degisimebasla.name.tr/*
@@ -117533,6 +117534,7 @@
 *://*.evklrmiredial.net/*
 *://*.evknrkj.net/*
 *://*.evkolay.click/*
+*://*.evkonutbasvuru.cfd/*
 *://*.evkrbsvrlr.net/*
 *://*.evkrdbskr.net/*
 *://*.evkrdbsvr.net/*
@@ -192759,6 +192761,7 @@
 *://*.kmpanyya1o1frsat.com/*
 *://*.kmpbgns422.shop/*
 *://*.kmpbthgsbska.shop/*
+*://*.kmpcfrsksa.cfd/*
 *://*.kmpct.top/*
 *://*.kmpdst.club/*
 *://*.kmpfrstm2024.online/*
@@ -192844,6 +192847,7 @@
 *://*.kmrjj.com/*
 *://*.kmrlsnamn.shop/*
 *://*.kmrmasdanfirsaktkiwi24sports.shop/*
+*://*.kmrsoglzg.com/*
 *://*.kms-win11-update.net/*
 *://*.kmsa1gncl.com/*
 *://*.kmsaaero.com/*
@@ -201364,6 +201368,7 @@
 *://*.lucitikbimcell.com/*
 *://*.luckexitfloor.com/*
 *://*.luckgraze.top/*
+*://*.lucki.online/*
 *://*.luckies.cc/*
 *://*.luckipath.shop/*
 *://*.luckkystar.shop/*
@@ -207162,6 +207167,7 @@
 *://*.melosiar.com/*
 *://*.melotchi.ru/*
 *://*.melovingsangria.online/*
+*://*.melqor.sbs/*
 *://*.melshox.com/*
 *://*.melstons.com/*
 *://*.meltaggravate.top/*
@@ -254083,6 +254089,7 @@
 *://*.reklamburda.co/*
 *://*.reklamci.space/*
 *://*.reklamcilerdm.cf/*
+*://*.reklamclick.shop/*
 *://*.reklamcll.store/*
 *://*.reklamda-urunx.com.tr/*
 *://*.reklamdayim.xyz/*
@@ -330687,6 +330694,7 @@
 *://*.xxbvruuu.click/*
 *://*.xxbvruuu2.click/*
 *://*.xxbvruuu4.click/*
+*://*.xxbvruuu6.click/*
 *://*.xxc12f.site/*
 *://*.xxcat12f.site/*
 *://*.xxcev53kad.com/*
@@ -334893,6 +334901,7 @@
 *://*.yenicelersubesinde.online/*
 *://*.yenicksacbisweasd.net/*
 *://*.yenicozumlerimiz.com/*
+*://*.yenicrfsonlingnc.cfd/*
 *://*.yeniddenaktif.net/*
 *://*.yeniden-aktarimlar-baslamistir.online/*
 *://*.yeniden-ayaga-kalkiyoruz-halkimizla.online/*
@@ -337199,6 +337208,7 @@
 *://*.yilsonukampanyasini.xyz/*
 *://*.yilsonukampanyasinial.online/*
 *://*.yilsonukampanyasinial.xyz/*
+*://*.yilsonukmpnyalari1o1.xyz/*
 *://*.yilsonumobilpromosyon.com/*
 *://*.yilsonuna-ozel-firsat-puan-kampanyasi-tr.xyz/*
 *://*.yilsonuna-ozel-firsat-puan-kampanyasi.icu/*
