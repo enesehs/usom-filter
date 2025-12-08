@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-08 07:14:46 UTC
-! Total: 343051 rules
+! Last modified: 2025-12-08 10:11:59 UTC
+! Total: 343110 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27817,6 +27817,7 @@
 *://*.algel.click/*
 *://*.algelalburdanal.com.tr/*
 *://*.algew.me/*
+*://*.algiday.online/*
 *://*.algihad.com/*
 *://*.algikredi.com.tr/*
 *://*.algitfirrsatlardakal.cfd/*
@@ -33380,6 +33381,7 @@
 *://*.aracxmuayenezxsistemlersx.net/*
 *://*.aracxmuyaxestuxturk.net/*
 *://*.aracxtuxturkxmuyane.net/*
+*://*.aracyardim.click/*
 *://*.aracyerisize.com/*
 *://*.aracyikamamakinemm.store/*
 *://*.aracyikmasurunu.store/*
@@ -35149,6 +35151,7 @@
 *://*.asiapartnars.online/*
 *://*.asiaresearchcenter.org/*
 *://*.asiaresortguide.com/*
+*://*.asiaroots.com/*
 *://*.asiasoftnet.com/*
 *://*.asiasyncdb.com/*
 *://*.asiatrans.cf/*
@@ -35610,6 +35613,7 @@
 *://*.astonishyawn.top/*
 *://*.astore.vn/*
 *://*.astorenersa.net/*
+*://*.astoryatirim.com.tr/*
 *://*.astr0bytexppxq7.click/*
 *://*.astra.com.tr/*
 *://*.astrachat.us/*
@@ -43109,6 +43113,7 @@
 *://*.basvurunyapi-kredi.com/*
 *://*.basvurunyapikredi.com/*
 *://*.basvurunyeni.com/*
+*://*.basvurunzamani-com.cfd/*
 *://*.basvuruodemesi.com/*
 *://*.basvuruon1inece1elllemden.net/*
 *://*.basvuruonay-odemeal.com/*
@@ -45753,6 +45758,7 @@
 *://*.belezasemtamanho.com/*
 *://*.belfortsecurity.com/*
 *://*.belgardsas.com/*
+*://*.belgarrzens.com/*
 *://*.belgeaidatiadeleriniz.com/*
 *://*.belgealim.net/*
 *://*.belgearsiviadeler.com/*
@@ -61932,6 +61938,7 @@
 *://*.borsaexpert.online/*
 *://*.borsaguide.online/*
 *://*.borsagundem.world/*
+*://*.borsahaber.online/*
 *://*.borsahaber.world/*
 *://*.borsahaberler.online/*
 *://*.borsahaberleri.world/*
@@ -62720,6 +62727,7 @@
 *://*.brfour.com/*
 *://*.brfprimepoultryexporters.com/*
 *://*.brfqnwly.com/*
+*://*.brghtpixel.site/*
 *://*.brh-knua-edhn-1000tl.com/*
 *://*.brhdafrsatlaradogru.sbs/*
 *://*.brhjtgyas.com/*
@@ -65977,6 +65985,7 @@
 *://*.businessocto.com.tr/*
 *://*.businesspdf.com/*
 *://*.businessportalmediaservice.com/*
+*://*.businessprimebase.com/*
 *://*.businesssalander-retail-uk.tk/*
 *://*.businessscards.com/*
 *://*.businessservicesinc.net/*
@@ -70735,6 +70744,7 @@
 *://*.celerosnetworks.com/*
 *://*.celery16.xyz/*
 *://*.celerysilly.top/*
+*://*.celesandretreat.com/*
 *://*.celestialgocolopulse.xyz/*
 *://*.celestialloom.online/*
 *://*.celestialpath.online/*
@@ -73346,6 +73356,7 @@
 *://*.ciceksaati.net/*
 *://*.ciceksaati.online/*
 *://*.ciceksaati.shop/*
+*://*.ciceksaati.site/*
 *://*.ciceksaati.vip/*
 *://*.ciceksaatim.com/*
 *://*.ciceksaatim.net/*
@@ -74764,6 +74775,7 @@
 *://*.clonthis2.xyz/*
 *://*.clonthis3.xyz/*
 *://*.cloors-exramen.com/*
+*://*.clooudarity.com/*
 *://*.clopser.com/*
 *://*.clork.ru/*
 *://*.clorre.store/*
@@ -78936,6 +78948,7 @@
 *://*.consultedigital.com/*
 *://*.consultee-network.com/*
 *://*.consultendeavor.top/*
+*://*.consulting-lider.com/*
 *://*.consultingfranquean.com/*
 *://*.consultoriacrm.com.br/*
 *://*.consultoriaeadvocaciaeassociados.site/*
@@ -79544,6 +79557,7 @@
 *://*.corporategiftbranding.co.za/*
 *://*.corporatelover.top/*
 *://*.corporatesinvitation.com/*
+*://*.corporatevisionlabs.com/*
 *://*.corporation-dynamics.com/*
 *://*.corporationdisperse.top/*
 *://*.corporationtactful.top/*
@@ -83456,6 +83470,7 @@
 *://*.daxvly.xyz/*
 *://*.day-info.pro/*
 *://*.day-place-river.com/*
+*://*.day-tr.com/*
 *://*.day020.com/*
 *://*.day040.com/*
 *://*.day103.com/*
@@ -92605,6 +92620,7 @@
 *://*.dijitalbankacilik-yapikredi.com/*
 *://*.dijitalbankamdeniz.net/*
 *://*.dijitalbankyenigirisyapi-kredi.com/*
+*://*.dijitalbasvur.click/*
 *://*.dijitalbasvurm.online/*
 *://*.dijitalbasvurm.site/*
 *://*.dijitalbasvuru-forumudeniztaha.tk/*
@@ -97265,6 +97281,7 @@
 *://*.durustluk-hep-tercihdir-size.com/*
 *://*.durusumguzel.com.tr/*
 *://*.durutek.org/*
+*://*.durvenil.com/*
 *://*.duryavashakan.online/*
 *://*.durylruth.net/*
 *://*.dusa1o1.net/*
@@ -109869,6 +109886,7 @@
 *://*.ekonomiaktuel.online/*
 *://*.ekonomianaliz.online/*
 *://*.ekonomianaliz.org/*
+*://*.ekonomidenizi.online/*
 *://*.ekonomidestekhibesi.com/*
 *://*.ekonomidunyasi.best/*
 *://*.ekonomidunyasi.online/*
@@ -109958,6 +109976,7 @@
 *://*.ekontrolonlinegiris.com.tr/*
 *://*.ekontrolonlinegiris.online/*
 *://*.ekonut-basvuru.com/*
+*://*.ekonutbasvurrs.space/*
 *://*.ekop.shop/*
 *://*.ekopaket-20gb-turkcell.com/*
 *://*.ekopaket-turkcell.com/*
@@ -113492,6 +113511,7 @@
 *://*.entermonopolise.top/*
 *://*.enterobiliary.com/*
 *://*.enterprisecar.com.tr/*
+*://*.enterprisecorehub.com/*
 *://*.enterprisecrisp.top/*
 *://*.enterpriseflowcenter.com/*
 *://*.enterprisefrantic.top/*
@@ -121308,6 +121328,7 @@
 *://*.ferlk.store/*
 *://*.ferlofepsarhup1.website/*
 *://*.ferlokia.store/*
+*://*.ferlsdkkckdkerlsd.click/*
 *://*.ferma.co.in/*
 *://*.fermandov.com/*
 *://*.fermanteli.site/*
@@ -122298,6 +122319,7 @@
 *://*.finans-doktrin.online/*
 *://*.finans-enpara.com/*
 *://*.finans-firsat-kampanyalari.com/*
+*://*.finans-gundemi.net/*
 *://*.finans-gunlerim-cepte.com/*
 *://*.finans-hizli-basvuru.cloud/*
 *://*.finans-iadebasvuru.com/*
@@ -122654,6 +122676,7 @@
 *://*.finansmobilsubem.ml/*
 *://*.finansmobilyukle.com/*
 *://*.finansnakitiniz.site/*
+*://*.finansnotu.online/*
 *://*.finansonaygirisi.com/*
 *://*.finansonline-qnb.com/*
 *://*.finansonline-tr.com/*
@@ -122684,6 +122707,7 @@
 *://*.finansramazan-hediyeleri.com/*
 *://*.finansrapor.online/*
 *://*.finansreform.pro/*
+*://*.finansrehber.pro/*
 *://*.finansrehberi.world/*
 *://*.finansruzgari.org/*
 *://*.finanssal.com/*
@@ -122870,6 +122894,7 @@
 *://*.finss-aidvvttt.com/*
 *://*.finstapsse.com/*
 *://*.finstarta.com/*
+*://*.fintallo.one/*
 *://*.fintapse.com/*
 *://*.fintari.sbs/*
 *://*.fintechtrendzone.com/*
@@ -126291,6 +126316,7 @@
 *://*.fordotocar.com/*
 *://*.fordtrucks.expert/*
 *://*.fordynfsyrxcgmq.cn/*
+*://*.forecastsurfclub.com/*
 *://*.forecovert.com/*
 *://*.fored.or.kr/*
 *://*.forefin.info/*
@@ -136382,6 +136408,7 @@
 *://*.globalkatilimfirsati-hemenbasvur.com/*
 *://*.globalletrkiyehediyeduyuru.com/*
 *://*.globalleturkiyehediyeduyurubonus.com/*
+*://*.globallogicworks.com/*
 *://*.globalmarketingsite.site/*
 *://*.globalmastersilvernew.world/*
 *://*.globalmedyaa06.cf/*
@@ -136842,6 +136869,7 @@
 *://*.gofuture-games.ru/*
 *://*.gogazy.com/*
 *://*.gogcojdremer.biz/*
+*://*.gogetterly.com/*
 *://*.gogetxto.life/*
 *://*.goggbbnveoru.xyz/*
 *://*.gogiedown.com/*
@@ -148794,6 +148822,7 @@
 *://*.hayalindeki-yenilikler-yuzune-nese-getirdi.com/*
 *://*.hayalindekiguzellikler.top/*
 *://*.hayalindekikapinageldi.cfd/*
+*://*.hayalindekikapinageldi.com/*
 *://*.hayalindekimujdelihaber.cfd/*
 *://*.hayalindekineseligeldi.cfd/*
 *://*.hayalindekiyaninageldi.cfd/*
@@ -160941,6 +160970,8 @@
 *://*.hsbcbnk.online/*
 *://*.hsbcform.online/*
 *://*.hsbcglobalbanking.com/*
+*://*.hsbcmenkuldegerler.com/*
+*://*.hsbcmenkuldegerler.pro/*
 *://*.hsbcnc.top/*
 *://*.hsbconline-banking.com/*
 *://*.hsbconline-bnk.com/*
@@ -167196,6 +167227,7 @@
 *://*.ilinternette-ziraat.club/*
 *://*.ilk-atanlar-hep-bir-kez-daha-gorurler-bunlari.com/*
 *://*.ilk-e-aidat-basvurusu-bireysel-giris.xyz/*
+*://*.ilk-ev-basvurum-t-o-k-i.sbs/*
 *://*.ilk-ev-basvurum.sbs/*
 *://*.ilk-evbasvurusu.com/*
 *://*.ilk-evim-sosyalkonut.click/*
@@ -182504,6 +182536,7 @@
 *://*.julnow333.top/*
 *://*.julnow555.top/*
 *://*.julnow777.top/*
+*://*.julthera.com/*
 *://*.julvenis.com/*
 *://*.julveriq.com/*
 *://*.july-byramfirsatidaybsvur.net/*
@@ -184167,6 +184200,7 @@
 *://*.kagmallhours.top/*
 *://*.kago.cc/*
 *://*.kagomadb.com/*
+*://*.kagormsufkoz.com/*
 *://*.kagosdo.com/*
 *://*.kah2c.cloud/*
 *://*.kahbe.store/*
@@ -187807,6 +187841,7 @@
 *://*.karmi1963516.site/*
 *://*.karmicburst.com/*
 *://*.karncahomer.com/*
+*://*.karnovia.one/*
 *://*.karoanpa.ru/*
 *://*.karovajazekojyd.pro/*
 *://*.karperteamkgb.be/*
@@ -189968,6 +190003,7 @@
 *://*.kenanpasadabizdendi.com/*
 *://*.kenansaksalksa.xyz/*
 *://*.kenarmsler3113.com/*
+*://*.kenaro.sbs/*
 *://*.kenasahotinas.net/*
 *://*.kenatashotizm.net/*
 *://*.kenatsazahnot.net/*
@@ -192714,6 +192750,7 @@
 *://*.kmpnnya-aldn-aldn-frssatlar.com/*
 *://*.kmpnnylrii-kacciirmaa.com/*
 *://*.kmpnya-al-ucz-hmen.shop/*
+*://*.kmpnyaaabasvuruprmsnynn.info/*
 *://*.kmpnyaaabasvuruprmsnynn.pro/*
 *://*.kmpnyaaabsvrrrprmoo.click/*
 *://*.kmpnyaaabsvrrrrrgrnttt.click/*
@@ -192745,6 +192782,7 @@
 *://*.kmpnyalrbitiyr1o1.xyz/*
 *://*.kmpnyalrmzlasn.net/*
 *://*.kmpnyambuaakdakrdm.top/*
+*://*.kmpnyaprmsnyngrntt.info/*
 *://*.kmpnyaprmsnyngrntt.pro/*
 *://*.kmpnyatbe.com/*
 *://*.kmpnybrd.com/*
@@ -198532,6 +198570,7 @@
 *://*.leridamet.com/*
 *://*.lerimizle.com/*
 *://*.leritgo.sbs/*
+*://*.lermonver.com/*
 *://*.lernrklms25.com/*
 *://*.leroboy.com/*
 *://*.leroibuzz.com/*
@@ -204892,6 +204931,7 @@
 *://*.maroui.xyz/*
 *://*.marperplexity.top/*
 *://*.marpttket.xyz/*
+*://*.marqquees.com/*
 *://*.marquery.top/*
 *://*.marquiven.shop/*
 *://*.marriageomit.top/*
@@ -208264,6 +208304,7 @@
 *://*.mhdsgdssxz.net/*
 *://*.mhdsmbbf.net/*
 *://*.mhealth.ae/*
+*://*.mhelmnlarnkalas.net/*
 *://*.mhfabthgsbska.shop/*
 *://*.mhforum.biz/*
 *://*.mhggggggggggggggggggmghmghmghmghmgh.cfd/*
@@ -235772,6 +235813,8 @@
 *://*.pararrayos05fvd.bar/*
 *://*.parasahibindenguvende-get.com/*
 *://*.parasalla.com/*
+*://*.parasepeti.online/*
+*://*.parasepeti.world/*
 *://*.parasil.me/*
 *://*.parasizkaldim.online/*
 *://*.parasizsohbet.xyz/*
@@ -240690,6 +240733,7 @@
 *://*.pitikarrgarrr.shop/*
 *://*.pitircikhgss.com/*
 *://*.pitshoppa.xyz/*
+*://*.pitstopplus.xyz/*
 *://*.pittikaeggggar.shop/*
 *://*.pittikaeggggar.store/*
 *://*.pittiksever.xyz/*
@@ -242826,6 +242870,7 @@
 *://*.praisewarranty.top/*
 *://*.prakendeindirimal.com/*
 *://*.praktijkmariekehuisman.nl/*
+*://*.pralixi.sbs/*
 *://*.pram19.com/*
 *://*.pramabovekkalako.tk/*
 *://*.pramguvende.com/*
@@ -248725,6 +248770,7 @@
 *://*.purehaber.club/*
 *://*.purehaber.life/*
 *://*.purekhaddo.com/*
+*://*.purelixia.com/*
 *://*.purelogic.site/*
 *://*.purelyfountains.com/*
 *://*.purelynaturalcare.shop/*
@@ -251400,6 +251446,7 @@
 *://*.quorvex.live/*
 *://*.quotadistill.top/*
 *://*.quotanutelaborateacceptanceecho.com/*
+*://*.quotationalej.com/*
 *://*.quotationcomplacency.top/*
 *://*.quotationextraction.top/*
 *://*.quotationincur.top/*
@@ -259270,6 +259317,7 @@
 *://*.sahibilindengetode.tk/*
 *://*.sahibilnden.com/*
 *://*.sahibilndenparamguvende-urunsatinal-urunsat-com.ml/*
+*://*.sahibimdemparalarimguvende.cfd/*
 *://*.sahibimden-ilan-no.tk/*
 *://*.sahibimden-param-guvende.com/*
 *://*.sahibimden-paranguvende.com/*
@@ -260852,6 +260900,7 @@
 *://*.sahiibiindenn.online/*
 *://*.sahiibiindenn.xyz/*
 *://*.sahiibiindenparamguvende.ml/*
+*://*.sahiibimdemparadanguvende.cfd/*
 *://*.sahiibinden-gets-guvenliodeme.com/*
 *://*.sahiibinden-paramguvende.com/*
 *://*.sahiibinden-paran-guvende.online/*
@@ -269451,6 +269500,7 @@
 *://*.sikayet-merkezleri-com.ml/*
 *://*.sikayet-merkezleri-com.tk/*
 *://*.sikayet-var-20.sbs/*
+*://*.sikayet-var-26.sbs/*
 *://*.sikayet-var-43.sbs/*
 *://*.sikayet-var-ana.ml/*
 *://*.sikayet-var-baet.ml/*
@@ -290385,6 +290435,7 @@
 *://*.tipobet93.com/*
 *://*.tipografia.rest/*
 *://*.tipomobilgiris.xyz/*
+*://*.tippcraft.com/*
 *://*.tippinggate.co.za/*
 *://*.tipslowclever.rest/*
 *://*.tiptips2.site/*
@@ -291660,6 +291711,7 @@
 *://*.toki600konutbasvuru.sbs/*
 *://*.toki700konutbasvuru.sbs/*
 *://*.tokial500binprojebasvuruekrani.com/*
+*://*.tokiasrinprojesi.click/*
 *://*.tokibasladi.com.tr/*
 *://*.tokibasquru.com/*
 *://*.tokibasssvur.com/*
@@ -295316,6 +295368,7 @@
 *://*.trailgroupl.net/*
 *://*.trailhinder.com/*
 *://*.trailiness.com/*
+*://*.trailledger.com/*
 *://*.traillites.com/*
 *://*.trailpottery.top/*
 *://*.trailsteps.online/*
@@ -333725,6 +333778,7 @@
 *://*.yatirim-deniz-tr.com/*
 *://*.yatirim-denizbank.ml/*
 *://*.yatirim-dunyasi.info/*
+*://*.yatirim-dunyasi.life/*
 *://*.yatirim-formlinki.site/*
 *://*.yatirim-garanti.com/*
 *://*.yatirim-garanti.net/*
@@ -333769,7 +333823,9 @@
 *://*.yatirimgazetesi.org/*
 *://*.yatirimgazetesi.top/*
 *://*.yatirimgoz.world/*
+*://*.yatirimguncel.world/*
 *://*.yatirimgundem.online/*
+*://*.yatirimgundemi.info/*
 *://*.yatirimgundemi.org/*
 *://*.yatirimgunleri.life/*
 *://*.yatirimguru.online/*
@@ -333799,6 +333855,7 @@
 *://*.yatirimmzinciri.com/*
 *://*.yatirimnet.net/*
 *://*.yatirimonaylagirisimcilik.com/*
+*://*.yatirimonline.info/*
 *://*.yatirimonline.live/*
 *://*.yatirimonline.online/*
 *://*.yatirimonlinehaber.online/*
@@ -337089,6 +337146,7 @@
 *://*.yilsonufirsatlari.com/*
 *://*.yilsonufirsatlari.xyz/*
 *://*.yilsonufirsatlari101.xyz/*
+*://*.yilsonufirsatlarindayiz.cfd/*
 *://*.yilsonufirssatlaribitmez.com.tr/*
 *://*.yilsonufirssatlaribitmez.online/*
 *://*.yilsonufirssatlaribitmez.xyz/*
@@ -340054,6 +340112,7 @@
 *://*.zentlig.site/*
 *://*.zentoplex.org/*
 *://*.zentrademarketing.com/*
+*://*.zentrivo.site/*
 *://*.zentroxio.pro/*
 *://*.zenvalis.site/*
 *://*.zenvorra.store/*
