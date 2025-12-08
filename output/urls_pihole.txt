@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-08 05:12:35 UTC
-# Toplam: 429819 Domain
+# Son Güncelleme: 2025-12-08 06:23:00 UTC
+# Toplam: 429825 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -49897,6 +49897,7 @@ aselsan-tr.com
 aselsan.tech
 aselsanbulten.com
 aselsanforyou.com
+aselsanglobal.pages.dev
 aselsanlr.xyz
 aselsanyat.xyz
 aseltech.com.tr
@@ -73846,6 +73847,7 @@ bitpandabestcommunity.duckdns.org
 bitpandacommunitybest.duckdns.org
 bitpandadrawgiveawaybest.duckdns.org
 bitpandaeventbestmai.duckdns.org
+bitquasa.com
 bitranza.com
 bitrat9300.duckdns.org
 bitraydextool.com
@@ -223271,6 +223273,7 @@ jaq0j0.duckdns.org
 jaq5ewte.duckdns.org
 jaqaooerh.org
 jaques2marquesin1.com
+jaqupitif.info
 jaqwiy.hopto.org
 jar28.com
 jaras.sa
@@ -237620,6 +237623,7 @@ kmkkksorgulamagovvptt.shop
 kmkkmkslgrlmaburdaogren.web.app
 kmkksgrlmaagovvpttsz.duckdns.org
 kmkksorgulanmagovvptrr.duckdns.org
+kmkksrglumayappgovpttuyz.duckdns.org
 kmkkssogrulamagovpttt.com
 kmkllsrglumagovpttyap.duckdns.org
 kmkmsorgulahemen-gov-tr.duckdns.org
@@ -375066,6 +375070,7 @@ turkey-healthform.org
 turkey-help.ru
 turkey-iade-merkezi.com
 turkey-in24.com
+turkey-investment-harbor.info
 turkey-kartmerkezi.com
 turkey-paketlekazan-com.tk
 turkey-people.com
@@ -376705,6 +376710,7 @@ turknet-work.com
 turknew.store
 turknewfarm.com
 turknews-online.com
+turknewshub.com
 turknrg.com
 turkocaklaribagis.com
 turkodemenzzmtv.tk
