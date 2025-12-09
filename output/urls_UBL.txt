@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-09 11:09:19 UTC
-! Total: 343207 rules
+! Last modified: 2025-12-09 12:24:21 UTC
+! Total: 343222 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27934,6 +27934,7 @@
 *://*.aliens5.pw/*
 *://*.alienstatutory.top/*
 *://*.alienwholesale.top/*
+*://*.aliexpre.icu/*
 *://*.aliexpres.vip/*
 *://*.aliexpresszs.cyou/*
 *://*.alifframlan.xyz/*
@@ -43380,6 +43381,7 @@
 *://*.basvuruuprmsynngrnttt.pro/*
 *://*.basvuruurmm.click/*
 *://*.basvuruurmm.shop/*
+*://*.basvuruuukmpnyaaa.info/*
 *://*.basvuruuutokiikonutlari.art/*
 *://*.basvuruuutokiikonutlari.info/*
 *://*.basvuruuutokiikonutlari.live/*
@@ -93006,6 +93008,7 @@
 *://*.dijitalkampanyagiris-ziraatbireysel.sbs/*
 *://*.dijitalkampanyagiris-ziraatweb.sbs/*
 *://*.dijitalkampanyahizmet-ziraatbireysel.sbs/*
+*://*.dijitalkampanyalar-ziraatwebmobil.sbs/*
 *://*.dijitalkampanyamobil-ziraat.com/*
 *://*.dijitalkampanyanet-ziraatbireysel.com/*
 *://*.dijitalkampanyavakifmobil.com/*
@@ -122714,6 +122717,7 @@
 *://*.finansmobilyukle.com/*
 *://*.finansnakitiniz.site/*
 *://*.finansnotu.online/*
+*://*.finansnrl.com/*
 *://*.finansonaygirisi.com/*
 *://*.finansonline-qnb.com/*
 *://*.finansonline-tr.com/*
@@ -134582,6 +134586,7 @@
 *://*.giantretaliation.top/*
 *://*.giaodienweb.xyz/*
 *://*.giaoxuchuson.com/*
+*://*.giasdga.digital/*
 *://*.giath.xyz/*
 *://*.gib-edevlet.com/*
 *://*.gib-gov-tr.com/*
@@ -175509,6 +175514,7 @@
 *://*.islmtkpetmnislminiz.online/*
 *://*.islmvlcrqwt2312ttfff.com/*
 *://*.islov.top/*
+*://*.isltemsakhmeensonuc.net/*
 *://*.isltfmslbasvlrm.com/*
 *://*.isltmfkaskcd.com/*
 *://*.isltnalsalk.com/*
@@ -184255,6 +184261,7 @@
 *://*.kagomadb.com/*
 *://*.kagormsufkoz.com/*
 *://*.kagosdo.com/*
+*://*.kagosmozogo.com/*
 *://*.kah2c.cloud/*
 *://*.kahbe.store/*
 *://*.kahbe.world/*
@@ -190459,6 +190466,7 @@
 *://*.kerisanter.biz/*
 *://*.kerivo.click/*
 *://*.keriyer.net/*
+*://*.kerlento.store/*
 *://*.kermalixsey.xyz/*
 *://*.kermane.online/*
 *://*.kermansarax.app/*
@@ -192833,6 +192841,7 @@
 *://*.kmpnyafrsatlarnz.com/*
 *://*.kmpnyagaranti.online/*
 *://*.kmpnyagnlerinizx.com/*
+*://*.kmpnyagrntbasvurr.info/*
 *://*.kmpnyahazirfirsat.site/*
 *://*.kmpnyalaricnsongun1o1.online/*
 *://*.kmpnyalaricnsongun1o1.xyz/*
@@ -219471,6 +219480,7 @@
 *://*.nextproject2025.com/*
 *://*.nextra.cyou/*
 *://*.nextra9.com/*
+*://*.nextrana.store/*
 *://*.nextrandevu.net/*
 *://*.nextregbmcll.tk/*
 *://*.nextrentacar.online/*
@@ -243989,6 +243999,7 @@
 *://*.prmsynngrntttbsvrrr.info/*
 *://*.prmsynnkampanyabasvrrr.info/*
 *://*.prmsynnkampanyabasvrrr.pro/*
+*://*.prmsynnnbasvruukampnya.pro/*
 *://*.prmsynnnbsvrrkmpnyaa.click/*
 *://*.prmsynnnbsvrrqnb.info/*
 *://*.prmsynnnbsvrrrqnbbb.click/*
@@ -246581,6 +246592,7 @@
 *://*.pttavmbasdvd.click/*
 *://*.pttavmbireysaticim.com/*
 *://*.pttavmbireysaticin.com/*
+*://*.pttavmbireysatis.com/*
 *://*.pttavmbireyselsatici.com/*
 *://*.pttavmcebimde.com/*
 *://*.pttavmcma.com/*
@@ -318212,6 +318224,7 @@
 *://*.westta.pro/*
 *://*.westta.services/*
 *://*.westthrow.net/*
+*://*.westwatdigital.com/*
 *://*.wesupply.io/*
 *://*.wesupply.to/*
 *://*.wesupportukraine.org/*
@@ -328288,6 +328301,7 @@
 *://*.xn--iletisimodastr-hgc.net/*
 *://*.xn--iletisimodastr-hgcc.app/*
 *://*.xn--iliililivklmrmxlzmrm-j3d.net/*
+*://*.xn--iltmlmhemen-rgc.online/*
 *://*.xn--imagecrowd-1s6e.top/*
 *://*.xn--imdi360haber-3mc.net/*
 *://*.xn--imdiaidatzamani-75c.app/*
@@ -342325,6 +342339,7 @@
 *://*.zjsxqveg.com/*
 *://*.zjtlknge.com/*
 *://*.zjtmcg.com/*
+*://*.zjtool.top/*
 *://*.zjumxpcbtya.info/*
 *://*.zjvlic.com/*
 *://*.zjvm.org/*
