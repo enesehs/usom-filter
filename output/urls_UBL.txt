@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-09 05:10:29 UTC
-! Total: 343184 rules
+! Last modified: 2025-12-09 07:14:14 UTC
+! Total: 343188 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -97067,6 +97067,7 @@
 *://*.dubshort.pro/*
 *://*.dubshort.site/*
 *://*.dubshort.store/*
+*://*.dubshorter.blog/*
 *://*.dubshorter.homes/*
 *://*.dubya.net/*
 *://*.duc3k.com/*
@@ -151304,6 +151305,7 @@
 *://*.hemenalmalisin.xyz/*
 *://*.hemenalmazsankacicakfirsatlar.xyz/*
 *://*.hemenalnisan.com.tr/*
+*://*.hemenalsepetteindirim.me/*
 *://*.hemenalsimdal.online/*
 *://*.hemenalsimdal.xyz/*
 *://*.hemenalsinirlistok.com.tr/*
@@ -278971,6 +278973,7 @@
 *://*.stanleymarket.net.tr/*
 *://*.stanleynexus.xyz/*
 *://*.stanleyparlar.com/*
+*://*.stanleyprformnce.xyz/*
 *://*.stanleyrebirth.xyz/*
 *://*.stanleyreboost.xyz/*
 *://*.stanleyreborn.xyz/*
@@ -292824,6 +292827,7 @@
 *://*.torturesuicidal.top/*
 *://*.toruturngeqt.org/*
 *://*.toruxlilx.com/*
+*://*.torvex.sbs/*
 *://*.torytol.ru/*
 *://*.torzonnbelfen.com/*
 *://*.tosals.ink/*
