@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-09 21:08:28 UTC
-# Toplam: 430147 Domain
+# Son Güncelleme: 2025-12-09 22:10:04 UTC
+# Toplam: 430156 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39685,6 +39685,7 @@ al0lhaziranfirsatlar.com
 al0lhizmetcom.dynip.org
 al0lhizmetler.dynip.org
 al0lhizmetsepet.dynip.org
+al0lindirimlerim.me
 al0lizeltasfirsati.dynip.org
 al0lk4mpnyagustos.xyz
 al0lkapida.com
@@ -41055,6 +41056,7 @@ alghuh.is-great.net
 algiday.online
 algihad.com
 algikredi.com.tr
+algit.click
 algitfirrsatlardakal.cfd
 algitfirrsatlardakal.sbs
 alglobalmarketcrm.com
@@ -167220,6 +167222,7 @@ gentlemdinosaur.top
 gentlemensworkshop.com
 gentlepus.ru
 gentradings007.duckdns.org
+gentry.my-homeip.com
 genuine346.xyz
 genuineadherence.top
 genuinegasp.top
@@ -207402,6 +207405,7 @@ ilkevimbasvurun3shdd18i.vercel.app
 ilkevimbasvurund1fuqf1jq.vercel.app
 ilkevimbasvuruojrwk6ivh.vercel.app
 ilkevimbasvuruowwfdkzqg.vercel.app
+ilkevimbasvuruq8vcc4mc9.vercel.app
 ilkevimbasvurus0xpq5f24.vercel.app
 ilkevimbasvurusgb7rmlr.vercel.app
 ilkevimbasvurusuicintiklayiniz.blogspot.com
@@ -218726,6 +218730,7 @@ istnblmkartm.net
 istnblmkarttm.net
 istnblmkkyldkrtt.net
 istnblmzdasmnsa.giize.com
+istnblmzdasnzdsfmgln.com
 istnblnextss.net
 istnblnnkartnm.net
 istnblpersembe.net
@@ -227692,6 +227697,7 @@ kafalerkscsd.blogspot.com
 kafaleylaolsela.net
 kafamasikargiderimm.xyz
 kafamayedimomg.ru.com
+kafamdadelisorular.sbs
 kafamizagorecas.net
 kafamizagre.wtf
 kafamkarisiyorknkxsnzde.blogspot.com
@@ -342728,6 +342734,7 @@ snkrcylsn.com
 snkzalyrmbrdan.mooo.com
 snkzalyrmbsfer.bond
 snkzbrasdnadandaysad.shop
+snkzbrdanalsvryptk.mooo.com
 snkzbrdanbryaya.mooo.com
 snkzbrdangeldasdqwe.bond
 snkzbrdangldkbasdg.bond
@@ -366263,6 +366270,7 @@ toplukonutbasvurumv3kviifns.vercel.app
 toplukonutbasvurun7mmswwk.vercel.app
 toplukonutbasvuruoyizyt.vercel.app
 toplukonutbasvurupjwhpm.vercel.app
+toplukonutbasvuruqo30kwjjhwf.vercel.app
 toplukonutbasvuruqpshbrjg.vercel.app
 toplukonutbasvuruqqwlf9vx.vercel.app
 toplukonutbasvururesmi.com
@@ -382295,6 +382303,7 @@ usmatmaoc.com
 usmatmaoccc.com
 usmatmyterozel.duckdns.org
 usmatnkhbe.duckdns.org
+usmatnnnasniskym.mooo.com
 usmnemiakl.com
 usmnlem-xyz.cdn.ampproject.org
 usmnlem.xyz
