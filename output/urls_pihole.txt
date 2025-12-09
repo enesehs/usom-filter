@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-09 16:12:46 UTC
-# Toplam: 430108 Domain
+# Son Güncelleme: 2025-12-09 17:11:48 UTC
+# Toplam: 430115 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -48189,6 +48189,7 @@ aralikfirsatlarinikacirma.xyz
 aralikfirsatlarkazandiran.xyz
 aralikfirsatlarsonz.xyz
 aralikfirstlari101dekampnya.com
+aralikflrsatlarialdinaldin.com
 aralikgeldi-kampanyabasladi.shop
 aralikgunleri.com.tr
 aralikgunleriburada.com.tr
@@ -60412,6 +60413,7 @@ basvuruuilktokevim.art
 basvuruuilktokevim.info
 basvuruuilktokevim.live
 basvuruuilktokevim.pro
+basvuruukmpnyaagrntt.pro
 basvuruummtokkimmilkevimmmm.online
 basvuruuprmsynngrnttt.pro
 basvuruurmm.click
@@ -119157,6 +119159,7 @@ dijitalhizli-ziraatmobil.com
 dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizligiris-ziraatbireysel.sbs
+dijitalhizligiris-ziraatbireyselinternet.sbs
 dijitalhizligiris-ziraatmobil.com
 dijitalhizligiris-ziraatmobilbireysel.sbs
 dijitalhizligiris-ziraatweb.sbs
@@ -237968,6 +237971,7 @@ kmpnyafrsatlarnz.com
 kmpnyagaranti.online
 kmpnyagnlerinizx.com
 kmpnyagrntbasvurr.info
+kmpnyagrntbasvurr.pro
 kmpnyahazirfirsat.site
 kmpnyak.ru.com
 kmpnyalaricnsongun1o1.online
@@ -365467,6 +365471,7 @@ tokikonutbasvuru.gq
 tokikonutbasvuru.org
 tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvuruev.unaux.com
+tokikonutbasvurular-kayityap.vercel.app
 tokikonutbasvurular.vercel.app
 tokikonutbasvurulari.cloud
 tokikonutbasvurulari.com
@@ -423712,6 +423717,7 @@ yqtkrjyxej.duckdns.org
 yqtmlnwhmb.duckdns.org
 yquqao.com
 yqvyjfedmdvhbhj.cn
+yqwefwef.duckdns.org
 yqwmtcbxut.duckdns.org
 yqwt6supg.duckdns.org
 yqx14p2.duckdns.org
@@ -423947,6 +423953,7 @@ yud519hu.duckdns.org
 yudefohuko.com
 yudfrhtdl.info
 yudum-aycicek-yagi-18lt-4adet.online
+yudum-aycicekhemensiparis.eticret.icu
 yudyw94.duckdns.org
 yuemt.zzux.com
 yuerepere.xyz
