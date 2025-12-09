@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-09 17:11:48 UTC
-! Total: 343257 rules
+! Last modified: 2025-12-09 18:12:35 UTC
+! Total: 343264 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43379,6 +43379,7 @@
 *://*.basvuruuilktokevim.info/*
 *://*.basvuruuilktokevim.live/*
 *://*.basvuruuilktokevim.pro/*
+*://*.basvuruukmpnyaagrntt.info/*
 *://*.basvuruukmpnyaagrntt.pro/*
 *://*.basvuruummtokkimmilkevimmmm.online/*
 *://*.basvuruuprmsynngrnttt.pro/*
@@ -57262,6 +57263,7 @@
 *://*.bkyv8.gq/*
 *://*.bkyyeemykleeersn.net/*
 *://*.bkzrat.com/*
+*://*.bkzsistanbulazeri.cfd/*
 *://*.bl-mcll.com/*
 *://*.bl0cks3rdfg11.xyz/*
 *://*.bl101l.net/*
@@ -205420,6 +205422,7 @@
 *://*.masterpiecepropagate.top/*
 *://*.masterpiecewatt.top/*
 *://*.masterpiecezoom.top/*
+*://*.masterplancore.com/*
 *://*.masterrecede.top/*
 *://*.mastershop.biz/*
 *://*.mastersmshizmetiniz.ml/*
@@ -233117,6 +233120,7 @@
 *://*.pacepoke.top/*
 *://*.pachek.net/*
 *://*.pacificdocumentagency.com/*
+*://*.pacificomutual.com/*
 *://*.pacificprime.ae/*
 *://*.paciflxinc.com/*
 *://*.pack-lines.com/*
@@ -242568,6 +242572,7 @@
 *://*.postn.top/*
 *://*.postnl-gemist.top/*
 *://*.postnor.win/*
+*://*.postnotcy.pics/*
 *://*.postoakbank.site/*
 *://*.postoffice.pics/*
 *://*.postofficee.lol/*
@@ -243769,6 +243774,7 @@
 *://*.primefirsatiyakala.net/*
 *://*.primefirsatlari.com/*
 *://*.primefirsatlarim.net/*
+*://*.primefocusline.com/*
 *://*.primeforaspzr.shop/*
 *://*.primehdplayer.com/*
 *://*.primehizmetistanbvl34.net/*
@@ -298166,6 +298172,7 @@
 *://*.trpetrolleri-i.com/*
 *://*.trpetrolleribasvuru.xyz/*
 *://*.trpetrolleriyatirim.com/*
+*://*.trpetrolprofit.top/*
 *://*.trpform.online/*
 *://*.trpgiris.com.tr/*
 *://*.trplatork.com/*
