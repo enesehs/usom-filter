@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-10 05:12:17 UTC
-! Total: 343302 rules
+! Last modified: 2025-12-10 07:13:54 UTC
+! Total: 343308 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14337,6 +14337,7 @@
 *://*.a101frager.com/*
 *://*.a101fragercomeback.com/*
 *://*.a101fragersabah.com/*
+*://*.a101frsataldnaldn.xyz/*
 *://*.a101frsatlari.com/*
 *://*.a101frsatlarisimdburada.xyz/*
 *://*.a101frstlar.online/*
@@ -65871,6 +65872,7 @@
 *://*.bursevi.org/*
 *://*.bursevim.net/*
 *://*.burshaberleri.online/*
+*://*.burshaberlerim.com/*
 *://*.bursiyer.online/*
 *://*.bursiyer.org/*
 *://*.bursiyer.site/*
@@ -114435,6 +114437,7 @@
 *://*.epttavm-pazarykleme.com/*
 *://*.epttavm-pazaryukleme.com/*
 *://*.epttavm-pttavm.com/*
+*://*.epttavm-pttavm.info/*
 *://*.epttavm-pzryukleme.com/*
 *://*.epttavm-shop.com/*
 *://*.epttavm-sorgula.com/*
@@ -123588,6 +123591,7 @@
 *://*.firsatdiyari.com.tr/*
 *://*.firsatdiyari.store/*
 *://*.firsatdiyarindan.site/*
+*://*.firsatdiyarixlerce.xyz/*
 *://*.firsatdonemikapida.com/*
 *://*.firsatdunyalari.info/*
 *://*.firsatdunyalari.site/*
@@ -251844,6 +251848,7 @@
 *://*.r4p3.com/*
 *://*.r4uamrr7fueez.cf/*
 *://*.r4uamrr7fueez.ga/*
+*://*.r4xservices.com/*
 *://*.r6.nz/*
 *://*.r6bq8yv.cn/*
 *://*.r6r8erdemners.xyz/*
@@ -299662,6 +299667,7 @@
 *://*.tumurunleranindakapinda.xyz/*
 *://*.tumurunlerdekampanyahizlial.online/*
 *://*.tumurunlerdekampanyahizlial.xyz/*
+*://*.tumurunlerdekmpnyalar1o1.xyz/*
 *://*.tumyenietkinliklerisorgulayinbasvurun.net/*
 *://*.tunastra.cc/*
 *://*.tunate.xyz/*
