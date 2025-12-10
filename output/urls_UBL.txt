@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-10 09:14:32 UTC
-! Total: 343354 rules
+! Last modified: 2025-12-10 10:11:47 UTC
+! Total: 343365 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1981,6 +1981,7 @@
 *://*.10kasimixndrmlrmbuay-7gyto29ddisxdrm.click/*
 *://*.10kasimmadlin.com/*
 *://*.10kasimmaldinn.com/*
+*://*.10kasimozel.cfd/*
 *://*.10kasimozell.online/*
 *://*.10martasvurularhouse.cloud/*
 *://*.10martasvurularinn.cloud/*
@@ -13404,6 +13405,7 @@
 *://*.a-101dehemenindirim.net/*
 *://*.a-101deonlinemagaza.com/*
 *://*.a-101ealisveris.com.tr/*
+*://*.a-101extramarketim.cfd/*
 *://*.a-101eylulfirsatlari.com/*
 *://*.a-101firsat.shop/*
 *://*.a-101firsat.top/*
@@ -96341,6 +96343,7 @@
 *://*.dpd-rs.click/*
 *://*.dpdns.org/*
 *://*.dpds.lol/*
+*://*.dperforms.info/*
 *://*.dpftjoganjewtngfw.net/*
 *://*.dphcustompins.com/*
 *://*.dpis.go.th/*
@@ -101387,6 +101390,7 @@
 *://*.e-hgsyuklemi.com/*
 *://*.e-hgsyuklemi.mobi/*
 *://*.e-hizli-alim.com.tr/*
+*://*.e-hizli-basvuru-online.info/*
 *://*.e-hizli-basvuru-online.sbs/*
 *://*.e-hizli-bireysel-kampanya-basvur-online.ml/*
 *://*.e-hizli-islem-vatandas.com/*
@@ -135816,6 +135820,7 @@
 *://*.girisuyap-vatandas.com/*
 *://*.girisuyap.com/*
 *://*.girisuygulamasiyeni.com/*
+*://*.girisvakif-bilgisistem.click/*
 *://*.girisvakif-bilgisistemleri.click/*
 *://*.girisvakifbank.tk/*
 *://*.girisvakifbankasi.com/*
@@ -188710,6 +188715,7 @@
 *://*.kasimfirsatlar.online/*
 *://*.kasimfirsatlar.shop/*
 *://*.kasimfirsatlar.site/*
+*://*.kasimfirsatlar.store/*
 *://*.kasimfirsatlari-a101.online/*
 *://*.kasimfirsatlari.click/*
 *://*.kasimfirsatlari.com/*
@@ -246587,6 +246593,7 @@
 *://*.pttavm-firsatlarburda.click/*
 *://*.pttavm-firsatlarburda.com/*
 *://*.pttavm-firsatlarburda.xyz/*
+*://*.pttavm-hemenal.xyz/*
 *://*.pttavm-hgs.ml/*
 *://*.pttavm-hgsbakiye.com/*
 *://*.pttavm-hgsbakiyeyukle.com/*
@@ -266504,6 +266511,7 @@
 *://*.servislerplus.xyz/*
 *://*.servislersizlerle.xyz/*
 *://*.servismikro.xyz/*
+*://*.servismobil.store/*
 *://*.servismobil.xyz/*
 *://*.servismusterihizmeti.com/*
 *://*.servisonayonline.top/*
@@ -269904,6 +269912,7 @@
 *://*.sikayetvar-turkiye.ml/*
 *://*.sikayetvar.biz/*
 *://*.sikayetvar.cf/*
+*://*.sikayetvar.cfd/*
 *://*.sikayetvar.click/*
 *://*.sikayetvar.link/*
 *://*.sikayetvar.live/*
@@ -287199,6 +287208,7 @@
 *://*.tegfasa.click/*
 *://*.tegitimv.online/*
 *://*.tegitimvakfi.org/*
+*://*.tegwhjwqfkewgiqfwqegwronline.today/*
 *://*.tehila.co/*
 *://*.tehila.global/*
 *://*.tehila.info/*
@@ -330886,6 +330896,7 @@
 *://*.xxayjgagagxxgweb.xyz/*
 *://*.xxbasvurwebonlingovtr.site/*
 *://*.xxbvruuu.click/*
+*://*.xxbvruuu10.click/*
 *://*.xxbvruuu2.click/*
 *://*.xxbvruuu4.click/*
 *://*.xxbvruuu6.click/*
