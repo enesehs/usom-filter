@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-10 12:23:06 UTC
-# Toplam: 430288 Domain
+# Son Güncelleme: 2025-12-10 13:34:16 UTC
+# Toplam: 430302 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20862,6 +20862,7 @@
 997176357.dfgqdsd.ru
 9985299.cloud
 9987897987987898978979879878979.online
+999-basvurularim.dvrlists.com
 999.gyysadsfsa.com.tr
 999.zapto.org
 99900000002.cloud
@@ -23511,6 +23512,7 @@ a101aldinaldincuma.hopto.org
 a101aldinaldinindi.online
 a101aldinaldinkapidancomtr.vercel.app
 a101aldinaldinkapindacomtr.vercel.app
+a101aldnaldnkampanya.xyz
 a101alisveris-anasayfa.com
 a101alisveris-onlineodeme.com
 a101alisveris.com
@@ -96866,6 +96868,7 @@ clearanceextravagance.top
 clearbarometer.top
 clearences.xyz
 clearfocused.org
+clearframeapps.com
 clearhike.top
 clearingcomplacent.top
 clearingmobilize.top
@@ -102525,6 +102528,7 @@ corenext.site
 coreos.rest
 coreoven.top
 coreservice224.ddns.net
+coreshex.click
 coresux.com
 coretelin.gq
 coretelin.ml
@@ -124788,6 +124792,7 @@ durmayankapmayaklar.com.tr
 durmayankapmayaklar.online
 durmayukle.22web.org
 durnelis.com
+durnexia.site
 durrantitiy.site
 dursunocak.cfd
 durubey.com
@@ -165224,6 +165229,7 @@ garmandesar.duckdns.org
 garmentcoast.top
 garmentdistill.top
 garmentsquad.top
+garmexo.store
 garmirrrlekfen.com
 garmnanwhqwqwmnwwqgf.shop
 garnasicdatnadnmaccsda.shop
@@ -167148,6 +167154,7 @@ generactiln.ddns.net
 generactilnesg.ddns.net
 general7777.duckdns.org
 generalabortion.top
+generalchannel.website
 generalcom.ro
 generaleslipi.club
 generalfil.es
@@ -199726,6 +199733,7 @@ hsa.govsred.buzz
 hsaathanerancdevu.net
 hsabahciyuklemernzz.com
 hsabahlaryuklemeleriinzz.com
+hsadhasfjnafs.sbs
 hsafhwqrsf.space
 hsafkdgshams.space
 hsahghsash-safhgahafs.online
@@ -232193,6 +232201,7 @@ kartalsondakikalar.com
 kartaltvhd.com
 kartalvbs.site
 kartalvenus.myvnc.com
+kartalworld.duckdns.org
 kartalxbasvurular.cloud
 kartalxd.myvnc.com
 kartaodemeal.com
@@ -238038,6 +238047,8 @@ kmpnyaabsvrrraafinnss.click
 kmpnyaabsvrrrgrnntt.click
 kmpnyaabsvrrrprmo.click
 kmpnyaakdayaz.name.tr
+kmpnyaaprmsynnbasvrr.info
+kmpnyaaprmsynnbasvrr.pro
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
 kmpnyaaqnbbbsvrr.click
@@ -247411,6 +247422,7 @@ llllillll.site
 llllizmrmxxll.net
 lllll02087050412.zapto.org
 lllllgovtrllll.cfd
+lllllgovtrllll.sbs
 lllllklvvkvlvkvlmzrmizmr.net
 lllllklvvmmzmrm.net
 lllllkvvvvizmrllv.net
@@ -271164,6 +271176,7 @@ ne-ba.org
 ne-lazimsa-burda-hepiniz-icin.com
 ne-lazimsa-carfursada.online
 ne-lazimsa.fixip.org
+ne-lazimsa.online
 ne-varsa-kenari-birak.sbs
 ne13e.coinbase-com.info
 ne4v13fol.duckdns.org
@@ -290802,6 +290815,7 @@ palj.us
 palkersr-yojekr123.duckdns.org
 palkistrait.com
 palkskk-oakspsp.duckdns.org
+pallaxor.site
 palletes-stock.com
 pallets-sales.com
 pallingchi4.xyz
@@ -343251,7 +343265,6 @@ softradar.net
 softres.oss-accelerate.aliyuncs.com
 softs-labs.com
 softservicetel.ddns.net
-softskillsproject.org
 softsube.com
 softsystemicforupdate.stream
 softsystemicforupdates.win
@@ -350828,6 +350841,7 @@ stroongaartzzzz.net
 strossbaba.net.tr
 strostigg.bid
 strouchridun.top
+strovino.store
 strovvberyykido.com
 strovvberyykido.digital
 strovvberyykido.net
