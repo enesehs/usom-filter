@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-10 16:13:56 UTC
-# Toplam: 430330 Domain
+# Son Güncelleme: 2025-12-10 17:13:14 UTC
+# Toplam: 430354 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5113,6 +5113,7 @@
 162.243.162.204
 162.250.126.36
 162178-coinbase.com
+162370376.cloud
 162478-coinbase.com
 16259846151896415661561.net
 1626266.com
@@ -23658,6 +23659,7 @@ a101e.sponsorlukampanyapazarsev.com
 a101e.temmuzkampanyalaripazarertesi.com
 a101e.xn--sponsorlukampanyalarm-3gd.com
 a101efsaneindirimgunleribasladi.online
+a101efsanekampanya.xyz
 a101efsanekasimfirsati.com
 a101ekstra.com
 a101ekstra.com.tr
@@ -59782,6 +59784,7 @@ basvurularonline.com
 basvurularonlineiade.online
 basvurularresmigovtrcom.click
 basvurularsizinle.com
+basvurularsonbuluyor-hemensendebasvur.linkyy.top
 basvurularsongunsayfa.org
 basvurulartektiklahesabinda.74-234-25-133.plesk.page
 basvurulartektiklahesabinda.74-234-25-l33.plesk.page
@@ -72811,6 +72814,7 @@ bireyselkampanya-mobilozel.gq
 bireyselkampanya-ozelpuanlar.ml
 bireyselkampanya-ozelpuanlar.tk
 bireyselkampanya-yeniyilaozel.cf
+bireyselkampanya.cfd
 bireyselkampanya900tlonline-basvur.ml
 bireyselkampanyabasvuru-sayfasi.ml
 bireyselkampanyabasvurusu-online900tl.ml
@@ -77089,6 +77093,7 @@ blxmclxll.net
 blxmxcell.com
 blxyz1.shop
 blyadd.cfd
+blyaddddd.vercel.app
 blyatbitch.redirectme.net
 blyzaro.store
 blyzaroapp.store
@@ -85993,6 +85998,7 @@ bursdiyari.org
 burser.ddns.net
 bursevi.org
 bursevim.net
+burshaberler.com
 burshaberleri.online
 burshaberlerim.com
 bursiyer.online
@@ -102665,6 +102671,7 @@ corpviewer.com
 corpwells-1.zapto.org
 corpxtech.com
 corralesking.hopto.org
+corrantiso.com
 correaposta.top
 correctaesthetic.top
 correctforguard.tk
@@ -171605,6 +171612,7 @@ gnljsopwmbx.xyz
 gnlkmtnbs.duckdns.org
 gnlkrm.top
 gnlksanas-faawa.cfd
+gnlukkampanyalarinizn.com
 gnlxmrkttfrsxatlrr-onlxmrktt.com
 gnmengkrntign.com
 gnmlmnecih.duckdns.org
@@ -207480,6 +207488,7 @@ ilkevimbasvuruowwfdkzqg.vercel.app
 ilkevimbasvuruq8vcc4mc9.vercel.app
 ilkevimbasvurus0xpq5f24.vercel.app
 ilkevimbasvurusgb7rmlr.vercel.app
+ilkevimbasvurusu.sbs
 ilkevimbasvurusuicintiklayiniz.blogspot.com
 ilkevimbasvurusutoki.info
 ilkevimbasvurusutoki.pro
@@ -228646,6 +228655,7 @@ kampanya101.com
 kampanya101.com.tr
 kampanya101.shop
 kampanya101.theworkpc.com
+kampanya101aldnaldn.xyz
 kampanya101ce.net
 kampanya101ceonlinegiris.net
 kampanya101ceonlinegirisler.net
@@ -235086,6 +235096,7 @@ kgfmgvo.cfd
 kgfvr.com
 kgg4x60cr.duckdns.org
 kggcp.com
+kggmm-gov.cfd
 kghgsborcgecislerode.duckdns.org
 kghgsbrcgecisihtlale.duckdns.org
 kghjasder.net
@@ -236783,6 +236794,7 @@ kisliksurprizler-devamediyor23.com
 kisliksurprizler-devamediyor5.com
 kisliksurprizlerdevamediyor10.com
 kisliycorporait.hopto.org
+kislndirimlerikacmazwsynx.com
 kismamabeforyougo.com
 kismamabeforyougo.ru
 kismet.si
@@ -238612,6 +238624,7 @@ kntara.click
 kntarena.click
 kntbsvmrkerzibrdatki.sbs
 kntbsvmrkrzibrdtki.sbs
+kntbsvr.click
 kntbsvrrr00.click
 kntbsvruuu1.click
 kntcity.click
@@ -239451,6 +239464,7 @@ konut20012024.com
 konut360.click
 konut5000.com
 konut724haber.com
+konutabasvur.cfd
 konutabasvur.org
 konutabasvuru.org
 konutarena.click
@@ -242069,6 +242083,7 @@ kurallarikaldir.doubleheart.coinbase-com.info
 kuralli.app
 kuralsiz.app
 kurama98-28588.portmap.host
+kurasizhemenkatil.cfd
 kurasizkatilim.sbs
 kuratakankaubab.ddns.net
 kurb4naltayertsifrdksndkz.store
@@ -260503,6 +260518,7 @@ mmccodeme.org
 mmchj2.telorg.net
 mmcomposite.dk
 mmddhqszey.duckdns.org
+mmdhmcshm.com
 mmdymkktkszw.gb.net
 mme4abx32b.ru
 mmegi.co
@@ -310742,6 +310758,7 @@ qnbbireyselonlinebasvur.com
 qnbbireyselsubemweb.com
 qnbbireyselwebsubesitronlinebasvurumuz.com
 qnbbirstv.vercel.app
+qnbbkmpnyabsvrr.click
 qnbbnbbpromssssynnbsvrr.cloud
 qnbbnk.com
 qnbbnks.click
@@ -322891,6 +322908,7 @@ sadesconsfirsatlstrs.blogdns.com
 sadesconsfirsdtrasdftr.blogdns.com
 sadesconsfisdrsartlarfstr.blogspot.com
 sadesconsfisdrsartlarfstrr.blogspot.com
+sadesconsfisdrsartlarfstrrc.blogspot.com
 sadesconsfisfrsatlartr.blogdns.com
 sadesconsfisrsatlartr.blogdns.com
 sadesconsfisrsatlre.blogdns.com
@@ -344523,6 +344541,7 @@ sonbaharfirsatibance.tech
 sonbaharfirsatlari.shop
 sonbaharfirsatlarii.online
 sonbaharfirsatlarii.xyz
+sonbaharindirimi.sbs
 sonbaharindirimleri.click
 sonbaharindirimleri.xyz
 sonbaharinilksurprizler10.com
@@ -349533,6 +349552,7 @@ stanleygelsin.xyz
 stanleygunleri.com.tr
 stanleygunleri.name.tr
 stanleyh2flowtermossatissiparisiniz.eticret.icu
+stanleyh2flowtermossatissiparisinizz.eticret.icu
 stanleyhavada.xyz
 stanleyignite.xyz
 stanleyindirim.shop
@@ -365653,6 +365673,7 @@ tokikonutbasvuruekrani.wordpress.com
 tokikonutbasvuruev.unaux.com
 tokikonutbasvurular-kayityap.vercel.app
 tokikonutbasvurular.vercel.app
+tokikonutbasvurulardir-kayityap.vercel.app
 tokikonutbasvurulari.cloud
 tokikonutbasvurulari.com
 tokikonutbasvurulari.org
@@ -365928,6 +365949,7 @@ toklprojesibasvr.com
 toklyilinprojesl.com
 tokmilkevimz.org
 tokmlerimizilkevimaz.org
+toknakilguventeslimat.sbs
 toknohaftasonuindirimin.net
 toknowall.com
 toko-3.vip
@@ -366437,6 +366459,7 @@ toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
 toplukonutbasvuruuobdmq.vercel.app
 toplukonutbasvuruuxwp30843ff.vercel.app
+toplukonutbasvuruvgt03pp2l.vercel.app
 toplukonutbasvuruvhaogu3gh80.vercel.app
 toplukonutbasvuruvsts9mh0v.vercel.app
 toplukonutbasvuruw8pp4oyz0.vercel.app
@@ -395780,6 +395803,7 @@ web-tr.xyz
 web-trackers.com
 web-trackings.com
 web-trackmikro.ru.com
+web-trade.my-homeip.com
 web-traffic.info
 web-tredevlet.com
 web-trendyol.cn
