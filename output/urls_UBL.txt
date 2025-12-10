@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-10 11:09:11 UTC
-! Total: 343366 rules
+! Last modified: 2025-12-10 12:23:06 UTC
+! Total: 343391 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21400,6 +21400,7 @@
 *://*.ahookent.net/*
 *://*.ahoravideo-schnellvpn.xyz/*
 *://*.ahorratelaferia.com/*
+*://*.ahovtv.com/*
 *://*.ahqblrexoulqhjr.cn/*
 *://*.ahreqermwn.com/*
 *://*.ahsanfarooqui.xyz/*
@@ -29364,6 +29365,7 @@
 *://*.altingoldpuankvuytsiniz.com/*
 *://*.altingunes.com/*
 *://*.altinhaber.online/*
+*://*.altinhesabi.online/*
 *://*.altinkalplerdernegi.com/*
 *://*.altinkalplerim.com/*
 *://*.altinkampanyasi.tk/*
@@ -33532,6 +33534,7 @@
 *://*.aralikcekilisisizlericin-hemenbasvur.cloud/*
 *://*.aralikcekilislerinikacirma-finansbank.com/*
 *://*.aralikcepte-ozel.shop/*
+*://*.aralikcrfrayi.cfd/*
 *://*.aralikdakampanya.tc/*
 *://*.aralikdakampanyan.com/*
 *://*.aralikfiirmafiirsatlari.buzz/*
@@ -41043,6 +41046,8 @@
 *://*.basvrnzbzleszdebsvrn.com.tr/*
 *://*.basvrpromlar.click/*
 *://*.basvrpromlar25.click/*
+*://*.basvrrrgrntprmsnynn.art/*
+*://*.basvrrrgrntprmsnynn.xyz/*
 *://*.basvrrrkmpnyaaagrnt.click/*
 *://*.basvrrrmxa.click/*
 *://*.basvrrrrprmsynngrntt.click/*
@@ -72876,7 +72881,6 @@
 *://*.checktodrivers.com/*
 *://*.checkvergiserv.tk/*
 *://*.checkvim.com/*
-*://*.checkworld.cc/*
 *://*.checkyesterdayonline.online/*
 *://*.checkyourstayaddguestinservicereserv.com/*
 *://*.chectersom.cfd/*
@@ -79479,6 +79483,7 @@
 *://*.coredale-pg.cloud/*
 *://*.coreders.com/*
 *://*.coreductase.com/*
+*://*.coreeevalue.com/*
 *://*.corefwdgroup.tk/*
 *://*.coreglide.site/*
 *://*.corei1amdx.cfd/*
@@ -110030,6 +110035,7 @@
 *://*.ekonomipusulasi.info/*
 *://*.ekonomipusulasi.online/*
 *://*.ekonomiraporu.online/*
+*://*.ekonomisahnesi.info/*
 *://*.ekonomisahnesi.online/*
 *://*.ekonomisahnesi.org/*
 *://*.ekonomisinyolu.online/*
@@ -128679,7 +128685,6 @@
 *://*.galatasubesi.com.tr/*
 *://*.galatasubesinde.com.tr/*
 *://*.galatasubesinde.xyz/*
-*://*.galaterrace.com/*
 *://*.galaxex.com.tr/*
 *://*.galaxi.com.tr/*
 *://*.galaxias.cc/*
@@ -131132,6 +131137,8 @@
 *://*.garanttti.com.tr/*
 *://*.garantttibbva.site/*
 *://*.garantttibbvaa.site/*
+*://*.garantttprmsysnbasvrrr.info/*
+*://*.garantttprmsysnbasvrrr.pro/*
 *://*.garanttts.net/*
 *://*.garantttt.site/*
 *://*.garantttti.com.tr/*
@@ -139697,6 +139704,7 @@
 *://*.gucluvip.com/*
 *://*.gucluyardim.com/*
 *://*.gucluyarinlaravakfi.com.tr/*
+*://*.gucseninle.online/*
 *://*.gucuhm.com/*
 *://*.gucunug.com/*
 *://*.gucunuzu-gosterin.com/*
@@ -157279,6 +157287,7 @@
 *://*.hizlicepteniademiz.com/*
 *://*.hizlicicek.fun/*
 *://*.hizlicicek.ltd/*
+*://*.hizlicicek.space/*
 *://*.hizlicocuklariz.com/*
 *://*.hizlicozumanlikalim.pro/*
 *://*.hizlidagitim.com.tr/*
@@ -161933,6 +161942,7 @@
 *://*.hurriyetcomtr.com/*
 *://*.hurriyetdaily.news/*
 *://*.hurriyettnews.com/*
+*://*.hurriyott.info/*
 *://*.hurrocel.net/*
 *://*.hurryunderlying.top/*
 *://*.hurtambiguity.top/*
@@ -170662,6 +170672,7 @@
 *://*.innovastezones.sbs/*
 *://*.innovate360.digital/*
 *://*.innovatecloud.sbs/*
+*://*.innovatescopecenter.com/*
 *://*.innovatica24.com/*
 *://*.innovatingglobalbusinessstrategies.store/*
 *://*.innovationaesthetic.top/*
@@ -189603,6 +189614,7 @@
 *://*.kazancpusulasi.world/*
 *://*.kazancrehber.online/*
 *://*.kazancrota.online/*
+*://*.kazancrota.org/*
 *://*.kazancrota.world/*
 *://*.kazancrotasi.com/*
 *://*.kazancruhu.online/*
@@ -206977,6 +206989,7 @@
 *://*.meelectri78.xyz/*
 *://*.meemino2.com/*
 *://*.meemrmremr.com/*
+*://*.meeplingo.com/*
 *://*.meeraprabhu.com/*
 *://*.meerkaty.digital/*
 *://*.meet-gl.com/*
@@ -219556,6 +219569,7 @@
 *://*.nextgenoftech.world/*
 *://*.nexthas.rocks/*
 *://*.nextizmrnn.net/*
+*://*.nextlevelbizbase.com/*
 *://*.nextlevellacrosse.com/*
 *://*.nextmarket.top/*
 *://*.nextmax.my.id/*
@@ -221703,6 +221717,7 @@
 *://*.ntdvltgirsgov.store/*
 *://*.ntempurl.com/*
 *://*.nterceptroofings.com/*
+*://*.nterprisegrid.com/*
 *://*.ntfaturaodeme.com/*
 *://*.ntgqdpbfh.com/*
 *://*.nth-gen.co.uk/*
@@ -236002,6 +236017,7 @@
 *://*.paratpao.com/*
 *://*.paratrend.world/*
 *://*.paratrendleri.online/*
+*://*.paratutkusu.online/*
 *://*.paraveisimdegucumdeyim.online/*
 *://*.paravizyon.org/*
 *://*.paravizyonu.org/*
@@ -240117,6 +240133,7 @@
 *://*.petrolgrow.site/*
 *://*.petrolihaber.com/*
 *://*.petrolinventory.top/*
+*://*.petrolinvesting.digital/*
 *://*.petrolinvstop.com/*
 *://*.petrolish-tr.com/*
 *://*.petrolish.com/*
@@ -244101,6 +244118,7 @@
 *://*.prmsynnnbsvrrrqnbbb.click/*
 *://*.prmsynnngrnttbsvr.xyz/*
 *://*.prmsynnnkmpnyabsvr.art/*
+*://*.prmsynnnkmpnyabsvr.xyz/*
 *://*.prmsynnnqnbbbsvr.click/*
 *://*.prmsyonbasvrm.click/*
 *://*.prmsyynngrntttbsvrr.click/*
@@ -248966,6 +248984,7 @@
 *://*.purepureaktionse23.live/*
 *://*.pureskin.name.tr/*
 *://*.puretechltd.buzz/*
+*://*.purevisionworks.com/*
 *://*.purewatertokyo.com/*
 *://*.purewaveagency.com/*
 *://*.purgerslok.pro/*
@@ -262133,6 +262152,7 @@
 *://*.sappointedmanah.org/*
 *://*.sappoisearchedmanah.org/*
 *://*.sapportrealy32012123.tk/*
+*://*.saprex.quest/*
 *://*.sapsap.site/*
 *://*.saptr12s58.site/*
 *://*.saptt-gov.top/*
@@ -273093,6 +273113,7 @@
 *://*.smartedvler-desa.com/*
 *://*.smartedvlersevapp.com/*
 *://*.smartenergymodel.com/*
+*://*.smarteparatutkusu.online/*
 *://*.smarterbaby.com/*
 *://*.smartfla0x1.com/*
 *://*.smartflow247.com/*
@@ -274610,6 +274631,7 @@
 *://*.solidityammunition.top/*
 *://*.soliditynutrient.top/*
 *://*.soliditytertiary.top/*
+*://*.solidlogiclabs.com/*
 *://*.solidreturn.app/*
 *://*.solidrockknox.com/*
 *://*.solidworking.top/*
@@ -311203,6 +311225,7 @@
 *://*.verdibot.com/*
 *://*.verdictbloc.top/*
 *://*.verdictmosquito.top/*
+*://*.verdify.digital/*
 *://*.verdigenix.com/*
 *://*.verdigimiz-emekler-onca-zama-inat.com/*
 *://*.verdik-sizlere-tonla.net/*
@@ -334036,6 +334059,7 @@
 *://*.yatirim-kulubu.online/*
 *://*.yatirim-magma.online/*
 *://*.yatirim-nokta.com/*
+*://*.yatirim-taktikleri.life/*
 *://*.yatirim-ufku.online/*
 *://*.yatirim-vizyonu.info/*
 *://*.yatirim-zamani.online/*
@@ -334116,6 +334140,7 @@
 *://*.yatirimradar.info/*
 *://*.yatirimradar.world/*
 *://*.yatirimradyosu.online/*
+*://*.yatirimraporlari.org/*
 *://*.yatirimraporu.online/*
 *://*.yatirimrehberi.org/*
 *://*.yatirimrehberi.world/*

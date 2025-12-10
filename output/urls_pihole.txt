@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-10 11:09:11 UTC
-# Toplam: 430258 Domain
+# Son Güncelleme: 2025-12-10 12:23:06 UTC
+# Toplam: 430288 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3539,6 +3539,7 @@
 11ziraat11.cfd
 12-21-32-43.tk
 12-55-52-63.cfd
+12-basvurularim.dvrlists.com
 12-glenkarrg-larexsipariszam.com
 12-ocak-aldinaldin.com
 12-ocak-firsatlari.shop
@@ -33297,6 +33298,7 @@ ahongdeash.net
 ahookent.net
 ahoravideo-schnellvpn.xyz
 ahorratelaferia.com
+ahovtv.com
 ahqblrexoulqhjr.cn
 ahqupwalvf.duckdns.org
 ahreqermwn.com
@@ -42731,6 +42733,7 @@ altingirisdenizmobilbankam.co.vu
 altingold.4cloud.click
 altingoldpuankvuytsiniz.com
 altinhaber.online
+altinhesabi.online
 altinkalplerdernegi.com
 altinkalplerim.com
 altinkampanyasi.tk
@@ -48166,6 +48169,7 @@ aralikcekilisinesendekatil-finansbank.com
 aralikcekilisisizlericin-hemenbasvur.cloud
 aralikcekilislerinikacirma-finansbank.com
 aralikcepte-ozel.shop
+aralikcrfrayi.cfd
 aralikdakampanya.tc
 aralikdakampanyan.com
 aralikfiirmafiirsatlari.buzz
@@ -57769,6 +57773,8 @@ basvrnsbbrdahmnetkla.click
 basvrnzbzleszdebsvrn.com.tr
 basvrpromlar.click
 basvrpromlar25.click
+basvrrrgrntprmsnynn.art
+basvrrrgrntprmsnynn.xyz
 basvrrrkmpnyaaagrnt.click
 basvrrrmxa.click
 basvrrrrprmsynngrntt.click
@@ -94600,7 +94606,6 @@ checkvergiserv.tk
 checkverifcation.ddns.net
 checkvim.com
 checkviolations1093821.duckdns.org
-checkworld.cc
 checkyesterdayonline.online
 checkyouraccnt.duckdns.org
 checkyourstayaddguestinservicereserv.com
@@ -102504,6 +102509,7 @@ corects.shop
 corecuttingmasters.com
 coredale-pg.cloud
 coreductase.com
+coreeevalue.com
 corefwdgroup.tk
 coreglide.site
 corei1amdx.cfd
@@ -138968,6 +138974,7 @@ ekonomiktrend.org
 ekonomikulisleri.org
 ekonomikulubu.info
 ekonomikveri.net
+ekonomikzone.com
 ekonomilive.online
 ekonominikfirsatlar.site
 ekonomipaneli.click
@@ -138981,6 +138988,7 @@ ekonomipulse.world
 ekonomipusulasi.info
 ekonomipusulasi.online
 ekonomiraporu.online
+ekonomisahnesi.info
 ekonomisahnesi.online
 ekonomisahnesi.org
 ekonomisinyolu.online
@@ -161559,7 +161567,6 @@ galatasubelerindeler.xyz
 galatasubesi.com.tr
 galatasubesinde.com.tr
 galatasubesinde.xyz
-galaterrace.com
 galatico.zapto.org
 galatsaray.zapto.org
 galaxex.com.tr
@@ -164767,6 +164774,8 @@ garantts.net
 garanttti.com.tr
 garantttibbva.site
 garantttibbvaa.site
+garantttprmsysnbasvrrr.info
+garantttprmsysnbasvrrr.pro
 garanttts.net
 garantttt.site
 garantttti.com.tr
@@ -175048,6 +175057,7 @@ gucluturkiye1923.site
 gucluturkiyecuzdani.com
 gucluyardim.com
 gucluyarinlaravakfi.com.tr
+gucseninle.online
 gucuhm.com
 gucunug.com
 gucunuzu-gosterin.com
@@ -195219,6 +195229,7 @@ hizlicepteniademiz.com
 hizlicezalar.22web.org
 hizlicicek.fun
 hizlicicek.ltd
+hizlicicek.space
 hizlicocuklariz.com
 hizlicozumanlikalim.pro
 hizlidabizimle.blogspot.com
@@ -200834,6 +200845,7 @@ hurriyetblog.top
 hurriyetcomtr.com
 hurriyetdaily.news
 hurriyettnews.com
+hurriyott.info
 hurrocel.net
 hurryunderlying.top
 hurse.ddns.net
@@ -211120,6 +211132,7 @@ innotisupepovbj.su
 innovastezones.sbs
 innovate.gulpminderdrink.com
 innovate360.digital
+innovatescopecenter.com
 innovatica24.com
 innovatingglobalbusinessstrategies.store
 innovationaesthetic.top
@@ -233594,6 +233607,7 @@ kazancpusulasi.online
 kazancpusulasi.world
 kazancrehber.online
 kazancrota.online
+kazancrota.org
 kazancrota.world
 kazancrotasi.com
 kazancruhu.online
@@ -256753,6 +256767,7 @@ meeiotamsklogin.webflow.io
 meelectri78.xyz
 meemino2.com
 meemrmremr.com
+meeplingo.com
 meeraprabhu.com
 meerkaty.digital
 meet-gl.com
@@ -272977,6 +272992,7 @@ nextgenmemorabilia.com
 nextgenoftech.world
 nexthas.rocks
 nextizmrnn.net
+nextlevelbizbase.com
 nextlevellacrosse.com
 nextmarket.top
 nextoffice.top
@@ -275982,6 +275998,7 @@ ntdpirmtpfnxpor.com
 ntdvltgirsgov.org
 ntdvltgirsgov.store
 nterceptroofings.com
+nterprisegrid.com
 ntfaturaodeme.com
 ntfct1onspgs5743.duckdns.org
 ntfctinspgs05454.duckdns.org
@@ -292089,6 +292106,7 @@ papayawhip-anteater-152311.hostingersite.com
 papc.online
 papcars.com
 papehrnmns.in
+papel-web-seven.vercel.app
 papelhost.site
 paper-planez.com
 paper326.xyz
@@ -293292,6 +293310,7 @@ paratakip.live
 paratpao.com
 paratrend.world
 paratrendleri.online
+paratutkusu.online
 paraveisimdegucumdeyim.online
 paravizyon.org
 paravizyonu.org
@@ -298104,6 +298123,7 @@ petrolfive.com
 petrolgrow.site
 petrolihaber.com
 petrolinventory.top
+petrolinvesting.digital
 petrolinvstop.com
 petrolish-tr.com
 petrolish.com
@@ -303093,6 +303113,7 @@ prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
 prmsynnnkmpnyabsvr.art
+prmsynnnkmpnyabsvr.xyz
 prmsynnnqnbbbsvr.click
 prmsyonbasvrm.click
 prmsyynngrntttbsvrr.click
@@ -308933,6 +308954,7 @@ purepanel.ddns.net
 purepureaktionse23.live
 pureskin.name.tr
 puretechltd.buzz
+purevisionworks.com
 purewatertokyo.com
 purewaveagency.com
 purgerslok.pro
@@ -328447,6 +328469,7 @@ sappointedmanah.org
 sappoisearchedmanah.org
 sapport-trrzorlgin.webflow.io
 sapportrealy32012123.tk
+saprex.quest
 sapsap.site
 saptr12s58.site
 saptt-gov.top
@@ -342265,6 +342288,7 @@ smartedvler-de.com
 smartedvler-desa.com
 smartedvlersevapp.com
 smartenergymodel.com
+smarteparatutkusu.online
 smarterbaby.com
 smartflow247.com
 smartfoodsglutenfree.kz
@@ -344122,6 +344146,7 @@ solidifytestimony.top
 solidityammunition.top
 soliditynutrient.top
 soliditytertiary.top
+solidlogiclabs.com
 solidqore.ddns.net
 solidreturn.app
 solidrockknox.com
@@ -366370,6 +366395,7 @@ toplukonutbasvurusu1.vercel.app
 toplukonutbasvurusudrieagu.vercel.app
 toplukonutbasvurusutoki.cloud
 toplukonutbasvuruuobdmq.vercel.app
+toplukonutbasvuruuxwp30843ff.vercel.app
 toplukonutbasvuruvhaogu3gh80.vercel.app
 toplukonutbasvuruvsts9mh0v.vercel.app
 toplukonutbasvuruw8pp4oyz0.vercel.app
@@ -366379,6 +366405,7 @@ toplukonutbasvuruxmyrq.vercel.app
 toplukonutbasvuruz999ead6.vercel.app
 toplukonutbasvuruzamani2025jj.duckdns.org
 toplukonutbasvuruzhuspm.vercel.app
+toplukonutbasvuruzi4c2zj32j6.vercel.app
 toplukonutidaresi.app
 toplukonutidaresi.com
 toplukonutidaresi.net
@@ -388631,6 +388658,7 @@ verdibloom.com
 verdibot.com
 verdictbloc.top
 verdictmosquito.top
+verdify.digital
 verdigenix.com
 verdigimiz-emekler-onca-zama-inat.com
 verdik-sizlere-tonla.net
@@ -418326,6 +418354,7 @@ yatirim-kubbe.online
 yatirim-kulubu.online
 yatirim-magma.online
 yatirim-nokta.com
+yatirim-taktikleri.life
 yatirim-ufku.online
 yatirim-vizyonu.info
 yatirim-zamani.online
@@ -418407,6 +418436,7 @@ yatirimpuan.online
 yatirimradar.info
 yatirimradar.world
 yatirimradyosu.online
+yatirimraporlari.org
 yatirimraporu.online
 yatirimrehberi.org
 yatirimrehberi.world
