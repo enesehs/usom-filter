@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-10 13:34:16 UTC
-! Total: 343403 rules
+! Last modified: 2025-12-10 15:12:47 UTC
+! Total: 343425 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -393,6 +393,7 @@
 *://*.0926tv.xyz/*
 *://*.092877.com/*
 *://*.092939-103920.com/*
+*://*.093214.xyz/*
 *://*.09322732543754.com/*
 *://*.093444599-2024.com/*
 *://*.0940503022131.cloud/*
@@ -14335,6 +14336,7 @@
 *://*.a101firsattanyararlan.com/*
 *://*.a101firsattlari.xyz/*
 *://*.a101firsatturkiye.online/*
+*://*.a101firsaturunlerkampanyasi.xyz/*
 *://*.a101firsatyolculugu.com/*
 *://*.a101firsatzamani.online/*
 *://*.a101frager.com/*
@@ -43255,6 +43257,7 @@
 *://*.basvurusmslergirislerim.net/*
 *://*.basvurusnm.cyou/*
 *://*.basvurusondakika.cf/*
+*://*.basvurusondonem.cfd/*
 *://*.basvurusononayekrani.org/*
 *://*.basvurusonuc-qnbfinans.com/*
 *://*.basvurusonuc-sorgula.com/*
@@ -54443,6 +54446,7 @@
 *://*.bireysell-basvrum-iade-ozel.xyz/*
 *://*.bireysell-basvrumu-iade-ozel.xyz/*
 *://*.bireysell-basvrumuz-iade-ozel.xyz/*
+*://*.bireysell-basvur.cfd/*
 *://*.bireysell-basvuru-ozel-iade.tk/*
 *://*.bireysell-basvurum-aidat-geri-ucret-iadem.xyz/*
 *://*.bireysell-basvurum-aidat-geri-ucret-iadesi.xyz/*
@@ -114461,6 +114465,7 @@
 *://*.epttavm-pazaryukleme.com/*
 *://*.epttavm-pttavm.com/*
 *://*.epttavm-pttavm.info/*
+*://*.epttavm-pttavm.online/*
 *://*.epttavm-pzryukleme.com/*
 *://*.epttavm-shop.com/*
 *://*.epttavm-sorgula.com/*
@@ -126123,6 +126128,7 @@
 *://*.fmilvjeo.xyz/*
 *://*.fmjqov.com/*
 *://*.fmltraderacedemy.com/*
+*://*.fmmercle.com/*
 *://*.fmoqkzx2.top/*
 *://*.fmovies123.top/*
 *://*.fmrpsp.top/*
@@ -127176,6 +127182,7 @@
 *://*.freeapprogram.ml/*
 *://*.freeapps3.ga/*
 *://*.freearess.online/*
+*://*.freearmy.ru/*
 *://*.freeavailabledomains.com/*
 *://*.freebiegalore.com/*
 *://*.freebiesvaults.info/*
@@ -133146,6 +133153,7 @@
 *://*.genellkargg.com/*
 *://*.genelmerkez.xyz/*
 *://*.genelmerkezdenetleme.com/*
+*://*.genelmerkezidirresmiyet.com/*
 *://*.genelmerkezrandevu.net/*
 *://*.genelmobilvakfbank.ml/*
 *://*.genelmtviade.com/*
@@ -133834,6 +133842,7 @@
 *://*.get-paramguvenli.co/*
 *://*.get-paramguvnde.online/*
 *://*.get-paranguvende.com/*
+*://*.get-paranguvende.site/*
 *://*.get-paranguvendesahibinden.com/*
 *://*.get-parasahibindenguvende.com/*
 *://*.get-parguvendesahibnden.com/*
@@ -139172,6 +139181,7 @@
 *://*.grnttbbvvaa.com/*
 *://*.grnttbbvvaa.online/*
 *://*.grnttbnvvca.net/*
+*://*.grnttbsvrrkmpnyaaa.pro/*
 *://*.grnttbsvruekrani.com/*
 *://*.grnttfiirsattzzamanii.site/*
 *://*.grnttibsvrruum.com/*
@@ -151004,6 +151014,7 @@
 *://*.hellifieldvillagehall.org.uk/*
 *://*.hellishere.store/*
 *://*.hellklartekirdag.com/*
+*://*.hellknight.xyz/*
 *://*.hellnctes.wiki/*
 *://*.hello-planet.com/*
 *://*.hello-vrchat.net/*
@@ -151718,6 +151729,7 @@
 *://*.hemenislem.com/*
 *://*.hemenislem.net/*
 *://*.hemenisleminiz.net/*
+*://*.hemenislemkalnssna.net/*
 *://*.hemenislemkalsnouta.online/*
 *://*.hemenislemkmesonuc.net/*
 *://*.hemenislemksnosnucv.net/*
@@ -162005,6 +162017,7 @@
 *://*.huysuznegs.xyz/*
 *://*.huzcihna.shop/*
 *://*.huzcqjw.com/*
+*://*.huzelnakilhzmet.sbs/*
 *://*.huzirh.com/*
 *://*.huznuhecemlayoruldumhayat.online/*
 *://*.huzumkurumvekurulusu.org/*
@@ -177123,6 +177136,7 @@
 *://*.istnabulkant.org/*
 *://*.istnabulkartlar.net/*
 *://*.istnanbllkart.com/*
+*://*.istnasbdulbursdolrmsd.shop/*
 *://*.istnasbdulbursdolrmsd.store/*
 *://*.istnb-lkrt.net/*
 *://*.istnb.net/*
@@ -182156,6 +182170,7 @@
 *://*.johncheston.com/*
 *://*.johnelwayclaremontcdjr.com/*
 *://*.johnfabiconinteraption.ru/*
+*://*.johnfashionaccess.com/*
 *://*.johnfoxphotography.com/*
 *://*.johnfrenchart.com/*
 *://*.johnheckrecbe.com/*
@@ -194636,6 +194651,7 @@
 *://*.krcafirsatlrynnz.com/*
 *://*.krcaikibinyirmibes.shop/*
 *://*.krcaindirimdunyasi.xyz/*
+*://*.krcakiseznu.cfd/*
 *://*.krcakrlkkszmni.com/*
 *://*.krcaksmgzlbrda.com/*
 *://*.krcaksyenlkleri.com/*
@@ -203747,6 +203763,7 @@
 *://*.maliyebakanligi.com.tr/*
 *://*.maliyebakanligigirisitr.ml/*
 *://*.maliyebakanligiiadebirimi.com/*
+*://*.maliyeborcu.org/*
 *://*.maliyeburomuz.com/*
 *://*.maliyeburonuz.com/*
 *://*.maliyecarkifelek.com/*
@@ -229186,6 +229203,7 @@
 *://*.onlinemerkezidestek.com/*
 *://*.onlinemerkeziniz.net/*
 *://*.onlinemetabank.info/*
+*://*.onlinemis1emtrapp.online/*
 *://*.onlinemmarket.com.tr/*
 *://*.onlinemmarket.info.tr/*
 *://*.onlinemmarket.org.tr/*
@@ -249705,6 +249723,7 @@
 *://*.qingcdn.com/*
 *://*.qinggexiachushouxiang.top/*
 *://*.qiniuapi.com/*
+*://*.qiqigece.top/*
 *://*.qiquan01.com/*
 *://*.qiqwenqweqausdnq.com/*
 *://*.qisxnikm.com/*
@@ -251337,6 +251356,7 @@
 *://*.qtrek.info/*
 *://*.qtrsdg-24-dgsdg.space/*
 *://*.qtrsearch.com/*
+*://*.qtss.cc/*
 *://*.qttg.site/*
 *://*.qttgav.sbs/*
 *://*.qttgov.lol/*
@@ -284571,6 +284591,7 @@
 *://*.tapeevaporation.top/*
 *://*.tapegrid.top/*
 *://*.tapelawsearchspecial.click/*
+*://*.tapeqcqoptions.com/*
 *://*.taperepressive.top/*
 *://*.tapex.click/*
 *://*.tapfkohbs.online/*
@@ -306080,6 +306101,7 @@
 *://*.usbdestekleyenbuzdolab.cfd/*
 *://*.usbdestekleyenbuzdolab.xyz/*
 *://*.usbkonline.co/*
+*://*.usbx.me/*
 *://*.uscbrgtkpspq.com/*
 *://*.uscc-hr.com/*
 *://*.uscoidea.com/*
