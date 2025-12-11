@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-11 04:25:03 UTC
-! Total: 343468 rules
+! Last modified: 2025-12-11 05:13:12 UTC
+! Total: 343471 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -283712,6 +283712,7 @@
 *://*.t0kievleribasvuru.sbs/*
 *://*.t0kievleribasvurulaari.sbs/*
 *://*.t0kievleribasvurulari.sbs/*
+*://*.t0kievleribasvuuurulari.sbs/*
 *://*.t0kievleriibasvuruu.sbs/*
 *://*.t0kievlerikonutbasvur.top/*
 *://*.t0kievvbaasvurularim.com/*
@@ -310433,6 +310434,7 @@
 *://*.vatandas-portal-online.net/*
 *://*.vatandas-portal.app/*
 *://*.vatandas-portal.net/*
+*://*.vatandas-portal.online/*
 *://*.vatandas-portal.org/*
 *://*.vatandas-portal2020.ml/*
 *://*.vatandas-portalgiris-govtr.com/*
@@ -341581,6 +341583,7 @@
 *://*.ziraatbankt.com/*
 *://*.ziraatbanktk.com/*
 *://*.ziraatbanktr-e.com/*
+*://*.ziraatbanktr.com/*
 *://*.ziraatbanktrweb.com/*
 *://*.ziraatbankturkey.com/*
 *://*.ziraatbankturkeysubeleri.com/*
