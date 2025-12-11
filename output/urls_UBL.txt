@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-11 09:15:08 UTC
-! Total: 343488 rules
+! Last modified: 2025-12-11 10:11:45 UTC
+! Total: 343498 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62491,6 +62491,7 @@
 *://*.branchpowermonitor.com.au/*
 *://*.branchsweet.net/*
 *://*.branchtist.com/*
+*://*.branchufall.cyou/*
 *://*.brand-clothes.net/*
 *://*.brand-key.com/*
 *://*.brand-newcontemplate.top/*
@@ -112500,6 +112501,7 @@
 *://*.engineeringvolatility.top/*
 *://*.enginefragrance.top/*
 *://*.enginkurulususydv.com.tr/*
+*://*.enginovus.com/*
 *://*.englandlistings.com/*
 *://*.english-breakfast.xyz/*
 *://*.english-plays.com/*
@@ -121463,6 +121465,7 @@
 *://*.feroshaliyikamacasi.site/*
 *://*.ferozo.com/*
 *://*.ferracasa.site/*
+*://*.ferraraferreira.adv.br/*
 *://*.ferrecorte.com/*
 *://*.ferreraembroideryandprinting.com/*
 *://*.ferromny.digital/*
@@ -138299,6 +138302,7 @@
 *://*.graduationoverstate.top/*
 *://*.graf-orloff.ru/*
 *://*.grafah.xyz/*
+*://*.grafenvio.store/*
 *://*.graficasicarpearanjuez.com/*
 *://*.grafind.xyz/*
 *://*.grafine.xyz/*
@@ -149799,6 +149803,7 @@
 *://*.hazirdosya.online/*
 *://*.hazirdukkan.xyz/*
 *://*.hazirfirsataynidevam.online/*
+*://*.hazirfirsatimsendekamsadp.site/*
 *://*.hazirfirsatlar.com/*
 *://*.hazirgiris-halkbank.com/*
 *://*.hazirgirisislemlerinebasvur.online/*
@@ -181750,6 +181755,7 @@
 *://*.jewmibyftryk1.website/*
 *://*.jewnjksbs.net/*
 *://*.jewsondirect.com/*
+*://*.jexaltra.store/*
 *://*.jexanurbz.com/*
 *://*.jey90080425s.cfd/*
 *://*.jeyahopdblxjkbk.su/*
@@ -182003,6 +182009,7 @@
 *://*.jkbytvvcela.com/*
 *://*.jkcegblna.com/*
 *://*.jkchecker.site/*
+*://*.jkepley.com/*
 *://*.jkgajksfjasdhjsa.net/*
 *://*.jkghdj2993jdjjdjd.ru/*
 *://*.jkgiuygbasjkn.top/*
@@ -216338,6 +216345,7 @@
 *://*.mwhnpqrmrn.in/*
 *://*.mwieurgbd114kjuvtg.com/*
 *://*.mwkyuweemsik.org/*
+*://*.mwlla.com/*
 *://*.mwlomowordilwedesldiat.com/*
 *://*.mwlsea.com/*
 *://*.mwnlbxiv.com/*
@@ -252788,6 +252796,7 @@
 *://*.randefarios.info/*
 *://*.randejavulav.net/*
 *://*.randemhrs.net/*
+*://*.randenes.com/*
 *://*.randervni.net/*
 *://*.randervuni.net/*
 *://*.randesexrengar.dev/*
@@ -264850,6 +264859,7 @@
 *://*.semrush.works/*
 *://*.semrussh.sbs/*
 *://*.semtbura.xyz/*
+*://*.semu69-pemberi-rejeki.cfd/*
 *://*.semufuu.com/*
 *://*.sen-aldigin-surece-devam.com.tr/*
 *://*.sen-alirsan-herkes-gorur-bizlerde-sevilsek.xyz/*
