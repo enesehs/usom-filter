@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-11 08:15:22 UTC
-# Toplam: 430415 Domain
+# Son Güncelleme: 2025-12-11 09:15:08 UTC
+# Toplam: 430420 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -234165,6 +234165,7 @@ keentler.tk
 keentogether.top
 keep-badinigroups.com
 keep-carbon.gl.at.ply.gg
+keep.camdvr.org
 keeparrive.top
 keepas.org
 keepass.cutestboty.com
@@ -239670,6 +239671,7 @@ konutu-basvurular.click
 konutu-basvurum.click
 konutu-basvurusu.click
 konutum.click
+konutumgayrimenkul.myonlineportal.de
 konutumsenleguzel.site
 konutun.org
 konutuna-basvuruyap.com
@@ -265720,6 +265722,7 @@ mt7d3ob7u.duckdns.org
 mt8bankingd.ddns.net
 mt8bnk.ddns.net
 mta-sts.mypasskey.info
+mta0.variqn.net
 mtacctsignup.ddns.net
 mtamseklogin.webflow.io
 mtandtaccounttoday.ddns.net
@@ -300254,6 +300257,7 @@ po32048551238745234.store
 po85st1it1lia.hopto.org
 poaannerqq.duckdns.org
 poalsfgjjalsf.vercel.app
+pobaku.com
 pobdas0vv.duckdns.org
 pobiqii.shop
 poc.kjf.icu
@@ -392923,6 +392927,7 @@ vpqersqjmanyfdw.su
 vpqqqiggpp.duckdns.org
 vpr.pprv1.com
 vps-be693234.vps.ovh.net
+vps-zap812595-1.zap-srv.com
 vps.hsmiths.com
 vps.limited
 vps.rebirth-network.su
