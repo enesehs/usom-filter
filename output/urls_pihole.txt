@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-11 16:14:18 UTC
-# Toplam: 430460 Domain
+# Son Güncelleme: 2025-12-11 18:13:14 UTC
+# Toplam: 430475 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40729,6 +40729,7 @@ aldinkapidafrsattlar1o1.online
 aldinkapidafrsattlar1o1.xyz
 aldinkialacazburda.duckdns.org
 aldinkikazanacazba.blogdns.org
+aldinlarozel.blogspot.com
 aldinligunler.com
 aldinlldinnnnflrkmckflrkcmsdlfr.store
 aldinmatkaps505.xyz
@@ -48097,6 +48098,7 @@ arafcfimuayynen.org
 arafetjihed.zapto.org
 arahasitof.digital
 arahgsz.com
+arailik-ozl-flrsatlari.cfd
 araistesagsoldaaa.com
 arakanasahipcik.net
 arakanayardim.com
@@ -63417,6 +63419,7 @@ bellspectrum.top
 bellsyndicate.top
 bellumggartor.com
 bellummlekg.com
+bellvoro.art
 bellyenvoy.top
 belmirrvalf.com
 belmrs.click
@@ -194857,6 +194860,7 @@ hizli-transfer-ekrani.online
 hizli-ve-kolay-islemler.b-cdn.net
 hizli-yenidenizbasvurubireysel.com
 hizli-yilsonusiparis.shop
+hizli-ynlendirme-stiye-git.sbs
 hizli-yukle-bim-tl-opk.com
 hizli-yukle-bimcelll.com
 hizli-yukle.cf
@@ -207506,6 +207510,7 @@ ilkevimbasvuru7iuox19l3b74.vercel.app
 ilkevimbasvuru7mklfxo4xx6d.vercel.app
 ilkevimbasvuru7sajjggky7lk.vercel.app
 ilkevimbasvuru7tlyxx22h42q.vercel.app
+ilkevimbasvuru8c5b.onrender.com
 ilkevimbasvuru9806dusl1.vercel.app
 ilkevimbasvuru9wd4sj0bosb.vercel.app
 ilkevimbasvurua2mpzn06t.vercel.app
@@ -234790,6 +234795,7 @@ kepimyeni.net
 kepimyenileme.net
 kepktvwdzlqogsj.io
 keple.pl
+kepn11.com
 kepoker.hopto.org
 keponay.net
 keportsitno.com
@@ -254639,6 +254645,7 @@ marmara-budapest.com
 marmarademo.com
 marmaraedutr.creatorlink.net
 marmaranergis.net
+marmaratr.weebly.com
 marmilas.site
 marmulad.su
 marnead.cyou
@@ -259995,6 +260002,7 @@ miropc.org
 miropidevata.top
 mirotalk.net
 mirotanko.top
+mirotonc.com
 mirra.hopto.org
 mirror.ddns.net
 mirror1-whatsapp.com
@@ -300931,6 +300939,7 @@ portal-devletsosyalyardimlasma.com
 portal-digid.ddns.net
 portal-dihk.duckdns.org
 portal-donembasliyor.com
+portal-e-devlet.com
 portal-e-hizmetler-sorgu.com
 portal-edevletim-iadeleri.com
 portal-eiade-com.com
@@ -302727,6 +302736,7 @@ prestbusiness.co.za
 prestecromwellinterna.com
 prestigebruise.top
 prestigeextravagant.top
+prestigefilo.com
 prestigegroupinsaat.com
 prestigein-am.jp
 prestigemetall.com
@@ -312858,6 +312868,7 @@ qwcwiusixihhxtx.ru
 qwdasdanxdnmwq.net
 qwdqw362sdsd-21421casc.com
 qwdssurudtpf.biz
+qwdwecvsdzcv.duckdns.org
 qwe1.online.swtest.ru
 qwe123asd123qwe123asd.xyz
 qwe1991.ddns.net
@@ -313510,6 +313521,7 @@ ragebit.ddns.net
 ragecasualty.top
 ragefire558.ddns.net
 ragethrifty.top
+rageturku.com
 ragfdsgdhjk.click
 raggedintuition.top
 raggedlynotorious.top
@@ -338915,6 +338927,7 @@ sikayetvarmobil-24.sbs
 sikayetvarmobil-26.sbs
 sikayetvarmobil-27.sbs
 sikayetvarmobil-30.sbs
+sikayetvarmobil-4.sbs
 sikayetvarr-destek.cf
 sikayetvarr.cf
 sikayetvarr.co
@@ -366025,6 +366038,7 @@ toklbsvrrlari.org
 toklden2025sorgulayin.qzz.io
 toklerbasvuru.blogspot.com
 toklevimbasvurusu.work.gd
+toklgovtr.cfd
 toklgovtr.click
 toklgovtr.com
 toklgovtr.sbs
@@ -367922,6 +367936,7 @@ tr-gratis.duckdns.org
 tr-gratis.dynuddns.com
 tr-grattis.ddnsguru.com
 tr-grattis.dynuddns.com
+tr-grn-b.my-homeip.com
 tr-grsadrsmrkz.com
 tr-grscmrbasknlgiadrs.com
 tr-grscmrbsvrun.com

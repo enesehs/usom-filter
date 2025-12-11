@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-11 16:14:18 UTC
-! Total: 343520 rules
+! Last modified: 2025-12-11 18:13:14 UTC
+! Total: 343530 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33459,6 +33459,7 @@
 *://*.arafcfimuayynen.org/*
 *://*.arahasitof.digital/*
 *://*.arahgsz.com/*
+*://*.arailik-ozl-flrsatlari.cfd/*
 *://*.araistesagsoldaaa.com/*
 *://*.arakanasahipcik.net/*
 *://*.arakanayardim.com/*
@@ -45888,6 +45889,7 @@
 *://*.bellsyndicate.top/*
 *://*.bellumggartor.com/*
 *://*.bellummlekg.com/*
+*://*.bellvoro.art/*
 *://*.bellyenvoy.top/*
 *://*.belmar-marketing.online/*
 *://*.belmirrvalf.com/*
@@ -156998,6 +157000,7 @@
 *://*.hizli-transfer-ekrani.online/*
 *://*.hizli-yenidenizbasvurubireysel.com/*
 *://*.hizli-yilsonusiparis.shop/*
+*://*.hizli-ynlendirme-stiye-git.sbs/*
 *://*.hizli-yukle-bim-tl-opk.com/*
 *://*.hizli-yukle-bimcelll.com/*
 *://*.hizli-yukle.cf/*
@@ -190593,6 +190596,7 @@
 *://*.kepimyenileme.net/*
 *://*.kepktvwdzlqogsj.io/*
 *://*.keple.pl/*
+*://*.kepn11.com/*
 *://*.keponay.net/*
 *://*.keportsitno.com/*
 *://*.keptrendyol.net/*
@@ -209429,6 +209433,7 @@
 *://*.miropidevata.top/*
 *://*.mirotalk.net/*
 *://*.mirotanko.top/*
+*://*.mirotonc.com/*
 *://*.mirror-codes.net/*
 *://*.mirror1-whatsapp.com/*
 *://*.mirrorerase.top/*
@@ -242274,6 +242279,7 @@
 *://*.portal-devletsosyalyardimbasvuru.com/*
 *://*.portal-devletsosyalyardimlasma.com/*
 *://*.portal-donembasliyor.com/*
+*://*.portal-e-devlet.com/*
 *://*.portal-e-hizmetler-sorgu.com/*
 *://*.portal-edevletim-iadeleri.com/*
 *://*.portal-eiade-com.com/*
@@ -243776,6 +243782,7 @@
 *://*.prestecromwellinterna.com/*
 *://*.prestigebruise.top/*
 *://*.prestigeextravagant.top/*
+*://*.prestigefilo.com/*
 *://*.prestigegroupinsaat.com/*
 *://*.prestigein-am.jp/*
 *://*.prestigemetall.com/*
@@ -252179,6 +252186,7 @@
 *://*.ragazzemessenger.com/*
 *://*.ragecasualty.top/*
 *://*.ragethrifty.top/*
+*://*.rageturku.com/*
 *://*.ragfdsgdhjk.click/*
 *://*.raggedintuition.top/*
 *://*.raggedlynotorious.top/*
@@ -270089,6 +270097,7 @@
 *://*.sikayetvarmobil-26.sbs/*
 *://*.sikayetvarmobil-27.sbs/*
 *://*.sikayetvarmobil-30.sbs/*
+*://*.sikayetvarmobil-4.sbs/*
 *://*.sikayetvarr-destek.cf/*
 *://*.sikayetvarr.cf/*
 *://*.sikayetvarr.co/*
@@ -292497,6 +292506,7 @@
 *://*.toklbsvrlarinizburda.com/*
 *://*.toklbsvrlarinizburda.online/*
 *://*.toklbsvrrlari.org/*
+*://*.toklgovtr.cfd/*
 *://*.toklgovtr.click/*
 *://*.toklgovtr.com/*
 *://*.toklgovtr.sbs/*
