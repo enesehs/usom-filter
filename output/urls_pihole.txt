@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-11 23:09:39 UTC
-# Toplam: 430492 Domain
+# Son Güncelleme: 2025-12-12 03:53:06 UTC
+# Toplam: 430504 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30114,6 +30114,7 @@ acilykleme.22web.org
 acilyolyardimturkiye.xyz
 acimapoolcok.site
 acimaz.cfd
+acimazyokeder.cfd
 acinhalindenacanlar.online
 acity-lawfirm.com
 aciveriyoryenibastansevmesi.click
@@ -174213,6 +174214,7 @@ grmae.com
 grn-fsrksmgsjgsjfgksgwejwqjfsjagjasksfsalggsasf.online
 grn-sfgkwssg.sbs
 grn-skfalfmvsskfhfkvjfkcnff.online
+grn-tr-b.my-homeip.com
 grn-tsmonss.sbs
 grn.warrantybbv.site
 grn34e129dz.store
@@ -209804,6 +209806,7 @@ indirimler20gb-turkcell.com
 indirimlera101.com
 indirimleraktuelfirsatlari.com
 indirimlerbasladi.duckdns.org
+indirimlerbasladi.store
 indirimlerbayramdabizde.com.tr
 indirimlerbayramdabizde.online
 indirimlerburada.life
@@ -262690,6 +262693,7 @@ mobileretrospective.top
 mobiles-sessionid.customize-identity.info
 mobilesahibiniden.app
 mobilescfsbenkazanirimsizkazanin.shop
+mobileservisin.com
 mobilesolo.top
 mobilesolutions.store
 mobilesprinkle.top
@@ -269046,6 +269050,7 @@ mydvr22.vercel.app
 mydvrsafe.ddns.net
 mydyson-dyson.com.tr
 mydyson.com.tr
+mydyson.indirimlerbasladi.store
 mydyyson.shop
 myeafcuacess.hopto.org
 myeblaghye.tk
@@ -318254,6 +318259,7 @@ respectivelydelusion.top
 respectivestump.top
 respectivesystem.top
 respectlocomotive.top
+respects.click
 respekt5568.com
 respoartisj.duckdns.org
 responddiscern.top
@@ -322262,6 +322268,7 @@ s3cureloginchaseebn.hopto.org
 s3em0fhq.duckdns.org
 s3gbtl.duckdns.org
 s3kerl1111.xyz
+s3kfso2.web.app
 s3l4m.xyz
 s3mfo5rvi.duckdns.org
 s3og4in.click
@@ -340197,6 +340204,7 @@ siparislerim-onayli-127451.com
 siparislerim-onayli-127452.com
 siparislerim.net
 siparislerimhizlim.cloud
+siparislerimiz.com
 siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
@@ -382188,6 +382196,7 @@ urunler-aktuel.com
 urunler-aktuel.online
 urunler-dyson.com.tr
 urunler-ilan.com
+urunler-ilan.com.tr
 urunler-indirimli.store
 urunler-indirimliler.store
 urunler-mobile.com
@@ -395668,6 +395677,7 @@ web-global-kredi-hizmetti.net
 web-global-kredim-ak.net
 web-globalde-girisler2025.net
 web-go-devlet-iadeleri-basvurusu-gov-tr.com
+web-grn-b.my-homeip.com
 web-gumtree.com
 web-guvenli-islem.sbs
 web-guvenli-online-e-aidat-basvurusu-2021.xyz
@@ -398744,6 +398754,7 @@ weworkhard.xyz
 weworld59.myartsonline.com
 weworld78.atwebpages.com
 weworld79.mygamesonline.org
+wewqewnqnnsnnasnnssfrrstlari.com
 wex1faggo.hopto.org
 wexad11.000webhostapp.com
 wexbipddvo.duckdns.org
@@ -421434,6 +421445,7 @@ yetmlervakfi.org
 yetnex.xyz
 yetoevrenores.duckdns.org
 yetprofile.top
+yettiak.sbs
 yetttttt102.top
 yetttttt109.top
 yetttttt120.top

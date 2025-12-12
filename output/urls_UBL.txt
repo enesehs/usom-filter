@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-11 23:09:39 UTC
-! Total: 343542 rules
+! Last modified: 2025-12-12 03:53:06 UTC
+! Total: 343550 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -18856,6 +18856,7 @@
 *://*.acilyolyardimturkiye.xyz/*
 *://*.acimapoolcok.site/*
 *://*.acimaz.cfd/*
+*://*.acimazyokeder.cfd/*
 *://*.acimueicxvraahcl.com/*
 *://*.acinhalindenacanlar.online/*
 *://*.acintyaenergy.com/*
@@ -169548,6 +169549,7 @@
 *://*.indirimler20gb-turkcell.com/*
 *://*.indirimlera101.com/*
 *://*.indirimleraktuelfirsatlari.com/*
+*://*.indirimlerbasladi.store/*
 *://*.indirimlerbayramdabizde.com.tr/*
 *://*.indirimlerbayramdabizde.online/*
 *://*.indirimlerburada.life/*
@@ -211669,6 +211671,7 @@
 *://*.mobileretrospective.top/*
 *://*.mobilesahibiniden.app/*
 *://*.mobilescfsbenkazanirimsizkazanin.shop/*
+*://*.mobileservisin.com/*
 *://*.mobilesolo.top/*
 *://*.mobilesolutions.store/*
 *://*.mobilesprinkle.top/*
@@ -255784,6 +255787,7 @@
 *://*.respectivestump.top/*
 *://*.respectivesystem.top/*
 *://*.respectlocomotive.top/*
+*://*.respects.click/*
 *://*.respekt5568.com/*
 *://*.responddiscern.top/*
 *://*.respondentbreach.top/*
@@ -271286,6 +271290,7 @@
 *://*.siparislerim-onayli-127452.com/*
 *://*.siparislerim.net/*
 *://*.siparislerimhizlim.cloud/*
+*://*.siparislerimiz.com/*
 *://*.siparislerin.com/*
 *://*.siparislerin18in.cloud/*
 *://*.siparislerin20agustonsanta.net/*
@@ -306016,6 +306021,7 @@
 *://*.urunler-aktuel.com/*
 *://*.urunler-aktuel.online/*
 *://*.urunler-dyson.com.tr/*
+*://*.urunler-ilan.com.tr/*
 *://*.urunler-ilan.com/*
 *://*.urunler-indirimli.store/*
 *://*.urunler-indirimliler.store/*
@@ -318560,6 +318566,7 @@
 *://*.wewillcall31512123456789.tk/*
 *://*.weworkhappy.com/*
 *://*.weworkhard.xyz/*
+*://*.wewqewnqnnsnnasnnssfrrstlari.com/*
 *://*.wewsite.tk/*
 *://*.wexonlake.com/*
 *://*.weysg.com.tr/*
@@ -336696,6 +336703,7 @@
 *://*.yetmlervakfi.org/*
 *://*.yetnex.xyz/*
 *://*.yetprofile.top/*
+*://*.yettiak.sbs/*
 *://*.yetttttt102.top/*
 *://*.yetttttt109.top/*
 *://*.yetttttt120.top/*
