@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 22:09:44 UTC
-! Total: 343822 rules
+! Last modified: 2025-12-12 23:09:46 UTC
+! Total: 343824 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33509,6 +33509,7 @@
 *://*.aralik-senesonu-sonfirsat.shop/*
 *://*.aralik-son-firsatiniz.com/*
 *://*.aralik-son-firsatlar.com/*
+*://*.aralik10basvuru.cfd/*
 *://*.aralik10yilkampanyasi-yilbasiozel.com/*
 *://*.aralik10yilkampanyasi-yilbasiozelfirsatlar.net/*
 *://*.aralik10yilozel-basvuru.com/*
@@ -193179,6 +193180,7 @@
 *://*.kmpyaa1o1brssda.com/*
 *://*.kmpyaaabsvrrrprmsyn.click/*
 *://*.kmpyaaabsvrrrprmsyn.info/*
+*://*.kmpyadakalsendefirsatim.site/*
 *://*.kmpyadakatilsendealhemen.site/*
 *://*.kmpyadestek.club/*
 *://*.kmpyalarherg.click/*
