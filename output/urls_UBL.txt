@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 11:09:52 UTC
-! Total: 343628 rules
+! Last modified: 2025-12-12 12:24:04 UTC
+! Total: 343641 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -34474,6 +34474,7 @@
 *://*.arthearts.com/*
 *://*.arthemo.com/*
 *://*.arthrodirous.com/*
+*://*.arthurpsh.com/*
 *://*.arthursaito.club/*
 *://*.arti-arti.online/*
 *://*.arti-gunleri-seninle-2024.xyz/*
@@ -67360,6 +67361,7 @@
 *://*.bxzhhbmcel.com/*
 *://*.bxzjl.com/*
 *://*.bxzmckll.com/*
+*://*.bxzvbewklqlgepwjwqnfds.today/*
 *://*.bxzxmlxzmvznx.net/*
 *://*.bxzxscelluygunadolumcun.net/*
 *://*.by-binance-yeni-yil.net/*
@@ -72515,6 +72517,7 @@
 *://*.cfxaplkxinyaibxch.net/*
 *://*.cfxsecurity.co/*
 *://*.cg-resmiaidat-kurumsalgiris.com/*
+*://*.cg0znqz.top/*
 *://*.cg6h69.vip/*
 *://*.cgaeknedaotrxci.ru/*
 *://*.cgatgpt.net/*
@@ -91637,6 +91640,7 @@
 *://*.dexuspro.org/*
 *://*.dexusticaret.com/*
 *://*.dexuvo.pro/*
+*://*.dexvolar.site/*
 *://*.deydimisdkan.net/*
 *://*.dez-menu.online/*
 *://*.dezhen.icu/*
@@ -127990,6 +127994,7 @@
 *://*.fulfillmentbrace.top/*
 *://*.fulfilmentobsess.top/*
 *://*.fulfilnotoriety.top/*
+*://*.fulfurd.com/*
 *://*.fulgentbnanncegiris.online/*
 *://*.full-confirmation-reservation.world/*
 *://*.full-request-confirmation.world/*
@@ -139230,6 +139235,7 @@
 *://*.grntkkrdmbsvr.site/*
 *://*.grntkmpnya.shop/*
 *://*.grntkmpnya27319.site/*
+*://*.grntkmpnyaacklsbsvru.info/*
 *://*.grntkmpnyaacklsbsvru.pro/*
 *://*.grntkrdm.shop/*
 *://*.grntkrdm.site/*
@@ -147656,6 +147662,7 @@
 *://*.hanmails.net/*
 *://*.hanmha.com/*
 *://*.hanmhdgmnmnmfdsanfhdasfkasddgamsfmng.site/*
+*://*.hanmhmnahmnamnhmanhmnahasermet.xyz/*
 *://*.hanmhmnahmnanmghnmadsgnmhmnahmnasrmt.xyz/*
 *://*.hannacsm.com/*
 *://*.hannanaslan.com.tr/*
@@ -152584,6 +152591,7 @@
 *://*.hepsiburadawork.xyz/*
 *://*.hepsiburadax.com/*
 *://*.hepsiburaday.com/*
+*://*.hepsiburadayaninda.com/*
 *://*.hepsiburadaz.com/*
 *://*.hepsiburade.top/*
 *://*.hepsiburado.com/*
@@ -191514,6 +191522,7 @@
 *://*.kilomtresrguchp.xyz/*
 *://*.kilomtresrlgmsabrda.click/*
 *://*.kilomtreustasi.cfd/*
+*://*.kilomtrezoryarisirlar.cfd/*
 *://*.kilomunara.com/*
 *://*.kilomutresordu.autos/*
 *://*.kilomutresordu.click/*
@@ -207614,6 +207623,7 @@
 *://*.mentalite.cfd/*
 *://*.mentalite.online/*
 *://*.mentalitevkf.com/*
+*://*.mentality.cloud/*
 *://*.mentallyillmotherhood.com/*
 *://*.mentalquiz.org/*
 *://*.mentarihati.com/*
@@ -209217,6 +209227,7 @@
 *://*.milon-com.xyz/*
 *://*.milonga-a-promotora.pt/*
 *://*.milonic-jquery.top/*
+*://*.milonixep.com/*
 *://*.milonopensky.store/*
 *://*.milorapasata.top/*
 *://*.milotrad.ru/*
@@ -217282,6 +217293,7 @@
 *://*.n11order.cc/*
 *://*.n11paketleme.site/*
 *://*.n11shoppingmall.online/*
+*://*.n11sp.net/*
 *://*.n11task.cc/*
 *://*.n11task.com/*
 *://*.n12eas-fasq2363f.com/*
@@ -274905,6 +274917,7 @@
 *://*.solveblemten.com/*
 *://*.solveconcise.top/*
 *://*.solvedilute.top/*
+*://*.solvenix.art/*
 *://*.solvent-arc.online/*
 *://*.solventrecurrence.top/*
 *://*.solventretrospect.top/*
