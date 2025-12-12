@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-12 14:01:47 UTC
-# Toplam: 430630 Domain
+# Son Güncelleme: 2025-12-12 15:11:10 UTC
+# Toplam: 430653 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45485,6 +45485,7 @@ anytreeggnasneefor.net
 anywayassassin.top
 anywaycomxon.top
 anywayinfringement.top
+anywherehost.site
 anz-paymentverification.com
 anz-support.ddns.net
 anzanihealth.co.za
@@ -53393,6 +53394,7 @@ aws-check.net
 aws-payplservice-last-day-activity-and-service.wanguk18.com
 aws.coinbase-com.info
 aws.inst.coinbase-com.info
+aws.orgserv.dnsnet.cloud.anondns.net
 aws1-console-login.us
 aws1-ec2-console.com
 aws1-us-west.info
@@ -53452,6 +53454,7 @@ ax1obir-firstxlrixm.xyz
 ax1x0x1drmlr.com.tr
 ax1x0x1drmlr.online
 ax1x0x1drmlr.xyz
+ax29g9q123.anondns.net
 ax4.duckdns.org
 ax5wmo35o.duckdns.org
 ax7pcxv.duckdns.org
@@ -82460,6 +82463,7 @@ brengservice191323.hopto.org
 brenity.store
 brennaro.site
 brentovaris.com
+brenvora.in
 brenz.pl
 brep.cdn-edu.net
 brer1ksnoz0kflsl1yashcxes.com
@@ -168232,6 +168236,7 @@ getirburda.online
 getircarent.com
 getircarrentle.com
 getirentcar.com
+getirfinan.com
 getirgoturdom330.com
 getirhqs.xyz
 getirkariyer.com
@@ -207574,6 +207579,7 @@ ilkevimbasvuru2tm7fezb9r8g.vercel.app
 ilkevimbasvuru2uurr7swcr.vercel.app
 ilkevimbasvuru537h2kp7.vercel.app
 ilkevimbasvuru5g6oe5zpesp.vercel.app
+ilkevimbasvuru76168.onrender.com
 ilkevimbasvuru7iuox19l3b74.vercel.app
 ilkevimbasvuru7mklfxo4xx6d.vercel.app
 ilkevimbasvuru7sajjggky7lk.vercel.app
@@ -210501,6 +210507,7 @@ ineodc.top
 ineowz.top
 ineragons.info
 inerinse.ru
+inerna1.site
 inernetozel-senesonukampanya.shop
 inertiaconceit.top
 inertiaprosperous.top
@@ -217477,6 +217484,7 @@ istanblfans.net
 istanblfkrt.net
 istanblgeliyo.net
 istanblgunaydin.net
+istanblhemen.xyz
 istanblibbkart.net
 istanblkaart.net
 istanblkarat.net
@@ -246423,6 +246431,7 @@ light-xyz.top
 lightblue-magpie-685371.hostingersite.com
 lightcoral-sparrow-771833.hostingersite.com
 lightcoral-swan-897868.hostingersite.com
+lightcyan-locust-200536.hostingersite.com
 lightcyan-rabbit-254152.hostingersite.com
 lighteniger.tech
 lightenjoydefinition.com
@@ -252570,6 +252579,7 @@ mail.wassadadvogados.com.br
 mail.wasstech.com
 mail.worlorderbillions.top
 mail.wrsimperium.com
+mail.wrufff.de
 mail.www-denizbank-ozelcekilis.com
 mail.www-finansiadehizmetmerkezi-2021.cf
 mail.www-finansiadelermerkezi.gq
@@ -257629,6 +257639,7 @@ menyenenconiy.site
 menz.ddns.net
 menzafeel.store
 menzelna.com
+meomeoli.mooo.com
 meoslczy.online
 meosslczy.online
 meotamassklogen.webflow.io
@@ -271195,6 +271206,7 @@ ndasjwaskd.net
 ndasjwkaskdaksd.net
 ndasjwkqdsakd.net
 ndaskwkasdkl.net
+ndasucasfi.sbs
 ndasvilu-mditan.blogspot.com
 ndbmrt.cn
 ndbrnkfbks.duckdns.org
@@ -353336,6 +353348,7 @@ suokoy.top
 suom59iv0.duckdns.org
 suortertrilli.top
 suoyiwomeiyoushuozainichengzaiwoxiaodengbei.top
+sup001.oss-cn-hongkong.aliyuncs.com
 supajmku.ddns.net
 supalo334d.ddns.net
 supamazoneoning.ddns.net
@@ -353582,6 +353595,7 @@ supermayisindrmlerii.com
 supermayistafirsatlar.com
 supermecadoalvino1.zapto.org
 supermememks23as.ddns.net
+superminecraft.net.br
 supermob.network
 supermobilliscepgirisllemenu.online
 supermsdfj.duckdns.org
@@ -355559,6 +355573,7 @@ t-years.com
 t-zkatilimgirislemenu.online
 t.amynx.com
 t.asayfa.org
+t.cnzzs.co
 t.co
 t.eqqsl.com
 t.freenunn.com
@@ -369009,6 +369024,7 @@ tr.corei1amdx.cfd
 tr.dradshostin.shop
 tr.e-i-hizmetleri.de
 tr.ealopttg0v.com
+tr.earn.top
 tr.elomptl.com
 tr.eptmarket1.com
 tr.epttavem.com
@@ -388363,6 +388379,7 @@ vcaqmxt.com
 vcbpkzoahpycmz.hopto.org
 vcc.su
 vcc.zapto.org
+vccn495.top
 vcczen.eu
 vcddkls.biz
 vcdlasklewx.net
@@ -391428,6 +391445,7 @@ vip.dildochecker.xyz
 vip.ekonomikzone.com
 vip.forpremium.cloud
 vip.kedicik.club
+vip.kof97.lol
 vip.lap567.com
 vip.mrcey.online
 vip.muabannhanh.com
@@ -391826,6 +391844,7 @@ vivodanvakf-bayrami.click
 vivodanvakf-bayrami.icu
 vivodanvakf-bayrami.sbs
 vivodanvakf-bayrami.site
+vivodun.com
 vivolegalite.net
 vivoos.ddns.net
 vivotoniic.com
@@ -397751,6 +397770,7 @@ website6587345345346.nicepage.io
 website658734534643.nicepage.io
 website6592589.nicepage.io
 website659545.nicepage.io
+website6596729.nicepage.io
 website6598110.nicepage.io
 website65dsadsf343.nicepage.io
 website665s12.nicepage.io
@@ -420398,6 +420418,7 @@ yenikonlterm.click
 yenikonut-basvur.sbs
 yenikonut.click
 yenikonut.store
+yenikonut5600.sbs
 yenikonutb.click
 yenikonutbasvurulari.cloud
 yenikonutbasvurusu.cloud
@@ -422691,6 +422712,7 @@ yirtarimmincoyu.site
 yirticilarladenkgelmemisler.duckdns.org
 yirticilarzehir01.duckdns.org
 yirtikdondancikmisgibi.cyou
+yirtikpantlnbalmxin.org
 yis3k.top
 yisasgrk.duckdns.org
 yiseok.com
@@ -426667,6 +426689,7 @@ zenobox.eu
 zenova.duckdns.org
 zenovan.com
 zenpirlanta-kampanya.com.tr
+zenquora.store
 zenquro.pro
 zenrat.ddns.net
 zenrichyourlife.tech
