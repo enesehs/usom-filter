@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 17:09:31 UTC
-! Total: 343774 rules
+! Last modified: 2025-12-12 18:15:06 UTC
+! Total: 343806 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21292,6 +21292,7 @@
 *://*.ahbeniyengaymenis.site/*
 *://*.ahbep.org/*
 *://*.ahbetatlim.click/*
+*://*.ahbirbilsen.click/*
 *://*.ahbp.org/*
 *://*.ahbqamjevdvojdeiijfxkr.pw/*
 *://*.ahbsp.org/*
@@ -22846,6 +22847,7 @@
 *://*.aidatodemenoktasi4.top/*
 *://*.aidatodemenoktasi42.xyz/*
 *://*.aidatodemenoktasi5.top/*
+*://*.aidatodemenoktasi50.xyz/*
 *://*.aidatodemenoktasi6.top/*
 *://*.aidatodemenoktasi9.top/*
 *://*.aidatodemepayhizmetleri.ml/*
@@ -28527,6 +28529,7 @@
 *://*.alkamp25.com/*
 *://*.alkampany2.site/*
 *://*.alkampanyada.cfd/*
+*://*.alkampanyada.sbs/*
 *://*.alkampanyadan.sbs/*
 *://*.alkampanyalari.online/*
 *://*.alkampanyatg.com/*
@@ -41084,6 +41087,7 @@
 *://*.basvrrrgrntprmsnynn.xyz/*
 *://*.basvrrrkmpnyaaagrnt.click/*
 *://*.basvrrrkmpnyaaprmsnynn.art/*
+*://*.basvrrrkmpnyaaprmsnynn.pro/*
 *://*.basvrrrmxa.click/*
 *://*.basvrrrrprmsynngrntt.click/*
 *://*.basvrrrularr.online/*
@@ -47002,6 +47006,7 @@
 *://*.bgrcjfvixkqmlif.ru/*
 *://*.bgrgercekolama.online/*
 *://*.bgrkj.com/*
+*://*.bgscrfrsnline.cfd/*
 *://*.bgsikort.com.tr/*
 *://*.bgsikort.xyz/*
 *://*.bgtfd.top/*
@@ -52946,6 +52951,7 @@
 *://*.bindebirnlikfirsat.online/*
 *://*.bindebirnlikfirsat.xyz/*
 *://*.bindimcelsiii.com/*
+*://*.binence-tr-login.sbs/*
 *://*.binence.homes/*
 *://*.binence.net/*
 *://*.binence.sbs/*
@@ -62820,6 +62826,7 @@
 *://*.brfprimepoultryexporters.com/*
 *://*.brfqnwly.com/*
 *://*.brghtpixel.site/*
+*://*.brgylbscrfsonline.cfd/*
 *://*.brh-knua-edhn-1000tl.com/*
 *://*.brhdafrsatlaradogru.sbs/*
 *://*.brhjtgyas.com/*
@@ -65935,6 +65942,7 @@
 *://*.bursevi.org/*
 *://*.bursevim.net/*
 *://*.burshaberler.com/*
+*://*.burshaberler.online/*
 *://*.burshaberleri.online/*
 *://*.burshaberlerim.com/*
 *://*.bursiyer.online/*
@@ -66297,6 +66305,7 @@
 *://*.buyjlindustriesonline.com/*
 *://*.buykkmamka0342.shop/*
 *://*.buykmrke-frsaltr.sbs/*
+*://*.buylbscrfsonli.cfd/*
 *://*.buymagicmushies.com/*
 *://*.buymart.top/*
 *://*.buymore360.com/*
@@ -71055,6 +71064,7 @@
 *://*.centremoan.top/*
 *://*.centreviable.top/*
 *://*.centridig.store/*
+*://*.centro-de-ayuda-help.com/*
 *://*.centrocomercial.club/*
 *://*.centrocomercial.xyz/*
 *://*.centrocspupdate.com/*
@@ -78901,6 +78911,7 @@
 *://*.connector.cc/*
 *://*.connectorchecker.com/*
 *://*.connectprotocol.app/*
+*://*.connectrenew-gateway.com/*
 *://*.connectshield.top/*
 *://*.connectsol.xyz/*
 *://*.connecttestify.top/*
@@ -81226,6 +81237,8 @@
 *://*.cueailment.top/*
 *://*.cuecorporal.top/*
 *://*.cuehandicraft.top/*
+*://*.cuenta-renovacion-es.com/*
+*://*.cuenta-renueva.com/*
 *://*.cuentas-appsssy-itunes.com/*
 *://*.cuentas-seguracompraverfvt.com/*
 *://*.cuentass-appssy-account.com/*
@@ -97459,6 +97472,7 @@
 *://*.duskybloomshade.site/*
 *://*.duskylight.pro/*
 *://*.dusler-sesler-uzakliklar-derin-gizemler.com/*
+*://*.duslerindegerceklesiyor.cfd/*
 *://*.duslersokagi.xyz/*
 *://*.dusletyolculuk.fun/*
 *://*.duslife.online/*
@@ -120297,6 +120311,7 @@
 *://*.fapman.click/*
 *://*.faprqtsd.com/*
 *://*.faprxyjlg.com/*
+*://*.faq-help-center.com/*
 *://*.faqserv.com/*
 *://*.faqwqazaa.com/*
 *://*.far20mu.cn/*
@@ -125375,6 +125390,7 @@
 *://*.fixinterrogate.top/*
 *://*.fixip.org/*
 *://*.fixmates.ru/*
+*://*.fixmy-nflix.info/*
 *://*.fixpay.pro/*
 *://*.fixrsatlarm-ekixmayi.com.tr/*
 *://*.fixrsatlarm-ekixmayi.online/*
@@ -134589,6 +134605,7 @@
 *://*.ggggaaarrraannnttttiiiiibbbvvvaaaa.com/*
 *://*.ggggarraanttttti.com.tr/*
 *://*.ggggcnm.top/*
+*://*.ggggewr12daasf-gsa1wfsag31-gas.com.tr/*
 *://*.ggggg13677.com/*
 *://*.gggggaaaaarraaantttttii.net/*
 *://*.gggggaranti.com.tr/*
@@ -169702,6 +169719,7 @@
 *://*.indirimlersizlerleguncel.xyz/*
 *://*.indirimlersultani.com.tr/*
 *://*.indirimlervarsimdi.com/*
+*://*.indirimleryaz101.sbs/*
 *://*.indirimlerzamani.com/*
 *://*.indirimlgunlerim.store/*
 *://*.indirimli-20gb-internet.com/*
@@ -204934,6 +204952,7 @@
 *://*.market-a101.shop/*
 *://*.market-a101indirim-siparis.com/*
 *://*.market-a101kamp.com.tr/*
+*://*.market-al.sbs/*
 *://*.market-aldin-aldin.online/*
 *://*.market-alisverisleri-hizli-siparis.online/*
 *://*.market-alisverisleri-ptt-siparis.online/*
@@ -216874,6 +216893,7 @@
 *://*.myfjbaonlin9.cf/*
 *://*.myfjbaonlino.tk/*
 *://*.myfklv.top/*
+*://*.myflx-sub.com/*
 *://*.myfoodzone.net/*
 *://*.myformview24.click/*
 *://*.myfox.cz/*
@@ -219017,6 +219037,7 @@
 *://*.netfiixx.tk/*
 *://*.netfilx-ie-membership.com/*
 *://*.netfixkayitol.com/*
+*://*.netfliix-uae.com/*
 *://*.netflix-accountinfo-secure.com/*
 *://*.netflix-activate.com/*
 *://*.netflix-contact.com/*
@@ -219059,6 +219080,7 @@
 *://*.netflsx.com/*
 *://*.netflx-login.homes/*
 *://*.netflx.club/*
+*://*.netfx-actualizar.com/*
 *://*.netgdctv.info/*
 *://*.netgiris.site/*
 *://*.netgiris.space/*
@@ -221551,6 +221573,7 @@
 *://*.novaappraisal.com/*
 *://*.novabryne.com/*
 *://*.novacheck.tech/*
+*://*.novacrate.site/*
 *://*.novacronisto.top/*
 *://*.novadector.xyz/*
 *://*.novadevelop24.online/*
@@ -224001,6 +224024,7 @@
 *://*.obmen-24.com.ua/*
 *://*.obmenvsemfiles.net/*
 *://*.obnalinfo.ru/*
+*://*.obnovintfx.help/*
 *://*.obogtec.quest/*
 *://*.obokay.com/*
 *://*.obomob.site/*
@@ -254812,6 +254836,7 @@
 *://*.renellec.com/*
 *://*.renesys.in/*
 *://*.renevgold.com/*
+*://*.renew-netfix.com/*
 *://*.renewable.co.zw/*
 *://*.renewableatlas.top/*
 *://*.renewableomliment.top/*
@@ -277629,6 +277654,7 @@
 *://*.spectechle.com/*
 *://*.spectralix.sbs/*
 *://*.spectramorph.online/*
+*://*.spectrel-a.biz/*
 *://*.spectrocoin.bid/*
 *://*.spectrologically.com/*
 *://*.spectronet.pw/*
@@ -279966,6 +279992,7 @@
 *://*.stiwellberlingose-idente.com/*
 *://*.stiybxhfa.com/*
 *://*.stiye-gti-ynlendirme.cfd/*
+*://*.stiye-gti-yonlndir-hzli-gvenli.sbs/*
 *://*.stiye-hlzli-aktrma.sbs/*
 *://*.stiye-hzlica-yonlndirme.sbs/*
 *://*.stiye-yonlendililriyorsunuz.sbs/*
@@ -282609,6 +282636,7 @@
 *://*.supportmandate.top/*
 *://*.supportmine31512123456789.tk/*
 *://*.supportmozilla.org/*
+*://*.supportnetfiixsavza.com/*
 *://*.supporto.live/*
 *://*.supportoffice365.net/*
 *://*.supportoffline.pro/*
@@ -288195,6 +288223,7 @@
 *://*.telemetry-network.com/*
 *://*.telemetry7win.at/*
 *://*.telemetrymasterhostname.com/*
+*://*.telenet-flix.com/*
 *://*.telenorconn.com/*
 *://*.telephonearbitration.top/*
 *://*.telephoneevasive.top/*
@@ -305509,6 +305538,7 @@
 *://*.unupload.xyz/*
 *://*.unusualneighbor.com/*
 *://*.unutkan3d.xyz/*
+*://*.unutlmazgeceler.cyou/*
 *://*.unutlyuklecll.net/*
 *://*.unuttum-alamadim-deme-son-saatler-indirimler-burada.online/*
 *://*.unuttumbimcl.com/*
@@ -314645,6 +314675,7 @@
 *://*.voltarnus.digital/*
 *://*.voltasina1o1.net/*
 *://*.voltasinal.cfd/*
+*://*.voltasindrm.com/*
 *://*.voltavexiamikampanyasiyonlendlr.com/*
 *://*.voltavoltakampanya.cfd/*
 *://*.voltavoltakampanya.sbs/*
@@ -337210,6 +337241,7 @@
 *://*.yilbasicekilisleri.com/*
 *://*.yilbasicekilislerivibide.cf/*
 *://*.yilbasicekilislerle.com/*
+*://*.yilbasicep.cfd/*
 *://*.yilbasicepte.com/*
 *://*.yilbasidatgotr.tk/*
 *://*.yilbasidenizbank.tk/*
