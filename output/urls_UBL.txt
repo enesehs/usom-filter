@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 12:24:04 UTC
-! Total: 343641 rules
+! Last modified: 2025-12-12 13:27:20 UTC
+! Total: 343664 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19189,6 +19189,7 @@
 *://*.adaletbizim.net/*
 *://*.adaletbumula.com/*
 *://*.adaletgeldi.online/*
+*://*.adaletmaliye.org/*
 *://*.adaletnoktasi.com/*
 *://*.adaletsarayi.net/*
 *://*.adaletsarayi.xyz/*
@@ -31610,6 +31611,7 @@
 *://*.apestakes.cf/*
 *://*.apethorpevillage.co.uk/*
 *://*.apex-loot.com/*
+*://*.apexcorporateflow.com/*
 *://*.apexdataacademy.com/*
 *://*.apexdrrive.com/*
 *://*.apexenguae.com/*
@@ -32129,6 +32131,7 @@
 *://*.approachdistle.top/*
 *://*.approachimmersion.top/*
 *://*.appropriateaffir.top/*
+*://*.appropriatemail.icu/*
 *://*.appropriatification.top/*
 *://*.appropriationrhetorical.top/*
 *://*.approvalblaze.top/*
@@ -35106,6 +35109,7 @@
 *://*.asfjasfhjasf.com/*
 *://*.asfjaskd-sdasde098878.com/*
 *://*.asfjk215215.xyz/*
+*://*.asfjnjvasisd.sbs/*
 *://*.asfjsafj215.xyz/*
 *://*.asfjte.icu/*
 *://*.asfk12512.com/*
@@ -69530,6 +69534,7 @@
 *://*.carrfrslnk.cfd/*
 *://*.carrfrsnznguzellgi.com/*
 *://*.carrfshzrnz.com/*
+*://*.carrfurs.online/*
 *://*.carrfurssa.shop/*
 *://*.carrgohub.com/*
 *://*.carriage458.xyz/*
@@ -69815,6 +69820,7 @@
 *://*.casualtyhibernate.top/*
 *://*.casui.cfd/*
 *://*.casui.sbs/*
+*://*.casvbnuasdi.sbs/*
 *://*.catadvertisement.loan/*
 *://*.cataffils.com/*
 *://*.catalinabonami.com/*
@@ -79667,6 +79673,7 @@
 *://*.corporatecomf.online/*
 *://*.corporategiftbranding.co.za/*
 *://*.corporatelover.top/*
+*://*.corporatepulsehub.com/*
 *://*.corporatesinvitation.com/*
 *://*.corporatestrategyworks.com/*
 *://*.corporatevisionlabs.com/*
@@ -110061,6 +110068,7 @@
 *://*.ekonomik-paketim20gb-turkcell.com/*
 *://*.ekonomik-paketler20-turkcell.com/*
 *://*.ekonomik-paketlerim-turkcell.com/*
+*://*.ekonomik.space/*
 *://*.ekonomik20gb-paketim-turkcell.com/*
 *://*.ekonomikanal.online/*
 *://*.ekonomikapi.com/*
@@ -120526,6 +120534,7 @@
 *://*.fastupdatemanager.top/*
 *://*.fastuploads.xyz/*
 *://*.fastvemilemertty.net/*
+*://*.fastwaycheck.com/*
 *://*.fastwonder.online/*
 *://*.fastyonlendirme.com/*
 *://*.fasu532ac.click/*
@@ -125499,6 +125508,7 @@
 *://*.flamingdream.online/*
 *://*.flamingoyardim.fun/*
 *://*.flammalm.com/*
+*://*.flamorrix.com/*
 *://*.flankcustody.top/*
 *://*.flankes.top/*
 *://*.flapawer.com/*
@@ -182347,6 +182357,7 @@
 *://*.jollypink.shop/*
 *://*.jollyturfilo.net/*
 *://*.jolted.vip/*
+*://*.jolvintra.in/*
 *://*.jolytur.com.tr/*
 *://*.jomamba.best/*
 *://*.jomehjob.com/*
@@ -191426,6 +191437,7 @@
 *://*.kilometersorgulamayzhddhh.com/*
 *://*.kilometre.autos/*
 *://*.kilometre3.shop/*
+*://*.kilometreacimaz.cfd/*
 *://*.kilometreaddicted.cfd/*
 *://*.kilometreaffedermi.cfd/*
 *://*.kilometreaglatan.cfd/*
@@ -209131,6 +209143,7 @@
 *://*.milkyfeast.top/*
 *://*.milkywaycompany.com/*
 *://*.millarmgir.pw/*
+*://*.millarosta.com/*
 *://*.milldymarskwom.shop/*
 *://*.millencclopdia.top/*
 *://*.millenniumservices.net/*
@@ -225887,6 +225900,7 @@
 *://*.ommsqrhwcjtw.com/*
 *://*.ommunite.top/*
 *://*.omniaconsultingparma.it/*
+*://*.omnicode.digital/*
 *://*.omnicron.sbs/*
 *://*.omnifla.online/*
 *://*.omobilbonusolasifirsatgirisim.com/*
@@ -239079,6 +239093,7 @@
 *://*.payzel.online/*
 *://*.payzel.store/*
 *://*.pazar-aksamfirst.com/*
+*://*.pazar-analizleri.life/*
 *://*.pazar-bizimgunumuz0.com/*
 *://*.pazar-firsatindirxm.com/*
 *://*.pazar-firsatindrmm.com/*
@@ -242517,6 +242532,7 @@
 *://*.portfoliotrait.top/*
 *://*.portfolyyo.com/*
 *://*.portfoyakis.online/*
+*://*.portfoyakis.today/*
 *://*.portfoyanaliz.pro/*
 *://*.portfoycenter.world/*
 *://*.portfoyhaber.org/*
@@ -243921,6 +243937,7 @@
 *://*.preview-domain.com/*
 *://*.preview-dropbox.com/*
 *://*.previewassimilation.top/*
+*://*.previewcentral.com/*
 *://*.previewdoc.us/*
 *://*.previosaugmention.top/*
 *://*.previousadverse.top/*
@@ -244918,6 +244935,7 @@
 *://*.promlardabgn.com/*
 *://*.promlargel.click/*
 *://*.prommap.co.za/*
+*://*.prommssynkmpnyabsvruu.pro/*
 *://*.promntcuisine.top/*
 *://*.promo-asdasd-prop-sad-asdqweq.shop/*
 *://*.promo-coinbase.info/*
@@ -257222,6 +257240,7 @@
 *://*.roomsrsvncheck.world/*
 *://*.roomstay-id634.com/*
 *://*.roomstripcheck.sbs/*
+*://*.roomypilar.world/*
 *://*.roon-inform16323.com/*
 *://*.rooofrsbptsv.info/*
 *://*.roostersbroast.com/*
@@ -273315,6 +273334,7 @@
 *://*.smartedvler-desa.com/*
 *://*.smartedvlersevapp.com/*
 *://*.smartenergymodel.com/*
+*://*.smartenterprisegrid.com/*
 *://*.smarteparatutkusu.online/*
 *://*.smarterbaby.com/*
 *://*.smartfla0x1.com/*
@@ -284585,6 +284605,7 @@
 *://*.tallerdelso.com/*
 *://*.tallnegligible.top/*
 *://*.tallpartisan.top/*
+*://*.tallyleaf.today/*
 *://*.taloodd.ru/*
 *://*.talpet.click/*
 *://*.taltorsletfor.com/*
@@ -287156,6 +287177,7 @@
 *://*.tebonlinebireyselsube.com/*
 *://*.tebonlineislemlerim.com/*
 *://*.tebonlinetr.com/*
+*://*.tebovay.com/*
 *://*.tebramazanlibasvurlar.net/*
 *://*.tebrd-gerd.com/*
 *://*.tebrikederimbenibuldun.site/*
@@ -299128,6 +299150,7 @@
 *://*.trustorder.sbs/*
 *://*.trustpage.sbs/*
 *://*.trustpaytr.com/*
+*://*.trustpointassurance.com/*
 *://*.truststronger.cloud/*
 *://*.trusttlogic.com/*
 *://*.trusttoken.online/*
