@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 19:08:49 UTC
-! Total: 343809 rules
+! Last modified: 2025-12-12 20:10:46 UTC
+! Total: 343813 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -34705,6 +34705,7 @@
 *://*.asc-yeniglobalbaglantilarbnsorgulakayit.net/*
 *://*.ascarajvvadi.net/*
 *://*.ascarskiralama.com/*
+*://*.ascasnuasdi.cfd/*
 *://*.asce.email/*
 *://*.ascendancetill.top/*
 *://*.ascendhive.top/*
@@ -120845,6 +120846,7 @@
 *://*.favebikeshanah.com/*
 *://*.favela.life/*
 *://*.faviform.com/*
+*://*.favoltasfirsat.cfd/*
 *://*.favorablecorrelative.top/*
 *://*.favorablecynicism.top/*
 *://*.favorabledeplete.top/*
@@ -190612,6 +190614,7 @@
 *://*.kents-kartiniz.net/*
 *://*.kents-sely.tk/*
 *://*.kentselmentsel.tk/*
+*://*.kentselprojelerehberi.cfd/*
 *://*.kentservsli.net/*
 *://*.kentsigorta.site/*
 *://*.kentsizlerleyiz.net/*
@@ -337300,6 +337303,7 @@
 *://*.yilbasiihediyeler.com/*
 *://*.yilbasiihediyelerivakif.info/*
 *://*.yilbasiihtiyac.cfd/*
+*://*.yilbasiindirimleri-101.sbs/*
 *://*.yilbasiindirimleri.online/*
 *://*.yilbasiindirimleribruada.com.tr/*
 *://*.yilbasiindirimleribruada.online/*
