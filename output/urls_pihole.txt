@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-12 16:10:53 UTC
-# Toplam: 430663 Domain
+# Son Güncelleme: 2025-12-12 17:09:31 UTC
+# Toplam: 430755 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6947,6 +6947,7 @@
 1ortakplatform.com
 1ortpmbxu.duckdns.org
 1os7oanu.duckdns.org
+1otyu7944x8.workers.dev
 1owznnz.duckdns.org
 1oy4bx0zzv.com
 1oy4h7.duckdns.org
@@ -25553,6 +25554,7 @@ aathmakosam.duckdns.org
 aatinemeklilik.com
 aatlzkw2a.duckdns.org
 aatravelexperts.com
+aatrendyol.shop
 aatsny.com
 aatymq.org
 aaukqqw0.duckdns.org
@@ -57817,6 +57819,7 @@ basvrpromlar25.click
 basvrrrgrntprmsnynn.art
 basvrrrgrntprmsnynn.xyz
 basvrrrkmpnyaaagrnt.click
+basvrrrkmpnyaaprmsnynn.art
 basvrrrmxa.click
 basvrrrrprmsynngrntt.click
 basvrrrularr.online
@@ -86432,6 +86435,7 @@ buyervaccinate.top
 buyfile-enter-net.com
 buyhpliliop.click
 buyibest.blogspot.com
+buyiceecream.com
 buyicha0.duckdns.org
 buyilaozelarabakampanyaasisizlerle.space
 buyilaozelfirsat-hemenbasvur.com
@@ -120083,6 +120087,7 @@ dinvo.top
 dinyresi.com
 dioasamigoayu.duckdns.org
 diobey.com
+diogeneqc.pages.dev
 diogenesbarrel.com
 dioghzjeqs.duckdns.org
 diogohack22.duckdns.org
@@ -121767,11 +121772,14 @@ docrf.org
 docs-cache.com
 docs-forwarding.online
 docs-info.com
+docs-live.works
 docs-send.com
 docs-send.online
 docs-shared.com
 docs-shared.online
 docs-view.online
+docs-workspace.live
+docs-workspace.online
 docs.anadoluhayatemeklilik.cloudns.cx
 docs.diogoflix.com
 docs.gmaildrives.top
@@ -123319,6 +123327,7 @@ doublen.app
 doubleproximate.top
 doubler.link
 doublette.zapto.org
+doubletwistertop.com
 doublxebntr.vercel.app
 doubtfulejection.top
 doubtfuleminent.top
@@ -124014,6 +124023,7 @@ drivegooogle.publicvm.com
 drivehost.live
 drivehub.live
 drivemountain.com
+drivemyfile.com
 drivenc.pub
 drivenpropel.top
 driventy.click
@@ -158712,6 +158722,7 @@ form-btcturkkripto.com
 form-cell.com
 form-cimer.com
 form-confrimereservats.com
+form-direct.live
 form-dogrulama.online
 form-doldur-iade.com
 form-dolldur-iade.com
@@ -158729,6 +158740,7 @@ form-reg-one.click
 form-reserve.com
 form-reserving.click
 form-reuseconfrimes.com
+form-space.org
 form-to-reg.com
 form-yatirimadresi.site
 form-yatirimlinki.site
@@ -158832,7 +158844,9 @@ formplatformusimdi-portal.tk
 formpolitikdoldur-portal.tk
 formrepel.top
 formres-confrimesgueste.com
+forms-gle.online
 forms.app
+forms.works
 formsepeti.name.tr
 formsikayetvarhalktan.cf
 formsorgu.org
@@ -172900,6 +172914,7 @@ gotobharat.com
 gotogo.sg-host.com
 gotois1.xyz
 gotomeet.us
+gotomind.net
 gotopageshop.com
 gotossl.ml
 gotoyouraccount-unitedstates.com
@@ -189548,6 +189563,7 @@ hepsiburada-tl.com
 hepsiburada-tl.net
 hepsiburada-tl.top
 hepsiburada-turkcell.com
+hepsiburada-vip.com
 hepsiburada-wish.com
 hepsiburada-yenileme-kep.com
 hepsiburada-yenilemekep.com
@@ -244594,6 +244610,7 @@ lapkimeow.icu
 lapkol322.xyz
 laplas.app
 lapoaplapl789.blogspot.com
+lapointelegal-portail.pages.dev
 lapoire1.hopto.org
 lapoire3.hopto.org
 lapoire5.hopto.org
@@ -244773,6 +244790,7 @@ latestspyhostincsub.hopto.org
 latestversion.ai
 latestwithyoudealsareseptember.cloud
 latevibration.top
+lathetai.sa.com
 lathzanhbebe.github.io
 lati10.ddns.net
 latiao.ddns.net
@@ -246863,9 +246881,11 @@ linkedin-resetpassword.duckdns.org
 linkedincn.ddns.net
 linkedln.in
 linkedopports.com
+linkeedservice.com
 linkerit.cyou
 linkerit.online
 linkermak.online
+linkerseervice.com
 linkerservice2upgrade.bid
 linkerservice2upgrade.review
 linkerservice2upgrade.trade
@@ -281490,6 +281510,7 @@ omur948.net
 omurcean.net
 omuuejavsiv.net
 omuzdaslik.com
+omvexe.shop
 omxlwhyjiw.duckdns.org
 omxoiwhu.duckdns.org
 omyadimtoaskes.online
@@ -285273,6 +285294,7 @@ onlinemagaza.online
 onlinemagaza.org.tr
 onlinemagaza.shop
 onlinemagazacilikislemleri.havalimanindankapinagelsin.com
+onlinemagazaislemleri.pages.dev
 onlinemagazan.site
 onlinemagazaninadresimavi.com
 onlinemagazap-tt.com
@@ -315420,6 +315442,13 @@ re-checkid2455.world
 re-confirmationstay.com
 re-hiizmet-servisde-deeevam-co.top
 re-netverification.ddns.net
+re-tdm-sec.live
+re-tdm-sec.online
+re-tdmsec.live
+re-tdmsec.online
+re-tdmsec.pub
+re-tdmsec.software
+re-tdmsec.zone
 re-webg5auth09.ddns.net
 re.mefound.com
 re.misecure.com
@@ -316196,6 +316225,7 @@ redirect-hizmet.shop
 redirect-o.com
 redirect-review.online
 redirect-sso.com
+redirect-workspace.com
 redirect31-online.shop
 redirectamzmanage.hopto.org
 redirectarea.com
@@ -318537,6 +318567,7 @@ retarus.ru
 retatatata.fit
 retbluefor01.site
 retdirectyourman.eu
+retdmsec.live
 rete.my-board.org
 retellhemphere.top
 retellingcrude.top
@@ -350718,6 +350749,7 @@ stoopindignation.top
 stoopmoney.top
 stoopsymposium.top
 stooslodge.world
+stoozucha.sa.com
 stop53.xyz
 stopfireusa.com
 stopfort.top
@@ -358920,8 +358952,54 @@ tdkalxejxrhgibumu.cc
 tdkbwjpnd.duckdns.org
 tdkixjl.com
 tdl21x1.duckdns.org
+tdm-sec.consulting
+tdm-sec.live
+tdm-sec.news
+tdm-sec.online
+tdm-sec.pub
+tdm-sec.software
 tdmer.zapto.org
 tdmkloiqsheagsd.ru
+tdmsec-analysis.live
+tdmsec-analysis.online
+tdmsec.com
+tdmsec.consulting
+tdmsec.expert
+tdmsec.live
+tdmsec.online
+tdmsec.pub
+tdmsec.social
+tdmsecglobal.live
+tdmsecglobal.online
+tdmsecglobal.pub
+tdmsecglobal.zone
+tdmseclabs.consulting
+tdmseclabs.live
+tdmseclabs.online
+tdmseclabs.pub
+tdmseclabs.software
+tdmsecsys.live
+tdmsecsys.online
+tdmsecsys.pub
+tdmsecsys.social
+tdmsecsys.software
+tdmsecsys.zone
+tdmsecteam.live
+tdmsecteam.online
+tdmsecteam.pub
+tdmsecteam.software
+tdmsecteam.zone
+tdmsecure.consulting
+tdmsecure.live
+tdmsecure.online
+tdmsecure.pub
+tdmsecure.software
+tdmsecure.zone
+tdmsecurity.consulting
+tdmsecurity.live
+tdmsecurity.online
+tdmsecurity.pub
+tdmsecurity.social
 tdnwffluqu.duckdns.org
 tdoxtjtf.duckdns.org
 tdoznay.com
@@ -364685,6 +364763,12 @@ tlyyilsonusurprizfrsatin.cf
 tm-appointment-systems.net
 tm-approve-system.net
 tm-bdestektr.com
+tm-blog.live
+tm-blog.online
+tm-blog.pub
+tm-blog.social
+tm-blog.software
+tm-blog.website
 tm-enutemmuzgirislemlerim.online
 tm-krl-bry-kdr.shop
 tm-smdi-brda.shop
@@ -364914,6 +364998,10 @@ tmrtcrsbzcs.net
 tms-rabsv.net
 tms-rndvsa.net
 tms-webonline.net
+tmsec-blog.live
+tmsec-blog.online
+tmsec-blog.pub
+tmsec-blog.software
 tmshrsklmsrg.net
 tmssapp.web.app
 tmssrndxs.net
@@ -371568,6 +371656,7 @@ trendyollasana.com
 trendyollexpress.com
 trendyollgiris.xyz
 trendyolls.com
+trendyolls.shop
 trendyolmafyalari.com
 trendyolmall.com
 trendyolmall.top
@@ -394113,6 +394202,7 @@ vwwrapzxa.duckdns.org
 vwws7yap5w.site
 vwwsahibinden-secure.com
 vwwsahibinden-securem.com
+vwwsahibinden-securen.com
 vwwsahibinden.com
 vwwvakifiademerkezimgiris.com
 vwwvv-sanalmarket.com
@@ -396587,6 +396677,7 @@ webdesen.site
 webdesen.xyz
 webdesigning.name
 webdestek-pandemibasvuru.com
+webdestekbirimi.online
 webdevelopment.pw
 webdevletdevletsosyalyardim.com
 webdevletsosyaldestegi.com
@@ -409901,6 +409992,7 @@ xm-sfsqweyasasvtst.com
 xm-sqrfasgatsasv.com
 xm26m74y7.duckdns.org
 xm28k43a.duckdns.org
+xm65lwf0pr2e.workers.dev
 xm96tt2g.duckdns.org
 xm9anp4.duckdns.org
 xman887.hopto.org
