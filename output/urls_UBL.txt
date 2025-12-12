@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-12 08:14:38 UTC
-! Total: 343601 rules
+! Last modified: 2025-12-12 09:14:41 UTC
+! Total: 343619 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12753,6 +12753,7 @@
 *://*.9865522.cloud/*
 *://*.9865s1ad894asd98as46.site/*
 *://*.98674978586.cloud/*
+*://*.986uu3.top/*
 *://*.987-8-1-1.com/*
 *://*.987125-412554.com/*
 *://*.98746159854165.net/*
@@ -29260,6 +29261,7 @@
 *://*.altercoincide.top/*
 *://*.alterdeviate.top/*
 *://*.alteregronlow.com/*
+*://*.alterfuture.top/*
 *://*.alterinterrogate.top/*
 *://*.alternateconvergence.top/*
 *://*.alternatecordiality.top/*
@@ -62745,6 +62747,7 @@
 *://*.brendonline.com/*
 *://*.brendstauf.pro/*
 *://*.brenity.store/*
+*://*.brennaro.site/*
 *://*.brentovaris.com/*
 *://*.brenz.pl/*
 *://*.brer1ksnoz0kflsl1yashcxes.com/*
@@ -77167,6 +77170,7 @@
 *://*.compurede.com.br/*
 *://*.compushopsa.co.za/*
 *://*.computationgrope.top/*
+*://*.computationscelery.cyou/*
 *://*.computecredibility.top/*
 *://*.computeexponential.top/*
 *://*.computer-cash.com/*
@@ -93318,6 +93322,7 @@
 *://*.dijitalplatform.site/*
 *://*.dijitalpltformtebdes.online/*
 *://*.dijitalpltformtebdes.xyz/*
+*://*.dijitalportalgib.com/*
 *://*.dijitalpromosyon-ziraatmobil.com/*
 *://*.dijitalramazanda.com/*
 *://*.dijitalruya.space/*
@@ -118327,6 +118332,7 @@
 *://*.exact-studio.com/*
 *://*.exact-thailand.com/*
 *://*.exacter32.xyz/*
+*://*.exactpineapple.shop/*
 *://*.exactpremier.top/*
 *://*.exacttimid.top/*
 *://*.exaggeratevibrate.top/*
@@ -120100,6 +120106,7 @@
 *://*.falsehoodauction.top/*
 *://*.falsehorfume.top/*
 *://*.falterhaise.pro/*
+*://*.falvento.store/*
 *://*.fam1fin.com/*
 *://*.famacunopar.com.br/*
 *://*.fambeyconiscarbanis.site/*
@@ -127604,6 +127611,7 @@
 *://*.frrsatcampy.sbs/*
 *://*.frrsatcampy101.sbs/*
 *://*.frrsatcampyal.sbs/*
+*://*.frrsatcampystok.sbs/*
 *://*.frrst-aldn.com.tr/*
 *://*.frrst-ssokta.com.tr/*
 *://*.frrsxxstrlriiiminn-olldugu-yer.com/*
@@ -136688,6 +136696,7 @@
 *://*.glorytrash.top/*
 *://*.glosaryhomexual.top/*
 *://*.glossaryidol.top/*
+*://*.glossypbolt.cyou/*
 *://*.glostrap.com/*
 *://*.glotek.xyz/*
 *://*.glotorrents.pw/*
@@ -149832,6 +149841,7 @@
 *://*.hazirbaslauygulamaislemleri.online/*
 *://*.hazirbasvuruyapgirisicin.online/*
 *://*.hazirbonus.digital/*
+*://*.hazirdafirsatimsendealhemne.site/*
 *://*.hazirdageldinaldin.online/*
 *://*.hazirdahemen.sbs/*
 *://*.hazirdakalhemcefirsat.site/*
@@ -206812,6 +206822,7 @@
 *://*.measureflare.top/*
 *://*.measureltv.com/*
 *://*.measureporridge.top/*
+*://*.measurestangled.online/*
 *://*.meat87.xyz/*
 *://*.meatgreed.top/*
 *://*.meatinterrogation.top/*
@@ -213369,6 +213380,7 @@
 *://*.mosquitomelt.top/*
 *://*.mossadapi.tk/*
 *://*.mossadapii.tk/*
+*://*.mosslano.in/*
 *://*.mossovet-afisa.ru/*
 *://*.mossovetafisa.ru/*
 *://*.mossyembertrail.site/*
@@ -279323,6 +279335,7 @@
 *://*.stanleyreseted.xyz/*
 *://*.stanleyresurgeagain.xyz/*
 *://*.stanleyretuned.xyz/*
+*://*.stanleyrevburst.xyz/*
 *://*.stanleyrevive.xyz/*
 *://*.stanleyrevvolt.xyz/*
 *://*.stanleyrise.xyz/*
@@ -287180,6 +287193,7 @@
 *://*.techanoid.cfd/*
 *://*.techarnise.ru/*
 *://*.techastra.online/*
+*://*.techbaykar.com/*
 *://*.techbeaconz.com/*
 *://*.techcloudltd.com/*
 *://*.techcongregate.top/*
@@ -289125,6 +289139,7 @@
 *://*.termosal1.cfd/*
 *://*.termosaxscv.icu/*
 *://*.termosdunyasi.world/*
+*://*.termosfirsatlari-101ozel.com/*
 *://*.termosfrsstlrgunu.online/*
 *://*.termosindirimleriqaea101.shop/*
 *://*.termoskampanyasi.store/*
@@ -289271,6 +289286,7 @@
 *://*.tesoverin.store/*
 *://*.tesra.shop/*
 *://*.tesrah.xyz/*
+*://*.tessaro.site/*
 *://*.test-1627838.shop/*
 *://*.test-hf.su/*
 *://*.test-hgs.org/*
@@ -292572,6 +292588,7 @@
 *://*.toklgovtr.cyou/*
 *://*.toklgovtr.lat/*
 *://*.toklgovtr.sbs/*
+*://*.toklhizlbasvur.online/*
 *://*.toklhzlbasvrlarnz.com/*
 *://*.toklprojebasv.com/*
 *://*.toklprojebasvr.com/*
@@ -310245,6 +310262,7 @@
 *://*.vallnour.com/*
 *://*.valls2xbir.site/*
 *://*.valls9xbir.site/*
+*://*.valmentix.store/*
 *://*.valnia.site/*
 *://*.valnorak.top/*
 *://*.valntooglesakrundigk.pw/*
