@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-13 11:07:30 UTC
-! Total: 343847 rules
+! Last modified: 2025-12-13 13:22:50 UTC
+! Total: 343851 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -66202,6 +66202,7 @@
 *://*.buttonaffirmative.top/*
 *://*.butunaktifkampanyalarintekkaynagi.cfd/*
 *://*.butunbunlarsendensebepolmadimizaten.xyz/*
+*://*.butundilegimpxxra.org/*
 *://*.butunfirsatlarintekbiryerdebulusmasi.cfd/*
 *://*.butungecegozum.xyz/*
 *://*.butunherkesalmali.online/*
@@ -176289,6 +176290,7 @@
 *://*.istanbulbireysel.com/*
 *://*.istanbulbireyselkartbasvurumerkezi.site/*
 *://*.istanbulbizimle.com/*
+*://*.istanbulblu.com/*
 *://*.istanbulbolgemerkezi3d.xyz/*
 *://*.istanbulbozum.com/*
 *://*.istanbulbruasdkbe.com/*
@@ -193391,6 +193393,7 @@
 *://*.kneemindset.top/*
 *://*.knetkartykleme.net/*
 *://*.knf.skin/*
+*://*.knfikaldimkalacd.click/*
 *://*.knfikaldimmmsdakalacd.click/*
 *://*.knghtnline.com/*
 *://*.knhausn.net/*
@@ -228679,6 +228682,7 @@
 *://*.onlinefinansislemi.com/*
 *://*.onlinefinansmanim-ozelkampanyalar.net/*
 *://*.onlinefirsat-a1o1.net/*
+*://*.onlinefirsat.digital/*
 *://*.onlinefirsatgunubura.baby/*
 *://*.onlinefirsati-kampanyahemenfirsatiyakala.tech/*
 *://*.onlinefirsati.com.tr/*
