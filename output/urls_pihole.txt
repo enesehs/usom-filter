@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-13 16:10:53 UTC
-# Toplam: 430856 Domain
+# Son Güncelleme: 2025-12-13 17:01:55 UTC
+# Toplam: 430863 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -157825,6 +157825,7 @@ flowmudy.com
 flowpulse.click
 flowrulesbreathtaking.shop
 flowtokispace.space
+flowtokisystems.shop
 flowtrains.com
 flowvice.top
 floxiriyrwiu.space
@@ -174328,6 +174329,7 @@ grn-fsrksmgsjgsjfgksgwejwqjfsjagjasksfsalggsasf.online
 grn-sfgkwssg.sbs
 grn-skfalfmvsskfhfkvjfkcnff.online
 grn-tr-b.my-homeip.com
+grn-try-web.my-homeip.com
 grn-tsmonss.sbs
 grn.warrantybbv.site
 grn34e129dz.store
@@ -187246,6 +187248,7 @@ hedefgalaksi.space
 hedefilo.com
 hedefimiz2024.dev
 hedefimiz2026.com
+hedefinegidenyol.cfd
 hedefintek.com
 hedefkafasi.space
 hedefmenkul.net
@@ -239773,6 +239776,7 @@ konutbasvurusutoki.pro
 konutbasvurusutoki.xyz
 konutbasvurutamamla.cloud
 konutbasvurutr.cfd
+konutbasvurutur.cfd
 konutbasvuruturkiye.cfd
 konutbasvuruturkiye.sbs
 konutbasvutrlarindansongunler.cloud
@@ -288552,6 +288556,7 @@ ototmobilaracicinyikamamm.store
 otoustaprofesyonel.com
 otoyallargunluks.net
 otoybngcslbglshgsbonle.duckdns.org
+otoyedekparcasanayi.com
 otoyikama4life.click
 otoyikama7world.click
 otoyikama9pack.click
@@ -307672,6 +307677,7 @@ pttgov.blog
 pttgov.cc
 pttgov.click
 pttgov.cv
+pttgov.cyou
 pttgov.help
 pttgov.icu
 pttgov.info
@@ -340446,6 +340452,7 @@ siparislerin9bucukeylulden.cloud
 siparislerindehizlan25temmuzda.cloud
 siparislerindehizli18bucuk.cloud
 siparislerindehizliolma.cloud
+siparislerinden.com
 siparislerinden19eylulde.cloud
 siparislerindenagustostaaa24.cloud
 siparislerindenhilzzandira.cloud
