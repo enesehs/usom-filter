@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-13 21:07:34 UTC
-# Toplam: 430879 Domain
+# Son Güncelleme: 2025-12-13 22:08:04 UTC
+# Toplam: 430884 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60210,6 +60210,7 @@ basvurunuzevllik.com
 basvurunuzhemen.xyz
 basvurunuzkontrol.net
 basvurunuzmerkes.link
+basvurunuzmusteri.cfd
 basvurunuzonayli.sbs
 basvurunuztokionlne.click
 basvurunuztr-girisler.online
@@ -151486,6 +151487,7 @@ fastislemacikdenizv2denizbank.co.vu
 fastislemler.org
 fastkisel.co.ug
 fastkolaypay.com
+fastlifelazimercdsbaby.org
 fastmtvpayodmxh.tk
 fastnamegenerator.com
 fastnews.biz
@@ -214902,6 +214904,7 @@ is-dtkmsps.sbs
 is-firsatbasvursu-tr.com
 is-formu-basvur-bireysel-online.ml
 is-frsst2rrr.xyz
+is-gir.my-homeip.com
 is-internet.click
 is-internetsube-giris.com
 is-internetsubesi.com
@@ -361890,6 +361893,7 @@ termos-al.com
 termos-carrefoursa.vercel.app
 termos-kampanya.store
 termos.duckdns.org
+termos.hrermzsdnbistansdbubru.store
 termosa1o1.sbs
 termosal.cfd
 termosal1.cfd
@@ -366190,6 +366194,7 @@ tokikonutprojesibasvurim.vercel.app
 tokikonutprojesibasvuru.com
 tokikonutprojesiburda.vercel.app
 tokikonutprojesikayitlar.vercel.app
+tokikonutrehberi.com
 tokikonutum.com
 tokikotbasvurus-kayityap.vercel.app
 tokikourus-kayityap.vercel.app
