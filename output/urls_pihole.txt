@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-14 22:08:49 UTC
-# Toplam: 430977 Domain
+# Son Güncelleme: 2025-12-14 23:08:41 UTC
+# Toplam: 430979 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -339817,6 +339817,7 @@ simdibasvurunuz.linkerit.cyou
 simdibasvurunuzonay.linkerit.cyou
 simdibasvurunuzutamamla.urllik.sbs
 simdibasvuruyap-ebatablet.com
+simdibasvuruyap.cfd
 simdibayisintr.com
 simdibayistr.com
 simdibuhizlihalettiimben.com.tr
@@ -420534,6 +420535,7 @@ yenievimye.sbs
 yenievlenenlere.link
 yenievlenenleredestek.xyz
 yenievlenenlerekredi.com
+yenievlerimvekonutm.pics
 yenieyluilnperaekende.com
 yenifirsat-katilkazanhemen.tech
 yenifirsata.com

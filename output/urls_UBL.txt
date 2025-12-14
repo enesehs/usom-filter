@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-14 22:08:49 UTC
-! Total: 343953 rules
+! Last modified: 2025-12-14 23:08:41 UTC
+! Total: 343955 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -270898,6 +270898,7 @@
 *://*.simdibasvuru-vakif.top/*
 *://*.simdibasvurun.com/*
 *://*.simdibasvuruyap-ebatablet.com/*
+*://*.simdibasvuruyap.cfd/*
 *://*.simdibayisintr.com/*
 *://*.simdibayistr.com/*
 *://*.simdibuhizlihalettiimben.com.tr/*
@@ -335852,6 +335853,7 @@
 *://*.yenievlenenlere.link/*
 *://*.yenievlenenleredestek.xyz/*
 *://*.yenievlenenlerekredi.com/*
+*://*.yenievlerimvekonutm.pics/*
 *://*.yenieyluilnperaekende.com/*
 *://*.yenifirsat-katilkazanhemen.tech/*
 *://*.yenifirsata.com/*
