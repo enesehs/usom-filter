@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-14 07:01:46 UTC
-# Toplam: 430906 Domain
+# Son Güncelleme: 2025-12-14 08:12:09 UTC
+# Toplam: 430915 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3828,6 +3828,7 @@
 12534.cloud
 1253523553.cloud
 12536154250.xyz
+12541544155455.duckdns.org
 12545215.cloud
 125532415324324.com
 1255415551255655880.xyz
@@ -86377,6 +86378,7 @@ butunmarketlerdehaftalikfiyatlistesi.cfd
 butunmarketlerdekiaktifindirimler-burada.cfd
 butunmarketlerdekiaktifindirimlistesi.cfd
 butunurunlerdekikampanyafirsati.cfd
+buucuncu.sbs
 buugunburadan.shop
 buuncanlidersvarmi11.com
 buunun-icin-variz.shop
@@ -90107,6 +90109,7 @@ cariuang-biarkaya.zapto.org
 carizlqjd.com
 carizma.ddns.net
 cark-bntr.app
+cark-bntr.biz
 cark-bntr.com
 cark-bntr.one
 cark-firsatim-lucky.net
@@ -90979,6 +90982,7 @@ cawtrfcywt.duckdns.org
 cax1ch.duckdns.org
 caxtuxs.duckdns.org
 caxxxtrlgw.duckdns.org
+cay-makinesi.online
 cay6pp.duckdns.org
 caydanlik-firsat.biz.tr
 caydanlik-firsat.com.tr
@@ -214990,6 +214994,7 @@ is-yeni-kampanyalari.vercel.app
 is-yeniyilsurprizleri2019.com
 is-yuzuncuyilcekilisi-tr.com
 is.hizli-basvur.site
+is.my-homeip.com
 is.tk.ionlnb.com
 is.tr.onlnb.com
 is.xn--eyllozel0faiz-59b.site
@@ -304082,6 +304087,7 @@ proje-40binsproms-buradda.sbs
 proje-turkweb.com
 projebasvuru.com
 projebasvurulari.com
+projebilgidestek.cfd
 projeci.org
 projecss.ddns.net
 project-noted.at.ply.gg
@@ -398017,6 +398023,7 @@ website659323.nicepage.io
 website659545.nicepage.io
 website6596729.nicepage.io
 website6598110.nicepage.io
+website659fd435345.nicepage.io
 website65dsadsf343.nicepage.io
 website665s12.nicepage.io
 website665z22f.nicepage.io
@@ -418818,6 +418825,7 @@ yasamalkan.cfd
 yasamatesi.com
 yasambaglantilaryaratici.xyz
 yasambirlik.com
+yasamcozumleri.cfd
 yasamdankeyifal.com
 yasamdest.org
 yasamdestegi.net
@@ -428889,6 +428897,7 @@ ziraatlekazanin.org
 ziraatlekazaniyorum.com
 ziraatlerpromosyon.duckdns.org
 ziraatlesizdekazanin.org
+ziraatlibasvuru.sbs
 ziraatligunler.cfd
 ziraatligunler.sbs
 ziraatligunlerde.sbs

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-14 07:01:46 UTC
-! Total: 343899 rules
+! Last modified: 2025-12-14 08:12:09 UTC
+! Total: 343905 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -66227,6 +66227,7 @@
 *://*.butunmarketlerdekiaktifindirimler-burada.cfd/*
 *://*.butunmarketlerdekiaktifindirimlistesi.cfd/*
 *://*.butunurunlerdekikampanyafirsati.cfd/*
+*://*.buucuncu.sbs/*
 *://*.buugunburadan.shop/*
 *://*.buuncanlidersvarmi11.com/*
 *://*.buunun-icin-variz.shop/*
@@ -69283,6 +69284,7 @@
 *://*.carismargajaya.com/*
 *://*.carizlqjd.com/*
 *://*.cark-bntr.app/*
+*://*.cark-bntr.biz/*
 *://*.cark-bntr.com/*
 *://*.cark-bntr.one/*
 *://*.cark-firsatim-lucky.net/*
@@ -70042,6 +70044,7 @@
 *://*.cavityredundant.top/*
 *://*.cawltxgaebicfc.cc/*
 *://*.cawra3645.com/*
+*://*.cay-makinesi.online/*
 *://*.caydanlik-firsat.biz.tr/*
 *://*.caydanlik-firsat.com.tr/*
 *://*.caydanlik-firsat.info.tr/*
@@ -244916,6 +244919,7 @@
 *://*.proje-turkweb.com/*
 *://*.projebasvuru.com/*
 *://*.projebasvurulari.com/*
+*://*.projebilgidestek.cfd/*
 *://*.projeci.org/*
 *://*.project-obs.com/*
 *://*.project-obs.net/*
@@ -334427,6 +334431,7 @@
 *://*.yasamatesi.com/*
 *://*.yasambaglantilaryaratici.xyz/*
 *://*.yasambirlik.com/*
+*://*.yasamcozumleri.cfd/*
 *://*.yasamdankeyifal.com/*
 *://*.yasamdest.org/*
 *://*.yasamdestegi.net/*
@@ -342468,6 +342473,7 @@
 *://*.ziraatlekazanin.org/*
 *://*.ziraatlekazaniyorum.com/*
 *://*.ziraatlesizdekazanin.org/*
+*://*.ziraatlibasvuru.sbs/*
 *://*.ziraatligunler.cfd/*
 *://*.ziraatligunler.sbs/*
 *://*.ziraatligunlerde.sbs/*
