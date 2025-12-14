@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-14 10:09:25 UTC
-! Total: 343907 rules
+! Last modified: 2025-12-14 11:01:37 UTC
+! Total: 343912 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -63726,6 +63726,7 @@
 *://*.bsvruu55.click/*
 *://*.bsvruu60.click/*
 *://*.bsvruu70.click/*
+*://*.bsvruuu-yptmmm-sktm.live/*
 *://*.bsvruuu17.sbs/*
 *://*.bsvruuu18.click/*
 *://*.bsvruyon.click/*
@@ -65966,6 +65967,7 @@
 *://*.bursdiyari.org/*
 *://*.bursevi.org/*
 *://*.bursevim.net/*
+*://*.burshaberim.com/*
 *://*.burshaberler.com/*
 *://*.burshaberler.online/*
 *://*.burshaberleri.online/*
@@ -127764,6 +127766,7 @@
 *://*.frsbasvrkmpnykatlm.com.tr/*
 *://*.frsbuengzlcrfshiprs.cfd/*
 *://*.frsbugnencokbahrfirstlarikacrmam.sbs/*
+*://*.frscrfrsnline.cfd/*
 *://*.frsitsdemasbrdayzs.tech/*
 *://*.frsllrmskmczskkkckczc.click/*
 *://*.frslr0shop.shop/*
@@ -229239,6 +229242,7 @@
 *://*.onlineislemlersayfasivkfgirisicom.cf/*
 *://*.onlineislemlersayfasivkfgirisicom.tk/*
 *://*.onlineislemlersayfasivkfgirisicomtr.cf/*
+*://*.onlineislemlertoki.sbs/*
 *://*.onlineislemlertoki.site/*
 *://*.onlineislemlerturkiyegovtr.com/*
 *://*.onlineislemlerturkoperator.net/*
@@ -338854,6 +338858,7 @@
 *://*.yonlendir.cfd/*
 *://*.yonlendir.click/*
 *://*.yonlendir.link/*
+*://*.yonlendir9659.online/*
 *://*.yonlendirbeni.online/*
 *://*.yonlendiremezsinbeni.com/*
 *://*.yonlendirici.click/*
