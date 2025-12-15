@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-15 19:11:26 UTC
-# Toplam: 431089 Domain
+# Son Güncelleme: 2025-12-15 20:11:14 UTC
+# Toplam: 431091 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -272793,6 +272793,7 @@ neverisuitescomlong.com
 neverlandserver.nn.pe
 neverletyoudownsexx.ddns.net
 neverlose.icu
+neverlosecheck.site
 neverloselo.net
 neverlosepro.icu
 neveroker.info
@@ -306726,6 +306727,7 @@ pttavm-s.bireysel-satis.com.tr
 pttavm-s.bireysel-satisim.com.tr
 pttavm-s.bireysel-satislar.com.tr
 pttavm-s.bireyselim.com.tr
+pttavm-satici.com
 pttavm-secure.com
 pttavm-sepet.com.tr
 pttavm-sepet.online
