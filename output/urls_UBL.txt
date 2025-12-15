@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-15 11:10:04 UTC
-! Total: 343981 rules
+! Last modified: 2025-12-15 12:23:05 UTC
+! Total: 344003 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19513,6 +19513,7 @@
 *://*.adiidass.buzz/*
 *://*.adiidass.xyz/*
 *://*.adil-yatirim.com/*
+*://*.adil-yatirim.info/*
 *://*.adil-yatirim.net/*
 *://*.adil-yatirim.online/*
 *://*.adil-yatirim.org/*
@@ -41117,6 +41118,7 @@
 *://*.basvrrrgrntprmsnynn.xyz/*
 *://*.basvrrrkmpnyaaagrnt.click/*
 *://*.basvrrrkmpnyaaprmsnynn.art/*
+*://*.basvrrrkmpnyaaprmsnynn.info/*
 *://*.basvrrrkmpnyaaprmsnynn.pro/*
 *://*.basvrrrmxa.click/*
 *://*.basvrrrrprmsynngrntt.click/*
@@ -53244,6 +53246,7 @@
 *://*.birdawgin.com/*
 *://*.birdbusiness.top/*
 *://*.birdeburuyagercekolsa.xyz/*
+*://*.birdeistanbul.xyz/*
 *://*.birden.name.tr/*
 *://*.birdenbirecikagelendevasaindirimler.cfd/*
 *://*.birdenbirecikagelendevasaindirimler.my/*
@@ -62864,6 +62867,7 @@
 *://*.brfprimepoultryexporters.com/*
 *://*.brfqnwly.com/*
 *://*.brghtpixel.site/*
+*://*.brgn-onlineislemler.com/*
 *://*.brgylbscrfsonline.cfd/*
 *://*.brh-knua-edhn-1000tl.com/*
 *://*.brhdafrsatlaradogru.sbs/*
@@ -69573,6 +69577,7 @@
 *://*.carreyazaylari.xyz/*
 *://*.carreyazfirsatgunleri.online/*
 *://*.carreyazfirsatlari.online/*
+*://*.carreyilbasigunlerin.cfd/*
 *://*.carrfeourfirsat.shop/*
 *://*.carrfeourfirsatlari.shop/*
 *://*.carrfiurrr.online/*
@@ -75622,6 +75627,7 @@
 *://*.codegraze.top/*
 *://*.codeingasmylife.com/*
 *://*.codeinmist.online/*
+*://*.codeium4.shop/*
 *://*.codejquery-ui.com/*
 *://*.codematricx.com/*
 *://*.codemilli.com/*
@@ -93235,6 +93241,7 @@
 *://*.dijitalkredi-ziraatbireysel.com/*
 *://*.dijitalkredi-ziraatbireysel.sbs/*
 *://*.dijitalkredi-ziraatbireysel.website/*
+*://*.dijitalkredi-ziraatbireyselinternet.sbs/*
 *://*.dijitalkredi-ziraatkampanya.com/*
 *://*.dijitalkredi-ziraatkampanyawebgiris.sbs/*
 *://*.dijitalkredi-ziraatmobilbireysel.sbs/*
@@ -127336,6 +127343,7 @@
 *://*.fravico.pro/*
 *://*.fravntjlrlagirislerdoluyasamgiristr.xyz/*
 *://*.fraxom.xyz/*
+*://*.fraykson.com/*
 *://*.frazierservices.org/*
 *://*.frb1b5237012rklm.site/*
 *://*.frcasniyheqbovf.ru/*
@@ -152274,6 +152282,7 @@
 *://*.hemenyukleme.tk/*
 *://*.hemenyukleme.xyz/*
 *://*.hemenyuklenir.tk/*
+*://*.hemenyzbrsteklfislerb.store/*
 *://*.hemerobaptist.com/*
 *://*.hemerossonflesk.com/*
 *://*.hemerscanflsk.com/*
@@ -178636,6 +178645,7 @@
 *://*.ivxxrgggiiroddmmelrr.net/*
 *://*.ivybanu.com/*
 *://*.ivz7x63ymy.ru/*
+*://*.iwaxtorn.com/*
 *://*.iwbswdhwhsju-uadqhdjqjdq.icu/*
 *://*.iwdmxwdxw.online/*
 *://*.iwduwhdqdhq-uqhsuweuq.icu/*
@@ -179084,6 +179094,7 @@
 *://*.izeltasinidirimdee.com/*
 *://*.izeltasonline.vip/*
 *://*.izeltaspremiumis.vip/*
+*://*.izeltassadeceyuzbir.site/*
 *://*.izeltasseriuyguntakim.xyz/*
 *://*.izeltassetialdinaldin.xyz/*
 *://*.izeltasstok.xyz/*
@@ -189760,6 +189771,7 @@
 *://*.kayitolunrahatlayin.com/*
 *://*.kayitpromosyonlari.com/*
 *://*.kayitsayfasi2025.sbs/*
+*://*.kayitsistemi.cfd/*
 *://*.kayitsizkalamam.com/*
 *://*.kayitvar24.com/*
 *://*.kayitweb-login.xyz/*
@@ -207103,6 +207115,7 @@
 *://*.meclistecnonaylandi.com/*
 *://*.meclistenonayaldiadeler.com/*
 *://*.meclistenonayaldiadeleriniz.life/*
+*://*.mecrones.com/*
 *://*.mectury.net/*
 *://*.meculatribune.top/*
 *://*.mecx-global.xyz/*
@@ -207939,6 +207952,7 @@
 *://*.meritkazandiriyor.cf/*
 *://*.meritking1258.com/*
 *://*.meritking1269.com/*
+*://*.meritking1453.info/*
 *://*.meritking1453.online/*
 *://*.meritkinngg1059.com/*
 *://*.meritoshop.com/*
@@ -209121,6 +209135,7 @@
 *://*.midsyh.com/*
 *://*.miducnafleh.com/*
 *://*.midwestsoil.top/*
+*://*.midwfest.com/*
 *://*.midwifecoconut.top/*
 *://*.midyatsekssohbeti.xyz/*
 *://*.midyheciyasinxd.net/*
@@ -239703,6 +239718,7 @@
 *://*.peak12hotel.world/*
 *://*.peakbound.online/*
 *://*.peakepeters568.xyz/*
+*://*.peakforge.cfd/*
 *://*.peakidiotic.top/*
 *://*.peakinternetservice.com/*
 *://*.peakkapp.com/*
@@ -251956,6 +251972,7 @@
 *://*.quickcamfix.online/*
 *://*.quickcompe.net/*
 *://*.quickcontentnetwork.com/*
+*://*.quickdebithub.com/*
 *://*.quickhelpsolve.com/*
 *://*.quickmagnify.top/*
 *://*.quickmind.site/*
@@ -303528,6 +303545,7 @@
 *://*.tvrkksgmmhfll.net/*
 *://*.tvrp.pw/*
 *://*.tvrtdk-muyanealma.com/*
+*://*.tvrtksv.com/*
 *://*.tvrtrkrndvmyne.com/*
 *://*.tvrturkrandvu.com/*
 *://*.tvsbimcell.com/*
@@ -313092,6 +313110,7 @@
 *://*.vexrgihizxlivergodeme.net/*
 *://*.vexti365.com/*
 *://*.vextradolin.store/*
+*://*.vextura.site/*
 *://*.veyarexcarsfilo.com/*
 *://*.veygzqdl.com/*
 *://*.veykstar.com/*
@@ -314008,6 +314027,7 @@
 *://*.vivtggiirislllemenu.com/*
 *://*.vivvvonlineislemenugiris.com/*
 *://*.vixmars.com/*
+*://*.vixonar.com/*
 *://*.viyhxb.cn/*
 *://*.vizacdth.com/*
 *://*.vize-kapisi.com/*
@@ -343331,6 +343351,7 @@
 *://*.zonlineislemmerkezi.cf/*
 *://*.zonlinesubeislemin.gq/*
 *://*.zonlinetbk.online/*
+*://*.zontrivo.one/*
 *://*.zonverrbelkor.com/*
 *://*.zoo-ciry.shop/*
 *://*.zoofv.com/*
@@ -343395,6 +343416,7 @@
 *://*.zorip.at/*
 *://*.zorlakinetek.com/*
 *://*.zorlu-egitimvakfi.site/*
+*://*.zorlu-energy.com/*
 *://*.zorlu-vakfi-destek.site/*
 *://*.zorlu-vakfi-egitime-destek.site/*
 *://*.zorlu-vakif-destek.site/*

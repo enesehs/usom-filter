@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-15 11:10:04 UTC
-# Toplam: 431017 Domain
+# Son Güncelleme: 2025-12-15 12:23:05 UTC
+# Toplam: 431041 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30941,6 +30941,7 @@ adikaremix.hopto.org
 adikremix.ydns.eu
 adikrus.zapto.org
 adil-yatirim.com
+adil-yatirim.info
 adil-yatirim.net
 adil-yatirim.online
 adil-yatirim.org
@@ -57862,6 +57863,7 @@ basvrrrgrntprmsnynn.art
 basvrrrgrntprmsnynn.xyz
 basvrrrkmpnyaaagrnt.click
 basvrrrkmpnyaaprmsnynn.art
+basvrrrkmpnyaaprmsnynn.info
 basvrrrkmpnyaaprmsnynn.pro
 basvrrrmxa.click
 basvrrrrprmsynngrntt.click
@@ -71613,6 +71615,7 @@ birdarid.org
 birdawgin.com
 birdbusiness.top
 birdeburuyagercekolsa.xyz
+birdeistanbul.xyz
 birden-yukleme.22web.org
 birden.name.tr
 birdenbirecikagelendevasaindirimler.cfd
@@ -82595,6 +82598,7 @@ brfprimepoultryexporters.com
 brfqnwly.com
 brgecis.sg-host.com
 brghtpixel.site
+brgn-onlineislemler.com
 brgylbscrfsonline.cfd
 brh-knua-edhn-1000tl.com
 brhck8.duckdns.org
@@ -90446,6 +90450,7 @@ carreyazaylari.online
 carreyazaylari.xyz
 carreyazfirsatgunleri.online
 carreyazfirsatlari.online
+carreyilbasigunlerin.cfd
 carrfeourfirsat.shop
 carrfeourfirsatlari.shop
 carrfiurrr.online
@@ -92208,6 +92213,7 @@ celssa.com
 celticso.ru
 celvin.ddns.net
 cem59d8hw.duckdns.org
+cemaatkmpanyasi.duckdns.org
 cemalakka.fit
 cemalicik.site
 cemalsafivakfi.org
@@ -98264,6 +98270,7 @@ codegraze.top
 codein.duckdns.org
 codeingasmylife.com
 codeinmist.online
+codeium4.shop
 codejquery-ui.com
 codemartin2410-20574.portmap.io
 codematricx.com
@@ -119550,6 +119557,7 @@ dijitalkredi-ziraat.com
 dijitalkredi-ziraatbireysel.com
 dijitalkredi-ziraatbireysel.sbs
 dijitalkredi-ziraatbireysel.website
+dijitalkredi-ziraatbireyselinternet.sbs
 dijitalkredi-ziraatkampanya.com
 dijitalkredi-ziraatkampanyawebgiris.sbs
 dijitalkredi-ziraatmobilbireysel.sbs
@@ -159583,6 +159591,7 @@ frauth.site
 fravico.pro
 fravntjlrlagirislerdoluyasamgiristr.xyz
 fraxom.xyz
+fraykson.com
 frazer.zapto.org
 frazierservices.org
 frb1b5237012rklm.site
@@ -189353,6 +189362,7 @@ hemenyukleme.xyz
 hemenyuklemeci.2kool4u.net
 hemenyuklemeci.loveslife.biz
 hemenyuklenir.tk
+hemenyzbrsteklfislerb.store
 hemerobaptist.com
 hemerossonflesk.com
 hemerscanflsk.com
@@ -199073,6 +199083,7 @@ horizonzest.space
 horkessatis.gen.tr
 horlzonhub.com
 hormenesgtesls.com
+hormenistongsad.duckdns.org
 hormennnnstersertmsirtsirta.com
 hormennssssterkdslere.com
 hormensdtrerr.com
@@ -220522,6 +220533,7 @@ iw9xjex.duckdns.org
 iwantsomething.zapto.org
 iwapl.jk6l1r.com
 iwarsut775laudrye3.duckdns.org
+iwaxtorn.com
 iwbkxevcuj.duckdns.org
 iwbswdhwhsju-uadqhdjqjdq.icu
 iwd21cqkz.duckdns.org
@@ -221075,6 +221087,7 @@ izeltasonline.vip
 izeltaspremium.luminix.sbs
 izeltaspremiumis.juxtor.sbs
 izeltaspremiumis.vip
+izeltassadeceyuzbir.site
 izeltasseriuyguntakim.xyz
 izeltassetialdinaldin.xyz
 izeltasstok.xyz
@@ -233781,6 +233794,7 @@ kayitolsana724.com
 kayitolunrahatlayin.com
 kayitpromosyonlari.com
 kayitsayfasi2025.sbs
+kayitsistemi.cfd
 kayitsizcuzdanonaysorgulamasayfasi.line.pm
 kayitsizkalamam.com
 kayitsorgu-09c4be32ae16.herokuapp.com
@@ -256912,6 +256926,7 @@ meclistecnonaylandi.com
 meclistenonayaldiadeler.com
 meclistenonayaldiadeleriniz.life
 mecnquertovia.ix.tc
+mecrones.com
 mectury.net
 meculatribune.top
 mecx-global.xyz
@@ -257969,6 +257984,7 @@ merithertret.com
 meritkazandiriyor.cf
 meritking1258.com
 meritking1269.com
+meritking1453.info
 meritking1453.online
 meritkinngg1059.com
 meritoshop.com
@@ -259567,6 +259583,7 @@ midsyh.com
 miducnafleh.com
 midusa.duckdns.org
 midwestsoil.top
+midwfest.com
 midwifecoconut.top
 midyatsekssohbeti.xyz
 midyheciyasinxd.net
@@ -276166,6 +276183,7 @@ ns-18736583.pixelvault.sbs
 ns-1873658315813123412.shiftaura.sbs
 ns-356853863563586.edgerune.cfd
 ns-4722638262.xyz
+ns-cemaatkmpanyasiduckdnsorg.peakforge.cfd
 ns-client.net
 ns-krt.online
 ns-vaikf.online
@@ -312992,6 +313010,7 @@ quickboorks-acccounting.com
 quickboorks-accountings.com
 quickcompe.net
 quickdatenight.duckdns.org
+quickdebithub.com
 quickhelpsolve.com
 quickmagnify.top
 quickmind.site
@@ -378716,6 +378735,7 @@ tvreezeersa.net
 tvrkksgmmhfll.net
 tvrp.pw
 tvrtdk-muyanealma.com
+tvrtksv.com
 tvrtrkrndvmyne.com
 tvrtruk.b-cdn.net
 tvrturkrandvu.com
@@ -391038,6 +391058,7 @@ vexrgihizlivrgodeme.net
 vexrgihizxlivergodeme.net
 vexrigi.blogspot.com
 vextradolin.store
+vextura.site
 veyaf1.s3.eu-north-1.amazonaws.com
 veyarexcarsfilo.com
 veygzqdl.com
@@ -392193,6 +392214,7 @@ vivucreywi.duckdns.org
 vivvvonlineislemenugiris.com
 viwe4x21.duckdns.org
 vixmars.com
+vixonar.com
 vixx4dwv.duckdns.org
 viyhxb.cn
 viyiper.zapto.org
@@ -429973,6 +429995,7 @@ zonlineislemmerkezi.cf
 zonlinesubeislemin.gq
 zonlinetbk.online
 zonstock.xpresit.net
+zontrivo.one
 zonverrbelkor.com
 zoogamous.com
 zoohg1.duckdns.org
@@ -430049,6 +430072,7 @@ zorip.at
 zorlakinetek.com
 zorlu-2023-burs-al.b-cdn.net
 zorlu-egitimvakfi.site
+zorlu-energy.com
 zorlu-vakfi-destek.b-cdn.net
 zorlu-vakfi-destek.site
 zorlu-vakfi-egitime-destek.site
