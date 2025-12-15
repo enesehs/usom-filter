@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-15 15:14:40 UTC
-! Total: 344025 rules
+! Last modified: 2025-12-15 19:11:26 UTC
+! Total: 344037 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -67506,6 +67506,7 @@
 *://*.byks1.xyz/*
 *://*.byksehirbldyesi.click/*
 *://*.byksnglrde0.shop/*
+*://*.bykylcrfrsa.cfd/*
 *://*.bylhtfcpdihkiojs.com/*
 *://*.bylinemgir.pw/*
 *://*.byltly.com/*
@@ -103243,6 +103244,7 @@
 *://*.e-tokibasvurulari.digital/*
 *://*.e-tokiilemutluev.digital/*
 *://*.e-tokiileyasama.digital/*
+*://*.e-tokilerebasvurular.digital/*
 *://*.e-tokiyebasvurr.digital/*
 *://*.e-tr-6yil-firsat.site/*
 *://*.e-tr-aidat-iadesi-gov-tr.com/*
@@ -137468,6 +137470,8 @@
 *://*.gomolatori.cyou/*
 *://*.gomrosdemines3044.site/*
 *://*.gomyfiles.info/*
+*://*.gon1inemislemtrap.online/*
+*://*.gon1inemisllemtrapp.online/*
 *://*.goncabutik.com.tr/*
 *://*.goncalves.com/*
 *://*.goncavakfi.org/*
@@ -169523,6 +169527,7 @@
 *://*.indirimdunyasi63.xyz/*
 *://*.indirimduyurusu.com/*
 *://*.indirime-gel.store/*
+*://*.indirimedogrugelin.me/*
 *://*.indirimegels.site/*
 *://*.indirimegeltr.website/*
 *://*.indirimekimkampanyaisteburada.online/*
@@ -194030,6 +194035,7 @@
 *://*.kollesa.com/*
 *://*.kolllamadasadatakta.site/*
 *://*.kolllayliklar-ptt-kargolariniz-kapilariniza-gelsin.com/*
+*://*.kollnorion.com/*
 *://*.kolnim.com/*
 *://*.kolnlm.com/*
 *://*.kolobiasenel.site/*
@@ -194415,6 +194421,7 @@
 *://*.konuttara.click/*
 *://*.konuttokibasvuronline.top/*
 *://*.konuttokibasvurusu.art/*
+*://*.konuttokibasvurusu.info/*
 *://*.konuttokibasvurusu.pro/*
 *://*.konuttokibasvurusu.xyz/*
 *://*.konuttokibasvurusuu.xyz/*
@@ -194950,6 +194957,7 @@
 *://*.krca-guzeller-ekm.com/*
 *://*.krca-ksm-gnleri.com/*
 *://*.krcaarlkzamnigld.cfd/*
+*://*.krcaarlkzmnii.top/*
 *://*.krcablnindrm.shop/*
 *://*.krcabuylbsiizel.com/*
 *://*.krcadan-ksm-gzelleri.com/*
@@ -246542,6 +246550,7 @@
 *://*.ptt-govs.cfd/*
 *://*.ptt-govs.click/*
 *://*.ptt-govs.club/*
+*://*.ptt-govs.help/*
 *://*.ptt-govs.sbs/*
 *://*.ptt-govs.top/*
 *://*.ptt-govs.vip/*
@@ -271646,6 +271655,7 @@
 *://*.siparisleriniz.com.tr/*
 *://*.siparislerinizbizim1e.online/*
 *://*.siparislerinizdehizlandirmalik.cloud/*
+*://*.siparislerinizden.com/*
 *://*.siparislerinizlanirda.cloud/*
 *://*.siparislerkolay.site/*
 *://*.siparislern6agustosta.cloud/*
@@ -331524,6 +331534,7 @@
 *://*.xxbasvurwebonlingovtr.site/*
 *://*.xxbvruuu.click/*
 *://*.xxbvruuu10.click/*
+*://*.xxbvruuu12.click/*
 *://*.xxbvruuu2.click/*
 *://*.xxbvruuu4.click/*
 *://*.xxbvruuu6.click/*
@@ -338028,6 +338039,7 @@
 *://*.yilsonubireyisbak-kampanya-ozelkatilim.ml/*
 *://*.yilsonubireysel-900tlkampanyasi-basvur-online.ml/*
 *://*.yilsonubireyselforum-katil-ozel-online.ml/*
+*://*.yilsonucarreforsadayiz.cfd/*
 *://*.yilsonucekilisi-denizsubesiz.com/*
 *://*.yilsonudevle-kampanya-basvur-online.ml/*
 *://*.yilsonuefsanearalik.xyz/*
