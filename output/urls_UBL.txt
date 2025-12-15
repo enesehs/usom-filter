@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-15 07:15:21 UTC
-! Total: 343963 rules
+! Last modified: 2025-12-15 10:13:40 UTC
+! Total: 343981 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13637,6 +13637,7 @@
 *://*.a-plakaliborctakibi.info/*
 *://*.a-ptt-avm.com/*
 *://*.a-ptt-avm.xyz/*
+*://*.a-pttalisveris.com/*
 *://*.a-pttavm.com/*
 *://*.a-pttavmm.com/*
 *://*.a-pttgov.top/*
@@ -47905,6 +47906,7 @@
 *://*.bilgikapisiform.blog/*
 *://*.bilgikapisiform.com/*
 *://*.bilgikayna.info/*
+*://*.bilgikaynagi.cfd/*
 *://*.bilgikaynagi.info/*
 *://*.bilgikontrolsaglama.com/*
 *://*.bilgikontrolyeri.com/*
@@ -68894,6 +68896,7 @@
 *://*.carbohydrateeaster.top/*
 *://*.carbohydrateintervention.top/*
 *://*.carbondouze.com/*
+*://*.carbonellsrl.com.ar/*
 *://*.carbonpsychiatric.top/*
 *://*.carbrturslan.com/*
 *://*.carcoweb.com/*
@@ -70098,6 +70101,7 @@
 *://*.cb-verification.com/*
 *://*.cb10101010101010132010199331.com/*
 *://*.cbakk.xyz/*
+*://*.cbalcabncrfsagfrsat.cfd/*
 *://*.cbaskanligi.com/*
 *://*.cbasmssrv.com/*
 *://*.cbasvuruonaylamasi.net/*
@@ -91964,6 +91968,7 @@
 *://*.diablosharped.net/*
 *://*.diacocr.com/*
 *://*.diadaacaodegraca.com/*
+*://*.diadelosmuertos.events/*
 *://*.diaetesasso.top/*
 *://*.diagfest-tickets.ru/*
 *://*.diagnoseallure.top/*
@@ -122942,6 +122947,7 @@
 *://*.finansnakitiniz.site/*
 *://*.finansnotu.online/*
 *://*.finansnrl.com/*
+*://*.finansnrl.net/*
 *://*.finansonaygirisi.com/*
 *://*.finansonline-qnb.com/*
 *://*.finansonline-tr.com/*
@@ -128367,6 +128373,7 @@
 *://*.futurewayup.online/*
 *://*.futurisehub.com/*
 *://*.futuristicdesignsolutions.online/*
+*://*.futurixclear.com/*
 *://*.fuu00ppss.online/*
 *://*.fuvataren.com/*
 *://*.fuvmqh.com/*
@@ -136501,6 +136508,7 @@
 *://*.glidehigh.es/*
 *://*.glideretrieval.top/*
 *://*.glimmerbloop.top/*
+*://*.glimmerix.pro/*
 *://*.glimmerpath.pro/*
 *://*.glimmerstead.com/*
 *://*.glimmoratech.com/*
@@ -189738,6 +189746,7 @@
 *://*.kayitislemleri.net/*
 *://*.kayitislemyapikredi.com/*
 *://*.kayitkabulbasvurusu.com/*
+*://*.kayitkanali.cfd/*
 *://*.kayitkredi.com/*
 *://*.kayitlar-webbit-try1.info/*
 *://*.kayitlar-yapikredi.com/*
@@ -190228,6 +190237,7 @@
 *://*.kedicik.app/*
 *://*.kedicik.art/*
 *://*.kedicik.club/*
+*://*.kedicik.dev/*
 *://*.kedicik.live/*
 *://*.kedicik.online/*
 *://*.kedicik.pro/*
@@ -218344,6 +218354,7 @@
 *://*.ndcdisiadnn.net/*
 *://*.ndcfmr.top/*
 *://*.ndcumolde.net/*
+*://*.ndcwsww.com/*
 *://*.nddmmmnsn.click/*
 *://*.nddnsnsnm.net/*
 *://*.nddwb2pcstlmsedgzgz.top/*
@@ -240526,6 +240537,7 @@
 *://*.petrolme-way.com/*
 *://*.petrolofis.com/*
 *://*.petrolofisi-bites.com/*
+*://*.petrolofisi-tr.com/*
 *://*.petrolofisikampanyalar.com/*
 *://*.petrolofisleri.info/*
 *://*.petroloilnews.live/*
@@ -249548,6 +249560,7 @@
 *://*.pxx-transferi.com/*
 *://*.pxxvpjkb.org/*
 *://*.pxzartesimxrkt79.com/*
+*://*.py-installer.cc/*
 *://*.py2web.store/*
 *://*.pyaiki.ml/*
 *://*.pyajwkkntjskeoq.su/*
@@ -257276,6 +257289,7 @@
 *://*.rodfilokiralama.com/*
 *://*.rodformi.run/*
 *://*.rodheslesson.online/*
+*://*.rodney.lat/*
 *://*.rodney.store/*
 *://*.rodtimberproducts.co.za/*
 *://*.rodujuhocafy.biz/*
@@ -279056,6 +279070,7 @@
 *://*.sslkfkmckzmtkrmdkfmckmzmz.store/*
 *://*.sslkrmsflrsnkmvzcatmarsab.com/*
 *://*.ssllemrnzzsrgc.xyz/*
+*://*.ssllndac.com/*
 *://*.ssllst.cloud/*
 *://*.sslport.work/*
 *://*.sslsam.com/*
@@ -291208,6 +291223,7 @@
 *://*.tisortkampanyasi.tk/*
 *://*.tisqls52.top/*
 *://*.tissuederegulation.top/*
+*://*.titanarmyrary.today/*
 *://*.titanc5.net/*
 *://*.titanchecksystem.store/*
 *://*.titandughrab.com/*
@@ -326768,7 +326784,9 @@
 *://*.xiomininsurepfirsatlari.sbs/*
 *://*.xiomininyazfirsatlari.cfd/*
 *://*.xiomininyazfirsatlari.sbs/*
+*://*.xiongdaylf.com/*
 *://*.xiongdinimenkuai.top/*
+*://*.xionger.cc/*
 *://*.xiongweiwei.com/*
 *://*.xipxesip.design/*
 *://*.xipxesip.digital/*
