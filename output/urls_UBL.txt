@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-15 22:09:52 UTC
-! Total: 344050 rules
+! Last modified: 2025-12-15 23:10:00 UTC
+! Total: 344076 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1182,6 +1182,7 @@
 *://*.101cekilis.com.tr/*
 *://*.101cekilis.online/*
 *://*.101cekilis.xyz/*
+*://*.101clouddyy.store/*
 *://*.101cn010101bn01010132010199331.online/*
 *://*.101cokalazode.com/*
 *://*.101cuma-firsatlar.com/*
@@ -4364,6 +4365,8 @@
 *://*.1997823224.xyz/*
 *://*.199bvagrnti.com/*
 *://*.19ak90ckxyjxc.life/*
+*://*.19aralikakfirsatimla.com.tr/*
+*://*.19aralikdasimdifirsat.com.tr/*
 *://*.19aralikfirsatlaria101.shop/*
 *://*.19aralikindirim.com.tr/*
 *://*.19aralikindirim.online/*
@@ -4378,6 +4381,8 @@
 *://*.19aralikindirimimizkacirma.online/*
 *://*.19aralikindirimimizkacirma.xyz/*
 *://*.19aralikindirimimizkacirmayin.com.tr/*
+*://*.19araliklasimdiakfirsat.com.tr/*
+*://*.19araliksimdiakfirsat.com.tr/*
 *://*.19b7308ea6d4.com/*
 *://*.19bucuksiparislerininolus.cloud/*
 *://*.19bucuksiparislerininolusservices.cloud/*
@@ -6951,6 +6956,7 @@
 *://*.25985-coinbase.com/*
 *://*.25agustostasiparislerinden.net/*
 *://*.25aralikfirsatlardunyasi.xyz/*
+*://*.25aralikfirsatlarim.tr/*
 *://*.25araliksizlefirsatlarim.tr/*
 *://*.25araliksonkampanyalarim.xyz/*
 *://*.25arlksonfrst.shop/*
@@ -64349,6 +64355,7 @@
 *://*.buaidatiadelerinikacirma.com/*
 *://*.buakbaadkredimme.xyz/*
 *://*.buakda-frstaweickc.com/*
+*://*.bualtinci.sbs/*
 *://*.buaradayken.site/*
 *://*.buarayatikla.club/*
 *://*.buasfbasfafs-ykleme.net/*
@@ -107760,6 +107767,7 @@
 *://*.edirhtuawurxlobk.com/*
 *://*.edirnax.su/*
 *://*.edirne-anlikhaberler.xyz/*
+*://*.edirnekapslkdm.space/*
 *://*.edirnesube.com.tr/*
 *://*.edirnesube.online/*
 *://*.edirnesube.xyz/*
@@ -134701,6 +134709,9 @@
 *://*.ggggarraanttttti.com.tr/*
 *://*.ggggcnm.top/*
 *://*.ggggewr12daasf-gsa1wfsag31-gas.com.tr/*
+*://*.ggggewr12daasf-gsa1wfsag31-gas.info.tr/*
+*://*.ggggewr12daasf-gsa1wfsag31-gas.net.tr/*
+*://*.ggggewr12daasf-gsa1wfsag31-gas.org.tr/*
 *://*.ggggg13677.com/*
 *://*.gggggaaaaarraaantttttii.net/*
 *://*.gggggaranti.com.tr/*
@@ -179118,6 +179129,7 @@
 *://*.izeltasindirimgunu.xyz/*
 *://*.izeltasindirmleri.xyz/*
 *://*.izeltasinidirimdee.com/*
+*://*.izeltasom.site/*
 *://*.izeltasonline.vip/*
 *://*.izeltaspremiumis.vip/*
 *://*.izeltassadeceyuzbir.site/*
@@ -192236,6 +192248,7 @@
 *://*.kisalink-N7eD.com/*
 *://*.kisalink.cc/*
 *://*.kisalink.cfd/*
+*://*.kisalink.online/*
 *://*.kisalinkkisalinkguncelle.ml/*
 *://*.kisalinkkisalinkguncelle.tk/*
 *://*.kisalinksacrfsa.cfd/*
@@ -203107,6 +203120,7 @@
 *://*.m2w9c4qaqdj8x1o.net/*
 *://*.m35qgcj.cn/*
 *://*.m39793.cn/*
+*://*.m3q6r8n1y4t0b9x2z5p7v6w1.com.tr/*
 *://*.m3rcy.shop/*
 *://*.m3tvodeme.gq/*
 *://*.m4dakk.xyz/*
@@ -215771,6 +215785,7 @@
 *://*.muhbirthemis.tk/*
 *://*.muhekuidii.life/*
 *://*.muhetesemkarisim.name.tr/*
+*://*.muhgknfsdi.sbs/*
 *://*.muhh.us/*
 *://*.muhjlipferve.site/*
 *://*.muhonaber.com/*
@@ -229690,6 +229705,7 @@
 *://*.onlineozel-indirimkatalogu.com/*
 *://*.onlineozel-kampanyalarimiz.xyz/*
 *://*.onlineozel-karaaca.com/*
+*://*.onlineozel-katalog.cfd/*
 *://*.onlineozel-mobilpuanlar.ga/*
 *://*.onlineozel-mobilpuanlar.ml/*
 *://*.onlineozel-mobilpuanlar.tk/*
@@ -233523,6 +233539,7 @@
 *://*.p3marketing.org/*
 *://*.p4a587.cn/*
 *://*.p4ersonbro.com/*
+*://*.p4k6m2r9x8t3n1s7b5v0u2w6.com.tr/*
 *://*.p4nale412c.site/*
 *://*.p4p4p4t4ss.xyz/*
 *://*.p4qtljw5yl2jnf5t.com/*
@@ -252331,6 +252348,7 @@
 *://*.r25820.xyz/*
 *://*.r2amerika.site/*
 *://*.r2fe.xyz/*
+*://*.r2p5x8n1y3t0m6q7v9b4w2z5.com.tr/*
 *://*.r2xw.com/*
 *://*.r32gt-rh3bhsdf-32rgr23we12edsa.sbs/*
 *://*.r33bz.online/*
@@ -259266,6 +259284,7 @@
 *://*.sadece-online-ozel-kampanya105.shop/*
 *://*.sadece-online-ozel-kampanya106.shop/*
 *://*.sadece-online-ozel-kapida.com.tr/*
+*://*.sadece-online-ozel-tr.site/*
 *://*.sadece-online-ozel.cfd/*
 *://*.sadece-online-ozel.com/*
 *://*.sadece-online-ozel.icu/*
@@ -279640,6 +279659,7 @@
 *://*.stanleyretuned.xyz/*
 *://*.stanleyrevburst.xyz/*
 *://*.stanleyrevive.xyz/*
+*://*.stanleyrevived.xyz/*
 *://*.stanleyrevvolt.xyz/*
 *://*.stanleyrise.xyz/*
 *://*.stanleysepetleri.xyz/*
@@ -284205,6 +284225,7 @@
 *://*.t718zra.cn/*
 *://*.t7emmuzindirimyararlanile.com/*
 *://*.t7jgqhhq7.com/*
+*://*.t7z3w9x1b2q8m4r0y6n5v2a3.com.tr/*
 *://*.t9kidvl3et.store/*
 *://*.t9t9tt9t923t2sfsg.sbs/*
 *://*.t9z.lol/*
@@ -308329,6 +308350,7 @@
 *://*.v984h14.com/*
 *://*.v99ay4wuo.ru/*
 *://*.v9ggjn4s.ru/*
+*://*.v9m2t4r1y6p3n5x0z7q8b2w4.com.tr/*
 *://*.vTr1RG2d9jQ.jp/*
 *://*.va-ez.com/*
 *://*.va-kif-benkjkr.com/*
@@ -316024,6 +316046,7 @@
 *://*.w4vn.net/*
 *://*.w4yn3st0ne.xyz/*
 *://*.w5dwxw5xw.online/*
+*://*.w5t2r9x7n0q3b1m6y4p8z2v9.com.tr/*
 *://*.w6.nz/*
 *://*.w6q.us/*
 *://*.w73mpowdbng4ivn34t.com/*
@@ -327719,6 +327742,7 @@
 *://*.xn--buradayiz-1pb.shop/*
 *://*.xn--buranbank-26d96qga.fm/*
 *://*.xn--burayayonlendrmektenskldk-g1d.shop/*
+*://*.xn--burdafrsatlar-89b.tr/*
 *://*.xn--burdahgaberdi-utc.app/*
 *://*.xn--burgnbanlk-b7j.fm/*
 *://*.xn--burgnbark-376d.ws/*
@@ -335943,6 +335967,7 @@
 *://*.yenievlenenleredestek.xyz/*
 *://*.yenievlenenlerekredi.com/*
 *://*.yenievlerimvekonutm.lol/*
+*://*.yenievlerimvekonutm.mom/*
 *://*.yenievlerimvekonutm.pics/*
 *://*.yenieyluilnperaekende.com/*
 *://*.yenifirsat-katilkazanhemen.tech/*
@@ -340418,6 +340443,7 @@
 *://*.z7s.org/*
 *://*.z8.ru/*
 *://*.z8ieuu8.cn/*
+*://*.z8x4r2t7b1n9q0m5y6v3p2w8.com.tr/*
 *://*.z99909930m.click/*
 *://*.z9w8l8k1zaf3g.info/*
 *://*.za-post-word.top/*

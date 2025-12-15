@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-15 22:09:52 UTC
-# Toplam: 431105 Domain
+# Son Güncelleme: 2025-12-15 23:10:00 UTC
+# Toplam: 431137 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2245,6 +2245,7 @@
 101cekilis.com.tr
 101cekilis.online
 101cekilis.xyz
+101clouddyy.store
 101cn010101bn01010132010199331.online
 101cokalazode.com
 101cuma-firsatlar.com
@@ -6127,6 +6128,8 @@
 199bvagrnti.com
 19ak90ckxyjxc.life
 19ap22.duckdns.org
+19aralikakfirsatimla.com.tr
+19aralikdasimdifirsat.com.tr
 19aralikfirsatlaria101.shop
 19aralikindirim.com.tr
 19aralikindirim.online
@@ -6141,6 +6144,8 @@
 19aralikindirimimizkacirma.online
 19aralikindirimimizkacirma.xyz
 19aralikindirimimizkacirmayin.com.tr
+19araliklasimdiakfirsat.com.tr
+19araliksimdiakfirsat.com.tr
 19b7308ea6d4.com
 19bsncpges229s.duckdns.org
 19bucuksiparislerininolus.cloud
@@ -8725,6 +8730,8 @@
 21aidattalepleriniz.org
 21apslv48.duckdns.org
 21aralikakfirsat.com.tr
+21aralikdaakfirsatim.com.tr
+21aralikfirsatak.com.tr
 21aralikinidirim.pro
 21aralikkacirma.com.tr
 21aralikkacirma.online
@@ -9588,6 +9595,7 @@
 25985-coinbase.com
 25agustostasiparislerinden.net
 25aralikfirsatlardunyasi.xyz
+25aralikfirsatlarim.tr
 25araliksizlefirsatlarim.tr
 25araliksonkampanyalarim.xyz
 25ard1.duckdns.org
@@ -22016,6 +22024,7 @@ a-101.org
 a-101.ramazankampanyalarimiz.site
 a-101.s-get.com.tr
 a-101.sa.com
+a-101.sadece-online-ozel-tr.site
 a-101.sanalmarketin.com.tr
 a-101.shop
 a-101.site
@@ -24964,6 +24973,7 @@ a1o1sanalmarket6.top
 a1o1sanalmarket7.top
 a1o1sanalmarket8.top
 a1o1sanalmarket9.top
+a1o1sasirtanfrsatlar.blogdns.com
 a1o1sepet.net
 a1o1sinirlistokreklam.ddnsfree.com
 a1o1sonfirsatlarim.com
@@ -84319,6 +84329,7 @@ buaidatiadelerinikacirma.com
 buakbaadkredimme.xyz
 buakda-frstaweickc.com
 buakzavytfopgsaxcz.ddns.net
+bualtinci.sbs
 buaohbqc.duckdns.org
 buapas.sa.com
 buapd5ww.duckdns.org
@@ -136457,6 +136468,7 @@ edirektbasvur.com
 edirhtuawurxlobk.com
 edirnax.su
 edirne-anlikhaberler.xyz
+edirnekapslkdm.space
 edirnesube.com.tr
 edirnesube.online
 edirnesube.xyz
@@ -168882,6 +168894,9 @@ ggggaaarrraannnttttiiiiibbbvvvaaaa.com
 ggggarraanttttti.com.tr
 ggggcnm.top
 ggggewr12daasf-gsa1wfsag31-gas.com.tr
+ggggewr12daasf-gsa1wfsag31-gas.info.tr
+ggggewr12daasf-gsa1wfsag31-gas.net.tr
+ggggewr12daasf-gsa1wfsag31-gas.org.tr
 ggggg.hopto.org
 ggggg13677.com
 gggggaaaaarraaantttttii.net
@@ -173999,6 +174014,7 @@ grattis.dynuddns.com
 grattis.laviewddns.com
 grattis.myvnc.com
 grattis.ooguy.com
+grattis.simple-url.com
 gratuv.com
 grauhl.xyz
 grauhz.xyz
@@ -221118,6 +221134,7 @@ izeltasmkanikcantafirsati.blogspot.com
 izeltasodemeleri.dnsup.net
 izeltasodememerkezi.dnsup.net
 izeltasodemeyonlendirme.blogspot.com
+izeltasom.site
 izeltasonline.vip
 izeltaspremium.luminix.sbs
 izeltaspremiumis.juxtor.sbs
@@ -237052,6 +237069,7 @@ kisalink-N7eD.com
 kisalink.cc
 kisalink.cfd
 kisalink.myonlineportal.de
+kisalink.online
 kisalinkkisalinkguncelle.ml
 kisalinkkisalinkguncelle.tk
 kisalinkolustur.vercel.app
@@ -238339,6 +238357,7 @@ kmmsorggulamahmenburdagovptt.com
 kmmsorgllarrr.web.app
 kmmsorgugov-trr.duckdns.org
 kmmsorgulahemengov-tr.duckdns.org
+kmmsorgulamagovptthasan4.web.app
 kmmsorgulamagovpttttt.duckdns.org
 kmmsorgulmagovvvpttqae.com
 kmmsorguluzssamhemengovtptr.com
@@ -251467,6 +251486,7 @@ m3dzk9.duckdns.org
 m3eefxv.duckdns.org
 m3fgaj.duckdns.org
 m3pvzra.duckdns.org
+m3q6r8n1y4t0b9x2z5p7v6w1.com.tr
 m3qatrkz.duckdns.org
 m3qk9an3.duckdns.org
 m3rcy.shop
@@ -267853,6 +267873,7 @@ muhbirthemis.ml
 muhbirthemis.tk
 muhekuidii.life
 muhetesemkarisim.name.tr
+muhgknfsdi.sbs
 muhh.us
 muhjlipferve.site
 muhlasfas.duckdns.org
@@ -285707,6 +285728,7 @@ onlineozel-extra.cfd
 onlineozel-indirimkatalogu.com
 onlineozel-kampanyalarimiz.xyz
 onlineozel-karaaca.com
+onlineozel-katalog.cfd
 onlineozel-mobilpuanlar.ga
 onlineozel-mobilpuanlar.ml
 onlineozel-mobilpuanlar.tk
@@ -290372,6 +290394,7 @@ p4a587.cn
 p4ersonbro.com
 p4iin47.ddns.net
 p4ird3z3.duckdns.org
+p4k6m2r9x8t3n1s7b5v0u2w6.com.tr
 p4kuyg6pb.duckdns.org
 p4lmy4q.duckdns.org
 p4nale412c.site
@@ -313594,6 +313617,7 @@ r2llv393a.duckdns.org
 r2lopcfv.duckdns.org
 r2lp4ig.duckdns.org
 r2p0bj5.duckdns.org
+r2p5x8n1y3t0m6q7v9b4w2z5.com.tr
 r2pz7bnf.duckdns.org
 r2qsnrc.duckdns.org
 r2tto2o.duckdns.org
@@ -323187,6 +323211,7 @@ sadece-online-ozel-kampanya104.shop
 sadece-online-ozel-kampanya105.shop
 sadece-online-ozel-kampanya106.shop
 sadece-online-ozel-kapida.com.tr
+sadece-online-ozel-tr.site
 sadece-online-ozel.a101benzersizfirsatlari.com.tr
 sadece-online-ozel.cfd
 sadece-online-ozel.com
@@ -350137,6 +350162,7 @@ stanleyresurgeagain.xyz
 stanleyretuned.xyz
 stanleyrevburst.xyz
 stanleyrevive.xyz
+stanleyrevived.xyz
 stanleyrevvolt.xyz
 stanleyrise.xyz
 stanleysepetleri.xyz
@@ -356117,6 +356143,7 @@ t7sxgaolawhqiuettxj.duckdns.org
 t7v845.duckdns.org
 t7xomw8.duckdns.org
 t7yvt2pf8zewd54yc15fkl.duckdns.org
+t7z3w9x1b2q8m4r0y6n5v2a3.com.tr
 t7zwhhb.duckdns.org
 t816v.adecurvet.ru
 t8610n.mxkg2.ru
@@ -385124,6 +385151,7 @@ v99glw3c.duckdns.org
 v9e060.duckdns.org
 v9ggjn4s.ru
 v9h8pia.duckdns.org
+v9m2t4r1y6p3n5x0z7q8b2w4.com.tr
 v9mzbn.duckdns.org
 v9mzy4.duckdns.org
 v9qzamr.duckdns.org
@@ -394971,6 +394999,7 @@ w5kqvv.duckdns.org
 w5mmtbb.ddns.net
 w5mtaccess.ddns.net
 w5q83o.duckdns.org
+w5t2r9x7n0q3b1m6y4p8z2v9.com.tr
 w5w83x.duckdns.org
 w5yjb2.duckdns.org
 w6.nz
@@ -411110,6 +411139,7 @@ xn--buradabugunsonfrstkcrm-0ld.shop
 xn--buradayiz-1pb.shop
 xn--buranbank-26d96qga.fm
 xn--burayayonlendrmektenskldk-g1d.shop
+xn--burdafrsatlar-89b.tr
 xn--burdahgaberdi-utc.app
 xn--burgnbanlk-b7j.fm
 xn--burgnbark-376d.ws
@@ -420656,6 +420686,7 @@ yenievlenenlere.link
 yenievlenenleredestek.xyz
 yenievlenenlerekredi.com
 yenievlerimvekonutm.lol
+yenievlerimvekonutm.mom
 yenievlerimvekonutm.pics
 yenieyluilnperaekende.com
 yenifirsat-katilkazanhemen.tech
@@ -426261,6 +426292,7 @@ z8ql228t2.duckdns.org
 z8rgmmrt.duckdns.org
 z8tqaj3b1.duckdns.org
 z8ugxmmop.duckdns.org
+z8x4r2t7b1n9q0m5y6v3p2w8.com.tr
 z8zcwb4i.duckdns.org
 z930q5p.duckdns.org
 z96nt2c.duckdns.org
