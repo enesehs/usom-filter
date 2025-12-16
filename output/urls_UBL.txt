@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-16 08:15:07 UTC
-! Total: 344123 rules
+! Last modified: 2025-12-16 10:11:59 UTC
+! Total: 344141 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41609,6 +41609,7 @@
 *://*.basvurhemen.xyz/*
 *://*.basvurhemenaidatiade.com/*
 *://*.basvurhemmen.tk/*
+*://*.basvurhizli.cfd/*
 *://*.basvurhizmet.online/*
 *://*.basvurhls.com.tr/*
 *://*.basvurhls.online/*
@@ -123758,6 +123759,7 @@
 *://*.firsatbuprbkatilim.com/*
 *://*.firsatburada-aldin-aldin.com.tr/*
 *://*.firsatburada.cfd/*
+*://*.firsatburada.digital/*
 *://*.firsatburada.xyz/*
 *://*.firsatburadaanindakredi.site/*
 *://*.firsatburadabasvur.com/*
@@ -148036,6 +148038,7 @@
 *://*.harcaharcabitmez.cfd/*
 *://*.harcaharcabitmez.net/*
 *://*.harcaharcabitmez.online/*
+*://*.harcaharcabitmez.pro/*
 *://*.harcaharcabitmez.shop/*
 *://*.harcaharcabitmez.site/*
 *://*.harcaharcabitmez.space/*
@@ -152014,6 +152017,7 @@
 *://*.hemenislemm.net/*
 *://*.hemenislemmbasv00.online/*
 *://*.hemenislemmerkezi.app/*
+*://*.hemenisllmsnconline.online/*
 *://*.hemenislmlmsonsa.online/*
 *://*.hemenislslsonucsb.online/*
 *://*.hemenisltblkylme.net/*
@@ -162240,6 +162244,7 @@
 *://*.hurricaneprotection.com/*
 *://*.hurriedlynumb.top/*
 *://*.hurriyeet-tr.com/*
+*://*.hurriyept.pro/*
 *://*.hurriyet-haber-ajansi.org/*
 *://*.hurriyet-haber.top/*
 *://*.hurriyet-haberi-gundem.com/*
@@ -171622,6 +171627,7 @@
 *://*.intban.online/*
 *://*.intbank-ziraatbankasi.tk/*
 *://*.intbasvrularimsubwebo32.cfd/*
+*://*.intbasvrularimsubwebs12.cfd/*
 *://*.intbayiyetkili.net/*
 *://*.intbayiyetkilii.net/*
 *://*.intbedava.com/*
@@ -191731,6 +191737,7 @@
 *://*.kilometreyokeden.cfd/*
 *://*.kilometrosgorgulamahemengovpttsxsaz.com/*
 *://*.kilometsgorulari.xyz/*
+*://*.kilomtreciler.cfd/*
 *://*.kilomtrehizlisorguchp.xyz/*
 *://*.kilomtreniogrenchp.xyz/*
 *://*.kilomtreogrenmehizlichp.xyz/*
@@ -216311,6 +216318,7 @@
 *://*.musteripromosyonlarin.com/*
 *://*.musterisubesi-qnb.ga/*
 *://*.musteritemsilcinizz.com/*
+*://*.musteriziraatdestek.cfd/*
 *://*.musterminakli.com/*
 *://*.mustesna-ekayit.online/*
 *://*.mustesna.online/*
@@ -220075,6 +220083,7 @@
 *://*.neyinpesindesinusom.net/*
 *://*.neylingaves.com/*
 *://*.neylourn.world/*
+*://*.neylsonvir.com/*
 *://*.neyrssafs.net/*
 *://*.neytrfce.xyz/*
 *://*.neytrok.com/*
@@ -220251,6 +220260,7 @@
 *://*.ngoview.com/*
 *://*.ngrok-free.app/*
 *://*.ngrok.io/*
+*://*.ngrok.pro/*
 *://*.ngsbahis732.com/*
 *://*.ngstersand.ru/*
 *://*.ngtanga20.com/*
@@ -242401,6 +242411,7 @@
 *://*.polleniferous.com/*
 *://*.pollideological.top/*
 *://*.polliseax.fit/*
+*://*.pollnexaro.com/*
 *://*.pollstate.top/*
 *://*.pollsterconverse.top/*
 *://*.pollutedness.com/*
@@ -262048,6 +262059,7 @@
 *://*.salthope.top/*
 *://*.saltleaflet.top/*
 *://*.saltlistenage.com/*
+*://*.saltometeryst.com/*
 *://*.saltorbasvyrybugatamamlahemen.cloud/*
 *://*.saltukbeymu.xyz/*
 *://*.saltvaccination.top/*
@@ -262761,6 +262773,7 @@
 *://*.sarpinomointainresorts.com/*
 *://*.sarpvision.org/*
 *://*.sarrararadara.website/*
+*://*.sarrentola.com/*
 *://*.sarrramargacungel.com/*
 *://*.sarrramargooooa.shop/*
 *://*.sartabuz.com/*
@@ -280035,6 +280048,7 @@
 *://*.steakreasonable.top/*
 *://*.stealambiguity.top/*
 *://*.stealchapel.buzz/*
+*://*.stealer.su/*
 *://*.stealeradres.online/*
 *://*.stealglamourous.top/*
 *://*.stealtemporal.top/*
@@ -282449,6 +282463,7 @@
 *://*.sunucukoruma.xyz/*
 *://*.sunucum.sbs/*
 *://*.sunucumdemo.xyz/*
+*://*.sunverio.com/*
 *://*.suodemesi.net/*
 *://*.suogogurshodf.top/*
 *://*.suogogurshodp.su/*
@@ -298344,6 +298359,7 @@
 *://*.trmamksamas.net/*
 *://*.trmarc.net/*
 *://*.trmarfsfgs.shop/*
+*://*.trmarketaralik.net.tr/*
 *://*.trmarsrgulamaa.com/*
 *://*.trmasak.com/*
 *://*.trmasak.org/*
@@ -331244,6 +331260,7 @@
 *://*.xpdvcddcwwfykxd.ru/*
 *://*.xpedia101.online/*
 *://*.xpei6p.cn/*
+*://*.xpertclient.net/*
 *://*.xpezoqfqp.net/*
 *://*.xpic.pw/*
 *://*.xpietyemcve.net/*
@@ -334828,6 +334845,7 @@
 *://*.yatirimonline.info/*
 *://*.yatirimonline.live/*
 *://*.yatirimonline.online/*
+*://*.yatirimonline.pro/*
 *://*.yatirimonlinehaber.online/*
 *://*.yatirimpiyasasi.info/*
 *://*.yatirimplani.top/*
