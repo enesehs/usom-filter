@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-16 17:14:40 UTC
-! Total: 344222 rules
+! Last modified: 2025-12-16 19:11:47 UTC
+! Total: 344237 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23040,6 +23040,7 @@
 *://*.aidtlrktilim-grsksler.com/*
 *://*.aidtmsnd.net/*
 *://*.aidtnzhmenalnidea.com/*
+*://*.aidtodmelerbyramlar.org/*
 *://*.aidtodmlriade-al.xyz/*
 *://*.aidtodmmlriade-al.fun/*
 *://*.aidttiadee.com/*
@@ -92925,6 +92926,7 @@
 *://*.dijitalbirysel.net/*
 *://*.dijitalborsa-tr.com/*
 *://*.dijitalborsatr.com/*
+*://*.dijitalcep-ziraatwebbireysel.sbs/*
 *://*.dijitalcepmobil.com/*
 *://*.dijitalcepsube.com/*
 *://*.dijitalcepte.click/*
@@ -124397,6 +124399,7 @@
 *://*.firsatlar-sahane.xyz/*
 *://*.firsatlar-sepette-tr.online/*
 *://*.firsatlar-sepette.shop/*
+*://*.firsatlar-sizin-icin-herdaim-sonsans.sbs/*
 *://*.firsatlar-teb-giris.com/*
 *://*.firsatlar-tekadres.pro/*
 *://*.firsatlar-vakif-eylul.online/*
@@ -124738,6 +124741,7 @@
 *://*.firsatlaringuzelindebuhafta.sbs/*
 *://*.firsatlarinindiirmgunleri.sbs/*
 *://*.firsatlarinisteburadalar.xyz/*
+*://*.firsatlariniz-yilbasioncesi-sizinlebirlikte.sbs/*
 *://*.firsatlariniz.com.tr/*
 *://*.firsatlariniz.xyz/*
 *://*.firsatlariniz1o1de.com/*
@@ -149332,6 +149336,7 @@
 *://*.hayataartivakfi.org/*
 *://*.hayatabaglikalinsurekli.net/*
 *://*.hayatabirbak.xyz/*
+*://*.hayatadegerkatan.online/*
 *://*.hayatadolu.org/*
 *://*.hayataduyarlikanseverler.xyz/*
 *://*.hayatagidel.org/*
@@ -151336,6 +151341,7 @@
 *://*.hellohavare.click/*
 *://*.hellohealthy.pro/*
 *://*.helloimyourdad.xyz/*
+*://*.hellokestlerkes.top/*
 *://*.hellokingdomfrostdecline.click/*
 *://*.hellokittycat.online/*
 *://*.hellolumberjack.top/*
@@ -179209,6 +179215,7 @@
 *://*.izeltastakimpremium.xyz/*
 *://*.izeltastakimsuperset.xyz/*
 *://*.izeltastamset.vip/*
+*://*.izeltastastan.site/*
 *://*.izeltastornavidaallindi.xyz/*
 *://*.izeltasyuzdeinidirms.xyz/*
 *://*.izeltstasmagza.xyz/*
@@ -194220,6 +194227,7 @@
 *://*.kontba.click/*
 *://*.kontec.quest/*
 *://*.kontenjan-basvur-memur.sbs/*
+*://*.kontenjan.click/*
 *://*.kontguncel.click/*
 *://*.kontkarla.fun/*
 *://*.kontlarms.sbs/*
@@ -194483,6 +194491,7 @@
 *://*.konutlarim2026.sbs/*
 *://*.konutlarim21.cyou/*
 *://*.konutlarimkacmaz.baby/*
+*://*.konutlarimkacmaz.click/*
 *://*.konutlarimkacmaz.lat/*
 *://*.konutlarimkacmaz.lol/*
 *://*.konutlarimkacmaz.mom/*
@@ -194507,6 +194516,7 @@
 *://*.konutradar.online/*
 *://*.konutresmibasvuru-21.com/*
 *://*.konutsahibiol.org/*
+*://*.konutsahibioluyoruz.sbs/*
 *://*.konutsalisiniz.com/*
 *://*.konutsalprojeler.app/*
 *://*.konutsayfasi.shop/*
@@ -203352,6 +203362,7 @@
 *://*.mads5325523532.xyz/*
 *://*.madspecialty.top/*
 *://*.madtvmdoesx.com/*
+*://*.maduggsbin.cfd/*
 *://*.maduggsbin.lat/*
 *://*.madunilateral.top/*
 *://*.maduroma.com/*
@@ -252428,6 +252439,7 @@
 *://*.r-pttgov.top/*
 *://*.r-sendy.cfd/*
 *://*.r-sok.com.tr/*
+*://*.r-sponsor-crs.web.tr/*
 *://*.r008wa90cged6zny.com/*
 *://*.r00t.club/*
 *://*.r00t.info/*
@@ -262947,6 +262959,7 @@
 *://*.satinal-tr.online/*
 *://*.satinal.cfd/*
 *://*.satinal.name.tr/*
+*://*.satinal.sbs/*
 *://*.satinal.site/*
 *://*.satinal.website/*
 *://*.satinal.xyz/*
@@ -265558,6 +265571,7 @@
 *://*.sendebizekatilll.pw/*
 *://*.sendebizekatilsaniyiolur.net/*
 *://*.sendebizimleberaberbundanfaydalan.net/*
+*://*.sendebizimlehepiyiolursun.cfd/*
 *://*.sendebizimlekalgaaretn.net/*
 *://*.sendebizimlekazan-kampanyasi.ml/*
 *://*.sendebizimlekazan.online/*
@@ -266351,6 +266365,7 @@
 *://*.sepetekampanya.xyz/*
 *://*.sepetekle.cfd/*
 *://*.sepetekle.xyz/*
+*://*.sepetekles.com/*
 *://*.sepetekoyduklarinhemenkapida.com.tr/*
 *://*.sepetekoyhemenal.online/*
 *://*.sepeteotobuzdolabii.cfd/*

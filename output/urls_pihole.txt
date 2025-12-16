@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-16 17:14:40 UTC
-# Toplam: 431311 Domain
+# Son Güncelleme: 2025-12-16 19:11:47 UTC
+# Toplam: 431330 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -360,6 +360,7 @@
 021oiyzis.ml
 0220120231202.duckdns.org
 02211225211252.online
+022120212021.duckdns.org
 022123210212.duckdns.org
 02214455522002.duckdns.org
 022202120212021.mywire.org
@@ -33340,6 +33341,7 @@ ahmetramer.blogspot.com
 ahmettucar.com
 ahmetvalican.com.tr
 ahmetvefikvakfi.com
+ahmetyilliksenelik.blogspot.com
 ahmetyilliksigorta.blogspot.com
 ahmmedabutaleb0.ddns.net
 ahmobaba.online
@@ -35246,6 +35248,7 @@ aidtislemlrtr.sytes.net
 aidtlrktilim-grsksler.com
 aidtmsnd.net
 aidtnzhmenalnidea.com
+aidtodmelerbyramlar.org
 aidtodmlriade-al.xyz
 aidtodmmlriade-al.fun
 aidttiadee.com
@@ -108991,6 +108994,7 @@ dddddb1bimwelll4442222.org
 ddddddd.tk
 dddddddddddda.top
 dddddddggggdddddds.com.tr
+dddddhizli.duckdns.org
 ddddnnnnnzzzzaaaccckkkk.click
 ddddsajksjjshajksa.com
 dddfatiddd.ddns.net
@@ -119233,6 +119237,7 @@ dijitalbirlik.art
 dijitalbirysel.net
 dijitalborsa-tr.com
 dijitalborsatr.com
+dijitalcep-ziraatwebbireysel.sbs
 dijitalcepgirisdeniz.co.vu
 dijitalcepmobil.com
 dijitalcepsube.com
@@ -156103,6 +156108,7 @@ firsatlar-sahane.com.tr
 firsatlar-sahane.xyz
 firsatlar-sepette-tr.online
 firsatlar-sepette.shop
+firsatlar-sizin-icin-herdaim-sonsans.sbs
 firsatlar-sizlerle.ru.com
 firsatlar-sizlerle.sa.com
 firsatlar-teb-giris.com
@@ -156470,6 +156476,7 @@ firsatlaringuzelindebuhafta.sbs
 firsatlarinindiirmgunleri.sbs
 firsatlarinisteburadalar.xyz
 firsatlariniz-burada.duckdns.org
+firsatlariniz-yilbasioncesi-sizinlebirlikte.sbs
 firsatlariniz.com.tr
 firsatlariniz.xyz
 firsatlariniz1o1de.com
@@ -185888,6 +185895,7 @@ hayataartivakfi.org
 hayatabaglikalinsurekli.net
 hayatabirbak.xyz
 hayatadairsiirler.blogspot.com
+hayatadegerkatan.online
 hayatadolu.org
 hayataduyarlikanseverler.xyz
 hayatagidel.org
@@ -188127,6 +188135,7 @@ hellohealthy.pro
 helloimyourdad.xyz
 hellointra.hopto.org
 hellokasimka.hopto.org
+hellokestlerkes.top
 helloketa.ddns.net
 hellokingdomfrostdecline.click
 hellokitty.hopto.org
@@ -221228,6 +221237,7 @@ izeltastakimedition.xyz
 izeltastakimpremium.xyz
 izeltastakimsuperset.xyz
 izeltastamset.vip
+izeltastastan.site
 izeltasticaretmerkezi.blogspot.com
 izeltastornavidaallindi.xyz
 izeltasyuzdeinidirms.xyz
@@ -239799,6 +239809,7 @@ kontbasvur-utoki.vercel.app
 kontbayi.22web.org
 kontec.quest
 kontenjan-basvur-memur.sbs
+kontenjan.click
 kontguncel.click
 kontkarla.fun
 kontlarms.sbs
@@ -240080,6 +240091,7 @@ konutlarhizlidan.duckdns.org
 konutlarim2026.sbs
 konutlarim21.cyou
 konutlarimkacmaz.baby
+konutlarimkacmaz.click
 konutlarimkacmaz.lat
 konutlarimkacmaz.lol
 konutlarimkacmaz.mom
@@ -240106,6 +240118,7 @@ konutprojesibasvurusu500bin.urlbee.icu
 konutradar.online
 konutresmibasvuru-21.com
 konutsahibiol.org
+konutsahibioluyoruz.sbs
 konutsalisiniz.com
 konutsalprojeler.app
 konutsayfasi.shop
@@ -251980,6 +251993,7 @@ mads5325523532.xyz
 madspecialty.top
 madtur.duckdns.org
 madtvmdoesx.com
+maduggsbin.cfd
 maduggsbin.lat
 madunilateral.top
 maduro.zapto.org
@@ -313674,6 +313688,7 @@ r-hgs.com
 r-karcahome.shop
 r-pttgov.top
 r-sok.com.tr
+r-sponsor-crs.web.tr
 r.crazy-pare.34-125-197-109.plesk.page
 r.netluc.live
 r.p.formaxprime.co.uk
@@ -329440,6 +329455,7 @@ satinal-tr.online
 satinal.cfd
 satinal.name.tr
 satinal.sahibinden.ticaretler-guvende.com
+satinal.sbs
 satinal.website
 satinal.xyz
 satinal101.online
@@ -333525,6 +333541,7 @@ sendebizekatilfirsatikacirma.com
 sendebizekatilll.pw
 sendebizekatilsaniyiolur.net
 sendebizimleberaberbundanfaydalan.net
+sendebizimlehepiyiolursun.cfd
 sendebizimlekalgaaretn.net
 sendebizimlekazan-kampanyasi.ml
 sendebizimlekazan.online
@@ -334368,6 +334385,7 @@ sepetekampanya.click
 sepetekampanya.xyz
 sepetekle.cfd
 sepetekle.xyz
+sepetekles.com
 sepetekoyduklarinhemenkapida.com.tr
 sepetekoyhemenal.online
 sepeteotobuzdolabii.cfd
@@ -365980,6 +365998,7 @@ toki-konut-online.best
 toki-konutlar.sbs
 toki-konutlari-basvuru.best
 toki-konutlari.sbs
+toki-konutlaribasvurunonline.vercel.app
 toki-konutlaribasvuruonline.vercel.app
 toki-konutlaribasvuruyap.vercel.app
 toki-konutlarimbasvuru.vercel.app
