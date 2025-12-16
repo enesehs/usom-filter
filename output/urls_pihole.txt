@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-16 05:13:40 UTC
-# Toplam: 431149 Domain
+# Son Güncelleme: 2025-12-16 07:14:26 UTC
+# Toplam: 431157 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -90480,6 +90480,7 @@ carrfeourfirsatlari.shop
 carrfiurrr.online
 carrfor-sa.com.tr
 carrfor-sa.info.tr
+carrfors-ekstra.online
 carrfour-online-indirim.com
 carrfours.cfd
 carrfoursa.online
@@ -187359,6 +187360,7 @@ hedefal.xyz
 hedefbenmiyimabi.net
 hedefbenmiyimtayfunabi.net
 hedefbizedusertsd.net
+hedefbulur.click
 hedefcepte.dev
 hedefdestek.org
 hedefe.html-5.me
@@ -212199,6 +212201,7 @@ intaterque.online
 intauferretis.online
 intaxcdn.am
 intbank-ziraatbankasi.tk
+intbasvrularimsubwebo32.cfd
 intbayiyetkili.net
 intbayiyetkilii.net
 intbedava.com
@@ -212318,6 +212321,7 @@ inter-net.site
 inter-news.online
 inter-sol.homes
 inter-sube-isbank.com
+inter.my-homeip.com
 inter.my-style.in
 interac-payment.net
 interacdirect.ddns.net
@@ -213590,6 +213594,7 @@ internetyuklekazan.xyz
 internetziraat.com
 internetziraatbasvuru.com
 internetziraatsubem.com
+internit.my-homeip.com
 internt-yapikredi.com
 interntsubayrntlarim1.xyz
 interntsube-yapikredi.com
@@ -301553,6 +301558,7 @@ portaluyapuzlasma.com
 portaluzlasmauyap.com
 portalv1garaxntibbvatr.site
 portalvatandasedevlet.com
+portalweb-tr.my-homeip.com
 portalxodeme.net
 portalzaman.com
 portalzero-turkeygovtr.com
@@ -323552,6 +323558,7 @@ sadsdasdwasa.jumpingcrab.com
 sadsdsadasdsadbbbbmmmccclll444.org
 sadsfassd1.duckdns.org
 sadshort.site
+sadsocsnfirsatlarstrcv.blogdns.com
 sadstory00.zapto.org
 sadthort.site
 sadubiqe.info
@@ -333944,6 +333951,7 @@ senkazanmalisin.cf
 senkia.pw
 senkimseenoxlem.cyou
 senkimsinyaaa.app
+senkolaysinistmkblfff.mooo.com
 senkronprojesi.com
 senle-bizde-iyiceden-deneyin-bakalim.com
 senle-bunlara-layik-olacak-baska-kisiler-yoktur.com
