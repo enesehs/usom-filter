@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-17 11:02:01 UTC
-! Total: 344279 rules
+! Last modified: 2025-12-17 12:23:03 UTC
+! Total: 344295 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5887,6 +5887,7 @@
 *://*.2026bajsknvtnkito.sbs/*
 *://*.2026bvsnrsmdikyt.sbs/*
 *://*.2026hedefvizyon.online/*
+*://*.2026hediyesi.cfd/*
 *://*.2026konutvizyon.online/*
 *://*.2026teslim-tarih.sbs/*
 *://*.2028.cl/*
@@ -23042,6 +23043,7 @@
 *://*.aidtmsnd.net/*
 *://*.aidtnzhmenalnidea.com/*
 *://*.aidtodmelerbyramlar.org/*
+*://*.aidtodmler.com/*
 *://*.aidtodmlriade-al.xyz/*
 *://*.aidtodmmlriade-al.fun/*
 *://*.aidttiadee.com/*
@@ -44634,6 +44636,7 @@
 *://*.bbva-garantiwebde.com/*
 *://*.bbva-iadeler-garanti-tr.com/*
 *://*.bbva-iadeler-garanti.com/*
+*://*.bbva-islemim-hizli.com/*
 *://*.bbva-islemler.com.tr/*
 *://*.bbva-islemlerim.com.tr/*
 *://*.bbva-kredi.com.tr/*
@@ -75922,6 +75925,7 @@
 *://*.cok-al-az-odeme.com/*
 *://*.cok-al-azode.com.tr/*
 *://*.cok-aradayizz.site/*
+*://*.cok-fazla-dusuk-kampanya.sbs/*
 *://*.cok-sasiracaginiz-farkli-size-gore.com/*
 *://*.cokacilsigortalarim.com.tr/*
 *://*.cokacilsiqortacimmk.xyz/*
@@ -97331,6 +97335,7 @@
 *://*.dubshort.site/*
 *://*.dubshort.store/*
 *://*.dubshorter.blog/*
+*://*.dubshorter.click/*
 *://*.dubshorter.homes/*
 *://*.dubya.net/*
 *://*.duc3k.com/*
@@ -97621,6 +97626,7 @@
 *://*.dusunen-kaldiysa-hep-bir-adim-ileride.com/*
 *://*.dusunmedengelgarantilekendini.net/*
 *://*.dusuremezsiniz.cfd/*
+*://*.dususler-dev-indirimleriniz.sbs/*
 *://*.dusyerii.com/*
 *://*.dutiogw.com/*
 *://*.dutiv.org/*
@@ -108659,6 +108665,7 @@
 *://*.egetrgertgegegevgvyub.xyz/*
 *://*.egetrip.com/*
 *://*.egevillacim.com.tr/*
+*://*.egewaw.sbs/*
 *://*.egeyapiyatirim.com/*
 *://*.egeyavass.net/*
 *://*.egeysktmdolx.net/*
@@ -115632,6 +115639,7 @@
 *://*.eskillora.com/*
 *://*.eskimeyenpazar.com.tr/*
 *://*.eskisigibidegilartiknese.cyou/*
+*://*.eskisigibidegilim.click/*
 *://*.eskisigibigeldiginizden.online/*
 *://*.eskisistem.xyz/*
 *://*.eskitrafik.net/*
@@ -144187,6 +144195,7 @@
 *://*.haftalikaktuelkampanyalar.life/*
 *://*.haftalikalisverisburasi.xyz/*
 *://*.haftalikalisveriskampanyasiyakalamaca.cfd/*
+*://*.haftalikalisveristekararvermenikolaylastirir.cfd/*
 *://*.haftalikalisveristekararvermeyardimcisi.cfd/*
 *://*.haftalikbize.com/*
 *://*.haftalikfirsatgunu.baby/*
@@ -147649,6 +147658,7 @@
 *://*.hallowensirbend.buzz/*
 *://*.hallowenwitch.com/*
 *://*.hallowirsineheibe.buzz/*
+*://*.halmcrfgunay.cfd/*
 *://*.halmibucilmi.net/*
 *://*.halmibucilmibu.net/*
 *://*.halmiraq.com/*
@@ -152434,6 +152444,7 @@
 *://*.hemnkatl-firsatiniyakla.com/*
 *://*.hemnkpnizageliyr.click/*
 *://*.hemnnenecebasvururr.com/*
+*://*.hemnsdfs.org/*
 *://*.hemnsizlerinkarsisindavaariz.com/*
 *://*.hemnsizlerinkarsisinndavariz.com/*
 *://*.hemnszlerlefrsatlardnyasndaa.com/*
@@ -152850,6 +152861,7 @@
 *://*.hepsiburgda.com/*
 *://*.hepsibuurada.com/*
 *://*.hepsibvrada.com/*
+*://*.hepsicaresiz.click/*
 *://*.hepsicicek.agency/*
 *://*.hepsicicek.blog/*
 *://*.hepsicicek.cloud/*
@@ -173954,6 +173966,7 @@
 *://*.is-a-rockstar.com/*
 *://*.is-a-therapist.com/*
 *://*.is-an-actor.com/*
+*://*.is-an-artist.com/*
 *://*.is-audi-95ozel.com/*
 *://*.is-audi-ozel.com/*
 *://*.is-avans-zform-canli-optik-zhzlad.xyz/*
@@ -193345,6 +193358,7 @@
 *://*.kmpfrstm2024.online/*
 *://*.kmphbzlesstttrgml.com/*
 *://*.kmphstsrgllmm.com/*
+*://*.kmpmyaaaprmsynnbsvr.info/*
 *://*.kmpnkrdbsvronl.online/*
 *://*.kmpnnnyaaabsvrrrgrnntt.click/*
 *://*.kmpnnya-aldn-aldn-frssatlar.com/*
@@ -328015,6 +328029,7 @@
 *://*.xn--carrefour-sa-04bch.com/*
 *://*.xn--carrefour-sa-14b.xyz/*
 *://*.xn--carrefour-sa-14bbcc.xyz/*
+*://*.xn--carrefour-sa-14bcbbd.xyz/*
 *://*.xn--carrefour-sa-24bc.xyz/*
 *://*.xn--carrefoursa-0zbb.com/*
 *://*.xn--carrefoursa-0zbb.xyz/*
@@ -340622,6 +340637,7 @@
 *://*.z1raatyaninda.cfd/*
 *://*.z1rat-aninda-onay.cfd/*
 *://*.z1ratba3vuru.sbs/*
+*://*.z1ratsenin.cfd/*
 *://*.z1x.digital/*
 *://*.z207prn.in/*
 *://*.z2a.digital/*

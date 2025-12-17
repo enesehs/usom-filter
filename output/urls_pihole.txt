@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-17 11:02:01 UTC
-# Toplam: 431390 Domain
+# Son Güncelleme: 2025-12-17 12:23:03 UTC
+# Toplam: 431407 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4854,6 +4854,7 @@
 154-216-19-158.plesk.page
 154-216-20-140.plesk.page
 154-4-4-4-1.cloud
+154-boaswurulariw.dvrlists.com
 154-yil.com
 154.16.3.99
 154.85.35.82
@@ -8284,6 +8285,7 @@
 2025yilikampanyasizlere.com
 2026bvsnrsmdikyt.sbs
 2026hedefvizyon.online
+2026hediyesi.cfd
 2026knutun.wordpress.com
 2026konutvizyon.online
 2026teslim-tarih.sbs
@@ -35250,6 +35252,7 @@ aidtlrktilim-grsksler.com
 aidtmsnd.net
 aidtnzhmenalnidea.com
 aidtodmelerbyramlar.org
+aidtodmler.com
 aidtodmlriade-al.xyz
 aidtodmmlriade-al.fun
 aidttiadee.com
@@ -61958,6 +61961,7 @@ bbva-garantiwebde.com
 bbva-iadeler-garanti-tr.com
 bbva-iadeler-garanti.com
 bbva-incidencias.duckdns.org
+bbva-islemim-hizli.com
 bbva-islemler.com.tr
 bbva-kredi.com.tr
 bbva-kredibasvuru.site
@@ -98645,6 +98649,7 @@ cojofi.com
 cok-al-az-odeme.com
 cok-al-azode.com.tr
 cok-aradayizz.site
+cok-fazla-dusuk-kampanya.sbs
 cok-sasiracaginiz-farkli-size-gore.com
 cokacilsigortalarim.com.tr
 cokacilsiqortacimmk.xyz
@@ -124791,6 +124796,7 @@ dubshort.pro
 dubshort.site
 dubshort.store
 dubshorter.blog
+dubshorter.click
 dubshorter.homes
 dubstep33.ddns.net
 dubstrf2.weebly.com
@@ -125132,6 +125138,7 @@ dusunduk-oldu-sen-al.sa.com
 dusunen-kaldiysa-hep-bir-adim-ileride.com
 dusunmedengelgarantilekendini.net
 dusuremezsiniz.cfd
+dususler-dev-indirimleriniz.sbs
 dusyerii.com
 dutchinstance.hopto.org
 dutiogw.com
@@ -137489,6 +137496,7 @@ egetrgertgegege.xyz
 egetrgertgegegevgvyub.xyz
 egetrip.com
 egevillacim.com.tr
+egewaw.sbs
 egeyapiyatirim.com
 egeyavass.net
 egeysktmdolx.net
@@ -145361,6 +145369,7 @@ eskiler.win
 eskimeyenpazar.com.tr
 eskisehirkartyklemeleri.blogspot.com
 eskisigibidegilartiknese.cyou
+eskisigibidegilim.click
 eskisigibigeldiginizden.online
 eskisistem.xyz
 eskitrafik.net
@@ -174013,6 +174022,7 @@ gratis.is-a-caterer.com
 gratis.is-a-geek.com
 gratis.is-a-musician.com
 gratis.is-a-therapist.com
+gratis.is-an-artist.com
 gratis.issmarterthanyou.com
 gratis.laviewddns.com
 gratis.likescandy.com
@@ -180315,6 +180325,7 @@ haftalik-kapinizda-urunler.com
 haftalikaktuelkampanyalar.life
 haftalikalisverisburasi.xyz
 haftalikalisveriskampanyasiyakalamaca.cfd
+haftalikalisveristekararvermenikolaylastirir.cfd
 haftalikalisveristekararvermeyardimcisi.cfd
 haftalikbize.com
 haftalikfirsatgunu.baby
@@ -184014,6 +184025,7 @@ hallowed247.duckdns.org
 hallowensirbend.buzz
 hallowenwitch.com
 hallowirsineheibe.buzz
+halmcrfgunay.cfd
 halmibucilmi.net
 halmibucilmibu.net
 halmiraq.com
@@ -189545,6 +189557,7 @@ hemnkatl-firsatiniyakla.com
 hemnkpnizageliyr.click
 hemnnenecebasvururr.com
 hemnrndvual.b-cdn.net
+hemnsdfs.org
 hemnsizlerinkarsisinndavariz.com
 hemnszlerle-frsatlar-dnyasndaa.arass-hizmetlerdee.com
 hemnszlerlefrsatlardnyasndaa.com
@@ -189990,6 +190003,7 @@ hepsiburdacom.com.tr
 hepsiburgda.com
 hepsibuurada.com
 hepsibvrada.com
+hepsicaresiz.click
 hepsicicek.agency
 hepsicicek.blog
 hepsicicek.cloud
@@ -238568,6 +238582,7 @@ kmpdst.club
 kmpfrstm2024.online
 kmphbzlesstttrgml.com
 kmphstsrgllmm.com
+kmpmyaaaprmsynnbsvr.info
 kmpnkrdbsvronl.online
 kmpnnnyaaabsvrrrgrnntt.click
 kmpnnya-aldn-aldn-frssatlar.com
@@ -411460,6 +411475,7 @@ xn--carrefour-sa-04bccf.com
 xn--carrefour-sa-04bch.com
 xn--carrefour-sa-14b.xyz
 xn--carrefour-sa-14bbcc.xyz
+xn--carrefour-sa-14bcbbd.xyz
 xn--carrefour-sa-24bc.xyz
 xn--carrefoursa-0zbb.com
 xn--carrefoursa-0zbb.xyz
@@ -426420,6 +426436,7 @@ z1raattemuzfirsati.com
 z1raatyaninda.cfd
 z1rat-aninda-onay.cfd
 z1ratba3vuru.sbs
+z1ratsenin.cfd
 z1spphm.duckdns.org
 z1x.digital
 z1z.pages.dev
