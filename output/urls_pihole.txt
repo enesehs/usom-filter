@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-17 05:13:06 UTC
-# Toplam: 431359 Domain
+# Son Güncelleme: 2025-12-17 08:15:01 UTC
+# Toplam: 431374 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -82458,6 +82458,7 @@ brdizmryklemrkzdlm.net
 brdizmryklemrkzdlmmm.net
 brdle.duckdns.org
 brdnalmssnbskytrdnak.ignorelist.com
+brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
 brdnbsfrynlandas.bond
 brdngdrsnorya.mooo.com
@@ -82468,6 +82469,7 @@ brdnsnkzkldksznrd.icu
 brdnsnkzynlyrzbraya.bond
 brdnsnrbedasdytasd.ignorelist.com
 brdnszdealbrlsnz.ignorelist.com
+brdnynlndksnkzlrdnyb.mooo.com
 brdoge--treozio.webflow.io
 brdrkydumtekydilabu.xyz
 brdsfrstlrrs.duckdns.org
@@ -109580,6 +109582,7 @@ defactooutlets.shop
 defactos-tr.shop
 defactos.shop
 defakeleras.fit
+defalarca.click
 defalarcaindirimlerdenal.com.tr
 defalarcaindirimlerdenal.online
 defalowmacfly-elektro.de
@@ -110199,6 +110202,7 @@ dene4bb.is-best.net
 deneamaolme1.xyz
 denebonus.online
 denedenedenesss.tk
+denedim.click
 deneemebonusu.com
 denegec.xyz
 denem.nichesite.org
@@ -139231,6 +139235,7 @@ ekonomik.space
 ekonomik20gb-paketim-turkcell.com
 ekonomikanal.online
 ekonomikapi.com
+ekonomikaynak.info
 ekonomikaynak.online
 ekonomikaynak.org
 ekonomikaynak.world
@@ -219156,6 +219161,7 @@ istmnblkaart.net
 istmnblrmzndas.giize.com
 istmnkart.blogspot.com
 istmrkxjslxsa.com
+istmrkxsagdsg.com
 istmusicc.surf
 istmvlanca.myshopify.com
 istnaabsstasd.squarespace.com
@@ -221354,6 +221360,7 @@ izlmkrlt.net
 izlmrklemexd.net
 izlogvszks.duckdns.org
 izlrmrmulasimm.net
+izlt0srews.dynip.org
 izltas0nline4.dnsup.net
 izltasdafrsatayuzbride.blogdns.com
 izltasinburada.xyz
@@ -249879,6 +249886,7 @@ lstnblklkl.net
 lstnblklklkl.com
 lstnblkrtdldr.net
 lstnbllkrtdlm.net
+lstnbul.com
 lstxwsg.fehutop1.website
 lsube-ziraatbankasi.com
 lsuhhf.top
@@ -264087,6 +264095,7 @@ mobilyabahcem.com
 mobilyacihan.com
 mobilyapi.com.tr
 mobilyapi.org.tr
+mobilyapi.tr
 mobilyapikredi.com
 mobilyapikredi.site
 mobilyapikredi2019.com
@@ -270347,6 +270356,7 @@ n11.vip
 n111.info
 n11alisveris.com
 n11kep.com
+n11kepadresim.com
 n11musterihizmetleri.xyz
 n11order.cc
 n11paketleme.site
@@ -323584,6 +323594,7 @@ saderat-applic.store
 saderate.top
 saderats.shop
 saderatweb.click
+saderceonmfirsatlarstsc.blogspot.com
 saderdrrfddd.xyz
 saderdrrfsd.xyz
 saderdrrfxzy.xyz
@@ -323603,6 +323614,7 @@ sadesconsficsrisatlartrrtrvcr.blogspot.com
 sadesconsficsrisatlartrrtrvcrtr.blogspot.com
 sadesconsficsrisatlartrrtrvcrtrcs.blogspot.com
 sadesconsfirsatlstrs.blogdns.com
+sadesconsfirsdsrtrsas.blogdns.com
 sadesconsfirsdtrasdftr.blogdns.com
 sadesconsfisdrsartlarfstr.blogspot.com
 sadesconsfisdrsartlarfstrr.blogspot.com
@@ -328704,6 +328716,7 @@ sanadacikabiliroduluesgecmeenjoynet.net
 sanadairhrsyburdbzmlberaber.online
 sanadegmez.cfd
 sanademedimasko.tk
+sanafirsatlaranlatirim.shop
 sanagonulvermeleeer.xyz
 sanagore.sbs
 sanagoredegilcocuk.online
@@ -344867,6 +344880,7 @@ sokyeniyeni.sbs
 sokyeniyilfirsatlrimiz.com
 sokyeniyilindirimleri.com
 sokygxkmzczxfsraa.com
+sokyilbasi.cfd
 sokyilbasiozel.com
 sokyzfirsatlarikacirma.xyz
 sokzincirmarketler.com
@@ -396323,6 +396337,7 @@ web-bireyselyapikredi.com
 web-bncadestek.com
 web-bntr.com
 web-bntr.online
+web-borsa.my-homeip.com
 web-browser.cfd
 web-bsvrlar.site
 web-btcturk.net
