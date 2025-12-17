@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-17 13:26:52 UTC
-# Toplam: 431417 Domain
+# Son Güncelleme: 2025-12-17 14:11:09 UTC
+# Toplam: 431426 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4093,6 +4093,7 @@
 1337xx.ddns.net
 133cfsrart.xyz
 134-255-233-127.plesk.page
+134-boaswurularim.dvrlists.com
 134.0.117.224
 134.209.120.58
 134.209.2.99
@@ -24824,6 +24825,7 @@ a1o1dekazandiriyoruzredmifirsati.blogspot.com
 a1o1dekazanfirsatiaksam.duckdns.org
 a1o1dekazankazanharca.duckdns.org
 a1o1deolanfrsatasasircaksiniz.blogspot.com
+a1o1deolanfrsatasasirlcak.blogspot.com
 a1o1deonlefrsatidnda.blogspot.com
 a1o1desizdekazaninbizde.duckdns.org
 a1o1destanleydefirsatlar.duckdns.org
@@ -24894,6 +24896,7 @@ a1o1indirimzamanii.online
 a1o1indirmlerikapinda.online
 a1o1indirmlerikapinda.space
 a1o1ivolta.sbs
+a1o1iztltasozlekampnyasi.blogdns.org
 a1o1kacmazfirsat.nsixo.ru.com
 a1o1kampanya.net
 a1o1kampanyafirsatlarisizinleberaber.online
@@ -55973,6 +55976,7 @@ backstabprotection.jamesx123.repl.co
 backstalil.shop
 backto54.duckdns.org
 backtofuture.zapto.org
+backtostanley.xyz
 backtrack007.zapto.org
 backtrack04.zapto.org
 backu4734.duckdns.org
@@ -80724,6 +80728,7 @@ bonjurparti.com
 bonjwnsieuby.me.uk
 bonleotoyolhgsgecskgm.duckdns.org
 bonlj.duckdns.org
+bonllinemis1emenutrapp.online
 bonner.hopto.org
 bonnightlifebusiness.com
 bonny-marvels-authentic.top
@@ -145370,6 +145375,7 @@ eskidosstlar.net
 eskikraloldu-yasasinyenikral.tk
 eskiler.bid
 eskiler.win
+eskilerkest.click
 eskimeyenpazar.com.tr
 eskisehirkartyklemeleri.blogspot.com
 eskisigibidegilartiknese.cyou
@@ -177564,6 +177570,7 @@ guvenli-servisler.com
 guvenli-servisler.com.tr
 guvenli-siparis-ilan.online
 guvenli-siparis-ilanlarim.com
+guvenli-siparis-sistemi-940303.com
 guvenli-siparis-ver-tr.online
 guvenli-siparis-ver.com.tr
 guvenli-siparis.click
@@ -411486,6 +411493,7 @@ xn--carrefour-sa-04bch.com
 xn--carrefour-sa-14b.xyz
 xn--carrefour-sa-14bbcc.xyz
 xn--carrefour-sa-14bcbbd.xyz
+xn--carrefour-sa-14bdcc.xyz
 xn--carrefour-sa-24bc.xyz
 xn--carrefoursa-0zbb.com
 xn--carrefoursa-0zbb.xyz
@@ -425759,6 +425767,7 @@ yurticikargo.com-kargo-takip.sepette-odeme.click
 yurticikargo.com.se
 yurticikargo.epizy.com
 yurticikargo.gq
+yurticikargo.guvenlialisverisiniz.com
 yurticikargo.kisalnk.shop
 yurticikargo.lat
 yurticikargo.online
