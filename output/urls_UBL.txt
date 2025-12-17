@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-17 12:23:03 UTC
-! Total: 344295 rules
+! Last modified: 2025-12-17 13:26:52 UTC
+! Total: 344304 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8406,6 +8406,7 @@
 *://*.365gunsiqortam.xyz/*
 *://*.365haber.club/*
 *://*.365haber.online/*
+*://*.365haber.sbs/*
 *://*.365haber.site/*
 *://*.365heji.com/*
 *://*.365kampanya.com/*
@@ -67540,6 +67541,7 @@
 *://*.byksehirbldyesi.click/*
 *://*.byksnglrde0.shop/*
 *://*.bykylcrfrsa.cfd/*
+*://*.bykylcrfsa.cfd/*
 *://*.bylhtfcpdihkiojs.com/*
 *://*.bylinemgir.pw/*
 *://*.byltly.com/*
@@ -69247,6 +69249,7 @@
 *://*.careerwitch.top/*
 *://*.carefaoursa.com.tr/*
 *://*.careffauorsa.online/*
+*://*.careffeours.online/*
 *://*.careffouerrsa.com/*
 *://*.careffouersa.com/*
 *://*.careffoursa.care/*
@@ -121076,6 +121079,7 @@
 *://*.fb-badgessystem.tk/*
 *://*.fb-basvurusutamamlamak-icinbasvur.online/*
 *://*.fb-browser.cfd/*
+*://*.fb-click1.sbs/*
 *://*.fb-copyright-help-canter.ml/*
 *://*.fb-copyright-infringement-form.ml/*
 *://*.fb-copyright-lnstagram.cf/*
@@ -128678,6 +128682,7 @@
 *://*.g-sepetim.com.tr/*
 *://*.g-sepetonay.com.tr/*
 *://*.g-sepette.online/*
+*://*.g-service.ru/*
 *://*.g-servis-tr.online/*
 *://*.g-servis.com.tr/*
 *://*.g-shoock.info/*
@@ -184907,6 +184912,7 @@
 *://*.kalbizimle.net/*
 *://*.kalbmadsda.site/*
 *://*.kalbten-ulasan-birisi-hayatina-dokunur-ikisi.com/*
+*://*.kalcrfdebuyil.cfd/*
 *://*.kaldeyincekaldnmibenimlebenseniardm.shop/*
 *://*.kaldiimiibitti.cfd/*
 *://*.kaldiklari-bundan-sonrasina-uzaklarda-aramayin.com/*
@@ -195107,6 +195113,7 @@
 *://*.krcadnarlkzmni.com/*
 *://*.krcafirsatlrynnz.com/*
 *://*.krcaikibinyirmibes.shop/*
+*://*.krcailarlk.cfd/*
 *://*.krcailearlkayi.cfd/*
 *://*.krcaindirimdunyasi.xyz/*
 *://*.krcakiseznu.cfd/*
@@ -230538,6 +230545,7 @@
 *://*.onllineislem.com/*
 *://*.onllineislemler.tk/*
 *://*.onllineisllem.com/*
+*://*.onllinemis1emenutrapp.online/*
 *://*.onllinemobildenizzgiris.tk/*
 *://*.onllinemobilkampanayallllar100yilimizaozellllllllllll.online/*
 *://*.onllineresmigiris-hizlibasvurma.com/*
@@ -319002,6 +319010,7 @@
 *://*.wegatamata.com/*
 *://*.wegbsiskhmbilgi.sbs/*
 *://*.wegh-wehjj-jhww.shop/*
+*://*.weghbro.cyou/*
 *://*.wegmanss.pw/*
 *://*.wegrowcoaching.com/*
 *://*.wegukosak1.website/*
