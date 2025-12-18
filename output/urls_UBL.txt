@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-18 08:15:05 UTC
-! Total: 344385 rules
+! Last modified: 2025-12-18 10:11:06 UTC
+! Total: 344392 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19528,6 +19528,7 @@
 *://*.adiidas.xyz/*
 *://*.adiidass.buzz/*
 *://*.adiidass.xyz/*
+*://*.adil-katilim.com/*
 *://*.adil-yatirim.com/*
 *://*.adil-yatirim.info/*
 *://*.adil-yatirim.net/*
@@ -33700,6 +33701,7 @@
 *://*.araliksezonsonuindirimleer.xyz/*
 *://*.araliksezonsonuindirimler.xyz/*
 *://*.araliksiz-firsatlarimiz.shop/*
+*://*.araliksomarket.net.tr/*
 *://*.aralikson17aralik.com.tr/*
 *://*.aralikson17aralik.online/*
 *://*.aralikson17aralik.xyz/*
@@ -42416,6 +42418,7 @@
 *://*.basvuruciftci.net/*
 *://*.basvurucimeronline.com/*
 *://*.basvurucimervatandas.com/*
+*://*.basvurucu.sbs/*
 *://*.basvurudabulunma.xyz/*
 *://*.basvurudanis.sbs/*
 *://*.basvurudansendeyararlan.com/*
@@ -110222,6 +110225,7 @@
 *://*.ekolaysigorta.org/*
 *://*.ekolojiosmanli.space/*
 *://*.ekomekosedoo.site/*
+*://*.ekonomi-analizi.info/*
 *://*.ekonomi2024-try-login.xyz/*
 *://*.ekonomiakdeniz.pro/*
 *://*.ekonomiaktuel.online/*
@@ -193435,6 +193439,7 @@
 *://*.kmpnyaaprmsynngrntt.info/*
 *://*.kmpnyaaprmsynngrntt.pro/*
 *://*.kmpnyaaqnbbbsvrr.click/*
+*://*.kmpnyabasvursssprmsynn.art/*
 *://*.kmpnyabnctrgiris.online/*
 *://*.kmpnyabrda.xyz/*
 *://*.kmpnyabsladibtctrkdagtyr.com/*
@@ -250462,6 +250467,7 @@
 *://*.qmlpqhwjjcqh.space/*
 *://*.qmmmshpqan.info/*
 *://*.qmncjgkuh.com/*
+*://*.qmobil.com.tr/*
 *://*.qmotexhwaj.net/*
 *://*.qmpo.art/*
 *://*.qmqqewnprh.info/*
@@ -279909,6 +279915,7 @@
 *://*.stanleyrebirth.xyz/*
 *://*.stanleyreboost.xyz/*
 *://*.stanleyreborn.xyz/*
+*://*.stanleyreenters.xyz/*
 *://*.stanleyreignite.xyz/*
 *://*.stanleyreignites.xyz/*
 *://*.stanleyrerun.xyz/*

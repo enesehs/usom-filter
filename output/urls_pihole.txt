@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-18 08:15:05 UTC
-# Toplam: 431529 Domain
+# Son Güncelleme: 2025-12-18 10:11:06 UTC
+# Toplam: 431538 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24805,6 +24805,7 @@ a1o1alisversiler.com
 a1o1alisversilerrr.online
 a1o1anelergun.sbs
 a1o1aninda.net
+a1o1aralkkacirilmcakfrsatlarla.blogspot.com
 a1o1aralksonfrsatadet.blogspot.com
 a1o1as.net
 a1o1at.net
@@ -30979,6 +30980,7 @@ adiidass.xyz
 adikaremix.hopto.org
 adikremix.ydns.eu
 adikrus.zapto.org
+adil-katilim.com
 adil-yatirim.com
 adil-yatirim.info
 adil-yatirim.net
@@ -48382,6 +48384,7 @@ araliksezonsonnuindirimler.xyz
 araliksezonsonuindirimleer.xyz
 araliksezonsonuindirimler.xyz
 araliksiz-firsatlarimiz.shop
+araliksomarket.net.tr
 aralikson17aralik.com.tr
 aralikson17aralik.online
 aralikson17aralik.xyz
@@ -59377,6 +59380,7 @@ basvurucetelemtebonline.co.vu
 basvuruciftci.net
 basvurucimeronline.com
 basvurucimervatandas.com
+basvurucu.sbs
 basvurucu02.myaddr.io
 basvurudabulunma.xyz
 basvurudanis.sbs
@@ -139240,6 +139244,7 @@ ekolayp-ttavm.com
 ekolaysigorta.org
 ekolojiosmanli.space
 ekomekosedoo.site
+ekonomi-analizi.info
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
 ekonomi2024-try-login.xyz
 ekonomiakdeniz.pro
@@ -176619,6 +176624,7 @@ gungold.ddns.net
 gungorens.com
 gungorkurumu.com
 gungoryrdmkurumu.com
+gungun-bu-58e92dc65674.herokuapp.com
 gunhaber24.com
 gunhandemirbas.cfd
 guniches.net
@@ -238677,6 +238683,7 @@ kmpnyaaprmsynnbasvrr.pro
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
 kmpnyaaqnbbbsvrr.click
+kmpnyabasvursssprmsynn.art
 kmpnyabnctrgiris.online
 kmpnyabsladibtctrkdagtyr.com
 kmpnyabsvrgrntt.info
@@ -311169,6 +311176,7 @@ qmmmshpqan.info
 qmncjgkuh.com
 qmnjgevtqp.duckdns.org
 qmnyukleme.22web.org
+qmobil.com.tr
 qmotexhwaj.net
 qmpmnn.duckdns.org
 qmpo.art
@@ -350480,6 +350488,7 @@ stanleyprformnce.xyz
 stanleyrebirth.xyz
 stanleyreboost.xyz
 stanleyreborn.xyz
+stanleyreenters.xyz
 stanleyreignite.xyz
 stanleyreignites.xyz
 stanleyrerun.xyz
