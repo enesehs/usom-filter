@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-18 05:13:24 UTC
-! Total: 344345 rules
+! Last modified: 2025-12-18 07:13:12 UTC
+! Total: 344355 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46118,6 +46118,7 @@
 *://*.beneklemedengel.net/*
 *://*.beneklemeneke.net/*
 *://*.beneklerferderker.online/*
+*://*.benelui.click/*
 *://*.benemreduran.info/*
 *://*.benera.xyz/*
 *://*.benerenn.pro/*
@@ -48260,6 +48261,7 @@
 *://*.billletal.net/*
 *://*.billmceell.com/*
 *://*.billmckell.com/*
+*://*.billmeyerart.com/*
 *://*.billmycell.com/*
 *://*.billowing-glade-7522.net/*
 *://*.billpay-info.com/*
@@ -108625,6 +108627,7 @@
 *://*.efsunhayatini.club/*
 *://*.efsunlarsokak.site/*
 *://*.efsyn.online/*
+*://*.eftal101harcaharcabitmez.sbs/*
 *://*.eftalyatfxcswede.net/*
 *://*.eftftavm.com/*
 *://*.efthavaleislemiadeleri.com/*
@@ -140360,6 +140363,7 @@
 *://*.gun255.xyz/*
 *://*.gunaayrestorant-rezerve.com.tr/*
 *://*.gunahimboynuna.com/*
+*://*.gunahlardankaleler.org/*
 *://*.gunalimigunleri.sbs/*
 *://*.gunalmagunu.sbs/*
 *://*.gunay-restoran-rezervasyon.com.tr/*
@@ -184872,6 +184876,7 @@
 *://*.kaktuus.com/*
 *://*.kal-go.com/*
 *://*.kal20gb.site/*
+*://*.kalacakyuzunvarmi.click/*
 *://*.kaladamotors.xyz/*
 *://*.kalahariseed.com/*
 *://*.kalahuno.com/*
@@ -194661,6 +194666,7 @@
 *://*.kopgel.eu/*
 *://*.kopgelbunlarisepettenkapgit.shop/*
 *://*.kopgo.cc/*
+*://*.kopidarae1.com/*
 *://*.kopilka.io/*
 *://*.kopilkaorukov.com/*
 *://*.kopjndo-a1o1-fjrsot.net/*
@@ -262026,6 +262032,7 @@
 *://*.saldagolundeyiz.sbs/*
 *://*.saldimgunsonufb.cfd/*
 *://*.saldozlar.win/*
+*://*.saldxi.click/*
 *://*.sale-deepseek.com/*
 *://*.sale-price.online/*
 *://*.sale-spring.com/*
@@ -268177,6 +268184,7 @@
 *://*.sgrtamcepte.site/*
 *://*.sgrtbrdae.site/*
 *://*.sgrtmpro.club/*
+*://*.sgsalmakantagciwqwjfkfl.run/*
 *://*.sgshiyongjun.com/*
 *://*.sgsmail.ga/*
 *://*.sgtj100.com/*
@@ -274722,6 +274730,7 @@
 *://*.sok-market-ozelfirsat.cfd/*
 *://*.sok-market-sepet.cfd/*
 *://*.sok-market-sihir.cfd/*
+*://*.sok-market-sinirda.cfd/*
 *://*.sok-market-sokakta.cfd/*
 *://*.sok-market-yakinda.cfd/*
 *://*.sok-market-yazfirsatlari.cfd/*
@@ -300635,6 +300644,7 @@
 *://*.tupras-turkey.com/*
 *://*.tuprasgrb.info/*
 *://*.tuprasinvest.site/*
+*://*.tuprasmenkul.com/*
 *://*.tuprasyatirim.com/*
 *://*.tupturuncufirsatlar.com/*
 *://*.tuqianq.com/*
