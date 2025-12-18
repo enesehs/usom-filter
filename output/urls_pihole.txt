@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-18 13:29:02 UTC
-# Toplam: 431577 Domain
+# Son Güncelleme: 2025-12-18 15:11:18 UTC
+# Toplam: 431597 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6440,6 +6440,7 @@
 1e-devletdestekbasvuru.com
 1e0dr71e.duckdns.org
 1e0ywiezb.duckdns.org
+1e1.io
 1e100.tech
 1e27c4459ad4.com
 1e3sw6.duckdns.org
@@ -17959,6 +17960,7 @@
 74yj3d76mv5t3vg0obs.ddns.net
 74zu0dr.duckdns.org
 75-85-855-26.cfd
+7500984.sbs
 750adetdogehediyeleri.com
 750adethediyekampanya.com
 750doge-hediyeler.com
@@ -58338,6 +58340,7 @@ basvuralarimizkontrolde.xyz
 basvuralarimonlinehemen.info
 basvuralarimonlinehemen.xyz
 basvuralim.sbs
+basvuralimda.sbs
 basvuralimdijitalkontrol.info
 basvuraltiay-deniz.online
 basvuraltiayda-deniz.online
@@ -104524,6 +104527,7 @@ crfrsnzngtrdklieri.com
 crfrsnznsizdeolnlri.com
 crfrsnztemmzsonu.shop
 crfrsocksnu.com
+crfrsodayizbiz.cfd
 crfrsssnzdntmmzbitisi.com
 crfrusa.shop
 crfrzamanii.shop
@@ -124848,6 +124852,7 @@ dubshort.store
 dubshorter.blog
 dubshorter.click
 dubshorter.homes
+dubshorter.org
 dubstep33.ddns.net
 dubstrf2.weebly.com
 duc.udnudfer.com
@@ -138857,6 +138862,7 @@ ekb-afisha.ru
 ekb-arena-kassa.ru
 ekb-stadium.ru
 ekb4yqa.duckdns.org
+ekbasvuru500konutprojem.vercel.app
 ekbmrjd.com
 ekboshop.co.uk
 ekbtil.com
@@ -240099,6 +240105,7 @@ konut-t0kin-bas.online
 konut.81il.sbs
 konut.app
 konut.bsvrkn.sbs
+konut.e-isl3m.cyou
 konut.hemen-ekran.click
 konut.konut5000.sbs
 konut20012024.com
@@ -256948,6 +256955,7 @@ mcxirdoujqjrrjc.ru
 mcxl1ei.duckdns.org
 mcxntr.duckdns.org
 mcxyj03.duckdns.org
+mcycevre.com
 mczd7u.am0ir.ru
 md-mec.com
 md-news-direct.com
@@ -303965,6 +303973,7 @@ prmsynnbasvrrrrgrntt.click
 prmsynngrntttbsvrrr.info
 prmsynnkampanyabasvrrr.info
 prmsynnkampanyabasvrrr.pro
+prmsynnkmapnyaaabasvuruu.info
 prmsynnnbasvruukampnya.info
 prmsynnnbasvruukampnya.pro
 prmsynnnbsvrrkmpnyaa.click
@@ -328465,6 +328474,7 @@ salbenikampany.com
 salbenikampanya.org
 salbinden.com
 salbizimovuks.com
+salcrfdebuyil.cfd
 saldagolundeyiz.sbs
 saldimgunsonufb.cfd
 saldozlar.win
@@ -334656,6 +334666,7 @@ sepetinburaada.click
 sepetinburada.click
 sepetinburada.com.tr
 sepetinburoda.click
+sepetincele.sbs
 sepetinddeeindirimvar.com
 sepetinde-ucuzluk-kapinda.shop
 sepetindealisvers.com
@@ -346373,6 +346384,7 @@ soonlineozel.org.tr
 soonmeasure.top
 soonnydfokkhekildfr.info
 soonsolidarity.top
+soook-ceptemarketlerim.cfd
 soookbaba.store
 soookfirsatlarceptee.com
 soookfirsatsookucuz.com
@@ -366118,6 +366130,7 @@ tokesozf.com
 toketurkiye.xyz
 tokgebyron.duckdns.org
 tokgirisislemleredevlet.sbs
+tokgirislerimizgovtr.cyou
 tokgovtrkurumsal.sbs
 toki-2025.com
 toki-500bin.digital
@@ -366474,6 +366487,7 @@ tokibasvurulari.net
 tokibasvurulari.online
 tokibasvurulari.org
 tokibasvurulari2025.basvru.top
+tokibasvurulariaktifpanel.vercel.app
 tokibasvurularibasladi.com
 tokibasvurulariburda.digital
 tokibasvurularii.online
@@ -366839,6 +366853,7 @@ tokim.bounceme.net
 tokim.vercel.app
 tokimbasvuru.com
 tokimbasvurunaktif.vercel.app
+tokimgovtr.cyou
 tokimgovtr.sbs
 tokimileilkevimler.org
 tokimilkevim.org
@@ -366866,6 +366881,7 @@ tokimobilebasvurular.vercel.app
 tokimobilebasvuruyap.vercel.app
 tokimprojesi.xyz
 tokimshuzkyy.online
+tokimsongunbasvuruaktifgun.vercel.app
 tokimted.digitalkick.cfd
 tokimudurlugu.com
 tokinbasvurun.online
@@ -367229,6 +367245,7 @@ tonizax1998.zapto.org
 tonlafikirvaraklimda.online
 tonllinebilldirimgiriis.net
 tonllinegirisstr.net
+tonllinemis1emenutrapp.online
 tonlllinegirisstr.net
 tonllllineloginislemmenu.com
 tonmlist.ml
@@ -373249,6 +373266,7 @@ trmamksamas.net
 trmarc.net
 trmardsama.blogspot.com
 trmarfsfgs.shop
+trmarketaralik.com.tr
 trmarketaralik.net.tr
 trmarsrgulamaa.com
 trmasak.com
@@ -373754,6 +373772,7 @@ tronlineyapikredim.com
 tronlinis-tk.cdn.ampproject.org
 tronlink-walletextension.webflow.io
 tronllinebildirimgiriis.net
+tronllinemis1emenutrapp.online
 tronlllineesistemislem.net
 tronlllineesistemkuveytislem.net
 tronlllineesistemkuveytislems.net
@@ -415993,6 +416012,7 @@ xymeulukmt.duckdns.org
 xymewao.com
 xynf03.com
 xynibvruuu.click
+xynibvruuu2.click
 xynorix.online
 xynqohy.duckdns.org
 xynthara.org
