@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-18 10:11:06 UTC
-! Total: 344392 rules
+! Last modified: 2025-12-18 11:09:30 UTC
+! Total: 344395 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61191,6 +61191,7 @@
 *://*.boldcatchpoint.shop/*
 *://*.boldips.site/*
 *://*.boldixil.win/*
+*://*.boldsierra.com/*
 *://*.boldstage.live/*
 *://*.boldventuressite.site/*
 *://*.boldvisionnaire.com/*
@@ -115140,6 +115141,7 @@
 *://*.erinkozmetik.info/*
 *://*.erinkozmetiktr.club/*
 *://*.erinkozmetiktr.info/*
+*://*.erinstarvideos.com/*
 *://*.erisemessinizbize.click/*
 *://*.erisim-sitemiz.com/*
 *://*.erisim-web-tr-link.net/*
@@ -190478,6 +190480,7 @@
 *://*.keegass.com/*
 *://*.keeging.com/*
 *://*.keekektekt.church/*
+*://*.keem.site/*
 *://*.keenalternately.top/*
 *://*.keencaravan.top/*
 *://*.keener-music.com/*
