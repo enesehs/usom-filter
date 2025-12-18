@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-18 16:13:47 UTC
-# Toplam: 431599 Domain
+# Son Güncelleme: 2025-12-18 17:14:28 UTC
+# Toplam: 431610 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6850,6 +6850,7 @@
 1o1frsattemmuz.com
 1o1frssstlrkpndaaa.click
 1o1frsstlrrkpnda.online
+1o1frstlarfburdtukenyr.xyz
 1o1frstlarkpnda.online
 1o1frstlrikapnda.shop
 1o1frstlrkapda.shop
@@ -8295,6 +8296,7 @@
 2026knutun.wordpress.com
 2026konutvizyon.online
 2026teslim-tarih.sbs
+2026teslimsel.cyou
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
 202eyi.duckdns.org
@@ -119405,6 +119407,7 @@ dijitalekranziraat.sbs
 dijitaleozel-denizacik.com
 dijitalesube-denizacik.com
 dijitalesubegiris.com
+dijitalfinans-ziraatwebbireysel.sbs
 dijitalfirsat-denizacik.com
 dijitalfirsat-ziraatbireysel.com
 dijitalfirsatkredi-ziraatbireysel.com
@@ -143438,6 +143441,7 @@ entverify.zapto.org
 entvhaber.online
 entvhaber.site
 entvhaber.xyz
+entyensktekliflernbrs.store
 enu.andromediacenter.net
 enucuz101burada.com.tr
 enucuz101burada.online
@@ -148728,6 +148732,7 @@ evsahibikonut.com.tr
 evsahibiol.org
 evsahibiolduturkiye.com
 evsahibiolturkiye.com
+evsahibioluyorum.com
 evsahibirehnberi.cfd
 evsahibitoki.unaux.com
 evsahibiturkey.com
@@ -161439,6 +161444,7 @@ g-1rislmgarislemlerim.online
 g-a-ra-nti-bbva.vercel.app
 g-alim.com
 g-analytics.com
+g-b-kobi.my-homeip.com
 g-bb-try.my-homeip.com
 g-bbva-frisatlarixds.online
 g-bbwamenugirisllemonllinem.com
@@ -323661,6 +323667,7 @@ sadeceonlineozelkampanyaurunanesi2.duckdns.org
 sadeceonlineozelkapinageldi.com.tr
 sadeceonlineozelsatis101.codevoyage.cfd
 sadeceonlineozeltr.online
+sadeceonlinesiparisver.mooo.com
 sadeceonllfsonsfitrfrstlartr.blogspot.com
 sadeceonllfsonsfitrfrstlartrcstr.blogspot.com
 sadeceonllinea1o1.duckdns.org
@@ -366083,6 +366090,7 @@ tokatlandin.com.tr
 tokayit.click
 tokayitlari.click
 tokaylagez.com
+tokbasvrs.click
 tokbasvrshz.online
 tokbasvur.online
 tokbasvuruform.com
@@ -366213,6 +366221,7 @@ toki-gov-tr.tk
 toki-gov.cfd
 toki-gov.online
 toki-gov.sbs
+toki-govtrr.digital
 toki-hizlibasvurularim.vercel.app
 toki-hizlibasvuruyap.vercel.app
 toki-ile.evsahibturkiye.com
@@ -367699,6 +367708,7 @@ toptoptop3.site
 toptoxtions.ga
 toptoxtions.tk
 toptradingoption.com
+toptrblnance.cyou
 toptrends.org
 toptrytactics.com
 toptube.fun
@@ -411661,6 +411671,7 @@ xn--carrefour-sa-14b.xyz
 xn--carrefour-sa-14bbcc.xyz
 xn--carrefour-sa-14bcbbd.xyz
 xn--carrefour-sa-14bdcc.xyz
+xn--carrefour-sa-14bdccd.xyz
 xn--carrefour-sa-24bc.xyz
 xn--carrefoursa-0zbb.com
 xn--carrefoursa-0zbb.xyz

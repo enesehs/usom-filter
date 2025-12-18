@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-18 16:13:47 UTC
-! Total: 344446 rules
+! Last modified: 2025-12-18 17:14:28 UTC
+! Total: 344455 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4794,6 +4794,7 @@
 *://*.1o1frsattemmuz.com/*
 *://*.1o1frssstlrkpndaaa.click/*
 *://*.1o1frsstlrrkpnda.online/*
+*://*.1o1frstlarfburdtukenyr.xyz/*
 *://*.1o1frstlarkpnda.online/*
 *://*.1o1frstlrikapnda.shop/*
 *://*.1o1frstlrkapda.shop/*
@@ -5892,6 +5893,7 @@
 *://*.2026hediyesi.cfd/*
 *://*.2026konutvizyon.online/*
 *://*.2026teslim-tarih.sbs/*
+*://*.2026teslimsel.cyou/*
 *://*.2028.cl/*
 *://*.202firsatlari.online/*
 *://*.202firsatlarim.online/*
@@ -93063,6 +93065,7 @@
 *://*.dijitaleozel-denizacik.com/*
 *://*.dijitalesube-denizacik.com/*
 *://*.dijitalesubegiris.com/*
+*://*.dijitalfinans-ziraatwebbireysel.sbs/*
 *://*.dijitalfirsat-denizacik.com/*
 *://*.dijitalfirsat-ziraatbireysel.com/*
 *://*.dijitalfirsatkredi-ziraatbireysel.com/*
@@ -113973,6 +113976,7 @@
 *://*.entvhaber.online/*
 *://*.entvhaber.site/*
 *://*.entvhaber.xyz/*
+*://*.entyensktekliflernbrs.store/*
 *://*.enucuz101burada.com.tr/*
 *://*.enucuz101burada.online/*
 *://*.enucuz101burada.xyz/*
@@ -118438,6 +118442,7 @@
 *://*.evsahibiol.org/*
 *://*.evsahibiolduturkiye.com/*
 *://*.evsahibiolturkiye.com/*
+*://*.evsahibioluyorum.com/*
 *://*.evsahibirehnberi.cfd/*
 *://*.evsahibiturkey.com/*
 *://*.evsahibiturkiye.cfd/*
@@ -292705,6 +292710,7 @@
 *://*.tokayit.click/*
 *://*.tokayitlari.click/*
 *://*.tokaylagez.com/*
+*://*.tokbasvrs.click/*
 *://*.tokbasvrshz.online/*
 *://*.tokbasvur.online/*
 *://*.tokbasvuruform.com/*
@@ -292797,6 +292803,7 @@
 *://*.toki-gov.cfd/*
 *://*.toki-gov.online/*
 *://*.toki-gov.sbs/*
+*://*.toki-govtrr.digital/*
 *://*.toki-ilkevim.com/*
 *://*.toki-ilkevim.shop/*
 *://*.toki-islemim.online/*
@@ -293828,6 +293835,7 @@
 *://*.toptoxtions.ga/*
 *://*.toptoxtions.tk/*
 *://*.toptradingoption.com/*
+*://*.toptrblnance.cyou/*
 *://*.toptrends.org/*
 *://*.toptrytactics.com/*
 *://*.toptube.fun/*
@@ -328175,6 +328183,7 @@
 *://*.xn--carrefour-sa-14bbcc.xyz/*
 *://*.xn--carrefour-sa-14bcbbd.xyz/*
 *://*.xn--carrefour-sa-14bdcc.xyz/*
+*://*.xn--carrefour-sa-14bdccd.xyz/*
 *://*.xn--carrefour-sa-24bc.xyz/*
 *://*.xn--carrefoursa-0zbb.com/*
 *://*.xn--carrefoursa-0zbb.xyz/*
