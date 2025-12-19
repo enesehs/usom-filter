@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-19 14:10:24 UTC
-! Total: 344507 rules
+! Last modified: 2025-12-19 15:10:26 UTC
+! Total: 344522 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3221,6 +3221,7 @@
 *://*.14aralikindirimindirimi.com.tr/*
 *://*.14aralonline.com.tr/*
 *://*.14aralonline.online/*
+*://*.14bdccd.xyz/*
 *://*.14bimcell.net/*
 *://*.14ekimdekiyenikatalog.win/*
 *://*.14ekimerkneindiirm.org/*
@@ -19228,6 +19229,7 @@
 *://*.adaletbizim.net/*
 *://*.adaletbumula.com/*
 *://*.adaletgeldi.online/*
+*://*.adaletkamu.net/*
 *://*.adaletmaliye.net/*
 *://*.adaletmaliye.org/*
 *://*.adaletnoktasi.com/*
@@ -62200,6 +62202,7 @@
 *://*.bosdistort.top/*
 *://*.bosegena.com/*
 *://*.boshman09.com/*
+*://*.boshmatkapucuz.site/*
 *://*.bosjuzdanlar.com/*
 *://*.bosjuzdanlardolsun.com/*
 *://*.boskatrem.ru/*
@@ -80762,6 +80765,7 @@
 *://*.crfrsnztemmzsonu.shop/*
 *://*.crfrsocksnu.com/*
 *://*.crfrsodayizbiz.cfd/*
+*://*.crfrsoyilsonu.cfd/*
 *://*.crfrsssnzdntmmzbitisi.com/*
 *://*.crfrusa.shop/*
 *://*.crfrzamanii.shop/*
@@ -120686,6 +120690,7 @@
 *://*.fasres.com/*
 *://*.fassbind.help/*
 *://*.fast-boxes.com/*
+*://*.fast-eda.my/*
 *://*.fast-notify.com/*
 *://*.fast-page.org/*
 *://*.fast-redirect.host/*
@@ -120696,6 +120701,7 @@
 *://*.fastandstrongwolf.com/*
 *://*.fastandwork.tech/*
 *://*.fastbrokerlik.net.tr/*
+*://*.fastbsvuru.click/*
 *://*.fastbsvuru.life/*
 *://*.fastcarfilo.com/*
 *://*.fastcharm.online/*
@@ -121149,6 +121155,7 @@
 *://*.fb-basvurusutamamlamak-icinbasvur.online/*
 *://*.fb-browser.cfd/*
 *://*.fb-click1.sbs/*
+*://*.fb-clicktr.sbs/*
 *://*.fb-copyright-help-canter.ml/*
 *://*.fb-copyright-infringement-form.ml/*
 *://*.fb-copyright-lnstagram.cf/*
@@ -122808,6 +122815,7 @@
 *://*.finansajanslar.online/*
 *://*.finansakili.online/*
 *://*.finansal-duyurularim.online/*
+*://*.finansal-hizmetler.info/*
 *://*.finansal-kasim-duyurularim.online/*
 *://*.finansal-mobilislemler.com/*
 *://*.finansal-vakif-duyuru.online/*
@@ -149826,6 +149834,7 @@
 *://*.hayranolmak.com/*
 *://*.hayratdernegi.com/*
 *://*.hayravakfi.info/*
+*://*.hayrbrefdbi.cfd/*
 *://*.hayrbrefdbi.sbs/*
 *://*.hayret20gb.com/*
 *://*.hayretettirn.net/*
@@ -191931,6 +191940,7 @@
 *://*.kilometreyokeden.cfd/*
 *://*.kilometrosgorgulamahemengovpttsxsaz.com/*
 *://*.kilometsgorulari.xyz/*
+*://*.kilomtrecildirtana.cfd/*
 *://*.kilomtreciler.cfd/*
 *://*.kilomtrehizlisorguchp.xyz/*
 *://*.kilomtreniogrenchp.xyz/*
@@ -241703,6 +241713,7 @@
 *://*.pixtraffweb.com/*
 *://*.pixtreev.run/*
 *://*.piyasa-akis.info/*
+*://*.piyasa-yatirimi.info/*
 *://*.piyasaakisi.org/*
 *://*.piyasabasassa.xyz/*
 *://*.piyasaekspres.online/*
@@ -258496,6 +258507,7 @@
 *://*.ruyaxper.com/*
 *://*.ruyhyetdsmxcjvy.ru/*
 *://*.ruyupuyu.site/*
+*://*.ruzede.com/*
 *://*.ruzgarboylu.host/*
 *://*.ruzgaristanbulkkkartttlyukle.net/*
 *://*.ruzgarlagez.net/*
@@ -279381,6 +279393,7 @@
 *://*.ss-securepayment.com/*
 *://*.ss-wwrsf.sbs/*
 *://*.ss.la/*
+*://*.ss0kkfrsattlarylllbasi.org/*
 *://*.ss44--4444-1.cloud/*
 *://*.ss5828282323ss.cloud/*
 *://*.ss9hykk.cn/*
@@ -288530,6 +288543,7 @@
 *://*.teksnkna.net/*
 *://*.teksoft.pro/*
 *://*.teksorunumparonayasanirim.com/*
+*://*.teksozlnscsfirsatcvst.com/*
 *://*.tekstar.us/*
 *://*.tekstilkonservasyon.pro/*
 *://*.tekstilmarket.club/*
@@ -338234,6 +338248,7 @@
 *://*.yildizlarkarmasi.com/*
 *://*.yildizlarkayarken.com/*
 *://*.yildizlarkonteyner.com.tr/*
+*://*.yildizlarsepeti.sbs/*
 *://*.yildizlartoptanparakende.com/*
 *://*.yildizlarveteknolojikmedeniyetler.xyz/*
 *://*.yildizli-buz-gucu-trio.sbs/*
