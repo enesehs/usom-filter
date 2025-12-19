@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 11:09:17 UTC
-# Toplam: 431652 Domain
+# Son Güncelleme: 2025-12-19 12:23:30 UTC
+# Toplam: 431668 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9531,6 +9531,7 @@
 250ekpromosyon.ml
 250garantibbva-com-tr.tk
 250konutbasvuruportal.com
+250konutevprojebasvuru.com
 250konutportal.com
 250konutprojebasvuruekrani.com
 250tlekpromosyon.ml
@@ -82697,6 +82698,7 @@ brgecis.sg-host.com
 brghtpixel.site
 brgn-onlineislemler.com
 brgn-onlineislemler.pro
+brgnmenkul.com
 brgylbscrfsonline.cfd
 brh-knua-edhn-1000tl.com
 brhck8.duckdns.org
@@ -95587,6 +95589,7 @@ cicekmarketim.sbs
 cicekmarketim.site
 cicekmarketim.space
 cicekmarketim.store
+cicekmarketim.vip
 cicekmarketim.work
 cicekn.com
 cicekolsun.com
@@ -151685,6 +151688,7 @@ fastandstrongwolf.com
 fastandwork.tech
 fastbireyselacikdenizv2denizbank.co.vu
 fastbrokerlik.net.tr
+fastbsvuru.life
 fastcarfilo.com
 fastcharm.online
 fastcheck-via-booking.com
@@ -174086,6 +174090,7 @@ gratis-indirim-gunleri.com.tr
 gratis-indirim-gunleri.xyz
 gratis-j.dynuddns.com
 gratis-kariyer.com
+gratis-m.servebbs.com
 gratis-m.swanndvr.net
 gratis-mb.dvrlists.com
 gratis-mb.swanndvr.net
@@ -175901,6 +175906,7 @@ gunaydnhbrbrihmbrda.online
 gunayrestaurant-rezervasyon.com
 gunayrestaurant.xyz
 gunayrestaurantrezerve.com.tr
+gunayrestaurantsss.com.tr
 gunayrestoran-reservation.com.tr
 gunayrestoran-rezerve.com.tr
 gunayrestoran-rezerve.com.tr.gunay-restorant-rezervasyon.com.tr
@@ -180435,6 +180441,7 @@ haftalikindirimler-markettebasladi.cfd
 haftalikindirimlerbasladiifirsatlarikacirmayin.online
 haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
+haftalikmutfakmasraflariniazaltin.cfd
 haftalikodemem.net
 haftaliktanitim.com.tr
 haftalikurunincelemeleriveindirimleri.cfd
@@ -189246,6 +189253,7 @@ hemeniadeniz-geldi.com
 hemeniislemonlinr.online
 hemenileti.de
 hemeniletisim.hemenuacuzarackirala.xyz
+hemeninaslntkimson.net
 hemenindirimegel.me
 hemenindirimler.me
 hemenisanleosamtad.net
@@ -219409,6 +219417,7 @@ istnblmkarttm.net
 istnblmkkyldkrtt.net
 istnblmzdasmnsa.giize.com
 istnblmzdasnzdsfmgln.com
+istnblmzdavarsksbn.com
 istnblnextss.net
 istnblnnkartnm.net
 istnblpersembe.net
@@ -228576,6 +228585,7 @@ kalbindeyaniguzellikler.cfd
 kalbine-dokunup-hissediyorsan-sende-bizden-birisin.com
 kalbinegidenyoldakkifirsatlar.cfd
 kalbinegidenyoldakkifirsatlar.sbs
+kalbinesaklananlar.com
 kalbinfirsatin.shop
 kalbinin-icinden-hislerini-iyisinden-yakala.com
 kalbinin-sesi-burada-duyulacak.com
@@ -323913,6 +323923,7 @@ sadsajkdhasjhasf.click
 sadsantnasnd.blogspot.com
 sadsaocsnfsirsatlartrsd.blogspot.com
 sadsaocsnfsirsatlartrsdtr.blogspot.com
+sadscfrstlndrmlr.xyz
 sadsconmfirsatlartrc.blogdns.com
 sadscosnfsfrdstrsatlartr.blogspot.com
 sadscosnfsirsatrlartrc.blogdns.com
@@ -334011,6 +334022,7 @@ sendenizmobilden.gq
 sendenkalanhaberler.online
 sendenkalanlardandevamke.cfd
 sendenvazgecememhicbizamanaffetbebegim.com
+sendenvazgecmem.com
 sendeozelbasvuruyapbinnce.tech
 sendepasajlamutluolabilirsin.online
 sendeqnebeqnbilekazzan.duckdns.org
@@ -350086,6 +350098,7 @@ ssofhoseuegsgrfnj.in
 ssofhoseuegsgrfnj.info
 ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
+ssokkaldinaldinfrsaatt.org
 ssoklrkmfrklfskmczzrmtm.com
 sson.dnsup.net
 ssonweb.com
@@ -366361,6 +366374,7 @@ toki.evsahibiolduturkiye.com
 toki.evsahibiturkiye.cfd
 toki.evsahibiturkiye.org
 toki.ezgiyeasigim.cyou
+toki.fastbsvuru.life
 toki.forum
 toki.glbserv.com
 toki.hakonutlarim2025.lat
@@ -373080,6 +373094,7 @@ triplescrutiny.top
 tripleshops.com
 triplespaghetti.top
 triplooqp.world
+tripnestbyomio.com
 tripogg.xyz
 trippmindz.com
 tripprofer24-hours.com
@@ -425113,6 +425128,7 @@ yoyjqgwczj.duckdns.org
 yoynu.ahaer.xyz
 yoyo5050.ddns.net
 yoyoben85.ddns.net
+yoyohuhuferde.myonlineportal.de
 yoyortadrejgeliyo.top
 yoyufoods.com
 yoywvfw.top
