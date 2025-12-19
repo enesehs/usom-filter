@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-19 04:24:18 UTC
-! Total: 344463 rules
+! Last modified: 2025-12-19 05:12:38 UTC
+! Total: 344465 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33616,6 +33616,7 @@
 *://*.aralikcekilisisizlericin-hemenbasvur.cloud/*
 *://*.aralikcekilislerinikacirma-finansbank.com/*
 *://*.aralikcepte-ozel.shop/*
+*://*.aralikcrdyiz.cfd/*
 *://*.aralikcrfrayi.cfd/*
 *://*.aralikdakampanya.tc/*
 *://*.aralikdakampanyan.com/*
@@ -139820,6 +139821,7 @@
 *://*.gryk-osti.click/*
 *://*.grylh.com/*
 *://*.gryndora.com/*
+*://*.gs-indirim.com/*
 *://*.gs1905.xyz/*
 *://*.gsaciq.top/*
 *://*.gsafbacsgn-gwqfnsacqw.store/*
