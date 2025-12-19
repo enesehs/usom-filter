@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 20:10:44 UTC
-# Toplam: 431744 Domain
+# Son Güncelleme: 2025-12-19 21:08:38 UTC
+# Toplam: 431749 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -155475,6 +155475,7 @@ firsataktuel.online
 firsataktueli.net
 firsataktuelim-1o1.online
 firsatald-ina101.xyz
+firsataldasendekamnpysdedasd.site
 firsatalisveirskampanyasi.com.tr
 firsatalisveirskampanyasi.online
 firsatalisveirskampanyasi.xyz
@@ -223481,6 +223482,7 @@ izomirwetnqe.click
 izonlinemx.net
 izonnddd.blogspot.com
 izonykelmne.com
+izoofkkd.blogspot.com
 izoofln.blogspot.com
 izoooggs.blogspot.com
 izosefermonibusof.net
@@ -240178,6 +240180,7 @@ konut-t-o-k-i.com
 konut-t0k1n-bas.click
 konut-t0k1n-bas.sbs
 konut-t0kin-bas.online
+konut.2026teslimsel.cyou
 konut.81il.sbs
 konut.app
 konut.bsvrkn.sbs
@@ -323016,6 +323019,7 @@ s0ucac0v.duckdns.org
 s0udah3tsf7psn7t5hyjgho.ddns.net
 s0uleb.duckdns.org
 s0wexwsdo6.storage.googleapis.com
+s0wfecuma.ddnsfree.com
 s0yjkknoa.duckdns.org
 s0zpeor.cn
 s1-colgate.orlansavi.fun
@@ -324856,6 +324860,7 @@ sahibinden-get.ml
 sahibinden-get.mobil-hizmetiniz.com
 sahibinden-get.mobil-islemler-hizmet.online
 sahibinden-get.mobil-jet-hizmet.online
+sahibinden-get.mobillservisleriniz.com
 sahibinden-get.mobilservisim.com
 sahibinden-get.mobilservisin.com
 sahibinden-get.mobilservisleriniz.com
