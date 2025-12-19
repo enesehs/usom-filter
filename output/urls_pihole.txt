@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 05:12:38 UTC
-# Toplam: 431623 Domain
+# Son Güncelleme: 2025-12-19 07:13:09 UTC
+# Toplam: 431637 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24830,6 +24830,7 @@ a1o1comtrkampanyalari.ddnsfree.com
 a1o1comtrtrctrb.blogspot.com
 a1o1cumrtmarket32.com
 a1o1de-online-alisveris.konusanlar-bilet.com.tr
+a1o1debuhaftadakacrma.blogdns.com
 a1o1debuyukkampanyalar.duckdns.org
 a1o1defrsatlarbitmez.blogdns.com
 a1o1dekazanacaz.rf.gd
@@ -73284,6 +73285,7 @@ bireyselsahibindenurun.com
 bireyselsanalsube.com
 bireyselsatici.com.tr
 bireyselsaticim.com.tr
+bireyselsaticionline.com.tr
 bireyselsatis.com.tr
 bireyselsatis.site
 bireyselsatisci.com.tr
@@ -80687,6 +80689,7 @@ bolukrtile.net
 bolumutluturizm.com
 bolupdalist.site
 bolutuzlahaliyikamacasayfasi.site
+boluyesilevler.com
 bom02.gotdns.ch
 bom7.rilo.coinbase-com.info
 bom7hj.duckdns.org
@@ -88217,6 +88220,7 @@ c.rhrrm.com
 c.sigormnet.site
 c.wkanx.com
 c00sld7.duckdns.org
+c020dd99-de56-42b9-b814-b0597cf4c270-00-hdw7n1mmg3v6.kirk.replit.dev
 c02o3mpych.com
 c03bkjgu.duckdns.org
 c03gprb.cn
@@ -90373,6 +90377,7 @@ carreefourmarketim.cfd
 carreefourmarketimekim.cfd
 carreefourmarketingmobilgiris.cfd
 carreefourmarketonline.cfd
+carreefourmobiel.cfd
 carreefourmobiil.cfd
 carreefourmobil.cfd
 carreefourmobilgiris2025.cfd
@@ -179437,6 +179442,7 @@ h9d4sf2.netivagator.com
 h9g0q8a1hat3s.net
 h9h-rhe-hrhfdbn-gwefqsa-dfqdqsagasgf12.com.tr
 h9h9hrt9htr9t24eg3ej3t23g2k23edms.sbs
+h9hf9dsgf-f1sghsdgfssa.net.tr
 h9iybn.duckdns.org
 h9kmj6635.duckdns.org
 h9m7si.duckdns.org
@@ -201343,6 +201349,7 @@ huqcqwxylpnvkdapfteaswtknjzq.ru
 huqgniblte.com
 huqgza.com
 huqotj.duckdns.org
+huqqa.online
 huqquness-hdligth.com
 hur.bweqlkjr.shop
 huragamanana22.hopto.org
@@ -210063,6 +210070,7 @@ indirimdunyasi63.xyz
 indirimduyurusu.com
 indirime-gel.store
 indirimedogrugelin.me
+indirimegelinhemen.me
 indirimegels.site
 indirimegeltr.website
 indirimekimkampanyaisteburada.online
@@ -261969,6 +261977,7 @@ mobil-giris.com.tr
 mobil-giris.site
 mobil-giris.xyz
 mobil-girisaidatlarhizmetlergovedevlet.com
+mobil-girisdenizbank.sbs
 mobil-girisedevlet-portal.tk
 mobil-girisi.site
 mobil-girisi.xyz
@@ -314051,6 +314060,7 @@ r6d6.zapto.org
 r6fd7eklk.duckdns.org
 r6im45.duckdns.org
 r6lqht0x6.duckdns.org
+r6m2x9t1q7b5n8y0p4v3w2z6.com.tr
 r6r8erdemners.xyz
 r6wnmgq4.duckdns.org
 r71pj4.cyou
@@ -366518,6 +366528,7 @@ tokibasvurularinizburada.com
 tokibasvurularinizomar.b-cdn.net
 tokibasvurularinizzburadadir.com
 tokibasvurularinizzqwea.com
+tokibasvurulr.my
 tokibasvurulrnqw.com
 tokibasvurum.click
 tokibasvurum.com
@@ -393626,6 +393637,7 @@ vodafoneyanimda.net
 vodafoneyaztlkampanyalaari.tk
 vodahelp.sytes.net
 vodfaturaodeme.com
+voditurk.com
 vodkafondipartile.com.tr
 vodkahater.xyz
 vodog.shop
@@ -418178,6 +418190,7 @@ yapikredieguvenlik.com
 yapikredieinternetsubem.com
 yapikrediekatilim.com
 yapikrediembedded.com
+yapikrediemekliler.unaux.com
 yapikrediesube.com
 yapikrediesube2021.click
 yapikrediesube2021.com
@@ -418772,6 +418785,7 @@ yapimobilgirisislemleri.com
 yapimobilhediye.com
 yapimobilhediyem.com
 yapimobilim.com
+yapimobilim.tr
 yapimobilislemim.com
 yapimobilislemleri.com
 yapimobilislemlerim.com
