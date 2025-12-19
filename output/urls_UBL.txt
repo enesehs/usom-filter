@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-19 17:09:53 UTC
-! Total: 344529 rules
+! Last modified: 2025-12-19 18:14:12 UTC
+! Total: 344544 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10154,6 +10154,7 @@
 *://*.57fa928c239235052cba1a63ffb9a023.uk/*
 *://*.57gznfw.xyz/*
 *://*.581123719.site/*
+*://*.581325.wang/*
 *://*.581518759128421421.space/*
 *://*.581574.com/*
 *://*.581642.cloud/*
@@ -13302,6 +13303,7 @@
 *://*.a--101.online/*
 *://*.a--haber-govtrr.org/*
 *://*.a--magazatr-a.xyz/*
+*://*.a-1--01denflrsatlar-kmpanlari.cfd/*
 *://*.a-1-0-1-aldinaldinfrstmysoth.xyz/*
 *://*.a-1-0-1-aldnaldnbukmpnya2025.net/*
 *://*.a-1-0-1-b-o-s-c-h.site/*
@@ -41692,6 +41694,7 @@
 *://*.basvurlar-destek-kampanyalar-ozel-bireysel.xyz/*
 *://*.basvurlar-destek-kampanyasi-ozel-bireysel.xyz/*
 *://*.basvurlarim.site/*
+*://*.basvurlariniztokki.online/*
 *://*.basvurlarinizz.com/*
 *://*.basvurlhayatseninleguzel.xyz/*
 *://*.basvurm-desdek-kampanyasi-bireysel.xyz/*
@@ -65775,6 +65778,7 @@
 *://*.burasiguncel-com.xyz/*
 *://*.burasiguncel.xyz/*
 *://*.burasiiriss.xyz/*
+*://*.burasisizlereozelkaldi.com/*
 *://*.burasisogukmusa125.com/*
 *://*.burasitaksimbak.net/*
 *://*.burasiyenidunya.xyz/*
@@ -69520,6 +69524,7 @@
 *://*.carreefourmobilim.cfd/*
 *://*.carreefourmobiliris.cfd/*
 *://*.carreefourmobilmarket.cfd/*
+*://*.carreefoursamobile.cfd/*
 *://*.carreefursazamni.com/*
 *://*.carreerfours.online/*
 *://*.carreeylulayifirsatlari.online/*
@@ -150200,6 +150205,7 @@
 *://*.hazirbaslauygulamaislemleri.online/*
 *://*.hazirbasvuruyapgirisicin.online/*
 *://*.hazirbonus.digital/*
+*://*.hazirdafirsathemenalta.site/*
 *://*.hazirdafirsatimsendealhemne.site/*
 *://*.hazirdageldinaldin.online/*
 *://*.hazirdahemen.sbs/*
@@ -176038,6 +176044,7 @@
 *://*.islemsizlerle.com/*
 *://*.islemsizlerle.online/*
 *://*.islemsizlerle.xyz/*
+*://*.islemsonsnukhizli.online/*
 *://*.islemsorgu.org/*
 *://*.islemssonayyaparmsn.net/*
 *://*.islemsubesi.com/*
@@ -245601,6 +245608,7 @@
 *://*.promosyonda15bintl.xyz/*
 *://*.promosyondegerlendirme.com/*
 *://*.promosyondeniz.online/*
+*://*.promosyondenizde.sbs/*
 *://*.promosyondonemleri.com/*
 *://*.promosyondurumu.com/*
 *://*.promosyonduyurulari.com/*
@@ -265826,6 +265834,7 @@
 *://*.sendeburadakal.net/*
 *://*.sendeburadakalbenimle.net/*
 *://*.sendeburadanfaydalan.cfd/*
+*://*.sendeburadanhizlicabul.com/*
 *://*.sendebzdnsnhaydnereyekadr.online/*
 *://*.sendecekilisekatil.tech/*
 *://*.sendecekilisekatil.tk/*
@@ -272800,6 +272809,7 @@
 *://*.sizin-firsatlariniz-yeni-yagmuru.com/*
 *://*.sizin-icin-en-guzel-hayat-bu.com/*
 *://*.sizin-icin-hayaller-umutla-baslar.com/*
+*://*.sizin-icin-son-gunler.sbs/*
 *://*.sizin-icinfirsatkampanyasiburda.com/*
 *://*.sizin-icinkmpnyaburada.com/*
 *://*.sizin-kalbinize-giden-yolu-iyi-biliyoruz.xyz/*
@@ -292801,7 +292811,9 @@
 *://*.tokesozf.com/*
 *://*.toketurkiye.xyz/*
 *://*.tokgirisislemleredevlet.sbs/*
+*://*.tokgirislerimgovtr.cyou/*
 *://*.tokgirislerimizgovtr.cyou/*
+*://*.tokgirislerimizgovtr.sbs/*
 *://*.tokgovtrkurumsal.sbs/*
 *://*.toki-2025.com/*
 *://*.toki-500bin.digital/*
@@ -314511,6 +314523,7 @@
 *://*.vivtggiirislllemenu.com/*
 *://*.vivvvonlineislemenugiris.com/*
 *://*.vixmars.com/*
+*://*.vixolita.sbs/*
 *://*.vixonar.com/*
 *://*.viyhxb.cn/*
 *://*.vizacdth.com/*
@@ -334410,6 +334423,7 @@
 *://*.yapirlkredi.com/*
 *://*.yapisalbildirim.com/*
 *://*.yapisalkonutlar.click/*
+*://*.yapisalkonutlar.lol/*
 *://*.yapisendebe.com/*
 *://*.yapisesinidinle.com/*
 *://*.yapiskredis.com/*
@@ -335144,6 +335158,7 @@
 *://*.yatirim-garanti.site/*
 *://*.yatirim-garantibbva.site/*
 *://*.yatirim-garantiden.site/*
+*://*.yatirim-guncel-bilgiler.info/*
 *://*.yatirim-kredi.com.tr/*
 *://*.yatirim-kubbe.online/*
 *://*.yatirim-kulubu.online/*

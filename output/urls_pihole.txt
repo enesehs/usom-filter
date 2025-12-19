@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 17:09:53 UTC
-# Toplam: 431705 Domain
+# Son Güncelleme: 2025-12-19 18:14:12 UTC
+# Toplam: 431725 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15461,6 +15461,7 @@
 57rd.duckdns.org
 57u9cu6b.duckdns.org
 581123719.site
+581325.wang
 581518759128421421.space
 581642.cloud
 58176-coinbase.com
@@ -21853,6 +21854,7 @@ a--101-firsatlarri.online
 a--101.online
 a--haber-govtrr.org
 a--magazatr-a.xyz
+a-1--01denflrsatlar-kmpanlari.cfd
 a-1-0-1-aldinaldinfrstmysoth.xyz
 a-1-0-1-aldnaldnbukmpnya2025.net
 a-1-0-1-b-o-s-c-h.site
@@ -58539,6 +58541,7 @@ basvurlar-destek-kampanyalar-ozel-bireysel.xyz
 basvurlar-destek-kampanyasi-ozel-bireysel.xyz
 basvurlaribas.mindframe.sbs
 basvurlarim.site
+basvurlariniztokki.online
 basvurlarinizz.com
 basvurlarracikdenizv2denizbank.co.vu
 basvurlhayatseninleguzel.xyz
@@ -85910,6 +85913,7 @@ burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
 burasiguncel.xyz
 burasiiriss.xyz
+burasisizlereozelkaldi.com
 burasisogukmusa125.com
 burasitaksimbak.net
 burasiyenidunya.xyz
@@ -90395,6 +90399,7 @@ carreefourmobilgiris2025.cfd
 carreefourmobilim.cfd
 carreefourmobiliris.cfd
 carreefourmobilmarket.cfd
+carreefoursamobile.cfd
 carreefursazamni.com
 carreerfours.online
 carreeylulayifirsatlari.online
@@ -102826,6 +102831,7 @@ coreos.rest
 coreoven.top
 coreservice224.ddns.net
 coreshex.click
+coresphere.cfd
 coresux.com
 coretelin.gq
 coretelin.ml
@@ -186828,6 +186834,7 @@ hazirbaslauygulamaislemleri.online
 hazirbasvuruyapgirisicin.online
 hazirbonus.digital
 hazirceptefirsat.camdvr.org
+hazirdafirsathemenalta.site
 hazirdafirsatimsendealhemne.site
 hazirdageldinaldin.online
 hazirdahemen.sbs
@@ -201493,6 +201500,7 @@ hutionol.info
 hutnilior.net
 hutterstock.org
 hutw45wla.duckdns.org
+huuhundaburda.myonlineportal.de
 huulog.com
 huvanir.top
 huverg.ru
@@ -209927,6 +209935,7 @@ indirim-maviiiddee-sepetim.com
 indirim-merkezi.online
 indirim-merkezi.site
 indirim-merkezihaftasi.online
+indirim-mobilde-tr.mooo.com
 indirim-online-kapida.name.tr
 indirim-paketleri-turkcell.com
 indirim-sa-hemen.duckdns.org
@@ -217466,6 +217475,7 @@ islemsizlerle.com
 islemsizlerle.online
 islemsizlerle.sg-host.com
 islemsizlerle.xyz
+islemsonsnukhizli.online
 islemsorgu.org
 islemssonayyaparmsn.net
 islemsubeacikdenizv2denizbank.co.vu
@@ -304931,6 +304941,7 @@ promosyonda15bintl.click
 promosyonda15bintl.xyz
 promosyondegerlendirme.com
 promosyondeniz.online
+promosyondenizde.sbs
 promosyondonemleri.com
 promosyondurumu.com
 promosyonduyurulari.com
@@ -311024,6 +311035,7 @@ qgzd.duckdns.org
 qgzwijob.com
 qh-pttgov.top
 qh2020.org
+qh26mzkuv.storage.googleapis.com
 qh3iq8.duckdns.org
 qh3vrnqu.duckdns.org
 qh7n0cg.duckdns.org
@@ -333859,6 +333871,7 @@ sendeburadagrantiniall.net
 sendeburadakal.net
 sendeburadakalbenimle.net
 sendeburadanfaydalan.cfd
+sendeburadanhizlicabul.com
 sendebuyur.great-site.net
 sendebzdnsnhaydnereyekadr.online
 sendecekilisekatil.tech
@@ -341964,6 +341977,7 @@ sizidegorecekmiyiz.net
 sizin-firsatlariniz-yeni-yagmuru.com
 sizin-icin-en-guzel-hayat-bu.com
 sizin-icin-hayaller-umutla-baslar.com
+sizin-icin-son-gunler.sbs
 sizin-icinfirsatkampanyasiburda.com
 sizin-icinkmpnyaburada.com
 sizin-kalbinize-giden-yolu-iyi-biliyoruz.xyz
@@ -348544,6 +348558,7 @@ spnsorlukampanya.com
 spnsorlukampanyalarim.com
 spnsorlypdayypi.com
 spnsr-prmsylnlu.frii.site
+spnsr101kslt.mooo.com
 spnsrajansreklamgr.xyz
 spnsrajansreklamgr4.xyz
 spnsrajansreklamqnq.xyz
@@ -366218,7 +366233,9 @@ tokesozf.com
 toketurkiye.xyz
 tokgebyron.duckdns.org
 tokgirisislemleredevlet.sbs
+tokgirislerimgovtr.cyou
 tokgirislerimizgovtr.cyou
+tokgirislerimizgovtr.sbs
 tokgovtrkurumsal.sbs
 toki-2025.com
 toki-500bin.digital
@@ -392824,6 +392841,7 @@ vivucreywi.duckdns.org
 vivvvonlineislemenugiris.com
 viwe4x21.duckdns.org
 vixmars.com
+vixolita.sbs
 vixonar.com
 vixx4dwv.duckdns.org
 viyhxb.cn
@@ -418909,6 +418927,7 @@ yapirkredi.com
 yapirlkredi.com
 yapisalbildirim.com
 yapisalkonutlar.click
+yapisalkonutlar.lol
 yapisekreditime.duckdns.org
 yapisendebe.com
 yapisesinidinle.com
@@ -419713,6 +419732,7 @@ yatirim-garanti.net
 yatirim-garanti.site
 yatirim-garantibbva.site
 yatirim-garantiden.site
+yatirim-guncel-bilgiler.info
 yatirim-kredi.com.tr
 yatirim-kubbe.online
 yatirim-kulubu.online
