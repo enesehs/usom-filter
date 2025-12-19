@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 21:08:38 UTC
-# Toplam: 431749 Domain
+# Son Güncelleme: 2025-12-19 22:09:57 UTC
+# Toplam: 431757 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -746,6 +746,7 @@
 087unpo7.duckdns.org
 08823200880.duckdns.org
 0888213215220.duckdns.org
+088821540088825.duckdns.org
 08913bhi0.duckdns.org
 08952321800560725.online
 08952321800560725.xyz
@@ -90181,6 +90182,7 @@ carefoursamarket.online
 carefoursanavantaj.com
 carefoursda-guzellklerr.com
 carefoursdaa-bunlarvarr.com
+carefouryudumyag.cfd
 carefrdn-geldklrnz.com
 carefrsndn-glirsmdi.shop
 carefuldemographic.top
@@ -189016,6 +189018,7 @@ hemenbasvureventkampanyasina.net
 hemenbasvurfirsatiyakala.cloud
 hemenbasvurgelsin.github.io
 hemenbasvurhediyenikap.tech
+hemenbasvurhizlisonuc.xyz
 hemenbasvurislem.xyz
 hemenbasvurkatilsende.tech
 hemenbasvurkmpanyasibizden.tech
@@ -212768,6 +212771,7 @@ interbank-ingresa.web.app
 interbank-online.com
 interbank-personas.web.app
 interbank-peru.web.app
+interbankgaranti.com
 interbnalk.buzz
 interbrat.icu
 intercambio906.cc
@@ -268229,6 +268233,7 @@ muhasebemizitutacakyokmu.cfd
 muhasebemizitutacakyokmu2.cfd
 muhasebemizitutacakyokmu3.cfd
 muhbethakandayi.com
+muhbetsecva.sbs
 muhbirahmet.com
 muhbirayse.com
 muhbircevatadami.com
@@ -344772,6 +344777,7 @@ sokindirimler.shop
 sokindirimler.typhonreklam.workers.dev
 sokindirimlercepte.com
 sokindirimlercepte.online
+sokindirimlerimvar.me
 sokindirimlermarkette.com
 sokindirimsokcepte.site
 sokingscrosshotel.com
@@ -366255,6 +366261,7 @@ toketurkiye.xyz
 tokgebyron.duckdns.org
 tokgirisislemleredevlet.sbs
 tokgirislerimgovtr.cyou
+tokgirislerimgovtr.sbs
 tokgirislerimizgovtr.cyou
 tokgirislerimizgovtr.sbs
 tokgovtrkurumsal.sbs
@@ -395361,6 +395368,7 @@ vzwbutekpt.duckdns.org
 vzwcorp.co
 vzwrtjn.duckdns.org
 vzwxdjxa.click
+vzxbvxzkx-safkpopppqw.run
 vzxmywbfob.duckdns.org
 vzxtopi.xyz
 vzxv.me

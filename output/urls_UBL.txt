@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-19 21:08:38 UTC
-! Total: 344555 rules
+! Last modified: 2025-12-19 22:09:57 UTC
+! Total: 344562 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -69329,6 +69329,7 @@
 *://*.carefoursanavantaj.com/*
 *://*.carefoursda-guzellklerr.com/*
 *://*.carefoursdaa-bunlarvarr.com/*
+*://*.carefouryudumyag.cfd/*
 *://*.carefrdn-geldklrnz.com/*
 *://*.carefrsndn-glirsmdi.shop/*
 *://*.carefuldemographic.top/*
@@ -151937,6 +151938,7 @@
 *://*.hemenbasvureventkampanyasina.net/*
 *://*.hemenbasvurfirsatiyakala.cloud/*
 *://*.hemenbasvurhediyenikap.tech/*
+*://*.hemenbasvurhizlisonuc.xyz/*
 *://*.hemenbasvurislem.xyz/*
 *://*.hemenbasvurkatilsende.tech/*
 *://*.hemenbasvurkmpanyasibizden.tech/*
@@ -172077,6 +172079,7 @@
 *://*.interaxktifgibcgov.lat/*
 *://*.interaxktifmblgibtrv.lol/*
 *://*.interbank-online.com/*
+*://*.interbankgaranti.com/*
 *://*.interbnalk.buzz/*
 *://*.interbrat.icu/*
 *://*.intercambio906.cc/*
@@ -216067,6 +216070,7 @@
 *://*.muhasebemizitutacakyokmu2.cfd/*
 *://*.muhasebemizitutacakyokmu3.cfd/*
 *://*.muhbethakandayi.com/*
+*://*.muhbetsecva.sbs/*
 *://*.muhbirahmet.com/*
 *://*.muhbirayse.com/*
 *://*.muhbircevatadami.com/*
@@ -275088,6 +275092,7 @@
 *://*.sokindirimler.shop/*
 *://*.sokindirimlercepte.com/*
 *://*.sokindirimlercepte.online/*
+*://*.sokindirimlerimvar.me/*
 *://*.sokindirimlermarkette.com/*
 *://*.sokindirimsokcepte.site/*
 *://*.sokingscrosshotel.com/*
@@ -292821,6 +292826,7 @@
 *://*.toketurkiye.xyz/*
 *://*.tokgirisislemleredevlet.sbs/*
 *://*.tokgirislerimgovtr.cyou/*
+*://*.tokgirislerimgovtr.sbs/*
 *://*.tokgirislerimizgovtr.cyou/*
 *://*.tokgirislerimizgovtr.sbs/*
 *://*.tokgovtrkurumsal.sbs/*
@@ -316426,6 +316432,7 @@
 *://*.vzvzvs.click/*
 *://*.vzwcorp.co/*
 *://*.vzwxdjxa.click/*
+*://*.vzxbvxzkx-safkpopppqw.run/*
 *://*.vzxtopi.xyz/*
 *://*.vzxv.me/*
 *://*.vzzota.top/*
