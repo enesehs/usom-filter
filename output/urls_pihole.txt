@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-19 07:13:09 UTC
-# Toplam: 431637 Domain
+# Son Güncelleme: 2025-12-19 08:14:21 UTC
+# Toplam: 431647 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11325,6 +11325,7 @@
 323366464646.cfd
 3233ulkft.duckdns.org
 323423633.com
+323478123ac.online
 323536.site
 3235432232.cloud
 323543543534.shop
@@ -63912,6 +63913,7 @@ benyaparsamolur.cfd
 benyararlandimsenkapmyanya.com.tr
 benyararlandimsenkapmyanya.xyz
 benyemekyememihtiyar2.com
+benyhaber.sbs
 benyikilmam.cfd
 benyokumee.xyz
 benyoruldumhayat.org
@@ -290315,6 +290317,7 @@ ozkanegitimkulturvakfi.com
 ozkaya.site
 ozkaya.store
 ozkayacolak.cfd
+ozkayhaberler.sbs
 ozkgptyhi.com
 ozkurtlerholding.net
 ozl-flrstlr-lrrkm.com
@@ -323515,6 +323518,7 @@ sadceyeonlinefrsatlariyla.duckdns.org
 sadceyolnyeozalrfrrstlar.blogdns.org
 sadceyonlnyeozlfrsatlar.blogsite.org
 sadceyonlyeozalfrrstlar.blogdns.org
+sadcfrstlndrm.xyz
 sadchaira.top
 sadckampsd.duckdns.org
 sadcnonlinkmo.duckdns.org
@@ -323809,6 +323813,7 @@ sadesconsficsrisatlartrrrcvtrtrtrtc.blogspot.com
 sadesconsficsrisatlartrrtrvcr.blogspot.com
 sadesconsficsrisatlartrrtrvcrtr.blogspot.com
 sadesconsficsrisatlartrrtrvcrtrcs.blogspot.com
+sadesconsficsrisatrdsdcvytrv.blogspot.com
 sadesconsfirsatlstrs.blogdns.com
 sadesconsfirsdsrtrsas.blogdns.com
 sadesconsfirsdtrasdftr.blogdns.com
@@ -323830,6 +323835,7 @@ sadescosnfsidrrsatlartr.blogdns.com
 sadescosnfsidstlartr.blogdns.com
 sadescsonlirfisrtalarttrvtrt.blogspot.com
 sadescsonlirfisrtalarttrvtrtcctrt.blogspot.com
+sadesocnscsfirsatcvst.blogdns.com
 sadesocsnfsirsatlartrvc.blogdns.com
 sadevert.today
 sadevert.top
@@ -323912,6 +323918,7 @@ sadscpmlinefirsatlasdtr.blogdns.org
 sadscpmlinefrstlasdtrtr.blogdns.org
 sadscsccofrisatlartcv.blogdns.com
 sadsdasdwasa.jumpingcrab.com
+sadsdcsortfrisatlartrc.blogspot.com
 sadsdsadasdsadbbbbmmmccclll444.org
 sadsfassd1.duckdns.org
 sadshort.site
@@ -344628,6 +344635,7 @@ sokflrsatkampanyaramazan.store
 sokflrsatsokgunlerindirsinflrsat.store
 sokflsamc.s0k.workers.dev
 sokfsatlarkacmazgelkapidan.mooo.com
+sokfsatlarkacmazgelkapiya.mooo.com
 sokfslskr.sa.com
 sokfsrlrmkmczxcy.org
 sokgcczqmk.duckdns.org
@@ -344741,6 +344749,7 @@ sokktnhlkkaa.com
 sokkunn-klimasi.com
 sokkxflrsatindirsoklardanhemekstra.store
 soklanfirsatlan1o1.xyz
+soklarageldikindirim.me
 soklasenhemen.com
 sokleacs.net
 soklesada.net
@@ -423638,6 +423647,7 @@ yinekampanya-zamanigeldi.shop
 yineliderucuzrndvu.net
 yinemalimizda-girisler.com
 yinemilmizda-girisin.com
+yinenerdesin.click
 yineodeme.cf
 yineodeme.ga
 yineodeme.gq
