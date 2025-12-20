@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-20 16:10:32 UTC
-# Toplam: 431843 Domain
+# Son Güncelleme: 2025-12-20 17:07:33 UTC
+# Toplam: 431855 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -689,6 +689,7 @@
 07727077777.duckdns.org
 07776658847777.duckdns.org
 0777741477077.duckdns.org
+0777845487845781.duckdns.org
 077p2l.duckdns.org
 078a3c8.duckdns.org
 078pmx027.duckdns.org
@@ -18884,6 +18885,7 @@
 7tn27hxrg.duckdns.org
 7tq1i9.duckdns.org
 7tramer.org
+7trbinanse.com.tr
 7tre4yy.duckdns.org
 7trmmrr.net
 7trogdor7.ddns.net
@@ -84172,6 +84174,7 @@ btk-online.com
 btk-onlineiade.com
 btk-pandemi-destegi.com
 btk32.com
+btka.com.tr
 btkappmobil.com
 btkbank.xyz
 btkbasvuru.com
@@ -94026,6 +94029,7 @@ cezaislemleri.info
 cezaislemleri.mywire.org
 cezaislemlerin.info
 cezaislemq.mywire.org
+cezakarar.net
 cezakontrol.com
 cezakontrol.org
 cezakontroluresmi.com
@@ -137532,6 +137536,7 @@ efsnecumakmpanyalari1o1.shop
 efsnefrstlarkapinda1o1.shop
 efsnekmpanyalartukenyr1o1.shop
 efsnfrstlar1o1burd.xyz
+efsnkmpnylrkpndatukenyr.xyz
 efsnssakvv.shop
 efstgrntkrdbnq.fixip.org
 efstrkkrdi0faiz.fixip.org
@@ -157548,6 +157553,7 @@ fiyatlardakisihirlikdegisimiburada.cfd
 fiyatlarindipgorupgerigeldigisistem.cfd
 fiyatlariniduyuncainanamayacaksiniz.cfd
 fiyatlarinyalaninisoylemedigitekadres.cfd
+fiyatliurunler.sbs
 fiyatsokunuyasayacaginizalisveris.cfd
 fiyaxper.com
 fiyfecphfygvexq.su
@@ -164365,6 +164371,7 @@ garantidenkredi.cloud
 garantidenkredibasvurusu.duckdns.org
 garantidenkredin.b-cdn.net
 garantidensizebonuz.tk
+garantident.b-cdn.net
 garantidepromobasvurularimizvar.duckdns.org
 garantidepromosyonaslatukenmezz.com
 garantidersimlialiishere.com
@@ -235046,6 +235053,7 @@ kelimtrack0912.site
 kelinac.com
 kellenleote.com
 kellerwarzone.ddns.net
+kellvoro.one
 kellykerr547.xyz
 kellykusiaklaw.net
 kellyvpn.xyz
@@ -323067,6 +323075,7 @@ s0i2e6ixq65vkdodudq.ddns.net
 s0ihupc87ly0a6o.ddns.net
 s0iqqq9k0.duckdns.org
 s0j9njs6.duckdns.org
+s0k.com.tr
 s0k.sxngun-indirxmleri.top
 s0k.workers.dev
 s0kagustosyakal.com
@@ -360060,6 +360069,7 @@ teasecordial.top
 teaseenvoy.top
 teaser.co.com
 teasm-sefvewievecejtion.com
+teaspiritnet.com
 teatr-chekhova.ru
 teatr-ermolovoy.ru
 teatr-fomenki.ru
@@ -376072,6 +376082,7 @@ turk3i.ddns.net
 turkaidat.com
 turkaidatgovturkiye.tk
 turkaidatiiadean.hopto.org
+turkailesi.online
 turkair.cfd
 turkairline.azurewebsites.net
 turkairs.buzz
@@ -384030,6 +384041,7 @@ ustamcandir.xyz
 ustamdijital.xyz
 ustamustamustam.xyz
 ustarar.com
+ustaseti.com
 ustasporsalonu.com
 ustate769.ddns.net
 ustaxnumber.com
