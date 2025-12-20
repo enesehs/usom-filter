@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-20 17:07:33 UTC
-! Total: 344647 rules
+! Last modified: 2025-12-20 18:12:08 UTC
+! Total: 344652 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7122,6 +7122,7 @@
 *://*.2704523532532.xyz/*
 *://*.270486327.cloud/*
 *://*.270bimcell4444kamoanya.org/*
+*://*.2711560276.cloud/*
 *://*.2715465165165.cloud/*
 *://*.271703744.cloud/*
 *://*.2718926529.cloud/*
@@ -64962,6 +64963,7 @@
 *://*.buguneozelfirsatlar.tech/*
 *://*.buguneozelfirsatlarburada.tech/*
 *://*.buguneozelfirsattlarikacirmaa.com/*
+*://*.buguneozelfiyat.cfd/*
 *://*.buguneozelgunler.com/*
 *://*.buguneozelhediyebasvurusu.com/*
 *://*.buguneozelhediyekampanyabasvuru.online/*
@@ -102436,6 +102438,7 @@
 *://*.e-kun-gir.cfd/*
 *://*.e-kurumhizmettalepler.org/*
 *://*.e-kurumsal-aidat-iadesi.com/*
+*://*.e-kurumsal.sbs/*
 *://*.e-kurumsalaktarim.com/*
 *://*.e-kurumsalgiriswebetalebi.com/*
 *://*.e-kurumsalgiriswebtalebi.com/*
@@ -141105,6 +141108,7 @@
 *://*.gunclfixrsatlar.click/*
 *://*.gunclislmlr.app/*
 *://*.gunclnufus.net/*
+*://*.guncrfirsatlari.cfd/*
 *://*.gunde-endolufrst.online/*
 *://*.gunde-nakt.net.tr/*
 *://*.gundelik.icu/*
@@ -183850,6 +183854,7 @@
 *://*.k414e.ru/*
 *://*.k4214921421.shop/*
 *://*.k43gk3k4gk34.xyz/*
+*://*.k4ashdashdhashdahshdashd.site/*
 *://*.k4d1r.xyz/*
 *://*.k4d3r.xyz/*
 *://*.k4dar.xyz/*

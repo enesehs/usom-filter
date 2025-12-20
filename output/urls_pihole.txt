@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-20 17:07:33 UTC
-# Toplam: 431855 Domain
+# Son Güncelleme: 2025-12-20 18:12:08 UTC
+# Toplam: 431862 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9827,6 +9827,7 @@
 2704523532532.xyz
 270486327.cloud
 270bimcell4444kamoanya.org
+2711560276.cloud
 2715465165165.cloud
 271703744.cloud
 2718926529.cloud
@@ -85021,6 +85022,7 @@ buguneozelfirsatindirimler.online
 buguneozelfirsatlar.tech
 buguneozelfirsatlarburada.tech
 buguneozelfirsattlarikacirmaa.com
+buguneozelfiyat.cfd
 buguneozelflrsatlarimizikacirma.duckdns.org
 buguneozelgunler.com
 buguneozelhediyebasvurusu.com
@@ -130404,6 +130406,7 @@ e-kullanici.com.de
 e-kun-gir.cfd
 e-kurumhizmettalepler.org
 e-kurumsal-aidat-iadesi.com
+e-kurumsal.sbs
 e-kurumsalaktarim.com
 e-kurumsalgiriswebetalebi.com
 e-kurumsalgiriswebtalebi.com
@@ -176660,6 +176663,7 @@ gunclerzwebinverg.net
 gunclfixrsatlar.click
 gunclislmlr.app
 gunclnufus.net
+guncrfirsatlari.cfd
 guncright.is-best.net
 gunde-endolufrst.online
 gunde-nakt.net.tr
@@ -227306,6 +227310,7 @@ k43gk3k4gk34.xyz
 k44sp5efyiar7fm4.onion.link
 k499w5wk.duckdns.org
 k49tzxk.duckdns.org
+k4ashdashdhashdahshdashd.site
 k4d1r.xyz
 k4d3r.xyz
 k4dar.xyz
@@ -231074,6 +231079,7 @@ kandamm.no-ip.biz
 kandanakananay.life
 kanderasd2.top
 kandir.app
+kandiraliferdi.gleeze.com
 kandovani.org
 kandypens.net
 kane247.zapto.org
@@ -330239,6 +330245,7 @@ sayfa-girisleri-basvuru-olustur-yeni-giris.xyz
 sayfa-giriswebtrplatform-irtibat.com
 sayfa-hemen-landtrweb-in.sa.com
 sayfa-ilan.com
+sayfa-in-tr-g.my-homeip.com
 sayfa-intranet-webtry-in.za.com
 sayfa-ist.blogspot.com
 sayfa-kamp-in.sa.com
