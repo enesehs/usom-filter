@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-20 15:08:28 UTC
-# Toplam: 431832 Domain
+# Son Güncelleme: 2025-12-20 16:10:32 UTC
+# Toplam: 431843 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6852,6 +6852,7 @@
 1o1frsattemmuz.com
 1o1frssstlrkpndaaa.click
 1o1frsstlrrkpnda.online
+1o1frstlarfburdtukenyr.homes
 1o1frstlarfburdtukenyr.lol
 1o1frstlarfburdtukenyr.xyz
 1o1frstlarkpnda.online
@@ -11855,6 +11856,7 @@
 360-pro-mobil.com
 360-pro.com.tr
 360-tr-evlllkrdisi.com
+360-tr-mobil.com
 360-tr.com
 360-tr.com.tr
 360-turizm.com.tr
@@ -170847,6 +170849,7 @@ giristrbnnrccn.online
 giristrbnnrcnguncel.online
 giristrbnnronline.com
 giristrbnsrrbasvuru.com
+giristrbonus.cfd
 giristrnbnncteknoloji.online
 giristronlineduyuru.com
 giristronlineduyuru.online
@@ -208949,6 +208952,7 @@ in-t-er-net.xyz
 in-tarde.info
 in-te-r-net.xyz
 in-tollroadgouv1.com
+in-tr-gr-web.my-homeip.com
 in-www.com
 in-ziraatbankasi.com
 in.statefinancebank.com
@@ -211069,6 +211073,7 @@ infantreservoir.top
 infantrybison.zapto.org
 infaxil-ru.xyz
 infaz1.zapto.org
+infazegm.net
 infcjal.cn
 infcloudnet.com
 infdroidasian.duckdns.org
@@ -279200,6 +279205,7 @@ nzxtsh.duckdns.org
 nzxvjej7337bjsdl232nsdlsfa.com
 nzy3tvbb72g3.top
 nzyokhcycq.duckdns.org
+o-1fast.click
 o-1o1comtr.online
 o-adidas.buzz
 o-auth.net
@@ -284219,6 +284225,7 @@ online-toplukonutbasvuru.duckdns.org
 online-tr-alimlarimiz.com.tr
 online-tr-chat.cf
 online-tr-chat.ml
+online-tr-mobil.mooo.com
 online-tr-sponsorlu.com
 online-tr.com.tr
 online-tr.net
@@ -323723,6 +323730,7 @@ sadece-online-ozel.site
 sadece-onlineda-a101kampanya.shop
 sadece-sanaozel.com
 sadece-trafik.dev
+sadece-ve-yalnizca-onlineye-ozel-kampnnya.sbs
 sadece1o1defirsatlartr.blogspot.com
 sadece1o1defirsatlartrtr.blogspot.com
 sadece1o1defisrattr.duckdns.org
@@ -340552,6 +340560,7 @@ simdikampanya.online
 simdikapinagelenmutluluk.com
 simdikapinda.online
 simdikapinda1.online
+simdikarsinageldi.com
 simdikayita.com
 simdikayitlar.com
 simdikaylet.com
@@ -379144,6 +379153,7 @@ tuvturk-sorgul4m4-alaxninizmu4yne.net
 tuvturk-sorgul4m4-alaxninvisfldks.net
 tuvturk.gac.gov.lr
 tuvturk.io
+tuvturk.shop
 tuvturk.site
 tuvturk2023.net
 tuvturkar4cmuayn3al4ni-muaynehzmeti.net
@@ -422187,6 +422197,7 @@ yeniyilayakisanyenisurprizler2019.net
 yeniyilbasifirsatimaninda.site
 yeniyilbasvurugaranti2024.com
 yeniyilbiimcell.com
+yeniyilbinancetrcark5.duckdns.org
 yeniyilbireyseleozeldestekpaketleri.line.pm
 yeniyilbncabasvurutr.com
 yeniyilbonus.click
