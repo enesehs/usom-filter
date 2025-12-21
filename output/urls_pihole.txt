@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-21 22:08:55 UTC
-# Toplam: 431930 Domain
+# Son Güncelleme: 2025-12-21 23:09:16 UTC
+# Toplam: 431939 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -44121,6 +44121,7 @@ ananium.blogspot.com
 ananium11.dns.army
 ananium14.dns.army
 ananium2.blogspot.com
+ananium32.blogspot.com
 ananium4.blogspot.com
 ananium5.dns.army
 ananium9.dns.army
@@ -65190,6 +65191,7 @@ bichnba.zapto.org
 bicix63w1.duckdns.org
 bickemcelmevceell.com
 bickjowt.com
+bicksabmos.com
 biclkvmclell.com
 biclmcell.com
 biclmcll.com
@@ -202445,6 +202447,7 @@ hzlrandvnnunall.net
 hzlrandvnual.net
 hzlsgevc.net
 hzlsigortamburdaatr.com.tr
+hzlslmernzicinhizli.duckdns.org
 hzlsrglaklm.com
 hzlsrgulamalxsr.com
 hzlssmmw.click
@@ -221629,6 +221632,7 @@ izlerkalirizlerkalirsinn.blogspot.com
 izlerkalirizlerkalirsinxd.blogspot.com
 izleseneq.com
 izletakipdenetimak.com
+izletas03.dns.army
 izlfirsatii.duckdns.org
 izlfzl.top
 izlhmm.duckdns.org
@@ -238711,6 +238715,7 @@ kmkkssogrulamagovpttt.com
 kmkllsrglumagovpttyap.duckdns.org
 kmkmkksorgulamagovpttyrn.duckdns.org
 kmkmsorgulahemen-gov-tr.duckdns.org
+kmkmsorgulamayapmetinlo.web.app
 kmkmsorguskyokyaw.duckdns.org
 kmkmsrogruszpttgovavm.com
 kmkskkrlsorgularimbrda.web.app
@@ -281667,6 +281672,7 @@ okbsok7788.coinbase-com.info
 okcigsmega.com
 okd1m9.duckdns.org
 okduskdlcmodem.site
+okduskdlcmodem.space
 okeachievesmokes.com
 oker1.com
 okey.haoldd.com
@@ -350807,6 +350813,7 @@ stanleyparlar.com
 stanleyprformnce.xyz
 stanleyrebirth.xyz
 stanleyreboost.xyz
+stanleyrebooted.xyz
 stanleyreborn.xyz
 stanleyreenters.xyz
 stanleyreignite.xyz
@@ -367771,6 +367778,7 @@ toplukonut.homes
 toplukonut.it.com
 toplukonut.site
 toplukonut.vercel.app
+toplukonut2d1214cc.com
 toplukonut2d1214dd.com
 toplukonut2d1214ee.com
 toplukonut2d1214kk.com
@@ -430858,6 +430866,7 @@ zonecrack.zapto.org
 zonedx.ddns.net
 zoneform312.com
 zoneform832.com
+zonegunler.info
 zonellar.xyz
 zonemaster.ddns.net
 zonemulti.com.tr
