@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-21 09:09:27 UTC
-! Total: 344663 rules
+! Last modified: 2025-12-21 10:09:31 UTC
+! Total: 344673 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40898,6 +40898,7 @@
 *://*.bascataraldumm.com/*
 *://*.bascataraldumma.com/*
 *://*.bascataralxydmm.com/*
+*://*.basccvur.sbs/*
 *://*.bascology.com/*
 *://*.bascurunisan.click/*
 *://*.bascvvauraidt.website/*
@@ -138295,6 +138296,7 @@
 *://*.goutmed-hq.com/*
 *://*.gov-addpayment.info/*
 *://*.gov-af.org/*
+*://*.gov-atr.top/*
 *://*.gov-bankaiade.com/*
 *://*.gov-belge-onay-sira.site/*
 *://*.gov-belge-onay-sirasi.site/*
@@ -187205,6 +187207,7 @@
 *://*.kampynyagunleri.shop/*
 *://*.kampynyagunleri.xyz/*
 *://*.kamrogslzf.com/*
+*://*.kamsorglmuz.com/*
 *://*.kamu-hizmeti-aidat-iadeleri-cimer.com/*
 *://*.kamu-hizmetleri-cimer.com/*
 *://*.kamu.biz/*
@@ -191470,6 +191473,7 @@
 *://*.kgm-gov-tr.top/*
 *://*.kgm-gov-tr.vip/*
 *://*.kgm-gov-tu.me/*
+*://*.kgm-gov.bar/*
 *://*.kgm-gov.blog/*
 *://*.kgm-gov.cloud/*
 *://*.kgm-gov.club/*
@@ -191585,6 +191589,7 @@
 *://*.kgmgeciswebihlalodemerl.com/*
 *://*.kgmgecswebodmsi.com/*
 *://*.kgmgeo.cfd/*
+*://*.kgmggov-tr.ink/*
 *://*.kgmggovtr.top/*
 *://*.kgmgio.icu/*
 *://*.kgmglo.life/*
@@ -192950,6 +192955,7 @@
 *://*.kkgeliyorkkdom.com/*
 *://*.kkgeliyoryoldaaa.com/*
 *://*.kkgktkm.net/*
+*://*.kkgm-gov.cyou/*
 *://*.kkgmail.com/*
 *://*.kkh56fuav.ru/*
 *://*.kkhandedomain.com/*
@@ -246284,6 +246290,7 @@
 *://*.pt-goovtr.top/*
 *://*.pt-gots.rest/*
 *://*.pt-gov-tr.net/*
+*://*.pt-gov.cyou/*
 *://*.pt-gov.icu/*
 *://*.pt-gpst.top/*
 *://*.pt-sistemaseguro.com/*
@@ -246964,6 +246971,7 @@
 *://*.ptt-gove.lol/*
 *://*.ptt-gove.site/*
 *://*.ptt-goverment.top/*
+*://*.ptt-govertr.cc/*
 *://*.ptt-govgc.cc/*
 *://*.ptt-govi-tr.vip/*
 *://*.ptt-govi.bond/*
@@ -246985,6 +246993,7 @@
 *://*.ptt-govo.club/*
 *://*.ptt-govo.icu/*
 *://*.ptt-govo.rest/*
+*://*.ptt-govpe.cc/*
 *://*.ptt-govpost-tr.cc/*
 *://*.ptt-govpost-tr.top/*
 *://*.ptt-govpost-tr.xyz/*
@@ -279511,6 +279520,7 @@
 *://*.ss-wwrsf.sbs/*
 *://*.ss.la/*
 *://*.ss0kkfrsattlarylllbasi.org/*
+*://*.ss0kkfrsatttlaranlik.org/*
 *://*.ss44--4444-1.cloud/*
 *://*.ss5828282323ss.cloud/*
 *://*.ss9hykk.cn/*
