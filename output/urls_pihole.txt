@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 14:11:04 UTC
-# Toplam: 432010 Domain
+# Son Güncelleme: 2025-12-22 15:10:21 UTC
+# Toplam: 432019 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -90611,6 +90611,7 @@ carrefoursatr.b-cdn.net
 carrefoursaturkiye.online
 carrefoursayazfirsati.it.com
 carrefoursayazfirsatlari.online
+carrefoursiax.14bdccd.xyz
 carrefoursiteonlinee.com
 carrefourssa.com
 carrefourssa.online
@@ -241777,6 +241778,7 @@ krediimm.com
 krediimx-basvxrum.nl
 krediislemleri.org
 kredikampanya.sbs
+kredikampanyadan.sbs
 kredikampanyasi.online
 kredikampanyasi.sbs
 kredikapisi.com.tr
@@ -247195,6 +247197,7 @@ light-boy.top
 light-client.com.tr
 light-xyz.top
 lightblue-magpie-685371.hostingersite.com
+lightchord.sbs
 lightcoral-sparrow-771833.hostingersite.com
 lightcoral-swan-897868.hostingersite.com
 lightcyan-locust-200536.hostingersite.com
@@ -259061,6 +259064,7 @@ metabussinesportal.xyz
 metacachecdn.com
 metacafe.live
 metacard.com.tr
+metaclicktr.cfd
 metacloudsupportchannel.tk
 metaconfirm.com.tr
 metacopyright-com.cf
@@ -281453,6 +281457,7 @@ ogsramazanhgs.com
 ogubimcell.com
 ogugkp8o.duckdns.org
 ogulkokaanmenzilee.cyou
+ogunbuguncrfgunundeyiz.cfd
 ogunbugundur.xyz
 oguzalperoktem.cfd
 oguzkaanerdogdu.com.tr
@@ -320942,6 +320947,7 @@ robloxfanscripts.ddns.net
 robloxoyuncu.gq
 robloxrat.zapto.org
 robloxsorgu.sitesi.tc
+robloxtycoonnasiloynanir.blogspot.com
 robloxuacin.babalarsahadadmslyrs.net
 robo-claim.site
 robo-erectus.org
@@ -321044,6 +321050,7 @@ roebaba6.duckdns.org
 roebaba8.duckdns.org
 roebabaoyunda.click
 roebabareklamda.efeoyundaefefefe.click
+roecan.cc.dvrlists.com
 roelpaketleme.site
 roentgenization.com
 roeoyunda.rabbiyessiratasoy.net
@@ -346324,6 +346331,7 @@ songunlerharikakampanya.com.tr
 songunlerharikakampanya.online
 songunleri.xyz
 songunlerikacirma2025.autos
+songunlerikacirma2025.homes
 songunlerikacirma2025.xyz
 songunlerikacirmadansatinalmalisiniz.online
 songunlerikacirmadansatinalmalisiniz.xyz
@@ -356428,6 +356436,7 @@ szd4hw4xdaj.com
 szdaxf.com
 szdebmcllllllllloln.blogspot.com
 szdebzlerleanindabsvrnz.com.tr
+szdegellllnvekkmmpanyadanfffayddaalaan.mooo.com
 szdekuv-bzytn.online
 szdendrlmrdnyrrldns.shop
 szdeniz-bzdenz.online
