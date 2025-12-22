@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 20:10:45 UTC
-# Toplam: 432136 Domain
+# Son Güncelleme: 2025-12-22 21:08:18 UTC
+# Toplam: 432145 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -84926,6 +84926,7 @@ bugecebiryildiz1.shop
 bugecekifirsatlarikacirma.duckdns.org
 bugecekiminevindesin.click
 bugecepartideyalnizsin.online
+bugecesabahyok.click
 bugecicikampnyafirsatisizeozel.space
 bugevacuate.top
 buggattinio.xyz
@@ -90531,6 +90532,7 @@ carreflrsams.sbs
 carreflrsams02.wuaze.com
 carrefoarsa.com
 carrefocrsa.store
+carrefoirsa.14bdccd.xyz
 carreforsa.online
 carreforsa.shop
 carreforsadan-gelenlr.space
@@ -96910,6 +96912,7 @@ cjzsuk.com
 ck10.duckdns.org
 ck5y9t.duckdns.org
 ck691nw7z.duckdns.org
+ck69a0kmpnya.store
 ck8ursfi.duckdns.org
 ck9j7xrh.duckdns.org
 ckaambwsv.com
@@ -235238,6 +235241,7 @@ kendijuzdanimbuldum.com
 kendim-icin-bv-tr-in.za.com
 kendim-icin-dijital.net
 kendim-icin-dijital.org
+kendim-icin-g.my-homeip.com
 kendim-icin-internet.sa.com
 kendim-icin-sayfalartr-in.sa.com
 kendime-ozel-sunucu-kulanimi.ml
@@ -277431,6 +277435,7 @@ numericalscorn.top
 numericalsolitary.top
 numericalsubmerge.top
 numesbering.com
+numfiervd.sbs
 numiclanesa.zapto.org
 numkisad.com
 numm.ddns.me
@@ -307186,6 +307191,7 @@ ptt.kxwl.qpon
 ptt.mobilservisi-1.com
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
+ptt.pay-spo-us.cfd
 ptt.postahanedir.com
 ptt.pttankarasubesi.com
 ptt.qzpe.top
@@ -367958,6 +367964,8 @@ toplukonut400.com
 toplukonut400.sbs
 toplukonut4ghc1yk.com
 toplukonut500bin.com
+toplukonut5amd8tp.com
+toplukonut9cgn2kc.com
 toplukonutaonline.com
 toplukonutapp.com
 toplukonutbasvafntw.vercel.app
@@ -429899,6 +429907,7 @@ ziraatgirisler.com
 ziraatgirisyap.vercel.app
 ziraatgold.com
 ziraatgroup.online
+ziraatgun.cfd
 ziraatguncel.vercel.app
 ziraatguncelhizmet.com
 ziraatgununle.com.tr
