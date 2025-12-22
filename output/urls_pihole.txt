@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 04:37:40 UTC
-# Toplam: 431944 Domain
+# Son Güncelleme: 2025-12-22 06:22:51 UTC
+# Toplam: 431954 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -151603,6 +151603,7 @@ farhgsbi.is-best.net
 farhgsks.is-best.net
 farhgss.com
 faries-studios.com
+farih.click
 farindor.com
 farkcar.com.tr
 farketmeden-biraz-iyi-hissedecekseniz-hemen-yakinlasin.com
@@ -174190,6 +174191,7 @@ gratifully.com
 gratis-b.dynuddns.com
 gratis-c.ddnsguru.com
 gratis-c.swanndvr.net
+gratis-discount.shop
 gratis-i.from-ar.com
 gratis-ile-indirimler.online
 gratis-indirim-gunleri.com.tr
@@ -221503,6 +221505,7 @@ izdzdzimrgl.net
 izehbruc.com
 izelgisizmir.net
 izell.org
+izelosttas342.blogspot.com
 izeltas.dns.army
 izeltas101first47x.duckdns.org
 izeltas101first4x.duckdns.org
@@ -271441,6 +271444,7 @@ nasildageciyorgunler.net
 nasildageciyorgunler.org
 nasilgeldi.net
 nasilimjilet.com
+nasilkiydin.click
 nasilolacaksimdiya.net
 nasilolcakbuisler55.com
 nasiloldidabuboyleoldi.cfd
@@ -297944,6 +297948,7 @@ pazartesioglen4-63.com
 pazartesioglen67.com
 pazartesionlineozel.com
 pazartesiozelsiparis.com
+pazartesisaba.dns.army
 pazartesisabah-a.com
 pazartesisabah-f.com
 pazartesisabah63.com
@@ -310457,6 +310462,7 @@ pz6ec1.duckdns.org
 pz7ohy.nt44n5.top
 pz9n6br.duckdns.org
 pzarkampanyalarim.net
+pzartesiizettlas.dns.army
 pzbx.xyz
 pzdyndavkawi.duckdns.org
 pzerd.in
@@ -310516,6 +310522,7 @@ pzrt1rmstnly0tncrck1rcgsl.com
 pzrt1rmstnly0tncrckrcg1sn.com
 pzrtarih.app
 pzrtesicnslc.com
+pzrtesiizetttlsas.dns.army
 pzrtfrstlrdndbykgldk.shop
 pzrtrms1tnly0tncrc1krcgsn.com
 pzrtsahzvasdasf.net
@@ -331076,6 +331083,7 @@ sdceonlsfrsatlarda.blogdns.com
 sdcexonlneozlkapindax.online
 sdcexonlnexozelxekstra.online
 sdceyeonlnalarozelfrst.blogdns.org
+sdcfrstlrlnrlmlrsddc.xyz
 sdcnefsalmamgrkl.com
 sdconlnkmp.duckdns.org
 sdconlyanas.blogdns.org
@@ -365360,6 +365368,7 @@ tkttktktkts.site
 tkturkiye.com
 tkulbntr.online
 tkurqpc.com
+tkv8ufgbuu.storage.googleapis.com
 tkvacay.com
 tkvanprly.com
 tkwesl8y.duckdns.org
@@ -367124,6 +367133,7 @@ tokikotbasvurus-kayityap.vercel.app
 tokikourus-kayityap.vercel.app
 tokikura.com
 tokikura.shop
+tokikurasonuc.org
 tokikurulus.fun
 tokikurumsalgovtrsite.digital
 tokiler-basladilar.sbs
