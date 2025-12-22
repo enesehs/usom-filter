@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-22 18:14:29 UTC
-! Total: 344790 rules
+! Last modified: 2025-12-22 19:09:03 UTC
+! Total: 344831 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11142,6 +11142,7 @@
 *://*.7124975125.com/*
 *://*.712734218431278217412.cloud/*
 *://*.712842568.site/*
+*://*.713mtauburnctcolumbusoh43085.st/*
 *://*.7152231321.cloud/*
 *://*.716295.xyz/*
 *://*.7171712222655cloud.com/*
@@ -72802,6 +72803,7 @@
 *://*.ch2asdasd-1453.live/*
 *://*.ch4pr6.gdn/*
 *://*.chachaaiaiai.sbs/*
+*://*.chachasli.de/*
 *://*.chacmaewnz.space/*
 *://*.chad-jessie.info/*
 *://*.chadidding.top/*
@@ -92596,6 +92598,7 @@
 *://*.digitaltalent.review/*
 *://*.digitalteknik.com.tr/*
 *://*.digitaltmmzaltayerttdksndkz.online/*
+*://*.digitaltokiyleyasam.digital/*
 *://*.digitaltrdnzgiris.ga/*
 *://*.digitalturked.com/*
 *://*.digitalturker.com/*
@@ -104202,6 +104205,7 @@
 *://*.easylexz4.app/*
 *://*.easylexztr7.net/*
 *://*.easylxs7.app/*
+*://*.easymarketing101.com/*
 *://*.easymathpath.com/*
 *://*.easymixtr.com/*
 *://*.easynude.website/*
@@ -111629,6 +111633,7 @@
 *://*.emirate-net.me/*
 *://*.emirateoilandgascontract.com/*
 *://*.emiratesbuilders.net/*
+*://*.emiratescareers.org/*
 *://*.emiratesnbddenizbank.com/*
 *://*.emircankutlu.com/*
 *://*.emirceska.xyz/*
@@ -139731,6 +139736,7 @@
 *://*.groggypirogy.top/*
 *://*.groh-ag.com/*
 *://*.grokads.com/*
+*://*.groksearch.net/*
 *://*.grol.ru/*
 *://*.gronaix.online/*
 *://*.grongicibo.xyz/*
@@ -169013,6 +169019,7 @@
 *://*.indiadcdapost.com/*
 *://*.indiadcdavpost.com/*
 *://*.indiadellservice.com/*
+*://*.indiahackgod.su/*
 *://*.indiamate.tech/*
 *://*.indiana260roadtollac.com/*
 *://*.indianahomerates.com/*
@@ -191895,6 +191902,7 @@
 *://*.kian-demo.ir/*
 *://*.kiaqqgwcek.org/*
 *://*.kiavpn.cf/*
+*://*.kibanacore.com/*
 *://*.kibank.co/*
 *://*.kibossuqar.com/*
 *://*.kibris-yurticikargo.com/*
@@ -192653,6 +192661,7 @@
 *://*.kisaltx.click/*
 *://*.kisaltyo.click/*
 *://*.kisaltyonelt.xyz/*
+*://*.kisandost.online/*
 *://*.kisaozelfinans.com/*
 *://*.kisaozelindirimler.xyz/*
 *://*.kisaparlament.net/*
@@ -214678,6 +214687,7 @@
 *://*.msn-service.co/*
 *://*.msnapp.help/*
 *://*.msnapp.live/*
+*://*.msnclouds.com/*
 *://*.msnhw.com/*
 *://*.msnrwrnnrn.in/*
 *://*.msntv.org/*
@@ -243807,6 +243817,7 @@
 *://*.pprimea101.fun/*
 *://*.pprmsynnggrnnxttiibbvvaa.com/*
 *://*.pprmsynnlarrklmlar2025.com/*
+*://*.pproxy1.fun/*
 *://*.pprv1.com/*
 *://*.ppsba.site/*
 *://*.ppsmahindra.com/*
@@ -246186,6 +246197,8 @@
 *://*.prowhite.site/*
 *://*.prowhite.xyz/*
 *://*.proxelinternational.co.za/*
+*://*.proxiessdk.online/*
+*://*.proxiessdk.store/*
 *://*.proximityshrewd.top/*
 *://*.proxio.click/*
 *://*.proxlm.xyz/*
@@ -257139,6 +257152,7 @@
 *://*.rhecakloza.xyz/*
 *://*.rheinmetallcareer.com/*
 *://*.rheinmetallcareer.org/*
+*://*.rheinmetallcareers.com/*
 *://*.rhejlq.lat/*
 *://*.rheksndqv.com/*
 *://*.rhemaworld.com/*
@@ -258461,6 +258475,27 @@
 *://*.rtmbjxqbrpkmuio.cn/*
 *://*.rtmcsync.com/*
 *://*.rtnwerwe.net/*
+*://*.rtochallan0283837.store/*
+*://*.rtochallan09363737.store/*
+*://*.rtochallan0963736.store/*
+*://*.rtochallan1023456789.store/*
+*://*.rtochallan1234567890.space/*
+*://*.rtochallan1239542138464.shop/*
+*://*.rtochallan5464643779878.online/*
+*://*.rtochallan54648481854648.shop/*
+*://*.rtochallan55354587558888.store/*
+*://*.rtochallan6272526.store/*
+*://*.rtochallan6392860193.store/*
+*://*.rtochallan7337376.online/*
+*://*.rtochallan78658857846758855.space/*
+*://*.rtochallan8081458623124.shop/*
+*://*.rtochallan8373737.store/*
+*://*.rtochallan8373763635.online/*
+*://*.rtochallan83937383839282.shop/*
+*://*.rtochallan908102.store/*
+*://*.rtochallan9087654532.store/*
+*://*.rtochallan92727263.store/*
+*://*.rtochallan9651382255.shop/*
 *://*.rtpslotbesarakurat.com/*
 *://*.rtpweorkw.com/*
 *://*.rtpzh.com/*
@@ -262644,6 +262679,7 @@
 *://*.samsung-work.com/*
 *://*.samsungagency.link/*
 *://*.samsungcareers.work/*
+*://*.samsungcdn.cloud/*
 *://*.samsungeblyaiphone.com/*
 *://*.samsunglimited.top/*
 *://*.samsungpr0mo.online/*
@@ -290641,6 +290677,7 @@
 *://*.thecampfirsatkwtyous.net/*
 *://*.thecampinghepsizburdaandthe.net/*
 *://*.thecampkwtdayscamp12.net/*
+*://*.thecareershub.org/*
 *://*.thecartel.online/*
 *://*.thecartoonclassic.org/*
 *://*.thecarwash-zone.com/*
@@ -293998,8 +294035,10 @@
 *://*.toplukonut2d1214zz.com/*
 *://*.toplukonut3dkd1bb.com/*
 *://*.toplukonut3dkd1jj.com/*
+*://*.toplukonut3dkd1ss.com/*
 *://*.toplukonut400.com/*
 *://*.toplukonut400.sbs/*
+*://*.toplukonut4ghc1yk.com/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonutaonline.com/*
 *://*.toplukonutapp.com/*
@@ -304973,6 +305012,7 @@
 *://*.uasfjgsam.click/*
 *://*.uasmsjd.cn/*
 *://*.uatimin.com/*
+*://*.uavnodes.com/*
 *://*.uawineuro2012.com/*
 *://*.uawois.com/*
 *://*.uawwq.info/*
@@ -320985,6 +321025,7 @@
 *://*.worldcardbasvuru.com/*
 *://*.worldcardcepsubem.com/*
 *://*.worldcardyapikredj.com/*
+*://*.worldcareers.org/*
 *://*.worldcekiliskatilim.com/*
 *://*.worldcep-sube.com/*
 *://*.worldcepte.com/*

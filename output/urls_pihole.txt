@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 18:14:29 UTC
-# Toplam: 432046 Domain
+# Son Güncelleme: 2025-12-22 19:09:03 UTC
+# Toplam: 432096 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45894,6 +45894,7 @@ api.flushcdn.com
 api.fuyflash.om
 api.fxsdk.com
 api.googleapps.top
+api.groksearch.net
 api.hellknight.xyz
 api.hostupoeui.com
 api.hujkr.com
@@ -118914,6 +118915,7 @@ digitalsubesjz.site
 digitaltalent.review
 digitalteknik.com.tr
 digitaltmmzaltayerttdksndkz.online
+digitaltokiyleyasam.digital
 digitaltrdnzgiris.ga
 digitalturked.com
 digitalturker.com
@@ -132520,6 +132522,7 @@ easylexztr7.net
 easylifestyle004.workers.dev
 easylxs7.app
 easyman.ddns.net
+easymarketing101.com
 easymathpath.com
 easymixtr.com
 easynation.duckdns.org
@@ -140844,6 +140847,7 @@ emirate-net.me
 emirateoilandgascontract.com
 emirates-post.ddns.net
 emiratesbuilders.net
+emiratescareers.org
 emiratescheckapi.azurewebsites.net
 emiratescheckapijson.azurewebsites.net
 emiratesnbddenizbank.com
@@ -160962,6 +160966,7 @@ fuckto242506.ddns.net
 fucktoto.duckdns.org
 fuckwaleed.zapto.org
 fuckyounigger.ddns.net
+fuckzachebt.meowmeowmeowmeowmeow.meow.indiahackgod.su
 fuclorland.digital
 fucqw.com
 fudaco.biz
@@ -166386,6 +166391,7 @@ gcgkdmndubdnk.online
 gchcboujclol.xyz
 gchdfcdad.click
 gchiefcommunicate.top
+gchq.github.io
 gciie3e.duckdns.org
 gcikgojd.duckdns.org
 gcjoccary.wcnv20.cn
@@ -236494,6 +236500,7 @@ kiantkamer-handel.duckdns.org
 kiaqqgwcek.org
 kiausas.ddns.net
 kiavpn.cf
+kibanacore.com
 kibank.co
 kibgxokqmt.duckdns.org
 kibossuqar.com
@@ -237568,6 +237575,7 @@ kisaltx.click
 kisaltyo.click
 kisaltyonelt.xyz
 kisameu.ddns.net
+kisandost.online
 kisaozelfinans.com
 kisaozelindirimler.xyz
 kisaparlament.net
@@ -249491,6 +249499,7 @@ lokvrtz.cf
 lokvrtz.ga
 lokvucdare.click
 lol-lol.zapto.org
+lol.713mtauburnctcolumbusoh43085.st
 lol.mynetav.org
 lol.tc
 lol.thezone.vip
@@ -249500,6 +249509,7 @@ lol71.ddns.net
 lol777.ddns.net
 lolalebremen.icu
 lolalvatan.com
+lolbroweborrowtvbro.713mtauburnctcolumbusoh43085.st
 loldfshsaa.site
 loldownplzhibo.hopto.org
 loleng.host
@@ -266040,6 +266050,7 @@ mpaributr.com
 mparidestekgiristr.com
 mparimbasvuru.com
 mparimdestek.com
+mparivahan1.github.io
 mparsmmbaweb.xyz
 mpatualizacao.ddns.net
 mpay-sahibinden.com
@@ -266539,6 +266550,7 @@ msn-service.ddns.net
 msn-web.zapto.org
 msnapp.help
 msnapp.live
+msnclouds.com
 msnhw.com
 msnotetask-insights.azurewebsites.net
 msnpassword.zapto.org
@@ -273756,6 +273768,7 @@ newprogrms.xyz
 newqkjsann.blogspot.com
 newqs.ddns.net
 newquickbegin.online
+newratte.linkpc.net
 newraxz.com
 newreadybegin.online
 newremc22.ddns.net
@@ -275732,6 +275745,7 @@ nnhukuk.com
 nnjuzvay3.duckdns.org
 nnkdlfkdmbsn.net
 nnkdslnmnt.net
+nnkjzfaxkjanxzk.14emeliaterracewestroxburyma02132.su
 nnknksnnesdnn.net
 nnkzodwktr.duckdns.org
 nnlcrosaftteams-download.pro
@@ -316497,6 +316511,7 @@ reallocate.cloudnestde.com.de
 reallx.pro
 reallycourtesy.top
 reallyelapse.top
+reallyneed.my-homeip.com
 realmacnow.com
 realmadrd.center
 realmadred2013.zapto.org
@@ -320014,6 +320029,7 @@ rheinmetall.gocareers.org
 rheinmetall.theworldcareers.com
 rheinmetallcareer.com
 rheinmetallcareer.org
+rheinmetallcareers.com
 rhejlq.lat
 rheksndqv.com
 rhel.opsecurity1.art
@@ -321933,6 +321949,27 @@ rtm-mtr-rmtm.store
 rtmbjxqbrpkmuio.cn
 rtmcsync.com
 rtnwerwe.net
+rtochallan0283837.store
+rtochallan09363737.store
+rtochallan0963736.store
+rtochallan1023456789.store
+rtochallan1234567890.space
+rtochallan1239542138464.shop
+rtochallan5464643779878.online
+rtochallan54648481854648.shop
+rtochallan55354587558888.store
+rtochallan6272526.store
+rtochallan6392860193.store
+rtochallan7337376.online
+rtochallan78658857846758855.space
+rtochallan8081458623124.shop
+rtochallan8373737.store
+rtochallan8373763635.online
+rtochallan83937383839282.shop
+rtochallan908102.store
+rtochallan9087654532.store
+rtochallan92727263.store
+rtochallan9651382255.shop
 rtpservice.duckdns.org
 rtpslotbesarakurat.com
 rtpweorkw.com
@@ -321941,6 +321978,7 @@ rtqcjsiogjlsvxfcg.org
 rtqmduhyz.com
 rtr-basvuru-iade-formu.com
 rtramerkayit.net
+rtrdedge1.samsungcdn.cloud
 rtrhgss.com
 rtrklwywvlofkzumej.com
 rtrmtmrm.net
@@ -324200,6 +324238,7 @@ sadsaocsnfsirsatlartrsd.blogspot.com
 sadsaocsnfsirsatlartrsdtr.blogspot.com
 sadsaocsnfsirsatlartrsdtrzcv.blogspot.com
 sadsaoscnsfirsatlarstd.blogdns.com
+sadscafrstlndrmler.mooo.com
 sadscfrsltndrmlrl.xyz
 sadscfrstlndrmlr.xyz
 sadsconmfirsatlartrc.blogdns.com
@@ -331296,6 +331335,8 @@ sdjsdjsu2uuwjwwwnsdjsjjsqwuqiajajjsjssks.duckdns.org
 sdjsofgsg.ddns.net
 sdjzdnhwadnsfrs.xyz
 sdjzdnsfrs.xyz
+sdk-dl-prod.proxiessdk.online
+sdk-dl-production.proxiessdk.store
 sdk-updata.oss-cn-beijing.aliyuncs.com
 sdk.hummercenter.com
 sdkafhasfjsajgfsgahfhsa.wiki
@@ -341182,6 +341223,7 @@ siparis-kapimdan.net.tr
 siparis-kapinizda.net.tr
 siparis-kayit.com.tr
 siparis-market-ptt-avm.online
+siparis-mobilde-online.mooo.com
 siparis-olustur-101-klima.com
 siparis-olustur-101-klima.online
 siparis-olustur-223031.com
@@ -350613,6 +350655,7 @@ staggerrenaissance.top
 staggershrubbery.top
 staging.diogoflix.com
 staging.icuskin.com
+staging.pproxy1.fun
 stagnantartery.top
 stagnatecompartment.top
 stagnateintricate.top
@@ -363687,6 +363730,7 @@ thecampfirol1basvr4.site
 thecampfirsatkwtyous.net
 thecampinghepsizburdaandthe.net
 thecampkwtdayscamp12.net
+thecareershub.org
 thecartel.online
 thecartoonclassic.org
 thecarwash-zone.com
@@ -367874,8 +367918,10 @@ toplukonut2d1214nn.com
 toplukonut2d1214zz.com
 toplukonut3dkd1bb.com
 toplukonut3dkd1jj.com
+toplukonut3dkd1ss.com
 toplukonut400.com
 toplukonut400.sbs
+toplukonut4ghc1yk.com
 toplukonut500bin.com
 toplukonutaonline.com
 toplukonutapp.com
@@ -380710,6 +380756,7 @@ uasfjgsam.click
 uasmsjd.cn
 uath--sso-itrustcapital.webflow.io
 uatimin.com
+uavnodes.com
 uawineuro2012.com
 uawois.com
 uawrokztub.duckdns.org
@@ -402120,6 +402167,7 @@ worldcardbasvuru.com
 worldcardcepsubem.com
 worldcardcom.tekcities.com
 worldcardyapikredj.com
+worldcareers.org
 worldcekiliskatilim.com
 worldcep-sube.com
 worldcepte.com
@@ -427257,6 +427305,8 @@ zacetinet.store
 zachalmad-flo.ddns.net
 zachariahalfredson.net
 zacharryblogs.com
+zachebt.chachasli.de
+zachebt.groksearch.net
 zachemescho.com
 zacka.site
 zacka.xyz
