@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 19:09:03 UTC
-# Toplam: 432096 Domain
+# Son Güncelleme: 2025-12-22 20:10:45 UTC
+# Toplam: 432136 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30547,6 +30547,8 @@ acwqucgyf.com
 acwtrp9sa.duckdns.org
 acx141.online
 acxess3.zapto.org
+acxioswan.com
+acxishare.com
 acxmfuyg.com
 acyeysp.duckdns.org
 acyoluhizli.buzz
@@ -32603,6 +32605,7 @@ agile45743.xyz
 agiledepot.com
 agiledreamers.com
 agille.work
+agimplfundmgt.z13.web.core.windows.net
 agirdan-aldik-guzel-getirdik-tamamini-gorun.com
 agirdegildastranchecklersporboxing.com
 agirecosevinsen.ddns.net
@@ -42598,6 +42601,7 @@ alphataxfiler.com
 alphatelhados.com.br
 alphawaves.org
 alphaxiom.com
+alphazero1-endscape.cc
 alphssleep.hopto.org
 alpineai.uk
 alpinreisan1.com
@@ -76302,6 +76306,7 @@ blackriverimaging.org
 blackrock-alladin.pro
 blackrock0.ddns.net
 blackrockapp.eu
+blackrockfundmgt.z13.web.core.windows.net
 blacksee.zapto.org
 blackshades.zapto.org
 blackshadesrat1.zapto.org
@@ -77230,6 +77235,7 @@ bluecompassx.com
 bluecornerblog.tk
 bluecrome.com
 bluecruza.com
+bluecubecapital.com
 bluecubecreatives.com
 bluedayemond.click
 bluedayemond.online
@@ -84615,6 +84621,7 @@ bucheignaton.top
 buchgsyolcu.is-best.net
 buchnation.com
 buckar.ddns.net
+bucket-aws-s1.com
 bucket00716.s3.ap-southeast-2.amazonaws.com
 bucket49.xyz
 bucketconcise.top
@@ -97418,6 +97425,7 @@ clienteslm.ddns.net
 clientform4323.com
 clienti-dati.com
 clienti-verifica.com
+clientlogin.blitzcapital.net
 clientpay.live
 clientportal-ics.ddns.net
 clientreportingcommunications.com
@@ -98958,6 +98966,7 @@ collab.land-wl.com
 collabapp.site
 collabland-eth.com
 collaboationorrosion.top
+collabodex.com
 collaborateshare.ddns.net
 collaboratesummon.top
 collaborateturtle.top
@@ -100537,6 +100546,7 @@ confidenceenvelop.top
 confidenceinject.top
 confident-hertz.51-116-101-12.plesk.page
 confident-payne.217-195-202-19.plesk.page
+confidentfiles.com
 confidential-privileged.com
 confidential.zapto.org
 confidentialcontrive.top
@@ -103015,6 +103025,7 @@ corpco.xyz
 corpcougar.com
 corpcougar.in
 corpfastindustries.com
+corphostedfileservices.s3.eu-north-1.amazonaws.com
 corpnox-technologie.fr
 corpoleve.duckdns.org
 corporaltrickle.top
@@ -106890,6 +106901,7 @@ cxasxsa.nichesite.org
 cxaszs.nichesite.org
 cxbdf.icu
 cxbha.icu
+cxbnqdytjgrxutmzawczv.cg
 cxbzv0e.cn
 cxcawasrewhfdsfd.hopto.org
 cxchecker.online
@@ -122085,6 +122097,7 @@ docguardmaterial.com
 dochlist.hopto.org
 docholdersolution.com
 dochroffice.ddns.net
+docifytoday.com
 docisback.ddns.net
 dock.su
 dockalarda.fun
@@ -154167,6 +154180,7 @@ filestoragehub.live
 filestudios.net
 filesview.ddns.net
 filesxsharex.ddns.net
+filetix.com
 filetosend-upload.net
 filetransfer.club
 fileview.ddns.net
@@ -171854,6 +171868,9 @@ globalsistem-hemenbasvurunuyap.com
 globalsistem-onlinebasvurunuyap.com
 globalsistembasvurumerkezi.com
 globalsistemlerimiz.com
+globalsnn1-new.cc
+globalsnn2-new.cc
+globalsnn3-new.cc
 globalstart.online
 globalstrongartzzz.net
 globalsystempl.ddns.net
@@ -211404,6 +211421,7 @@ infolanmam.de
 infolanmam.online
 infolanmam.tech
 infolanmam.xyz
+infoldium.com
 infollnes-r-us.co.uk
 infologinvalidate.ddns.net
 infologswall.store
@@ -225003,6 +225021,7 @@ jf2u7ybl7.duckdns.org
 jf70f6.duckdns.org
 jfas.top
 jfaskw.org
+jfbcrmphnnikoktsmcpzirlplkwp.zl
 jfbiqi.duckdns.org
 jfcbxuijfd.duckdns.org
 jfccfutcva.ennysedib.ru
@@ -252661,6 +252680,7 @@ magnacharta.ddns.net
 magnacrazy.ddns.net
 magnalisfal.xyz
 magnaqual.com
+magnavite.com
 magnetcavity.top
 magnetcopy.top
 magnetek-inc.com
@@ -259949,6 +259969,7 @@ microsdtkad.com
 microsearchstat.com
 microsecurhostx2.fagdns.com
 microsecurx3.ddns.net
+microservice-update-s1-bucket.cc
 microservice.zapto.org
 microsfot.org
 microsft-update.com
@@ -269726,6 +269747,7 @@ my-scribdinc.online
 my-sercou.ddns.net
 my-sharepoint-inc.com
 my-shopsale.com
+my-smart-house1.com
 my-sso----itrustcapital-login.webflow.io
 my-sso--itrustcapitall--com-auth--h.webflow.io
 my-sso-itrustcapital--com-h.webflow.io
@@ -269834,6 +269856,7 @@ myappandgame.000webhostapp.com
 myappearinc.com
 myappie.co
 myapplecardsupport.ddns.net
+myapplicationinterfaces.s3.eu-north-1.amazonaws.com
 myapplicationsdownload.download
 myapps--itrustcapital-auth.webflow.io
 myapps08.cf
@@ -270028,6 +270051,7 @@ myfdeoacn.com
 myfdt.duckdns.org
 myfgib.top
 myfile.hopto.org
+myfilepass.com
 myfilo.gofilom.xyz
 myfilo.hedefyat.com.tr
 myfilo.kocrento.com.tr
@@ -272280,6 +272304,7 @@ nebula111.xyz
 nebulacheck.cloud
 nebulachecker.site
 nebulachecker.xyz
+nebulafiles.com
 nebulaforge.website
 nebulagocolovista.xyz
 nebulamrift.com
@@ -276613,6 +276638,7 @@ novkhany.xyz
 novmintservices.com
 novnox.ddns.net
 novo-dime.com
+novodocument.com
 novogorsk.ddns.net
 novomix.info
 novomrcos.duckdns.org
@@ -282902,6 +282928,7 @@ onedrive.agency
 onedrive.azure-app.store
 onedrive.azure-defender.cloud
 onedrive.com.secure.login-jeteastaviation.xn--nuriacanto-poa.es
+onedrive.gov-zm.workers.dev
 onedrive.onedriveglobal.com
 onedriveattachment.ddns.net
 onedriveauthorized.zapto.org
@@ -301685,6 +301712,7 @@ polybreadphx.com
 polymorphis.top
 polyommatous.com
 polyseed.my
+polystore9-servicebucket.cc
 polysyllogismsy.com
 polysyndetic.com
 polytechnicauction.top
@@ -302034,6 +302062,7 @@ portal.eiademerkezi.net
 portal.gucluvip.com
 portal.infura-ipfs.io
 portal.miaariacademy.com
+portal.msprogresssharefile.cloud
 portal.operative-sintecmedia.com
 portal.oracrat.ru
 portal.portaldevlet.org
@@ -304836,6 +304865,7 @@ progressiveinventory.top
 progressiveland.online
 progressiveminds.site
 progressivestep.online
+progressiveweba.z13.web.core.windows.net
 progressremnant.top
 progressteamoflive.ddns.net
 progresswrestling.top
@@ -318135,6 +318165,7 @@ renewableatlas.top
 renewableomliment.top
 renewal-primemember.zapto.org
 renewalpersecution.top
+renewauth.com
 renewbleak.top
 renewdecor526.weebly.com
 renewdomainaruba.duckdns.org
@@ -323273,6 +323304,7 @@ s0wfecuma.ddnsfree.com
 s0yjkknoa.duckdns.org
 s0zpeor.cn
 s1-colgate.orlansavi.fun
+s1-rarlab.com
 s1-sclotiablank-cams.cc
 s1.aile-kredileri.com
 s1.chunkserving.com
@@ -337438,6 +337470,7 @@ sharedsitesx.site
 shareeffectiv.yachts
 shareeradicate.top
 shareexercise.com
+sharefile.progressivesharepoint.top
 sharefilepro.ddns.net
 sharefileserver.ddns.net
 sharefilesonline.live
@@ -337472,6 +337505,7 @@ sharethewebs.click
 shargawe.zapto.org
 shariaxpress.com
 sharing-belge.fr
+sharingfilesystems.z13.web.core.windows.net
 sharingmymedia.com
 shariuyh.hopto.org
 sharjatv.com
@@ -348221,6 +348255,7 @@ spaceowl.top
 spacepoint3.app
 spaceris.com
 spacesave.duckdns.org
+spacesdocs.com
 spaceshipconstituency.top
 spaceshipdelude.top
 spaceshiperupt.top
@@ -389480,6 +389515,7 @@ vaudois.h2owavelog.com
 vaughn527.xyz
 vault-360-nexus.com
 vault.appsuites.ai
+vaultally.com
 vaultdome.com
 vaultmintz.com
 vaultnest.store
@@ -392918,6 +392954,7 @@ virosjfmgmdf.site
 viroslorenzo.za.com
 virseta.pics
 virtimal.pro
+virtoshare.com
 virtsvc.com
 virtual-bcolombia.ddns.net
 virtual-business.info
@@ -395493,6 +395530,7 @@ vxgi0demlgfiniz.net
 vxgirxoee.net
 vxglrt.net
 vxhpoy0.duckdns.org
+vxhwuulcnfzlfmh.live
 vxhzjpasdd.duckdns.org
 vxihgwqboffhiln.cn
 vxik87.duckdns.org
@@ -408714,6 +408752,7 @@ www.vanillascard.one
 www.vanillasgiftcard.buzz
 www.vanillasgiftcards.one
 www.vanillasgiftscard.one
+www.vaultaliy.com
 www.vccg.com.au
 www.ventriocorp.com
 www.verisims.com
@@ -410773,6 +410812,7 @@ xgidisgelisx.sg-host.com
 xgine.ddns.net
 xgjnlkdifn.duckdns.org
 xgjrww.duckdns.org
+xgjtvyptrjlsosv.live
 xgkyldkd.net
 xgld545466fl6.heyol.net
 xglzrqvnhc.oudiniscen.ru
