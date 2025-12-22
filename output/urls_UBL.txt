@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-22 11:09:25 UTC
-! Total: 344738 rules
+! Last modified: 2025-12-22 12:23:25 UTC
+! Total: 344750 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3227,6 +3227,7 @@
 *://*.14ekimdekiyenikatalog.win/*
 *://*.14ekimerkneindiirm.org/*
 *://*.14ekimyenikatalog.work/*
+*://*.14emeliaterracewestroxburyma02132.su/*
 *://*.14fox.com/*
 *://*.14haziranakfirsatlarim.online/*
 *://*.14haziransizleakfirsatim.online/*
@@ -19845,6 +19846,7 @@
 *://*.adreseteslimmax.online/*
 *://*.adreseyonlendir.cfd/*
 *://*.adreseyonlendir.sbs/*
+*://*.adresguvenli.digital/*
 *://*.adreshepsiburada.com/*
 *://*.adresi.net/*
 *://*.adresimatkapplar.xyz/*
@@ -72596,6 +72598,7 @@
 *://*.cezadosyasiuzlasma.com/*
 *://*.cezadosyauzlas.com/*
 *://*.cezadosyauzlasmasi.com/*
+*://*.cezaegm.net/*
 *://*.cezaesorgu.net/*
 *://*.cezagecisler.info/*
 *://*.cezagecislerin.info/*
@@ -80072,6 +80075,7 @@
 *://*.cottagestifle.top/*
 *://*.cottonng.xyz/*
 *://*.cottrauris.xyz/*
+*://*.coturk.com/*
 *://*.coucarachiz.top/*
 *://*.couchand.com/*
 *://*.couchposition.top/*
@@ -111051,6 +111055,7 @@
 *://*.eliteride.limo/*
 *://*.elitesurroundfish.top/*
 *://*.elitetoki.site/*
+*://*.eliteworldhotelsapancca.com/*
 *://*.elitiorecfreetoo.cc/*
 *://*.elitleworldsapanca.com/*
 *://*.elitpuro1.com/*
@@ -152278,6 +152283,7 @@
 *://*.hemenislemm.net/*
 *://*.hemenislemmbasv00.online/*
 *://*.hemenislemmerkezi.app/*
+*://*.hemenislemsnonk.net/*
 *://*.hemenisllmsnconline.online/*
 *://*.hemenislmlmsonsa.online/*
 *://*.hemenislslsonucsb.online/*
@@ -256002,6 +256008,7 @@
 *://*.renyeeasnet.online/*
 *://*.renyeeasnet.xyz/*
 *://*.reobligation.com/*
+*://*.reon1inemis1emiaptr.online/*
 *://*.reookver.store/*
 *://*.reopenfunnygloomplanet.com/*
 *://*.reorgedt.fun/*
@@ -264494,6 +264501,7 @@
 *://*.seasonsbackup.xyz/*
 *://*.seasonzigzag.top/*
 *://*.seatrackline.com/*
+*://*.seavibesco.com/*
 *://*.seawaysfreight-bd.com/*
 *://*.seawtex.com/*
 *://*.seaxgo.com/*
@@ -279781,6 +279789,7 @@
 *://*.ssofhoseuegsgrfnj.info/*
 *://*.ssofhoseuegsgrfnj.su/*
 *://*.ssofhoseuegsgrfnu.ru/*
+*://*.ssokfrsatttkmpynnllarri.org/*
 *://*.ssokkaldinaldinfrsaatt.org/*
 *://*.ssoklrkmfrklfskmczzrmtm.com/*
 *://*.ssonweb.com/*
@@ -336782,6 +336791,7 @@
 *://*.yenikayitvar.com/*
 *://*.yenikepim.net/*
 *://*.yenikepimguncel.net/*
+*://*.yenikepn11.com/*
 *://*.yenikiralikaracbirimi.online/*
 *://*.yenikitaplar-mobilden-sendeoku.shop/*
 *://*.yenikonlterm.click/*
@@ -339050,6 +339060,7 @@
 *://*.ylaheagvthrmupj.su/*
 *://*.ylalcabncrfsagfrsat.cfd/*
 *://*.ylasdvtld-dvvrt.com/*
+*://*.ylbasi-kmpyasi558.com/*
 *://*.ylbasi-yeniyil-ocak-kampanyasi.net/*
 *://*.ylbasiiiile-kpdaaayni.store/*
 *://*.ylbaskrcadan.com/*
@@ -339184,6 +339195,7 @@
 *://*.ynniie-xonllinexsamrlkkt.net.tr/*
 *://*.ynniie-xonllinexslamrkkt.net.tr/*
 *://*.ynniie-zxonllinexamrkkt.net.tr/*
+*://*.yno509.digital/*
 *://*.ynoagujl.com/*
 *://*.ynowjavk.com/*
 *://*.ynqmegxivwhbsw.com/*
