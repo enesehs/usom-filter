@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-22 22:09:36 UTC
-# Toplam: 432150 Domain
+# Son Güncelleme: 2025-12-22 23:09:26 UTC
+# Toplam: 432153 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -175010,6 +175010,7 @@ grntkkrdmbsvr.site
 grntkmpnya.shop
 grntkmpnya27319.site
 grntkmpnyaacklsbsvru.info
+grntkmpnyaacklsbsvru.live
 grntkmpnyaacklsbsvru.pro
 grntkrdm.shop
 grntkrdm.site
@@ -367955,6 +367956,7 @@ toplukonut.homes
 toplukonut.it.com
 toplukonut.site
 toplukonut.vercel.app
+toplukonut1klb9ahn.com
 toplukonut2d1214cc.com
 toplukonut2d1214dd.com
 toplukonut2d1214ee.com
@@ -367969,6 +367971,7 @@ toplukonut400.sbs
 toplukonut4ghc1yk.com
 toplukonut500bin.com
 toplukonut5amd8tp.com
+toplukonut8gkf2nl.com
 toplukonut9cgn2kc.com
 toplukonutaonline.com
 toplukonutapp.com
