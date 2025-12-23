@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 17:13:52 UTC
-! Total: 344943 rules
+! Last modified: 2025-12-23 18:14:51 UTC
+! Total: 344947 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46007,6 +46007,7 @@
 *://*.believesynthetic.top/*
 *://*.believetrickle.top/*
 *://*.belinkers.digital/*
+*://*.belinveston.com/*
 *://*.belirlenenlere-uzaktaysa-ilkinizi-gorunceler.top/*
 *://*.beljuuvp.live/*
 *://*.belkafruitcymus.com/*
@@ -93735,6 +93736,7 @@
 *://*.dijitalsubeziraat.online/*
 *://*.dijitaltahhsilat-trptt.shop/*
 *://*.dijitaltokiislemlerin.digital/*
+*://*.dijitaltrportal.com/*
 *://*.dijitaltrweb-ziraatbireysel.com/*
 *://*.dijitalturkiyegovtr.com/*
 *://*.dijitalvakfbnkkredbsvr.cf/*
@@ -121303,6 +121305,7 @@
 *://*.fb-promotion.cfd/*
 *://*.fb-promotion.info/*
 *://*.fb-promotion.sbs/*
+*://*.fb-radicrat.sbs/*
 *://*.fb-redirect.click/*
 *://*.fb-redirecttr.cfd/*
 *://*.fb-reklamkutuphanem.cfd/*
@@ -209245,6 +209248,7 @@
 *://*.mexstat128.com/*
 *://*.mexwrdvcyvbi.xyz/*
 *://*.meyatemai.com/*
+*://*.meycoun.com/*
 *://*.meydan222.club/*
 *://*.meydanbim.tk/*
 *://*.meydanbizde.club/*
