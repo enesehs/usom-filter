@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 05:14:41 UTC
-! Total: 344881 rules
+! Last modified: 2025-12-23 07:14:48 UTC
+! Total: 344883 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -294073,6 +294073,7 @@
 *://*.toplukonut2d1214kk.com/*
 *://*.toplukonut2d1214nn.com/*
 *://*.toplukonut2d1214zz.com/*
+*://*.toplukonut2kkb8aln.com/*
 *://*.toplukonut3dkd1bb.com/*
 *://*.toplukonut3dkd1jj.com/*
 *://*.toplukonut3dkd1ss.com/*
@@ -336337,6 +336338,7 @@
 *://*.yeni-yil-kapida-firsatlari-cebinde.xyz/*
 *://*.yeni-yil-ozel-indirimler.online/*
 *://*.yeni-yil-ozel.online/*
+*://*.yeni-yil-turkcell-pasaj.com/*
 *://*.yeni-yil-yeni-baslangiclar-yeni-firsatlar.shop/*
 *://*.yeni-yila-firsatlarla.shop/*
 *://*.yeni-yila-ozel-fiyatlar-firsatlar-indirimler.com/*
