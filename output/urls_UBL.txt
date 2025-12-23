@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 16:12:12 UTC
-! Total: 344932 rules
+! Last modified: 2025-12-23 17:13:52 UTC
+! Total: 344943 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32656,6 +32656,7 @@
 *://*.arabuluculukegm.org/*
 *://*.arabworldnews.info/*
 *://*.arabxmuayne.org/*
+*://*.arabznews.com/*
 *://*.arac--muayturk.com/*
 *://*.arac--muayturk.online/*
 *://*.arac-2txtxc-muaynem-trvtudktr.net/*
@@ -80893,6 +80894,7 @@
 *://*.crfsaykkmpan.sbs/*
 *://*.crfsbnzbm.store/*
 *://*.crfsdacfrsyagldnsncrfsa.com/*
+*://*.crfsdaylbasi.cfd/*
 *://*.crfsdnalcknrzolncagln.com/*
 *://*.crfsdnalsmnolrdmeolstebslr.com/*
 *://*.crfsdncrfsfrrssyahm.com/*
@@ -118589,6 +118591,7 @@
 *://*.evsahibiolturkiye.com/*
 *://*.evsahibioluyorum.com/*
 *://*.evsahibirehnberi.cfd/*
+*://*.evsahibit0ki.sbs/*
 *://*.evsahibiturkey.com/*
 *://*.evsahibiturkiye.cfd/*
 *://*.evsahibiturkiye.media/*
@@ -152085,6 +152088,7 @@
 *://*.hemenbasvurfirsatiyakala.cloud/*
 *://*.hemenbasvurhediyenikap.tech/*
 *://*.hemenbasvurhizlisonuc.xyz/*
+*://*.hemenbasvurhizlisonuc101.com/*
 *://*.hemenbasvurislem.xyz/*
 *://*.hemenbasvurkatilsende.tech/*
 *://*.hemenbasvurkmpanyasibizden.tech/*
@@ -157746,6 +157750,7 @@
 *://*.hizlibakiyenoktasi-hgsodemesistemi.xyz/*
 *://*.hizlibakiyeyukle.xyz/*
 *://*.hizlibaklkilelr.net/*
+*://*.hizlibasruvunnizzirttat.sbs/*
 *://*.hizlibasvru.online/*
 *://*.hizlibasvruhizmetlerniz.com/*
 *://*.hizlibasvrumanizntolu.store/*
@@ -186683,6 +186688,7 @@
 *://*.kampanyaligirisonline5.online/*
 *://*.kampanyaligirisonline6.online/*
 *://*.kampanyaligirisonline8.online/*
+*://*.kampanyaligunler.sbs/*
 *://*.kampanyaligunlerdebugunler.pics/*
 *://*.kampanyaligunlerinnn.com.tr/*
 *://*.kampanyaligunlerinnn.xyz/*
@@ -194512,6 +194518,7 @@
 *://*.kolombickmolonick112.site/*
 *://*.kolombickmolonick12.site/*
 *://*.kolopattamka.xyz/*
+*://*.kolpalmer.site/*
 *://*.kolslepleode.net/*
 *://*.koltukcubanedeses.site/*
 *://*.koltukhaliyer12.com/*
@@ -222721,6 +222728,8 @@
 *://*.nuancesmgir.pw/*
 *://*.nuasdacifs.net/*
 *://*.nuasdina1.net/*
+*://*.nuasdkgbvi.cfd/*
+*://*.nuasdkgbvi.sbs/*
 *://*.nuasdvuia1.net/*
 *://*.nuavolta1.cfd/*
 *://*.nubank-online.com/*
@@ -339242,6 +339251,7 @@
 *://*.ylbasi-yeniyil-ocak-kampanyasi.net/*
 *://*.ylbasiiiile-kpdaaayni.store/*
 *://*.ylbaskrcadan.com/*
+*://*.ylbasndacrfsaa.cfd/*
 *://*.ylbs1249tlkmpyns.shop/*
 *://*.ylbs6s910206126kmpyn.shop/*
 *://*.ylbsifirsat-moblgir.com/*
@@ -343609,6 +343619,7 @@
 *://*.ziraatnetkampanya.com/*
 *://*.ziraatnetonlinebankacilik.com/*
 *://*.ziraatnisankampanyasi.com.tr/*
+*://*.ziraato.cfd/*
 *://*.ziraatofficial.online/*
 *://*.ziraatoffshore.com.tr/*
 *://*.ziraatoffshore.com/*
