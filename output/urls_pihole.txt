@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-23 14:10:26 UTC
-# Toplam: 432202 Domain
+# Son Güncelleme: 2025-12-23 15:10:20 UTC
+# Toplam: 432212 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -84375,6 +84375,7 @@ bu-gulen-yuzleriniz.com
 bu-gun-superiyi.com
 bu-guncel.22web.org
 bu-gungun-f24b54b4bcf9.herokuapp.com
+bu-gungun1453-1dbb8ceec631.herokuapp.com
 bu-gunler-gececek-cok-ozleyecegiz.com
 bu-gunlerde-iyi-hisset-icindir.com
 bu-gunlerinizguzel.com
@@ -86779,6 +86780,7 @@ buyukhaziranayifirsatlari.com.tr
 buyukhaziranayifirsatlari.online
 buyukhaziranfirsatlari.com.tr
 buyukhazirannfirsatlari.com.tr
+buyukinsan1998-dd0bc8eb382e.herokuapp.com
 buyukinsan998-62a0f1792fc4.herokuapp.com
 buyukkampanyaa.com
 buyukkampanyaeylulayi.com
@@ -104860,6 +104862,7 @@ croma.vn
 cromecho.com
 cromendaledavec.click
 cromernationalzl.com
+cromtira.com
 cromweinrntiogreater.com
 cron.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 cronaveritus.info
@@ -190224,6 +190227,7 @@ hepsiburada88.com
 hepsiburada9.com
 hepsiburada90.xyz
 hepsiburadaa.click
+hepsiburadaadres.com
 hepsiburadaak.com
 hepsiburadaan.com
 hepsiburadaanindakapinda.com.tr
@@ -207905,6 +207909,7 @@ iletisim-com.gq
 iletisim-cumhurbaskanligi.com
 iletisim-edevletgirisgovtr.tk
 iletisim-ekrandan-gorveaktar.cyou
+iletisim-geri-aktarma-ekrani.sbs
 iletisim-haber-sorgu.cyou
 iletisim-hizli-geri-aktarma.store
 iletisim-hizmetlerim-porta.tk
@@ -232529,6 +232534,7 @@ kardelenvakfi.com
 kardeselma.org
 kardesimebakicakogang.net
 kardesimiz.org
+kardeslerbutik.sbs
 kardeslercheckersalon.com
 kardeslerkokorec.com
 kardesleryikama.xyz
@@ -238431,6 +238437,7 @@ klimm-alltustan.com
 klimmalltuss.com
 klimmalltuus.com
 klimnsokktann.com
+klimslwomxc.click
 klinbbyalh.net
 klingaieditor.com
 klingaimedia.com
@@ -258543,6 +258550,7 @@ mera1o1.net
 meraf-c128a.appspot.com
 merahaeteruskntl.ddns.net
 merahchecker.xyz
+merakediyorumseni.click
 meraketmegir.online
 merakii.art
 meraklimedya.net
@@ -373504,6 +373512,7 @@ trimlivestock.top
 trimmediate.com
 trimmer-x.space
 trimmmwalibidkalsngtimur.blog
+trimvora.one
 trindade-id3854.world
 trindirimsokagi.club
 trindirimsokagi.website
@@ -390332,6 +390341,7 @@ ventriculitidae.com
 ventriloquistic.com
 ventronics.co.za
 ventroxibnk.com
+venturadis.info
 venturalin.digital
 ventureaffiliation.top
 venturecoconut.top
