@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 11:09:43 UTC
-! Total: 344905 rules
+! Last modified: 2025-12-23 13:28:39 UTC
+! Total: 344920 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3987,6 +3987,7 @@
 *://*.188.166.92.248/*
 *://*.188.241.58.170/*
 *://*.1882730-coinbase.com/*
+*://*.189-bosvurularim.store/*
 *://*.18902-coinbase.com/*
 *://*.18903-coinbase.com/*
 *://*.18912-coinbase.com/*
@@ -47393,6 +47394,7 @@
 *://*.big-post.com/*
 *://*.big-windowss.com/*
 *://*.big4u.org/*
+*://*.bigasocial.com/*
 *://*.bigbaazaronline.com/*
 *://*.bigbachatmart.com/*
 *://*.bigbagmobi.ru/*
@@ -55236,6 +55238,7 @@
 *://*.birpttingr.lat/*
 *://*.birreyseellistanbull.com/*
 *://*.birrovesa.com/*
+*://*.birsejisdab.sbs/*
 *://*.birsele-ozel-kampanya-firsati-esube-giris-tr.online/*
 *://*.birsenbirbenbirdebiz456.com/*
 *://*.birsenistanbul.net/*
@@ -115677,6 +115680,7 @@
 *://*.eserlr.website/*
 *://*.eservicesa.live/*
 *://*.eservicesystems.net/*
+*://*.eservislerrim.com/*
 *://*.esestacey.net/*
 *://*.esezat.com/*
 *://*.esf-europa.info/*
@@ -149397,6 +149401,7 @@
 *://*.havadrumu15gunluk.xyz/*
 *://*.havaist.bio/*
 *://*.havaist.dev/*
+*://*.havaist.forum/*
 *://*.havaist.ink/*
 *://*.havaist.io/*
 *://*.havaist.org/*
@@ -161676,6 +161681,7 @@
 *://*.hsaihmmlnysdbjy.su/*
 *://*.hsajkdhsakj.net/*
 *://*.hsajkdhsaksj.net/*
+*://*.hsakaslgpwlaskwqpslaf.life/*
 *://*.hsakxzmnvnwlwqifqw.live/*
 *://*.hsanmnmasnmasasmhasmhasasnmasnmasnm663.site/*
 *://*.hsanmnmsamnsashsamnnmsansammhsanasnm333.site/*
@@ -176321,6 +176327,7 @@
 *://*.ismobilkredibasvurusu.gq/*
 *://*.ismobilmaximum.com/*
 *://*.ismofirsatlarismo.shop/*
+*://*.ismrkezhmncx.com/*
 *://*.ismrlkmsdegf.net/*
 *://*.ismtlkart.net/*
 *://*.ismudblg.net/*
@@ -191792,6 +191799,7 @@
 *://*.kgmsss.cfd/*
 *://*.kgmstrategy.com/*
 *://*.kgmswebgcsodemees.com/*
+*://*.kgmtr-govu.top/*
 *://*.kgmtr.org/*
 *://*.kgmtr.top/*
 *://*.kgmtrgov.top/*
@@ -192761,6 +192769,7 @@
 *://*.kisliksurprizler-devamediyor5.com/*
 *://*.kisliksurprizlerdevamediyor10.com/*
 *://*.kislndirimleriburadaa.com/*
+*://*.kislndirimleriburadaaa.com/*
 *://*.kislndirimlerikacmazwsynx.com/*
 *://*.kismamabeforyougo.com/*
 *://*.kismamabeforyougo.ru/*
@@ -195025,6 +195034,7 @@
 *://*.korisa3d.xyz/*
 *://*.korkeyjudith.com/*
 *://*.korkma.buzz/*
+*://*.korkmasoylesevgilim.click/*
 *://*.korkmazlar.tk/*
 *://*.korkorko.xyz/*
 *://*.korkulumedya.net/*
@@ -232116,6 +232126,7 @@
 *://*.osmanbeylisubesi.com.tr/*
 *://*.osmanbeylisubesi.online/*
 *://*.osmanbeylisubesi.xyz/*
+*://*.osmancancasask.com/*
 *://*.osmancuzdanjuzdan.com/*
 *://*.osmandagdelenabuzer.site/*
 *://*.osmanferarkesldsmc.click/*
@@ -269210,6 +269221,7 @@
 *://*.shops-p-t-t-a-v-m.shop/*
 *://*.shops24.top/*
 *://*.shopsetrms.top/*
+*://*.shopsleta.ru/*
 *://*.shopsshops.de/*
 *://*.shopstation.com.au/*
 *://*.shopstodrop.com/*
@@ -276586,6 +276598,7 @@
 *://*.songunlerikacirma2025.autos/*
 *://*.songunlerikacirma2025.homes/*
 *://*.songunlerikacirma2025.motorcycles/*
+*://*.songunlerikacirma2025.quest/*
 *://*.songunlerikacirma2025.xyz/*
 *://*.songunlerikacirmadansatinalmalisiniz.online/*
 *://*.songunlerikacirmadansatinalmalisiniz.xyz/*
@@ -288763,6 +288776,7 @@
 *://*.teknompazar.com/*
 *://*.teknoosa.com/*
 *://*.teknopiran02.site/*
+*://*.teknos-tr.com/*
 *://*.teknosa-club-girsini.com/*
 *://*.teknosa-club.online/*
 *://*.teknosa-depo-satisi.online/*
@@ -339837,6 +339851,7 @@
 *://*.yonlendir9659.online/*
 *://*.yonlendirbeni.online/*
 *://*.yonlendiremezsinbeni.com/*
+*://*.yonlendirfacebook.lat/*
 *://*.yonlendirici.click/*
 *://*.yonlendirici.shop/*
 *://*.yonlendirici.site/*

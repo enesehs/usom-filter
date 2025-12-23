@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-23 11:09:43 UTC
-# Toplam: 432182 Domain
+# Son Güncelleme: 2025-12-23 13:28:39 UTC
+# Toplam: 432201 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5710,6 +5710,7 @@
 188.241.58.170
 1882730-coinbase.com
 1888sm3kp.duckdns.org
+189-bosvurularim.store
 18902-coinbase.com
 18903-coinbase.com
 18912-coinbase.com
@@ -58877,6 +58878,7 @@ basvuru--sosyaldestek.com
 basvuru--ziraat.com
 basvuru-2025.sbs
 basvuru-4.cloud
+basvuru-451d-ilkevim-1a4d74a4.koyeb.app
 basvuru-81ilkonut.xyz
 basvuru-accikdenizv2denizbank.com
 basvuru-acikdenizbncek.ml
@@ -65302,6 +65304,7 @@ big45wm.duckdns.org
 big4u.org
 biga.zapto.org
 bigari.html-5.me
+bigasocial.com
 bigass33.duckdns.org
 bigbaazaronline.com
 bigbachatmart.com
@@ -73749,6 +73752,7 @@ birphlipsa1.cfd
 birpostahanesitesi.com
 birpttingr.lat
 birreyseellistanbull.com
+birsejisdab.sbs
 birsele-ozel-kampanya-firsati-esube-giris-tr.online
 birsenbirbenbirdebiz456.com
 birsenistanbul.net
@@ -150400,6 +150404,7 @@ ezb9uu.duckdns.org
 ezbere.name.tr
 ezbircime.xyz
 ezbrhgs.fanclub.rocks
+ezc5510min.temp.swtest.ru
 ezchecker.click
 ezchecker.online
 ezcommunity.pro
@@ -163464,6 +163469,7 @@ garantibank.vercel.app
 garantibank.yurdicikargo.com.tr
 garantibank2021mobiliade.com
 garantibank2021mobiliadetr.com
+garantibank30140720usomdur.yonlendirfacebook.lat
 garantibankac.com
 garantibankagozlerondaaa.com
 garantibankaidatiade-tr.com
@@ -176861,6 +176867,7 @@ gungorkurumu.com
 gungoryrdmkurumu.com
 gungun-bu-58e92dc65674.herokuapp.com
 gungun-bu1-fc797f0f11d6.herokuapp.com
+gungun-bu188-accd274d6ad3.herokuapp.com
 gungun-su-1c2afc80c691.herokuapp.com
 gunhaber24.com
 gunhandemirbas.cfd
@@ -185980,6 +185987,7 @@ havadrumu15gunluk.xyz
 havahgsyol.is-best.net
 havaist.bio
 havaist.dev
+havaist.forum
 havaist.ink
 havaist.io
 havaist.org
@@ -200508,6 +200516,7 @@ hsaihmmlnysdbjy.su
 hsajkdhaskjdhsak.zapto.org
 hsajkdhsakj.net
 hsajkdhsaksj.net
+hsakaslgpwlaskwqpslaf.life
 hsakxzmnvnwlwqifqw.live
 hsanmnmasnmasasmhasmhasasnmasnmasnm663.site
 hsanmnmsamnsashsamnnmsansammhsanasnm333.site
@@ -217807,6 +217816,7 @@ ismobilkredibasvurusu.gq
 ismobilmaximum.com
 ismofirsatlarismo.shop
 ismoh.zapto.org
+ismrkezhmncx.com
 ismrlkmsdegf.net
 ismtlkart.net
 ismudblg.net
@@ -236297,6 +236307,7 @@ kgmsswbkadrgcshgsbrc.duckdns.org
 kgmstrategy.com
 kgmswebgcshsgoss.duckdns.org
 kgmswebgcsodemees.com
+kgmtr-govu.top
 kgmtr.org
 kgmtr.top
 kgmtrgov.top
@@ -237695,6 +237706,7 @@ kisliksurprizler-devamediyor5.com
 kisliksurprizlerdevamediyor10.com
 kisliycorporait.hopto.org
 kislndirimleriburadaa.com
+kislndirimleriburadaaa.com
 kislndirimlerikacmazwsynx.com
 kismamabeforyougo.com
 kismamabeforyougo.ru
@@ -240748,6 +240760,7 @@ koringagamer.ddns.net
 korisa3d.xyz
 korkeyjudith.com
 korkma.buzz
+korkmasoylesevgilim.click
 korkmazlar.tk
 korkorko.xyz
 korkulumedya.net
@@ -288652,6 +288665,7 @@ osmanbeylisubelesindekampanya.com.tr
 osmanbeylisubesi.com.tr
 osmanbeylisubesi.online
 osmanbeylisubesi.xyz
+osmancancasask.com
 osmancanfearles.duckdns.org
 osmancuzdanjuzdan.com
 osmandagdelenabuzer.site
@@ -306332,6 +306346,7 @@ ptt-avm.e-tr-hizlisepet.online
 ptt-avm.elektronikalim.org
 ptt-avm.elektronikalimlarin.com.tr
 ptt-avm.elektronikservis.sa.com
+ptt-avm.eservislerrim.com
 ptt-avm.g-islemler.online
 ptt-avm.g-secure.online
 ptt-avm.g-sepetim.com.tr
@@ -338058,6 +338073,7 @@ shopquick.site
 shops-p-t-t-a-v-m.shop
 shops24.top
 shopsetrms.top
+shopsleta.ru
 shopsshops.de
 shopstation.com.au
 shopstodrop.com
@@ -346454,6 +346470,7 @@ songunleri.xyz
 songunlerikacirma2025.autos
 songunlerikacirma2025.homes
 songunlerikacirma2025.motorcycles
+songunlerikacirma2025.quest
 songunlerikacirma2025.xyz
 songunlerikacirmadansatinalmalisiniz.online
 songunlerikacirmadansatinalmalisiniz.xyz
@@ -361375,6 +361392,7 @@ teknomen.site
 teknompazar.com
 teknoosa.com
 teknopiran02.site
+teknos-tr.com
 teknosa-club-girsini.com
 teknosa-club.online
 teknosa-depo-satisi.online
@@ -412972,6 +412990,7 @@ xn--garantbvbba-4zb.com
 xn--garanti-6ya.com
 xn--garanti-haziran-promosyonlar-qhe.com.tr
 xn--garantibankas-gbc.com
+xn--garantibankas89140720-wgd.yonlendirfacebook.lat
 xn--garantibbv-14a.com
 xn--garantibbvabankas-svc.net
 xn--garantibbvabankas-svc.ph
