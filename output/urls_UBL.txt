@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 08:15:09 UTC
-! Total: 344892 rules
+! Last modified: 2025-12-23 09:14:51 UTC
+! Total: 344902 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -53318,6 +53318,7 @@
 *://*.birarada.name.tr/*
 *://*.biraradapaketler-turkcell.com/*
 *://*.birardgng.net/*
+*://*.biraskaesirolmus.click/*
 *://*.birathostonline.cf/*
 *://*.biraz-hislere-dayali-kazandiranlar-alir.com/*
 *://*.birazcikparayapalimdedik.cyou/*
@@ -128498,6 +128499,7 @@
 *://*.funckgroup-server.com/*
 *://*.funcontinuum.com/*
 *://*.functionads.com/*
+*://*.functionalcompass.store/*
 *://*.functionallegend.top/*
 *://*.functionallenient.top/*
 *://*.functionalleviation.top/*
@@ -134151,6 +134153,7 @@
 *://*.geryednkyonlendrmeaktarimekrani.cfd/*
 *://*.geryednukaktarim2024.cfd/*
 *://*.geryednuktransferlerekrani.site/*
+*://*.geryedonkaktarmlarvesrgulamaekranin.sbs/*
 *://*.geryiednkaktarim.my/*
 *://*.geryiedonuk-iletism-servisi.site/*
 *://*.gerze.online/*
@@ -194482,6 +194485,7 @@
 *://*.kolllamadasadatakta.site/*
 *://*.kolllayliklar-ptt-kargolariniz-kapilariniza-gelsin.com/*
 *://*.kollnorion.com/*
+*://*.kollvanora.com/*
 *://*.kolnim.com/*
 *://*.kolnlm.com/*
 *://*.kolobiasenel.site/*
@@ -199724,6 +199728,7 @@
 *://*.lexpeyze.info/*
 *://*.lexpress.me/*
 *://*.lexvoran.one/*
+*://*.lexxantira.com/*
 *://*.lexxenizleeme.net/*
 *://*.lexxenspoor.net/*
 *://*.lexyonline.xyz/*
@@ -246332,6 +246337,7 @@
 *://*.ps52020tr.com/*
 *://*.ps52020tr.xyz/*
 *://*.psafgd-avyo-safsa-yewngd.company/*
+*://*.psaohn.com/*
 *://*.psas.pw/*
 *://*.psd-codec.com/*
 *://*.psdchool.net/*
@@ -269172,6 +269178,7 @@
 *://*.shopingl0laldin.online/*
 *://*.shopingx.store/*
 *://*.shopinistdeals.com/*
+*://*.shopkeeperly.gifts/*
 *://*.shopkonutbasvurusutoki.pro/*
 *://*.shopkoton.top/*
 *://*.shopless.ga/*
@@ -284899,6 +284906,7 @@
 *://*.t7emmuzindirimyararlanile.com/*
 *://*.t7jgqhhq7.com/*
 *://*.t7z3w9x1b2q8m4r0y6n5v2a3.com.tr/*
+*://*.t9b5r2x8m6qp4v3w2z5.click/*
 *://*.t9kidvl3et.store/*
 *://*.t9t9tt9t923t2sfsg.sbs/*
 *://*.t9z.lol/*
@@ -294091,6 +294099,7 @@
 *://*.toplukonut4ghc1yk.com/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonut5amd8tp.com/*
+*://*.toplukonut6ckb3ta.com/*
 *://*.toplukonut8gkf2nl.com/*
 *://*.toplukonut9cgn2kc.com/*
 *://*.toplukonutaonline.com/*
@@ -314382,6 +314391,7 @@
 *://*.villavitae.world/*
 *://*.villayakut.com/*
 *://*.villiambutcher.com/*
+*://*.villlacim.com.tr/*
 *://*.villlasepeti.com/*
 *://*.villllijliljijlija.com/*
 *://*.villresmi.com/*
