@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-24 12:23:36 UTC
-# Toplam: 432324 Domain
+# Son Güncelleme: 2025-12-24 13:24:53 UTC
+# Toplam: 432335 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -90670,6 +90670,7 @@ carrefourtr.shop
 carrefouursa.shop
 carrefoyrsa.store
 carrefozel.cfd
+carrefrsaonline.cfd
 carreftoursa.store
 carrefuorasonline.cfd
 carrefuorsa-alisveris.online
@@ -149014,6 +149015,7 @@ evy27q.duckdns.org
 evyjm5ap.duckdns.org
 evyuvam.click
 evzftxl2qjfj4.life
+ew-tap-ranvportal.com
 ew.pe
 ew.th0mass4n.xyz
 ew538o1.duckdns.org
@@ -152420,6 +152422,7 @@ fb-promotion.cfd
 fb-promotion.info
 fb-promotion.sbs
 fb-radicrat.sbs
+fb-radicret.sbs
 fb-redirect.click
 fb-redirecttr.cfd
 fb-reklamkutuphanem.cfd
@@ -231193,6 +231196,7 @@ kamuasi.com
 kamubilgilendirme.com
 kamubilgilendirmesi.com
 kamubilgilerndirmegovtr.com
+kamuborcsorgusu.org
 kamucezasorgu.org
 kamucezatakip.com
 kamudansikayetimvar.site
@@ -328934,6 +328938,7 @@ sakbank.net
 sakbntr.click
 sakdj82321hcwq.digital
 sakdksgranttttksksk.site
+sakdsalaas-aslfafsakfwq.live
 sakenil.top
 sakentoshi.ru
 sakfgmdskas.com
@@ -357154,6 +357159,7 @@ t8zjajp.duckdns.org
 t9080rm.duckdns.org
 t98unk4hi.duckdns.org
 t999x7.duckdns.org
+t9b5r2x8m6q1n0y7p4v3w2z5.com.tr
 t9b5r2x8m6qp4v3w2z5.click
 t9hi3usee.duckdns.org
 t9kidvl3et.store
@@ -368113,6 +368119,7 @@ toplukonut2d1214kk.com
 toplukonut2d1214nn.com
 toplukonut2d1214zz.com
 toplukonut2kkb8aln.com
+toplukonut3bnu3.com
 toplukonut3dkd1bb.com
 toplukonut3dkd1jj.com
 toplukonut3dkd1ss.com
@@ -368127,6 +368134,7 @@ toplukonut6ckb3ta.com
 toplukonut6ckj4tl.com
 toplukonut8ckb0ta.com
 toplukonut8gkf2nl.com
+toplukonut9bnu5.com
 toplukonut9cgn2kc.com
 toplukonutaonline.com
 toplukonutapp.com
@@ -399304,6 +399312,7 @@ website6313040.nicepage.io
 website6495249.nicepage.io
 website65324352s.nicepage.io
 website65435321.nicepage.io
+website655fdgfdg.nicepage.io
 website6563297.nicepage.io
 website6565099.nicepage.io
 website6565812.nicepage.io
@@ -417032,6 +417041,7 @@ y3eco9n2a.duckdns.org
 y3icdk9wn.duckdns.org
 y3izhq.duckdns.org
 y3lkmykl.net
+y3n6x0r9q5m2t8b1p7v4wz2.com.tr
 y3qnrhb.duckdns.org
 y3rbdf.duckdns.org
 y3sr2c.duckdns.org
@@ -430739,6 +430749,7 @@ ziratinene.nicepage.io
 ziratinternational.com
 ziratinternetbankasi.com
 ziratinternette.cfd
+ziratisim.cfd
 ziratkatilim.com
 ziratkatilim.xyz
 ziratkrdsorgularbilgi.com.tr

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-24 12:23:36 UTC
-! Total: 345007 rules
+! Last modified: 2025-12-24 13:24:53 UTC
+! Total: 345017 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -69737,6 +69737,7 @@
 *://*.carrefouursa.shop/*
 *://*.carrefoyrsa.store/*
 *://*.carrefozel.cfd/*
+*://*.carrefrsaonline.cfd/*
 *://*.carreftoursa.store/*
 *://*.carrefuorasonline.cfd/*
 *://*.carrefuorsa-alisveris.online/*
@@ -118678,6 +118679,7 @@
 *://*.evxlxllkkkrxrrddss.net/*
 *://*.evyuvam.click/*
 *://*.evzftxl2qjfj4.life/*
+*://*.ew-tap-ranvportal.com/*
 *://*.ew.pe/*
 *://*.ew2ff.com/*
 *://*.ew87fhzx.ru/*
@@ -121327,6 +121329,7 @@
 *://*.fb-promotion.info/*
 *://*.fb-promotion.sbs/*
 *://*.fb-radicrat.sbs/*
+*://*.fb-radicret.sbs/*
 *://*.fb-redirect.click/*
 *://*.fb-redirecttr.cfd/*
 *://*.fb-reklamkutuphanem.cfd/*
@@ -187362,6 +187365,7 @@
 *://*.kamubilgilendirme.com/*
 *://*.kamubilgilendirmesi.com/*
 *://*.kamubilgilerndirmegovtr.com/*
+*://*.kamuborcsorgusu.org/*
 *://*.kamucezasorgu.org/*
 *://*.kamucezatakip.com/*
 *://*.kamudansikayetimvar.site/*
@@ -262444,6 +262448,7 @@
 *://*.sakbntr.click/*
 *://*.sakdj82321hcwq.digital/*
 *://*.sakdksgranttttksksk.site/*
+*://*.sakdsalaas-aslfafsakfwq.live/*
 *://*.sakenil.top/*
 *://*.sakentoshi.ru/*
 *://*.sakfgmdskas.com/*
@@ -284995,6 +285000,7 @@
 *://*.t7emmuzindirimyararlanile.com/*
 *://*.t7jgqhhq7.com/*
 *://*.t7z3w9x1b2q8m4r0y6n5v2a3.com.tr/*
+*://*.t9b5r2x8m6q1n0y7p4v3w2z5.com.tr/*
 *://*.t9b5r2x8m6qp4v3w2z5.click/*
 *://*.t9kidvl3et.store/*
 *://*.t9t9tt9t923t2sfsg.sbs/*
@@ -294181,6 +294187,7 @@
 *://*.toplukonut2d1214nn.com/*
 *://*.toplukonut2d1214zz.com/*
 *://*.toplukonut2kkb8aln.com/*
+*://*.toplukonut3bnu3.com/*
 *://*.toplukonut3dkd1bb.com/*
 *://*.toplukonut3dkd1jj.com/*
 *://*.toplukonut3dkd1ss.com/*
@@ -294195,6 +294202,7 @@
 *://*.toplukonut6ckj4tl.com/*
 *://*.toplukonut8ckb0ta.com/*
 *://*.toplukonut8gkf2nl.com/*
+*://*.toplukonut9bnu5.com/*
 *://*.toplukonut9cgn2kc.com/*
 *://*.toplukonutaonline.com/*
 *://*.toplukonutapp.com/*
@@ -332754,6 +332762,7 @@
 *://*.y2kportfolio.com/*
 *://*.y2znlm93bmvysuq0m3b.xyz/*
 *://*.y3lkmykl.net/*
+*://*.y3n6x0r9q5m2t8b1p7v4wz2.com.tr/*
 *://*.y3w75xctac.ru/*
 *://*.y43dkbzwar7cdt.com/*
 *://*.y4kl4smaaa.xyz/*
@@ -343976,6 +343985,7 @@
 *://*.ziratinternational.com/*
 *://*.ziratinternetbankasi.com/*
 *://*.ziratinternette.cfd/*
+*://*.ziratisim.cfd/*
 *://*.ziratkatilim.com/*
 *://*.ziratkatilim.xyz/*
 *://*.ziratkrdsorgularbilgi.com.tr/*
