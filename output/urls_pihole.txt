@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-24 19:07:59 UTC
-# Toplam: 432392 Domain
+# Son Güncelleme: 2025-12-24 20:10:36 UTC
+# Toplam: 432393 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -368169,6 +368169,7 @@ toplukonut3bnu3.com
 toplukonut3dkd1bb.com
 toplukonut3dkd1jj.com
 toplukonut3dkd1ss.com
+toplukonut3vpr9j.com
 toplukonut400.com
 toplukonut400.sbs
 toplukonut4adf1ad.com
