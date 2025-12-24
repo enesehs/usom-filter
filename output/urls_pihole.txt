@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-24 11:09:08 UTC
-# Toplam: 432311 Domain
+# Son Güncelleme: 2025-12-24 12:23:36 UTC
+# Toplam: 432324 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30645,6 +30645,7 @@ adaletbakanligigov.xyz
 adaletbizim.net
 adaletbumula.com
 adaletegm.net
+adaletegm.org
 adaletgeldi.online
 adaletkamu.net
 adaletmaliye.net
@@ -31441,6 +31442,7 @@ adreshepsiburada.com
 adresi.b-cdn.net
 adresi.net
 adresimatkapplar.xyz
+adresimhepsiburada.com
 adresimne.net
 adresimtrendyol.com
 adresindeoto.online
@@ -58535,6 +58537,7 @@ basvurgrsonaykredideniz.site
 basvurgrsonaykredideniz.space
 basvurguvenlibbva.top
 basvurhayatevesigar.com
+basvurhaydi.sbs
 basvurhazirlagirisyap.online
 basvurhediyenikazan.online
 basvurhediyeyapikredi.com
@@ -84929,6 +84932,7 @@ buflrsatlarkacmazsevoceroc1701.com
 buflrsatlarwsynxfirestrikemahserilekacmaz.com
 buflrsatlarwsynxilekacmaz.com
 bufrsatinizsizegeliyoruz.com
+bufrscrfsada.cfd
 bufrsstbncckcmzz.shop
 bufrssttlr-kcasmxasynii.net.tr
 bufrssztlr-kcamxasynii.net.tr
@@ -176119,6 +176123,7 @@ gun-bugun-son-saatlerde-kapina-geleni-kacirma.com
 gun-celyukle.22web.org
 gun-gunbu-04da595dfa7a.herokuapp.com
 gun-gunbu1-700e564b3fcb.herokuapp.com
+gun-gunbu1822-bb2163252091.herokuapp.com
 gun-gunbu18383-abe80b66bded.herokuapp.com
 gun-simdi.com
 gun255.xyz
@@ -190536,6 +190541,7 @@ heravakfi.info
 heravakfi.net.tr
 heravakfi.org.tr
 heravakfi.web.tr
+heraymutfaktasarrufuilebutcenizigulderen.cfd
 herazari.top
 herbaldegeneration.top
 herbalindirim.com
@@ -290043,6 +290049,7 @@ overwithered.com
 overypubu.blasters.biz
 overzicht-actualisatie.duckdns.org
 overzicht-ics.ddns.net
+ovewebsptpu.com
 ovffyu.top
 ovfgiwbhsn.duckdns.org
 ovhhe.duckdns.org
@@ -321965,6 +321972,7 @@ rsepxj.top
 rseriali.net
 rsesteel.xyz
 rsfgivtqyi.duckdns.org
+rsfsdfsdfsdfu.cc.dvrlists.com
 rsfvc.kwrab.ru
 rsgdkffvsjkoavd.getcdprm.org
 rsgfwlxwjv.duckdns.org
@@ -345303,6 +345311,7 @@ sokmarket-sokmarket.site
 sokmarket-tr.club
 sokmarket-tr.site
 sokmarket-yazindirimleri.cfd
+sokmarket.aktuelozel.cfd
 sokmarket.cfd
 sokmarket.com-cpsk.com.tr
 sokmarket.com-e-eurun.com.tr
@@ -350083,6 +350092,7 @@ srqqihfecd.duckdns.org
 srrb7b3i.duckdns.org
 srreyhfgc2.site
 srrgla.net
+srrrcamrsamba.dns.army
 srrrjqmdx.com
 srrrqpqapn.biz
 srrybaby.ddns.net
@@ -368108,7 +368118,9 @@ toplukonut3dkd1jj.com
 toplukonut3dkd1ss.com
 toplukonut400.com
 toplukonut400.sbs
+toplukonut4adf1ad.com
 toplukonut4ghc1yk.com
+toplukonut4ylkj1ad.com
 toplukonut500bin.com
 toplukonut5amd8tp.com
 toplukonut6ckb3ta.com
@@ -424584,6 +424596,7 @@ ylalcabncrfsagfrsat.cfd
 ylasdvtld-dvvrt.com
 ylbasi-kmpyasi558.com
 ylbasi-yeniyil-ocak-kampanyasi.net
+ylbasicrfsa.top
 ylbasiiiile-kpdaaayni.store
 ylbaskrcadan.com
 ylbasndacrfsaa.cfd
