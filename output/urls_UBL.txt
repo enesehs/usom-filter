@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-23 23:09:08 UTC
-! Total: 344964 rules
+! Last modified: 2025-12-24 02:45:09 UTC
+! Total: 344968 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -80544,6 +80544,7 @@
 *://*.craterstep.top/*
 *://*.cratopex.com/*
 *://*.cratosroyal777.com/*
+*://*.cratosroyal848.com/*
 *://*.crave-tickets.com/*
 *://*.craveakin.top/*
 *://*.craveinjection.top/*
@@ -112623,6 +112624,7 @@
 *://*.enbmwapps-katilimindir.com/*
 *://*.enbmwcekilisi-e-basvuruformu.com/*
 *://*.enbncrfsagfrsat.cfd/*
+*://*.enbncrgfrsat.cfd/*
 *://*.enbuyuk-kampanyalari-online-siparis-verebilirsin.com/*
 *://*.enbuyukben.net/*
 *://*.enbuyukbiz.online/*
@@ -123581,6 +123583,7 @@
 *://*.firima.sbs/*
 *://*.firingbasburinggninign.cyou/*
 *://*.firiricokiyitermosunual.click/*
+*://*.fiririririifirrsatlargibiyuzbir.vip/*
 *://*.firlama.name.tr/*
 *://*.firlarsainizgeln.xyz/*
 *://*.firm352621.xyz/*
@@ -278830,6 +278833,7 @@
 *://*.spnsrlu-zir34.xyz/*
 *://*.spnsrlukmpnyalariniz.com/*
 *://*.spnsrlutrynlndrlyrsnz.com/*
+*://*.spnsurlu-yonlndirme.com/*
 *://*.spo32se34007.site/*
 *://*.spobymbfdkdwlhg.su/*
 *://*.spoilappraisal.top/*
