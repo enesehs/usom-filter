@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-24 16:11:43 UTC
-! Total: 345037 rules
+! Last modified: 2025-12-24 17:08:14 UTC
+! Total: 345049 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20270,6 +20270,7 @@
 *://*.aermgaermgam.fit/*
 *://*.aeroarrows.io/*
 *://*.aerobicsfit.com/*
+*://*.aeroclubofindia.co.in/*
 *://*.aerocorpevionics.com/*
 *://*.aerofluidthermo.org/*
 *://*.aeromexi.co/*
@@ -76195,6 +76196,7 @@
 *://*.colendimenkulblog.com/*
 *://*.colendimenkuldegerler.com/*
 *://*.colendimenkulhaber.com/*
+*://*.colendiyatirim.net/*
 *://*.colenesphotography.co.za/*
 *://*.coleochaete.com/*
 *://*.coleoptilum.com/*
@@ -79352,6 +79354,7 @@
 *://*.consultoriacrm.com.br/*
 *://*.consultoriaeadvocaciaeassociados.site/*
 *://*.consultoriamax.net/*
+*://*.consulttup.com/*
 *://*.consumeassorted.top/*
 *://*.consumerpendulum.top/*
 *://*.consumers2owners.com/*
@@ -81164,6 +81167,7 @@
 *://*.crrfsmrktniz.shop/*
 *://*.crrfsrsadan.cfd/*
 *://*.crrfursaaksehirsube.cfd/*
+*://*.crrfursabursasube.cfd/*
 *://*.crrfusasngnlr.com/*
 *://*.crrgekmgun.cfd/*
 *://*.crrrffrrssa.com/*
@@ -136505,6 +136509,7 @@
 *://*.girlythings.shop/*
 *://*.girmekanima21.com/*
 *://*.girmeyinlutfenasdasdas.online/*
+*://*.gironlinemis1emitrapp.space/*
 *://*.girr-is-parabu.com/*
 *://*.girris-para-bu.com/*
 *://*.girriss-parabu.com/*
@@ -176012,6 +176017,7 @@
 *://*.islemimonline.net/*
 *://*.islemimonlinegeldi.net/*
 *://*.islemimsizlerle.com/*
+*://*.islemimziraat.cfd/*
 *://*.islemin-dogrula.app/*
 *://*.islemin.online/*
 *://*.isleminegirisyap.de/*
@@ -214175,6 +214181,7 @@
 *://*.morulk2sa3l.site/*
 *://*.morvex.sbs/*
 *://*.morvionis.com/*
+*://*.morxetavo.com/*
 *://*.morymponam.ru/*
 *://*.morynzol.com/*
 *://*.mos24ben2eiff2.wiki/*
@@ -252625,6 +252632,7 @@
 *://*.queksbsgekdbs.xyz/*
 *://*.quelcheck.fun/*
 *://*.quelmax.com/*
+*://*.quelorin.com/*
 *://*.quem-via-perfilpro.cf/*
 *://*.quem-via-perfilpro.tk/*
 *://*.quemolhoumeuperfil-br.com/*
@@ -258874,6 +258882,7 @@
 *://*.ruyaxper.com/*
 *://*.ruyhyetdsmxcjvy.ru/*
 *://*.ruyupuyu.site/*
+*://*.ruzeda.com/*
 *://*.ruzede.com/*
 *://*.ruzgarboylu.host/*
 *://*.ruzgaristanbulkkkartttlyukle.net/*
@@ -263245,6 +263254,7 @@
 *://*.sanits.click/*
 *://*.saniye.me/*
 *://*.saniyelericindealin.cfd/*
+*://*.sanjingtoy.com/*
 *://*.sankibanadonukbutunnamlular.com/*
 *://*.sanko1.co.jp/*
 *://*.sanlander.one/*
@@ -294216,6 +294226,7 @@
 *://*.toplukonut4ylkj1ad.com/*
 *://*.toplukonut500bin.com/*
 *://*.toplukonut5amd8tp.com/*
+*://*.toplukonut5flaa.com/*
 *://*.toplukonut5flkk.com/*
 *://*.toplukonut6ckb3ta.com/*
 *://*.toplukonut6ckj4tl.com/*
@@ -320891,6 +320902,7 @@
 *://*.wmgoods.online/*
 *://*.wmgwuigeggrwygw.info/*
 *://*.wmiapcservice.com/*
+*://*.wmiprovider.com/*
 *://*.wmiprvse.com/*
 *://*.wmkgmgovt.top/*
 *://*.wmm53c.cyou/*
