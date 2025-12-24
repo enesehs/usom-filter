@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-24 15:11:06 UTC
-# Toplam: 432351 Domain
+# Son Güncelleme: 2025-12-24 16:11:43 UTC
+# Toplam: 432363 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -104637,6 +104637,7 @@ crfr-sa.net.tr
 crfrbrdasnndlrerdasd.bond
 crfrcix.sbs
 crfrikibinyirmibes.shop
+crfrlsdayilsnu.com
 crfrm.it.com
 crfrs-com.shop
 crfrs-ozlndrmlerhftas.site
@@ -152421,11 +152422,14 @@ fb-metabrowser.click
 fb-nameserver.com
 fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
+fb-profile5910962.sbs
 fb-promotion.cfd
 fb-promotion.info
 fb-promotion.sbs
 fb-radicrat.sbs
 fb-radicret.sbs
+fb-redicrat.sbs
+fb-redicret.com
 fb-redirect.click
 fb-redirecttr.cfd
 fb-reklamkutuphanem.cfd
@@ -157073,6 +157077,7 @@ firsatmkmpnyonlne.online
 firsatml.site
 firsatmlbasvur.com
 firsatmobildenbuayabnanceozelfirsati.tech
+firsatmzdabugun.dns.army
 firsatnahaftasin.com
 firsatnbasvuruakservices.com
 firsatnihaftan.com
@@ -171170,6 +171175,7 @@ girlyoumashupmymind.hopto.org
 girlythings.shop
 girmekanima21.com
 girmeyinlutfenasdasdas.online
+girnet-bv-grnt.my-homeip.com
 gironementdecarte.zapto.org
 girr-is-parabu.com
 girris-para-bu.com
@@ -179885,6 +179891,7 @@ haber40s.site
 haber46.club
 haber46.xyz
 haber4s.site
+haber724.sbs
 haber724.site
 haber724turk.site
 haber7gazetesi.com
@@ -223737,6 +223744,7 @@ iznmrkrkrjdkgsfjg.blogspot.com
 iznnirkart.net
 iznnirrdolummerkezi.net
 izobugun.duckdns.org
+izocknss.blogspot.com
 izodef.duckdns.org
 izofghg.blogspot.com
 izokarttxd.net
@@ -238063,6 +238071,7 @@ kk3f4zpk.duckdns.org
 kk6e0x.duckdns.org
 kk99999222-22.cloud
 kka5c.marioanalytics.my.id
+kkaaatilimmbsrrprrrmsynnnn.click
 kkaadinasiddetehayir.tk
 kkaidat.site
 kkaidatdevlett18.com
@@ -247821,6 +247830,7 @@ linkpop.space
 linkredirects.click
 linkrequest.live
 links-dolap.com
+links-tr.strangled.net
 links.heliohost.org
 linksa.asia
 linksammosupply.com
@@ -329445,6 +329455,7 @@ sanadegmez.cfd
 sanademedimasko.tk
 sanafirsatlaranlatirim.shop
 sanagonulvermeleeer.xyz
+sanagore.cfd
 sanagore.sbs
 sanagoredegilcocuk.online
 sanagoresevmeler.xyz
@@ -368144,6 +368155,7 @@ toplukonut4ghc1yk.com
 toplukonut4ylkj1ad.com
 toplukonut500bin.com
 toplukonut5amd8tp.com
+toplukonut5flkk.com
 toplukonut6ckb3ta.com
 toplukonut6ckj4tl.com
 toplukonut8ckb0ta.com
