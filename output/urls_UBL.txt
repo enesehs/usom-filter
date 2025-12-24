@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-24 17:08:14 UTC
-! Total: 345049 rules
+! Last modified: 2025-12-24 18:14:20 UTC
+! Total: 345062 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13313,6 +13313,7 @@
 *://*.Yatirimuzmani.info/*
 *://*.ZIRVE.APP/*
 *://*.Zerofourseven.buzz/*
+*://*.a--1-0-1den-kpinda-aralk-flrsatlar.sbs/*
 *://*.a--101-firsatlarri.online/*
 *://*.a--101.online/*
 *://*.a--haber-govtrr.org/*
@@ -70841,6 +70842,7 @@
 *://*.cefyil.com/*
 *://*.ceggilcgigin.bazar/*
 *://*.cegrbnidk.com/*
+*://*.cehennem.online/*
 *://*.cehennemiyasiyoz251.com/*
 *://*.ceikiliszirat.click/*
 *://*.ceilingexcerpt.top/*
@@ -108811,6 +108813,7 @@
 *://*.efsne101lekasimdakifirsatlar.com/*
 *://*.efsnecumakmpanyalari1o1.shop/*
 *://*.efsnefrstlarkapinda1o1.shop/*
+*://*.efsneindrmlertukenyr1o1.xyz/*
 *://*.efsnekmpanyalartukenyr1o1.shop/*
 *://*.efsnfrstlar1o1burd.xyz/*
 *://*.efsnkmpnylrkpndatukenyr.xyz/*
@@ -136510,6 +136513,7 @@
 *://*.girmekanima21.com/*
 *://*.girmeyinlutfenasdasdas.online/*
 *://*.gironlinemis1emitrapp.space/*
+*://*.gironllinemislemitrapp.space/*
 *://*.girr-is-parabu.com/*
 *://*.girris-para-bu.com/*
 *://*.girriss-parabu.com/*
@@ -153079,6 +153083,7 @@
 *://*.hepsiburada90.xyz/*
 *://*.hepsiburadaa.click/*
 *://*.hepsiburadaadres.com/*
+*://*.hepsiburadaadresim.com/*
 *://*.hepsiburadaak.com/*
 *://*.hepsiburadaan.com/*
 *://*.hepsiburadaanindakapinda.com.tr/*
@@ -211641,6 +211646,7 @@
 *://*.mobilalisverisget.com.tr/*
 *://*.mobilalisverislerimiz.com/*
 *://*.mobilappdevletgirisiadelerim.app/*
+*://*.mobilaralik.cfd/*
 *://*.mobilavantajp-tt.com/*
 *://*.mobilayar.com/*
 *://*.mobilbahargirisvakif.digital/*
@@ -250494,6 +250500,7 @@
 *://*.q5y6vdf7tdm8a1p.info/*
 *://*.q6xhqt4rd.com/*
 *://*.q7pitkl6y.top/*
+*://*.q7x2m9r5b1t8n0y4p6v3w2z1.com.tr/*
 *://*.q83qm.com/*
 *://*.q8jn7u.com/*
 *://*.q905hr35.life/*
@@ -281003,6 +281010,7 @@
 *://*.stiturel.com/*
 *://*.stiwellberlingose-idente.com/*
 *://*.stiybxhfa.com/*
+*://*.stiye-gti-hzli-aktar-gvenli.sbs/*
 *://*.stiye-gti-ynlendirme.cfd/*
 *://*.stiye-gti-yonlndir-hzli-gvenli.sbs/*
 *://*.stiye-hizli--yonlndirme.sbs/*
@@ -294248,6 +294256,8 @@
 *://*.toplukonutbasvururesmi.com/*
 *://*.toplukonutbasvurusu.com/*
 *://*.toplukonutbasvurusutoki.cloud/*
+*://*.toplukonutc1caa.com/*
+*://*.toplukonutckal1aa.com/*
 *://*.toplukonutidaresi.app/*
 *://*.toplukonutidaresi.com/*
 *://*.toplukonutidaresi.net/*
@@ -305874,6 +305884,7 @@
 *://*.ujcroshg.com/*
 *://*.ujdioplis.click/*
 *://*.ujdkmo.com/*
+*://*.ujfdfrdmgiii.sbs/*
 *://*.ujgfhee.com/*
 *://*.ujgfs.com/*
 *://*.ujgkcqisn.com/*
@@ -313896,6 +313907,7 @@
 *://*.versgsdwodesfme.com/*
 *://*.versgsiodesssas.net/*
 *://*.versgthjjlem1dmt.net/*
+*://*.vershany.com/*
 *://*.versifrealhgs.com/*
 *://*.versiondat.xyz/*
 *://*.versionday.xyz/*
@@ -339359,6 +339371,7 @@
 *://*.ylbs1249tlkmpyns.shop/*
 *://*.ylbs6s910206126kmpyn.shop/*
 *://*.ylbsifirsat-moblgir.com/*
+*://*.ylbsikrcda.com/*
 *://*.ylbsiozlsnlpzrf0r.com.tr/*
 *://*.ylbsiozlsnlpzrf0r.xyz/*
 *://*.ylbsiozzllindrm.click/*
