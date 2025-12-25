@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-25 14:09:24 UTC
-! Total: 345107 rules
+! Last modified: 2025-12-25 15:09:34 UTC
+! Total: 345116 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -19101,6 +19101,7 @@
 *://*.activandalucia.com/*
 *://*.activate-account-inc.com/*
 *://*.activate-microsoft.cf/*
+*://*.activate.win/*
 *://*.activateappleid.com/*
 *://*.activatebcarbon.com/*
 *://*.activatepoised.top/*
@@ -41297,6 +41298,7 @@
 *://*.basvrunoktasi-hizlikayittol.com/*
 *://*.basvrunoktasii-hemenkayitol.com/*
 *://*.basvrunuz-dvettgirsleri.com/*
+*://*.basvruonalinne.cfd/*
 *://*.basvruonayi.pro/*
 *://*.basvrurrprsmynnkmonyaaa.info/*
 *://*.basvrurrprsmynnkmonyaaa.pro/*
@@ -69413,6 +69415,7 @@
 *://*.carefoursanavantaj.com/*
 *://*.carefoursda-guzellklerr.com/*
 *://*.carefoursdaa-bunlarvarr.com/*
+*://*.carefourumcepte.cfd/*
 *://*.carefouryudumyag.cfd/*
 *://*.carefrdn-geldklrnz.com/*
 *://*.carefrsndn-glirsmdi.shop/*
@@ -149612,6 +149615,7 @@
 *://*.hayalindekimujdelihaber.cfd/*
 *://*.hayalindekineseligeldi.cfd/*
 *://*.hayalindekiruyagerceklesti.cfd/*
+*://*.hayalindekisimdiyaninda.com/*
 *://*.hayalindekiyaninageldi.cfd/*
 *://*.hayalindekiyaninageldi.top/*
 *://*.hayalindekiyanindageldi.top/*
@@ -305924,6 +305928,7 @@
 *://*.ujcroshg.com/*
 *://*.ujdioplis.click/*
 *://*.ujdkmo.com/*
+*://*.ujfdfrdmgiii.cfd/*
 *://*.ujfdfrdmgiii.sbs/*
 *://*.ujgfhee.com/*
 *://*.ujgfs.com/*
@@ -307282,6 +307287,7 @@
 *://*.urlhero.top/*
 *://*.urlishort-er.click/*
 *://*.urlishorter.online/*
+*://*.urlister.top/*
 *://*.urliurl.online/*
 *://*.urllie.com/*
 *://*.urllik.sbs/*
@@ -319941,6 +319947,7 @@
 *://*.wergston.top/*
 *://*.werkmoun.com/*
 *://*.werktykreodeme.net/*
+*://*.wernaym.com/*
 *://*.wernqwqen.net/*
 *://*.werntygqwe.net/*
 *://*.werpourx.cfd/*
@@ -339409,6 +339416,7 @@
 *://*.ylbasi-yeniyil-ocak-kampanyasi.net/*
 *://*.ylbasicrfsa.top/*
 *://*.ylbasiiiile-kpdaaayni.store/*
+*://*.ylbasizmni.com/*
 *://*.ylbaskrcadan.com/*
 *://*.ylbasndacrfsaa.cfd/*
 *://*.ylbs1249tlkmpyns.shop/*
@@ -344611,6 +344619,7 @@
 *://*.zptzubnlr.ru/*
 *://*.zpwohsmc.com/*
 *://*.zpwqkfisaflfwqpfsafwqifqw.live/*
+*://*.zpwqkfisaflfwqpfsafwqifqw.run/*
 *://*.zpxav.com/*
 *://*.zpydms.com/*
 *://*.zq33uuyda33ssda3.click/*
