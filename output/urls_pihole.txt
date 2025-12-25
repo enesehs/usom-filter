@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-25 17:08:53 UTC
-# Toplam: 432473 Domain
+# Son Güncelleme: 2025-12-25 18:14:04 UTC
+# Toplam: 432479 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -48392,6 +48392,7 @@ aralikfirsatlari2019-finansbank.com
 aralikfirsatlaria101.shop
 aralikfirsatlariburada-finansbank.com
 aralikfirsatlaricepte.me
+aralikfirsatlarikaplnda.com
 aralikfirsatlarim.com.tr
 aralikfirsatlarim.online
 aralikfirsatlarimla.com.tr
@@ -61382,6 +61383,7 @@ baykriona.icu
 bayksecure.store
 bayksow.xyz
 bayktr.trbaykl.com
+baykusbaba.cc.dvrlists.com
 baykuus.com
 baylak.ddns.net
 baymak-yazgunleri.com.tr
@@ -257670,6 +257672,7 @@ mebbasvuru-ebatabletdestek.com
 mebbasvurueba-tablet-destek.com
 mebbasvurunuz-ebatablet.com
 mebbis-dot-meb-dot-gov-dot-tr.gateway.web.tr
+mebbis-meb-giris.netlify.app
 mebbisdogrulama.unaux.com
 mebbisgirismebgovtr.com
 mebbisgovtr.cf
@@ -368237,6 +368240,7 @@ toplukonut4ylkj1ad.com
 toplukonut500bin.com
 toplukonut51ldd.fly.dev
 toplukonut51lrr.fly.dev
+toplukonut51ltt.fly.dev
 toplukonut51lzz.fly.dev
 toplukonut51ra1a.fly.dev
 toplukonut5amd8tp.com
@@ -386770,6 +386774,7 @@ vakif-bildirim-sube.xyz
 vakif-bildirimi.dogexfast.com
 vakif-bildirimi.xyz
 vakif-bireryselll-com.ml
+vakif-bireysel-islemler-tr.mooo.com
 vakif-bireyselin.com
 vakif-bireyselll-com.ga
 vakif-bireyselll-com.gq
@@ -422189,6 +422194,7 @@ yenikrallik.click
 yenikredi-basvurusu.com
 yenikredievlilikbasvur.tech
 yenikredievlilikxd.com
+yenikredim.com
 yenikredimerkezimdenizbank.co.vu
 yenikultur.space
 yenildigimizmasayokface.net
