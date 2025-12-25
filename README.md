@@ -7,7 +7,7 @@
     <a href="https://github.com/enesehs/usom-filter/issues"><img alt="Issues" src="https://img.shields.io/github/issues/enesehs/usom-filter"></a>&nbsp;
     <img alt="Status" src="https://img.shields.io/badge/Status-Active-22c55e">&nbsp;
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/enesehs/usom-filter">&nbsp;
-    <a href="https://enesehs.me/usom-filter"><img alt="Website" src="https://img.shields.io/badge/Website-enesehs.me%2Fusom--filter-3b82f6"></a>
+    <a href="https://enesehs.me/usom-filter"><img alt="Website" src="https://img.shields.io/badge/Website-enesehs.dev%2Fusom--filter-3b82f6"></a>
 </div>
 
 Bu proje, T.C. Ulaştırma ve Altyapı Bakanlığı Siber Güvenlik Daire Başkanlığı (USOM) tarafından yayınlanan [zararlı URL listesini](https://www.usom.gov.tr/url-list.txt) çeşitli güvenlik araçları için uygun formatlara dönüştürmektedir.
