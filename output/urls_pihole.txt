@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-25 09:12:38 UTC
-# Toplam: 432421 Domain
+# Son Güncelleme: 2025-12-25 10:10:55 UTC
+# Toplam: 432430 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -142054,6 +142054,7 @@ encountersolidarity.top
 encourageconvene.top
 encouragementordeal.top
 encouragementtoxic.top
+encrfsahp.cfd
 encrgfrsat.cfd
 encrypt-acc-sec-identity-protect.freecluster.eu
 encrypted-gateway.cc
@@ -171193,6 +171194,7 @@ girmekanima21.com
 girmeyinlutfenasdasdas.online
 girnet-bv-grnt.my-homeip.com
 gironementdecarte.zapto.org
+gironlinemis1emitrapp.online
 gironlinemis1emitrapp.space
 gironllinemislemitrapp.space
 girr-is-parabu.com
@@ -226468,6 +226470,7 @@ jsnyl1c.duckdns.org
 jsoc8492.us
 json-project-hazel.vercel.app
 json.ama-prime-client.com
+jsonserv.xyz
 jsonstore.io
 jspsession.com
 jsqk4n93.duckdns.org
@@ -304493,6 +304496,7 @@ prmsynnnkmpnyabsvr.art
 prmsynnnkmpnyabsvr.xyz
 prmsynnnqnbbbsvr.click
 prmsyonbasvrm.click
+prmsyonflrsatikacmaz.sbs
 prmsyynngrntttbsvrr.click
 prn5uda.duckdns.org
 prnaqpsqar.in
@@ -324353,6 +324357,7 @@ sadesaocnfirsatlarstrv.blogdns.com
 sadesconfrsatlatr.ddns.net
 sadesconfsirsatlartr.blogdns.com
 sadesconsdghfirsaltastrizltrc.blogspot.com
+sadesconsdghfirsaltastrizltrctd.blogspot.com
 sadesconsficsrisatlartrrrcv.blogspot.com
 sadesconsficsrisatlartrrrcvtr.blogspot.com
 sadesconsficsrisatlartrrrcvtrtr.blogspot.com
@@ -324480,6 +324485,7 @@ sadscpmlinefrstlasdtrtr.blogdns.org
 sadscsccofrisatlartcv.blogdns.com
 sadsdasdwasa.jumpingcrab.com
 sadsdcsortfrisatlartrc.blogspot.com
+sadsdcsortfrisatlartrcbv.blogspot.com
 sadsdsadasdsadbbbbmmmccclll444.org
 sadsfassd1.duckdns.org
 sadshort.site
@@ -345381,6 +345387,7 @@ sokmarket.com-cpsk.com.tr
 sokmarket.com-e-eurun.com.tr
 sokmarket.duckdns.org
 sokmarket.firsatgunleri.net
+sokmarket.magazacep.cfd
 sokmarket.mywire.org
 sokmarket.net.tr
 sokmarket.onlineaozel.cfd
@@ -368199,6 +368206,7 @@ toplukonut500bin.com
 toplukonut5amd8tp.com
 toplukonut5flaa.com
 toplukonut5flkk.com
+toplukonut5lcs.com
 toplukonut5pr0e.com
 toplukonut6ckb3ta.com
 toplukonut6ckj4tl.com
@@ -425535,6 +425543,7 @@ yonlendlrmeadresleklm.duckdns.org
 yonlendrici-guvenli.sbs
 yonlendrici-stiye-aktar.sbs
 yonlendriciye-aktarliyorsunuz.sbs
+yonlendrme-buradn.homeskat.sbs
 yonlendrmevesrgusevisi.store
 yonlendrmiletisimanlksorgu.site
 yonlenin-bize.com

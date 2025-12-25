@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-25 09:12:38 UTC
-! Total: 345085 rules
+! Last modified: 2025-12-25 10:10:55 UTC
+! Total: 345092 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -112696,6 +112696,7 @@
 *://*.encourageconvene.top/*
 *://*.encouragementordeal.top/*
 *://*.encouragementtoxic.top/*
+*://*.encrfsahp.cfd/*
 *://*.encrgfrsat.cfd/*
 *://*.encrypted-gateway.cc/*
 *://*.encrypted-host.cc/*
@@ -136519,6 +136520,7 @@
 *://*.girlythings.shop/*
 *://*.girmekanima21.com/*
 *://*.girmeyinlutfenasdasdas.online/*
+*://*.gironlinemis1emitrapp.online/*
 *://*.gironlinemis1emitrapp.space/*
 *://*.gironllinemislemitrapp.space/*
 *://*.girr-is-parabu.com/*
@@ -160608,6 +160610,7 @@
 *://*.homesjokerflexvakif.com/*
 *://*.homesjterkedfr.com/*
 *://*.homeskartalbddk.com/*
+*://*.homeskat.sbs/*
 *://*.homesker.xyz/*
 *://*.homeskerdasdacahsflesk.cloud/*
 *://*.homeskerdasdahokkaflesk.cloud/*
@@ -183323,6 +183326,7 @@
 *://*.jsoc8492.us/*
 *://*.jsoid.com/*
 *://*.jsonpost.xyz/*
+*://*.jsonserv.xyz/*
 *://*.jsonstore.io/*
 *://*.jspsession.com/*
 *://*.jsrmb.com/*
@@ -203887,6 +203891,7 @@
 *://*.magazaaktuelmarketiy.sbs/*
 *://*.magazaalarii.com/*
 *://*.magazaayaginahementeslimatalisveris.cfd/*
+*://*.magazacep.cfd/*
 *://*.magazacepteonline.biz.tr/*
 *://*.magazacepteonline.com.tr/*
 *://*.magazacepteonline.info.tr/*
@@ -245239,6 +245244,7 @@
 *://*.prmsynnnkmpnyabsvr.xyz/*
 *://*.prmsynnnqnbbbsvr.click/*
 *://*.prmsyonbasvrm.click/*
+*://*.prmsyonflrsatikacmaz.sbs/*
 *://*.prmsyynngrntttbsvrr.click/*
 *://*.prnaqpsqar.in/*
 *://*.prncfdt.com/*
@@ -294252,6 +294258,7 @@
 *://*.toplukonut5amd8tp.com/*
 *://*.toplukonut5flaa.com/*
 *://*.toplukonut5flkk.com/*
+*://*.toplukonut5lcs.com/*
 *://*.toplukonut5pr0e.com/*
 *://*.toplukonut6ckb3ta.com/*
 *://*.toplukonut6ckj4tl.com/*
