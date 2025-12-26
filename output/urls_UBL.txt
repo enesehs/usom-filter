@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-26 10:10:45 UTC
-! Total: 345178 rules
+! Last modified: 2025-12-26 11:09:03 UTC
+! Total: 345180 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -191370,6 +191370,7 @@
 *://*.kepcalljaste.xyz/*
 *://*.kepce.name.tr/*
 *://*.kepdaquksodubrboj.net/*
+*://*.kepdogrulama.com/*
 *://*.keperfoot.com/*
 *://*.kepguncel-hepsiburada.com/*
 *://*.kepguncel.com/*
@@ -211825,6 +211826,7 @@
 *://*.mobilcekilisi.net/*
 *://*.mobilcekilisi.org/*
 *://*.mobilcep-vakifdijital.ml/*
+*://*.mobilcep.cfd/*
 *://*.mobilcepbank.net/*
 *://*.mobilcepdnzgris.cf/*
 *://*.mobilcepdnzgris.ga/*
