@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-26 07:13:11 UTC
-! Total: 345150 rules
+! Last modified: 2025-12-26 08:13:50 UTC
+! Total: 345171 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23537,6 +23537,7 @@
 *://*.aitecnooenterprises.com/*
 *://*.aitfinoutlay.top/*
 *://*.aitoplay.com/*
+*://*.aivanlen.com/*
 *://*.aivazidis.gq/*
 *://*.aiwriter.expert/*
 *://*.aiwriteronline.pro/*
@@ -26819,6 +26820,7 @@
 *://*.alacatida.click/*
 *://*.alaccane.net/*
 *://*.aladadear.com/*
+*://*.aladdin-renov.com/*
 *://*.aladebtrading.com/*
 *://*.aladiyat.ae/*
 *://*.alae-bema4om-ef.com/*
@@ -40894,6 +40896,7 @@
 *://*.bas-vur-edestek.com/*
 *://*.bas-vuru-destek.com/*
 *://*.bas-vuru-kampanya-sendeqnb.xyz/*
+*://*.bas-vuru-onl-ine.xyz/*
 *://*.bas-vurum-destek-tr.com/*
 *://*.basadayasadabugada.site/*
 *://*.basagie.com/*
@@ -63841,6 +63844,7 @@
 *://*.bsvrrlrrm.digital/*
 *://*.bsvrrprmsynkmonyaaa.click/*
 *://*.bsvrrprmsynnkmpnya.art/*
+*://*.bsvrrprmsynnkmpnya.info/*
 *://*.bsvrrprmsynnkmpnya.pro/*
 *://*.bsvrrprmsynnkmpnyaa.click/*
 *://*.bsvrrprmsynnnkmpnyaa.click/*
@@ -76668,6 +76672,7 @@
 *://*.com-invoice.my/*
 *://*.com-iphone.support/*
 *://*.com-isjjz.top/*
+*://*.com-islem.com.tr/*
 *://*.com-istanbul.net/*
 *://*.com-itconfirms.live/*
 *://*.com-jaick.top/*
@@ -183082,6 +183087,7 @@
 *://*.joovy.ga/*
 *://*.jopkerto.tech/*
 *://*.jopwau.com/*
+*://*.joralitho.com/*
 *://*.joramanmnb.com/*
 *://*.joramanmnbman.com/*
 *://*.jordan-hosting.com/*
@@ -185559,6 +185565,7 @@
 *://*.kampan-basvuruvedagitimiparibudan-tr.tk/*
 *://*.kampanakaneaak.cfd/*
 *://*.kampanaldiniz.online/*
+*://*.kampanali.click/*
 *://*.kampanaya-aktif-hizmetler-s.com/*
 *://*.kampanaya-ayi-bitmiyor.shop/*
 *://*.kampanaya-gunlerimiz-bitmiyor.shop/*
@@ -186097,6 +186104,7 @@
 *://*.kampanyadakifirsatlaringunu.sbs/*
 *://*.kampanyadakiler.xyz/*
 *://*.kampanyadan.cfd/*
+*://*.kampanyadan.sbs/*
 *://*.kampanyadanal.cfd/*
 *://*.kampanyadanalisveris.com/*
 *://*.kampanyadanavolta.cfd/*
@@ -202624,6 +202632,7 @@
 *://*.lumetrail.site/*
 *://*.lumewave.online/*
 *://*.lumeway.site/*
+*://*.lumexov.com/*
 *://*.lumfennzonmir.com/*
 *://*.lumichain.pro/*
 *://*.lumies.co.za/*
@@ -209874,6 +209883,7 @@
 *://*.miistoria.com/*
 *://*.mijehen.top/*
 *://*.mijnoverheid.top/*
+*://*.mika-lea.com/*
 *://*.mikad.store/*
 *://*.mikalanovane.top/*
 *://*.mikapikamfshgl.com/*
@@ -213031,6 +213041,7 @@
 *://*.mobilsepetin-tr.online/*
 *://*.mobilservisi-1.com/*
 *://*.mobilservisi-2.com/*
+*://*.mobilservisi-3.com/*
 *://*.mobilservisi.com/*
 *://*.mobilservisim.com/*
 *://*.mobilservisin.com/*
@@ -220087,6 +220098,7 @@
 *://*.nevajewels.net/*
 *://*.nevaleapi.online/*
 *://*.nevarneyok33.digital/*
+*://*.nevarrix.com/*
 *://*.nevarsa-carfoursa.online/*
 *://*.nevarsa-carfursa.online/*
 *://*.nevarsa-carrefuorsa.online/*
@@ -230982,6 +230994,7 @@
 *://*.onlineyenitrsistem.com/*
 *://*.onlineyilbasifirsatim.com/*
 *://*.onlineyildizlargecidinde.shop/*
+*://*.onlineyndlendirim-ekrani.cyou/*
 *://*.onlineyolcu360.co/*
 *://*.onlineyolcu360.com/*
 *://*.onlineyonlendirimtransferi.cfd/*
@@ -253278,6 +253291,7 @@
 *://*.raggedintuition.top/*
 *://*.raggedlynotorious.top/*
 *://*.raggedlysob.top/*
+*://*.raggentora.com/*
 *://*.ragibpo.ru/*
 *://*.ragingenious.top/*
 *://*.ragingmalice.top/*
@@ -264352,6 +264366,7 @@
 *://*.sconesceramic.com/*
 *://*.sconnectr.xyz/*
 *://*.scoootlab.com/*
+*://*.scoopsdash.com/*
 *://*.scootkey.xyz/*
 *://*.scope-chat.xyz/*
 *://*.scopecommoran.top/*
@@ -274602,6 +274617,7 @@
 *://*.smoothwrite.top/*
 *://*.smotksn.net/*
 *://*.smotra-car.ru/*
+*://*.smountop.com/*
 *://*.smpinsankamil.sch.id/*
 *://*.smpleresrvtiongeust.com/*
 *://*.smplervation-gst.com/*
@@ -280935,6 +280951,7 @@
 *://*.stepdestiny.top/*
 *://*.stepescort.top/*
 *://*.stepfinancing.com/*
+*://*.stepforai.info/*
 *://*.stephaniechristinsen.net/*
 *://*.stephenandmaryodietefoundation.org/*
 *://*.stephencongra.xyz/*
@@ -285933,6 +285950,7 @@
 *://*.tanthanhdanh.vn/*
 *://*.tantononleleggo.it/*
 *://*.tanuatech.quest/*
+*://*.tanverov.com/*
 *://*.tanwasoked.com/*
 *://*.tanz0n1ya.com/*
 *://*.tanzanitecoffee.co.tz/*
@@ -312512,6 +312530,7 @@
 *://*.vecloffy.co.za/*
 *://*.vecoha.mobi/*
 *://*.vecrigiodmece.net/*
+*://*.vectariia.com/*
 *://*.vector123.xyz/*
 *://*.vectordmanagesoft.com/*
 *://*.vectorhaubens.pro/*
@@ -315081,6 +315100,7 @@
 *://*.vivtggiirislllemenu.com/*
 *://*.vivvvonlineislemenugiris.com/*
 *://*.vixmars.com/*
+*://*.vixmenor.com/*
 *://*.vixolita.sbs/*
 *://*.vixonar.com/*
 *://*.viyhxb.cn/*
@@ -342115,6 +342135,7 @@
 *://*.zenmrktingsnl.shop/*
 *://*.zennabe.com/*
 *://*.zennabe1.com/*
+*://*.zenngrowth.com/*
 *://*.zennova.store/*
 *://*.zenobox.eu/*
 *://*.zenovan.com/*
