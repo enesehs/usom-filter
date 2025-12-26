@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-26 19:07:52 UTC
-! Total: 345234 rules
+! Last modified: 2025-12-26 20:10:28 UTC
+! Total: 345236 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -227465,6 +227465,7 @@
 *://*.onesixeight.info/*
 *://*.onesixfoureight.cfd/*
 *://*.onesixzerothree.top/*
+*://*.onesnvol.sbs/*
 *://*.onesoftware.info/*
 *://*.onessearth.online/*
 *://*.onestartapi.com/*
@@ -266966,6 +266967,7 @@
 *://*.sentrex219.xyz/*
 *://*.sentry-title.com/*
 *://*.sentsigorta.site/*
+*://*.sentsmcvai.cfd/*
 *://*.sentsmcvai.sbs/*
 *://*.sentsuslae.net/*
 *://*.sentysupent.top/*
