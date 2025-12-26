@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-26 08:13:50 UTC
-# Toplam: 432542 Domain
+# Son Güncelleme: 2025-12-26 09:12:01 UTC
+# Toplam: 432548 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24832,6 +24832,7 @@ a1o1aldgndakazancz.blogdns.org
 a1o1aldi.sbs
 a1o1aldim.cfd
 a1o1aldim.net
+a1o1aldnaldinfrsatlarin.blogdns.com
 a1o1alisveris.net
 a1o1alisverisim.net
 a1o1alisverisin.net
@@ -24864,6 +24865,7 @@ a1o1cumrtmarket32.com
 a1o1de-online-alisveris.konusanlar-bilet.com.tr
 a1o1debuhaftadakacrma.blogdns.com
 a1o1debuyukkampanyalar.duckdns.org
+a1o1decomtrdesonanlar.blogspot.com
 a1o1defrsatlarbitmez.blogdns.com
 a1o1dekazanacaz.rf.gd
 a1o1dekazandiriyoruzredmifirsati.blogspot.com
@@ -176990,6 +176992,7 @@ gungun-bu1-fc797f0f11d6.herokuapp.com
 gungun-bu1821-b4c8761bbb4e.herokuapp.com
 gungun-bu188-accd274d6ad3.herokuapp.com
 gungun-bu1881-0443b3beb109.herokuapp.com
+gungun-bu18811-3d2dafe10049.herokuapp.com
 gungun-su-1c2afc80c691.herokuapp.com
 gungun-su1821-d59ec834728f.herokuapp.com
 gunhaber24.com
@@ -257803,6 +257806,7 @@ medevlet-iade-aidat-sorguu-sistemiiii.xyz
 medevlet-iade-iade-sorgu-sistemii.xyz
 medevlet-iade-sisstemi.xyz
 medexplor.com
+medfables.com
 medfastpower.weebly.com
 medfioytrkdkcodlskeej.net
 media-haber.club
@@ -258929,6 +258933,7 @@ merkezbanks.com
 merkezbanks.info
 merkezbelediyeislemi.net
 merkezcezaodeme.sg-host.com
+merkezcicek.site
 merkezcicekevi.com
 merkezcicekevi.info
 merkezcimeri.com
@@ -424814,6 +424819,7 @@ ylbsikrcda.com
 ylbsiozlsnlpzrf0r.com.tr
 ylbsiozlsnlpzrf0r.xyz
 ylbsiozzllindrm.click
+ylbsiyklstikrc.com
 ylbsozlfrsatlrgldi.shop
 ylbwogvqx.com
 ylbyiy.xyz
