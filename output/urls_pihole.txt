@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-26 09:12:01 UTC
-# Toplam: 432548 Domain
+# Son Güncelleme: 2025-12-26 10:10:45 UTC
+# Toplam: 432555 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63548,6 +63548,7 @@ belastingoverzicht.info
 belauzerimde.site
 belauzerimde.space
 belauzerimde.website
+belaysolutions.link
 belbim-istanbul-website.web.app
 belbim-lstanbulkart.net
 belbim.online
@@ -86147,6 +86148,7 @@ burdanaldiklrnizsinirli.shop
 burdanaldim.club
 burdanaldim.online
 burdanaldim.tk
+burdanaliyoruz.sbs
 burdanaltelefonunumutluol.cfd
 burdanaltelefonunumutluol.sbs
 burdanbizimle.com.tr
@@ -176994,6 +176996,7 @@ gungun-bu188-accd274d6ad3.herokuapp.com
 gungun-bu1881-0443b3beb109.herokuapp.com
 gungun-bu18811-3d2dafe10049.herokuapp.com
 gungun-su-1c2afc80c691.herokuapp.com
+gungun-su18121-9335bf8ae806.herokuapp.com
 gungun-su1821-d59ec834728f.herokuapp.com
 gunhaber24.com
 gunhandemirbas.cfd
@@ -247998,6 +248001,7 @@ lionking-ticket.com
 lionleese.cc
 lionmoan.top
 lionoi.adygeya.su
+lionsdenim.xyz
 lionsdl.fit
 lionsguard.ddns.net
 lionsotelcloudz.com
@@ -277712,6 +277716,7 @@ nurgazluxmasa.vip
 nurgazmasa.vip
 nurgazmasatakimi.xyz
 nurglass.com
+nurolfinans.net
 nurolyatirim.com
 nursam161.hopto.org
 nursechaos.top
@@ -368644,6 +368649,7 @@ toryghyter.ddns.net
 torys.html-5.me
 torzonnbelfen.com
 tos2fm.duckdns.org
+tosaaai.dns.navy
 tosals.ink
 toscarfilo.net
 tosdv.com
@@ -380759,6 +380765,7 @@ tykpka6lil.com
 tyler.clayratnik.top
 tylerennis.duckdns.org
 tylify.site
+tylnfrdmre4.web.app
 tylron.at
 tylvhekacm.duckdns.org
 tylxup.duckdns.org
