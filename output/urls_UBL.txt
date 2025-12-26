@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-26 14:09:53 UTC
-! Total: 345194 rules
+! Last modified: 2025-12-26 15:09:38 UTC
+! Total: 345203 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20692,6 +20692,7 @@
 *://*.ag082d.top/*
 *://*.agaaangranti.com.tr/*
 *://*.agacebe.com.br/*
+*://*.agaclabs.com/*
 *://*.agadasanma.com/*
 *://*.agafaafafaghaa.xyz/*
 *://*.agagagaragnti.com.tr/*
@@ -65769,6 +65770,7 @@
 *://*.buradangirsenesende.com/*
 *://*.buradangirsenize.com/*
 *://*.buradanhemengiriyozbea.com/*
+*://*.buradanhizlicabulsende.com/*
 *://*.buradanhizmet.app/*
 *://*.buradanistanbulluolun.com/*
 *://*.buradankatilin.com/*
@@ -109169,6 +109171,7 @@
 *://*.egmkarar.net/*
 *://*.egmkbg.info/*
 *://*.egmmalicezatr.org/*
+*://*.egmmaliyekamu.org/*
 *://*.egmmlbul.net/*
 *://*.egmmm.online/*
 *://*.egmportal.com/*
@@ -128148,6 +128151,7 @@
 *://*.frsataddass1.xyz/*
 *://*.frsataks-bgn.cfd/*
 *://*.frsatayaginakadar-giriswebtr.xyz/*
+*://*.frsataylari.xyz/*
 *://*.frsatbasvrumtodayhediyem.net/*
 *://*.frsatbrdaa.capetown/*
 *://*.frsatbrdaxyx.capetown/*
@@ -187946,6 +187950,7 @@
 *://*.kapinageldiflrsat.art/*
 *://*.kapinageldikampanyan.xyz/*
 *://*.kapinageldisiparisin.xyz/*
+*://*.kapinagelenheyecandolusu.com/*
 *://*.kapinagelsin.click/*
 *://*.kapinagelsin.org/*
 *://*.kapinagelsin.xyz/*
@@ -192370,6 +192375,7 @@
 *://*.kimlerin-ailesi-bizlerde-onanir-kabul-edilir.com/*
 *://*.kimlerin-elleri-guzel-ailesinde-onanir-bizlere.com/*
 *://*.kimlerincelemisolabilir.tk/*
+*://*.kimlerkimlergeldi.cfd/*
 *://*.kimlerle-burada-mutlu-olursun-bizi-sakin-unutma.com/*
 *://*.kimlerle-geldiniz-burada-hos-karsilariz-sizleri.com/*
 *://*.kimlerle-geldiniz-burada-hos-karsilariz.com/*
@@ -242867,6 +242873,7 @@
 *://*.pnlbsvru-95blnvddtv.com/*
 *://*.pnlbzm.xyz/*
 *://*.pnliineaktuel.com/*
+*://*.pnllinemisllewtrapp.site/*
 *://*.pnmger.com/*
 *://*.pnmugjqc.com/*
 *://*.pnmwpnrpps.in/*
@@ -254003,6 +254010,7 @@
 *://*.randevualmalariniz.online/*
 *://*.randevualmaliyim.net/*
 *://*.randevualmhrs.net/*
+*://*.randevualmuayene.com/*
 *://*.randevualportal.net/*
 *://*.randevualtr.com/*
 *://*.randevubas.net/*
@@ -344248,6 +344256,7 @@
 *://*.zirratbankasi.com/*
 *://*.zirratbankinternetsubesi.tk/*
 *://*.zirratbnk.com/*
+*://*.zirratgunu.cfd/*
 *://*.zirratkartodeme.com/*
 *://*.zirratkatilim.com/*
 *://*.zirratkrdini.baby/*
