@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-26 11:09:03 UTC
-# Toplam: 432559 Domain
+# Son Güncelleme: 2025-12-26 12:23:35 UTC
+# Toplam: 432566 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10252,6 +10252,7 @@
 2b3f258e4411h.net
 2b403359.dj-hd5kfu.shop
 2b42e2lii.duckdns.org
+2b56sxo.storage.googleapis.com
 2b808a.duckdns.org
 2b9hrk.duckdns.org
 2b9thw9.duckdns.org
@@ -122583,6 +122584,7 @@ dogrulama-burganbank.fm
 dogrulama-edevlet-gov-tr.com
 dogrulama-payfix.vercel.app
 dogrulama-tursab.com.tr
+dogrulama.cfd
 dogrulama.org
 dogrulama.trcsb.net
 dogrulama.website
@@ -130801,6 +130803,7 @@ e-okulmebgovtr.rf.gd
 e-okulmebgovtrvelibilgilendirme.rf.gd
 e-onay.co
 e-onay.info
+e-onay.online
 e-onay.org
 e-onayaktifsistemi.online
 e-onayim.com
@@ -148338,6 +148341,7 @@ evklrkdbsvr.net
 evklrmiredial.net
 evknrkj.net
 evkolay.click
+evkonut.com.tr
 evkonutbasvuru.cfd
 evkonutsahibiol.bounceme.net
 evkrbsvrlr.net
@@ -241466,6 +241470,7 @@ krcarlkgnlrigeld.com
 krcasfshnmwu.io
 krcasiparisdunyasi.xyz
 krcasnayylbsi.com
+krcaylbsdivkti.com
 krcaylbsi.com
 krcaylbsidstkk.com
 krcaylbsignleri.com
@@ -301362,6 +301367,7 @@ pluginsrv2.duckdns.org
 plugman1.ga
 plugvo.com
 pluifwyiuxeavj.me
+plumagrade.shop
 plumberdepiction.top
 plumberpreceding.top
 plumberscrutinize.top
@@ -325626,6 +325632,7 @@ sahibinden-guvenli-al.xyz
 sahibinden-guvenli-alim.online
 sahibinden-guvenli-alisveris.com
 sahibinden-guvenli-alisveris.com.tr
+sahibinden-guvenli-alisveris.e-onay.online
 sahibinden-guvenli-alisveris.online-tr.sa.com
 sahibinden-guvenli-alisveris.unaux.com
 sahibinden-guvenli-alisverisim.com
