@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-27 17:07:59 UTC
-# Toplam: 432695 Domain
+# Son Güncelleme: 2025-12-27 18:13:04 UTC
+# Toplam: 432696 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -287790,6 +287790,7 @@ oonybmr.duckdns.org
 ooo-skadresi-xyz.cdn.ampproject.org
 oooa1bro01kommponyo.duckdns.org
 ooocyber.keenetic.pro
+oooesabajgsdi.sbs
 ooofplmh29.ru
 ooofytcx99yi.ru
 ooomicrosoftcloud.ddns.net
