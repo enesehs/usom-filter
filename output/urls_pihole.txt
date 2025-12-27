@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-27 10:09:18 UTC
-# Toplam: 432667 Domain
+# Son Güncelleme: 2025-12-27 11:07:45 UTC
+# Toplam: 432674 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40391,6 +40391,7 @@ aldimmaldimmkampanyalarini.xyz
 aldimmaldimmkapanyalardan.com.tr
 aldimmaldimmkapanyalardan.xyz
 aldimpromoonayidenizdenbasvur.duckdns.org
+aldimsaricicegeann.blogspot.com
 aldimujdefirsat.net
 aldimutfaka1.cfd
 aldimutfaka1.sbs
@@ -155973,6 +155974,7 @@ firsatdunyamiz.xyz
 firsatdunyasi-a1o1.net
 firsatdunyasi.best
 firsatdunyasi.click
+firsatdunyasi.net.tr
 firsatdunyasi.ru.com
 firsatdunyasi.sa.com
 firsatdunyasi.sbs
@@ -239207,6 +239209,7 @@ kmpmyaaaprmsynnbsvr.info
 kmpnkrdbsvronl.online
 kmpnnnyaaabsvrrrgrnntt.click
 kmpnnya-aldn-aldn-frssatlar.com
+kmpnnyaaabsvrrrprmoo.live
 kmpnnylrii-kacciirmaa.com
 kmpny.2023araclar.xyz
 kmpnya-al-ucz-hmen.shop
@@ -245132,6 +245135,7 @@ l68gmt56y.duckdns.org
 l6c0wr6.duckdns.org
 l6fzr.jwi2b.com
 l6i3x35ef.duckdns.org
+l6kewdntjm.storage.googleapis.com
 l6m1gd.duckdns.org
 l6v86ix0.duckdns.org
 l6wijvc5.duckdns.org
@@ -324648,6 +324652,7 @@ sadsdcsortfrisatlartrc.blogspot.com
 sadsdcsortfrisatlartrcbv.blogspot.com
 sadsdcsortfrisatlartrcbvyt.blogspot.com
 sadsdcsortfrisatlartrcbvytr.blogspot.com
+sadsdcsortfrisatlartrcbvytrc.blogspot.com
 sadsdsadasdsadbbbbmmmccclll444.org
 sadsfassd1.duckdns.org
 sadshort.site
@@ -358728,6 +358733,7 @@ tasarruf-kulubun.name.tr
 tasarrufakli.org
 tasarrufcep.com
 tasarrufkredi.com
+tasarruflumutfakalisverisiyontemleri.cfd
 tasarrufplani-2024.online
 tasbeehzone.com
 tasdwd.blogspot.com
@@ -364029,6 +364035,7 @@ thailandgirlqwe.hopto.org
 thailandgirlzxc.hopto.org
 thailandpost.ddns.net
 thaipoliticstoday.com
+thaitishop.com
 thaivilan.com
 thalassiansanctuary.com
 thalassophilous.com
