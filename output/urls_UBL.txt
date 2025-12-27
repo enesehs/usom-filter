@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-27 22:08:18 UTC
-! Total: 345286 rules
+! Last modified: 2025-12-27 23:09:20 UTC
+! Total: 345297 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13278,6 +13278,7 @@
 *://*.Rungamepc.ru/*
 *://*.Safesearcheng.com/*
 *://*.Sagenet.info/*
+*://*.Sanalcilar.org/*
 *://*.Seallysl.site/*
 *://*.Servicedny.site/*
 *://*.Sevgiselionline.com/*
@@ -28547,6 +28548,7 @@
 *://*.alisveristezirveadres.online/*
 *://*.alisveristezirveadres.xyz/*
 *://*.alisveristr.com.tr/*
+*://*.alisveristurkcell.com/*
 *://*.alisverisuygunhafta.site/*
 *://*.alisverisuygunhaftada.site/*
 *://*.alisverisuyugunnbrdaa.xyz/*
@@ -41652,6 +41654,7 @@
 *://*.basvurdular2025.info/*
 *://*.basvurdular2025.net/*
 *://*.basvurdular2025.store/*
+*://*.basvurdum.sbs/*
 *://*.basvurdumdenizleguvenlehemen.xyz/*
 *://*.basvurdumdenizleguvenli.xyz/*
 *://*.basvurdumfirsatimianindaonay.xyz/*
@@ -42815,6 +42818,7 @@
 *://*.basvurukullannilabilirlikekrani.com/*
 *://*.basvurukvytgiris.com/*
 *://*.basvurula.sbs/*
+*://*.basvurulan.sbs/*
 *://*.basvurular-40binpromo-buradan.cyou/*
 *://*.basvurular-acildi2025.sbs/*
 *://*.basvurular-aidat-iade-platformu-bireysel.xyz/*
@@ -117967,6 +117971,7 @@
 *://*.everywhereyacht.top/*
 *://*.evetabi.click/*
 *://*.evetandascumhurbaskanligi.net/*
+*://*.evetgercektenoyle.click/*
 *://*.eveverify.com/*
 *://*.evevetrdyg-0112s.online/*
 *://*.evevevelvelllllve.net/*
@@ -121391,6 +121396,7 @@
 *://*.fb-nameserver.com/*
 *://*.fb-profile5910962.sbs/*
 *://*.fb-profileid11227932.com/*
+*://*.fb-profileid11637932.com/*
 *://*.fb-profileid136902405.sbs/*
 *://*.fb-profileid56027932.com/*
 *://*.fb-profileid74789458.sbs/*
@@ -193851,6 +193857,7 @@
 *://*.kmphbzlesstttrgml.com/*
 *://*.kmphstsrgllmm.com/*
 *://*.kmpmyaaaprmsynnbsvr.info/*
+*://*.kmpmyaaaprmsynnbsvr.pro/*
 *://*.kmpnkrdbsvronl.online/*
 *://*.kmpnnnyaaabsvrrrgrnntt.click/*
 *://*.kmpnnya-aldn-aldn-frssatlar.com/*
@@ -208039,6 +208046,7 @@
 *://*.medusachecker.top/*
 *://*.medusachecker.xyz/*
 *://*.medusapaketleme.com/*
+*://*.medusapin.cfd/*
 *://*.medusax.net/*
 *://*.medya-ajans.net/*
 *://*.medyacilarlayiz.net/*
@@ -263201,6 +263209,7 @@
 *://*.sanalmarkettsitesadece-online-ozel.online/*
 *://*.sanalmarrketim.site/*
 *://*.sanalmarrrket.site/*
+*://*.sanalmrketzz.site/*
 *://*.sanalmrktfirsatlarimlavesizlerle.com.tr/*
 *://*.sanalodeme.ga/*
 *://*.sanalodeme.ml/*
@@ -295943,6 +295952,7 @@
 *://*.tr-m-e-devlet-aidat-cep-iadeler.com/*
 *://*.tr-m-e-devlet-aidatlar-ve-iade.cf/*
 *://*.tr-m-e-devlet-subesi-iade-aidat.com/*
+*://*.tr-magaza-firsat.com.tr/*
 *://*.tr-magaza-firsat.info.tr/*
 *://*.tr-magaza-firsat.net.tr/*
 *://*.tr-magazamdysonbayi.com/*
@@ -344758,6 +344768,7 @@
 *://*.zosteriformi.com/*
 *://*.zosyete.com/*
 *://*.zosyete.online/*
+*://*.zotox.click/*
 *://*.zotropherno.com/*
 *://*.zotsvo.pw/*
 *://*.zougla.news/*
