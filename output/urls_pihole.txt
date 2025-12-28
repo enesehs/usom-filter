@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-28 07:11:22 UTC
-# Toplam: 432740 Domain
+# Son Güncelleme: 2025-12-28 08:12:45 UTC
+# Toplam: 432746 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -73967,6 +73967,7 @@ bit.ly
 bit.ly2TSaN1H
 bit1srv.duckdns.org
 bitacid.net
+bitakimsorunsallar.click
 bitandbyte62.com
 bitanem.app
 bitaslem.online
@@ -78144,6 +78145,7 @@ bmimwcll.com
 bmimwcmel.com
 bmimzcell.com
 bmindctech.com
+bmindirimhaftasi.click
 bmividlec.com
 bmiwtnxp.com
 bmixcellkontor.tk
@@ -110382,6 +110384,7 @@ demlafka.org
 demlik-kampanyasi.world
 demmazondem.duckdns.org
 demmokarda.surf
+demmon50ltbuzdolabin.sbs
 demmonkampanya.xyz
 demmonsinirlisayida.xyz
 demmonzamani.xyz
@@ -116116,6 +116119,7 @@ derli-toplu-sergileyen-kacirmazda-sizlerde-yok.com
 derlikbirfirsat.com
 derlikbirfirsatlarimiz.com
 derlmod-tr.shop
+dermainsaat.com
 dermanacilsensden.xyz
 dermanbungalov.net
 dermanbutik.fun
@@ -422014,6 +422018,7 @@ yenicelersubesi.com.tr
 yenicelersubesi.online
 yenicelersubesi.xyz
 yenicelersubesinde.online
+yenicift.nicepage.io
 yenicigecisim.sg-host.com
 yenicksacbisweasd.net
 yenicozumlerimiz.com
@@ -423114,6 +423119,7 @@ yeniyiletkinligi.click
 yeniyiletkinligi.com
 yeniyilfibaylaguzel.ml
 yeniyilfirsati.com
+yeniyilfirsati.my-homeip.net
 yeniyilfirsatim.com.tr
 yeniyilfirsatim.net
 yeniyilfirsatim.online
