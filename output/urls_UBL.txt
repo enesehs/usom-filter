@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-28 15:08:26 UTC
-! Total: 345336 rules
+! Last modified: 2025-12-28 16:10:58 UTC
+! Total: 345339 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -108889,6 +108889,7 @@
 *://*.efsunhayatini.club/*
 *://*.efsunlarsokak.site/*
 *://*.efsyn.online/*
+*://*.eftal.club/*
 *://*.eftal101harcaharcabitmez.sbs/*
 *://*.eftalyatfxcswede.net/*
 *://*.eftftavm.com/*
@@ -170829,6 +170830,7 @@
 *://*.indrimlerikis2024.online/*
 *://*.indrimlerteksayfada.shop/*
 *://*.indrimlisanaozel.online/*
+*://*.indrimpaylasmlink.sbs/*
 *://*.indrimsinliursnlerii.com/*
 *://*.indrimsuperkampania.com/*
 *://*.indrisimlerinsikacirma.shop/*
@@ -338644,6 +338646,7 @@
 *://*.yilbasi-kampanya.xyz/*
 *://*.yilbasi-kampanyafirsati-bireyseleozel-tr.shop/*
 *://*.yilbasi-kampanyafirsati-bireyseleozel.xyz/*
+*://*.yilbasi-kampanyalari-sizlerle.com.tr/*
 *://*.yilbasi-kampanyasi-bim-ilebitiyor.com/*
 *://*.yilbasi-kampanyasi-bitiyor.store/*
 *://*.yilbasi-kampanyasi.ml/*
