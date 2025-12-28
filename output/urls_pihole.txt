@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-28 19:07:27 UTC
-# Toplam: 432804 Domain
+# Son Güncelleme: 2025-12-28 20:10:24 UTC
+# Toplam: 432807 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -137709,6 +137709,7 @@ efsanemaysaykatologlarii.com.tr
 efsanenisanindirimleri.com
 efsanenisanindirimleriburda.com
 efsanenisanindirmlerii.com
+efsaneonline.com
 efsanepazaridirimlerionline.com
 efsanepeceteindirimi.duckdns.org
 efsanesalikmpnyalribrdsngh.com
@@ -363407,6 +363408,7 @@ tercelety.top
 tercell.com
 tercell.icu
 tercell.online
+tercell.shop
 tercepico202120212021.duckdns.org
 terceroremco.duckdns.org
 tercih-senin12.net
@@ -428517,6 +428519,7 @@ zc.bnfhf.icu
 zc1800.oss-cn-shenzhen.aliyuncs.com
 zc4kplg.duckdns.org
 zc97kn.duckdns.org
+zcarrefrsaindirim.cfd
 zcclzrwtysvclql.com
 zcdvbnmowk.duckdns.org
 zceyiz.buzz
