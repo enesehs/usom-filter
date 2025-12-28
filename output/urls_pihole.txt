@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-28 11:08:17 UTC
-# Toplam: 432756 Domain
+# Son Güncelleme: 2025-12-28 13:23:11 UTC
+# Toplam: 432769 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -41596,6 +41596,7 @@ alisveris-kabul.com
 alisveris-kapida.app
 alisveris-kapida.net
 alisveris-kapinda.app
+alisveris-kapinizda.biz.tr
 alisveris-market.online
 alisveris-marketi.online
 alisveris-marketplace.online
@@ -63712,6 +63713,7 @@ belongencyclopaedia.top
 belongingssensational.top
 belongs-tells-sum-harvest.trycloudflare.com
 belongwatt.top
+belorvane.com
 belovedcensor.top
 beloveddeductible.top
 belovedfling.top
@@ -64967,6 +64969,7 @@ bgncrfsgnleri.cfd
 bgncshksl.duckdns.org
 bgndolnfsrtlarn.sbs
 bgne-dgrktmk.com
+bgnfrsataylarimiz.cfd
 bgnl-ng-smd.shop
 bgnlerdeszlerlefrstlr.com
 bgnlerdsbyzlerdbyk.shop
@@ -116120,6 +116123,7 @@ derlikbirfirsat.com
 derlikbirfirsatlarimiz.com
 derlmod-tr.shop
 dermainsaat.com
+dermainsaat.icu
 dermanacilsensden.xyz
 dermanbungalov.net
 dermanbutik.fun
@@ -121816,6 +121820,7 @@ dnmki.duckdns.org
 dnmsduialdevolr.cn
 dnn.duckduckanimesdownload.net
 dnndndndndndndndnn.com.tr
+dnnfrsataylarimiz.cfd
 dnnlzwsnpm.duckdns.org
 dnnszdasddarabbbbaahhediyesiii.net
 dnnszdasddarabbbbaxhhediyesiii.net
@@ -180839,6 +180844,7 @@ haftalikindirimler-markettebasladi.cfd
 haftalikindirimlerbasladiifirsatlarikacirmayin.online
 haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
+haftalikmarketalisverisiniduzenle.cfd
 haftalikmutfakmasraflariniazaltin.cfd
 haftalikodemem.net
 haftaliktanitim.com.tr
@@ -210964,6 +210970,7 @@ indirimligeldiklimaci.xyz
 indirimlignlers.xyz
 indirimligunbasladi.com
 indirimligunler-burada.biz.tr
+indirimligunler-burada.web.tr
 indirimligunler-turkcell.com
 indirimligunlera101comtr.fun
 indirimligunlera101comtr.site
@@ -271087,6 +271094,7 @@ mzutok.com
 mzuzulionsclub.org
 mzvyi.com
 mzwan3q.duckdns.org
+mzxvmnkaflksfpwqkfsa.live
 mzykrgg.com
 mzyvtqezjh.duckdns.org
 mzzkcnsekf.duckdns.org
@@ -274371,6 +274379,7 @@ newyearcircus.ru
 newyearddnsaddressupdatelink.duckdns.org
 newyearjanuarycampaign.cloud
 newyearlastdeals.cloud
+newyearshappy.click
 newyearskampanyatodaysalan.site
 newyearstellcompany.com
 newyolunibbptthgs.net
@@ -324266,6 +324275,7 @@ sadcconalna1.duckdns.org
 sadcconlliefrsatlarsdac.blogdns.org
 sadccynlnyeozalfrsatlar.blogdns.org
 sadcecopnlninfirsatglar.duckdns.org
+sadcefirsatlaraozelcr.blogdns.com
 sadcefrstlrlndrmlr.xyz
 sadceomlfirstaltr.blogdns.org
 sadceonlanalaraozelfrsatlar.blogspot.com
@@ -363367,6 +363377,7 @@ terc.hopto.org
 tercard.com
 tercelety.top
 tercell.com
+tercell.icu
 tercepico202120212021.duckdns.org
 terceroremco.duckdns.org
 tercih-senin12.net
@@ -419806,6 +419817,7 @@ yapimkredimweb.net
 yapimkredimyazaozle.com
 yapimobiilgirisi.com
 yapimobiilgirisii.com
+yapimobil.aralik.firsatlari.sizlerle.newyearshappy.click
 yapimobil.bireysel.basvuru.bizde.livockrepi.click
 yapimobil.com
 yapimobil.com.tr
@@ -421735,6 +421747,7 @@ yeni-yila-firsatlarla.shop
 yeni-yila-ozel-fiyatlar-firsatlar-indirimler.com
 yeni-yila-ozel-fiyatlar-firsatlar-indirimler.online
 yeni-yila-ozel-fiyatlar.com
+yeni-yilda-a-1o1-frsatlari.blogspot.com
 yeni-yilda-evine-al.shop
 yeni-yilda-firsatlar.shop
 yeni-yilda-yeni-firsatlar.shop
