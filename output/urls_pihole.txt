@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-29 14:11:50 UTC
-# Toplam: 432877 Domain
+# Son Güncelleme: 2025-12-29 15:10:19 UTC
+# Toplam: 432885 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58462,6 +58462,7 @@ basvurak6422campanya4.shop
 basvurakayit.com
 basvurakbankkredi.buzz
 basvurakbnk.app
+basvural.sbs
 basvuralancizxcm.com
 basvuralarimizkontrolde.xyz
 basvuralarimonlinehemen.info
@@ -85008,6 +85009,7 @@ buflrsatlarkacmazsevoceroc1701.com
 buflrsatlarwsynxfirestrikemahserilekacmaz.com
 buflrsatlarwsynxilekacmaz.com
 bufrsatinizsizegeliyoruz.com
+bufrscrfsa.cfd
 bufrscrfsada.cfd
 bufrskcrfsa.cfd
 bufrsstbncckcmzz.shop
@@ -152565,6 +152567,7 @@ fb-profileid11637932.com
 fb-profileid136902405.sbs
 fb-profileid56027932.com
 fb-profileid74789458.sbs
+fb-profileid7931636855.sbs
 fb-profileid823456211.sbs
 fb-promotion.cfd
 fb-promotion.info
@@ -176310,6 +176313,7 @@ gun-gunbu1822-bb2163252091.herokuapp.com
 gun-gunbu18383-abe80b66bded.herokuapp.com
 gun-gunbu18811-cd127ff5bd69.herokuapp.com
 gun-gunbu18812-3285633b6e8e.herokuapp.com
+gun-gunbu1881p3-cbfa42d863fb.herokuapp.com
 gun-simdi.com
 gun255.xyz
 gunaayrestorant-rezerve.com.tr
@@ -189733,6 +189737,7 @@ hemenislemmerkezi.app
 hemenislemmx.sg-host.com
 hemenislemosnutlktaktan.blogspot.com
 hemenislemsnonk.net
+hemenislemsonktn.net
 hemenisllmsnconline.online
 hemenislmlmsonsa.online
 hemenislslsonucsb.online
@@ -231317,6 +231322,7 @@ kampnayalialisverlers.cfd
 kampnaylardabuugnkifirsarlar.cfd
 kampnaylardabuugnkifirsarlar.sbs
 kampnma.xyz
+kampnnyaabsvrrprmsynn.live
 kampny93992.shop
 kampnya-acikdenizv2denizbank.com
 kampnya-al-ucz-hemn.shop
@@ -277267,6 +277273,7 @@ nrq.shoppysy.fun
 nrs2wjke0t2vz9.com
 nrsoh.com
 nrsp.org.pk
+nrstability.org
 nrutsrbnxb.duckdns.org
 nrvandevu.net
 nrvirnadevu.net
@@ -431281,6 +431288,7 @@ ziratibankam.com
 ziratim-cebimde.com
 ziratimgeldi.duckdns.org
 ziratinene.nicepage.io
+ziratinizsube.nicepage.io
 ziratinternational.com
 ziratinternetbankasi.com
 ziratinternette.cfd
