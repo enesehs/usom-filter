@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-29 21:08:32 UTC
-# Toplam: 432937 Domain
+# Son Güncelleme: 2025-12-29 22:09:37 UTC
+# Toplam: 432939 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -152575,6 +152575,7 @@ fb-online-yapicep.vercel.app
 fb-onlinecepyapi.vercel.app
 fb-profile5910962.sbs
 fb-profileid11227932.com
+fb-profileid11456437932.com
 fb-profileid11637932.com
 fb-profileid136902405.sbs
 fb-profileid456437932.com
@@ -305335,6 +305336,7 @@ proflime-kim-baktikontrol-edelim.ml
 proflourish.club
 proflylife.online
 profortune-tw.com
+profosyonelreklamhizmetleri.online
 profotomotiv.com
 profound.zzux.com
 profoundeloquence.top
