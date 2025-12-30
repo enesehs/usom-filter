@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-30 22:09:10 UTC
-# Toplam: 433073 Domain
+# Son Güncelleme: 2025-12-30 23:09:03 UTC
+# Toplam: 433078 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63550,6 +63550,7 @@ beklededigitti.com
 beklediginde-gunler-gunesle-suslenir.com
 beklediginden-cok-daha-fazlasi-burada.com
 bekledikgeldindeydi.com
+beklemebasvur.sbs
 beklemeden-gelenler-herzaman-bizimle-sevinir.com
 beklemeden.xyz
 beklemedengelin.net
@@ -86906,6 +86907,7 @@ buyukhazirannfirsatlari.com.tr
 buyukinsan1921-9a2599b291ca.herokuapp.com
 buyukinsan1981-576e65a69cc2.herokuapp.com
 buyukinsan1982-88982fca54c6.herokuapp.com
+buyukinsan1982v4-6372b34ebaff.herokuapp.com
 buyukinsan1998-dd0bc8eb382e.herokuapp.com
 buyukinsan998-62a0f1792fc4.herokuapp.com
 buyukkampanyaa.com
@@ -104883,6 +104885,7 @@ crfsnzhzrnda.com
 crfsnznsunduguteklflr.com
 crfsnztmmz.com
 crfsnzz.com
+crfsonlin.cfd
 crfsonlingnc.cfd
 crfsonlnfrsaa.cfd
 crfsrdnhlkageldkk.shop
@@ -178253,6 +178256,7 @@ guvenlialisverisahibinden.com.tr
 guvenlialisverisahibinden.xyz
 guvenlialisverisburada.xyz
 guvenlialisverishizmeti.com
+guvenlialisverishizmetiniz.com
 guvenlialisverisim-ode.com
 guvenlialisverisim-sahibinden.com
 guvenlialisverisim.shop
@@ -335015,6 +335019,7 @@ sendekazan.website
 sendekazanabilirsins.com
 sendekazanbizinle.com
 sendekazanhalkla.rf.gd
+sendekazanhepburadan.com
 sendekazaniadeal.com
 sendekazanmak-istermisinkmpanyasi.tech
 sendekazanmakicinkatilhemen.tech
