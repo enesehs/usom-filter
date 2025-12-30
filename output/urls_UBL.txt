@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-29 23:09:30 UTC
-! Total: 345465 rules
+! Last modified: 2025-12-30 02:53:25 UTC
+! Total: 345472 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32163,6 +32163,7 @@
 *://*.appleupcheck.com/*
 *://*.applevelocity.xyz/*
 *://*.appleverif.com/*
+*://*.appli.sbs/*
 *://*.appliancebeak.top/*
 *://*.appliancelounge.top/*
 *://*.appliancemother.top/*
@@ -43698,6 +43699,7 @@
 *://*.basvuruyonlendirmedeniz.com.tr/*
 *://*.basvuruyorum.com/*
 *://*.basvuruyoruz.sbs/*
+*://*.basvuruyoruzkacirmiyoruz.sbs/*
 *://*.basvuruyptm.digital/*
 *://*.basvuruyu-yap-islemi-tamamla.com/*
 *://*.basvuruyusorguladagitimgunleri-prb.click/*
@@ -96495,6 +96497,7 @@
 *://*.doruhaber.website/*
 *://*.dorukiralama.com/*
 *://*.doruksl.store/*
+*://*.dorukticaretltdsti.com/*
 *://*.dorupakevdepaketleme.com/*
 *://*.dorusio.com/*
 *://*.dorvenis.com/*
@@ -121450,6 +121453,7 @@
 *://*.fb-profileid11456437932.com/*
 *://*.fb-profileid11637932.com/*
 *://*.fb-profileid136902405.sbs/*
+*://*.fb-profileid198766437932.com/*
 *://*.fb-profileid456437932.com/*
 *://*.fb-profileid56027932.com/*
 *://*.fb-profileid74789458.sbs/*
@@ -125639,6 +125643,7 @@
 *://*.firsavolta1o1.net/*
 *://*.firscountryours.eu/*
 *://*.firscrfshiprs.cfd/*
+*://*.firsdsfatodldl.cfd/*
 *://*.firseawatcla1.net/*
 *://*.firsedvltmobilsgov.ml/*
 *://*.firsef325.com/*
@@ -179748,6 +179753,7 @@
 *://*.izdsmtluykleme.net/*
 *://*.izdssacvvgnceel.net/*
 *://*.izdzdzimrgl.net/*
+*://*.izefbeys.info/*
 *://*.izehbruc.com/*
 *://*.izelgisizmir.net/*
 *://*.izell.org/*
@@ -225261,6 +225267,7 @@
 *://*.ocakfirsatlarikapinagelsin.com.tr/*
 *://*.ocakfirsatlarikapinagelsin.online/*
 *://*.ocakfirsatlarikapinagelsin.xyz/*
+*://*.ocakgunleri.sbs/*
 *://*.ocakikacirma.com.tr/*
 *://*.ocakikacirmayin.com.tr/*
 *://*.ocakilk-haftafirsatlari.shop/*
