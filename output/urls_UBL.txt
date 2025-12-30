@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-30 17:11:47 UTC
-! Total: 345534 rules
+! Last modified: 2025-12-30 18:15:06 UTC
+! Total: 345539 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42721,6 +42721,7 @@
 *://*.basvurugrantihemen.net/*
 *://*.basvurugrnt.us/*
 *://*.basvurugrskvtt.cloud/*
+*://*.basvuruhakkindabilgi.click/*
 *://*.basvuruhalkmobilsube.com/*
 *://*.basvuruhediyemdeday.net/*
 *://*.basvuruhediyenihemenal.com/*
@@ -186962,6 +186963,7 @@
 *://*.kampanyaligunlerdebugunler.pics/*
 *://*.kampanyaligunlerinnn.com.tr/*
 *://*.kampanyaligunlerinnn.xyz/*
+*://*.kampanyalii-lndirim-firsatlarii.online/*
 *://*.kampanyalii-lndirim-firsatlarii.xyz/*
 *://*.kampanyaliiitemuzurunleri.com.tr/*
 *://*.kampanyaliiitemuzurunleri.online/*
@@ -195394,6 +195396,7 @@
 *://*.kosendeagla.cfd/*
 *://*.kosfzv.com/*
 *://*.kosgeb-basvuru.click/*
+*://*.kosgebbasvuru.online/*
 *://*.kosgebform.click/*
 *://*.kosgebhibebasvuru.cfd/*
 *://*.kosgebiskur.com/*
@@ -338972,6 +338975,7 @@
 *://*.yilbasikampanyasisizlerle.cloud/*
 *://*.yilbasikapinakadarkampanyalar.com.tr/*
 *://*.yilbasikapinakadarkampanyalar.online/*
+*://*.yilbasikapinakadarkampanyalar.xyz/*
 *://*.yilbasikaracakampanya.top/*
 *://*.yilbasikatalog.live/*
 *://*.yilbasikatilim-kampanyasifirsatindasimdi.tech/*
@@ -344265,6 +344269,7 @@
 *://*.ziraatozelkampanya.com/*
 *://*.ziraatozelkampanyasi.com/*
 *://*.ziraatp.cfd/*
+*://*.ziraatpay.cfd/*
 *://*.ziraatpb.com/*
 *://*.ziraatpbinvest.com/*
 *://*.ziraatpbwm.com/*
