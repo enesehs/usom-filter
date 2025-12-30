@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-30 07:13:28 UTC
-# Toplam: 432970 Domain
+# Son Güncelleme: 2025-12-30 08:14:54 UTC
+# Toplam: 432977 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -89320,6 +89320,7 @@ calwear.com.tr
 calxa-disposeg.ddns.net
 calyphora.store
 calypsoempire.ddns.net
+calyxorin.com
 calzature.com.pk
 calzedoniaoutletturkiye.com
 calzedoniatr.com
@@ -152047,6 +152048,7 @@ fastbireyselacikdenizv2denizbank.co.vu
 fastbrokerlik.net.tr
 fastbsvuru.click
 fastbsvuru.life
+fastbsvuru.lol
 fastcarfilo.com
 fastcharm.online
 fastcheck-via-booking.com
@@ -212438,6 +212440,7 @@ insider.gr.com
 insiderppe.cloudapp.net
 insidertreasury.top
 insidetechie.xceltec.in
+insideukk.com
 insightcommonwealth.top
 insightdubious.top
 insightflow.my
@@ -338629,6 +338632,7 @@ shopli.store
 shoplovego.com
 shoploves.top
 shoplureklam14.xyz
+shoplvndrhaldi.com
 shopmira.store
 shopopp-2912.click
 shopoutdoorsrus.com
@@ -369120,6 +369124,7 @@ tourpetrolgas.com
 tourprecede.top
 tourrkiye.online
 toursellsk.shop
+tourseurope.tours
 tourtoinfoaccount.duckdns.org
 touseptial.naltbuckya.ru
 toutentris.com
@@ -372592,6 +372597,7 @@ transportlogistcs.com
 transportmilitancy.top
 transportorganizationil.shop
 transportseas.icu
+transsinova.com
 transtramersa.net
 transvil2.xyz
 transzw.xyz
@@ -400770,6 +400776,7 @@ weporsche.com
 weqonaz.com
 weqrmearma.in
 weqsdwqesdclick.art
+weqspan.com
 weqwe-weqeq-ewq.space
 wer-d.info
 werasmiro.top
