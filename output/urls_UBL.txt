@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-30 16:12:06 UTC
-! Total: 345526 rules
+! Last modified: 2025-12-30 17:11:47 UTC
+! Total: 345534 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13777,6 +13777,7 @@
 *://*.a1001turkiyemfirsat.shop/*
 *://*.a1001turkiyemfirsatlari.shop/*
 *://*.a100iletisimkampanyalar.online/*
+*://*.a100oo11-kacmaz-firsatlar.com.tr/*
 *://*.a100oo11-kacmaz-firsatlar.online/*
 *://*.a100oo11-kacmaz-firsatlar.xyz/*
 *://*.a101--------girisler.cyou/*
@@ -47591,6 +47592,7 @@
 *://*.biidastmgnkmyl6.com/*
 *://*.biieietl-etl.com/*
 *://*.biiemcell.com/*
+*://*.biiesnfsvics.sbs/*
 *://*.biiiimcelyukleee.com/*
 *://*.biiiincelllllllmmtlll.xyz/*
 *://*.biiiissxcceemml.tk/*
@@ -72456,6 +72458,7 @@
 *://*.ceptetrfirsat.net.tr/*
 *://*.ceptetrfirsat.org.tr/*
 *://*.ceptetrink.digital/*
+*://*.ceptetrmrkt.com.tr/*
 *://*.ceptetrmrkt.org.tr/*
 *://*.ceptettelekomlatanis.com/*
 *://*.cepteurunskhizmetler.com/*
@@ -83925,6 +83928,7 @@
 *://*.davaceza.net/*
 *://*.davacezalari.com/*
 *://*.davadosya.com/*
+*://*.davadosyalarim.org/*
 *://*.davadosyasi.com/*
 *://*.davaesorgu.org/*
 *://*.davalidosyam.com/*
@@ -108803,6 +108807,7 @@
 *://*.efsanegeldiburada.biz.tr/*
 *://*.efsanegeldiburada.info.tr/*
 *://*.efsanegeldiburada.net.tr/*
+*://*.efsanegunlergeldi.com/*
 *://*.efsanegunlerimaximum.com/*
 *://*.efsanehaziranayfirsatlarii.com.tr/*
 *://*.efsanehaziranayifirsatlarii.com.tr/*
@@ -196131,6 +196136,7 @@
 *://*.krediciniz.sbs/*
 *://*.kredicozumleri.net/*
 *://*.kredicozummerkezi.info/*
+*://*.kredidagitiyoruz.sbs/*
 *://*.kredidede2025.com/*
 *://*.krediden.sbs/*
 *://*.kredideniz-acikdenizbank.com/*
@@ -287970,6 +287976,7 @@
 *://*.tclink.info/*
 *://*.tcljwq.com/*
 *://*.tclliqrlqrmerpj.su/*
+*://*.tcmahkeme.org/*
 *://*.tcmaliye.net/*
 *://*.tcmaliyebakanligi.org/*
 *://*.tcmaliyebakanligigovtr.com/*
@@ -338964,6 +338971,7 @@
 *://*.yilbasikampanyasi.com/*
 *://*.yilbasikampanyasisizlerle.cloud/*
 *://*.yilbasikapinakadarkampanyalar.com.tr/*
+*://*.yilbasikapinakadarkampanyalar.online/*
 *://*.yilbasikaracakampanya.top/*
 *://*.yilbasikatalog.live/*
 *://*.yilbasikatilim-kampanyasifirsatindasimdi.tech/*
