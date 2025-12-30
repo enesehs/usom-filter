@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-30 11:09:45 UTC
-! Total: 345488 rules
+! Last modified: 2025-12-30 12:23:11 UTC
+! Total: 345501 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -501,6 +501,7 @@
 *://*.0lala-hom.rest/*
 *://*.0m26aqc.cn/*
 *://*.0md.us/*
+*://*.0menugirislemb0nuslari.online/*
 *://*.0mp4ep.cn/*
 *://*.0mpt3.com/*
 *://*.0mu2b67.cn/*
@@ -13776,6 +13777,7 @@
 *://*.a1001turkiyemfirsat.shop/*
 *://*.a1001turkiyemfirsatlari.shop/*
 *://*.a100iletisimkampanyalar.online/*
+*://*.a100oo11-kacmaz-firsatlar.online/*
 *://*.a101--------girisler.cyou/*
 *://*.a101--------girisler.xyz/*
 *://*.a101-1.com.tr/*
@@ -73781,6 +73783,7 @@
 *://*.cicekkcilikdiyariist.com/*
 *://*.cicekkeyfi.online/*
 *://*.cicekkutusu.vip/*
+*://*.cicekline.store/*
 *://*.cicekmarket.life/*
 *://*.cicekmarket.online/*
 *://*.cicekmarket.site/*
@@ -74844,6 +74847,7 @@
 *://*.clarlyconration.top/*
 *://*.clarmodq.top/*
 *://*.claroic.top/*
+*://*.clars-tz.xyz/*
 *://*.clarvix.sbs/*
 *://*.clas-c7.biz/*
 *://*.claserell.com/*
@@ -135282,6 +135286,7 @@
 *://*.ggu2tcqt0v.ru/*
 *://*.ggvbg-grlm.com.tr/*
 *://*.ggvruxovlbrm.com/*
+*://*.ggwk.cc/*
 *://*.ggwppro.com.tr/*
 *://*.ggwproot.info/*
 *://*.ggybj.in/*
@@ -149565,6 +149570,7 @@
 *://*.hattakredial.com/*
 *://*.hattaneyaparsanyapx.com/*
 *://*.hattapaket.net/*
+*://*.hattasimamobil.com/*
 *://*.hattasimaonline.com/*
 *://*.hattihisce.com/*
 *://*.hattimodeme.net/*
@@ -157263,6 +157269,7 @@
 *://*.hillhypocritical.top/*
 *://*.hillsidebeachclubb.com/*
 *://*.hillsideelegance.world/*
+*://*.hillsidesbeachfethiye.com/*
 *://*.hillsidesbeachsclubsfethiyes.com/*
 *://*.hillsubmerge.top/*
 *://*.hillycognitive.top/*
@@ -167487,6 +167494,7 @@
 *://*.ilan-odemesi-778668.com/*
 *://*.ilan-odemesi-778669.com/*
 *://*.ilan-onay.com.tr/*
+*://*.ilan-onay.online/*
 *://*.ilan-online.net/*
 *://*.ilan-ozel.com/*
 *://*.ilan-paramguvende-sahibindenn.com.tr/*
@@ -195181,6 +195189,7 @@
 *://*.konuttokibasvurusu.info/*
 *://*.konuttokibasvurusu.pro/*
 *://*.konuttokibasvurusu.xyz/*
+*://*.konuttokibasvurusuu.info/*
 *://*.konuttokibasvurusuu.xyz/*
 *://*.konuttokimbasvurum.click/*
 *://*.konuttrend.click/*
@@ -219381,6 +219390,7 @@
 *://*.neanlatynsen.com/*
 *://*.near-wallett.com/*
 *://*.nearassert.top/*
+*://*.nearbyailing.sbs/*
 *://*.nearbycontemplation.top/*
 *://*.nearchoosecontrol.top/*
 *://*.neardrill.top/*
@@ -245923,6 +245933,7 @@
 *://*.proflourish.club/*
 *://*.proflylife.online/*
 *://*.profortune-tw.com/*
+*://*.profosyonelreklamhizmetleri.com.tr/*
 *://*.profosyonelreklamhizmetleri.online/*
 *://*.profotomotiv.com/*
 *://*.profoundeloquence.top/*
@@ -266741,6 +266752,7 @@
 *://*.sendeyardimal.site/*
 *://*.sendeyenidunyalisin.com/*
 *://*.sendeyeniyilamutlugir.xyz/*
+*://*.sendeyetiserekalabilirsin.com/*
 *://*.sendeyetishepkazanlarla.com/*
 *://*.sendeyuzun-gulsssunyaz.tech/*
 *://*.sendeziraatle.tk/*
@@ -280248,6 +280260,7 @@
 *://*.ssl-gstatic.online/*
 *://*.ssl-gstatic.xn--net-0da/*
 *://*.ssl1-onmicrosoft365-sslshell.com/*
+*://*.ssl3.space/*
 *://*.ssl3d.com/*
 *://*.sslain19.com/*
 *://*.sslain69.com/*

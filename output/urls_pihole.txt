@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-30 11:09:45 UTC
-# Toplam: 432985 Domain
+# Son Güncelleme: 2025-12-30 12:23:11 UTC
+# Toplam: 433004 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1218,6 +1218,7 @@
 0mbmj0d.duckdns.org
 0md.us
 0md22.inm1.com
+0menugirislemb0nuslari.online
 0merq78.duckdns.org
 0mkerhl9r.duckdns.org
 0mmhp5jy.duckdns.org
@@ -19299,6 +19300,7 @@
 83718173628291737181719192.com
 83719462138234.xyz
 83724623547online.com
+8372828283883.duckdns.org
 837613-coinbase.com
 83775n3.duckdns.org
 837u36256749936u4636.linkpc.net
@@ -22591,6 +22593,7 @@ a1001turkiyem.site
 a1001turkiyemfirsat.shop
 a1001turkiyemfirsatlari.shop
 a100iletisimkampanyalar.online
+a100oo11-kacmaz-firsatlar.online
 a101--------girisler.cyou
 a101--------girisler.xyz
 a101-1.com.tr
@@ -95811,6 +95814,7 @@ cicekkcilikdiyariist.com
 cicekkeyfi.online
 cicekkutusu.vip
 ciceklerimizozelveguzeldir.blogspot.com
+cicekline.store
 cicekmarket.life
 cicekmarket.online
 cicekmarket.site
@@ -125297,6 +125301,7 @@ dumbnesss.live
 dumbobsessive.top
 dumbpeople.top
 dumbtermination.top
+dumdururum.dns.navy
 dumenamkherlsrsedds.wiki
 dumeninsenligi.com
 dumerilipi.ru
@@ -169602,6 +169607,7 @@ ggu2tcqt0v.ru
 ggv9qcejsw.storage.googleapis.com
 ggvbg-grlm.com.tr
 ggvruxovlbrm.com
+ggwk.cc
 ggwp90wp.hopto.org
 ggwpliketashill.ddns.net
 ggwppro.com.tr
@@ -177143,6 +177149,7 @@ gungun-bu18811-3d2dafe10049.herokuapp.com
 gungun-bu188p3-f707924b0ded.herokuapp.com
 gungun-su-1c2afc80c691.herokuapp.com
 gungun-su18121-9335bf8ae806.herokuapp.com
+gungun-su181p3-b3cffaed6c80.herokuapp.com
 gungun-su1821-d59ec834728f.herokuapp.com
 gunhaber24.com
 gunhandemirbas.cfd
@@ -186221,6 +186228,7 @@ hattagbn.click
 hattakredial.com
 hattaneyaparsanyapx.com
 hattapaket.net
+hattasimamobil.com
 hattasimaonline.com
 hattihisce.com
 hattimodeme.net
@@ -195243,6 +195251,7 @@ hillsbnkalert.duckdns.org
 hillsbnksecure.duckdns.org
 hillsidebeachclubb.com
 hillsideelegance.world
+hillsidesbeachfethiye.com
 hillsidesbeachsclubsfethiyes.com
 hillsubmerge.top
 hillycognitive.top
@@ -237950,6 +237959,7 @@ kis-gratis.dvrlists.com
 kis-gunu-icinizi-isitiriz-hep-iyiyiz.com
 kis-kampanyasi-size-ait.com
 kisa-link.website
+kisa-links-mobil.duckdns.org
 kisa-sayfamiz.com
 kisa-sureli-firsatlar.lol
 kisa-url.com
@@ -240975,6 +240985,7 @@ konuttokibasvurusu.art
 konuttokibasvurusu.info
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
+konuttokibasvurusuu.info
 konuttokibasvurusuu.xyz
 konuttokibsvr.sa.com
 konuttokimbasvurum.click
@@ -241195,6 +241206,7 @@ kosfzv.com
 kosgeb-basvuru.click
 kosgeb-hibe-basvuru.replit.app
 kosgebform.click
+kosgebform.duckdns.org
 kosgebiskur.com
 kosgep-halkbank.com
 koshcreative.co.uk
@@ -272763,6 +272775,7 @@ neap8qsu.duckdns.org
 near-cardiff.at.ply.gg
 near-wallett.com
 nearassert.top
+nearbyailing.sbs
 nearbycontemplation.top
 neardrill.top
 nearfear.site
@@ -305365,6 +305378,7 @@ proflime-kim-baktikontrol-edelim.ml
 proflourish.club
 proflylife.online
 profortune-tw.com
+profosyonelreklamhizmetleri.com.tr
 profosyonelreklamhizmetleri.online
 profotomotiv.com
 profound.zzux.com
@@ -326395,6 +326409,7 @@ sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.hizliveguvenlionlinealisveris.com.tr
 sahibinden-param-guvende.ilan-detay.online
+sahibinden-param-guvende.ilan-onay.online
 sahibinden-param-guvende.ml
 sahibinden-param-guvende.net
 sahibinden-param-guvende.odemebaglantisi.com.tr
@@ -330517,6 +330532,7 @@ sarimsak-satin-al.dropei.de
 sarininetkileyicigucu.xyz
 sarinsan21-2b5ce551507d.herokuapp.com
 sarinsan211-c047649c9dc2.herokuapp.com
+sarinsanp3-074740bf08a7.herokuapp.com
 sariruyalarnincizimi.xyz
 sarisanatvenotalar.xyz
 sarisessizlikvebaris.xyz
@@ -330963,6 +330979,7 @@ savarev.net
 savarmaduragi.pro
 savarskulkop.click
 savasaata.online
+savasbaslasin.clars-tz.xyz
 savblooling29.xyz
 savc-children.com
 savciliketutani.org
@@ -335039,6 +335056,7 @@ sendeyardimagel.net
 sendeyardimal.site
 sendeyenidunyalisin.com
 sendeyeniyilamutlugir.xyz
+sendeyetiserekalabilirsin.com
 sendeyetishepkazanlarla.com
 sendeyuzun-gulsssunyaz.tech
 sendeziraatle.tk
@@ -350870,6 +350888,7 @@ ssl1-onmicrosoft365-sslshell.com
 ssl1acesso-conta.ddns.net
 ssl1novidades.ddns.net
 ssl2appacessoita.ddns.net
+ssl3.space
 ssl3111.duckdns.org
 ssl3122.duckdns.org
 ssl3d.com
