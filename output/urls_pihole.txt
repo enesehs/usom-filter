@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-30 23:09:03 UTC
-# Toplam: 433078 Domain
+# Son Güncelleme: 2025-12-31 00:53:00 UTC
+# Toplam: 433080 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63550,6 +63550,7 @@ beklededigitti.com
 beklediginde-gunler-gunesle-suslenir.com
 beklediginden-cok-daha-fazlasi-burada.com
 bekledikgeldindeydi.com
+beklemebasvur.lol
 beklemebasvur.sbs
 beklemeden-gelenler-herzaman-bizimle-sevinir.com
 beklemeden.xyz
@@ -71525,6 +71526,7 @@ binbcelltlmerkzi.com
 binbcelltlykle.com
 binbircesit.shop
 binbircesit.site
+binbirlndirimler-kapinakadar.xyz
 binbiryorum.xyz
 binbiryukleme.22web.org
 binblunt.top
