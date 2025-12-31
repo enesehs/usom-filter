@@ -1,5 +1,5 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-31 17:08:32 UTC
+# Son Güncelleme: 2025-12-31 18:14:24 UTC
 # Toplam: 433149 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
@@ -205282,7 +205282,6 @@ ibra2019.hopto.org
 ibrahaker.ddns.net
 ibraheem.hopto.org
 ibrahim3014.zapto.org
-ibrahimkurmaz.com
 ibrahimnedirki.mywire.org
 ibrahimtoruk.com
 ibram.zapto.org
@@ -417585,6 +417584,7 @@ xzn4901gg.duckdns.org
 xznabib.com
 xzng9zrcihtm9jfs.com
 xznnmcnvxnxzbnxz-xmnvxnvzvbcv.website
+xznvhafaskfpwqkfsa.live
 xznwygu.com
 xznx5b.ddns.net
 xznxzmadgs.space
