@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-31 13:25:49 UTC
-# Toplam: 433132 Domain
+# Son Güncelleme: 2025-12-31 14:09:36 UTC
+# Toplam: 433136 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38557,6 +38557,7 @@ aktelaybir.duckdns.org
 aktelfirsatlaribim.com
 aktelfirsatlaribim.online
 aktelfirsatlaribim.xyz
+aktelfrtlar.duckdns.org
 aktelkapindanimm.com
 aktelkapindanimm.online
 aktelkapindanimm.xyz
@@ -307955,6 +307956,7 @@ pttalisveris.ilanim-alisveris.com.tr
 pttalisveris.ile-guvenli-odemem.com
 pttalisveris.ile-onayli-ilan.com
 pttalisveris.ile-ticaretim.com
+pttalisveris.my-homeip.com
 pttalisveris.odeme-sepetim.com.tr
 pttalisveris.onayli-siparis-417844.com
 pttalisveris.onayli-urunlerim.com
@@ -345054,6 +345056,7 @@ snoringtr.club
 snoringtr.live
 snote777.ddns.net
 snovhizligecisim.com
+snow-lapwing-909666.hostingersite.com
 snowantagonist.top
 snowappraisal.top
 snowcat1.ddns.net
@@ -348923,6 +348926,7 @@ soykun.icu
 soyle-guzelligi.net
 soyledim-sizlere-ben.com
 soylemektencekinmeyinbunlari.net
+soylenefesim.click
 soylenen-kayitlar-bir-daha-kayitli-olabilir.com
 soylesenenezamanbaskinvar.com
 soylesihizmet-web-irtibatdiyaloggir.com
