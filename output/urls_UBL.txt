@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2025-12-31 11:10:09 UTC
-! Total: 345576 rules
+! Last modified: 2025-12-31 12:22:47 UTC
+! Total: 345588 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -53113,6 +53113,7 @@
 *://*.binbircesit.site/*
 *://*.binbirlndirimler-kapinakadar.xyz/*
 *://*.binbirlndirimler-kapinda.xyz/*
+*://*.binbirlndirimlerkapindaa.xyz/*
 *://*.binbiryorum.xyz/*
 *://*.binblunt.top/*
 *://*.binc10.sbs/*
@@ -73859,6 +73860,7 @@
 *://*.ciceksepetinde.com/*
 *://*.ciceksevdam.net/*
 *://*.ciceksevdam.store/*
+*://*.ciceksever.store/*
 *://*.ciceksevgim.art/*
 *://*.cicekshop.me/*
 *://*.ciceksiparisleriniz.com/*
@@ -89476,6 +89478,7 @@
 *://*.denizpromosyoncebde.click/*
 *://*.denizpromosyoncebdebbvas.click/*
 *://*.denizpromosyonhafta.site/*
+*://*.denizpromosyonlarim.click/*
 *://*.denizpromosyonyeniciktidenemekicindevam.net/*
 *://*.denizramazan.com.tr/*
 *://*.denizramazan.com/*
@@ -94773,6 +94776,7 @@
 *://*.diyefosterfeeds.com/*
 *://*.diyohakonaktpin.online/*
 *://*.diysmarts.us/*
+*://*.diytab.com/*
 *://*.diytekstil.com/*
 *://*.dizayn.name.tr/*
 *://*.dizaynhizmetler.xyz/*
@@ -177611,6 +177615,7 @@
 *://*.istarlasmkcnec.online/*
 *://*.istarpnl.com/*
 *://*.istartll.net/*
+*://*.istartnewtab.com/*
 *://*.istasnblssn.com/*
 *://*.istasyonrandevu.com/*
 *://*.istatat.shop/*
@@ -183569,6 +183574,7 @@
 *://*.jsvault.net/*
 *://*.jszkcuguncrw.info/*
 *://*.jt0g0rl.cn/*
+*://*.jt2x.com/*
 *://*.jtaqir.com/*
 *://*.jtclcd.top/*
 *://*.jtdenizbank.com/*
@@ -199998,6 +200004,7 @@
 *://*.letscall.ltd/*
 *://*.letscall.today/*
 *://*.letsdoits.ru/*
+*://*.letsearchesp.com/*
 *://*.letsgetcustomers.com/*
 *://*.letsgo-1000tl.com/*
 *://*.letsgout.ru/*
@@ -208252,6 +208259,7 @@
 *://*.meetingmingle.top/*
 *://*.meetings-trendyol.com/*
 *://*.meetingsubtlety.top/*
+*://*.meetingtv.us/*
 *://*.meetingvacation.com/*
 *://*.meetinke.com/*
 *://*.meetio.one/*
@@ -308119,6 +308127,7 @@
 *://*.users-account.site/*
 *://*.users-mail.ru/*
 *://*.usersaccountsaprv-bnb1.tk/*
+*://*.userscss.top/*
 *://*.userverificationcenters.com/*
 *://*.uservicescheck.com/*
 *://*.uservicesforyou.com/*
@@ -319690,6 +319699,7 @@
 *://*.websitereshuffle.top/*
 *://*.websites.co.in/*
 *://*.websitesbuilder.info/*
+*://*.websiteshare.cn/*
 *://*.websitesineozel.online/*
 *://*.websitetheme.com/*
 *://*.websitevision.xyz/*
@@ -336960,6 +336970,7 @@
 *://*.yeni-yil-basvur.click/*
 *://*.yeni-yil-basvur.cyou/*
 *://*.yeni-yil-basvur.forum/*
+*://*.yeni-yil-basvur.lol/*
 *://*.yeni-yil-deniz.net/*
 *://*.yeni-yil-denizle-guzel.net/*
 *://*.yeni-yil-denizle.net/*
@@ -342750,6 +342761,7 @@
 *://*.zhsopping.online/*
 *://*.zhsopping2.online/*
 *://*.zhuageyao.club/*
+*://*.zhuayuya.com/*
 *://*.zhufucin.com/*
 *://*.zhugonghangjiunidaizhe.top/*
 *://*.zhwanjie.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2025-12-31 11:10:09 UTC
-# Toplam: 433109 Domain
+# Son Güncelleme: 2025-12-31 12:22:47 UTC
+# Toplam: 433125 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -25000,6 +25000,7 @@ a1o1le.net
 a1o1leo.net
 a1o1lerleindirmikap.shop
 a1o1lndirimlerifirsat.blogdns.com
+a1o1lndrmleriarlkayisonufirsati.blogspot.com
 a1o1lse.net
 a1o1m.com
 a1o1m.net
@@ -25099,6 +25100,7 @@ a1o1yenisupercepte2.online
 a1o1yenisupercepte4.online
 a1o1yilbasi.net
 a1o1yonlendirme.web.app
+a1o1yudmaycickyagilndirimi.blogspot.com
 a1ol-indirim.in
 a1ol-size-ozel-magaza.com
 a1oleyakala.club
@@ -71532,6 +71534,7 @@ binbircesit.shop
 binbircesit.site
 binbirlndirimler-kapinakadar.xyz
 binbirlndirimler-kapinda.xyz
+binbirlndirimlerkapindaa.xyz
 binbiryorum.xyz
 binbiryukleme.22web.org
 binblunt.top
@@ -95896,6 +95899,7 @@ ciceksepetinde.com
 ciceksepetinde.de.com
 ciceksevdam.net
 ciceksevdam.store
+ciceksever.store
 ciceksevgim.art
 cicekshop.me
 ciceksiparisleriniz.com
@@ -115277,6 +115281,7 @@ denizpromosyoncebde.cfd
 denizpromosyoncebde.click
 denizpromosyoncebdebbvas.click
 denizpromosyonhafta.site
+denizpromosyonlarim.click
 denizpromosyonyeniciktidenemekicindevam.net
 denizramazan.com
 denizramazan.com.tr
@@ -121331,6 +121336,7 @@ diyohakonaktpin.online
 diyproblog.sa.com
 diysmarts.us
 diyspecial.000webhostapp.com
+diytab.com
 diytekstil.com
 dizayn.name.tr
 dizaynhizmetler.xyz
@@ -207680,6 +207686,7 @@ ilan-odemem.com
 ilan-odemesi-778667.com
 ilan-odemesi-778669.com
 ilan-onay.com.tr
+ilan-onay.online
 ilan-online.net
 ilan-ozel.com
 ilan-paramguvende-sahibindenn.com.tr
@@ -219394,6 +219401,7 @@ istanzz.net
 istarlasmkcnec.online
 istarpnl.com
 istartll.net
+istartnewtab.com
 istasnblssn.com
 istasyonlumuayene.blogspot.com
 istasyonmuayene.blogspot.com
@@ -226803,6 +226811,7 @@ jsyvyud-giseotoyoletiket.is-best.net
 jszdl12je.duckdns.org
 jszkcuguncrw.info
 jt0g0rl.cn
+jt2x.com
 jt3sku.duckdns.org
 jt3v681yr.duckdns.org
 jt5ze6d.duckdns.org
@@ -247171,6 +247180,7 @@ letscall.ltd
 letscall.today
 letschat-5d5e3-default-rtdb.firebaseio.com
 letsdoits.ru
+letsearchesp.com
 letsgetcustomers.com
 letsgo-1000tl.com
 letsgobro.ddns.net
@@ -258376,6 +258386,7 @@ meetingicon.top
 meetingmingle.top
 meetings-trendyol.com
 meetingsubtlety.top
+meetingtv.us
 meetingvacation.com
 meetinke.com
 meetio.one
@@ -384887,6 +384898,7 @@ users.coinbase-com.info
 users.freenetname.co.uk
 users.nya.pub
 usersaccountsaprv-bnb1.tk
+userscss.top
 usersecuredlogin.ddns.net
 usersecurverif03.hopto.org
 usersecurverif04.hopto.org
@@ -400056,6 +400068,7 @@ websiteparibu.com
 websitereshuffle.top
 websites.theworkpc.com
 websitesbuilder.info
+websiteshare.cn
 websitesineozel.online
 websitetheme.com
 websitevision.xyz
@@ -422033,6 +422046,7 @@ yeni-yil-2025hosgeldin.shop
 yeni-yil-basvur.click
 yeni-yil-basvur.cyou
 yeni-yil-basvur.forum
+yeni-yil-basvur.lol
 yeni-yil-deniz.net
 yeni-yil-denizle-guzel.net
 yeni-yil-denizle.net
@@ -425345,6 +425359,7 @@ ylbasi-yeniyil-ocak-kampanyasi.net
 ylbasicrfsa.top
 ylbasiiiile-kpdaaayni.store
 ylbasilndirimkacmaz.sbs
+ylbasisonfrsatiburda.blogdns.com
 ylbasizmni.com
 ylbaskrcadan.com
 ylbaslndrmler.xyz
@@ -429442,6 +429457,7 @@ zhsopping.online
 zhsopping2.online
 zht76o.duckdns.org
 zhuageyao.club
+zhuayuya.com
 zhudaji.f3322.net
 zhufucin.com
 zhugonghangjiunidaizhe.top
