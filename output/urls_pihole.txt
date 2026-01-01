@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-01 18:14:23 UTC
-# Toplam: 433202 Domain
+# Son Güncelleme: 2026-01-01 19:08:31 UTC
+# Toplam: 433216 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -37804,6 +37804,7 @@ akimkalox.ddns.net
 akimkomtheatre.com
 akin-basekrani-ak.online
 akinalithomas.icu
+akinaloz.che-zd.xyz
 akinbilisimtr.com
 akinbilisimtr.info
 akinbilisimtr.net
@@ -48395,6 +48396,7 @@ aralikayifirsatlarifalan.xyz
 aralikayifirsatlarinikacirma.com
 aralikayikampani10001.online
 aralikayikampanyalari.com
+aralikayikampanyalari.online
 aralikayikampanyalari101.com.tr
 aralikayikampanyali.com
 aralikayikampanyasi1001.online
@@ -48532,6 +48534,7 @@ araliksonfirsatlar.shop
 araliksonfirsatlarin.xyz
 araliksonfirsatlark.online
 araliksonfirsattlari.com
+araliksonkampanyasibugunbitiyor.online
 araliksonu-brosur.shop
 araliksonufirsatlari.shop
 araliksonukampanyalarii.online
@@ -53993,6 +53996,7 @@ aychobanpo.ru
 aycicegi.online
 aycicegi.website
 aycicegiresmi.org
+aycicekyagiucuz.space
 aycinteker.com
 ayciqy.duckdns.org
 aycloset.top
@@ -89968,6 +89972,7 @@ capitaloneupdte.hopto.org
 capitalorm.com
 capitalpyramid.top
 capitalradiopetition.co.za
+capitalscircuit.tours
 capitalspace.space
 capitaltempt.top
 capitaltrack.sbs
@@ -96932,6 +96937,7 @@ cityfederalcv.com
 cityforhighh.shop
 cityforhighshs.shop
 citygroup.tk
+cityhoppertours.tours
 cityhotlove.com
 cityislem.22web.org
 citykamplyon.world
@@ -117675,6 +117681,7 @@ devletbasvuru-kanalimiiz.com
 devletbasvuru-kanaliniz.com
 devletbasvuru.org
 devletbasvuruformugiris.com
+devletbasvurukapisigovtr.sbs
 devletbilgikapisi.blog
 devletbizim-destekleri.com
 devletbusvurukanaliniz.com
@@ -147515,6 +147522,7 @@ evbasvurulariniz.click
 evbasvurulariyap.xyz
 evbasvurum.com
 evbasvurum.unaux.com
+evbasvurumgovtr.cyou
 evbasvurunuz.xyz
 evbasvurusu.click
 evbasvurusu.com
@@ -164832,6 +164840,7 @@ garantieytbasvurusu.com
 garantieytli.com
 garantieytlibasvuru.com
 garantieytliler.com
+garantifaizsizpromsyon.sbs
 garantifastbasvuru.online
 garantifatura.org
 garantifaturam.ga
@@ -230158,6 +230167,7 @@ kampanyaburada77.tk
 kampanyaburadakayitol.com
 kampanyaburadakayitol.com.tr
 kampanyaburadakayitol.xyz
+kampanyaburadaolmus.xyz
 kampanyaburda.site
 kampanyaburda1-0-1.com
 kampanyaburda20gbnet.xyz
@@ -231471,6 +231481,7 @@ kampnaylardabuugnkifirsarlar.sbs
 kampnma.xyz
 kampnnyaabsvrrprmsynn.info
 kampnnyaabsvrrprmsynn.live
+kampnnyaabsvrrprmsynn.pro
 kampny93992.shop
 kampnya-acikdenizv2denizbank.com
 kampnya-al-ucz-hemn.shop
@@ -233965,6 +233976,7 @@ kasimdabasvurular.shop
 kasimdabasvurular.store
 kasimdabasvurular.top
 kasimdabasvurularbitiyor.cloud
+kasimdabasvurularinbiiyor.cloud
 kasimdabasvurularkapaniyor.cloud
 kasimdabi1rbaskakmpnysxcw1.com
 kasimdadasurprizlerdevamediyor11.com
@@ -338368,6 +338380,7 @@ shbndn-guvenle-satn-al.online
 shbndn-guvenle-satn-al.xyz
 shbndn-param-guvende.online
 shbndn-parn-guvende.online
+shbndn-parn-guvende.xyz
 shbndn.com
 shbnguncel.com
 shbuc8tg.duckdns.org
@@ -345690,6 +345703,7 @@ sokaginmeselesi.pro
 sokakdadostlar.com
 sokakhayvanlarinadestek.com
 sokakhayvanlarinadestektr.com
+sokaklar-kotudur.weaselcoempt.cfd
 sokaklaraktiv.shop
 sokaknakliyat.com
 sokakrapmilitani.net
