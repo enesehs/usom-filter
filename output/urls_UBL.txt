@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-01 07:14:15 UTC
-! Total: 345610 rules
+! Last modified: 2026-01-01 08:14:19 UTC
+! Total: 345611 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -308624,6 +308624,7 @@
 *://*.uyapdosyagoster.com/*
 *://*.uyapdosyalari.com/*
 *://*.uyapdosyalarim.com/*
+*://*.uyapdosyalarm.xyz/*
 *://*.uyapdosyalarr.com/*
 *://*.uyapdosyalarsorgu.club/*
 *://*.uyapdosyalarsorgu.co/*
