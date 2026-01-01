@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-01 19:08:31 UTC
-! Total: 345642 rules
+! Last modified: 2026-01-01 20:11:13 UTC
+! Total: 345649 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -90304,6 +90304,7 @@
 *://*.dermainsaat.icu/*
 *://*.dermainsaat.online/*
 *://*.dermainsaat.shop/*
+*://*.dermainsaat.store/*
 *://*.dermanacilsensden.xyz/*
 *://*.dermanbungalov.net/*
 *://*.dermanbutik.fun/*
@@ -90756,6 +90757,7 @@
 *://*.destekbasvuruuu.com/*
 *://*.destekbildirimi.com/*
 *://*.destekbildirimiyap15.com/*
+*://*.destekbilgisi.cfd/*
 *://*.destekbinancedestekbirimibasvuru.cloud/*
 *://*.destekbireyselkampanya-basvur-online.ml/*
 *://*.destekbirgun.com/*
@@ -149111,6 +149113,7 @@
 *://*.harikalargunufirsatlari.pics/*
 *://*.harikalargunukampanaar.cfd/*
 *://*.harikalargunukampanaar.sbs/*
+*://*.harikalarhepkapinageldi.com/*
 *://*.harikalarotesi.cfd/*
 *://*.harikalaryanindasimdi.cfd/*
 *://*.harikamagazinbasinlari.com/*
@@ -152345,6 +152348,7 @@
 *://*.hemenbasvurdoldurformuaz.com/*
 *://*.hemenbasvurdoldurformulk.com/*
 *://*.hemenbasvurdoldurformulq.com/*
+*://*.hemenbasvurdun.org/*
 *://*.hemenbasvureventkampanyasina.net/*
 *://*.hemenbasvurfirsatiyakala.cloud/*
 *://*.hemenbasvurhediyenikap.tech/*
@@ -170147,6 +170151,7 @@
 *://*.indirimanindagununburda.online/*
 *://*.indirimanindakapinda.com.tr/*
 *://*.indirimanindakapinda.online/*
+*://*.indirimanindakapinda.xyz/*
 *://*.indirimanlari.com.tr/*
 *://*.indirimapp.com.tr/*
 *://*.indirimarketi.net.tr/*
@@ -187788,6 +187793,7 @@
 *://*.kapadokkia.com/*
 *://*.kapadokyareal.site/*
 *://*.kapaidatini.com/*
+*://*.kapalialandasigara.click/*
 *://*.kapaligise.xyz/*
 *://*.kapaligiseyeri.xyz/*
 *://*.kapalikes.com/*
@@ -271558,6 +271564,7 @@
 *://*.sikayetlerimvar.click/*
 *://*.sikayetlerimvar.online/*
 *://*.sikayetlerimvar.org/*
+*://*.sikayetlerin-14.sbs/*
 *://*.sikayetlerin-25.sbs/*
 *://*.sikayetlerinvar-13.sbs/*
 *://*.sikayetlerinvar-14.sbs/*
