@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-01 12:24:35 UTC
-! Total: 345614 rules
+! Last modified: 2026-01-01 13:26:22 UTC
+! Total: 345621 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -170132,6 +170132,8 @@
 *://*.indirimani.club/*
 *://*.indirimanindadevamet.shop/*
 *://*.indirimanindagununburda.online/*
+*://*.indirimanindakapinda.com.tr/*
+*://*.indirimanindakapinda.online/*
 *://*.indirimanlari.com.tr/*
 *://*.indirimapp.com.tr/*
 *://*.indirimarketi.net.tr/*
@@ -194489,6 +194491,7 @@
 *://*.kobidenizbank.com/*
 *://*.kobidestekbasvuru.com.tr/*
 *://*.kobidestekplatformu.cfd/*
+*://*.kobihibedestegi.cfd/*
 *://*.kobikredibasvurusu-hemenkatil.cloud/*
 *://*.kobiler-paraf-halk.com/*
 *://*.kobilerdestekplatformu.cfd/*
@@ -247831,6 +247834,7 @@
 *://*.ptt-kargomgonderitakip.com/*
 *://*.ptt-kargomnerede.com/*
 *://*.ptt-kargonuzu-kolayca-getirelim.com/*
+*://*.ptt-kargonuzu-kolayca.com/*
 *://*.ptt-kargosizlerle.org/*
 *://*.ptt-kargotakip-sorgula.online/*
 *://*.ptt-kargotakip.com/*
@@ -294149,6 +294153,7 @@
 *://*.tokikura.com/*
 *://*.tokikura.shop/*
 *://*.tokikurasonuc.org/*
+*://*.tokikurasorgulama.com/*
 *://*.tokikurulus.fun/*
 *://*.tokikurumsalgovtrsite.digital/*
 *://*.tokiler-basladilar.sbs/*
@@ -337015,6 +337020,8 @@
 *://*.yeni-yil-turkcell-pasaj.com/*
 *://*.yeni-yil-yeni-baslangiclar-yeni-firsatlar.shop/*
 *://*.yeni-yila-firsatlarla.shop/*
+*://*.yeni-yila-indirim-kacirma.com.tr/*
+*://*.yeni-yila-indirim-kacirma.online/*
 *://*.yeni-yila-indirim-kacirma.xyz/*
 *://*.yeni-yila-ozel-fiyatlar-firsatlar-indirimler.com/*
 *://*.yeni-yila-ozel-fiyatlar-firsatlar-indirimler.online/*
