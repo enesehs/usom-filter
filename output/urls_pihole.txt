@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-01 11:01:43 UTC
-# Toplam: 433178 Domain
+# Son Güncelleme: 2026-01-01 12:24:35 UTC
+# Toplam: 433185 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9025,6 +9025,7 @@
 22ualt583.duckdns.org
 22ujrwzt.duckdns.org
 22w08khs.duckdns.org
+22web-sell.22web.org
 22web.org
 22wiyg1.duckdns.org
 22xsi5d5y.duckdns.org
@@ -63535,6 +63536,7 @@ bein-kont.22web.org
 bein.zapto.org
 beinfrastructure.top
 beingaamir.com
+beingislem.22web.org
 beingoperative.top
 beinsta.fun
 beiogeajup.duckdns.org
@@ -110611,6 +110613,7 @@ deneme-akbank.64-23-128-187.plesk.page
 deneme-bonusu-kazandiniz.pro
 deneme-son-bugun.dnsuser.de
 deneme-yapim.com
+deneme.22web.org
 deneme00366.duckdns.org
 deneme1.22web.org
 deneme113.icu
@@ -195072,6 +195075,7 @@ hibealonlinebasvuru.com
 hibebasvurudestekler.com
 hibebasvuruportali.com
 hibebasvurusu-web202l.com
+hibebasvurusu.cfd
 hibebasvurusu2021.com
 hibebasvurusumobil.com
 hibedestek-edevletgovtr.epizy.com
@@ -197173,6 +197177,7 @@ hizlirandvuhizmtleri.xyz
 hizlirayukleme.2kool4u.net
 hizlirentacar.online
 hizlirerer.click
+hizliresim.22web.org
 hizliresmirandevu.com
 hizlirezervasyon.com
 hizlirezervasyonislemleri.online
@@ -225625,6 +225630,7 @@ jhimbvulw.com
 jhin1.ddns.net
 jhjhjffvvv.duckdns.org
 jhk254jhser.duckdns.org
+jhkkkkkkkkkkkkkkkkk1.22web.org
 jhksas.net
 jhl4.xzikp.ru
 jhnyukleme.22web.org
@@ -421153,6 +421159,7 @@ yatirimlinki-payfixdeposit.com
 yatirimlinki.site
 yatirimmadresin.net
 yatirimmerkezi.online
+yatirimmerkezim.22web.org
 yatirimmerkeziniz.com
 yatirimmi.com
 yatirimmport.com
