@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-02 11:09:04 UTC
-# Toplam: 433264 Domain
+# Son Güncelleme: 2026-01-02 12:23:43 UTC
+# Toplam: 433277 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58185,6 +58185,8 @@ basvrutrbnnrce.online
 basvrutrcbrncr.com
 basvrutrrbntbn.online
 basvruuprmsynnkmpnyaa.art
+basvruuprmsynnkmpnyaa.info
+basvruuprmsynnkmpnyaa.pro
 basvruuukampanyaprmsyn.info
 basvruuukampanyaprmsyn.pro
 basvruuzirraaattmobiilemekli.duckdns.org
@@ -97735,6 +97737,7 @@ clk3r1241l2xr.t625u.ru
 clkakdeniz-3f27d6beedf7.herokuapp.com
 clkglhkmndkykrsl.shop
 clkkjprmsnynnkmpnyaa.art
+clkkjprmsnynnkmpnyaa.xyz
 clkrbrdanynlnrsnz.mooo.com
 clksrg.online
 clku6z2.duckdns.org
@@ -113191,6 +113194,7 @@ denizbonusum.net
 denizbonusun.com
 denizbqnk.com.tr
 denizbsvursam.duckdns.org
+denizbt.online
 denizbu.online
 denizbubayramsizinle.com
 denizbuguneozelbakin.ml
@@ -145063,6 +145067,7 @@ erasmus-plius.tomasjs.com
 erati543.xyz
 erato2498.duckdns.org
 erawords.com
+eraxx.sbs
 erayinsaat.live
 eraz3t.duckdns.org
 erbasvur-onlinebireyselkampanya.ml
@@ -160995,6 +161000,7 @@ frsttlrr-trndy.xyz
 frsturnlericf.online
 frstvktinikcirmavkt.com.tr
 frstxburdxxx.com.tr
+frstxsadeceonlinozl.ct.ws
 frstylsasdkctopa.shop
 frstyni-snstklarkpnda.online
 frstzone4.dns.navy
@@ -161402,6 +161408,7 @@ fulfurd.com
 fulgentbnanncegiris.online
 full-confirmation-reservation.world
 full-cow.static.domains
+full-cowenada.static.domains
 full-request-confirmation.world
 full-vip.top
 full.devinelive.top
@@ -202658,6 +202665,7 @@ hydrodesign.net
 hydrogenes.online
 hydrogenimpair.top
 hydroveina.pro
+hydrrax.click
 hyebimcell.com
 hyed.nichesite.org
 hyekf.info
@@ -210813,6 +210821,7 @@ indirimfisatlarindanfayadalanmayankalmasin.online
 indirimfisatlarindanfayadalanmayankalmasin.xyz
 indirimgecesia101.shop
 indirimgezegeni.com.tr
+indirimgnleri.cfd
 indirimgnleri.com
 indirimguncelfarkindalikzmn.online
 indirimgunleri-tarifeler-turkcell.com
@@ -232061,6 +232070,7 @@ kapidakifirsatlarihemensepete.xyz
 kapidakifirsatlarihemensepeteekle.com.tr
 kapidakifirsatlarihemensepeteekle.online
 kapidakiinidirmlerburada.com
+kapidakimvar.click
 kapidalisveris.net
 kapidamagaza.com.tr
 kapidamagaza.org.tr
@@ -240572,6 +240582,7 @@ kolaysepetde.shop
 kolaysepetin-tr.shop
 kolaysepetin.click
 kolaysepte.click
+kolaysinizz.cfd
 kolaysiparis.click
 kolaysiparis.online
 kolaysiparis.store
@@ -260913,6 +260924,7 @@ migros-hizla-tikla.com.tr
 migros-hizla-tikla.xyz
 migros-indirim.com.tr
 migros-mall.com
+migros-mobilmarket.vercel.app
 migros-sanalalisveris.com.tr
 migros-sanalmarket.com.tr
 migros-sanalmarket.pro
@@ -348212,6 +348224,7 @@ sorryextract.top
 sorryfordelay.top
 sorryretrospective.top
 sorrysensational.top
+sortable.click
 sortedhosted43.hopto.org
 sorteercentrum.hopto.org
 sorteo50.ddns.net
