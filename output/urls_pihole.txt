@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-03 22:08:31 UTC
-# Toplam: 433407 Domain
+# Son Güncelleme: 2026-01-03 23:09:25 UTC
+# Toplam: 433412 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -210443,6 +210443,7 @@ indiirimmkampanyalari.com.tr
 indiirmcaarrfurrssaa.shop
 indiirmdekampaynafirsati.com.tr
 indiirmdekampaynafirsati.online
+indiirmkampanyasi99.com
 indiirmlerim.fun
 indimonlinozel.shop
 indimrikacirmaonlins.store
@@ -219580,6 +219581,7 @@ istbkym.com
 istbkynse.com
 istblbakiye.net
 istblblmmbkym.net
+istblkrtbrdanbsvrlr.mooo.com
 istblkrtbsvrlnsltnk.online
 istblktltklnsdn.online
 istbll-krt-dldur.com
@@ -238168,6 +238170,7 @@ kisalink.cc
 kisalink.cfd
 kisalink.myonlineportal.de
 kisalink.online
+kisalinkk.duckdns.org
 kisalinkkisalinkguncelle.ml
 kisalinkkisalinkguncelle.tk
 kisalinkolustur.vercel.app
@@ -241412,6 +241415,7 @@ kosgeb-hibe-basvuru.replit.app
 kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvurusu.click
+kosgebdestek.duckdns.org
 kosgebform.click
 kosgebform.duckdns.org
 kosgebhibebasvur.cfd
@@ -382456,6 +382460,7 @@ udqxtgipqw.duckdns.org
 udr-offdips.com
 udrf.4sa8.com
 udsysadmci.cfd
+udsysadmci.sbs
 udtnws.com
 udum.work.gd
 udumykgbolw.org
