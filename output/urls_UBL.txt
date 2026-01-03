@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-03 14:08:22 UTC
-! Total: 345747 rules
+! Last modified: 2026-01-03 15:08:24 UTC
+! Total: 345754 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14190,6 +14190,7 @@
 *://*.a1011f-irsat101aldin.store/*
 *://*.a1011firsata-ldinxyz101.store/*
 *://*.a1011firsata-ldinxyzd101.xyz/*
+*://*.a1011kacmaz-lndirim-firsatlari.com/*
 *://*.a1011sepetteindirimkampanyasiads13.com/*
 *://*.a1011x-inxdixiriim-firsatllari.com/*
 *://*.a10126mayisfirsatlarimm.com/*
@@ -101586,6 +101587,7 @@
 *://*.e-dosyadenetim.com/*
 *://*.e-dosyam.com/*
 *://*.e-dosyasorgulama.cfd/*
+*://*.e-dosyatakip.org/*
 *://*.e-drkdevletegeldi.com/*
 *://*.e-drkdvletedvlt.com/*
 *://*.e-drktrkbsvrur.com/*
@@ -219807,6 +219809,7 @@
 *://*.nekuritebambuk.ru/*
 *://*.nekwmksmbbd.net/*
 *://*.nekwmksnbsh.net/*
+*://*.nelazimsacarrefour.cfd/*
 *://*.nelazimsalasssama.xyz/*
 *://*.nelerlazmhaydsylesenezdebar.online/*
 *://*.neleroluyo.xyz/*
@@ -225570,6 +225573,7 @@
 *://*.ockdasongn.shop/*
 *://*.ockfrslt.shop/*
 *://*.ockimqekmwecocug.xyz/*
+*://*.ockkrcazmni.top/*
 *://*.ockollu.net/*
 *://*.ockpitehou.ru/*
 *://*.ocksdea1.net/*
@@ -277515,6 +277519,7 @@
 *://*.sonundaburadakaldik.cfd/*
 *://*.sonundaburadakazandik.cfd/*
 *://*.sonundafrstladvmednn.com/*
+*://*.sonundaherkeseozelseylerdevar.com/*
 *://*.sonundan-ilerisinde-olanlarada-oluncalar-hakkina.cfd/*
 *://*.sonurunlerbitmekuzerekacirmadanal.xyz/*
 *://*.sonurunlerikacirmadansatinal.com.tr/*
@@ -339225,8 +339230,10 @@
 *://*.yilbasinda-kampanyalar.store/*
 *://*.yilbasinda-sizlerle.biz.tr/*
 *://*.yilbasinda-sizlerle.com.tr/*
+*://*.yilbasinda-sizlerle.info.tr/*
 *://*.yilbasinda-sizlerle.name.tr/*
 *://*.yilbasinda-sizlerle.org.tr/*
+*://*.yilbasinda-sizlerle.tv.tr/*
 *://*.yilbasinda-yapikredi.com/*
 *://*.yilbasinda.com/*
 *://*.yilbasinda101.icu/*
