@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-03 20:10:05 UTC
-# Toplam: 433392 Domain
+# Son Güncelleme: 2026-01-03 21:08:00 UTC
+# Toplam: 433401 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20871,6 +20871,7 @@
 98746518946565.net
 9874651984615123.net
 987465648961356.net
+987498463521987512.giize.com
 987498984464984684.cfd
 98765423456.cloud
 987654321147225.com
@@ -85898,6 +85899,7 @@ bunun-icin-variz.shop
 bunun-iicin-variz.shop
 bunun-sonrasigibi-bilinen-hislerde-uzaktan-kalmayiz.top
 bunun-ve-sizinle-buradayiz.shop
+bunungibiherkeseyenidenvar.com
 bununicinvariz.shop
 bununla-hep-sizinle-buradayiz.shop
 bunxdlrmbbuisnxdlrmsnm.space
@@ -160931,6 +160933,7 @@ frsatna.xyz
 frsatstisekstraxt.online
 frsattemmzkacmaz1o1.com
 frsattttlarkappidangitmezzzz.online
+frsatzmani.cfd
 frsbasvrkmpnykatlm.com.tr
 frsbuengzlcrfshiprs.cfd
 frsbugnencokbahrfirstlarikacrmam.sbs
@@ -219494,6 +219497,7 @@ istannzzs.net
 istanrbulkart.blogspot.com
 istansbduslabursd.store
 istansbulbrhzilsi.com
+istansizlerlabulolsadan.shop
 istantrbilgmr.fun
 istanvblrtkrt.net
 istanvbulcumvcx.net
@@ -237705,6 +237709,7 @@ kimselerduymasin.net
 kimselergormesin.ml
 kimselerhushimxd.net
 kimsepadisahdegil.net
+kimseyeaitdegilim.org
 kimseyeminnettyokk.tk
 kimseyokmu.com
 kimseyokmu.online
@@ -277387,6 +277392,7 @@ novosibirsk-arena.com
 novosti.bid
 novusglobal.us
 novusloft.com
+novvaametric.com
 now--sso-ku-kcoquiinin.webflow.io
 now-have-a-nice-day.tk
 now-refer-several-tariff.trycloudflare.com
@@ -335114,6 +335120,7 @@ sendeburadakal.net
 sendeburadakalbenimle.net
 sendeburadanalocaklndirimleri.com
 sendeburadanalocaklndirimleri.me
+sendeburadanalyeniyilndirimleri.com
 sendeburadanfaydalan.cfd
 sendeburadanhemenal.com
 sendeburadanhepfaydalan.xyz
@@ -345971,6 +345978,7 @@ sokfiyatlar.cfd
 sokflrsatkampanyaramazan.store
 sokflrsatsokgunlerindirsinflrsat.store
 sokflsamc.s0k.workers.dev
+sokfrsatlarkapidayilbasi.giize.com
 sokfsatlarkacmazgelkapidan.mooo.com
 sokfsatlarkacmazgelkapiya.mooo.com
 sokfslskr.sa.com
@@ -382443,6 +382451,7 @@ udporm.com
 udqxtgipqw.duckdns.org
 udr-offdips.com
 udrf.4sa8.com
+udsysadmci.cfd
 udtnws.com
 udum.work.gd
 udumykgbolw.org
