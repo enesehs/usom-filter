@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-03 23:09:25 UTC
-# Toplam: 433412 Domain
+# Son Güncelleme: 2026-01-04 00:53:50 UTC
+# Toplam: 433421 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14817,6 +14817,7 @@
 50gx7y9e.duckdns.org
 50i2wf5t16ohgn1.ddns.net
 50ltaracbuzdolabi.xyz
+50ltdemonbuzdolabins.sbs
 50meetnik.com
 50onay-basvurufinanscepteonay.vercel.app
 50prbkoin.tk
@@ -110517,6 +110518,7 @@ demlafka.org
 demlik-kampanyasi.world
 demmazondem.duckdns.org
 demmokarda.surf
+demmon50ltbuzdolabiarac.com
 demmon50ltbuzdolabin.sbs
 demmonkampanya.xyz
 demmonsinirlisayida.xyz
@@ -126290,6 +126292,7 @@ dysoool.com
 dysson.com.tr
 dystropia.ddns.net
 dystvxz.net
+dysvsdfsd.blogspot.com
 dytlg.com
 dytt88.org
 dyuiffbzvr.duckdns.org
@@ -146485,6 +146488,7 @@ esubemtraflkcezaode.com
 esubemvakifbank.com
 esuben--qnbfinansbank.com
 esuben-ziraatbank.com
+esuben.my-homeip.com
 esubeniz--qnbfinansbank.com
 esubeniz.com
 esubeniz.com.tr
@@ -225510,6 +225514,7 @@ jetonbaba4.online
 jetonlineodeme.com
 jetonlyseath.top
 jetonmail.com
+jetonsatinal.store
 jetonykslen.org
 jetortakbayi.net
 jetpaparatr.com
@@ -231382,6 +231387,7 @@ kampanyasizinicinhemenbasvurunuyap.cloud
 kampanyasizlericinak2.cloud
 kampanyasok.click
 kampanyason.com
+kampanyasonbuluyor99.com
 kampanyasongunu101.online
 kampanyasongunu24.online
 kampanyasonindirimonline.com
@@ -277720,6 +277726,7 @@ nsannsahsahsa.net
 nsaprizes.stream
 nsasd-sasa.net
 nsatastdddd.duckdns.org
+nsatasttt.duckdns.org
 nsatc.agency
 nsazasksa.net
 nscinfo.ddns.net
@@ -368475,6 +368482,7 @@ tokitaleptoplama.xyz
 tokitanitim.resmibasvuru.site
 tokitapubasvurusuaninda.blogdns.com
 tokitoplukntlri.com
+tokitr.com
 tokiturkiyebasvuru.com
 tokivbasvurulari.blogspot.com
 tokiview.digital
@@ -424722,6 +424730,7 @@ yilbasimkredi.cfd
 yilbasimlaodemem.net
 yilbasimobildeniz.co
 yilbasimujdesi.com
+yilbasimutluluklagel.dns.navy
 yilbasina-gel.top
 yilbasina-girerken-sizleri-mutlu-edecez-burada.com
 yilbasina-ozel-devfirsatlar.shop
