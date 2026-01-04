@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-04 17:08:13 UTC
-! Total: 345820 rules
+! Last modified: 2026-01-04 18:13:45 UTC
+! Total: 345822 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -125556,6 +125556,7 @@
 *://*.firsatsaatisimdibance.tech/*
 *://*.firsatsaatlerim.com/*
 *://*.firsatsaemekliyefirsatsadhasd.click/*
+*://*.firsatsaemekliyefirsatsadhassdasd.click/*
 *://*.firsatsal-etkinlik-aybasinda.click/*
 *://*.firsatsbay.com/*
 *://*.firsatsende.com.tr/*
@@ -129232,6 +129233,7 @@
 *://*.g0g3mvw.cn/*
 *://*.g0g9g8.com/*
 *://*.g0m4x.gdn/*
+*://*.g0menugirisllemb0nusllari.online/*
 *://*.g0nlinemoblgirs.net/*
 *://*.g0oo0gle.com/*
 *://*.g0z4.com/*
