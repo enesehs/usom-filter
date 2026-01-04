@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-04 11:08:12 UTC
-# Toplam: 433431 Domain
+# Son Güncelleme: 2026-01-04 12:22:51 UTC
+# Toplam: 433436 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -125135,6 +125135,7 @@ dstv.atferu.com
 dstv.atgo.cc
 dstv.xsgo.cc
 dstvincapetown.co.za
+dsube.my-homeip.com
 dsucomial.sbs
 dsuit.dulgeryapi.com.tr
 dsurr.com.tr
@@ -155591,6 +155592,7 @@ firmaguvencesi.com.tr
 firmalarimibizeistemi.space
 firmalarimizinfirsatlaridele.space
 firmalarinizialin.buzz
+firmalarisirala.life
 firmandoo.com
 firmdevelop.top
 firmes777.duckdns.org
@@ -210446,6 +210448,7 @@ indiiriimmkampanyalari.com.tr
 indiiriixim-firsattlari.com
 indiirimgunleri101.online
 indiirimmkampanyalari.com.tr
+indiirmbasladi999.com
 indiirmcaarrfurrssaa.shop
 indiirmdekampaynafirsati.com.tr
 indiirmdekampaynafirsati.online
@@ -241425,6 +241428,7 @@ kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvurusu.click
 kosgebdestek.duckdns.org
+kosgebdestekk.click
 kosgebform.click
 kosgebform.duckdns.org
 kosgebhibebasvur.cfd
@@ -256024,6 +256028,7 @@ marketinde-ozel-firsatlar-var-tr.online
 marketindeindirimivar.sbs
 marketindirim.click
 marketindirimgunleri.xyz
+marketindirimkataloglari.cfd
 marketindirmleri.xyz
 marketing-project.social
 marketing-solutions.guru
