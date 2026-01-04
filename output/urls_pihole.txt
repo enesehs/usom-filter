@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-04 16:10:45 UTC
-# Toplam: 433455 Domain
+# Son Güncelleme: 2026-01-04 17:08:13 UTC
+# Toplam: 433462 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -158741,6 +158741,7 @@ flrsatherkadarolmasadaanadan.world
 flrsatherkesgelsanaderamasenkac.store
 flrsatherkesle101devamkededi.shop
 flrsatherkeslecumartrsidegelded.store
+flrsatherkesledevametsendeol.cyou
 flrsatherkesleguzelhemen.store
 flrsatherkesleolduilernebenmise.world
 flrsatherkesleoldushhabesenmen.world
@@ -176663,6 +176664,7 @@ gunceladresleradresi.com.tr
 gunceladresleradresi.online
 gunceladresleradresi.xyz
 gunceladreslerimiz964.cf
+gunceladrestrendyol.com
 guncelaidat.freewebhostmost.com
 guncelaidat5171722527816116.com.tr
 guncelaidatodemesi.vercel.app
@@ -218685,6 +218687,7 @@ istanbbluyuklem.net
 istanbbullkartbasvr.org
 istanbbullkartiyuklee.net
 istanbdlkart.blogspot.com
+istanbdulluolunn.com
 istanbduslburdsk.shop
 istanbduslburdsk.store
 istanbkkls.net
@@ -222169,6 +222172,7 @@ izeltasodemeleri.dnsup.net
 izeltasodememerkezi.dnsup.net
 izeltasodemeyonlendirme.blogspot.com
 izeltasom.site
+izeltasonline.dns.navy
 izeltasonline.vip
 izeltaspremium.luminix.sbs
 izeltaspremiumis.juxtor.sbs
@@ -242033,6 +242037,7 @@ krddestek-online.top
 krddoldur.net
 krdeibasvuru.com
 krdgarntbrdatkla.click
+krdi-aidat-odemesi.com
 krdi-basvru-hmn-annda-hesap-yatsn.online
 krdi-basvru.com
 krdiaidtedvlt.com.tr
@@ -382755,6 +382760,7 @@ uhoa5gd.cn
 uhousenet.com
 uhqsfydlz.com
 uhrl4nsn.duckdns.org
+uhsdefvdvi.cfd
 uhsee.com
 uhsf3i0rj.duckdns.org
 uhsp7o.duckdns.org
@@ -420471,6 +420477,7 @@ yapimobill.com.tr
 yapimobill.net.tr
 yapimobill.org.tr
 yapimobill.tr
+yapimobille.org.tr
 yapimobiller.xyz
 yapimobilsube-destek.com
 yapimobilsube.shop
