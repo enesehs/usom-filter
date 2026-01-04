@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-04 20:10:38 UTC
-# Toplam: 433475 Domain
+# Son Güncelleme: 2026-01-04 21:08:06 UTC
+# Toplam: 433490 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -30876,6 +30876,7 @@ adebighead23892389.hopto.org
 adeboyeking.zapto.org
 adeccotoday.com
 adecebimtlyukle.ga
+aded.click
 adeelinco.space
 adeen.com.pk
 adeh5zdts5.com
@@ -85668,6 +85669,7 @@ bulutegitimmerkezim.org
 bulutkapi.com
 bulutkurumu.online
 bulutlararasilaclama.site
+bulutlardayim.click
 bulutludusler.biz
 bulutmematibas.tk
 bulutrentcars.net
@@ -85982,6 +85984,7 @@ buradabsvur.site
 buradadironline.com
 buradaeyluslksoka.cloud
 buradagarenta.com
+buradahazirsanizyenidengel.com
 buradahepbirazkaldik.com
 buradaherkeslegel.net
 buradakacmazfirsarlat.com.tr
@@ -89106,6 +89109,7 @@ cahgsyi.rf.gd
 cahhidee-pallazzo-rezervasyonn.business.site
 cahide-palazzo.b-cdn.net
 cahide-palazzo.click
+cahide-palazzo.cloud
 cahide-palazzo.online
 cahide-palazzo.xyz
 cahide-palazzorezervasyon.com
@@ -133399,7 +133403,6 @@ eborcortakodemeleri.info
 eborcortakodemeniz.info
 eborcsorgu.com
 ebosbim.net
-ebotilaver.cc.dvrlists.com
 ebox-burger.ddns.net
 ebox-vipps.pages.dev
 ebox.amltrust.cash
@@ -152705,6 +152708,8 @@ fb-cep-onlineyapicep.vercel.app
 fb-click1.sbs
 fb-click2.sbs
 fb-clicktr.sbs
+fb-cliksa242.cfd
+fb-cliksa242.com
 fb-copyright-help-canter.ml
 fb-copyright-infringement-form.ml
 fb-copyright-lnstagram.cf
@@ -177164,6 +177169,7 @@ gunceltrsikayetler-364.sbs
 gunceltrsikayetler-371.sbs
 gunceltrsikayetler-373.sbs
 gunceltrsikayetler-385.sbs
+gunceltrsikayetler-387.sbs
 gunceltrsikayetler-453.sbs
 gunceltrsikayetler-463.sbs
 gunceltrsikayetler-464.sbs
@@ -190226,6 +190232,7 @@ hemensiranial.app
 hemensislem.mooo.com
 hemensizdebizlerlealins.com.tr
 hemensizeozelhemen.org.tr
+hemensizlerdenoncerndval.cyou
 hemenskq.com
 hemenslemonllne.net
 hemensndebasvur-takipkampanyasina.com
@@ -191561,6 +191568,7 @@ heterometabolism.com
 heterotropal.com
 hetingdvition.top
 hetmanat.com
+hetoa.click
 hetoftinbut.com
 hetoman.net
 hetresca1.net
@@ -222267,6 +222275,7 @@ izkrr.net
 izkrtbkyeklemesi.com
 izlasmlsabmanskam.blogspot.com
 izldasgsdhd.blogspot.com
+izlddsg.blogspot.com
 izldskm.blogspot.com
 izlebasvurunutr.com
 izledekudur.cfd
@@ -241445,6 +241454,7 @@ kosgeb-hibe-basvuru.replit.app
 kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvurusu.click
+kosgebbilgi.duckdns.org
 kosgebdestek.duckdns.org
 kosgebdestekk.click
 kosgebform.click
@@ -243272,6 +243282,7 @@ ksahosting.net
 ksaicynm.com
 ksajnahqa.com
 ksakjdkf.com.tr
+ksalink-mobil-tr.duckdns.org
 ksalotmrlk4.duckdns.org
 ksamtarihi.com
 ksaremdfngl.net
@@ -324650,6 +324661,7 @@ sabines-marmeladen.de
 sabioqalimthingjascareers.com
 sabirlabekliyoruz.net
 sabirpo.ru
+sabirs.click
 sabit-gecislerim.biz
 sabit-gecislerim.cloud
 sabit-gecislerim.co
@@ -325236,6 +325248,7 @@ sadsfassd1.duckdns.org
 sadsffonrisafrslartrbtrv.blogdns.com
 sadshort.site
 sadsocsnfgirsatlarvb.blogdns.com
+sadsocsnfhgrisatlartrbv.blogdns.com
 sadsocsnfirsatlarstrcv.blogdns.com
 sadstory00.zapto.org
 sadthort.site
@@ -362384,6 +362397,7 @@ teknolojihizlionayislemleri.online
 teknolojikapimiz.click
 teknolojikapimiz.com
 teknolojikapimiz.icu
+teknolojikapimiz.xyz
 teknolojikbilgi.xyz
 teknolojiksepetindirimler.online
 teknolojikveilerici.online
@@ -420437,6 +420451,7 @@ yapim-2025basvurularibasladiaktif.vercel.app
 yapim-cepteonaylibasvurularim.vercel.app
 yapim-duyuru-tr.com
 yapimbireyselsubem.com
+yapimbl.com.tr
 yapimdavar.duckdns.org
 yapimkredi-triade.com
 yapimkredi.com
