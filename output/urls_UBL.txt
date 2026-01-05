@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-05 17:13:19 UTC
-! Total: 345916 rules
+! Last modified: 2026-01-05 19:12:33 UTC
+! Total: 345931 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5910,6 +5910,7 @@
 *://*.2026hedefvizyon.online/*
 *://*.2026hediyesi.cfd/*
 *://*.2026ilkevim.com.tr/*
+*://*.2026kampanyalaribonus.cfd/*
 *://*.2026kampanyalaribonus.com/*
 *://*.2026konutvizyon.online/*
 *://*.2026online.cfd/*
@@ -55456,6 +55457,7 @@
 *://*.bishopmartyrdom.top/*
 *://*.bisigorta.net/*
 *://*.bisikletci.xyz/*
+*://*.bisikletciniz-nrko.sbs/*
 *://*.bisikletleregozatmanlazimnar.com/*
 *://*.bisikletlerihemenkesfetal.com/*
 *://*.bisislem.online/*
@@ -160244,6 +160246,7 @@
 *://*.hmnkapinzdaszlerinkarsisindaaa.com/*
 *://*.hmnkapinzdaszlerinkarsisindaaa.store/*
 *://*.hmnkapiyageliyorbksna.com/*
+*://*.hmnkapiyageliyorlars.com/*
 *://*.hmnkapiyageliyorsnzs.com/*
 *://*.hmnkapiyagelsin1o1.com/*
 *://*.hmnkapiyagelsinsize.com/*
@@ -194203,6 +194206,7 @@
 *://*.kmpnyaabasvrrruprmsynnn.info/*
 *://*.kmpnyaabasvrrruprmsynnn.pro/*
 *://*.kmpnyaabsvrrprmsynnn.info/*
+*://*.kmpnyaabsvrrprmsynnn.pro/*
 *://*.kmpnyaabsvrrraafinnss.click/*
 *://*.kmpnyaabsvrrrgrnntt.click/*
 *://*.kmpnyaabsvrrrprmo.click/*
@@ -195977,6 +195981,7 @@
 *://*.krcailylbasi.com/*
 *://*.krcaindirimdunyasi.xyz/*
 *://*.krcakiseznu.cfd/*
+*://*.krcakrcaockta.top/*
 *://*.krcakrlkkszmni.com/*
 *://*.krcaksaylri.cfd/*
 *://*.krcaksmgzlbrda.com/*
@@ -223582,6 +223587,7 @@
 *://*.nurvakfiekayitsistemi.com/*
 *://*.nusalserasa.net/*
 *://*.nusamandiri.ac.id/*
+*://*.nusecsicaf.sbs/*
 *://*.nusfrdnuvu3.buzz/*
 *://*.nusudd.cn/*
 *://*.nut.cc/*
@@ -252933,6 +252939,8 @@
 *://*.qq-pttgov.top/*
 *://*.qq-sb.top/*
 *://*.qqbkwgpoxvlo.tech/*
+*://*.qqbn-firsatkampanyasi.info/*
+*://*.qqbn-firsatkampanyasi.online/*
 *://*.qqdcaejauhijpxhio.com/*
 *://*.qqdeddxskibhjna.ru/*
 *://*.qqdg4ge.cn/*
@@ -262944,6 +262952,7 @@
 *://*.sahiibindenget-org.tk/*
 *://*.sahiibindenget.com/*
 *://*.sahiibindenn-paramguvennde.com/*
+*://*.sahiibindennn-paramguveendee.site/*
 *://*.sahiibindenparamguvende-urunsatinal-urunsat-com.tk/*
 *://*.sahiibindenparamguvende.com.tr/*
 *://*.sahiibindenparamguvende.com/*
@@ -321612,6 +321621,7 @@
 *://*.wklccinohmjnkyi.ru/*
 *://*.wklgdxrkogvfaiigp.me/*
 *://*.wkmp9fspwz.xyz/*
+*://*.wkmpnyybsvrrrprmsynn.click/*
 *://*.wkofssdmksfadjg.buzz/*
 *://*.wkpxbved.com/*
 *://*.wkqltxnxs.info/*
@@ -338623,6 +338633,7 @@
 *://*.yeniyilkutlamasi.com/*
 *://*.yeniyillakazan.com/*
 *://*.yeniyillkampanyallarim.com/*
+*://*.yeniyilmlgrs.online/*
 *://*.yeniyilmlgrsos.online/*
 *://*.yeniyilodulleri.click/*
 *://*.yeniyilodulleri.com/*
@@ -338683,6 +338694,7 @@
 *://*.yenizamanlarvakfi.com/*
 *://*.yeniziraatcep.com/*
 *://*.yenizler.com/*
+*://*.yenl-yli-kpamyalari.cfd/*
 *://*.yenlfiyatlarburda.com/*
 *://*.yenlflyatlarburda.com/*
 *://*.yenliyilli-girislr.com/*
@@ -339184,7 +339196,9 @@
 *://*.yilbasi-kampanya.xyz/*
 *://*.yilbasi-kampanyafirsati-bireyseleozel-tr.shop/*
 *://*.yilbasi-kampanyafirsati-bireyseleozel.xyz/*
+*://*.yilbasi-kampanyalari-sizlerle.biz.tr/*
 *://*.yilbasi-kampanyalari-sizlerle.com.tr/*
+*://*.yilbasi-kampanyalari-sizlerle.name.tr/*
 *://*.yilbasi-kampanyalari-sizlerle.net.tr/*
 *://*.yilbasi-kampanyalari-sizlerle.org.tr/*
 *://*.yilbasi-kampanyalari-sizlerle.web.tr/*
@@ -344640,6 +344654,7 @@
 *://*.ziraatonlineyilbasi.com/*
 *://*.ziraatonlinramazanbayrami.com/*
 *://*.ziraatonlneportal.com/*
+*://*.ziraatorg.cfd/*
 *://*.ziraatozel.cfd/*
 *://*.ziraatozel.com/*
 *://*.ziraatozelkampanya.com/*
