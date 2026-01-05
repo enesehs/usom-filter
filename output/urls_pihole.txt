@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 12:23:34 UTC
-# Toplam: 433540 Domain
+# Son Güncelleme: 2026-01-05 13:33:17 UTC
+# Toplam: 433555 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24477,6 +24477,7 @@ a101sanalmarketlercepte.online
 a101sanaozel.wuaze.com
 a101sanaozelfirsat.shop
 a101sanaozelkampanya.online
+a101semsertsankimermer.com
 a101seninlebirlikte.com
 a101sep.com
 a101sepet.com
@@ -31499,6 +31500,7 @@ adresimatkapplar.xyz
 adresimhepsiburada.com
 adresimne.net
 adresimtrendyol.com
+adresimyenitrendyol.com
 adresindeoto.online
 adresinegelir.online
 adresinegelsin.online
@@ -41645,6 +41647,7 @@ alisveris-kapinizda.com.tr
 alisveris-kapinizda.info.tr
 alisveris-kapinizda.name.tr
 alisveris-kapinizda.net.tr
+alisveris-kapinizda.org.tr
 alisveris-kapinizda.tv.tr
 alisveris-kapinizda.web.tr
 alisveris-market.online
@@ -83581,6 +83584,7 @@ bsifinancial019.ssllst.cloud
 bsifzeuxjr.duckdns.org
 bsiimclll.com
 bsimscll.com
+bskilket-nkoro.cfd
 bskntyukleme.sg-host.com
 bskqdizhqp.duckdns.org
 bskxcw.top
@@ -144012,6 +144016,7 @@ enuygunkiralikoto.com
 enuygunkredi2025de.com
 enuygunlar.name.tr
 enuygunmarketfirsatlari.click
+enuygunmarketfiyatlari.cfd
 enuygunsigortam.homes
 enuygunsigortam.quest
 enuygunsigortam.store
@@ -147334,6 +147339,7 @@ euprotect.net
 eur-mambo.at.ply.gg
 eur06.com
 eur87f.duckdns.org
+euraclothsale.shop
 eurecas.org
 eureka007.tk
 euretrios.xyz
@@ -174287,6 +174293,7 @@ gr01.ddns.net
 gr02.ddns.net
 gr03.ddns.net
 gr0menugirisllemb0nuslari.online
+gr1menugirislemb0nuslari.online
 gr1p0n.club
 gr1z0uu.zapto.org
 gr3vtdvyzah3ad.ddns.net
@@ -177321,6 +177328,7 @@ gungun-bu188-accd274d6ad3.herokuapp.com
 gungun-bu1881-0443b3beb109.herokuapp.com
 gungun-bu18811-3d2dafe10049.herokuapp.com
 gungun-bu188p3-f707924b0ded.herokuapp.com
+gungun-bu188v6-14e500ca1554.herokuapp.com
 gungun-su-1c2afc80c691.herokuapp.com
 gungun-su18121-9335bf8ae806.herokuapp.com
 gungun-su181p3-b3cffaed6c80.herokuapp.com
@@ -206160,6 +206168,7 @@ idakho.cyou
 idalidcouture.com
 idappleestore.zapto.org
 idappleidappleid.zapto.org
+idaricezasorgu.org
 idaridenetleme.com
 idaridosyasistemi.org
 idaridosyatakibi.org
@@ -218206,6 +218215,7 @@ islemmmerkezi.net
 islemmsizlerle.com
 islemmusterim.cfd
 islemn.com
+islemnktsinislem.net
 islemnoktasi.com
 islemoak.shop
 islemonay-acikdenizv2denizbank.com
@@ -232143,6 +232153,7 @@ kapidaa-odemeyap.com
 kapidaa1o1.net
 kapidaaa-byrm-eksstraa.com
 kapidaaktuelindirimlerimekim.online
+kapidaaldinaldin2026.org
 kapidaaronlinekirala.com.tr
 kapidaavisonline.epizy.com
 kapidadevgunler.com.tr
@@ -232271,6 +232282,7 @@ kapimda-urun-reklam.com.tr
 kapimda-urun-xn.com.tr
 kapimda-xn.com.tr
 kapimda.net.tr
+kapimdaindrsmlxonlin.store
 kapimdaki-firsat.site
 kapimdakiralamam.com
 kapimdan-siparis.com.tr
@@ -308569,6 +308581,7 @@ pttavm.securesepetiniz.com
 pttavm.seninfirsatin.com.tr
 pttavm.seninsiparisin.com.tr
 pttavm.sepet-onay.com.tr
+pttavm.sepet-satinal.com
 pttavm.sepetfirsati.com.tr
 pttavm.sepetim-get-odeme.com
 pttavm.sepetim-onayli-137426.com
@@ -357923,6 +357936,7 @@ t0kbasvurulari.sbs
 t0kbasvurularim.click
 t0kbasvurularim.sbs
 t0kbasvurum.click
+t0ki-2025basvuru.sbs
 t0ki-hemenbrda.com
 t0ki-hizlabasvur.sbs
 t0ki-wdx.sbs
@@ -374081,6 +374095,7 @@ trendyollakazan.live
 trendyollasana.com
 trendyollexpress.com
 trendyollgiris.xyz
+trendyolls.click
 trendyolls.com
 trendyolls.shop
 trendyolmafyalari.com
