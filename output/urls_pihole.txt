@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 20:11:42 UTC
-# Toplam: 433602 Domain
+# Son Güncelleme: 2026-01-05 21:10:04 UTC
+# Toplam: 433618 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -41598,6 +41598,7 @@ alisverimdesen.com.tr
 alisverimdesen.online
 alisverimguvenliodememiz.com.tr
 alisverimizguvenli.com.tr
+alisveris-101-mobil-tr.duckdns.org
 alisveris-a101-indirim-tr.com
 alisveris-a101.com
 alisveris-a101.online
@@ -71584,6 +71585,7 @@ binbcelltlykle.com
 binbircesit.shop
 binbircesit.site
 binbirlndirimler-kapinakadar.com.tr
+binbirlndirimler-kapinakadar.online
 binbirlndirimler-kapinakadar.xyz
 binbirlndirimler-kapinda.com.tr
 binbirlndirimler-kapinda.online
@@ -73630,6 +73632,7 @@ bireyseltebhesabim.com
 bireyseltebsubemtr.com
 bireyseltelekom.com.tr
 bireyselteslimat.com.tr
+bireyselticaretaraci.com.tr
 bireyselticaretler.duckdns.org
 bireyseltrkiye.website
 bireyselvak-iflimit.xyz
@@ -74035,6 +74038,7 @@ bisikletci.xyz
 bisikletciniz-nrko.sbs
 bisikletleregozatmanlazimnar.com
 bisikletlerihemenkesfetal.com
+bisiklettamirciniz.cfd
 bisislem.online
 biskletciniz-geldiy-ll.cfd
 bislem.net
@@ -178712,6 +178716,7 @@ guvenliodemeekrani-islemtanimi.xyz
 guvenliodemeget.com
 guvenliodemeget.ru.com
 guvenliodemegetilanim.com
+guvenliodemehizmeti-shibinden.com
 guvenliodemehizmeti.com
 guvenliodemehizmetleri.com
 guvenliodemeislemi.cfd
@@ -222225,6 +222230,7 @@ izeltasindirim.site
 izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
+izeltasmekanikcitakimcanta-seti.blogspot.com
 izeltasmekaniktakimcantasi.blogspot.com
 izeltasmekaniktakimfirsati.blogspot.com
 izeltasmekankcitakimi.blogspot.com
@@ -239688,6 +239694,7 @@ kmpnyaabsvrrprmsynnn.pro
 kmpnyaabsvrrraafinnss.click
 kmpnyaabsvrrrgrnntt.click
 kmpnyaabsvrrrprmo.click
+kmpnyaacllkprrmsyn.art
 kmpnyaakdayaz.name.tr
 kmpnyaaprmsynnbasvrr.info
 kmpnyaaprmsynnbasvrr.pro
@@ -242002,6 +242009,7 @@ krcaktuel.info.tr
 krcaktuel.net.tr
 krcaktuel.org.tr
 krcaocaksiparislerim.xyz
+krcaockzmi.click
 krcaonline.shop
 krcarlik.com
 krcarlk.com
@@ -242925,6 +242933,7 @@ kredit-indirimlerim.info
 kredit-indirimlerim.online
 kredit-mpay.online
 kredit-online.site
+kredit-yeniyil.com
 kreditak.com
 kreditfinanzbank-de.com
 kreditkarten-lbb.net
@@ -278386,6 +278395,7 @@ nurturesovereign.top
 nurvakfiekayitsistemi.com
 nusalserasa.net
 nusas.fanclub.rocks
+nusecsicaf.cfd
 nusecsicaf.sbs
 nusfrdnuvu3.buzz
 nusudd.cn
@@ -281296,6 +281306,7 @@ odeindirm.tk
 odeklyvery-gyy.net
 odem-eleronline2024.online
 odem3h1zmetleri-101d.duckdns.org
+odem3h1zmetleri-101d1.duckdns.org
 odem3h1zmetleri101d.duckdns.org
 odeme-3d-secure.com
 odeme-5123.com
@@ -305282,6 +305293,7 @@ prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
 prmsynnnkmpnyaaabsvrrr.art
+prmsynnnkmpnyaaabsvrrr.info
 prmsynnnkmpnyaaabsvrrr.pro
 prmsynnnkmpnyaabsvrrr.art
 prmsynnnkmpnyaabsvrrr.info
@@ -357995,6 +358007,7 @@ t0kibasvuruyap.icu
 t0kibsvrdi.sbs
 t0kibsvrdmdi.sbs
 t0kibsvrmliz.sbs
+t0kibsvrmrkiz.sbs
 t0kibsvrulari2.com
 t0kiedevlet2025.giize.com
 t0kievbasvurularim.com
@@ -422507,9 +422520,12 @@ yeni-yila-ozel-fiyatlar-firsatlar-indirimler.online
 yeni-yila-ozel-fiyatlar.com
 yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.com.tr
 yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.info
+yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.online
 yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.com.tr
 yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.info
 yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.online
+yeni-yila-ozel-indirim-kampanyalariiiiii.info
+yeni-yila-ozel-indirim-kampanyalariiiiii.online
 yeni-yilda-a-1o1-frsatlari.blogspot.com
 yeni-yilda-evine-al.shop
 yeni-yilda-firsatlar.shop

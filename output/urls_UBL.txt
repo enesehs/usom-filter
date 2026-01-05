@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-05 20:11:42 UTC
-! Total: 345934 rules
+! Last modified: 2026-01-05 21:10:04 UTC
+! Total: 345947 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -53148,6 +53148,7 @@
 *://*.binbircesit.shop/*
 *://*.binbircesit.site/*
 *://*.binbirlndirimler-kapinakadar.com.tr/*
+*://*.binbirlndirimler-kapinakadar.online/*
 *://*.binbirlndirimler-kapinakadar.xyz/*
 *://*.binbirlndirimler-kapinda.com.tr/*
 *://*.binbirlndirimler-kapinda.online/*
@@ -55096,6 +55097,7 @@
 *://*.bireyseltelekom.com.tr/*
 *://*.bireyselteslimat.com.tr/*
 *://*.bireyselticaret.com.tr/*
+*://*.bireyselticaretaraci.com.tr/*
 *://*.bireyseltrkiye.website/*
 *://*.bireyselvak-iflimit.xyz/*
 *://*.bireyselvakif-dijital-tr.ml/*
@@ -55461,6 +55463,7 @@
 *://*.bisikletciniz-nrko.sbs/*
 *://*.bisikletleregozatmanlazimnar.com/*
 *://*.bisikletlerihemenkesfetal.com/*
+*://*.bisiklettamirciniz.cfd/*
 *://*.bisislem.online/*
 *://*.biskletciniz-geldiy-ll.cfd/*
 *://*.bislem.net/*
@@ -142952,6 +142955,7 @@
 *://*.guvenliodemeekrani-islemtanimi.xyz/*
 *://*.guvenliodemeget.com/*
 *://*.guvenliodemegetilanim.com/*
+*://*.guvenliodemehizmeti-shibinden.com/*
 *://*.guvenliodemehizmeti.com/*
 *://*.guvenliodemehizmetleri.com/*
 *://*.guvenliodemeislemi.cfd/*
@@ -194212,6 +194216,7 @@
 *://*.kmpnyaabsvrrraafinnss.click/*
 *://*.kmpnyaabsvrrrgrnntt.click/*
 *://*.kmpnyaabsvrrrprmo.click/*
+*://*.kmpnyaacllkprrmsyn.art/*
 *://*.kmpnyaakdayaz.name.tr/*
 *://*.kmpnyaaprmsynnbasvrr.info/*
 *://*.kmpnyaaprmsynnbasvrr.pro/*
@@ -195994,6 +195999,7 @@
 *://*.krcaktuel.net.tr/*
 *://*.krcaktuel.org.tr/*
 *://*.krcaocaksiparislerim.xyz/*
+*://*.krcaockzmi.click/*
 *://*.krcaonline.shop/*
 *://*.krcarlik.com/*
 *://*.krcarlk.com/*
@@ -196738,6 +196744,7 @@
 *://*.kredit-indirimlerim.online/*
 *://*.kredit-mpay.online/*
 *://*.kredit-online.site/*
+*://*.kredit-yeniyil.com/*
 *://*.kreditak.com/*
 *://*.kreditfinanzbank-de.com/*
 *://*.kreditkarten-lbb.net/*
@@ -223589,6 +223596,7 @@
 *://*.nurvakfiekayitsistemi.com/*
 *://*.nusalserasa.net/*
 *://*.nusamandiri.ac.id/*
+*://*.nusecsicaf.cfd/*
 *://*.nusecsicaf.sbs/*
 *://*.nusfrdnuvu3.buzz/*
 *://*.nusudd.cn/*
@@ -245814,6 +245822,7 @@
 *://*.prmsynnnbsvrrrqnbbb.click/*
 *://*.prmsynnngrnttbsvr.xyz/*
 *://*.prmsynnnkmpnyaaabsvrrr.art/*
+*://*.prmsynnnkmpnyaaabsvrrr.info/*
 *://*.prmsynnnkmpnyaaabsvrrr.pro/*
 *://*.prmsynnnkmpnyaabsvrrr.art/*
 *://*.prmsynnnkmpnyaabsvrrr.info/*
@@ -285647,6 +285656,7 @@
 *://*.t0kibsvrdi.sbs/*
 *://*.t0kibsvrdmdi.sbs/*
 *://*.t0kibsvrmliz.sbs/*
+*://*.t0kibsvrmrkiz.sbs/*
 *://*.t0kibsvrulari2.com/*
 *://*.t0kievbasvurularim.com/*
 *://*.t0kievleribasvuru.sbs/*
@@ -337308,9 +337318,12 @@
 *://*.yeni-yila-ozel-fiyatlar.com/*
 *://*.yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.com.tr/*
 *://*.yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.info/*
+*://*.yeni-yila-ozel-indirim-kampanyalariiiiii-bizde.online/*
 *://*.yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.com.tr/*
 *://*.yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.info/*
 *://*.yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.online/*
+*://*.yeni-yila-ozel-indirim-kampanyalariiiiii.info/*
+*://*.yeni-yila-ozel-indirim-kampanyalariiiiii.online/*
 *://*.yeni-yilda-evine-al.shop/*
 *://*.yeni-yilda-firsatlar.shop/*
 *://*.yeni-yilda-yeni-firsatlar.shop/*
