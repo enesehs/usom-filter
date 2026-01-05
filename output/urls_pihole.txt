@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 22:10:02 UTC
-# Toplam: 433618 Domain
+# Son Güncelleme: 2026-01-05 23:09:37 UTC
+# Toplam: 433641 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16942,6 +16942,7 @@
 699ao5.duckdns.org
 699pvxxj6.duckdns.org
 699yudumcaykurturkiye.me
+699yudumcayturkiye.me
 69ad4ug.duckdns.org
 69ae85de29.pw
 69bkbwp.duckdns.org
@@ -94330,6 +94331,7 @@ cezaislemleri.mywire.org
 cezaislemlerin.info
 cezaislemq.mywire.org
 cezakarar.net
+cezakgm.click
 cezakontrol.com
 cezakontrol.org
 cezakontroluresmi.com
@@ -117355,6 +117357,7 @@ dev.aru.coinbase-com.info
 dev.birey-basvur-destek-kampanyalari.xyz
 dev.birey-basvur-destek-kampanyasi.xyz
 dev.birey-basvuru-destek-kmpnya.xyz
+dev.bntrkolaybasvuru.com
 dev.diogoflix.com
 dev.emilysueallen.com
 dev.kinopoisksu.com
@@ -138297,6 +138300,7 @@ eglencelivemasaltombalik.xyz
 eglencevesanatcizgihikaye.xyz
 eglenip-cokca-aniniza-dahiliz-bizle.com
 eglobalecuzdankayitactivasyonsorgulama.line.pm
+egm-dot-gov-dot-tr.gateway.web.tr
 egm-edevlet.com
 egm-gov-tr.info
 egm-govtr.online
@@ -147605,6 +147609,7 @@ evavantj-firstwebgiristr.xyz
 evavillam.com
 evbasvuru.online
 evbasvuru.xyz
+evbasvurugovtr.cyou
 evbasvurugovtr.sbs
 evbasvurukurra.com
 evbasvurularibasladi.cfd
@@ -210786,6 +210791,7 @@ indirimaktuelgunlerinizkapindalar.online
 indirimaktuelgunlerinizkapindalar.xyz
 indirimaktuelprime.net
 indirimaktuelss.com
+indirimal.sbs
 indirimaldinaldin.com.tr
 indirimani.club
 indirimanindadevamet.shop
@@ -231122,6 +231128,7 @@ kampanyalikasimgeldi.shop
 kampanyalikredi.online
 kampanyalimasalar.xyz
 kampanyalindiribindir1.com.tr
+kampanyalindiribindir1.info
 kampanyalindiribindir1.online
 kampanyalindiribindir2.com.tr
 kampanyalindiribindir2.info
@@ -236755,6 +236762,7 @@ kgm-govv.xyz
 kgm-govz-tr.cfd
 kgm-guv.com
 kgm-hgs.com
+kgm-islem.blogspot.com
 kgm-kgs.com
 kgm-oag.com
 kgm-oga.com
@@ -236782,6 +236790,7 @@ kgm-ozg.com
 kgm-poc.novadsa.com
 kgm-qzz.com
 kgm-sorgu-com.tk
+kgm-sorgu.blogspot.com
 kgm-sorgula.org
 kgm-sorgulama.blogspot.com
 kgm-sorgulamaodeme-org.ga
@@ -236795,6 +236804,7 @@ kgm-trgov.click
 kgm-trgov.cyou
 kgm-trgov.qpon
 kgm-trgov.sbs
+kgm-trm.cfd
 kgm-vvc.top
 kgm.jbbang.com
 kgm.otoyolimiss.net
@@ -236819,7 +236829,10 @@ kgmbilgi-icrasis.com
 kgmbilgisistem.ink
 kgmblbrchgs.ddnsgeek.com
 kgmborcodemesorgulama.com
+kgmceza.click
+kgmcezanews.click
 kgmcezas.click
+kgmclick.help
 kgmdencezayolodemesi2023.com
 kgmdgo.life
 kgmeer.qpon
@@ -236978,6 +236991,9 @@ kgmstrategy.com
 kgmswebgcshsgoss.duckdns.org
 kgmswebgcsodemees.com
 kgmtr-gon.top
+kgmtr-gos.icu
+kgmtr-gos.top
+kgmtr-gov.icu
 kgmtr-govu.top
 kgmtr.org
 kgmtr.top
@@ -241301,6 +241317,7 @@ konuttokibasvurusu.info
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
 konuttokibasvurusuu.info
+konuttokibasvurusuu.sa.com
 konuttokibasvurusuu.xyz
 konuttokibsvr.sa.com
 konuttokimbasvurum.click
@@ -254839,6 +254856,7 @@ maliyeedosya.org
 maliyeeuzlasma.org
 maliyegelirbaskanligi.tk
 maliyegiris.com
+maliyegovtr.org
 maliyegovtrltr273.com
 maliyegovtrltr275.com
 maliyegovtrltr277.com
@@ -298036,6 +298054,7 @@ pasajsanalmarketi.com
 pasajsanalmarketin.online
 pasajsanalsite.com
 pasajsite.com
+pasajsite.sbs
 pasajsitesi.com
 pasajticaretp-tt.com
 pasajtr.com
@@ -368243,6 +368262,7 @@ tokibasvvuru.blogspot.com
 tokibavsuuru.omnicron.sbs
 tokibbasvurrularii.com
 tokibbasvuvuru.com
+tokibilgiekrani.com
 tokibilgilendirme.com
 tokibirevimprojeleri.com
 tokibqsvrulariniz.com
@@ -368598,6 +368618,7 @@ tokiprojem.xyz
 tokiprojesi.com
 tokiresmibasvuru.cfd
 tokiresmibasvurun.wordpress.com
+tokiresmihaber.cfd
 tokiresmiyetgazeteniz.webredirect.org
 tokisahibiol.com
 tokisatisedevlet-2137d.kxcdn.com
@@ -386702,6 +386723,7 @@ uzlasmaborcu.com
 uzlasmaburomuz.com
 uzlasmaburosuceza.com
 uzlasmacezaasimaliye.com
+uzlasmacezagovtr.org
 uzlasmacezasimaliye.com
 uzlasmacezasisorgulat.com
 uzlasmacezasorgulama.com
@@ -422469,6 +422491,7 @@ yeni-nesil-bilim.digitalkick.cfd
 yeni-pandemibasvuruapp.com
 yeni-pandemidestek.com
 yeni-pasaport.b-cdn.net
+yeni-piyasa.info
 yeni-randevu-190ac7583b5c.herokuapp.com
 yeni-randevu-e394708089fc.herokuapp.com
 yeni-safak.com
