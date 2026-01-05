@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 16:13:57 UTC
-# Toplam: 433569 Domain
+# Son Güncelleme: 2026-01-05 17:13:19 UTC
+# Toplam: 433580 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85908,6 +85908,7 @@ bunu-kacirmayi-dusunmedin-demi.com.tr
 bunu-kacirmazsin-bence.com
 bunualgerigonde45papa.com
 bunubilenlerhizlicaalir.cfd
+bunubilir.com
 bunuburdaalin0hadialin.com
 bunudayap.com
 bunuellemeyn.tk
@@ -85999,6 +86000,7 @@ buradagarenta.com
 buradahazirsanizyenidengel.com
 buradahepbirazkaldik.com
 buradaherkeslegel.net
+buradailklerehepyervar.com
 buradakacmazfirsarlat.com.tr
 buradakacmazfirsarlat.online
 buradakacmazfirsarlat.xyz
@@ -92694,6 +92696,7 @@ cenabet1096.com
 cenalerdenles.com
 cendata.today
 cendiezkustim.top
+cenemsudcsi.sbs
 cengaoya.com
 cengizerdenez.online
 cengizgiittibugeldi.monster
@@ -153679,6 +153682,7 @@ fewwrongsaved.today
 fewyroinpoidfjhcmd.com
 fexcongroup.com
 fexpres.lol
+fexra.cyou
 fexxdzonepname.b-cdn.net
 fexxridmvcnfref.com
 feyas4.s3.eu-north-1.amazonaws.com
@@ -198694,6 +198698,7 @@ hmhqrenmpa.net
 hmhwoc.top
 hmi6uzm.duckdns.org
 hmiblgoja.ru
+hmkpinizdavrkdsmnz.com
 hmkrjxbd3.duckdns.org
 hmlbb.duckdns.org
 hmlgsx-hwsxptav.com
@@ -202193,6 +202198,7 @@ hushim1987xd.app
 hushmali.com
 huskazkteredete.shop
 huskerblackshirts.com
+huskerkmuricid.com
 huskidkifklaoksikfkfijsju.blogspot.com
 husky683.xyz
 husmgjk.duckdns.org
@@ -238799,6 +238805,7 @@ kkkvksvlxzkvtx.net
 kkkvkvkvks.net
 kkkvskvkxvc.net
 kkladrao1.hopto.org
+kklardmcnadlortr.click
 kklargeleceklercc.click
 kklargeliyor.click
 kklargeliyorsenbilirsin.com
@@ -261106,6 +261113,7 @@ migros.ekstra.site
 migros.elevateinnovatepro.com
 migros.it.com
 migros.tc
+migrosanalmarket.space
 migroscom.org
 migrosdenizkampanyalari.com
 migrosekstra.duckdns.org
@@ -286477,6 +286485,7 @@ onlinegrisdvltgovxxcone.xyz
 onlinegroup.fun
 onlinegrsbrnncrtr-login.com
 onlinegrsltr-dvvtl.com
+onlinegryednkaktarmlarekran.cyou
 onlinegryednkynlendrmservis.site
 onlinegsm-tlyukleme.com
 onlinegsmpaketleri.xyz
@@ -350995,6 +351004,7 @@ srgudama.online
 srgukmaninda.com
 srgulama-ve-geri-alma-ekrani.cyou
 srgulaveaktarmaekrani.cfd
+srgulavegerialaktar.cyou
 srgulaveyndlendirme.site
 srgulaveyonlendir.lat
 srgullm.com
@@ -424700,6 +424710,7 @@ yilbasi-kampanya.xyz
 yilbasi-kampanyafirsati-bireyseleozel-tr.shop
 yilbasi-kampanyafirsati-bireyseleozel.xyz
 yilbasi-kampanyalari-sizlerle.com.tr
+yilbasi-kampanyalari-sizlerle.net.tr
 yilbasi-kampanyalari-sizlerle.org.tr
 yilbasi-kampanyalari-sizlerle.web.tr
 yilbasi-kampanyasi-bim-ilebitiyor.com
