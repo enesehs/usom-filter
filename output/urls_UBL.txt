@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-05 14:13:56 UTC
-! Total: 345893 rules
+! Last modified: 2026-01-05 15:12:29 UTC
+! Total: 345905 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5909,6 +5909,8 @@
 *://*.2026bvsnrsmdikyt.sbs/*
 *://*.2026hedefvizyon.online/*
 *://*.2026hediyesi.cfd/*
+*://*.2026ilkevim.com.tr/*
+*://*.2026kampanyalaribonus.com/*
 *://*.2026konutvizyon.online/*
 *://*.2026online.cfd/*
 *://*.2026teslim-tarih.sbs/*
@@ -57805,6 +57807,7 @@
 *://*.blesxemcell.net/*
 *://*.bletanich.ru/*
 *://*.blfasci.top/*
+*://*.blfirlsalta-kcmamzz.sbs/*
 *://*.blflsdmfbbmf.net/*
 *://*.blfwsbnurbss.com/*
 *://*.blgbeach.com/*
@@ -69902,6 +69905,7 @@
 *://*.carrfors-online.cfd/*
 *://*.carrfors-urunler.online/*
 *://*.carrforse-urunler.online/*
+*://*.carrforse-urunler.shop/*
 *://*.carrfour-online-indirim.com/*
 *://*.carrfours.cfd/*
 *://*.carrfoursa.online/*
@@ -149904,6 +149908,7 @@
 *://*.hayalindekiruyagerceklesti.cfd/*
 *://*.hayalindekisimdiyaninda.com/*
 *://*.hayalindekiyaninageldi.cfd/*
+*://*.hayalindekiyaninageldi.com/*
 *://*.hayalindekiyaninageldi.top/*
 *://*.hayalindekiyanindageldi.top/*
 *://*.hayalinden-daha-fazlasi-seni-bekliyor.com/*
@@ -152709,6 +152714,7 @@
 *://*.hemenislemm.net/*
 *://*.hemenislemmbasv00.online/*
 *://*.hemenislemmerkezi.app/*
+*://*.hemenislemntkonasi.net/*
 *://*.hemenislemntonkasni.online/*
 *://*.hemenislemsnonk.net/*
 *://*.hemenislemsonktn.net/*
@@ -207108,6 +207114,7 @@
 *://*.matvoucher.top/*
 *://*.matzines.com/*
 *://*.maule.biz/*
+*://*.maulshankdaffy.shop/*
 *://*.mauraswakrin.com/*
 *://*.mauricefischer.club/*
 *://*.mauritaniecoeur.org/*
@@ -257240,6 +257247,7 @@
 *://*.resmibntrgirishediyesii.com/*
 *://*.resmibultenler.com/*
 *://*.resmicezakontrolu.com/*
+*://*.resmicezasorgu.org/*
 *://*.resmicimerbasvuru.com/*
 *://*.resmicumhurtr908474.com/*
 *://*.resmicumhurtr9874.com/*
@@ -261673,6 +261681,7 @@
 *://*.sahibinden-mobil-secure.com.tr/*
 *://*.sahibinden-mobil.app/*
 *://*.sahibinden-mobil.com.tr/*
+*://*.sahibinden-mobil.com/*
 *://*.sahibinden-mobile.app/*
 *://*.sahibinden-mparamguvende.ml/*
 *://*.sahibinden-net.cf/*
@@ -312839,6 +312848,7 @@
 *://*.vaultaliy.com/*
 *://*.vaultally.com/*
 *://*.vaultdome.com/*
+*://*.vaultedchronicles.xyz/*
 *://*.vaultmintz.com/*
 *://*.vaultnest.store/*
 *://*.vaultofzarenth.com/*
@@ -337966,6 +337976,7 @@
 *://*.yenilikci-sekilde-karsina-gelenler-yaninda.com/*
 *://*.yenilikci-sekilde-yaninda-olanlar-kapinda.top/*
 *://*.yenilikci-urun-firsatlari.top/*
+*://*.yenilikci.online/*
 *://*.yenilikciakil.online/*
 *://*.yenilikcibilisimit.com/*
 *://*.yenilikcigirisimcilikprojesi.xyz/*
@@ -339371,6 +339382,7 @@
 *://*.yilbasinda-sizlerle.net.tr/*
 *://*.yilbasinda-sizlerle.org.tr/*
 *://*.yilbasinda-sizlerle.tv.tr/*
+*://*.yilbasinda-sizlerle.web.tr/*
 *://*.yilbasinda-yapikredi.com/*
 *://*.yilbasinda.com/*
 *://*.yilbasinda101.icu/*
