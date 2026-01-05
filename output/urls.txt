@@ -1,6 +1,6 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2026-01-05 19:12:33 UTC
-# Toplam: 437134 URL
+# Son Güncelleme: 2026-01-05 20:11:42 UTC
+# Toplam: 437140 URL
 
 http://0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 http://0--loook.net
@@ -22274,6 +22274,7 @@ http://a--1-01den-flrsatlar.sbs
 http://a--1-01den-kmpanyalar-aralik.cfd
 http://a--10-1den-aralk-flrsatlari.cfd
 http://a--10-1den-kmpyanlar.sbs
+http://a--10-1den-ynliyliaozei.sbs
 http://a--101-firsatlarri.online
 http://a--101.online
 http://a--haber-govtrr.org
@@ -216008,6 +216009,7 @@ http://internet-kampayasi.org
 http://internet-kuveytturk.com
 http://internet-kuveytturkiye.com
 http://internet-marketi.sbs
+http://internet-mobil-alisveris.duckdns.org
 http://internet-mobil-hesabim.com
 http://internet-mobildenizacikbasvuru.com
 http://internet-mobile-cor.ml
@@ -234089,6 +234091,7 @@ http://kamudava.net
 http://kamudestegibasvuruformu.com
 http://kamudestek-egovtr.epizy.com
 http://kamudestekleme-govtr.epizy.com
+http://kamudosyambul.org
 http://kamudosyasorgu.org
 http://kamuduyuru.bns-vio.site
 http://kamuedevlet.org
@@ -250989,6 +250992,7 @@ http://linkredirects.click
 http://linkrequest.live
 http://links-dolap.com
 http://links-kslt-tr.duckdns.org
+http://links-kslts-mobilde.duckdns.org
 http://links-tr.strangled.net
 http://links.heliohost.org
 http://linksa.asia
@@ -261402,6 +261406,7 @@ http://megsasa.click
 http://mehackiscool.ddns.net
 http://mehamn.zapto.org
 http://mehdef.duckdns.org
+http://mehdibaba.cc.dvrlists.com
 http://mehdibennour.zapto.org
 http://mehdizayani.com
 http://mehenltd.com
@@ -428234,6 +428239,7 @@ http://yilbasi-kampanyafirsati-bireyseleozel-tr.shop
 http://yilbasi-kampanyafirsati-bireyseleozel.xyz
 http://yilbasi-kampanyalari-sizlerle.biz.tr
 http://yilbasi-kampanyalari-sizlerle.com.tr
+http://yilbasi-kampanyalari-sizlerle.info.tr
 http://yilbasi-kampanyalari-sizlerle.name.tr
 http://yilbasi-kampanyalari-sizlerle.net.tr
 http://yilbasi-kampanyalari-sizlerle.org.tr
