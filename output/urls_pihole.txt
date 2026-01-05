@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 05:27:13 UTC
-# Toplam: 433508 Domain
+# Son Güncelleme: 2026-01-05 06:23:00 UTC
+# Toplam: 433510 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -161232,6 +161232,7 @@ fstotaurie.duckdns.org
 fsts.duckdns.org
 fsttpaysalxlmtv.tk
 fsuaft.top
+fsube.my-homeip.com
 fsuwutkdnyaneha.cn
 fsvutjebkh.duckdns.org
 fswwr.icu
@@ -349211,6 +349212,7 @@ sowixvip.online
 sowixvip.xyz
 sowixxpro.xyz
 sowtrench.top
+soxd.click
 soxq31.duckdns.org
 soxrf20.duckdns.org
 soxsnighre.duckdns.org
