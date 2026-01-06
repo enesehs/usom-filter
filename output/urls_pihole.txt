@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 21:09:45 UTC
-# Toplam: 433773 Domain
+# Son Güncelleme: 2026-01-06 22:09:55 UTC
+# Toplam: 433791 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2052,6 +2052,7 @@
 101-temmuz23.com
 101-temmuz26.com
 101-temmuz26a.com
+101-tr-mobil-siparis-ver-internete-ozel.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
 101-volta-com-tr.sbs
@@ -19591,6 +19592,7 @@
 8787657g53w092156j.store
 87878787.duckdns.org
 87888885464.cloud
+87894564854.com
 878e4n1y.duckdns.org
 878nrtl-onllinemrkktxfirsllryla.net
 8795949222-11.cloud
@@ -58444,6 +58446,7 @@ basvur-mobildenizekimbasvur.com
 basvur-mobildenizhediye.com
 basvur-online-odebankgirishemen.com
 basvur-online.com.tr
+basvur-online.shop
 basvur-online.website
 basvur-ozel-aidat-geri-iade.com
 basvur-ozel-aidat-geri-iadesi.com
@@ -83933,6 +83936,9 @@ bsvrpromsynnkampanya.pro
 bsvrqrpgsm.bogaccicekcilik.com.tr
 bsvrrgrnti124242412.com
 bsvrrkmnpnyaa.click
+bsvrrkmpnyaaaabasvrr.art
+bsvrrkmpnyaaaabasvrr.info
+bsvrrkmpnyaaaabasvrr.pro
 bsvrrkmpnyaaaprmsnyn.click
 bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
@@ -143947,6 +143953,7 @@ entropyexecutor.duckdns.org
 entrust.work
 entrustperfume.top
 entry-pass.my-homeip.com
+entry-pass.my-homeip.net
 entry-passw.click
 entry.my-homeip.com
 entrybofahub.ddns.net
@@ -177593,6 +177600,7 @@ gununfirsatlariburada.shop
 gununfirsatlariburada.xyz
 gununfirsatlarikapida.sbs
 gununfirsatlarizamani.com
+gununfirsatli.fleerslocker.cfd
 gununfirsatpaketi-turkcell.com
 gununflrsatlarihakkindaindirhemen.store
 gununfrisatlariburda.xyz
@@ -179136,6 +179144,7 @@ guzelgunleregelsendefer.net
 guzelgunlereikibinyirmibes.shop
 guzelgunlergorecegiz.com
 guzelgunlergorecegiz.online
+guzelgunlergorecegiz.shop
 guzelgunlergorecegizgunesligunlerimiz.eth3.me
 guzelgunlerhalk.cf
 guzelgunlerhalk.ga
@@ -211208,6 +211217,7 @@ indirimleriyakala.com
 indirimleriyakala.me
 indirimleriyakala.org
 indirimleriyakaladin.xyz
+indirimleriyakalamayeri.me
 indirimleriyakalariz.me
 indirimlerkaldi.biz.tr
 indirimlerkaldi.com.tr
@@ -222189,6 +222199,7 @@ iyzibo.xyz
 iyzico-secure-pay.com
 iyzico.dev50.xyz
 iyzico.org
+iyzicoguvenliodeme.duckdns.org
 iyzicom.net
 iyzicopayhgsptt.com
 iyzicopayptthgs.com
@@ -231175,6 +231186,7 @@ kampanyalii-lndirim-firsatlarii.xyz
 kampanyaliiindirimfirsati.com.tr
 kampanyaliiindirimfirsati.info
 kampanyaliiindirimfirsati1.com.tr
+kampanyaliiindirimfirsati1.info
 kampanyaliiitemuzurunleri.com.tr
 kampanyaliiitemuzurunleri.online
 kampanyaliiitemuzurunleri.xyz
@@ -238337,6 +238349,7 @@ kis-gratis.dvrlists.com
 kis-gunu-icinizi-isitiriz-hep-iyiyiz.com
 kis-kampanyasi-size-ait.com
 kisa-link.website
+kisa-links-mobil.com
 kisa-links-mobil.duckdns.org
 kisa-sayfamiz.com
 kisa-sureli-firsatlar.lol
@@ -241619,6 +241632,7 @@ kosgebdestek.duckdns.org
 kosgebdestekk.click
 kosgebform.click
 kosgebform.duckdns.org
+kosgebformu.click
 kosgebhibebasvur.cfd
 kosgebhibebasvuru.cfd
 kosgebiskur.com
@@ -257873,6 +257887,7 @@ mb-ph.net
 mb.glbaitech.com
 mb.sessions-identifier-memberemailid.network
 mb6553h0g.duckdns.org
+mb952ja9hgujk3.store
 mback5338.duckdns.org
 mback53388.duckdns.org
 mbafwnds.com
@@ -352262,6 +352277,7 @@ stanleymarket.info.tr
 stanleymarket.net.tr
 stanleynewdawn.xyz
 stanleynextera.xyz
+stanleynextreturn.xyz
 stanleynexus.xyz
 stanleyparlar.com
 stanleyprformnce.xyz
@@ -364689,6 +364705,7 @@ testvibrate.top
 testwebajanih.hopto.org
 testycrow.duckdns.org
 testytesy.hopto.org
+tesvikplatformu.cfd
 teswjsolgj.duckdns.org
 teta1.net
 tetaltotwith.com
@@ -423473,6 +423490,7 @@ yenilik-dunyasi-simdilik-geldi-burada.com
 yenilik-merkezi.click
 yenilik-merkezi.com
 yenilik-merkezi.icu
+yenilik-merkezi.shop
 yenilikbbva2021.com
 yenilikbizde.club
 yenilikbizde.online
