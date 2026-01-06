@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 12:23:10 UTC
-# Toplam: 433681 Domain
+# Son Güncelleme: 2026-01-06 13:29:59 UTC
+# Toplam: 433711 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10384,6 +10384,7 @@
 2f7nrb.duckdns.org
 2f7zs4.cn
 2fa-45ghf.zapto.org
+2fa-bns.com
 2fa-secure.org
 2faauthsecure.ddns.net
 2fas-coinbase.com
@@ -50520,6 +50521,9 @@ asiumasium.ddns.net
 asiyardimi.com
 asiyekurumu.com
 asj3ypb.icu
+asj77.com
+asj88.com
+asj99.com
 asjdcyhjkfmfvdgrsadhgawsgdsafadsfad.duckdns.org
 asjdkljsadjasda.com
 asjdxuw.com
@@ -132013,6 +132017,7 @@ e-turkiyemiz-gov.com
 e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
+e-tuvturkk.digital
 e-tvbonusalgirislemenu.online
 e-tvibonusalgirislemenu.online
 e-tyode.net
@@ -143933,6 +143938,7 @@ entrinidad.cfd
 entropyexecutor.duckdns.org
 entrust.work
 entrustperfume.top
+entry-pass.my-homeip.com
 entry-passw.click
 entry.my-homeip.com
 entrybofahub.ddns.net
@@ -218336,6 +218342,7 @@ islespotlight.top
 islet-dijitalim.app
 islet-dijitalimiz.app
 isletislem.app
+isletmebilgisi.cfd
 isletmesidev.com
 isllemhizlisonuc.com
 isllemlerogren.app
@@ -219518,6 +219525,7 @@ istanbulumusev.com
 istanbulumusev.ml
 istanbulumut.online
 istanbuluncanavari.com
+istanbulungucu.com
 istanbulunguvercinleri.shop
 istanbuluntarihi.myshopify.com
 istanbulunyasinatasoyu.net
@@ -219713,6 +219721,7 @@ istbnmlmmkart.net
 istbns1se.com
 istbnvsl1.com
 istbrbizim.ltd
+istbrdansdgdfassaas.mooo.com
 istbrmzw.xyz
 istbrzma.online
 istbsabs.com
@@ -220160,6 +220169,8 @@ istmalcnasmca.myshopify.com
 istmbclmell.net
 istmdfmsndfjk.net
 istmfathtermadam.net
+istmhkhmn.com
+istmhknmc.com
 istmmllsad.com
 istmmrkrlslykleee.com
 istmn.net
@@ -220305,6 +220316,7 @@ istnbnm.net
 istnbsdulbruasdserh.store
 istnbsusunaal.com
 istnbtkrxtt.net
+istnbudlksbjdsasdkdnr.store
 istnbudlksburdskdnr.store
 istnbuklllcannn.net
 istnbul-tatar.net
@@ -222217,6 +222229,7 @@ izdemirdekar.net
 izdeu.com
 izdfmirrdacia.com
 izdial.com
+izdlssfs.dns.navy
 izdmrbkyemdoldur.net
 izdrmlrlignclr.net
 izdsacvvgncel.net
@@ -222227,6 +222240,7 @@ izdzdzimrgl.net
 izefbeys.info
 izehbruc.com
 izeldasbcvc.blogspot.com
+izeldasonlineca.dns.navy
 izelgececic.dns.navy
 izelgisizmir.net
 izell.org
@@ -222354,8 +222368,10 @@ izkrkelebk.net
 izkrr.net
 izkrtbkyeklemesi.com
 izlasmlsabmanskam.blogspot.com
+izldasgc.blogspot.com
 izldasgsdhd.blogspot.com
 izlddsg.blogspot.com
+izlds6ockslig.dns.navy
 izldskm.blogspot.com
 izlebasvurunutr.com
 izledekudur.cfd
@@ -237647,6 +237663,7 @@ kilometreuzmanim.cfd
 kilometrev.web.app
 kilometrevehasarcom.shop
 kilometrevehasarkaydi.autos
+kilometreveri.web.app
 kilometreverisi.web.app
 kilometreyokeden.cfd
 kilometrosgorgulamahemengovpttsxsaz.com
@@ -239806,6 +239823,7 @@ kmpyn900178.sbs
 kmpynyenliil-mobligr.com
 kmpzagctn.com
 kmqsvrgprtrdoawybohguq.pw
+kmrapor.sa.com
 kmraporlari.sa.com
 kmraporum.sa.com
 kmrcloudfakkpap.website
@@ -241560,6 +241578,7 @@ kosfzv.com
 kosgdestekprojesi.site
 kosgeb-basvuru.click
 kosgeb-destek.duckdns.org
+kosgeb-hibe-basvuru.cfd
 kosgeb-hibe-basvuru.replit.app
 kosgebbasvuru.cfd
 kosgebbasvuru.online
@@ -246055,6 +246074,7 @@ lammertrojan.ddns.net
 lammerturk.ddns.net
 lammerzinobrabo.ddns.net
 lammysecurity.com
+lamniko4.dns.navy
 lamoodbighats.net
 lamorix.lat
 lampata.click
@@ -250784,6 +250804,7 @@ lovlygirl.zapto.org
 lovryynis.tr
 lovvveve.zapto.org
 lovvz63s.duckdns.org
+low-house.com
 low-sp.ddns.net
 lowa-turkiye.com
 lowabot-turkiye.com
@@ -255535,6 +255556,7 @@ manevimiras.com
 manfiestandroid.com
 manfor.duckdns.org
 mangaarthoteltokyo.com
+mangala.click
 mangalium.com
 mangandeuh.xyz
 mangasiso.top
@@ -256205,6 +256227,7 @@ marketinidan.click
 marketiniucza.sbs
 marketiniz-kapinizda.biz.tr
 marketiniz-kapinizda.com.tr
+marketiniz-kapinizda.tv.tr
 marketiniz.xyz
 marketinizden.cfd
 marketinkapida.biz.tr
@@ -281352,6 +281375,7 @@ odeklyvery-gyy.net
 odem-eleronline2024.online
 odem3h1zmetleri-101d.duckdns.org
 odem3h1zmetleri-101d1.duckdns.org
+odem3h1zmetleri-101d1dd.duckdns.org
 odem3h1zmetleri101d.duckdns.org
 odeme-3d-secure.com
 odeme-5123.com
@@ -283768,6 +283792,7 @@ onbirodeme.tk
 onbirtemmuz.com
 onbjl.com
 onbwvvughjqdrwn.cn
+oncameraworkout.com
 onccoin.info
 oncebeganover15.live
 oncebibayi.is-best.net
@@ -298010,6 +298035,7 @@ pasagereklamlar.com
 pasagereklamlari.com
 pasages.store
 pasagesite.com
+pasagesite.sbs
 pasailetapu.xyz
 pasaiotuzuncuyil.com
 pasaj-alisveris.com
@@ -346146,6 +346172,7 @@ sokedenkampanyalar.com.tr
 sokedtanwa.com
 sokekstra.pages.dev
 sokeloask.xyz
+sokemalla.sbs
 sokerpower.com
 sokerzkmczfrstlarkxzz.com
 sokeurlllsaeashv.net
@@ -352187,6 +352214,7 @@ stanleylegendaryfirsatlarlaaa.techsolve.sbs
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
+stanleynewdawn.xyz
 stanleynextera.xyz
 stanleynexus.xyz
 stanleyparlar.com
@@ -403104,6 +403132,7 @@ wmiprovider.com
 wmiprvse.com
 wmiwapzjzt.duckdns.org
 wmjfehetrn.duckdns.org
+wmk77.com
 wmkgmgovt.top
 wmkkxzsts.duckdns.org
 wmlmjeihyf.duckdns.org
@@ -426066,6 +426095,7 @@ ynihftdaixmregle.net
 yniiixzzmrbkyleyk2023lmee.b-cdn.net
 yniilkhaftasnda.cfd
 yniixmzrkttyklme.net
+ynikrcafrstiyniyil.top
 ynikytolhmnbsvrvbrada.com
 ynimrkxyldizllrixx.site
 ynindrmfirstlar.cfd
