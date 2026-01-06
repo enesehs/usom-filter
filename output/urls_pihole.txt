@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-05 23:09:37 UTC
-# Toplam: 433641 Domain
+# Son Güncelleme: 2026-01-06 00:53:18 UTC
+# Toplam: 433648 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40881,6 +40881,7 @@ aldinaldintr.shop
 aldinaldinturkey101.online
 aldinaldinucuza.shop
 aldinaldinucuzaturkiye.store
+aldinaldinucuzdan.cloud
 aldinaldinurnleri.cfd
 aldinaldinurnleri.click
 aldinaldinurnleri.sbs
@@ -230875,6 +230876,7 @@ kampanyalari.org
 kampanyalari.site
 kampanyalari100yilmobilislemleriiii.online
 kampanyalari2022.net
+kampanyalaria101.duckdns.org
 kampanyalaricin-hemengelvebasvur.com
 kampanyalarihizlicaalmalisin.com.tr
 kampanyalarihizlicaalmalisin.online
@@ -242503,6 +242505,7 @@ kredibasvuruyaphizli.cf
 kredibasvuruyaphizli.ga
 kredibasvuruyaphizli.gq
 kredibasvuruyaphizli.ml
+kredibasvurziraat.com
 kredibbva-trgaranti.my-homeip.com
 kredibbva.com.tr
 kredibbvamobildehayat.com
@@ -307337,6 +307340,7 @@ ptt-avm.online
 ptt-avm.org
 ptt-avm.p-islemler.online
 ptt-avm.sepet-alimlarin.online
+ptt-avm.servisn-mobilin.com
 ptt-avm.shop
 ptt-avm.siparis-ver-tr.online
 ptt-avm.sn-hizmet.online
@@ -326241,6 +326245,7 @@ sahibinden-get.online-tr.sa.com
 sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
 sahibinden-get.servis-emobilim.com
+sahibinden-get.servisn-mobilin.com
 sahibinden-get.shop
 sahibinden-get.sipariis.com.tr
 sahibinden-get.site
@@ -422549,6 +422554,7 @@ yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.info
 yeni-yila-ozel-indirim-kampanyalariiiiii-kacmaz.online
 yeni-yila-ozel-indirim-kampanyalariiiiii.info
 yeni-yila-ozel-indirim-kampanyalariiiiii.online
+yeni-yila-ozel-indirim.info
 yeni-yilda-a-1o1-frsatlari.blogspot.com
 yeni-yilda-evine-al.shop
 yeni-yilda-firsatlar.shop
@@ -430785,6 +430791,7 @@ ziraatbank.top
 ziraatbank.tr-form.com
 ziraatbank.wep--sube.com
 ziraatbank.wfcuonline.com
+ziraatbank0faizlikredi.com
 ziraatbank155yilmaximum.com
 ziraatbank18.com
 ziraatbank19.com
