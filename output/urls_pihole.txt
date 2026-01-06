@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 04:31:10 UTC
-# Toplam: 433651 Domain
+# Son Güncelleme: 2026-01-06 08:15:14 UTC
+# Toplam: 433660 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51225,6 +51225,7 @@ atarasmok.3d.tc
 atarpacific.com
 atarsaneylulgunleribulurumseni.com
 atartar.click
+atarts.click
 atascelikyapi.com
 atasehiragaoglucitys.tk
 atasehirsquaremallof.tk
@@ -146672,6 +146673,7 @@ eta0g4.duckdns.org
 eta2rp.duckdns.org
 etabletbasvuru-eba.com
 etafusion.tech
+etaha.sbs
 etahsilativd.net
 etahsilatkgm.net
 etakipci.net
@@ -198776,6 +198778,7 @@ hmnhzlikaytyapbsvrmerkznktasi.com
 hmniadeald.net
 hmnislemonlniesonuc.net
 hmnislmnktsionline.net
+hmnkapilarinizagtermsnz.com
 hmnkapinagelsinsz.com
 hmnkapinizda.com
 hmnkapinzdaszlerinkarsisinda.store
@@ -205322,6 +205325,7 @@ ibbvrgxeeeodmee.net
 ibbvrgxeeodmee.net
 ibbw.cwdqdxq.cfd
 ibbwebportal.webredirect.org
+ibbwebportalers.webredirect.org
 ibbwebportaling.webredirect.org
 ibbwebservis.webredirect.org
 ibbwkart.net
@@ -217492,6 +217496,7 @@ isdekuryb.com
 isdemaximumfirsatyeniyil.com
 isden.my-homeip.com
 isdeneme.somee.com
+isdestekal.cfd
 isdeyeniyilsurprizleri2019.com
 isdg-gdsgds.sbs
 isdhahshwbsbw-hqhshahash.cyou
@@ -219589,6 +219594,7 @@ istannz.com
 istannz.net
 istannzzs.net
 istanrbulkart.blogspot.com
+istansanakolay.xyz
 istansbduslabursd.store
 istansbulbrhzilsi.com
 istansizlerlabulolsadan.shop
@@ -280889,6 +280895,7 @@ oc.tsfengineering.com
 oc2y9g4f.duckdns.org
 ocaakfirssatlarimniz.com
 ocabasvurularsononayi2025.site
+ocaginflrsatibu.com
 ocaginizisonudrurum.fit
 ocak-12-ozel-firsatlar.shop
 ocak-2025firsatlari.shop
@@ -302527,6 +302534,7 @@ polatalemfaras.shop
 polatbilisim.com.tr
 polathosting.com.tr
 polatlardamsds.shop
+polatlidar.click
 polatmematibas.shop
 polbayjoke.store
 poldarew.xyz
@@ -431438,6 +431446,7 @@ ziraatibankasi.com
 ziraatibankasi.ml
 ziraatibankasiankara.com
 ziraatibk.com
+ziraatifon.cfd
 ziraatile.yilsonufirsatlari.com
 ziraatileberaber.net
 ziraatilecekilis.com
