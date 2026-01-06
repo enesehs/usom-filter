@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 19:07:51 UTC
-# Toplam: 433764 Domain
+# Son Güncelleme: 2026-01-06 20:11:11 UTC
+# Toplam: 433772 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8145,6 +8145,7 @@
 2025-akk-bnk-yn-yil.com
 2025-basvuru-sistemi.xyz
 2025-basvuru.com
+2025-basvuruekrani-toki-500bin.sbs
 2025-basvuzru.com
 2025-ekimayi-sorveaktar.sbs
 2025-ertelemeli.xyz
@@ -152197,6 +152198,7 @@ fashgfggqwf-fqwhfsafuqw.cfd
 fashion-ol.com.pl
 fashionablesoothe.top
 fashionablestitch.top
+fashionableword.click
 fashionandhomestyle.com
 fashionbeautyinternational.com
 fashionbrall.com
@@ -208999,6 +209001,7 @@ ilkgelen-firsatlaribilirsiniz.xyz
 ilkgelenalir.site
 ilkgelenfirsatiyakalar.site
 ilkgelir-songider-bakbizhala-burdayizdiye.top
+ilkgundeburadanhepileride.com
 ilkgundenbykindrim.shop
 ilkgunyardim.com.tr
 ilkguzelliklersizibulsun.cfd
@@ -231169,6 +231172,7 @@ kampanyaligunlerinnn.com.tr
 kampanyaligunlerinnn.xyz
 kampanyalii-lndirim-firsatlarii.online
 kampanyalii-lndirim-firsatlarii.xyz
+kampanyaliiindirimfirsati.com.tr
 kampanyaliiindirimfirsati.info
 kampanyaliiitemuzurunleri.com.tr
 kampanyaliiitemuzurunleri.online
@@ -241606,6 +241610,7 @@ kosgeb-hibe-basvuru.cfd
 kosgeb-hibe-basvuru.replit.app
 kosgebbasvuru.cfd
 kosgebbasvuru.online
+kosgebbasvuruformu.click
 kosgebbasvurusu.click
 kosgebbasvurusuu.click
 kosgebbilgi.duckdns.org
@@ -256881,6 +256886,7 @@ massive346.xyz
 massiveevaporate.top
 massnetworks.org
 massqc.com
+massu.cfd
 mastelefonia.com
 mastelomwell.hopto.org
 masteng.org
@@ -276739,6 +276745,7 @@ nnepqerhnh.us
 nnerkezbankasi.com
 nnervetibet.info
 nnetflix.zapto.org
+nnewz.click
 nnfdurerd.net
 nnfesdevletsktr.click
 nnffiggvmm.net
@@ -374095,6 +374102,7 @@ trendyol-alim.com
 trendyol-alim.net
 trendyol-altin.com
 trendyol-app.net
+trendyol-arora-ekargo-4000.netlify.app
 trendyol-bc-game.com
 trendyol-bcgame.com
 trendyol-club.com
