@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 08:15:14 UTC
-# Toplam: 433660 Domain
+# Son Güncelleme: 2026-01-06 10:11:22 UTC
+# Toplam: 433665 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40739,6 +40739,7 @@ aldinaldinfirsatlarisiredmiburada.sbs
 aldinaldinfirsatlarisiremdiburada.cfd
 aldinaldinfirsats.xyz
 aldinaldinfrsatgitttigdiyorrr.online
+aldinaldinfrsattt2026.giize.com
 aldinaldingunleri.cfd
 aldinaldingunleri.my
 aldinaldingunleri.perakendealisverisim.com
@@ -215853,6 +215854,7 @@ ironfirst4983.xyz
 ironicaladversity.top
 ironicthigh.top
 ironloxp.live
+ironquestrevived.xyz
 ironrockcc.com
 ironry.click
 ironsource.go2cloud.org
@@ -240403,6 +240405,7 @@ kobidenizbank.com
 kobidestekbasvuru.com.tr
 kobidestekhibesi.cfd
 kobidestekplatformu.cfd
+kobihibebasvuru.sbs
 kobihibedestegi.cfd
 kobihibekaydi.cfd
 kobikredibasvurusu-hemenkatil.cloud
@@ -325053,6 +325056,7 @@ sadeceinternettegecerliaktuelurun.cfd
 sadeceizle.online
 sadeceizle.zapto.org
 sadeceizlersiniz.cfd
+sadeceizlersinizhaha-817998d574d4.herokuapp.com
 sadecekasimayifirsatlari.com.tr
 sadecekznfirslat.duckdns.org
 sadecem81bimyukle.ga
@@ -350093,6 +350097,7 @@ spnsrlu-garirklm.duckdns.org
 spnsrlu-gr1online.duckdns.org
 spnsrlu-vakf34.duckdns.org
 spnsrlu-vakf34.xyz
+spnsrlu-wsynx.sbs
 spnsrlu-yapionline.duckdns.org
 spnsrlu-yapirklm.duckdns.org
 spnsrlu-zir34.xyz
