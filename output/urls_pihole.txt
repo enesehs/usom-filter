@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-07 12:22:59 UTC
-# Toplam: 433861 Domain
+# Son Güncelleme: 2026-01-07 13:31:36 UTC
+# Toplam: 433866 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -182397,6 +182397,7 @@ hakliodemelerimgl.net
 hakliodemem.net
 haklkslasas.com
 hakm285.ddns.net
+hakmanelektronik.com
 hakmartfirsatlari.ml
 hakmsasza.net
 hakohako.ddns.net
@@ -206271,6 +206272,7 @@ idakho.cyou
 idalidcouture.com
 idappleestore.zapto.org
 idappleidappleid.zapto.org
+idaricezadosya.org
 idaricezasorgu.org
 idaricezasorgulama.org
 idaridenetleme.com
@@ -259453,6 +259455,7 @@ menudijita1lgirisllemenuller1m.com
 menudijitalgirislemenulerim.com
 menudijitalgirisllemenullerim.com
 menugirislemb0nuslari.online
+menugirislewbonuslari.online
 menulerigirisllemb0nuslari.online
 menvisinhbifina.com
 menvnctcooqkootl.com
@@ -325301,6 +325304,7 @@ sadeceononldfirsttrstrstras.blogspot.com
 sadeceonsflirasdtlarytrvctre.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
+sadeceotururizlersin-1deb054730d4.herokuapp.com
 sadecepera.fun
 sadecesanaozelindirimler.com
 sadecesaonlirfsatlarozel.blogdns.org
@@ -335826,6 +335830,7 @@ sengoklerdendusenmelk.online
 sengunlerim.com
 senhalaalmadnmalhadialsendeal.com.tr
 senhalaalmadnmalhadialsendeal.xyz
+senhatirlamazsin.click
 senhayattabasmagelnnadidecck.online
 senherkstendahagzelsndede.online
 seni-dusunen-daima-biz-sizlerin-yillardir-tam-arkanizda.com.tr
