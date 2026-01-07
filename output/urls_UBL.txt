@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-07 22:09:44 UTC
-! Total: 346198 rules
+! Last modified: 2026-01-07 23:10:05 UTC
+! Total: 346200 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -143398,6 +143398,7 @@
 *://*.guzelgunlergorecegiz.com/*
 *://*.guzelgunlergorecegiz.online/*
 *://*.guzelgunlergorecegiz.shop/*
+*://*.guzelgunlergorecegiz.store/*
 *://*.guzelgunlerhalk.cf/*
 *://*.guzelgunlerhalk.ga/*
 *://*.guzelgunlerhalk.gq/*
@@ -146665,7 +146666,6 @@
 *://*.halkbank.me/*
 *://*.halkbank.nl/*
 *://*.halkbank.online/*
-*://*.halkbank.perso.sn/*
 *://*.halkbank.press/*
 *://*.halkbank.pw/*
 *://*.halkbank.store/*
@@ -147123,7 +147123,6 @@
 *://*.halkbankparafyilbasi2-2022.gq/*
 *://*.halkbankparafyilbasi2022.gq/*
 *://*.halkbankparf.com/*
-*://*.halkbankpersosn.perso.sn/*
 *://*.halkbankqiris.com/*
 *://*.halkbankqirisim.com/*
 *://*.halkbankr.com/*
@@ -178584,6 +178583,7 @@
 *://*.istnrw.com/*
 *://*.istns.net/*
 *://*.istnsaad.ml/*
+*://*.istnsbdsddsulbruadsa.store/*
 *://*.istnsz.net/*
 *://*.istntlkaart.net/*
 *://*.istnullkarttm.net/*
@@ -241816,6 +241816,7 @@
 *://*.persmislemi.net/*
 *://*.persmtodm.net/*
 *://*.perso.ch/*
+*://*.perso.sn/*
 *://*.perso3nbro.com/*
 *://*.personal-natwest-onlinebanking.com/*
 *://*.personal2020flplayer.info/*
@@ -338237,6 +338238,7 @@
 *://*.yenilik-merkezi.com/*
 *://*.yenilik-merkezi.icu/*
 *://*.yenilik-merkezi.shop/*
+*://*.yenilik-merkezi.store/*
 *://*.yenilikbbva2021.com/*
 *://*.yenilikbizde.club/*
 *://*.yenilikbizde.online/*
