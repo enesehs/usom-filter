@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-07 04:32:34 UTC
-# Toplam: 433819 Domain
+# Son Güncelleme: 2026-01-07 06:22:42 UTC
+# Toplam: 433825 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -143965,6 +143965,7 @@ entropyexecutor.duckdns.org
 entrust.work
 entrustperfume.top
 entry-pass.my-homeip.com
+entry-pass.my-homeip.de
 entry-pass.my-homeip.net
 entry-passw.click
 entry.my-homeip.com
@@ -286661,6 +286662,7 @@ onlinegsm-tlyukleme.com
 onlinegsmpaketleri.xyz
 onlinegsmtlpaketyukle.ga
 onlinegt.xyz
+onlineguncel.cfd
 onlinegunlerindeyizbiz.online
 onlineguvence.com.tr
 onlineguvencede.com.tr
@@ -335551,6 +335553,7 @@ sendeislemitamamla.online
 sendeislemitamamla.xyz
 sendeistanbulsun.com
 sendeizbnkrt.net
+sendekacccccrmaafirssstlari.mooo.com
 sendekacirma.net
 sendekacirmabunu.online
 sendekacirmafirsatlardankalmageri.xyz
@@ -374162,6 +374165,7 @@ trendyol-guvenleode.online
 trendyol-hediye-kodu.com
 trendyol-hediye.ml
 trendyol-ile-al.ru.com
+trendyol-in.com
 trendyol-indirim-servisi.ml
 trendyol-kampanya-com.hesap-bilgi-giris.site
 trendyol-kampanya.com
@@ -426189,6 +426193,7 @@ yniasdmrkxyldizllrixxdf.site
 ynibxkoinwlletparbu.com
 ynicrfsaonl.cfd
 ynidgitalbxparbu.com
+yniecrfsaaylrm.cfd
 ynigcslerimhizliotoodemesi.duckdns.org
 ynigldilerkcmzlarh.com
 yniglditzhmn.net
@@ -429538,6 +429543,7 @@ zcqrmvhfb.com
 zcrfgunundekal.cfd
 zcrfgunundyiz.cfd
 zcrgagi7.duckdns.org
+zcrrefrsahizmetleri.cfd
 zcrvwsho.com
 zcsovazpab.duckdns.org
 zctuiwzmna.duckdns.org
