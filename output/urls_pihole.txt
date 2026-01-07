@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-06 23:09:42 UTC
-# Toplam: 433796 Domain
+# Son Güncelleme: 2026-01-07 02:53:10 UTC
+# Toplam: 433819 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1633,6 +1633,7 @@
 10-11sfflwwlfs.sbs
 10-12-azsxd-sdxcf-erd.it.com
 10-1frskmsswwqe.xyz
+10-1ocaklndirimleri.com
 10-1ozlflrsatlari.sbs
 10-1sdekmps.sbs
 10-1skmpqwesa-s.xyz
@@ -22969,6 +22970,7 @@ a101-kampanya.buzz
 a101-kampanya.cloud
 a101-kampanya.com
 a101-kampanya.com-indirimis.com
+a101-kampanya.duckdns.org
 a101-kampanya.net
 a101-kampanya.site
 a101-kampanya.website
@@ -41759,6 +41761,7 @@ alisverisgunleri.sa.com
 alisverisgunlerin.com.tr
 alisverisgunlerin.online
 alisverisgunleriniz.sa.com
+alisverisgunlukleri.blogspot.com
 alisverisgununusakalama.xyz
 alisverisguvende.com.tr
 alisverisguvenlekazan.xyz
@@ -48707,6 +48710,7 @@ araskargo.com.newmessages.co
 araskargo.gets-guvenilir.com
 araskargo.online
 araskargo.pro
+araskargo.shop
 araskargocum.com
 araskargomnerdexwzs.com
 araskargomsczx.com
@@ -49480,6 +49484,7 @@ arsorgulama.net
 arss2o.duckdns.org
 arsscmuywanee.net
 arstakibi.com
+arstakip.online
 arstakipim.com
 arstkaiaip.vip
 arstvt.qpon
@@ -64063,6 +64068,7 @@ benimvergim.com
 beninerdegorsetanir.sa.com
 beninewrem.duckdns.org
 benisalinartikbiktim.com
+benisavol.cfd
 benisavol.sbs
 benisevmisensen.xyz
 benitasi.com
@@ -71339,6 +71345,7 @@ binancetop.com
 binancetr-2025kampanya.xyz
 binancetr-2yil.com
 binancetr-iade.com
+binancetr-mail.com
 binancetr-ramazancekilis.online
 binancetr.cfd
 binancetr.mywire.org
@@ -114796,6 +114803,7 @@ denizmobil-sube.za.com
 denizmobil-subegirism.tk
 denizmobil.blogspot.com
 denizmobil.my-homeip.com
+denizmobil.my-homeip.de
 denizmobil.myonlineportal.de
 denizmobil.net
 denizmobil.shop
@@ -131517,6 +131525,7 @@ e-saglik-destekonline-basvuru.tk
 e-saglik2000tl-destek.epizy.com
 e-saglikbakanligi-pandemidestek.com
 e-saglikbilgi.com
+e-saglikgov.xyz
 e-saglikpandemigovisgiris.com
 e-saglikyardimpandemi.com
 e-sahibinden.online-odemelerim.sa.com
@@ -132138,6 +132147,7 @@ e-vguncelemislemenumgirislerim.online
 e-vguverqi.net
 e-vibimobilsube.com
 e-vilayet.vercel.app
+e-visatr.org
 e-vlilikbasxkvuru.net
 e-vlilikredim.net
 e-vlilikxrdilerim.net
@@ -139790,6 +139800,8 @@ ekolojiosmanli.space
 ekomekosedoo.site
 ekonomi-analizi.info
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
+ekonomi-pusulasi.info
+ekonomi-vizyonu.info
 ekonomi2024-try-login.xyz
 ekonomiakdeniz.pro
 ekonomiaktuel.online
@@ -168609,6 +168621,7 @@ geriaktarmalarsitesi.store
 geriaktarmavesorgulama.site
 geriaktarmsrgu.cfd
 geriaktarvesorgula.site
+gerialmaekranionline.sbs
 gerialmakistermisin.rf.gd
 geribasvuru-iadeislem.net
 geribildirim-destek-com.ml
@@ -195945,6 +195958,7 @@ hizli-e-cebindekipara.com
 hizli-e-ticaret.com.tr
 hizli-e-transfer-ekrani.online
 hizli-f-923-a-101.shop
+hizli-finans.info
 hizli-firsat-baslasi.b-cdn.net
 hizli-firsat.online
 hizli-gecis-ihlali.shop
@@ -214026,6 +214040,7 @@ internetduyurubilgilendirme.online
 internetduyurubilgilendirmesi.xyz
 internetduyurularims.click
 internetdweller.top
+internete-ozel-firsatlar-mobilde-tr.duckdns.org
 internete-ozel-indirimler.com
 internete-qnbfinans.com
 internetebasvur.net
@@ -226683,6 +226698,7 @@ jorlixen.com
 jormdantwilio22.duckdns.org
 jornalismonobrasilem2017.com
 jornathic.shop
+jornelis.net
 jorpe.co.za
 jorteto.zapto.org
 jorukeldagol.site
@@ -236943,6 +236959,7 @@ kgmggov-tr.ink
 kgmggovtr.top
 kgmgio.icu
 kgmglo.life
+kgmgoov-tr.ink
 kgmgos.xyz
 kgmgot.cc
 kgmgov-tr.bond
@@ -264056,6 +264073,7 @@ mobildeniz.ga
 mobildeniz.giris.44-204-107-53.plesk.page
 mobildeniz.giris.52-27-117-178.plesk.page
 mobildeniz.giris.52-33-187-179.plesk.page
+mobildeniz.my-homeip.de
 mobildeniz.online
 mobildeniz.sbs
 mobildeniz.xyz
@@ -265116,6 +265134,7 @@ mobilsepet.online
 mobilsepetim-tr.online
 mobilservisi-2.com
 mobilservisi-3.com
+mobilservisi-4.com
 mobilservisi.com
 mobilservisim.com
 mobilservisin.com
@@ -273597,6 +273616,7 @@ nemklksfmsv.net
 nemkslkfskf.net
 nemo001.duckdns.org
 nemo9.website
+nemoclin.com
 nemojmob.online
 nemosexpresscarwash.com
 nemplomentt.top
@@ -308315,6 +308335,7 @@ ptt.kxwl.qpon
 ptt.mobilservis-1.com
 ptt.mobilservisi-1.com
 ptt.mobilservisi-3.com
+ptt.mobilservisi-4.com
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
 ptt.pay-spo-us.cfd
@@ -348320,6 +348341,7 @@ sorgula-onayini-al.sbs
 sorgula-pay.com
 sorgula-sistem2021aldat.ml
 sorgula-ve-ogren-sistemden.sbs
+sorgula-ve-tamamla.cfd
 sorgula-webihlal.com
 sorgula.aidatsorgusu.com
 sorgula.plus
@@ -431975,6 +431997,7 @@ ziraatsizinle.cfd
 ziraatsizinle.com.tr
 ziraatsizlerle.net
 ziraatsor.nicepage.io
+ziraatsorgu.nicepage.io
 ziraatsubam.com
 ziraatsubatfirsatlari.ga
 ziraatsubatsurprizleri.tk
