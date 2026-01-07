@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-07 21:10:07 UTC
-# Toplam: 433933 Domain
+# Son Güncelleme: 2026-01-07 22:09:44 UTC
+# Toplam: 433945 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -107686,6 +107686,7 @@ d-denizbank.com
 d-dyson.com.tr
 d-e-n-i-z-b-a-n-k.com
 d-e-n-i-z-b-a-n-k.org
+d-e-n-i-z.my-homeip.com
 d-e-xnz.com
 d-enizwebkredi.xyz
 d-estekbasvuruform-u.com
@@ -108313,6 +108314,7 @@ dakareypa.ru
 dakarik.com
 dakbank.net
 daketheblame.pro
+dakika-firsat-webnext.my-homeip.com
 dakikacicek.site
 dakikalaricindeyararlan.shop
 dakikcicek.com
@@ -156634,6 +156636,7 @@ firsatkampanya.click
 firsatkampanya.com.tr
 firsatkampanya.duckdns.org
 firsatkampanya.online
+firsatkampanya.sbs
 firsatkampanya.site
 firsatkampanyabasvuru.com
 firsatkampanyabasvurunuyap.online
@@ -220412,6 +220415,7 @@ istnbsdulbruasdserh.store
 istnbsusunaal.com
 istnbtkrxtt.net
 istnbudlksbjdsasdkdnr.store
+istnbudlksbjdskdnr.store
 istnbudlksburdskdnr.store
 istnbuklllcannn.net
 istnbul-tatar.net
@@ -235060,6 +235064,7 @@ kaydolustur.net.tr
 kayenanserguas.com
 kaygansendsoniscon3322.site
 kaygeorge456.duckdns.org
+kaygilarkorkular.click
 kaygisizamamutlu04.com
 kayhafazericancony.site
 kayinatt.com.tr
@@ -239845,6 +239850,7 @@ kmpnnyaaabsvrrrprmoo.live
 kmpnnyaaabsvrrrprmoo.pro
 kmpnnylrii-kacciirmaa.com
 kmpny.2023araclar.xyz
+kmpny1o1brd-xyz-962813.hostingersite.com
 kmpny1o1brd.com
 kmpnya-al-ucz-hmen.shop
 kmpnyaaabasvrrrprmsynn.art
@@ -248681,6 +248687,7 @@ links-dolap.com
 links-kslt-tr.duckdns.org
 links-kslts-mobilde.duckdns.org
 links-tr.strangled.net
+links-tr.webredirect.org
 links.heliohost.org
 linksa.asia
 linksammosupply.com
@@ -252781,6 +252788,7 @@ m-merkezbankasi.com
 m-mobildeniz-sube.com
 m-musterisubeonline.com
 m-nturkiye-gov-tr-aidat-iade-sistemi.tk
+m-o-b-i-l.my-homeip.com
 m-obilhizligirislemleri.online
 m-obillgirislemlleri.online
 m-onio.click
@@ -298355,6 +298363,7 @@ pasprm-nvl.org
 pasprtvenfsislemlernhallet.net
 pasrprtbrsnradeburds.store
 pass-check.online
+pass-entry.my-homeip.de
 pass-ess.click
 pass-ess.sa.com
 pass-fl.com
@@ -325496,6 +325505,7 @@ sadfasdfasdfasdfasdfasdf.net
 sadferwsgsd.click
 sadffsdgdgfdgdfgfd.store
 sadfsdgvdfvdfbdfb.online
+sadfsoalfrisatlartlr.blogdns.com
 sadgfawsefw.click
 sadgfhksag.line.pm
 sadgfjw.click
@@ -348921,6 +348931,7 @@ sosyal-hizmet-tr.com
 sosyal-hizmet.com
 sosyal-konut-t0ki.cfd
 sosyal-konut-t0ki.shop
+sosyal-konut-t0ki.space
 sosyal-konut.com
 sosyal-konutbasvurusu.cloud
 sosyal-konutbasvurutoki.vercel.app
@@ -431882,6 +431893,7 @@ ziraatlekazanin.org
 ziraatlekazaniyorum.com
 ziraatlerpromosyon.duckdns.org
 ziraatlesizdekazanin.org
+ziraatless.cfd
 ziraatlibasvuru.sbs
 ziraatligunler.cfd
 ziraatligunler.sbs
