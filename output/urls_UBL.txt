@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-08 20:11:11 UTC
-! Total: 346316 rules
+! Last modified: 2026-01-08 21:10:16 UTC
+! Total: 346340 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20327,6 +20327,7 @@
 *://*.aeroclubofindia.co.in/*
 *://*.aerocorpevionics.com/*
 *://*.aerofluidthermo.org/*
+*://*.aerolithan.com/*
 *://*.aeromexi.co/*
 *://*.aeronowva.com/*
 *://*.aeroplans.info/*
@@ -36522,6 +36523,7 @@
 *://*.aurecston.com/*
 *://*.aurelec.shop/*
 *://*.aurelianoelle.com/*
+*://*.aurelionyx.com/*
 *://*.aurellion.com/*
 *://*.aureon.news/*
 *://*.aureon.vc/*
@@ -46189,6 +46191,7 @@
 *://*.bellsyndicate.top/*
 *://*.bellumggartor.com/*
 *://*.bellummlekg.com/*
+*://*.bellvaris.com/*
 *://*.bellvoro.art/*
 *://*.bellyenvoy.top/*
 *://*.belmar-marketing.online/*
@@ -62952,6 +62955,7 @@
 *://*.bravetread.top/*
 *://*.braveuphold.top/*
 *://*.bravexium.com/*
+*://*.bravexyra.com/*
 *://*.bravionix.biz/*
 *://*.bravo-dog.com/*
 *://*.bravomovies.net/*
@@ -72614,6 +72618,7 @@
 *://*.ceptlpaketleri.net/*
 *://*.ceptlpaktkontryuklemesi.net/*
 *://*.ceptlyukluyoruz.net/*
+*://*.ceptonik.com/*
 *://*.ceptradsonline.click/*
 *://*.cepts.app/*
 *://*.ceptsokunfirsatlarii.online/*
@@ -84069,6 +84074,7 @@
 *://*.daum.net.pl/*
 *://*.dauspouexoc.xyz/*
 *://*.dauswopqclz.xyz/*
+*://*.dava-sorgu.info/*
 *://*.dava-sorgula.com/*
 *://*.davabilgi.org/*
 *://*.davabilgilendirme.site/*
@@ -92714,6 +92720,7 @@
 *://*.digital-acik.online/*
 *://*.digital-akbank.com/*
 *://*.digital-apps.store/*
+*://*.digital-call.com/*
 *://*.digital-cameras-south-africa.co.za/*
 *://*.digital-de-acik.site/*
 *://*.digital-deniz.net/*
@@ -93651,6 +93658,7 @@
 *://*.dijitalislem-ziraatbireysel.sbs/*
 *://*.dijitalislem-ziraatbireyselgiris.com/*
 *://*.dijitalislem-ziraatkampanyaweb.com/*
+*://*.dijitalislem-ziraatwebonay.life/*
 *://*.dijitalislemalani.app/*
 *://*.dijitalislembasvurularim.click/*
 *://*.dijitalislemgiris-denizacik.com/*
@@ -96674,6 +96682,7 @@
 *://*.dorukiralama.com/*
 *://*.doruksl.store/*
 *://*.dorukticaretltdsti.com/*
+*://*.dorunqeth.com/*
 *://*.dorupakevdepaketleme.com/*
 *://*.dorusio.com/*
 *://*.dorvenis.com/*
@@ -104444,6 +104453,7 @@
 *://*.earn.top/*
 *://*.earn454.live/*
 *://*.earncryptprofi.info/*
+*://*.earneboost.com/*
 *://*.earnestdiamond.top/*
 *://*.earnesthill.top/*
 *://*.earnestlopez324.xyz/*
@@ -119083,6 +119093,7 @@
 *://*.exacter32.xyz/*
 *://*.exactpineapple.shop/*
 *://*.exactpremier.top/*
+*://*.exactsillcone.com/*
 *://*.exacttimid.top/*
 *://*.exaggeratevibrate.top/*
 *://*.exaggerationamplify.top/*
@@ -153270,6 +153281,7 @@
 *://*.henriettatimothyson.net/*
 *://*.henryford.app/*
 *://*.hensoothe.top/*
+*://*.henstoun.com/*
 *://*.hentagyuklemleri.net/*
 *://*.henuz18yasindalatindamercedes.xyz/*
 *://*.henweekendsbirmingham.co.uk/*
@@ -192002,6 +192014,7 @@
 *://*.kertyu-issturty.xyz/*
 *://*.kervan.net/*
 *://*.kervan.online/*
+*://*.kesaiseac.cfd/*
 *://*.kesalsessdd.com/*
 *://*.kesanlazerepilasyon.com/*
 *://*.kescsepanau.net/*
@@ -196201,6 +196214,8 @@
 *://*.krcaocaksiparislerim.xyz/*
 *://*.krcaocktabslyr.top/*
 *://*.krcaockzmi.click/*
+*://*.krcaockzmnibrda.cfd/*
+*://*.krcaockzmnida.top/*
 *://*.krcaockzmnitn.top/*
 *://*.krcaonline.shop/*
 *://*.krcarlik.com/*
@@ -210698,6 +210713,7 @@
 *://*.milletvakfi.com/*
 *://*.milletvakfi.org/*
 *://*.milletvfklbayramlar.com/*
+*://*.milletyatirim.com/*
 *://*.milleyes.xyz/*
 *://*.milli-harber.club/*
 *://*.milli-harber.online/*
@@ -217909,6 +217925,7 @@
 *://*.mutoujs.xyz/*
 *://*.mutredior.com/*
 *://*.mutretserte.click/*
+*://*.mutsuzresimler.org/*
 *://*.mutualequate.top/*
 *://*.mutualmonopolise.top/*
 *://*.mutualshort.top/*
@@ -229238,6 +229255,7 @@
 *://*.online-ozel-kanpanya101.com.tr/*
 *://*.online-ozel-kanpanya101.com/*
 *://*.online-ozel-kanpanyaa10-1.com/*
+*://*.online-ozel-kmpnyalar.cfd/*
 *://*.online-ozel-market.net/*
 *://*.online-ozel-mutfakk-araclaritr.net/*
 *://*.online-ozel-sepet.xyz/*
@@ -267778,6 +267796,7 @@
 *://*.senuoris.digital/*
 *://*.senvayanapanyaneb.shop/*
 *://*.senvbenyanikmzbrlslm.online/*
+*://*.senverion.com/*
 *://*.senxqkrjyaupygj.ru/*
 *://*.senyalancibaharsin.net/*
 *://*.senyeterkievdekal20gb.com/*
@@ -281418,6 +281437,7 @@
 *://*.stanleymarket.net.tr/*
 *://*.stanleynewdawn.xyz/*
 *://*.stanleynextera.xyz/*
+*://*.stanleynextmove.xyz/*
 *://*.stanleynextreturn.xyz/*
 *://*.stanleynexus.xyz/*
 *://*.stanleyparlar.com/*
@@ -291969,6 +291989,7 @@
 *://*.thegoodandalwaysforupdating.win/*
 *://*.thegoogle.tk/*
 *://*.thegreatestcentraplaceforcontentsafealways.win/*
+*://*.thegreengeine.com/*
 *://*.thegreensystems.com/*
 *://*.thegrntold91basvrcampdrybur.site/*
 *://*.theguardshield.com/*
@@ -295741,6 +295762,7 @@
 *://*.tpaodigital.com/*
 *://*.tpaoeksen.com/*
 *://*.tpaokarari.com/*
+*://*.tpaokarrr.com/*
 *://*.tpaomanagement.com/*
 *://*.tpaommmarket.com/*
 *://*.tpaopartners.com/*
@@ -316686,6 +316708,7 @@
 *://*.vnohgiptnmrfrlkbd.org/*
 *://*.vnote.info/*
 *://*.vnotepad.com/*
+*://*.vnoti.sbs/*
 *://*.vnptnet.info/*
 *://*.vnrgy.com/*
 *://*.vnrsales.com/*
@@ -345655,6 +345678,7 @@
 *://*.zonlineislemmerkezi.cf/*
 *://*.zonlinesubeislemin.gq/*
 *://*.zonlinetbk.online/*
+*://*.zonnetario.com/*
 *://*.zontriel.com/*
 *://*.zontrivo.one/*
 *://*.zonverrbelkor.com/*
