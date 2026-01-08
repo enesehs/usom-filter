@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-08 19:11:33 UTC
-# Toplam: 434082 Domain
+# Son Güncelleme: 2026-01-08 20:11:11 UTC
+# Toplam: 434088 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -48945,6 +48945,7 @@ arcnosta.com
 arcofuss.com
 arcoirisverde.punkdns.pw
 arcpzi.com
+arcraiders.cc.dvrlists.com
 arcrandevuhizmtlere.web.app
 arcrandvularialma.xyz
 arcrndv.dev
@@ -176843,6 +176844,7 @@ gunceladires.net
 gunceladres.cfd
 gunceladreshepsiburada.com
 gunceladresimhepsiburada.com
+gunceladresimtrendyol.org
 gunceladresleradresi.com.tr
 gunceladresleradresi.online
 gunceladresleradresi.xyz
@@ -185049,6 +185051,7 @@ hamamammamamamamammmamamama9824.com
 hamamammamamamm8190.com
 hamammamamamamop2314.com
 hamammamammama9342.com
+hamammammmamam2113.com
 hamane9021.hopto.org
 hamanhffsamnvcveasnmnhhmnbh451.site
 hamaratili.com
@@ -343764,6 +343767,7 @@ sizhepinizbentekcanim.com
 sizhepinizbiztek.com
 sizhepinizbiztek.xyz
 sizhepiomustek.dns.navy
+sizhesapalmayadevamedinhahaha-f9dc42b4ea1b.herokuapp.com
 sizi-en-cok-dsnen-nen-biziz.com
 sizi-mutlu-edecek-indirimler-burada.xyz
 sizi-mutlu-edecek-kampanya-budur.com
@@ -376317,6 +376321,7 @@ trsd-1875tl-destk.ml
 trsdkfctrzilswmleri.net
 trsepet.com.tr
 trsepetim.biz.tr
+trsepetim.info.tr
 trseptemberverifiyssolved.net
 trsghsy.loveslife.biz
 trsgsy.2kool4u.net
@@ -428503,6 +428508,7 @@ yusufcarental.xyz
 yusufenesseker.net
 yusuff.zapto.org
 yusufogludernegi.org
+yusufsepet.com
 yusungtech.co.kr
 yutaimachines.com
 yutajitole.com
