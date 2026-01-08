@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-08 14:14:20 UTC
-! Total: 346290 rules
+! Last modified: 2026-01-08 15:13:42 UTC
+! Total: 346295 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -25784,6 +25784,7 @@
 *://*.aktarmaservisionline.my/*
 *://*.aktarmasorgulamaislemleri.cyou/*
 *://*.aktarmekrani2025.cfd/*
+*://*.aktarmveiletsmekrani.sbs/*
 *://*.aktaronlineiadeni.xyz/*
 *://*.aktartr.xyz/*
 *://*.aktarve-burdansorgula.cyou/*
@@ -92281,6 +92282,7 @@
 *://*.dfgvnm.com/*
 *://*.dfhasdhjasdhas.net/*
 *://*.dfhkk.icu/*
+*://*.dfhkllkdfknldfknhkdlfhldfnhldsfs.sbs/*
 *://*.dfhtghy.store/*
 *://*.dfhuk.top/*
 *://*.dfile.me/*
@@ -250835,6 +250837,7 @@
 *://*.pubstorm.net/*
 *://*.pubsuppressive.top/*
 *://*.pubupu.quest/*
+*://*.pucespell.sbs/*
 *://*.pudaskdsin.net/*
 *://*.puddinglubricate.top/*
 *://*.pudenizbank.com/*
@@ -299086,6 +299089,7 @@
 *://*.trdestek-birimi.net/*
 *://*.trdestekbasvurubn.com/*
 *://*.trdestekhizmetleri.com/*
+*://*.trdestekmerkezi.cfd/*
 *://*.trdestekmob.com/*
 *://*.trdestekmobil.com/*
 *://*.trdevletkapisi.com/*
@@ -299409,6 +299413,7 @@
 *://*.trendyolgain1.com/*
 *://*.trendyolgomobil.com.tr/*
 *://*.trendyolgunceladres.com/*
+*://*.trendyolgunceladres.org/*
 *://*.trendyolgunceladresim.com/*
 *://*.trendyolgunceladresim.org/*
 *://*.trendyolgunlukleri.store/*
