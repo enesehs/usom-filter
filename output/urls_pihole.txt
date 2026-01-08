@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-08 15:13:42 UTC
-# Toplam: 434058 Domain
+# Son Güncelleme: 2026-01-08 16:14:37 UTC
+# Toplam: 434066 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -64097,6 +64097,7 @@ benisavol.cfd
 benisavol.sbs
 benisevmisensen.xyz
 benitaktiady.cfd
+benitaktiady.sbs
 benitasi.com
 benizbank.com
 benjamin-unnecessary-mothers-configured.trycloudflare.com
@@ -157388,6 +157389,7 @@ firsatlarlakasimgeldi.shop
 firsatlarlaparibu.com
 firsatlarlaparibu2022.xyz
 firsatlarlaparibuhizligirisaralik.xyz
+firsatlarlapromosyn.com
 firsatlarlarama.zkel.workers.dev
 firsatlarlasingelsnde.blogspot.com
 firsatlarlasokrevos.steasyv1.workers.dev
@@ -275234,6 +275236,7 @@ nexst111.sells-it.net
 nexsuslazim.net
 next-bbva-git-main-new-team-6b1a0f4e.vercel.app
 next-bbva.vercel.app
+next-dinamik-webtr.my-homeip.com
 next-firsat-webtr.my-homeip.com
 next-kamp-trweb.my-homeip.com
 next.my-homeip.com
@@ -306609,6 +306612,7 @@ promptyeye.host
 promsn-hmn-hemn-tkla-kazn-snde-ktl.site
 promsortirovochnie.com
 promsynbasvrlar.click
+promsynbasvurulari2026.duckdns.org
 promsynnqnbbkmpnya.click
 promsynvakti.click
 promsynvakti.com
@@ -402976,6 +402980,9 @@ winodwsupdates.me
 winoptimum.com
 winottople.space
 winqsupply.com
+winrar-tw.com
+winrar-x64.com
+winrar-zip.com
 winrarvitimas.ddns.net
 winredirect.com
 winrinet.top
@@ -430740,6 +430747,7 @@ ziraat-ceponline.com
 ziraat-cepsubem.com
 ziraat-cepsubesi.org
 ziraat-ceptesube.com
+ziraat-com-kt.cfd
 ziraat-com.cfd
 ziraat-combo-bireysel.com
 ziraat-combo-bireysel.kastakdkdkd.tk
