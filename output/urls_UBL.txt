@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-08 08:15:13 UTC
-! Total: 346217 rules
+! Last modified: 2026-01-08 09:23:09 UTC
+! Total: 346250 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29197,6 +29197,7 @@
 *://*.alonebus.top/*
 *://*.alonedespise.top/*
 *://*.aloneladder.net/*
+*://*.alonesad.com/*
 *://*.alongdeal.net/*
 *://*.alongenvirons.com/*
 *://*.alonggroup.top/*
@@ -46016,6 +46017,7 @@
 *://*.beizhizhi.com/*
 *://*.bek.ae/*
 *://*.beka.click/*
+*://*.bekaad.click/*
 *://*.bekir-sapmaz.xyz/*
 *://*.bekira.org/*
 *://*.bekirlergeleceksendenizden.xyz/*
@@ -75786,6 +75788,9 @@
 *://*.cmvloxwej.com/*
 *://*.cmwlvgxen.com/*
 *://*.cmytuok.top/*
+*://*.cn-notepadplusplus.com/*
+*://*.cn-obsidian.com/*
+*://*.cn-winscp.com/*
 *://*.cn.com/*
 *://*.cna-servicedesk.com/*
 *://*.cna42423sk52.com/*
@@ -91130,6 +91135,7 @@
 *://*.destekprbduyurutr.com/*
 *://*.destekprduyuru.com/*
 *://*.destekprogrami2025.online/*
+*://*.destekrehberim.cfd/*
 *://*.desteksaglik.xyz/*
 *://*.desteksahibinden.com/*
 *://*.desteksanadalazim8.com/*
@@ -97957,6 +97963,7 @@
 *://*.duodiscovers.com/*
 *://*.duoduodev.com/*
 *://*.duoenergyluxury.shop/*
+*://*.duooi.com/*
 *://*.duorhytm.fun/*
 *://*.duotonedigital.co.za/*
 *://*.dupaxi.xyz/*
@@ -121052,6 +121059,7 @@
 *://*.farklilar.name.tr/*
 *://*.farklimsihayati.site/*
 *://*.farkliurun.name.tr/*
+*://*.farkxvar.xyz/*
 *://*.farkyaratanfirsatlardaaysonu.online/*
 *://*.farkyaratanfirsatlardaaysonu.xyz/*
 *://*.farkyaratanindirimlerdeyiz.xyz/*
@@ -138188,6 +138196,7 @@
 *://*.gollk.store/*
 *://*.golobalthemall.xyz/*
 *://*.gologisticmx.com/*
+*://*.golomee.com/*
 *://*.goloser.ru/*
 *://*.golti.info/*
 *://*.golyadik.site/*
@@ -157548,6 +157557,7 @@
 *://*.hiltonlusubesindeler.xyz/*
 *://*.hiltrox.com/*
 *://*.hilumimu.site/*
+*://*.hiluxo.com/*
 *://*.him35ksd12.store/*
 *://*.himanfast.com/*
 *://*.himdnwc.com/*
@@ -161441,6 +161451,7 @@
 *://*.hoppmark.com/*
 *://*.hopppeet.com/*
 *://*.hopsl3.com/*
+*://*.hoptek.click/*
 *://*.hopthelilenti.site/*
 *://*.hoptklms.org/*
 *://*.hopto.me/*
@@ -178592,6 +178603,7 @@
 *://*.istns.net/*
 *://*.istnsaad.ml/*
 *://*.istnsbdsddsulbruadsa.store/*
+*://*.istnsbdulbruadsa.store/*
 *://*.istnsz.net/*
 *://*.istntlkaart.net/*
 *://*.istnullkarttm.net/*
@@ -183109,6 +183121,7 @@
 *://*.jiahs.xyz/*
 *://*.jianfj.top/*
 *://*.jiaochengyuan.com/*
+*://*.jiaweo.com/*
 *://*.jiaxdeh.com/*
 *://*.jibaonlinetr.sbs/*
 *://*.jibbeezy.com/*
@@ -183505,6 +183518,7 @@
 *://*.jokeskesteratakriom.com/*
 *://*.jokeskesterriom.com/*
 *://*.jokestre.com/*
+*://*.jokewick.com/*
 *://*.jokideb.site/*
 *://*.jokotras.ru/*
 *://*.jokwx.com/*
@@ -183596,6 +183610,7 @@
 *://*.jotutikaruma.top/*
 *://*.joujg.icu/*
 *://*.joulensider.pro/*
+*://*.jouloi.com/*
 *://*.journalctl.website/*
 *://*.journalide.org/*
 *://*.journalismspotlht.top/*
@@ -192828,6 +192843,7 @@
 *://*.kimeracheck.online/*
 *://*.kimfaceprofilimebakti.com/*
 *://*.kimfirsatister.shop/*
+*://*.kimhate.com/*
 *://*.kimi.name.tr/*
 *://*.kimiga.ru/*
 *://*.kimileri-buralarda-ailesi-buraya-sonandar-mutlu-olacak.com/*
@@ -202705,6 +202721,7 @@
 *://*.lovelycredibility.top/*
 *://*.lovelyfabrication.top/*
 *://*.lovelyiuguration.top/*
+*://*.lovemeb.com/*
 *://*.lovemydress.pl/*
 *://*.lovepeacetravel.com/*
 *://*.lovequintet.com/*
@@ -210583,6 +210600,7 @@
 *://*.milfcheeks.com/*
 *://*.miliaraic.ru/*
 *://*.miliarder.store/*
+*://*.milionariotr.store/*
 *://*.militancyclearing.top/*
 *://*.militancygleam.top/*
 *://*.militancyhumiliation.top/*
@@ -222962,6 +222980,7 @@
 *://*.notenookbook.com/*
 *://*.notepact.top/*
 *://*.notepad-plus-plu.org/*
+*://*.notepadplusplus.cn/*
 *://*.notepads-plus-plus.org/*
 *://*.notepadxtreme.com/*
 *://*.notepod2.com/*
@@ -227197,6 +227216,7 @@
 *://*.ol1.top/*
 *://*.ol22alsdsdf213.site/*
 *://*.ola1o1.net/*
+*://*.olabb.com/*
 *://*.olacakbubayramhizmmet.net/*
 *://*.olacakkgibibekliyecez.com/*
 *://*.olacaklarburada.net/*
@@ -260963,6 +260983,7 @@
 *://*.sadkslr5445354.com/*
 *://*.sadlavdt-vdvt.com/*
 *://*.sadlink.io/*
+*://*.sadliu.com/*
 *://*.sadnessartillery.top/*
 *://*.sadnessdistortion.top/*
 *://*.sadnessmittent.top/*
@@ -264872,6 +264893,7 @@
 *://*.sbhtnaksdm.net/*
 *://*.sbhvrginiz.info/*
 *://*.sbibd.net/*
+*://*.sbido.com/*
 *://*.sbijng.com/*
 *://*.sbikok.top/*
 *://*.sbilisim.xyz/*
@@ -265478,6 +265500,7 @@
 *://*.sdshuzky.net/*
 *://*.sdss-inddaaarisd.sbs/*
 *://*.sdssdcfrstlndrmlr.xyz/*
+*://*.sdssr.sbs/*
 *://*.sdsuxk-work.shop/*
 *://*.sdthgsz.com/*
 *://*.sdtrack.io/*
@@ -270176,6 +270199,7 @@
 *://*.shoplureklam14.xyz/*
 *://*.shoplvndrhaldi.com/*
 *://*.shopmira.store/*
+*://*.shopnova.art/*
 *://*.shopopp-2912.click/*
 *://*.shopoutdoorsrus.com/*
 *://*.shopoxbow.club/*
@@ -278444,6 +278468,7 @@
 *://*.sorryretrospective.top/*
 *://*.sorrysensational.top/*
 *://*.sortable.click/*
+*://*.sortableo.click/*
 *://*.sortresemble.top/*
 *://*.sortrmhasrrkshv.net/*
 *://*.sortsglass.cyou/*
@@ -281312,6 +281337,7 @@
 *://*.stanley666superindirimgelidibrddd.com/*
 *://*.stanley666superindirimgelirrrrr.com/*
 *://*.stanleyafterdark.xyz/*
+*://*.stanleyafterrise.xyz/*
 *://*.stanleyalidnkacrma666dann.com/*
 *://*.stanleyawake.xyz/*
 *://*.stanleyburdagel.xyz/*
@@ -286796,6 +286822,7 @@
 *://*.tanzanitecoffee.co.tz/*
 *://*.taoblu.com/*
 *://*.taojfj2.cn/*
+*://*.taokur.com/*
 *://*.taoquanquan.com/*
 *://*.taorswjnqquiypvqb.net/*
 *://*.taosha.cc/*
@@ -288476,6 +288503,7 @@
 *://*.tchalkoim.com/*
 *://*.tchazinemaliye.site/*
 *://*.tchelovekoblako.club/*
+*://*.tchibebasvuru.cfd/*
 *://*.tchirchore.ru/*
 *://*.tchizmetiadeleribasvurun-portal.tk/*
 *://*.tchk-1.com/*
@@ -291724,6 +291752,7 @@
 *://*.the85.us/*
 *://*.theabstractprincess.com/*
 *://*.theafricanwatch.com/*
+*://*.theaigaming.com/*
 *://*.theakbtit.top/*
 *://*.theakirateam.com/*
 *://*.theaktuel-urunler.com/*
@@ -293057,6 +293086,7 @@
 *://*.tisortkampanyasi.tk/*
 *://*.tisqls52.top/*
 *://*.tissuederegulation.top/*
+*://*.titamic.com/*
 *://*.titanarmyrary.today/*
 *://*.titanc5.net/*
 *://*.titanchecksystem.store/*
@@ -304701,6 +304731,7 @@
 *://*.turknews-online.com/*
 *://*.turknewshub.com/*
 *://*.turknrg.com/*
+*://*.turkobidestek.cfd/*
 *://*.turkocaklaribagis.com/*
 *://*.turkodemenzzmtv.tk/*
 *://*.turkogrencilerbirligi.com/*
@@ -316508,6 +316539,7 @@
 *://*.vlskvlsvkslvsnm.com/*
 *://*.vltdh-devletscrc.com/*
 *://*.vlttmtr.com/*
+*://*.vlumu.com/*
 *://*.vlupe.cn/*
 *://*.vlzmrmkxrvh.net/*
 *://*.vm-clouds.net/*
@@ -343348,6 +343380,7 @@
 *://*.zgum52f88v3xf57682.com/*
 *://*.zgvjwjuhvfwdcjme.xyz/*
 *://*.zgxsky.com/*
+*://*.zh-cns.top/*
 *://*.zhabtdmy.com/*
 *://*.zhaksylyk.kz/*
 *://*.zhangxhy.com/*
