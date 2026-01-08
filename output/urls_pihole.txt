@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-08 18:14:10 UTC
-# Toplam: 434076 Domain
+# Son Güncelleme: 2026-01-08 19:11:33 UTC
+# Toplam: 434082 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14789,6 +14789,7 @@
 500usdtprb-bx2022sube.com
 500usdtprb-bx2022sube.net
 500ustdhediyedoge.com
+500yedekbasvuru.xyz
 500yuzbinkonut.com
 500yuzbinkonut.xyz
 501001001001.cloud
@@ -50213,6 +50214,7 @@ asdrfghjk3wr4e5yr6uyjhgb.mhp-hotels.buzz
 asds4dvl.com
 asdsa-dad-fgdfg-333.space
 asdsaafas.oceruh.net
+asdsad.nicepage.io
 asdsad125sa1dcx.digital
 asdsad213safsad.com
 asdsad4ax6c1aas.digital
@@ -248932,6 +248934,7 @@ list-midwest.at.ply.gg
 list-point-army.com
 listcool.info
 listdolumbelbim.net
+liste-web-girisleriniztr.my-homeip.com
 liste-web-trygo.my-homeip.com
 liste.life
 listebasvrularim.online
@@ -343429,6 +343432,7 @@ sitemaps.baykar-news.info
 sitemimsanadoktor.xyz
 sitemobilsube.com
 sitemsizlebirlikteakmenuler.xyz
+sitemziraati.nicepage.io
 siteniz.github.io
 sitensyses2101.site
 sitep-ttavm.com
@@ -426454,6 +426458,7 @@ ynitrfsb.dev
 yniyilhediyebnnceozel.cloud
 yniyilozelhediyebnnce.cloud
 ynk4apg6oli2ejklilqle6k.ddns.net
+ynldrfrstbrdsok.web.app
 ynldrmfrst.web.app
 ynlendirme-git-stiye.click
 ynlendom.click
@@ -428578,6 +428583,7 @@ yuzbirfirsatlarikacirma.com
 yuzbirfirsattkacamaz.com
 yuzbirfirsaturunu.com
 yuzbirilefirsatlarharikasi.com
+yuzbirilefirsatlarkacmazsendegelveal.gleeze.com
 yuzbirimile-baharda.online
 yuzbirinciyillarimiz.duckdns.org
 yuzbirindirimler.fun
