@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-08 23:09:33 UTC
-# Toplam: 434120 Domain
+# Son Güncelleme: 2026-01-09 00:52:57 UTC
+# Toplam: 434130 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -91426,6 +91426,7 @@ catherineminnis.com
 catherinereynolds.info
 cathidraldominate.top
 cathodlectr223.zapto.org
+catholic24mobileappstaging.duckdns.org
 catholicdeduction.top
 catholicmidwife.top
 catilcampaingtotdoys1.net
@@ -123225,6 +123226,7 @@ dolaparamguvende-org.tk
 dolaparamguvendes.com
 dolapauthenticator.com
 dolapcenter.ga
+dolapceptelefonuiphone.duckdns.org
 dolapda.com
 dolapdestek.com
 dolapget.com
@@ -137331,6 +137333,7 @@ edv-hesaponay.online
 edv-ilanguncele.site
 edv-ilangunceleme.site
 edv-ilanonaylama.site
+edv-tap-ravportal.com
 edv2021-iade-hizmetleri.xyz
 edvaegitimkurumu.net
 edvaeqwsarfwaq.com
@@ -167391,6 +167394,7 @@ geceodeme.com
 geceodemehzmtleri.tk
 geceodememiz.com
 geceonlinem.com
+geceonlineozelimiz.dns.navy
 gecerandavu.app
 gecereklami.site
 gecerlibasvurufirsatibugun.online
@@ -233627,6 +233631,7 @@ karmalast.ddns.net
 karmalirayukle.net
 karmalirayukleme.net
 karmapaketler.net
+karmelio.com
 karmento.space
 karmi1963516.site
 karmicburst.com
@@ -278698,6 +278703,7 @@ nurgazmasa.vip
 nurgazmasatakimi.xyz
 nurglass.com
 nurolfinans.net
+nurolgyotr.com
 nurolyatirim.com
 nursam161.hopto.org
 nursechaos.top
@@ -281749,6 +281755,7 @@ odemeccelnexts.net
 odemeceza.online
 odemeci.info
 odemecxkvakt.org
+odemedogrula.com
 odemedolap.com
 odemedolaplarhizmetleri.com
 odemedolaplarhizmetlerim.com
@@ -305614,6 +305621,7 @@ prmsooosynnngrntt.sa.com
 prmssynnkmpnyaabsvrrr.click
 prmsyn-bsvru-guncel.cyou
 prmsynbburkdgrnti.com
+prmsynbsvr2026.duckdns.org
 prmsynbsvrrrqnbprmsyn.click
 prmsynbsvru.online
 prmsynbsvruefsisssbnnkx.duckdns.org
@@ -308926,6 +308934,7 @@ pttavm.mobitr-ilanlarimiz.com.tr
 pttavm.net
 pttavm.net.tr
 pttavm.net.web.tr
+pttavm.odemedogrula.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
 pttavm.odemeli-ticaret.com
@@ -433648,6 +433657,7 @@ zunketao.com
 zunkv6c3.duckdns.org
 zunlen.com
 zunpthedoanin.com
+zunqex.com
 zuobxrlgfd.duckdns.org
 zupertech.com
 zupgo.click
