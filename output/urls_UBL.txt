@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-09 16:12:39 UTC
-! Total: 346386 rules
+! Last modified: 2026-01-09 17:15:03 UTC
+! Total: 346393 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9737,6 +9737,7 @@
 *://*.500tl-yukle-finansbank.com/*
 *://*.500tlaidatiadesi.com/*
 *://*.500tlaidatiniz.com/*
+*://*.500tokibasvur.xyz/*
 *://*.500usddoge.com/*
 *://*.500usddogebasvur.com/*
 *://*.500usddogehediyeli.com/*
@@ -66436,6 +66437,7 @@
 *://*.busenineserink.com/*
 *://*.busepetibirtekakillilaralabilir.cfd/*
 *://*.buseria4.store/*
+*://*.buseshowbilgi.click/*
 *://*.busfrrbrdasnkz.club/*
 *://*.busgetrent.xyz/*
 *://*.bush2015.net/*
@@ -294574,6 +294576,7 @@
 *://*.tokibasvurumutamamla.online/*
 *://*.tokibasvurumutamamla.site/*
 *://*.tokibasvurun.com/*
+*://*.tokibasvurun.xyz/*
 *://*.tokibasvurunuz.click/*
 *://*.tokibasvurunuz.com/*
 *://*.tokibasvurunuzonline.click/*
@@ -305301,6 +305304,7 @@
 *://*.tuvmuaynehizmetlerinizden.net/*
 *://*.tuvmuyne.com/*
 *://*.tuvodemehiz-mtlri.net/*
+*://*.tuvrandev.com/*
 *://*.tuvrandevu-muayene.net/*
 *://*.tuvrandevu.net/*
 *://*.tuvrandevusistemi.net/*
@@ -305383,6 +305387,7 @@
 *://*.tuvturk-aracmuaynealanixodemesrgu4muayne.net/*
 *://*.tuvturk-aracrandev.net/*
 *://*.tuvturk-aracrandevusu.net/*
+*://*.tuvturk-d.digital/*
 *://*.tuvturk-islem-randevu.net/*
 *://*.tuvturk-islemleri.com/*
 *://*.tuvturk-mobil.com/*
@@ -343036,6 +343041,7 @@
 *://*.zarl.tech/*
 *://*.zarnaftdiar.ir/*
 *://*.zarnix.pro/*
+*://*.zarnovia.com/*
 *://*.zarronbacafevk.icu/*
 *://*.zaryatoattackk3.com/*
 *://*.zasadacafe.by/*
@@ -343835,6 +343841,7 @@
 *://*.ziraat-ceptesube.com/*
 *://*.ziraat-com-kr.cfd/*
 *://*.ziraat-com-kt.cfd/*
+*://*.ziraat-com-xy.cfd/*
 *://*.ziraat-com.cfd/*
 *://*.ziraat-combo-bireysel.com/*
 *://*.ziraat-controle.one/*
