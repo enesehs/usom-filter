@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-10 05:11:49 UTC
-# Toplam: 434220 Domain
+# Son Güncelleme: 2026-01-10 06:14:37 UTC
+# Toplam: 434230 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8320,6 +8320,7 @@
 2025yildizlarinda.online
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
+2026-yanizda-olacak.sbs
 2026bvsnrsmdikyt.sbs
 2026evimprojesi.com.tr
 2026hedefvizyon.online
@@ -59674,6 +59675,7 @@ basvurudestek.tk
 basvurudestekbnc.com
 basvurudestekbncatr.com
 basvurudestekbnctr.com
+basvurudestekmerkezi.xyz
 basvurudetays.cfd
 basvurudevamedinizkontrol11.duckdns.org
 basvurudijitaldenizbank.co.vu
@@ -109821,6 +109823,7 @@ dealsonthecloud.com
 dealspprt.com
 dealsprint.net
 dealsquare.top
+dealsr.click
 dealsurf.rest
 dealtraka.xyz
 dealuvo.xyz
@@ -140046,6 +140049,7 @@ ekranaktaqnbbsayfa.com
 ekranaktarmasayasi.com
 ekranaktarsaysfmaqnb.com
 ekrandan-aktar-online.site
+ekrandan-durumunu-takipet-ogren.sbs
 ekrandan-erkenden-sorgula-gerceklestir.sbs
 ekrandan-onaylanan-islemleriniz.sbs
 ekrandan-onlineolaraksor-veaktar.sbs
@@ -158002,6 +158006,7 @@ firta.myjino.ru
 firta1o1.com
 firtek.co.tz
 firthgs.com
+firtil.click
 firts-invest.info
 firts2level4.site
 firtzxp.com
@@ -220245,6 +220250,7 @@ istkartbasvurum.net
 istkartbn.com
 istkartburdanbasvurdunuz.mooo.com
 istkartcan.net
+istkartcbb.shop
 istkartdoldur.online
 istkartdoldurma.net
 istkartdoldurmalar.net
@@ -377552,6 +377558,7 @@ ttnumaratasimant.com
 ttocbwjyrdcu.info
 ttokibasvurrullariiniz.com
 ttokibasvurrullarriiniz.com
+ttokibasvuru.xyz
 ttokibasvurullariinizz.online
 ttokibsvrlrnza.online
 ttokibsvrulrniz.islmlrmiz.ru.com
@@ -380914,6 +380921,7 @@ tursabsitedogrulama.org
 tursabsorgu.net
 tursabsorgu.online
 tursabsorgulama.com.tr
+tursabsorgulama.online
 tursabsorgulama.org
 tursabsorgulatma.com.tr
 tursabwebonay.org
@@ -424348,6 +424356,7 @@ yeniyil-kampanyalari.com
 yeniyil-kampanyasorgulari-ocakayi.net
 yeniyil-mutlu-verici-girisi.blogspot.com
 yeniyil-noktan.name.tr
+yeniyil-noktan.tv.tr
 yeniyil-ocakayikampanya.net
 yeniyil-ocakkampanyasi.net
 yeniyil-odulleri.com
@@ -429425,6 +429434,7 @@ zafiriletisim.com
 zafobimcellbayipaketyukleme.org
 zafocanbimcellde.net
 zafocla-pazaradogru-ekim25.com
+zafocorium54364.dns.navy
 zafocorium676.dns.navy
 zafxvdtgop.duckdns.org
 zagiubcq9.duckdns.org

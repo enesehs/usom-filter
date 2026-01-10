@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-10 05:11:49 UTC
-! Total: 346417 rules
+! Last modified: 2026-01-10 06:14:37 UTC
+! Total: 346426 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5911,6 +5911,7 @@
 *://*.2025yildizlarinda.online/*
 *://*.2025yildizlarinda.xyz/*
 *://*.2025yilikampanyasizlere.com/*
+*://*.2026-yanizda-olacak.sbs/*
 *://*.2026bajsknvtnkito.sbs/*
 *://*.2026bvsnrsmdikyt.sbs/*
 *://*.2026evimprojesi.com.tr/*
@@ -42631,6 +42632,7 @@
 *://*.basvurudestekbnc.com/*
 *://*.basvurudestekbncatr.com/*
 *://*.basvurudestekbnctr.com/*
+*://*.basvurudestekmerkezi.xyz/*
 *://*.basvurudetays.cfd/*
 *://*.basvurudilan.org/*
 *://*.basvurudogrulamaniz.org/*
@@ -84552,6 +84554,7 @@
 *://*.dealspprt.com/*
 *://*.dealsprint.net/*
 *://*.dealsquare.top/*
+*://*.dealsr.click/*
 *://*.dealsurf.rest/*
 *://*.dealtraka.xyz/*
 *://*.dealuvo.xyz/*
@@ -110893,6 +110896,7 @@
 *://*.ekranaktarmasayasi.com/*
 *://*.ekranaktarsaysfmaqnb.com/*
 *://*.ekrandan-aktar-online.site/*
+*://*.ekrandan-durumunu-takipet-ogren.sbs/*
 *://*.ekrandan-erkenden-sorgula-gerceklestir.sbs/*
 *://*.ekrandan-onaylanan-islemleriniz.sbs/*
 *://*.ekrandan-onlineolaraksor-veaktar.sbs/*
@@ -126052,6 +126056,7 @@
 *://*.firta1o1.com/*
 *://*.firtek.co.tz/*
 *://*.firthgs.com/*
+*://*.firtil.click/*
 *://*.firts-invest.info/*
 *://*.firts2level4.site/*
 *://*.firtzxp.com/*
@@ -178338,6 +178343,7 @@
 *://*.istkartbasvurum.net/*
 *://*.istkartbn.com/*
 *://*.istkartcan.net/*
+*://*.istkartcbb.shop/*
 *://*.istkartdoldur.online/*
 *://*.istkartdoldurma.net/*
 *://*.istkartdoldurmalar.net/*
@@ -302070,6 +302076,7 @@
 *://*.ttocbwjyrdcu.info/*
 *://*.ttokibasvurrullariiniz.com/*
 *://*.ttokibasvurrullarriiniz.com/*
+*://*.ttokibasvuru.xyz/*
 *://*.ttokibasvurullariinizz.online/*
 *://*.ttokibsvrlrnza.online/*
 *://*.ttokiibassvurrularnzz.online/*
@@ -305164,6 +305171,7 @@
 *://*.tursabsorgu.net/*
 *://*.tursabsorgu.online/*
 *://*.tursabsorgulama.com.tr/*
+*://*.tursabsorgulama.online/*
 *://*.tursabsorgulama.org/*
 *://*.tursabsorgulatma.com.tr/*
 *://*.tursabwebonay.org/*
@@ -338859,6 +338867,7 @@
 *://*.yeniyil-kampanyalari.com/*
 *://*.yeniyil-kampanyasorgulari-ocakayi.net/*
 *://*.yeniyil-noktan.name.tr/*
+*://*.yeniyil-noktan.tv.tr/*
 *://*.yeniyil-ocakayikampanya.net/*
 *://*.yeniyil-ocakkampanyasi.net/*
 *://*.yeniyil-odulleri.com/*
