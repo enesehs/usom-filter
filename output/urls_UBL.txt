@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-10 18:13:58 UTC
-! Total: 346448 rules
+! Last modified: 2026-01-10 19:01:40 UTC
+! Total: 346454 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61407,6 +61407,7 @@
 *://*.boharfgotwsdlsp.ru/*
 *://*.bohem1.xyz/*
 *://*.bohgiwe.com/*
+*://*.bohmuvar.sbs/*
 *://*.bohoth.com/*
 *://*.bohq.site/*
 *://*.boibleved.ru/*
@@ -150167,6 +150168,7 @@
 *://*.hayatallahdad.com/*
 *://*.hayatatecrubekat.com/*
 *://*.hayatatutun.xyz/*
+*://*.hayatayenidenburadagel.com/*
 *://*.hayataynidongusankinakarat.com/*
 *://*.hayatbakis.org/*
 *://*.hayatbakis.site/*
@@ -176091,6 +176093,7 @@
 *://*.isceplilerkazaniyor2021cepgirismobil.com/*
 *://*.isceplilerkazaniyor2021cepgirismobil.net/*
 *://*.isceplilerkazaniyor202lcepgirismobil.net/*
+*://*.isceplogingiris.com/*
 *://*.iscepmaksimum.com/*
 *://*.iscepmaxibasvurutr.com/*
 *://*.iscepmaxibireysel.com/*
@@ -192046,6 +192049,7 @@
 *://*.kermane.online/*
 *://*.kermansarax.app/*
 *://*.kermo.pw/*
+*://*.kermorun.cfd/*
 *://*.kermorun.sbs/*
 *://*.kernam.com/*
 *://*.kerndslsmf.net/*
@@ -265480,6 +265484,7 @@
 *://*.sdcvsdfkjad.net/*
 *://*.sdcvvt-dct.com/*
 *://*.sddn4.xyz/*
+*://*.sdear.click/*
 *://*.sdeceizmrweb.net/*
 *://*.sdeceonline-ozel.click/*
 *://*.sdeceonlineozl.click/*
@@ -294773,6 +294778,7 @@
 *://*.tokiimilkkevim45.online/*
 *://*.tokiisl-d.digital/*
 *://*.tokiislemlerii.digital/*
+*://*.tokiiyebasvur.xyz/*
 *://*.tokikayit.org/*
 *://*.tokikayitlar.org/*
 *://*.tokikntarsaisyeri2025.com/*
