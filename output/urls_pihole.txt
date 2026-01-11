@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-11 12:23:05 UTC
-# Toplam: 434320 Domain
+# Son Güncelleme: 2026-01-11 13:23:06 UTC
+# Toplam: 434325 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8322,6 +8322,7 @@
 2025yilikampanyasizlere.com
 2026-yanizda-olacak.sbs
 2026bvsnrsmdikyt.sbs
+2026evfirsati.sbs
 2026evimprojesi.com.tr
 2026hedefvizyon.online
 2026hediyesi.cfd
@@ -48510,6 +48511,7 @@ aralikfirsatikapinagelsin.online
 aralikfirsatimiz.servehttp.com
 aralikfirsatimla.servehttp.com
 aralikfirsatlar.com.tr
+aralikfirsatlar.org.tr
 aralikfirsatlar101.xyz
 aralikfirsatlargunleri.com.tr
 aralikfirsatlargunleri.online
@@ -148708,6 +148710,7 @@ evinizingerekenherseymarkettencok-ucuz.cfd
 evinizinmarketbutcesinikoruyun.cfd
 evinizinmutfakmasraflarinidengeleyenmarket.cfd
 evinizintekhazirgidaalisverisi.cfd
+evinizolsun.click
 evinolsun.click
 evinternetabonelikvebasvurumerkezi.site
 evinternetabonelikvebasvurumerkezii.site
@@ -219771,6 +219774,7 @@ istanbulumut.online
 istanbuluncanavari.com
 istanbulungucu.com
 istanbulunguvercinleri.shop
+istanbulunsizlerindenhab.shop
 istanbuluntarihi.myshopify.com
 istanbulunyasinatasoyu.net
 istanbuluyukle.net
@@ -421257,6 +421261,7 @@ yapimobill.com.tr
 yapimobill.net.tr
 yapimobill.org.tr
 yapimobill.tr
+yapimobille.com.tr
 yapimobille.org.tr
 yapimobiller.xyz
 yapimobilsube-destek.com
