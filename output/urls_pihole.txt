@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-11 16:10:41 UTC
-# Toplam: 434340 Domain
+# Son Güncelleme: 2026-01-11 17:08:00 UTC
+# Toplam: 434349 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -49914,6 +49914,7 @@ asd123.online
 asd123fsf.duckdns.org
 asd1axa1x5a.digital
 asd213312d21d.click
+asd222ga.strangled.net
 asd33r.is-best.net
 asd435sadasr234sad324adsd234asd.ws
 asd444.ddns.net
@@ -163944,6 +163945,7 @@ garanti.puanfirsatlarimobilozle.tk
 garanti.red
 garanti.sa.com
 garanti.securelinked-in.com
+garanti.strangled.net
 garanti.technology
 garanti.totalh.net
 garanti.unikart.website
@@ -190635,6 +190637,7 @@ hemplife.ddns.net
 hempower.shop
 hemprince.com
 hempronas.cfd
+hempronas.sbs
 hemqhqaema.net
 hemscumefles.com
 hemsenhemben.net
@@ -212520,6 +212523,7 @@ ingbankturkey.com
 ingbannk.com
 ingbannk.xyz
 ingbasvuronline2019.com
+ingbasvuru.click
 ingbasvuruonline.com
 ingbeveiliging.ddns.net
 ingbireyselcepinternet.com
@@ -241900,6 +241904,7 @@ kosgeb-destek.duckdns.org
 kosgeb-hibe-basvuru.cfd
 kosgeb-hibe-basvuru.replit.app
 kosgeb-kredi.com
+kosgeb-krediler.com
 kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvuruformu.click
@@ -241915,6 +241920,7 @@ kosgebhibebasvur.cfd
 kosgebhibebasvuru.cfd
 kosgebhibebasvurusu.cfd
 kosgebiskur.com
+kosgeble.mobi
 kosgebprogramdestek.cfd
 kosgep-halkbank.com
 koshcreative.co.uk
@@ -331028,6 +331034,7 @@ sanalmarket10-burda.xyz
 sanalmarket101.online
 sanalmarket2.site
 sanalmarketde.com
+sanalmarketextra.com
 sanalmarketfirsatlari.online
 sanalmarketfirsatlari.tk
 sanalmarketim.cf
@@ -347973,6 +347980,7 @@ songunceletkinlik.net
 songunceletkinliklerimiz.net
 songunceleventlerimiz.net
 songuncelgirisler.xyz
+songuncellyenifirsat.net
 songuncelyeniciner.org
 songuneyetiskampnaylarda.online
 songuneylulfirsatlari.online
@@ -422146,6 +422154,7 @@ yatirim-kulubu.online
 yatirim-magma.online
 yatirim-nokta.com
 yatirim-rehberi.net
+yatirim-sinyal.info
 yatirim-taktikleri.life
 yatirim-ufku.online
 yatirim-vizyonu.info

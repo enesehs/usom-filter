@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-11 16:10:41 UTC
-! Total: 346518 rules
+! Last modified: 2026-01-11 17:08:00 UTC
+! Total: 346525 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -153294,6 +153294,7 @@
 *://*.hempower.shop/*
 *://*.hemprince.com/*
 *://*.hempronas.cfd/*
+*://*.hempronas.sbs/*
 *://*.hemqhqaema.net/*
 *://*.hemscumefles.com/*
 *://*.hemsenhemben.net/*
@@ -171753,6 +171754,7 @@
 *://*.ingbannk.com/*
 *://*.ingbannk.xyz/*
 *://*.ingbasvuronline2019.com/*
+*://*.ingbasvuru.click/*
 *://*.ingbasvuruonline.com/*
 *://*.ingbireyselcepinternet.com/*
 *://*.ingbireyselcepinternetsube.com/*
@@ -195909,6 +195911,7 @@
 *://*.kosgeb-destek.com/*
 *://*.kosgeb-hibe-basvuru.cfd/*
 *://*.kosgeb-kredi.com/*
+*://*.kosgeb-krediler.com/*
 *://*.kosgebbasvuru.cfd/*
 *://*.kosgebbasvuru.online/*
 *://*.kosgebbasvuruformu.click/*
@@ -195921,6 +195924,7 @@
 *://*.kosgebhibebasvuru.cfd/*
 *://*.kosgebhibebasvurusu.cfd/*
 *://*.kosgebiskur.com/*
+*://*.kosgeble.mobi/*
 *://*.kosgebprogramdestek.cfd/*
 *://*.kosgep-halkbank.com/*
 *://*.koshcreative.co.uk/*
@@ -264072,6 +264076,7 @@
 *://*.sanalmarket101.online/*
 *://*.sanalmarket2.site/*
 *://*.sanalmarketde.com/*
+*://*.sanalmarketextra.com/*
 *://*.sanalmarketfirsatlari.online/*
 *://*.sanalmarketfirsatlari.tk/*
 *://*.sanalmarketfirsatlari.website/*
@@ -277661,6 +277666,7 @@
 *://*.songunceletkinliklerimiz.net/*
 *://*.songunceleventlerimiz.net/*
 *://*.songuncelgirisler.xyz/*
+*://*.songuncellyenifirsat.net/*
 *://*.songuncelyeniciner.org/*
 *://*.songuneyetiskampnaylarda.online/*
 *://*.songuneylulfirsatlari.online/*
@@ -336982,6 +336988,7 @@
 *://*.yatirim-magma.online/*
 *://*.yatirim-nokta.com/*
 *://*.yatirim-rehberi.net/*
+*://*.yatirim-sinyal.info/*
 *://*.yatirim-taktikleri.life/*
 *://*.yatirim-ufku.online/*
 *://*.yatirim-vizyonu.info/*
