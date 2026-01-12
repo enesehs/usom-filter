@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-12 12:23:13 UTC
-# Toplam: 434449 Domain
+# Son Güncelleme: 2026-01-12 13:34:31 UTC
+# Toplam: 434456 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -83807,6 +83807,8 @@ bsvr.ozelbasvurufirsatlari-aralikkampanyasi10yil.com
 bsvrbddkssds.com
 bsvrcm.site
 bsvrdiadealcffs.com
+bsvrdklarimizagelsnzs.com
+bsvrdklarimizdasinzsist.com
 bsvrdklarinzdsyzbrlrda.com
 bsvrdmsktmmattimm.com
 bsvrdnuz.click
@@ -117099,6 +117101,7 @@ desteklerbknlk-govtr.freesite.vip
 desteklerburadan.sbs
 desteklerdenizden.xyz
 desteklergovailevesaglikbakanligigovtr.tk
+desteklerhakkindabilgi.com
 desteklerhibesicimer.com
 desteklerhibesinakdikurban.co.vu
 destekleri-aktarma-hizmeti.store
@@ -219641,6 +219644,7 @@ istanbulkrtibb.net
 istanbulkrtonline.net
 istanbulkrtw.net
 istanbulkrtyukleme.com
+istanbulksohhs.com
 istanbulksoth.com
 istanbulkurum.com
 istanbulkuvyetsubemodel.com
@@ -227886,6 +227890,7 @@ juvenilebarracks.top
 juvenilely.com
 juvenilevent.top
 juvenilify.com
+juventus.work.gd
 juventusbimcell.com
 juveromas.store
 juvhaz.org
@@ -331132,6 +331137,7 @@ sanalmarketin.com
 sanalmarketin.com.tr
 sanalmarketinyaninda.online
 sanalmarketmgros.com
+sanalmarketmigros.biz
 sanalmarketmigros.one
 sanalmarketmigros.vip
 sanalmarketp-ttavm.com
@@ -331543,6 +331549,7 @@ sar102.com
 sar104.com
 sar105.com
 sarabaturbe.xyz
+sarafa.click
 sarah-louisewoodcock56.top
 sarahamdi.hopto.org
 sarahtame.at
