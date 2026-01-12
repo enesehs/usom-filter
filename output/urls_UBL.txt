@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-12 05:22:56 UTC
-! Total: 346549 rules
+! Last modified: 2026-01-12 06:23:35 UTC
+! Total: 346570 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7555,6 +7555,7 @@
 *://*.2mfs.net/*
 *://*.2mmglobal.com/*
 *://*.2moniunesson.com/*
+*://*.2mpro.trade/*
 *://*.2mseng.com/*
 *://*.2muyanevecnvvi.net/*
 *://*.2mvqtuz9w1.ru/*
@@ -35218,6 +35219,7 @@
 *://*.asdsdamsdsabmbmbmbmbm444.one/*
 *://*.asdsddsadasdsdadsbimcell444.org/*
 *://*.asdsdfggn.net/*
+*://*.asdser.click/*
 *://*.asdsfasjdhakjkj28.click/*
 *://*.asdsgkgsa23-21-21125521-241-12srfgds3t.com.tr/*
 *://*.asdshuzky.net/*
@@ -62379,6 +62381,7 @@
 *://*.borsa-petrol.com/*
 *://*.borsa-sirri.online/*
 *://*.borsa-taktigi.online/*
+*://*.borsa-ve-ekonomi.site/*
 *://*.borsa-yatirimi.online/*
 *://*.borsaanaliz.info/*
 *://*.borsadijital-tr.com/*
@@ -66138,6 +66141,7 @@
 *://*.burdafrsatlar.cfd/*
 *://*.burdafrsatlar.tr/*
 *://*.burdafrsatlar.xyz/*
+*://*.burdagulduk.com/*
 *://*.burdaguvenilironline.shop/*
 *://*.burdaharcaburdabitmez101.online/*
 *://*.burdaharcaburdabitmez101.xyz/*
@@ -66279,6 +66283,7 @@
 *://*.burglardrome.top/*
 *://*.burglarfascism.top/*
 *://*.burglaryalign.top/*
+*://*.burgnyatirimtr.com/*
 *://*.burgupazarlama.tk/*
 *://*.burhanburcak.cfd/*
 *://*.burhanitradinglimited.co.uk/*
@@ -93074,6 +93079,7 @@
 *://*.dijital-duyuru-bilgilendirme.click/*
 *://*.dijital-duyuru-hizmeti.online/*
 *://*.dijital-duyurularim-bilgi.click/*
+*://*.dijital-ekonomi-portali.site/*
 *://*.dijital-ekran-surecleri.com/*
 *://*.dijital-erisim-sayfaniz.com/*
 *://*.dijital-erisim.website/*
@@ -122369,6 +122375,7 @@
 *://*.ferrysynthetic.top/*
 *://*.fersahatladik.com/*
 *://*.fersenferderker.online/*
+*://*.ferser.click/*
 *://*.fertileduty.top/*
 *://*.fertileideology.top/*
 *://*.fertilelife.top/*
@@ -123375,6 +123382,7 @@
 *://*.finans-sube.com/*
 *://*.finans-sube.online/*
 *://*.finans-subesionline.com/*
+*://*.finans-takip.info/*
 *://*.finans-tamdestek.com/*
 *://*.finans-yilbasi-hediyem.com/*
 *://*.finans-yilbasinda.com/*
@@ -125685,6 +125693,7 @@
 *://*.firsatliurunlertektiklasizle.com/*
 *://*.firsatliyillar.com/*
 *://*.firsatlizamanlar.com/*
+*://*.firsatlkarpromosyonu.com/*
 *://*.firsatlkaydol.com/*
 *://*.firsatlkayet.com/*
 *://*.firsatlobh.cfd/*
@@ -144271,6 +144280,7 @@
 *://*.haber-900.online/*
 *://*.haber-900.site/*
 *://*.haber-academy.site/*
+*://*.haber-akisi-finans.site/*
 *://*.haber-al.club/*
 *://*.haber-al.site/*
 *://*.haber-al.website/*
@@ -154022,6 +154032,7 @@
 *://*.herkesedestek5000tl.com/*
 *://*.herkesedestekolalim.com/*
 *://*.herkesedestekzamaninda20.com/*
+*://*.herkeseilkteniyigelir.com/*
 *://*.herkesekampanyalar.com/*
 *://*.herkeselazim.name.tr/*
 *://*.herkeseonay.com/*
@@ -159100,6 +159111,7 @@
 *://*.hizlimobilodeme.com.tr/*
 *://*.hizlimobilpromosyon.com/*
 *://*.hizlimobilyapi.com/*
+*://*.hizlimobl.com/*
 *://*.hizlimotorlutasitlarim.net/*
 *://*.hizlimtvxergodemexleriniz.net/*
 *://*.hizlimuaynerdnvu.xyz/*
@@ -178515,6 +178527,7 @@
 *://*.istmmrkrlslykleee.com/*
 *://*.istmn.net/*
 *://*.istmnblkaart.net/*
+*://*.istmnkvxas.com/*
 *://*.istmrkxjslxsa.com/*
 *://*.istmrkxsagdsg.com/*
 *://*.istmusicc.surf/*
@@ -185056,6 +185069,7 @@
 *://*.kacmaz-indirimler.com.tr/*
 *://*.kacmaz-kampanyalar.cfd/*
 *://*.kacmaz-stoklarda.net.tr/*
+*://*.kacmaz-stoklarda.org.tr/*
 *://*.kacmaz-urun-size-internet.shop/*
 *://*.kacmaz1nd1r1mlers1md1on1ne.com/*
 *://*.kacmazbencebufrst.shop/*
@@ -191014,6 +191028,7 @@
 *://*.kayltin.com/*
 *://*.kaymakamkililaclamacisi.net/*
 *://*.kaymazmisintarcinima.site/*
+*://*.kaynak-turkiye.site/*
 *://*.kaynakfiksturu.com/*
 *://*.kaynakinov.com/*
 *://*.kaynaklar.name.tr/*
@@ -210676,6 +210691,7 @@
 *://*.migrosindirimler.com/*
 *://*.migroskapinda.com/*
 *://*.migroskopmarket.com/*
+*://*.migrosmarket.one/*
 *://*.migrosmarket.store/*
 *://*.migrosonlinekampanya.xyz/*
 *://*.migrossaanallmarketim.com/*
@@ -210825,6 +210841,7 @@
 *://*.milletvfklbayramlar.com/*
 *://*.milletyatirim.com/*
 *://*.milleyes.xyz/*
+*://*.milli-ekonomi-blog.site/*
 *://*.milli-harber.club/*
 *://*.milli-harber.online/*
 *://*.milli-harber.site/*
@@ -217534,6 +217551,7 @@
 *://*.munurfitness.net/*
 *://*.munurhocafitness.net/*
 *://*.munzurtadnqdqk52k11-12125125.com/*
+*://*.muoacaspfvi.sbs/*
 *://*.muoay-cflrfm-rglsrlrvy.icu/*
 *://*.muohxai.com/*
 *://*.muoqbli.com/*
@@ -225850,6 +225868,7 @@
 *://*.ocak-kampanyasi.org/*
 *://*.ocak-kampanyasi.store/*
 *://*.ocak-kampanyasube.click/*
+*://*.ocak-kapida.sbs/*
 *://*.ocak-lndirimflrsatlari.site/*
 *://*.ocak-market.com/*
 *://*.ocak-surprizlerigeldi2019.com/*
@@ -240575,6 +240594,7 @@
 *://*.paternalen.com/*
 *://*.paternenabler.com/*
 *://*.patersonpayne64.xyz/*
+*://*.patgo.click/*
 *://*.path-chair-business.com/*
 *://*.path-finders.online/*
 *://*.path-look-rate.com/*
@@ -330011,6 +330031,7 @@
 *://*.xn--buradayiz-1pb.shop/*
 *://*.xn--buranbank-26d96qga.fm/*
 *://*.xn--burayayonlendrmektenskldk-g1d.shop/*
+*://*.xn--burdafrsatlar-89b.com.tr/*
 *://*.xn--burdafrsatlar-89b.tr/*
 *://*.xn--burdahgaberdi-utc.app/*
 *://*.xn--burgnbanlk-b7j.fm/*
