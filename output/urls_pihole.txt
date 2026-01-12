@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-12 00:53:03 UTC
-# Toplam: 434377 Domain
+# Son Güncelleme: 2026-01-12 02:59:21 UTC
+# Toplam: 434381 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -228340,6 +228340,7 @@ k20xho76m.duckdns.org
 k21ly4itktmj3r1.ddns.net
 k22012.c1.biz
 k22asdhashdashdashdahsd.site
+k22ashdahsdhashdahsdhashdsda.click
 k234s.ascotsprue.com
 k24y4vo.duckdns.org
 k25218e252a03jox7hk.ddns.net
@@ -281612,6 +281613,7 @@ ock-lndrmler-kpinda.sbs
 ock12indirimleri.com.tr
 ock12indirimlerim.com.tr
 ock25.blob.core.windows.net
+ockayihftasi.cfd
 ockayindirimylemtwdesin.net
 ockayndakrca.top
 ockdasongn.shop
@@ -285121,6 +285123,7 @@ online-eislemleri.com.tr
 online-ekran-aktarimlari.online
 online-ekran.com.tr
 online-ekrani-sorgula.cyou
+online-ekransorguhizmetleri.sbs
 online-ekstra-haftanin-yildizlari.org
 online-elektronik-servisin.com.tr
 online-enceponaybasvuru.vercel.app
@@ -309836,6 +309839,7 @@ pttgov-qz.top
 pttgov-r.top
 pttgov-ra.top
 pttgov-s.top
+pttgov-service.top
 pttgov-si.top
 pttgov-sr.top
 pttgov-str.top
