@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-13 19:12:21 UTC
-# Toplam: 434675 Domain
+# Son Güncelleme: 2026-01-13 20:11:38 UTC
+# Toplam: 434678 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -220367,6 +220367,7 @@ isthizlibasv.online
 isthizligecis.net
 isthizliulasim.net
 isthkwubll.net
+isthmnvcxvxcb.com
 isthn.net
 isths.com
 isthsn.blogspot.com
@@ -220819,6 +220820,7 @@ istnsbduasdlbrusdhezm.store
 istnsbdulbruadsa.store
 istnsbdulbrusdhezm.store
 istnsbdulburdsa.store
+istnsbdulbusdrdsa.store
 istnsz.net
 istntlkaart.net
 istnullkarttm.net
@@ -342109,6 +342111,7 @@ sikayetvaritiraz.ml
 sikayetvaritirazz.tk
 sikayetvarmi.online
 sikayetvarmobil-10.sbs
+sikayetvarmobil-12.sbs
 sikayetvarmobil-14.sbs
 sikayetvarmobil-19.sbs
 sikayetvarmobil-24.sbs
