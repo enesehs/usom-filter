@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-13 15:13:12 UTC
-# Toplam: 434629 Domain
+# Son Güncelleme: 2026-01-13 18:22:56 UTC
+# Toplam: 434654 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1964,6 +1964,7 @@
 101-indirimleri-2024.com.tr
 101-indirimleri.com
 101-indirm-gnleri-name-tr.com
+101-internete-ozel-firsatlar.linkpc.net
 101-internette-mobil-siparis.duckdns.org
 101-iphonefirst.art
 101-kacirma-firsatlari.art
@@ -18297,6 +18298,7 @@
 7787787878787787.duckdns.org
 778787878787878787855.duckdns.org
 77887772577.duckdns.org
+7788787789745oo1l11.duckdns.org
 778954977.cloud
 7789896245.com
 779020484.dfgqdsd.ru
@@ -31540,6 +31542,7 @@ adresimatkapplar.xyz
 adresimhepsiburada.com
 adresimne.net
 adresimtrendyol.com
+adresimtrendyol.net
 adresimyenitrendyol.com
 adresindeoto.online
 adresinegelir.online
@@ -47420,6 +47423,7 @@ arabskmsorglma.xyz
 arabulucudosya.org
 arabuluculukceza.com
 arabuluculukegm.org
+arabuluculukkamu.com
 arabworldnews.info
 arabxmuayne.org
 arabznews.com
@@ -83825,6 +83829,7 @@ bsvrdiadealcffs.com
 bsvrdklarimizagelsnzs.com
 bsvrdklarimizdasinzsist.com
 bsvrdklarinizdayizbrdlasz.com
+bsvrdklarinizdayizbrdlasz.net
 bsvrdklarinzdsyzbrlrda.com
 bsvrdmsktmmattimm.com
 bsvrdnuz.click
@@ -119943,6 +119948,7 @@ dijitalborsa-tr.com
 dijitalborsatr.com
 dijitalcep-ziraatwebbireysel.sbs
 dijitalcepgirisdeniz.co.vu
+dijitalcepislemleri-ziraatbireysel.com
 dijitalcepmobil.com
 dijitalcepsube.com
 dijitalcepte.click
@@ -157520,7 +157526,13 @@ firsatlarla-dolu-gunler-basladi.shop
 firsatlarla-dolu-yaz.cloud
 firsatlarla-dolu-yaz.com
 firsatlarla-dolu-yaz.org
+firsatlarla-geldi.biz.tr
 firsatlarla-geldi.com.tr
+firsatlarla-geldi.info.tr
+firsatlarla-geldi.name.tr
+firsatlarla-geldi.net.tr
+firsatlarla-geldi.org.tr
+firsatlarla-geldi.tv.tr
 firsatlarla-kampanyan.com.tr
 firsatlarla-kasim-geldi.shop
 firsatlarla.com.tr
@@ -174830,6 +174842,7 @@ grandparentliner.top
 grandparentreferendum.top
 grandparklaram.com
 grandpasha3093.com
+grandpashabet.cyou
 grandpashabet1898.com
 grandpashabet2l51.com
 grandpashabet4579.com
@@ -220488,6 +220501,7 @@ istkayipesya.site
 istkbnbklyeskle.net
 istkentkartbakiyemonline.com
 istkisbas.online
+istkisielstmrenmvarsz.com
 istkk.blogspot.com
 istklartbasvuru.app
 istklr.online
@@ -232596,6 +232610,7 @@ kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
 kapida-firsat.com.tr
 kapida-firsat.net
+kapida-gunler.sbs
 kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
 kapida-haftax.com
@@ -234238,6 +234253,7 @@ kartalreklamvakfi.com
 kartalreklamxd.duckdns.org
 kartalrklm.com
 kartalsondakikalar.com
+kartaltck158uzlasmaistiyoruz.com
 kartaltvhd.com
 kartalvbs.site
 kartalvenus.myvnc.com
@@ -244632,6 +244648,7 @@ kurumtrafikvergi.agency
 kurumxdao.cfd
 kurunsalfiba.cfd
 kurunsalvakif.cfd
+kurutmazamanigeldi.com
 kurutses.com
 kurutses1.com
 kurutses10.com
@@ -281788,6 +281805,7 @@ ockayndakrca.top
 ockayndayz.cfd
 ockdasongn.shop
 ockfrslt.shop
+ockhftabsndyz.cfd
 ockhgsci.is-best.net
 ockikncihftakrca.cfd
 ockimqekmwecocug.xyz
@@ -322649,8 +322667,11 @@ rnndvusbhpotilan.blogspot.com
 rnnfibi.hopto.org
 rnnxxj.duckdns.org
 rnobilgirisirnbonuslari.online
+rnobilislernbonusgirisirn.online
 rnobilislernbonusgirisirn.online1
 rnobilislernbonuslari.online
+rnobilisllernbonusgirisllerirn.online
+rnobilisllernbonusurngiris.online
 rnoeqtj.com
 rnofinancial.com.au
 rnpwjajqhul.org
@@ -348811,6 +348832,7 @@ sopurman.ddns.net
 sopyvb.hopto.org
 soqbzbbb.com
 sor-bekle-aktar.cyou
+sor-gu.nicepage.io
 sor-odemeler.online
 sor-ogren-aktar.sbs
 sor.omentra.site
@@ -352910,6 +352932,7 @@ stanley666superindirimgelidibrddd.com
 stanley666superindirimgelirrrrr.com
 stanleyafterdark.xyz
 stanleyafterrise.xyz
+stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
 stanleyawake.xyz
 stanleyburdagel.xyz
@@ -415852,6 +415875,7 @@ xn--istanbulkartyklee-f3b.net
 xn--istanbulkartykleme-y6b.com
 xn--istanbulkmsto-fbc.com
 xn--istanvcxbulbkiyeservisi-t6b.net
+xn--istebsvrhmnhzlislm-r0c.com
 xn--istediin-destek-basladi-turkiye-tfe.online
 xn--istfr-ndb.com
 xn--istibbykle-geb.net
@@ -432873,6 +432897,7 @@ ziraattoggcekilisi.com
 ziraattr.com
 ziraattrs.net
 ziraattsavings.com
+ziraattt-com.cfd
 ziraatttt.com
 ziraatturkey.com
 ziraatturkey.website
