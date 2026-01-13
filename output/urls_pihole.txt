@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-13 10:11:46 UTC
-# Toplam: 434549 Domain
+# Son Güncelleme: 2026-01-13 11:10:38 UTC
+# Toplam: 434571 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26757,6 +26757,7 @@ accountbnc01.cloud
 accountbnckampanyabasvuru02.cloud
 accountbnckampanyabasvuru06.cloud
 accountbnckampanyabasvuru1.cloud
+accountcenter-lawtrackma-qer2209wrw.netlify.app
 accountcenter.biz
 accountdata-updates.com
 accountexpro.com
@@ -30301,6 +30302,7 @@ acimapoolcok.site
 acimaz.cfd
 acimazyokeder.cfd
 acinhalindenacanlar.online
+acittimmicanimafedersin.cfd
 acity-lawfirm.com
 aciveriyoryenibastansevmesi.click
 aciveriyoryenibastansevmesi.one
@@ -31638,11 +31640,13 @@ ads-work.xyz
 ads-youtube.net
 ads-youtube.online
 ads-youtube.tech
+ads.active-page-policy.cfd
 ads.alternativeads.net
 ads.green-pickle-jo.shop
 ads.hostloads.xyz
 ads.microsoft.com.euroinvest.ge
 ads.msicrosoft.com
+ads.pageverifybusiness.cfd
 ads.playerapp1.pw
 ads.rnlcrosoft.com.euroinvest.ge
 ads.sa.com
@@ -72171,6 +72175,7 @@ bireylse-ozel-destek-kampanya-basvurusu.tk
 bireylse-ozel-destek-kampanyasi.tk
 bireylstistmbl.click
 bireylziraatbank.com
+bireymobil.my-homeip.com
 bireyonaysizcuzdansorgulamakonlineozel.line.pm
 bireysal-ziraat.com
 bireyse-subesi.com
@@ -91269,6 +91274,8 @@ case-stretto.com
 case-support-id3888.cfd
 case11.xyz
 casefasr300.weebly.com
+casefb126765-be7a.vercel.app
+casefb921134-lflp.vercel.app
 caseid-d838mj392md.duckdns.org
 caseid.hopto.org
 caseid10349534.ddns.net
@@ -92891,6 +92898,7 @@ centent-management.net
 center-mail.ru
 center-postdeuthse.hopto.org
 center-upgrade-wait-load-your-account.com
+center.active-page-policy.cfd
 center.asmlbigip.com
 center10saat.3d.tc
 center3roma.com
@@ -103237,6 +103245,7 @@ copyright-mediaappeals-help-form.ml
 copyright-meta.com
 copyright-reply.com
 copyright-ssl.cf
+copyright-videofb.org
 copyrightappeal.cf
 copyrightappealformlnsta.cf
 copyrightappointmentservice.com
@@ -133829,6 +133838,7 @@ eckom2.top
 eckon.eckom.top
 eckotrispi.xyz
 ecldxz.html-5.me
+eclectic-cupcake-fd4922.netlify.app
 eclhgsm.com
 eclick.analyticsearch.org
 eclipsecertification.top
@@ -237864,6 +237874,7 @@ kilometrebilginz.web.app
 kilometrebilgisi.xyz
 kilometrebizdensorulur.cfd
 kilometreboss.cfd
+kilometrecheck.web.app
 kilometrecozutan.cfd
 kilometredebarinamazsin.web.app
 kilometredeheptekim.cfd
@@ -239974,6 +239985,7 @@ kmkmsorgulamayapt.web.app
 kmkmsorgulamgovptttmaer.web.app
 kmkmsorguskyokyaw.duckdns.org
 kmkmsrogruszpttgovavm.com
+kmkontrol.sa.com
 kmkskkrlsorgularimbrda.web.app
 kmkskmlsrgolamapadisahi.web.app
 kmkskmsrglamapadisahi.web.app
@@ -258806,6 +258818,7 @@ measureltv.com
 measureporridge.top
 measurestangled.online
 meat87.xyz
+meataconnects.cfd
 meatcounter.duckdns.org
 meatgreed.top
 meatinterrogation.top
@@ -260439,6 +260452,7 @@ meta-yardim.com
 meta-yardimekibi.com
 meta-yardimformu.ml
 meta.forbusinessuser.xyz
+meta.user-support-business.cfd
 metaadvertagency.org
 metaamsklogn.webflow.io
 metaappealform.org
@@ -292891,6 +292905,7 @@ page-standars-confrim.duckdns.org
 page-wait-reserve.com
 page-waiting-reserve.com
 page-warring-203366.8698523.com
+page.user-support-business.cfd
 page.web.account.verify.auth.limited.retrojamop.com
 page000214.shop
 page0077.wixsite.com
@@ -300479,6 +300494,7 @@ perfetch.pro
 perfetcmonye.beauty
 perfetcmonye.homes
 perforbutding.com
+performance-guidance-hub.pages.dev
 performancecoach.ie
 performancedisregard.top
 performances.best
@@ -316963,6 +316979,7 @@ ranchoptimal.top
 rand323-vu.blogspot.com
 randadavu.net
 randadve.net
+randalli-clifford.pages.dev
 randallrees1.xyz
 randaln.com
 randavduhizmeti.net
@@ -320435,6 +320452,7 @@ replyordeal.top
 repmgir.pw
 repnytimes.pw
 repo.ark-event.net
+report-copyright-metaplanet.net
 report436.xyz
 reportalensio.xyz
 reportalivans.xyz
@@ -333773,6 +333791,7 @@ secure-citi08.ddns.net
 secure-citizen-0nline-banking.duckdns.org
 secure-citizens01.hopto.org
 secure-coinbase.ddns.net
+secure-community-lcf4.vercel.app
 secure-conecc985.ddns.net
 secure-conne110.ddns.net
 secure-connec011.ddns.net
@@ -357074,6 +357093,8 @@ supportmail.ml
 supportmandate.top
 supportmanic2m.hopto.org
 supportme.hopto.org
+supportmeta-horizon.net
+supportmeta-horizonusa.org
 supportmine31512123456789.tk
 supportmndtbank.ddns.net
 supportmnt247here.ddns.net
@@ -381329,6 +381350,7 @@ tutarmsenikanatlarimvarr7.com
 tutball.com
 tutboncekestomeses.xyz
 tutdmjbrjxmv.xyz
+tutello.shop
 tutgutlu-marketle-hiz-pesinde.shop
 tuthit.ru
 tutiemlakgayrimenkuldanismanlik.blogspot.com
