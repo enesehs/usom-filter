@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-13 14:14:28 UTC
-! Total: 346731 rules
+! Last modified: 2026-01-13 15:13:12 UTC
+! Total: 346741 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -84916,6 +84916,7 @@
 *://*.defalowmacfly-elektro.de/*
 *://*.defambckbeacm.xyz/*
 *://*.defaturaodeme.com/*
+*://*.defaty.click/*
 *://*.default-coinbase.com/*
 *://*.defaultbluemarker.info/*
 *://*.defaultpage-1.xyz/*
@@ -125592,6 +125593,7 @@
 *://*.firsatlarla-dolu-yaz.cloud/*
 *://*.firsatlarla-dolu-yaz.com/*
 *://*.firsatlarla-dolu-yaz.org/*
+*://*.firsatlarla-geldi.com.tr/*
 *://*.firsatlarla-kampanyan.com.tr/*
 *://*.firsatlarla-kasim-geldi.shop/*
 *://*.firsatlarla.com.tr/*
@@ -150010,6 +150012,7 @@
 *://*.hava-ist.com/*
 *://*.hava-ist.org/*
 *://*.hava.bio/*
+*://*.havaa.ist/*
 *://*.havaalaniarackira.co/*
 *://*.havaalaniarackirala.xyz/*
 *://*.havaalaniarackiralama.org/*
@@ -163112,6 +163115,7 @@
 *://*.hukuktakip.info/*
 *://*.hukuktc.org/*
 *://*.hukuktr.net/*
+*://*.hukuktr.org/*
 *://*.hukukuzlasma.com/*
 *://*.hukukwebtr-ihlalsorgu.com/*
 *://*.hulihuli.net/*
@@ -178105,6 +178109,7 @@
 *://*.istbankhediye.ml/*
 *://*.istbas1.com/*
 *://*.istbasim.net/*
+*://*.istbasvrdklarimizdayizhemn.com/*
 *://*.istbasvru.istanbul/*
 *://*.istbayidenyukle.net/*
 *://*.istbb-original.net/*
@@ -196027,6 +196032,7 @@
 *://*.kosgebhibebasvuru.cfd/*
 *://*.kosgebhibebasvurusu.cfd/*
 *://*.kosgebiskur.com/*
+*://*.kosgebkredidestek.com/*
 *://*.kosgeble.mobi/*
 *://*.kosgebprogramdestek.cfd/*
 *://*.kosgep-halkbank.com/*
@@ -202016,6 +202022,7 @@
 *://*.llrpr.cn/*
 *://*.llrys.com/*
 *://*.llsihebhsbsksgmsb.xyz/*
+*://*.llsltnnbllklsslesttrr.org/*
 *://*.llstanbullullar.istanbul/*
 *://*.lltemmuzkmpyns.com/*
 *://*.llthe.ru/*
@@ -214811,6 +214818,7 @@
 *://*.moni-kabur.art/*
 *://*.monicaperales.com/*
 *://*.monikastorfalyanispandanisra.net/*
+*://*.moniqra.com/*
 *://*.moniqueshairstyling.ca/*
 *://*.monitor-android.ru/*
 *://*.monitor-websystem.net/*
@@ -242756,6 +242764,7 @@
 *://*.pickupenglishonline.com/*
 *://*.pickwick-poppins.com/*
 *://*.pickyinversion.top/*
+*://*.pickzyzo.shop/*
 *://*.picnicagitation.top/*
 *://*.picnicecosystem.top/*
 *://*.picnicflirtation.top/*
@@ -259097,6 +259106,7 @@
 *://*.rnndsvsusal.net/*
 *://*.rnndsvsussl.net/*
 *://*.rnobilgirisirnbonuslari.online/*
+*://*.rnobilislernbonusgirisirn.online1/*
 *://*.rnobilislernbonuslari.online/*
 *://*.rnoeqtj.com/*
 *://*.rnofinancial.com.au/*
