@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-13 04:31:50 UTC
-! Total: 346669 rules
+! Last modified: 2026-01-13 08:15:13 UTC
+! Total: 346677 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65977,6 +65977,7 @@
 *://*.buradangirsenesende.com/*
 *://*.buradangirsenize.com/*
 *://*.buradanhemengiriyozbea.com/*
+*://*.buradanhepbirazbizden.com/*
 *://*.buradanhephizlialdiklariniz.com/*
 *://*.buradanhizlicabulsende.com/*
 *://*.buradanhizmet.app/*
@@ -97977,6 +97978,7 @@
 *://*.dumen-emlak.boats/*
 *://*.dumen-emlak.cam/*
 *://*.dumen-emlak.click/*
+*://*.dumen-emlak.shop/*
 *://*.dumenamkherlsrsedds.wiki/*
 *://*.dumeninsenligi.com/*
 *://*.dumerilipi.ru/*
@@ -113621,6 +113623,7 @@
 *://*.eniyifiyatlarabakburada.baby/*
 *://*.eniyifiyatlarabakburada.click/*
 *://*.eniyifiyatlarabakburada.sbs/*
+*://*.eniyifiyatperformans.sbs/*
 *://*.eniyiflrsatsimd3.cfd/*
 *://*.eniyigirisadreslerimiz14.fun/*
 *://*.eniyigirisadreslerimiz15.fun/*
@@ -172716,6 +172719,7 @@
 *://*.integgtiff.net/*
 *://*.integralgroupyatirim.com/*
 *://*.integralgroupyatirim.org/*
+*://*.integralgrupmenkul.com/*
 *://*.integralsafeguard.top/*
 *://*.integralscrap.top/*
 *://*.integralsm.cl/*
@@ -217611,9 +217615,11 @@
 *://*.muniipalcorrsion.top/*
 *://*.munipolare.site/*
 *://*.munitioners.com/*
+*://*.munodvdpbi.sbs/*
 *://*.munurfitness.net/*
 *://*.munurhocafitness.net/*
 *://*.munzurtadnqdqk52k11-12125125.com/*
+*://*.muoacaspfvi.cfd/*
 *://*.muoacaspfvi.sbs/*
 *://*.muoay-cflrfm-rglsrlrvy.icu/*
 *://*.muohxai.com/*
@@ -220121,6 +220127,7 @@
 *://*.nebudeco.com/*
 *://*.nebula111.xyz/*
 *://*.nebulacheck.cloud/*
+*://*.nebulachecker.online/*
 *://*.nebulachecker.site/*
 *://*.nebulachecker.xyz/*
 *://*.nebulafiles.com/*
@@ -290062,6 +290069,7 @@
 *://*.teknikhukuk.com/*
 *://*.teknikservice.net/*
 *://*.teknikservislistesi.com/*
+*://*.teknnoloji-gelisim.cfd/*
 *://*.tekno-bilgim.com/*
 *://*.tekno-e-ticaret.com/*
 *://*.tekno-haftasi-20gb-bizden.com/*
