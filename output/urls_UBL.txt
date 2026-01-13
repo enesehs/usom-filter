@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-13 20:11:38 UTC
-! Total: 346784 rules
+! Last modified: 2026-01-13 21:10:18 UTC
+! Total: 346786 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -305754,6 +305754,7 @@
 *://*.tuvturk-d.digital/*
 *://*.tuvturk-islem-randevu.net/*
 *://*.tuvturk-islemleri.com/*
+*://*.tuvturk-m.digital/*
 *://*.tuvturk-mobil.com/*
 *://*.tuvturk-muayene.co/*
 *://*.tuvturk-muayenerandevu-al.net/*
@@ -305779,6 +305780,7 @@
 *://*.tuvturk.shop/*
 *://*.tuvturk.site/*
 *://*.tuvturk2023.net/*
+*://*.tuvturk2026.com/*
 *://*.tuvturkar4cmuayn3al4ni-muaynehzmeti.net/*
 *://*.tuvturkaracaliyom.net/*
 *://*.tuvturkaracbaktim.net/*

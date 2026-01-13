@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-13 20:11:38 UTC
-# Toplam: 434678 Domain
+# Son Güncelleme: 2026-01-13 21:10:18 UTC
+# Toplam: 434680 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -381616,6 +381616,7 @@ tuvturk-aracrandevusu.net
 tuvturk-d.digital
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
+tuvturk-m.digital
 tuvturk-mobil.com
 tuvturk-muayene.co
 tuvturk-muayenerandevu-al.net
@@ -381642,6 +381643,7 @@ tuvturk.io
 tuvturk.shop
 tuvturk.site
 tuvturk2023.net
+tuvturk2026.com
 tuvturkar4cmuayn3al4ni-muaynehzmeti.net
 tuvturkarabamuyne.web.app
 tuvturkaracaliyom.net
