@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-13 11:10:38 UTC
-! Total: 346694 rules
+! Last modified: 2026-01-13 12:23:13 UTC
+! Total: 346718 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -31525,6 +31525,7 @@
 *://*.antibioticcynical.top/*
 *://*.antibioticeed.top/*
 *://*.antibioticlofty.top/*
+*://*.antibot-meta.com/*
 *://*.antichrist.or.kr/*
 *://*.anticipateillicit.top/*
 *://*.anticipateingenuity.top/*
@@ -36708,6 +36709,7 @@
 *://*.autobiographyvest.top/*
 *://*.autobnglobaltr.com/*
 *://*.autobydsatis.com/*
+*://*.autobypass-meta.com/*
 *://*.autocad-cracked.com/*
 *://*.autocamfixer.online/*
 *://*.autocapital.pw/*
@@ -69288,6 +69290,7 @@
 *://*.captainynfanw.shop/*
 *://*.captcha-cdn.com/*
 *://*.captcha-coinbase.com/*
+*://*.captcha-loginmeta.com/*
 *://*.captcha-verify-6r4x.com/*
 *://*.captcha2021.com/*
 *://*.captchacdn.com/*
@@ -69948,6 +69951,7 @@
 *://*.carrefoursa-turkiye.com/*
 *://*.carrefoursa.cloud/*
 *://*.carrefoursa.digital/*
+*://*.carrefoursa.link/*
 *://*.carrefoursa.ltd/*
 *://*.carrefoursaaavvbvcccxzkampanyaaa345.com/*
 *://*.carrefoursaankara.com/*
@@ -72993,6 +72997,7 @@
 *://*.cezasorgulatmamaliye.com/*
 *://*.cezasorgulatuyap.com/*
 *://*.cezasorgulatuzlasma.com/*
+*://*.cezasorgumerkezi.org/*
 *://*.cezasorgusu.com/*
 *://*.cezasorguuyap.com/*
 *://*.cezatrafikode.com/*
@@ -75175,6 +75180,7 @@
 *://*.clearancederimod.com/*
 *://*.clearanceextravagance.top/*
 *://*.clearbarometer.top/*
+*://*.clearcapcha.com/*
 *://*.clearences.xyz/*
 *://*.clearfocused.org/*
 *://*.clearframeapps.com/*
@@ -120675,6 +120681,7 @@
 *://*.facedomaintv.com/*
 *://*.facedook.host/*
 *://*.faceeubook.com/*
+*://*.facefbook.com/*
 *://*.facefrantic.top/*
 *://*.faceizlmir.net/*
 *://*.facejune.net/*
@@ -127014,6 +127021,7 @@
 *://*.flrsatsokramazangeldi.store/*
 *://*.flrsatyageldisamcaklargeldi.store/*
 *://*.flrsatyenicumarteside.store/*
+*://*.flrsatyinesizlerleherzamanolsa101.shop/*
 *://*.flrsatypazarmamidensokahai.store/*
 *://*.flrsaytherkeslamoluncasoklar.shop/*
 *://*.flrsqtlarimizgelincokiyiyiz.com/*
@@ -135776,6 +135784,7 @@
 *://*.gibportaldijital.com/*
 *://*.gibsms.com/*
 *://*.gibtkzoja.com/*
+*://*.gibtr.org/*
 *://*.gibtrafikcezaodeme.com/*
 *://*.gibtrafikcezasiodeme.com/*
 *://*.gibtrafikcezasiodeme.gq/*
@@ -202550,6 +202559,7 @@
 *://*.loginonline-yapikredis.com/*
 *://*.loginonline-yapimkredii.com/*
 *://*.loginor-girtrwebanasayfaplatform.com/*
+*://*.loginpage-meta.com/*
 *://*.loginpapara.com/*
 *://*.loginparibu.com/*
 *://*.loginportalsg.com/*
@@ -205612,6 +205622,7 @@
 *://*.maliyedosyasisorgulat.com/*
 *://*.maliyedosyasisorgusu.com/*
 *://*.maliyedosyasorgulat.com/*
+*://*.maliyedosyatakip.org/*
 *://*.maliyedosyatr.org/*
 *://*.maliyedosyauzlasma.com/*
 *://*.maliyeedosya.org/*
@@ -209832,6 +209843,7 @@
 *://*.met4mask.online/*
 *://*.meta-browser.cfd/*
 *://*.meta-business-manager.com/*
+*://*.meta-captcha.com/*
 *://*.meta-clokkeerr.shop/*
 *://*.meta-complain-copyright.com/*
 *://*.meta-copyright-centet.ml/*
@@ -219911,6 +219923,7 @@
 *://*.nbykjinswdtbrrb.com/*
 *://*.nbzncyxzc2676.click/*
 *://*.nc-vi.net/*
+*://*.ncaptcha-meta.com/*
 *://*.ncbc.co.za/*
 *://*.ncbvjdhfehfjd.net/*
 *://*.nccecnnvjjgr.net/*
@@ -223161,6 +223174,7 @@
 *://*.normpilgrim.top/*
 *://*.normreshuffle.top/*
 *://*.nornurture.top/*
+*://*.norotbot-meta.com/*
 *://*.norpedf.xyz/*
 *://*.norpor.shop/*
 *://*.northapollon.com/*
@@ -223332,6 +223346,7 @@
 *://*.notped.com/*
 *://*.notqkjscdgffhhp.ru/*
 *://*.notrihok.com/*
+*://*.notrobot-metahorizon.com/*
 *://*.notsorgulamagranti.site/*
 *://*.nottopbkgmhizligecis.net/*
 *://*.notwinningbutpartici.com/*
@@ -227673,6 +227688,7 @@
 *://*.olmayan3dgol.xyz/*
 *://*.olmayanbirsiteyaptik.xyz/*
 *://*.olmayanbirsiteyaptiks.xyz/*
+*://*.olmayibiraktim.click/*
 *://*.olmaz-deme-olabilir.com/*
 *://*.olmazlarainat.shop/*
 *://*.olmazolms2312.site/*
@@ -249172,6 +249188,7 @@
 *://*.pttcenter.online/*
 *://*.pttcezaodeme.xyz/*
 *://*.pttcgov.ink/*
+*://*.pttcgov.top/*
 *://*.pttci.ink/*
 *://*.pttci.xyz/*
 *://*.pttcip.top/*
@@ -251979,6 +251996,7 @@
 *://*.qjeknxvr.com/*
 *://*.qjfuenmqituv.xyz/*
 *://*.qjhashvdavsdasdh.buzz/*
+*://*.qjmotors.com.tr/*
 *://*.qjmto.com/*
 *://*.qjncjs.xyz/*
 *://*.qjorhqbejkbcavjam.me/*
@@ -255843,7 +255861,9 @@
 *://*.recallwithhold.top/*
 *://*.recampaignsbinance.net/*
 *://*.recaptcha-in.pw/*
+*://*.recaptcha-loginmeta.com/*
 *://*.recaptcha-manual.shop/*
+*://*.recaptcha-metahorizon.com/*
 *://*.recaptcha-verify-4h.pro/*
 *://*.recaswine.ro/*
 *://*.recdataoneveter.cc/*
@@ -307168,6 +307188,7 @@
 *://*.ufjcuuo.cn/*
 *://*.ufjdb.com/*
 *://*.ufk-kfsfslfsjfsjsklfsjkfsaksfsksfa.online/*
+*://*.ufktapurehberlik.com/*
 *://*.uflanmaz.net/*
 *://*.uflzmcc.cn/*
 *://*.ufmdqthp.com/*
@@ -310203,6 +310224,7 @@
 *://*.uzlasmasorgusumaliye.com/*
 *://*.uzlasmasorgutr.net/*
 *://*.uzlasmasorusturmamaliye.com/*
+*://*.uzlasmatakip.org/*
 *://*.uzlasmauyap-maliye.com/*
 *://*.uzlasmauyapceza.com/*
 *://*.uzlasmauyapdosya.com/*
@@ -315026,6 +315048,7 @@
 *://*.verify-details5476.com/*
 *://*.verify-details5651.com/*
 *://*.verify-details574.world/*
+*://*.verify-facebook.com/*
 *://*.verify-findmyiphone-lcloud.com/*
 *://*.verify-guest-booking.com/*
 *://*.verify-guest5642-booking.com/*
@@ -338746,6 +338769,7 @@
 *://*.yeniliklerdevlet-edevlet-iadeformu2021.com/*
 *://*.yeniliklerienpara.com/*
 *://*.yeniliklerkapidaa101geldi.lol/*
+*://*.yeniliklerkapinda.com/*
 *://*.yeniliklerle.cf/*
 *://*.yeniliklerzamanii.com/*
 *://*.yeniliksaat.online/*
