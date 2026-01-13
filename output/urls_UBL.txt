@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-13 08:15:13 UTC
-! Total: 346677 rules
+! Last modified: 2026-01-13 09:23:14 UTC
+! Total: 346684 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -30091,6 +30091,7 @@
 *://*.amongporridge.top/*
 *://*.amongreign.top/*
 *://*.amongstwork.top/*
+*://*.amonntree.com/*
 *://*.amonosdeviaje.com/*
 *://*.amooy.com/*
 *://*.amor-clubhotels.com/*
@@ -73398,6 +73399,7 @@
 *://*.cheapsignal.work/*
 *://*.cheapspinwheel.com/*
 *://*.cheatmodernwarfare.com/*
+*://*.cheatmynft.com/*
 *://*.cheawned.top/*
 *://*.check-629807-id.top/*
 *://*.check-account-acceess.com/*
@@ -110786,6 +110788,7 @@
 *://*.ekolaysigorta.org/*
 *://*.ekolojiosmanli.space/*
 *://*.ekomekosedoo.site/*
+*://*.ekonomi-analist.pro/*
 *://*.ekonomi-analizi.info/*
 *://*.ekonomi-destek.info/*
 *://*.ekonomi-pusulasi.info/*
@@ -184705,6 +184708,7 @@
 *://*.k22asdhashdashdashdahsd.site/*
 *://*.k22ashdahsdhashdahsdhashdsda.click/*
 *://*.k23ashdahsdhashdhashdahshd.click/*
+*://*.k24ashdahsdhahsdhsahdhashdh.click/*
 *://*.k25sahdhasdhahsdahsdhasd.site/*
 *://*.k264.hu/*
 *://*.k26sadhashdahsdhahsd.site/*
@@ -217615,6 +217619,7 @@
 *://*.muniipalcorrsion.top/*
 *://*.munipolare.site/*
 *://*.munitioners.com/*
+*://*.munodvdpbi.cfd/*
 *://*.munodvdpbi.sbs/*
 *://*.munurfitness.net/*
 *://*.munurhocafitness.net/*
@@ -225372,6 +225377,7 @@
 *://*.nvzvchmztsrgla.net/*
 *://*.nwa-oma.ml/*
 *://*.nwa-oma2.ml/*
+*://*.nwabzapato.top/*
 *://*.nwah0.com/*
 *://*.nwatjuhc.com/*
 *://*.nwaums.com/*
@@ -275699,6 +275705,7 @@
 *://*.smhydy.cyou/*
 *://*.smile-glory.com/*
 *://*.smile234.xyz/*
+*://*.smileccoconut.sbs/*
 *://*.smileissuea.top/*
 *://*.smilemistake.top/*
 *://*.smilerain.live/*
