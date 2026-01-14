@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 10:12:54 UTC
-! Total: 346805 rules
+! Last modified: 2026-01-14 11:11:38 UTC
+! Total: 346815 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28223,6 +28223,7 @@
 *://*.aliranelnamakmu.xyz/*
 *://*.alirimayagiminaltina.cfd/*
 *://*.alirizakomur.online/*
+*://*.alirlxdokdxj.space/*
 *://*.alis-alise-alibe.lol/*
 *://*.alis-online.net/*
 *://*.alis-veris.online/*
@@ -96769,6 +96770,7 @@
 *://*.dorupakevdepaketleme.com/*
 *://*.dorusio.com/*
 *://*.dorvenis.com/*
+*://*.dorvenix.com/*
 *://*.dorvexa.in/*
 *://*.dosageautonomy.top/*
 *://*.dosagesnap.top/*
@@ -129107,6 +129109,7 @@
 *://*.fundingcoincide.top/*
 *://*.fundingtentative.top/*
 *://*.fundingturiswo.site/*
+*://*.fundiqa.com/*
 *://*.fundpath.quest/*
 *://*.fundproj.com/*
 *://*.fundrectification.top/*
@@ -131909,6 +131912,7 @@
 *://*.garantimobilyilbasi.com/*
 *://*.garantimobvl.com/*
 *://*.garantimonline.com.tr/*
+*://*.garantims-giris.click/*
 *://*.garantimsbbva.com/*
 *://*.garantimstatus.com/*
 *://*.garantimusterihizmetleri.com.tr/*
@@ -141326,6 +141330,7 @@
 *://*.gunceladres.cfd/*
 *://*.gunceladreshepsiburada.com/*
 *://*.gunceladresimhepsiburada.com/*
+*://*.gunceladresimtrendyol.net/*
 *://*.gunceladresimtrendyol.org/*
 *://*.gunceladresleradresi.com.tr/*
 *://*.gunceladresleradresi.online/*
@@ -184757,6 +184762,7 @@
 *://*.k22ashdahsdhashdahsdhashdsda.click/*
 *://*.k23ashdahsdhashdhashdahshd.click/*
 *://*.k24ashdahsdhahsdhsahdhashdh.click/*
+*://*.k25ashdahsdhashdhasdhahsd.click/*
 *://*.k25sahdhasdhahsdahsdhasd.site/*
 *://*.k264.hu/*
 *://*.k26sadhashdahsdhahsd.site/*
@@ -203605,6 +203611,7 @@
 *://*.lunchtimeresultstoday.co.za/*
 *://*.lundo.com/*
 *://*.lunetra.digital/*
+*://*.lunexaril.com/*
 *://*.lungeconservetwin.run/*
 *://*.lungideological.top/*
 *://*.lungsanction.top/*
@@ -215528,6 +215535,7 @@
 *://*.mozilaupgrade.com/*
 *://*.mozillaupdate.xyz/*
 *://*.mozkraty.org/*
+*://*.mozoloq.store/*
 *://*.mp-devletdestekhibesi.com/*
 *://*.mp-devletdestekleri.com/*
 *://*.mp5indir.top/*
@@ -222681,6 +222689,7 @@
 *://*.nlsmfnnsbndmad.net/*
 *://*.nlsustrvslostra.com/*
 *://*.nltlntltnalnalnaan.net/*
+*://*.nltnltlntltnlnt.net/*
 *://*.nltozpy.com/*
 *://*.nltssndfnm.net/*
 *://*.nlv-islemlerim.net/*
@@ -264969,6 +264978,7 @@
 *://*.satisi.com.tr/*
 *://*.satisilan.com/*
 *://*.satisilanlarim.com/*
+*://*.satisilanlarimsiparis1.com/*
 *://*.satisim-10.site/*
 *://*.satisim-100.site/*
 *://*.satisim-101.site/*
