@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 14:14:46 UTC
-! Total: 346834 rules
+! Last modified: 2026-01-14 15:14:29 UTC
+! Total: 346844 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5926,6 +5926,7 @@
 *://*.2026konutbasvurum.sbs/*
 *://*.2026konutprojesi.sbs/*
 *://*.2026konutvizyon.online/*
+*://*.2026onbasvurum.sbs/*
 *://*.2026onkayit.sbs/*
 *://*.2026online.cfd/*
 *://*.2026sosyalevim.com.tr/*
@@ -73948,6 +73949,7 @@
 *://*.cicekcim.biz/*
 *://*.cicekcinur.com/*
 *://*.cicekdiyari.co/*
+*://*.cicekduk.com/*
 *://*.cicekdunyalari.xyz/*
 *://*.cicekdunyam.shop/*
 *://*.cicekdunyam.site/*
@@ -140166,6 +140168,7 @@
 *://*.grnbhemengti.com/*
 *://*.grnbtrc.online/*
 *://*.grnbtvxz.net/*
+*://*.grnenugirisislernbonuslari.online/*
 *://*.grngk1sn0drvrng1gslports.com/*
 *://*.grngrmsztn.org/*
 *://*.grnhglntli.com/*
@@ -153535,6 +153538,7 @@
 *://*.hepgelenkapidaelettrikvrr.com/*
 *://*.hepgetalsvrs.click/*
 *://*.hepggaarraannttii.net/*
+*://*.hepgorur.com/*
 *://*.hepguncelgirisler231.ga/*
 *://*.hepguncelgirisler231.tk/*
 *://*.hepgunesligunlerdeonline.click/*
@@ -178594,6 +178598,7 @@
 *://*.istkrthzlislmlrrf.net/*
 *://*.istkrtksinabak.net/*
 *://*.istkrtll.net/*
+*://*.istkrtsadxzy.sbs/*
 *://*.istkrtt.net/*
 *://*.istkrttlykle.com/*
 *://*.istkrtttt4q2.net/*
@@ -178626,6 +178631,7 @@
 *://*.istlz.com/*
 *://*.istmbclmell.net/*
 *://*.istmdfmsndfjk.net/*
+*://*.istmdsldfk.com/*
 *://*.istme.com/*
 *://*.istmfathtermadam.net/*
 *://*.istmhkhmn.com/*
@@ -178857,6 +178863,7 @@
 *://*.istnsbdulbrusdhezm.store/*
 *://*.istnsbdulburdsa.store/*
 *://*.istnsbdulbusdrdsa.store/*
+*://*.istnsdburlbussf.store/*
 *://*.istnsz.net/*
 *://*.istntlkaart.net/*
 *://*.istnullkarttm.net/*
@@ -202463,6 +202470,7 @@
 *://*.lodgingdepict.top/*
 *://*.lodgingeligibility.top/*
 *://*.lodib.xyz/*
+*://*.lodmeekxdlow.space/*
 *://*.loenaaslsasa.com/*
 *://*.loerteademmexwga.xyz/*
 *://*.lofiramegi.com/*
@@ -232907,6 +232915,7 @@
 *://*.oracleonyx.com/*
 *://*.oracrat.ru/*
 *://*.orada-seninle.top/*
+*://*.oradailkinigorenehepgel.com/*
 *://*.oraexp.top/*
 *://*.orako.co.ke/*
 *://*.oral423.xyz/*
@@ -234522,6 +234531,7 @@
 *://*.ovswqncvpivqvne.cn/*
 *://*.ovtovcnnlxjcswfvqizg.net/*
 *://*.ovuneva.com/*
+*://*.ovwebtapsu.com/*
 *://*.ovxuf.com/*
 *://*.ovymsdesdd.net/*
 *://*.ovzde.com/*
