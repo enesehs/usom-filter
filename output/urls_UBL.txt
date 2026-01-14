@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 06:22:58 UTC
-! Total: 346793 rules
+! Last modified: 2026-01-14 08:14:51 UTC
+! Total: 346800 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -90630,6 +90630,7 @@
 *://*.desentupidora.pro.br/*
 *://*.deseondefend.com/*
 *://*.deserado.tk/*
+*://*.deserrt.click/*
 *://*.deserted235.xyz/*
 *://*.desertf.xyz/*
 *://*.desertg.xyz/*
@@ -124712,6 +124713,7 @@
 *://*.firsatgunlerindeyiz.online/*
 *://*.firsatgunlerindirim.com/*
 *://*.firsatgunlerindirimeylul.com/*
+*://*.firsatgunlerinikacirmaz.com/*
 *://*.firsatgunlerithespy.net/*
 *://*.firsatgunlukleri.xyz/*
 *://*.firsatgunnewyearscamp6.net/*
@@ -178895,6 +178897,7 @@
 *://*.istsanbul34.cf/*
 *://*.istsanbulkartbasvuru.org/*
 *://*.istsnbubssdvruds.store/*
+*://*.istsnbubsvruds.store/*
 *://*.istsnbulaqw.net/*
 *://*.istsnbulgdr.net/*
 *://*.istsnvebn1.com/*
@@ -189569,6 +189572,7 @@
 *://*.karinindiriminikacirma.shop/*
 *://*.karintnhzenaksgs.net/*
 *://*.karipsis.com/*
+*://*.kariraca.com/*
 *://*.karisik.pro/*
 *://*.karisikary.cfd/*
 *://*.karisim.name.tr/*
@@ -202929,6 +202933,7 @@
 *://*.lostomesmf.tech/*
 *://*.losvaretakona.top/*
 *://*.losymlbasvur.net/*
+*://*.lotdog.de/*
 *://*.loteyavhq.com/*
 *://*.lotflutter.top/*
 *://*.lotionchronic.top/*
@@ -264741,6 +264746,7 @@
 *://*.sartsiz.com/*
 *://*.sartsizdestekvakfmobil.tk/*
 *://*.sartsizdestekvakiftangiris.ml/*
+*://*.sartt.click/*
 *://*.sarumrehalbizdenalmak-0091.click/*
 *://*.sarvice.best/*
 *://*.sarymar.com/*
@@ -268337,6 +268343,7 @@
 *://*.sepetim-onayli-24526.com/*
 *://*.sepetim-onayli-24626.com/*
 *://*.sepetim-onayli-248426.com/*
+*://*.sepetim-onayli-249426.com/*
 *://*.sepetim-onayli-satinal.com/*
 *://*.sepetim-online.com/*
 *://*.sepetim-pttavm.com.tr/*
