@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-14 12:23:24 UTC
-# Toplam: 434727 Domain
+# Son Güncelleme: 2026-01-14 13:33:12 UTC
+# Toplam: 434739 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8335,6 +8335,7 @@
 2026kampanyalaribonus.com
 2026knutun.wordpress.com
 2026konutbasvuru.sbs
+2026konutbasvurum.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
 2026onkayit.sbs
@@ -17750,6 +17751,7 @@
 7237453981d0595033c23.com
 7237b5d65848ac7bffd787dca7516e0e.ir
 723819512.com
+723895yhoesh9832.click
 724-arackiralama.com
 724-basvuru.com
 724-best10.com
@@ -63155,6 +63157,7 @@ bdhhmm.top
 bdhismindset.top
 bdholdings.com
 bdhpkn.com
+bdhsf.edu.bd
 bdiahbf.duckdns.org
 bdimicceell.com
 bdios8877.duckdns.org
@@ -211935,6 +211938,7 @@ indirmli15aralik.com.tr
 indirmli15aralik.online
 indirmli15aralik.xyz
 indirmlivergiodeme.net
+indirmlraktuelfrstlr.duckdns.org
 indirnmli-katalog.com
 indirr-basvur-bireysel-ucret-geri-iasesi.ml
 indirr-basvuru-bireysel-ucret-iadesi.tk
@@ -266134,6 +266138,7 @@ moblik.net
 moblislemenulooyilgirisimi.online
 moblkmpyanyagarantibnksube.chickenkiller.com
 mobllaxssbnks.com
+moblsbe.cfd
 moblzrtkrdraucher.duckdns.org
 mobmena.live
 mobnetlink1.com
@@ -277085,6 +277090,7 @@ nl24sca4560.ddns.net
 nl2jkkuqs8efp.life
 nl5329.ir
 nlaktlsndansatasnd.blogspot.com
+nlaktnaltmalt.net
 nlalktr3.com.tr
 nlalnalnalnalnal.net
 nlalnatnanla.net
@@ -278260,6 +278266,7 @@ nowherededicate.top
 nowheretread.top
 nowinfotech.online
 nowislem.22web.org
+nowivests.com
 nowley-rus.ru
 nowmurmur.top
 nowosci-pl.cloud
@@ -327022,6 +327029,7 @@ sahibinden-get.e-odeme-guvenli-tr.sa.com
 sahibinden-get.e-paramguvende.online
 sahibinden-get.e-ticaretservisi.com
 sahibinden-get.ealimguvenceli.com
+sahibinden-get.ealimmobil.com
 sahibinden-get.guvenilir-odeme.com
 sahibinden-get.guvenli-alisverislerim.sa.com
 sahibinden-get.ilanlarimiz.com.pl
@@ -344292,6 +344300,7 @@ sizidegorecekmiyiz.net
 sizin-firsatlariniz-yeni-yagmuru.com
 sizin-icin-en-guzel-hayat-bu.com
 sizin-icin-hayaller-umutla-baslar.com
+sizin-icin-is-te.my-homeip.com
 sizin-icin-son-gunler.sbs
 sizin-icinfirsatkampanyasiburda.com
 sizin-icinkmpnyaburada.com
@@ -353107,6 +353116,7 @@ stanleyverto.me
 stanleyvk.click
 stanleywery.xyz
 stanleyyakinda.xyz
+stanleyzeropoint.xyz
 stanly-carrefoursa.vercel.app
 stanlyarlikkczmazi666kacirma.com
 stanlyefirsati.blogspot.com
@@ -431234,6 +431244,7 @@ zipzone.io
 ziqu2tks.duckdns.org
 ziqzoqhere.asia
 zir-oatt.xyz
+zir-sorgu.nicepage.io
 zir-tan.xyz
 zir0att-ban1ks.click
 zir0ot-1ba4nks.click
@@ -433072,6 +433083,7 @@ zirat-bn.cc
 zirat-bn.com
 zirat-iade-guncel-islemleri.net
 zirat-ile-gecegunduzkredim.net
+zirat-islemlerx.cfd
 zirat-mobil-basvuru.duckdns.org
 zirat.son-indirimler-tr.com
 zirat153yilkampanyam.org

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 12:23:24 UTC
-! Total: 346825 rules
+! Last modified: 2026-01-14 13:33:12 UTC
+! Total: 346834 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5923,6 +5923,7 @@
 *://*.2026kampanyalaribonus.cfd/*
 *://*.2026kampanyalaribonus.com/*
 *://*.2026konutbasvuru.sbs/*
+*://*.2026konutbasvurum.sbs/*
 *://*.2026konutprojesi.sbs/*
 *://*.2026konutvizyon.online/*
 *://*.2026onkayit.sbs/*
@@ -11214,6 +11215,7 @@
 *://*.7237453981d0595033c23.com/*
 *://*.7237b5d65848ac7bffd787dca7516e0e.ir/*
 *://*.723819512.com/*
+*://*.723895yhoesh9832.click/*
 *://*.724-arackiralama.com/*
 *://*.724-basvuru.com/*
 *://*.724-best10.com/*
@@ -45621,6 +45623,7 @@
 *://*.bdhismindset.top/*
 *://*.bdholdings.com/*
 *://*.bdhpkn.com/*
+*://*.bdhsf.edu.bd/*
 *://*.bdimicceell.com/*
 *://*.bdjnml.top/*
 *://*.bdjvrpgny.com/*
@@ -104520,6 +104523,7 @@
 *://*.ealdresi-turkiyegovttrc.com/*
 *://*.ealimguvenceli.com/*
 *://*.ealimguvencem.com/*
+*://*.ealimmobil.com/*
 *://*.ealimmobile.com/*
 *://*.ealoptl.com/*
 *://*.ealopttg0v.com/*
@@ -214412,6 +214416,7 @@
 *://*.moblik.net/*
 *://*.moblislemenulooyilgirisimi.online/*
 *://*.mobllaxssbnks.com/*
+*://*.moblsbe.cfd/*
 *://*.mobmena.live/*
 *://*.mobnetlink1.com/*
 *://*.mobnetlink2.com/*
@@ -222657,6 +222662,7 @@
 *://*.nl-q-a.com/*
 *://*.nl2jkkuqs8efp.life/*
 *://*.nl5329.ir/*
+*://*.nlaktnaltmalt.net/*
 *://*.nlalktr3.com.tr/*
 *://*.nlalnalnalnalnal.net/*
 *://*.nlalnatnanla.net/*
@@ -223537,6 +223543,7 @@
 *://*.nowherededicate.top/*
 *://*.nowheretread.top/*
 *://*.nowinfotech.online/*
+*://*.nowivests.com/*
 *://*.nowley-rus.ru/*
 *://*.nowmurmur.top/*
 *://*.nowosci-pl.cloud/*
@@ -281900,6 +281907,7 @@
 *://*.stanleyvk.click/*
 *://*.stanleywery.xyz/*
 *://*.stanleyyakinda.xyz/*
+*://*.stanleyzeropoint.xyz/*
 *://*.stanlyarlikkczmazi666kacirma.com/*
 *://*.stanlytermos499a.com/*
 *://*.stanlyytermosteklifiifdfa101.com/*
@@ -345737,6 +345745,7 @@
 *://*.zirat-bn.com/*
 *://*.zirat-iade-guncel-islemleri.net/*
 *://*.zirat-ile-gecegunduzkredim.net/*
+*://*.zirat-islemlerx.cfd/*
 *://*.zirat153yilkampanyam.org/*
 *://*.ziratb-n.cc/*
 *://*.ziratbanconline.com/*
