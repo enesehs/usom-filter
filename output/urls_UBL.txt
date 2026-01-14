@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 21:10:25 UTC
-! Total: 346916 rules
+! Last modified: 2026-01-14 22:10:26 UTC
+! Total: 346918 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -156754,6 +156754,7 @@
 *://*.hgss-sorgulama.xyz/*
 *://*.hgss-turkiye3dd.com/*
 *://*.hgss-zzleri.com/*
+*://*.hgss.site/*
 *://*.hgssabahetkn3d.tk/*
 *://*.hgssabahlarinizim.net/*
 *://*.hgssabahmerkezin3d.tk/*
@@ -343651,6 +343652,7 @@
 *://*.zcqrmvhfb.com/*
 *://*.zcrfgunundekal.cfd/*
 *://*.zcrfgunundyiz.cfd/*
+*://*.zcrfrsgnnde.cfd/*
 *://*.zcrrefrsahizmetleri.cfd/*
 *://*.zcrvwsho.com/*
 *://*.zcxtgmy.com/*
