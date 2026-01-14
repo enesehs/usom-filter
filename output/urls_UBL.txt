@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 19:10:06 UTC
-! Total: 346877 rules
+! Last modified: 2026-01-14 20:09:53 UTC
+! Total: 346898 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23149,6 +23149,7 @@
 *://*.aidijy.cn/*
 *://*.aidnsmemskdoa.com.tr/*
 *://*.aidotum.net/*
+*://*.aidshare.org/*
 *://*.aidt0deme.click/*
 *://*.aidta-ucret-iadesi-basvur-platformu-bireysel.xyz/*
 *://*.aidta-ucret-iadesi-basvuru-platform-bireysel.xyz/*
@@ -46236,6 +46237,7 @@
 *://*.belliniepecuniaimmobilisrl.xyz/*
 *://*.bellinntorn.com/*
 *://*.bellmobile.in/*
+*://*.bellmoria.art/*
 *://*.belloisetropical.com/*
 *://*.belloprops.com/*
 *://*.bellsis345.site/*
@@ -63177,6 +63179,7 @@
 *://*.breserve-custommessagehelp.com/*
 *://*.breservemng-hurug5223.com/*
 *://*.bresn.com.tr/*
+*://*.bressolia.one/*
 *://*.bresz.xyz/*
 *://*.bretoffice.com/*
 *://*.brettcarlson37.xyz/*
@@ -66585,6 +66588,7 @@
 *://*.busnxidlmrnmsdlrmxidnx.space/*
 *://*.busonkampanyalariniz.net/*
 *://*.busrajxd.info/*
+*://*.busrdaxkindsxmlrmnc-kapxidaxmsi.store/*
 *://*.bussaccfoundnew.com/*
 *://*.bussedflygrand.com/*
 *://*.bussformnew.com/*
@@ -73497,6 +73501,7 @@
 *://*.checkmate-id8278.world/*
 *://*.checkmate.zone/*
 *://*.checkode.gq/*
+*://*.checkoutlane.org/*
 *://*.checkpay.shop/*
 *://*.checkpolicy.site/*
 *://*.checkponit.com/*
@@ -96769,6 +96774,7 @@
 *://*.doromontioootoolsdfr.info/*
 *://*.dorontalka.com/*
 *://*.dorrixnt.com/*
+*://*.dorsaltra.one/*
 *://*.dorteululindi.store/*
 *://*.dortmevsimsurprizler10.com/*
 *://*.dortodeme.tk/*
@@ -129888,6 +129894,7 @@
 *://*.gameilllllllllll.buzz/*
 *://*.gameplatform.net/*
 *://*.gameplinkempire.top/*
+*://*.gamerhub.forum/*
 *://*.gameriot.top/*
 *://*.gamerocker.net/*
 *://*.gamerpin34laalin.com/*
@@ -175220,6 +175227,7 @@
 *://*.is-mobilsubem-kampanyakaatilimbasvurusu.com/*
 *://*.is-onlinesubem.com/*
 *://*.is-parkonlineodeme.net/*
+*://*.is-portfoytr.com/*
 *://*.is-promosyon.sbs/*
 *://*.is-sonfirsat-tr.com/*
 *://*.is-songunfirsati-tr.com/*
@@ -178465,6 +178473,7 @@
 *://*.isthizliulasim.net/*
 *://*.isthkwubll.net/*
 *://*.isthmnkcxzc.com/*
+*://*.isthmnkxv.com/*
 *://*.isthmnvcxvxcb.com/*
 *://*.isthn.net/*
 *://*.isths.com/*
@@ -210200,6 +210209,7 @@
 *://*.metciyiz.com/*
 *://*.metclix.com/*
 *://*.metecenne.click/*
+*://*.meteforx444.space/*
 *://*.metehan.cfd/*
 *://*.meteoannecy.net/*
 *://*.meteorhollow.space/*
@@ -221594,6 +221604,7 @@
 *://*.newstuoshetys.net/*
 *://*.newsturizmseyahat.istanbul/*
 *://*.newsturk.website/*
+*://*.newsturrkey.com/*
 *://*.newsubtlety.top/*
 *://*.newsworldcity.com/*
 *://*.newsworldcity.ml/*
@@ -221727,6 +221738,7 @@
 *://*.nextregbmcll.tk/*
 *://*.nextrentacar.online/*
 *://*.nextrentsfilo.online/*
+*://*.nextrivia.site/*
 *://*.nextroundst.com/*
 *://*.nextroute.click/*
 *://*.nextsbmcl.net/*
@@ -246349,6 +246361,7 @@
 *://*.privateannual.top/*
 *://*.privatebank.xyz/*
 *://*.privatebankhsbc.com/*
+*://*.privatebanking-hsbc.cc/*
 *://*.privatebvbagrraintpromo.com.tr/*
 *://*.privatecampanya.vip/*
 *://*.privatedns.org/*
@@ -253831,6 +253844,7 @@
 *://*.quantityscape.xyz/*
 *://*.quantlive.net/*
 *://*.quantohub.com/*
+*://*.quantorra.art/*
 *://*.quantrez.space/*
 *://*.quanttivise.com/*
 *://*.quanttoki.site/*
@@ -281944,6 +281958,7 @@
 *://*.stanleyverse.xyz/*
 *://*.stanleyverto.me/*
 *://*.stanleyvk.click/*
+*://*.stanleyvoidpath.xyz/*
 *://*.stanleywery.xyz/*
 *://*.stanleyyakinda.xyz/*
 *://*.stanleyzeropoint.xyz/*
@@ -282697,6 +282712,7 @@
 *://*.storeshomeestusfluworkss.online/*
 *://*.storeshopines.com/*
 *://*.storesonlinehepsi.store/*
+*://*.storestack.org/*
 *://*.storeuf.com/*
 *://*.storeupressive.top/*
 *://*.storevast.club/*
@@ -300041,6 +300057,7 @@
 *://*.trendyolyeniadres.com/*
 *://*.trendyolyeniadres.org/*
 *://*.trendyolyeniadresim.com/*
+*://*.trendyolyeniadresim.net/*
 *://*.trendyolyeniadresim.org/*
 *://*.trendyolyilbasihediyesi.com/*
 *://*.trendyolz.net/*
@@ -303228,6 +303245,7 @@
 *://*.turkcellreklam.info/*
 *://*.turkcellreklamlar.com/*
 *://*.turkcellsanal.com/*
+*://*.turkcellsanalmagaza.cfd/*
 *://*.turkcellsanalmagaza.com/*
 *://*.turkcellsanalmagaza.cyou/*
 *://*.turkcellsanalmagaza.sbs/*
@@ -314218,6 +314236,7 @@
 *://*.velkgioduyo.net/*
 *://*.vell-mari-hotel.com/*
 *://*.vellnaro.in/*
+*://*.vellnoro.store/*
 *://*.vellokarasea.surf/*
 *://*.velmorium.com/*
 *://*.velmrix.com/*
@@ -343449,6 +343468,7 @@
 *://*.zandorfaniskalyoniskapramintarnoskarya.net/*
 *://*.zandrelitho.xyz/*
 *://*.zandvoortgutar.com/*
+*://*.zaneluxa.com/*
 *://*.zanex.live/*
 *://*.zanex.pro/*
 *://*.zanex.vip/*
@@ -344226,6 +344246,7 @@
 *://*.ziraat-aidat-iade.com/*
 *://*.ziraat-aidatiadefirsati.com/*
 *://*.ziraat-altinsube.com/*
+*://*.ziraat-atm.cfd/*
 *://*.ziraat-avantaj101.xyz/*
 *://*.ziraat-avantaj107.xyz/*
 *://*.ziraat-avantaj108.xyz/*
