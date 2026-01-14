@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-14 17:23:43 UTC
-# Toplam: 434766 Domain
+# Son Güncelleme: 2026-01-14 19:10:06 UTC
+# Toplam: 434789 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2014,6 +2014,7 @@
 101-mayissongun.com
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
+101-mobil-sadece-online-ozel-firsatlar-tr.online
 101-mobil-tr.com
 101-mobil.com.tr
 101-nisan-indirimleri.com
@@ -8325,6 +8326,7 @@
 2025yildizlarinda.online
 2025yildizlarinda.xyz
 2025yilikampanyasizlere.com
+2026-hep-beraber-sahlaniyoruz-sayesinde.sbs
 2026-yanizda-olacak.sbs
 2026bvsnrsmdikyt.sbs
 2026evfirsati.sbs
@@ -24031,6 +24033,7 @@ a101indirim.xyz
 a101indirimaktuelurun.site
 a101indirimde.com
 a101indirimdunyasi.com
+a101indirimegel.com
 a101indirimfirsat.com
 a101indirimfirsatlari.club
 a101indirimfirsatlari.co
@@ -37312,6 +37315,7 @@ akbnkfaizsizfirsat.xyz
 akbnkfaizsizfirsatlar.xyz
 akbnkfaizsizkredi.click
 akbnkfazissizkrdihemnbasvur.site
+akbnkfinance.com
 akbnkfirsatim.site
 akbnkfirsatlari.com.tr
 akbnkfirsbankamatik.org
@@ -74714,6 +74718,7 @@ biz-sizleri-buradan-mutluayrilmadan-gondermiycez.com
 biz-sizleri-burdan-mutlu-ayrilmadan-gondermiycez.com
 biz-sizleri-burdan-mutlu-ayrilmadan-gondermiyoruz.com
 biz-sizleri-burdan-mutlu-ayrilmadangondermiycez.com
+biz-verdigimiz-sozu-tutariz.sbs
 biz-yaptik.com.tr
 biz-yardim-severiz-e-devlet-tr-gov.cf
 biz-yeniden-kalkinacagiz-beraber.sbs
@@ -75149,6 +75154,7 @@ bizle-gorulen-son-tesrif-size-geldi.com
 bizlecokhizlisinw.com
 bizlecokhizlisinx.com
 bizlegeldinizsiz1o1-net-128839.hostingersite.com
+bizlehmnfgd.com
 bizlekapindafrsaat.org
 bizlekazan.net
 bizlenbonus.b-cdn.net
@@ -152792,6 +152798,7 @@ faturalihatlaranakitkredi.com
 faturalihatlari.com
 faturalihatlarinizaaanindakredi.gq
 faturalihattaanindakredi.com
+faturalihattakredim.com
 faturalihattanakit.net
 faturalihattanakit.xyz
 faturalihattanakitpara.space
@@ -161550,6 +161557,7 @@ fsmkgmwbgcshgsonbrcode.duckdns.org
 fsmnwsdnfmsn.net
 fsociety4.hopto.org
 fsociety777.ddns.net
+fsocietyclub.com
 fsocietyy.ddns.net
 fsoijl.com
 fsolu.com
@@ -166618,6 +166626,7 @@ garnatimobilkampanyalari.tk
 garnbasvru.com
 garnbentrklm.click
 garnburda.vercel.app
+garnenugirislernbonuslarirn.online
 garnetinvest.blog
 garnganarngargratiganragr.store
 garnimob.sbs
@@ -206896,6 +206905,7 @@ idqtyh7n7pynyhydmto.ddns.net
 idradeim-geldirimdn.com
 idrebrobte.com
 idrem-geldirmmin.com
+idrinkitaly.com
 idrischeck.fun
 idrismihanzeim.shop
 idriveboost.com
@@ -217505,6 +217515,7 @@ isbnkmobilgiris.site
 isbnkmobilgiris.tk
 isbnkmobilsube.site
 isbnkonline.com
+isbnkonlinebasvr.my-homeip.net
 isbnkonlinecepsubegiris.site
 isbnkpromo.ip-ddns.com
 isbnkpromoo.bounceme.net
@@ -220400,6 +220411,7 @@ isthizlibasv.online
 isthizligecis.net
 isthizliulasim.net
 isthkwubll.net
+isthmnkcxzc.com
 isthmnvcxvxcb.com
 isthn.net
 isths.com
@@ -220447,6 +220459,7 @@ istkanbullkart.com
 istkara.com
 istkarar.shop
 istkarartara.xyz
+istkaratata.cfd
 istkardo.tk
 istkardykleme.site
 istkarllm.online
@@ -241888,6 +241901,7 @@ konuttokibasvurusu.art
 konuttokibasvurusu.info
 konuttokibasvurusu.pro
 konuttokibasvurusu.xyz
+konuttokibasvurusuu.art
 konuttokibasvurusuu.info
 konuttokibasvurusuu.sa.com
 konuttokibasvurusuu.xyz
@@ -249918,6 +249932,7 @@ llrys.com
 llsdsrswsx2.duckdns.org
 llsihebhsbsksgmsb.xyz
 llsltnnbllklsslesttrr.org
+llstaannblllkkrttyklkle.org
 llstanbullullar.istanbul
 llstnbbllkrrtykklleee.giize.com
 lltemmuzkmpyns.com
@@ -250086,6 +250101,7 @@ lnknqyheda.duckdns.org
 lnksp7vp.duckdns.org
 lnlapuswuvqrbxvyh.net
 lnloggen-app.online
+lnltlnylntln.online
 lnmciedolerdimnet.net
 lnmnlsnaklnsdlnas.com
 lnnlnlnllllllnllll.net
@@ -275627,6 +275643,7 @@ newyearshappy.click
 newyearshappys.click
 newyearskampanyatodaysalan.site
 newyearstellcompany.com
+newyearunveils.online
 newyolunibbptthgs.net
 newyorker.bz
 newyorkishere.xyz
@@ -306905,6 +306922,7 @@ promogood.weebly.com
 promohemen.com
 promohubventure.com
 promolatori.icu
+promomomentum.site
 promonals.com
 promoobasvur.com
 promoonayekrandenizde.duckdns.org
@@ -327715,6 +327733,7 @@ sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.hizliveguvenlionlinealisveris.com.tr
 sahibinden-param-guvende.ilan-bilgi.online
 sahibinden-param-guvende.ilan-detay.online
+sahibinden-param-guvende.ilan-onay-tr.online
 sahibinden-param-guvende.ilan-onay.online
 sahibinden-param-guvende.ml
 sahibinden-param-guvende.net
@@ -343765,6 +343784,7 @@ sistem-ogrenci-odemeleri.online
 sistem-online-ekrandan-sorgu.online
 sistem-randevu.org
 sistem-randevulariniz.net
+sistem-sorgu-aktiflesti.sbs
 sistem-vakif-duyuru.click
 sistem-web.sa.com
 sistem-weblander.sa.com
@@ -351954,6 +351974,7 @@ srgulama-ve-geri-alma-ekrani.cyou
 srgulaveaktarmaekrani.cfd
 srgulavegerialaktar.cyou
 srgulavegerialma.cyou
+srgulavegriaktarmaservisi.cyou
 srgulavetamamlama-ekrani.cfd
 srgulaveyndlendirme.site
 srgulaveyonlendir.lat
@@ -371987,6 +372008,7 @@ tr-login-yapi.glitch.me
 tr-m-e-devlet-aidat-cep-iadeler.com
 tr-m-e-devlet-aidatlar-ve-iade.cf
 tr-m-e-devlet-subesi-iade-aidat.com
+tr-magaza-firsat.biz.tr
 tr-magaza-firsat.com.tr
 tr-magaza-firsat.info.tr
 tr-magaza-firsat.net.tr
@@ -421692,6 +421714,7 @@ yapimobill.tr
 yapimobille.com.tr
 yapimobille.org.tr
 yapimobiller.xyz
+yapimobilsenin.com
 yapimobilsube-destek.com
 yapimobilsube.shop
 yapimobilsubeden.tk
