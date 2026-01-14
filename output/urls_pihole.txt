@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-14 15:14:29 UTC
-# Toplam: 434753 Domain
+# Son Güncelleme: 2026-01-14 16:14:49 UTC
+# Toplam: 434757 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2905,6 +2905,7 @@
 1020259980.corolain.ru
 1020mastermindhayati.com
 1021.goitstour.buzz
+1023156498879821.mooo.com
 10246.cloud
 102540000025476767658878900692105.duckdns.org
 1025404-udate-000025465887869210025.duckdns.org
@@ -145676,6 +145677,7 @@ ermsrg.online
 ermsrg2.online
 ern6drlo.duckdns.org
 ernegttkobzeglmedi.mooo.com
+ernenugirislernbonuslarirn.online
 ernestoangiolini.com
 ernhiply.com
 erniecommunications.co.za
@@ -353018,6 +353020,7 @@ stanley.shwkwmdk.app
 stanley499atermos.com
 stanley666superindirimgelidibrddd.com
 stanley666superindirimgelirrrrr.com
+stanleyaftercore.xyz
 stanleyafterdark.xyz
 stanleyafterrise.xyz
 stanleyafterzero.xyz
@@ -402358,6 +402361,7 @@ wenkgefmpgfumtk.com
 wenqwenqw.com
 wentbegan.net
 wenu.duckdns.org
+wenugirislewbonuslari.online
 weoghehofuuxo.su
 weoleycastletaxis.co.uk
 weomfewnfnu.site

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-14 15:14:29 UTC
-! Total: 346844 rules
+! Last modified: 2026-01-14 16:14:49 UTC
+! Total: 346847 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -115838,6 +115838,7 @@
 *://*.ermsdna3.net/*
 *://*.ermsrg.online/*
 *://*.ermsrg2.online/*
+*://*.ernenugirislernbonuslarirn.online/*
 *://*.ernestoangiolini.com/*
 *://*.ernhiply.com/*
 *://*.erniecommunications.co.za/*
@@ -281811,6 +281812,7 @@
 *://*.stanley499atermos.com/*
 *://*.stanley666superindirimgelidibrddd.com/*
 *://*.stanley666superindirimgelirrrrr.com/*
+*://*.stanleyaftercore.xyz/*
 *://*.stanleyafterdark.xyz/*
 *://*.stanleyafterrise.xyz/*
 *://*.stanleyafterzero.xyz/*
@@ -321465,6 +321467,7 @@
 *://*.wensa.at/*
 *://*.wensente.xyz/*
 *://*.wentbegan.net/*
+*://*.wenugirislewbonuslari.online/*
 *://*.wenxinzhineng.top/*
 *://*.weoghehofuuxo.su/*
 *://*.weoleycastletaxis.co.uk/*
