@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-15 18:22:46 UTC
-# Toplam: 434920 Domain
+# Son Güncelleme: 2026-01-15 20:11:50 UTC
+# Toplam: 434933 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5733,6 +5733,7 @@
 18912-coinbase.com
 189126-coinbase.com
 1894591160.dfgqdsd.ru
+18951838315.online
 18952-coinbase.com
 1896257430.top
 189645165319513213225891351.tech
@@ -90707,6 +90708,7 @@ carffeoursa-dacarrefoursa.com
 carffosusa.xyz
 carffoursa.shop
 carflotyup.com
+carfor-sa.strangled.net
 carforstanley2.xyz
 carfouersana.org
 carfourharikaindirimler.duckdns.org
@@ -125566,6 +125568,7 @@ dubbadoo.duckdns.org
 dubby2021.duckdns.org
 dubem.top
 dubgncrfsgnleri.cfd
+dubi-sward.jampandrinky.cfd
 dubioustropic.top
 dubireta.store
 dublamin.com
@@ -146272,6 +146275,7 @@ eskixbbxcelnerde.net
 eskiyadunyayahukumdarolur.sbs
 eskiyasasilkern.com
 eskiyastar.duckdns.org
+eskiye-dnk-islemlerini-srgula.sbs
 eskiye-donuk-sorgu-yap.sbs
 eskmelromvrle.net
 eskontbaklye.net
@@ -169029,6 +169033,7 @@ gerisrguaktarm.my
 geritalpet.online
 geritmgelma.net
 gerivuly.de
+geriye-dnk-aktarm-ekrani.cyou
 geriye-dnk-transferler-ekrani.cfd
 geriye-dnksrgu.sbs
 geriye-dondugunde-birakip-gittiklerim-bulunmaz.com
@@ -179958,6 +179963,7 @@ gzatn6w.duckdns.org
 gzbiphdy.com
 gzcdrr32.duckdns.org
 gzchengweiqiye.com
+gzel-kmpyalardan-1-01.sbs
 gzesqd.top
 gzgbjniqoa.duckdns.org
 gzggrl1.duckdns.org
@@ -189846,6 +189852,7 @@ hemen-kripto-varlik-sorgula.xyz
 hemen-migros.vercel.app
 hemen-odedin.com
 hemen-odemesizdeolsun.com
+hemen-onay.xyz
 hemen-otokirala.rest
 hemen-otokirala.shop
 hemen-otokiralama.rest
@@ -206646,6 +206653,7 @@ idaricezasistemi.org
 idaricezasorgu.org
 idaricezasorgulama.org
 idaridenetleme.com
+idaridosya.org
 idaridosyasistemi.org
 idaridosyatakibi.org
 idarigise.xyz
@@ -284533,6 +284541,7 @@ onayvrsnde4142.onaylahzr.fun
 onayyazilim.xyz
 onayyonlendirme.com.tr
 onayyysubevakiiff.net
+onb-38-yil-boasvuru.top
 onb-finans-sube-internet.jumpingcrab.com
 onb-finans-sube-nternet.jumpingcrab.com
 onb-finansss.jumpingcrab.com
@@ -301716,6 +301725,7 @@ pichostfrm.net
 pickersoft.ddns.net
 pickfonts.com
 pickform.net
+pickleballadventure.com
 pickmasty.top
 pickordeal.top
 pickupbnv02934.ddns.net
@@ -333324,6 +333334,7 @@ sdeceonlinaozela1o1.duckdns.org
 sdeceonline-ozel.click
 sdeceonlineozelfirsatlar.blogspot.com
 sdeceonlineozl.click
+sdelys.skrt-sktr.xyz
 sdemegitim.org
 sden-paramguvende.com
 sden-zden.xyz
@@ -353153,6 +353164,7 @@ stanleyafterrise.xyz
 stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
 stanleyawake.xyz
+stanleybaseline.xyz
 stanleyburdagel.xyz
 stanleyburdauygun.site
 stanleycarrfour.store
@@ -427847,6 +427859,7 @@ yonkzwqnvs.duckdns.org
 yonld-hzs-bni.store
 yonlen-buradan-anlik.sbs
 yonlen.click
+yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
 yonlendir-reklam.com
