@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-14 23:09:37 UTC
-# Toplam: 434840 Domain
+# Son Güncelleme: 2026-01-15 00:44:45 UTC
+# Toplam: 434845 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -210077,6 +210077,7 @@ imzmirrodeme.net
 imzmrmyklxnahr.net
 imztjkmlsd.duckdns.org
 imzzmrmk2rt.net
+in-a-cuzdan.my-homeip.com
 in-basvuru-portal.online
 in-dirimgunleribasladi.com
 in-grn-b-v-tra.my-homeip.com
@@ -258547,6 +258548,7 @@ mblinedgibfgovtr.fun
 mbllgarantiiisubeeonay.chickenkiller.com
 mbllillbnkkcalikk.xyz
 mblparykle.com
+mblsbe.com
 mblsbgrs.sbs
 mblsubem2gibgovxv5tr.art
 mblsubem2gibgovxv5tr.biz
@@ -263809,6 +263811,7 @@ mobil-giris-ll.tk
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
+mobil-giris.my-homeip.com
 mobil-giris.site
 mobil-giris.xyz
 mobil-girisaidatlarhizmetlergovedevlet.com
@@ -281814,6 +281817,7 @@ ocaklndirimleri.com
 ocaklndirimlerikacmaz.me
 ocaklndirmlerikcmaz.com
 ocaklndrimflrsatlari.store
+ocakmbl.cfd
 ocakmtw.net
 ocakozelkapida.online
 ocakpromosynlaridagitildi.vercel.app
@@ -285858,6 +285862,7 @@ online-mtvodemehizmetleri.ph
 online-muayene.net
 online-mvergi.com
 online-my-digi.com
+online-ocakzamani.biz.tr
 online-ode.com.tr
 online-ode.net
 online-odea.com
