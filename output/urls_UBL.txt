@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 11:10:32 UTC
-! Total: 346936 rules
+! Last modified: 2026-01-15 12:23:21 UTC
+! Total: 346948 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5926,7 +5926,9 @@
 *://*.2026kampanyalaribonus.com/*
 *://*.2026konutbasvuru.sbs/*
 *://*.2026konutbasvurum.sbs/*
+*://*.2026konuthatti.sbs/*
 *://*.2026konutislem.sbs/*
+*://*.2026konutportal.sbs/*
 *://*.2026konutprojesi.sbs/*
 *://*.2026konutvizyon.online/*
 *://*.2026onbasvurum.sbs/*
@@ -7435,6 +7437,7 @@
 *://*.2b-coinbase.com/*
 *://*.2b3f258e4411h.net/*
 *://*.2bbaybimcell.net/*
+*://*.2bd.net/*
 *://*.2bimcell.net/*
 *://*.2bimclelramazan2.com/*
 *://*.2bitbimcell2.com/*
@@ -14533,6 +14536,7 @@
 *://*.a101hizliindrims.com/*
 *://*.a101hizmet.com/*
 *://*.a101hobihadi.com/*
+*://*.a101icinfirsat.com/*
 *://*.a101iiletisim.com/*
 *://*.a101iletiisim.com/*
 *://*.a101iletiisimm.com/*
@@ -53559,6 +53563,7 @@
 *://*.birbgxkyppqhtxhch.org/*
 *://*.birbile-bilsen.net.tr/*
 *://*.birbira.xyz/*
+*://*.birbirgercekoldular.click/*
 *://*.birbirimiziseviyoruz.biz/*
 *://*.birbiriniyalardurduramazlar.com/*
 *://*.birbrlkzmnigeldiginde.com/*
@@ -108591,6 +108596,7 @@
 *://*.edv-ilangunceleme.site/*
 *://*.edv-ilanonaylama.site/*
 *://*.edv-tap-ravportal.com/*
+*://*.edv-tapuonlinerdv.com/*
 *://*.edv2021-iade-hizmetleri.xyz/*
 *://*.edvaegitimkurumu.net/*
 *://*.edvaeqwsarfwaq.com/*
@@ -116178,6 +116184,7 @@
 *://*.eserrvisinn.com/*
 *://*.eservicesa.live/*
 *://*.eservicesystems.net/*
+*://*.eservisalimlar.com/*
 *://*.eservislerrim.com/*
 *://*.esestacey.net/*
 *://*.esezat.com/*
@@ -200972,6 +200979,7 @@
 *://*.lhizliptsraglla.net/*
 *://*.lhizlitakibikrrgo.net/*
 *://*.lhizlivegvenli.net/*
+*://*.lhizlonlineihemennsa.net/*
 *://*.lhjjyuwavvsxsoghs.com/*
 *://*.lhjowwofiapymft.su/*
 *://*.lhjwnxdb.com/*
@@ -226245,6 +226253,7 @@
 *://*.ocaksurprizleri-geldi2019.com/*
 *://*.ocaksurprizlerigeldi-2019.com/*
 *://*.ocaksurprizlerigeldi2019.com/*
+*://*.ocakta-sepetin.info.tr/*
 *://*.ocakta-yagcepte.com.tr/*
 *://*.ocakta-yagcepte.info.tr/*
 *://*.ocaktada-sizinle.sbs/*
@@ -263889,6 +263898,7 @@
 *://*.sakwqrasfsa.shop/*
 *://*.sakxeewqxesdfxs.com/*
 *://*.sakyamoon.com/*
+*://*.sakyz.click/*
 *://*.salaar.co.in/*
 *://*.salaccgfa.top/*
 *://*.saladoppress.top/*
@@ -305143,6 +305153,7 @@
 *://*.turkiyemaliye.org/*
 *://*.turkiyemaliyebakanligi.com/*
 *://*.turkiyemankeniniseciyor.com/*
+*://*.turkiyemarketfiyatlari.cfd/*
 *://*.turkiyemarketingkatilim.online/*
 *://*.turkiyemarketingkatilim.xyz/*
 *://*.turkiyemaximum.com/*
@@ -319798,6 +319809,7 @@
 *://*.web-sahibinden.com/*
 *://*.web-sayfagiriskismi.me/*
 *://*.web-sayfagiriskismi.site/*
+*://*.web-sayfalari.com/*
 *://*.web-sayfasi-link-im.net/*
 *://*.web-sayfasi-link-imiz.net/*
 *://*.web-security-trlogin.space/*
