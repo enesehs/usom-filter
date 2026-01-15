@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-15 04:37:01 UTC
-# Toplam: 434846 Domain
+# Son Güncelleme: 2026-01-15 09:22:50 UTC
+# Toplam: 434858 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8349,6 +8349,7 @@
 2026teslim-tarih.sbs
 2026teslimsel.cyou
 2026yaozel.cfd
+2026yenievim.sbs
 2026yeniyil.my-homeip.com
 2028-88-230-146-31.ngrok-free.app
 202crx.duckdns.org
@@ -141153,6 +141154,7 @@ emaliyegovtr506.com
 emaliyegovtr508.com
 emaliyegovtr509.com
 emaliyegovtrl92.com
+emaliyeizleme.org
 emaliyemerkezi.org
 emaliyeportal.org
 emaliyesorgulama.org
@@ -169084,6 +169086,7 @@ gerti.zapto.org
 gerumonet35-subokelel24.duckdns.org
 geryangro.com
 gerydnk-srgula-ve-aktar.sbs
+geryednkonlineaktarim.sbs
 geryednkserviaktarim.my
 geryednksrgulaveaktar.sbs
 geryednkyonlendrmeaktarimekrani.cfd
@@ -175316,6 +175319,7 @@ greateservice.xyz
 greatestadviceinviting2024bnnannceadvice.ru
 greatesthits.mygoldmusic.com
 greatfaresor.buzz
+greatfirewallisacensorshiptool.14emeliaterracewestroxburyma02132.su
 greatfulnicetomeet.buzz
 greatfurnituretradingco.org
 greatgreed.top
@@ -233839,6 +233843,7 @@ kargolarinizibizdenc.info
 kargolarnz.sa.com
 kargolartakipyap.org
 kargom-nerede.click
+kargom-nerede.online
 kargomgelsn.com
 kargomgelsn.com.tr
 kargomgelsn.xyz
@@ -236837,6 +236842,7 @@ kep-adres-hepsiburada.com
 kep-adres-tekno-sa.com
 kep-adres.com
 kep-adresi.com
+kep-aktif.com
 kep-aktifim.com
 kep-aktifim.net
 kep04securels45log.zapto.org
@@ -264220,6 +264226,7 @@ mobilakbankgiris.ml
 mobilakbanksube.com
 mobilakfaizsiz.com
 mobilakgarantiniziz-resmi.shop
+mobilakhizli.com
 mobilaktarimgovtr.serveftp.com
 mobilaktiivasyonbasarili.vercel.app
 mobilaktivasyon.com
@@ -303413,6 +303420,7 @@ polisgeldixy.duckdns.org
 polisgunlukleri.xyz
 polish-daniska.cfd
 polish223.xyz
+polisi-tr155.online
 polisi155trpolis.online
 polisiatr155tr.online
 polisiindo.hopto.org
@@ -307559,6 +307567,7 @@ proxoid.ddns.net
 proxpn.zapto.org
 proxs.duckdns.org
 proxuus.ddns.net
+proxy-sdk.14emeliaterracewestroxburyma02132.su
 proxy.objectlook.com
 proxybreve.duckdns.org
 proxycheker.pro
@@ -394353,6 +394362,8 @@ verxigiodemev.net
 verxlgdydendi.blogspot.com
 verxlgdydendi.com
 verxxgi-islmee.net
+very128918.site
+very1929412.netlify.app
 very21bundle.top
 veryansinveri.online
 verybibliography.top
@@ -424633,6 +424644,7 @@ yenirandevu8-e94db79be12d.herokuapp.com
 yenirandevu9-3f7e24da13d9.herokuapp.com
 yenirandevuislemleri.com
 yenirezervasyon.net
+yenisafakf.com
 yenisahibiinden.com
 yenisbankgirisuygulamasi.com
 yenisdwesd.wtf

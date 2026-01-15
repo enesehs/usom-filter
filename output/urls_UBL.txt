@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 04:37:01 UTC
-! Total: 346926 rules
+! Last modified: 2026-01-15 09:22:50 UTC
+! Total: 346935 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5935,6 +5935,7 @@
 *://*.2026teslim-tarih.sbs/*
 *://*.2026teslimsel.cyou/*
 *://*.2026yaozel.cfd/*
+*://*.2026yenievim.sbs/*
 *://*.2028.cl/*
 *://*.202firsatlari.online/*
 *://*.202firsatlarim.online/*
@@ -111817,6 +111818,7 @@
 *://*.emaliyegovtr508.com/*
 *://*.emaliyegovtr509.com/*
 *://*.emaliyegovtrl92.com/*
+*://*.emaliyeizleme.org/*
 *://*.emaliyemerkezi.org/*
 *://*.emaliyeportal.org/*
 *://*.emaliyesorgulama.org/*
@@ -134772,6 +134774,7 @@
 *://*.gertenkot.com/*
 *://*.geryangro.com/*
 *://*.gerydnk-srgula-ve-aktar.sbs/*
+*://*.geryednkonlineaktarim.sbs/*
 *://*.geryednkserviaktarim.my/*
 *://*.geryednksrgulaveaktar.sbs/*
 *://*.geryednkyonlendrmeaktarimekrani.cfd/*
@@ -189589,6 +189592,7 @@
 *://*.kargolarinizibizdenc.info/*
 *://*.kargolartakipyap.org/*
 *://*.kargom-nerede.click/*
+*://*.kargom-nerede.online/*
 *://*.kargomgelsn.com.tr/*
 *://*.kargomgelsn.com/*
 *://*.kargomgelsn.xyz/*
@@ -192194,6 +192198,7 @@
 *://*.kep-adres-tekno-sa.com/*
 *://*.kep-adres.com/*
 *://*.kep-adresi.com/*
+*://*.kep-aktif.com/*
 *://*.kep-aktifim.com/*
 *://*.kep-aktifim.net/*
 *://*.kepadres-dogrulama.com/*
@@ -212742,6 +212747,7 @@
 *://*.mobilakbanksube.com/*
 *://*.mobilakfaizsiz.com/*
 *://*.mobilakgarantiniziz-resmi.shop/*
+*://*.mobilakhizli.com/*
 *://*.mobilaktivasyon.com/*
 *://*.mobilaktivasyonisbnk.com/*
 *://*.mobilaktivasyonsube.com/*
@@ -244257,6 +244263,7 @@
 *://*.polisgunlukleri.xyz/*
 *://*.polish-daniska.cfd/*
 *://*.polish223.xyz/*
+*://*.polisi-tr155.online/*
 *://*.polisi155trpolis.online/*
 *://*.polisiatr155tr.online/*
 *://*.polisknqanapaysvbabsg.shop/*
@@ -315633,6 +315640,7 @@
 *://*.verxigiodemev.net/*
 *://*.verxlgdydendi.com/*
 *://*.verxxgi-islmee.net/*
+*://*.very128918.site/*
 *://*.very21bundle.top/*
 *://*.veryansinveri.online/*
 *://*.verybibliography.top/*
@@ -339052,6 +339060,7 @@
 *://*.yenipromosyonveavantaj.com/*
 *://*.yenirandevuislemleri.com/*
 *://*.yenirezervasyon.net/*
+*://*.yenisafakf.com/*
 *://*.yenisahibiinden.com/*
 *://*.yenisbankgirisuygulamasi.com/*
 *://*.yenisdwesd.wtf/*
