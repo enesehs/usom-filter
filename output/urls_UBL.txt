@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 13:32:17 UTC
-! Total: 346949 rules
+! Last modified: 2026-01-15 14:14:12 UTC
+! Total: 346957 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -632,6 +632,7 @@
 *://*.1-yardimtaleplerim.org/*
 *://*.10-111-akt-u-el-iii-im.com/*
 *://*.10-11sfflwwlfs.sbs/*
+*://*.10-1dan-kampyalria-kacrmsaz.sbs/*
 *://*.10-1frskmsswwqe.xyz/*
 *://*.10-1ocaklndirimleri.com/*
 *://*.10-1ozlflrsatlari.sbs/*
@@ -25401,6 +25402,7 @@
 *://*.akmayis.online/*
 *://*.akmbank.com/*
 *://*.akmbl.com.tr/*
+*://*.akmblsb.sbs/*
 *://*.akmenbondoncines.site/*
 *://*.akmenu-girisleri.xyz/*
 *://*.akmhgsm.com/*
@@ -159265,6 +159267,7 @@
 *://*.hizlinetbayiim.net/*
 *://*.hizlinetbayim.net/*
 *://*.hizlinvirndevuu.net/*
+*://*.hizliock.cfd/*
 *://*.hizliode.art/*
 *://*.hizliode.one/*
 *://*.hizliode3dile.xyz/*
@@ -196127,6 +196130,7 @@
 *://*.kosgeb-hibe-basvuru.cfd/*
 *://*.kosgeb-kredi.com/*
 *://*.kosgeb-krediler.com/*
+*://*.kosgeb-krediyardimi.com/*
 *://*.kosgebbasvuru.cfd/*
 *://*.kosgebbasvuru.online/*
 *://*.kosgebbasvuruformu.click/*
@@ -198205,6 +198209,7 @@
 *://*.kurumsallikilan.com.tr/*
 *://*.kurumsalmabilislemler.site/*
 *://*.kurumsalmobil.com/*
+*://*.kurumsaloginservisleri.com/*
 *://*.kurumsalonlinekiralama.com/*
 *://*.kurumsalreesmigiris-hemenalbasvur.com/*
 *://*.kurumsalresmigiris-hemenalbasvur.com/*
@@ -240971,6 +240976,7 @@
 *://*.pavetinet.store/*
 *://*.pavibu.com/*
 *://*.pavicomsa.com/*
+*://*.pavicontech.com/*
 *://*.pavilion.futbol/*
 *://*.pavingcapital.com/*
 *://*.pavlatos-studios.gr/*
@@ -296262,6 +296268,7 @@
 *://*.toyosol.com/*
 *://*.toyota-ai.org/*
 *://*.toyota-car.top/*
+*://*.toyota-tsusoho.com/*
 *://*.toyotacamryy.com/*
 *://*.toyotacar.top/*
 *://*.toyourownbeat.com/*
@@ -344393,6 +344400,7 @@
 *://*.ziraat-com-tt.cfd/*
 *://*.ziraat-com-xy.cfd/*
 *://*.ziraat-com.cfd/*
+*://*.ziraat-com.my/*
 *://*.ziraat-combo-bireysel.com/*
 *://*.ziraat-comu.cfd/*
 *://*.ziraat-controle.one/*
