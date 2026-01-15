@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 14:14:12 UTC
-! Total: 346957 rules
+! Last modified: 2026-01-15 15:13:12 UTC
+! Total: 346962 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -126283,6 +126283,7 @@
 *://*.fitchampionzone.com/*
 *://*.fitchange.top/*
 *://*.fitehook.com/*
+*://*.fitforklife.com/*
 *://*.fitga.ru/*
 *://*.fitistasyon.name.tr/*
 *://*.fitkall.name.tr/*
@@ -191289,6 +191290,7 @@
 *://*.kazanarena-tickets.ru/*
 *://*.kazanasiloldu.net/*
 *://*.kazanbonuspuan.com/*
+*://*.kazanc-dunyasi.world/*
 *://*.kazanc-ekseni.online/*
 *://*.kazanc-evrim.com/*
 *://*.kazanc-finansalgelir.org/*
@@ -264791,6 +264793,7 @@
 *://*.sarar.online/*
 *://*.sarar.top/*
 *://*.sarardimmk.xyz/*
+*://*.sararhema.cfd/*
 *://*.sarars.com/*
 *://*.sarars.top/*
 *://*.sarasotacountysolar.com/*
@@ -300119,6 +300122,7 @@
 *://*.trenldyol.com/*
 *://*.trenndyol.net/*
 *://*.trennndy.com/*
+*://*.trenobdyl.shop/*
 *://*.trensaati.net/*
 *://*.trensaatleriniz.online/*
 *://*.trentyolcilginkasim.com/*
@@ -313482,6 +313486,7 @@
 *://*.vatan-nvi.org/*
 *://*.vatanbilgisayarcom.net/*
 *://*.vatanbilgisayarlar.com/*
+*://*.vatanbilgisayarlari.com/*
 *://*.vatandas-aidat-hizmetleri106.ga/*
 *://*.vatandas-aidat-hizmetleri108.ga/*
 *://*.vatandas-aidat-iade-basvurusu-e-dev-let2021.xyz/*
