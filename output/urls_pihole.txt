@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-15 22:10:30 UTC
-# Toplam: 434944 Domain
+# Son Güncelleme: 2026-01-15 23:09:54 UTC
+# Toplam: 434952 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -25845,6 +25845,7 @@ abanthotel.com.tr
 abantyesilevler.info
 abantyoreselurunler.com
 abarakatturk.com
+abarssurrivays.pro
 abas1.ddns.net
 abasackone.ddns.net
 abasara.cc
@@ -53160,6 +53161,7 @@ avisdenkiralama.com
 avisdubai.com
 avisexpress.com.tr
 avisfiloacenta.com
+avisfilobayi.com
 avisfilokiralama.com
 avisfilokiralama.com.tr
 avisfilom.tk
@@ -166237,6 +166239,7 @@ garatifirsatlaribasvurukanali.shop
 garatiipromosion.com
 garatilem.com
 garatiliyordnz.com
+garatisubeniz-online.click
 garaxlogix.click
 garaxlogix.online
 garbagedivorce.top
@@ -195672,6 +195675,7 @@ hibe-yasasi.com
 hibe.online
 hibealonlinebasvuru.com
 hibebasvurudestekler.com
+hibebasvurukosgeb.com
 hibebasvuruportali.com
 hibebasvurusu-web202l.com
 hibebasvurusu.cfd
@@ -195691,6 +195695,7 @@ hibedestekleri-govtr.epizy.com
 hibedevletdestekleri.com
 hibekredimfaizsizzs.com.tr
 hibekredimfaizsizzss.com.tr
+hibelerdestegi.click
 hibeodemeleri.com
 hibeonlinebasvuruform.com
 hibernateinvalid.top
@@ -208292,6 +208297,7 @@ ilan-guvenli-alisveris.com
 ilan-guvenli-odeme.com
 ilan-guvenli-satis.com.tr
 ilan-guvenli-siparis-ver.online
+ilan-guvenli-tr.online
 ilan-guvenli.com
 ilan-guvenli.com.tr
 ilan-guvenlialisveris.com
@@ -325914,6 +325920,7 @@ sadece-online-aldin-aldin-kampanya-urunler116.online
 sadece-online-mobil-ozel.mooo.com
 sadece-online-ozel-aldin-aldin-kampanyasi101.shop
 sadece-online-ozel-aldin-aldin-kampanyasi107.shop
+sadece-online-ozel-indirimler-cep-tr.xyz
 sadece-online-ozel-kampanya101.com
 sadece-online-ozel-kampanya102.shop
 sadece-online-ozel-kampanya103.shop
@@ -416429,6 +416436,7 @@ xn--lll-iuabb.xyz
 xn--lllzmrrrguvenlode-pvc.net
 xn--lotremnant-1s6e.top
 xn--ltdenzbank-1ub.com
+xn--ltgo-bpa.xyz
 xn--lzdq6btw-gm3d.cn
 xn--lzmmrmartkampanyalar-1bd.net
 xn--lzmrdxmexme-ufb.net
