@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 20:11:50 UTC
-! Total: 346995 rules
+! Last modified: 2026-01-15 21:10:50 UTC
+! Total: 347001 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -30816,6 +30816,7 @@
 *://*.aninda-kredi-garantibva.digital/*
 *://*.aninda-mobil.online/*
 *://*.aninda-odeme.com/*
+*://*.aninda-onaylandi.com/*
 *://*.aninda-oto-kirala.com/*
 *://*.aninda-satin-al.com/*
 *://*.aninda-siparis.com/*
@@ -113860,6 +113861,7 @@
 *://*.enlisthobby.top/*
 *://*.enlistjelly.top/*
 *://*.enlistpulse.top/*
+*://*.enlisxmanslxncindsrm-kapidxsaistore.space/*
 *://*.enmaaqdximsxyxj.su/*
 *://*.enmee.net/*
 *://*.enmmynmx-salignmz.net/*
@@ -152627,6 +152629,7 @@
 *://*.hemen-kripto-varlik-sorgula.xyz/*
 *://*.hemen-odedin.com/*
 *://*.hemen-odemesizdeolsun.com/*
+*://*.hemen-onay.icu/*
 *://*.hemen-onay.xyz/*
 *://*.hemen-otokirala.rest/*
 *://*.hemen-otokirala.shop/*
@@ -158627,6 +158630,7 @@
 *://*.hizlibsavuruolusturma.cloud/*
 *://*.hizlibsvrlrnztokl.com/*
 *://*.hizlibsvrlrnztokl.info/*
+*://*.hizlibsvrlrnztokl.online/*
 *://*.hizlibsvruuak.com.tr/*
 *://*.hizlibsvur.site/*
 *://*.hizlibudgetkampanya.space/*
@@ -191043,6 +191047,7 @@
 *://*.katproxvipa.sbs/*
 *://*.katranofgksdkodeme.net/*
 *://*.katreorganizasyon.com/*
+*://*.kattilimmmmmmbsvrrprmsynnnn.click/*
 *://*.kattilimmprmsynnnbsvrrr.click/*
 *://*.katya48924210921.shop/*
 *://*.katyamccormack67.top/*
@@ -334387,6 +334392,7 @@
 *://*.xymewao.com/*
 *://*.xynf03.com/*
 *://*.xynibvruuu.click/*
+*://*.xynibvruuu10.click/*
 *://*.xynibvruuu2.click/*
 *://*.xynorix.online/*
 *://*.xynthara.org/*
