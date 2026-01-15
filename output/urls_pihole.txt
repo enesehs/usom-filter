@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-15 17:23:08 UTC
-# Toplam: 434909 Domain
+# Son Güncelleme: 2026-01-15 18:22:46 UTC
+# Toplam: 434920 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8332,6 +8332,8 @@
 2026bvsnrsmdikyt.sbs
 2026evfirsati.sbs
 2026evimprojesi.com.tr
+2026evkaydi.sbs
+2026evsistemi.sbs
 2026hedefvizyon.online
 2026hediyesi.cfd
 2026ilkevim.com.tr
@@ -39952,6 +39954,7 @@ al-kampanyadan.cfd
 al-km-pn-y-alsv-rs.duckdns.org
 al-kplm-pn-y-alsv-rs.duckdns.org
 al-kutu.net
+al-llah-ben-im.cfd
 al-mostakbl.com
 al-online.com.tr
 al-pttgov.top
@@ -47919,6 +47922,7 @@ arackontaktramer.net
 arackonumunda.online
 arackorumaa.net
 arackralmuaynetj52kr2-kral5252mt.net
+araclagel.online
 araclahizmetim.xyz
 araclakadmas.net
 araclarakmmsrgu.sa.com
@@ -54649,6 +54653,7 @@ azracateringme.ae
 azracicek.net
 azracicek.org
 azramcicek.com
+azrasari.com.tr
 azrom.duckdns.org
 azrr.blob.core.windows.net
 azrty.ddns.net
@@ -285863,6 +285868,7 @@ online-mevduat-try.online
 online-mi-cro.narbutes.space
 online-mobil-aidat-iade-basvurusu-e-devlet-vatandas-2021.xyz
 online-mobil-aidat-iade-basvurusu-edevlet-2021.xyz
+online-mobil-alisveris-indirimli-101-mobil.linkpc.net
 online-mobil-egiris.ml
 online-mobil-egiris.tk
 online-mobil-esubem.ml
@@ -352063,6 +352069,7 @@ srgouosehohedohaeohu.info
 srgudama.online
 srgukmaninda.com
 srgulama-ve-geri-alma-ekrani.cyou
+srgulamaveaktarmalarekrnai.sbs
 srgulaveaktarmaekrani.cfd
 srgulavegerialaktar.cyou
 srgulavegerialma.cyou
@@ -353168,6 +353175,7 @@ stanleygunleri.name.tr
 stanleyh2flowtermossatissiparisiniz.eticret.icu
 stanleyh2flowtermossatissiparisinizz.eticret.icu
 stanleyhavada.xyz
+stanleyhorizon.xyz
 stanleyignite.xyz
 stanleyindirim.shop
 stanleykafayiasti.xyz
@@ -401671,6 +401679,7 @@ website6604234234112.nicepage.io
 website660423434.nicepage.io
 website6609760.nicepage.io
 website6634234234.nicepage.io
+website6634654.nicepage.io
 website665454654565.nicepage.io
 website665454654df4234.nicepage.io
 website665s12.nicepage.io
@@ -419597,6 +419606,7 @@ yagkpsmjb.com
 yaglarinenucuzoludguyerburasi.xyz
 yaglarr1o1.xyz
 yaglayagla.xyz
+yagmaci-stlardang.cfd
 yagmurkurumlari.org
 yagmursigorta.site
 yagpazartesi.online
@@ -431780,6 +431790,7 @@ ziraat-web-tr-bireysel.com
 ziraat-web.com
 ziraat-webgiris.com
 ziraat-weld.vercel.app
+ziraat-y.cfd
 ziraat-yaninda.cfd
 ziraat-yapgiris-kazan50tl.com
 ziraat-yaz-firsat.ml

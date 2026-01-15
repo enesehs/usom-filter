@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-15 17:23:08 UTC
-! Total: 346975 rules
+! Last modified: 2026-01-15 18:22:46 UTC
+! Total: 346984 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5919,6 +5919,8 @@
 *://*.2026bvsnrsmdikyt.sbs/*
 *://*.2026evfirsati.sbs/*
 *://*.2026evimprojesi.com.tr/*
+*://*.2026evkaydi.sbs/*
+*://*.2026evsistemi.sbs/*
 *://*.2026hedefvizyon.online/*
 *://*.2026hediyesi.cfd/*
 *://*.2026ilkevim.com.tr/*
@@ -26839,6 +26841,7 @@
 *://*.al-hmn-cok-ucz-snde.info/*
 *://*.al-kampanyadan.cfd/*
 *://*.al-kutu.net/*
+*://*.al-llah-ben-im.cfd/*
 *://*.al-mostakbl.com/*
 *://*.al-online.com.tr/*
 *://*.al-pttgov.top/*
@@ -33202,6 +33205,7 @@
 *://*.arackonumunda.online/*
 *://*.arackorumaa.net/*
 *://*.arackralmuaynetj52kr2-kral5252mt.net/*
+*://*.araclagel.online/*
 *://*.araclahizmetim.xyz/*
 *://*.araclakadmas.net/*
 *://*.araclarbilgi.click/*
@@ -38466,6 +38470,7 @@
 *://*.azracicek.org/*
 *://*.azrahk.com/*
 *://*.azramcicek.com/*
+*://*.azrasari.com.tr/*
 *://*.azsijorta.xyz/*
 *://*.azsxdcns-ansszas-anands.cfd/*
 *://*.azsxdcns-ansszas-anands.sbs/*
@@ -281204,6 +281209,7 @@
 *://*.srgudama.online/*
 *://*.srgukmaninda.com/*
 *://*.srgulama-ve-geri-alma-ekrani.cyou/*
+*://*.srgulamaveaktarmalarekrnai.sbs/*
 *://*.srgulaveaktarmaekrani.cfd/*
 *://*.srgulavegerialaktar.cyou/*
 *://*.srgulavegerialma.cyou/*
@@ -281937,6 +281943,7 @@
 *://*.stanleygunleri.com.tr/*
 *://*.stanleygunleri.name.tr/*
 *://*.stanleyhavada.xyz/*
+*://*.stanleyhorizon.xyz/*
 *://*.stanleyignite.xyz/*
 *://*.stanleyindirim.shop/*
 *://*.stanleykafayiasti.xyz/*
@@ -334638,6 +334645,7 @@
 *://*.yaglarinenucuzoludguyerburasi.xyz/*
 *://*.yaglarr1o1.xyz/*
 *://*.yaglayagla.xyz/*
+*://*.yagmaci-stlardang.cfd/*
 *://*.yagmurkurumlari.org/*
 *://*.yagmursigorta.site/*
 *://*.yagpazartesi.online/*
@@ -344591,6 +344599,7 @@
 *://*.ziraat-web-tr-bireysel.com/*
 *://*.ziraat-web.com/*
 *://*.ziraat-webgiris.com/*
+*://*.ziraat-y.cfd/*
 *://*.ziraat-yaninda.cfd/*
 *://*.ziraat-yapgiris-kazan50tl.com/*
 *://*.ziraat-yaz-firsat.ml/*
