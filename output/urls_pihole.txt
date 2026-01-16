@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-16 11:09:57 UTC
-# Toplam: 434989 Domain
+# Son Güncelleme: 2026-01-16 12:23:10 UTC
+# Toplam: 435019 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2517,6 +2517,7 @@
 101kampanyamerkezisi.my
 101kampanyamerkezisi.xyz
 101kampanyasi.vercel.app
+101kampanyavefirsatlari.online
 101kampanyndabugunn.vercel.app
 101kampanynsubataozellikte.vercel.app
 101kapida-firsataninda.shop
@@ -6822,6 +6823,7 @@
 1o1-brdayzherzaman.shop
 1o1-de-var.shop
 1o1-firsat-kapida.app
+1o1-iletisim-son-gun.sbs
 1o1-indirimfirsati.com
 1o1-kampanya-aktuel.shop
 1o1-kapida.app
@@ -8349,6 +8351,7 @@
 2026konutportal.sbs
 2026konutprojesi.sbs
 2026konutvizyon.online
+2026onbasvuru.sbs
 2026onbasvurum.sbs
 2026onkayit.sbs
 2026online.cfd
@@ -23993,6 +23996,7 @@ a101hemenalkapinda.online
 a101hemenhemen.online
 a101hemenkapinda.com
 a101hemenkapindahemen.42web.io
+a101hepucuz.byethost9.com
 a101hesapligunler.online
 a101hesaplitv.vercel.app
 a101hirdavat.com.tr
@@ -31568,6 +31572,7 @@ adresimne.net
 adresimtrendyol.com
 adresimtrendyol.net
 adresimyenitrendyol.com
+adresimyenitrendyol.net
 adresindeoto.online
 adresinegelir.online
 adresinegelsin.online
@@ -49562,6 +49567,7 @@ arsiviade.com
 arsivtbmmtr101-tcr.com
 arsizardam.sa.com
 arskargomnerdesin.com
+arskrgtakip.pages.dev
 arskrgtkpislemlri.com
 arslan999.ddns.net
 arslangroup.tech
@@ -59672,6 +59678,7 @@ basvurubbwa.net
 basvurubddkiade.com
 basvurubduyurutr.com
 basvurubilgiekrani.com
+basvurubilgilendir.click
 basvurubilgilendirme.net
 basvurubireyselacikdnzzbasvuruformru.com
 basvurubireyselackkkdnzmobilbireysel.com
@@ -118298,6 +118305,7 @@ devletkartislemlerigovtr.com
 devletkatkisi.info
 devletkonutdesteklerionline.com
 devletkonutlari.cfd
+devletkredidestekleri.click
 devletkredileri.epizy.com
 devletkurumlari.net
 devletleguzelgecergunlerherzaman.com
@@ -144346,6 +144354,7 @@ enuygunfiyatlar.ml
 enuygunfiyatlar.online
 enuygunfiyatlar.tk
 enuygunfiyatlariburadagordum.cfd
+enuygunfiyatlimarkethaftalikfirsatlari.cfd
 enuygunkampanyalardasenin.click
 enuygunkaskovesigorta.com
 enuygunkiralik.space
@@ -169063,6 +169072,7 @@ geriye-donkaktarimlar-ekrani.site
 geriye-donuk-aktarim-ekrani.cyou
 geriye-donuk-aktarim-ekrani.sbs
 geriye-donuk-aktarim-sorgy.my
+geriye-donuk-odemeleriniznekran-sorgusu.sbs
 geriye-donuk-transferler-ekrani.sbs
 geriye-donuk-yonlendirme-iletisim.site
 geriye-donukaktarim-iletisim.site
@@ -195699,6 +195709,7 @@ hibebasvurusu-web202l.com
 hibebasvurusu.cfd
 hibebasvurusu2021.com
 hibebasvurusumobil.com
+hibedestegi.cfd
 hibedestek-edevletgovtr.epizy.com
 hibedestekbasvuru.cf
 hibedestekbasvuru.cfd
@@ -211171,6 +211182,7 @@ indirim-gunleri-turkcell.com
 indirim-gunleri.com.tr
 indirim-gunleri.online
 indirim-gunleri.xyz
+indirim-gunlerim-1o1-a.sbs
 indirim-gunlerim-turkcell.com
 indirim-gunu-tr.com
 indirim-gunu.free.site.pro
@@ -220187,6 +220199,8 @@ istbas1.com
 istbasim.net
 istbasvlradimz.gleeze.com
 istbasvrdklarimizdayizhemn.com
+istbasvrklmrza.com
+istbasvrsanizahmnce.com
 istbasvru.istanbul
 istbayidenyukle.net
 istbb-original.net
@@ -220685,6 +220699,7 @@ istlalblbulbakyem.net
 istlamnalds.sa.com
 istlanbul-kartimislem.net
 istlanltlndanlasna.online
+istldfnld.com
 istlen.com
 istlesybasvr.com
 istlgsbasvr.click
@@ -222813,6 +222828,7 @@ izeltasaldinaldin.xyz
 izeltasalisveris.dnsup.net
 izeltasalmak.xyz
 izeltascampnysal.sbs
+izeltascnmbnm.dns.navy
 izeltasdolucantasi.vip
 izeltasefsaneflrsatlar.com
 izeltasf0r543sq.duckdns.org
@@ -222936,6 +222952,7 @@ izlddsg.blogspot.com
 izlds6ockslig.dns.navy
 izldsfirsaticno.dns.navy
 izldskm.blogspot.com
+izldskuzicnm.blogspot.com
 izlebasvurunutr.com
 izledekudur.cfd
 izleditummahalle.com
@@ -228665,6 +228682,7 @@ k30td2.duckdns.org
 k31sadhashdahsdhashd.site
 k31vu98.duckdns.org
 k32221122.cloud
+k32ashdahsdhashdhashdhashdasdas.click
 k32sahdhasdhashdhasd.site
 k33ashdahsdhashdhashdas.site
 k348d.venti71.com
@@ -231376,6 +231394,7 @@ kampanyalar.miko-cdn.space
 kampanyalar.my-homeip.net
 kampanyalar.online
 kampanyalar.site
+kampanyalar.strangled.net
 kampanyalar.tk
 kampanyalar.xyz
 kampanyalar1.online
@@ -236926,6 +236945,7 @@ kepadresguncel.com
 kepadresim-aktif.com
 kepadresim-guncel.com
 kepadresim-tekno-sa.com
+kepadresimyeni.com
 kepadresn11.com
 kepaktif.com
 kepaktiflestirme.net
@@ -238990,6 +239010,7 @@ kisandost.online
 kisaozelfinans.com
 kisaozelindirimler.xyz
 kisaparlament.net
+kisareklam.sbs
 kisasure.cyou
 kisasuredeindirima1o1.duckdns.org
 kisasureli.cfd
@@ -281875,6 +281896,7 @@ ocakfirsatlarikapinagelsin.com.tr
 ocakfirsatlarikapinagelsin.online
 ocakfirsatlarikapinagelsin.xyz
 ocakfirsatlarisonay.hopto.org
+ocakfiyatlari.cfd
 ocakflrsatimizbu.com
 ocakgunleri.sbs
 ocakikacirma.com.tr
@@ -331541,6 +331563,7 @@ sanalmarketfirsatlari.online
 sanalmarketfirsatlari.tk
 sanalmarketim.cf
 sanalmarketim.site
+sanalmarketim.vercel.app
 sanalmarketim.xyz
 sanalmarketim2020.22web.org
 sanalmarketimmigros.shop
@@ -337495,6 +337518,7 @@ seracwx.click
 seraevim.com
 serahanem.com
 serakvycbz.duckdns.org
+serakyz.click
 seralkurumlari.org
 seraphankled.com
 seraphicstay.com
@@ -344299,6 +344323,7 @@ siz-ceponay.xyz
 siz-eglenin-biz-mutlu-oluruz.com
 siz-gir-dinle-yukle.blogspot.com
 siz-hemen-deneyin-ama-yukleyin.blogspot.com
+siz-istediniz-biz-yaptik-halkaacik.sbs
 siz-istediniz-biz-yaptik.online
 siz-istediniz-biz-yaptik.sbs
 siz-mobilonay.xyz
@@ -350567,6 +350592,7 @@ spanqqwaen.biz
 spansearcher.net
 spanzhere.com.tr
 spanzhere.xyz
+sparaguven.com
 sparaguvende.org
 sparaguvende.shop
 sparaguvendegetilani.com
@@ -353258,6 +353284,7 @@ stanleynextstepp.xyz
 stanleynexus.xyz
 stanleyparlar.com
 stanleyprformnce.xyz
+stanleypulse.xyz
 stanleyrebirth.xyz
 stanleyreboost.xyz
 stanleyrebooted.xyz
@@ -370278,6 +370305,7 @@ topirata26.zapto.org
 topisbim.top
 topit1c.ru
 topitopix.xyz
+topitoptanemsfo.com
 topizmxrkmkrtx.tech
 topkapikaynarcahaserecames.site
 topkapisarayi.live
@@ -374628,6 +374656,7 @@ trblnance.tech
 trblnance.xyz
 trblnance1.xyz
 trblnancebasvuru.com
+trblnancemag.cyou
 trblnasetr.cloud
 trblnnce.click
 trblnnce.com
@@ -416200,6 +416229,7 @@ xn--istebsvrhmnhzlislm-r0c.com
 xn--istediin-destek-basladi-turkiye-tfe.online
 xn--istfr-ndb.com
 xn--istibbykle-geb.net
+xn--istkandmsofis-99b.com
 xn--istnabulm2-4ub.net
 xn--istykleme-t9a.net
 xn--isubekuveyttrk-rsb.com
