@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-16 22:09:43 UTC
-# Toplam: 435084 Domain
+# Son Güncelleme: 2026-01-16 23:09:32 UTC
+# Toplam: 435102 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59141,6 +59141,7 @@ basvurtokikonutlari.pro
 basvurtokikonutlari.xyz
 basvurtokim.xyz
 basvurtokiye2025.sbs
+basvurtokiye2025ekrani.sbs
 basvurtook.art
 basvurtook.pro
 basvurtrbinance.com
@@ -117081,6 +117082,7 @@ destekbasvurusuyap12.com
 destekbasvuruuu.com
 destekbildirimi.com
 destekbildirimiyap15.com
+destekbilgilendirmesi.com
 destekbilgisi.cfd
 destekbinancedestekbirimibasvuru.cloud
 destekbintlpanedim.rf.gd
@@ -120790,6 +120792,7 @@ dijitalwebhizmet-ziraatbireysel.com
 dijitalwebinternet-ziraatmobil.com
 dijitalwebislemler-denizacik.com
 dijitalwebislemler-ziraatbireysel.com
+dijitalwebislemleri-ziraatbireysel.com
 dijitalwebkampanya-denizacik.com
 dijitalwebkampanya-ziraat.com
 dijitalwebkampanya-ziraatbireysel.com
@@ -166086,6 +166089,7 @@ garantitrademinexx.net
 garantitrk.online
 garantitronline.com
 garantitrr.com
+garantitrust.online
 garantitttttttttttttttttt.com.tr
 garantiturkeyonline.com
 garantiturkfin.com
@@ -197710,6 +197714,7 @@ hizlimobilegirisim.cfd
 hizlimobilegiristc.cfd
 hizlimobilegiristr.cfd
 hizlimobilodeme.com.tr
+hizlimobilodemelisin.com
 hizlimobilonayacikdenizv2denizbank.co.vu
 hizlimobilpromosyon.com
 hizlimobilyapi.com
@@ -216699,6 +216704,7 @@ is-onlinesubem.com
 is-parkonlineodeme.net
 is-portfoytr.com
 is-promosyon.sbs
+is-redirect01.com
 is-sonfirsat-tr.com
 is-songunfirsati-tr.com
 is-start-trizor.webflow.io
@@ -229246,6 +229252,7 @@ kacmazgunler.org.tr
 kacmazhafta-a101.online
 kacmazhemengelal.site
 kacmazindirim.online
+kacmazindirimfirsati.cfd
 kacmazindirimfirsati.sbs
 kacmazkampanya.online
 kacmazkazmacurunler.online
@@ -233995,6 +234002,7 @@ kargotakibbinylbasisn.com
 kargotakibim-tr.web.app
 kargotakibiniyap.net
 kargotakip-mng.web.app
+kargotakip-ptt.pages.dev
 kargotakip-yurticikargo.com
 kargotakip.buzz
 kargotakip.hizligelsin.site
@@ -242315,6 +242323,7 @@ kosgebhibebasvurusu.com
 kosgebiskur.com
 kosgebkredibasvur.com
 kosgebkredidestek.com
+kosgebkredinhazir.click
 kosgeble.mobi
 kosgebprogramdestek.cfd
 kosgep-halkbank.com
@@ -244864,6 +244873,7 @@ kurumsallikilan.com.tr
 kurumsalmabilislemler.site
 kurumsalmobil.com
 kurumsaloginservisleri.com
+kurumsaloginservislerim.com
 kurumsalonlinekiralama.com
 kurumsalreesmigiris-hemenalbasvur.com
 kurumsalresmigiris-hemenalbasvur.com
@@ -309672,6 +309682,7 @@ pttavm.sepette-tr.com
 pttavm.shop
 pttavm.siparis-guvende.com
 pttavm.siparis-olustur-223031.com
+pttavm.siparis-olustur-223037.com
 pttavm.siparis-onay-guvende.com
 pttavm.siparis-onayli-115520.com
 pttavm.siparis-onayli-115521.com
@@ -337288,12 +337299,14 @@ sepetim-onayli-207426.com
 sepetim-onayli-217426.com
 sepetim-onayli-227426.com
 sepetim-onayli-237426.com
+sepetim-onayli-2410426.com
 sepetim-onayli-24126.com
 sepetim-onayli-24226.com
 sepetim-onayli-24426.com
 sepetim-onayli-24526.com
 sepetim-onayli-24626.com
 sepetim-onayli-248426.com
+sepetim-onayli-249426.com
 sepetim-online.com
 sepetim-pttavm.com
 sepetim-pttavm.com.tr
@@ -343526,7 +343539,10 @@ siparis-olustur-101-klima.com
 siparis-olustur-101-klima.online
 siparis-olustur-223031.com
 siparis-olustur-223032.com
+siparis-olustur-223033.com
+siparis-olustur-223034.com
 siparis-olustur-223036.com
+siparis-olustur-223037.com
 siparis-olustur-223038.com
 siparis-olustur-223039.com
 siparis-olustur.online
@@ -382159,6 +382175,7 @@ tuvturkrezervasyonum.org
 tuvturks.com
 tuvturks.org
 tuvturksabahlari.com
+tuvturksl.sbs
 tuvturksyeni.com
 tuvturktogg.com
 tuvturktoog.com
@@ -382168,6 +382185,7 @@ tuvturkummuayene.net
 tuvturkunuz.net
 tuvturkwebhizmet.com
 tuvturkyuklekac.com
+tuvturkz.digital
 tuvturmuaynesistemleri.com
 tuvturrk-34aracmuayeneex.net
 tuvturrk-muayene.com.tr
