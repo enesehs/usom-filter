@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-16 20:10:56 UTC
-# Toplam: 435071 Domain
+# Son Güncelleme: 2026-01-16 21:09:50 UTC
+# Toplam: 435079 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1936,6 +1936,7 @@
 101-de-bugune-ozel-indirimler-tr.mooo.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
+101-de-indirimli-firsat-urunler.mooo.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
@@ -45293,6 +45294,7 @@ anlatcamsdwe.net
 anlatkrszlxcd.com
 anlayamazsin.net
 anlayamazsin.shop
+anlayamazsnfirstlr.duckdns.org
 anlik-acikdenizkredihemengirisonay.click
 anlik-acikdenizkredihemengirisonay.fun
 anlik-acikdenizkredihemengirisonay.site
@@ -131442,6 +131444,7 @@ e-onlineislemler-yapikredi.com
 e-onlineislemler.org
 e-onlineislemleri-yapikredi.com
 e-onlineislemlerim-kontroller.cf
+e-onlineislsemler.online
 e-onlinekrdibasvrusu.biz
 e-onlinekrdibasvrusu.work
 e-onlinem.com
@@ -142179,6 +142182,7 @@ emredenizecokasik.net
 emredenizicokseviyo.net
 emrees.2kool4u.net
 emrekayhan.net
+emrekelxdlxo.space
 emrequery.com
 emrequery.online
 emrequery.xyz
@@ -205236,6 +205240,7 @@ iadesistemi-web.com
 iadesistemi.cfd
 iadesistemi.com
 iadesistemi.com.tr
+iadesistemi.otzo.com
 iadesistemi.pro
 iadesistemi.web.app
 iadesistemi2021online.com
@@ -272390,6 +272395,7 @@ mytrkopnli.ddns.net
 mytruehost.uk
 mytrzorloge.webflow.io
 mytsl.net
+myturkiyeonline.com
 myturnpiketollservices.com
 mytwinkly-es.com
 mytyzu.com
@@ -289083,6 +289089,7 @@ onllnie-xmrkktfirstllriyzzla.net.tr
 onllygoodam.com
 onllznie-xmrkktfirstllriyla.net.tr
 onln36ks786238lk7ew.com
+onlndi-sileye-gt.cfd
 onlne-101.kmpnyabrda.xyz
 onlne-aspx-aidatiadeal.com.tr
 onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.online
@@ -423664,6 +423671,7 @@ yelefongverg.com
 yelekterfergehe.online
 yelelae.xyz
 yelerecxa.xyz
+yeli-1-0-1-flrsti-brda.sbs
 yeling0.e1.luyouxia.net
 yelkenflow.org
 yellmentor.top
