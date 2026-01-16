@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-16 08:14:34 UTC
-# Toplam: 434983 Domain
+# Son Güncelleme: 2026-01-16 10:11:21 UTC
+# Toplam: 434989 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -133009,6 +133009,7 @@ eakdresi-turkiyegovttr.com
 eakgirisiadedevleti.com
 eakitrkiye.com.tr
 eaktarmamerkezigirisi-kurumsaltalepadresi.com
+eakyz.click
 ealbaraka.com
 ealdat.com
 ealdirectiveteam.info
@@ -145431,6 +145432,7 @@ eradicateerrand.top
 eradicatejargon.top
 eradicationturbulent.top
 erakorislandresortspa.forum
+erakyz.click
 eramazanayi-destek.com
 eramazanayi-destekpaketi.com
 eramekanixd.com
@@ -146269,6 +146271,7 @@ eskartyuklemzxdohzmeti.net
 eskaxa.site
 eskbc5ly.duckdns.org
 eskdcajkdstyddx.su
+eski-islem-ucretlerini-sorgula.sbs
 eskici99.online
 eskiden-dogru-hepimiz-cana-yakiniz.com
 eskiden-haber-bizimle-cana-dogru.com
@@ -168959,6 +168962,7 @@ geriaktarmalarsitesi.store
 geriaktarmavesorgulama.site
 geriaktarmsrgu.cfd
 geriaktarvesorgula.site
+gerial-vesrgla.cyou
 gerialmaekranionline.sbs
 gerialmakistermisin.rf.gd
 geribasvuru-iadeislem.net
@@ -309906,6 +309910,7 @@ pttdekargo.net
 pttdekargon.net
 pttdelivery.icu
 pttdepo.site
+pttdgf.life
 pttdgov.ink
 pttdhe.buzz
 pttdi.ink
@@ -359072,6 +359077,7 @@ t-v8gencislemlergirisim.online
 t-vgencislemenugirisleri.online
 t-vgencislemlergirisim.online
 t-vgncislemgirisleri.online
+t-vtrkdigital.online
 t-vtu-rk.net
 t-x-ra.net
 t-years.com
