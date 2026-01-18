@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-18 06:14:48 UTC
-# Toplam: 435164 Domain
+# Son Güncelleme: 2026-01-18 07:11:17 UTC
+# Toplam: 435172 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13310,6 +13310,7 @@
 42342123132623121.online
 42342235324324.com
 42353423423100029.cloud
+42353453464552435654325243564324235.com
 42365217636.site
 423894723897423.xyz
 4239248492430532.duckdns.org
@@ -201207,6 +201208,7 @@ houshds.com
 houssainov.zapto.org
 houstnsa.click
 housworkmood.hopto.org
+hovadda.click
 hovarelec.shop
 hoverdeprivation.top
 hovernoise.top
@@ -220901,6 +220903,7 @@ istnblmkart.com
 istnblmkartm.net
 istnblmkarttm.net
 istnblmkkyldkrtt.net
+istnblmsnzsavardks.com
 istnblmzdasmnsa.giize.com
 istnblmzdasndsvardik.ooguy.com
 istnblmzdasnzdsfmgln.com
@@ -242439,6 +242442,7 @@ kouhansenshi.com
 koujyoken.com
 koulon.hopto.org
 kouwel.zapto.org
+kovadda.click
 kovalkovalihtila.xyz
 kovd-visvesvaraya.104-248-245-30.plesk.page
 kovebratnyt.servemp3.com
@@ -287371,6 +287375,7 @@ onlineforumkampanya-basvuru-2022-com.ml
 onlineforumkampanya-bizde-var-basvur.ml
 onlinefraudhubz.ddns.net
 onlinefrstlrniizzz.sa.com
+onlinefrstlrsizlereozl.ct.ws
 onlinefunds724.com
 onlinegalicias.ddns.net
 onlinegamesforall.com
@@ -287900,6 +287905,7 @@ onlineislemlerimiz.xyz
 onlineislemlerimiztr.com
 onlineislemlerin.com
 onlineislemlerin.net
+onlineislemleriniz-geriyedonukodemeler.sbs
 onlineislemleriniz.arabamuayenesi.xyz
 onlineislemleriniz.club
 onlineislemleriniz.com
@@ -306354,6 +306360,8 @@ prmsynbsvrrrqnbprmsyn.click
 prmsynbsvru.online
 prmsynbsvruefsisssbnnkx.duckdns.org
 prmsyngrntbrd.com.tr
+prmsynkmpnyabsvru.info
+prmsynkmpnyabsvru.live
 prmsynkmpnyabsvrus.pro
 prmsynladenzm.vercel.app
 prmsynladenzzban.vercel.app
