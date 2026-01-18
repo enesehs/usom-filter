@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-18 19:01:58 UTC
-# Toplam: 435224 Domain
+# Son Güncelleme: 2026-01-18 21:08:43 UTC
+# Toplam: 435236 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21958,6 +21958,7 @@ Yahoo-change-password.rf.gd
 Yatirimuzmani.info
 ZIRVE.APP
 Zerofourseven.buzz
+a--1--0-1bua-yfl-satlari.sbs
 a--1-0-1.cepte-tr.online
 a--1-0-1den-kpinda-aralk-flrsatlar.sbs
 a--1-01den-flrsatlar.sbs
@@ -73734,6 +73735,7 @@ bireyselsatis.com.tr
 bireyselsatis.site
 bireyselsatisci.com.tr
 bireyselsatiscim.com.tr
+bireyselsatispazari.com.tr
 bireyselsiggorta.site
 bireyselsigorrta.site
 bireyselsigortta.site
@@ -88744,6 +88746,7 @@ c-1o1c0mtr.shop
 c-and-a-turkiye.com
 c-bacterial.gl.at.ply.gg
 c-bntdestektr.com
+c-bva-grn-in.my-homeip.com
 c-digitaltuzelkisimmenu.online
 c-e-aktarma-mobile-tr.com
 c-guvenli-alisveris.sa.com
@@ -117996,6 +117999,7 @@ devlet-iadetrgov.com
 devlet-ikramiye.cf
 devlet-kapisidestekbasvuru.com
 devlet-kart-iade-girisi.com
+devlet-kobiyardimi.com
 devlet-kredikartlar-aidatsorgulama.app
 devlet-kurul-kararname.epizy.com
 devlet-mobilsosyaldestek.com
@@ -145909,6 +145913,7 @@ ertenler.club
 ertesignkapida1o1.com
 ertesignteslimat1o1lebzde.com
 ertesignteslimattt1o1le.online
+ertesigunkapida26tr.cfd
 ertesigunkapida26trc.com
 ertesigunyaninda.spectralix.sbs
 ertesssgunlerteslimat1o1le.com
@@ -156722,6 +156727,7 @@ firsatgb10ozel.ga
 firsatgb10ozel.gq
 firsatgb10ozel.tk
 firsatgecesibasladi.chickenkiller.com
+firsatgecidi.sbs
 firsatgeldi.net
 firsatgemisidenizile.xyz
 firsatgezegeni.xyz
@@ -181653,6 +181659,7 @@ haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
 haftalikmarketalisverisiniduzenle.cfd
 haftalikmarketindirimleriveaktuelurunler.cfd
+haftalikmarketindirimlistesi.cfd
 haftalikmarketkampanyalari.cfd
 haftalikmutfakmasraflariniazaltin.cfd
 haftalikodemem.net
@@ -216720,6 +216727,7 @@ is-formu-basvur-bireysel-online.ml
 is-frsst2rrr.xyz
 is-gir.my-homeip.com
 is-internet.click
+is-internet.my-homeip.com
 is-internetsube-giris.com
 is-internetsubesi.com
 is-is-is-is-issyonldnr.sbs
@@ -265687,6 +265695,7 @@ mobilhizmetler-evdekal.com
 mobilhizmetnoktasi.com
 mobilhizmetservisleri-net-com-port-com-sip-hizmet-self-net.net
 mobilhowgaranti.buzz
+mobili.my-homeip.com
 mobiliadeaidat.club
 mobiliadebasvruform-com.ml
 mobiliadebasvuruform2022-com.ml
@@ -281893,6 +281902,7 @@ obzek.ddns.net
 obzyjyr.duckdns.org
 obzz3017.xdk8ax.cn
 oc-2.duckdns.org
+oc-aktn-hcbit-mezflr-satlar.sbs
 oc-pttgov.top
 oc.internetdocss.com
 oc.tsfengineering.com
@@ -283025,6 +283035,7 @@ oetyuwmsek.duckdns.org
 oeugtxmh.xyz
 oeunc.com
 oeusom.xyz
+oevrnenuislernbonuslari.online
 oevyevogm.sojis.su
 oewksado.click
 oewm2wn.duckdns.org
@@ -290735,6 +290746,7 @@ osmanotmane.cf
 osmanpazarlama1.com
 osmanpazarlamagkg.com
 osmasadsnatasn.net
+osmcancancafkfkk23.com
 osmetic-packaging-jobs.click
 osmgecsbvrulrm.com
 osmisleegunaydinlar.net

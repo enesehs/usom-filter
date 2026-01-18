@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-18 19:01:58 UTC
-! Total: 347217 rules
+! Last modified: 2026-01-18 21:08:43 UTC
+! Total: 347226 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13378,6 +13378,7 @@
 *://*.Yatirimuzmani.info/*
 *://*.ZIRVE.APP/*
 *://*.Zerofourseven.buzz/*
+*://*.a--1--0-1bua-yfl-satlari.sbs/*
 *://*.a--1-0-1den-kpinda-aralk-flrsatlar.sbs/*
 *://*.a--1-01den-flrsatlar.sbs/*
 *://*.a--1-01den-kmpanyalar-aralik.cfd/*
@@ -55156,6 +55157,7 @@
 *://*.bireyselsatisci.com.tr/*
 *://*.bireyselsatiscim.com.tr/*
 *://*.bireyselsatisin.com.tr/*
+*://*.bireyselsatispazari.com.tr/*
 *://*.bireyselsiggorta.site/*
 *://*.bireyselsigorrta.site/*
 *://*.bireyselsigortta.site/*
@@ -91838,6 +91840,7 @@
 *://*.devlet-ikramiye.cf/*
 *://*.devlet-kapisidestekbasvuru.com/*
 *://*.devlet-kart-iade-girisi.com/*
+*://*.devlet-kobiyardimi.com/*
 *://*.devlet-kredikartlar-aidatsorgulama.app/*
 *://*.devlet-mobilsosyaldestek.com/*
 *://*.devlet-odeme.com/*
@@ -116024,6 +116027,7 @@
 *://*.ertesignkapida1o1.com/*
 *://*.ertesignteslimat1o1lebzde.com/*
 *://*.ertesignteslimattt1o1le.online/*
+*://*.ertesigunkapida26tr.cfd/*
 *://*.ertesigunkapida26trc.com/*
 *://*.ertesssgunlerteslimat1o1le.com/*
 *://*.erthgsc.com/*
@@ -124811,6 +124815,7 @@
 *://*.firsatgb10ozel.ga/*
 *://*.firsatgb10ozel.gq/*
 *://*.firsatgb10ozel.tk/*
+*://*.firsatgecidi.sbs/*
 *://*.firsatgeldi.net/*
 *://*.firsatgemisidenizile.xyz/*
 *://*.firsatgezegeni.xyz/*
@@ -145245,6 +145250,7 @@
 *://*.haftaliklarindirimler.com/*
 *://*.haftalikmarketalisverisiniduzenle.cfd/*
 *://*.haftalikmarketindirimleriveaktuelurunler.cfd/*
+*://*.haftalikmarketindirimlistesi.cfd/*
 *://*.haftalikmarketkampanyalari.cfd/*
 *://*.haftalikmutfakmasraflariniazaltin.cfd/*
 *://*.haftalikodemem.net/*
@@ -226260,6 +226266,7 @@
 *://*.obxllc.shop/*
 *://*.obxmcellnextss.net/*
 *://*.obyno.xyz/*
+*://*.oc-aktn-hcbit-mezflr-satlar.sbs/*
 *://*.oc-pttgov.top/*
 *://*.oca.pics/*
 *://*.ocaakfirssatlarimniz.com/*
@@ -227250,6 +227257,7 @@
 *://*.oeugtxmh.xyz/*
 *://*.oeunc.com/*
 *://*.oeusom.xyz/*
+*://*.oevrnenuislernbonuslari.online/*
 *://*.oewksado.click/*
 *://*.oeywgsjsldbsnd.xyz/*
 *://*.oeyxlcudgpinbuh.cn/*
@@ -233735,6 +233743,7 @@
 *://*.osmanpazarlamagkg.com/*
 *://*.osmantarim.com.tr/*
 *://*.osmasadsnatasn.net/*
+*://*.osmcancancafkfkk23.com/*
 *://*.osmetic-packaging-jobs.click/*
 *://*.osmgecsbvrulrm.com/*
 *://*.osmisleegunaydinlar.net/*
