@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-19 09:23:21 UTC
-# Toplam: 435288 Domain
+# Son Güncelleme: 2026-01-19 12:22:50 UTC
+# Toplam: 435302 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -31618,6 +31618,7 @@ adressetesslimaarackiralamaavis.com
 adressetesslimarackiralamaavis.com
 adrestrendyol.com
 adrestrendyol.org
+adresyeniletrendyol.com
 adresyenitrendyol.com
 adriaanandryan.com
 adriaanvorster.co.za
@@ -124252,6 +124253,7 @@ dosya.uyapsorgu.net
 dosya.uyapturkiye.org
 dosyabilgiburosu.com
 dosyaborcu.com
+dosyabuluyap.com
 dosyaburo.com
 dosyaburonuz.com
 dosyaburosu.com
@@ -142508,6 +142510,7 @@ en-tesla-ozel.com
 en-tr-556565132465654132.cloud
 en-tr.site
 en-try-gb-web.my-homeip.com
+en-ucuz-market-katalog-takibi.cfd
 en-ucxzlari-bende-var.com
 en-ucxzuda-bxnde-var-bende-vxr.com
 en-us-trugenix.com
@@ -147868,6 +147871,7 @@ eurovegetation.top
 eurowebmonitortool.com
 euroworldcuzdansorgulamasayfasidogrulamabireysel.line.pm
 euroworldebireyonaysizcuzdansorgulamakonlineozel.line.pm
+eurun-servis-hizmetim.com
 eurunlerhizmetiniz.com
 eusecrypt.com
 euserv3.herokuapp.com
@@ -168465,6 +168469,7 @@ gelmedusersin.xyz
 gelmegelderfen.net
 gelmekte-olan-sonunda-bitiyor-artik.com
 gelmekteolan3d.xyz
+gelmekteolanfirsatnedir.click
 gelmekteolangelir.com
 gelmeyinkafanizavururum.xyz
 gelmez-bidahaboylef1rsatlar.com
@@ -177128,6 +177133,7 @@ guncel-buradan-sorgulama.cyou
 guncel-checkout.ml
 guncel-deniz-islemlerim.net
 guncel-deniz-webislemleri.net
+guncel-dogrulama-ekrandan-aktar.sbs
 guncel-emgsorgum.net
 guncel-eylulsokta.com.tr
 guncel-garanti-iade-islemozetleri.net
@@ -218155,6 +218161,7 @@ isde-firsatlar.my-homeip.com
 isde-kampanya-basvur-bireysel-online.ml
 isde-yeniyilsurprizleri2019.com
 isdecep.com
+isdecep.my-homeip.com
 isdecepsube.net
 isdecepsubem.org
 isdegeneldetaylar.com
@@ -242352,7 +242359,6 @@ korisa3d.xyz
 korkeyjudith.com
 korkma.buzz
 korkmasoylesevgilim.click
-korkmazbilisim.com.tr
 korkmazlar.tk
 korkorko.xyz
 korkulumedya.net
@@ -258820,6 +258826,7 @@ mblinedgibfgovtr.fun
 mbllgarantiiisubeeonay.chickenkiller.com
 mbllillbnkkcalikk.xyz
 mblparykle.com
+mblrehberle.cfd
 mblsbe.com
 mblsbgrs.sbs
 mblsubem2gibgovxv5tr.art
@@ -266489,6 +266496,7 @@ moblik.net
 moblislemenulooyilgirisimi.online
 moblkmpyanyagarantibnksube.chickenkiller.com
 mobllaxssbnks.com
+moblodeme.com
 moblsbe.cfd
 moblzrtkrdraucher.duckdns.org
 mobmena.live
@@ -270198,6 +270206,7 @@ muayenerandevu.com
 muayenerandevu.link
 muayenerandevu.net
 muayenerandevu.online
+muayenerandevu.sbs
 muayenerandevual.com
 muayenerandevual.net
 muayenerandevuistasyonlari.com
@@ -273376,6 +273385,7 @@ narutochwan.duckdns.org
 naruton016.ddns.net
 narutosilver.ddns.net
 narvalo13.ddns.net
+naryphat.com
 narzieo9.beget.tech
 nas-insoco.ddns.net
 nas-tenfootui.itp.coinbase-com.info
@@ -312858,6 +312868,7 @@ pzt1stn0krapp1sgn.com
 pztahgahsvz.net
 pzthizmeislem.app
 pztplkgbhv.duckdns.org
+pzts-yolgeishizmeti.com
 pztskampanyasi.com.tr
 pzuoqw.com
 pzvfc.com
@@ -349421,6 +349432,7 @@ sorgu-iadeodemeekrani.com
 sorgu-kartaidatiadekrani.com
 sorgu-kontrol-ekrani.cyou
 sorgu-kuryenet.online
+sorgu-onay-aktar-ekrani.sbs
 sorgu-paneli.com
 sorgu-paneli.xyz
 sorgu-sistemi.cyou
@@ -362475,6 +362487,7 @@ tcmalisorgu.org
 tcmaliye.net
 tcmaliyebakanligi.org
 tcmaliyebakanligigovtr.com
+tcmaliyesorgu.org
 tcmasakdosya.org
 tcmasakportal.org
 tcmb-1123.com
@@ -370327,6 +370340,7 @@ tomlibya.hopto.org
 tommuo.host
 tommy57.shop
 tommyilfigershop.com
+tommyoutletsales.com
 tommytotone.zapto.org
 tomoolfuser.net
 tomornetscx.icu
