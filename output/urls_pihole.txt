@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-18 23:09:37 UTC
-# Toplam: 435248 Domain
+# Son Güncelleme: 2026-01-19 00:53:04 UTC
+# Toplam: 435258 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38596,6 +38596,7 @@ aktar-hhizli-islem.com
 aktar-hhizli-islem.online
 aktar-hhizli-islem.xyz
 aktar-iade-kampanya.com
+aktar-iletisimsorgu-ekrani.sbs
 aktar-kampanya.com
 aktar-kampanya.online
 aktar-kampanya.xyz
@@ -71596,6 +71597,7 @@ binancetrkddvdoal.vercel.app
 binancetrksuska.vercel.app
 binancetrlodalsqi.vercel.app
 binancetrmarket.sbs
+binancetrmobil00.duckdns.org
 binancetrmobilgiris.ml
 binancetrmobilgirissubesi.cf
 binancetrmobilgirissubesi.ertenler.club
@@ -147850,6 +147852,7 @@ eurovegetation.top
 eurowebmonitortool.com
 euroworldcuzdansorgulamasayfasidogrulamabireysel.line.pm
 euroworldebireyonaysizcuzdansorgulamakonlineozel.line.pm
+eurunlerhizmetiniz.com
 eusecrypt.com
 euserv3.herokuapp.com
 eusharesrv.onmypc.org
@@ -264247,6 +264250,7 @@ mobil-securesahibinden-com.tk
 mobil-sen.site
 mobil-sepet.com
 mobil-sepetim.com.tr
+mobil-servis.store
 mobil-sgkk.tk
 mobil-sh-paramguvende.com
 mobil-siparis-101e-ozel.duckdns.org
@@ -329252,6 +329256,7 @@ sahibinden.mobil-islem-tr.com
 sahibinden.mobil-islemlerimiz.com
 sahibinden.mobil-islemlerle.com
 sahibinden.mobil-sepet.com
+sahibinden.mobil-servis.store
 sahibinden.mobil-siparisleriniz.com
 sahibinden.mobil-tr-urun.com
 sahibinden.mobil-tr.com.tr
@@ -374817,6 +374822,9 @@ trbinance.mom
 trbinance.net
 trbinance.pages.dev
 trbinance.tr-onliyn.com
+trbinance2026spot2.duckdns.org
+trbinance2026spot3.duckdns.org
+trbinance2026spot4.duckdns.org
 trbinance2026spot6.duckdns.org
 trbinanceaccauntlogin.ml
 trbinancebaikyeteyitsistemleri.line.pm
@@ -375474,6 +375482,7 @@ trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lat
 trendyol.manuel-alim.net
+trendyol.mobil-servis.store
 trendyol.odemeler-ilanlarim.com.tr
 trendyol.online-alisverisler.com.tr
 trendyol.online-satis.com.tr
@@ -375584,6 +375593,7 @@ trendyollakazan.live
 trendyollasana.com
 trendyollexpress.com
 trendyollgiris.xyz
+trendyolls.cc
 trendyolls.click
 trendyolls.com
 trendyolls.shop

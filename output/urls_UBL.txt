@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-18 23:09:37 UTC
-! Total: 347236 rules
+! Last modified: 2026-01-19 00:53:04 UTC
+! Total: 347240 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -25782,6 +25782,7 @@
 *://*.aktar-hhizli-islem.online/*
 *://*.aktar-hhizli-islem.xyz/*
 *://*.aktar-iade-kampanya.com/*
+*://*.aktar-iletisimsorgu-ekrani.sbs/*
 *://*.aktar-kampanya.com/*
 *://*.aktar-kampanya.online/*
 *://*.aktar-kampanya.xyz/*
@@ -117622,6 +117623,7 @@
 *://*.eurotripway.tours/*
 *://*.eurovegetation.top/*
 *://*.eurowebmonitortool.com/*
+*://*.eurunlerhizmetiniz.com/*
 *://*.eusecrypt.com/*
 *://*.euskaltel.co/*
 *://*.eusuchian.com/*
@@ -212734,6 +212736,7 @@
 *://*.mobil-sepet.com.tr/*
 *://*.mobil-sepet.com/*
 *://*.mobil-sepetim.com.tr/*
+*://*.mobil-servis.store/*
 *://*.mobil-sgkk.tk/*
 *://*.mobil-sh-paramguvende.com/*
 *://*.mobil-siparis-indirim-tr.xyz/*
@@ -300290,6 +300293,7 @@
 *://*.trendyollasana.com/*
 *://*.trendyollexpress.com/*
 *://*.trendyollgiris.xyz/*
+*://*.trendyolls.cc/*
 *://*.trendyolls.click/*
 *://*.trendyolls.com/*
 *://*.trendyolls.shop/*
