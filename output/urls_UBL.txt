@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-19 16:14:25 UTC
-! Total: 347279 rules
+! Last modified: 2026-01-19 17:14:33 UTC
+! Total: 347283 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -93871,6 +93871,7 @@
 *://*.dijitalislemlerweb-ziraatbireysel.com/*
 *://*.dijitalislemlerwebtr-denizacik.com/*
 *://*.dijitalislemmerkezi.ml/*
+*://*.dijitalislemrnenubonuslarim.online/*
 *://*.dijitalismobilmenu.com/*
 *://*.dijitalistaanbulkrt.net/*
 *://*.dijitalistanblkart.net/*
@@ -171245,6 +171246,7 @@
 *://*.indirimli-tl-yukle-bimcell-tr.ml/*
 *://*.indirimli-tl-yukleme-bmcell.ml/*
 *://*.indirimli-urunler-aktuel-tr.online/*
+*://*.indirimli-urunler-ve-brosurler.cfd/*
 *://*.indirimli-urunler.store/*
 *://*.indirimli.club/*
 *://*.indirimli.online/*
@@ -188452,6 +188454,7 @@
 *://*.kamudansikayetimvar.site/*
 *://*.kamudava.com/*
 *://*.kamudava.net/*
+*://*.kamudavauzlasma.com/*
 *://*.kamudestegibasvuruformu.com/*
 *://*.kamudosyambul.org/*
 *://*.kamudosyamibul.org/*
@@ -197482,6 +197485,7 @@
 *://*.kredit-yeniyil.com/*
 *://*.kredit-yilbasifirsatlari.com/*
 *://*.kreditak.com/*
+*://*.kreditbasvurukurumu.online/*
 *://*.kreditfinanzbank-de.com/*
 *://*.kreditkarten-lbb.net/*
 *://*.kreditkartenbankenwebde.com/*
