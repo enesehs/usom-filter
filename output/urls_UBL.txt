@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-19 21:09:31 UTC
-! Total: 347311 rules
+! Last modified: 2026-01-19 22:10:16 UTC
+! Total: 347317 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -188797,6 +188797,7 @@
 *://*.kapida-urun-xn.com.tr/*
 *://*.kapida-w101.com.tr/*
 *://*.kapida-web.com.tr/*
+*://*.kapida-x9q72mka.cfd/*
 *://*.kapida-xn.com.tr/*
 *://*.kapida.mobi/*
 *://*.kapida1-0-1.store/*
@@ -226447,6 +226448,7 @@
 *://*.ocakfirsat-hakkinda.com/*
 *://*.ocakfirsatburada.online/*
 *://*.ocakfirsathadikapinizda.com/*
+*://*.ocakfirsatiniyakala.net/*
 *://*.ocakfirsatlari.com.tr/*
 *://*.ocakfirsatlari.net/*
 *://*.ocakfirsatlari.online/*
@@ -228704,6 +228706,7 @@
 *://*.ondiyar0z.com/*
 *://*.ondo.vip/*
 *://*.ondokuzmilyon.dev/*
+*://*.ondokuzocakikibinyirmialti.com/*
 *://*.ondorteylulindi.uk/*
 *://*.ondortodeme.tk/*
 *://*.ondrion.bond/*
@@ -284707,6 +284710,7 @@
 *://*.successremnant.top/*
 *://*.successstory.site/*
 *://*.succesvedeviate.top/*
+*://*.succingsiwpxnzzxpslina.life/*
 *://*.sucdvn.top/*
 *://*.suchas.tk/*
 *://*.suchevotade.com/*
@@ -306293,6 +306297,7 @@
 *://*.tuvturkdomes.net/*
 *://*.tuvturkemexed.net/*
 *://*.tuvturkeys.com/*
+*://*.tuvturkeys.digital/*
 *://*.tuvturkhizmetler.com/*
 *://*.tuvturkhizmetleri.com/*
 *://*.tuvturkhizmetmerkezi.com/*
@@ -309253,6 +309258,7 @@
 *://*.urllie.com/*
 *://*.urllik.sbs/*
 *://*.urllio.com/*
+*://*.urlly.net/*
 *://*.urlmanage.com/*
 *://*.urlmeta-browser.cfd/*
 *://*.urlmetafb.cfd/*

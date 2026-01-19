@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-19 21:09:31 UTC
-# Toplam: 435344 Domain
+# Son Güncelleme: 2026-01-19 22:10:16 UTC
+# Toplam: 435350 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -232994,6 +232994,7 @@ kapida-urun-reklam.com.tr
 kapida-urun-xn.com.tr
 kapida-w101.com.tr
 kapida-web.com.tr
+kapida-x9q72mka.cfd
 kapida-xn.com.tr
 kapida.mobi
 kapida1-0-1.store
@@ -282107,6 +282108,7 @@ ocakfirsat-hakkinda.com
 ocakfirsatburada.online
 ocakfirsathadikapinizda.com
 ocakfirsatim.b-cdn.net
+ocakfirsatiniyakala.net
 ocakfirsatlari.com.tr
 ocakfirsatlari.net
 ocakfirsatlari.online
@@ -284962,6 +284964,7 @@ ondeyizkazaniyoruz.com
 ondiyar0z.com
 ondo.vip
 ondokuzmilyon.dev
+ondokuzocakikibinyirmialti.com
 ondorteylulindi.uk
 ondortodeme.tk
 ondrion.bond
@@ -356715,6 +356718,7 @@ successremnant.top
 successstory.site
 succesvedeviate.top
 succinct.truckxscan.com
+succingsiwpxnzzxpslina.life
 sucdvn.top
 sucemondoigt.ddns.net
 sucgsthtml.duckdns.org
@@ -382315,6 +382319,7 @@ tuvturkdmzler.net
 tuvturkdomes.net
 tuvturkemexed.net
 tuvturkeys.com
+tuvturkeys.digital
 tuvturkhizliaracrndvu.web.app
 tuvturkhizmetler.com
 tuvturkhizmetleri.com
@@ -386382,6 +386387,7 @@ urliurl.online
 urlk1r7l.duckdns.org
 urllie.com
 urllio.com
+urlly.net
 urlmanage.com
 urlmeta-browser.cfd
 urlmetafb.cfd
