@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-19 13:37:18 UTC
-# Toplam: 435308 Domain
+# Son Güncelleme: 2026-01-19 16:14:25 UTC
+# Toplam: 435305 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10952,18 +10952,8 @@
 2x2sjc.duckdns.org
 2x30wq.duckdns.org
 2x32.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
-2x5ehr5cxgtzzgy20wyimgxikii.canary.assetnotessrf.com
-2x5tqjpt0jsfakzv9dlqosltna4.canary.assetnotessrf.com
 2x64.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
-2x6dhexzlcftmqiso0l5rjv9uqr.canary.assetnotessrf.com
 2x6ht67q8.duckdns.org
-2x6ngl3r1o6owcz9mfykdp2ijdh.canary.assetnotessrf.com
-2x6q21f6pt4snbcur3yzgahpo2t.canary.assetnotessrf.com
-2x7itfdagyd1w0rv4iu9ddcja3p.canary.assetnotessrf.com
-2x7yiakpxys65zsiqjpu8ulua0b.canary.assetnotessrf.com
-2x7z5gp5jgn376t9kg4nu5qotfd.canary.assetnotessrf.com
-2x80f9vsrg4dbsgtbiwhpnxebda.canary.assetnotessrf.com
-2x89g40f6su4leiyutrcygek01t.canary.assetnotessrf.com
 2xbinance.com
 2xbr99q.duckdns.org
 2xiv0m.duckdns.org
@@ -36555,6 +36545,7 @@ akb-kmpsmtstfrstkmm.za.com
 akb-krdbsr.com
 akb-nk.com
 akb-nktavnsfrstlari.za.com
+akb-rk.com
 akb-yilbasi-ozel-basvuru-sayfasi.xyz
 akb.aksanal.site
 akb.basvurum-kolay.site
@@ -45028,6 +45019,7 @@ anindakaytrednr.com.tr
 anindakayyithizmetleri.com.tr
 anindakirala360.com
 anindakiralama.com
+anindakm.sa.com
 anindakolayhemen.com.tr
 anindakredi.sbs
 anindakredi.site
@@ -219821,6 +219813,7 @@ istanbulkart.cf
 istanbulkart.click
 istanbulkart.co
 istanbulkart.kampanyan.sbs
+istanbulkart.kisalink.club
 istanbulkart.live
 istanbulkart.net
 istanbulkart.online
@@ -239226,6 +239219,7 @@ kisisellcepemobillimgirisllemenu.online
 kisisellcepmobillimegirisllemenum.online
 kisisellcepomobillimgirislemmenuler.online
 kisisellestirme-istanbul-website.web.app
+kisisellestirmevebasvurma.com
 kisisellkontroller.com
 kisiselwarranty.site
 kisiselwarranty.xyz
@@ -347154,6 +347148,7 @@ softtrim.hopto.org
 softunestines.ddns.net
 softupdate-online.top
 softupdate.ddns.net
+software-access.com
 software-passwd-account-update.great-site.net
 software-server.online
 software-unlimited.at
@@ -353496,6 +353491,7 @@ stanleyechoes.xyz
 stanleyevriliyor.xyz
 stanleyferrto.me
 stanleyferto.me
+stanleyflux.xyz
 stanleyforge.xyz
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
@@ -402056,6 +402052,7 @@ website6634654.nicepage.io
 website665454654565.nicepage.io
 website665454654df4234.nicepage.io
 website66555242414.nicepage.io
+website665656556.nicepage.io
 website665s12.nicepage.io
 website665z22f.nicepage.io
 website666454211.nicepage.io

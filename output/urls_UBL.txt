@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-19 13:37:18 UTC
-! Total: 347274 rules
+! Last modified: 2026-01-19 16:14:25 UTC
+! Total: 347279 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24093,6 +24093,7 @@
 *://*.akb-hizmetlerinde.com/*
 *://*.akb-krdbsr.com/*
 *://*.akb-nk.com/*
+*://*.akb-rk.com/*
 *://*.akb-yilbasi-ozel-basvuru-sayfasi.xyz/*
 *://*.akb2024frstilar.com.tr/*
 *://*.akb4nkkred1.business.in/*
@@ -193865,6 +193866,7 @@
 *://*.kisalink-N7eD.com/*
 *://*.kisalink.cc/*
 *://*.kisalink.cfd/*
+*://*.kisalink.club/*
 *://*.kisalink.online/*
 *://*.kisalink.shop/*
 *://*.kisalinkkisalinkguncelle.ml/*
@@ -193939,6 +193941,7 @@
 *://*.kisisellcepemobillimgirisllemenu.online/*
 *://*.kisisellcepmobillimegirisllemenum.online/*
 *://*.kisisellcepomobillimgirislemmenuler.online/*
+*://*.kisisellestirmevebasvurma.com/*
 *://*.kisisellkontroller.com/*
 *://*.kisiselwarranty.site/*
 *://*.kisiselwarranty.xyz/*
@@ -276839,6 +276842,7 @@
 *://*.softthree.top/*
 *://*.softtricksmedia.com/*
 *://*.softupdate-online.top/*
+*://*.software-access.com/*
 *://*.software-server.online/*
 *://*.software-unlimited.at/*
 *://*.software-updating-managers.site/*
@@ -282180,6 +282184,7 @@
 *://*.stanleyevriliyor.xyz/*
 *://*.stanleyferrto.me/*
 *://*.stanleyferto.me/*
+*://*.stanleyflux.xyz/*
 *://*.stanleyforge.xyz/*
 *://*.stanleyfrsattermosburda.com/*
 *://*.stanleyfrst666aldnadinsizden.com/*
