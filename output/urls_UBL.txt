@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-19 04:11:22 UTC
-! Total: 347241 rules
+! Last modified: 2026-01-19 05:23:17 UTC
+! Total: 347245 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -15330,6 +15330,7 @@
 *://*.a1o1hemen.com/*
 *://*.a1o1i.net/*
 *://*.a1o1ileindirimbitmez.com/*
+*://*.a1o1ileindirmegel.com/*
 *://*.a1o1ilesizinle.click/*
 *://*.a1o1ilesizinle.info/*
 *://*.a1o1imayis.net/*
@@ -42481,6 +42482,7 @@
 *://*.basvuru-onlinen-com-tr.cfd/*
 *://*.basvuru-onlines.cfd/*
 *://*.basvuru-onlinne.sbs/*
+*://*.basvuru-osym.online/*
 *://*.basvuru-ozel-aidat-geri-iade.com/*
 *://*.basvuru-paariibuhediyeteknolojisi-com.tk/*
 *://*.basvuru-paribuhediye1teknolojisi-com.tk/*
@@ -226439,6 +226441,7 @@
 *://*.ocaklab.com/*
 *://*.ocaklndirimflrsatlari.site/*
 *://*.ocaklndirimiburadan.shop/*
+*://*.ocaklndirimiburadann.shop/*
 *://*.ocaklndirimleri.com/*
 *://*.ocaklndirimlerikacmaz.me/*
 *://*.ocaklndirimlerikacmaz.sbs/*
@@ -295673,6 +295676,7 @@
 *://*.toklgovtr.cyou/*
 *://*.toklgovtr.lat/*
 *://*.toklgovtr.sbs/*
+*://*.toklhizlbasvur.info/*
 *://*.toklhizlbasvur.online/*
 *://*.toklhzlbasvrlarnz.com/*
 *://*.toklprojebasv.com/*
