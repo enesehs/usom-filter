@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-19 08:23:17 UTC
-! Total: 347255 rules
+! Last modified: 2026-01-19 09:23:21 UTC
+! Total: 347257 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -122480,6 +122480,7 @@
 *://*.fentivv.com/*
 *://*.fentq.org/*
 *://*.fentraazenfe.com/*
+*://*.fenulqora.com/*
 *://*.fenvefizikdusunceler.xyz/*
 *://*.fenzor.com/*
 *://*.feoleijav.com/*
@@ -193186,6 +193187,7 @@
 *://*.kik-vape.org/*
 *://*.kikldhesy.com/*
 *://*.kikomilanos.com/*
+*://*.kikonat.com/*
 *://*.kikosmilamos.com/*
 *://*.kikxntkxrtodmezmeti.net/*
 *://*.kilahwumz.com/*
