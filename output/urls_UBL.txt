@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-20 14:23:06 UTC
-! Total: 347394 rules
+! Last modified: 2026-01-20 15:23:01 UTC
+! Total: 347416 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -918,6 +918,7 @@
 *://*.101-cumartesiaksamx.com/*
 *://*.101-cumartesialdin.com/*
 *://*.101-de-bugune-ozel-indirim-hemen-siparis-ver.com/*
+*://*.101-de-firsatlar-bugune-ozel-online-siparis-tr.com/*
 *://*.101-de-haftalar-indirimler-burada.com/*
 *://*.101-de-hemen.com/*
 *://*.101-den-firsatlariniz-kacmasin.sbs/*
@@ -5918,6 +5919,7 @@
 *://*.2025yildizlarinda.xyz/*
 *://*.2025yilikampanyasizlere.com/*
 *://*.2026-hep-beraber-sahlaniyoruz-sayesinde.sbs/*
+*://*.2026-ocakayi-sorgusu.sbs/*
 *://*.2026-yanizda-olacak.sbs/*
 *://*.2026aldinaldinsepette.org/*
 *://*.2026bajsknvtnkito.sbs/*
@@ -5930,6 +5932,7 @@
 *://*.2026evimprojesi.com.tr/*
 *://*.2026evkaydi.sbs/*
 *://*.2026evsistemi.sbs/*
+*://*.2026evtapum.sbs/*
 *://*.2026hedefvizyon.online/*
 *://*.2026hediyesi.cfd/*
 *://*.2026ilkevim.com.tr/*
@@ -19960,6 +19963,7 @@
 *://*.adreseteslimmax.online/*
 *://*.adreseyonlendir.cfd/*
 *://*.adreseyonlendir.sbs/*
+*://*.adresguncelletrendyol.com/*
 *://*.adresguvenli.digital/*
 *://*.adreshepsiburada.com/*
 *://*.adresi.net/*
@@ -30852,6 +30856,7 @@
 *://*.aninda-mobil.online/*
 *://*.aninda-odeme.com/*
 *://*.aninda-onaylandi.com/*
+*://*.aninda-onaylandi.icu/*
 *://*.aninda-onaylandi.store/*
 *://*.aninda-onaylandi.xyz/*
 *://*.aninda-oto-kirala.com/*
@@ -35066,6 +35071,7 @@
 *://*.asdasdasdaquez.net/*
 *://*.asdasdasdas.site/*
 *://*.asdasdasdasdadas2.kred/*
+*://*.asdasdasdasdasdasdasdasda.xyz/*
 *://*.asdasdasdasdquez.net/*
 *://*.asdasdasdasdqwsdas.com/*
 *://*.asdasdasdasfasfasfasf.pl/*
@@ -38239,6 +38245,7 @@
 *://*.ayinkampanyalari.online/*
 *://*.ayinkampanyalari.xyz/*
 *://*.ayinkampanyasi.online/*
+*://*.ayinlndirimleri.online/*
 *://*.ayinsonufirsatlari101.shop/*
 *://*.ayinxsonxixndrmlerix.com.tr/*
 *://*.ayinxsonxixndrmlerix.xyz/*
@@ -111305,6 +111312,7 @@
 *://*.elaswany.com/*
 *://*.elaterium.com/*
 *://*.elati.ru/*
+*://*.elavonrix.com/*
 *://*.elaxo.org/*
 *://*.elayouty-bahrain.com/*
 *://*.elbetodaolur.shop/*
@@ -129906,6 +129914,7 @@
 *://*.gainmention.top/*
 *://*.gainomit.click/*
 *://*.gainpropagation.top/*
+*://*.gainsandgreens.com/*
 *://*.gainsgul.com/*
 *://*.gaipioneer.shop/*
 *://*.gaiprecaution.shop/*
@@ -134857,6 +134866,7 @@
 *://*.geriye-dnk-aktarm-ekrani.cyou/*
 *://*.geriye-dnk-bsvr-srg-ekrni.sbs/*
 *://*.geriye-dnk-transferler-ekrani.cfd/*
+*://*.geriye-dnkodeme-sorgula.sbs/*
 *://*.geriye-dnksrgu.sbs/*
 *://*.geriye-dondugunde-birakip-gittiklerim-bulunmaz.com/*
 *://*.geriye-donk-ade-basvur.xyz/*
@@ -139331,6 +139341,7 @@
 *://*.govt.hair/*
 *://*.govt.hu/*
 *://*.govt.lat/*
+*://*.govtek.help/*
 *://*.govtoday.homes/*
 *://*.govtokibasvuru.icu/*
 *://*.govtr-basvuru.org/*
@@ -151222,6 +151233,7 @@
 *://*.haziraxnn-indiriximlleri.com/*
 *://*.hazirayinfirsatlari.com/*
 *://*.hazirbaslauygulamaislemleri.online/*
+*://*.hazirbasvurularimcom.com/*
 *://*.hazirbasvuruyapgirisicin.online/*
 *://*.hazirbonus.digital/*
 *://*.hazirdafirsathemenalta.site/*
@@ -171250,6 +171262,7 @@
 *://*.indirimli-al.click/*
 *://*.indirimli-al.tk/*
 *://*.indirimli-bayan-aksesuarlari.store/*
+*://*.indirimli-brosurler-rehberi.cfd/*
 *://*.indirimli-dyson.com.tr/*
 *://*.indirimli-ek-paket-turkcell.com/*
 *://*.indirimli-ek-paketlerim-20gb-turkcell.com/*
@@ -179910,6 +179923,7 @@
 *://*.ivanti-secure-access.org/*
 *://*.ivanvasilevich.ru/*
 *://*.ivapnll.com/*
+*://*.ivarunor.com/*
 *://*.ivaspn3l.com/*
 *://*.ivaspnl.com/*
 *://*.ivaspnl2.com/*
@@ -188510,6 +188524,7 @@
 *://*.kamudava.com/*
 *://*.kamudava.net/*
 *://*.kamudavauzlasma.com/*
+*://*.kamudavauzlasma.org/*
 *://*.kamudestegibasvuruformu.com/*
 *://*.kamudosyambul.org/*
 *://*.kamudosyamibul.org/*
@@ -206029,6 +206044,7 @@
 *://*.maliyedavasorgu.org/*
 *://*.maliyedestekbasvurusu.ml/*
 *://*.maliyedosya.com/*
+*://*.maliyedosyabilgi.org/*
 *://*.maliyedosyagovtr.org/*
 *://*.maliyedosyalar.com/*
 *://*.maliyedosyalarim.com/*
@@ -209078,6 +209094,7 @@
 *://*.mecharnise.ir/*
 *://*.mechat.info/*
 *://*.mechavolvee.com/*
+*://*.mechix.click/*
 *://*.mechlinse.com/*
 *://*.mechta-dachnika-tut.ru/*
 *://*.meclis-aidatodeme.com/*
@@ -229037,6 +229054,7 @@
 *://*.onliinesbm.org/*
 *://*.onlimedenizkrdiim.xyz/*
 *://*.onlimegabests.online/*
+*://*.onlimeislemenurnbonus.space/*
 *://*.onlin-e-devlet-iade-sistemi-go0457.ga/*
 *://*.onlin-e-devlet-iade-sistemi-go123.ga/*
 *://*.onlin-e-devlet-iade-sistemi-go133.ga/*
@@ -257045,6 +257063,7 @@
 *://*.reiangkor.com/*
 *://*.reibrag.com.br/*
 *://*.reiccert.top/*
+*://*.reicheet.com/*
 *://*.reiddust.com/*
 *://*.reidnfilescloud.com/*
 *://*.reidroberts856.xyz/*
@@ -276179,6 +276198,7 @@
 *://*.smartenterprisegrid.com/*
 *://*.smarteparatutkusu.online/*
 *://*.smarterbaby.com/*
+*://*.smartfitbites.com/*
 *://*.smartfla0x1.com/*
 *://*.smartflow247.com/*
 *://*.smartfoodsglutenfree.kz/*
@@ -277226,6 +277246,7 @@
 *://*.sokfirsatlarim.online/*
 *://*.sokfirsatlarin.online/*
 *://*.sokfirsatlarkapiinda.com/*
+*://*.sokfirsatlarocakayi.space/*
 *://*.sokfirsatlarseninle.com/*
 *://*.sokfirsatmarket.online/*
 *://*.sokfirstkm-s.sbs/*
@@ -307309,6 +307330,7 @@
 *://*.ubclxat.org/*
 *://*.ubdxfagjqslyaecjr.pw/*
 *://*.ubeer.gdn/*
+*://*.ubefwithoutemoz.digital/*
 *://*.ubfxsklljlfrmifklwcy.com/*
 *://*.ubgjsqkad.com/*
 *://*.ubi-safemeeting.live/*
