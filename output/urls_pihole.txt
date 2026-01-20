@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-20 07:24:02 UTC
-# Toplam: 435383 Domain
+# Son Güncelleme: 2026-01-20 09:23:13 UTC
+# Toplam: 435395 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57794,6 +57794,7 @@ barelysyndicate.top
 barelyvaccine.top
 barencetrgris.com.tr
 barential.cf
+barerdrury.cfd
 baresiconstrucoes.com
 baresions.com
 barevanet.com
@@ -71436,6 +71437,8 @@ binancelldehediyeler2022.ml
 binancelogin2023dogrula.line.pm
 binanceloginacaounttr.line.pm
 binancelogins-com.ml
+binanceltd.cc
+binanceltd.net
 binanceltr.com
 binanceltr.xyz
 binancem.link
@@ -98963,6 +98966,7 @@ coc.asedkop.world
 cocahut.com
 cocainso.xyz
 cocarson123.com
+cocika.click
 cock.li
 cockembodiment.top
 cockerlocker.ddns.net
@@ -220140,6 +220144,7 @@ istanbulluolmazmnigeldi.com
 istanbulluoln.click
 istanbulluolrsmdfsk.store
 istanbulluolsakmi.click
+istanbulluolunhemen.com
 istanbulluolunlann.com
 istanbulluolunnn.com
 istanbulluolunnnnhemen.com
@@ -242457,6 +242462,7 @@ kosfzv.com
 kosgdestekprojesi.site
 kosgeb-basvur.com
 kosgeb-basvuru.click
+kosgeb-basvuruform.com
 kosgeb-destek.com
 kosgeb-destek.duckdns.org
 kosgeb-hibe-basvuru.cfd
@@ -243412,6 +243418,7 @@ kredibasvuruekraniziraatim.com
 kredibasvuruekranlari.ga
 kredibasvurufirsatlari.com
 kredibasvurufirsatlarianinda.xyz
+kredibasvuruformu.com
 kredibasvuruformu.epizy.com
 kredibasvurularim.com
 kredibasvurularinizgrnti.com
@@ -264745,6 +264752,7 @@ mobilde-tr.online
 mobilde.my-homeip.com
 mobilde.site
 mobildeakbayram.vercel.app
+mobildeaktifsubem.sbs
 mobildebnteknomusteri-2022ceptr.com
 mobildebnteknomusteri-2022ceptr.ertenler.club
 mobildedeniz.org
@@ -324833,6 +324841,7 @@ rykfsn.xyz
 ryl2flame.ddns.net
 rylandi2002.com
 rylandshoulderiucom.hopto.org
+rylcrg.site
 rylenta.com
 rylenz.top
 ryluniverse.zapto.org
@@ -332378,6 +332387,7 @@ sarocangarates.com
 sarp.site
 sarpinomointainresorts.com
 sarpvision.org
+sarrafcolan.cfd
 sarrararadara.website
 sarrentola.com
 sarrramargacungel.com
@@ -360030,6 +360040,7 @@ takicitokatici.cfd
 takilanyonetiler.xyz
 takilmam.xyz
 takim-setleri-tr.click
+takimaletindirimibasladi.com
 takimcantasi62.vip
 takimcantasiindirimi.sbs
 takimcantasiseri.xyz
@@ -433917,6 +433928,7 @@ ziwaw0.duckdns.org
 zixdf.com
 zixongw.com
 zixzanwe.xyz
+ziyaretedilenkategori.sbs
 ziyateri.loveslife.biz
 ziyemy.shop
 ziyurfxe.com

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-20 07:24:02 UTC
-! Total: 347342 rules
+! Last modified: 2026-01-20 09:23:13 UTC
+! Total: 347353 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41018,6 +41018,7 @@
 *://*.barencetrgris.com.tr/*
 *://*.barendwe.ru/*
 *://*.barential.cf/*
+*://*.barerdrury.cfd/*
 *://*.baresiconstrucoes.com/*
 *://*.baresions.com/*
 *://*.barevanet.com/*
@@ -53090,6 +53091,8 @@
 *://*.binancelink.com/*
 *://*.binancelldehediyeler2022.ml/*
 *://*.binancelogins-com.ml/*
+*://*.binanceltd.cc/*
+*://*.binanceltd.net/*
 *://*.binanceltr.com/*
 *://*.binanceltr.xyz/*
 *://*.binancem.link/*
@@ -76153,6 +76156,7 @@
 *://*.cocahut.com/*
 *://*.cocainso.xyz/*
 *://*.cocarson123.com/*
+*://*.cocika.click/*
 *://*.cock.li/*
 *://*.cockembodiment.top/*
 *://*.cockpitencyclopaedia.top/*
@@ -178182,6 +178186,7 @@
 *://*.istanbulluoln.click/*
 *://*.istanbulluolrsmdfsk.store/*
 *://*.istanbulluolsakmi.click/*
+*://*.istanbulluolunhemen.com/*
 *://*.istanbulluolunlann.com/*
 *://*.istanbulluolunnn.com/*
 *://*.istanbulluolunnnnhemen.com/*
@@ -196355,6 +196360,7 @@
 *://*.kosgdestekprojesi.site/*
 *://*.kosgeb-basvur.com/*
 *://*.kosgeb-basvuru.click/*
+*://*.kosgeb-basvuruform.com/*
 *://*.kosgeb-destek.com/*
 *://*.kosgeb-hibe-basvuru.cfd/*
 *://*.kosgeb-kredi.click/*
@@ -197088,6 +197094,7 @@
 *://*.kredibasvuruekranlari.ga/*
 *://*.kredibasvurufirsatlari.com/*
 *://*.kredibasvurufirsatlarianinda.xyz/*
+*://*.kredibasvuruformu.com/*
 *://*.kredibasvurularim.com/*
 *://*.kredibasvurularinizgrnti.com/*
 *://*.kredibasvurum.com.tr/*
@@ -260680,6 +260687,7 @@
 *://*.ryjav.com/*
 *://*.rykfsn.xyz/*
 *://*.rylandi2002.com/*
+*://*.rylcrg.site/*
 *://*.rylenta.com/*
 *://*.rylenz.top/*
 *://*.ryn.mom/*
@@ -265157,6 +265165,7 @@
 *://*.sarp.site/*
 *://*.sarpinomointainresorts.com/*
 *://*.sarpvision.org/*
+*://*.sarrafcolan.cfd/*
 *://*.sarrararadara.website/*
 *://*.sarrentola.com/*
 *://*.sarrramargacungel.com/*
@@ -287194,6 +287203,7 @@
 *://*.takilanyonetiler.xyz/*
 *://*.takilmam.xyz/*
 *://*.takim-setleri-tr.click/*
+*://*.takimaletindirimibasladi.com/*
 *://*.takimcantasi62.vip/*
 *://*.takimcantasiindirimi.sbs/*
 *://*.takimcantasiseri.xyz/*
@@ -346415,6 +346425,7 @@
 *://*.zixdf.com/*
 *://*.zixongw.com/*
 *://*.zixzanwe.xyz/*
+*://*.ziyaretedilenkategori.sbs/*
 *://*.ziyaretsayfasi1-5.com/*
 *://*.ziyemy.shop/*
 *://*.ziyurfxe.com/*
