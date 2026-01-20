@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-20 13:38:05 UTC
-# Toplam: 435442 Domain
+# Son Güncelleme: 2026-01-20 14:23:06 UTC
+# Toplam: 435446 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -167132,6 +167132,7 @@ gavatadator.com
 gavd40tn.duckdns.org
 gaveislem.22web.org
 gavhzm.com
+gaviaeayless.sbs
 gavih.org
 gavkfbysqn.duckdns.org
 gavnoed.hopto.org
@@ -190618,6 +190619,7 @@ hemenislemmerkezi.app
 hemenislemmx.sg-host.com
 hemenislemnkkntasi.online
 hemenislemnktsi.online
+hemenislemnktsi.shop
 hemenislemntkonasi.net
 hemenislemntonkasni.online
 hemenislemosnutlktaktan.blogspot.com
@@ -233763,6 +233765,7 @@ karacastore.net.tr
 karacastore.org.tr
 karacatabak.free.site.pro
 karacatc.cfd
+karacatc.com
 karacatr.biz.tr
 karacatr.com
 karacatr.com.tr
@@ -329936,6 +329939,7 @@ sahibindenarabam.com.co
 sahibindenarabul.net
 sahibindenataturkfaturasistemi.ml
 sahibindenbanaozel.com
+sahibindenbireysel.com
 sahibindenbireysel.tk
 sahibindenbireyselkredi.com
 sahibindenbireyselparamguvende.com
