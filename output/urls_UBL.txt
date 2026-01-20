@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-20 15:23:01 UTC
-! Total: 347416 rules
+! Last modified: 2026-01-20 16:23:41 UTC
+! Total: 347422 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14852,6 +14852,7 @@
 *://*.a101online.org/*
 *://*.a101online.shop/*
 *://*.a101online.site/*
+*://*.a101online.space/*
 *://*.a101online.store/*
 *://*.a101online.top/*
 *://*.a101online.website/*
@@ -35592,6 +35593,7 @@
 *://*.askayacepdenkolay.net/*
 *://*.askbarn.top/*
 *://*.askby.cyou/*
+*://*.askcdlkasdklasd.sbs/*
 *://*.askcopli.xyz/*
 *://*.askcrave.top/*
 *://*.askdcxncxbz.net/*
@@ -44793,6 +44795,7 @@
 *://*.bbbjdnxbgp3.ru/*
 *://*.bbbkkkmceell.com/*
 *://*.bbbmcell.com/*
+*://*.bbbsvvrrrqnbbprmsoyn.click/*
 *://*.bbbvcccghhjjjjjj.xyz/*
 *://*.bbbvcdlasklewx.net/*
 *://*.bbc11tv.com/*
@@ -138644,6 +138647,7 @@
 *://*.gonlinemisllemmnumtr.store/*
 *://*.gonlinemisllemtrapp.store/*
 *://*.gonlinemmislemtrapp.store/*
+*://*.gonllineisllernenurnbonusurn.space/*
 *://*.gonllinemislemenutr.space/*
 *://*.gonllinemisllemleritrapp.store/*
 *://*.gonllinemobilmenubasvurislemlleri.com/*
@@ -173877,6 +173881,7 @@
 *://*.internetsube-halkbank-parafpuan.com/*
 *://*.internetsube-halkbankparaf.com/*
 *://*.internetsube-hallkbank.com/*
+*://*.internetsube-ing.click/*
 *://*.internetsube-ingbank.ws/*
 *://*.internetsube-ingbankasi.com/*
 *://*.internetsube-ingbanktr.com/*
@@ -177834,6 +177839,7 @@
 *://*.istanbulasd.net/*
 *://*.istanbulasjq.net/*
 *://*.istanbulataturk.xyz/*
+*://*.istanbulbabherkskrnaz.com/*
 *://*.istanbulbakanligi.com/*
 *://*.istanbulbakarim.online/*
 *://*.istanbulbakcn.com/*
