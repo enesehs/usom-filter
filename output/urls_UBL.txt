@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-20 21:11:41 UTC
-! Total: 347459 rules
+! Last modified: 2026-01-20 22:10:50 UTC
+! Total: 347464 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -152813,6 +152813,7 @@
 *://*.hemen-kripto-varlik-sorgula.xyz/*
 *://*.hemen-odedin.com/*
 *://*.hemen-odemesizdeolsun.com/*
+*://*.hemen-onay.click/*
 *://*.hemen-onay.icu/*
 *://*.hemen-onay.online/*
 *://*.hemen-onay.shop/*
@@ -179748,6 +179749,7 @@
 *://*.ithmorak.com/*
 *://*.ithostprotocol.com/*
 *://*.ithumane.com/*
+*://*.itibardestek.com/*
 *://*.itiee.life/*
 *://*.itieee.life/*
 *://*.itinfogate.com/*
@@ -252220,6 +252222,7 @@
 *://*.q8jn7u.com/*
 *://*.q905hr35.life/*
 *://*.q9120qwpsa.in/*
+*://*.q9js4ngxlrk.icu/*
 *://*.qa-pttgov.top/*
 *://*.qaarl.top/*
 *://*.qaarntibvba.com/*
@@ -319157,6 +319160,7 @@
 *://*.w7network.xyz/*
 *://*.w8818.vip/*
 *://*.w8rq4w1rqwr8.net/*
+*://*.w8t2mcf.icu/*
 *://*.w996644com.com/*
 *://*.wa-gtg.com/*
 *://*.wa-wfb-unlock-approval-now.agency/*
@@ -335037,6 +335041,7 @@
 *://*.y4peace.org/*
 *://*.y4pimineniyisi597ckjblk.com/*
 *://*.y5.ms/*
+*://*.y5hdcf.icu/*
 *://*.y6ntzhj.cn/*
 *://*.y7d.app/*
 *://*.y7rsve.club/*
