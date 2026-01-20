@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-20 05:23:11 UTC
-# Toplam: 435366 Domain
+# Son Güncelleme: 2026-01-20 06:22:49 UTC
+# Toplam: 435375 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24029,6 +24029,7 @@ a101iiletisim.com
 a101ile-indirimli-alisveris.wuaze.com
 a101ile.comilan.org
 a101ileegell.duckdns.org
+a101ilegel.com
 a101iletiisim.com
 a101iletiisimm.com
 a101iletilenler101.duckdns.org
@@ -39133,6 +39134,7 @@ aktuel-harca-harca-bitmez.xyz
 aktuel-harcaharcabitmez.com
 aktuel-indirim-a101.com
 aktuel-indirim-firsatlari-otuz-bir-ekim.info
+aktuel-indirim-ve-kampanyalar.cfd
 aktuel-indirim.site
 aktuel-kampnylarfirsa34tlari334.com
 aktuel-kapida.name.tr
@@ -63985,6 +63987,7 @@ belliniepecuniaimmobilisrl.xyz
 bellinntorn.com
 bellmoria.art
 belloisetropical.com
+bellonaonlineozel.duckdns.org
 belloprops.com
 bellref-1.ddns.net
 bellsis345.site
@@ -189804,6 +189807,7 @@ helper.zulpichat.com
 helperaccount.sytes.net
 helperanalytics.ru
 helperlivesbacks.ml
+helpersx.click
 helpexellent.com
 helpfixmyedd.ddns.net
 helpflow.org
@@ -219468,6 +219472,7 @@ istanbbblllkrrrrrt.mooo.com
 istanbbluyuklem.net
 istanbbullkartbasvr.org
 istanbbullkartiyuklee.net
+istanbbulluvatandaslar.com
 istanbdlkart.blogspot.com
 istanbdulluolunn.com
 istanbduslburdsk.shop
@@ -220438,6 +220443,7 @@ istbul-islemleri.digital
 istbulkartdolum.net
 istbulkrrt.net
 istbuln-krtyukle.com
+istburbelgim.xyz
 istbusns.com
 istbusnse.com
 istbvkart.blogspot.com
@@ -267885,6 +267891,7 @@ mouvobo.site
 mouylsotamozaidyewa.blog
 mov-bancosantander.ddns.net
 mov-ok.77-83-201-134.plesk.page
+movadda.click
 moval.hopto.org
 movarlogistics.com
 movcr.ml
@@ -327503,6 +327510,7 @@ sahibinden-get.ealimguvenceli.com
 sahibinden-get.ealimguvencem.com
 sahibinden-get.ealimmobil.com
 sahibinden-get.eservisalimlar.com
+sahibinden-get.eurunlerhizmetiniz.com
 sahibinden-get.guvencelmobil.com
 sahibinden-get.guvenilir-odeme.com
 sahibinden-get.guvenli-alisverislerim.sa.com
@@ -401948,6 +401956,7 @@ webramazandabakanlar.ml
 webramazanfinans-hediyeleri.com
 webrangir.com
 webrank.ws
+webredirectonline.ngrok.pro
 webregistghla.ddns.net
 webreopen.top
 webresources.live
