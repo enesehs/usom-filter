@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-20 23:10:07 UTC
-! Total: 347468 rules
+! Last modified: 2026-01-21 00:53:15 UTC
+! Total: 347475 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -62407,6 +62407,7 @@
 *://*.bor4omkin.ru/*
 *://*.boraligunlerburada.com.tr/*
 *://*.boramind.co.kr/*
+*://*.boravith.com/*
 *://*.borbrbmrtxtrbxrq.site/*
 *://*.borc-bilgilendirme.com/*
 *://*.borc-goruntuleme.online/*
@@ -142213,6 +142214,7 @@
 *://*.gunlukfirsatlarsizlerlehemensatinal.xyz/*
 *://*.gunlukgunes.com.tr/*
 *://*.gunlukguzelkampanyalar.com.tr/*
+*://*.gunlukhaberlerim.click/*
 *://*.gunlukharikaalisveris.online/*
 *://*.gunlukharikaalisveris.xyz/*
 *://*.gunlukharikafirsatlar.com.tr/*
@@ -143564,6 +143566,7 @@
 *://*.guvenlisatisahibinden.com/*
 *://*.guvenlisatisdolap.gq/*
 *://*.guvenlisatisnoter.com/*
+*://*.guvenlisayfa.online/*
 *://*.guvenlisayfabildirim.live/*
 *://*.guvenlisayfam.nl/*
 *://*.guvenlisbayistr.com/*
@@ -206006,6 +206009,7 @@
 *://*.malifalinali.work/*
 *://*.malignantsymposium.top/*
 *://*.malignantvicinity.top/*
+*://*.malihukuk.org/*
 *://*.maliidosya.com/*
 *://*.maliindam.xyz/*
 *://*.maliiyedosyasorgula.com/*
@@ -221963,6 +221967,7 @@
 *://*.newssilk.top/*
 *://*.newsstory.online/*
 *://*.newsstory.pro/*
+*://*.newssu.com/*
 *://*.newstambulplaces.space/*
 *://*.newstar-eg.com/*
 *://*.newstartnet.online/*
@@ -262649,6 +262654,7 @@
 *://*.sahibinden-get.net/*
 *://*.sahibinden-get.shop/*
 *://*.sahibinden-get.site/*
+*://*.sahibinden-get.tr/*
 *://*.sahibinden-get3dodeme.gq/*
 *://*.sahibinden-get3dodeme.tk/*
 *://*.sahibinden-get3dsecure.net/*
@@ -322082,6 +322088,7 @@
 *://*.weqsdwqesdclick.art/*
 *://*.weqspan.com/*
 *://*.weqwe-weqeq-ewq.space/*
+*://*.weqxcsdaf4324.store/*
 *://*.wer-d.info/*
 *://*.werasmiro.top/*
 *://*.werdotx.shop/*
