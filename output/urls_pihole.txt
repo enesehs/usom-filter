@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-21 12:23:08 UTC
-# Toplam: 435558 Domain
+# Son Güncelleme: 2026-01-21 13:36:56 UTC
+# Toplam: 435562 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63936,6 +63936,7 @@ belfortsecurity.com
 belgardsas.com
 belgarrzens.com
 belgeaidatiadeleriniz.com
+belgeal.com
 belgealim.net
 belgearsiviadeler.com
 belgearsiviadeleriniz.com
@@ -121186,6 +121187,7 @@ dipgv.com
 diplicano.ru
 diplom-attestat.net
 diploma-hizmeti.com
+diploma-sorgulama.com
 diploma360.live
 diplomaal.com
 diplomabasvuru.com
@@ -154696,6 +154698,7 @@ fibakrediniz.com
 fibakredionay.net
 fibakurumsalcom.cfd
 fibamenkuldegerler.com
+fibamenkulsermayeler.com
 fibamenkultrade.com
 fibamenkulyatirim.com
 fibanakitihtiyacim.net
@@ -371857,6 +371860,7 @@ tr-bayiodesistem.com
 tr-bayiodet.com
 tr-bayisortalkhizmet.net
 tr-baykar.website
+tr-bb-va.my-homeip.com
 tr-bbva-garanti.com
 tr-bbva-giris-lock.za.com
 tr-bbvagaranti.com
