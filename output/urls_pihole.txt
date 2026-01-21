@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-21 17:44:20 UTC
-# Toplam: 435582 Domain
+# Son Güncelleme: 2026-01-21 18:27:29 UTC
+# Toplam: 435590 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -31278,6 +31278,7 @@ adlitc.org
 adlitr.org
 adlitrceza.org
 adliuzlasma.com
+adliyasatakip.org
 adliye.icu
 adliye.online
 adliyecezasorgulama.org
@@ -142551,6 +142552,7 @@ en-paran.com
 en-paraonlinesube.ml
 en-paraonlinesube.tk
 en-paraozelbmw.com
+en-populer-haftalik-indirim-ve-brosurler.cfd
 en-porsche-e-basvuruform.com
 en-porsche-e-basvuruformu.com
 en-porsche-online-basvur.com
@@ -153357,6 +153359,7 @@ fbiabasvbintrnsvbbesinvknpanylarintkb723.b-cdn.net
 fbiabavnk2-wbintrn-svbbesinv-knpanylarintfkn302.b-cdn.net
 fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
+fbid4564581243.com
 fbid81e3a9b4d520.sbs
 fbimcell.com
 fbinancekampanyanizgiris.ml
@@ -174430,6 +174433,7 @@ gorunmezberrin.wixsite.com
 gorunmezel.org
 gorunntulucanlisohbet.gq
 gorunttulucanlisohbet.gq
+goruntule.rf.gd
 goruntulesayfami-bim.com
 goruntullucanlisohbet.gq
 goruntulucanlisohbet.com
@@ -232223,6 +232227,7 @@ kampanyamizbuyuk.com.tr
 kampanyamizbuyuk.xyz
 kampanyamizdan3402.site
 kampanyamizdan3403.site
+kampanyamizdayiz.my-homeip.com
 kampanyamizemeklilerimizaicin.buzz
 kampanyamizemeklilerimizicin.buzz
 kampanyamizguncel.com
@@ -348551,6 +348556,7 @@ son-iadelerinizialin.net
 son-indirim-gunleri-yilbasi-oncesi.sbs
 son-indirimler-tr.com
 son-kalan-hazirlik-ayaklariniza-degistiren.com
+son-kampanya-aktuel-brosur.cfd
 son-kampanya-gunu.shop
 son-kampanya-sahane-hafta.com
 son-kampanya-zamani-kacirma.com
@@ -353720,6 +353726,7 @@ stanleydarkflow.xyz
 stanleydunyasi.xyz
 stanleyechanges.xyz
 stanleyechoes.xyz
+stanleyermemis.xyz
 stanleyevriliyor.xyz
 stanleyferrto.me
 stanleyferto.me
@@ -396509,6 +396516,7 @@ vkf-katilim-digital-world.xyz
 vkf-kkiadeniolustur.com
 vkf-kt.online
 vkf-ktlm.net
+vkf-mbll.sbs
 vkf-mobil.com.tr
 vkf-mobilim.com.tr
 vkf-mobilvibisube.com
