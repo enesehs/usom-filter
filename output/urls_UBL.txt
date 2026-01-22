@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-22 06:23:28 UTC
-! Total: 347556 rules
+! Last modified: 2026-01-22 09:23:40 UTC
+! Total: 347572 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -56401,6 +56401,7 @@
 *://*.bizekimsegelemez.xyz/*
 *://*.bizendra.com.np/*
 *://*.bizenerjiweb.com/*
+*://*.bizeozel.cfd/*
 *://*.bizeozelurunlerkapisgidiyor.com/*
 *://*.bizepayimiziverceksin.shop/*
 *://*.bizer.shop/*
@@ -71600,6 +71601,7 @@
 *://*.celnoria.site/*
 *://*.celogeek.com/*
 *://*.celpasaj.com/*
+*://*.celpersx.click/*
 *://*.celsiusrusty.top/*
 *://*.celssa.com/*
 *://*.celtabet151.xyz/*
@@ -92508,6 +92510,7 @@
 *://*.dfafdafdasn.net/*
 *://*.dfahwnuxc.com/*
 *://*.dfbdfwrthgef.top/*
+*://*.dfbhlan.info/*
 *://*.dfclgvk.com/*
 *://*.dfcserwan.net/*
 *://*.dfcxwleb.asia/*
@@ -112085,6 +112088,7 @@
 *://*.emekli-kampanyamiz.com/*
 *://*.emekli-promo-basvur.com/*
 *://*.emeklibasvurum.com/*
+*://*.emeklibilgilendirme.cfd/*
 *://*.emeklicampagn.com/*
 *://*.emeklidegerlendirme.com/*
 *://*.emekliedevletbasvuru.com/*
@@ -151032,6 +151036,7 @@
 *://*.hazinemali.cf/*
 *://*.hazinemaliyeeiade1.com/*
 *://*.hazinemaliyeodeme.com/*
+*://*.hazinemaliyetr.org/*
 *://*.hazinetrgirisuktr.com/*
 *://*.hazinetrgovuktr.com/*
 *://*.hazinetrtcbm72.ga/*
@@ -154975,6 +154980,7 @@
 *://*.hfgdgfhghfhd.net/*
 *://*.hfghshs.net/*
 *://*.hfgiopalnaxessw.ml/*
+*://*.hfgjnzl.info/*
 *://*.hfgjsajode.net/*
 *://*.hfgs-demo.xyz/*
 *://*.hfhl.org.ls/*
@@ -188900,6 +188906,7 @@
 *://*.kapida-haftax.com.tr/*
 *://*.kapida-haftax.com/*
 *://*.kapida-link.com.tr/*
+*://*.kapida-m8q7z2x1.bond/*
 *://*.kapida-market-online.name.tr/*
 *://*.kapida-market-online.xyz/*
 *://*.kapida-market.app/*
@@ -189550,6 +189557,8 @@
 *://*.karacaindirrim.com/*
 *://*.karacaindirrim.xyz/*
 *://*.karacaindisirim.com/*
+*://*.karacaistnbl.cfd/*
+*://*.karacaistnye.cfd/*
 *://*.karacakacirma.com.tr/*
 *://*.karacakacirma.xyz/*
 *://*.karacakacirmamalisin.online/*
@@ -200930,6 +200939,7 @@
 *://*.lelelevis.com/*
 *://*.leletorrents.info/*
 *://*.lelinasta.pw/*
+*://*.lelpersx.click/*
 *://*.lelskvsmfdn.net/*
 *://*.lemandurmazsubsin.cfd/*
 *://*.lemangecshxgsvins.net/*
@@ -207318,6 +207328,7 @@
 *://*.marketleri-tr-siparis.online/*
 *://*.marketleri-tr.com/*
 *://*.marketleri-tr.online/*
+*://*.marketlerin-guncel-aktuel-katalog-listesi.cfd/*
 *://*.marketlerinizdenmis.cfd/*
 *://*.marketleriseviyozsizdesevin.com/*
 *://*.marketlertr.com/*
@@ -226375,6 +226386,7 @@
 *://*.obilok.xyz/*
 *://*.obimcell.net/*
 *://*.obimcelli.com/*
+*://*.obinance.exchange/*
 *://*.obiqwmdjs.com/*
 *://*.obirgunkocaninelinegecer.club/*
 *://*.obiryag.site/*
@@ -270581,6 +270593,7 @@
 *://*.sgkprimborcuodemxhzmetleri.net/*
 *://*.sgkpriminiodem.net/*
 *://*.sgkprimodeme.com/*
+*://*.sgkpromosyon.cfd/*
 *://*.sglgln01aldilgln4brdnn.com/*
 *://*.sglkbknlguygulama.club/*
 *://*.sgnlapp.info/*
@@ -282433,6 +282446,7 @@
 *://*.stanleymarket.biz.tr/*
 *://*.stanleymarket.info.tr/*
 *://*.stanleymarket.net.tr/*
+*://*.stanleymerdo.xyz/*
 *://*.stanleyneonshift.xyz/*
 *://*.stanleynewdawn.xyz/*
 *://*.stanleynewroute.xyz/*
@@ -282516,6 +282530,7 @@
 *://*.stanleyvk.click/*
 *://*.stanleyvoidpath.xyz/*
 *://*.stanleywback.xyz/*
+*://*.stanleywbacking.xyz/*
 *://*.stanleywery.xyz/*
 *://*.stanleyyakinda.xyz/*
 *://*.stanleyzeropoint.xyz/*
@@ -293615,6 +293630,7 @@
 *://*.thtbimcellhizmet.com/*
 *://*.thtxwrlksiyb.space/*
 *://*.thuiorkaur.net/*
+*://*.thularp-yolgisehizmetleri.com/*
 *://*.thulasmanga.co.za/*
 *://*.thulligend.com/*
 *://*.thumbcoalition.top/*
