@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-21 23:13:59 UTC
-! Total: 347540 rules
+! Last modified: 2026-01-22 00:53:00 UTC
+! Total: 347545 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2080,6 +2080,7 @@
 *://*.11052025.site/*
 *://*.1107studios.biz/*
 *://*.110cfsraw.xyz/*
+*://*.110v1rvcb.icu/*
 *://*.111--8282822215.cloud/*
 *://*.111-222-999-777-11.com/*
 *://*.111-2365-965-758.site/*
@@ -3606,6 +3607,7 @@
 *://*.16748272-coinbase.com/*
 *://*.1676.cloud/*
 *://*.16782942-coinbase.com/*
+*://*.167hwr24fi.icu/*
 *://*.168-gov.info/*
 *://*.168.235.103.89/*
 *://*.168.235.98.135/*
@@ -61014,8 +61016,10 @@
 *://*.bnrgiris-trkmpanyalar.com/*
 *://*.bnrgirisbasvuru.com/*
 *://*.bnrince.org/*
+*://*.bnrklmslari.click/*
 *://*.bnrklmynlndrme.sbs/*
 *://*.bnrklmynlndrmed.sbs/*
+*://*.bnrklmynlndrmesi.sbs/*
 *://*.bnrn.com.tr/*
 *://*.bnrnboerxce.com/*
 *://*.bnrncntrgirsleri.online/*
@@ -273607,6 +273611,7 @@
 *://*.simdi-lndrlmleri-kullanma-noktasi.com/*
 *://*.simdi-ode.com/*
 *://*.simdi-olur.com/*
+*://*.simdi-onaylansin.click/*
 *://*.simdi-onaylansin.com/*
 *://*.simdi-sende-dene.com/*
 *://*.simdi-senin-olsun.com/*
