@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-22 17:23:41 UTC
-# Toplam: 435701 Domain
+# Son Güncelleme: 2026-01-22 20:12:36 UTC
+# Toplam: 435717 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1940,6 +1940,7 @@
 101-de-firsatlar-bugune-ozel-online-siparis-tr.com
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
+101-de-indirim-firsatlari-bugune-ozel-alisveris-tr.com
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
@@ -2036,6 +2037,8 @@
 101-oglenkacmaz10.com
 101-oglenkapinda.com
 101-online-akutelmayis.com
+101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
+101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
 101-online-ozel.ooguy.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
 101-online-sponsor-ozel-siparis-ver-tr-cep.com
@@ -61625,7 +61628,6 @@ baykar.bet
 baykar.buzz
 baykar.capitalingon.com
 baykar.cloud
-baykar.com
 baykar.glitch.me
 baykar.icu
 baykar.lol
@@ -71491,6 +71493,7 @@ binanceltr.xyz
 binancem.link
 binancemega.net
 binancememecoin.com
+binancemobile.app
 binancemobilgiris.com
 binancen.live
 binancen.top
@@ -125497,6 +125500,7 @@ dsfkjdsjkadjkdasd.net
 dsfljsdfjewf.info
 dsfnnxx3.net
 dsfsddsfds.click
+dsfsdjh342sdjhsdf.sbs
 dsfsdsafnmn.net
 dsfvdolktp.duckdns.org
 dsfylhq4.duckdns.org
@@ -149741,6 +149745,7 @@ evrak-dogrulama-e-devlet.com
 evrakaidatiade.com
 evrakarsiviadeleri.com
 evrakbelgeodeme.com
+evrakdogrulama-uyap-gov.com
 evrakdogrulama.online
 evrakdogrulamaturkiyegov.web1337.net
 evrakiadesi.com
@@ -153392,6 +153397,7 @@ fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
 fbid4564581243.com
 fbid5465498545613.sbs
 fbid81e3a9b4d520.sbs
+fbidgarantim5465048004506.me
 fbimcell.com
 fbinancekampanyanizgiris.ml
 fbinancekampanyanizgiris.tk
@@ -176833,6 +176839,7 @@ guardiancredit.hopto.org
 guardiancustody.top
 guardianhacker.zapto.org
 guardianmasculine.top
+guardianportfolio.com
 guardianrotate.top
 guardiaodetroiamenu.ddns.net
 guardittech.com
@@ -181513,6 +181520,7 @@ hacklinkcini.blogspot.com.tr
 hacklinker.com
 hacklinknet.blogspot.com.tr
 hacklinkpanel.app
+hacklinkpanel.xyz
 hacklinksatisi.com
 hackman007.zapto.org
 hackmatacks.com
@@ -220284,6 +220292,7 @@ istanbulluoln.click
 istanbulluolrsmdfsk.store
 istanbulluolsakmi.click
 istanbulluolunhemen.com
+istanbulluolunhemennn.com
 istanbulluolunlann.com
 istanbulluolunnn.com
 istanbulluolunnnnhemen.com
@@ -237944,6 +237953,7 @@ kgmgovitr.top
 kgmgovm.top
 kgmgovonline.qpon
 kgmgovot.top
+kgmgovr.top
 kgmgovs.sbs
 kgmgovt.cc
 kgmgovt.top
@@ -242677,6 +242687,7 @@ kosgebhibebasvurusu.cfd
 kosgebhibebasvurusu.com
 kosgebiskur.com
 kosgebkredibasvur.com
+kosgebkredidestegi.com
 kosgebkredidestek.com
 kosgebkrediformu.com
 kosgebkredimerkezi.click
@@ -264470,6 +264481,7 @@ mobil-kuveytturk.com
 mobil-limit.online
 mobil-link.com.tr
 mobil-linki.com.tr
+mobil-links-kisalt.com
 mobil-magaza-indirimli.online
 mobil-marketi-extra-tr.online
 mobil-marketi-tr.online
@@ -334253,6 +334265,7 @@ seasonnature.net
 seasonplease.net
 seasonunveil.homes
 seasonzigzag.top
+seassyr.com
 seasv.vercel.app
 seatrackline.com
 seavibesco.com
@@ -338953,6 +338966,7 @@ sethgss.com
 setincon.com
 setinofis.pw
 setizeltas.xyz
+setka2025toki.online
 setkampanya.xyz
 setlocasd.xyz
 setlongconf.pw
@@ -353799,6 +353813,7 @@ stanleyafterdark.xyz
 stanleyafterrise.xyz
 stanleyafterzero.xyz
 stanleyalidnkacrma666dann.com
+stanleyaurora.xyz
 stanleyawake.xyz
 stanleyazo.xyz
 stanleybaseline.xyz
@@ -413205,6 +413220,7 @@ wysok.zapto.org
 wyspuryayd.duckdns.org
 wystrix.com
 wyuklemelerw.sg-host.com
+wyusloaxin.icu
 wywloyygxckkita.cn
 wywns2ie4.duckdns.org
 wywy44.ddns.net
