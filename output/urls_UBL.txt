@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-22 11:14:09 UTC
-! Total: 347572 rules
+! Last modified: 2026-01-22 12:27:46 UTC
+! Total: 347590 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2171,6 +2171,7 @@
 *://*.1152-698-785-985.site/*
 *://*.115526875e47.com/*
 *://*.115cfsrrw.xyz/*
+*://*.115polistr.online/*
 *://*.115tr-polis.online/*
 *://*.115tr-polistr.online/*
 *://*.116-12-355-755.com/*
@@ -35270,6 +35271,7 @@
 *://*.asdkrldmznx.net/*
 *://*.asdkrt4543.com/*
 *://*.asdladcdvt-sdfvtt.com/*
+*://*.asdlasdckalsds.cfd/*
 *://*.asdlewkrlkew123rewr-icuds2312.xyz/*
 *://*.asdlfkasklf.com/*
 *://*.asdlsabanskprdfohaf434.site/*
@@ -96190,6 +96192,7 @@
 *://*.dogruadamrte.net/*
 *://*.dogruadresin.sbs/*
 *://*.dogruakisi.info/*
+*://*.dogrubulan.com/*
 *://*.dogrudan-bize-gelen-hislerle-sahit-olmalisin.com/*
 *://*.dogrudan-nerden-geldigimizi-gordunuz-yetisen.com/*
 *://*.dogrudan-uzaga-hissetmeden-kalinirsa-oldu.com/*
@@ -151036,6 +151039,7 @@
 *://*.hazinemali.cf/*
 *://*.hazinemaliyeeiade1.com/*
 *://*.hazinemaliyeodeme.com/*
+*://*.hazinemaliyetc.org/*
 *://*.hazinemaliyetr.org/*
 *://*.hazinetrgirisuktr.com/*
 *://*.hazinetrgovuktr.com/*
@@ -160934,6 +160938,7 @@
 *://*.hmnszinlefrsatalrgdunyasndayz.com/*
 *://*.hmnszinlefrsatalrgdunyasndayzz.com/*
 *://*.hmntklsndsalkrtds.pro/*
+*://*.hmnyklhdsh.com/*
 *://*.hmnzitakpzietzkicki.com/*
 *://*.hmobil-islemler.net/*
 *://*.hmogdcemeyap.org/*
@@ -164322,6 +164327,7 @@
 *://*.hzlfkslee.net/*
 *://*.hzlgecsdmelrhgs.com/*
 *://*.hzlgvjcsykglme.net/*
+*://*.hzli-alsvrzler.com/*
 *://*.hzli-bsvrtokl.com/*
 *://*.hzli-gvuneli-stiyeii-git.click/*
 *://*.hzli-islemler-ptthgcsogs.com/*
@@ -171379,6 +171385,7 @@
 *://*.indirimli-tl-yukleme-bmcell.ml/*
 *://*.indirimli-urunler-aktuel-tr.online/*
 *://*.indirimli-urunler-ve-brosurler.cfd/*
+*://*.indirimli-urunler-ve-haftalik-kampanyalar.cfd/*
 *://*.indirimli-urunler.store/*
 *://*.indirimli.club/*
 *://*.indirimli.online/*
@@ -188998,6 +189005,7 @@
 *://*.kapidakifirsatlarihemensepeteekle.online/*
 *://*.kapidakiinidirmlerburada.com/*
 *://*.kapidakimvar.click/*
+*://*.kapidakxisndrmlc-32nfls30c-x9323xk.store/*
 *://*.kapidalisveris.net/*
 *://*.kapidamagaza.com.tr/*
 *://*.kapidamagaza.org.tr/*
@@ -193069,6 +193077,7 @@
 *://*.kgmgovtr.ink/*
 *://*.kgmgovtr.top/*
 *://*.kgmgovtrbuy.com/*
+*://*.kgmgovtronline.top/*
 *://*.kgmgovzztr.top/*
 *://*.kgmgrv.cfd/*
 *://*.kgmgtio.cfd/*
@@ -195531,6 +195540,7 @@
 *://*.kobetwofour.buzz/*
 *://*.kobi-bugunfirsatisendekazan1.cloud/*
 *://*.kobi-halk-subem.com/*
+*://*.kobi-kredi.com/*
 *://*.kobi-paraf-hediye.com/*
 *://*.kobi-tr-paraf.com/*
 *://*.kobibasvurunutamamla-12.cloud/*
@@ -209754,6 +209764,7 @@
 *://*.melosiar.com/*
 *://*.melotchi.ru/*
 *://*.melovingsangria.online/*
+*://*.melpersx.click/*
 *://*.melqor.sbs/*
 *://*.melshox.com/*
 *://*.melstons.com/*
@@ -213167,6 +213178,7 @@
 *://*.mobilaktivasyonsube.com/*
 *://*.mobilalisverisget.com.tr/*
 *://*.mobilalisverislerimiz.com/*
+*://*.mobilalisverislerlesizinle.sbs/*
 *://*.mobilappdevletgirisiadelerim.app/*
 *://*.mobilaralik.cfd/*
 *://*.mobilavantajp-tt.com/*
@@ -236014,6 +236026,7 @@
 *://*.padenizbank.com/*
 *://*.padilla324.xyz/*
 *://*.padioicerequi.com/*
+*://*.padisahbetmobil.vip/*
 *://*.padisahimkmdeyizagacnr.cfd/*
 *://*.padonendavour.top/*
 *://*.padpasser-by.top/*
@@ -282523,6 +282536,7 @@
 *://*.stanleyuplift.xyz/*
 *://*.stanleyvault.xyz/*
 *://*.stanleyvector.xyz/*
+*://*.stanleyvectorial.xyz/*
 *://*.stanleyvenge.click/*
 *://*.stanleyverse.xyz/*
 *://*.stanleyvertex.xyz/*
@@ -286302,6 +286316,7 @@
 *://*.sweetdaggers.top/*
 *://*.sweetdream.world/*
 *://*.sweetdream77.top/*
+*://*.sweetest.online/*
 *://*.sweetgeorgiayarns.online/*
 *://*.sweetgirlshotmeet.info/*
 *://*.sweetjeopardise.top/*
@@ -289624,6 +289639,7 @@
 *://*.tcgonderitr.lat/*
 *://*.tcgwl.ru/*
 *://*.tchalkoim.com/*
+*://*.tchazinemaliye.org/*
 *://*.tchazinemaliye.site/*
 *://*.tchelovekoblako.club/*
 *://*.tchibebasvuru.cfd/*
@@ -317223,6 +317239,7 @@
 *://*.vitez-hockey.com/*
 *://*.vitgov.cc/*
 *://*.vithos.de/*
+*://*.vitix.click/*
 *://*.vitlescaux.com/*
 *://*.vitlogngrsakkrd.online/*
 *://*.vitrainxorer.com/*
@@ -329434,6 +329451,7 @@
 *://*.wymity.com/*
 *://*.wymizj.com/*
 *://*.wynar.top/*
+*://*.wyndaviesgroup.com/*
 *://*.wyndham-sao-paulo-ibirapuera.com/*
 *://*.wynnechecker.space/*
 *://*.wynqhguukhpo.space/*
