@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 05:24:05 UTC
-# Toplam: 435733 Domain
+# Son Güncelleme: 2026-01-23 08:14:41 UTC
+# Toplam: 435746 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14251,6 +14251,7 @@
 4jfz4htm1.duckdns.org
 4jgpnr1t26ogw1xg9q83hgs364.com
 4jhd481.cn
+4ji2rqo029pm.icu
 4jjif3d8f.duckdns.org
 4jjv27b.duckdns.org
 4jl663k.boyacentury.cn
@@ -42853,6 +42854,7 @@ alphamike.com.mv
 alphamodel.cyou
 alphanextt.com
 alphaobring.com
+alphaorchard.com
 alphapaketleme.site
 alphapipe.top
 alphapridesafaris.com
@@ -83214,6 +83216,7 @@ brewpilgrim.top
 brewquiver.top
 brewsterchristophe.ddns.net
 brewsterchristophe.hopto.org
+brexxionta.com
 brey-basvurum-aidat-geri-iadesi.ga
 brey-basvurum-aidat-geri-iadesi.ml
 brey1mcellll.com
@@ -158628,6 +158631,7 @@ fixcarfilo.com
 fixcarfilo.com.tr
 fixcarkiralama.com
 fixedetiquette.top
+fixedfivebroke.run
 fixedvolatile.top
 fixedzip.oss-ap-southeast-5.aliyuncs.com
 fixeidfloat.net
@@ -219977,6 +219981,7 @@ istanbulkaarrt.net
 istanbulkadar.shop
 istanbulkafrt.net
 istanbulkahveci.myshopify.com
+istanbulkalbim.shop
 istanbulkankisi.net
 istanbulkant.net
 istanbulkarat.net
@@ -304293,6 +304298,7 @@ popmarchjopa1.com
 popmuynas.vercel.app
 popo1998111.ddns.net
 popoiuiuntnt.net
+popoliassu.icu
 popolove275ds.ddns.net
 popooosneneee.net
 popooplas.vercel.app
@@ -331495,6 +331501,7 @@ sakjfsakj1254.xyz
 sakjvzuapn314v3.duckdns.org
 sakka.zapto.org
 saklhada.world
+sakliknt.com
 saklitarif.name.tr
 sakralsdwe.wtf
 sakran.tech
@@ -341238,6 +341245,7 @@ sifaolvakfim.com
 sifayemiswebtr.online
 sifeiji.top
 siffersniffer.best
+siffyivey.world
 sifiedlea54.xyz
 sifir-ikinci-el-alisveris-e-guvenli.com
 sifir-ikinciel-alisverislerim.com.tr
@@ -346101,6 +346109,7 @@ slav0988.ddns.net
 slav934.ddns.net
 slava3256.ddns.net
 slava3257.hopto.org
+slavegamecubic.run
 slavemalpractice.top
 slavery588.biz
 slavikchmo.ddns.net
@@ -346883,6 +346892,7 @@ snackstreamline.top
 snacktobacco.top
 snackvelocity.top
 snagelsnbndenarmgnlar.online
+snagsgocart.sbs
 snagvna1o1.net
 snaik.ddns.net
 snail-r1ced.cyou
@@ -355006,6 +355016,7 @@ straightforwardlever.top
 straightforwardmobilize.top
 straightforwardtr.online
 straightienic.top
+straightoflow.com
 straightsalute.top
 straightsuppression.top
 straightway.space
@@ -385495,6 +385506,7 @@ uneasyretrospective.top
 uneasytactic.top
 uneasytentative.top
 unedjqmrx.com
+unekircre-sg.xyz
 unemaciatedctrer.life
 unemployedlimp.top
 unemploymentagitate.top
@@ -392146,6 +392158,7 @@ valuablesolitude.top
 valuebasedfreelancer.com
 valuecoal.pk
 valuedismay.top
+valueroutes.com
 valueshare.ddns.net
 valus.hopto.org
 valveaffiliate.top
