@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 16:14:59 UTC
-# Toplam: 435815 Domain
+# Son Güncelleme: 2026-01-23 17:23:06 UTC
+# Toplam: 435821 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -64393,6 +64393,7 @@ benty.nut.cc
 bentyx.pro
 benueheritage.org
 benumuduemuber.net
+benununutmam.click
 benupdfesc.ddns.net
 benvarimlen.cfd
 benvarsamgelemezsin.cfd
@@ -142608,6 +142609,7 @@ en-paraonlinesube.ml
 en-paraonlinesube.tk
 en-paraozelbmw.com
 en-populer-haftalik-indirim-ve-brosurler.cfd
+en-populer-marketlerin-indirimli-urunler-katalogu.cfd
 en-porsche-e-basvuruform.com
 en-porsche-e-basvuruformu.com
 en-porsche-online-basvur.com
@@ -219941,6 +219943,7 @@ istanbulcuyuzbiz.online
 istanbulcxna.xyz
 istanbulda3d3.blogspot.com
 istanbuldabelbimlisin.vercel.app
+istanbuldankaldim.shop
 istanbuldanucamgelbsvr.sbs
 istanbuldasin.net
 istanbuldasin.site
@@ -282464,6 +282467,7 @@ ocaklndirimflrsatlari.site
 ocaklndirimiburadan.shop
 ocaklndirimiburadann.shop
 ocaklndirimiiburadan.shop
+ocaklndirimikacmiyorr.shop
 ocaklndirimleri.com
 ocaklndirimlerikacmaz.me
 ocaklndirimlerikacmaz.sbs
@@ -307167,6 +307171,7 @@ profil-dolap.com
 profil-service.ddns.net
 profil-tr.com
 profil.sepetimbinbir1.xyz
+profil45345643468786.com
 profilanaliz.site
 profilanaliz.store
 profilbak.cf
@@ -354027,6 +354032,7 @@ stanleyvoidpath.xyz
 stanleywback.xyz
 stanleywbacking.xyz
 stanleywery.xyz
+stanleywrky.xyz
 stanleyyakinda.xyz
 stanleyzeropoint.xyz
 stanly-carrefoursa.vercel.app
