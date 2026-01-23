@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 13:34:45 UTC
-# Toplam: 435789 Domain
+# Son Güncelleme: 2026-01-23 14:14:53 UTC
+# Toplam: 435796 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17743,6 +17743,7 @@
 7124975125.com
 712734218431278217412.cloud
 712842568.site
+713mtauburnctcolumbusoh43085.st
 7152231321.cloud
 715gvg5s.duckdns.org
 716295.xyz
@@ -178136,6 +178137,7 @@ gunlukguzelkampanyalar.com.tr
 gunlukhaberler.vercel.app
 gunlukhaberlerim.click
 gunlukhaberlerim.icu
+gunlukhaberlerim.online
 gunlukharikaalisveris.online
 gunlukharikaalisveris.xyz
 gunlukharikafirsatlar.com.tr
@@ -182302,6 +182304,7 @@ hahaaha.net
 hahaahahah.net
 hahabshxica.net
 hahaduyanda.site
+hahaezretard3.713mtauburnctcolumbusoh43085.st
 hahaha.zapto.org
 hahahahahaha.hopto.org
 hahahahahahahaha.hopto.org
@@ -310221,6 +310224,7 @@ pttavm.ve-islemleri.com
 pttavm.vitringuvence.com.tr
 pttavm.web-ile-islemleriniz.com
 pttavm.web-islem-tamamla.com
+pttavm.web-sayfasi.com
 pttavm.web-trilan.com
 pttavm.xyz
 pttavm2022x.com
@@ -316817,6 +316821,7 @@ r-pttgov.top
 r-sok.com.tr
 r-sponsor-crs.web.tr
 r.crazy-pare.34-125-197-109.plesk.page
+r.lolbrogg123424.com
 r.netluc.live
 r.p.formaxprime.co.uk
 r.worldssl.net
@@ -323386,6 +323391,7 @@ rnail.rnid.ru.inro.link
 rnandevvunzur.net
 rnaqfpsraonrumx.ru
 rnarport.com
+rnastercard.de
 rnavuvakti.net
 rnb.zapto.org
 rnbo-ua.ddns.net
@@ -431203,6 +431209,7 @@ zamlmob.pics
 zamman65s.duckdns.org
 zammazing0lll2ewsx.blogspot.com
 zammkatukr5.dns.navy
+zammkd54lwes.dns.navy
 zamnaci-1011de-kllm.com
 zamnaci-101de-kasllm.com
 zamnaci-101de-kllm.com
