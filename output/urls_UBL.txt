@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-23 17:23:06 UTC
-! Total: 347720 rules
+! Last modified: 2026-01-23 20:12:16 UTC
+! Total: 347744 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11680,6 +11680,7 @@
 *://*.7845213690.site/*
 *://*.7845387645.cloud/*
 *://*.7845616511656516112122.net/*
+*://*.78457456544323423.com/*
 *://*.78459745985.xyz/*
 *://*.784748932432.space/*
 *://*.7847874488744-2025.xyz/*
@@ -29290,6 +29291,7 @@
 *://*.alo10-marketciniz.com.tr/*
 *://*.alo12-market.com/*
 *://*.aloa1idf.cfd/*
+*://*.aloa1idf.sbs/*
 *://*.alobaby.net/*
 *://*.alobanka.com/*
 *://*.alocationrual.top/*
@@ -30509,6 +30511,7 @@
 *://*.ananain.dev/*
 *://*.ananaqwe.com/*
 *://*.ananasaldim.com/*
+*://*.ananaslar.com/*
 *://*.ananidomaltim.online/*
 *://*.ananikortkf.tk/*
 *://*.ananin.icu/*
@@ -79644,6 +79647,7 @@
 *://*.conkorea.com/*
 *://*.conlin-boats.com/*
 *://*.conmachicken.xyz/*
+*://*.conmateapp.com/*
 *://*.conmet-trade.ro/*
 *://*.conmmbak.vip/*
 *://*.conmmbank.vip/*
@@ -80038,11 +80042,13 @@
 *://*.convertibletactful.top/*
 *://*.convertisseurs-pdf.com/*
 *://*.convertix-api.xyz/*
+*://*.convertmasterapp.com/*
 *://*.convertmypdfnow.net/*
 *://*.convertpatriotic.top/*
 *://*.convertpdfplus.com/*
 *://*.convertpro.org/*
 *://*.convertscloud.com/*
+*://*.convertyfileapp.com/*
 *://*.conveyancejockey.top/*
 *://*.conveyancelegendary.top/*
 *://*.conveyanecdotal.top/*
@@ -81825,6 +81831,7 @@
 *://*.crystalmaker.pro/*
 *://*.crystalmind.ru/*
 *://*.crystalnba.com/*
+*://*.crystalpdf.com/*
 *://*.crystalridgedesigns.com/*
 *://*.crystaltidings.co.za/*
 *://*.crystaltreasures.shop/*
@@ -112097,6 +112104,9 @@
 *://*.emdghouseltd9.pro/*
 *://*.emdlkvrgilerim.net/*
 *://*.emdtr.com/*
+*://*.emeditorde.com/*
+*://*.emeditorgb.com/*
+*://*.emeditorjp.com/*
 *://*.emeeramaontinwrldecp.com/*
 *://*.emek3d.xyz/*
 *://*.emekcisin.shop/*
@@ -120609,6 +120619,7 @@
 *://*.eyytssodmxeleri.net/*
 *://*.eyzlpudb5s43.com/*
 *://*.ez-kampanya-harca.top/*
+*://*.ez2convertapp.com/*
 *://*.ezaxgjrqi.com/*
 *://*.ezaypq.info/*
 *://*.ezbere.name.tr/*
@@ -171981,6 +171992,7 @@
 *://*.infinit-world.info/*
 *://*.infinite-7.com/*
 *://*.infinite-coinrewards.site/*
+*://*.infinitedocsapp.com/*
 *://*.infiniteexplorations.store/*
 *://*.infinitegrid.online/*
 *://*.infinitesaturation.top/*
@@ -190140,6 +190152,7 @@
 *://*.karpowerships.space/*
 *://*.karpuz-kavun-findik-fistik.net/*
 *://*.karpuzkirazkavun.site/*
+*://*.karpuzlar.com/*
 *://*.karraca.click/*
 *://*.karraca.com/*
 *://*.karrarea.com/*
@@ -223922,6 +223935,7 @@
 *://*.notalmalisin.name.tr/*
 *://*.notarialvent.top/*
 *://*.notationconstituency.top/*
+*://*.notawordapp.com/*
 *://*.notcensor.top/*
 *://*.notebarge.top/*
 *://*.notebookexponential.top/*
@@ -229177,6 +229191,7 @@
 *://*.onezerofourfive.buzz/*
 *://*.onezerosix.buzz/*
 *://*.onezerosixthree.buzz/*
+*://*.onezipapp.com/*
 *://*.onfeconco.ru/*
 *://*.onfireshield.com/*
 *://*.onfirmation-id8764.world/*
@@ -242165,6 +242180,7 @@
 *://*.pdfaide.com/*
 *://*.pdfappsuite.com/*
 *://*.pdfartisan.com/*
+*://*.pdfclickapp.com/*
 *://*.pdfdirectglobal.com/*
 *://*.pdfdoccentral.com/*
 *://*.pdfdocusign.com/*
@@ -242190,7 +242206,9 @@
 *://*.pdfscraper.com/*
 *://*.pdfsecxcloudroute.com/*
 *://*.pdfshare.click/*
+*://*.pdfskillsapp.com/*
 *://*.pdfsmartkit.com/*
+*://*.pdfsparkware.com/*
 *://*.pdftraining.com/*
 *://*.pdfts.site/*
 *://*.pdfviewer.app/*
@@ -245735,6 +245753,7 @@
 *://*.powercleanit.website/*
 *://*.powerdigitalmarketingppc.com/*
 *://*.powerdigitalmarketingseo.com/*
+*://*.powerdocapp.com/*
 *://*.powerelectricoffers.com/*
 *://*.powerfjr.info/*
 *://*.powerful-unique.info/*
@@ -304958,6 +304977,7 @@
 *://*.turkiye-finansbankasi.tk/*
 *://*.turkiye-finanstr.com/*
 *://*.turkiye-g-o-v-tr.com/*
+*://*.turkiye-geneli-market-kampanyalari-ve-aktuel-listesi.cfd/*
 *://*.turkiye-giris-bilglendirme.tk/*
 *://*.turkiye-giris-edevlet-aidat-iade-gov-tr.com/*
 *://*.turkiye-giris-edevlet.com/*
@@ -306667,6 +306687,7 @@
 *://*.tuvturkhizmettakip.com/*
 *://*.tuvturkilearac.net/*
 *://*.tuvturkileodemexhzmeti.net/*
+*://*.tuvturkiye.com/*
 *://*.tuvturkj-muayene.net/*
 *://*.tuvturkk-rezervasyon.com/*
 *://*.tuvturkk-tr.net/*
@@ -338159,6 +338180,7 @@
 *://*.yatirimakli.world/*
 *://*.yatirimanaliz.org/*
 *://*.yatirimanaliz.world/*
+*://*.yatirimbakis.online/*
 *://*.yatirimbasvuru.site/*
 *://*.yatirimbaykar.com/*
 *://*.yatirimbilgisi.info/*
@@ -344311,6 +344333,7 @@
 *://*.zapilii.com/*
 *://*.zapisulka.ru/*
 *://*.zapliti.site/*
+*://*.zappdfapp.com/*
 *://*.zappiercrm.com/*
 *://*.zappoa.shop/*
 *://*.zappog.shop/*
@@ -344998,6 +345021,7 @@
 *://*.zipezuu.shop/*
 *://*.zipformidable.top/*
 *://*.ziplinetransfer.com/*
+*://*.zipmatepro.com/*
 *://*.zipperch.top/*
 *://*.zippercluster.top/*
 *://*.ziptdhq.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 17:23:06 UTC
-# Toplam: 435821 Domain
+# Son Güncelleme: 2026-01-23 20:12:16 UTC
+# Toplam: 435848 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18406,6 +18406,7 @@
 7845387645.cloud
 7845616511656516112122.net
 784564141.ccega6r0yph8.com
+78457456544323423.com
 78459745985.xyz
 784748932432.space
 7847874488744-2025.xyz
@@ -42752,6 +42753,7 @@ alo1-marketiniz.com
 alo10-marketciniz.com.tr
 alo12-market.com
 aloa1idf.cfd
+aloa1idf.sbs
 alobaby.net
 alobanka.com
 alocationrual.top
@@ -44399,6 +44401,7 @@ ananain.dev
 ananaqwe.com
 ananasaldim.com
 ananasit.ddns.net
+ananaslar.com
 ananidomaltim.online
 ananikortkf.tk
 ananimos.zapto.org
@@ -102709,6 +102712,7 @@ conkorea.com
 conlin-boats.com
 conmachicken.xyz
 conmale.ddns.net
+conmateapp.com
 conmet-trade.ro
 conmmbak.vip
 conmmbank.vip
@@ -103262,10 +103266,12 @@ convertibleilliteracy.top
 convertibletactful.top
 convertisseurs-pdf.com
 convertix-api.xyz
+convertmasterapp.com
 convertmypdfnow.net
 convertpatriotic.top
 convertpdfplus.com
 convertscloud.com
+convertyfileapp.com
 conveyancejockey.top
 conveyancelegendary.top
 conveyanecdotal.top
@@ -105854,6 +105860,7 @@ crystalmaker.pro
 crystalmind.ru
 crystalnba.com
 crystalpalacezaha.duckdns.org
+crystalpdf.com
 crystaltidings.co.za
 crystaltreasures.shop
 crystalwindmark.site
@@ -141485,6 +141492,9 @@ emdlkvrgilerim.net
 emdrk.ddns.net
 emdtr.com
 eme2ci.duckdns.org
+emeditorde.com
+emeditorgb.com
+emeditorjp.com
 emedoo.ddns.net
 emeeramaontinwrldecp.com
 emek3d.xyz
@@ -151333,6 +151343,7 @@ ez-kampanya-harca.top
 ez.hopto.org
 ez.zapto.org
 ez0a1s5dz.storage.googleapis.com
+ez2convertapp.com
 ez2x57n1.duckdns.org
 ez6jt5.duckdns.org
 ezasi0od0.duckdns.org
@@ -165385,6 +165396,7 @@ garantibva.krediislemleri.com.tr
 garantibva.krediislemlerim.com.tr
 garantibva.lat
 garantibva.ml
+garantibva.replit.app
 garantibva.wzd1.com
 garantibvaa.tk
 garantibvabank.com
@@ -212691,6 +212703,7 @@ infiniboosts.com
 infinit-world.info
 infinite-7.com
 infinite-coinrewards.site
+infinitedocsapp.com
 infiniteexplorations.store
 infinitegang.ddns.net
 infinitegrid.online
@@ -234512,6 +234525,7 @@ karpooravalli.net
 karpowerships.space
 karpuz-kavun-findik-fistik.net
 karpuzkirazkavun.site
+karpuzlar.com
 karraca.click
 karraca.com
 karrarea.com
@@ -249589,6 +249603,7 @@ linebench.ru
 lineblacka.ddns.net
 linebrand.xyz
 linecarkiralama.com
+lineclearexpress.wuaze.com
 linedengiz.click
 linedrv.com
 linefragrance.top
@@ -278700,6 +278715,7 @@ notaire8082.duckdns.org
 notalmalisin.name.tr
 notarialvent.top
 notationconstituency.top
+notawordapp.com
 notcensor.top
 note.toothbrushbear.trade
 note1.nz7bn.pro
@@ -285503,6 +285519,7 @@ oneyrosen.caticisme.ru
 onezerofourfive.buzz
 onezerosix.buzz
 onezerosixthree.buzz
+onezipapp.com
 onficc.zapto.org
 onfirmation-id8764.world
 onfnjcpphb.duckdns.org
@@ -300779,6 +300796,7 @@ pdf98.solunline.top
 pdfaide.com
 pdfappsuite.com
 pdfartisan.com
+pdfclickapp.com
 pdfdirectglobal.com
 pdfdoccentral.com
 pdfdocusign.com
@@ -300804,7 +300822,9 @@ pdfreplace.com
 pdfscraper.com
 pdfsecxcloudroute.com
 pdfshare.click
+pdfskillsapp.com
 pdfsmartkit.com
+pdfsparkware.com
 pdftraining.com
 pdfts.site
 pdfviewer.app
@@ -305259,6 +305279,7 @@ powercleanit.website
 powercycle.ddns.net
 powerdigitalmarketingppc.com
 powerdigitalmarketingseo.com
+powerdocapp.com
 powerelectricoffers.com
 powerfjr.info
 powerfselaluamz.duckdns.org
@@ -380871,6 +380892,7 @@ turkiye-finans.onrender.com
 turkiye-finansbankasi.tk
 turkiye-finanstr.com
 turkiye-g-o-v-tr.com
+turkiye-geneli-market-kampanyalari-ve-aktuel-listesi.cfd
 turkiye-giris-bilglendirme.tk
 turkiye-giris-edevlet-aidat-iade-gov-tr.com
 turkiye-giris-edevlet.com
@@ -382752,6 +382774,7 @@ tuvturkhizmetonline.com
 tuvturkhizmettakip.com
 tuvturkilearac.net
 tuvturkileodemexhzmeti.net
+tuvturkiye.com
 tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
@@ -423597,6 +423620,7 @@ yatirim360.online
 yatirimakli.world
 yatirimanaliz.org
 yatirimanaliz.world
+yatirimbakis.online
 yatirimbasvuru.site
 yatirimbaykar.com
 yatirimbilgisi.info
@@ -431019,6 +431043,7 @@ zahlung-hilfe.ddns.net
 zahlung092882.ddns.net
 zahlungabholen-meta.ddns.net
 zahlungvonmetapay.ddns.net
+zahnamret43.dns.navy
 zahntechnik-imlau.de
 zahoba.info
 zahramsatya.ddns.net
@@ -431296,6 +431321,7 @@ zapisulka.ru
 zapliti.site
 zapmeto.zapto.org
 zapp.zapto.org
+zappdfapp.com
 zappiercrm.com
 zappoa.shop
 zappoj.shop
@@ -432304,6 +432330,7 @@ zipdifferentiate.top
 zipezuu.shop
 zipformidable.top
 ziplinetransfer.com
+zipmatepro.com
 zipozipo.ddns.net
 zipperch.top
 zippercluster.top
