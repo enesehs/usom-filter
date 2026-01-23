@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 11:11:28 UTC
-# Toplam: 435760 Domain
+# Son Güncelleme: 2026-01-23 12:26:11 UTC
+# Toplam: 435782 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57236,6 +57236,7 @@ bameman.click
 bameman.homes
 bamex.com.pk
 bamfon2.ddns.net
+bamgum.click
 bamjcllixg.net
 bammboo.ddns.net
 bampeta.click
@@ -96524,6 +96525,7 @@ ciksanasokaklaragokhancim.com
 cikssss11tiks.xyz
 ciksy.com
 ciktinbaktin.online
+cildir.click
 cildirticigirisduzenlemekampanyasiicintiklasana.online
 cildiryardimdernegi.com
 cilegux.ga
@@ -177273,6 +177275,7 @@ guncel-akbankkampanya.duckdns.org
 guncel-aktuel-101.com
 guncel-aktuel-101.xyz
 guncel-aktuel-urunkataloglari.cfd
+guncel-aktuel-urunler-ve-market-indirim-brosurleri.cfd
 guncel-aldatodemesistemi2022.ml
 guncel-alim.online
 guncel-alimin.online
@@ -199400,6 +199403,7 @@ hlpsportbsnsacnt01io.duckdns.org
 hlpsprcnfmbsnspge00ui.duckdns.org
 hlpsuppoortcc.hopto.org
 hlpt0p.duckdns.org
+hlqa1l5j7l52.icu
 hlqvpmqqpu.duckdns.org
 hlrfsdvtls-dlcvt.com
 hlrrxvby.com
@@ -207009,6 +207013,7 @@ idalidcouture.com
 idappleestore.zapto.org
 idappleidappleid.zapto.org
 idaricezadosya.org
+idaricezamerkezi.org
 idaricezasistemi.org
 idaricezasorgu.org
 idaricezasorgulama.org
@@ -232864,6 +232869,7 @@ kamusalbilgileri.com
 kamusaldestekplatformu.com
 kamusaldestekplatformu.info
 kamusaldestekplatformu.online
+kamusorgula.xyz
 kamusorgulama.org
 kamuspotrafik.weebly.com
 kamuspotu-trafikcezaodeme.com
@@ -241521,6 +241527,7 @@ kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
 kobi-halk-subem.com
 kobi-kredi.com
+kobi-krediformu.com
 kobi-paraf-hediye.com
 kobi-tr-paraf.com
 kobibasvurunutamamla-12.cloud
@@ -261916,6 +261923,7 @@ mhrpeewwhs.in
 mhrportal.com
 mhrrnvdmhstne.net
 mhrrsserndvsal.net
+mhrs-guvenli-hastane-randevu.click
 mhrs-randevu-e-devlet.blogspot.com
 mhrs-randevu.net
 mhrs-randvm.blogspot.com
@@ -262434,6 +262442,7 @@ migrosmarket.pro
 migrosmarket.sbs
 migrosmarket.store
 migrosmarket.vip
+migrosmarketsanal.space
 migrosn1onlin-devcmua-kanpnyalarnztcl1.b-cdn.net
 migrosn1onlin-devcmua-kanpnyalarnztyv734.b-cdn.net
 migrosonlinekampanya.xyz
@@ -309990,6 +309999,7 @@ pttavm.alisveriyap-online.com
 pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
 pttavm.ayinfirsati.com.tr
+pttavm.baglantilarin.com
 pttavm.baglantilariniz.com
 pttavm.baglantis.com
 pttavm.bireyselalsat.com.tr
@@ -310007,12 +310017,14 @@ pttavm.com-satinal.com
 pttavm.com.se
 pttavm.comtr-banaozel.link
 pttavm.devletteguvenli.com
+pttavm.elektronik-alisverim.com
 pttavm.eniyifirsat.com.tr
 pttavm.eniyifirsati.com.tr
 pttavm.erisimli.com.tr
 pttavm.firsatsepet.com.tr
 pttavm.forum
 pttavm.fun
+pttavm.garantili.com.tr
 pttavm.get-alisveris-ilan.com.tr
 pttavm.gununfirsatlari.com.tr
 pttavm.guvencede.com.tr
@@ -310020,6 +310032,7 @@ pttavm.guvenceli.com.tr
 pttavm.guvenceniz.com.tr
 pttavm.guvencesinde.com.tr
 pttavm.guvencesiyle.com.tr
+pttavm.guvende-alisverim.com
 pttavm.guvendesepet.com
 pttavm.guvenilir-sepet.com.tr
 pttavm.guvenilirsatis.com.tr
@@ -310132,6 +310145,7 @@ pttavm.onlinesatinalim.com.tr
 pttavm.onlinesatisim.com.tr
 pttavm.onlinesepeti.com.tr
 pttavm.onlinesepetim.com.tr
+pttavm.ozelilan-islemler.com
 pttavm.paraniz-guvende.store
 pttavm.pusatxxx.info
 pttavm.resmialisveris.com
@@ -310200,6 +310214,7 @@ pttavm.uygunfirsat.com.tr
 pttavm.ve-islemleri.com
 pttavm.vitringuvence.com.tr
 pttavm.web-ile-islemleriniz.com
+pttavm.web-islem-tamamla.com
 pttavm.web-trilan.com
 pttavm.xyz
 pttavm2022x.com
@@ -324324,6 +324339,7 @@ rrc4g8.duckdns.org
 rrc8o6yrg3kle.cdhmxg.com
 rrclmyfayfyicsd.su
 rrdijcdcrktw.xyz
+rrdkakksd.net
 rrecovery-account.hopto.org
 rred-block.com
 rreewardingccorrp.site
@@ -371651,6 +371667,7 @@ tozymos.com
 tp-aoturk.com
 tp-globa.xyz
 tp-govtr.com
+tp-grn-int-gb.my-homeip.com
 tp-platform.com
 tp-platforma.com
 tp1dnst.duckdns.org
@@ -377643,12 +377660,16 @@ trpttgovhv.cc
 trpttgovhz.cc
 trpttgovi.cc
 trpttgovje.cc
+trpttgovjl.cc
+trpttgovjo.cc
+trpttgovjp.cc
 trpttgovk.cc
 trpttgovka.cc
 trpttgovkx.cc
 trpttgovl.cc
 trpttgovlc.cc
 trpttgovle.cc
+trpttgovlm.cc
 trpttgovmv.cc
 trpttgovo.cc
 trpttgovot.cc
@@ -435278,6 +435299,7 @@ zumbanet.net
 zumkoshapsret.com
 zummboomz.com
 zumrutguzelliksalonu.pro
+zumss.click
 zumudasapola.site
 zumzum.ddns.net
 zunazao.com
