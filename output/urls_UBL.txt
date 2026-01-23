@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-22 23:10:13 UTC
-! Total: 347649 rules
+! Last modified: 2026-01-23 00:53:06 UTC
+! Total: 347652 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -83750,6 +83750,7 @@
 *://*.dailteeau.com/*
 *://*.daily-sport.news/*
 *://*.dailyaddiction.top/*
+*://*.dailycashmap.com/*
 *://*.dailycontemplation.top/*
 *://*.dailyemploy.com/*
 *://*.dailyhouse-bpn.com/*
@@ -145400,6 +145401,7 @@
 *://*.haftalik-kapinda.com/*
 *://*.haftalik-kapindax.com/*
 *://*.haftalik-kapinizda-urunler.com/*
+*://*.haftalik-market-indirimleri-ve-guncel-brosur-listesi.cfd/*
 *://*.haftalikaktuelkampanyalar.life/*
 *://*.haftalikalisverisburasi.xyz/*
 *://*.haftalikalisveriskampanyasiyakalamaca.cfd/*
@@ -338071,6 +338073,7 @@
 *://*.yatirim-garantibbva.site/*
 *://*.yatirim-garantiden.site/*
 *://*.yatirim-guncel-bilgiler.info/*
+*://*.yatirim-guncel.info/*
 *://*.yatirim-kredi.com.tr/*
 *://*.yatirim-kubbe.online/*
 *://*.yatirim-kulubu.online/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-22 23:10:13 UTC
-# Toplam: 435729 Domain
+# Son Güncelleme: 2026-01-23 00:53:06 UTC
+# Toplam: 435733 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40072,6 +40072,7 @@ al0lizelt0s3.dynip.org
 al0lizeltasfirsati.dynip.org
 al0lk4mpnyagustos.xyz
 al0lkapida.com
+al0lkapinda.duckdns.org
 al0lkmpxlerimzleridsdsdfskjdfskdf.com
 al0lmarketfirsatlari.com
 al0lmayisfirsatlari.com
@@ -108592,6 +108593,7 @@ daily.alltop.asia
 daily.ekonomidunyasi.online
 daily.ekonomiportali.online
 dailyaddiction.top
+dailycashmap.com
 dailycontemplation.top
 dailyemploy.com
 dailyhouse-bpn.com
@@ -181828,6 +181830,7 @@ haftalik-kapinda-urunler.com
 haftalik-kapinda.com
 haftalik-kapindax.com
 haftalik-kapinizda-urunler.com
+haftalik-market-indirimleri-ve-guncel-brosur-listesi.cfd
 haftalikaktuelkampanyalar.life
 haftalikalisverisburasi.xyz
 haftalikalisveriskampanyasiyakalamaca.cfd
@@ -423488,6 +423491,7 @@ yatirim-garanti.site
 yatirim-garantibbva.site
 yatirim-garantiden.site
 yatirim-guncel-bilgiler.info
+yatirim-guncel.info
 yatirim-kredi.com.tr
 yatirim-kubbe.online
 yatirim-kulubu.online
