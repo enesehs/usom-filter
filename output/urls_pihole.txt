@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 21:10:07 UTC
-# Toplam: 435850 Domain
+# Son Güncelleme: 2026-01-23 22:08:19 UTC
+# Toplam: 435865 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1933,6 +1933,7 @@
 101-cumafirsat.com
 101-cumaksami.com
 101-cumartesiaksamx.com
+101-de-bugune-ozel-cepte.mobilfty.com
 101-de-bugune-ozel-firsatlar-tr.mooo.com
 101-de-bugune-ozel-indirim-hemen-siparis-ver.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
@@ -1941,6 +1942,7 @@
 101-de-haftalar-indirimler-burada.com
 101-de-hemen.com
 101-de-indirim-firsatlari-bugune-ozel-alisveris-tr.com
+101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-indirimli-firsatlar-online-ozel-tr.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
@@ -2024,6 +2026,7 @@
 101-mayisozelfirsat.online
 101-mayisson.com
 101-mayissongun.com
+101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
 101-mobil-sadece-online-ozel-firsatlar-tr.online
@@ -9197,6 +9200,7 @@
 234235212431451314.cloud
 23423534531234563.shop
 23423555342301.cloud
+23423654542334234.com
 23423sdw32.serveblog.net
 23424-4345-5675.fun
 234245254.cloud
@@ -16377,6 +16381,7 @@
 610rtmc.duckdns.org
 611101108251512031.com.tr
 6112345-867566082.online
+611348134839.online
 612255225.cloud
 612282.xyz
 61231231235512.cloud
@@ -39164,6 +39169,7 @@ aktuel-firsatlari.com
 aktuel-firsatlari.com.tr
 aktuel-firsatlari.online
 aktuel-gunleri.com
+aktuel-gunleri.sbs
 aktuel-h101.com.tr
 aktuel-haberler.sninix.space
 aktuel-harca-harca-bitmez.com
@@ -39502,6 +39508,7 @@ aktuelgasdgfas2024.click
 aktuelgun.icu
 aktuelguncel.com
 aktuelguncelkamp101.online
+aktuelgunleri.sbs
 aktuelgunlerinikacirmasongun.com.tr
 aktuelgunlerinikacirmasongun.online
 aktuelgunlerinikacirmasongun.xyz
@@ -221033,6 +221040,7 @@ istkartnl.online
 istkartnv.com
 istkartnw.com
 istkartonline.xyz
+istkartrehber.xyz
 istkartssyukle.net
 istkartt.net
 istkarttertdfs.net
@@ -235458,6 +235466,7 @@ kasimsondonems.com
 kasimsonfirsatkampanyasi.com
 kasimsongun101.online
 kasimsonu.shop
+kasimsonubasvuradan.cloud
 kasimsonuindirim.com.tr
 kasimsonuindirim.online
 kasimsonuindirim.xyz
@@ -239446,6 +239455,7 @@ kisalinkkisalinkguncelle.ml
 kisalinkkisalinkguncelle.tk
 kisalinkolustur.vercel.app
 kisalinksacrfsa.cfd
+kisalt-mobil-tr.linkpc.net
 kisalt-sponsor-links.com
 kisalt-tr.webredirect.org
 kisalt.cc
@@ -244001,6 +244011,7 @@ kredim-garanti.com.tr
 kredim-guvende-ak.net
 kredim-hazir.online
 kredim-onay.duckdns.org
+kredim-onay.sbs
 kredim-toplu-guvenli-iade2021-teknik-destek-birimi.xyz
 kredim.baglantisiailegenc.com
 kredim.garantibbwgvnde.com
@@ -285170,6 +285181,7 @@ onayyazilim.xyz
 onayyonlendirme.com.tr
 onayyysubevakiiff.net
 onb-38-yil-boasvuru.top
+onb-39-yil-boasvuru.space
 onb-finans-sube-internet.jumpingcrab.com
 onb-finans-sube-nternet.jumpingcrab.com
 onb-finansss.jumpingcrab.com
@@ -326816,6 +326828,7 @@ sadecsonfirsatlartrscv.blogdns.com
 sadecsonfirsatlrtc.duckdns.org
 sadecsonfisrsatlartrc.blogdns.com
 sadecsonflisrlstlartr.duckdns.org
+sadecsonlfirsalrter.mooo.com
 sadecsonsfirsatlarstr.blogdns.com
 sadecusmbasladigene.duckdns.org
 sadedonlod.top
@@ -326828,6 +326841,7 @@ sadentald.click
 sadeolnsew.net
 sadeonfsrisatcltatr.blogdns.com
 sadeonliozelfrsatlardarf.blogdns.org
+sadeoscmslfirsatlartftrybtg.blogspot.com
 sadeparibuxrphed.co.vu
 saderapp-shell-api.online
 saderapp-webapi-c.online
@@ -382789,6 +382803,7 @@ tuvturkleodel.net
 tuvturkleodemelibb.net
 tuvturkluloaw.net
 tuvturklx.digital
+tuvturkm.digital
 tuvturkmuayenearac.com
 tuvturkmuayeneci.com
 tuvturkmuayenehizmti.web.app
