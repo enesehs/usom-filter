@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-24 20:09:30 UTC
-! Total: 347855 rules
+! Last modified: 2026-01-24 21:08:03 UTC
+! Total: 347857 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -153457,6 +153457,7 @@
 *://*.hemenislemsonktn.net/*
 *://*.hemenisllmsnconline.online/*
 *://*.hemenislmlmsonsa.online/*
+*://*.hemenislntknaslna.net/*
 *://*.hemenislslsonucsb.online/*
 *://*.hemenisltblkylme.net/*
 *://*.hemenistjx.cfd/*
@@ -288591,6 +288592,7 @@
 *://*.tatilonya.com/*
 *://*.tatilplancoycers.com/*
 *://*.tatilsepeti.me/*
+*://*.tatilsepeti.top/*
 *://*.tatilsepetii.com/*
 *://*.tatilsepetimde.com/*
 *://*.tatilsepetin.com/*
