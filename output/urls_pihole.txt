@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-23 23:10:18 UTC
-# Toplam: 435865 Domain
+# Son Güncelleme: 2026-01-24 02:53:41 UTC
+# Toplam: 435872 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24061,6 +24061,7 @@ a101iiletisim.com
 a101ile-indirimli-alisveris.wuaze.com
 a101ile.comilan.org
 a101ileegell.duckdns.org
+a101ilefirsat.com
 a101ilegel.com
 a101iletiisim.com
 a101iletiisimm.com
@@ -60134,6 +60135,7 @@ basvuruislem.org
 basvuruislembugunkampanyasi.online
 basvuruislemi.com
 basvuruislemin.net
+basvuruislemleri.adayislemleri.sbs
 basvuruislemleri.com
 basvuruislemleri.net
 basvuruislemleri.today
@@ -86479,6 +86481,7 @@ buradayiz.app
 buradayiz.shop
 buradayizbiz.net
 buradayizteb.online
+buradayuzunuzgulecek.com
 buradsa-aldin-aldintekfler.store
 buradsa-aldiniz-eklfiler-herzmn.store
 buradsa-aldint-aldisn-teklifler.com
@@ -162543,6 +162546,7 @@ fwpw6glh.duckdns.org
 fwqjwkq-gwqwqkg-gwqgeqfqwg-wqfgwgqw.online
 fwqkqnv.duckdns.org
 fwqmnmnfqw-wfqnmmnfqw.store
+fwqusaasgfsdwqozxpkasmzxv.live
 fwsqawaqs.blogspot.com
 fwtfdajidd.duckdns.org
 fwtografies.icu
@@ -196824,6 +196828,7 @@ hizli-kredi-isbankasi-basvuru.mooo.com
 hizli-kredi-karti-basvurusu.online
 hizli-kredi.com
 hizli-kredim.com
+hizli-kredim724.sbs
 hizli-login-monitor.space
 hizli-market-online-a101.com
 hizli-migros.vercel.app
@@ -221281,6 +221286,7 @@ istnbnkart.blogspot.com
 istnbnm.net
 istnbsdulasdbrudsasd.store
 istnbsdulbruasdserh.store
+istnbsdulbrudsasd.store
 istnbsusunaal.com
 istnbtkrxtt.net
 istnbudlksbjdsasdkdnr.store
@@ -382791,6 +382797,7 @@ tuvturkhizmettakip.com
 tuvturkilearac.net
 tuvturkileodemexhzmeti.net
 tuvturkiye.com
+tuvturkiye.digital
 tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
