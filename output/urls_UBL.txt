@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-24 07:11:13 UTC
-! Total: 347775 rules
+! Last modified: 2026-01-24 08:12:53 UTC
+! Total: 347788 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43095,6 +43095,18 @@
 *://*.basvurukreditmpay.online/*
 *://*.basvurukullanimekrani.com/*
 *://*.basvurukullannilabilirlikekrani.com/*
+*://*.basvurukurumsalcenter.icu/*
+*://*.basvurukurumsalhizmet.icu/*
+*://*.basvurukurumsalmerkez.icu/*
+*://*.basvurukurumsalnet.icu/*
+*://*.basvurukurumsalonline.icu/*
+*://*.basvurukurumsalplus.icu/*
+*://*.basvurukurumsalportal.icu/*
+*://*.basvurukurumsalpro.icu/*
+*://*.basvurukurumsalservis.icu/*
+*://*.basvurukurumsalsistem.icu/*
+*://*.basvurukurumsaltr.icu/*
+*://*.basvurukurumsalweb.icu/*
 *://*.basvurukvytgiris.com/*
 *://*.basvurula.sbs/*
 *://*.basvurulan.sbs/*
@@ -125903,6 +125915,7 @@
 *://*.firsatlarkapingelsin101.com.tr/*
 *://*.firsatlarkapingelsin101.com/*
 *://*.firsatlarkapinizadayandihemenkatil.tech/*
+*://*.firsatlarkapinizda.com/*
 *://*.firsatlarkapinizdakacirmadansatinalmalisin.cyou/*
 *://*.firsatlarkapinizdakacirmadansatinalmalisin.xyz/*
 *://*.firsatlarkapisi.site/*
