@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-25 05:23:08 UTC
-! Total: 347862 rules
+! Last modified: 2026-01-25 07:12:34 UTC
+! Total: 347870 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65686,6 +65686,7 @@
 *://*.buildingtagreader.com/*
 *://*.buildneeds.net/*
 *://*.buildoc.co.jp/*
+*://*.buildstorepro.com/*
 *://*.buildviet.info/*
 *://*.buildvogue.top/*
 *://*.buildwellpak.com/*
@@ -222395,6 +222396,7 @@
 *://*.nextstepmodern.top/*
 *://*.nextvisionn.com/*
 *://*.nextwaveideas.online/*
+*://*.nextxriver.com/*
 *://*.nextynfo.com/*
 *://*.nexulix.com/*
 *://*.nexus-cloud-360.com/*
@@ -224162,6 +224164,7 @@
 *://*.novahorizonrise.com/*
 *://*.novaleadsai.com/*
 *://*.novalynex.com/*
+*://*.novalyrex.com/*
 *://*.novanctar.com/*
 *://*.novand.at/*
 *://*.novaneste.icu/*
@@ -241632,6 +241635,7 @@
 *://*.pavilion.futbol/*
 *://*.pavingcapital.com/*
 *://*.pavlatos-studios.gr/*
+*://*.pavorinel.com/*
 *://*.pavsdwesd.co/*
 *://*.pawanub.xyz/*
 *://*.pawscolours.com/*
@@ -259566,6 +259570,7 @@
 *://*.rimqhk.top/*
 *://*.rimrenaissance.top/*
 *://*.rimtura.pro/*
+*://*.rimulavex.com/*
 *://*.rimurik.com/*
 *://*.rin4o.com/*
 *://*.rinasalleh.com/*
@@ -276540,6 +276545,7 @@
 *://*.smartboardproposal.com/*
 *://*.smartcare.com.tr/*
 *://*.smartcontractlicense.info/*
+*://*.smartcreditpath.com/*
 *://*.smartcya.com/*
 *://*.smartdevoe.com/*
 *://*.smartdigital-tr.com/*
@@ -298942,6 +298948,7 @@
 *://*.tradeiifox.top/*
 *://*.tradeinfo.pro/*
 *://*.tradelk.com/*
+*://*.tradellab.com/*
 *://*.trademagnet.online/*
 *://*.trademarketexchange.cfd/*
 *://*.trademaster.xyz/*
@@ -330111,6 +330118,7 @@
 *://*.xeloriax.com/*
 *://*.xelpersx.click/*
 *://*.xelphoria.store/*
+*://*.xeluvorin.com/*
 *://*.xelvadorgas.xyz/*
 *://*.xelvira.space/*
 *://*.xelvono.sbs/*
