@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-25 12:23:54 UTC
-# Toplam: 435999 Domain
+# Son Güncelleme: 2026-01-25 13:25:23 UTC
+# Toplam: 436000 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -181931,6 +181931,7 @@ haftalardapazattesihaftasi.icu
 haftalardapazattesihaftasi.sbs
 haftalik-a101-online.com
 haftalik-aktuel-urunler-ve-market-firsatlari.cfd
+haftalik-brosurler-ve-ucuzluk-firsatlari-takibi.cfd
 haftalik-indirim-ve-aktuel.cfd
 haftalik-kapida-urunler.com
 haftalik-kapida.com
