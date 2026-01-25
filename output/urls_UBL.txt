@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-25 07:12:34 UTC
-! Total: 347870 rules
+! Last modified: 2026-01-25 08:13:01 UTC
+! Total: 347872 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -112205,6 +112205,7 @@
 *://*.emeklingiris.com/*
 *://*.emeklingirisi.com/*
 *://*.emeklipromosyonbasvur.cfd/*
+*://*.emeklipromosyonbasvuru.cfd/*
 *://*.emeklipromosyonu.cfd/*
 *://*.emeklipromsyon.cfd/*
 *://*.emekliramiysi.pw/*
@@ -122120,6 +122121,7 @@
 *://*.fb-meta.cfd/*
 *://*.fb-metabrowser.click/*
 *://*.fb-nameserver.com/*
+*://*.fb-profile27183.today/*
 *://*.fb-profile5910962.sbs/*
 *://*.fb-profileid11137532.com/*
 *://*.fb-profileid11227932.com/*
