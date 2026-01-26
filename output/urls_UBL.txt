@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-26 05:24:46 UTC
-! Total: 347907 rules
+! Last modified: 2026-01-26 06:22:46 UTC
+! Total: 347915 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -84387,6 +84387,7 @@
 *://*.datinggirlsweetmy.info/*
 *://*.datingpride.com/*
 *://*.datingwork.top/*
+*://*.datoix.click/*
 *://*.datos-cliente.com/*
 *://*.datos.com.tw/*
 *://*.datsonsdaughter.com/*
@@ -127589,6 +127590,7 @@
 *://*.fniwhv.com/*
 *://*.fnjhgux.com/*
 *://*.fnjwrg.top/*
+*://*.fnl6sq24xscj.icu/*
 *://*.fnlotoyolweb.sbs/*
 *://*.fnly-yor-okay.com/*
 *://*.fnmasduxlpskfav.cn/*
@@ -179164,6 +179166,7 @@
 *://*.istkvbkart.com/*
 *://*.istky53k7rt.net/*
 *://*.istlalblbulbakyem.net/*
+*://*.istlamdkds.com/*
 *://*.istlanbul-kartimislem.net/*
 *://*.istlanltlndanlasna.online/*
 *://*.istldfnld.com/*
@@ -186602,6 +186605,7 @@
 *://*.kalanfirsatavantajlarikacirma.com/*
 *://*.kalankalana.com.tr/*
 *://*.kalankampanyalar.online/*
+*://*.kalankodan.click/*
 *://*.kalanlar-sevinir-buradan-mutlu-gidin.com/*
 *://*.kalanlar.win/*
 *://*.kalanlarburdaa.cfd/*
@@ -195269,6 +195273,7 @@
 *://*.kmpnya-al-ucz-hmen.shop/*
 *://*.kmpnyaaaaprsmnynbsvrrr.art/*
 *://*.kmpnyaaaaprsmnynbsvrrr.info/*
+*://*.kmpnyaaaaprsmnynbsvrrr.pro/*
 *://*.kmpnyaaabasvrrrprmsynn.art/*
 *://*.kmpnyaaabasvrrrprmsynn.info/*
 *://*.kmpnyaaabasvrrrprmsynn.pro/*
@@ -226903,6 +226908,7 @@
 *://*.ocaklndirimlerikacmaz.me/*
 *://*.ocaklndirimlerikacmaz.sbs/*
 *://*.ocaklndirimlerikacmiiyor.sbs/*
+*://*.ocaklndirimlerikacmiiyorr.info/*
 *://*.ocaklndirimlerikacmiyor.sbs/*
 *://*.ocaklndirimlerikacmiyor.shop/*
 *://*.ocaklndirimtrendleri.shop/*
@@ -265885,6 +265891,7 @@
 *://*.satislaraninda.online/*
 *://*.satislari.com.tr/*
 *://*.satislari.online/*
+*://*.satislarim-odeme-servisi.com/*
 *://*.satislarimionaylama-try21.online/*
 *://*.satislarkampanyada101.com.tr/*
 *://*.satismerkezi.info.tr/*
@@ -270838,6 +270845,7 @@
 *://*.sgkasibasvuru.site/*
 *://*.sgkborcsorgulama.ga/*
 *://*.sgke.cc/*
+*://*.sgkemeklipromosyonu.cfd/*
 *://*.sgkhizmet-tru.cfd/*
 *://*.sgkhizmetdokumu.info/*
 *://*.sgkhizmetsorgulama.net/*
