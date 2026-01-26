@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-26 13:36:14 UTC
-! Total: 347973 rules
+! Last modified: 2026-01-26 14:23:56 UTC
+! Total: 347977 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -76696,6 +76696,7 @@
 *://*.cokparakazan.com/*
 *://*.coksansinvar.com/*
 *://*.coksatanizeltas.sbs/*
+*://*.coksatanlar.sbs/*
 *://*.cokseverek-geldiginde-illaki-yenisine-bilinirsin.top/*
 *://*.coksiqorta.com.tr/*
 *://*.coktanunuutuurduum.top/*
@@ -83996,6 +83997,7 @@
 *://*.dancutru.com/*
 *://*.dandesdfefges2301.site/*
 *://*.dandikspkttenmssicikti.net/*
+*://*.dandini.click/*
 *://*.dandinitursu.site/*
 *://*.danfrem.com/*
 *://*.dangaesegfre.site/*
@@ -282770,6 +282772,7 @@
 *://*.stanleyhorizon.xyz/*
 *://*.stanleyignite.xyz/*
 *://*.stanleyindirim.shop/*
+*://*.stanleyizeltas1749.me/*
 *://*.stanleykafayiasti.xyz/*
 *://*.stanleykampanyam.store/*
 *://*.stanleykrty.xyz/*
@@ -340138,6 +340141,7 @@
 *://*.yenitokibasvurum.sbs/*
 *://*.yenitrednler.online/*
 *://*.yenitrednler.store/*
+*://*.yenitrendyoladresi.com/*
 *://*.yenitrendyoladresim.com/*
 *://*.yenitrirtibat-pagehomeplatform.com/*
 *://*.yenitrmfk.net/*
