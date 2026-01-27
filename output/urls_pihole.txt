@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-27 17:23:08 UTC
-# Toplam: 436257 Domain
+# Son Güncelleme: 2026-01-27 18:23:03 UTC
+# Toplam: 436265 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -131734,6 +131734,7 @@ e-onlineiadevatandasgirisler2022.ml
 e-onlineiadeyonetim.com
 e-onlineislemdoldur-portal.tk
 e-onlineislemler-yapikredi.com
+e-onlineislemler.online
 e-onlineislemler.org
 e-onlineislemleri-yapikredi.com
 e-onlineislemlerim-kontroller.cf
@@ -187355,6 +187356,7 @@ hatirda-kalangibi-buradan-serice-gorunduler.top
 hatirimadusunce.net.tr
 hatirladinmibeni.cfd
 hatirlatan-saatler-basladi-devamli-yeniden.com
+hatirlatildi-guzel-gunler.sbs
 hatislem.22web.org
 hatkonturumuz.shop
 hatkrediniz.com
@@ -233475,6 +233477,7 @@ kapida-x9m2k7a8.bond
 kapida-x9m2z7qw.cfd
 kapida-x9q72mka.cfd
 kapida-xn.com.tr
+kapida-youvia.cyou
 kapida.mobi
 kapida1-0-1.store
 kapida10.store
@@ -278070,6 +278073,7 @@ nlaktlsndansatasnd.blogspot.com
 nlaktnaltmalt.net
 nlalktr3.com.tr
 nlalnalnalnalnal.net
+nlalnalnalnatlaa.net
 nlalnatnanla.net
 nlaltalnlalnalntla.net
 nlamnalaaala.net
@@ -351142,6 +351146,7 @@ sosyalkonutumtoki.vercel.app
 sosyalkonutuygulamasi.com
 sosyalkosk.online
 sosyalkral.tk
+sosyalkurmpromosyonu.click
 sosyalkurum.com
 sosyalkurumpromosyon.cfd
 sosyall-destekk-pan.com
@@ -354283,6 +354288,7 @@ stanleyferrto.me
 stanleyferto.me
 stanleyflux.xyz
 stanleyforge.xyz
+stanleyforgecore.xyz
 stanleyfrsattermosburda.com
 stanleyfrst666aldnadinsizden.com
 stanleygelhemen.xyz
@@ -376401,6 +376407,7 @@ trendyoladresiguncel.com
 trendyoladresim.com
 trendyoladresim.net
 trendyoladresim.org
+trendyoladresimiyenile.com
 trendyoladresimyeni.net
 trendyoladresyenile.com
 trendyolagent.com
@@ -433434,6 +433441,7 @@ ziraatbankasi-155yil.com
 ziraatbankasi-155yilimiz.com
 ziraatbankasi-155yilkampanyasi.com
 ziraatbankasi-156yil.com
+ziraatbankasi-ai.net
 ziraatbankasi-aidatiadeleri.com
 ziraatbankasi-basvuru-online.vercel.app
 ziraatbankasi-cekilisi.net
