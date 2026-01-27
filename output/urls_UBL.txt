@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-27 22:11:26 UTC
-! Total: 348121 rules
+! Last modified: 2026-01-27 23:10:22 UTC
+! Total: 348133 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -923,6 +923,7 @@
 *://*.101-de-haftalar-indirimler-burada.com/*
 *://*.101-de-hemen.com/*
 *://*.101-de-indirim-firsatlari-bugune-ozel-alisveris-tr.com/*
+*://*.101-de-indirim-online-bugune-ozel-alisveris-tr.com/*
 *://*.101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com/*
 *://*.101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com/*
 *://*.101-den-firsatlariniz-kacmasin.sbs/*
@@ -64304,6 +64305,7 @@
 *://*.bsvrrrkmpnyaaprmsynn.click/*
 *://*.bsvrrrkmpnyaaprmsynnn.art/*
 *://*.bsvrrrkmpnyaaprmsynnn.info/*
+*://*.bsvrrrkmpnyaaprmsynnn.pro/*
 *://*.bsvrrrkmpnyaaqnb.click/*
 *://*.bsvrrrkmpnyyaaprmsyonnn.click/*
 *://*.bsvrrrkmponyaaprmsyn.click/*
@@ -64313,6 +64315,8 @@
 *://*.bsvrrrpromooogrnnn.click/*
 *://*.bsvrrrprsmsnynn.pro/*
 *://*.bsvrrrprsmynnnkmpnyaaaa.art/*
+*://*.bsvrrrprsmynnnkmpnyaaaa.info/*
+*://*.bsvrrrprsmynnnkmpnyaaaa.pro/*
 *://*.bsvrrrqnbbprmsyn.click/*
 *://*.bsvrrrrkmpmnyaaaqnb.click/*
 *://*.bsvrrrrkmpnyaaprmsynnn.info/*
@@ -65311,6 +65315,7 @@
 *://*.bufirsatlarkacilirmazaldinaldin.com/*
 *://*.bufirsatlarkacmaz.net/*
 *://*.bufirsatlarkacmaz.shop/*
+*://*.bufirsatlarkacmaz.site/*
 *://*.bufirsatlarkacmaz20ocak.shop/*
 *://*.bufirsatlarkacmazeylul.com/*
 *://*.bufirsatlarkacmazhaziranozel.com.tr/*
@@ -159005,6 +159010,7 @@
 *://*.hizlibakiyeniz.xyz/*
 *://*.hizlibakiyenoktasi-hgsodemesistemi.xyz/*
 *://*.hizlibakiyeyukle.xyz/*
+*://*.hizlibakkal.com/*
 *://*.hizlibaklkilelr.net/*
 *://*.hizlibasruvunnizzirttat.sbs/*
 *://*.hizlibasvru.online/*
@@ -195372,6 +195378,7 @@
 *://*.kmpnnyaaabsvrrrprmoo.pro/*
 *://*.kmpnnylrii-kacciirmaa.com/*
 *://*.kmpny1o1brd.com/*
+*://*.kmpnya-al-ucuz-hmen.shop/*
 *://*.kmpnya-al-ucz-hmen.shop/*
 *://*.kmpnyaaaaprsmnynbsvrrr.art/*
 *://*.kmpnyaaaaprsmnynbsvrrr.info/*
@@ -195383,6 +195390,8 @@
 *://*.kmpnyaaabasvuruprmsnynn.pro/*
 *://*.kmpnyaaabsvrrrprmoo.click/*
 *://*.kmpnyaaabsvrrrrrgrnttt.click/*
+*://*.kmpnyaaaprmsnynnbsvrrr.info/*
+*://*.kmpnyaaaprmsnynnbsvrrr.pro/*
 *://*.kmpnyaaaqnbbbkatilim.cloud/*
 *://*.kmpnyaabasvrrruprmsynnn.info/*
 *://*.kmpnyaabasvrrruprmsynnn.pro/*
@@ -197597,6 +197606,7 @@
 *://*.kredicozummerkezi.info/*
 *://*.kredidagitiyoruz.sbs/*
 *://*.kredidede2025.com/*
+*://*.krediden-firsat.cfd/*
 *://*.krediden.sbs/*
 *://*.kredideniz-acikdenizbank.com/*
 *://*.kredideniz.com/*
@@ -278741,6 +278751,7 @@
 *://*.sonfirsatikacirma.net/*
 *://*.sonfirsatim.com.tr/*
 *://*.sonfirsatindirimleri-kapinda.com.tr/*
+*://*.sonfirsatindirimleri-kapinda.info/*
 *://*.sonfirsatindirimleri-kapinda.online/*
 *://*.sonfirsatindirimlerimayis.com.tr/*
 *://*.sonfirsatjenarators.shop/*
@@ -340232,6 +340243,7 @@
 *://*.yenisezondakatilim.com/*
 *://*.yenisezondev-firsatlar.shop/*
 *://*.yenisezondevfirsatlar.shop/*
+*://*.yenisezondevkampanyalari.shop/*
 *://*.yenisezonunsonindirimleri.net.tr/*
 *://*.yenisigorta.online/*
 *://*.yenisigortaaaammm.net/*
