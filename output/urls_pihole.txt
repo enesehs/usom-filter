@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-27 21:08:29 UTC
-# Toplam: 436279 Domain
+# Son Güncelleme: 2026-01-27 22:11:26 UTC
+# Toplam: 436287 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -154643,6 +154643,7 @@ fh1sgs01kglxmaz.com
 fh3.us
 fh6rnajjsmalyurqvxjimv6tbu-ac4c6men2g7xr2a-www-isbank-com-tr.translate.goog
 fhafebhte.duckdns.org
+fhahshamnmsashemansma.gt.tc
 fhalkbank.com
 fhasbargen.de
 fhasja-sdbjksbf-jksaj.pro
@@ -156625,6 +156626,7 @@ firsat-kredidenizburada.com
 firsat-kredidenizburada.com.tr
 firsat-kredidenizburada.online
 firsat-kredidenizburada.xyz
+firsat-kredin.cfd
 firsat-market-ptt-avm.online
 firsat-mobildenizbaharkampanya.com
 firsat-mobildenizbasvurgiris.com
@@ -158340,6 +158342,7 @@ firsattaa.com
 firsattabugunkampanyasibance.tech
 firsattakalsendehizlica.site
 firsattakibi.net
+firsattan-teknoloji.cfd
 firsattan25000yararlan.xyz
 firsattankmnpyaldurmasende.site
 firsattanyararlan.com
@@ -233441,6 +233444,7 @@ kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
 kapida-haftax.com
 kapida-haftax.com.tr
+kapida-k9q2x7mw.sbs
 kapida-link.com.tr
 kapida-m8q7z2x1.bond
 kapida-market-online.name.tr
@@ -241073,6 +241077,7 @@ kmpanyaparbudogkoinnhedyeleribsladii.com
 kmpanyayklesende.org
 kmpanyazamani101kasmda.com
 kmpanyazamanim.net
+kmpanydisakteul.cfd
 kmpanyfirsata.com
 kmpanyurn.duckdns.org
 kmpanyya1o1frsat.com
@@ -271712,6 +271717,7 @@ mutlukampanyafirsatlarindasongun.icu
 mutlukampanyafirsatlarindasongun.sbs
 mutlukampanyalarinadresi.com.tr
 mutlukampanyalarinadresi.online
+mutlukaraca.com
 mutluluga-sarilinn.net
 mutlulugu-aranan-hayallerle-bul.com
 mutlulugu-ayaniza-getiren-alisveris-zamani.com
@@ -301506,6 +301512,7 @@ pentester520.ddns.net
 pentesx.site
 penti.mt
 penti1ode5al.com
+penti5al1ode.sbs
 pentin5al1ode.net
 pentiri5al1ode.com
 pentlkasimayiozel.com
@@ -364736,6 +364743,7 @@ teknoloji-bireyselcepvakif.ml
 teknoloji-burada.com
 teknoloji-dyson.com.tr
 teknoloji-enpara.com
+teknoloji-firsat.click
 teknoloji-garantibankasi.ml
 teknoloji-hediyeleridagitimkampanyasi-paribucom.tk
 teknoloji-hizmet-konfor-hepsi-seninle.top
