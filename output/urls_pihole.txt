@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-27 00:52:59 UTC
-# Toplam: 436168 Domain
+# Son Güncelleme: 2026-01-27 02:59:13 UTC
+# Toplam: 436170 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60035,6 +60035,7 @@ basvuruformu-denizkampanya.com
 basvuruformu-ebatabletdestek.com
 basvuruformu-tk.online
 basvuruformu.shop
+basvuruformu.webredirect.org
 basvuruformubnca.com
 basvuruformudenizarap.com
 basvuruformudoldur.com
@@ -331524,6 +331525,7 @@ sahibiniden.siparis-olustur-223035.com
 sahibiniden.siparis-olustur-223037.com
 sahibiniden.siparis-onayli-115511.com
 sahibiniden.tr-odeme-472211.com
+sahibinidencom.xyz
 sahibinidenl.com
 sahibininden.com
 sahibininden.com.tr
