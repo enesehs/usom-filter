@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-27 05:24:05 UTC
-! Total: 348030 rules
+! Last modified: 2026-01-27 06:23:18 UTC
+! Total: 348033 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13556,6 +13556,7 @@
 *://*.a-101-onlineislem.net.tr/*
 *://*.a-101-onlineislemler.com.tr/*
 *://*.a-101-perakende.online/*
+*://*.a-101-san-al-mar-ket.sbs/*
 *://*.a-101-sanal.com.tr/*
 *://*.a-101-sanal.xyz/*
 *://*.a-101-sanial-markel.sbs/*
@@ -81397,6 +81398,7 @@
 *://*.crfonlineozeller.online/*
 *://*.crfonlineozelurunler.online/*
 *://*.crfonlinmrkts.cfd/*
+*://*.crfourindirim-firsatlari.online/*
 *://*.crfozelurunler.cfd/*
 *://*.crfozelurunler.online/*
 *://*.crfozelurunler.xyz/*
@@ -335587,6 +335589,7 @@
 *://*.y4peace.org/*
 *://*.y4pimineniyisi597ckjblk.com/*
 *://*.y5.ms/*
+*://*.y515.com/*
 *://*.y5hdcf.icu/*
 *://*.y6ntzhj.cn/*
 *://*.y7d.app/*
