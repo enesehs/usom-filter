@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-27 14:23:50 UTC
-! Total: 348074 rules
+! Last modified: 2026-01-27 15:22:47 UTC
+! Total: 348077 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -142735,6 +142735,7 @@
 *://*.guvende-hizmet-s.com/*
 *://*.guvende-hizmetler-param.com.tr/*
 *://*.guvende-hizmetleri-s.com/*
+*://*.guvende-ilan-s.com/*
 *://*.guvende-ilan.com/*
 *://*.guvende-ilan.net/*
 *://*.guvende-ilan.online/*
@@ -227020,6 +227021,7 @@
 *://*.ocakmtw.net/*
 *://*.ocakozelkapida.online/*
 *://*.ocaksepetim.cfd/*
+*://*.ocaksepetimozel.cfd/*
 *://*.ocakson01.shop/*
 *://*.ocakson101kapida-yenikmpanya.site/*
 *://*.ocaksonfirsatkampny.com/*
@@ -329570,6 +329572,7 @@
 *://*.wwwsahibinden-com.tk/*
 *://*.wwwsahibinden-get.com/*
 *://*.wwwsahibinden-ile-paramguvende.com/*
+*://*.wwwsahibinden-mobil.com/*
 *://*.wwwsahibinden-securen.com/*
 *://*.wwwsahibinden-securens.com/*
 *://*.wwwsahibinden-secures.com/*

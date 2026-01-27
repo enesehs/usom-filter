@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-27 14:23:50 UTC
-# Toplam: 436231 Domain
+# Son Güncelleme: 2026-01-27 15:22:47 UTC
+# Toplam: 436235 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -63432,6 +63432,7 @@ bdmsxcellsabahim.com
 bdmtmy.top
 bdmxcellodemesi.com
 bdncstrygrs.com
+bdndglelnclsnhd.mooo.com
 bdns.at
 bdnxmq.top
 bdo-account.xyz
@@ -178599,6 +178600,7 @@ guvende-hizmet-param-ode.com.tr
 guvende-hizmet-s.com
 guvende-hizmetler-param.com.tr
 guvende-hizmetleri-s.com
+guvende-ilan-s.com
 guvende-ilan-tr.sa.com
 guvende-ilan.com
 guvende-ilan.net
@@ -282748,6 +282750,7 @@ ocakmtw.net
 ocakozelkapida.online
 ocakpromosynlaridagitildi.vercel.app
 ocaksepetim.cfd
+ocaksepetimozel.cfd
 ocakson01.shop
 ocakson101kapida-yenikmpanya.site
 ocaksongidafirsatlari.com
@@ -413275,6 +413278,7 @@ wwwsaglikbakanligi.com
 wwwsahibinden-com.tk
 wwwsahibinden-get.com
 wwwsahibinden-ile-paramguvende.com
+wwwsahibinden-mobil.com
 wwwsahibinden-securen.com
 wwwsahibinden-securens.com
 wwwsahibinden-secures.com
