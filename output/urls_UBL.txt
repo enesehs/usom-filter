@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-27 13:38:20 UTC
-! Total: 348066 rules
+! Last modified: 2026-01-27 14:23:50 UTC
+! Total: 348074 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -141262,6 +141262,7 @@
 *://*.gtrhfdgb.xyz/*
 *://*.gtriotit-wqm.site/*
 *://*.gtrises.click/*
+*://*.gtronllirneisllernenurnbonusum.space/*
 *://*.gts794.com/*
 *://*.gtsggbmvpgodonrz.com/*
 *://*.gttigdiyor1o1frstlartukenyr.shop/*
@@ -189204,6 +189205,7 @@
 *://*.kapida-sok.com.tr/*
 *://*.kapida-son-firsatlar.com.tr/*
 *://*.kapida-sonfirsatlar.com.tr/*
+*://*.kapida-together.sbs/*
 *://*.kapida-urun-aldin.com.tr/*
 *://*.kapida-urun-reklam.com.tr/*
 *://*.kapida-urun-xn.com.tr/*
@@ -226962,6 +226964,7 @@
 *://*.ocakfirsatlarikapinagelsin.online/*
 *://*.ocakfirsatlarikapinagelsin.xyz/*
 *://*.ocakfirsatlarindirim.net/*
+*://*.ocakfirssatlari.cfd/*
 *://*.ocakfiyatlari.cfd/*
 *://*.ocakflrsatiburadan.shop/*
 *://*.ocakflrsatimizbu.com/*
@@ -227006,6 +227009,7 @@
 *://*.ocaklndirimlerikacmaz.sbs/*
 *://*.ocaklndirimlerikacmiiyor.sbs/*
 *://*.ocaklndirimlerikacmiiyorr.info/*
+*://*.ocaklndirimlerikacmiiyorr.online/*
 *://*.ocaklndirimlerikacmiyor.sbs/*
 *://*.ocaklndirimlerikacmiyor.shop/*
 *://*.ocaklndirimtrendleri.shop/*
@@ -282842,6 +282846,7 @@
 *://*.stanleyhorizon.xyz/*
 *://*.stanleyignite.xyz/*
 *://*.stanleyindirim.shop/*
+*://*.stanleyion.xyz/*
 *://*.stanleyizeltas1749.me/*
 *://*.stanleykafayiasti.xyz/*
 *://*.stanleykampanyam.store/*
@@ -300944,6 +300949,7 @@
 *://*.trendyoladres.com/*
 *://*.trendyoladres.net/*
 *://*.trendyoladres.org/*
+*://*.trendyoladresiguncel.com/*
 *://*.trendyoladresim.com/*
 *://*.trendyoladresim.net/*
 *://*.trendyoladresim.org/*
@@ -306990,6 +306996,7 @@
 *://*.tuvturkj-muayene.net/*
 *://*.tuvturkk-rezervasyon.com/*
 *://*.tuvturkk-tr.net/*
+*://*.tuvturkl-d.digital/*
 *://*.tuvturkl.digital/*
 *://*.tuvturkle-muayene.net/*
 *://*.tuvturkle-odeme.net/*
@@ -343736,6 +343743,7 @@
 *://*.yupstocks.com/*
 *://*.yuqagcfk.com/*
 *://*.yuqbvfopicmp.xyz/*
+*://*.yuqfhjnzxgvywsafpwqs.today/*
 *://*.yurdadonusvakfi.xyz/*
 *://*.yurdatkulturmerkez.online/*
 *://*.yurdicikargo.com.tr/*
