@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-27 06:23:18 UTC
-# Toplam: 436184 Domain
+# Son Güncelleme: 2026-01-27 07:23:51 UTC
+# Toplam: 436186 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -154222,6 +154222,7 @@ feqwbo.top
 fer3aun.ddns.net
 feracamasdlesd.com
 ferahcagrimerkezi.com
+ferahlik.com
 ferahsigorta.net
 feralenirmes.com
 ferallmont.com
@@ -349260,6 +349261,7 @@ sonfirsaticintikla.wiki
 sonfirsatikacirma.com
 sonfirsatikacirma.net
 sonfirsatim.com.tr
+sonfirsatindirimleri-kapinda.online
 sonfirsatindirimlerimayis.com.tr
 sonfirsatjenarators.shop
 sonfirsatkampanya.com
