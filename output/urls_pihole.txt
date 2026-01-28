@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-28 14:23:38 UTC
-# Toplam: 436496 Domain
+# Son Güncelleme: 2026-01-28 15:22:51 UTC
+# Toplam: 436502 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -153645,6 +153645,7 @@ fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
 fbid4564581243.com
 fbid5465498545613.sbs
+fbid57476496876.com
 fbid81e3a9b4d520.sbs
 fbidgarantim447048004506.me
 fbidgarantim5465048004506.me
@@ -220901,6 +220902,7 @@ istasyonmuayene.blogspot.com
 istasyonrandevu.com
 istatat.shop
 istationmuayn.net
+istatistik-gr-n.my-homeip.net
 istavnbullkarrt.com
 istawkdx.net
 istb-n.blogspot.com
@@ -233598,6 +233600,7 @@ kapida-siparisim.com
 kapida-siparisim.com.tr
 kapida-siparislerim.com.tr
 kapida-siparisx.com.tr
+kapida-socialy.cyou
 kapida-sok.com.tr
 kapida-son-firsatlar.com.tr
 kapida-sonfirsatlar.com.tr
@@ -242011,6 +242014,7 @@ kocs.top
 kocsigortam.com
 kocsigortla.net
 kocsistema.info
+koctas-torkun.com
 koctas.cyou
 koctas.icu
 koctas.sbs
@@ -348785,6 +348789,7 @@ sokmarketlertr.site
 sokmarketlervveb.com
 sokmarketlerzinciri.online
 sokmarketlim.online
+sokmarketocakkatalog.cfd
 sokmarketonline.com.tr
 sokmarketonline.net.tr
 sokmarketonline.org.tr
@@ -373136,6 +373141,7 @@ tr-get-islem.online
 tr-get-islemler.online
 tr-get-odeme-bilgi.online
 tr-get-secure.online
+tr-get-servislerim.com
 tr-get-siparis-secure.online
 tr-get-siparis.online
 tr-get-siparislerim.online
