@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-28 09:23:06 UTC
-! Total: 348166 rules
+! Last modified: 2026-01-28 11:14:14 UTC
+! Total: 348171 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -142246,6 +142246,7 @@
 *://*.gunceltrendyoladres.com/*
 *://*.gunceltrendyoladresi.com/*
 *://*.gunceltrendyoladresim.com/*
+*://*.gunceltrendyoladresim.net/*
 *://*.gunceltrsikayet.net/*
 *://*.gunceltrsikayetler-157.sbs/*
 *://*.gunceltrsikayetler-158.sbs/*
@@ -155446,6 +155447,7 @@
 *://*.hgftc10brdagkcmaz1.com/*
 *://*.hgftc10brdagkcmaz11.com/*
 *://*.hgfwddwd.click/*
+*://*.hgfxp.cc/*
 *://*.hggauwhsuqusq-uwzahsuweu.cyou/*
 *://*.hggauwhsuqusq-uwzahsuweu.icu/*
 *://*.hggh.site/*
@@ -195426,6 +195428,7 @@
 *://*.kmpnyaaprmsynnbasvrr.pro/*
 *://*.kmpnyaaprmsynngrntt.info/*
 *://*.kmpnyaaprmsynngrntt.pro/*
+*://*.kmpnyaaprmsynnnbsvrrr.art/*
 *://*.kmpnyaaprmsynnnbsvrrr.info/*
 *://*.kmpnyaaqnbbbsvrr.click/*
 *://*.kmpnyabasvursssprmsynn.art/*
@@ -247504,6 +247507,7 @@
 *://*.probtcpromotion.com/*
 *://*.probtcturk-tr.com/*
 *://*.probtcturk.net/*
+*://*.probuildshop.com/*
 *://*.probull.xyz/*
 *://*.procarsrl.com.ar/*
 *://*.procedureat.top/*
@@ -338596,6 +338600,7 @@
 *://*.yatirimbakis.online/*
 *://*.yatirimbasvuru.site/*
 *://*.yatirimbaykar.com/*
+*://*.yatirimbilgileri.com/*
 *://*.yatirimbilgisi.info/*
 *://*.yatirimbulteni.online/*
 *://*.yatirimbulutu.com/*
