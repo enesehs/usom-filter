@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-28 20:15:20 UTC
-# Toplam: 436523 Domain
+# Son Güncelleme: 2026-01-28 21:23:56 UTC
+# Toplam: 436527 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -282898,6 +282898,7 @@ ocakfirssatlari.cfd
 ocakfiyatlari.cfd
 ocakflrsatiburadan.shop
 ocakflrsatimizbu.com
+ocakflrsatlariefsane.com
 ocakflrsatlariyla.com
 ocakflrsatlariyla.shop
 ocakgunleri.sbs
@@ -352440,6 +352441,7 @@ spnsrluzironline1.duckdns.org
 spnsrluzirr1online.duckdns.org
 spnstlugndr3.duckdns.org
 spnsurlu-yonlndirme.com
+spnsurluyonlendiriliyorsun-wsynx.cfd
 spo32se34007.site
 spobymbfdkdwlhg.su
 spock212.hopto.org
@@ -383771,6 +383773,7 @@ tvttrrkk.net
 tvttrsakal.net
 tvttrukk.b-cdn.net
 tvtturkleodemelis.net
+tvturk.sbs
 tvturkaracmuayene-arac-muayeneal.net
 tvturkaracmuayneiodemex.net
 tvturkdxn.net
@@ -419011,6 +419014,7 @@ xn--turuncu-gnler-4ob.com.tr
 xn--tuvkrtlerehayir-2vb.ner
 xn--tuvkrtlerehayir-2vb.net
 xn--tuvtrk-s9a.net
+xn--tuvtrkarac-deb.com
 xn--tuvtrkaracmuaayenerezervasyon-obd.com
 xn--tuvtrkmuayenee-jsb.net
 xn--tv-plus-trkiye-osb.com
