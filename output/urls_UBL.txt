@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-28 05:23:11 UTC
-! Total: 348139 rules
+! Last modified: 2026-01-28 06:22:56 UTC
+! Total: 348149 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41333,6 +41333,7 @@
 *://*.basisrelic.top/*
 *://*.basitce-ptt-kargo-kapilara-gelir.com/*
 *://*.basitce-ptt-kargo-kapilara-geliyor.com/*
+*://*.basithaberci.com/*
 *://*.basitislem.ml/*
 *://*.basitlerislem.xyz/*
 *://*.basitodeme.com/*
@@ -112935,6 +112936,7 @@
 *://*.emobillin100yiligirislem.com/*
 *://*.emobillin100yilligirisllem.com/*
 *://*.emobilportalbasvuruform.net/*
+*://*.emobilservislerim.com/*
 *://*.emobilsube-qnbfinansci.com/*
 *://*.emobilsube.com/*
 *://*.emobilvatandasonline-900tldestek.nl/*
@@ -121867,6 +121869,7 @@
 *://*.fatmazpharmc.com/*
 *://*.fatodeme.com/*
 *://*.fatoftheland.top/*
+*://*.fatoix.click/*
 *://*.fatpnl.com/*
 *://*.fatrade.net/*
 *://*.fatsa3d.xyz/*
@@ -122807,6 +122810,7 @@
 *://*.fergerpergel.net/*
 *://*.ferguson356.xyz/*
 *://*.ferhat101.net/*
+*://*.ferhatgocerli.click/*
 *://*.ferhgsz.com/*
 *://*.feriboe.com/*
 *://*.feribschat.eu/*
@@ -136943,6 +136947,7 @@
 *://*.girisbasvuronayla.online/*
 *://*.girisbasvurpari.com/*
 *://*.girisbasvurubnnaktiftr.com/*
+*://*.girisbasvurubnnektiftr.com/*
 *://*.girisbasvurubntr.com/*
 *://*.girisbasvurukazan-tr.com/*
 *://*.girisbasvurular.org/*
@@ -150519,6 +150524,7 @@
 *://*.hatlawyeraverage.com/*
 *://*.hatlira.com/*
 *://*.hatoa1o1.net/*
+*://*.hatoix.click/*
 *://*.hatpaketial.net/*
 *://*.hatpaketinial.net/*
 *://*.hatpaketleri.net/*
@@ -197831,6 +197837,7 @@
 *://*.kredim-guvende-ak.net/*
 *://*.kredim-hazir.online/*
 *://*.kredim-onay.sbs/*
+*://*.kredim-onaylanir.cfd/*
 *://*.kredim-toplu-guvenli-iade2021-teknik-destek-birimi.xyz/*
 *://*.kredim.online/*
 *://*.kredimaidatiadem.com/*
@@ -265326,6 +265333,7 @@
 *://*.sanalmarketmigros.biz/*
 *://*.sanalmarketmigros.one/*
 *://*.sanalmarketmigros.vip/*
+*://*.sanalmarketmigros.xyz/*
 *://*.sanalmarketp-ttavm.com/*
 *://*.sanalmarketsokcepte.online/*
 *://*.sanalmarkett.site/*
@@ -275293,6 +275301,7 @@
 *://*.sitimemergo.pro/*
 *://*.sitioconectado.com/*
 *://*.sitistntv.com/*
+*://*.sitix.click/*
 *://*.sitmanifestation.top/*
 *://*.sitoppressive.top/*
 *://*.sitortamnett.xyz/*
@@ -301332,6 +301341,7 @@
 *://*.trglobalsecuritybnncdaily.com/*
 *://*.trgocumhurbaskanlik.com/*
 *://*.trgolog.vip/*
+*://*.trgonlirneislemmenurnbonusum.space/*
 *://*.trgov-edevletiade.com/*
 *://*.trgov-ptt.help/*
 *://*.trgoviadeislemler.com/*
