@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-28 19:23:15 UTC
-! Total: 348233 rules
+! Last modified: 2026-01-28 20:15:20 UTC
+! Total: 348234 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -83939,6 +83939,7 @@
 *://*.dakatlamazamani.com/*
 *://*.dakbank.net/*
 *://*.dakdjdhsjahag1.cfd/*
+*://*.dakdjdhsjahag1.cyou/*
 *://*.daketheblame.pro/*
 *://*.dakikacicek.site/*
 *://*.dakikalaricindeyararlan.shop/*
