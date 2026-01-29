@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-29 08:23:58 UTC
-# Toplam: 436551 Domain
+# Son Güncelleme: 2026-01-29 09:29:40 UTC
+# Toplam: 436596 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14890,6 +14890,7 @@
 50356hb.duckdns.org
 503f9d44.hwqwwrh.com.cn
 504a18da.hwqwwrh.com.cn
+504e1a42.host.njalla.net
 504e1c95.host.njalla.net
 5050505050.duckdns.org
 50519259123.online
@@ -30665,6 +30666,7 @@ activation-turkiyegovtr.com
 activationecuripass.ddns.net
 activationsecure.ddns.net
 active-mailgun.com
+active-microsoft.com
 active-mtbsecure.ddns.net
 active-ppl.duckdns.org
 active-turkiyegovtre.com
@@ -46075,6 +46077,7 @@ ap-pttgov.top
 ap-transz.hu
 ap0jolaai-account-angk4l33raa.hasmaksmkamsa.com
 ap1-acl.net
+ap123.fbi.cab
 ap27ha65.duckdns.org
 ap46767987887698.ddns.net
 ap7e0mtj.duckdns.org
@@ -46289,6 +46292,8 @@ api.sowixvip.xyz
 api.soykun.icu
 api.stalche.xyz
 api.startservicefounds.com
+api.stream-amazon.com
+api.stream-google.com
 api.suibianmaimaicom.com
 api.sxrgu.xyz
 api.terdpo.com
@@ -53876,6 +53881,7 @@ avzemgras.com
 aw-pttgov.top
 aw-test.com
 aw.mabpex.shop
+aw.ofo.ac
 aw05nz.duckdns.org
 aw0curgluw.com
 aw11e2.ddns.net
@@ -76877,6 +76883,7 @@ blackhill.pp.ua
 blackhills.ddns.net
 blackhumanitarian.top
 blackhunters231231.top
+blackice.sol-domain.org
 blackid-48411.portmap.io
 blackievirus.com
 blackinfect.ddns.net
@@ -86018,6 +86025,7 @@ buildingstrong.net
 buildneeds.net
 buildoc.co.jp
 buildstorepro.com
+buildthenations.info
 buildviet.info
 buildvogue.top
 buildwellpak.com
@@ -92244,6 +92252,7 @@ cckboodssock.org
 ccklcskcsklcscx.net
 ccl2211.duckdns.org
 ccl2222.duckdns.org
+cclawdbot.getintwopc.site
 cclawsuit.com
 ccleaner-2.ddns.net
 ccleaner.hopto.org
@@ -92422,6 +92431,7 @@ cdn-staging.livechat-files.com
 cdn-tynt.com
 cdn-webstats.com
 cdn-xhr.com
+cdn.active-microsoft.com
 cdn.adsfly.co
 cdn.arhive.online
 cdn.cloudfiare.workers.dev
@@ -93299,6 +93309,7 @@ center-postdeuthse.hopto.org
 center-upgrade-wait-load-your-account.com
 center.active-page-policy.cfd
 center.asmlbigip.com
+center.myrnicrosoft.com
 center10saat.3d.tc
 center3roma.com
 centerbotasolution.click
@@ -96310,6 +96321,7 @@ chtoto.ddns.net
 chtozaprikol.ddns.net
 chtsn.ddns.net
 chuangshijia.com.cn
+chuanqiliebiao-1314.oss-cn-shanghai.aliyuncs.com
 chubcharm.com
 chuckiekesterlerkes.com
 chuckiekestes.duckdns.org
@@ -98001,6 +98013,7 @@ clausealmighty.top
 clavedinamica.duckdns.org
 clavosolutions.com
 claw0x3.ddns.net
+clawdbot.getintwopc.site
 clawmr.top
 clawsindia.com
 clawsrisingclimb.pics
@@ -98559,6 +98572,7 @@ cloud.globiscapital.co
 cloud.googlemyanmarnews.com
 cloud.microsoft-ns1.com
 cloud.msapp.workers.dev
+cloud.myrnicrosoft.com
 cloud.nathompsstra.com
 cloud.newsofnp.com
 cloud.qunetcentre.org
@@ -98692,6 +98706,7 @@ cloudwebfile.com
 cloudwebstart.net
 cloudwebstorage.com
 cloudworldst.net
+cloudwps.cn
 cloudyplausible.top
 cloudysky24.top
 cloufdtf.com
@@ -106051,6 +106066,7 @@ cs-registerwhite546.echohive.sbs
 cs-supportamzsignprime.duckdns.org
 cs-turkiye.tk
 cs.chromeinform.net
+cs.fbi.cab
 cs.pyhycy.com
 cs.sslsngyl90.com
 cs2wqsmlc.duckdns.org
@@ -109281,6 +109297,7 @@ darkfox.ddns.net
 darkgeneration.ddns.net
 darkgenerationteam.ddns.net
 darkgoat.ddns.net
+darkgptprivate.com
 darkgvr.duckdns.org
 darkhack.ddns.net
 darkhacker33.no-ip.org
@@ -141583,6 +141600,7 @@ emajartjournal.com
 emakverg.blogspot.com
 emaleblunder.top
 emaliye-aidat.ml
+emaliye.com
 emaliyecezalar.org
 emaliyecezasorgulama.org
 emaliyegovtr206.com
@@ -153655,6 +153673,7 @@ fbf3ui4bg3533f.club
 fbhelpverifiedbadgesconfirm.ml
 fbhfard.com
 fbhvufne.com
+fbi.cab
 fbi101.ddns.net
 fbiabasvbintrnsvbbesinvknpanylarintkb723.b-cdn.net
 fbiabavnk2-wbintrn-svbbesinv-knpanylarintfkn302.b-cdn.net
@@ -169004,6 +169023,7 @@ gemtjuotcjoxyvr.cn
 gemtool.sytes.net
 gemty5zfw.duckdns.org
 gen-erated.duckdns.org
+gen.fbi.cab
 gen5-dyson.com.tr
 genasispony.hopto.org
 gencburseli.online
@@ -170134,6 +170154,7 @@ getinfostarter.com
 getinn.hopto.org
 getintogamefast.net
 getintothe.duckdns.org
+getintwopc.site
 getir-clone.karrc.com
 getir-elim-kolay-ca.com
 getir-kira.com
@@ -173731,6 +173752,7 @@ go.everli-killz.xyz
 go.finanskaynak.online
 go.kriptoinfo.online
 go.ktspace.p-e.kr
+go.ofo.ac
 go.onono.ml
 go.piyasaoku.info
 go.syndcloud.com
@@ -174458,6 +174480,7 @@ google-asistant.com
 google-assistant.com
 google-bestbuy.com
 google-bewertungen-kaufen.info
+google-chrome.org
 google-cloud.pw
 google-com-site-backup.duckdns.org
 google-com.cf
@@ -196844,6 +196867,7 @@ hitler123.zapto.org
 hitler5573.linkpc.net
 hitoc.store
 hitokoc.com
+hitpak.org
 hitsed.ru.com
 hitsmoby.com
 hitupfitness.com
@@ -238078,6 +238102,7 @@ kezbzop.duckdns.org
 keziaschool.com
 kezkzairatkbsrvur25.shop
 kezto.duckdns.org
+kf.2023kf1.top
 kf123.ddns.net
 kf32bak.duckdns.org
 kf3afg.ddns.net
@@ -260416,6 +260441,7 @@ meethub.gg
 meeti.duckdns.org
 meeti.hopto.org
 meeti12.hopto.org
+meeting.bulletmailer.net
 meeting.equitaligaiustizia.it
 meetingicon.top
 meetingmingle.top
@@ -273176,6 +273202,7 @@ myrepository.name
 myrepositoryx.com
 myridian.site
 myrjyfmqja.duckdns.org
+myrnicrosoft.com
 myrobdithet.ru
 myrocketchat.com
 myrodsday1.xyz
@@ -284226,6 +284253,7 @@ oflybfv.biz
 ofmvnljrimuhnis.ru
 ofmzydqccu.info
 ofnkvmdp.com
+ofo.ac
 ofofof281.ru.com
 ofofof281.shop
 ofofof281.za.com
@@ -291492,6 +291520,7 @@ orzhenikingbudoc.website
 orzjirw.duckdns.org
 orzyt8ff8.duckdns.org
 os-pttgov.top
+os.fbi.cab
 os.microsoft-support.net
 os1vdd5.duckdns.org
 os4p3t.duckdns.org
@@ -304110,6 +304139,7 @@ pluck.moisture.tk
 pluckcertain.top
 pluckturtle.top
 pluepf.xyz
+plug.active-microsoft.com
 plug.msplugin.icu
 plugdosdnskkk.ddns.net
 plugforgo.sg-host.com
@@ -307712,6 +307742,7 @@ profile-bakanibul.tk
 profile-kimler-bakti.com
 profile-kimlerbakiyor.com
 profile-mygov.ddns.net
+profile.myrnicrosoft.com
 profile.zapto.org
 profileanalysis.net
 profileappraise.top
@@ -308797,6 +308828,7 @@ proxysafe.myddns.me
 proxyserviceapi.duckdns.org
 proxyswitchyomega.pro
 proxysystem.duckdns.org
+proxyx.myrnicrosoft.com
 proxyyyy.duckdns.org
 proyectogambia.com
 proyectoscincuenta.duckdns.org
@@ -340343,6 +340375,7 @@ sezzonsoonukammpanyalarim.com
 sf-fsa-fsafasaf-42-14242-1as-s-asfsa.org.tr
 sf-r-kpdasnstk.online
 sf-so-o-oksff.sbs
+sf.fbi.cab
 sf0kqvkuk.duckdns.org
 sf168.com.cn
 sf19i4.duckdns.org
@@ -353778,6 +353811,7 @@ ssl.mcafee-upgrade.com
 ssl.newsofnp.com
 ssl.security.akamaihd-d.com
 ssl.sinergycosmetics.com
+ssl.stream-google.com
 ssl01novosegmento.ddns.net
 ssl1-onmicrosoft365-sslshell.com
 ssl1acesso-conta.ddns.net
@@ -355783,6 +355817,8 @@ strayknob.top
 streaamrise.com
 streakatrocious.top
 streakdirectory.top
+stream-amazon.com
+stream-google.com
 stream-onlinecom.duckdns.org
 stream-switch.info
 stream-verify-login.com
@@ -379974,6 +380010,7 @@ tumadreetupadre.servecounterstrike.com
 tumagustosindirimlikampanyalar.online
 tumakkatilir.online
 tumaktifkampmskaa.sbs
+tumama.hns.to
 tumaneshasereilaclamasi.site
 tumarachizmetler.dev
 tumaracinislemi.dev
@@ -386726,11 +386763,13 @@ up-poste.sbs
 up-to-datefraudulent.top
 up-to-datemanifest.top
 up-vodafonered.com
+up.active-microsoft.com
 up.awiki.org
 up.drvupdate.xyz
 up.filecloud.website
 up.mykings.pw
 up.qihuweb.com
+up.stream-amazon.com
 up.tracksz.co
 up.vctel.com
 up1gf7.vip
@@ -389662,6 +389701,7 @@ v2-denizbireysel.tk
 v2-denizbireyselsite.tk
 v2-denizdigitalplatform.tk
 v2-denizdigitalplatformgiris.tk
+v2.fbi.cab
 v229ea8.duckdns.org
 v22denizbank.tk
 v231676230238163u37.store
@@ -395892,6 +395932,7 @@ vershany.com
 versifrealhgs.arabamuayenesi.xyz
 versifrealhgs.com
 versinlinksiaru.jeterawa1982.workers.dev
+version.google-chrome.org
 version6dkgate.duckdns.org
 versione.ddns.net
 versionlist.top
@@ -396313,6 +396354,7 @@ vhorex-hattinadolumyap.net
 vhrnxg.duckdns.org
 vhrugkbcs.com
 vhs.decospaacloud.in
+vhs.delrosal.net
 vhskn8.duckdns.org
 vhspvkpjssyhxay.ru
 vhsv29r.duckdns.org
@@ -406571,6 +406613,7 @@ wppfskmpnaya.xyz
 wpppkmpnyyuzbir.xyz
 wpppp101frsttt.xyz
 wprohst45nlredant.top
+wps-cn.com
 wps.wpsonline.co
 wpseed.com
 wpsice.com
@@ -414116,6 +414159,7 @@ x.dildochecker.fun
 x.eredirected.xyz
 x.eredirected.xyz.ph
 x.kertodayi.com
+x.ofo.ac
 x000xxdffffirsatas-dunasi-burasi-firsatx.com
 x01bkr2.biz
 x030720.xyz
@@ -419807,6 +419851,7 @@ xoxo444.space
 xoxoprolele.xyz
 xoxoxo1x1x1x.blogspot.com
 xoy2k0.duckdns.org
+xp.fbi.cab
 xp0pxu.duckdns.org
 xp0z9ar1.duckdns.org
 xp230522.ddns.net

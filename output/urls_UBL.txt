@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-29 08:23:58 UTC
-! Total: 348260 rules
+! Last modified: 2026-01-29 09:29:40 UTC
+! Total: 348276 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5602,6 +5602,7 @@
 *://*.2023katil.com/*
 *://*.2023katilimfirsati.com/*
 *://*.2023katilimozel.com/*
+*://*.2023kf1.top/*
 *://*.2023kgmajansdestek.com/*
 *://*.2023kgmdestegiyoltakipajans.com/*
 *://*.2023kgmodemedestegiajans.com/*
@@ -65755,6 +65756,7 @@
 *://*.buildneeds.net/*
 *://*.buildoc.co.jp/*
 *://*.buildstorepro.com/*
+*://*.buildthenations.info/*
 *://*.buildviet.info/*
 *://*.buildvogue.top/*
 *://*.buildwellpak.com/*
@@ -65878,6 +65880,7 @@
 *://*.bulletgorist.xyz/*
 *://*.bulletin23.xyz/*
 *://*.bulletinalerts.com/*
+*://*.bulletmailer.net/*
 *://*.bulletproofheart.xyz/*
 *://*.bulletsubscriber.top/*
 *://*.bullkdaxxx023.com/*
@@ -75978,6 +75981,7 @@
 *://*.cloudwise.cfd/*
 *://*.cloudworkstations.dev/*
 *://*.cloudworldst.net/*
+*://*.cloudwps.cn/*
 *://*.cloudyplausible.top/*
 *://*.cloudysky24.top/*
 *://*.cloufdtf.com/*
@@ -84245,6 +84249,7 @@
 *://*.darkestfantasy.top/*
 *://*.darkfood.net/*
 *://*.darkforest90.top/*
+*://*.darkgptprivate.com/*
 *://*.darkiademerkezi.com/*
 *://*.darkknight-media.com/*
 *://*.darklight.surf/*
@@ -85590,6 +85595,7 @@
 *://*.delmarlc.net/*
 *://*.delpaseek.com/*
 *://*.delpharo.xyz/*
+*://*.delrosal.net/*
 *://*.deltaairway.net/*
 *://*.deltachimarshall.com/*
 *://*.deltacldll.com/*
@@ -112153,6 +112159,7 @@
 *://*.emajartjournal.com/*
 *://*.emaleblunder.top/*
 *://*.emaliye-aidat.ml/*
+*://*.emaliye.com/*
 *://*.emaliyecezalar.org/*
 *://*.emaliyecezasorgulama.org/*
 *://*.emaliyegovtr206.com/*
@@ -122308,6 +122315,7 @@
 *://*.fbhelpverifiedbadgesconfirm.ml/*
 *://*.fbhfard.com/*
 *://*.fbhvufne.com/*
+*://*.fbi.cab/*
 *://*.fbid4564581243.com/*
 *://*.fbid5465498545613.sbs/*
 *://*.fbid57476496876.com/*
@@ -135676,6 +135684,7 @@
 *://*.getineffable.store/*
 *://*.getinfostarter.com/*
 *://*.getintogamefast.net/*
+*://*.getintwopc.site/*
 *://*.getir-elim-kolay-ca.com/*
 *://*.getir-kira.com/*
 *://*.getiraidatonlinehaber.org/*
@@ -139131,6 +139140,7 @@
 *://*.google-assistant.com/*
 *://*.google-bestbuy.com/*
 *://*.google-bewertungen-kaufen.info/*
+*://*.google-chrome.org/*
 *://*.google-cloud.pw/*
 *://*.google-com.cf/*
 *://*.google-com.online/*
@@ -158559,6 +158569,7 @@
 *://*.hitler.su/*
 *://*.hitoc.store/*
 *://*.hitokoc.com/*
+*://*.hitpak.org/*
 *://*.hitsmoby.com/*
 *://*.hitupfitness.com/*
 *://*.hitwlyer.pics/*
@@ -161330,6 +161341,7 @@
 *://*.hnoraip.world/*
 *://*.hnourhike.top/*
 *://*.hnqfu.com/*
+*://*.hns.to/*
 *://*.hnsamnsanmsahsahmsamnsanmnmsasah58854.site/*
 *://*.hnsl112.xyz/*
 *://*.hnsmasnmash3nmsshah.site/*
@@ -219877,6 +219889,7 @@
 *://*.myrepositoryx.com/*
 *://*.myridian.site/*
 *://*.myrms.pw/*
+*://*.myrnicrosoft.com/*
 *://*.myrobdithet.ru/*
 *://*.myrocketchat.com/*
 *://*.myrodsday1.xyz/*
@@ -278328,6 +278341,7 @@
 *://*.sokyilbasiozel.com/*
 *://*.sokyzfirsatlarikacirma.xyz/*
 *://*.sokzincirmarketler.com/*
+*://*.sol-domain.org/*
 *://*.solananetworkinstance.info/*
 *://*.solaraics.com/*
 *://*.solaraixcs.com/*
@@ -284018,6 +284032,7 @@
 *://*.streakatrocious.top/*
 *://*.streakdirectory.top/*
 *://*.stream-amazon.com/*
+*://*.stream-google.com/*
 *://*.stream-switch.info/*
 *://*.stream-verify-login.com/*
 *://*.streamable-vid.com/*
@@ -324427,6 +324442,7 @@
 *://*.wpppkmpnyyuzbir.xyz/*
 *://*.wpppp101frsttt.xyz/*
 *://*.wprohst45nlredant.top/*
+*://*.wps-cn.com/*
 *://*.wpseed.com/*
 *://*.wpsice.com/*
 *://*.wpsizyeri.com/*
