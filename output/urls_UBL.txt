@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-29 14:29:54 UTC
-! Total: 348298 rules
+! Last modified: 2026-01-29 15:24:08 UTC
+! Total: 348301 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24790,6 +24790,7 @@
 *://*.akbnk-internetsubedekredim.com/*
 *://*.akbnk-neo-axess.com/*
 *://*.akbnk-tr.com/*
+*://*.akbnk.cfd/*
 *://*.akbnk.online/*
 *://*.akbnka-drekct.com/*
 *://*.akbnka.online/*
@@ -190009,6 +190010,7 @@
 *://*.karacayazfirsatlari.shop/*
 *://*.karacayazfirsatlari.store/*
 *://*.karacayazgeldi.org.tr/*
+*://*.karacayeni.com/*
 *://*.karacayeniyilindirimleri.shop/*
 *://*.karacayiiilbasiindirimi.click/*
 *://*.karacayiiilbasiindirimi.com/*
@@ -298199,6 +298201,7 @@
 *://*.tr-get-islemler.online/*
 *://*.tr-get-kurumsal.com.tr/*
 *://*.tr-get-odeme-bilgi.online/*
+*://*.tr-get-odeme.com/*
 *://*.tr-get-secure.online/*
 *://*.tr-get-servislerim.com/*
 *://*.tr-get-siparis-secure.online/*
