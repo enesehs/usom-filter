@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-29 19:23:18 UTC
-! Total: 348318 rules
+! Last modified: 2026-01-29 22:14:41 UTC
+! Total: 348343 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43955,6 +43955,7 @@
 *://*.basvuruu-formiade.com/*
 *://*.basvuruugrnnkampanyaaa.info/*
 *://*.basvuruugrnnkampanyaaa.pro/*
+*://*.basvuruugrntttkmonya.art/*
 *://*.basvuruugrntttkmonya.info/*
 *://*.basvuruugrntttkmpnnya.art/*
 *://*.basvuruugrntttkmpnnya.pro/*
@@ -47261,6 +47262,12 @@
 *://*.betparibu42.com/*
 *://*.betparibu43.com/*
 *://*.betparibu44.com/*
+*://*.betparibu471.com/*
+*://*.betparibu472.com/*
+*://*.betparibu473.com/*
+*://*.betparibu476.com/*
+*://*.betparibu480.com/*
+*://*.betparibu481.com/*
 *://*.betparibu484.com/*
 *://*.betparibu52.com/*
 *://*.betparibu55.com/*
@@ -70240,6 +70247,7 @@
 *://*.carreforsadayizyilsonu.cfd/*
 *://*.carreforsaileramazan.shop/*
 *://*.carreforsi.shop/*
+*://*.carrefoueursa.com/*
 *://*.carrefouoersa.com/*
 *://*.carrefour-arg.online/*
 *://*.carrefour-argentina.com/*
@@ -81444,6 +81452,7 @@
 *://*.crffrsasbbtbrda.com/*
 *://*.crffrsatlarii.xyz/*
 *://*.crffrsdngelcklr.com/*
+*://*.crffrsdyizbiziz.cfd/*
 *://*.crfgnclonle.cfd/*
 *://*.crfgunay.cfd/*
 *://*.crfhella.cfd/*
@@ -122329,6 +122338,7 @@
 *://*.fbhvufne.com/*
 *://*.fbi.cab/*
 *://*.fbid4564581243.com/*
+*://*.fbid525402254125.com/*
 *://*.fbid5465498545613.sbs/*
 *://*.fbid57476496876.com/*
 *://*.fbid81e3a9b4d520.sbs/*
@@ -123888,6 +123898,7 @@
 *://*.finans-doktrin.online/*
 *://*.finans-enpara.com/*
 *://*.finans-firsat-kampanyalari.com/*
+*://*.finans-gundem.pro/*
 *://*.finans-gundemi.net/*
 *://*.finans-gundemi.pro/*
 *://*.finans-gunlerim-cepte.com/*
@@ -123921,6 +123932,7 @@
 *://*.finans-qnbesube.com/*
 *://*.finans-qnbtrsubesi.com/*
 *://*.finans-rotasi.pro/*
+*://*.finans-strateji.pro/*
 *://*.finans-sube.com/*
 *://*.finans-sube.online/*
 *://*.finans-subesionline.com/*
@@ -130081,6 +130093,7 @@
 *://*.gaaarrannnnn.net/*
 *://*.gaagirri.com/*
 *://*.gaanxznowqjgewpzxaspfkfw.guru/*
+*://*.gaanxznowqjgewpzxaspfkfw.live/*
 *://*.gaaraaaantttt.site/*
 *://*.gaaraannnttiiiimmmburada.net/*
 *://*.gaaraannnttiiiimmmmm.net/*
@@ -145711,6 +145724,7 @@
 *://*.haftanin-a101-yildizlari.com/*
 *://*.haftanin-basinda-mutluluklar-sizinle.com/*
 *://*.haftanin-en-populer-kataloglari.cfd/*
+*://*.haftanin-firsatlari-firsat.cfd/*
 *://*.haftanin-firsatlari-sahane-urunler.com/*
 *://*.haftanin-firsatlari-sahane-urunler.online/*
 *://*.haftanin-firsatlari-sahane-urunler.xyz/*
@@ -185574,6 +185588,7 @@
 *://*.k3yikamaoto.shop/*
 *://*.k40asdhahsdhashdahshdahshdashdhas.click/*
 *://*.k414e.ru/*
+*://*.k41ashdahsdhashdahshdahsdhahsd.click/*
 *://*.k4214921421.shop/*
 *://*.k43gk3k4gk34.xyz/*
 *://*.k4ashdashdhashdahshdashd.site/*
@@ -218433,6 +218448,7 @@
 *://*.muhtesemfirsarlardabgun.sbs/*
 *://*.muhtesemfirsat1562.com/*
 *://*.muhtesemfirsat175478.com/*
+*://*.muhtesemfirsatlar.xyz/*
 *://*.muhtesemfirsatlarinadresi.com.tr/*
 *://*.muhtesemfirsatlarinadresi.online/*
 *://*.muhtesemfirsatlarinadresi.xyz/*
@@ -221742,6 +221758,7 @@
 *://*.net-gited.top/*
 *://*.net-giteo.top/*
 *://*.net-goal.com/*
+*://*.net-gsm.com/*
 *://*.net-gsm.org/*
 *://*.net-guvenliodeme.cf/*
 *://*.net-guvenliodeme.tk/*
@@ -236490,6 +236507,7 @@
 *://*.pabuloa.asia/*
 *://*.pabxconsultants.co.za/*
 *://*.pacalik.net/*
+*://*.pacasparm.cfd/*
 *://*.pacedogbelieves.com/*
 *://*.pacepoke.top/*
 *://*.pachek.net/*
@@ -239260,6 +239278,7 @@
 *://*.paraniz-guvenlide-gets.com/*
 *://*.paraniz-guvenlide.com/*
 *://*.paranizguvende-s-sahibinden.com/*
+*://*.paranizguvende.cfd/*
 *://*.paranizguvende.net/*
 *://*.paranizguvende.online/*
 *://*.paranizguvende.site/*
@@ -247493,6 +247512,7 @@
 *://*.prmsnynnbsvrrgrnttt.pro/*
 *://*.prmsnynnbsvrrkmnpnyaa.click/*
 *://*.prmsnynnkmpanyagrnt.pro/*
+*://*.prmsnynnnkmpnyaaaaabasvru.info/*
 *://*.prmsnyonngrntkmpnyaa.info/*
 *://*.prmssynnkmpnyaabsvrrr.click/*
 *://*.prmsyn-basvrs-yap.cfd/*
@@ -248324,6 +248344,7 @@
 *://*.promosyonzaman.shop/*
 *://*.promosyonzamani.shop/*
 *://*.promosyonzir.com/*
+*://*.promosyonziraat.click/*
 *://*.promosyonziraatte.com/*
 *://*.promosyonzraatgiriskatil.com/*
 *://*.promotagrams.com/*
@@ -281549,6 +281570,7 @@
 *://*.sponsor181239123.com/*
 *://*.sponsor1932439.com/*
 *://*.sponsor365fb0000ak.com/*
+*://*.sponsor423949234932423423.click/*
 *://*.sponsor781239girsisyap.com/*
 *://*.sponsorblackmail.top/*
 *://*.sponsorbngiris.com/*
@@ -318826,6 +318848,7 @@
 *://*.voltasina1o1.net/*
 *://*.voltasinal.cfd/*
 *://*.voltasindrm.com/*
+*://*.voltasixnderlrmbnsl.cfd/*
 *://*.voltavexiamikampanyasiyonlendlr.com/*
 *://*.voltavoltakampanya.cfd/*
 *://*.voltavoltakampanya.sbs/*
@@ -340006,6 +340029,7 @@
 *://*.yenieventlerisorgulayin.net/*
 *://*.yenievim-yuzyilkonut.online/*
 *://*.yenievim.click/*
+*://*.yenievimbasvuru.sbs/*
 *://*.yenievimm.sbs/*
 *://*.yenievimmkonutlari.info/*
 *://*.yenievimye.sbs/*
@@ -347039,6 +347063,7 @@
 *://*.ziraatpes.cfd/*
 *://*.ziraatplc.org/*
 *://*.ziraatplconline.com/*
+*://*.ziraatpromosyon.click/*
 *://*.ziraatramazandan.com/*
 *://*.ziraatramazankampanyasi.cloud/*
 *://*.ziraatrb.com/*
