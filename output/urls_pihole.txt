@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-29 13:53:54 UTC
-# Toplam: 436609 Domain
+# Son Güncelleme: 2026-01-29 14:29:54 UTC
+# Toplam: 436631 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13225,6 +13225,8 @@
 404.300bt.com
 404.hao563.com
 404.hzyzn.com
+404.imxzq.com
+404.jmfwy.com
 404.pyhycy.com
 404.yyphw.com
 40400400001.cloud
@@ -17736,6 +17738,7 @@
 7051.gsm.360safe.company
 706526125.dfgqdsd.ru
 706aim5p.duckdns.org
+7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la
 70708723422833.duckdns.org
 70795143.dfgqdsd.ru
 7079792.dfgqdsd.ru
@@ -18508,6 +18511,7 @@
 79867547654.cloud
 7987567563453.cloud
 798work.com
+799.cors5.vip
 79d339b8ec11h.net
 79deploy.consentesto.ru
 79fedd66c1fd.ngrok.io
@@ -88600,6 +88604,7 @@ bxokieaxti.duckdns.org
 bxoqdvxei.duckdns.org
 bxosdo.gufekpode1.website
 bxoynnagaxllava.click
+bxphp.westooo.com
 bxr43c27ll.net
 bxr4fyfvv.duckdns.org
 bxrch.com
@@ -161112,6 +161117,7 @@ fqhxiovwr.com
 fqizmzpdpnoreznzzibpztizl.biz
 fqjybfvvibos.space
 fqkih.com
+fql.jmfwy.com
 fqlicxvqhe.duckdns.org
 fqn-cloud.net
 fqnac.com
@@ -163317,6 +163323,7 @@ gaaaraaantiiili.com
 gaaareenta.shop
 gaaarrannnnn.net
 gaagirri.com
+gaanxznowqjgewpzxaspfkfw.guru
 gaaraaaantttt.site
 gaaraannnttiiiimmmburada.net
 gaaraannnttiiiimmmmm.net
@@ -174543,6 +174550,7 @@ google.otp.us.kg
 google.poultrymiddleeast.com
 google.reset-account.com
 google.sec-c.ga
+google.sneaws.com
 google.tk
 google.vrthcobj.com
 google00.ddns.net
@@ -245006,6 +245014,7 @@ krxspint.digital
 krxt28.net
 krxuzmnsx.net
 krxxdii-icinbassxvruu.com
+kry-ve-g-bv.my-homeip.net
 kryerindeguzel.shop
 kryfrst.shop
 krylavvo.com
@@ -279788,6 +279797,7 @@ nsaprizes.stream
 nsasd-sasa.net
 nsatastdddd.duckdns.org
 nsatasttt.duckdns.org
+nsatatte.duckdns.org
 nsatc.agency
 nsazasksa.net
 nscinfo.ddns.net
@@ -284235,6 +284245,7 @@ ofh5jp.duckdns.org
 ofheofosugusghuhushu.info
 ofheofosugusghuhushx.biz
 ofhlwypct.com
+ofi-network-grn.my-homeip.net
 oficialargentina.online
 oficinabogotanor.duckdns.org
 ofil5xwpk8kncvoladcrsxy.ddns.net
@@ -363852,9 +363863,12 @@ tdjgqe53k.duckdns.org
 tdjkslkasmjss.com
 tdjxiuoy.duckdns.org
 tdk-gov-tr.gq
+tdk.hunanduodao.com
 tdk.ihack.one
+tdk.jmfwy.com
 tdkalxejxrhgibumu.cc
 tdkbwjpnd.duckdns.org
+tdkfsdfa.cnmseo.com
 tdkixjl.com
 tdl21x1.duckdns.org
 tdm-sec.consulting
@@ -367374,6 +367388,7 @@ tgz2ocaa.duckdns.org
 tgz7km1z.duckdns.org
 tgzvudfi.com
 th-y3.adsoft.name
+th.gtwql.com
 th.mytubes.xyz.gohiding.com
 th0mass4n.xyz
 th0r.zapto.org
@@ -368224,6 +368239,7 @@ thousandendeavor.top
 thousandideaz.com
 thousandsymposium.top
 thousingapplication.com
+thov.hunanduodao.com
 thpi73w.duckdns.org
 thposto.vip
 thqpmh.vip
@@ -384506,6 +384522,9 @@ tyyyzyxpvu.duckdns.org
 tyyzdd.com
 tyzd45.duckdns.org
 tyzgw.cn
+tz.jmfwy.com
+tz.ohtcm.com
+tz.suucx.com
 tz6.org
 tzapkd1.duckdns.org
 tzebttgldkbrdavrz.shop
@@ -397702,6 +397721,7 @@ vkfspnrlutntimli.duckdns.org
 vkfsuperfirsatkatilim.com
 vkfszbnk.tk
 vkftankazanim.net
+vkftnhaberler.com
 vkftorbetgiris.tk
 vkftr.net
 vkfvfkvfvxfkvkf.com
@@ -399980,6 +400000,7 @@ w3891r.duckdns.org
 w3a50e.duckdns.org
 w3auzke.duckdns.org
 w3c.games
+w3c.sneaws.com
 w3capi.marketing
 w3frvssj9.duckdns.org
 w3fxpk.duckdns.org
@@ -421384,6 +421405,7 @@ yakyak2023bimcelltlyukle.ga
 yakzatenalevaliyor.xyz
 yal1am.com
 yalamazadoneresteyses.net
+yalandundyadan.site
 yaldmbiti.sbs
 yalensians.com
 yalikavaklisubeleri.com.tr
