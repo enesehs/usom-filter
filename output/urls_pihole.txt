@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-30 15:22:54 UTC
-# Toplam: 436867 Domain
+# Son Güncelleme: 2026-01-30 17:23:45 UTC
+# Toplam: 436883 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -98081,7 +98081,9 @@ clausealmighty.top
 clavedinamica.duckdns.org
 clavosolutions.com
 claw0x3.ddns.net
+clawbot.ai
 clawdbot.getintwopc.site
+clawdbot.you
 clawmr.top
 clawsindia.com
 clawsrisingclimb.pics
@@ -106450,6 +106452,7 @@ cttse.cam
 ctuerederge.site
 ctutvvgirisislllemenuu.com
 ctuyfwdlr.duckdns.org
+ctv-tvb-g-r.my-homeip.net
 ctvwcudnhwxg.duckdns.org
 ctwo.msoftupdates.com
 ctwonx221.ddns.net
@@ -121938,6 +121941,7 @@ disorderinaugurate.top
 disordersalad.top
 disorderstatus.ru
 disordspce.top
+dispatch1.hexsdk.com
 dispatchindict.top
 dispensebusiness.top
 dispensereputable.top
@@ -125713,6 +125717,7 @@ ds12.ng
 ds45x1.com
 ds4tpf3.duckdns.org
 ds51f5ds1f.digital
+ds56d6d.nicepage.io
 ds686dsa156daa15.site
 ds6a4d.nicepage.io
 ds7hd1wty.duckdns.org
@@ -153712,6 +153717,7 @@ fb-statics.com
 fb-statics.info
 fb-techsupport.com
 fb-terms.vercel.app
+fb-whell-spin.sbs
 fb.my-homeip.com
 fb0000sponsor365ak.com
 fb0258169bd4.com
@@ -181432,6 +181438,7 @@ haber-kartinizinislemlerigovtr.org
 haber-konut-basvuru.com
 haber-krizi.cfd
 haber-krizi.com
+haber-krizi.sbs
 haber-kusu.com
 haber-leer.site
 haber-man.club
@@ -217563,6 +217570,7 @@ is-yeni-kampanyalari.vercel.app
 is-yeniyilsurprizleri2019.com
 is-yuzuncuyilcekilisi-tr.com
 is.14bdccd.xyz
+is.gd
 is.hizli-basvur.site
 is.my-homeip.com
 is.tk.ionlnb.com
@@ -220792,6 +220800,7 @@ istanbullblog2025.myshopify.com
 istanbullbrsibb.net
 istanbullcarddd.org
 istanbullcumbakim.pro
+istanbullda.shop
 istanbulldolm.net
 istanbullhizlibakiyem.com
 istanbullkaarrt.net
@@ -233767,6 +233776,7 @@ kapida-market.app
 kapida-meety.cyou
 kapida-mobil-siparis.com.tr
 kapida-mobil-siparis.net.tr
+kapida-novexa.cfd
 kapida-online-738xxm49fj4ko3.click
 kapida-online-alisveris.com.tr
 kapida-online-alisveris.xyz
@@ -267896,6 +267906,7 @@ molowo.in.ua
 molpex.ml
 molrkoas.de
 molru.ddns.net
+moltbot.you
 molteppope.store
 molterana.online
 momantrodulist.pro
@@ -271703,6 +271714,7 @@ murtazaengin.com
 murthydigitals.com
 mus09.duckdns.org
 musaadeler-son-cagridan-daha-once-gelir.com
+musadenizle.amphidswipy.sbs
 musadenle.click
 musallat.online
 musaned2comsa4.softr.app
@@ -283176,6 +283188,7 @@ ocakson101kapida-yenikmpanya.site
 ocaksongidafirsatlari.com
 ocaksonufirsatlari.cfd
 ocaksonufirsatlari.com
+ocaksonukacirmasakin.cfd
 ocaksurprizleri-geldi2019.com
 ocaksurprizlerigeldi-2019.com
 ocaksurprizlerigeldi2019.com
@@ -350129,6 +350142,7 @@ songunfirsatlatlarisizlerle.online
 songunfirsatlatlarisizlerle.xyz
 songunfrst.shop
 songunicin.xyz
+songunindirimleri.cfd
 songunkacinilmazfirsatlarsizlerle.com.tr
 songunkacinilmazfirsatlarsizlerle.online
 songunkacirma.com
@@ -365203,6 +365217,7 @@ tekno-e-ticaret.com
 tekno-haftasi-20gb-bizden.com
 tekno-kredi.cfd
 tekno-kredi.sbs
+tekno-kredin.sbs
 tekno-sa-indirim.com.tr
 tekno-sa-indirim.online
 tekno-sa-kepadres.com
@@ -418000,6 +418015,7 @@ xn--istanbul-kart-bakiye-ykle-0wc.comv
 xn--istanbulkartyklee-f3b.net
 xn--istanbulkartykleme-y6b.com
 xn--istanbulkmsto-fbc.com
+xn--istanbullda-4lg.shop
 xn--istanvcxbulbkiyeservisi-t6b.net
 xn--istebsvrhmnhzlislm-r0c.com
 xn--istediin-destek-basladi-turkiye-tfe.online

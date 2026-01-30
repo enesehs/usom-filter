@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-30 15:22:54 UTC
-! Total: 348485 rules
+! Last modified: 2026-01-30 17:23:45 UTC
+! Total: 348497 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -75485,6 +75485,8 @@
 *://*.claudfront.net/*
 *://*.clausealmighty.top/*
 *://*.clavosolutions.com/*
+*://*.clawbot.ai/*
+*://*.clawdbot.you/*
 *://*.clawmr.top/*
 *://*.clawsindia.com/*
 *://*.clawsrisingclimb.pics/*
@@ -122357,6 +122359,7 @@
 *://*.fb-statics.com/*
 *://*.fb-statics.info/*
 *://*.fb-techsupport.com/*
+*://*.fb-whell-spin.sbs/*
 *://*.fb0000sponsor365ak.com/*
 *://*.fb0258169bd4.com/*
 *://*.fb1g33ih.com/*
@@ -145044,6 +145047,7 @@
 *://*.haber-konut-basvuru.com/*
 *://*.haber-krizi.cfd/*
 *://*.haber-krizi.com/*
+*://*.haber-krizi.sbs/*
 *://*.haber-kusu.com/*
 *://*.haber-leer.site/*
 *://*.haber-man.club/*
@@ -176022,6 +176026,7 @@
 *://*.is-yaz-iade-kampanya.tk/*
 *://*.is-yeniyilsurprizleri2019.com/*
 *://*.is-yuzuncuyilcekilisi-tr.com/*
+*://*.is.gd/*
 *://*.is15720.xyz/*
 *://*.is3567gg.org/*
 *://*.is36ajdn-ban36k-logn.xyz/*
@@ -178693,6 +178698,7 @@
 *://*.istanbullbrsibb.net/*
 *://*.istanbullcarddd.org/*
 *://*.istanbullcumbakim.pro/*
+*://*.istanbullda.shop/*
 *://*.istanbulldolm.net/*
 *://*.istanbullhizlibakiyem.com/*
 *://*.istanbullkaarrt.net/*
@@ -189405,6 +189411,7 @@
 *://*.kapida-meety.cyou/*
 *://*.kapida-mobil-siparis.com.tr/*
 *://*.kapida-mobil-siparis.net.tr/*
+*://*.kapida-novexa.cfd/*
 *://*.kapida-online-738xxm49fj4ko3.click/*
 *://*.kapida-online-alisveris.com.tr/*
 *://*.kapida-online-alisveris.xyz/*
@@ -215815,6 +215822,7 @@
 *://*.molowo.in.ua/*
 *://*.molpex.ml/*
 *://*.molrkoas.de/*
+*://*.moltbot.you/*
 *://*.molteppope.store/*
 *://*.molterana.online/*
 *://*.momantrodulist.pro/*
@@ -227316,6 +227324,7 @@
 *://*.ocaksongidafirsatlari.com/*
 *://*.ocaksonufirsatlari.cfd/*
 *://*.ocaksonufirsatlari.com/*
+*://*.ocaksonukacirmasakin.cfd/*
 *://*.ocaksurprizleri-geldi2019.com/*
 *://*.ocaksurprizlerigeldi-2019.com/*
 *://*.ocaksurprizlerigeldi2019.com/*
@@ -279343,6 +279352,7 @@
 *://*.songunfirsatlatlarisizlerle.xyz/*
 *://*.songunfrst.shop/*
 *://*.songunicin.xyz/*
+*://*.songunindirimleri.cfd/*
 *://*.songunkacinilmazfirsatlarsizlerle.com.tr/*
 *://*.songunkacinilmazfirsatlarsizlerle.online/*
 *://*.songunkacirma.com/*
@@ -291644,6 +291654,7 @@
 *://*.tekno-haftasi-20gb-bizden.com/*
 *://*.tekno-kredi.cfd/*
 *://*.tekno-kredi.sbs/*
+*://*.tekno-kredin.sbs/*
 *://*.tekno-sa-indirim.com.tr/*
 *://*.tekno-sa-indirim.online/*
 *://*.tekno-sa-kepadres.com/*
@@ -333334,6 +333345,7 @@
 *://*.xn--istanbulkartyklee-f3b.net/*
 *://*.xn--istanbulkartykleme-y6b.com/*
 *://*.xn--istanbulkmsto-fbc.com/*
+*://*.xn--istanbullda-4lg.shop/*
 *://*.xn--istanvcxbulbkiyeservisi-t6b.net/*
 *://*.xn--istebsvrhmnhzlislm-r0c.com/*
 *://*.xn--istediin-destek-basladi-turkiye-tfe.online/*
