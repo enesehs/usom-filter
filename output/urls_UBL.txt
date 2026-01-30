@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-30 07:31:52 UTC
-! Total: 348385 rules
+! Last modified: 2026-01-30 09:26:36 UTC
+! Total: 348421 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -119,6 +119,7 @@
 *://*.00659890065989.com/*
 *://*.006999.xyz/*
 *://*.007d3a199954.net/*
+*://*.00857cca77b615c369f48ead5f8eb7f3.com/*
 *://*.008php.com/*
 *://*.008usa-xxf.com/*
 *://*.008ykv.cn/*
@@ -422,6 +423,7 @@
 *://*.0a33ad4f7f11h.net/*
 *://*.0a4bfb253054.net/*
 *://*.0a6a01as980dan9q.net/*
+*://*.0aa0cf0637d66c0d.com/*
 *://*.0ad350539d54.net/*
 *://*.0anapx1.com/*
 *://*.0b28c5b68a54.net/*
@@ -7928,6 +7930,7 @@
 *://*.31b413b413433.xyz/*
 *://*.31check.com/*
 *://*.31check.me/*
+*://*.31d58c226fc5a0aa976e13ca9ecebcc8.com/*
 *://*.31ekimfiirssat.online/*
 *://*.31ekimfirsat.online/*
 *://*.31ekimfirssat.online/*
@@ -8772,6 +8775,7 @@
 *://*.3jmedia.africa/*
 *://*.3jsufi.com/*
 *://*.3jzr6u5n.tw/*
+*://*.3k7m1n9p4q2r6s8t0v5w2x4y6z8u9.com/*
 *://*.3kampanya-indirimaacz.tk/*
 *://*.3kampanya-indirimadel.tk/*
 *://*.3kampanya-indirimbnjp.tk/*
@@ -9135,6 +9139,7 @@
 *://*.44201596357.cloud/*
 *://*.442335com.com/*
 *://*.44255.online/*
+*://*.442fe7151fb1e9b5.com/*
 *://*.443123131123.cloud/*
 *://*.4432323233.cloud/*
 *://*.443543252362435435.com/*
@@ -11016,6 +11021,7 @@
 *://*.6ayfaizcassette.xyz/*
 *://*.6ayfaizresize.xyz/*
 *://*.6aypfizersiz.xyz/*
+*://*.6b86b273ff34fce1.online/*
 *://*.6bb1390306788b33981d0595033c23.com/*
 *://*.6bfb4f7fce.pw/*
 *://*.6bi.us/*
@@ -11903,6 +11909,7 @@
 *://*.7wkw.com/*
 *://*.7won-p-t-t-a-v-m.shop/*
 *://*.7wpinibw.ml/*
+*://*.7x2k9n4p1q0r5s8t3v6w0y2z4u7b9.com/*
 *://*.7years0010110100003.cloud/*
 *://*.7years01010100002.cloud/*
 *://*.7years101001010004.cloud/*
@@ -12435,6 +12442,7 @@
 *://*.8asugotystsamasa.cloud/*
 *://*.8au19dm.cn/*
 *://*.8b.io/*
+*://*.8b21a945159f23b740c836eb50953818.com/*
 *://*.8b3329843843b43843.icu/*
 *://*.8baf5575075aa2ac757fceb43221eb9d.com/*
 *://*.8biker.com/*
@@ -12460,6 +12468,7 @@
 *://*.8eh18dhq9wd.click/*
 *://*.8eptmarket.com/*
 *://*.8eylul101-comtr.site/*
+*://*.8f00b204e9800998.com/*
 *://*.8f31.ru/*
 *://*.8f6rhvyi.ru/*
 *://*.8f9a4ef8.com/*
@@ -15578,11 +15587,13 @@
 *://*.a6xwktlad.ru/*
 *://*.a714ha3gmn356819yae.com.tr/*
 *://*.a78p.top/*
+*://*.a7b37115ce3cc2eb.com/*
 *://*.a7d7eyhkkw.com/*
 *://*.a83129c4843d6e88.info/*
 *://*.a839291774949-s9492828.online/*
 *://*.a8bimcell.net/*
 *://*.a8ctestasdfasdfasdfasdfasdf.org/*
+*://*.a8d3b9e1f5c7024d6e0b7a2c9f1d83e5.com/*
 *://*.a8e9b187c0.fm/*
 *://*.a8e9b187c0.vin/*
 *://*.a8e9b187c0.vip/*
@@ -15614,6 +15625,7 @@
 *://*.aa392m.shop/*
 *://*.aa3af2bd04bc5a392f7244a1f9cdddd0.xyz/*
 *://*.aa436rjugat.ru/*
+*://*.aa86a52a98162b7d.com/*
 *://*.aa87e6e6163f807b6fd9a2d57e9c99f0.com/*
 *://*.aaa.xyz/*
 *://*.aaa101aaaaa1001aaaa.com/*
@@ -20518,6 +20530,7 @@
 *://*.af-turkiyeaidat.tk/*
 *://*.af0575.com/*
 *://*.af23k8n.cn/*
+*://*.af4760df2c08896a9638e26e7dd20aae.com/*
 *://*.af5b9868c211h.net/*
 *://*.afacanaxtaks23.site/*
 *://*.afad-bagis.ph/*
@@ -39587,6 +39600,7 @@
 *://*.b591.com/*
 *://*.b5ba24k6xhxn7b.com/*
 *://*.b5cellx.net/*
+*://*.b5e9a2d7f4c8e3b1a0d6f2e9c5b8a7d.com/*
 *://*.b5gn6as6f.ru/*
 *://*.b5k31.gdn/*
 *://*.b5kkshd.cn/*
@@ -45919,6 +45933,7 @@
 *://*.bdrdmrndcelll.com/*
 *://*.bdrive.club/*
 *://*.bdrive.space/*
+*://*.bdrv7wlbszfotkqf.uk/*
 *://*.bdsfhsfghsgsrenyedgvngd.wiki/*
 *://*.bdshe764d.shop/*
 *://*.bdsmkhex.net/*
@@ -73338,6 +73353,7 @@
 *://*.cezasorgulatuyap.com/*
 *://*.cezasorgulatuzlasma.com/*
 *://*.cezasorgumerkezi.org/*
+*://*.cezasorgusistemi.org/*
 *://*.cezasorgusu.com/*
 *://*.cezasorguuyap.com/*
 *://*.cezatakipsistemi.org/*
@@ -73365,6 +73381,7 @@
 *://*.cfd-regulations.com/*
 *://*.cfdauctions.org/*
 *://*.cfddkithydonudf.com/*
+*://*.cfe47df26c8eaf0a7c136b50c703e173.com/*
 *://*.cfecgcaquitaine.com/*
 *://*.cfeemdedcxuv.pw/*
 *://*.cff-explorer.com/*
@@ -81615,6 +81632,7 @@
 *://*.crfsssead.cfd/*
 *://*.crfsyagldncrfsadngtmdn.com/*
 *://*.crfsykrsmtcfrdsyadn.com/*
+*://*.crftsahipr.cfd/*
 *://*.crftseydisehir.cfd/*
 *://*.crfursaabzmolursa.com/*
 *://*.crfyonlendirme.shop/*
@@ -85122,6 +85140,7 @@
 *://*.decustlk.com/*
 *://*.decyly.com/*
 *://*.dedbg.ru/*
+*://*.dedeciklerim.com/*
 *://*.dedecom.ga/*
 *://*.dedeinizssuuacikbasvuru.site/*
 *://*.dedelerindedsi.xyz/*
@@ -104718,6 +104737,7 @@
 *://*.e43f9b8319d4.com/*
 *://*.e44tfvu.su/*
 *://*.e4d82d53f047.com/*
+*://*.e4f8c1b9a2d7e3f6c0b5a8d9e2f1c4d.com/*
 *://*.e4qo.com/*
 *://*.e500k.com/*
 *://*.e553243d0a470dee8ee081fa4c73581c.net/*
@@ -116817,6 +116837,7 @@
 *://*.esmotorsfilo.com/*
 *://*.esmtmnz.com/*
 *://*.esnafbenim.com/*
+*://*.esnafbilgikaynaklari.cfd/*
 *://*.esnafdestek.ml/*
 *://*.esnafkefaletkredi.com/*
 *://*.esnafkrdibsvrhsnwz.net/*
@@ -116824,6 +116845,7 @@
 *://*.esnek-hesap.com/*
 *://*.esnek-limit.net/*
 *://*.esnemreprs.ws/*
+*://*.esnfytrmtfcg1000.click/*
 *://*.esnfytrmtfcg10000.cfd/*
 *://*.esnom2.top/*
 *://*.esnoptdkkiirzewlpgmccbwuynvxjumf.name/*
@@ -155227,6 +155249,7 @@
 *://*.hexlevurdugol.net/*
 *://*.hexnsenmehgxs.net/*
 *://*.hexpanel.cyou/*
+*://*.hexsdk.com/*
 *://*.hexsmadoil.pro/*
 *://*.hexvana.com/*
 *://*.heyasa1o1.net/*
@@ -170398,6 +170421,7 @@
 *://*.inchlevy.top/*
 *://*.inchtitle.xyz/*
 *://*.inci-otocikma.com.tr/*
+*://*.inciakaryakitmerkez.com/*
 *://*.incibileklik.tk/*
 *://*.incidenceambiguous.top/*
 *://*.incidenceplumber.top/*
@@ -178343,6 +178367,7 @@
 *://*.istanbulc4cmkart.net/*
 *://*.istanbulcan.net/*
 *://*.istanbulcannnn.net/*
+*://*.istanbulcanolsa.shop/*
 *://*.istanbulcard.net/*
 *://*.istanbulcardbakiye.org/*
 *://*.istanbulcardbakiyem.net/*
@@ -178626,6 +178651,7 @@
 *://*.istanbull-akbill-d0lum.net/*
 *://*.istanbullabakiyesim.net/*
 *://*.istanbullafirsat.net/*
+*://*.istanbullarasana.shop/*
 *://*.istanbullarkentkart.com/*
 *://*.istanbullarkolaysistem.com/*
 *://*.istanbullartgunlugu.online/*
@@ -189338,6 +189364,7 @@
 *://*.kapida-market-online.name.tr/*
 *://*.kapida-market-online.xyz/*
 *://*.kapida-market.app/*
+*://*.kapida-meety.cyou/*
 *://*.kapida-mobil-siparis.com.tr/*
 *://*.kapida-mobil-siparis.net.tr/*
 *://*.kapida-online-738xxm49fj4ko3.click/*
@@ -236560,6 +236587,9 @@
 *://*.packetassassinate.top/*
 *://*.packetbite.live/*
 *://*.packetriot.net/*
+*://*.packetsdk.io/*
+*://*.packetsdk.net/*
+*://*.packetsdk.xyz/*
 *://*.packfirst.ml/*
 *://*.packing-abc.asia/*
 *://*.packlandgroup.ir/*
@@ -265863,6 +265893,7 @@
 *://*.sarafa.click/*
 *://*.sarah-louisewoodcock56.top/*
 *://*.sarahtame.at/*
+*://*.sarakan.click/*
 *://*.saraken.xyz/*
 *://*.sarakolle.com/*
 *://*.saramargo.com/*
@@ -290320,6 +290351,7 @@
 *://*.tcgonderitr.lat/*
 *://*.tcgwl.ru/*
 *://*.tchalkoim.com/*
+*://*.tchazine.com/*
 *://*.tchazinemaliye.org/*
 *://*.tchazinemaliye.site/*
 *://*.tchelovekoblako.club/*
@@ -308383,6 +308415,7 @@
 *://*.ucretsizuyelikfirsatlari.com/*
 *://*.ucretsizvize.ml/*
 *://*.ucrffea.cfd/*
+*://*.ucrrfrsadar.cfd/*
 *://*.ucrtl661266.store/*
 *://*.ucrtln6001206.online/*
 *://*.ucshgsm.com/*
@@ -312234,6 +312267,7 @@
 *://*.v3solutions4all.com/*
 *://*.v3solutions4all.org/*
 *://*.v463736483373.click/*
+*://*.v46wd6uramzkmeeo.in/*
 *://*.v4chpns.cn/*
 *://*.v4denizzbanksubecom.tk/*
 *://*.v4grisitesi.com/*
@@ -323515,6 +323549,7 @@
 *://*.willingyhollowsk.shop/*
 *://*.willintegral.top/*
 *://*.willispeng.com/*
+*://*.willmam.com/*
 *://*.willmedieval.top/*
 *://*.willmengconstructions.com/*
 *://*.willotalent.us/*
@@ -331492,6 +331527,7 @@
 *://*.xn--arsambafrsatlarbyk-6ub20mha.shop/*
 *://*.xn--asdasdjasdkjas-tjb.com/*
 *://*.xn--asderhaberlerigirsyaptnztr-b6dfb.net/*
+*://*.xn--asdk2-pt3b.com/*
 *://*.xn--asdpofgkewdsofja101-t5c.com/*
 *://*.xn--asfalsfanma-l9a5r79c.net/*
 *://*.xn--asfgidenglstrtcmr-2jd.app/*
