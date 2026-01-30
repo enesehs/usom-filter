@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-30 17:23:45 UTC
-# Toplam: 436883 Domain
+# Son Güncelleme: 2026-01-30 18:24:41 UTC
+# Toplam: 436897 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85672,6 +85672,7 @@ bufrssttlr-kcasmxasynii.net.tr
 bufrssztlr-kcamxasynii.net.tr
 bufrstbrdackbyklr.shop
 bufrstlardanfaydalanirsin.shop
+bufrstllarkcdmzxynivrsion.sa.com
 bufrstllarkcmzxynivrsion.xyz
 bufrstllarkcmzxynkivrsion.sa.com
 bufrstlrkacmz.duckdns.org
@@ -117291,6 +117292,7 @@ destek-basvuru-tr-pdf.com
 destek-basvuru-tr-pdf.org
 destek-basvuruformu.com
 destek-basvurum.com
+destek-basvurun.com
 destek-basvurusu-bireysel-ozel-kampanyasi.xyz
 destek-basvurusu-bireysele-ozel.xyz
 destek-basvurusu.gq
@@ -132686,6 +132688,7 @@ e-tryukle.com
 e-tryverqi.net
 e-ttnetonline.xyz
 e-ttode.net
+e-ttuvturk.digital
 e-ttuvturkk.digital
 e-turkcell.com
 e-turkcell.net
@@ -148367,6 +148370,7 @@ euu5x1a.duckdns.org
 euunqc.top
 euvjggfbjl.duckdns.org
 euwq.loveslife.biz
+euwtrpxcnzxkpwqasfwqpksas.today
 euxxfmyqys.duckdns.org
 euya.cn
 euyap-eislem.com
@@ -186162,6 +186166,7 @@ hamma22.zapto.org
 hammadaftab.com
 hammamaamamamamamma9876.com
 hammamahamamamamamhamama9894595.com
+hammamamaamammama2341.com
 hammamdamdamsdkma1823.com
 hammeranalogue.top
 hammerdog.top
@@ -196528,6 +196533,7 @@ hibedestekbasvurulariniz.com
 hibedestekkredi.xyz
 hibedestekler-edevletgovtr.epizy.com
 hibedestekleri-govtr.epizy.com
+hibedestekonline.com
 hibedevletdestekleri.com
 hibekredimfaizsizzs.com.tr
 hibekredimfaizsizzss.com.tr
@@ -233803,6 +233809,7 @@ kapida-sok.com.tr
 kapida-son-firsatlar.com.tr
 kapida-sonfirsatlar.com.tr
 kapida-together.sbs
+kapida-trustio.bond
 kapida-urun-aldin.com.tr
 kapida-urun-reklam.com.tr
 kapida-urun-xn.com.tr
@@ -243336,6 +243343,7 @@ kosgebbasvuruformu.click
 kosgebbasvuruformu.com
 kosgebbasvurusu.click
 kosgebbasvurusuu.click
+kosgebbasvuruu.online
 kosgebbilgi.duckdns.org
 kosgebdestek.duckdns.org
 kosgebdestekbasvuru.com
@@ -304806,6 +304814,7 @@ polewithcandy.com
 polgalllfas.vercel.app
 polhgss.com
 polhjrebncxds.com
+polholteslimat.cyou
 polhugu.my-homeip.com
 police-fbi.securityservice.review
 police-strong-mobile.com
@@ -349092,6 +349101,7 @@ sokmarketlervveb.com
 sokmarketlerzinciri.online
 sokmarketlim.online
 sokmarketocakkatalog.cfd
+sokmarketocaksonuindirimleri.cfd
 sokmarketonline.com.tr
 sokmarketonline.net.tr
 sokmarketonline.org.tr
@@ -365268,7 +365278,9 @@ teknoloji-bireyselcepvakif.ml
 teknoloji-burada.com
 teknoloji-dyson.com.tr
 teknoloji-enpara.com
+teknoloji-firsat.cfd
 teknoloji-firsat.click
+teknoloji-firsat.sbs
 teknoloji-garantibankasi.ml
 teknoloji-hediyeleridagitimkampanyasi-paribucom.tk
 teknoloji-hizmet-konfor-hepsi-seninle.top
@@ -371091,6 +371103,7 @@ tokibasvvuru.blogspot.com
 tokibavsuuru.omnicron.sbs
 tokibbasvurrularii.com
 tokibbasvuvuru.com
+tokibbasvuvuru.sa.com
 tokibilgiekrani.com
 tokibilgilendirme.com
 tokibirevimprojeleri.com
@@ -433405,6 +433418,7 @@ ziraaatkatilim.com
 ziraaatkredisorgulamahizmetservisimizgeldi.com-tr-com.net
 ziraaatonlinepb.com
 ziraaatpb.com
+ziraaatr-tr.cfd
 ziraaattenalkrediyi.xyz
 ziraaattm0billemeklibsvruu.ip-ddns.com
 ziraaattrkyckls.com
