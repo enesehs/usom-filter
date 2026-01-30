@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-30 13:45:06 UTC
-# Toplam: 436843 Domain
+# Son Güncelleme: 2026-01-30 14:25:12 UTC
+# Toplam: 436858 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -44950,6 +44950,7 @@ aninda-arackiralama.com
 aninda-basvur.duckdns.org
 aninda-basvuru-yap.co.uk
 aninda-etkinlik.com
+aninda-haber.shop
 aninda-hgsyukleme.onrender.com
 aninda-hizmet.net
 aninda-iade-almak-icin-hemen-basvur.online
@@ -48277,6 +48278,7 @@ aracmuayenerezervasyoncu.com
 aracmuayenesayfasi.com
 aracmuayeneservislerim.com
 aracmuayenesi-site.com
+aracmuayenesi.netlify.app
 aracmuayenesial.com
 aracmuayenesim.com
 aracmuayenesiservisi.com
@@ -50931,6 +50933,7 @@ aslageryebakma.click
 aslampro000.ddns.net
 aslan.kartal-915.com
 aslanabims34.net
+aslanbakreklam.com
 aslanbektas.gb.net
 aslandamattx.com.tr
 aslangolgol.surf
@@ -58018,6 +58021,7 @@ barkinnumerable.top
 barkobservatory.top
 barkodislemmerkezi.xyz
 barkofameric4-ve.ddns.net
+barkofbakum.com
 barleduc89.xyz
 barmagagdeda.hopto.org
 barmaley654.ddns.net
@@ -125709,6 +125713,7 @@ ds45x1.com
 ds4tpf3.duckdns.org
 ds51f5ds1f.digital
 ds686dsa156daa15.site
+ds6a4d.nicepage.io
 ds7hd1wty.duckdns.org
 ds7kguvl.forms.app
 ds847f.tcgwl.ru
@@ -140089,6 +140094,7 @@ ekampanyayilbasi-deniz-basvur-online.ml
 ekampanyayilbasi-deniz-basvur-online.tk
 ekampya-bireysel-basvur-com.ml
 ekamu-turkiyegovtri.com
+ekamucezasorgu.org
 ekamucezasorgula.org
 ekamucezasorgulama.org
 ekamudavamdosya.com
@@ -146431,6 +146437,7 @@ erts.nichesite.org
 ertusldferr.site
 ertwxfsff.xyz
 ertyernqw.pro
+ertyerxcbxcqsavzgdfhtrasf.live
 erunski22.ddns.net
 eruptiondeduct.top
 eruptiondetergent.top
@@ -177253,6 +177260,7 @@ gttigdiyor1o1frstlartukenyr.shop
 gttr10n1ineka1i1im.net
 gtuchp.com
 gturoyducm.duckdns.org
+gtv-g-rn-i.my-homeip.net
 gtwebsolutions.co
 gtwhmbqefs.duckdns.org
 gtx-ns.site
@@ -181422,6 +181430,7 @@ haber-kapital.life
 haber-kartinizinislemlerigovtr.org
 haber-konut-basvuru.com
 haber-krizi.cfd
+haber-krizi.com
 haber-kusu.com
 haber-leer.site
 haber-man.club
@@ -220293,6 +220302,7 @@ istanbuislemlrnri.click
 istanbuislemlrrni.click
 istanbuk-islmi-istrse.lol
 istanbukabilmerkezin.online
+istanbukadara.shop
 istanbukargrs.autos
 istanbukart.online
 istanbukfirsat.net
@@ -244575,6 +244585,7 @@ kredim-hazir.online
 kredim-onay.duckdns.org
 kredim-onay.sbs
 kredim-onaylanir.cfd
+kredim-onaylanir.sbs
 kredim-toplu-guvenli-iade2021-teknik-destek-birimi.xyz
 kredim.baglantisiailegenc.com
 kredim.garantibbwgvnde.com
@@ -279832,6 +279843,7 @@ ns-vaikf.online
 ns-wwwhaber61net.rasperstate.sbs
 ns-wwwhaber61net.whilesorfe.sbs
 ns-wwwhaberlercom.cyberpath.cfd
+ns-wwwsondakikacom-haber.cotofora.cfd
 ns-wwwsondakikacom-haber.pacasparm.cfd
 ns-wwwsondakikacom.nexusframe.cfd
 ns-wwwtokigovtr.mindframe.sbs
@@ -283158,6 +283170,7 @@ ocaksokmarketindirimleri.cfd
 ocakson01.shop
 ocakson101kapida-yenikmpanya.site
 ocaksongidafirsatlari.com
+ocaksonufirsatlari.cfd
 ocaksonufirsatlari.com
 ocaksurprizleri-geldi2019.com
 ocaksurprizlerigeldi-2019.com
@@ -399401,6 +399414,7 @@ vttpiohddggxccj.ru
 vttytuttislemenugirisleri.com
 vtunk-port-kalsyz.com
 vturkkktuer.online
+vtv-g-r-tbv.my-homeip.net
 vtviiislllemenuonlinem.com
 vtvvvulkwx.duckdns.org
 vtwxvlmwvx.duckdns.org
@@ -433343,6 +433357,7 @@ zira-atbank.com
 zira-attbankasi.com
 zira1at-1.click
 zira4t-firsat-zamani.duckdns.org
+ziraa-at.cfd
 ziraa-tofficalfirsat.com
 ziraaaat--us.cfd
 ziraaaaturkye.com
