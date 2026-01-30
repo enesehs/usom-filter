@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-30 09:26:36 UTC
-! Total: 348421 rules
+! Last modified: 2026-01-30 10:23:25 UTC
+! Total: 348438 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8443,6 +8443,7 @@
 *://*.360mediashare.com/*
 *://*.360mobil.com.tr/*
 *://*.360otokiralamaonline.com/*
+*://*.360proxy.com/*
 *://*.360roomview.com/*
 *://*.360safe.company/*
 *://*.360y0lcukirala.space/*
@@ -12700,6 +12701,7 @@
 *://*.921ubg49327872b38.fun/*
 *://*.921ubg49327872b38.site/*
 *://*.92223304444.cloud/*
+*://*.922proxy.com/*
 *://*.9230c9aeaaef65735d518e48eac52200.com/*
 *://*.9231c9aeaaef65735d519e48eac52200.com/*
 *://*.9232372347122.xyz/*
@@ -15929,6 +15931,7 @@
 *://*.abcmlm.com/*
 *://*.abcorepro.com/*
 *://*.abcose.com/*
+*://*.abcproxy.com/*
 *://*.abcsave.info/*
 *://*.abcsde.com/*
 *://*.abcsnlf0r.shop/*
@@ -70660,6 +70663,7 @@
 *://*.cast-oto.com/*
 *://*.cast73.xyz/*
 *://*.castaldiart.com/*
+*://*.castarsdk.com/*
 *://*.castb.click/*
 *://*.castechtools.com/*
 *://*.castellcolorstudio.com/*
@@ -73902,6 +73906,7 @@
 *://*.cherry.pm/*
 *://*.cherryblossomsocial.com/*
 *://*.cherrydirect.top/*
+*://*.cherryproxy.com/*
 *://*.chert.space/*
 *://*.cherun.store/*
 *://*.cherwell-group.com/*
@@ -97112,6 +97117,7 @@
 *://*.doorencyclopedia.top/*
 *://*.doorgovcommunity.com/*
 *://*.doortodelivery.com/*
+*://*.doorvpn.com/*
 *://*.doorwayseclaw.com/*
 *://*.doowa.cyou/*
 *://*.doowa.icu/*
@@ -104974,6 +104980,7 @@
 *://*.earnestlopez324.xyz/*
 *://*.earningseuphoria.site/*
 *://*.earningspanoramic.top/*
+*://*.earnsdk.io/*
 *://*.earnsee.sbs/*
 *://*.earnsmartinvesting.click/*
 *://*.earourspam.xyz/*
@@ -130375,6 +130382,7 @@
 *://*.gallardengefns.com/*
 *://*.gallardengens.com/*
 *://*.gallen.fi/*
+*://*.galleonvpn.com/*
 *://*.gallery-shop.online/*
 *://*.gallery5732.xyz/*
 *://*.gallerycenter.org/*
@@ -175407,6 +175415,7 @@
 *://*.ip.org/*
 *://*.ip032.es/*
 *://*.ip2f4apqye.com/*
+*://*.ip2world.com/*
 *://*.ip64.net/*
 *://*.ipackgood.com/*
 *://*.ipad-admin.com/*
@@ -175485,6 +175494,7 @@
 *://*.iphonexcekilissonucuicin-girisyap.ml/*
 *://*.iphptechforum.biz/*
 *://*.iphsca1.net/*
+*://*.ipidea.io/*
 *://*.ipisecti.ru/*
 *://*.ipkhaecxvqxjdse.ru/*
 *://*.iplatformcheck.store/*
@@ -204578,6 +204588,7 @@
 *://*.lumzonnlumtr.com/*
 *://*.luna69.net/*
 *://*.lunaizemlya.ru/*
+*://*.lunaproxy.com/*
 *://*.lunarayl.live/*
 *://*.lunarbirchfold.site/*
 *://*.lunarcrest.spcae/*
@@ -236587,6 +236598,7 @@
 *://*.packetassassinate.top/*
 *://*.packetbite.live/*
 *://*.packetriot.net/*
+*://*.packetsdk.com/*
 *://*.packetsdk.io/*
 *://*.packetsdk.net/*
 *://*.packetsdk.xyz/*
@@ -243959,6 +243971,7 @@
 *://*.piacmesgpa.net/*
 *://*.pianistremnant.top/*
 *://*.piano-bear-letter.com/*
+*://*.piaproxy.com/*
 *://*.piava.us/*
 *://*.pibatrtchizmeti.cf/*
 *://*.pic-shareonline.com/*
@@ -247235,6 +247248,7 @@
 *://*.prf.one/*
 *://*.prfgtevrayim.com/*
 *://*.prfolio.com/*
+*://*.prftlio-prsmyolhizmeti.com/*
 *://*.prgirisduyurutr.com/*
 *://*.prgirisonlinetr.com/*
 *://*.prgkiralama.com.tr/*
@@ -252748,6 +252762,7 @@
 *://*.pypi-mirror.org/*
 *://*.pypihosted.org/*
 *://*.pypj.org/*
+*://*.pyproxy.com/*
 *://*.pyqhmecn.com/*
 *://*.pyramide33.pw/*
 *://*.pyramidendeavor.top/*
@@ -255609,6 +255624,7 @@
 *://*.radioplayer-ppc.com/*
 *://*.radiotimesignal.com/*
 *://*.radiotoparesaneta.top/*
+*://*.radishvpn.com/*
 *://*.radium.lol/*
 *://*.radiumwave.space/*
 *://*.radkvara.top/*
@@ -287898,6 +287914,7 @@
 *://*.taborx.ru/*
 *://*.taborxxx.ru/*
 *://*.tabpnsdvnvsu.net/*
+*://*.tabproxy.com/*
 *://*.tabpsdvnvsu.net/*
 *://*.tabpsndnvsu.net/*
 *://*.tabpsndvnvsu.net/*

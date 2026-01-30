@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-30 09:26:36 UTC
-# Toplam: 436786 Domain
+# Son Güncelleme: 2026-01-30 10:23:25 UTC
+# Toplam: 436803 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12034,6 +12034,7 @@
 360nd3drg.duckdns.org
 360otokiralamaonline.com
 360photo.oss-cn-hongkong.aliyuncs.com
+360proxy.com
 360rent.ru.com
 360rentacar.ru.com
 360roomview.com
@@ -20675,6 +20676,7 @@
 921ubg49327872b38.site
 92223304444.cloud
 922815362.dfgqdsd.ru
+922proxy.com
 9230c9aeaaef65735d518e48eac52200.com
 9231c9aeaaef65735d519e48eac52200.com
 9232372347122.xyz
@@ -26015,6 +26017,7 @@ abcomoranseveinfos.duckdns.org
 abcorepro.com
 abcose.com
 abcpees.webhop.net
+abcproxy.com
 abcr.ftsym1.com
 abcreat-yonlsen-vr.cc.dvrlists.com
 abcsave.info
@@ -91824,6 +91827,7 @@ cassinaweb.com
 cast-oto.com
 cast73.xyz
 castaldiart.com
+castarsdk.com
 castb.click
 castechtools.com
 castellcolorstudio.com
@@ -95923,6 +95927,7 @@ cherry.pm
 cherryblossomsocial.com
 cherrydirect.top
 cherrylovvvv.ddns.net
+cherryproxy.com
 chert.space
 cherun.store
 chery.hopto.org
@@ -124461,6 +124466,7 @@ doordash-support.com
 doorencyclopedia.top
 doorgovcommunity.com
 doortodelivery.com
+doorvpn.com
 doorwayseclaw.com
 doowa.cyou
 doowa.icu
@@ -133529,6 +133535,7 @@ earnestlopez324.xyz
 earning-ostpleas.dnc.su
 earningseuphoria.site
 earningspanoramic.top
+earnsdk.io
 earnsee.sbs
 earnsmartinvesting.click
 earourspam.xyz
@@ -163679,6 +163686,7 @@ gallant-babbage.31-210-39-247.plesk.page
 gallardengefns.com
 gallardengens.com
 gallen.fi
+galleonvpn.com
 galleries-physicians-psp-wv.trycloudflare.com
 gallery-shop.online
 gallery5732.xyz
@@ -216715,6 +216723,7 @@ ip165fgrmtirmbw.ddns.net
 ip2baj3.duckdns.org
 ip2f4apqye.com
 ip2jsv.duckdns.org
+ip2world.com
 ip8svyef.duckdns.org
 ipackgood.com
 ipad-admin.com
@@ -216904,6 +216913,7 @@ iphonexcekilissonucuicin-girisyap.ml
 iphostpc.ddns.net
 iphptechforum.biz
 iphsca1.net
+ipidea.io
 ipinimigopublicobr.ddns.net
 ipiyeenvbv.duckdns.org
 ipkhaecxvqxjdse.ru
@@ -253328,6 +253338,7 @@ lumzonffentra.com
 lumzonnlumtr.com
 luna69.net
 lunaizemlya.ru
+lunaproxy.com
 lunarayl.live
 lunarbirchfold.site
 lunarcrest.spcae
@@ -294347,6 +294358,7 @@ packet-tracking.ddns.net
 packetappropriate.top
 packetassassinate.top
 packetbite.live
+packetsdk.com
 packetsdk.io
 packetsdk.net
 packetsdk.xyz
@@ -303002,6 +303014,7 @@ piacmesgpa.net
 pianinohack228.ddns.net
 pianistremnant.top
 piano-bear-letter.com
+piaproxy.com
 piatmerqjy.duckdns.org
 piava.us
 pibatrtchizmeti.cf
@@ -307108,6 +307121,7 @@ prf46r19.duckdns.org
 prfgtevrayim.com
 prfolio.com
 prfrralong.duckdns.org
+prftlio-prsmyolhizmeti.com
 prgirisduyurutr.com
 prgirisonlinetr.com
 prgkiralama.com.tr
@@ -313795,6 +313809,7 @@ pypkoyzlyu.duckdns.org
 pypl3.ddns.net
 pypl4.zapto.org
 pypl7.zapto.org
+pyproxy.com
 pyqhmecn.com
 pyrahirmic.duckdns.org
 pyramide33.pw
@@ -317887,6 +317902,7 @@ radioplayer-ppc.com
 radiosouf.free.fr
 radiotimesignal.com
 radiotoparesaneta.top
+radishvpn.com
 radissonclurement.zapto.org
 radium.lol
 radiumwave.space
@@ -360971,6 +360987,7 @@ taboret1.xyz
 taborx.ru
 taborxxx.ru
 tabpnsdvnvsu.net
+tabproxy.com
 tabpsdvnvsu.net
 tabpsndnvsu.net
 tabpsndvnvsu.net
