@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-30 18:24:41 UTC
-# Toplam: 436897 Domain
+# Son Güncelleme: 2026-01-30 19:23:14 UTC
+# Toplam: 436906 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3285,6 +3285,7 @@
 10v7lj.duckdns.org
 10wl0q.duckdns.org
 10x10guru.com
+10xprofit.io
 10yilkampanyasi-aralik.com
 10yilozel-aralikyilsonukampanyasi.com
 10yilozel-btcturkkripto.com
@@ -21872,6 +21873,7 @@ Icradepartmani.com
 Ikhfaavpn.com
 Iliafmoj.forum
 Imageconvertors.com
+Imagents.top
 Inde-faturas.com
 InstallUtil.exe
 Internetwideband.com
@@ -46294,6 +46296,7 @@ api.microsoft-ns1.com
 api.microsoftlab.xyz
 api.mobengine.xyz
 api.mysupersk.com
+api.notely.fun
 api.nvidia-drive.cloud
 api.nvidia-release.org
 api.oeredrt.com
@@ -46625,6 +46628,7 @@ app-yapifirsatim.click
 app-yenis.herokuapp.com
 app-yk.xyz
 app-ziraat-online.com
+app.10xprofit.io
 app.95560.cc
 app.a101kurbanbayrami.com
 app.a101kurbanbayrami.xyz
@@ -73061,6 +73065,7 @@ bireysel-online-hizmetleri.com
 bireysel-online-satin-al.com
 bireysel-online-tl-yukle-bim-online.com
 bireysel-online-tr.com
+bireysel-online.com
 bireysel-onlinekampanya-basvurcom.ml
 bireysel-onlinekampanya-basvurm-com.ml
 bireysel-onlinekampanya-basvurmcom.cf
@@ -73306,6 +73311,7 @@ bireysel.com.de
 bireysel.deniz.bank.4-231-235-170.plesk.page
 bireysel.giris-web.tr
 bireysel.mobildeniz.basvur.3-77-235-143.plesk.page
+bireysel.my-homeip.net
 bireysel.myonlineportal.at
 bireysel.namebakur.site
 bireysel.online
@@ -99462,6 +99468,7 @@ codicil.vcdfcx.net
 codinggenius.lat
 codingoffensive.duckdns.org
 codingwithdanish.com
+codon.vn
 codoozmdkn.duckdns.org
 codxefusion.top
 codxgigas.ddns.net
@@ -206057,6 +206064,7 @@ iadesistemi.com
 iadesistemi.com.tr
 iadesistemi.otzo.com
 iadesistemi.pro
+iadesistemi.site
 iadesistemi.web.app
 iadesistemi2021online.com
 iadesistemiaidat5.com
@@ -220926,6 +220934,7 @@ istanbulskartlar.blogspot.com
 istanbulskartsbasvuru.com
 istanbulsoguk.myshopify.com
 istanbulson.online
+istanbulssalmasa.shop
 istanbulstarbilisim.click
 istanbulstrm.com
 istanbulsubesi.sbs
