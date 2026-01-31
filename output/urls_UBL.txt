@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-01-31 15:11:26 UTC
-! Total: 348578 rules
+! Last modified: 2026-01-31 16:12:43 UTC
+! Total: 348584 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23707,6 +23707,7 @@
 *://*.ais-aidat-iade-sistemi-onlinegov2tr.ml/*
 *://*.ais-aidat-iade-sistemi-onlinegovtr.ml/*
 *://*.ais-iadeportalim.ml/*
+*://*.ais-islemleri.ink/*
 *://*.ais-odemeler-basvuru.org/*
 *://*.ais-odemeler.org/*
 *://*.ais-sistemedevletcomtr.ml/*
@@ -98649,6 +98650,7 @@
 *://*.dustywinslow.com/*
 *://*.dusueri.com/*
 *://*.dusukfaizkrxdim-2024.shop/*
+*://*.dusukfiyatlilar.sbs/*
 *://*.dusunce-akisinda-kaybolan-yalniz-geceler.com/*
 *://*.dusuncefeneri.click/*
 *://*.dusunceni-dinlendiren-dergini-farki-anla.top/*
@@ -146118,6 +146120,7 @@
 *://*.haftasonukampanylari.online/*
 *://*.haftasonukampanylari.xyz/*
 *://*.haftasonukampayalarininadresi.online/*
+*://*.haftasonukaracaa.com/*
 *://*.haftasonukirmizisi.com/*
 *://*.haftasonuna101ilegirresmiadres.com/*
 *://*.haftasonunahizligir.cfd/*
@@ -191078,6 +191081,7 @@
 *://*.kartislemleritrgov.org/*
 *://*.kartistan.xyz/*
 *://*.kartistanbul.org/*
+*://*.kartistancan.xyz/*
 *://*.kartizmirim.net/*
 *://*.kartkapisi.com/*
 *://*.kartlaodeme.cf/*
@@ -213588,6 +213592,7 @@
 *://*.mobil-sgkk.tk/*
 *://*.mobil-sh-paramguvende.com/*
 *://*.mobil-shop-bildirim.com/*
+*://*.mobil-shop-sponsor.com/*
 *://*.mobil-shop-tr.com/*
 *://*.mobil-siparis-indirim-tr.xyz/*
 *://*.mobil-siparis-tr.online/*
@@ -293905,6 +293910,7 @@
 *://*.theeyciican.com/*
 *://*.theeyeball2022.com/*
 *://*.theeyefirewall.su/*
+*://*.theeyeschicow.xyz/*
 *://*.thefalmouthhotel.world/*
 *://*.thefans.one/*
 *://*.thefeistysage.su/*
