@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-31 20:11:23 UTC
-# Toplam: 437037 Domain
+# Son Güncelleme: 2026-01-31 21:10:44 UTC
+# Toplam: 437055 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11382,6 +11382,7 @@
 31n8pk.duckdns.org
 31ng9w24.duckdns.org
 31ocak2026.bounceme.net
+31ocak2026cfrbaba.bounceme.net
 31ocak2026yekov.bounceme.net
 31ocakfirsatlarikacirma.cfd
 31pww4vhhv.com
@@ -59856,6 +59857,7 @@ basvuru.toplu-konut500.xyz
 basvuru.ucuzevinterneti.com
 basvuru.vkf-bnk.net.tr
 basvuru.vkfmobil2025.net.tr
+basvuru.vkftrkye26.art
 basvuru.yapi-kredi.tr
 basvuru.yardiminizicingeldikk.org
 basvuru.ypk-22.click
@@ -122943,6 +122945,7 @@ dnzackmobilapps.xyz
 dnzagodvturkiye.com
 dnzamfxcvnngdsnfvcx.click
 dnzamfxcvnngdsnfvcx.site
+dnzavbasvurulariniz.bounceme.net
 dnzbank-finans-islem.bayram-ikramiyesi-kampanya-hemen-al.com
 dnzbankkredi.xyz
 dnzbankpsrosmoon.sbs
@@ -123072,6 +123075,7 @@ dnzmnaaksdasdapfoadasdlasd.net
 dnzmobildigital.ml
 dnzmobilihdistamkapmanya.xyz
 dnzmobill.ml
+dnzmoblbsvr727.bounceme.net
 dnzmoblsizde.xyz
 dnzmsadnfksadpasidgkdfgkasdoadsp.net
 dnzmsdndencklizektlmayanedersne.net
@@ -182410,6 +182414,7 @@ haftanin-a101-yildizlari.com
 haftanin-basinda-mutluluklar-sizinle.com
 haftanin-en-populer-kataloglari.cfd
 haftanin-firsatlari-firsat.cfd
+haftanin-firsatlari-indirim-com.site
 haftanin-firsatlari-sahane-urunler.com
 haftanin-firsatlari-sahane-urunler.online
 haftanin-firsatlari-sahane-urunler.xyz
@@ -204444,6 +204449,7 @@ hzlinizgrislerbruda.shop
 hzliotodagecshizmeti.net
 hzliotogecstebizlerle.net
 hzlirandevualsana.com
+hzlirehbervkmbl.site
 hzlirklmlar.com
 hzlirndvalgez.net
 hzlirndvualmkckn.net
@@ -219800,6 +219806,7 @@ isletmebilgisi.cfd
 isletmedestegi.click
 isletmedestegi.com
 isletmedestekleri2026.cfd
+isletmehibedestegi.com
 isletmesidev.com
 isllemhizlisonuc.com
 isllemlerogren.app
@@ -231277,6 +231284,7 @@ kalmoria.com
 kalmszlsedsd.net
 kalmuds.net
 kalmvkfdidkfrtt.click
+kaln53esx.blogspot.com
 kalnstklar-sn-yni.online
 kalog.vn
 kalomob.store
@@ -250005,6 +250013,7 @@ lightseagreen-duck-212495.hostingersite.com
 lightseinsteniki.org
 lightshot.software
 lightsight.ddns.net
+lightskyblue-camel-467548.hostingersite.com
 lightslategrey-gaur-997959.hostingersite.com
 lightsoi.pages.dev
 lightsometimeworld.duckdns.org
@@ -261904,6 +261913,7 @@ meta-nofitication-setting.ubpages.com
 meta-notice-nwpr34.duckdns.org
 meta-paribu.ml
 meta-payment.xyz
+meta-promotion.sbs
 meta-protected2024.duckdns.org
 meta-regulation.hopto.org
 meta-reklamkutuphanesi.cfd
@@ -323348,6 +323358,7 @@ rewardstlaimsqplsttimyeasehere.vercel.app
 rewardwell002.ddns.net
 rewartfirsatisbmkall.com
 rewdircltl5.ddns.net
+rewgzxvdpsdkgqwpkzxegw.lat
 rewiewqproperty.com
 rewiewwselect.com
 rewilivak13.com
@@ -349042,6 +349053,7 @@ sokmarket.com-e-eurun.com.tr
 sokmarket.duckdns.org
 sokmarket.firsatgunleri.net
 sokmarket.gunceladres.cfd
+sokmarket.indirimligunler.cfd
 sokmarket.indirimliurun.cfd
 sokmarket.magazacep.cfd
 sokmarket.mobilcep.cfd
@@ -372371,6 +372383,7 @@ toprakdan-denize.my-homeip.com
 toprakhaber.site
 toprakhaber.website
 toprakhasereyesonilaclamaci.site
+toprakkumgunes.site
 toprakmahsulleriofisialxnizd.net
 topraktan-denize.my-homeip.com
 topraktarimindirim.online
@@ -374614,6 +374627,7 @@ tr.alwayspwr.xyz
 tr.basvurunda.77-83-201-134.plesk.page
 tr.basvuruonay.sbs
 tr.batin.org
+tr.betparibugirisi.top
 tr.binncekampanya.shop
 tr.blaze-mobiles.com
 tr.bonyhyperc.cfd
@@ -387812,6 +387826,7 @@ ureticidentermosal.xyz
 ureticidentuketiciye.xyz
 ureticidenyadanaagelsin.xyz
 ureticidenyaninaagelsin.xyz
+ureticikart.xyz
 ureticisatisplatformu.xyz
 ureticisecalisver.xyz
 ureticisepeti.xyz
@@ -388914,6 +388929,7 @@ utuburada.store
 utuowkydqa.duckdns.org
 utuvs.duckdns.org
 utuyolarsalagi.cfd
+utv-l-g-n.my-homeip.net
 utvossjqhtppasv.com
 utvugejuyimmelh.su
 utw9m5w.duckdns.org
@@ -398071,6 +398087,7 @@ vkfloginkrediverifed.click
 vkflr-zmnlri.click
 vkfmbl.cfd
 vkfmblbsvrek.ml
+vkfmbll.cfd
 vkfmilli.club
 vkfmilli.online
 vkfmilli.site
@@ -433689,6 +433706,7 @@ ziraat-ceponline.com
 ziraat-cepsubem.com
 ziraat-cepsubesi.org
 ziraat-ceptesube.com
+ziraat-click.cfd
 ziraat-com-kr.cfd
 ziraat-com-kt.cfd
 ziraat-com-tpos.cfd
