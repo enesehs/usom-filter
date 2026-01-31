@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-01-31 18:15:16 UTC
-# Toplam: 437014 Domain
+# Son Güncelleme: 2026-01-31 19:12:09 UTC
+# Toplam: 437027 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11381,6 +11381,7 @@
 31n2x9.duckdns.org
 31n8pk.duckdns.org
 31ng9w24.duckdns.org
+31ocak2026.bounceme.net
 31ocakfirsatlarikacirma.cfd
 31pww4vhhv.com
 31qlbild.duckdns.org
@@ -124618,6 +124619,7 @@ dosssier-fiscale.ddns.net
 dostaneyardim.xyz
 dostantm.site
 dostawapapajohns.online
+dostbark.com
 dostcebedost.com
 dostcwnlisikentyukleme.net
 dostdivaniyardimvakfi.com
@@ -138449,6 +138451,7 @@ eferforum-bireyselkampanya-basvur-online.ml
 eferiwalabd.com
 eferoad.com
 efesakenr.net
+efescann.fixip.org
 efesengul.online
 efesfinans.online
 efeskenwez.net
@@ -153813,6 +153816,7 @@ fbiabavnk2-wbintrn-svbbesinv-knpanylarintfkn302.b-cdn.net
 fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
 fbid4362412362354234.com
+fbid436272362354234.com
 fbid4564581243.com
 fbid525402254125.com
 fbid5465498545613.sbs
@@ -184015,6 +184019,7 @@ halkanyr.com
 halkartiade.com
 halkasigorta.cloud
 halkasigorta.net
+halkatangelrden.com
 halkayardim.com
 halkbaank-dialogtayiz.com
 halkbaank-subemiz.com
@@ -233808,6 +233813,7 @@ kapida-astryn.cfd
 kapida-bindly.bond
 kapida-byrm-eksstraa.com
 kapida-ca3bn4-inds3ml4r.cfd
+kapida-closeby.sbs
 kapida-connecta.cyou
 kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
@@ -234749,6 +234755,7 @@ karaxaendistr-home.com.tr
 karayelvakfi.org.tr
 karayipkalanda.shop
 karayllgecishgss.duckdns.org
+karayol-islem.space
 karayol-odeme.ink
 karayolbildiri.ml
 karayolbildiri.tk
@@ -327573,6 +327580,7 @@ sadeceonlinefirsatlarherzamanburada.com.tr
 sadeceonlinefirsatlarsac.blogdns.org
 sadeceonlinefirsatlarsdc.blogdns.org
 sadeceonlinefirstltr.blogdns.org
+sadeceonlinefrsiarltyh.blogdns.com
 sadeceonlinehaftaninfirsatlari.duckdns.org
 sadeceonlineindirimfirsatlarii.shop
 sadeceonlinekampa101.duckdns.org
@@ -327640,6 +327648,7 @@ sadeceononldfirstlartrtr.blogspot.com
 sadeceononldfirstlartrtrssctrtr.blogspot.com
 sadeceononldfirsttrstr.blogspot.com
 sadeceononldfirsttrstrstras.blogspot.com
+sadeceonsfirsaltybkkmk.blogspot.com
 sadeceonsflirasdtlarytrvctre.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
@@ -350340,6 +350349,7 @@ songunn-haberr.com
 songunnstok100.com
 songunsonfirsat.com.tr
 songunsonfirsat.xyz
+songunsonfirsatlar.cfd
 songunsstok100aldin.com
 songunukacirmadansatinalhizlica.com.tr
 songunukacirmadansatinalhizlica.online
@@ -403672,6 +403682,7 @@ website6604234234112.nicepage.io
 website660423434.nicepage.io
 website6609760.nicepage.io
 website6615411.nicepage.io
+website66154112.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
@@ -432956,6 +432967,8 @@ zenobox.eu
 zenova.duckdns.org
 zenovan.com
 zenpirlanta-kampanya.com.tr
+zenpirlanta.gerefaenus.sbs
+zenpirlantaalisveris.com
 zenquora.store
 zenquro.pro
 zenrat.ddns.net
