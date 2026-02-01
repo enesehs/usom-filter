@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-01 21:12:24 UTC
-# Toplam: 437113 Domain
+# Son Güncelleme: 2026-02-01 22:11:06 UTC
+# Toplam: 437120 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -25367,6 +25367,7 @@ a2zcentre.com
 a2zilm.com
 a2zwebit.com
 a32dfwcakad.com
+a352k32452.duckdns.org
 a36e971e03d9cbf8.com
 a36nhk5il.duckdns.org
 a381422.f3322.net
@@ -51044,6 +51045,7 @@ asmtal.online
 asname.click
 asname.world
 asnansndsnfhshfn.space
+asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asndjkasdlaf2156ads.digital
 asndsantamsmmamsd.blogspot.com
@@ -177859,6 +177861,7 @@ guncel-nisanfirsat.info.tr
 guncel-nisanfirsat.org.tr
 guncel-odemeler.com
 guncel-satin-alim.online
+guncel-sepetler.name.tr
 guncel-sepetler.web.tr
 guncel-sikayet-burda.ml
 guncel-sikayet-var.com
@@ -178590,6 +178593,7 @@ gunisigivakfi.com
 gunivory.top
 gunkampanyasi.net
 gunlerden-kampanya.shop
+gunlerden1701.sbs
 gunlerdenbirguldolanadolana.cfd
 gunlerdenbugun-a101.cloud
 gunlerdenidnirim.com.tr
@@ -245503,6 +245507,7 @@ ktujopa8axuv7nk.ddns.net
 ktunnelegiris.net
 kturkonline.com
 ktuzbx.top
+ktv-g-rn-lbt.my-homeip.net
 ktv2a.com
 ktwgfsdlvvks.duckdns.org
 ktxhsrmh.wcnv20.cn
@@ -248893,6 +248898,7 @@ leastreplybetter7.live
 leasurefilletmarrow.com
 leather.sanitnote.com
 leatherspecialty.top
+leatkendosy.com
 leatrer.info
 leauvcsi.com
 leav.a0001.net
@@ -292896,6 +292902,7 @@ otuzbirhgssaba.org
 otuzgbhediyen-hemenal.com
 otuzgbhediyencepte.com
 otuzgbhediyenihemenal.com
+otuzkoca.duckdns.org
 otuzliraseninolsun.com
 otuzocakkampanya.duckdns.org
 otuzocakkampanyat.duckdns.org
