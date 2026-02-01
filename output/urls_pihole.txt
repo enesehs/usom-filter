@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-01 22:11:06 UTC
-# Toplam: 437120 Domain
+# Son Güncelleme: 2026-02-01 23:13:53 UTC
+# Toplam: 437125 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85098,6 +85098,7 @@ btumhy.com
 btunundunyasi.ru.com
 btunundunyasi.xyz
 btuyscte7.duckdns.org
+btv-g-rn-lgt.my-homeip.net
 btv9ha.duckdns.org
 btvapp.net
 btvik.com
@@ -119814,6 +119815,7 @@ digital-girisim.site
 digital-girisim.website
 digital-hizlikrdiakbankhemen.com
 digital-hizmet.net
+digital-internet.my-homeip.de
 digital-internet.my-homeip.net
 digital-isube.site
 digital-kampanyalar.website
@@ -233566,6 +233568,7 @@ kamyalaredesdv4444pan.one
 kamza-masdk.blogspot.com
 kamzy2022.ddns.net
 kamzyfff.ddns.net
+kan2kwesx.blogspot.com
 kanadalinamussuzaksel.com
 kanako.cc
 kanal-7.net
@@ -237662,6 +237665,7 @@ kelimelik99.xyz
 kelimeodeme3d.xyz
 kelimtrack0912.site
 kelinac.com
+kellas12x.dns.navy
 kellas25sx.dns.navy
 kellas5432x.dns.navy
 kellas5745x.dns.navy
@@ -421706,6 +421710,7 @@ yaddrdutai.duckdns.org
 yadebimcell.com
 yadigarkurumlari.com
 yadojapan.com
+yadqwedqwe.cc.dvrlists.com
 yadragonq.com
 yae01h2m.duckdns.org
 yaebal1.ddns.net
