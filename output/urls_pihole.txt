@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-02 11:27:21 UTC
-# Toplam: 437148 Domain
+# Son Güncelleme: 2026-02-02 12:28:44 UTC
+# Toplam: 437170 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20992,6 +20992,7 @@
 983811682.ddns.net
 98383840343.cloud
 983bayg.duckdns.org
+984367340gre4326.com
 98446333.cloud
 984561256465321563.net
 9845s61ad1s6a51d3sa1d56sa13sa32d231sa.site
@@ -65690,6 +65691,7 @@ bhppwtgppgtl.info
 bhqtm8em.duckdns.org
 bhqytkowvc.duckdns.org
 bhraman.org
+bhrasdjfdsjfasdlksa.sbs
 bhrckls-ktlhmn232.space
 bhrdabnlrynigldialmynmk.com
 bhrfrsltlsksjfjsa.sbs
@@ -98339,6 +98341,7 @@ clickon-this.shop
 clickonayaccount.me
 clickonthis.shop
 clickplaycentral.top
+clickproductionteamru.top
 clickpulsehub.site
 clickpush.biz
 clickqpon.com
@@ -120842,6 +120845,7 @@ dijitalislemlerim-ziraat.com
 dijitalislemlerim-ziraatbireysel.com
 dijitalislemlerim.com
 dijitalislemlerin-ziraatbireysel.com
+dijitalislemleriniz-ziraatbireysel.com
 dijitalislemlermobil-denizacik.com
 dijitalislemlerweb-denizacik.com
 dijitalislemlerweb-ziraatbireysel.com
@@ -143356,6 +143360,7 @@ eneebgieeiieieiddrt.ru
 eneebgieeiieieiddrtu.info
 eneenvelo.top
 enegal-23.net
+eneglencelisekildeyaninda.com
 enehjuiol.ddns.net
 enelonlinerecoverbillingivnvoice.duckdns.org
 eneme.loveslife.biz
@@ -158447,6 +158452,7 @@ firsatlaryakindasizleribekliyorkacirma.duckdns.org
 firsatlaryakindasizlerlebirlikte.duckdns.org
 firsatlaryenidensizlerle.online
 firsatlaryenidensizlerle.xyz
+firsatlaryerinde.com
 firsatlarzamani.com
 firsatlarzamani101.shop
 firsatlarzinciri101.shop
@@ -161327,6 +161333,7 @@ fr105g.duckdns.org
 fr1nv3.duckdns.org
 fr31ndz.duckdns.org
 fr33m4n247.live
+fr34cryo32rb.icu
 fr3onhoms.ddns.net
 fr4ud-dept.hopto.org
 fr4vkbdr.ru
@@ -182455,6 +182462,7 @@ haftanin-firsatlari.com.tr
 haftanin-firsatlari.net.tr
 haftanin-firsatlarii-com.site
 haftanin-gunleri.com.tr
+haftanin-indirimleri-firsat-com.online
 haftanin-indirimleri-tr.online
 haftanin-indirimleri.com.tr
 haftanin-kampanyalari.com.tr
@@ -215512,6 +215520,7 @@ internetim-garenti.shop
 internetim-halk-firsatlar.com
 internetim-sube.click
 internetim-sube.sa.com
+internetim.my-homeip.net
 internetim20gb-turkcell.com
 internetimeozelfirsatlarim.shop
 internetiniqnbfinansbank.com
@@ -249616,6 +249625,7 @@ lfisafjahsfjhk.ddns.net
 lfjvnhvs.duckdns.org
 lfjyppafauuxicl.su
 lfkg7yn.is-best.net
+lfkldsaldasd123.cyou
 lfknc5f.duckdns.org
 lflxpkb.duckdns.org
 lfmehbvuq.com
@@ -280327,6 +280337,7 @@ nturkiye-gov-tr-aidat-kontrol-sistemi.com
 nturkiye-gov-tr-aidat-kontrol-sistemim.com
 nturkiye-gov-tr-aidat-kontrol-sistemin.com
 nturkiye-gov-tr-aidat-sorgulama-sistemim.tk
+ntv-g-rn-bitv.my-homeip.net
 ntv-play.com
 ntvbimcell.com
 ntvbimcellguncel.com
@@ -287448,6 +287459,7 @@ online-ozel-firsat.com.tr
 online-ozel-firsatlar-a1o1.net
 online-ozel-firsatlar.vercel.app
 online-ozel-hepsi-var.com
+online-ozel-hepsi-var.online
 online-ozel-indirim-kampanya.online
 online-ozel-islemler.com.tr
 online-ozel-kampanya.online
@@ -302733,6 +302745,7 @@ petrolofisi-bites.com
 petrolofisi-tr.com
 petrolofisikampanyalar.com
 petrolofisitr.top
+petrolofisitt.top
 petrolofisleri.info
 petroloilnews.live
 petrolperplexity.top
@@ -329294,6 +329307,7 @@ sahibinden-ilani.online-odemelerim.sa.com
 sahibinden-ilanim-guvende.com.tr
 sahibinden-ilanim.alisverisimget.com
 sahibinden-ilanim.com.tr
+sahibinden-ilanim.guvenli-alisverislerim.sa.com
 sahibinden-ilanim.online-odemelerim.sa.com
 sahibinden-ilanin.online-odemeler.sa.com
 sahibinden-ilanlar-alisveris-tr.sa.com
@@ -349318,6 +349332,8 @@ sokmarketsokucuz.site
 sokmarketsongunfirsatlari.cfd
 sokmarketsongunfirsatlarri.cfd
 sokmarketsponsorlu.cfd
+sokmarketsubat.cfd
+sokmarketsubatfirsatlari.cfd
 sokmarkett.duckdns.org
 sokmarkettekitiklakapinda.cfd
 sokmarketten.online
@@ -353904,6 +353920,7 @@ srgulama-ve-geri-alma-ekrani.cyou
 srgulamaveaktarmalarekrnai.sbs
 srgulamaveynlendrmeservisi.cyou
 srgulaveaktarmaekrani.cfd
+srgulaveaktaronlne.cfd
 srgulavegerialaktar.cyou
 srgulavegerialma.cyou
 srgulavegriaktarmaservisi.cyou
@@ -356756,6 +356773,7 @@ subatqnbsurprizleri.ga
 subatqnbsurprizleri.ml
 subatqnbsurprizleri.tk
 subatsnflrtst.shop
+subatsokmarket.cfd
 subatsongunler.com.tr
 subatsonindirimpriv.net
 subatsonugidaindirimler.shop
@@ -374385,6 +374403,7 @@ tr-sahibinden.bguvende.online
 tr-sahibinden.cf
 tr-sahibinden.com
 tr-sahibinden.gq
+tr-sahibinden.guvenli-alisverislerim.sa.com
 tr-sahibinden.lovestoblog.com
 tr-sahibinden.ml
 tr-sahibinden.odeme-ilanlarim.sa.com
@@ -379878,6 +379897,7 @@ tsgonline.xyz
 tsgsystem-001-site1.anytempurl.com
 tsgtech-001-site1.qtempurl.com
 tsgtool.com
+tsgweb.online
 tsh8chesid2.hopto.org
 tsh8chesid8.hopto.org
 tshhgg.com
@@ -380292,6 +380312,7 @@ ttuvturkmuayene-rezervasyon.com
 ttuvturkrandevu-muayene.com
 ttuvturkrezervasyon-muayene.com
 ttuvturkrezervasyon.com
+ttv-g-r-n-tb.my-homeip.net
 ttv-lg-n-b.my-homeip.net
 ttvhgsveezne.com
 ttvpjqyrpw.duckdns.org
@@ -383804,6 +383825,7 @@ tuvtrkarcmuayneet.net
 tuvtrkarxcmuayneservxqlf.net
 tuvtrkkmyene.com
 tuvtrkl-k.digital
+tuvtrkl-l.digital
 tuvtrklk.net
 tuvtrkmuayene.net
 tuvtrkmuayenem.b-cdn.net
