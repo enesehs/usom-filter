@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-02 17:28:18 UTC
-# Toplam: 437229 Domain
+# Son Güncelleme: 2026-02-02 18:25:52 UTC
+# Toplam: 437239 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9852,6 +9852,7 @@
 265905735812879370.com
 26593660.cloud
 266113352.corolain.ru
+266234154.click
 2663632936386372.fyi
 26693777.cloud
 266ef9e825a1920-y6x5mj.csb.app
@@ -45279,6 +45280,7 @@ anindavakifdakredim.com
 anindavakifhazirpara.xyz
 anindavakifkredipara.xyz
 anindavergiodeme.net
+anindayansir.app
 anindayatirim.xyz
 anindayatirimkredimonayli.site
 anindayukleme-hgshizliyukleme.herokuapp.com
@@ -158377,6 +158379,7 @@ firsatlarmukemmelgunlersizlerle.com.tr
 firsatlarmukemmelgunlersizlerle.online
 firsatlarmukemmelgunlersizlerle.xyz
 firsatlarn.com
+firsatlarnegoda.com
 firsatlarnz-adresia101.online
 firsatlaronline-aldinaldin.online
 firsatlaronlinegeldi.shop
@@ -221781,6 +221784,7 @@ istmalcnasmca.myshopify.com
 istmbclmell.net
 istmdfmsndfjk.net
 istmdsldfk.com
+istmerkestoplansizherkes.com
 istmfathtermadam.net
 istmhkhmn.com
 istmhkncv.com
@@ -222224,6 +222228,7 @@ istxxnkartykleemee.b-cdn.net
 istybm-istyll.net
 istybulxkartyukle.tk
 istyenidunya.net
+istyeralticufk.xyz
 istykleme.com
 istyklemes1s.com
 istyle.ge
@@ -234623,6 +234628,7 @@ karacagunleri.info.tr
 karacagunleri.net.tr
 karacagunlukindirim.com
 karacaguzellikleri.com
+karacahaftabasi.com
 karacahaftasonu.com
 karacaharikafirsatlarsizleribekliyor.com.tr
 karacahmesonkasim-ozelfirsatlar.com.tr
@@ -327711,6 +327717,7 @@ sadeceonlifozelfirsatlar.blogdns.org
 sadeceonlifresaltryt.mooo.com
 sadeceonlimnsdefdirstlarmtrt.blogspot.com
 sadeceonlina1101.duckdns.org
+sadeceonlindsrdtft101.ct.ws
 sadeceonline.duckdns.org
 sadeceonlinea1o1kamp.duckdns.org
 sadeceonlinea1oo1kampanya.duckdns.org
@@ -384135,6 +384142,7 @@ tuvturkrezervasyon.com
 tuvturkrezervasyon.org
 tuvturkrezervasyonum.net
 tuvturkrezervasyonum.org
+tuvturks-d.digital
 tuvturks.com
 tuvturks.me
 tuvturks.org
@@ -418447,6 +418455,7 @@ xn--kampyanyaaktel-rsb.online
 xn--kapda-web-xpb.com.tr
 xn--kapda1-0-1online-ozel-mgd.com
 xn--karacahizmetsats-oqc.com
+xn--karacailebugn-7ob.com
 xn--karacaonlinealveri-r0c43gea.com
 xn--kararllkbunugerektirir-rldb.com
 xn--karayollarborckapatma-tgd.com
@@ -424990,6 +424999,7 @@ yatirimgazetesi.net
 yatirimgazetesi.org
 yatirimgazetesi.top
 yatirimgoz.world
+yatirimgozu.ltd
 yatirimguncel.world
 yatirimgundem.online
 yatirimgundemi.info
