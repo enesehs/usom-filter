@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-03 07:33:50 UTC
-! Total: 348807 rules
+! Last modified: 2026-02-03 09:28:34 UTC
+! Total: 348818 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7184,6 +7184,7 @@
 *://*.26ocakdrinkarislerin.cloud/*
 *://*.26ocakfirsatlari.shop/*
 *://*.26ocaksiparislerin.cloud/*
+*://*.26ocaktasiparislerver.cloud/*
 *://*.26sarantarz.click/*
 *://*.26subartbiz.click/*
 *://*.26subataniz.click/*
@@ -8892,6 +8893,7 @@
 *://*.3shxtbzmle.net/*
 *://*.3sk22.ru/*
 *://*.3st-bzl.net/*
+*://*.3subatfirsatlarikacirma.cfd/*
 *://*.3sxht-gld1.net/*
 *://*.3sxht-gldk1.net/*
 *://*.3sxht-glldlk1.net/*
@@ -116926,6 +116928,7 @@
 *://*.esnek-hesap.com/*
 *://*.esnek-limit.net/*
 *://*.esnemreprs.ws/*
+*://*.esnfytrmtdstek.cfd/*
 *://*.esnfytrmtdstk.cfd/*
 *://*.esnfytrmtfc1000.cfd/*
 *://*.esnfytrmtfc1000.click/*
@@ -146022,6 +146025,7 @@
 *://*.haftaninotobuzdolabiyil.xyz/*
 *://*.haftaninpreiumurunleri.com.tr/*
 *://*.haftaninsecili.sbs/*
+*://*.haftaninseciliurun.sbs/*
 *://*.haftaninsoku.cfd/*
 *://*.haftaninsonfirsatalri.com.tr/*
 *://*.haftaninsonfirsatalri.online/*
@@ -179598,6 +179602,7 @@
 *://*.istme.com/*
 *://*.istmerkestoplansizherkes.com/*
 *://*.istmfathtermadam.net/*
+*://*.istmhkbcxbn.com/*
 *://*.istmhkhmn.com/*
 *://*.istmhkncv.com/*
 *://*.istmhknmc.com/*
@@ -194758,6 +194763,7 @@
 *://*.kisasurelietkinlikyayinda.com/*
 *://*.kisasurelikampanyalarimiz.com/*
 *://*.kisasurelikarsinagelenler.top/*
+*://*.kisasureliler.sbs/*
 *://*.kisasurelisiparis.cfd/*
 *://*.kisasurelisiparis.click/*
 *://*.kisasurelisiparis.cyou/*
@@ -196624,6 +196630,7 @@
 *://*.kolylklaismnz.com/*
 *://*.kolyolyardmkm.click/*
 *://*.kolypsotract.net/*
+*://*.kolysrlama.work/*
 *://*.kom-odemeler.online/*
 *://*.kom4ltkmpsan.cfd/*
 *://*.komaru.today/*
@@ -197227,6 +197234,7 @@
 *://*.kosgebhibebasvurusu.cfd/*
 *://*.kosgebhibebasvurusu.com/*
 *://*.kosgebhibeonline.com/*
+*://*.kosgebhizmetleri.com/*
 *://*.kosgebiskur.com/*
 *://*.kosgebkredibasvur.com/*
 *://*.kosgebkredidestegi.com/*
@@ -208691,6 +208699,7 @@
 *://*.matametasd.site/*
 *://*.matantalbenna.com/*
 *://*.mataraniinfrastructure.com/*
+*://*.mataraseti.net/*
 *://*.matbaahersey.com/*
 *://*.matbald.top/*
 *://*.matbin.com/*
@@ -222817,6 +222826,7 @@
 *://*.newspapercomet.top/*
 *://*.newspaperoptical.cn/*
 *://*.newspaperrevolt.top/*
+*://*.newsplaing.digital/*
 *://*.newspointview.com/*
 *://*.newspttgov.click/*
 *://*.newsrepel.top/*
@@ -296996,6 +297006,7 @@
 *://*.tokitoplukntlri.com/*
 *://*.tokitr.com/*
 *://*.tokiturkiyebasvuru.com/*
+*://*.tokivibe.digital/*
 *://*.tokiview.digital/*
 *://*.tokiwave.site/*
 *://*.tokiway.website/*
