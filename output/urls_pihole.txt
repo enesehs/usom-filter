@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-03 11:24:44 UTC
-# Toplam: 437317 Domain
+# Son Güncelleme: 2026-02-03 13:54:56 UTC
+# Toplam: 437353 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24826,6 +24826,8 @@ a101yilbasifirsati.store
 a101yilbasifirsati.xyz
 a101yilbasiindirimleri.com
 a101yilbasikampanyan.online
+a101yilbasinda.wuaze.com
+a101yilbasiozel.wuaze.com
 a101zincirmarketleri.com
 a1034400.xsph.ru
 a104.cyberpath.cfd
@@ -31008,6 +31010,7 @@ adaybasvuru.net
 adaybasvuru.online
 adaybasvuru.org
 adaybasvurunuz.sbs
+adaybasvurusu.online
 adayicinbasvruekrani.top
 adayislemin.com
 adayisleminiz.com
@@ -37575,6 +37578,7 @@ akbrdaa.shop
 akbreklamaktif5.giize.com
 akbreklamaktif8.duckdns.org
 akbreysel.xyz
+akbrka.com
 akbrkr.com
 akbrslbsvurlar.com
 akbrsyslbsvuru.com
@@ -84537,6 +84541,8 @@ bsvrrrkmponyaaprmsyn.click
 bsvrrrprmsnynnnkmpnyaa.click
 bsvrrrprmsynnkatilimmm.click
 bsvrrrprmsynnnkmpnyaaa.art
+bsvrrrprmsynnnkmpnyaaa.info
+bsvrrrprmsynnnkmpnyaaa.pro
 bsvrrrprmsynnnqnbbb.click
 bsvrrrpromooogrnnn.click
 bsvrrrprsmsnynn.pro
@@ -87238,6 +87244,7 @@ buscas-icloud.com
 buschishtu.com
 busdgift.ml
 busdgift.tk
+busdnucloas.net
 busdomain.top
 busdtronline.tk
 busefer-birazdan-hakkina-ilerisinde-kalarak-gor.com
@@ -91382,6 +91389,7 @@ carreeylulkampanyalari.cfd
 carreeylulkampanyalari.online
 carreeylulkampanyalari.xyz
 carref-ekstra.online
+carref-ramazanoncesi-sonindirimleri.sbs
 carref0rsaflrlsatlarikasim.duckdns.org
 carref0rsaflrsatlarikasim.shop
 carref0ur.sa.com
@@ -134843,6 +134851,7 @@ ede-vlletbasvurulkapiportall.com
 ede-vllettiadelleriniizicinb-asvuru.com
 edeajsdkqwrfjds.com
 edebimakale.blogspot.com
+edebinleotur.site
 edebyolma.net
 edeclaration-ticaret-gov-tr.org
 edeevlet-bddk-iadegiris.com
@@ -144652,6 +144661,7 @@ enpragirispromosyon.sbs
 enprakazanmafirsatinikacirma.net
 enprara.com
 enprarasirketim.com
+enprmsynlarlllabsvr.com
 enprotrade.com
 enpyr9b2p.duckdns.org
 enqara.tk
@@ -162620,6 +162630,7 @@ fuiueufiiehfueghuhfx.biz
 fujhilmipol.click
 fujywls.storage.googleapis.com
 fukarasosyalmarket.site
+fukaruara.cfd
 fukcops.lol
 fukfndru.ddns.net
 fukiyegrnkaymak.com
@@ -169717,6 +169728,7 @@ geri-odemeler.com
 geri-odemeler.net
 geri-odemeni-hemen-simdi-al.com
 geri-sorgulama-hizmeti.cyou
+geri-ye-donuk-sorgulatiniz.sbs
 geri-yukleme-devresi.my
 geri-yukleme-ekrani.website
 geri-yukleme-hizmeti.site
@@ -171578,6 +171590,7 @@ giris-basvuru.com
 giris-basvurukuvythemenhizli.com
 giris-basvurular-form.app
 giris-basvurularibntr.xyz
+giris-basvurusu-tr.cfd
 giris-belediye.net
 giris-bfcturk.com
 giris-bfcturkpro.com
@@ -182733,6 +182746,7 @@ haftaninyildizlerien.sbs
 haftaninyildizliurunleri.com
 haftaninyildizliurunleri.com.tr
 haftaninyildizliurunleri.online
+haftaninyildizseciliurunlerii.sbs
 haftaninyildizurnu.online
 haftaninyildizurunleri.com
 haftaninyildizurunleri.online
@@ -187669,6 +187683,7 @@ hastanehizmetplatformu.xyz
 hastanemrveriyayini.xyz
 hastanemuayeneverileri.xyz
 hastanepersonelmodulu.xyz
+hastanerandevu-mhrs.cfd
 hastanerandevu.online
 hastanerandevu1.com
 hastanerandevual.online
@@ -233248,6 +233263,7 @@ kampanyasayfasi.click
 kampanyasayfasi.com
 kampanyasayfasigirisyap.com
 kampanyaseciliurun.sbs
+kampanyaseciliurunler.sbs
 kampanyaseepette.com
 kampanyasende-hemenbasvurkatil.com
 kampanyasendekatil.com
@@ -238628,6 +238644,7 @@ kgm-goe.com
 kgm-gou.com
 kgm-gov-co.me
 kgm-gov-shop.top
+kgm-gov-tr.bond
 kgm-gov-tr.cc
 kgm-gov-tr.com
 kgm-gov-tr.cyou
@@ -253251,6 +253268,7 @@ lstnblklklkl.com
 lstnblkrtdldr.net
 lstnbllkrtdlm.net
 lstnbul.com
+lstv-gl-rb-n.my-homeip.net
 lstxwsg.fehutop1.website
 lsube-ziraatbankasi.com
 lsuhhf.top
@@ -262849,8 +262867,10 @@ mhrpeewwhs.in
 mhrportal.com
 mhrrnvdmhstne.net
 mhrrsserndvsal.net
+mhrs-gov-randevu.cfd
 mhrs-guvenli-hastane-randevu.click
 mhrs-randevu-e-devlet.blogspot.com
+mhrs-randevu-online.cfd
 mhrs-randevu.net
 mhrs-randvm.blogspot.com
 mhrs-vatandas-randevu.click
@@ -264978,6 +264998,7 @@ mnqjs8ijelu8u0a.ddns.net
 mnqqseweea.in
 mnqsvj.top
 mnqt3vc67rg0u4g.ddns.net
+mnravbilgitr.sbs
 mnrdqljpyc.duckdns.org
 mnrogc.top
 mnrwqhpwhh.in
@@ -271976,6 +271997,7 @@ mus09.duckdns.org
 musaadeler-son-cagridan-daha-once-gelir.com
 musadenizle.amphidswipy.sbs
 musadenle.click
+musadnvsdi.sbs
 musallat.online
 musaned2comsa4.softr.app
 musatech.quest
@@ -276399,6 +276421,7 @@ netisube-qnbfinansbank.com
 netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
+netkoruma-bbva.xyz
 netkoruma-garanti.cfd
 netkoruma-garanti.com
 netkoruma-garanti.lat
@@ -296923,6 +296946,7 @@ paradiserecurrence.top
 paradoktoru.online
 paradokun.online
 paradoncalleke5689.camdvr.org
+paradoxan.com
 paradoxhysteria.top
 paradoxicalconvict.top
 paradoxpartition.top
@@ -329004,6 +329028,7 @@ sahibinden-get.odeme-ilanlarim.sa.com
 sahibinden-get.online-odemeler.sa.com
 sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
+sahibinden-get.r-onaylihizmetin.com
 sahibinden-get.r-onayliservisin.com
 sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
@@ -329846,6 +329871,7 @@ sahibinden-paramguvende.gq
 sahibinden-paramguvende.guvenilirhizmetler.com.tr
 sahibinden-paramguvende.guvenli-alisverisin.com.tr
 sahibinden-paramguvende.guvenli-alisverisler.com.tr
+sahibinden-paramguvende.guvenli-alisverislerim.sa.com
 sahibinden-paramguvende.guvenli-cozumler.com.tr
 sahibinden-paramguvende.guvenli-getislem.com.tr
 sahibinden-paramguvende.guvenli-hizmetlerin.com.tr
@@ -341058,6 +341084,7 @@ sfs-fs-sfsf.sbs
 sfs33bl.duckdns.org
 sfsafssafasfas.com
 sfsaghssajfgashfsajgsahjsafkjdsfajsgaffsa.online
+sfsavbilgi.sbs
 sfsdfgvfdfg6.site
 sfsdfsasdlgdgldfdadasldlasd.shop
 sfsdfsdfsdfsdfs.xyz
@@ -346981,6 +347008,7 @@ skdhkahs.click
 skdigitalodemelerimiz.site
 skdjkash.click
 skdjrngksjfbrktjennfkfkrnehe.xyz
+skdkasjdjkajfsdjdjasdas.cfd
 skdraeg.live
 ske9dhn.c1.biz
 skechers-turkiye.com.tr
@@ -349455,7 +349483,9 @@ sokmarketsongunfirsatlari.cfd
 sokmarketsongunfirsatlarri.cfd
 sokmarketsponsorlu.cfd
 sokmarketsubat.cfd
+sokmarketsubataktuelurunler.cfd
 sokmarketsubatfirsatlari.cfd
+sokmarketsubatsepetim.cfd
 sokmarkett.duckdns.org
 sokmarkettekitiklakapinda.cfd
 sokmarketten.online
@@ -377387,6 +377417,7 @@ trendyolg.net
 trendyolgain.com
 trendyolgain1.com
 trendyolgomobil.com.tr
+trendyolgroupu.com
 trendyolgunceladres.com
 trendyolgunceladres.org
 trendyolgunceladresim.com
@@ -377450,6 +377481,7 @@ trendyoloutlet.top
 trendyolp.com
 trendyolpaketleme.com
 trendyolparadestegi.com
+trendyolparfume.com
 trendyolplay.com
 trendyolr.cc
 trendyolr.icu
@@ -384145,6 +384177,7 @@ tuvturklw.digital
 tuvturklx.digital
 tuvturkm-d.digital
 tuvturkm.digital
+tuvturkms.digital
 tuvturkmuayenearac.com
 tuvturkmuayeneci.com
 tuvturkmuayenehizmti.web.app
@@ -384258,6 +384291,7 @@ tuvvedec.website
 tuvvturk.live
 tuvvturkaracmuayene.com
 tuvvturkrezervasyon.com
+tuvvturks.me
 tuvxturks-3dodemelerxsi-xx.net
 tuvxturksxs-odexsi3d.net
 tuvxturkx-3d-odemee.net
@@ -393937,6 +393971,7 @@ vatandas-maliyebasvurusu.com
 vatandas-maliyeportal.com
 vatandas-maliyesorgu.com
 vatandas-maliyesorgula.com
+vatandas-mhrs-randevu.cfd
 vatandas-odeme.online-islemi.online
 vatandas-online-aidat-sistemi.com
 vatandas-online-basvuru-olustur-e-aidat-iadesi-2021-forum.xyz
@@ -408233,6 +408268,7 @@ wsi.dyndns.org
 wsiggdawth.duckdns.org
 wsikayetvar.com
 wsipv6.com
+wsisavbilgitr.sbs
 wskr4m.duckdns.org
 wslnqb.com
 wsloeoqkwpkudim.su
