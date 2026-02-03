@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-03 17:42:04 UTC
-# Toplam: 437391 Domain
+# Son Güncelleme: 2026-02-03 18:38:33 UTC
+# Toplam: 437401 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50258,6 +50258,7 @@ asdajkj432432cnann.com
 asdaksjdlckxcxc.net
 asdaryder.duckdns.org
 asdas1252qwdqwsd215612.com
+asdas3124rfdas.icu
 asdas6d54asd4.net
 asdasasdasdquez.net
 asdasasdquez.net
@@ -133068,6 +133069,7 @@ e-yardimal.net
 e-yardimbasvru.online
 e-yardimkampanyasi.com
 e-yardimsaglikhalkpandemi.com
+e-yaygin-meb.com
 e-yaygin.org
 e-yazmaodeme.net
 e-ydode.net
@@ -153903,6 +153905,7 @@ fbiabasvbintrnsvbbesinvknpanylarintkb723.b-cdn.net
 fbiabavnk2-wbintrn-svbbesinv-knpanylarintfkn302.b-cdn.net
 fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbiawbintrnsvbbesivknpanylarintfsy266.b-cdn.net
+fbid1421352.com
 fbid4362412362354234.com
 fbid436272362354234.com
 fbid4564581243.com
@@ -202896,6 +202899,7 @@ hssrsrkydsns.click
 hsssgs-odemem.net
 hsssrfssndns.click
 hsssrsrkyyds.click
+hssstannxrandevvu.org
 hssxshsyukle.xyz
 hst1gkasm0gkla1sd.com
 hstaneyegel.net
@@ -234042,6 +234046,7 @@ kapida-trustio.bond
 kapida-urun-aldin.com.tr
 kapida-urun-reklam.com.tr
 kapida-urun-xn.com.tr
+kapida-vireon.cfd
 kapida-w101.com.tr
 kapida-web.com.tr
 kapida-x8m2r9q7.bond
@@ -238782,6 +238787,7 @@ kgmagvo.cfd
 kgmagvo.sbs
 kgmagvo.top
 kgmagvoc.top
+kgmaig.top
 kgmajans2023.com
 kgmajs2022.net
 kgmavbilgihgsbrcodeislemler.duckdns.org
@@ -347238,6 +347244,7 @@ sksitesi.com
 skskskllakkssaa.com
 sksksksksk.click
 skslkflskflskfl.blogspot.com
+skslskslskslkslskslk.me
 sksmjweyjbrq.pw
 skt9.iosgaxx423.xyz
 skta2.net
@@ -365911,6 +365918,7 @@ tektiklakapindaa101kampny.xyz
 tektiklakredim.com
 tektiklakredims.com
 tektiklaramazanindirmleri.click
+tektiklasepette.me
 tektiklasiqortayaptir.com.tr
 tektiklayaninda.online
 tektikonlineislem.net
@@ -390922,6 +390930,7 @@ vacsystempolicy.com
 vacu.ddns.net
 vacuhub.com
 vacui.ddns.net
+vacum-pixel.cyou
 vacuole.vughgnnfg.com
 vacuumperplex.top
 vacuuzy.click
@@ -404032,6 +404041,7 @@ website6609760.nicepage.io
 website6615411.nicepage.io
 website66154112.nicepage.io
 website6615423.nicepage.io
+website6616875.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
