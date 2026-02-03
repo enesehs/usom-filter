@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-02 18:25:52 UTC
-# Toplam: 437239 Domain
+# Son Güncelleme: 2026-02-03 01:01:55 UTC
+# Toplam: 437267 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -66758,6 +66758,7 @@ bilgimerkezigiris.com
 bilgimerkezigirisim.com
 bilgimerkezigirisin.com
 bilgimerkezikk.com
+bilgimerkezin.xyz
 bilgimerkezsistemi.com
 bilgimiguncelledim.com
 bilgimler.site
@@ -91510,6 +91511,7 @@ carrefoursaindirimlazimsa.com
 carrefoursaizmit.com
 carrefoursaizmit.net
 carrefoursaizmit.org
+carrefoursakampanyalifirsatlar.duckdns.org
 carrefoursam.com
 carrefoursamarket.online
 carrefoursamarketzinciri.com
@@ -132864,6 +132866,7 @@ e-turkiyemiz-gov.com
 e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
+e-tuvturkbayi.digital
 e-tuvturkk.digital
 e-tvbonusalgirislemenu.online
 e-tvibonusalgirislemenu.online
@@ -146994,7 +146997,9 @@ esnaflar-ciftci-webtr-giris.com
 esnek-hesap.com
 esnek-limit.net
 esnemreprs.ws
+esnfytrmtdstk.cfd
 esnfytrmtfc1000.cfd
+esnfytrmtfc1000.click
 esnfytrmtfcg1000.click
 esnfytrmtfcg10000.cfd
 esnom2.top
@@ -156373,6 +156378,7 @@ finansruzgari.org
 finanssal.com
 finanssal.pages.dev
 finanssbank.com
+finanssektoru.info
 finanssifirfaizle.online
 finanssohbet.world
 finanssorgulamak.site
@@ -220394,6 +220400,7 @@ istanblllkart.net
 istanblllkart.space
 istanblllkartqaw.org
 istanbllssa.tk
+istanblluollunnburdan.com
 istanblluolrsn.com
 istanblluolrsusuna.com
 istanblluuyklem.net
@@ -221061,6 +221068,7 @@ istanbulskart.net
 istanbulskartlar.blogspot.com
 istanbulskartsbasvuru.com
 istanbulsoguk.myshopify.com
+istanbulsolom.shop
 istanbulson.online
 istanbulssalmasa.shop
 istanbulstarbilisim.click
@@ -222916,6 +222924,7 @@ iturkiyegovtr.com
 iturskggge.duckdns.org
 itustcptllognn.webflow.io
 itustcptllogon.webflow.io
+itv-g-r-n-btv.my-homeip.net
 itvdyr.duckdns.org
 itwicenice.com
 itxprsdtpxxx.bid
@@ -223910,6 +223919,7 @@ izeltasadresim.xyz
 izeltasaldinaldin.xyz
 izeltasalisveris.dnsup.net
 izeltasalmak.xyz
+izeltasbcld.dns.navy
 izeltascampnysal.sbs
 izeltascnmbnm.dns.navy
 izeltasdolucantasi.vip
@@ -223929,6 +223939,7 @@ izeltasindirim.site
 izeltasindirimgunu.xyz
 izeltasindirmleri.xyz
 izeltasinidirimdee.com
+izeltaskandilc.dns.navy
 izeltasmekanikcitakimcanta-seti.blogspot.com
 izeltasmekanikcitakimcantaseti.blogspot.com
 izeltasmekaniktakimcantasi.blogspot.com
@@ -223963,6 +223974,7 @@ izeltrasmekanicifirsati.blogspot.com
 izeltrasmekanikcifirsati.blogspot.com
 izelts042101.blogspot.com
 izeltsfirs032tl.blogspot.com
+izeltskandil.dns.navy
 izeltskeedr.dns.navy
 izeltsmc.dnsup.net
 izeltstasmagza.xyz
@@ -226072,6 +226084,7 @@ iztrktrolma.net
 iztrymemeir.net
 iztrymizmir.net
 iztrymizzmir.net
+iztsocp.dns.navy
 iztumnsgv.com
 iztyrbbak.net
 iztyyhreeeeshyukleme.net
@@ -234641,6 +234654,7 @@ karacahome-mutfak.xyz
 karacahome.site
 karacaiindirrim.click
 karacaiindirrim.com
+karacailepazartesi.com
 karacaindiriim.com
 karacaindirim.sbs
 karacaindirim.shop
@@ -238133,6 +238147,7 @@ kep-adres-tekno-sa.com
 kep-adres.com
 kep-adresdogrulama.com
 kep-adresi.com
+kep-adresim.com
 kep-aktif.com
 kep-aktifim.com
 kep-aktifim.net
@@ -241168,6 +241183,7 @@ kltb102039120rklm.site
 kltcekejfeoemikir.org
 kltktltkltnktnltkm.net
 kltrhane.org
+kltv-g-rn-rbtv.my-homeip.net
 kltvsnzomphq.duckdns.org
 klub046.co
 klub11n.us
@@ -243366,6 +243382,7 @@ koplyking.ddns.net
 kopozkapalo.xyz
 kopping.duckdns.org
 kopra2016.ddns.net
+koprofili.cfd
 koprudgvsa.is-best.net
 koprudgvsc.is-best.net
 koprudgvsd.is-best.net
@@ -244040,6 +244057,7 @@ krcarlkgnlrigeld.com
 krcasfshnmwu.io
 krcasiparisdunyasi.xyz
 krcasnayylbsi.com
+krcasongun.com
 krcaylbsdivkti.com
 krcaylbsi.com
 krcaylbsidstkk.com
@@ -261715,6 +261733,7 @@ merkezi-telif-destek.cf
 merkezi-telif-destek.ml
 merkezi-tr.com.tr
 merkezi-tr.sbs
+merkezi.mefound.com
 merkeziadeleriniz.net
 merkeziadeleriniz.org
 merkeziadem.net
@@ -271474,6 +271493,7 @@ mucitlerdunyasi.com
 mucizeetki.tk
 mucizeler-gibi-birden-ortaya-ciktiklarindan-kazanan.com
 mucizeler-sevgi-dagitan-bizleri-gorun.com
+mucizelerlebirlikte.com
 mucoxfowwlmdyrg.su
 muctury.com
 mucuxolab.digital
@@ -280438,6 +280458,7 @@ nucleuschronically.top
 nucleusnavigate.top
 nucleusprototype.top
 nucsafivsd.cfd
+nucsafivsd.sbs
 nude-ai.pro
 nudebarbets.com
 nudecork.top
@@ -283385,6 +283406,7 @@ ocaklndirimlerikacmiiyorr.info
 ocaklndirimlerikacmiiyorr.online
 ocaklndirimlerikacmiyor.sbs
 ocaklndirimlerikacmiyor.shop
+ocaklndirimleritunbulile.shop
 ocaklndirimtrendleri.shop
 ocaklndirmlerikcmaz.com
 ocaklndrimflrsatlari.store
@@ -313465,6 +313487,7 @@ ptuvwkjgwleu.com
 ptuvwkjgwleu.in
 ptuvwkjgwleu.net
 ptuvwkjgwleu.ru
+ptv-gl-r-n-tvb.my-homeip.net
 ptvakalanmalan.com
 ptvkrktkprlz.com
 ptvmnfirstlrm.ru.com
@@ -332613,6 +332636,7 @@ sajagdaesad.click
 sajdaazhari2801.hopto.org
 sajdasggae.click
 sajdfue.com
+sajdjdsfkdsjfksdjsakdsa.cyou
 sajebut12421.wordpress.com
 sajebut124219.wordpress.com
 sajhfkew.com.tr
@@ -354030,6 +354054,7 @@ srnlktnnhftnakmpynsyigld.com
 srnlstanbul.shop
 srnnykfsrtkcmzybtrn.online
 srnstanbuul.shop
+srnsz-alsvrs1.com
 srnszknpyfbakcmmamli.online
 srnszknpyfrsttkcmmamli.online
 srnszknpyfrsttkcmz.com
@@ -361906,6 +361931,7 @@ tal6p.store
 tal99p.site
 tala1234.zapto.org
 talalq8.ddns.net
+talandmprnsdhrsdbsudsd.store
 talapain.ddns.net
 talasyemeksepeti.com
 talasyemeksepeti.xyz
@@ -384057,6 +384083,7 @@ tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
 tuvturkl-d.digital
+tuvturkl-e.digital
 tuvturkl.digital
 tuvturkl.gac.gov.lr
 tuvturkle-muayene.net
@@ -424987,6 +425014,7 @@ yatirimcilogin.com
 yatirimcimobilacikv2denizbank.com
 yatirimcitop.top
 yatirimdenizgiris.co.vu
+yatirimdosyasi.info
 yatirimegitimmerkezi.com
 yatirimekim-mobildenizbank.com
 yatirimfirsariziraatte.com

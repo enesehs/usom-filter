@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-02 18:25:52 UTC
-! Total: 348776 rules
+! Last modified: 2026-02-03 01:01:55 UTC
+! Total: 348795 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -48624,6 +48624,7 @@
 *://*.bilgimerkezigirisim.com/*
 *://*.bilgimerkezigirisin.com/*
 *://*.bilgimerkezikk.com/*
+*://*.bilgimerkezin.xyz/*
 *://*.bilgimerkezsistemi.com/*
 *://*.bilgimiguncelledim.com/*
 *://*.bilgimler.site/*
@@ -104536,6 +104537,7 @@
 *://*.e-turkiyeportaligovtr.com/*
 *://*.e-turly.com/*
 *://*.e-tuvsorgulamalar.org/*
+*://*.e-tuvturkbayi.digital/*
 *://*.e-tuvturkk.digital/*
 *://*.e-tvbonusalgirislemenu.online/*
 *://*.e-tvibonusalgirislemenu.online/*
@@ -116923,7 +116925,9 @@
 *://*.esnek-hesap.com/*
 *://*.esnek-limit.net/*
 *://*.esnemreprs.ws/*
+*://*.esnfytrmtdstk.cfd/*
 *://*.esnfytrmtfc1000.cfd/*
+*://*.esnfytrmtfc1000.click/*
 *://*.esnfytrmtfcg1000.click/*
 *://*.esnfytrmtfcg10000.cfd/*
 *://*.esnom2.top/*
@@ -124430,6 +124434,7 @@
 *://*.finansruzgari.org/*
 *://*.finanssal.com/*
 *://*.finanssbank.com/*
+*://*.finanssektoru.info/*
 *://*.finanssifirfaizle.online/*
 *://*.finanssohbet.world/*
 *://*.finanssorgulamak.site/*
@@ -178361,6 +178366,7 @@
 *://*.istanblllkart.space/*
 *://*.istanblllkartqaw.org/*
 *://*.istanbllssa.tk/*
+*://*.istanblluollunnburdan.com/*
 *://*.istanblluolrsn.com/*
 *://*.istanblluolrsusuna.com/*
 *://*.istanblluuyklem.net/*
@@ -178912,6 +178918,7 @@
 *://*.istanbulsizinizindjddd.com/*
 *://*.istanbulskart.net/*
 *://*.istanbulskartsbasvuru.com/*
+*://*.istanbulsolom.shop/*
 *://*.istanbulson.online/*
 *://*.istanbulssalmasa.shop/*
 *://*.istanbulstarbilisim.click/*
@@ -190183,6 +190190,7 @@
 *://*.karacahome.site/*
 *://*.karacaiindirrim.click/*
 *://*.karacaiindirrim.com/*
+*://*.karacailepazartesi.com/*
 *://*.karacaindiriim.com/*
 *://*.karacaindirim.sbs/*
 *://*.karacaindirim.shop/*
@@ -193226,6 +193234,7 @@
 *://*.kep-adres.com/*
 *://*.kep-adresdogrulama.com/*
 *://*.kep-adresi.com/*
+*://*.kep-adresim.com/*
 *://*.kep-aktif.com/*
 *://*.kep-aktifim.com/*
 *://*.kep-aktifim.net/*
@@ -197066,6 +197075,7 @@
 *://*.kopkarla.co.id/*
 *://*.kopkrlzk.xyz/*
 *://*.kopozkapalo.xyz/*
+*://*.koprofili.cfd/*
 *://*.kopruhaberleri.com/*
 *://*.kopruhgss.com/*
 *://*.kopruluislemler.com/*
@@ -197618,6 +197628,7 @@
 *://*.krcasfshnmwu.io/*
 *://*.krcasiparisdunyasi.xyz/*
 *://*.krcasnayylbsi.com/*
+*://*.krcasongun.com/*
 *://*.krcaylbsdivkti.com/*
 *://*.krcaylbsi.com/*
 *://*.krcaylbsidstkk.com/*
@@ -218608,6 +218619,7 @@
 *://*.mucizeetki.tk/*
 *://*.mucizeler-gibi-birden-ortaya-ciktiklarindan-kazanan.com/*
 *://*.mucizeler-sevgi-dagitan-bizleri-gorun.com/*
+*://*.mucizelerlebirlikte.com/*
 *://*.mucoxfowwlmdyrg.su/*
 *://*.muctury.com/*
 *://*.mucuxolab.digital/*
@@ -225202,6 +225214,7 @@
 *://*.nucleusnavigate.top/*
 *://*.nucleusprototype.top/*
 *://*.nucsafivsd.cfd/*
+*://*.nucsafivsd.sbs/*
 *://*.nudb.top/*
 *://*.nude-ai.pro/*
 *://*.nudebarbets.com/*
@@ -227474,6 +227487,7 @@
 *://*.ocaklndirimlerikacmiiyorr.online/*
 *://*.ocaklndirimlerikacmiyor.sbs/*
 *://*.ocaklndirimlerikacmiyor.shop/*
+*://*.ocaklndirimleritunbulile.shop/*
 *://*.ocaklndirimtrendleri.shop/*
 *://*.ocaklndirmlerikcmaz.com/*
 *://*.ocaklndrimflrsatlari.store/*
@@ -265218,6 +265232,7 @@
 *://*.sajagdaesad.click/*
 *://*.sajdasggae.click/*
 *://*.sajdfue.com/*
+*://*.sajdjdsfkdsjfksdjsakdsa.cyou/*
 *://*.sajhfkew.com.tr/*
 *://*.sajidenterprises.com/*
 *://*.sajnimhxgwwapxb.su/*
@@ -282714,6 +282729,7 @@
 *://*.srnlstanbul.shop/*
 *://*.srnnykfsrtkcmzybtrn.online/*
 *://*.srnstanbuul.shop/*
+*://*.srnsz-alsvrs1.com/*
 *://*.srnszknpyfbakcmmamli.online/*
 *://*.srnszknpyfrsttkcmmamli.online/*
 *://*.srnszknpyfrsttkcmz.com/*
@@ -288685,6 +288701,7 @@
 *://*.tal6p.online/*
 *://*.tal6p.store/*
 *://*.tal99p.site/*
+*://*.talandmprnsdhrsdbsudsd.store/*
 *://*.talasyemeksepeti.com/*
 *://*.talasyemeksepeti.xyz/*
 *://*.talatental.ru/*
@@ -307638,6 +307655,7 @@
 *://*.tuvturkk-rezervasyon.com/*
 *://*.tuvturkk-tr.net/*
 *://*.tuvturkl-d.digital/*
+*://*.tuvturkl-e.digital/*
 *://*.tuvturkl.digital/*
 *://*.tuvturkle-muayene.net/*
 *://*.tuvturkle-odeme.net/*
@@ -339198,6 +339216,7 @@
 *://*.yatirimcilogin.com/*
 *://*.yatirimcimobilacikv2denizbank.com/*
 *://*.yatirimcitop.top/*
+*://*.yatirimdosyasi.info/*
 *://*.yatirimegitimmerkezi.com/*
 *://*.yatirimekim-mobildenizbank.com/*
 *://*.yatirimfirsariziraatte.com/*
