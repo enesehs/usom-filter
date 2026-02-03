@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-03 15:36:47 UTC
-! Total: 348885 rules
+! Last modified: 2026-02-03 16:37:35 UTC
+! Total: 348892 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -109079,6 +109079,7 @@
 *://*.edv-ilanonaylama.site/*
 *://*.edv-tap-ravportal.com/*
 *://*.edv-tapuonlinerdv.com/*
+*://*.edv-tapuonlinerdv.online/*
 *://*.edv2021-iade-hizmetleri.xyz/*
 *://*.edvaegitimkurumu.net/*
 *://*.edvaeqwsarfwaq.com/*
@@ -167564,6 +167565,7 @@
 *://*.idaricezasorgu.org/*
 *://*.idaricezasorgula.org/*
 *://*.idaricezasorgulama.org/*
+*://*.idaridavasorgu.org/*
 *://*.idaridenetleme.com/*
 *://*.idaridosya.org/*
 *://*.idaridosyasistemi.org/*
@@ -178926,6 +178928,7 @@
 *://*.istanbulmus-hehe.net/*
 *://*.istanbulnoktasi.info/*
 *://*.istanbulnormalyukle.net/*
+*://*.istanbulocakta.shop/*
 *://*.istanbulodemenoktasihizmeti.net/*
 *://*.istanbulok.xyz/*
 *://*.istanbulolmakicindogruyerdesiniz.com/*
@@ -196273,6 +196276,7 @@
 *://*.kobibilgilendirme.cfd/*
 *://*.kobidenizbank.com/*
 *://*.kobidestekbasvuru.com.tr/*
+*://*.kobidestekhat.com/*
 *://*.kobidestekhibesi.cfd/*
 *://*.kobidestekplatformu.cfd/*
 *://*.kobihibebasvuru.sbs/*
@@ -197649,6 +197653,7 @@
 *://*.krcailearlkayi.cfd/*
 *://*.krcailepazartsi.com/*
 *://*.krcaileson.com/*
+*://*.krcailesonn.com/*
 *://*.krcailylbasi.com/*
 *://*.krcaindirimdunyasi.xyz/*
 *://*.krcakiseznu.cfd/*
@@ -203312,6 +203317,7 @@
 *://*.llstaannblllkkrttyklkle.org/*
 *://*.llstanbullullar.istanbul/*
 *://*.llstbnlksslestrm.org/*
+*://*.llstnnabllblzlee.org/*
 *://*.lltemmuzkmpyns.com/*
 *://*.llthe.ru/*
 *://*.lltnltnltlntlnlln.net/*
@@ -267677,6 +267683,7 @@
 *://*.sechure-sahhibimnden-com-param-guvendeodeme-yap.tk/*
 *://*.sechureparamguvendeodemeyap-sahibinmden-com.tk/*
 *://*.secili-urunler.online/*
+*://*.seciliurunlerdebu.sbs/*
 *://*.seciliurunlerdekampanya.sbs/*
 *://*.secim-destekleri.com/*
 *://*.secimde-muarremince.net/*
