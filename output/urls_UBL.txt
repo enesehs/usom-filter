@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-04 11:24:12 UTC
-! Total: 349004 rules
+! Last modified: 2026-02-04 12:29:39 UTC
+! Total: 349018 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7216,6 +7216,7 @@
 *://*.271703744.cloud/*
 *://*.2718926529.cloud/*
 *://*.27226588665.cloud/*
+*://*.272313219152.click/*
 *://*.2729ceb5d6d4.com/*
 *://*.27357523-231.xyz/*
 *://*.2736330c5c719ee335799e8c0d57b89a.com/*
@@ -40261,6 +40262,7 @@
 *://*.baharfirsatlaria1o1dee.shop/*
 *://*.baharfirsatlariaktr.com/*
 *://*.baharfirsatlariyakala.cfd/*
+*://*.baharfirsatlariyakala.cyou/*
 *://*.bahargeldia101kampanyasisupurge.xyz/*
 *://*.bahargeldia101kampanyassi.xyz/*
 *://*.bahargeldia101kampanyassibasladi.xyz/*
@@ -41622,6 +41624,9 @@
 *://*.basvrrrkmponyaaaprmsynn.info/*
 *://*.basvrrrkmponyaaaprmsynn.pro/*
 *://*.basvrrrmxa.click/*
+*://*.basvrrrprmosyonnnkmpnya.art/*
+*://*.basvrrrprmosyonnnkmpnya.info/*
+*://*.basvrrrprmosyonnnkmpnya.pro/*
 *://*.basvrrrrprmsynngrntt.click/*
 *://*.basvrrrularr.online/*
 *://*.basvrrunoktasi-hizlikayitol.com/*
@@ -91545,6 +91550,7 @@
 *://*.destekhibebasvurusu.org/*
 *://*.destekhibedestekleribasladi.com/*
 *://*.destekhibeleriailedestekleri.com/*
+*://*.destekhibemerkezi.com/*
 *://*.destekhizlibasvuru.com/*
 *://*.destekhizmeti.net/*
 *://*.destekhizmeti.tk/*
@@ -172184,6 +172190,7 @@
 *://*.indirimpesinde.store/*
 *://*.indirimrush.xyz/*
 *://*.indirimruzgarialdinaldin.shop/*
+*://*.indirimsaati.cfd/*
 *://*.indirimsaatiniyakala.cfd/*
 *://*.indirimsaatleri-guncel.com.tr/*
 *://*.indirimsaatleribasladi.com/*
@@ -190235,6 +190242,7 @@
 *://*.karacaaysonukampanyalari.online/*
 *://*.karacabayram.shop/*
 *://*.karacabayram.xyz/*
+*://*.karacacarsamba.com/*
 *://*.karacacaydanlik-yenigelenler.com.tr/*
 *://*.karacacaydanlik.com.tr/*
 *://*.karacacaymayis.com.tr/*
@@ -193814,6 +193822,7 @@
 *://*.kgmggovtr.top/*
 *://*.kgmgio.icu/*
 *://*.kgmglo.life/*
+*://*.kgmgo-vtr.bond/*
 *://*.kgmgoov-tr.ink/*
 *://*.kgmgos.xyz/*
 *://*.kgmgot.cc/*
@@ -196346,6 +196355,7 @@
 *://*.kobihibekaydi.cfd/*
 *://*.kobikredibasvurusu-hemenkatil.cloud/*
 *://*.kobikrediformu.com/*
+*://*.kobikredimerkezi.com/*
 *://*.kobiler-paraf-halk.com/*
 *://*.kobilerdestekplatformu.cfd/*
 *://*.kobisi.com/*
@@ -205973,6 +205983,7 @@
 *://*.m7l.app/*
 *://*.m7lea5yck9i3l.biz/*
 *://*.m8d2sn0o.tokyo/*
+*://*.m8k2x9q6b4n7f3sahv.sbs/*
 *://*.m8lo58v.cn/*
 *://*.m8pwsczg0bbzw48j7.com/*
 *://*.m90123712639450387123.site/*
@@ -307822,6 +307833,7 @@
 *://*.tuvturkaracrandevu.org/*
 *://*.tuvturkbasvr.net/*
 *://*.tuvturkc-l.digital/*
+*://*.tuvturkc.digital/*
 *://*.tuvturkdanismanlik.com/*
 *://*.tuvturkdmzler.net/*
 *://*.tuvturkdomes.net/*
@@ -307946,6 +307958,7 @@
 *://*.tuvuturkrandevuolustur.com/*
 *://*.tuvuvutuvtkr.net/*
 *://*.tuvvedec.website/*
+*://*.tuvvturk-isl.digital/*
 *://*.tuvvturk.live/*
 *://*.tuvvturkaracmuayene.com/*
 *://*.tuvvturkrezervasyon.com/*
@@ -331315,6 +331328,7 @@
 *://*.xhaxo.com/*
 *://*.xhbsexirmlbgdph.su/*
 *://*.xhcjmm.help/*
+*://*.xhcjmm.online/*
 *://*.xhcofyi.com/*
 *://*.xhdgt.com/*
 *://*.xhdoejcpm.com/*
