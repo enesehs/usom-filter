@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-04 10:26:47 UTC
-! Total: 348992 rules
+! Last modified: 2026-02-04 11:24:12 UTC
+! Total: 349004 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -109100,6 +109100,7 @@
 *://*.edv-ilangunceleme.site/*
 *://*.edv-ilanonaylama.site/*
 *://*.edv-tap-ravportal.com/*
+*://*.edv-tapuonlinerandvusu.com/*
 *://*.edv-tapuonlinerdv.com/*
 *://*.edv-tapuonlinerdv.online/*
 *://*.edv2021-iade-hizmetleri.xyz/*
@@ -111552,6 +111553,7 @@
 *://*.ekranigiris.sbs/*
 *://*.ekranii.net/*
 *://*.ekranin.sbs/*
+*://*.ekraniniz-kontroledip-aktarin.sbs/*
 *://*.ekraninizdan-kontrol-ve-sorgu-saglayin.sbs/*
 *://*.ekranlar-try.online/*
 *://*.ekranlar-web-tr.shop/*
@@ -127040,6 +127042,7 @@
 *://*.fixturkapayfix.site/*
 *://*.fixuplink.com/*
 *://*.fixwap.in/*
+*://*.fixxedlab.com/*
 *://*.fiyat-teklifi.com.tr/*
 *://*.fiyatfestivali.online/*
 *://*.fiyati-dusen-urunler-seninle-burada.top/*
@@ -164980,6 +164983,7 @@
 *://*.hzlodmadrsbrshrzmn.net/*
 *://*.hzlrandvnnunall.net/*
 *://*.hzlrandvnual.net/*
+*://*.hzlrhbrste.cfd/*
 *://*.hzlsgevc.net/*
 *://*.hzlsigortamburdaatr.com.tr/*
 *://*.hzlsrglaklm.com/*
@@ -195910,6 +195914,8 @@
 *://*.kmpnyatbe.com/*
 *://*.kmpnybrd.com/*
 *://*.kmpnyhmnbrd1o1.com/*
+*://*.kmpnyhmnbrd1o1.info/*
+*://*.kmpnyhmnbrd1o1.online/*
 *://*.kmpnylrbrdsizlerle.space/*
 *://*.kmpnylrsonayuz.shop/*
 *://*.kmpnynzbrd.com/*
@@ -256725,6 +256731,7 @@
 *://*.randevhizmet.net/*
 *://*.randevnvinz.net/*
 *://*.randevsalhizli.xyz/*
+*://*.randevshzmetlerburds.net/*
 *://*.randevsualsa.com/*
 *://*.randevtuvskturk.net/*
 *://*.randevu--islemlerim.com/*
@@ -262536,6 +262543,7 @@
 *://*.s1gn0sbrd1gkz.com/*
 *://*.s1kkomo.xyz/*
 *://*.s1mzamangldi1br0d1a.com/*
+*://*.s1oc81qws9qw.icu/*
 *://*.s1teye-yonlend1r1l1yorsunuz.com/*
 *://*.s2191919k33.cloud/*
 *://*.s22231232fdnsjds.top/*
@@ -297700,6 +297708,7 @@
 *://*.topostock.shop/*
 *://*.topp21lemain.top/*
 *://*.toppaperservices.com/*
+*://*.toppiralex.com/*
 *://*.topplebureaucracy.top/*
 *://*.topplecontemplate.top/*
 *://*.toppleintegral.top/*
@@ -301770,6 +301779,7 @@
 *://*.trendyoladresimguncel.com/*
 *://*.trendyoladresimguncel.net/*
 *://*.trendyoladresimiyenile.com/*
+*://*.trendyoladresimiyenile.net/*
 *://*.trendyoladresimyeni.net/*
 *://*.trendyoladresyenile.com/*
 *://*.trendyolagent.com/*
@@ -323946,6 +323956,7 @@
 *://*.whrwraerms.in/*
 *://*.whry.me/*
 *://*.whts-google.com/*
+*://*.whucna.online/*
 *://*.whuoter.at/*
 *://*.whupvzd.com/*
 *://*.whutekevan.cfd/*
@@ -331303,6 +331314,7 @@
 *://*.xhasrlama.com/*
 *://*.xhaxo.com/*
 *://*.xhbsexirmlbgdph.su/*
+*://*.xhcjmm.help/*
 *://*.xhcofyi.com/*
 *://*.xhdgt.com/*
 *://*.xhdoejcpm.com/*
