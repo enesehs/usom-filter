@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-04 13:54:22 UTC
-! Total: 349040 rules
+! Last modified: 2026-02-04 14:33:46 UTC
+! Total: 349046 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -172236,6 +172236,7 @@
 *://*.indirimssupuurge.online/*
 *://*.indirimstore.online/*
 *://*.indirimstore.site/*
+*://*.indirimsubat.cfd/*
 *://*.indirimtemmuzhizmetleri.com.tr/*
 *://*.indirimtentfirsatlarisi.cfd/*
 *://*.indirimtentfirsatlarisi.icu/*
@@ -186016,6 +186017,7 @@
 *://*.kablosuz-dyson.com.tr/*
 *://*.kabs789266.xyz/*
 *://*.kabuledilebilirteklif.net/*
+*://*.kabuletkendinebiserseriismarla.uk/*
 *://*.kabulsureci.com/*
 *://*.kaburto.info/*
 *://*.kac-irma-k-amp-anya-l-ari.online/*
@@ -190674,6 +190676,7 @@
 *://*.karenandkarren.com/*
 *://*.karenlergeldi.cfd/*
 *://*.karenweingard.com/*
+*://*.karetnasa.com/*
 *://*.karetnasa.online/*
 *://*.karevakfi.com/*
 *://*.karfina.net/*
@@ -222402,6 +222405,7 @@
 *://*.netkoruma-garanti.com/*
 *://*.netkoruma-garanti.lat/*
 *://*.netkoruma-garanti.sbs/*
+*://*.netkoruma-kredimler.cfd/*
 *://*.netkoruma-kredimler.sbs/*
 *://*.netkoruma-kredimler.xyz/*
 *://*.netkoruma.xyz/*
@@ -248697,6 +248701,7 @@
 *://*.promocoinbase.site/*
 *://*.promocoinbase.xyz/*
 *://*.promoeth.com/*
+*://*.promofi.click/*
 *://*.promoget.net/*
 *://*.promohemen.com/*
 *://*.promohubventure.com/*
@@ -272830,6 +272835,7 @@
 *://*.sightunknown.top/*
 *://*.sigjortm.com.tr/*
 *://*.sigkiti.com/*
+*://*.sigma-case.xyz/*
 *://*.sigmahydraulics.com/*
 *://*.sigmakule.com/*
 *://*.sigmamu.com/*
