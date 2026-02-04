@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-04 15:30:33 UTC
-# Toplam: 437612 Domain
+# Son Güncelleme: 2026-02-04 16:31:38 UTC
+# Toplam: 437618 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -65258,6 +65258,7 @@ betparibu478.com
 betparibu480.com
 betparibu481.com
 betparibu482.com
+betparibu483.com
 betparibu484.com
 betparibu52.com
 betparibu55.com
@@ -117855,6 +117856,7 @@ destekonayibasvuru.com
 destekonaylamamerkezim.xyz
 destekonaylayalim.xyz
 destekonlinegib.com
+destekonlinekosgeb.com
 destekonurum.online
 destekosgeb.site
 destekpaket20n-tr.com
@@ -168661,6 +168663,7 @@ gecislerdebalikyuzuyor.xyz
 gecislerhesgslborce.duckdns.org
 gecislerhgsodeme.sg-host.com
 gecislericinyukle.sg-host.com
+gecislerin-hgs.defol.app
 gecislerinbir-ptthgs.com
 gecisleriniz-ucret-onlin-ode.xyz
 gecislerinizbenimlehizli.blogspot.com
@@ -237913,6 +237916,7 @@ kellas12x.dns.navy
 kellas25sx.dns.navy
 kellas5432x.dns.navy
 kellas5745x.dns.navy
+kellas71x.dns.navy
 kellas754x.dns.navy
 kellenleote.com
 kellerwarzone.ddns.net
@@ -238297,6 +238301,7 @@ kenvitmkkart.net
 kenworks.com
 kenxtizmlrim.net
 kenxxrt.com
+keny6lesx.blogspot.com
 kenya3.xyz
 kenyanisconiconfays.top
 kenyouhelpmedada.site
@@ -276594,6 +276599,7 @@ netkoruma-garanti.cfd
 netkoruma-garanti.com
 netkoruma-garanti.lat
 netkoruma-garanti.sbs
+netkoruma-kredim.cfd
 netkoruma-kredim.lat
 netkoruma-kredim.xyz
 netkoruma-kredimler.cfd
