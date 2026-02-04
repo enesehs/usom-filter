@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-04 20:23:14 UTC
-# Toplam: 437671 Domain
+# Son Güncelleme: 2026-02-04 21:22:56 UTC
+# Toplam: 437681 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26430,6 +26430,7 @@ abtasty.net
 abtefbfhtgunxij.click
 abtokiler.store
 abtpr.com
+abtv-lgp-bnt.my-homeip.net
 abtyukleme.22web.org
 abu-azzam123.zapto.org
 abu-web-2022.duckdns.org
@@ -82494,6 +82495,7 @@ borcuzlasma-uyap.com
 borcveznem.net
 border86.xyz
 borderlands3.com
+bordnsnkzistkrtt.mooo.com
 bore569.xyz
 bored-light.sbs
 boredearth.best
@@ -231577,6 +231579,7 @@ kalnstklar-sn-yni.online
 kalog.vn
 kalomob.store
 kalorsystem.com
+kalovexi.icu
 kalpfogi.net
 kalpkalbekarsionline.cfd
 kalpkalbekarsionline.sbs
@@ -262071,6 +262074,7 @@ merkezsigorta.net.tr
 merkezsigortaci.net.tr
 merkezsigortaci.web.tr
 merkezsistemleri.xyz
+merkezsiz.mefound.com
 merkeztelifhaklari.cf
 merkeztr.sbs
 merkezwhgsbilgi.sbs
@@ -272298,6 +272302,7 @@ muslimhatch.com
 muslnng.net
 muslumbaba.site
 muslumgn334.com
+muslumpanel.com.tr
 muslyovsiiuebxi.ru
 musmutlu-bir-zamanlar-var-sizle.top
 musmutlukampanyagunleri.cfd
@@ -276624,6 +276629,7 @@ netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
 netkoruma-basvurukredi.xyz
+netkoruma-basvurum.cfd
 netkoruma-basvurum.lat
 netkoruma-basvurum.sbs
 netkoruma-basvurum.xyz
@@ -338697,6 +338703,7 @@ sendiyarpolo2.xyz
 sendjoinbeforethejanuaryoffer.cloud
 sendlivofse.xyz
 sendly-ink.shop
+sendmail.com.tr
 sendmevideo.org
 sendorkss.de
 sendspace.buzz
@@ -355471,6 +355478,7 @@ stanleyh2flowtermossatissiparisiniz.eticret.icu
 stanleyh2flowtermossatissiparisinizz.eticret.icu
 stanleyhakan.xyz
 stanleyhavada.xyz
+stanleyhelios.xyz
 stanleyhorizon.xyz
 stanleyignite.xyz
 stanleyindirim.shop
@@ -362665,6 +362673,7 @@ taprananivum.online
 taprananivume.online
 taprbif.ddns.net
 taprndm.web.app
+taprnrsbhziemtleburs.store
 taprnsdhrbsudsd.store
 taprnsdhrsdbsudsd.store
 tapronto.zapto.org
@@ -415839,6 +415848,7 @@ xeloriax.com
 xelpersx.click
 xelphoria.store
 xeltykzmpr.duckdns.org
+xelunora.shop
 xeluvorin.com
 xelvadorgas.xyz
 xelvira.space

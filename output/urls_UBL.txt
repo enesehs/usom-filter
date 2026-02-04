@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-04 20:23:14 UTC
-! Total: 349129 rules
+! Last modified: 2026-02-04 21:22:56 UTC
+! Total: 349136 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -187360,6 +187360,7 @@
 *://*.kalog.vn/*
 *://*.kalomob.store/*
 *://*.kalorsystem.com/*
+*://*.kalovexi.icu/*
 *://*.kalpfogi.net/*
 *://*.kalpkalbekarsionline.cfd/*
 *://*.kalpkalbekarsionline.sbs/*
@@ -219320,6 +219321,7 @@
 *://*.muslnng.net/*
 *://*.muslumbaba.site/*
 *://*.muslumgn334.com/*
+*://*.muslumpanel.com.tr/*
 *://*.muslyovsiiuebxi.ru/*
 *://*.musmutlu-bir-zamanlar-var-sizle.top/*
 *://*.musmutlukampanyagunleri.cfd/*
@@ -222453,6 +222455,7 @@
 *://*.netkirlama.site/*
 *://*.netklop.life/*
 *://*.netkoruma-basvurukredi.xyz/*
+*://*.netkoruma-basvurum.cfd/*
 *://*.netkoruma-basvurum.lat/*
 *://*.netkoruma-basvurum.sbs/*
 *://*.netkoruma-basvurum.xyz/*
@@ -269532,6 +269535,7 @@
 *://*.sendjoinbeforethejanuaryoffer.cloud/*
 *://*.sendlivofse.xyz/*
 *://*.sendly-ink.shop/*
+*://*.sendmail.com.tr/*
 *://*.sendmevideo.org/*
 *://*.sendorkss.de/*
 *://*.sends-i.cfd/*
@@ -283721,6 +283725,7 @@
 *://*.stanleygunleri.name.tr/*
 *://*.stanleyhakan.xyz/*
 *://*.stanleyhavada.xyz/*
+*://*.stanleyhelios.xyz/*
 *://*.stanleyhorizon.xyz/*
 *://*.stanleyignite.xyz/*
 *://*.stanleyindirim.shop/*
@@ -289320,6 +289325,7 @@
 *://*.tapprandevum.click/*
 *://*.taprananivum.online/*
 *://*.taprananivume.online/*
+*://*.taprnrsbhziemtleburs.store/*
 *://*.taprnsdhrbsudsd.store/*
 *://*.taprnsdhrsdbsudsd.store/*
 *://*.tapsauczxc.net/*
@@ -331327,6 +331333,7 @@
 *://*.xeloriax.com/*
 *://*.xelpersx.click/*
 *://*.xelphoria.store/*
+*://*.xelunora.shop/*
 *://*.xeluvorin.com/*
 *://*.xelvadorgas.xyz/*
 *://*.xelvira.space/*
