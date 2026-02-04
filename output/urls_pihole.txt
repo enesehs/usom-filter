@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-04 14:33:46 UTC
-# Toplam: 437570 Domain
+# Son Güncelleme: 2026-02-04 15:30:33 UTC
+# Toplam: 437612 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16950,6 +16950,7 @@
 6785423782345.life
 67874973.dfgqdsd.ru
 67876765343242.cloud
+67e5143a9ca7d2240c137ef80f2641d6.pages.dev
 67g57j44k7h.ws
 67g6ll51.duckdns.org
 67iqj6xz.duckdns.org
@@ -33848,6 +33849,7 @@ ai-usmside.shop
 ai-virtu.com
 ai-zerolend.xyz
 ai.fdswgw.shop
+ai.foqguzz.com
 ai.hyyeo.p-e.kr
 ai.kostin.p-e.kr
 ai.kostin.p-ekr
@@ -42481,6 +42483,7 @@ alldus-servicenow.com
 alle13net1.com
 allecell.co
 allecelltr.co
+allecos.de
 allegarbizniz.online
 allegationelicit.top
 allegationrestless.top
@@ -42532,6 +42535,7 @@ allh.zapto.org
 allhandshygiene.co.za
 allhomesrealestate.com.au
 allhsgz.com
+alli-ai.pro
 alliance-ce.com
 allianceforfreedominter.com
 alliancesymphony.top
@@ -51053,9 +51057,11 @@ aslmss-dlkad-adlkd.cyou
 aslmss-dlkad-adlkd.icu
 aslnbey.click
 aslnkartnmnackslan.cfd
+aslnkrtreklmsdknmkl.cfd
 aslokaf.wixsite.com
 aslpls.io
 aslsverisparisi.com
+aslurtykndfnmanklar.cfd
 aslxvrmqpa.duckdns.org
 aslyukleme.22web.org
 asmadern.com
@@ -56161,6 +56167,7 @@ b9.pm
 b91stf.c1.biz
 b92svcr.duckdns.org
 b939b144.0.0.iy4uenbtinbdcmrsizbtirjtgu4dinrygezummbvim2tiojsg5asamjyhaxdknz.ogqxdcnjweaaqap5phu5hpjd5oxpuju744fgwnyje4kry4p4eahsogftoagdpz3.r2sr4yatk3ehfuhmy4p2nr2r7znexxns7rgvfqf3zk4kkgpty5ijrtco4pa45io.eptfwbnaxpufvrtd774nzesi.xghumgiejcbgoch.ru
+b93b559cf522386018e24069ff1a8b7a.pages.dev
 b93w5yxam.duckdns.org
 b94peqdp.duckdns.org
 b979bz.duckdns.org
@@ -56869,6 +56876,7 @@ bagsembalajes.com
 bagskur.com
 bagtopple.top
 baguette.ddns.net
+bagumedios.cloud
 baguvende.online
 baguvixwpo.duckdns.org
 bagzhankarl333.zapto.org
@@ -58019,6 +58027,13 @@ barbercrisp.top
 barberdemographic.top
 barberfuse.top
 barberink.biz
+barbermoo.fun
+barbermoo.shop
+barbermoo.space
+barbermoo.today
+barbermoo.top
+barbermoo.world
+barbermoo.xyz
 barbora.zapto.org
 barboskins.xyz
 barbour-mont-turkiye.com
@@ -66876,6 +66891,7 @@ bilgislemler.xyz
 bilgisorgulama.org
 bilgisorgulamam.com
 bilgisosyal.shop
+bilgisunum.xyz
 bilgitagikontrol.com
 bilgitalep.com
 bilgitalepformu.com
@@ -82310,6 +82326,7 @@ booksformhotels.com
 booksimplereg.com
 booksiparisslerin.cloud
 bookslooked.com
+booksmagazinetx.com
 booksnotespdf.com
 bookspace.us
 bookspoint.us
@@ -101516,6 +101533,7 @@ concubinaatinzicht.duckdns.org
 concur.cfd
 concur.net.co
 concurrentjerk.top
+concursal.macquet.de
 concuur.com
 condedqpwqm.shop
 condemnassortment.top
@@ -109972,6 +109990,7 @@ daxspnjwur.duckdns.org
 day-info.pro
 day-place-river.com
 day-tr.com
+day.foqguzz.com
 day020.com
 day040.com
 day103.com
@@ -127124,6 +127143,7 @@ dynamicfraudaccess.ddns.net
 dynamicfraudhub.ddns.net
 dynamichostinc.hopto.org
 dynamicinnovator.hopto.org
+dynamiclake.org
 dynamiclnk.com
 dynamicns.info
 dynamicns2.info
@@ -141990,6 +142010,7 @@ emeklidegerlendirme.com
 emekliedevletbasvuru.com
 emeklifirsasakalmayilbakmony.shop
 emeklifirsatimkmpynalasdasd.site
+emekliiprmsnynkmnpya.info
 emekliiziraattt-krdiiibsvruu.ip-ddns.com
 emeklikampanya.site
 emeklikampanyasi.site
@@ -146350,6 +146371,7 @@ erigeliyormusyaiyi.xyz
 erihudeg.com
 erijmtyv7tabol5puro.ddns.net
 erik-btc.com
+erik22jomk77.card.co
 erikaputriviral2023.duckdns.org
 erikareese347.xyz
 eriklisubesiekimindirimayi.com.tr
@@ -158255,6 +158277,7 @@ firsatlarikacirmasizlereozelurunlersepette.xyz
 firsatlarikacirmasizlerlesongunhemenal.xyz
 firsatlarikacmranz.baby
 firsatlarikacmranzin.baby
+firsatlarikapsende.com
 firsatlarikavmicmraiyn.com
 firsatlarikovaladeniz.info
 firsatlarikovaladeniz.xyz
@@ -158466,6 +158489,7 @@ firsatlarmukemmelgunlersizlerle.online
 firsatlarmukemmelgunlersizlerle.xyz
 firsatlarn.com
 firsatlarnegoda.com
+firsatlarnoktasi.com
 firsatlarnz-adresia101.online
 firsatlaronline-aldinaldin.online
 firsatlaronlinegeldi.shop
@@ -172185,6 +172209,7 @@ giris17-uyap.com
 giris18-uyap.com
 giris19-uyap.com
 giris1986382846272836325148573528.duckdns.org
+giris1abasvuru.cfd
 giris20-uyap.com
 giris2024.com.tr
 giris21388583774491907562.duckdns.org
@@ -174400,6 +174425,7 @@ goldenstarscr.com
 goldenstoor.com
 goldensun43.top
 goldentendaddtsad.wiki
+goldenticketsshop.com
 goldenyat.com
 goldenyoungwaywork.hopto.org
 goldescent.com
@@ -224193,6 +224219,7 @@ izlerkalirizlerkalirsinxd.blogspot.com
 izleseneq.com
 izletakipdenetimak.com
 izletas03.dns.army
+izleyeceksinsadece.app
 izlfdsabah.blogspot.com
 izlfirsatii.duckdns.org
 izlfirstmkuzi.duckdns.org
@@ -275843,6 +275870,7 @@ negligibleappeasement.top
 negligiblegreasy.top
 negligiblejob.top
 neglite.com
+negmari.com
 negotiableaspire.top
 negotiableendowment.top
 negotiablesed.top
@@ -276566,6 +276594,8 @@ netkoruma-garanti.cfd
 netkoruma-garanti.com
 netkoruma-garanti.lat
 netkoruma-garanti.sbs
+netkoruma-kredim.lat
+netkoruma-kredim.xyz
 netkoruma-kredimler.cfd
 netkoruma-kredimler.sbs
 netkoruma-kredimler.xyz
@@ -301658,6 +301688,7 @@ pazarmrkt66.com
 pazarmrkt874.com
 pazarmrkt932.com
 pazarmrktxcm76.com
+pazaroaktu.net
 pazaroglensnm.com
 pazaroma.shop
 pazarozelx.com
@@ -318107,6 +318138,7 @@ r-arena-sochi.ru
 r-e-d-b-ul3.site
 r-hgs.com
 r-karcahome.shop
+r-nvdlsr-brdn-hmcn-m.web.app
 r-pttgov.top
 r-sok.com.tr
 r-sponsor-crs.web.tr
@@ -319115,6 +319147,7 @@ ramesses1.ddns.net
 ramesses2.ddns.net
 ramfazanfirsati.net
 ramibhs.zapto.org
+ramiort.com
 ramizla.ru
 rammonteredot.info
 rammstein.com.ru
@@ -329193,6 +329226,7 @@ sahibinden-get.online-odemeler.sa.com
 sahibinden-get.online-odemelerim.sa.com
 sahibinden-get.online-tr.sa.com
 sahibinden-get.r-onaylihizmetin.com
+sahibinden-get.r-onaylihizmetler.com
 sahibinden-get.r-onayliservisin.com
 sahibinden-get.r-onayliservislerin.com
 sahibinden-get.ru.com
@@ -330124,6 +330158,7 @@ sahibinden-paramguvendesi.com
 sahibinden-paramguvendesi.tk
 sahibinden-paramguvendetr-alisverisler.net
 sahibinden-paramguvendetr.com
+sahibinden-paramguvendetr.guvenli-alisverislerim.sa.com
 sahibinden-paramguvendetr.xyz
 sahibinden-paramguvendev2.tk
 sahibinden-paramguvendeyleode.com
@@ -334646,6 +334681,7 @@ sayilidenizbank.cf
 sayilisiparisler.com.tr
 sayilisiparisler.online
 sayilisiparisler.xyz
+sayiliurundesecili.sbs
 sayinbelediyebaskanim.com
 sayingrandom.top
 sayinlar-tr.com
@@ -335842,6 +335878,7 @@ sechureparamguvendeodemeyap-sahibinmden-com.tk
 secili-urunler.online
 seciliurunlerdebu.sbs
 seciliurunlerdekampanya.sbs
+seciliyildizlar.sbs
 secim2023cumhurbaskanligi.blogspot.com
 secimde-muarremince.net
 secimdenonce.net
@@ -340652,6 +340689,7 @@ sevgiden-otede-dusunceler-hayatin-icinden-sozler.com
 sevgiden-solan-ciceklere-tekrar-ugradik.com
 sevgiden-yutulur-bir-gozden-fazlasi-bu.com
 sevgiden-zarar-cikmaz-goren-daha-iyi-bilir.com
+sevgidenberidirdirdir.com
 sevgidenizzi.com
 sevgidestekvakfi.com
 sevgidolu.xyz
@@ -356769,6 +356807,7 @@ strong.zapto.org
 strongallegiance.top
 strongarrrtatzzz.net
 strongdomainsercgerhhost.com
+strongdwn.com
 strongest.ddns.net
 stronggemateraislw.shop
 stronghacker121.zapto.org
@@ -370694,6 +370733,7 @@ tmmzkirksekzaydanert.online
 tmnjgpifhtqy.com
 tmnoatm.duckdns.org
 tmnslnmcnx.net
+tmnt-r-n-gb.my-homeip.net
 tmo-odemeler.online
 tmo-randevu-al.online
 tmo-randevu.app
@@ -394737,6 +394777,7 @@ vcihcscwau.duckdns.org
 vciti.zapto.org
 vcjhsjdfhjhasd.com
 vcjwxw.click
+vcldsa.homes
 vcliwd0vhg.storage.googleapis.com
 vclouddzpow.ddns.net
 vcnbwn4e.duckdns.org
@@ -404200,6 +404241,7 @@ website6609760.nicepage.io
 website6615411.nicepage.io
 website66154112.nicepage.io
 website6615423.nicepage.io
+website66154773221.nicepage.io
 website6616875.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
