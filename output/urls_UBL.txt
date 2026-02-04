@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-04 18:31:35 UTC
-! Total: 349114 rules
+! Last modified: 2026-02-04 19:30:42 UTC
+! Total: 349121 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -25544,6 +25544,7 @@
 *://*.aklinageldiysehemencek3.click/*
 *://*.aklinageldiysehemencek4.click/*
 *://*.aklinda-cebinde-dilinde.com/*
+*://*.aklindadegilhemenkapinda.com/*
 *://*.aklindadilindecebindeparibubasvuruhediye-tr.tk/*
 *://*.aklindakiguckapinda.com/*
 *://*.aklindakiparibudan.com/*
@@ -104616,6 +104617,7 @@
 *://*.e-turly.com/*
 *://*.e-tuvsorgulamalar.org/*
 *://*.e-tuvturkbayi.digital/*
+*://*.e-tuvturkbayilik.digital/*
 *://*.e-tuvturkk.digital/*
 *://*.e-tvbonusalgirislemenu.online/*
 *://*.e-tvibonusalgirislemenu.online/*
@@ -118007,6 +118009,7 @@
 *://*.eturkiye-pandemidestekbasvurusu.com/*
 *://*.eturkiye-trtiade.com/*
 *://*.eturkiye-vatandasportali.com/*
+*://*.eturkiye.cv/*
 *://*.eturkiye.link/*
 *://*.eturkiyeaidatiade-merkezi.com/*
 *://*.eturkiyeaidatiadebirimlerigovtr.com/*
@@ -137686,6 +137689,7 @@
 *://*.giriss-adresleri.gq/*
 *://*.giriss-adresleri.ml/*
 *://*.giriss-akbnkkx.com/*
+*://*.giriss-basvurular.cfd/*
 *://*.giriss-iadresleri.space/*
 *://*.giriss-web-e-devlet-iade-gov-tr.com/*
 *://*.girissayfabaslangiconline.site/*
@@ -164130,6 +164134,7 @@
 *://*.hukuktr.org/*
 *://*.hukukuzlasma.com/*
 *://*.hukukwebtr-ihlalsorgu.com/*
+*://*.hukumsuz.de/*
 *://*.hulihuli.net/*
 *://*.huliop.shop/*
 *://*.huliplokle.click/*
@@ -277881,6 +277886,7 @@
 *://*.sndbnmgbiolmamlisin.cfd/*
 *://*.sndbrdasngeldnasd.icu/*
 *://*.sndbrdngmnkpmlsin.icu/*
+*://*.snde-alsvrslrde.com/*
 *://*.snde-basvurtakipkampanyasina.com/*
 *://*.snde-hemenbasvurbizekatilkmpanyasi.com/*
 *://*.snde-hemenbasvurkmpanyasiburada.com/*
@@ -280422,6 +280428,7 @@
 *://*.sorgu.space/*
 *://*.sorgu.us/*
 *://*.sorgu.world/*
+*://*.sorgu.wtf/*
 *://*.sorgu.xyz/*
 *://*.sorgu81.plus/*
 *://*.sorguadresi.site/*

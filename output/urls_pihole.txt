@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-04 18:31:35 UTC
-# Toplam: 437653 Domain
+# Son Güncelleme: 2026-02-04 19:30:42 UTC
+# Toplam: 437662 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38323,6 +38323,7 @@ aklinageldiysehemencek.click
 aklinageldiysehemencek3.click
 aklinageldiysehemencek4.click
 aklinda-cebinde-dilinde.com
+aklindadegilhemenkapinda.com
 aklindadilindecebindeparibubasvuruhediye-tr.tk
 aklindakiguckapinda.com
 aklindakiparibudan.com
@@ -132962,6 +132963,7 @@ e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
 e-tuvturkbayi.digital
+e-tuvturkbayilik.digital
 e-tuvturkk.digital
 e-tvbonusalgirislemenu.online
 e-tvibonusalgirislemenu.online
@@ -162445,6 +162447,7 @@ fsayen.duckdns.org
 fsb.com.bd
 fsblehkimc.storage.googleapis.com
 fscfagalys.info
+fsclrnmslclfsx.mooo.com
 fsdafdsfdsaflkjkxvzcuifsad.azureedge.net
 fsdasawwfs.xyz
 fsddm.xubee.ru
@@ -172721,6 +172724,7 @@ giriss-adresleri.cf
 giriss-adresleri.gq
 giriss-adresleri.ml
 giriss-akbnkkx.com
+giriss-basvurular.cfd
 giriss-iadresleri.space
 giriss-web-e-devlet-iade-gov-tr.com
 girissayfabaslangiconline.site
@@ -203544,6 +203548,7 @@ hukuktr.org
 hukukuzlasma.com
 hukukwebtr-ihlalsorgu.com
 hukumaru.nobody.jp
+hukumsuz.de
 hulihuli.net
 huliop.shop
 huliplokle.click
@@ -251913,6 +251918,7 @@ lntrvergdmee.net
 lnuor.com
 lnv3b68.xdk8ax.cn
 lnvnvwrkss.duckdns.org
+lnvt-to-b-g-rn.my-homeip.net
 lnwkvmanvvlnfpx.ru
 lnwxfq.qz94.com
 lnxdf5.duckdns.org
@@ -348494,6 +348500,7 @@ sndbnlrdrpymcbkglgtt.cfd
 sndbnmgbiolmamlisin.cfd
 sndbrdasngeldnasd.icu
 sndbrdngmnkpmlsin.icu
+snde-alsvrslrde.com
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hemenbasvurkmpanyasiburada.com
@@ -351365,6 +351372,7 @@ sorgu.city
 sorgu.click
 sorgu.dev
 sorgu.digital
+sorgu.eturkiye.cv
 sorgu.fr
 sorgu.fun
 sorgu.khalexmarka.xyz
@@ -351381,6 +351389,7 @@ sorgu.site
 sorgu.space
 sorgu.us
 sorgu.world
+sorgu.wtf
 sorgu.xyz
 sorgu81.plus
 sorguadresi.site
