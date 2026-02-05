@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-05 08:28:46 UTC
-! Total: 349145 rules
+! Last modified: 2026-02-05 09:31:54 UTC
+! Total: 349161 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -61744,6 +61744,7 @@
 *://*.boaze.de/*
 *://*.bobbitopedia.com/*
 *://*.bobble8.xyz/*
+*://*.bobbush.org/*
 *://*.bobbyelectronics.xyz/*
 *://*.bobbyj.tk/*
 *://*.bobbylefleur.com/*
@@ -66919,6 +66920,7 @@
 *://*.busarkibendenbutunsevenleregelsin.xyz/*
 *://*.busarkilaringozukorolsun.xyz/*
 *://*.busarkimibensanayazdim.xyz/*
+*://*.buscacnpj.org/*
 *://*.buscas-icloud.com/*
 *://*.buschishtu.com/*
 *://*.busdgift.ml/*
@@ -66938,6 +66940,7 @@
 *://*.busgetrent.xyz/*
 *://*.bush2015.net/*
 *://*.bush447.xyz/*
+*://*.bushidomma.net/*
 *://*.bushikor.store/*
 *://*.bushinto.xyz/*
 *://*.bushoppression.top/*
@@ -67015,6 +67018,7 @@
 *://*.busngnlrdebyks.shop/*
 *://*.busnxidlmrnmsdlrmxidnx.space/*
 *://*.busonkampanyalariniz.net/*
+*://*.busopps.org/*
 *://*.busrajxd.info/*
 *://*.busrdaxkindsxmlrmnc-kapxidaxmsi.store/*
 *://*.bussaccfoundnew.com/*
@@ -81425,6 +81429,7 @@
 *://*.creamymonotony.top/*
 *://*.creamyunveil.top/*
 *://*.creases13.xyz/*
+*://*.creatday.com/*
 *://*.create-creative.com/*
 *://*.createacarepack.com/*
 *://*.createch.solutions/*
@@ -84085,6 +84090,7 @@
 *://*.dailyaddiction.top/*
 *://*.dailycashmap.com/*
 *://*.dailycontemplation.top/*
+*://*.dailydownloads.net/*
 *://*.dailyemploy.com/*
 *://*.dailyhouse-bpn.com/*
 *://*.dailylifelives.com/*
@@ -97375,6 +97381,7 @@
 *://*.dostmeclisi.fun/*
 *://*.dostodeme.site/*
 *://*.dostolalimpaketi.com/*
+*://*.dostpagasa.com/*
 *://*.dostpaketler.net/*
 *://*.dostsandik.ml/*
 *://*.dostseninderdinden.com/*
@@ -105211,6 +105218,7 @@
 *://*.easy-money20000.top/*
 *://*.easy1pass.xyz/*
 *://*.easyadorable.top/*
+*://*.easyboxsync.com/*
 *://*.easycep-bayramozel.com/*
 *://*.easycounter210.com/*
 *://*.easydriver.cloud/*
@@ -129194,6 +129202,7 @@
 *://*.freshcomplacency.top/*
 *://*.freshconnect.live/*
 *://*.freshcore.buzz/*
+*://*.freshdatainsights.org/*
 *://*.freshdepor.com/*
 *://*.freshdesk.com/*
 *://*.freshenvironmentaldesigns.com/*
@@ -179744,6 +179753,7 @@
 *://*.istlnx.xyz/*
 *://*.istltnbllkartl.com/*
 *://*.istlz.com/*
+*://*.istmalsma.com/*
 *://*.istmbclmell.net/*
 *://*.istmdfmsndfjk.net/*
 *://*.istmdsldfk.com/*
@@ -206833,6 +206843,7 @@
 *://*.majestik.lv/*
 *://*.majestiordeal.top/*
 *://*.majestyrecur.top/*
+*://*.majicbus.org/*
 *://*.majidfathalibeygi.com/*
 *://*.majimoeleanallin30minutes.com/*
 *://*.majlishookahlounge.com/*
@@ -244338,6 +244349,7 @@
 *://*.phmfnig.com/*
 *://*.phmobi.net/*
 *://*.phmqm7.cn/*
+*://*.phnompenhpost.net/*
 *://*.phnrqmspma.in/*
 *://*.phobic568.xyz/*
 *://*.phochain.com/*
@@ -278902,6 +278914,7 @@
 *://*.sokmarketsanalindirim.site/*
 *://*.sokmarketsanalindirimler.site/*
 *://*.sokmarketsceptefirsatlar.online/*
+*://*.sokmarketsepetim.cfd/*
 *://*.sokmarketsfirsatcepte.online/*
 *://*.sokmarketsokkampanya.site/*
 *://*.sokmarketsokucuz.site/*
@@ -284558,6 +284571,7 @@
 *://*.storagerootconnect.com/*
 *://*.storagesubscription.top/*
 *://*.storageswap.top/*
+*://*.storagesync.biz/*
 *://*.storagesyndrome.top/*
 *://*.storagetruncservices.com/*
 *://*.storagewarden.com/*
@@ -296540,6 +296554,7 @@
 *://*.todaymanagea.top/*
 *://*.todaynestimes.com/*
 *://*.todaynewsearchfuture.space/*
+*://*.todaynewsfetch.com/*
 *://*.todaynote.net/*
 *://*.todayoff.click/*
 *://*.todayorkampanyakatilandto.net/*
@@ -339535,6 +339550,7 @@
 *://*.yatirim-noktasi.pro/*
 *://*.yatirim-rehberi.net/*
 *://*.yatirim-sinyal.info/*
+*://*.yatirim-taktikleri.info/*
 *://*.yatirim-taktikleri.life/*
 *://*.yatirim-ufku.online/*
 *://*.yatirim-vizyonu.info/*
