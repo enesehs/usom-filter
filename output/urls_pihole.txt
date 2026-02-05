@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-05 10:28:57 UTC
-# Toplam: 437714 Domain
+# Son Güncelleme: 2026-02-05 11:26:01 UTC
+# Toplam: 437721 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16207,6 +16207,7 @@
 5ssj5y.duckdns.org
 5subatindirimsleri.com
 5subatsiparisolustur.cloud
+5subatsokmarketepetim.cfd
 5svldteso.duckdns.org
 5t5dur10ixqj7.ddns.net
 5t8505s5.duckdns.org
@@ -56789,6 +56790,7 @@ bafkreihpvn2wkpofobf4ctonbmzty24fr73fzf4jbyiydn3qvke55kywdi.ipfs.dweb.link
 bafpogwbxyrsxpocp.org
 bafrayrdmkurumsal.com
 bafrayrdmkurumu.com
+bafybeiaj6jw2xhbppgji757tn3hg5uu6splaa5gyydkwnzwprzakcp44ve.ipfs.w3s.link
 bafybeiaywgh65gdjzi64j5qzvik3j72ii5jn7n2j37ahk74liop6usdgyi.ipfs.dweb.link
 bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
 bafybeic7e4ii3ktiavsweaakqrklywixn5fwcwpnqldj6hjpsyoaemvwuu.ipfs.dweb.link
@@ -58038,6 +58040,7 @@ barbercrisp.top
 barberdemographic.top
 barberfuse.top
 barberink.biz
+barbermoo.coupons
 barbermoo.fun
 barbermoo.shop
 barbermoo.space
@@ -146408,6 +146411,7 @@ erigeliyormusyaiyi.xyz
 erihudeg.com
 erijmtyv7tabol5puro.ddns.net
 erik-btc.com
+erik22.carrd.co
 erik22jomk77.card.co
 erikaputriviral2023.duckdns.org
 erikareese347.xyz
@@ -224256,6 +224260,7 @@ izldsfirsaticno.dns.navy
 izldskm.blogspot.com
 izldskuzicnm.blogspot.com
 izlebasvurunutr.com
+izledeaglaaaaaacano-4301a3eda6c4.herokuapp.com
 izledekudur.cfd
 izleditummahalle.com
 izledurit.cfd
@@ -303136,6 +303141,7 @@ petrollspace.com
 petrollsupport.com
 petrolmce.top
 petrolme-way.com
+petrolofic.top
 petrolofis.com
 petrolofisi-bites.com
 petrolofisi-tr.com
@@ -384600,6 +384606,7 @@ tuvturkunuz.net
 tuvturkwebhizmet.com
 tuvturkyuklekac.com
 tuvturkz.digital
+tuvturkzz.digital
 tuvturmuaynesistemleri.com
 tuvturrk-34aracmuayeneex.net
 tuvturrk-muayene.com.tr
