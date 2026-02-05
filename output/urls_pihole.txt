@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-05 15:29:14 UTC
-# Toplam: 437791 Domain
+# Son Güncelleme: 2026-02-05 16:31:16 UTC
+# Toplam: 437800 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57144,6 +57144,7 @@ bakircayedu.godaddysites.com
 bakirkomeom.com
 bakiroglu.com.tr
 bakisi.com
+bakiskuresi.net
 bakislar-hic-sapmaz-sende-bunlara-sahit-ol.com
 bakislarinizi-bir-cirpida-kazandiran-mutluga-gelin.com
 bakit.duckdns.org
@@ -118455,6 +118456,7 @@ devindirimdesonsaatler.com
 devindirimgunleri.com
 devindirimimlifirsatlarim.com
 devindirimkarac.sa.com
+devindirimlerbuyukfirsatlar.cfd
 devindirimlersezonsonnu101.xyz
 devindirimliurunlerim.com
 devindirimpaketleri.com
@@ -144224,6 +144226,7 @@ enlighteningdegeneration.top
 enlighteningnotoriety.top
 enlightenmentfact.top
 enlimit.fun
+enlimit.homes
 enlimit.shop
 enlimit.site
 enlimit.store
@@ -261136,6 +261139,7 @@ meetgravon.store
 meethub.gg
 meeti.duckdns.org
 meeti.hopto.org
+meeti.online
 meeti12.hopto.org
 meeting.bulletmailer.net
 meeting.equitaligaiustizia.it
@@ -276526,6 +276530,7 @@ netco305.ddns.net
 netco500.ddns.net
 netco803.ddns.net
 netcode-alert.ddns.net
+netdekampanya.my-homeip.net
 netden.my-homeip.de
 netdestekler.tk
 netdigitalturk.com
@@ -397149,6 +397154,7 @@ verythingchat.xyz
 veryverygood589167587426.com
 veryweb.shop
 verywellfitnesse.com
+veryyfe.online
 veryysunnglasses.com
 vesalan.net
 vesalana.net
@@ -398430,6 +398436,7 @@ vixmenor.com
 vixolita.sbs
 vixonar.com
 vixx4dwv.duckdns.org
+viyau.cn
 viyhxb.cn
 viyiper.zapto.org
 viz.hopto.org
@@ -400333,6 +400340,7 @@ vueloempresarial.duckdns.org
 vueqefixahafgu.ddns.net
 vuferyophge.click
 vufrgunzamanidir.tk
+vugca.cn
 vuhgatoi.com
 vuhgsci.rf.gd
 vuhhtlylyl.duckdns.org
@@ -405776,6 +405784,7 @@ whatsapp-comqb.bar
 whatsapp-grubinvite.duckdns.org
 whatsapp-grup-bokep02.duckdns.org
 whatsapp-huberfenster.ddns.net
+whatsapp-meeting.duckdns.org
 whatsapp.ddns.net
 whatsapp.zapto.org
 whatsapp10.xyz
