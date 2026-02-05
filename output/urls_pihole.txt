@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-05 19:30:10 UTC
-# Toplam: 437831 Domain
+# Son Güncelleme: 2026-02-05 20:23:36 UTC
+# Toplam: 437837 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -41514,6 +41514,7 @@ alevsdvdsglk-bs.net
 alevsdvdsglk-bs12.net
 alevxxbizmr.net
 alex-botnet.xyz
+alex-fabow.online
 alex-frost.com
 alex-mendez-fire.info
 alex.hopto.org
@@ -259529,6 +259530,7 @@ matraca.cc
 matraxe.com
 matriksyatirim.com
 matrix-partners.theworkpc.com
+matrix.cymru
 matrix123.ddns.net
 matrixane.com
 matrixhack9.ddns.net
@@ -306339,6 +306341,7 @@ postahs.help
 postaisyerin.xyz
 postakargo.site
 postakazentes.net
+postal-form.on.shiper.app
 postal-mail.hopto.org
 postalecerticodep.hopto.org
 postalefr.ddns.net
@@ -335967,6 +335970,7 @@ sec-pttavm.com.tr
 sec-pttavm.info.tr
 sec-redirect.zapto.org
 sec-sahibinden.com.tr
+sec-t2.fainerkern.ru
 sec-tr.website
 sec-ure01verify.zapto.org
 sec-ure05al0g.hopto.org
@@ -360412,6 +360416,7 @@ svbseloxpzts.net
 svbseloxsali.club
 svbseloxsali.co
 svbseloxsali.com
+svc-int-api-identity-token-issuer-v2-mn.in.net
 svc.ponethus.com
 svcdgb3n1bi63pkrylq.ddns.net
 svch0st.zapto.org
@@ -369579,6 +369584,7 @@ tickets-ska.com
 tickets-spartak.com
 tickets-surganova.com
 tickets-zveri.com
+tickets.pfoten-prinz.de
 ticketscircus.spb.ru
 ticketscomedy.ru
 ticketsevent-uae.com
