@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-06 15:28:22 UTC
-! Total: 349373 rules
+! Last modified: 2026-02-06 16:29:18 UTC
+! Total: 349384 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14863,6 +14863,7 @@
 *://*.a101marketcep.com/*
 *://*.a101marketim.com/*
 *://*.a101marketim.online/*
+*://*.a101marketin.com/*
 *://*.a101marketindirim.com.tr/*
 *://*.a101marketinizgeldi.xyz/*
 *://*.a101marketkapinda.com/*
@@ -46518,12 +46519,14 @@
 *://*.belgeciniz.com/*
 *://*.belgedogrulamaonay.org/*
 *://*.belgeiadeniz.com/*
+*://*.belgeislemleri.xyz/*
 *://*.belgekayitet.com/*
 *://*.belgekontrolet.com/*
 *://*.belgekoruma.pro/*
 *://*.belgemaktif.com/*
 *://*.belgeodemeleriniz.com/*
 *://*.belgeonaydogrula.org/*
+*://*.belgeonaymerkezi.xyz/*
 *://*.belgeportali.xyz/*
 *://*.belgepqsqport.net/*
 *://*.belgetunceli.net/*
@@ -91473,6 +91476,7 @@
 *://*.destek-tamamlama-ekrani.store/*
 *://*.destek-telif-merkezi.xyz/*
 *://*.destek-telifhakki.com/*
+*://*.destek-ticimax.net/*
 *://*.destek-turkiye-giris-kapisi.com/*
 *://*.destek-turkiye-gov.com/*
 *://*.destek-turkiye-pandemi.com/*
@@ -144489,6 +144493,7 @@
 *://*.guzel-saran-bizleri-pamukta-yarar-sarariz.com/*
 *://*.guzelalisverishemen.xyz/*
 *://*.guzelalisverisler.xyz/*
+*://*.guzelanilarbiriktirdik.com/*
 *://*.guzelaylar.sbs/*
 *://*.guzelaylisubelerindeinanilmazdeveller.com/*
 *://*.guzelbasliyorhersey.com/*
@@ -151418,6 +151423,7 @@
 *://*.hayatin-surprizlerinden-beklentiniz.com/*
 *://*.hayatin-tadina-varmak-icin.top/*
 *://*.hayatinbaglantilarlaornenyanizi.xyz/*
+*://*.hayatindabizikapindabulunur.com/*
 *://*.hayatindakiguzelanlar.com/*
 *://*.hayatindakiguzellikler.com/*
 *://*.hayatindakikapindabulur.com/*
@@ -188502,6 +188508,7 @@
 *://*.kampanyalarbugunfirsat.shop/*
 *://*.kampanyalarburada.online/*
 *://*.kampanyalarburada.store/*
+*://*.kampanyalarburada.xyz/*
 *://*.kampanyalarca.icu/*
 *://*.kampanyalarda-buyukyilsonu-firsati.shop/*
 *://*.kampanyalardabugunlerde.cfd/*
@@ -242560,6 +242567,7 @@
 *://*.patelk.online/*
 *://*.patent856.xyz/*
 *://*.patentattorneyscalifornia.com/*
+*://*.patentharc-gov-tr.site/*
 *://*.patentharc.com/*
 *://*.paternalen.com/*
 *://*.paternenabler.com/*
@@ -283993,6 +284001,7 @@
 *://*.stanleytekliftermosteklfisbursda.store/*
 *://*.stanleytekrliftemrsdbrda.com/*
 *://*.stanleytemrostkelisdbudsaasdaa101.com/*
+*://*.stanleytemrsoteklfisburds.store/*
 *://*.stanleytereklstrmosa101.store/*
 *://*.stanleyterkmsoteklfisburdsa101.com/*
 *://*.stanleytermos.xyz/*
@@ -293951,6 +293960,7 @@
 *://*.tereforafoe.buzz/*
 *://*.terekne.net/*
 *://*.terekyasendedereler.net/*
+*://*.terencuasd.com/*
 *://*.terendmicro.com/*
 *://*.terenium.com/*
 *://*.teressanilam.com/*
@@ -341460,6 +341470,7 @@
 *://*.yeniseyahatvedogalgeziler.xyz/*
 *://*.yenisezondakatilim.com/*
 *://*.yenisezondev-firsatlar.shop/*
+*://*.yenisezondev-kampanyalari.shop/*
 *://*.yenisezondevfirsatlar.shop/*
 *://*.yenisezondevkampanyalari.shop/*
 *://*.yenisezonunsonindirimleri.net.tr/*
