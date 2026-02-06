@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-06 21:23:17 UTC
-! Total: 349411 rules
+! Last modified: 2026-02-06 22:10:47 UTC
+! Total: 349413 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65463,6 +65463,7 @@
 *://*.bufferbud.top/*
 *://*.bufferdetention.top/*
 *://*.buffet1235.xyz/*
+*://*.bufirrsatlargaranttide.com/*
 *://*.bufirsat1o1deaslakacmaz.com/*
 *://*.bufirsataldina101comtr.site/*
 *://*.bufirsataldinaldinda-101comtr.online/*
@@ -112217,6 +112218,7 @@
 *://*.eliteeyeview.co/*
 *://*.elitegaming-usa.com/*
 *://*.eliteheirs.org/*
+*://*.elitemotorsea.store/*
 *://*.eliteneatproductshop.com/*
 *://*.eliteride.limo/*
 *://*.elitesurroundfish.top/*

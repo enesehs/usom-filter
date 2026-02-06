@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-06 21:23:17 UTC
-# Toplam: 438014 Domain
+# Son Güncelleme: 2026-02-06 22:10:47 UTC
+# Toplam: 438017 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85737,6 +85737,7 @@ bufferbud.top
 bufferdetention.top
 buffet1235.xyz
 buffetfactory.oicp.io
+bufirrsatlargaranttide.com
 bufirsat1o1deaslakacmaz.com
 bufirsataldina101comtr.site
 bufirsataldinaldinda-101comtr.online
@@ -141657,6 +141658,7 @@ eliteconnoisseur.vip
 elitegaming-usa.com
 eliteheirs.org
 elitehost.ddns.net
+elitemotorsea.store
 eliteneatproductshop.com
 eliteride.limo
 elitesurroundfish.top
@@ -357278,6 +357280,7 @@ sturdys-id5832.world
 sturdyversatile.top
 sturt.xyz
 stutorialretort.top
+stv-get-g-rn.myonlineportal.at
 stv-gr-ln-t.my-homeip.net
 stvbimcellguncelll.com
 stvrqhecmo.duckdns.org
