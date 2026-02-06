@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-06 14:32:17 UTC
-! Total: 349366 rules
+! Last modified: 2026-02-06 15:28:22 UTC
+! Total: 349373 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7185,6 +7185,7 @@
 *://*.26ocakdrinkarislerin.cloud/*
 *://*.26ocakfirsatlari.shop/*
 *://*.26ocaksiparislerin.cloud/*
+*://*.26ocaktasepete.online/*
 *://*.26ocaktasiparislerver.cloud/*
 *://*.26sarantarz.click/*
 *://*.26subartbiz.click/*
@@ -80918,6 +80919,7 @@
 *://*.cosmicpharma-bd.com/*
 *://*.cosmoforge.site/*
 *://*.cosmonavt-tickets.ru/*
+*://*.cosmonyxa.com/*
 *://*.cosmopolitan.day/*
 *://*.cosmopolitanaccessory.top/*
 *://*.cosmopolitanhybrid.top/*
@@ -91494,6 +91496,7 @@
 *://*.destekailehibebasvurulari.com/*
 *://*.destekailemudurlugu.com/*
 *://*.destekal2021.com/*
+*://*.destekalanim.com/*
 *://*.destekalanvurduruyordur.fit/*
 *://*.destekalgovtr.org/*
 *://*.destekalpandemi2021.com/*
@@ -172389,6 +172392,7 @@
 *://*.indirimstore.online/*
 *://*.indirimstore.site/*
 *://*.indirimsubat.cfd/*
+*://*.indirimsubatortalari.cfd/*
 *://*.indirimtemmuzhizmetleri.com.tr/*
 *://*.indirimtentfirsatlarisi.cfd/*
 *://*.indirimtentfirsatlarisi.icu/*
@@ -194026,6 +194030,7 @@
 *://*.kgmgovot.top/*
 *://*.kgmgovr.top/*
 *://*.kgmgovs.sbs/*
+*://*.kgmgovt-r.bond/*
 *://*.kgmgovt.cc/*
 *://*.kgmgovt.top/*
 *://*.kgmgovtr.bond/*
@@ -208615,6 +208620,7 @@
 *://*.marsigortam.site/*
 *://*.marsinscusca.cfd/*
 *://*.marsinscusca.sbs/*
+*://*.marsulya.click/*
 *://*.marsupiany.org/*
 *://*.mart-aktarimlar-ekrani.my/*
 *://*.mart-aktarimlari-basladi.cyou/*
@@ -290019,6 +290025,7 @@
 *://*.tazegundem.online/*
 *://*.tazekarskasarisatilir.com/*
 *://*.tazeurunlerguvenlialisverisadresin.cfd/*
+*://*.tazeyazilar.com/*
 *://*.tazminatmerkezi.com/*
 *://*.tb0jx31.cn/*
 *://*.tb12.tk/*
