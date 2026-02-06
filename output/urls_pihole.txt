@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-06 07:37:55 UTC
-# Toplam: 437857 Domain
+# Son Güncelleme: 2026-02-06 08:26:53 UTC
+# Toplam: 437886 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51286,6 +51286,7 @@ assetscash.com
 assetsreserve.com
 assetstorage.net
 assettocorsa.ddns.net
+assettsignal.com
 assettsphere.com
 assetvra.com
 asshashdhasdv.net
@@ -66521,6 +66522,7 @@ bildirim-destek.ga
 bildirim-hasar-tram.net
 bildirim-hizmet-iedevlet.com
 bildirim-merkezi.cfd
+bildirim-merkezi.click
 bildirim-onay.net
 bildirim-onaycep.xyz
 bildirim-tr.com
@@ -140831,6 +140833,7 @@ ekonomiegitimi.org
 ekonomiexpert.pro
 ekonomifirsat.online
 ekonomiflow.live
+ekonomifrekansi.info
 ekonomigelisimturkiye.site
 ekonomigoz.online
 ekonomiguncel.org
@@ -173761,6 +173764,7 @@ globalsistem-hemenbasvurunuyap.com
 globalsistem-onlinebasvurunuyap.com
 globalsistembasvurumerkezi.com
 globalsistemlerimiz.com
+globalsnexuslabs.com
 globalsnn1-new.cc
 globalsnn2-new.cc
 globalsnn3-new.cc
@@ -178207,6 +178211,7 @@ guncelbaglanti.com.tr
 guncelbaglanti.online
 guncelbaglantili.online
 guncelbaharindirimleri.com.tr
+guncelbakis.net
 guncelbasvurmakaydimerkezi-tr.com
 guncelbasvurubnanceicinaciltiklayin.tech
 guncelbasvuruicinaciltiklayin.online
@@ -178735,6 +178740,7 @@ gunclislmlr.app
 gunclnufus.net
 guncrfirsatlari.cfd
 guncright.is-best.net
+gundahaber.com
 gunde-endolufrst.online
 gunde-nakt.net.tr
 gundelik.icu
@@ -178761,6 +178767,7 @@ gundemhatti.store
 gundemintsube-com.gq
 gundemintsube-com.ml
 gundemkazani.name.tr
+gundemneti.com
 gundemodeme.tk
 gundemyatirim.online
 gundigundikral.xyz
@@ -188221,6 +188228,7 @@ hayalindeki-yasam-burada-gerceklesiyor.com
 hayalindeki-yenilikler-yuzune-nese-getirdi.com
 hayalindeki.com
 hayalindekidunya.com
+hayalindekidunyakapinda.cfd
 hayalindekiguzellikler.top
 hayalindekikapinageldi.cfd
 hayalindekikapinageldi.com
@@ -202242,6 +202250,7 @@ hoticvip.top
 hoticvipday.com
 hotieuank-59844.portmap.io
 hotii.ddns.net
+hotipuku.pro
 hotjar.info
 hotjotchi.com
 hotkelab18.hopto.org
@@ -211617,6 +211626,7 @@ incrediblynegligent.top
 incrediblyvalve.top
 incsbetr.top
 incsubem.today
+incubhub.com
 inculcate333.xyz
 inculcuupf.com
 incumbentbenevolent.top
@@ -246107,6 +246117,7 @@ kulsams.com
 kult.mydiscussion.net
 kultur-plaza.xyz
 kulturalnygrod.lat
+kulturday.com
 kulturelanimasyonvesanat.xyz
 kulturelbellek.space
 kulturelmiras.online
@@ -287530,6 +287541,7 @@ online-geri-sorgu2025.cfd
 online-geriaktarmavesorgulama-ekrani.site
 online-geriye-donuk-sorgu.my
 online-geriyedonukaktarimlarekrani.store
+online-geriyedonukislemleriniz.sbs
 online-get-alisveris.com
 online-get-satinal.com
 online-getislem.com.tr
@@ -304242,6 +304254,7 @@ piyasa-akis.info
 piyasa-kilavuz.info
 piyasa-sayfalar-web-in.ru.com
 piyasa-yatirimi.info
+piyasa360world.world
 piyasaakisi.org
 piyasabasassa.xyz
 piyasaekspres.online
@@ -305017,6 +305030,7 @@ plugman1.ga
 plugvo.com
 pluifwyiuxeavj.me
 plumagrade.shop
+plumbandelec.com
 plumberdepiction.top
 plumberpreceding.top
 plumberscrutinize.top
@@ -305807,6 +305821,7 @@ populer-market-aktuel-ve-kampanya-katalogu.cfd
 populer-market-firsat-listesi.cfd
 populeranimaserverdunyasi.xyz
 populeranimaserverkaliteleri.xyz
+populerguncel.online
 populermarketlerinindirimlikataloglari.cfd
 populersitem.xyz
 populerurun.name.tr
@@ -309841,6 +309856,7 @@ psafgd-avyo-safsa-yewngd.company
 psaohn.com
 psas.pw
 psd-codec.com
+psdata.digital
 psdchool.net
 psdgkpfsjkmfdls.click
 psdivjthhq.duckdns.org
@@ -325164,6 +325180,7 @@ robo-erectus.org
 robo51.info
 roboarm.click
 robodaptica.com
+roboengine.click
 robooottkmngff.wiki
 roborobonsnsnn.net
 roboscchi.duckdns.org
@@ -328090,6 +328107,8 @@ sadece-online-aldin-aldin-kampanya-urunler116.online
 sadece-online-mobil-ozel.mooo.com
 sadece-online-ozel-aldin-aldin-kampanyasi101.shop
 sadece-online-ozel-aldin-aldin-kampanyasi107.shop
+sadece-online-ozel-firsatlar-kaplnda.store
+sadece-online-ozel-hepsi-var.online
 sadece-online-ozel-indirimler-cep-tr.xyz
 sadece-online-ozel-kampanya101.com
 sadece-online-ozel-kampanya102.shop
@@ -329378,6 +329397,7 @@ sahibinden-get.ealimmobil.com
 sahibinden-get.emobilservislerim.com
 sahibinden-get.eonayservishizmetin.com
 sahibinden-get.eservisalimlar.com
+sahibinden-get.eurun-onayi-hizmetler.com
 sahibinden-get.eurun-servis-hizmetler.com
 sahibinden-get.eurunlerhizmetiniz.com
 sahibinden-get.eurunservisiniz.com
@@ -345044,6 +345064,7 @@ silkycow.pw
 silkyjack.top
 sillldkisteaqq.com
 silly-satoshi.81-28-4-131.plesk.page
+sillyvoice.com
 silmeyinburdsa2kidomainleri.xyz
 silmeyinburdsafkidomainleri.xyz
 silmeyinburdsakidomainleri.xyz
@@ -356676,6 +356697,7 @@ storeagroculturnaya.ru
 storeamor.top
 storeapp-idwebapps.com
 storeapp-ttmobil.com
+storebrigade.tech
 storecep-ttonline.com
 storecraft.org
 storedomainsinirsiz.online
@@ -386135,6 +386157,7 @@ ucretini-al-basvuru-sayfasi-e-platform.xyz
 ucretkesimbimcell.com
 ucretlerim-ebasvurular-sayfasi-giris-site.xyz
 ucretlgecisportal.org
+ucretli-tanitim.sbs
 ucretligecigs.org
 ucretligecisiniyisi.net
 ucretligecisinkrali.net
@@ -386198,6 +386221,7 @@ ucrtln6001206.online
 ucshgsm.com
 ucsnesavvas.net
 ucsp.xyz
+uctagelllllllliiiil-84c1b3048962.herokuapp.com
 ucubayilerimiz.is-best.net
 ucubeler22.com
 ucubeler31.net
@@ -395374,6 +395398,7 @@ veliarsl2andik2knk.site
 veliarthur.site
 velicevher.xyz
 veligalicvrba.cfd
+velinforge.com
 velingkome.de
 velinizkim72.xyz
 velinoleyva.org
@@ -395414,6 +395439,7 @@ veltru.click
 veltru.digital
 veltrunz.com
 velttrixora.com
+velunaxi.com
 veluntra-technology-productivity-boost-cold-pine-8f29.ellenplum9.workers.dev
 velupra.pro
 velvest.xyz
@@ -397581,6 +397607,7 @@ vibaavaacademy.com
 vibbank.site
 vibecrate.store
 vibehubb.com
+vibeobserver.online
 vibeolskemd.net
 vibeportal.ddns.net
 viberapp.app
@@ -419988,6 +420015,7 @@ xn--sub-teb-c9a.com
 xn--subat-kampanyalar-denizbankkgt-jre.com
 xn--subat-kampanyas-denzbank-4vde.com
 xn--subat-kampanyas-denzbank-basvuru2020-tmfe.com
+xn--subat-lapwdplada-rhce.com
 xn--subatkampanyalardenizbankkgt-ehe.com
 xn--subattasonfrsat-ilc.shop
 xn--subattasonfrsatlar-o0c.online
@@ -427832,6 +427860,7 @@ yeniyasaaidaatiadeesi.com
 yeniyasamdenizleguzeldir2024.com
 yeniyasyenicekilis.com
 yeniyatirimacikdenizmobil.com
+yeniyatirimfikri.com
 yeniyazacikdenizkampanya.com
 yeniyazbasvurlari2024.com
 yeniyazfirsati-ziraatten.com
