@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-06 12:28:29 UTC
-# Toplam: 437910 Domain
+# Son Güncelleme: 2026-02-06 13:52:56 UTC
+# Toplam: 437956 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -33647,6 +33647,7 @@ ahkok.ddns.net
 ahkshkgzlsr.jumpingcrab.com
 ahlam1212.ddns.net
 ahlatcikuyumculukaltin.com
+ahlatcimenkuldegerler.com
 ahlatciwebyatirim.com
 ahlatyatirimkiymetler.com.tr
 ahlbrandt.eu
@@ -45553,6 +45554,7 @@ anlikarackiralama.com
 anlikbasvuru.xyz
 anlikbasvurusistemi12.duckdns.org
 anlikbildirim.sbs
+anlikbilgi.org
 anlikbufrstlardanfaydalanirsin.shop
 anlikderscalisma.com
 anlikeiadodeme.page.gd
@@ -51902,6 +51904,7 @@ atom-tickets-data.com
 atom-tickets-ppc.com
 atomic-nt.ddns.net
 atomic-structure-worksheet.today
+atomicflowbase.xyz
 atomicjournal.com
 atomicmassive.com
 atomicregiment.top
@@ -66524,6 +66527,7 @@ bildirim-hasar-tram.net
 bildirim-hizmet-iedevlet.com
 bildirim-merkezi.cfd
 bildirim-merkezi.click
+bildirim-merkezi.sbs
 bildirim-onay.net
 bildirim-onaycep.xyz
 bildirim-tr.com
@@ -66754,6 +66758,7 @@ bilgikaynagi.cfd
 bilgikaynagi.info
 bilgikontrolsaglama.com
 bilgikontrolyeri.com
+bilgikuresi.world
 bilgikus.info
 bilgikusu.org
 bilgilaw.net
@@ -82334,6 +82339,7 @@ bookitlab.tech
 bookkeepbreeze.com
 bookkeepersewfer.info
 bookkeepingbypros.com
+bookletcougartraffic.com
 booklethouse.com
 booklng-guest-hub.com
 booklng-guestcheck.com
@@ -92255,6 +92261,7 @@ caxtuxs.duckdns.org
 caxxxtrlgw.duckdns.org
 cay-makinesi.online
 cay6pp.duckdns.org
+cayatiw.xyz
 caydanlik-firsat.biz.tr
 caydanlik-firsat.com.tr
 caydanlik-firsat.info.tr
@@ -93462,6 +93469,7 @@ celsperial.hopto.org
 celssa.com
 celticso.ru
 celvin.ddns.net
+celvonex.com
 cem59d8hw.duckdns.org
 cemaatkmpanyasi.duckdns.org
 cemalakka.fit
@@ -96576,6 +96584,7 @@ chucumi2019.zapto.org
 chucumite2023.hopto.org
 chudresex.at
 chudresex.cc
+chugdullnurture.today
 chujianduimaquanhuigongchangmogu.top
 chuka.zapto.org
 chuks.hopto.org
@@ -105844,6 +105853,7 @@ crfsdnzhizlicagldiler.info
 crfsdyncrfsyagldmbncrfasa.com
 crfsgnleri.cfd
 crfshiperkampgnbugn.sbs
+crfshipermrk.cfd
 crfskfrsata.cfd
 crfskfrsata.sbs
 crfsmhmnal.shop
@@ -121211,6 +121221,7 @@ dijitalmobilin-denizacik.com
 dijitalmobilislem-ziraat.com
 dijitalmobilislemler-denizacik.com
 dijitalmobilislemler-ziraat.com
+dijitalmobilislemler-ziraatbireyselweb.com
 dijitalmobilislemleri-ziraat.com
 dijitalmobilkampanya-ziraatbireysel.com
 dijitalmobilkanal-ziraatbireysel.com
@@ -138245,6 +138256,7 @@ edugamerbr.ddns.net
 edugay.ddns.net
 edujikim.com
 edukid.info
+eduloria.com
 edunans.zapto.org
 edupoliceam.info
 edurestunningcrackyow.fun
@@ -140899,6 +140911,7 @@ ekonomiportali.com
 ekonomiportali.info
 ekonomiportali.online
 ekonomiportali.org
+ekonomipostasi.info
 ekonomipulse.com
 ekonomipulse.info
 ekonomipulse.world
@@ -140921,6 +140934,7 @@ ekonomivizyonu.online
 ekonomix.online
 ekonomix.world
 ekonomiyontemm.com
+ekonomiyorumlari.com
 ekonommax.com
 ekontor.org
 ekontrolonlinegiris.com.tr
@@ -143516,6 +143530,7 @@ endlvidlxd.com
 endofjanuarycampaignjoinandwin.cloud
 endofyour.ink
 endogrusudunyalarmobilityhesaplaronayilariozel.run.place
+endoplazmikretikulum-37a7d414c973.herokuapp.com
 endopterygota.com
 endoracraft.hopto.org
 endorsecons.top
@@ -156586,6 +156601,7 @@ finansvakti.pro
 finansvizyon.life
 finansvizyon.pro
 finansvizyonu.org
+finansyatirimi.com
 finansza.com
 finanszone.online
 finanzas-inteligentes.org
@@ -163069,6 +163085,7 @@ fustahermetic.com
 fustcheckcontrol.com
 fusui123.com
 fut-bit.com
+fut-tr.com
 futboldenizhasereilaclamacisesveres.site
 fute1.hopto.org
 futedalitt.space
@@ -173057,6 +173074,7 @@ gitae.duckdns.org
 gitagla.sbs
 gitanes.zapto.org
 gitanes82.zapto.org
+gitazi.click
 gitbrancher.com
 gitbusercontent.com
 gitcloudcache.com
@@ -174616,6 +174634,7 @@ golgeler-isiklar-yansimalar-derinlikte.com
 golgeler-isiklar-yansimalar-uzaklarda.com
 golgemarka.xyz
 golgfcpmoz.duckdns.org
+golgii-d44fcbfc4736.herokuapp.com
 golhgss.com
 goliaaatmzfrstr.com
 goliathstoneindustries.com
@@ -175461,6 +175480,7 @@ govho.cc
 goviadehzmtlerimz.net
 goviadesitesi.com
 govihlashaber.org
+govinaly.com
 govio.top
 goviptt.top
 govjobs.top
@@ -181864,6 +181884,7 @@ haberacademy.site
 haberacademy.xyz
 haberajansi.email
 haberajansred.xyz
+haberakinti.com
 haberakisi.shop
 haberakisi.site
 haberaldevtr.dev
@@ -182087,6 +182108,7 @@ habermasal.site
 habermasal.website
 habermedya365.sbs
 habermedyaadresi.xyz
+habermercek.online
 habermerkez.my-homeip.com
 habermerkez.online
 habermerkez.site
@@ -224176,6 +224198,7 @@ izdssacvvgnceel.net
 izdzdzimrgl.net
 izefbeys.info
 izehbruc.com
+izelbbs.dns.navy
 izeldasbcvc.blogspot.com
 izeldasknknbr.blogspot.com
 izeldasonlineca.dns.navy
@@ -235617,6 +235640,7 @@ karssubelerindeindirim.xyz
 karssubelerindekampanya.online
 karssubesi.com.tr
 karssubesi.xyz
+karsuya.click
 karsvegas.surf
 kart-aidat-aidesi.com
 kart-aidat-al.com
@@ -239020,6 +239044,7 @@ kgm-trgov.qpon
 kgm-trgov.sbs
 kgm-trm.cfd
 kgm-vvc.top
+kgm.cdbtrq.online
 kgm.govtek.help
 kgm.gzdmxw.help
 kgm.jbbang.com
@@ -246143,6 +246168,7 @@ kulturlers.org
 kultursahnesi.space
 kulturvemevlana.net
 kulturvesanatprojelerindogalteknikler.xyz
+kulturway.com
 kumanda.site
 kumanda2.site
 kumandalarimiz.site
@@ -254141,6 +254167,7 @@ lvsbfamux.com
 lvsbmcell.com
 lvshilc.com
 lvskargo.org
+lvt-tvo-b-g-rn.myonlineportal.at
 lvt1lp1d5.duckdns.org
 lvtiebyuyv.duckdns.org
 lvuurgbuyu.duckdns.org
@@ -264125,6 +264152,7 @@ minedroid.zapto.org
 mineevdepaketleme.com
 mineexcavator.com
 minekurumu.com
+mineorehub.com
 minepayload.com
 minepool.in
 mineraldiesel.top
@@ -271755,6 +271783,7 @@ muallematsela.com
 mualotgaa.duckdns.org
 muanelerxmodme.net
 muaonline.shop
+muasvddfid.com
 muatay.live
 muavnen.com
 muaxuanmedia.com
@@ -277730,6 +277759,7 @@ nextroundst.com
 nextroute.click
 nextsbmcl.net
 nextscape.store
+nextselcuk.top
 nextspnl-erisimbenim.com
 nextssbmcel.net
 nextstepmodern.top
@@ -280033,6 +280063,7 @@ notebooktextcheckings.com
 notebooktexts.azurewebsites.net
 notegeneraton.top
 notegraw.zapto.org
+notehelperai.com
 notehostxvb.cfd
 notely.fun
 notenookbook.com
@@ -280610,6 +280641,7 @@ nsasd-sasa.net
 nsatastdddd.duckdns.org
 nsatasttt.duckdns.org
 nsatatte.duckdns.org
+nsatawt.blogspot.com
 nsatc.agency
 nsazasksa.net
 nscinfo.ddns.net
@@ -284052,6 +284084,7 @@ od84yjby.duckdns.org
 od9.us
 oda6y.is-best.net
 odabirmuneyli.b-cdn.net
+odakgundem.com
 odakli.name.tr
 odakmedya.site
 odakvakfi.org
@@ -287586,6 +287619,7 @@ online-girisformbasvuru.tk
 online-girisi-halkbank.com
 online-girisvakifmobilbireysel.ml
 online-giriswebislemlergovtr.tk
+online-girsiniz-tr.cfd
 online-gov-tr-online-aidat-kontrol-sistemi-aspx.tk
 online-gov.org
 online-guvence-tr.online
@@ -291356,6 +291390,7 @@ opaquetranquil.top
 oparator.22web.org
 opautoclick.ddns.net
 opavfk.com
+opazaraktuelnew.com
 opbafindi.com
 opbimcell.com
 opbiouybrrojkok.su
@@ -292008,6 +292043,7 @@ orenthialuxira.my
 oreprospect.com
 oresamucsai.sbs
 orestporest1.hopto.org
+orestrata.com
 oretaturizm.xyz
 orethoenmsfleasd.com
 orethomenesfleskples.cloud
@@ -293420,6 +293456,7 @@ otu6wp7bkvqrgdm45n1.ddns.net
 otukenyardim.com
 otur.itemdb.com
 oturbianlatayim.za.com
+oturbrocak.duckdns.org
 oturlsadoelk.net
 oturtma.itemdb.com
 oturtma.proxydns.com
@@ -304011,6 +304048,7 @@ pinmow.top
 pinnacell.com
 pinnacleweld.co.za
 pinnedplace.com
+pinnyeniyils.online
 pinoe.shop
 pinokino.fun
 pinonaoshsfpaohjgadsf.buzz
@@ -306724,6 +306762,7 @@ powerhost.zapto.org
 powerikj.biz
 powerimminent.top
 powerless.ejbruner.com
+powerlogiccenter.com
 powermakerting-work.com
 powernoderesources.com
 powerontheroad.org
@@ -315055,6 +315094,7 @@ qatrairwysbuyticket.net
 qatuat.ddns.net
 qatuk.org
 qavd3dj.duckdns.org
+qavimexo.shop
 qawfsdswqar.blogspot.com
 qawuqfbvvs.duckdns.org
 qaxz4wx.duckdns.org
@@ -323222,6 +323262,7 @@ resim.ac
 resimciziyorum.com
 resimdeki.name.tr
 resimdekiler.name.tr
+resimvisuals.pics
 resinelkeft.com
 resinstakipci.fun
 resistanceanalogous.top
@@ -350617,6 +350658,7 @@ sondonemkampanylari.com
 sondonemkampnyadanokta.com
 sondurakbimcell.net
 sondurum.app
+sondurum.org
 sonduyurular2024.com
 sonekanka.website
 sonerbutik.com
@@ -360201,6 +360243,7 @@ surekli-devamini-getirenler-biraz-onde.com
 surekli-gelmez-sizlere-yeniden-bizimle.com
 surekli-kargotakibi360.com
 surekligir8.b-cdn.net
+surekliguncel.online
 surekliyedek.online
 sureknob.top
 surelifrsatlara1o1kazanda.duckdns.org
@@ -384754,6 +384797,7 @@ tuvturks.com
 tuvturks.me
 tuvturks.org
 tuvturksabahlari.com
+tuvturksd.digital
 tuvturkse-d.digital
 tuvturksl.sbs
 tuvturksle.digital
@@ -404524,6 +404568,7 @@ website6615423.nicepage.io
 website66154773221.nicepage.io
 website6615477433.nicepage.io
 website6616875.nicepage.io
+website6617740546465.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
@@ -420032,6 +420077,7 @@ xn--stanbulkartyukleme-d0c.live
 xn--steamerretarded-1r9h.top
 xn--stronglarndvrandevmmm-vgd.net
 xn--sub-teb-c9a.com
+xn--subat-aawlpaawdaa-7lcb29j.com
 xn--subat-kampanyalar-denizbankkgt-jre.com
 xn--subat-kampanyas-denzbank-4vde.com
 xn--subat-kampanyas-denzbank-basvuru2020-tmfe.com
