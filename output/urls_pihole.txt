@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-06 10:27:22 UTC
-# Toplam: 437890 Domain
+# Son Güncelleme: 2026-02-06 11:23:44 UTC
+# Toplam: 437897 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -98621,6 +98621,7 @@ clippershipintl.com
 clippico.zapto.org
 clipstay.space
 clipstrong.top
+cliradon.com
 clisbemkj.com
 clite.10001mb.com
 cliveoperg.space
@@ -109926,6 +109927,7 @@ davadosya.com
 davadosyalari.org
 davadosyalarim.org
 davadosyasi.com
+davadosyasorgula.org
 davaesorgu.org
 davalayap.com
 davalidosyam.com
@@ -147811,6 +147813,7 @@ esxt-bnle.net
 esxt-bzlsn.net
 esxt-gldnz.net
 esxtmz-bzl.net
+esy-g-t-rn-w.my-homeip.net
 esyacekilisifiibakampanyasi.gq
 esyavarmiiiabe.app
 esyhgsm.com
@@ -188468,6 +188471,7 @@ hayatin-tadina-varmak-icin.top
 hayatinbaglantilarlaornenyanizi.xyz
 hayatindakiguzelanlar.com
 hayatindakiguzellikler.com
+hayatindakikapindabulur.com
 hayatindakiler.com
 hayatindakimutluluklar.com
 hayatindegeri.online
@@ -321914,6 +321918,7 @@ reklamcilerdm.cf
 reklamclick.shop
 reklamcll.store
 reklamda-urunx.com.tr
+reklamdan.mefound.com
 reklamdayim.xyz
 reklamdemon.icu
 reklamdemonis.icu
@@ -425872,6 +425877,7 @@ yazdenizdeguzel2019.com
 yazdenizkampanyalari.com
 yazdenizleguzel2019.com
 yazdevletdesteklernakdi.co.vu
+yazdigimherseyiadadimviomablessin.uk
 yazdigimkacincimektupppp.com
 yazdigital.net
 yazdijital.org
@@ -431992,6 +431998,7 @@ yurdicikargo.com.tr
 yurdumvakfi.com
 yuregimde-yankilanan-hatiralar.top
 yuregimkandisana.click
+yuregirtsmtkgmgovtr.weebly.noclick.com
 yuren94kfdodifvreh.site
 yurendevu.b-cdn.net
 yurenta.com
