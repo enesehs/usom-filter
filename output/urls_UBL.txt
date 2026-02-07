@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-07 18:23:05 UTC
-! Total: 349457 rules
+! Last modified: 2026-02-07 19:15:00 UTC
+! Total: 349461 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -151337,6 +151337,7 @@
 *://*.hayatbakis.org/*
 *://*.hayatbakis.site/*
 *://*.hayatbayram.online/*
+*://*.hayatbazenkapindabelirir.com/*
 *://*.hayatbilgin.name.tr/*
 *://*.hayatbim.com/*
 *://*.hayatbimleguzel.com/*
@@ -169731,6 +169732,7 @@
 *://*.ilet-anlik-basvurunu-ak.online/*
 *://*.ilet-anlik-basvurunu-ak.xyz/*
 *://*.ilet-geriodemenburadakampanyasi.com/*
+*://*.ilet-isim-sor-ekran-merkez.sbs/*
 *://*.iletbasvurunu-anlik.xyz/*
 *://*.iletiismediadedd93458.com/*
 *://*.iletiismtrhazinengov0192tr.com/*
@@ -213703,6 +213705,7 @@
 *://*.mobengine.xyz/*
 *://*.mobesti.com/*
 *://*.mobi-co.in/*
+*://*.mobi-girisini-com.cfd/*
 *://*.mobi-mount.pro/*
 *://*.mobiacikdenizapp.xyz/*
 *://*.mobiban.com/*
@@ -267393,6 +267396,7 @@
 *://*.sbt-robotsokta.com.tr/*
 *://*.sbtakkgncl.com.tr/*
 *://*.sbtchql.com/*
+*://*.sbtfrsswsynx.shop/*
 *://*.sbtgncakla.com.tr/*
 *://*.sbtjapans.com/*
 *://*.sbtsbtsbtwsyn.shop/*
