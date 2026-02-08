@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-08 12:23:09 UTC
-# Toplam: 438127 Domain
+# Son Güncelleme: 2026-02-08 13:36:33 UTC
+# Toplam: 438136 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13324,6 +13324,7 @@
 41444341344.cloud
 414444564654.cloud
 4144564651142.cloud
+415225475577436.cfd
 415545618516165665.cloud
 415asd4wd48.com
 415h3knu.duckdns.org
@@ -23564,6 +23565,7 @@ a101.kampanyagunlukleri.com.tr
 a101.kampanyalar-online-giris.com
 a101.kampanyalar-web.com.tr
 a101.kampanyamerkezii.com.tr
+a101.kampanyan.sbs
 a101.kapidaodemen.com
 a101.kapindaodeme.com
 a101.kapinizageldi.com
@@ -31399,6 +31401,7 @@ adkcmdmnd.online
 adkgdkgakgadkksasak.shop
 adkhsdhsd.net
 adkincoin.com
+adkldslfklsada.sbs
 adknivesindustry.com
 adkod5uo.duckdns.org
 adkshdhjskskehje.net
@@ -65311,6 +65314,7 @@ betparibu475.com
 betparibu476.com
 betparibu477.com
 betparibu478.com
+betparibu479.com
 betparibu480.com
 betparibu481.com
 betparibu482.com
@@ -126002,6 +126006,7 @@ ds7hd1wty.duckdns.org
 ds7kguvl.forms.app
 ds847f.tcgwl.ru
 dsa2ya.name.tr
+dsa54dffgd.nicepage.io
 dsaadsdadasdsdbimcellykle.org
 dsaammodytes.info
 dsacs.sbs
@@ -263316,6 +263321,7 @@ mhpnhwwvsfimcij.cn
 mhrandevugov.net
 mhrdrandsveu.com
 mhreseranedeual.net
+mhrndlmnszabvgln.com
 mhrnuda.com
 mhrpeewwhs.in
 mhrportal.com
@@ -265821,6 +265827,7 @@ mobil-girisi.site
 mobil-girisi.xyz
 mobil-girisonline-portal.tk
 mobil-giriss-tr.com
+mobil-girissa-com.cfd
 mobil-giriswebgov.de
 mobil-girisyapikredi.com
 mobil-gov-tr.org
@@ -280751,6 +280758,7 @@ nsanagelmedenbuurnleriyakalayin.shop
 nsanastasdasdas.duckdns.org
 nsanatas.duckdns.org
 nsannsahsahsa.net
+nsanqwtqwt.duckdns.org
 nsantaww.duckdns.org
 nsaprizes.stream
 nsasd-sasa.net
@@ -384865,6 +384873,7 @@ tuvturklekilicdaroglu.net
 tuvturkleodel.net
 tuvturkleodemelibb.net
 tuvturkllr.digital
+tuvturkllv.digital
 tuvturklp.digital
 tuvturklr.digital
 tuvturklsa.digital
