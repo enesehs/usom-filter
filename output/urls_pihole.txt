@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-07 22:12:19 UTC
-# Toplam: 438082 Domain
+# Son Güncelleme: 2026-02-08 04:23:07 UTC
+# Toplam: 438091 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -132603,6 +132603,7 @@ e-sigorta.xyz
 e-sigortamnet.com
 e-sigortamnet.net
 e-sigortannet.xyz
+e-sigortaodemesi.com
 e-sikayetimvartr.rest
 e-sikayetvatandas.rest
 e-simdibasvur.com
@@ -176299,6 +176300,7 @@ gratis.servebeer.com
 gratis.servehumour.com
 gratis.sundby.com
 gratis.v6.army
+gratis14subat.pingddns.com
 gratisbasvuruformu.com
 gratisbayramindirimi.com
 gratiscagrimerkezii.com.tr
@@ -204014,6 +204016,7 @@ hussksa.click
 husssam99.ddns.net
 hustiontec.store
 hustlassebinancetr.vercel.app
+hustlbox.com
 hustlehard.ddns.net
 husttlebinancetr.vercel.app
 husuiyetlehazirlanankampanyadabugunsizlerle.life
@@ -208126,6 +208129,7 @@ idea-home.online
 ideacornerfh.xyz
 ideaefficient.top
 ideaevcharging.com
+ideafoil.com
 ideahmetgrial.xyz
 ideal-try-ekonomi.xyz
 idealapron.top
@@ -211612,6 +211616,7 @@ inbox-guncelsayfa.com
 inbox-mijnics.ddns.net
 inbox3124.com
 inboxakhay.xyz
+inboxbuddyai.com
 inboxhelpmic.zapto.org
 inboxonline.ddns.net
 inboxsync.org
@@ -315386,6 +315391,7 @@ qeiigk.duckdns.org
 qeikdm.com
 qeilsowds.com
 qekyfeg.com
+qeloravi.com
 qelundo.pro
 qemaxilur.com
 qemswwsqhh.info
@@ -362117,6 +362123,7 @@ tacobuo.com
 tacquezet.citurtion.com
 tacsent.com
 tactarrow.com
+tactcrest.com
 tactdesk.com
 tacteed.top
 tactfulfraud.top
@@ -362127,6 +362134,7 @@ tacticcognition.top
 tacticrider646.top
 tactileca.com
 tactipath.icu
+tactpulse.com
 tactroute.com
 tadaamme.com.tr
 tadaronneeng.ddns.net
@@ -384557,6 +384565,7 @@ tutturdum.xyz
 tutuhugule.my-homeip.com
 tutumdasiyo.site
 tutustugitti.xyz
+tutvturk.digital
 tutya.name.tr
 tuules.com
 tuurkiyeonline.online
