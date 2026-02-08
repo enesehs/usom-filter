@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-08 13:36:33 UTC
-# Toplam: 438136 Domain
+# Son Güncelleme: 2026-02-08 15:14:10 UTC
+# Toplam: 438156 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13647,6 +13647,7 @@
 4471c076dbd4.com
 44739346.ire845le9jfkdu.org.cn
 447bimcell.com
+4486439.cloud
 449460072795656-dot-hi0-492-net.appspot.com
 44984989498494.duckdns.org
 44aidat-iade.com
@@ -22732,6 +22733,7 @@ a0oxkr34ebafid5dqni.ddns.net
 a0th3-amzn.ddns.net
 a0wtghgny43n7l3.ddns.net
 a1-0-1-online-islem.magzashop.com
+a1-0-1-sukbat-flrsatlari-com.sbs
 a1-0-1-yilbasi-firsatlari.com
 a1-0-1-yilbasi-firsatlari.online
 a1-0-1.albin-marketi-tr.online
@@ -25135,6 +25137,7 @@ a1o1deozldebuhafta.blogdns.com
 a1o1desizdekazaninbizde.duckdns.org
 a1o1desonlndirmlerikacirma.blogspot.com
 a1o1destanleydefirsatlar.duckdns.org
+a1o1dysonla.com
 a1o1e.com
 a1o1e.net
 a1o1ea.com
@@ -39290,6 +39293,7 @@ akttuel-urunler-kacmaz-a101.wuaze.com
 akttuelkapinda1101.co
 akttuelkasim-indirimlerr.com
 aktualkatal0g.duckdns.org
+aktudepazkar.com
 aktueeladresindecampny.sbs
 aktueelmerkezz.click
 aktuel-101.com.tr
@@ -45607,6 +45611,7 @@ anlikpx.com
 anlikrandevu.com
 anlikrandevualdin.org
 anlikrandevusuan.org
+anlikrandevvlarhiz.org
 anliksiparis.com.tr
 anliksistembasvuruhhizmetiba.com
 anlikvergiode.net
@@ -83480,6 +83485,7 @@ brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
 brdnbsfrynlandas.bond
 brdngdrsnorya.mooo.com
+brdnglsnyklnyrhmn.mooo.com
 brdnhzlcyklmypn-m.mooo.com
 brdnoryaglyrdkbr.icu
 brdnsnkzbrdoplr.icu
@@ -117890,6 +117896,7 @@ destekkredi.com
 destekkredi.online
 destekkredi.pro
 destekkredihizmetleri.com
+destekkredimerkezi.com
 destekkredisi-vakfbankedvletgiris.ml
 destekkredisi-vakfbankedvletgirisi.ml
 destekkredisi.tk
@@ -142151,6 +142158,7 @@ emeklidegerlendirme.com
 emekliedevletbasvuru.com
 emeklifirsasakalmayilbakmony.shop
 emeklifirsatimkmpynalasdasd.site
+emekliiprmsnynkmnpya.art
 emekliiprmsnynkmnpya.info
 emekliiziraattt-krdiiibsvruu.ip-ddns.com
 emeklikampanya.site
@@ -163011,6 +163019,7 @@ fundamentalperch.top
 fundamentalterminate.top
 fundamentalwaive.top
 fundbook.xyz
+funddnetwork.com
 funddwise.com
 fundelar.com
 fundelcllm.duckdns.org
@@ -188945,6 +188954,7 @@ hazinetrtcbm72.ga
 hazinetrukgirisdev.com
 hazinettgovuk.com
 hazinevemaliye.com
+hazinevemaliye.net
 hazinevemaliyebakani.xyz
 hazinevemaliyebakanligi.com
 hazinevemaliyebakanligi.site
@@ -200307,6 +200317,7 @@ hl852.com
 hlaadvt-svclvt.com
 hlabmdvgt.com
 hladvvt-dvrt.com
+hlafalardn-ke.cfd
 hlajgmdx.com
 hlakbca.boyacentury.cn
 hlalskgmls.com
@@ -244023,6 +244034,7 @@ kosgebhibebasvuru.cfd
 kosgebhibebasvuru.com
 kosgebhibebasvurusu.cfd
 kosgebhibebasvurusu.com
+kosgebhibehizmetleri.com
 kosgebhibemerkezi.com
 kosgebhibeonline.com
 kosgebhizmetleri.com
@@ -264664,6 +264676,7 @@ mitamsklguinns.webflow.io
 mitas.melikrfb.site
 mitas.space
 mitas.tech
+mitazi.click
 mitegen.com
 mitermosa1o1.cfd
 mitermosa1o1.lat
@@ -278883,6 +278896,7 @@ nissigorta.net
 nissndakicrfrsnzbzleolsn.com
 nissrv.com
 nitalastarakalatacamataleritabakamaladures.net
+nitazi.click
 nitelikleriniz.online
 nitindhanji.com
 nitix.click
@@ -319722,6 +319736,7 @@ randevucum.net
 randevudanismanlik.site
 randevudetay.online
 randevuduzenle.com
+randevufirsatlari.org
 randevugovaislemler.com
 randevuhatti.net
 randevuhizmetib.b-cdn.net
@@ -331773,6 +331788,7 @@ sahibinden.sepet-takip.com
 sahibinden.sepet-yonet.online
 sahibinden.sepetim-aktif.com.tr
 sahibinden.sepetim-get-satinal.com
+sahibinden.sepetim-ilan-76897.com
 sahibinden.sepetim-ilanda.com
 sahibinden.sepetim-ilanli.com.tr
 sahibinden.sepetim-odeme.com.tr
@@ -357277,6 +357293,7 @@ strugglecensor.top
 strugglemilestone.top
 struggleordinary.top
 strumpet4.xyz
+strv-kf-g-rn.myonlineportal.at
 strvx9d2.duckdns.org
 strwawrunnygjwu.shop
 strwoxwxw.click
@@ -385002,6 +385019,7 @@ tuvvedec.website
 tuvvturk-isl.digital
 tuvvturk.live
 tuvvturkaracmuayene.com
+tuvvturkls.digital
 tuvvturkrezervasyon.com
 tuvvturks.me
 tuvxturks-3dodemelerxsi-xx.net
@@ -419864,6 +419882,7 @@ xn--pkredi-vta74d765s.com
 xn--pkredi-vta9slr.com
 xn--pkredi-wva2rx66x.com
 xn--platinfibakredilerim-1q2l.com
+xn--pllpawpldwalawda-khccfde.com
 xn--plniex-wxab.com
 xn--popularquit-ue3f.top
 xn--portal-facebook-hesab-kimler-bakttr-com-i2f.com
@@ -425660,6 +425679,7 @@ yarsbimcnet.com
 yarsigorta.net
 yarsigorta.site
 yart2020.zapto.org
+yartaarasa.click
 yarts.is-best.net
 yarunet.ddns.net
 yarwdcdfvgb-afcdxc-ahwfd.shop
