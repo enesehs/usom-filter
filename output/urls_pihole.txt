@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-09 14:24:47 UTC
-# Toplam: 438281 Domain
+# Son Güncelleme: 2026-02-09 17:40:52 UTC
+# Toplam: 438316 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2092,6 +2092,7 @@
 101-temmuz23.com
 101-temmuz26.com
 101-temmuz26a.com
+101-tr-bugune-ozel.sponsor-mobil-tr.com
 101-tr-mobil-siparis-ver-internete-ozel.com
 101-tv-temmuzindirimlerin.vercel.app
 101-volta-com-tr.click
@@ -24739,6 +24740,7 @@ a101sonsaate-ozel.online
 a101sponsorlu-g.net.tr
 a101stenleytermoskampanyasi.site
 a101subataozel.online
+a101subatfirsat.com
 a101subatfirsati.online
 a101subatfirsatlari.com
 a101subatfirsatlariimm.shop
@@ -45314,6 +45316,7 @@ anindarenduvm.b-cdn.net
 anindarent.com
 anindarezervasyon.online
 anindarezervasyonadrese.online
+anindasatinal.com
 anindasatinalfirsatlarikacirma.com.tr
 anindasatinalfirsatlarikacirma.online
 anindasatinalfirsatlarikacirma.xyz
@@ -54564,6 +54567,7 @@ aydinlikhaber.club
 aydinlikvakfi.com
 aydinlikvakfi.org.tr
 aydinlikzamanlar.com
+aydinogullarilimited.com
 aydinsenturk.com
 aydinturkiye.com
 aydinyarinlar.online
@@ -75077,6 +75081,7 @@ bitti.app
 bittibasladilar.sbs
 bittibitiyornoktacom.chickenkiller.com
 bittibitttiyor101.duckdns.org
+bittiderbanabitmez.org
 bittikyetti.top
 bittingaros74.com
 bittingores71.com
@@ -133895,6 +133900,7 @@ earnsmartinvesting.click
 earourspam.xyz
 earringmostpleas.gtk.cl
 earsivaidat.com
+earsivdosya.org
 eartharc.top
 earthmerge.top
 earthquake-insurance-19585.com
@@ -144367,6 +144373,7 @@ enlimit.shop
 enlimit.site
 enlimit.store
 enlimitin.site
+enlimitt.online
 enlimitt.site
 enlistappraise.top
 enlistbeneficial.top
@@ -147518,6 +147525,7 @@ estimationoverstate.top
 estimationpreoccupy.top
 estimationschool.top
 estimationsmgir.pw
+estirzgarimdeligibi.org
 estivahali.online
 estmongolia.com
 estoniaforall.com
@@ -172764,6 +172772,7 @@ girisler-guncel.com
 girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk
 girisler-mobilde.cfd
 girisler-mobile-acik.cfd
+girisler-mobill-com.cfd
 girisler-onlinrbnnrctr.com
 girisler-tr.com
 girisler-yapikredi.com
@@ -174556,6 +174565,7 @@ gokkalevakfi.site
 gokkusagim.org
 gokld.com
 goklerdengelenbirkararvar.shop
+goklereuzanir.org
 gokmenler.bid
 gokolomanno.xyz
 gokrsxoitd.net
@@ -178751,7 +178761,11 @@ guncelsikayetvar.cf
 guncelsikayetvar.ga
 guncelsikayetvar.info
 guncelsikayetvarr.com
+guncelsikaytlertr-12.sbs
 guncelsikaytlertr-16.sbs
+guncelsikaytlertr-17.sbs
+guncelsikaytlertr-28.sbs
+guncelsikaytlertr-9.sbs
 guncelsikaytlervar-11.sbs
 guncelsikaytlervar-17.sbs
 guncelsikaytvar-tr-22.sbs
@@ -186026,6 +186040,7 @@ halksigortan.com
 halksigortan.com.tr
 halksigortaniz.com
 halksigortaniz.com.tr
+halksigortaonline.com
 halksigortasi.com
 halksigrta.net
 halksikayetediyorinceleme-com.tk
@@ -191407,6 +191422,7 @@ hemenarackiralamahizmeti.com.tr
 hemenaracmutlum.com.tr
 hemenaracmutlum.xyz
 hemenaracotokiralama.site
+hemenaracrandevu.web.app
 hemenasatinall.click
 hemenaskq.com
 hemenaslc.click
@@ -215729,6 +215745,7 @@ internet-kuveytturkiye.com
 internet-marketi.sbs
 internet-mobil-alisveris.duckdns.org
 internet-mobil-hesabim.com
+internet-mobil-tr.com
 internet-mobildenizacikbasvuru.com
 internet-mobile-cor.ml
 internet-mobile-finans.com
@@ -220361,6 +220378,7 @@ islmvlcrqwt2312ttfff.com
 islob00641.hopto.org
 islov.top
 isltemsakhmeensonuc.net
+isltfmfldlas.com
 isltfmslbasvlrm.com
 isltmfkaskcd.com
 isltnalsalk.com
@@ -221484,6 +221502,7 @@ istanbulok.xyz
 istanbulolmakicindogruyerdesiniz.com
 istanbulolsan.shop
 istanbulolurmsn.click
+istanbulonix.shop
 istanbulonline-jnnatuubwo.amkbilisim.sbs
 istanbulonlnebasvurmanoktasi.com
 istanbulotobusode.net
@@ -221573,6 +221592,7 @@ istanbulvergidairesi.com.tr
 istanbulvergidairesiileindirimli-gov-tr.net
 istanbulvergiodasi.com.tr
 istanbulvezne.xyz
+istanbulvibe.shop
 istanbulvibes.site
 istanbulvillahayat.ml
 istanbulw.net
@@ -222541,6 +222561,7 @@ istpremier.xyz
 istpremium34.blogspot.com
 istprmbe1.com
 istpro-202.tlion.click
+istprow.xyz
 istprsbe.com
 istqnbqlqmonl.ml
 istqnbulkqrtbsvur.online
@@ -239227,6 +239248,7 @@ kgm.pcksac.cc
 kgm.scdqwl.homes
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
+kgmaa.top
 kgmad.top
 kgmag.top
 kgmagvo.cfd
@@ -239259,6 +239281,7 @@ kgmeer.qpon
 kgmels.click
 kgmetc.qpon
 kgmg-ovtr.bond
+kgmga.top
 kgmgao.cfd
 kgmgc.cc
 kgmgcshizlislemelrdms.duckdns.org
@@ -242200,6 +242223,7 @@ kmpnyaaprmsynnbasvrr.pro
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
 kmpnyaaprmsynnnbsvrr.art
+kmpnyaaprmsynnnbsvrr.info
 kmpnyaaprmsynnnbsvrrr.art
 kmpnyaaprmsynnnbsvrrr.info
 kmpnyaaprmsynnnbsvrrr.pro
@@ -265891,6 +265915,7 @@ mobil-garrntiibnkkkmpnya.ip-ddns.com
 mobil-geri-aktarim-merkezi-tr.com
 mobil-geri-iade-aidatlari-gov-tr.com
 mobil-get.com.tr
+mobil-giriiss-online.cfd
 mobil-giris-aidatlatedevletgovtr.com
 mobil-giris-garantim.com
 mobil-giris-guvenlisatinal.com
@@ -274144,6 +274169,7 @@ myonlichaver.hopto.org
 myonline-hsbcbank.com
 myonline.com.tr
 myonlinehsbcbank.com
+myonlineportal.at
 myonlineportal.org
 myonlychaaccveri.hopto.org
 myonlylucy.000webhostapp.com
@@ -276832,6 +276858,7 @@ netdekampanya.my-homeip.net
 netden.my-homeip.de
 netdenfirsatlar.my-homeip.de
 netdenkampanya.my-homeip.de
+netdenkampanya.my-homeip.net
 netdestekler.tk
 netdigitalturk.com
 netdizayn.xyz
@@ -308572,6 +308599,7 @@ prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
 prmsynnnkmpnyaaabsvrr.art
+prmsynnnkmpnyaaabsvrr.info
 prmsynnnkmpnyaaabsvrrr.art
 prmsynnnkmpnyaaabsvrrr.info
 prmsynnnkmpnyaaabsvrrr.pro
@@ -311884,6 +311912,7 @@ pttavm.info
 pttavm.info.tr
 pttavm.islemguvence.com.tr
 pttavm.islemleriniz-webinizde.com
+pttavm.islemlerle-tamamla.com
 pttavm.islemlerle-tr.com
 pttavm.kampanya.info.tr
 pttavm.kampanya2024.com
@@ -353925,6 +353954,7 @@ sponsor-icerik.com
 sponsor-market-indirimleri-tr.online
 sponsor-market-indirimleri.online
 sponsor-mobil-360.site
+sponsor-mobil-tr.com
 sponsor-mobil-tr.online
 sponsor-reklami101.nicepage.io
 sponsor.cf
@@ -374081,7 +374111,9 @@ tr-312.guncelsikayetin-2.sbs
 tr-387.gunceltrsikayetler-20.sbs
 tr-418.h-sikayt-6.ru.com
 tr-451.gunceltrsikayetler-26.sbs
+tr-491.guncelsikaytlertr-21.sbs
 tr-491.sikayetinmivar-20.sbs
+tr-53.guncelsikaytlertr-21.sbs
 tr-577.sikayetlervar-1.sbs
 tr-5yilparibu.com
 tr-64.guncelsikaytlertr-21.sbs
@@ -399743,6 +399775,7 @@ vodafonefaturaodeme.net
 vodafonefaturaodeme.xyz
 vodafonefibra.site
 vodafonegypt.com
+vodafonehappy.com
 vodafoneinfinity.sytes.net
 vodafonekampanya.xyz
 vodafonekampanyalarim.net
@@ -404877,6 +404910,8 @@ website6617740546465.nicepage.io
 website6618294.nicepage.io
 website6618296.nicepage.io
 website661834211.nicepage.io
+website6618342111.nicepage.io
+website6618874.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io

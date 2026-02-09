@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-09 14:24:47 UTC
-! Total: 349614 rules
+! Last modified: 2026-02-09 17:40:52 UTC
+! Total: 349641 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -15115,6 +15115,7 @@
 *://*.a101sponsorlu-g.net.tr/*
 *://*.a101stenleytermoskampanyasi.site/*
 *://*.a101subataozel.online/*
+*://*.a101subatfirsat.com/*
 *://*.a101subatfirsati.online/*
 *://*.a101subatfirsatlari.com/*
 *://*.a101subatfirsatlariimm.shop/*
@@ -31250,6 +31251,7 @@
 *://*.anindarent.com/*
 *://*.anindarezervasyon.online/*
 *://*.anindarezervasyonadrese.online/*
+*://*.anindasatinal.com/*
 *://*.anindasatinalfirsatlarikacirma.com.tr/*
 *://*.anindasatinalfirsatlarikacirma.online/*
 *://*.anindasatinalfirsatlarikacirma.xyz/*
@@ -38404,6 +38406,7 @@
 *://*.aydinlikvakfi.com/*
 *://*.aydinlikvakfi.org.tr/*
 *://*.aydinlikzamanlar.com/*
+*://*.aydinogullarilimited.com/*
 *://*.aydinsenturk.com/*
 *://*.aydinturkiye.com/*
 *://*.aydinyarinlar.online/*
@@ -56296,6 +56299,7 @@
 *://*.bitti-bayram-ama-devam-ediyoruz-mutlu.com/*
 *://*.bitti.app/*
 *://*.bittibasladilar.sbs/*
+*://*.bittiderbanabitmez.org/*
 *://*.bittikyetti.top/*
 *://*.bittingaros74.com/*
 *://*.bittingores71.com/*
@@ -105254,6 +105258,7 @@
 *://*.earnsmartinvesting.click/*
 *://*.earourspam.xyz/*
 *://*.earsivaidat.com/*
+*://*.earsivdosya.org/*
 *://*.eartharc.top/*
 *://*.earthmerge.top/*
 *://*.earthpath.com/*
@@ -114589,6 +114594,7 @@
 *://*.enlimit.site/*
 *://*.enlimit.store/*
 *://*.enlimitin.site/*
+*://*.enlimitt.online/*
 *://*.enlimitt.site/*
 *://*.enlistappraise.top/*
 *://*.enlistbeneficial.top/*
@@ -117353,6 +117359,7 @@
 *://*.estimationpreoccupy.top/*
 *://*.estimationschool.top/*
 *://*.estimationsmgir.pw/*
+*://*.estirzgarimdeligibi.org/*
 *://*.estivahali.online/*
 *://*.estmongolia.com/*
 *://*.estoniaforall.com/*
@@ -137696,6 +137703,7 @@
 *://*.girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk/*
 *://*.girisler-mobilde.cfd/*
 *://*.girisler-mobile-acik.cfd/*
+*://*.girisler-mobill-com.cfd/*
 *://*.girisler-onlinrbnnrctr.com/*
 *://*.girisler-tr.com/*
 *://*.girisler-yapikredi.com/*
@@ -139163,6 +139171,7 @@
 *://*.gokkusagim.org/*
 *://*.gokld.com/*
 *://*.goklerdengelenbirkararvar.shop/*
+*://*.goklereuzanir.org/*
 *://*.gokmenler.bid/*
 *://*.gokolomanno.xyz/*
 *://*.gokrsxoitd.net/*
@@ -142707,8 +142716,12 @@
 *://*.guncelsikayetvar.ga/*
 *://*.guncelsikayetvar.info/*
 *://*.guncelsikayetvarr.com/*
+*://*.guncelsikaytlertr-12.sbs/*
 *://*.guncelsikaytlertr-16.sbs/*
+*://*.guncelsikaytlertr-17.sbs/*
 *://*.guncelsikaytlertr-21.sbs/*
+*://*.guncelsikaytlertr-28.sbs/*
+*://*.guncelsikaytlertr-9.sbs/*
 *://*.guncelsikaytlervar-11.sbs/*
 *://*.guncelsikaytlervar-17.sbs/*
 *://*.guncelsikaytvar-tr-22.sbs/*
@@ -149127,6 +149140,7 @@
 *://*.halksigortan.com/*
 *://*.halksigortaniz.com.tr/*
 *://*.halksigortaniz.com/*
+*://*.halksigortaonline.com/*
 *://*.halksigortasi.com/*
 *://*.halksigrta.net/*
 *://*.halksikayetediyorinceleme-com.tk/*
@@ -174471,6 +174485,7 @@
 *://*.internet-kuveytturkiye.com/*
 *://*.internet-marketi.sbs/*
 *://*.internet-mobil-hesabim.com/*
+*://*.internet-mobil-tr.com/*
 *://*.internet-mobildenizacikbasvuru.com/*
 *://*.internet-mobile-cor.ml/*
 *://*.internet-mobile-finans.com/*
@@ -178201,6 +178216,7 @@
 *://*.islemleriyonet.de/*
 *://*.islemlerkm.org/*
 *://*.islemlerkolaydirnface.net/*
+*://*.islemlerle-tamamla.com/*
 *://*.islemlerle-tr.com/*
 *://*.islemlerle-webde.com/*
 *://*.islemlern.net/*
@@ -178350,6 +178366,7 @@
 *://*.islmvlcrqwt2312ttfff.com/*
 *://*.islov.top/*
 *://*.isltemsakhmeensonuc.net/*
+*://*.isltfmfldlas.com/*
 *://*.isltfmslbasvlrm.com/*
 *://*.isltmfkaskcd.com/*
 *://*.isltnalsalk.com/*
@@ -179270,6 +179287,7 @@
 *://*.istanbulolmakicindogruyerdesiniz.com/*
 *://*.istanbulolsan.shop/*
 *://*.istanbulolurmsn.click/*
+*://*.istanbulonix.shop/*
 *://*.istanbulonlnebasvurmanoktasi.com/*
 *://*.istanbulotobusode.net/*
 *://*.istanbulotomat.org/*
@@ -179352,6 +179370,7 @@
 *://*.istanbulvergidairesiileindirimli-gov-tr.net/*
 *://*.istanbulvergiodasi.com.tr/*
 *://*.istanbulvezne.xyz/*
+*://*.istanbulvibe.shop/*
 *://*.istanbulvibes.site/*
 *://*.istanbulvillahayat.ml/*
 *://*.istanbulw.net/*
@@ -180242,6 +180261,7 @@
 *://*.istpazrs2.com/*
 *://*.istpremier.xyz/*
 *://*.istprmbe1.com/*
+*://*.istprow.xyz/*
 *://*.istprsbe.com/*
 *://*.istqnbqlqmonl.ml/*
 *://*.istqnbulkqrtbsvur.online/*
@@ -194094,6 +194114,7 @@
 *://*.kgm-trgov.sbs/*
 *://*.kgm-trm.cfd/*
 *://*.kgm-vvc.top/*
+*://*.kgmaa.top/*
 *://*.kgmad.top/*
 *://*.kgmag.top/*
 *://*.kgmagvo.cfd/*
@@ -194121,6 +194142,7 @@
 *://*.kgmels.click/*
 *://*.kgmetc.qpon/*
 *://*.kgmg-ovtr.bond/*
+*://*.kgmga.top/*
 *://*.kgmgao.cfd/*
 *://*.kgmgc.cc/*
 *://*.kgmgcsihlalodemesi.com/*
@@ -196217,6 +196239,7 @@
 *://*.kmpnyaaprmsynngrntt.info/*
 *://*.kmpnyaaprmsynngrntt.pro/*
 *://*.kmpnyaaprmsynnnbsvrr.art/*
+*://*.kmpnyaaprmsynnnbsvrr.info/*
 *://*.kmpnyaaprmsynnnbsvrrr.art/*
 *://*.kmpnyaaprmsynnnbsvrrr.info/*
 *://*.kmpnyaaprmsynnnbsvrrr.pro/*
@@ -214017,6 +214040,7 @@
 *://*.mobil-geri-aktarim-merkezi-tr.com/*
 *://*.mobil-geri-iade-aidatlari-gov-tr.com/*
 *://*.mobil-get.com.tr/*
+*://*.mobil-giriiss-online.cfd/*
 *://*.mobil-giris-aidatlatedevletgovtr.com/*
 *://*.mobil-giris-garantim.com/*
 *://*.mobil-giris-guvenlisatinal.com/*
@@ -248455,6 +248479,7 @@
 *://*.prmsynnnbsvrrrqnbbb.click/*
 *://*.prmsynnngrnttbsvr.xyz/*
 *://*.prmsynnnkmpnyaaabsvrr.art/*
+*://*.prmsynnnkmpnyaaabsvrr.info/*
 *://*.prmsynnnkmpnyaaabsvrrr.art/*
 *://*.prmsynnnkmpnyaaabsvrrr.info/*
 *://*.prmsynnnkmpnyaaabsvrrr.pro/*
@@ -282606,6 +282631,7 @@
 *://*.sponsor-market-indirimleri-tr.online/*
 *://*.sponsor-market-indirimleri.online/*
 *://*.sponsor-mobil-360.site/*
+*://*.sponsor-mobil-tr.com/*
 *://*.sponsor-mobil-tr.online/*
 *://*.sponsor.cf/*
 *://*.sponsor00girisyap99.com/*
@@ -319877,6 +319903,7 @@
 *://*.vodafonefaturaodeme.xyz/*
 *://*.vodafonefibra.site/*
 *://*.vodafonegypt.com/*
+*://*.vodafonehappy.com/*
 *://*.vodafonekampanya.xyz/*
 *://*.vodafonekampanyalarim.net/*
 *://*.vodafonekonturyukleme.net/*
