@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-09 17:40:52 UTC
-# Toplam: 438316 Domain
+# Son Güncelleme: 2026-02-09 18:39:49 UTC
+# Toplam: 438322 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4943,6 +4943,7 @@
 15422655569998.xyz
 15422655569999.xyz
 154342321315323.xyz
+1543472273456234.cfd
 15438.xyz
 1545-4432511.net
 154551220201.duckdns.org
@@ -175400,6 +175401,7 @@ gorunen-daha-misli-kazanin-sizlerde.com
 gorunen-hizli-bitisin-daha-sevindirici-olani.com
 gorunen-iyilerde-bir-yere-ait-gelirsiniz.com
 gorunen-seyler-ortada-kazanan-gelir.com
+gorunlebilenler.com
 gorunlenlerde-buradan-sevdiklerine-buzamanda-bulundurduk.com
 gorunmezberrin.wixsite.com
 gorunmezel.org
@@ -235551,6 +235553,7 @@ kardesx.com
 kardinalartisan.com
 kardiz.org
 kardo1010.zapto.org
+kardyson.com
 karebir1nok.net
 karedie452521521.shop
 kareem2002.ddns.net
@@ -265741,6 +265744,7 @@ mobil-akbankdirect.com
 mobil-akbnk.tr
 mobil-akduyuru-islemleri.xyz
 mobil-aktif-basvuru-merkezi.vercel.app
+mobil-aktif-giris.cfd
 mobil-alimin.com.tr
 mobil-alisveris-extra.online
 mobil-alisveris-firsatlari.duckdns.org
@@ -272960,6 +272964,7 @@ mutluhabergeldiakile.com
 mutluhaftalarsimdi.shop
 mutluhaftasonu.com
 mutluhayat.online
+mutluhislerlesevindireniz.com
 mutluistanbul.net
 mutlukal.name.tr
 mutlukalplerle.com
@@ -404912,6 +404917,7 @@ website6618296.nicepage.io
 website661834211.nicepage.io
 website6618342111.nicepage.io
 website6618874.nicepage.io
+website6618980.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
