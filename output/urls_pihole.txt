@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-09 11:43:02 UTC
-# Toplam: 438232 Domain
+# Son Güncelleme: 2026-02-09 14:24:47 UTC
+# Toplam: 438281 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9930,6 +9930,7 @@
 26ocakdrinkarislerin.cloud
 26ocakfirsatlari.shop
 26ocaksiparislerin.cloud
+26ocaktasepete.cloud
 26ocaktasepete.online
 26ocaktasiparislerver.cloud
 26pu6aj24.duckdns.org
@@ -46292,6 +46293,7 @@ aperta-armis.org
 aperza-ex.com
 apethorpevillage.co.uk
 apex-loot.com
+apex.herosms.ai
 apexbracket.com
 apexcorporateflow.com
 apexcv.ddns.net
@@ -50565,6 +50567,7 @@ asdjka123-s12312.shop
 asdjkfnsjfnjksdfnksjdfnjgknsfd.store
 asdjkhahsd.click
 asdjrwxaue.tk
+asdkaklfldsflklaldtas.sbs
 asdkamzjcsj.net
 asdkanksjajds.online
 asdkasdkas.net
@@ -50582,6 +50585,7 @@ asdladcdvt-sdfvtt.com
 asdlasdckalsds.cfd
 asdlewkrlkew123rewr-icuds2312.xyz
 asdlfkasklf.com
+asdlkasdklafldas.sbs
 asdlsabanskprdfohaf434.site
 asdman216.ddns.net
 asdmqhmkehmqeq.net
@@ -65958,6 +65962,7 @@ biast12.com
 biat1.xyz
 biatediceksin.shop
 biatediceksin.xyz
+biavid.info
 bibanka.com
 bibayilerimiz.is-best.net
 bibayislem.blogspot.com
@@ -78926,6 +78931,7 @@ bmedgdf.cn
 bmelkermcer.net
 bmellilereozel.com
 bmenerji.com.tr
+bmenkulsermayeler.com
 bmfkckyll.net
 bmfq6x5.duckdns.org
 bmgksesx.net
@@ -84674,6 +84680,7 @@ bsvrrprmsynkmonyaaa.click
 bsvrrprmsynnkmpnya.art
 bsvrrprmsynnkmpnya.info
 bsvrrprmsynnkmpnya.pro
+bsvrrprmsynnkmpnyaa.art
 bsvrrprmsynnkmpnyaa.click
 bsvrrprmsynnnkmpnyaa.click
 bsvrrprsmynngrntt.click
@@ -123511,6 +123518,7 @@ docs-send.com
 docs-send.online
 docs-shared.com
 docs-shared.online
+docs-telegram.guardedcloud.net
 docs-view.online
 docs-workspace.live
 docs-workspace.online
@@ -123631,6 +123639,8 @@ documentsfilesharing.cloud
 documentsg.hopto.org
 documentshare.info
 documentside.top
+documshare.org
+documtransfer.net
 docuprivacy.com
 docureview.hopto.org
 docusharepoint.fundament-advisory.buzz
@@ -138967,6 +138977,7 @@ efsanegeldiburada.biz.tr
 efsanegeldiburada.info.tr
 efsanegeldiburada.net.tr
 efsanegunlerbasladi.com
+efsanegunlerbasliyor.com
 efsanegunlergeldi.com
 efsanegunlerimaximum.com
 efsanehabergeldi.com
@@ -140913,6 +140924,7 @@ ekonomi-analizi.info
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
 ekonomi-destek.info
 ekonomi-gelecegi.info
+ekonomi-gundem.online
 ekonomi-gundem.pro
 ekonomi-pusulasi.info
 ekonomi-vizyonu.info
@@ -160412,6 +160424,7 @@ fluviusvergoedingw.hopto.org
 fluvvlaanderen.ddns.net
 flux-platform24.info
 flux-psychology.com
+flux.smshero.co
 flux2key.com
 fluxahead.com
 fluxaran.com
@@ -173596,6 +173609,7 @@ glibalonaysorgulamasayfasi.net
 glibasendebuurnlerdenbakiniyorsun.shop
 gliblo0nm0vc.shop
 glibolupolat.cfd
+glide.smshero.cc
 glidehigh.es
 glideretrieval.top
 gliizee.hopto.org
@@ -177757,6 +177771,7 @@ guardcloudtrforms.com
 guardcloudtrmedia.com
 guarddenounce.top
 guarddiscern.top
+guardedcloud.net
 guardemarine.xyz
 guardia.us
 guardian-coinbase.com
@@ -222522,6 +222537,7 @@ istotobusyukleme.net
 istowkes.icu
 istpazrs1.com
 istpazrs2.com
+istpremier.xyz
 istpremium34.blogspot.com
 istprmbe1.com
 istpro-202.tlion.click
@@ -237851,6 +237867,7 @@ kd7x50uncx7bm0y.ddns.net
 kd8lis7y.duckdns.org
 kdajskdha-lakjdjas.duckdns.org
 kdarvama.com
+kdasldkad348ldksld.sbs
 kdb6ravg3.duckdns.org
 kddqmw.top
 kde596ctz.duckdns.org
@@ -242182,6 +242199,7 @@ kmpnyaaprmsynnbasvrr.info
 kmpnyaaprmsynnbasvrr.pro
 kmpnyaaprmsynngrntt.info
 kmpnyaaprmsynngrntt.pro
+kmpnyaaprmsynnnbsvrr.art
 kmpnyaaprmsynnnbsvrrr.art
 kmpnyaaprmsynnnbsvrrr.info
 kmpnyaaprmsynnnbsvrrr.pro
@@ -242863,12 +242881,15 @@ kobelix.store
 kobetwofour.buzz
 kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
+kobi-destekmerkezi.com
 kobi-halk-subem.com
 kobi-hibebasvuru.com
 kobi-hibebasvurusu.com
 kobi-hibedestegi.com
+kobi-hibemerkezi.com
 kobi-kredi.com
 kobi-krediformu.com
+kobi-kredimerkezi.com
 kobi-paraf-hediye.com
 kobi-tr-paraf.com
 kobibasvurunutamamla-12.cloud
@@ -264452,6 +264473,7 @@ minrungis.shop
 minslekt.zapto.org
 minstagram.net
 mint-news-portal.hymnfork.com
+mint.smshero.com
 mintamaskiloginm.webflow.io
 mintarize.sbs
 mintavos.com
@@ -272858,6 +272880,7 @@ mutlualisverisadres.com.tr
 mutlualisverisadres.online
 mutlualisverisadres.xyz
 mutlualisverisintekadresi.xyz
+mutlualisverisleri.com
 mutlualisverislers.com
 mutluaraclarmutlu.com.tr
 mutluaraclarmutlu.xyz
@@ -276389,6 +276412,7 @@ nentrivend.ru
 neo-akbnk.com
 neo-bilgiislem.com
 neo-kikaku.jp
+neo.herosms.co
 neo.utfgop.com
 neoanadolusigorta.com
 neobeelab.net
@@ -280406,6 +280430,7 @@ nov-at.com
 nov16665.ddns.net
 nova-tech.sbs
 nova.html-5.me
+nova.smshero.ai
 nova22.ddns.net
 novaappraisal.com
 novabryne.com
@@ -284290,6 +284315,7 @@ odbtsupehuamtgc.cn
 odcmkzwar.com
 odcpkintranet.org
 odd-mud-233e.gtech.workers.dev
+odd.giize.com
 oddaoiktge.duckdns.org
 oddappraisal.top
 oddemeiiaddetallepet.org
@@ -293927,6 +293953,7 @@ ovco.ddns.net
 ovcqyq.pw
 ovduzokc33.click
 ovelas.top
+ovelsavn.net
 ovenbuddhist.top
 ovenfabrication.top
 ovenry.xyz
@@ -308195,6 +308222,7 @@ primarypredominance.top
 prime-rrenewal-payments.duckdns.org
 prime-sbdestekhibesi.com
 prime-sgkdestekhibesi.com
+prime.herosms.vip
 prime1.zapto.org
 prime98-membership.duckdns.org
 primea101.fun
@@ -308543,6 +308571,7 @@ prmsynnnbsvrrkmpnyaa.click
 prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
+prmsynnnkmpnyaaabsvrr.art
 prmsynnnkmpnyaaabsvrrr.art
 prmsynnnkmpnyaaabsvrrr.info
 prmsynnnkmpnyaaabsvrrr.pro
@@ -314404,6 +314433,7 @@ pullusarimsak.site
 pullusarimsaklasak.site
 pulpamenta.com
 pulpsenior.top
+pulse.herosms.cc
 pulseadnetwork.com
 pulseathermakf.com
 pulsecelebrity.top
@@ -316244,6 +316274,7 @@ qnbanko.vercel.app
 qnbanktr.com
 qnbasvuru.b-cdn.net
 qnbasvurucu.b-cdn.net
+qnbasvurum.com
 qnbasvuruprom.com
 qnbb.anksonline.com
 qnbbank.co
@@ -323583,6 +323614,7 @@ resmibnscduyurutr.com
 resmibntrgirishediyesii.com
 resmibultenler.com
 resmicezakontrolu.com
+resmicezasistemi.org
 resmicezasorgu.org
 resmicezasorgula.org
 resmicezasorgulama.org
@@ -328881,6 +328913,7 @@ safebanktest.top
 safebridge.marinelectricsystems.com
 safebrowsingdesign.ddns.net
 safecopydisk.com
+safedatabox.net
 safediminish.top
 safedocitsolution.com
 safedocumentgatesolution.com
@@ -336466,6 +336499,7 @@ secssanderoperat.com
 sect.web1337.net
 sectechnz.com
 sectegro.com
+sectgfiles.biavid.info
 sectiginizurunler.site
 sectiginizurunler.space
 sectiginizurunlerdesepettekampanyalar.com.tr
@@ -349281,6 +349315,7 @@ sobreprosperity.top
 sobvxaoasg.duckdns.org
 sobzxep.duckdns.org
 soc-usa.email
+soc.hero-sms.co
 socalweddingexpo.com
 socar.space
 soccer-bw.com
@@ -353292,6 +353327,7 @@ sparinglytread.top
 sparisalin34223.com
 sparislerinhizli4temmuzda.cloud
 sparixo.com
+spark.herosms.io
 sparkabs.com
 sparkandspire.shop
 sparkarbi.sbs
@@ -353708,6 +353744,7 @@ spinff-gratis1.duckdns.org
 spinfreefire011.duckdns.org
 spinfreefirenew1.duckdns.org
 spinicerebellar.com
+spinlogos.com
 spinmorph.com
 spinnerlegacyintitle.fokyrylefy.workers.dev
 spinoldffgratis.duckdns.org
@@ -363054,6 +363091,7 @@ tannamilk.or.jp
 tanne0214.zapto.org
 tano.jdsefbe.com
 tano.syhs8u.com
+tanredbeurksdbn.com
 tanrikulueczanesibilgiler.com.tr.ht
 tanrinineli.com
 tanrinineli.de
@@ -366790,12 +366828,15 @@ teleglarm.com
 teleglren.com
 telegraem.org
 telegram-1.org
+telegram-files.trustedfiles.org
 telegram-il.org
 telegram-j.org
+telegram-share.documtransfer.net
 telegram-vip.com
 telegram-web.tk
 telegram.cat
 telegram.ccmmsl.com
+telegram.guardedcloud.net
 telegram.services
 telegrambackups.com
 telegrambots.me
@@ -366818,6 +366859,7 @@ telegraxm.net
 telehealthconnectpro.azurewebsites.net
 telehub.shop
 teleindirimgelin0810.com
+teleinfo.safedatabox.net
 telekart.com
 telekmlariniz.net
 telekom-basvur.com
@@ -368718,6 +368760,8 @@ tfyycedckl.duckdns.org
 tfzcqdbj.com
 tfzdsakl.com
 tfzxrnkevb.duckdns.org
+tg-box.documshare.org
+tg-media.guardedcloud.net
 tg-yonlendirme.duckdns.org
 tg.sdhju.icu
 tg1ot00b.duckdns.org
@@ -380465,6 +380509,7 @@ trustcdncloud.shop
 trustcore.space
 trustd.biz
 trustedcarehub360.azurewebsites.net
+trustedfiles.org
 trustedsecurityav.net
 trustedtesisast.com
 trustedvpnconnection.anondns.net
@@ -398801,6 +398846,7 @@ vivelaprovince.com
 vivemoi14.zapto.org
 vivgirislemenule.com
 vivhshl.duckdns.org
+vivid.smshero.vip
 vividassortment.top
 vividcaptcha.top
 vividdetention.top
@@ -399483,6 +399529,7 @@ vmi2527550.contaboserver.net
 vmi2529183.contaboserver.net
 vmi281634.contaboserver.net
 vmi296708.contaboserver.net
+vmi2988497.contaboserver.net
 vmi2z9bf.duckdns.org
 vmi300493.contaboserver.net
 vmi312537.contaboserver.net
@@ -429651,6 +429698,7 @@ yildizlararasihikayelerveuzaygemileri.xyz
 yildizlardabuhafta1001.com
 yildizlardabuhaftaa.com
 yildizlardahaftaninb.sbs
+yildizlardasecili.sbs
 yildizlardasongun.com.tr
 yildizlardasongun.online
 yildizlarfirsatibu.sbs
@@ -434289,6 +434337,7 @@ zesasar7.com
 zesasar8.com
 zesasar9.com
 zesierm.info
+zest.hero-sms.ai
 zestmodp.top
 zestsaync.com
 zestyahhdog.com

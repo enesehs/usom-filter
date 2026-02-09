@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-09 11:43:02 UTC
-! Total: 349575 rules
+! Last modified: 2026-02-09 14:24:47 UTC
+! Total: 349614 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7186,6 +7186,7 @@
 *://*.26ocakdrinkarislerin.cloud/*
 *://*.26ocakfirsatlari.shop/*
 *://*.26ocaksiparislerin.cloud/*
+*://*.26ocaktasepete.cloud/*
 *://*.26ocaktasepete.online/*
 *://*.26ocaktasiparislerver.cloud/*
 *://*.26sarantarz.click/*
@@ -35434,6 +35435,7 @@
 *://*.asdjkfnsjfnjksdfnksjdfnjgknsfd.store/*
 *://*.asdjkhahsd.click/*
 *://*.asdjrwxaue.tk/*
+*://*.asdkaklfldsflklaldtas.sbs/*
 *://*.asdkamzjcsj.net/*
 *://*.asdkanksjajds.online/*
 *://*.asdkasdkas.net/*
@@ -35450,6 +35452,7 @@
 *://*.asdlasdckalsds.cfd/*
 *://*.asdlewkrlkew123rewr-icuds2312.xyz/*
 *://*.asdlfkasklf.com/*
+*://*.asdlkasdklafldas.sbs/*
 *://*.asdlsabanskprdfohaf434.site/*
 *://*.asdmqhmkehmqeq.net/*
 *://*.asdnabda.click/*
@@ -47891,6 +47894,7 @@
 *://*.biat1.xyz/*
 *://*.biatediceksin.shop/*
 *://*.biatediceksin.xyz/*
+*://*.biavid.info/*
 *://*.bibanka.com/*
 *://*.bibelbund.cfd/*
 *://*.biberjeli-tr.com/*
@@ -59702,6 +59706,7 @@
 *://*.bmelkermcer.net/*
 *://*.bmellilereozel.com/*
 *://*.bmenerji.com.tr/*
+*://*.bmenkulsermayeler.com/*
 *://*.bmfkckyll.net/*
 *://*.bmgksesx.net/*
 *://*.bmguvende.online/*
@@ -64525,6 +64530,7 @@
 *://*.bsvrrprmsynnkmpnya.art/*
 *://*.bsvrrprmsynnkmpnya.info/*
 *://*.bsvrrprmsynnkmpnya.pro/*
+*://*.bsvrrprmsynnkmpnyaa.art/*
 *://*.bsvrrprmsynnkmpnyaa.click/*
 *://*.bsvrrprmsynnnkmpnyaa.click/*
 *://*.bsvrrprsmynngrntt.click/*
@@ -96495,6 +96501,8 @@
 *://*.documentsfilesharing.cloud/*
 *://*.documentshare.info/*
 *://*.documentside.top/*
+*://*.documshare.org/*
+*://*.documtransfer.net/*
 *://*.docupdftext.com/*
 *://*.docuprivacy.com/*
 *://*.docusigner-api.com/*
@@ -109789,6 +109797,7 @@
 *://*.efsanegeldiburada.info.tr/*
 *://*.efsanegeldiburada.net.tr/*
 *://*.efsanegunlerbasladi.com/*
+*://*.efsanegunlerbasliyor.com/*
 *://*.efsanegunlergeldi.com/*
 *://*.efsanegunlerimaximum.com/*
 *://*.efsanehabergeldi.com/*
@@ -111531,6 +111540,7 @@
 *://*.ekonomi-analizi.info/*
 *://*.ekonomi-destek.info/*
 *://*.ekonomi-gelecegi.info/*
+*://*.ekonomi-gundem.online/*
 *://*.ekonomi-gundem.pro/*
 *://*.ekonomi-pusulasi.info/*
 *://*.ekonomi-vizyonu.info/*
@@ -141833,6 +141843,7 @@
 *://*.guardcloudtrmedia.com/*
 *://*.guarddenounce.top/*
 *://*.guarddiscern.top/*
+*://*.guardedcloud.net/*
 *://*.guardemarine.xyz/*
 *://*.guardia.us/*
 *://*.guardian-coinbase.com/*
@@ -155314,6 +155325,8 @@
 *://*.hernegligence.top/*
 *://*.hernetselcan.com/*
 *://*.hernyreklamyn.com/*
+*://*.hero-sms.ai/*
+*://*.hero-sms.co/*
 *://*.hero01.press/*
 *://*.herocdn.online/*
 *://*.heroicpropagation.top/*
@@ -155330,6 +155343,11 @@
 *://*.herokudk.net/*
 *://*.herolar.xyz/*
 *://*.heroserver.space/*
+*://*.herosms.ai/*
+*://*.herosms.cc/*
+*://*.herosms.co/*
+*://*.herosms.io/*
+*://*.herosms.vip/*
 *://*.heroswears.com/*
 *://*.heroybirfidan.org/*
 *://*.heroysudesesden.site/*
@@ -180222,6 +180240,7 @@
 *://*.istowkes.icu/*
 *://*.istpazrs1.com/*
 *://*.istpazrs2.com/*
+*://*.istpremier.xyz/*
 *://*.istprmbe1.com/*
 *://*.istprsbe.com/*
 *://*.istqnbqlqmonl.ml/*
@@ -192976,6 +192995,7 @@
 *://*.kczu.net/*
 *://*.kd3k9t.cyou/*
 *://*.kdarvama.com/*
+*://*.kdasldkad348ldksld.sbs/*
 *://*.kddqmw.top/*
 *://*.kdekkltmnet.net/*
 *://*.kdelwmbgabpvumlsu.com/*
@@ -196196,6 +196216,7 @@
 *://*.kmpnyaaprmsynnbasvrr.pro/*
 *://*.kmpnyaaprmsynngrntt.info/*
 *://*.kmpnyaaprmsynngrntt.pro/*
+*://*.kmpnyaaprmsynnnbsvrr.art/*
 *://*.kmpnyaaprmsynnnbsvrrr.art/*
 *://*.kmpnyaaprmsynnnbsvrrr.info/*
 *://*.kmpnyaaprmsynnnbsvrrr.pro/*
@@ -196641,12 +196662,15 @@
 *://*.kobelix.store/*
 *://*.kobetwofour.buzz/*
 *://*.kobi-bugunfirsatisendekazan1.cloud/*
+*://*.kobi-destekmerkezi.com/*
 *://*.kobi-halk-subem.com/*
 *://*.kobi-hibebasvuru.com/*
 *://*.kobi-hibebasvurusu.com/*
 *://*.kobi-hibedestegi.com/*
+*://*.kobi-hibemerkezi.com/*
 *://*.kobi-kredi.com/*
 *://*.kobi-krediformu.com/*
+*://*.kobi-kredimerkezi.com/*
 *://*.kobi-paraf-hediye.com/*
 *://*.kobi-tr-paraf.com/*
 *://*.kobibasvurunutamamla-12.cloud/*
@@ -219805,6 +219829,7 @@
 *://*.mutlualisverisadres.online/*
 *://*.mutlualisverisadres.xyz/*
 *://*.mutlualisverisintekadresi.xyz/*
+*://*.mutlualisverisleri.com/*
 *://*.mutlualisverislers.com/*
 *://*.mutluaraclarmutlu.com.tr/*
 *://*.mutluaraclarmutlu.xyz/*
@@ -236326,6 +236351,7 @@
 *://*.ovcqyq.pw/*
 *://*.ovduzokc33.click/*
 *://*.ovelas.top/*
+*://*.ovelsavn.net/*
 *://*.ovenbuddhist.top/*
 *://*.ovenfabrication.top/*
 *://*.ovenry.xyz/*
@@ -248428,6 +248454,7 @@
 *://*.prmsynnnbsvrrqnb.info/*
 *://*.prmsynnnbsvrrrqnbbb.click/*
 *://*.prmsynnngrnttbsvr.xyz/*
+*://*.prmsynnnkmpnyaaabsvrr.art/*
 *://*.prmsynnnkmpnyaaabsvrrr.art/*
 *://*.prmsynnnkmpnyaaabsvrrr.info/*
 *://*.prmsynnnkmpnyaaabsvrrr.pro/*
@@ -254461,6 +254488,7 @@
 *://*.qnbaktifkampanyalarsube.com/*
 *://*.qnbankasi.com/*
 *://*.qnbanktr.com/*
+*://*.qnbasvurum.com/*
 *://*.qnbasvuruprom.com/*
 *://*.qnbbank.co/*
 *://*.qnbbankasl.top/*
@@ -259975,6 +260003,7 @@
 *://*.resmibntrgirishediyesii.com/*
 *://*.resmibultenler.com/*
 *://*.resmicezakontrolu.com/*
+*://*.resmicezasistemi.org/*
 *://*.resmicezasorgu.org/*
 *://*.resmicezasorgula.org/*
 *://*.resmicezasorgulama.org/*
@@ -263576,6 +263605,7 @@
 *://*.safearistocracy.top/*
 *://*.safebanktest.top/*
 *://*.safecopydisk.com/*
+*://*.safedatabox.net/*
 *://*.safediminish.top/*
 *://*.safedocitsolution.com/*
 *://*.safedocumentgatesolution.com/*
@@ -278106,6 +278136,11 @@
 *://*.smsfavour.com/*
 *://*.smsguvende.online/*
 *://*.smshasarlarimiz.net/*
+*://*.smshero.ai/*
+*://*.smshero.cc/*
+*://*.smshero.co/*
+*://*.smshero.com/*
+*://*.smshero.vip/*
 *://*.smshizmetimiz.com/*
 *://*.smsiptal.me/*
 *://*.smsleaf.com/*
@@ -282443,6 +282478,7 @@
 *://*.spinend.com/*
 *://*.spinepolytechnic.top/*
 *://*.spinicerebellar.com/*
+*://*.spinlogos.com/*
 *://*.spinmorph.com/*
 *://*.spinoneural.com/*
 *://*.spinruise.top/*
@@ -289620,6 +289656,7 @@
 *://*.tankpill.top/*
 *://*.tankspeciality.top/*
 *://*.tannamilk.or.jp/*
+*://*.tanredbeurksdbn.com/*
 *://*.tanrinineli.com/*
 *://*.tanrinineli.de/*
 *://*.tanrinineli.icu/*
@@ -304357,6 +304394,7 @@
 *://*.trustcom.fun/*
 *://*.trustcore.space/*
 *://*.trustd.biz/*
+*://*.trustedfiles.org/*
 *://*.trustedsecurityav.net/*
 *://*.trustedtesisast.com/*
 *://*.trusteecommemoration.top/*
@@ -343156,6 +343194,7 @@
 *://*.yildizlardabuhafta1001.com/*
 *://*.yildizlardabuhaftaa.com/*
 *://*.yildizlardahaftaninb.sbs/*
+*://*.yildizlardasecili.sbs/*
 *://*.yildizlardasongun.com.tr/*
 *://*.yildizlardasongun.online/*
 *://*.yildizlarfirsatibu.sbs/*
