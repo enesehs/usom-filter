@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-09 07:02:09 UTC
-# Toplam: 438209 Domain
+# Son Güncelleme: 2026-02-09 08:35:34 UTC
+# Toplam: 438214 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -121489,6 +121489,7 @@ dijitalvarliktr-ziraatbireysel.com
 dijitalvarliktrweb-ziraatbireysel.com
 dijitalvarlikweb-denizacik.com
 dijitalvarlikweb-ziraatbireysel.com
+dijitalvip001.top
 dijitalvkfbnk.xyz
 dijitalvkfbnkkredibasvuru.xyz
 dijitalvkfcredi049la.co.vu
@@ -291971,6 +291972,7 @@ optyukleme.sg-host.com
 opug8t9e6.duckdns.org
 opusizlememerkezi.xyz
 opv0d81s.duckdns.org
+opvesdsen.net
 opw-global.com
 opwdk.com
 opwdpxwkdxwx.click
@@ -319706,6 +319708,7 @@ randevavu.net
 randeveular.net
 randevfddfunuhmnal.net
 randevhizmet.net
+randevhsktbznu.net
 randevnhaber.b-cdn.net
 randevnvinz.net
 randevsalhizli.xyz
@@ -336342,6 +336345,7 @@ sechsy.com
 sechure-sahhibimnden-com-param-guvendeodeme-yap.tk
 sechureparamguvendeodemeyap-sahibinmden-com.tk
 secili-urunler.online
+seciliurunler.sbs
 seciliurunlerdebu.sbs
 seciliurunlerdekampanya.sbs
 seciliyildizlar.sbs
@@ -427541,6 +427545,7 @@ yenigirisin.fun
 yenigirisinternetsubesiacikdenizbank2019.com
 yenigirismobildenizkredionay.co.vu
 yenigirismobildijitaldenizbankam.co.vu
+yenigirisnbza.com
 yenigirisztra.com
 yenigrsadresmiz.ga
 yenigun-bngsinds.shop
