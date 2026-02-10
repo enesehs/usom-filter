@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-10 06:04:01 UTC
-# Toplam: 438343 Domain
+# Son Güncelleme: 2026-02-10 07:53:07 UTC
+# Toplam: 438357 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6929,6 +6929,7 @@
 1o1frstlarfburdtukenyr.homes
 1o1frstlarfburdtukenyr.lol
 1o1frstlarfburdtukenyr.xyz
+1o1frstlarhemnkapnda.xyz
 1o1frstlarkpnda.online
 1o1frstlrikapnda.shop
 1o1frstlrkapda.shop
@@ -8728,6 +8729,7 @@
 20ocakkampanyasin.xyz
 20ocakkampanyasina.xyz
 20ocakkampanyasinas.xyz
+20ocakmatkapindirimi.xyz
 20ocakmatkapindirimin.xyz
 20ocakzelds64.dns.navy
 20p460gm6.duckdns.org
@@ -16634,6 +16636,7 @@
 6353.hopto.org
 6353426543623.cloud
 63543523418.cloud
+63543545345.duckdns.org
 635455de9d716500.xyz
 6356255521907676932.com.tr
 6356255521907676932.online
@@ -17822,6 +17825,7 @@
 70wtaxetyt1farq63varcp1.ddns.net
 70y3ay556326587b1o.duckdns.org
 70yjieud2.duckdns.org
+710278672.cloud
 7112584.com
 7112585.com
 7112589.com
@@ -22199,6 +22203,7 @@ a-10--1dnynyl-flrsrlari.cfd
 a-10-1-bu-haftada-indrim-var.com
 a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
 a-10-1-kapimda-tr.online
+a-10-1comtr.sbs
 a-10-1flrsatlari.cfd
 a-10-firsatlardunyasia101.wuaze.com
 a-101-5ocak.me
@@ -121855,6 +121860,7 @@ diplomaci.com
 diplomacuisine.top
 diplomacylinger.top
 diplomacypresume.top
+diplomafiyatlari.com
 diplomahizmetiniz.com.tr
 diplomahizmetiniz.xyz
 diplomakayit.online
@@ -133126,6 +133132,7 @@ e-turkiyemiz-gov.com
 e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
+e-tuvturkbaayi.digital
 e-tuvturkbayi.digital
 e-tuvturkbayilik.digital
 e-tuvturkbayisi.digital
@@ -238279,6 +238286,7 @@ kellas71x.dns.navy
 kellas754x.dns.navy
 kellas81x.dns.navy
 kellas8863x.dns.navy
+kellas9999x.dns.navy
 kellenleote.com
 kellerwarzone.ddns.net
 kellvanora.com
@@ -242228,6 +242236,7 @@ kmpnyaaaprmsnynnbsvrrr.pro
 kmpnyaaaqnbbbkatilim.cloud
 kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
+kmpnyaabsvrrprmsynn.info
 kmpnyaabsvrrprmsynnn.info
 kmpnyaabsvrrprmsynnn.pro
 kmpnyaabsvrrraafinnss.click
@@ -258907,6 +258916,7 @@ marketindeindirimivar.sbs
 marketindirim.click
 marketindirimgunleri.xyz
 marketindirimkataloglari.cfd
+marketindirimlerfirsatisbs.com
 marketindirmleri.xyz
 marketing-project.social
 marketing-solutions.guru
@@ -277049,6 +277059,7 @@ netisube-qnbfinansbank.com
 netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
+netkoruma-basvurukredi.cfd
 netkoruma-basvurukredi.xyz
 netkoruma-basvurum.cfd
 netkoruma-basvurum.lat
@@ -284149,6 +284160,7 @@ ocaksongidafirsatlari.com
 ocaksonindirimler.cfd
 ocaksonufirsatlari.cfd
 ocaksonufirsatlari.com
+ocaksonuindirimleri.cfd
 ocaksonukacirmasakin.cfd
 ocaksurprizleri-geldi2019.com
 ocaksurprizlerigeldi-2019.com
@@ -308614,6 +308626,7 @@ prmsynnkmapnyaaabasvuruu.info
 prmsynnkmmpnyaabsvrrr.art
 prmsynnkmmpnyaabsvrrr.info
 prmsynnkmmpnyaabsvrrr.pro
+prmsynnkmpnyaabsvr.info
 prmsynnkmpnyaabsvrr.info
 prmsynnkmpnyaabsvrr.live
 prmsynnnbasvruukampnya.info
@@ -338637,6 +338650,7 @@ seltakipin.fun
 seltyrat.ddns.net
 selversink4.com
 selversink4.site
+selvicicek.com
 selvilyardim.online
 selvinazsubeleri.online
 selvinazsubeleri.xyz
