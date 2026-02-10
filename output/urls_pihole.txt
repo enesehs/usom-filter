@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-10 17:52:55 UTC
-# Toplam: 438484 Domain
+# Son Güncelleme: 2026-02-10 18:54:08 UTC
+# Toplam: 438488 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2060,6 +2060,7 @@
 101-online-alisveris-bugune-ozel-firsatlar-internete-ozel.com
 101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
 101-online-ozel.ooguy.com
+101-online-sadece-bugune-ozel-firsatlar-mobilde-tr.mooo.com
 101-online-siparis-ver-mobilde-bireysel-tr.mooo.com
 101-online-sponsor-ozel-siparis-ver-tr-cep.com
 101-online.net
@@ -56059,6 +56060,7 @@ b2imcll.com
 b2imsell.com
 b2jimcell.com
 b2jmcell.com
+b2k6x7f8q9n4m3sahv.sbs
 b2lcllelonye.com
 b2lewq1t.duckdns.org
 b2mc3ll.net
@@ -172137,6 +172139,7 @@ giris-login-hizlikartdoldurrmaizmirlxsxskf.net
 giris-login.de
 giris-merkezresmiadresi.com
 giris-mobil-gir.cfd
+giris-mobile.sbs
 giris-mobilsube.com
 giris-mobilweb-cep-hizmet.com
 giris-musteri.online
@@ -265338,6 +265341,7 @@ mmgqn2uhp.duckdns.org
 mmhkmazlh.duckdns.org
 mmhp.link
 mmhrsnrndvs.net
+mmhrxsranndevv.org
 mmi-elr.xyz
 mmifkxjwugxeepu.su
 mminer.ddns.net
