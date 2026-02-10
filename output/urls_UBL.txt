@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-10 14:13:42 UTC
-! Total: 349738 rules
+! Last modified: 2026-02-10 15:54:00 UTC
+! Total: 349762 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2268,6 +2268,7 @@
 *://*.11ocakindirimimn.xyz/*
 *://*.11oo11uczs.click/*
 *://*.11subataksizlecepte.online/*
+*://*.11subatsokmarketspetim.cfd/*
 *://*.11trbianse-tr.com.tr/*
 *://*.11trmrr.net/*
 *://*.11ziraat11.cfd/*
@@ -13566,6 +13567,7 @@
 *://*.a-10-1-kapimda-tr.online/*
 *://*.a-10-1comtr.sbs/*
 *://*.a-10-1flrsatlari.cfd/*
+*://*.a-1001buhaftaninindinirimler.com/*
 *://*.a-101-5ocak.me/*
 *://*.a-101-aktuel-market.online/*
 *://*.a-101-aktuel-market.shop/*
@@ -35260,6 +35262,7 @@
 *://*.asdahsdklasdasd.com/*
 *://*.asdajkj432432cnann.com/*
 *://*.asdaksjdlckxcxc.net/*
+*://*.asdalskdalsdfjsd1.sbs/*
 *://*.asdas1252qwdqwsd215612.com/*
 *://*.asdas3124rfdas.icu/*
 *://*.asdas6d54asd4.net/*
@@ -38698,6 +38701,7 @@
 *://*.azazldkrtasxwd.com/*
 *://*.azbp2fq6f.ru/*
 *://*.azcokansdwe.net/*
+*://*.azcrforsamarket.cfd/*
 *://*.azdamiaan-be.com/*
 *://*.azdkrede.com/*
 *://*.aze.bar/*
@@ -46686,6 +46690,7 @@
 *://*.bemzsiparis.online/*
 *://*.ben-trdestegimsorgularim.net/*
 *://*.benalmasambaskasialacalan.shop/*
+*://*.benanlamadimamaniye.uk/*
 *://*.benbabadas.top/*
 *://*.benbabamadoyamadim.net/*
 *://*.benbilekendimibitiremiyorum.click/*
@@ -47459,6 +47464,7 @@
 *://*.betparibu483.com/*
 *://*.betparibu484.com/*
 *://*.betparibu485.com/*
+*://*.betparibu486.com/*
 *://*.betparibu489.com/*
 *://*.betparibu52.com/*
 *://*.betparibu55.com/*
@@ -47770,6 +47776,7 @@
 *://*.bgnsprkls.shop/*
 *://*.bgnstdolnfsfasarn.sbs/*
 *://*.bgnszdengldkszlrds.shop/*
+*://*.bgntrcrfsonline.cfd/*
 *://*.bgobgogimrihehmxerreg.site/*
 *://*.bgoodideas.com/*
 *://*.bgpsouthasia.com/*
@@ -47891,6 +47898,7 @@
 *://*.bi2mncll.net/*
 *://*.bi2price.com/*
 *://*.bi3mmcellkontryukle.online/*
+*://*.biabantmasali.blog/*
 *://*.bialub.com/*
 *://*.biamnncell.com/*
 *://*.bianananceadbvce.com/*
@@ -137332,6 +137340,7 @@
 *://*.giris-turkiye-kapisi.online/*
 *://*.giris-turkiye-kapisi.services/*
 *://*.giris-turkiye-kapisi.tk/*
+*://*.giris-turkiye-mobil.cfd/*
 *://*.giris-turkiye-mobil.com/*
 *://*.giris-turkiye-resmi-govtr.org/*
 *://*.giris-turkiye-tr.icu/*
@@ -140877,6 +140886,7 @@
 *://*.grdis.shop/*
 *://*.gre-tyn.online/*
 *://*.gre6gbuf4f.com/*
+*://*.grea-t-sz.xyz/*
 *://*.greadifuelfortwon.buzz/*
 *://*.greagb.top/*
 *://*.greantibvba.com/*
@@ -151928,6 +151938,7 @@
 *://*.hazinevemaliyebakanligiiade.com/*
 *://*.hazinevemaliyeiadeaktarim.com/*
 *://*.hazinevemaliyeonlineislemlergovtr.tk/*
+*://*.hazinevemaliyetr.net/*
 *://*.hazir-deniztr.net/*
 *://*.hazir-eklimit.com/*
 *://*.hazir-gelmis-neden-almamazlik-yapasin.com/*
@@ -179320,6 +179331,7 @@
 *://*.istanbulluxms.com/*
 *://*.istanbullyklmss.com/*
 *://*.istanbulm-yukleme.online/*
+*://*.istanbulmaxi.shop/*
 *://*.istanbulmemis.com/*
 *://*.istanbulmerkez.click/*
 *://*.istanbulmerkezler.com.tr/*
@@ -189694,6 +189706,7 @@
 *://*.kamudava.com/*
 *://*.kamudava.net/*
 *://*.kamudavalarim.org/*
+*://*.kamudavasorgulama.org/*
 *://*.kamudavauzlasma.com/*
 *://*.kamudavauzlasma.org/*
 *://*.kamudestegibasvuruformu.com/*
@@ -195422,6 +195435,7 @@
 *://*.kixmgxjxz.ga/*
 *://*.kiyametalametleri.net/*
 *://*.kiyamuyurumsanasencohguzelsin.top/*
+*://*.kiyaslarsanbozarim.org/*
 *://*.kiye.xyz/*
 *://*.kiyiyaacildimyrrx.net/*
 *://*.kiymet-kurumu.org/*
@@ -207420,6 +207434,7 @@
 *://*.maliyebakanligigirisitr.ml/*
 *://*.maliyebakanligiiadebirimi.com/*
 *://*.maliyebilgi.org/*
+*://*.maliyeborc.org/*
 *://*.maliyeborcu.org/*
 *://*.maliyeburomuz.com/*
 *://*.maliyeburonuz.com/*
@@ -234534,6 +234549,7 @@
 *://*.opcez.xyz/*
 *://*.opcobw.top/*
 *://*.opdbjtag.com/*
+*://*.opdyson.com/*
 *://*.opedanholes.info/*
 *://*.opedrengois.top/*
 *://*.opehostionline.ga/*
@@ -235546,6 +235562,7 @@
 *://*.ostitchy21.xyz/*
 *://*.ostlyepel.top/*
 *://*.ostnbllrdanbrdayzbsf.sbs/*
+*://*.ostnbrdansrlrsz.sbs/*
 *://*.ostraciidae.com/*
 *://*.ostraeaceashes.live/*
 *://*.ostriwin.com/*
@@ -256617,6 +256634,7 @@
 *://*.radnevunoktasi.net/*
 *://*.radonramus.net/*
 *://*.radyoakvatan.com/*
+*://*.radyodavakko.org/*
 *://*.radyohaber.com.tr/*
 *://*.raeahnpspn.org/*
 *://*.raedom.store/*
@@ -267111,6 +267129,7 @@
 *://*.satin-ile-alimim.com.tr/*
 *://*.satin1.xyz/*
 *://*.satinal-a101.online/*
+*://*.satinal-aninda.com/*
 *://*.satinal-guvenli.com.tr/*
 *://*.satinal-guvenli.com/*
 *://*.satinal-tr.online/*
@@ -271421,6 +271440,7 @@
 *://*.sesarar.top/*
 *://*.sescaeytgepa1.net/*
 *://*.sesgetiren.club/*
+*://*.sesim-efektsizde-pioneer-gibi-her-gun-streetfighter.uk/*
 *://*.sesimegel.com.tr/*
 *://*.sesiniduymadanbenyatmadim.click/*
 *://*.sesisitmer.com/*
@@ -279407,6 +279427,7 @@
 *://*.sokmarketsubataktuelurunler.cfd/*
 *://*.sokmarketsubatfirsatlari.cfd/*
 *://*.sokmarketsubatfirssatlari.cfd/*
+*://*.sokmarketsubatindirimleri.cfd/*
 *://*.sokmarketsubatsepetim.cfd/*
 *://*.sokmarkettekitiklakapinda.cfd/*
 *://*.sokmarketten.online/*
@@ -284205,6 +284226,7 @@
 *://*.stanleyburdagel.xyz/*
 *://*.stanleyburdauygun.site/*
 *://*.stanleycarrfour.store/*
+*://*.stanleycatalyst.xyz/*
 *://*.stanleyclassicc.vip/*
 *://*.stanleycordi.xyz/*
 *://*.stanleycosmos.xyz/*
@@ -284631,6 +284653,7 @@
 *://*.staynumber.top/*
 *://*.staywithorchid.com/*
 *://*.stbiqayo.com/*
+*://*.stblrdandansansa.shop/*
 *://*.stcepdestek.com/*
 *://*.stchkr.rest/*
 *://*.stdenizbank.com/*
@@ -325226,6 +325249,7 @@
 *://*.wkjxdxhmfglopsi.ru/*
 *://*.wklccinohmjnkyi.ru/*
 *://*.wklgdxrkogvfaiigp.me/*
+*://*.wklxda.homes/*
 *://*.wkmp9fspwz.xyz/*
 *://*.wkmpnyybsvrrrprmsynn.click/*
 *://*.wkofssdmksfadjg.buzz/*

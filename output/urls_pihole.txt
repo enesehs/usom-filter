@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-10 14:13:42 UTC
-# Toplam: 438436 Domain
+# Son Güncelleme: 2026-02-10 15:54:00 UTC
+# Toplam: 438465 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1960,6 +1960,7 @@
 101-de-mobile-ozel.mobil-shop-sponsor.com
 101-de-online-ozel-indirimler-tr.mooo.com
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
+101-de-ozel-firsatlar-bugune-ozel-online-indirimler-tr.mooo.com
 101-de-ozel-mobil.cep-shop-sponsor.com
 101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
@@ -3595,6 +3596,7 @@
 11puyc.duckdns.org
 11saysdysad.dreamhosters.com
 11subataksizlecepte.online
+11subatsokmarketspetim.cfd
 11svzb.duckdns.org
 11trbianse-tr.com.tr
 11trmrr.net
@@ -22208,6 +22210,7 @@ a-10-1-kapimda-tr.online
 a-10-1comtr.sbs
 a-10-1flrsatlari.cfd
 a-10-firsatlardunyasia101.wuaze.com
+a-1001buhaftaninindinirimler.com
 a-101-5ocak.me
 a-101-aktuel-market.online
 a-101-aktuel-market.shop
@@ -50351,6 +50354,7 @@ asdahsdhashdhashdahsdhashdashdsda3.click
 asdahsdklasdasd.com
 asdajkj432432cnann.com
 asdaksjdlckxcxc.net
+asdalskdalsdfjsd1.sbs
 asdaryder.duckdns.org
 asdas1252qwdqwsd215612.com
 asdas3124rfdas.icu
@@ -50487,6 +50491,7 @@ asdfasdfa.ml
 asdfasdfadsfasdfa.store
 asdfasdfasd.net
 asdfasdfasdfkickassdfassdfasdfsfd.com
+asdfasdfcsf.cc.dvrlists.com
 asdfasdfhasjdas.net
 asdfasdfsdf.com
 asdfasdgsw.click
@@ -54955,6 +54960,7 @@ azccdczped.duckdns.org
 azcezalar.22web.org
 azcloud.jetos.com
 azcokansdwe.net
+azcrforsamarket.cfd
 azdamiaan-be.com
 azdao01wq.duckdns.org
 azdkrede.com
@@ -64481,6 +64487,7 @@ bemzsiparis.online
 ben-trdestegimsorgularim.net
 benaliosman.sa.com
 benalmasambaskasialacalan.shop
+benanlamadimamaniye.uk
 benbabadas.top
 benbabamadoyamadim.net
 benbensenenensadasd.duckdns.org
@@ -65364,6 +65371,7 @@ betparibu482.com
 betparibu483.com
 betparibu484.com
 betparibu485.com
+betparibu486.com
 betparibu489.com
 betparibu52.com
 betparibu55.com
@@ -65750,6 +65758,7 @@ bgnsonyilkampnyaewak.shop
 bgnsprkls.shop
 bgnstdolnfsfasarn.sbs
 bgnszdengldkszlrds.shop
+bgntrcrfsonline.cfd
 bgobgogimrihehmxerreg.site
 bgopp8lzf.duckdns.org
 bgpsouthasia.com
@@ -65960,6 +65969,7 @@ bi5ats.duckdns.org
 bi5mft.duckdns.org
 bi5yukleme.22web.org
 bi5yxl3ez.duckdns.org
+biabantmasali.blog
 biadabrohkuh.duckdns.org
 bialub.com
 biamnncell.com
@@ -172207,6 +172217,7 @@ giris-turkiye-kapisi.app
 giris-turkiye-kapisi.online
 giris-turkiye-kapisi.services
 giris-turkiye-kapisi.tk
+giris-turkiye-mobil.cfd
 giris-turkiye-mobil.com
 giris-turkiye-resmi-govtr.org
 giris-turkiye-tr.icu
@@ -189076,6 +189087,7 @@ hazinevemaliyebakanligihizmeti.com
 hazinevemaliyebakanligiiade.com
 hazinevemaliyeiadeaktarim.com
 hazinevemaliyeonlineislemlergovtr.tk
+hazinevemaliyetr.net
 hazir-deniztr.net
 hazir-eklimit.com
 hazir-gelmis-neden-almamazlik-yapasin.com
@@ -221541,6 +221553,7 @@ istanbullurolrmsusuna.com
 istanbulluxms.com
 istanbullyklmss.com
 istanbulm-yukleme.online
+istanbulmaxi.shop
 istanbulmemis.com
 istanbulmerkez.click
 istanbulmerkez.sa.com
@@ -226615,6 +226628,7 @@ iztannbulpazargunu.net
 izth5at.duckdns.org
 iztirvlsmkkk.net
 iztleasmekanikcifirsati.blogspot.com
+iztlgs.dns.navy
 iztoo.is-best.net
 iztopia.com
 iztoxl.top
@@ -234134,6 +234148,7 @@ kamudansikayetimvar.site
 kamudava.com
 kamudava.net
 kamudavalarim.org
+kamudavasorgulama.org
 kamudavauzlasma.com
 kamudavauzlasma.org
 kamudestegibasvuruformu.com
@@ -239318,6 +239333,7 @@ kgm.otoyollarlz.online
 kgm.otoyollla.online
 kgm.pcksac.cc
 kgm.scdqwl.homes
+kgm.wklxda.homes
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
 kgmaa.top
@@ -241047,6 +241063,7 @@ kixcgojy.com
 kixmgxjxz.ga
 kiyametalametleri.net
 kiyamuyurumsanasencohguzelsin.top
+kiyaslarsanbozarim.org
 kiybqhi9.duckdns.org
 kiye.xyz
 kiyg74q.duckdns.org
@@ -257608,6 +257625,7 @@ maliyebakanligi.com.tr
 maliyebakanligigirisitr.ml
 maliyebakanligiiadebirimi.com
 maliyebilgi.org
+maliyeborc.org
 maliyeborcsorgula.pages.dev
 maliyeborcu.org
 maliyeburomuz.com
@@ -283155,6 +283173,7 @@ nwelseverrrr.net
 nweow8.mariostrategy.my.id
 nwesawexold.net
 nwesdwesdawe.net
+nweywey.duckdns.org
 nwf147l7jibg4q.ddns.net
 nwflatfeelistingservice.com
 nwfsbcx.duckdns.org
@@ -287293,6 +287312,7 @@ onl-lp.blogspot.com
 onl-nekara-caxca.xyz
 onl-pak-t.blogspot.com
 onl-pakt-m.blogspot.com
+onl-scarsef.grea-t-sz.xyz
 onl-xpakt.blogspot.com
 onl.andycopyprinter.net
 onl11lineis1emgir1s.online
@@ -291736,6 +291756,7 @@ opcez.xyz
 opcobw.top
 opdbjtag.com
 opdulvlvjq.duckdns.org
+opdyson.com
 opedanholes.info
 opedrengois.top
 opedro.ddns.net
@@ -292986,6 +293007,7 @@ ostimelektronik.shop
 ostitchy21.xyz
 ostlyepel.top
 ostnbllrdanbrdayzbsf.sbs
+ostnbrdansrlrsz.sbs
 ostraciidae.com
 ostraeaceashes.live
 ostriwin.com
@@ -294065,6 +294087,7 @@ ov7rwte6wbkjcb50yvargda.ddns.net
 ov7tmxih3va05ji.ddns.net
 ova1o1.net
 ova40nf.duckdns.org
+ovaciginasireti.duckdns.org
 ovadiayosef.zapto.org
 ovaduw.com
 ovalphysical.top
@@ -319126,6 +319149,7 @@ radnevunoktasi.net
 radobedoc.hopto.org
 radonramus.net
 radyoakvatan.com
+radyodavakko.org
 radyohaber.com.tr
 raeahnpspn.org
 raedom.store
@@ -331937,6 +331961,7 @@ sahibinden.satin-alimlar.com.tr
 sahibinden.satin-alimlarimiz.xyz
 sahibinden.satin-alimlarin.click
 sahibinden.satin-alkolay-sat.com.tr
+sahibinden.satinal-aninda.com
 sahibinden.satinal-guvenli.com.tr
 sahibinden.satinal.site
 sahibinden.satinalimlar.com.tr
@@ -341055,6 +341080,7 @@ sesaoa1o1.net
 sesarar.top
 sescaeytgepa1.net
 sesgetiren.club
+sesim-efektsizde-pioneer-gibi-her-gun-streetfighter.uk
 sesimegel.com.tr
 sesiniduymadanbenyatmadim.click
 sesisitmer.com
@@ -350375,6 +350401,7 @@ sokmarketsubat.cfd
 sokmarketsubataktuelurunler.cfd
 sokmarketsubatfirsatlari.cfd
 sokmarketsubatfirssatlari.cfd
+sokmarketsubatindirimleri.cfd
 sokmarketsubatsepetim.cfd
 sokmarkett.duckdns.org
 sokmarkettekitiklakapinda.cfd
@@ -356070,6 +356097,7 @@ stanleybaseline.xyz
 stanleyburdagel.xyz
 stanleyburdauygun.site
 stanleycarrfour.store
+stanleycatalyst.xyz
 stanleyclassicc.vip
 stanleycordi.xyz
 stanleycosmos.xyz
@@ -356618,6 +356646,7 @@ staywithorchid.com
 staywoke.ddns.net
 stb3jfv.duckdns.org
 stbiqayo.com
+stblrdandansansa.shop
 stcchd.duckdns.org
 stcepdestek.com
 stchkr.rest
