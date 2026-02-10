@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-10 11:40:04 UTC
-# Toplam: 438405 Domain
+# Son Güncelleme: 2026-02-10 12:41:43 UTC
+# Toplam: 438415 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45291,6 +45291,7 @@ anindamarketim.com
 anindamenuislm.com
 anindamerkez.b-cdn.net
 anindamerkezz.b-cdn.net
+anindamobil.site
 anindamobilsizlerlekampanyafirsatbance.tech
 anindamoney.net
 anindamtv.arabamuayenesi.xyz
@@ -142213,6 +142214,8 @@ emekistanbulsigorta.com
 emekklibasvur.com
 emekklibasvuru.com
 emekklibasvurusu.com
+emekkliiprmsnynkmpnyaa.info
+emekkliiprmsnynkmpnyaa.pro
 emeklbasvru.com
 emeklbasvur.com
 emeklbasvurusu.com
@@ -154428,6 +154431,7 @@ fdjsmw.top
 fdkgmghmrd.org
 fdkjgdkjaksjfafs.com
 fdkoqslkkj.duckdns.org
+fdkskjjkdsfasldklsd2.sbs
 fdlgvpz.com
 fdlmwumczc.duckdns.org
 fdlwmn.top
@@ -162876,6 +162880,7 @@ fuaiuebndieufeufu.info
 fuaiuebndieufeufu.net
 fuaiuebndieufeufu.su
 fuanshizmo.com
+fuararar.cfd
 fuarexpotag.xyz
 fuarpalas.com
 fuathocafitness.net
@@ -221573,6 +221578,7 @@ istanbulsizinizindjddd.com
 istanbulskart.net
 istanbulskartlar.blogspot.com
 istanbulskartsbasvuru.com
+istanbulskhost.com
 istanbulsoguk.myshopify.com
 istanbulsolom.shop
 istanbulson.online
@@ -283147,6 +283153,7 @@ nwkbh0yn.duckdns.org
 nwkw0v.duckdns.org
 nwmji8738.duckdns.org
 nwnekyfgkrldolkznyd.net
+nwntwasd.blogspot.com
 nwobio.io
 nwoccs.zapto.org
 nwokeomadaxy.hopto.org
@@ -315773,6 +315780,7 @@ qgrubmbayu.duckdns.org
 qgsdxz09q.duckdns.org
 qgsgyp.top
 qgskfc.duckdns.org
+qgtxtebl.workers.dev
 qguj7xuxs.supersurvey.com
 qgv71xo.duckdns.org
 qgvhggvg.info
@@ -391382,6 +391390,7 @@ v1steki04.duckdns.org
 v1svy9st7.duckdns.org
 v1u.us
 v1vbnrpv.duckdns.org
+v2-api.mooo.com
 v2-denizbireysel.tk
 v2-denizbireyselsite.tk
 v2-denizdigitalplatform.tk
@@ -395578,6 +395587,7 @@ vdenizbank-hediye.com
 vdenizbank.com
 vdettaykatallogirisllemenumm.com
 vdfbdfgdgs.sa.com
+vdfccjpnedujhrzscjtq.supabase.co
 vdfdllfineverly.online
 vdfe.site
 vdfmail.click
