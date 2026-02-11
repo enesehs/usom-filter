@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-11 16:52:58 UTC
-# Toplam: 438630 Domain
+# Son Güncelleme: 2026-02-11 18:44:51 UTC
+# Toplam: 438644 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -49919,6 +49919,7 @@ arsivgeriyatirim.com
 arsiviade.com
 arsivtbmmtr101-tcr.com
 arsizardam.sa.com
+arskargo.blogspot.com
 arskargomnerdesin.com
 arskrgtakip.pages.dev
 arskrgtkpislemlri.com
@@ -93546,6 +93547,7 @@ celiktassubesi.xyz
 celiktassubesindekampanya.com.tr
 celiktassubesindekampanya.online
 celiktassubesindekampanya.xyz
+celiktencerekampanyasi.com
 celiktenceremobtas.tk
 celiktepsilergeliyor.tk
 celimot.xyz
@@ -149017,6 +149019,7 @@ evbkjnrkljgn.net
 evbul.click
 evburada.click
 evburasi.click
+evbutcesinedestekverenfiyatlar.cfd
 evcalisma.com
 evcanpaket.store
 evcaveresbelek.top
@@ -180885,6 +180888,7 @@ guzelgunlerdenizbank.tk
 guzelgunlerdenizde.cf
 guzelgunlerdenizde.com
 guzelgunlerdeyiz.sbs
+guzelgunlerdeyizbugn.shop
 guzelgunleregelsendefer.net
 guzelgunlereikibinyirmibes.shop
 guzelgunlergorecegiz.com
@@ -209662,6 +209666,7 @@ ikibinyirmibesguzelgel.shop
 ikibinyirmibesguzelgeldi.shop
 ikibinyirmibeskampanyalari.xyz
 ikibinyirmibeskmpnylarinikcrmayin.cfd
+ikibinyirmibesseninyilin.shop
 ikibinyirmiyukle.22web.org
 ikibinyukleme.22web.org
 ikicapra123.duckdns.org
@@ -213054,6 +213059,7 @@ indirimgunlerisuper.com
 indirimgunlerisupurges101.online
 indirimgunlugu.net
 indirimgunu-tarifeler-turkcell.com
+indirimgunu.cfd
 indirimgunu.girislr.com
 indirimgunu.online
 indirimgunuelktrk.online
@@ -243101,6 +243107,7 @@ kobidestekbasvuru.com.tr
 kobidestekhat.com
 kobidestekhibesi.cfd
 kobidestekmerkezi.com
+kobidestekmerkeziniz.sbs
 kobidestekplatformu.cfd
 kobihibebasvuru.sbs
 kobihibedestegi.cfd
@@ -347543,6 +347550,7 @@ sizinurunlerinizsepette.online
 sizinurunlerinizsepette.xyz
 siziozelgiris.com
 sizirleand.webredirect.org
+sizirleands.webredirect.org
 sizisevenler.cfd
 sizistenizbizyaptikvkf.com
 sizistersenizherseyolur.tech
@@ -350255,6 +350263,7 @@ sokkampanya.online
 sokkampanyaceptefirsatlar.com
 sokkampanyafirsat.com.tr
 sokkampanyaindirimler.online
+sokkampanyalar.cfd
 sokkampanyalar.online
 sokkampanyalar.shop
 sokkampanyalarceptee.com
@@ -360693,6 +360702,7 @@ supurgebekr.online
 supurgebs.store
 supurgebsd.store
 supurgeburdas.store
+supurgeburdays.click
 supurgeburdays.sbs
 supurgeburdays.xyz
 supurgecampnysal.sbs
@@ -360712,6 +360722,7 @@ supurgecikamp.shop
 supurgecikamp.store
 supurgeciler.com
 supurgecilis.store
+supurgecilss.click
 supurgecilss.my
 supurgecilss.sbs
 supurgecimi.com
@@ -370802,6 +370813,7 @@ titjooftron.ru
 title-become.com
 titnovacrion.top
 tito.ddns.net
+titogrntii.my-homeip.net
 titoharor.ddns.net
 titouam.duckdns.org
 titowdxkw.click
@@ -391208,6 +391220,7 @@ uyrpkyv.org
 uysalsigorta.net
 uysp.xyz
 uyt1.de
+uytdyson.com
 uythgs.rf.gd
 uytiovklulvulu.ddns.net
 uytricmpreprom.com
@@ -435179,6 +435192,7 @@ ziraat-avantaj108.xyz
 ziraat-avantajserisi12.fun
 ziraat-avantajserisi14.fun
 ziraat-avantajserisi2.xyz
+ziraat-avantajserisi24.fun
 ziraat-avantajserisi3.xyz
 ziraat-avantajserisi31.fun
 ziraat-avantajserisi32.fun
