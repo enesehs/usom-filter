@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-11 10:36:53 UTC
-! Total: 349812 rules
+! Last modified: 2026-02-11 11:35:00 UTC
+! Total: 349821 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2268,6 +2268,7 @@
 *://*.11ocakindirimimn.xyz/*
 *://*.11oo11uczs.click/*
 *://*.11subataksizlecepte.online/*
+*://*.11subatsepetim.cfd/*
 *://*.11subatsokmarketspetim.cfd/*
 *://*.11trbianse-tr.com.tr/*
 *://*.11trmrr.net/*
@@ -3534,6 +3535,7 @@
 *://*.16-ocak-ozel.site/*
 *://*.16-tons.ru/*
 *://*.160429748283.xyz/*
+*://*.1612956872.cloud/*
 *://*.16171675-coinbase.com/*
 *://*.16171832-coinbase.com/*
 *://*.16178234-coinbase.com/*
@@ -76602,6 +76604,7 @@
 *://*.cntstswin.click/*
 *://*.cnuygab.com/*
 *://*.cnvirandevuxlfmc.net/*
+*://*.cnvvca.help/*
 *://*.cnxtours.com.br/*
 *://*.cny06.com/*
 *://*.cnybiajpe9al9nhdrpvux0sl.net/*
@@ -136210,6 +136213,7 @@
 *://*.getirentcar.com/*
 *://*.getirfinan.com/*
 *://*.getirgelir.com/*
+*://*.getirgelir.org/*
 *://*.getirgoturdom330.com/*
 *://*.getirhqs.xyz/*
 *://*.getirkariyer.com/*
@@ -138587,6 +138591,7 @@
 *://*.global-verifications.com/*
 *://*.global-verify.com/*
 *://*.global-world-news.net/*
+*://*.global-yatirim.world/*
 *://*.global-yeniyilozel.com/*
 *://*.global-ziraatbankasi.ml/*
 *://*.global18subat2siparislerin.cloud/*
@@ -196331,6 +196336,7 @@
 *://*.kmpnyaabsvrrrprmsynnn.info/*
 *://*.kmpnyaabsvrrrprmsynnn.pro/*
 *://*.kmpnyaacllkprrmsyn.art/*
+*://*.kmpnyaaemekkliiprmsnyn.pro/*
 *://*.kmpnyaakdayaz.name.tr/*
 *://*.kmpnyaaprmsynnbasvrr.info/*
 *://*.kmpnyaaprmsynnbasvrr.pro/*
@@ -224674,6 +224680,7 @@
 *://*.nlsmdldzhzzndlh.net/*
 *://*.nlsmfnnsbndmad.net/*
 *://*.nlsustrvslostra.com/*
+*://*.nltlantlanltanla.net/*
 *://*.nltlntltnalnalnaan.net/*
 *://*.nltnltlntltnlnt.net/*
 *://*.nltnltltnlntlankana.net/*
@@ -229859,6 +229866,7 @@
 *://*.olusudusa.site/*
 *://*.olutrapo.ru/*
 *://*.oluwahkudi2017.ml/*
+*://*.olvasner.net/*
 *://*.olvykwljxnchchcnn.com/*
 *://*.olwaysul.ru/*
 *://*.olx.website/*
@@ -233627,6 +233635,7 @@
 *://*.onlineozelsepet.shop/*
 *://*.onlineozelsinirlikampanyalar.com/*
 *://*.onlineozelsiparis.online/*
+*://*.onlineozelsokmarket.cfd/*
 *://*.onlineozelsupuurgedekampaniiya.online/*
 *://*.onlineozeltemmuzindirimi.com/*
 *://*.onlineozelurunler.info/*

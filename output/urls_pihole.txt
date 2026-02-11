@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-11 10:36:53 UTC
-# Toplam: 438531 Domain
+# Son Güncelleme: 2026-02-11 11:35:00 UTC
+# Toplam: 438542 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3598,6 +3598,7 @@
 11puyc.duckdns.org
 11saysdysad.dreamhosters.com
 11subataksizlecepte.online
+11subatsepetim.cfd
 11subatsokmarketspetim.cfd
 11svzb.duckdns.org
 11trbianse-tr.com.tr
@@ -5191,6 +5192,7 @@
 1604.ddns.net
 160429748283.xyz
 1612579504.universalimage.org
+1612956872.cloud
 16171675-coinbase.com
 16171832-coinbase.com
 16178234-coinbase.com
@@ -99548,6 +99550,7 @@ cnuyvwzhme.duckdns.org
 cnverivyacntbsnsmx0ui.duckdns.org
 cnvirandevuxlfmc.net
 cnvpvg14.duckdns.org
+cnvvca.help
 cnwshare.ddns.net
 cnxtours.com.br
 cny06.com
@@ -170806,6 +170809,7 @@ getircarrentle.com
 getirentcar.com
 getirfinan.com
 getirgelir.com
+getirgelir.org
 getirgoturdom330.com
 getirhqs.xyz
 getirkariyer.com
@@ -173811,6 +173815,7 @@ global-turkey-finans-hizmeti.net
 global-verifications.com
 global-verify.com
 global-world-news.net
+global-yatirim.world
 global-yeniyilozel.com
 global-ziraatbankasi.ml
 global.bitmex.com.de
@@ -242343,6 +242348,7 @@ kmpnyaabsvrrrprmsynnn.art
 kmpnyaabsvrrrprmsynnn.info
 kmpnyaabsvrrrprmsynnn.pro
 kmpnyaacllkprrmsyn.art
+kmpnyaaemekkliiprmsnyn.pro
 kmpnyaakdayaz.name.tr
 kmpnyaaprmsynnbasvrr.info
 kmpnyaaprmsynnbasvrr.pro
@@ -279593,6 +279599,7 @@ nlsmfnnsbndmad.net
 nlsniji0d.duckdns.org
 nlsustrvslostra.com
 nlt-gn-btrv.my-homeip.net
+nltlantlanltanla.net
 nltlntltnalnalnaan.net
 nltnltlntltnlnt.net
 nltnltltnlntlankana.net
@@ -286404,6 +286411,7 @@ oluwa103.hopto.org
 oluwa104.hopto.org
 oluwahkudi2017.ml
 oluwashowmercy.hopto.org
+olvasner.net
 olvvjb22.ddns.net
 olvykwljxnchchcnn.com
 olw4gfyj1bef58g4y01x1bc.ddns.net
@@ -290676,6 +290684,7 @@ onlineozelsel.blogspot.com
 onlineozelsepet.shop
 onlineozelsinirlikampanyalar.com
 onlineozelsiparis.online
+onlineozelsokmarket.cfd
 onlineozelsupuurgedekampaniiya.online
 onlineozeltemmuzindirimi.com
 onlineozelurunler.info
@@ -333682,6 +333691,7 @@ saksodanjodo.club
 saksofonga2a4040.xyz
 saksofonga3a4040.xyz
 saksofonstyle.host
+saksuksakkk-2fd6f9ef5a49.herokuapp.com
 sakura19.net
 sakura69.net
 sakuracheck.cloud
@@ -405123,6 +405133,7 @@ website661834211.nicepage.io
 website6618342111.nicepage.io
 website6618874.nicepage.io
 website6618980.nicepage.io
+website6619449.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
