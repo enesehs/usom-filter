@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-11 14:06:56 UTC
-# Toplam: 438596 Domain
+# Son Güncelleme: 2026-02-11 16:52:58 UTC
+# Toplam: 438630 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -70,6 +70,7 @@
 00000111.hopto.org
 000002011111-111.shop
 00001000010001.cloud
+00001101011.duckdns.org
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
@@ -18490,6 +18491,7 @@
 78.128.114.66
 78.46.212.52
 780a.makeki0x1.com
+78112351235.cfd
 782y376280ki327.icu
 783410583.cloud
 7834216376219410.com.tr
@@ -33080,6 +33082,7 @@ agriweek.com
 agriwellness.world
 agrocz.com
 agrodronne.pro
+agroecologyguide.digital
 agroeconb.live
 agrogen.com.tr
 agrolumina.com
@@ -51819,6 +51822,7 @@ atessan.online
 atessgorta.online
 atest.mcdir.ru
 atestrk1.app
+atexco.africa
 atexmodels.co.za
 atfbvqkffw.duckdns.org
 atgaocasdiia.net
@@ -63009,6 +63013,7 @@ bbvam-garantiwebde.com
 bbvamayis2022.ml
 bbvamayisdanbonus.ml
 bbvamgarantimiz.com
+bbvamobil.b-cdn.net
 bbvamobil.com.tr
 bbvamobil.top
 bbvamobilbasvurukanali.site
@@ -65758,6 +65763,7 @@ bgnlk-brdn-gln.cfd
 bgnlr-ng-smd.shop
 bgnlr-ngb-smd.shop
 bgnolsunniver.b-cdn.net
+bgnscrfsadacarfsa.cfd
 bgnsizlerdenglnfrstlr.online
 bgnsngnvrdkbdrdk.shop
 bgnsnkzbrdayzszdnr.shop
@@ -65777,6 +65783,7 @@ bgrgercekolama.online
 bgrkj.com
 bgrudagyiz.bizimle1o1len.com
 bgscrfrsnline.cfd
+bgscrfsadacarfsa.cfd
 bgscrfsaonl.cfd
 bgsh4h2.duckdns.org
 bgsikort.com.tr
@@ -91337,6 +91344,7 @@ careffoursa.care
 careffuorsa.com
 careforsadanalweb2026tr.com
 careforsanal.cfd
+careforsasper.cfd
 carefour-arg.com
 carefour-tr.cfd
 carefour.jiahs.xyz
@@ -103636,6 +103644,7 @@ contactswebaccion.space
 contactswebaccion.store
 contactupdt.hopto.org
 contactverify.hopto.org
+contactyeasmin.com
 contadesuspensao.hopto.org
 contador5xm.hopto.org
 contagiousdenounce.top
@@ -105946,6 +105955,7 @@ crfs-indrm.site
 crfsa-com.store
 crfsa.cfd
 crfsada.cfd
+crfsadacarfsa.cfd
 crfsadaonln.cfd
 crfsaddncrfsayacrfsdn.com
 crfsadngelcrfsayaglyr.com
@@ -106148,6 +106158,7 @@ cronoze.com
 cronsell.duckdns.org
 crop21broken.top
 cropagitate.top
+cropcircleforum.today
 cropeagram99.xyz
 cropenlist.top
 cropomhxty.duckdns.org
@@ -123129,6 +123140,7 @@ dnn.duckduckanimesdownload.net
 dnndndndndndndndnn.com.tr
 dnnfrsataylarimiz.cfd
 dnnlzwsnpm.duckdns.org
+dnnscrfsadacarfsa.cfd
 dnnszdasddarabbbbaahhediyesiii.net
 dnnszdasddarabbbbaxhhediyesiii.net
 dnnszdasdparabbbbaahhediyesiii.net
@@ -143992,6 +144004,7 @@ engncllx-fristlllrindayni.xyz
 engncllxmrxtfirstlarii.xyz
 engncllxxmrxtfirstlarii.xyz
 engnclodmhzmtibrda.net
+engncrfshiprskan.cfd
 engndazclll-mrkdktznsolnlzzne.net.tr
 engndclllmrxtfrslltirnda.click
 engnddclllmrxxtfrslltirnda.click
@@ -145359,6 +145372,7 @@ enuygunkiralikarabalar.com
 enuygunkiralikoto.com
 enuygunkredi2025de.com
 enuygunlar.name.tr
+enuygunmarketaktuelurunler.cfd
 enuygunmarketfirsatlari.click
 enuygunmarketfiyatlari.cfd
 enuygunsigortam.homes
@@ -153164,6 +153178,7 @@ fakeidmaker.onlinewebshop.net
 fakenitro666.ddns.net
 faker.ddns.net
 fakers.co.jp
+fakfukfakkkk-1097ea918206.herokuapp.com
 fakimaie.hopto.org
 fakir12.xyz
 fakir15.online
@@ -153424,6 +153439,7 @@ fareyesonhasereciler.site
 fareyesonhaserecilerkolaycanes.xyz
 fareyesonisthasereyeson.net
 farfalla33.ddns.net
+farfinable.top
 fargo-85connect.ddns.net
 fargo019-secure.ddns.net
 fargo23-support.ddns.net
@@ -158849,6 +158865,7 @@ firsatlarsokta.typhonreklam.workers.dev
 firsatlarsoktainsaataozel.shop
 firsatlarsonbahar.online
 firsatlarsonnokt.sa.com
+firsatlarsonocaka101.com
 firsatlarsubesigeldi.xyz
 firsatlartemmuz-101.space
 firsatlartemmuzda.com
@@ -159688,6 +159705,7 @@ fkksjobnn43.org
 fkl221sadasfsaf.com
 fkl291391239sakf.shop
 fklajsgjklwq.net
+fklaklasdklalfkdfksd.cfd
 fklanceabs.com
 fklfd5sk.duckdns.org
 fklnestcju.duckdns.org
@@ -162766,6 +162784,7 @@ fsksgskksffskaskfskfkgskskfs.online
 fskwtlwtpeyh.click
 fsky2.hopto.org
 fslakdasjdnsasjsj.com
+fslklasdlafdsfjkakdas.cfd
 fsmkgmwbgcshgsonbrcode.duckdns.org
 fsmnwsdnfmsn.net
 fsociety4.hopto.org
@@ -189107,6 +189126,7 @@ hazinemaliye.net
 hazinemaliye.org
 hazinemaliyeeiade1.com
 hazinemaliyeodeme.com
+hazinemaliyetc.net
 hazinemaliyetc.org
 hazinemaliyetr.com
 hazinemaliyetr.net
@@ -224698,7 +224718,9 @@ izltasdafrsatayuzbride.blogdns.com
 izltasinburada.xyz
 izltasinmarklari.xyz
 izltaslignlerin.xyz
+izltgcd.blogspot.com
 izltsbrada.xyz
+izltsfot.dns.navy
 izltsfrstim.dnsup.net
 izltsgunu.blogspot.com
 izltskisltma.xyz
@@ -237350,6 +237372,7 @@ kau5ap.duckdns.org
 kauannjrat.ddns.net
 kaudng.cn
 kauojfavkg.duckdns.org
+kauou.cn
 kauqarxauswu.ddns.net
 kauzxdzegw.duckdns.org
 kavach.space
@@ -251351,6 +251374,7 @@ linkwp.cc
 linkyoneticisi.ml
 linnetachilles88.xyz
 linnj0.duckdns.org
+linnkscep.com
 lino4glaca.today
 linoo.wenxinzhineng.top
 linpttinteraktif.com
@@ -252551,6 +252575,7 @@ localdevitimas21.ddns.net
 localegem.net
 localespa.com
 localflexolutiouns.website
+localfxement.live
 localhelperr.com
 localhelporganizerngo.co.ug
 localhostserver8080.ddns.net
@@ -266097,6 +266122,7 @@ mobil-giris-guvenlisatinal.com
 mobil-giris-islemlerim-portal.tk
 mobil-giris-kapisi-turkiye.tk
 mobil-giris-ll.tk
+mobil-giris-onlline.sbs
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
@@ -288324,6 +288350,7 @@ online-kuveytturk.com
 online-kuveytturkiye.com
 online-limitim.net
 online-login-digital-mobile.com
+online-magaza-tr.com
 online-magazam.com
 online-market-a-1-0-1.net
 online-market-mobil.com
@@ -302104,6 +302131,7 @@ paymentregret.top
 payments-resolves-issue.info
 payments-thesilverlining.com
 paymentsecureamazn.zapto.org
+paymentstr.com
 paymentsystem.info
 paymentverificationservice.com
 paymentverifpage.zapto.org
@@ -315646,6 +315674,7 @@ qbnprmsnyny.xyz
 qbnsubaatkampanyasi.vercel.app
 qbnvrc.vercel.app
 qbocn.com
+qbonlineislernobilapp.space
 qbosgtssss.duckdns.org
 qbozdlz.cn
 qbpohf32v.duckdns.org
@@ -326250,6 +326279,7 @@ rovyno.xyz
 rowbetcoaning.com
 rowcars.com
 rowcxmfpqeewkzmgqekf.click
+rowcxmfpqeewkzmgqekf.sbs
 rowdea.ddns.net
 rowderail.top
 rowevengleftrop.com
@@ -338389,6 +338419,7 @@ seedlingtemperament.top
 seedlingwhereby.top
 seednay.gvardiano.ru
 seedsindia.org
+seedsxouts.shop
 seeeeendefirsatlarikaciiiirma.shop
 seeelcrsmba.dns.army
 seehgss.com
@@ -350492,6 +350523,7 @@ sokmarketsanalcepte.site
 sokmarketsanalindirim.site
 sokmarketsanalindirimler.site
 sokmarketsceptefirsatlar.online
+sokmarketsepeti.cfd
 sokmarketsepetim.cfd
 sokmarketsfirsatcepte.online
 sokmarketsokkampanya.site
@@ -375176,6 +375208,7 @@ tr-ihahaber.com
 tr-ihahaberajans.com
 tr-ihlashaberajansi.com
 tr-ihlashaberajanslarin.com
+tr-ilan-bilgi.online
 tr-ilan-kurumsal.com.tr
 tr-ilan-odeme.com.tr
 tr-ilan-onayli.com
@@ -405174,6 +405207,7 @@ website6618342111.nicepage.io
 website6618874.nicepage.io
 website6618980.nicepage.io
 website6619449.nicepage.io
+website6619822.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
