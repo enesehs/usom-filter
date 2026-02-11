@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-11 11:35:00 UTC
-# Toplam: 438542 Domain
+# Son Güncelleme: 2026-02-11 12:36:49 UTC
+# Toplam: 438586 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -99551,6 +99551,7 @@ cnverivyacntbsnsmx0ui.duckdns.org
 cnvirandevuxlfmc.net
 cnvpvg14.duckdns.org
 cnvvca.help
+cnvvca.homes
 cnwshare.ddns.net
 cnxtours.com.br
 cny06.com
@@ -108244,6 +108245,7 @@ cxj6k2k.duckdns.org
 cxjyuet.cn
 cxk08x.duckdns.org
 cxkadpy.com
+cxkxjb.homes
 cxkxmdteiv.top
 cxlegion.cloud
 cxlegion.online
@@ -123077,6 +123079,7 @@ dnasghhsia-gqshqiwgsah.icu
 dnbgndolnfsrtlarn.sbs
 dnbn3424-sllc.com
 dnbnetnben.xyz
+dnbslt.help
 dnbzgthi.duckdns.org
 dnc7njclenrat.ddns.net
 dndebnrdandn.com
@@ -153012,6 +153015,7 @@ fahiofer.store
 fahmaf8tq.duckdns.org
 fahreneightskywalk45.com
 fahricevik.sbs
+fahtjd.help
 fahyzou.com
 faiiisizkrediibasvur.com
 faiiisizkrediibasvurhemen.com
@@ -163587,6 +163591,7 @@ fzupjdrlit.duckdns.org
 fzuuokawup.duckdns.org
 fzvrnjfsuw.duckdns.org
 fzwocuqitc.duckdns.org
+fzybsw.help
 fzyk16.nt44n5.top
 fzyqimt.com
 fzyxsifawr.duckdns.org
@@ -168624,6 +168629,7 @@ gdkxurlw.com
 gdkymr.top
 gdl-cloud.works
 gdlmbrlarabrbrolalmhryerde.bond
+gdlvna.homes
 gdlvt-sdft.com
 gdlvt-vrtr.com
 gdmdmr.top
@@ -174353,6 +174359,7 @@ gnlkrm.top
 gnlksanas-faawa.cfd
 gnlukkampanyalarinizn.com
 gnlxmrkttfrsxatlrr-onlxmrktt.com
+gnmcsy.homes
 gnmengkrntign.com
 gnmlmnecih.duckdns.org
 gnmmpq.top
@@ -181084,6 +181091,7 @@ gvsdzn.zapto.org
 gvszgl895.duckdns.org
 gvt.zapto.org
 gvtrhgsihlal.sbs
+gvtskx.homes
 gvuenli-stiye-yonlenndir.sbs
 gvvenliktelffhaklari.xyz
 gvvenliktellfhakki.xyz
@@ -181138,6 +181146,7 @@ gwiza1988.hopto.org
 gwjpc5.duckdns.org
 gwkmvndxy.com
 gwkoktwwr.com
+gwldzd.homes
 gwlqu.duckdns.org
 gwlxpkb.com
 gworkspace.social
@@ -181179,6 +181188,7 @@ gxhp.top
 gxikhdx.com
 gximxjweno.duckdns.org
 gxixnxdxrxm.lsvrsmm-drm.online
+gxjakc.homes
 gxjbrqlxqt.myfirstdrin.ru
 gxjlknsfyn.com
 gxjyaxsxx.duckdns.org
@@ -189616,6 +189626,7 @@ hc2ov8.duckdns.org
 hc6plp98r.duckdns.org
 hc9an46kdcktz8.xyz
 hcadmiral.com
+hcagjr.help
 hcakbars.ru
 hcarrefirsatgunleri.info
 hcarregunsonu.sbs
@@ -204028,6 +204039,7 @@ humzot.top
 hun-tingtonupdate06.hopto.org
 hun4295014014.xyz
 hunadaswere.xyz
+hunafu.homes
 hunarghar.org.pk
 hunbabe.com
 hunbmyfreeha.ddns.net
@@ -213218,6 +213230,7 @@ indirimlerle.com.tr
 indirimlerle.xyz
 indirimlerlealisveris.com
 indirimlernis.uk
+indirimlerpazari.cfd
 indirimlerr.com
 indirimlerr.xyz
 indirimlersanaozel.com
@@ -239262,6 +239275,7 @@ kgm-gov-tr.one
 kgm-gov-tr.top
 kgm-gov-tr.vip
 kgm-gov-tu.me
+kgm-gov-vip.bond
 kgm-gov.bar
 kgm-gov.blog
 kgm-gov.cloud
@@ -239310,6 +239324,7 @@ kgm-govtr.top
 kgm-govtrr.cfd
 kgm-govv.help
 kgm-govv.xyz
+kgm-govvip.bond
 kgm-govz-tr.cfd
 kgm-guv.com
 kgm-hgs.com
@@ -239460,6 +239475,7 @@ kgmgovs.sbs
 kgmgovt-r.bond
 kgmgovt.cc
 kgmgovt.top
+kgmgovtr-tr.cc
 kgmgovtr.bond
 kgmgovtr.cfd
 kgmgovtr.com
@@ -239693,6 +239709,7 @@ kgymlotomsi.duckdns.org
 kgymodmsliav.duckdns.org
 kgymyolodoodemehizli.duckdns.org
 kgz2.zapto.org
+kgzjzx.homes
 kgzmavbilgi.sbs
 kgzqeyyimcx.com
 kh16o03jcnirynq21ra.ddns.net
@@ -244437,6 +244454,7 @@ kped.duckdns.org
 kpelztyb.com
 kpfm1hgu8.duckdns.org
 kpgsth.duckdns.org
+kpgzdr.homes
 kphey.com
 kphlhf.thousandtiremean.top
 kphsvsu4613249.ua
@@ -249581,6 +249599,7 @@ ldrhssq.space
 ldrqmd.top
 ldrrml.top
 ldsgflmafdshmlfsa.com
+ldsywt.homes
 ldttmj.top
 ldvipyqdco.xyz
 ldvwwsykky.duckdns.org
@@ -254615,6 +254634,7 @@ lxqiksbtf.com
 lxrwxcdcvp.duckdns.org
 lxs1pcnfrm.duckdns.org
 lxs2pcnfrm.duckdns.org
+lxsdsb.homes
 lxsoho-id2891.world
 lxtqww8rf.duckdns.org
 lxuccv.duckdns.org
@@ -272683,6 +272703,7 @@ mupsin.ru
 muqcch7.cn
 muqnjyvppm.duckdns.org
 muqylox.com
+muqzug.homes
 muradik.com
 muradvietnam.vn
 muradx.com
@@ -276177,6 +276198,7 @@ ndseven.hopto.org
 ndsfmdsnnf.net
 ndsfsdmn.net
 ndsfsnfsddfsdsfmnaa.net
+ndshkn.homes
 ndsi36.duckdns.org
 ndsiskadakdaada.blogspot.com
 ndsjakndksa.net
@@ -281818,6 +281840,7 @@ nvcqwq-qwtyqwysadysd-21512.com
 nvcrndevunuzuhmnnalinn.net
 nvcrsmbgnrndm.net
 nvcrsmbz.app
+nvcsja.homes
 nvcsonlnie.b-cdn.net
 nvctreysyesmt12512-tyss.net
 nvcvniz.com
@@ -282953,6 +282976,7 @@ nvsenm.com
 nvsens.com
 nvsensin.com
 nvsgksksmssmd.blogspot.com
+nvshab.homes
 nvshashsnsnhsnxsd.net
 nvsiar.com
 nvsidafdsn.blogspot.com
@@ -285881,6 +285905,7 @@ oitjnf.jnerk.ru
 oitubusiness.duckdns.org
 oiuugyfytvgb22h.com
 oiuytyfvq621mb.org
+oivjsz.homes
 oivkqp.top
 oixecmwpzs.duckdns.org
 oixlge.top
@@ -317680,6 +317705,7 @@ qnd-firsat.tk
 qnd-islem.online
 qndfinansb.com
 qndsbfsdfjashfjzeqwofdkadspfadnfdmqwexaf.net
+qndxsr.homes
 qnf6wv15.duckdns.org
 qnfiinansbank.com
 qnfinanssube-online-tr.ga
@@ -317696,6 +317722,7 @@ qnlmxmfzhc.duckdns.org
 qnlyu.duckdns.org
 qnmawsqolm.duckdns.org
 qnmkampany.vercel.app
+qnmkas.help
 qnnb-fffrstlrr.sbs
 qnnb-ffrstlrr.sbs
 qnnb-hz-ligir.cloud-ip.biz
@@ -335727,6 +335754,7 @@ scdelndirmlera1o1.mooo.com
 scdeneme321.tk
 scdn-cxense.com
 scdnya.com
+scdqwl.help
 scdsddc-dsds.shop
 scebtbbservice.ddns.net
 scegwrffgvfgoeq.cn
@@ -361395,6 +361423,7 @@ swwta3lt5b9myc4.com
 swyhg.com
 swypero.com
 swz0m3zui9ib4mut.info
+swzbhd.homes
 swzwiz.com
 sx-facemask.com
 sx.ssgxvx.icu
@@ -387429,6 +387458,7 @@ uhsp7o.duckdns.org
 uhsuewv.duckdns.org
 uhtsong.com
 uhvyvnkuue.xyz
+uhxndh.homes
 uhxqin.biz
 uhy0cq.duckdns.org
 uhyfjg.net
@@ -398193,6 +398223,7 @@ vhucqggjgth.net
 vhuenilodge.co.za
 vhuoqy.top
 vhupo-tours.com
+vhusfx.homes
 vhvtrwfvah.duckdns.org
 vhzbtvutde.duckdns.org
 vi.hgsyuklemeyerii.net
@@ -409400,6 +409431,7 @@ wsexxi.gq
 wsf01securedserver3.ddns.net
 wsfgv.duckdns.org
 wsgfasdga2348adsda.net
+wsghbb.help
 wsglobal.online
 wsglobal.xyz
 wsgwrjsweanebk.com
@@ -415834,6 +415866,7 @@ wxdwxawdx.click
 wxdwxlwx.online
 wxdwxw.click
 wxevy1l7m.duckdns.org
+wxfwld.help
 wxfzqy.top
 wxg4141jyfmtaxwjsv3.ddns.net
 wxgsdgl.lat
@@ -415872,6 +415905,7 @@ wxwhas9arkd9u.com
 wxwnceylk.duckdns.org
 wxwnurmj5pa6kpy41js.ddns.net
 wxww-bimcell-tlykle.com
+wxxbcf.help
 wxxebcgibvb1govxtr.site
 wxxkggvvvssp.space
 wxyf74w6s434ud7dohi.ddns.net
@@ -415905,6 +415939,7 @@ wykurwyzpolicji.xyz
 wyldewood.org
 wyldotexe.ddns.net
 wyloc.com
+wylsmg.homes
 wymity.com
 wymizj.com
 wynar.top
@@ -416915,6 +416950,7 @@ xhmudnvvyp.duckdns.org
 xhmwxharxrleehu.com
 xhnnhhmvncch.space
 xhnufe.top
+xhnzds.homes
 xhomelesdfsx.xyz
 xhosawsubshmtgu.ru
 xhq9g2h7.duckdns.org
@@ -422421,6 +422457,7 @@ xxcizmxirxzzzcx.line.pm
 xxclasflors-flore.com
 xxcshghsrptm.net
 xxd3kgz.duckdns.org
+xxdfja.help
 xxdx.ddns.net
 xxfarrefour.sbs
 xxfaturacingeldiodee.com
@@ -422602,6 +422639,7 @@ xyson-indirimleri-yakala-al.online
 xysovvtea.xyz
 xysuadjfpb.duckdns.org
 xysubl.net
+xyszds.homes
 xyszsf.online
 xytg47r.duckdns.org
 xytjec.duckdns.org
@@ -422618,6 +422656,7 @@ xyvantto.com
 xyvlar.top
 xyvojae.com
 xyvok.xyz
+xyvyor.homes
 xyxf1ecf.duckdns.org
 xyxgecislerr.sg-host.com
 xyxuplxszb.duckdns.org
@@ -423074,6 +423113,7 @@ yabipkrebi.com
 yablon.info
 yabniislemler.is-best.net
 yabo-no1.vip
+yabskc.homes
 yabulumnapiyon21.com
 yaburdanalcnydahicbkmican.shop
 yabwdfl.com
@@ -430773,6 +430813,7 @@ ymyhost.ddns.net
 ymymg4p.duckdns.org
 ymyoptdfjavw.duckdns.org
 ymysjbehmy.duckdns.org
+ymzjdl.help
 yn25o4hubb.storage.googleapis.com
 yn4qca.duckdns.org
 yn54tkw.duckdns.org
@@ -432046,6 +432087,7 @@ yserarscbulk.xyz
 ysevztbrc.duckdns.org
 ysfhktkvjr.duckdns.org
 ysgcnxp.com
+yshkab.help
 yshomosestg.xyz
 ysilwskuvb.duckdns.org
 ysio.top
@@ -437266,6 +437308,7 @@ zmn-zmn-gldi-o-zmn.com.tr
 zmn-zmn-gldi-o-zmn.online
 zmn-zmn-gldi-o-zmn.org
 zmn-zmn-gldi-o-zmn.xyz
+zmnaak.help
 zmnnszuygnlkhpbizleykala.com
 zmnsaoase.online
 zmnsyzbrs-termos.com
@@ -438344,6 +438387,7 @@ zyber-i.com
 zybiker.com
 zyblpc8.duckdns.org
 zybynm.duckdns.org
+zybzsg.help
 zyc7y9mp.duckdns.org
 zyc9o1gg.duckdns.org
 zychps.help
