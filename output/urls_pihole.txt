@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-12 12:34:05 UTC
-# Toplam: 438737 Domain
+# Son Güncelleme: 2026-02-12 14:02:19 UTC
+# Toplam: 438755 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -73243,6 +73243,7 @@ bireysel-kiralama.acenteavs.com.tr
 bireysel-kiralama.com.tr
 bireysel-kiralama.xyz
 bireysel-kndm-icin.my-homeip.com
+bireysel-kredi-ziraat.my-homeip.net
 bireysel-kredi.com
 bireysel-kredibasvuru.top
 bireysel-kredidenizde-com.tk
@@ -86213,6 +86214,7 @@ bugunluk-aidat-iade.epizy.com
 bugunlukaidat.epizy.com
 bugunlukcumartesi.xyz
 bugunlukfirsat.cfd
+bugunmutlualisverisler.com
 bugunnburada.shop
 bugunneyekacirmayalim.click
 bugunozel-devarackampanyasibasvuru.com
@@ -86942,6 +86944,7 @@ buradangirsenesende.com
 buradangirsenize.com
 buradanguvenle.ru.com
 buradanguvenle.sa.com
+buradanhakkindaiyilerigeldi.com
 buradanhemengiriyozbea.com
 buradanhepbirazbizden.com
 buradanhephizlialdiklariniz.com
@@ -153202,6 +153205,7 @@ faker.ddns.net
 fakers.co.jp
 fakfukfakkkk-1097ea918206.herokuapp.com
 fakfukfikk-3fe345abf81a.herokuapp.com
+fakfukfikkoo-24d9f7cb1d75.herokuapp.com
 fakimaie.hopto.org
 fakir12.xyz
 fakir15.online
@@ -157967,6 +157971,7 @@ firsatindirimkapindasimdi.shop
 firsatindirimleri.com
 firsatindirimleri.online
 firsatindirimlerim.online
+firsatindirimlerimburada.online
 firsatindirimleriniz.com.tr
 firsatindirimleriniz.online
 firsatindirimleriniz.xyz
@@ -162811,6 +162816,7 @@ fskwtlwtpeyh.click
 fsky2.hopto.org
 fslakdasjdnsasjsj.com
 fslklasdlafdsfjkakdas.cfd
+fslklasdlafdsfjkakdas.sbs
 fsmkgmwbgcshgsonbrcode.duckdns.org
 fsmnwsdnfmsn.net
 fsociety4.hopto.org
@@ -205050,6 +205056,7 @@ hzjxo.xteloctoe.ru
 hzjy7k.duckdns.org
 hzl-gvnl-ynlndrz.cc.dvrlists.com
 hzl-islmler-net.b-cdn.net
+hzl-mbl.sbs
 hzl-siprs-olustr.cfd
 hzl-yonsz-bni.store
 hzl72r.duckdns.org
@@ -224732,6 +224739,7 @@ izlericgecirirsinnn-037030b182f2.herokuapp.com
 izlerkalirizlerkalirsinn.blogspot.com
 izlerkalirizlerkalirsinxd.blogspot.com
 izleseneq.com
+izlesxff.dns.navy
 izletakipdenetimak.com
 izletas03.dns.army
 izleyeceksinsadece.app
@@ -243151,6 +243159,7 @@ kobi-hibebasvurusu.com
 kobi-hibedestegi.com
 kobi-hibemerkezi.com
 kobi-kredi.com
+kobi-kredibilgilendir.com
 kobi-kredibilgilendirme.com
 kobi-krediformu.com
 kobi-kredimerkezi.com
@@ -263675,6 +263684,7 @@ mhkxvancspxderb.su
 mhlbsrppvj.duckdns.org
 mhlks1uu.duckdns.org
 mhmgmntssas.net
+mhmhmhmhmrnvds-brd-mobil.web.app
 mhmngr6usp1gu7r2hi.biz
 mhmtensylmzrndvudm.com
 mhmtnrsylmz.net
@@ -265417,6 +265427,7 @@ mlovee.zapto.org
 mloves19.com
 mlprtxophcwwhyw.su
 mlq6kd5tu0yj7dw4e87xyni.ddns.net
+mlrssizlerel.cfd
 mlrsyntkpm.xyz
 mlsbest.blogspot.com
 mlsfasr616.weebly.com
@@ -273308,6 +273319,7 @@ mutlumutlukampanyaalrdabugunler.sbs
 mutlumutlukampanyalar.online
 mutlumutlukampanyalar.xyz
 mutluol.info
+mutluolana.com
 mutluolmakistersenburayabak.cfd
 mutluolmakistersenburayabak.sbs
 mutluolmakistiyorsantikla.com.tr
@@ -293179,6 +293191,7 @@ ossymsislm.net
 ossymslonln.net
 ossymyksbsvru.net
 ostarbenim.com
+ostblardnsandabr.shop
 ostcone.site
 osteopathe-bois-colombes.fr
 osteopathe-claudia-grimand.fr
@@ -319845,6 +319858,7 @@ ramazangeldi20gbinternet.com
 ramazangindir.click
 ramazangindncc.click
 ramazangindnnr.click
+ramazangunleri.com
 ramazanhaftasiburada.com.tr
 ramazanhaftasiburada.online
 ramazanhaftasiburada.xyz
@@ -339368,6 +339382,7 @@ sendehemenkatilkampanyaya.site
 sendehemenklymrs.com
 sendehemenndestekol.com
 sendehementemmmuzah.duckdns.org
+sendehepbiraradagor.com
 sendeheryeralsverklrkrrmmm.duckdns.org
 sendehislerekapilipal.com
 sendehislerinlegel.sbs
@@ -357734,6 +357749,7 @@ strivealloy.top
 striveassertion.top
 strivemultitude.top
 strivenickname.top
+strk-g-rn-l.myonlineportal.ch
 strkmpyanaz0503.click
 strlzubu.duckdns.org
 strobe.click
@@ -401377,6 +401393,7 @@ vvsgyfodymk.net
 vvsm3rt1.duckdns.org
 vvsnmcth7.duckdns.org
 vvssddgiiyklmeeesi.net
+vvsvakko.org
 vvtduazvywmn54.com
 vvtqcwgihxuckeu.ru
 vvtr-drec.com
@@ -432151,6 +432168,7 @@ yqox.pw
 yqp2bc.duckdns.org
 yqpjimy.duckdns.org
 yqq4v9.duckdns.org
+yqqjls.help
 yqsinfvabf.duckdns.org
 yqsof.com
 yqtis.cc
