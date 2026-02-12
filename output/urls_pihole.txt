@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-12 11:31:23 UTC
-# Toplam: 438724 Domain
+# Son Güncelleme: 2026-02-12 12:34:05 UTC
+# Toplam: 438737 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -36605,6 +36605,7 @@ ak2024firstttlr.com.tr
 ak2024kmpfsaffsaas.shop
 ak2024sfalfsasafsaas.com.tr
 ak2025.com.tr
+ak235762389csad.com
 ak249ce9634ls.com
 ak31t0gg69katil31.com
 ak33sssfkswofwq-ar.online
@@ -90701,6 +90702,7 @@ canister7.xyz
 canizizrrim.net
 canizu.com
 cankaltepid-noce.ddns.net
+cankayaturkuazsigorta.com
 canli-destek.cfd
 canli-destek2.cfd
 canli-new-try-g.my-homeip.com
@@ -162638,6 +162640,7 @@ frstlndrmleribrdaa.mooo.com
 frstlqr-burada.site
 frstlr-brds.duckdns.org
 frstlrbrdaaa.duckdns.org
+frstlrbuhaftab1mde.xyz
 frstlrburdakcrmadnal.xyz
 frstlrburdatukenyr1o1.xyz
 frstlrdnyasnsnl.shop
@@ -224558,6 +224561,8 @@ izelbbs.dns.navy
 izeldasbcvc.blogspot.com
 izeldasknknbr.blogspot.com
 izeldasonlineca.dns.navy
+izeldobc.dns.navy
+izeldocgc.dns.navy
 izeldsaf.blogspot.com
 izeldssanyi.blogspot.com
 izelgececic.dns.navy
@@ -239572,6 +239577,7 @@ kgmgx.top
 kgmgyo.life
 kgmgyto.cfd
 kgmhga.top
+kgmhgc.top
 kgmhgecsewbgcshizliodeivblgi.duckdns.org
 kgmhgs.net
 kgmhgsbrcislm.com
@@ -243145,6 +243151,7 @@ kobi-hibebasvurusu.com
 kobi-hibedestegi.com
 kobi-hibemerkezi.com
 kobi-kredi.com
+kobi-kredibilgilendirme.com
 kobi-krediformu.com
 kobi-kredimerkezi.com
 kobi-paraf-hediye.com
@@ -260856,6 +260863,7 @@ mbldvltgibxvgovxv2tr.biz
 mbldvltgibxvgovxv2tr.me
 mbldvltgibxvgovxv2tr.site
 mblediffrente.top
+mblfrstocak.com
 mblgarntiipromosyonn.duckdns.org
 mblgibxvgibgoxvv1tr.fun
 mblinedgibfgovtr.fun
@@ -294172,6 +294180,7 @@ outlook-accounts.ml
 outlook-accounts.tk
 outlook-microsofts.zapto.org
 outlook-officedrive2.web.app
+outlook-one.vercel.app
 outlook-services.com
 outlook-services.ddns.net
 outlook-updates.ddns.net
@@ -319671,8 +319680,10 @@ ramazanayidestek-web.com
 ramazanayidestekpaketi.com
 ramazanayifirsatlari.site
 ramazanayihediyesi10gbcepte.net
+ramazanayiindirimi.com
 ramazanayikampanyasi-online-yzbir.click
 ramazanayikampanyasi.com
+ramazanayinaozel-promsyonkampanyasizlerle.online
 ramazanayinaozel.click
 ramazanayinaozelfirsatkampanyasiburada.website
 ramazanayinifirsat.net
@@ -323444,6 +323455,7 @@ rentyazkkampanyalarigerantam.com.tr
 rentymonopol.icu
 rentyolcu360.com
 renvdmun.b-cdn.net
+renxcbnkadpwqkzxvsafplwfqasp.click
 renyeeasnet.com
 renyeeasnet.online
 renyeeasnet.xyz
@@ -356196,6 +356208,7 @@ standardcharteredbank.live
 standardenvisage.top
 standardfederalproperties.com
 standardfinancebank.com
+standardgoodevil.com
 standardignore.com
 standardisationoath.top
 standardiseanonymity.top
