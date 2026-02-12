@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-12 08:30:47 UTC
-# Toplam: 438707 Domain
+# Son Güncelleme: 2026-02-12 09:34:49 UTC
+# Toplam: 438713 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2748,6 +2748,7 @@
 101persembe-gece.com
 101persembe-gecesi.com
 101persembe-guvenilir.com
+101persembe-peraken.de
 101persembeaks.com
 101persembeaksam.shop
 101persembeakse.com
@@ -175840,6 +175841,7 @@ goxjyhozc.com
 goxmhauwew.duckdns.org
 goxtwayzk.com
 goyalsoftech.com
+goyard-cantali-onu-sectim-sarisinlar-icinden.uk
 goyardbag.cfd
 goynuk.2kool4u.net
 goytayora.com
@@ -290539,6 +290541,7 @@ onlinemagaza.org.tr
 onlinemagaza.shop
 onlinemagazacilikislemleri.havalimanindankapinagelsin.com
 onlinemagazaislemleri.pages.dev
+onlinemagazam.com.tr
 onlinemagazan.site
 onlinemagazaninadresimavi.com
 onlinemagazap-tt.com
@@ -292552,6 +292555,7 @@ ordngldkbzbrdngldk.shop
 ordos.duckdns.org
 orducrrefour.sbs
 ordular-ileri.repenadeps.cfd
+orebeacon.com
 orebimcell.com
 orebolt.com
 oreccntric.top
@@ -325590,6 +325594,7 @@ rnd199.online
 rnd518.com
 rnd7ru3fbn.storage.googleapis.com
 rndavvvalm.net
+rndbsvhzimebrurds.store
 rndbzxuspe.duckdns.org
 rndcuhizlf.pw
 rnddvlarinizlyn.net
@@ -365519,6 +365524,7 @@ tcslahq.com
 tcsorgu.online
 tcsorgu.xyz
 tcsorgum.online
+tcsorgumali.com
 tcsosyaldestek.blogspot.com
 tcsosyaldestek.ml
 tcsosyaldestekpaketi.com
