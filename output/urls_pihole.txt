@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-12 19:41:52 UTC
-# Toplam: 438828 Domain
+# Son Güncelleme: 2026-02-12 20:23:14 UTC
+# Toplam: 438834 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50348,6 +50348,7 @@ asd2e3w4e.nicepage.io
 asd33r.is-best.net
 asd435sadasr234sad324adsd234asd.ws
 asd444.ddns.net
+asd54.nicepage.io
 asd5sa5d4as5.digital
 asd68as4d86as48d6a.digital
 asd7410.ddns.net
@@ -86873,6 +86874,8 @@ buradaboyle.online
 buradaboyle.site
 buradaboyle.website
 buradabsvur.site
+buradadahadauygun.com
+buradadahauygun.com
 buradadironline.com
 buradaeyluslksoka.cloud
 buradagarenta.com
@@ -91713,6 +91716,7 @@ carrefour-arg.online
 carrefour-argentina.com
 carrefour-market.online
 carrefour-saa-com.duckdns.org
+carrefour-subatlar.sbs
 carrefour2025araliksonuindirim.duckdns.org
 carrefourdan.online
 carrefoureban.ddns.net
@@ -91792,6 +91796,7 @@ carrefoursamarket.online
 carrefoursamarketzinciri.com
 carrefoursamobil.com
 carrefoursanalomo.cfd
+carrefoursas.com
 carrefoursasonbaharindirimleri.xyz
 carrefoursatr.b-cdn.net
 carrefoursaturkiye.online
@@ -347156,6 +347161,7 @@ site-giris-basvuru.online
 site-google.tk
 site-pass-girisler.site
 site-resel.is-best.net
+site-siteler-giris.cfd
 site-sok.com.tr
 site-sok.net.tr
 site-sosyal-basvuru.com
