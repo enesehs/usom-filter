@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-13 14:32:43 UTC
-! Total: 350398 rules
+! Last modified: 2026-02-13 15:30:22 UTC
+! Total: 350409 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41744,6 +41744,8 @@
 *://*.basvrnzbzleszdebsvrn.com.tr/*
 *://*.basvrpromlar.click/*
 *://*.basvrpromlar25.click/*
+*://*.basvrrkmpnyaaprmsynn.info/*
+*://*.basvrrkmpnyaaprmsynn.pro/*
 *://*.basvrrrgrntprmsnynn.art/*
 *://*.basvrrrgrntprmsnynn.xyz/*
 *://*.basvrrrkmpnyaaagrnt.click/*
@@ -67231,6 +67233,7 @@
 *://*.butceniziyormyanfiyatlar.com.tr/*
 *://*.butceniziyormyanfiyatlar.xyz/*
 *://*.butcesarsintisi.cfd/*
+*://*.butcesarsintisi.click/*
 *://*.butceyonetimi.info/*
 *://*.butdolpolda.site/*
 *://*.butemmuzunsezonlarinikaciirma.com/*
@@ -111080,6 +111083,7 @@
 *://*.eidaeaaidatqnb-tr.com/*
 *://*.eidaleronlineeformudoldur.xyz/*
 *://*.eidaleronlineformudoldur.com/*
+*://*.eidaribilgi.org/*
 *://*.eidaridava.org/*
 *://*.eidaridosya.org/*
 *://*.eidarisorgu.org/*
@@ -143393,6 +143397,7 @@
 *://*.gununfirsati.net.tr/*
 *://*.gununfirsati.org.tr/*
 *://*.gununfirsati.xyz/*
+*://*.gununfirsatii.cfd/*
 *://*.gununfirsatiiste.com/*
 *://*.gununfirsatikacmaz.com/*
 *://*.gununfirsatindirimelir.com.tr/*
@@ -199530,6 +199535,7 @@
 *://*.krrrtavaks-basrs.click/*
 *://*.krrxxeddi-basvxruu.net/*
 *://*.krrz.pm/*
+*://*.krsassahiprskam.cfd/*
 *://*.krscarkiralama.com/*
 *://*.krsermesakj.net/*
 *://*.krskarena.com/*
@@ -234203,6 +234209,7 @@
 *://*.onlineslmleriniz.shop/*
 *://*.onlinesmetabank.info/*
 *://*.onlinesok.com.tr/*
+*://*.onlinesokmarket.cfd/*
 *://*.onlinesorgu-icratakip.online/*
 *://*.onlinesorgu-ihlaltakip.online/*
 *://*.onlinesorgu.site/*
@@ -246297,6 +246304,7 @@
 *://*.plet.dk/*
 *://*.plevix.site/*
 *://*.plevnenakliyat.cf/*
+*://*.plewgkxzlpaflwqkpasdgq.click/*
 *://*.plex.name/*
 *://*.plexbd.net/*
 *://*.plexipr.com/*
@@ -291134,6 +291142,7 @@
 *://*.tbnzuejbize.top/*
 *://*.tbonlineislemlergiris.net/*
 *://*.tbonllineislemgiris.net/*
+*://*.tboojacsjskcdjkasdcsa.cfd/*
 *://*.tboojacsjskcdjkasdcsa.sbs/*
 *://*.tboqjcgd.com/*
 *://*.tbpack.cn/*
@@ -308955,6 +308964,7 @@
 *://*.tuvrandevusistemi.org/*
 *://*.tuvrarmcmuyane.net/*
 *://*.tuvrezervasyon-tuvturk.com/*
+*://*.tuvrklee.digital/*
 *://*.tuvrkonlineodemnden.com.tr/*
 *://*.tuvrsuturvkrk.net/*
 *://*.tuvrtdrk-muayeneal.net/*
@@ -349795,6 +349805,7 @@
 *://*.zorinpro.space/*
 *://*.zorip.at/*
 *://*.zorlakinetek.com/*
+*://*.zorlamayinsansinizi324.cfd/*
 *://*.zorlu-egitimvakfi.site/*
 *://*.zorlu-energy.com/*
 *://*.zorlu-vakfi-destek.site/*
