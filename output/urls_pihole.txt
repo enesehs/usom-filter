@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-13 18:28:32 UTC
-# Toplam: 439236 Domain
+# Son Güncelleme: 2026-02-13 19:34:11 UTC
+# Toplam: 439249 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3751,6 +3751,7 @@
 12321323333.cloud
 123213541800560725.xyz
 12323232322.cloud
+12323432.duckdns.org
 1232423.com
 123242342213.click
 1232423trkuvt.shop
@@ -4912,6 +4913,7 @@
 150khizli.com
 150tlhediyecekibima101sok.com
 1511253623153835356.com
+1512412412.shop
 151256.com
 15125guest-booking.com
 1513534.duckdns.org
@@ -15049,6 +15051,7 @@
 513xvi5z3mlyu9is.com
 51433245.life
 514552145225.cloud
+51514344.duckdns.org
 5151501011.duckdns.org
 51516161.com
 51521124235.com
@@ -73554,6 +73557,7 @@ bireysel-ziraat-giris.com
 bireysel-ziraat-tr.com
 bireysel-ziraat-transactions-login.site
 bireysel-ziraat-transactions-login.website
+bireysel-ziraat-transcation.my-homeip.de
 bireysel-ziraat-transcation.my-homeip.net
 bireysel-ziraat.cf
 bireysel-ziraat.com
@@ -123498,6 +123502,7 @@ dnzeesdsdezcadkecliss2023.net
 dnzefshmnbrdnbsvr.duckdns.org
 dnzellm.com
 dnzels.com
+dnzfck.mefound.com
 dnzfrstlsrmsmz.linkpc.net
 dnzfrsttt.shop
 dnzfuhnceafia.net
@@ -124170,6 +124175,7 @@ doktordansikayetler.com
 doktordansikayetlerimlz.com
 doktordansikayetvar.com
 doktordasaklari.duckdns.org
+doktorkanteyokederr-79e91dcf02fd.herokuapp.com
 doktorlardantavsiyeler.club
 doktorlarinonerisi.club
 doktoronlinehizmet.com
@@ -141116,6 +141122,7 @@ ekmdekrca.com
 ekmdnbitsgldi.com
 ekmedogrusfrrdksmdkzert.online
 ekmeginesahip.xyz
+ekmek.hsakopornaksc.com
 ekmekarasi.duckdns.org
 ekmekcii.net
 ekmekciii.click
@@ -152740,6 +152747,7 @@ f4zsdpxy3.duckdns.org
 f500bd65fca2d5c8822e6dd30fbb740f.com
 f505jr2b4.duckdns.org
 f52q0y.duckdns.org
+f53251463151235.cfd
 f532532462151235.click
 f53a15ac.gfwisd-235.shop
 f53f762f.hds-ndnd9n.com.cn
@@ -173075,6 +173083,7 @@ girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk
 girisler-mobilde.cfd
 girisler-mobile-acik.cfd
 girisler-mobill-com.cfd
+girisler-online-giriss.sbs
 girisler-onlinrbnnrctr.com
 girisler-tr.com
 girisler-yapikredi.com
@@ -200835,6 +200844,7 @@ hlsxcvbmkyk.info
 hltonln-wrkout.com
 hltoyc.com
 hlturkiyesaglikliyasam.com
+hltv-ot-gr-n.myonlineportal.ch
 hlxcwnsbob.duckdns.org
 hlxvhprmsc.duckdns.org
 hlzcmcmkmhgl.com
@@ -275486,6 +275496,7 @@ nakitavanskampanyasi-vakif.store
 nakitbul.com
 nakitburada.site
 nakitcepte-basvurular.com
+nakitdestekksgb.com
 nakitdestekmerkezi.site
 nakitdunyasi.online
 nakitguncelgirisadresleriniz.blogspot.com
@@ -286558,6 +286569,7 @@ ol0lc.duckdns.org
 ol1.top
 ol1pez123.ddns.net
 ol22alsdsdf213.site
+ol2d.nicepage.io
 ol4d1f.duckdns.org
 ol5t621z8.duckdns.org
 ol8yj.uqauv.cn
@@ -391897,6 +391909,7 @@ uzlasma-euyapvatandas.com.tr
 uzlasma-uyap.com
 uzlasma-uyapegiris.com
 uzlasma-uyapvatandas.com
+uzlasmabilgi.org
 uzlasmaborcu.com
 uzlasmaburomuz.com
 uzlasmaburosuceza.com
