@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-13 16:30:03 UTC
-# Toplam: 439210 Domain
+# Son Güncelleme: 2026-02-13 17:32:08 UTC
+# Toplam: 439226 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22813,6 +22813,7 @@ a1-001-dnflratsar-yli.cfd
 a1-01-flrsatlari-kapnda.click
 a1-01-kaslm-flrsatlari.cfd
 a1-01alisveriskampanyam.com
+a1-01kekstracom-tr.sbs
 a1-o-1-central.site
 a1-o-1-firsatlari.com
 a1-onlinefirsatlarinikacirma.online
@@ -25203,6 +25204,7 @@ a1o1er.net
 a1o1et.net
 a1o1ey.net
 a1o1fir.com
+a1o1firsaltyubirsatsubat.blogdns.com
 a1o1firsat.online
 a1o1firsatkampanya.duckdns.org
 a1o1firsatlar.com
@@ -25928,6 +25930,7 @@ aanpokiig.duckdns.org
 aanqylta.com
 aansuka-ppaccosaurn3rfbsdfsydfgusedera.duckdns.org
 aaobrutmrrmorng.su
+aaocskcdalcksljfdssad.sbs
 aapanel101.online
 aapetstore.com
 aapp--trrezor.webflow.io
@@ -97710,6 +97713,7 @@ cimre.miko-cdn.site
 cimrisanalmarket.com.tr
 cinarbutik.tech
 cinaregeay-72f15a03873b.herokuapp.com
+cinaregeayihbarlandinn-ed773ad9a233.herokuapp.com
 cinaregeayizmirihbar-6ba0ed0baad3.herokuapp.com
 cinargrafikmatbaa.com
 cinargroup.xyz
@@ -99223,6 +99227,7 @@ clrgey1-pttavm.is-best.net
 clrurdwqga.duckdns.org
 cls-mys-system.net
 clsass.ddns.net
+clscdasdjkacsdasd.sbs
 clsl.xyz
 clsn1.xyz
 clsn1best.blogspot.com
@@ -123225,6 +123230,7 @@ dndenoncgldkkmpnnyyial.com
 dndhub.xyz
 dndzh457thdhjk.at
 dndznesdddffzad2023cklis.net
+dneeme45.nicepage.io
 dnekvjxdqe.duckdns.org
 dnemetest34.tk
 dnerman1.ga
@@ -153621,6 +153627,7 @@ farketmez37.cfd
 farketmez37.cyou
 farketmezalbi.xyz
 farketmezkkatilimkatiliminiziyapinan.cloud
+farketmezlerdeyizbasvuru.com
 farketttasfsaggg.com
 farki-yok-biz-kefiliz-sezon-bitisi.com
 farki-yok-bizz-kefiliz-sezon-bitisi.com
@@ -203629,6 +203636,7 @@ hsssgs-odemem.net
 hsssrfssndns.click
 hsssrsrkyyds.click
 hssstannxrandevvu.org
+hsstanxxranvvlrr.org
 hssxshsyukle.xyz
 hssxxtanneervnnd.org
 hst1gkasm0gkla1sd.com
@@ -243359,6 +243367,7 @@ kobelix.store
 kobetwofour.buzz
 kobguejgfe.duckdns.org
 kobi-bugunfirsatisendekazan1.cloud
+kobi-destekbasvuru.com
 kobi-destekbilgilendirme.com
 kobi-destekmerkezi.com
 kobi-destekmerkezii.com
@@ -266460,6 +266469,7 @@ mobil-girisedevlet-portal.tk
 mobil-girisi.site
 mobil-girisi.xyz
 mobil-girisleri-aktif.sbs
+mobil-girisleriniz-aktifa.sbs
 mobil-girisonline-portal.tk
 mobil-giriss-tr.com
 mobil-girissa-com.cfd
@@ -273134,6 +273144,7 @@ muscularhiernation.top
 muscularitys.com
 muscularoption.top
 muscularvideo.top
+muselunghe.com
 museum-pass.shop
 museum.spb.ru
 museumaddictive.top
@@ -329311,6 +329322,7 @@ sadeceononldfirsttrstr.blogspot.com
 sadeceononldfirsttrstrstras.blogspot.com
 sadeceonsfirsaltybkkmk.blogspot.com
 sadeceonsfirsaltybkkmkg.blogspot.com
+sadeceonsfirsaltybkkmkgll.blogspot.com
 sadeceonsflirasdtlarytrvctre.blogspot.com
 sadeceonshcvsline.blogspot.com
 sadeceonslnfirsusm.blogdns.org
@@ -369619,6 +369631,7 @@ tgnvh5.duckdns.org
 tgoime.com
 tgold.ddns.net
 tgopartner.com
+tgopartnerpanel.com
 tgpkib.duckdns.org
 tgq3uthn.duckdns.org
 tgqhenky.com
@@ -385632,6 +385645,7 @@ tuvkurt-tr.net
 tuvkurt.net
 tuvkurt.org
 tuvl-turk.digital
+tuvmturlk.digital
 tuvmuayenearacrandevu.com
 tuvmuayenerandevu.com
 tuvmuayenerandevusu.com
@@ -390254,6 +390268,7 @@ us-frstlrajasa.site
 us-kucoinlogin.webflow.io
 us-kucoinlogins.webflow.io
 us-nordicpower.com
+us-ol-m-atani-dovrim.cfd
 us-privredirect.ddns.net
 us-trzorrhardwarehelp.webflow.io
 us-usos-qwtaa.top
@@ -401942,6 +401957,7 @@ vwbtnnuqxojhcsdiamve.net
 vwcq.us
 vwcqf.com
 vwcqhsxryp.duckdns.org
+vwcwywgcw-cqtqyqcw.sbs
 vwd6xw6.click
 vwdaxwd.click
 vwddpfaeog.duckdns.org
