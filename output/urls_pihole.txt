@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-13 10:27:45 UTC
-# Toplam: 438865 Domain
+# Son Güncelleme: 2026-02-13 11:23:12 UTC
+# Toplam: 438884 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8423,6 +8423,7 @@
 2026msu.com
 2026ocakfrsattlarburada.duckdns.org
 2026ocakfrsattlarburada.giize.com
+2026olympics.shop
 2026onbasvuru.sbs
 2026onbasvurum.sbs
 2026onkayit.sbs
@@ -14460,6 +14461,7 @@
 4nsse9x3.duckdns.org
 4nvmuv2.duckdns.org
 4nwr7x2y5o2vvhboug.net
+4nx2.com.tr
 4nx5u47.duckdns.org
 4nxns3a8l.duckdns.org
 4nz62y11.duckdns.org
@@ -106330,7 +106332,9 @@ crrrffrsadncrffsaaya.com
 crrrfsadaaaynihrsybrdaa.com
 crrsdayzbz.cfd
 crsahzrafsvrz.net
+crsasahprskaam.cfd
 crsassahiprskam.cfd
+crsassahprskam.com
 crsb1bg0r1dsa.com
 crshizmetli.app
 crsinsaat.com
@@ -152636,6 +152640,7 @@ f4zsdpxy3.duckdns.org
 f500bd65fca2d5c8822e6dd30fbb740f.com
 f505jr2b4.duckdns.org
 f52q0y.duckdns.org
+f532532462151235.click
 f53a15ac.gfwisd-235.shop
 f53f762f.hds-ndnd9n.com.cn
 f548d70d32e4.ngrok.io
@@ -153233,6 +153238,7 @@ fakenitro666.ddns.net
 faker.ddns.net
 fakers.co.jp
 fakfukfakkkk-1097ea918206.herokuapp.com
+fakfukfikfukara-bb7ca216df3f.herokuapp.com
 fakfukfikk-3fe345abf81a.herokuapp.com
 fakfukfikkoo-24d9f7cb1d75.herokuapp.com
 fakimaie.hopto.org
@@ -177329,6 +177335,7 @@ grnttkampnyasibasvurusu.pro
 grnttkredibasvuri.vercel.app
 grnttprmsynnnbsvrrrkampnya.info
 grnttprmsynnnbsvrrrkampnya.pro
+grnttprmsynnnkmpnyaa.live
 grnttrade.com
 grntttbasvursuuprsmyn.info
 grntttihbrbsvruekrani.online
@@ -243214,6 +243221,7 @@ kobi-hibedestegi.com
 kobi-hibedestekleri.com
 kobi-hibemerkezi.com
 kobi-kredi.com
+kobi-kredibasvuru.com
 kobi-kredibilgilendir.com
 kobi-kredibilgilendirme.com
 kobi-krediformu.com
@@ -286647,6 +286655,13 @@ olympfiles.ddns.net
 olympianbaygrandresort.com
 olympicgold.ddns.net
 olympichctic.top
+olympics-eu.top
+olympics-hot.shop
+olympics-hot.top
+olympics-sale.shop
+olympics-sale.top
+olympics-top.shop
+olympics2026.top
 olympik-blog.4dq.com
 olymposarmy.com
 olymposchecker.online
@@ -328774,6 +328789,7 @@ saczxcxzczxcxz.blogspot.com
 sad-fermat.31-210-39-239.plesk.page
 sad-tok.com
 sad1.ddns.net
+sad12213.carrd.co
 sad13.hopto.org
 sada1sd651aca.digital
 sadaasdasdasddas1.kred
@@ -356586,6 +356602,7 @@ stanleywery.xyz
 stanleywrky.xyz
 stanleywwe.xyz
 stanleyyakinda.xyz
+stanleyzenon.xyz
 stanleyzeropoint.xyz
 stanly-carrefoursa.vercel.app
 stanlyarlikkczmazi666kacirma.com
@@ -380623,6 +380640,7 @@ trsikayetvar.com
 trsikayetvar2022.ml
 trsikayetvarhakkinizda.com
 trsikayetvarhakkinizda.xyz
+trsinfirsenfrsahi.cfd
 trsinvedwpvcce1.com
 trsistemlogin345.xyz
 trsitegirisi.xyz
@@ -380649,6 +380667,7 @@ trsokmarket.org.tr
 trsolveraccriskfactorys.net
 trsonguncelhaber.com
 trsoraqqitgfpou.ru
+trsorguceza.org
 trsorgula.com
 trsorgumali.org
 trsorgumaliye.com
