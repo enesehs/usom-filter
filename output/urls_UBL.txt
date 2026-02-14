@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-14 11:12:16 UTC
-! Total: 350458 rules
+! Last modified: 2026-02-14 12:22:56 UTC
+! Total: 350461 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -180645,6 +180645,7 @@
 *://*.istsagns2ss.com/*
 *://*.istsanbul34.cf/*
 *://*.istsanbulkartbasvuru.org/*
+*://*.istsmgminayaasigim.com/*
 *://*.istsnbubssdvruds.store/*
 *://*.istsnbubsvruds.store/*
 *://*.istsnbulaqw.net/*
@@ -197088,6 +197089,7 @@
 *://*.kobi-bugunfirsatisendekazan1.cloud/*
 *://*.kobi-destekbasvuru.com/*
 *://*.kobi-destekbilgilendirme.com/*
+*://*.kobi-destekhizmetleri.sbs/*
 *://*.kobi-destekmerkezi.com/*
 *://*.kobi-destekmerkezii.com/*
 *://*.kobi-halk-subem.com/*
@@ -197107,6 +197109,7 @@
 *://*.kobibasvurunutamamla-12.cloud/*
 *://*.kobibilgilendirme.cfd/*
 *://*.kobidenizbank.com/*
+*://*.kobidestek-formu.org/*
 *://*.kobidestekbasvuru.com.tr/*
 *://*.kobidestekhat.com/*
 *://*.kobidestekhibesi.cfd/*
