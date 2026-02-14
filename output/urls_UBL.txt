@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-14 20:11:39 UTC
-! Total: 350471 rules
+! Last modified: 2026-02-14 21:12:39 UTC
+! Total: 350481 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28591,6 +28591,7 @@
 *://*.alisveris-mobil.online/*
 *://*.alisveris-odemesi.com/*
 *://*.alisveris-onay.com.tr/*
+*://*.alisveris-online-kampanya.fun/*
 *://*.alisveris-online-tr.com/*
 *://*.alisveris-online-tr.xyz/*
 *://*.alisveris-online.com.tr/*
@@ -121623,6 +121624,7 @@
 *://*.f500bd65fca2d5c8822e6dd30fbb740f.com/*
 *://*.f53251463151235.cfd/*
 *://*.f532532462151235.click/*
+*://*.f532532463151235.click/*
 *://*.f56Ov2bn.cn/*
 *://*.f5ds1jkkk4d.info/*
 *://*.f5ekqcgwa.com/*
@@ -137977,6 +137979,7 @@
 *://*.girislemenutr100yil.com/*
 *://*.girisler-basvurutr.online/*
 *://*.girisler-guncel.com/*
+*://*.girisler-kamanpya-online.sbs/*
 *://*.girisler-mobil-girisler-mobil-mobil-mobil-mobil.tk/*
 *://*.girisler-mobilde.cfd/*
 *://*.girisler-mobile-acik.cfd/*
@@ -160832,6 +160835,7 @@
 *://*.hizlirandevmles.online/*
 *://*.hizlirandevmls.online/*
 *://*.hizlirandevu.app/*
+*://*.hizlirandevu.org/*
 *://*.hizlirandevual.xyz/*
 *://*.hizlirandevualma.net/*
 *://*.hizlirandevualsldkslxksl.net/*
@@ -176191,6 +176195,7 @@
 *://*.inxrmlermxfirstlarm.online/*
 *://*.inxrmlermxfirstlarm.xyz/*
 *://*.inyourheadexp.com/*
+*://*.inz-aghi.xyz/*
 *://*.inzaghi.shop/*
 *://*.inzaghiapi.fun/*
 *://*.inzerille.com/*
@@ -177283,6 +177288,7 @@
 *://*.isbankasihediyegiris.com/*
 *://*.isbankasii.cf/*
 *://*.isbankasii.com/*
+*://*.isbankasii.online/*
 *://*.isbankasii.xyz/*
 *://*.isbankasiitr.com/*
 *://*.isbankasikampanyabasvuru.com/*
@@ -191201,6 +191207,7 @@
 *://*.karayol-odeme.ink/*
 *://*.karayol-odemel.pro/*
 *://*.karayol-odemel.store/*
+*://*.karayol-odemesi.com/*
 *://*.karayolbildiri.ml/*
 *://*.karayolbildiri.tk/*
 *://*.karayolbildiri.tr/*
@@ -235394,6 +235401,7 @@
 *://*.oral423.xyz/*
 *://*.oralarda-bukadara-bulundugu-hisleri-var.top/*
 *://*.oralardangecmeyipbanadogru.com/*
+*://*.oralardaseninicingeldik.com/*
 *://*.oralegato.com/*
 *://*.oralipory.top/*
 *://*.oralist38.xyz/*
@@ -309225,6 +309233,7 @@
 *://*.tuvturkodemlr.net/*
 *://*.tuvturkodme.net/*
 *://*.tuvturkodmes.net/*
+*://*.tuvturkonline.digital/*
 *://*.tuvturkonlinebasvuru.net/*
 *://*.tuvturkonlinehizmet.com/*
 *://*.tuvturkonlinerandevu.org/*
@@ -309265,6 +309274,7 @@
 *://*.tuvturktoog.com/*
 *://*.tuvturktr-tr.net/*
 *://*.tuvturkum.net/*
+*://*.tuvturkumile.site/*
 *://*.tuvturkummuayene.net/*
 *://*.tuvturkunuz.net/*
 *://*.tuvturkwebhizmet.com/*
