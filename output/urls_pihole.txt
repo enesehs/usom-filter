@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-14 05:03:02 UTC
-# Toplam: 439264 Domain
+# Son Güncelleme: 2026-02-14 06:28:54 UTC
+# Toplam: 439266 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9629,6 +9629,7 @@
 25-subatfirsatlar.shop
 25-tok-elkraln.sbs
 25-yil-acik-deniz.cf
+250-000-11l11.duckdns.org
 250-bintoplukonut.com
 2500-onlinegeriodemenizkartislemlerigovtr.com
 2500edevletaidat.com
@@ -92124,6 +92125,7 @@ cascoil.ddns.net
 casconut.xyz
 casczxcacaca.s3.eu-central-1.amazonaws.com
 casdasfasccz.net
+casdcclocarkelcsakdclas.cfd
 casdfg.xyz
 casdkaseqsd.sbs
 casdsadvt-svdvtt.com
