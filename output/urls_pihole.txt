@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-15 22:11:22 UTC
-# Toplam: 439386 Domain
+# Son Güncelleme: 2026-02-15 23:14:11 UTC
+# Toplam: 439390 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -167099,6 +167099,7 @@ garantililili.duckdns.org
 garantilimburda.com
 garantilimobil.com
 garantilipaketler.ga
+garantiliyiz.my-homeip.net
 garantillerletalebarz.duckdns.org
 garantillvabasvuruforum.com
 garantim-agustosfirsati.online
@@ -199614,6 +199615,7 @@ hizlirandevu.org
 hizlirandevual.xyz
 hizlirandevualma.net
 hizlirandevualsldkslxksl.net
+hizlirandevularbizz.org
 hizlirandevumls.online
 hizlirandvuhizmtleri.xyz
 hizlirayukleme.2kool4u.net
@@ -329612,6 +329614,7 @@ sadgfawsefw.click
 sadgfhksag.line.pm
 sadgfjw.click
 sadgsdagadggaa.hopto.org
+sadhashdahsd22asdh12sahdhashd88.click
 sadhgsz.com
 sadhsahdhashd4asdhashdh4sadhhas4.click
 sadhvsbdhjvsdhbvs.site
@@ -423406,6 +423409,7 @@ xynibvruuu10.click
 xynibvruuu2.click
 xynibvruuu4.click
 xynibvruuu6.click
+xynibvruuu8.click
 xynorix.online
 xynqohy.duckdns.org
 xynthara.org
