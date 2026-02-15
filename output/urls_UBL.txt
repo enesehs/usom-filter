@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-15 20:11:57 UTC
-! Total: 350531 rules
+! Last modified: 2026-02-15 21:13:26 UTC
+! Total: 350541 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6512,6 +6512,7 @@
 *://*.2245483-1451215.com/*
 *://*.2250altinpuansizlerle.com/*
 *://*.22525-crkgtmyr.com/*
+*://*.225asdhashdhashd2sadahshdh3.click/*
 *://*.225bbnsctrktlm.com/*
 *://*.2260altinpuan.com/*
 *://*.228-18-1-15-1.com/*
@@ -8287,6 +8288,7 @@
 *://*.346832.site/*
 *://*.346994346.cloud/*
 *://*.347134541-332378458-43541351343.com/*
+*://*.347234466235345.cfd/*
 *://*.3475592.xyz/*
 *://*.34789-65748.click/*
 *://*.34812785784.com/*
@@ -13855,6 +13857,7 @@
 *://*.a-line.top/*
 *://*.a-lkkfdwsgdgqsrsqsdsf.com.tr/*
 *://*.a-lkkfsgdgqsrsqsdsfcomtr.com/*
+*://*.a-llah-be-nim.cfd/*
 *://*.a-magaza.cf/*
 *://*.a-magaza.ga/*
 *://*.a-magaza.tk/*
@@ -115122,6 +115125,7 @@
 *://*.enparabmw-cepsube.com/*
 *://*.enparabmww.com/*
 *://*.enparabnk.com/*
+*://*.enparaborsa.com/*
 *://*.enparacard.com/*
 *://*.enparaccons.tk/*
 *://*.enparacekilis.com/*
@@ -139031,6 +139035,7 @@
 *://*.gloraspp.click/*
 *://*.glorasss.click/*
 *://*.gloriaganise.net/*
+*://*.gloriahotelsresortbelek.com/*
 *://*.gloriousbrew.top/*
 *://*.gloriouschapel.top/*
 *://*.gloriousdefer.top/*
@@ -139253,6 +139258,7 @@
 *://*.gncxdlfzl-onllinemrfkktxfirsllryla.xyz/*
 *://*.gndeliikcrfsmrkt.cfd/*
 *://*.gndelikcfsamrket.cfd/*
+*://*.gndelkcarfsmrkt.cfd/*
 *://*.gnetworkstart.click/*
 *://*.gnezdodesign.ru/*
 *://*.gnfqsqaaaicwsj.com/*
@@ -150051,6 +150057,7 @@
 *://*.hamamammamamamam2452.com/*
 *://*.hamamammamamamamammmamamama9824.com/*
 *://*.hamamammamamamm8190.com/*
+*://*.hamammamamamama2041.com/*
 *://*.hamammamamamamamama84.store/*
 *://*.hamammamamamamop2314.com/*
 *://*.hamammamammama9342.com/*
@@ -216638,6 +216645,7 @@
 *://*.mobilwebgirisgovtr-edevlet.tk/*
 *://*.mobilwebgirisonlinegirisgovtr.com/*
 *://*.mobilwebsiteeiade.ga/*
+*://*.mobilx-giris-basvuru.sbs/*
 *://*.mobilxv2girsxv1gibcgovtr.fun/*
 *://*.mobilxv2girsxvlgibcgovtr.site/*
 *://*.mobilxxiademgovv1v1tr.biz/*
@@ -250346,6 +250354,7 @@
 *://*.prtgov.pics/*
 *://*.prtgov.skin/*
 *://*.prtgscan.com/*
+*://*.prtonlinemobilislern.online/*
 *://*.prts-aidatt-basvurusu.com/*
 *://*.prtscrinsertcn.net/*
 *://*.prttpost-tr.top/*
@@ -316979,6 +316988,7 @@
 *://*.vatandasdestekle-hizmeti.com/*
 *://*.vatandasdestekportallogin.com/*
 *://*.vatandasdestekprogrami.net/*
+*://*.vatandasdosyasorgu.org/*
 *://*.vatandase-devletgiriskapisigovtr-ozel.com/*
 *://*.vatandase-devletgiriskapisigovtr-portall.com/*
 *://*.vatandase-devletgiriskapisiigov-trportal.com/*
