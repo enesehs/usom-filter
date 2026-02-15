@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-15 11:12:52 UTC
-! Total: 350504 rules
+! Last modified: 2026-02-15 12:23:16 UTC
+! Total: 350513 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23421,6 +23421,7 @@
 *://*.aiiaiafrzrueuedur.su/*
 *://*.aiidaaatttt-guncellgiriss.com/*
 *://*.aiidaat-iaaadesiiiiiiiiiiiiiiii.com/*
+*://*.aiidaatedevlaet.com/*
 *://*.aiidat-eiadeformdoldur.com/*
 *://*.aiidat-odeme.com/*
 *://*.aiidati-kredimsorgulama.com/*
@@ -35510,6 +35511,7 @@
 *://*.asdlewkrlkew123rewr-icuds2312.xyz/*
 *://*.asdlfkasklf.com/*
 *://*.asdlkasdklafldas.sbs/*
+*://*.asdlkdlfksdkflkadsad.sbs/*
 *://*.asdlsabanskprdfohaf434.site/*
 *://*.asdmqhmkehmqeq.net/*
 *://*.asdnabda.click/*
@@ -121635,6 +121637,7 @@
 *://*.f532532462151235.click/*
 *://*.f532532463151235.click/*
 *://*.f56Ov2bn.cn/*
+*://*.f58993324774113.click/*
 *://*.f5ds1jkkk4d.info/*
 *://*.f5ekqcgwa.com/*
 *://*.f5network.com.br/*
@@ -132399,6 +132402,7 @@
 *://*.garantibbvatamzamani.tk/*
 *://*.garantibbvatk.com/*
 *://*.garantibbvatoken.com/*
+*://*.garantibbvatoken.world/*
 *://*.garantibbvatr.com/*
 *://*.garantibbvatr.tk/*
 *://*.garantibbvatrancza.com/*
@@ -139242,6 +139246,7 @@
 *://*.gncxdlfdzl-onllinemrfkktxfirsllryla.click/*
 *://*.gncxdlfzl-onlalinemrfkktxfirsllryla.click/*
 *://*.gncxdlfzl-onllinemrfkktxfirsllryla.xyz/*
+*://*.gndeliikcrfsmrkt.cfd/*
 *://*.gnetworkstart.click/*
 *://*.gnezdodesign.ru/*
 *://*.gnfqsqaaaicwsj.com/*
@@ -155551,6 +155556,7 @@
 *://*.hergunyeniyenialiveris.xyz/*
 *://*.herguzelliginizgeldi.com/*
 *://*.hergyi.com/*
+*://*.herhaftayag.space/*
 *://*.herhangibir-bizlere-yanlislari-burada-olmaz.top/*
 *://*.herhangibir-sizlerde-eniyisine-daima-yakinizda-oldu.top/*
 *://*.herhcegerhce.net/*
@@ -245024,6 +245030,7 @@
 *://*.petrolofis.com/*
 *://*.petrolofisi-bites.com/*
 *://*.petrolofisi-tr.com/*
+*://*.petrolofisi.shop/*
 *://*.petrolofisikampanyalar.com/*
 *://*.petrolofisitr.top/*
 *://*.petrolofisitt.top/*
@@ -268733,6 +268740,7 @@
 *://*.sdkvetvlt-cvdt.com/*
 *://*.sdkvetvlt-cvdt.online/*
 *://*.sdkvm.com/*
+*://*.sdlasklflsdfksadasd.sbs/*
 *://*.sdlc-esd-oracle.online/*
 *://*.sdldghibbbxi.xyz/*
 *://*.sdlerdvt-dvty.com/*
@@ -282005,6 +282013,7 @@
 *://*.sosmed.club/*
 *://*.sosnisinegox.com/*
 *://*.soso4ki.ru/*
+*://*.sosonnnkinemlgross.cfd/*
 *://*.sosorichshswhitesooodkdd.net/*
 *://*.soss-y-all-d-e-s-te-k-5000t-l.com/*
 *://*.sossamoda.xyz/*
