@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-16 08:31:47 UTC
-! Total: 350565 rules
+! Last modified: 2026-02-16 09:38:55 UTC
+! Total: 350618 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8562,6 +8562,7 @@
 *://*.36744236763447456.com/*
 *://*.36884456647878.com.tr/*
 *://*.36884456647878.online/*
+*://*.369201v-coinbase.com/*
 *://*.3696832.cloud/*
 *://*.369852147.cloud/*
 *://*.36a6d381920d14f0.live/*
@@ -9430,6 +9431,7 @@
 *://*.48223.cloud/*
 *://*.48252.xyz/*
 *://*.48284184210.cloud/*
+*://*.482901v-coinbase.com/*
 *://*.483738284.online/*
 *://*.484-45454-87875-998985-7989.site/*
 *://*.484100.cn/*
@@ -10122,6 +10124,7 @@
 *://*.54354354343.cloud/*
 *://*.5435934934.cloud/*
 *://*.54389573489.xyz/*
+*://*.543902-coinbase.com/*
 *://*.5439271.net/*
 *://*.543945345514315621546512.com/*
 *://*.543945714-4532.com/*
@@ -10241,7 +10244,9 @@
 *://*.562323125.com/*
 *://*.56232476345345.com/*
 *://*.5625263.cloud/*
+*://*.562789-coinbase.com/*
 *://*.563464343654363443.cloud/*
+*://*.563901-coinbase.com/*
 *://*.564-652-654.cfd/*
 *://*.564164565296549.cfd/*
 *://*.564168416543545348.site/*
@@ -10321,6 +10326,7 @@
 *://*.58176-coinbase.com/*
 *://*.582342.com/*
 *://*.582630.com/*
+*://*.582751v-coinbase.com/*
 *://*.58297-coinbase.com/*
 *://*.583259.click/*
 *://*.5841259686.top/*
@@ -10801,6 +10807,7 @@
 *://*.650000015265444.cloud/*
 *://*.65001526554444.cloud/*
 *://*.6502kanun.com/*
+*://*.650421-coinbase.com/*
 *://*.651234214124.cloud/*
 *://*.651261120368.cfd/*
 *://*.65145161896165189516.cloud/*
@@ -10936,8 +10943,12 @@
 *://*.6712037932.cloud/*
 *://*.6723483770.best/*
 *://*.673236782584.com.tr/*
+*://*.673442-coinbase.com/*
+*://*.673827-coinbase.com/*
+*://*.673908-coinbase.com/*
 *://*.6742309061461234152505124507145.biz/*
 *://*.67435153424.com/*
+*://*.674933-coinbase.com/*
 *://*.67521hmghmcvbsfewe32487fdcbc.com/*
 *://*.67543w5547-34512-2346743.com/*
 *://*.67545423432124211423.com/*
@@ -11753,6 +11764,7 @@
 *://*.7834216376219430.xyz/*
 *://*.7834216376219440.com.tr/*
 *://*.7834216376219440.xyz/*
+*://*.783521-coinbase.com/*
 *://*.783dcc9815ee4653.info/*
 *://*.783j309283ju3093.icu/*
 *://*.78416813464163.cloud/*
@@ -12685,7 +12697,9 @@
 *://*.90101010101.cloud/*
 *://*.901010112222-222.cloud/*
 *://*.9011-111-111111.cloud/*
+*://*.901562-coinbase.com/*
 *://*.902at3s.cn/*
+*://*.903182s-coinbase.com/*
 *://*.903333com.com/*
 *://*.905342.cloud/*
 *://*.905342.online/*
@@ -77018,20 +77032,30 @@
 *://*.coinband.shop/*
 *://*.coinband.top/*
 *://*.coinbarrier.top/*
+*://*.coinbase-access.com/*
 *://*.coinbase-bonus.com/*
 *://*.coinbase-bonus.net/*
 *://*.coinbase-btc-give.com/*
 *://*.coinbase-com.info/*
+*://*.coinbase-diagnostic.com/*
 *://*.coinbase-drop.com/*
 *://*.coinbase-gift.com/*
 *://*.coinbase-giveaway.online/*
 *://*.coinbase-giving.com/*
 *://*.coinbase-heip.com/*
 *://*.coinbase-live-giveaway.com/*
+*://*.coinbase-live.com/*
 *://*.coinbase-live.support/*
+*://*.coinbase-myaccount.com/*
+*://*.coinbase-myvault.com/*
 *://*.coinbase-promo.com/*
 *://*.coinbase-promo.net/*
+*://*.coinbase-protected.com/*
 *://*.coinbase-reject.com/*
+*://*.coinbase-safeguard.com/*
+*://*.coinbase-safevault.com/*
+*://*.coinbase-securedvault.com/*
+*://*.coinbase-storage.com/*
 *://*.coinbase-team.com/*
 *://*.coinbase-ticket.com/*
 *://*.coinbase-x2.live/*
@@ -77240,6 +77264,7 @@
 *://*.coldpacific.com/*
 *://*.coldveirfyguard.org/*
 *://*.coldveirfyservice.com/*
+*://*.coldwallets-coinbase.com/*
 *://*.colectivekarayolbhizli.net/*
 *://*.colectivekarayolhizli.net/*
 *://*.colectivesubtlety.top/*
@@ -85775,6 +85800,7 @@
 *://*.defendonset.top/*
 *://*.defenestrationlabs.shop/*
 *://*.defengtonsai.info/*
+*://*.defense-coinbase.com/*
 *://*.defenseamendment.top/*
 *://*.defensenews.online/*
 *://*.defensetrcourse.com/*
@@ -93413,15 +93439,18 @@
 *://*.diadtuky.su/*
 *://*.diaetesasso.top/*
 *://*.diagfest-tickets.ru/*
+*://*.diagnose-coinbase.com/*
 *://*.diagnoseallure.top/*
 *://*.diagnoseanecdote.top/*
 *://*.diagnosedivert.top/*
 *://*.diagnoseprofile.top/*
+*://*.diagnosis-coinbase.com/*
 *://*.diagnosisammunition.top/*
 *://*.diagnosisdepict.top/*
 *://*.diagnosisdilution.top/*
 *://*.diagnostic-resolver.com/*
 *://*.diagnosticdubai.com/*
+*://*.diagnostics-coinbase.com/*
 *://*.diagramalleviate.top/*
 *://*.diagramdetachment.top/*
 *://*.diagramfiremonkeyowwa.fun/*
@@ -94819,6 +94848,7 @@
 *://*.dijitalmobilislemler-ziraat.com/*
 *://*.dijitalmobilislemler-ziraatbireyselweb.com/*
 *://*.dijitalmobilislemleri-ziraat.com/*
+*://*.dijitalmobilislemleriniz-ziraatbireyselweb.sbs/*
 *://*.dijitalmobilkampanya-ziraatbireysel.com/*
 *://*.dijitalmobilkanal-ziraatbireysel.com/*
 *://*.dijitalmobilkredi-ziraat.com/*
@@ -221010,6 +221040,7 @@
 *://*.mycoffeeshop.shop/*
 *://*.mycogentrading.com/*
 *://*.mycoinba.se/*
+*://*.mycoldstorage-coinbase.com/*
 *://*.mycomp.cyou/*
 *://*.myconnect-support.com/*
 *://*.mycopywriterpro.com/*
@@ -221135,6 +221166,7 @@
 *://*.myhealthmedical.ae/*
 *://*.myhelpcare.cc/*
 *://*.myhelpcare.online/*
+*://*.myhelpdesk-coinbase.com/*
 *://*.myheritageaccess.com/*
 *://*.myhermes-at.bond/*
 *://*.myhgs.site/*
@@ -221324,6 +221356,7 @@
 *://*.mys-kmpsonakfrdhdgdjfjdk.online/*
 *://*.mys-newnfdkfskfsakfsskgafsk.online/*
 *://*.mys518.com/*
+*://*.mysafevault-coinbase.com/*
 *://*.mysakqtgbkaswawaawawfas.shop/*
 *://*.mysalescaptains.com/*
 *://*.mysamaaj.com/*
@@ -221333,6 +221366,7 @@
 *://*.mysaysaysay5.click/*
 *://*.mysbab-41.sbs/*
 *://*.mysecondarydns.com/*
+*://*.mysecureportal-coinbase.com/*
 *://*.mysecurityinfolimited.com/*
 *://*.mysektorel.shop/*
 *://*.myselfantagonist.top/*
@@ -248985,6 +249019,7 @@
 *://*.privacysign.org/*
 *://*.privacytools.xyz/*
 *://*.privacytoolsforyou.site/*
+*://*.privacyvault-coinbase.com/*
 *://*.privat-bankau.com/*
 *://*.privatbank-ua.com/*
 *://*.privatdoma.cfd/*
@@ -250191,6 +250226,8 @@
 *://*.protect-via-booking.com/*
 *://*.protectad.online/*
 *://*.protectbotanical.top/*
+*://*.protectedportal-coinbase.com/*
+*://*.protectedvault-coinbase.com/*
 *://*.protectedviews.com/*
 *://*.protectforavno.net/*
 *://*.protectingsearch.com/*
@@ -259261,6 +259298,7 @@
 *://*.refsnbn.click/*
 *://*.refturetr.click/*
 *://*.refuation.top/*
+*://*.refuge-coinbase.com/*
 *://*.refugedaye.fit/*
 *://*.refugeeconverse.top/*
 *://*.refugeeinternational.org/*
@@ -261928,6 +261966,7 @@
 *://*.rnd518.com/*
 *://*.rndavvvalm.net/*
 *://*.rndbsvhzimebrurds.store/*
+*://*.rndbsvsadhzimebrurds.store/*
 *://*.rndcuhizlf.pw/*
 *://*.rnddvlarinizlyn.net/*
 *://*.rnddvlarinizlyz.net/*
@@ -264357,12 +264396,15 @@
 *://*.safeosecure.online/*
 *://*.safepage.cloud/*
 *://*.safepayly.com/*
+*://*.safeportal-coinbase.com/*
 *://*.safeprocessor.com/*
 *://*.safepttgov.click/*
 *://*.safepudatelink.site/*
 *://*.safercycling.org/*
 *://*.safesharea.top/*
 *://*.safeshortl.ink/*
+*://*.safestorage-coinbase.com/*
+*://*.safestorages-coinbase.com/*
 *://*.safestylelinks.info/*
 *://*.safesurf.world/*
 *://*.safetb-amazon.jp/*
@@ -264379,9 +264421,13 @@
 *://*.safetylfe-fragainstbully.com/*
 *://*.safetylongitude.top/*
 *://*.safetypaid.site/*
+*://*.safetystorage-coinbase.com/*
 *://*.safetyturkiye.org/*
+*://*.safetyvault-coinbase.com/*
 *://*.safeup.store/*
 *://*.safeupload.online/*
+*://*.safevault-coinbase.com/*
+*://*.safewallet-coinbase.com/*
 *://*.safghasfsafhasnmsamnfas.shop/*
 *://*.safgrehgre.xyz/*
 *://*.safguzellik.name.tr/*
@@ -269396,6 +269442,7 @@
 *://*.securedenizsekure.org/*
 *://*.securedept.com/*
 *://*.securedocumentsmicrocloudsdrivestorage.com/*
+*://*.securedvault-coinbase.com/*
 *://*.securee-pay.com.tr/*
 *://*.securee-sahhibinden-com.cf/*
 *://*.securee-sahhibinden-com.ga/*
@@ -269521,6 +269568,7 @@
 *://*.securesepetimiz.com/*
 *://*.securesepetiniz.com/*
 *://*.secureservis.in/*
+*://*.securesession-coinbase.com/*
 *://*.secureshares.online/*
 *://*.secureshipworld.xyz/*
 *://*.securesodeme.com.tr/*
@@ -269543,6 +269591,7 @@
 *://*.securielite.com/*
 *://*.securifyprotect.com/*
 *://*.securifythis.com/*
+*://*.securing-coinbase.com/*
 *://*.securisurf.com/*
 *://*.securite-sahibinden.com.tr/*
 *://*.securitel.com/*
@@ -269648,6 +269697,7 @@
 *://*.securitysystemswap.com/*
 *://*.securityupdateserver-1.com/*
 *://*.securityupdateserver4.com/*
+*://*.securityvault-coinbase.com/*
 *://*.securityxx.top/*
 *://*.securiyyofbbvbasvuruu.xyz/*
 *://*.securresahibinden.online/*
@@ -279976,6 +280026,7 @@
 *://*.sokmarketimcepte.cfd/*
 *://*.sokmarketimceptee.com/*
 *://*.sokmarketimfirsat.cfd/*
+*://*.sokmarketin.cfd/*
 *://*.sokmarketin.online/*
 *://*.sokmarketindirim-cepte.site/*
 *://*.sokmarketindirim.com/*
@@ -285753,6 +285804,7 @@
 *://*.storagekeeperinfotech.com/*
 *://*.storagenutrition.top/*
 *://*.storagerootconnect.com/*
+*://*.storages-coinbase.com/*
 *://*.storagesubscription.top/*
 *://*.storageswap.top/*
 *://*.storagesync.biz/*
@@ -293474,6 +293526,7 @@
 *://*.teknocelodeme.org/*
 *://*.teknocitys.church/*
 *://*.teknodanhaftasonuindirimi.net/*
+*://*.teknodeno.com.tr/*
 *://*.teknodigi.digital/*
 *://*.teknoegitim.online/*
 *://*.teknoevlilk.pw/*
