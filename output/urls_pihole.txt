@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-16 16:28:13 UTC
-# Toplam: 439580 Domain
+# Son Güncelleme: 2026-02-16 17:29:25 UTC
+# Toplam: 439592 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18812,6 +18812,7 @@
 7f8ur0l.duckdns.org
 7f8wquwa.duckdns.org
 7f9im6cs.duckdns.org
+7fbgvw.icu
 7fc68c82eb47.com
 7fcsb5o.duckdns.org
 7fefo8ax3bk8y2m.ddns.net
@@ -62978,6 +62979,7 @@ bbva-online.com.tr
 bbva-online.sbs
 bbva-onlineactivity.com
 bbva-onlinegaranti.com
+bbva-onlineomh.knittingpals.org
 bbva-ozel-2020.com
 bbva-promosyon.sbs
 bbva-seguridad-movil.app
@@ -64503,6 +64505,7 @@ believetrickle.top
 belinkers.digital
 belinveston.com
 belirlenenlere-uzaktaysa-ilkinizi-gorunceler.top
+belislemleri.com
 belistanbul.vercel.app
 beljuuvp.live
 belkafruitcymus.com
@@ -92552,6 +92555,7 @@ cayhaneztoporozlekez.com
 cayindirimleribugun.cyou
 cayindirimleribugun.sbs
 caykeyfimayis.com.tr
+caykurkampanya.com
 caykursepet549.cfd
 caykurturkiyeyudum.me
 caymadsosfareytozo.com
@@ -242864,6 +242868,8 @@ kmpnyaaaqnbbbkatilim.cloud
 kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrrprmsynn.info
+kmpnyaabsvrrprmsynn.live
+kmpnyaabsvrrprmsynn.pro
 kmpnyaabsvrrprmsynnn.info
 kmpnyaabsvrrprmsynnn.pro
 kmpnyaabsvrrraafinnss.click
@@ -264187,6 +264193,8 @@ mhrs.xyz
 mhrsavhgsbilgisis.sbs
 mhrserandevu.com
 mhrserandevu.net
+mhrsgiris.it.nf
+mhrsklsafslaalal.vip
 mhrsmsmhsxzwshshn.net
 mhrsortakgiris.co.vu
 mhrsrandavu.net
@@ -272875,6 +272883,7 @@ muazymaur.tk
 muazzam.cfd
 mubarekramazan.cyou
 mubarekramazan.sbs
+mubarekramazanlar.com
 mubarizgo.shop
 mubela.cfd
 mubirusom.com
@@ -281079,6 +281088,7 @@ notablenephew.top
 notableoppose.top
 notablepepper.top
 notabotnet.lol
+notacicekcilik.com.tr
 notaiiree.hopto.org
 notaire8082.duckdns.org
 notalmalisin.name.tr
@@ -318688,6 +318698,7 @@ qrhere12.ddns.net
 qrhlpztx.duckdns.org
 qrilitex.online
 qrislemleri.com
+qrislerndijitaltraqq.space
 qrjn9gt.cn
 qrkarekod-kampanya.com
 qrkazananlaryapisi.com
@@ -352602,6 +352613,7 @@ sononayisleminigerceklestiriniz56.urlhedge.website
 sononayisleminigerceklestiriniz56.urlnames.xyz
 sonosmanli1453.xyz
 sonosmanlidevleti.site
+sonostnblbrdankrl.shop
 sonotac.eu
 sonqan-vn.com
 sonrada-bunun-yonlerine-burali-bakardik.top
