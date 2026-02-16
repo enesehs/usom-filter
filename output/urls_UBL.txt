@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-16 11:31:56 UTC
-! Total: 350631 rules
+! Last modified: 2026-02-16 12:31:37 UTC
+! Total: 350641 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3287,6 +3287,7 @@
 *://*.14subat1xo1brda.com/*
 *://*.14subataozel-firsatlarikacirmayin.xyz/*
 *://*.14subatdenizlefaisiz.online/*
+*://*.14subatozelkampnya.com/*
 *://*.14subatsevgililerdenizle.online/*
 *://*.14subatsevgililergunu.us/*
 *://*.14subatsiparisleedge.cloud/*
@@ -37031,6 +37032,7 @@
 *://*.authenticate-bt.com/*
 *://*.authenticate-gemini.com/*
 *://*.authenticate-hydromedicional.com/*
+*://*.authentication-check.io/*
 *://*.authenticgadget.top/*
 *://*.authenticitycompile.top/*
 *://*.authenticityreminiscent.top/*
@@ -56159,6 +56161,7 @@
 *://*.bitay.one/*
 *://*.bitbimcelltr.com/*
 *://*.bitboltr.com/*
+*://*.bitboxone.com/*
 *://*.bitbucket.io/*
 *://*.bitcastra.com/*
 *://*.bitchair.biz/*
@@ -71402,6 +71405,7 @@
 *://*.ccr-hilft.de/*
 *://*.ccrefursa.cfd/*
 *://*.ccrfsagnlerim.cfd/*
+*://*.ccrrfssdyz.cfd/*
 *://*.ccsecurity-mail-inc.email/*
 *://*.ccsecurity-mail-inc.services/*
 *://*.ccsi.com.co/*
@@ -127031,6 +127035,7 @@
 *://*.firsatrentkiralamaarac.com.tr/*
 *://*.firsatrrlasoraes.sbs/*
 *://*.firsatruzaglarindason.com/*
+*://*.firsatsaalsendeashdahsdhash99.click/*
 *://*.firsatsaatibance.tech/*
 *://*.firsatsaatisimdibance.tech/*
 *://*.firsatsaatlerim.com/*
@@ -196614,6 +196619,7 @@
 *://*.kmmpmyaaabsvrrr.click/*
 *://*.kmmpnnybsvrrprmsyn.info/*
 *://*.kmmpnnybsvrrprmsyn.live/*
+*://*.kmmpnnybsvrrprmsyn.pro/*
 *://*.kmmsorggulamahmenburdagovptt.com/*
 *://*.kmmsorgulmagovvvpttqae.com/*
 *://*.kmmsorguluzssamhemengovtptr.com/*
@@ -197188,6 +197194,7 @@
 *://*.kobetwofour.buzz/*
 *://*.kobi-bugunfirsatisendekazan1.cloud/*
 *://*.kobi-destekbasvuru.com/*
+*://*.kobi-destekbasvurusu.com/*
 *://*.kobi-destekbilgilendirme.com/*
 *://*.kobi-destekhizmetleri.sbs/*
 *://*.kobi-destekmerkezi.com/*
@@ -272203,6 +272210,7 @@
 *://*.setup-ledger.live/*
 *://*.setupoldnavy.space/*
 *://*.setupprofi.com/*
+*://*.setuptransactioncheck.com/*
 *://*.setuptriumph.top/*
 *://*.seturydutyfree.site/*
 *://*.setvipsec.club/*
@@ -280076,6 +280084,7 @@
 *://*.sokmarketler-indirim.online/*
 *://*.sokmarketler-kapida.com/*
 *://*.sokmarketler-kapinda.site/*
+*://*.sokmarketler.cfd/*
 *://*.sokmarketler.net/*
 *://*.sokmarketler.online/*
 *://*.sokmarketler.site/*
@@ -293775,6 +293784,7 @@
 *://*.tektiklasepetindewsynxkaradayi.shop/*
 *://*.tektiklasepetinizde.me/*
 *://*.tektiklasepette.me/*
+*://*.tektiklasepetto.me/*
 *://*.tektiklasiqortayaptir.com.tr/*
 *://*.tektiklayaninda.online/*
 *://*.tektikonlineislem.net/*
