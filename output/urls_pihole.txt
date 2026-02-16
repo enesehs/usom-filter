@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-16 14:36:50 UTC
-# Toplam: 439536 Domain
+# Son Güncelleme: 2026-02-16 15:29:47 UTC
+# Toplam: 439549 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -44566,6 +44566,7 @@ anadolutakibmarketing.com
 anadolutrafiksigorta.com
 anadoluvakifbursu.com
 anadoluya.org
+anadoluyatirimmd.com
 anadoluyatirimmd.net
 anadoluyatirimportfoy.com
 anadoluyenigelecek.online
@@ -121660,6 +121661,7 @@ dijitalportal.pages.dev
 dijitalportal.web.app
 dijitalportalgib.com
 dijitalpromosyon-ziraatmobil.com
+dijitalrnobilislerntrapp.space
 dijitalruya.space
 dijitals.online
 dijitals.site
@@ -152848,6 +152850,7 @@ f532532462151235.click
 f532532463151235.click
 f53a15ac.gfwisd-235.shop
 f53f762f.hds-ndnd9n.com.cn
+f541234648641348643.cfd
 f548d70d32e4.ngrok.io
 f56Ov2bn.cn
 f57zaun.duckdns.org
@@ -177046,6 +177049,7 @@ greekpool.com
 green-card.com.tr
 green-day.ru
 green-teatr.ru
+green-toad-119616.hostingersite.com
 green-tops.com
 greenacrestf.co.za
 greenbackercapital.hopto.org
@@ -222815,6 +222819,7 @@ istmhkhmn.com
 istmhkncv.com
 istmhknmc.com
 istmhndvcx.com
+istmkrgshdfc.com
 istmmllsad.com
 istmmrkrlslykleee.com
 istmn.net
@@ -263068,6 +263073,7 @@ merkezibilgisistemi.com
 merkezicezaodeme.sg-host.com
 merkezicuzdaninaylamamerkeziozelonline.run.place
 merkezigecisyukle.sg-host.com
+merkezihekiim.lol
 merkezihekiim.vip
 merkezihekim.life
 merkezihekim.one
@@ -264142,6 +264148,7 @@ mhreseranedeual.net
 mhrndlmnszabvgln.com
 mhrndvlmernszsanz.gleeze.com
 mhrnmslmarnsan.gleeze.com
+mhrnsndvlrmnazsd.giize.com
 mhrnuda.com
 mhrpeewwhs.in
 mhrportal.com
@@ -309449,6 +309456,9 @@ prmsynladenzm.vercel.app
 prmsynladenzzban.vercel.app
 prmsynnay.com.tr
 prmsynnbasvrrrrgrntt.click
+prmsynnbsvrrkmpnya.info
+prmsynnbsvrrkmpnya.live
+prmsynnbsvrrkmpnya.pro
 prmsynngrntttbsvrrr.info
 prmsynnkampanyabasvrrr.info
 prmsynnkampanyabasvrrr.pro
@@ -332937,6 +332947,7 @@ sahibinden.siparisveriniz.com.tr
 sahibinden.siparisyolda.site
 sahibinden.sistemi-tamamla.com
 sahibinden.sistemini-ile-tamamla.com
+sahibinden.sistemli.biz.tr
 sahibinden.space
 sahibinden.ss-secure-pay.com
 sahibinden.ss-securepayment.com
@@ -346970,6 +346981,7 @@ sinirsiz-mutluluk-sizlerlerden-devamli-talepler.com
 sinirsiz-ve-hizlica.arass-kargo-her-zaman-kapilar-da.com
 sinirsiz20-internetbedava.com
 sinirsizdomain.sg-host.com
+sinirsizdomainanindahazir-30692ff118e0.herokuapp.com
 sinirsizdomainnn-0bfd15a129c5.herokuapp.com
 sinirsizdomainvarrrr-99e640f54181.herokuapp.com
 sinirsizdomainvarucsaniyede-700606d45e59.herokuapp.com
@@ -364275,6 +364287,7 @@ tapkovdns.online
 taplist.work
 taplrananivum.online
 tapn.zapto.org
+tapnetic.pro
 tapok.zapto.org
 tapoliso.site
 tapouttv28.com
