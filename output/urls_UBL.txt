@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-16 10:36:52 UTC
-! Total: 350623 rules
+! Last modified: 2026-02-16 11:31:56 UTC
+! Total: 350631 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -82266,6 +82266,7 @@
 *://*.crreffursa.shop/*
 *://*.crreforsadan-gelenlr.shop/*
 *://*.crreforsadan-gelenlr.store/*
+*://*.crreforsam.com/*
 *://*.crreforsdnyazinguzlligi.com/*
 *://*.crreforsnzdnglckler.com/*
 *://*.crreforsnznbuhftsisizde.com/*
@@ -94836,6 +94837,7 @@
 *://*.dijitalmobilgiris-ziraat.com/*
 *://*.dijitalmobilgiris-ziraatbireysel.com/*
 *://*.dijitalmobilgiris-ziraatbireysel.sbs/*
+*://*.dijitalmobilgiris-ziraatbireyselweb.com/*
 *://*.dijitalmobilgiris-ziraatkampanyaweb.com/*
 *://*.dijitalmobilgirisiniz-denizacik.com/*
 *://*.dijitalmobilhizmet-ziraat.com/*
@@ -104990,6 +104992,7 @@
 *://*.e-tuvturkbayilerrii.digital/*
 *://*.e-tuvturkbayilik.digital/*
 *://*.e-tuvturkbayisi.digital/*
+*://*.e-tuvturkileyasam.digital/*
 *://*.e-tuvturkk.digital/*
 *://*.e-tuvturkkbayisii.digital/*
 *://*.e-tuvturkmuayenerandevu.digital/*
@@ -151530,6 +151533,7 @@
 *://*.hava-ist.com/*
 *://*.hava-ist.org/*
 *://*.hava.bio/*
+*://*.hava.ltd/*
 *://*.havaa.ist/*
 *://*.havaalaniarackira.co/*
 *://*.havaalaniarackirala.xyz/*
@@ -196608,6 +196612,8 @@
 *://*.kmmmsrglaaa.click/*
 *://*.kmmnzzs.com/*
 *://*.kmmpmyaaabsvrrr.click/*
+*://*.kmmpnnybsvrrprmsyn.info/*
+*://*.kmmpnnybsvrrprmsyn.live/*
 *://*.kmmsorggulamahmenburdagovptt.com/*
 *://*.kmmsorgulmagovvvpttqae.com/*
 *://*.kmmsorguluzssamhemengovtptr.com/*
@@ -209542,6 +209548,7 @@
 *://*.masakdosyasorgu.com/*
 *://*.masakdosyatr.com/*
 *://*.masakdosyatr.org/*
+*://*.masakegm.net/*
 *://*.masakegm.org/*
 *://*.masakgov.com/*
 *://*.masakgovtr.com/*
@@ -271360,6 +271367,7 @@
 *://*.sepetimizde.com/*
 *://*.sepetimm-zamanii-a101.shop/*
 *://*.sepetimp-ttavm.com/*
+*://*.sepetimsiparis.com/*
 *://*.sepetimstanleyler.xyz/*
 *://*.sepetin-cepte.com.tr/*
 *://*.sepetin-tamamla.com.tr/*
