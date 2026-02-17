@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-17 12:31:49 UTC
-# Toplam: 439664 Domain
+# Son Güncelleme: 2026-02-17 13:58:22 UTC
+# Toplam: 439688 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22169,6 +22169,7 @@ a--haber-govtrr.org
 a--magazatr-a.xyz
 a-1--01denflrsatlar-kmpanlari.cfd
 a-1-0---1dneypa.sbs
+a-1-0--1ekstlraco-m-tr.sbs
 a-1-0-1-aldinaldinfrstmysoth.xyz
 a-1-0-1-aldnaldnbukmpnya2025.net
 a-1-0-1-b-o-s-c-h.site
@@ -64445,6 +64446,7 @@ belbimyuklekazan.net
 belbimyuklerim.net
 belbiss.com
 belbiss.space
+belbiss.xyz
 belblm.com
 belbmsxprt.net
 belcan05.hopto.org
@@ -75901,6 +75903,7 @@ bizle-gorulen-son-tesrif-size-geldi.com
 bizlecokhizlisinw.com
 bizlecokhizlisinx.com
 bizlegeldinizsiz1o1-net-128839.hostingersite.com
+bizlehizlarandevu.org
 bizlehmnfgd.com
 bizlekapindafrsaat.org
 bizlekazan.net
@@ -83896,6 +83899,7 @@ brgnmenkul.com
 brgnmenkulsermaye.com
 brgnyatirim.com
 brgnyatirim.net
+brgscrfksaonln.cfd
 brgylbscrfsonline.cfd
 brh-knua-edhn-1000tl.com
 brhck8.duckdns.org
@@ -86133,6 +86137,7 @@ buglobalfirsatlaribance.tech
 bugncalsmagundi.cfd
 bugnencokbahrfirstlarikacrmam.sbs
 bugnibiraskan.xyz
+bugnkampynsi.dns.navy
 bugnsendengldi.online
 bugradestek.org
 bugradogrulabasvuru.net
@@ -95016,6 +95021,7 @@ cepteteb.ga
 cepteteb.giris-user.com
 cepteteb.kisalink.cc
 cepteteb.ml
+cepteteb.my-homeip.net
 cepteteb.online
 cepteteb.xyz
 ceptetebaktivasyon-v2.tk
@@ -126165,6 +126171,7 @@ drk-frsksksmfpwqeasda.xyz
 drk12.duckdns.org
 drkampanyahaberi.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
+drkanteucururr-c1993e66f9db.herokuapp.com
 drkcafrledenizde.website
 drkdangrntibbva.mooo.com
 drkdvletedvl.online
@@ -172540,6 +172547,7 @@ giris-login.de
 giris-merkezresmiadresi.com
 giris-mobil-ar.sbs
 giris-mobil-gir.cfd
+giris-mobil-onlinen.sbs
 giris-mobilaktif.vip
 giris-mobile.sbs
 giris-mobiles.sbs
@@ -203069,6 +203077,7 @@ hour142.xyz
 hourcognition.top
 hourcontemplation.top
 hourensou01292.com
+hourly-marvel-doug-sbjct.trycloudflare.com
 hourlyappal.top
 hourlysalarycalculator.pro
 hourlytosalarycalculator.app
@@ -227775,6 +227784,7 @@ janechu.com
 janeness.com
 janero.sbs
 janesleptinchrch.com
+janet-former-measured-transit.trycloudflare.com
 jang.goongnam.com
 jangasm.org
 jango-data.com
@@ -238532,6 +238542,7 @@ kcrmadrmfrstlarbykndrm.shop
 kcrmflrstrhzlmi.duckdns.org
 kcrncn.online
 kcrrfursa.cfd
+kcrrfursa.click
 kctg2lrt.duckdns.org
 kculgqivhbkslhi.su
 kcumhurbaskanligi-tr.com
@@ -238920,6 +238931,7 @@ kellas2347x.dns.navy
 kellas25sx.dns.navy
 kellas5432x.dns.navy
 kellas547475x.dns.navy
+kellas56665x.dns.navy
 kellas5745x.dns.navy
 kellas71x.dns.navy
 kellas754x.dns.navy
@@ -242984,6 +242996,7 @@ kmpnyyfrrrst.xyz
 kmpnyyybsvrrrrprmsynn.click
 kmpnyyygrrntw.chickenkiller.com
 kmpnyyyprmsynnbsvrr.info
+kmpnyyyprmsynnbsvrr.live
 kmpnyyyprmsynnbsvrr.pro
 kmpnyyyybsvvvrrr.cloud
 kmpozkurbek.sbs
@@ -246761,6 +246774,7 @@ ksettea1o1.com
 ksfafkakf.net
 ksfakwqsfakw.space
 ksfcucerfy.ddns.net
+ksfksfdmasflasdfk.cfd
 ksgdybcpt.com
 ksgerceksifirihtiyacsizdenizile.com
 ksgerceksifirihtiyacsizdenizile.online
@@ -264220,6 +264234,7 @@ mhreseranedeual.net
 mhrndlmnszabvgln.com
 mhrndvlmernszsanz.gleeze.com
 mhrnmslmarnsan.gleeze.com
+mhrnmslrdnmzsaniz.mooo.com
 mhrnsndvlrmnazsd.giize.com
 mhrnuda.com
 mhrpeewwhs.in
@@ -279216,6 +279231,7 @@ nhlci5za.duckdns.org
 nhmg5jyqa.storage.googleapis.com
 nhmhnhnmnh.net
 nhmqhmsrph.us
+nhn-rl-g-rn.myonlineportal.ch
 nhnrqmpwnr.us
 nhnsdnrndu.net
 nhockgame1230.zapto.org
@@ -287826,6 +287842,7 @@ ondokuzmilyon.dev
 ondokuzocakikibinyirmialti.com
 ondorteylulindi.uk
 ondortodeme.tk
+ondortskba.duckdns.org
 ondortsubatindirim.duckdns.org
 ondrion.bond
 ondrirka.com
@@ -290166,6 +290183,7 @@ onlinecokkolay.com
 onlinecokolay.com
 onlinecompany.website
 onlinecontroler.000webhostapp.com
+onlinecrfmarktindirm.cfd
 onlinecurtain.top
 onlinedairebasvurusu.org
 onlinedakifirsatselalesi.xyz
@@ -318753,6 +318771,7 @@ qrccowjjkimi.xyz
 qrcgnihybspy.xyz
 qrchq.vrhoeas.com
 qrcodes.pro
+qrdigitalrnobilislerntrapp.space
 qreenmaple.com
 qreo.cvhwt.ru
 qrewwtcsbmrcgjeob.org
@@ -355578,6 +355597,7 @@ sponsotinegiriyombe.com
 sponsporlugonderi.onlinemagazaislemlerin.com
 sponsrdgarntikampanyalari.com
 sponsrklu1o1firsat.duckdns.org
+sponsrl-reklam-yonlendiriliyosun.me
 sponsrlklu1o1frsatlarkacmazzz.com
 sponsrlu-onlinevakf.duckdns.org
 sponsrlukampanya.shop
@@ -357272,6 +357292,7 @@ stanleywbacking.xyz
 stanleywery.xyz
 stanleywrky.xyz
 stanleywwe.xyz
+stanleyxerion.xyz
 stanleyyakinda.xyz
 stanleyzenon.xyz
 stanleyzeropoint.xyz
@@ -363626,6 +363647,7 @@ taib2h6ff.duckdns.org
 taibeck465.xyz
 taigen-landscape.com
 taigen-landspace.com
+taila31eb7.ts.net
 tailcoat.xyz
 taildisplace.top
 taileenanahi.company
@@ -367915,6 +367937,7 @@ tektiklasepetinde.me
 tektiklasepetindewsynxkaradayi.shop
 tektiklasepetinizde.me
 tektiklasepette.me
+tektiklasepettesiniz.me
 tektiklasepetto.me
 tektiklasiqortayaptir.com.tr
 tektiklayaninda.online
@@ -435802,6 +435825,7 @@ zffffz.ddns.net
 zfffzfffz.ddns.net
 zfftdeikej.duckdns.org
 zfgirkxommyl.duckdns.org
+zfgjhdew.blogspot.com
 zfgsd.com
 zfgtjex.com
 zfi8ny6yi30s.website
