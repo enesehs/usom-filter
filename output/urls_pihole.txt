@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-17 08:30:49 UTC
-# Toplam: 439641 Domain
+# Son Güncelleme: 2026-02-17 09:35:29 UTC
+# Toplam: 439648 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -104105,6 +104105,7 @@ cooinbase.net
 cooinbbsluign.webflow.io
 cook-tips.info
 cookab.com
+cookbook-closure-formal-weed.trycloudflare.com
 cookedu-online.com
 cookeroutletstore.shop
 cookglamorous.top
@@ -197388,6 +197389,7 @@ hgytkorntome.ddns.net
 hgyukeleme.html-5.me
 hgyukleme.org
 hgyuklemenoktasi.com
+hgyukleniyorbekleyin.blogspot.com
 hgyukleode.net
 hgyuuss.click
 hgz1s6qp.duckdns.org
@@ -221464,6 +221466,7 @@ istanblukartbasvuru.vip
 istanblukartt.net
 istanblum.com
 istanblumkartim.com
+istanblvmdk.com
 istanblwkart.net
 istanblwkrt.net
 istanblwmmsa.online
@@ -234878,6 +234881,7 @@ kanvergi.net
 kanvergivd.net
 kanyewest.com.ru
 kanyon.10001mb.com
+kanys6434xs.blogspot.com
 kanziegroup.site
 kanziellersenqirarimellerini.net
 kanziesolutions.site
@@ -242967,6 +242971,8 @@ kmpnyyfinnnnnasabsvr.click
 kmpnyyfrrrst.xyz
 kmpnyyybsvrrrrprmsynn.click
 kmpnyyygrrntw.chickenkiller.com
+kmpnyyyprmsynnbsvrr.info
+kmpnyyyprmsynnbsvrr.pro
 kmpnyyyybsvvvrrr.cloud
 kmpozkurbek.sbs
 kmpskkwsonfisrk.shop
@@ -306773,6 +306779,7 @@ polisi155trpolis.online
 polisiatr155tr.online
 polisiindo.hopto.org
 polisinyiduk.hopto.org
+polisitr155.online
 polisknqanapaysvbabsg.shop
 polisl155ltr.online
 polistr-155.online
