@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-17 07:41:01 UTC
-! Total: 350757 rules
+! Last modified: 2026-02-17 08:30:49 UTC
+! Total: 350763 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47955,6 +47955,7 @@
 *://*.bhowljw1.com/*
 *://*.bhppwtgppgtl.info/*
 *://*.bhraman.org/*
+*://*.bhrasdjfdsjfasdlksa.cyou/*
 *://*.bhrasdjfdsjfasdlksa.sbs/*
 *://*.bhrckls-ktlhmn232.space/*
 *://*.bhrdabnlrynigldialmynmk.com/*
@@ -71255,6 +71256,7 @@
 *://*.caydanlik-firsat.org.tr/*
 *://*.caydanlikyenikampanya.com.tr/*
 *://*.cayeconstruction.com/*
+*://*.cayfirsatialtili.com/*
 *://*.cayhaneztoporozlekez.com/*
 *://*.cayindirimleribugun.cyou/*
 *://*.cayindirimleribugun.sbs/*
@@ -130908,6 +130910,7 @@
 *://*.gabrio.it/*
 *://*.gabrisosdensite.top/*
 *://*.gabsrinosyengel0202.top/*
+*://*.gabycasanas.com/*
 *://*.gabzmus.com/*
 *://*.gac.gov.lr/*
 *://*.gaca1o1.click/*
@@ -198236,6 +198239,7 @@
 *://*.kosakosagelinburaya.xyz/*
 *://*.kosakosagidelimgaranti.net/*
 *://*.kosakosagidelimgrntyee.net/*
+*://*.kosan-degil-yetisen-aliyor.sbs/*
 *://*.kosar.ac.ir/*
 *://*.kosava.xyz/*
 *://*.koscgbdevlet.net/*
@@ -228447,6 +228451,7 @@
 *://*.obilet-tr.com/*
 *://*.obilet.info/*
 *://*.obilet.live/*
+*://*.obilet.sbs/*
 *://*.obiletal.net/*
 *://*.obiletall.net/*
 *://*.obiletalsana.com/*
@@ -280280,6 +280285,7 @@
 *://*.sokozelfirsatlar.com.tr/*
 *://*.sokpazarfirsati.shop/*
 *://*.sokpctfsrtkclmzasyfaa.com/*
+*://*.sokramazan.cfd/*
 *://*.sokramazanindrimleri.com/*
 *://*.soksanalmarket.com/*
 *://*.soksanalmarket.net/*
