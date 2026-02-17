@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-17 10:33:43 UTC
-! Total: 350767 rules
+! Last modified: 2026-02-17 11:30:31 UTC
+! Total: 350772 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -85277,6 +85277,7 @@
 *://*.dcra33mepisode.top/*
 *://*.dcra33shdeputy.top/*
 *://*.dcrrefursaonli.cfd/*
+*://*.dcrrefursaonli.click/*
 *://*.dcrrefursaonlibiz.cfd/*
 *://*.dcru33ncheight.top/*
 *://*.dcs-reparationmachineacoudre.fr/*
@@ -180497,6 +180498,7 @@
 *://*.istmerkestoplansizherkes.com/*
 *://*.istmfathtermadam.net/*
 *://*.istmhkbcxbn.com/*
+*://*.istmhkfshsdcc.com/*
 *://*.istmhkhmn.com/*
 *://*.istmhkncv.com/*
 *://*.istmhknmc.com/*
@@ -187092,6 +187094,7 @@
 *://*.kackmsorgula1948.work/*
 *://*.kackmyapmisiz.net/*
 *://*.kackurusla.xyz/*
+*://*.kaclaa.help/*
 *://*.kaclira.club/*
 *://*.kaclira.xyz/*
 *://*.kacmadan-gelmeden-devamli-sizlerle-beraber.com/*
@@ -231212,6 +231215,7 @@
 *://*.oneupdateadobe3.org.za/*
 *://*.oneupdateadobe4.co.za/*
 *://*.onevdg.com/*
+*://*.onevers.net/*
 *://*.onevoid.top/*
 *://*.oneweak.tk/*
 *://*.oneylulindi.uk/*
@@ -257164,6 +257168,7 @@
 *://*.r-arena-sochi.ru/*
 *://*.r-bireyselservis.com/*
 *://*.r-bireyselservisler.com/*
+*://*.r-bireyselservislerin.com/*
 *://*.r-e-d-b-ul3.site/*
 *://*.r-e.kr/*
 *://*.r-hgs.com/*
