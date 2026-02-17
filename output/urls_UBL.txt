@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-17 15:38:46 UTC
-! Total: 350802 rules
+! Last modified: 2026-02-17 16:41:59 UTC
+! Total: 350813 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13605,6 +13605,7 @@
 *://*.a-10--01dnkmpynlnari-ykala-yniyil.cfd/*
 *://*.a-10--1denhaftnin-yldizlari.cfd/*
 *://*.a-10--1dnynyl-flrsrlari.cfd/*
+*://*.a-10-01rmzan-com.sbs/*
 *://*.a-10-1-bu-haftada-indrim-var.com/*
 *://*.a-10-1-kapimda-tr.online/*
 *://*.a-10-1comtr.sbs/*
@@ -70100,6 +70101,7 @@
 *://*.cardid5185-booking.com/*
 *://*.cardiffpower.com/*
 *://*.cardifydev.co/*
+*://*.cardioandcarbs.com/*
 *://*.cardkampguvenilir.shop/*
 *://*.cardkuys.com/*
 *://*.cardlad.asia/*
@@ -121729,6 +121731,7 @@
 *://*.f4rgu5gr44n.club/*
 *://*.f4td4ft4r.club/*
 *://*.f500bd65fca2d5c8822e6dd30fbb740f.com/*
+*://*.f51234377653424648641348643.cfd/*
 *://*.f53251463151235.cfd/*
 *://*.f532532462151235.click/*
 *://*.f532532463151235.click/*
@@ -128804,6 +128807,7 @@
 *://*.forevernoname.com/*
 *://*.foreverpenguin.top/*
 *://*.foreveryemoja.com/*
+*://*.forexcfd.autos/*
 *://*.forexdispatch.info/*
 *://*.forexfx.space/*
 *://*.forexroyality.online/*
@@ -144720,6 +144724,7 @@
 *://*.guvenliodemeler.store/*
 *://*.guvenliodemeler.tk/*
 *://*.guvenliodemeleri.gq/*
+*://*.guvenliodemelerin.pro/*
 *://*.guvenliodemeleriniz.online/*
 *://*.guvenliodemelertwo.cf/*
 *://*.guvenliodemem-al.com.TR/*
@@ -178839,6 +178844,7 @@
 *://*.isletmebilgisi.cfd/*
 *://*.isletmedestegi.click/*
 *://*.isletmedestegi.com/*
+*://*.isletmedestekleri.com/*
 *://*.isletmedestekleri2026.cfd/*
 *://*.isletmehibedestegi.com/*
 *://*.isletmekobidestegi.com/*
@@ -222146,6 +222152,7 @@
 *://*.narudina.com/*
 *://*.narujiapo.com/*
 *://*.narutoanimes.com/*
+*://*.naryinfectcomport.run/*
 *://*.naryphat.com/*
 *://*.nasabinasabiyiiii.cyou/*
 *://*.nasadad.net/*
@@ -236264,6 +236271,7 @@
 *://*.osyeecszlx.sbs/*
 *://*.osyenkcdr.net/*
 *://*.osym-basvuru.com/*
+*://*.osym-basvuru.online/*
 *://*.osym-gov-tr.gq/*
 *://*.osym-odme.com/*
 *://*.osym-yksgecbasvurular.net/*
@@ -257666,6 +257674,7 @@
 *://*.ramazanaozelbasvuru.online/*
 *://*.ramazanaozelbasvuru.xyz/*
 *://*.ramazanaozelcanenet.click/*
+*://*.ramazanaozelfirsat.cloud/*
 *://*.ramazanaozelfirsatburada.wiki/*
 *://*.ramazanaozelfirsatkapinda.online/*
 *://*.ramazanaozelfirsatlarkapinizda.online/*
@@ -263980,6 +263989,7 @@
 *://*.s8.cx/*
 *://*.s90s.ru/*
 *://*.s928eid19oqieuqoeu.com/*
+*://*.s9dhk32f9.icu/*
 *://*.s9xk32a.com/*
 *://*.s9xk32b.com/*
 *://*.s9xk32c.com/*
@@ -309514,6 +309524,7 @@
 *://*.tuvturklsa.digital/*
 *://*.tuvturklse.sbs/*
 *://*.tuvturklsw.digital/*
+*://*.tuvturklsx.digital/*
 *://*.tuvturkluloaw.net/*
 *://*.tuvturklw.digital/*
 *://*.tuvturklx.digital/*
@@ -319532,7 +319543,6 @@
 *://*.vglrmxi.com/*
 *://*.vglubmjjypie.us/*
 *://*.vgmdnmznsddncmrtsm.net/*
-*://*.vgmiftar.com.tr/*
 *://*.vgnhmbqesctsvn.com/*
 *://*.vgniislemleri.net/*
 *://*.vgokax.net/*
@@ -323118,6 +323128,7 @@
 *://*.web-bbav-login.xyz/*
 *://*.web-bbva-tr-sa.click/*
 *://*.web-bedavainternetbasvuru.com/*
+*://*.web-belbis.com/*
 *://*.web-bella.com/*
 *://*.web-bilgilerimiadeler-edevlet.com/*
 *://*.web-binance.net/*
