@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-17 14:40:56 UTC
-# Toplam: 439692 Domain
+# Son Güncelleme: 2026-02-17 15:38:46 UTC
+# Toplam: 439702 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24404,6 +24404,7 @@ a101kampanyanayaginda.com
 a101kampanyanizaktuel.com
 a101kampanyaonline.com
 a101kampanyasaatiim.com.tr
+a101kampanyasi.com
 a101kampanyasii.online
 a101kampanyatr.com
 a101kampanylar.com
@@ -57173,6 +57174,7 @@ baharvakfi.com
 baharyankisi.com
 baharyardim.xyz
 bahasaindowerguj.club
+bahavfvkaskjdacsdas.cfd
 bahaykuboeliterealty.com.au
 bahbou.zapto.org
 bahceci.click
@@ -84869,6 +84871,9 @@ bsvrrkmnpnyaa.click
 bsvrrkmonyaaprmsnyn.art
 bsvrrkmonyaaprmsnyn.info
 bsvrrkmonyaaprmsnyn.pro
+bsvrrkmpnyaaaa.info
+bsvrrkmpnyaaaa.live
+bsvrrkmpnyaaaa.pro
 bsvrrkmpnyaaaabasvrr.art
 bsvrrkmpnyaaaabasvrr.info
 bsvrrkmpnyaaaabasvrr.pro
@@ -213460,6 +213465,7 @@ indirimfirsatlarikapinizda.com
 indirimfirsatlarim-turkcell.com
 indirimfirsatlarim.com
 indirimfirsatlarimdan.com
+indirimfirsatlarindyz.cfd
 indirimfirsatlariniz.com
 indirimfirsatonline.com
 indirimfirsatseyahat.com.tr
@@ -243644,6 +243650,7 @@ kobi-kredi.com
 kobi-kredibasvuru.com
 kobi-kredibilgilendir.com
 kobi-kredibilgilendirme.com
+kobi-kredidestek.com
 kobi-krediformu.com
 kobi-kredimerkezi.com
 kobi-paraf-hediye.com
@@ -246933,6 +246940,7 @@ kua9dw09.duckdns.org
 kuafor-guzelliksalonum.com
 kuafor-tatar.net
 kuaforguzelliksalonusikayetleri.com
+kuafsafa.cfd
 kuafsdsdafa.cfd
 kuagvrtmt.info
 kuaiche.com
@@ -319678,6 +319686,7 @@ r-e-d-b-ul3.site
 r-hgs.com
 r-karcahome.shop
 r-nvdlsr-brdn-hmcn-m.web.app
+r-onayllnservishizmeti.com
 r-pttgov.top
 r-sok.com.tr
 r-sponsor-crs.web.tr
@@ -359539,6 +359548,7 @@ subemakbank.com
 subemakbankk.com
 subemakbkk.vercel.app
 subematriksyatirim.com
+subematriksyatirimtr.com
 subembbvakredifestonayla.net
 subemde-kuveytturk-com-tr.strangled.net
 subemdegerlendirmedeniz.xyz
