@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-17 16:41:59 UTC
-# Toplam: 439717 Domain
+# Son Güncelleme: 2026-02-17 18:39:02 UTC
+# Toplam: 439752 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -7321,6 +7321,7 @@
 1wi8qox.duckdns.org
 1wimcellkampanyawawww444.net
 1win7test.zapto.org
+1winapps2.site
 1wl1kzpi0.duckdns.org
 1wnhnzq.duckdns.org
 1worldpuanaktiflemeservisivkf2.com
@@ -15432,6 +15433,7 @@
 547hwx.duckdns.org
 54854386534.cloud
 5488.hopto.org
+5489769546346845673245.cfd
 548cuzml.duckdns.org
 5498165195156515165.cloud
 54984651654613122323.net
@@ -26758,6 +26760,7 @@ acceso-caixabank.ddns.net
 accesos.com.pa
 accesototalinghseq.com
 accesresetes.ddns.net
+access-authority-2fa7abff0e.s3.us-east-1.amazonaws.com
 access-jp-morgan-jpmalogon.cc
 access-ledger---livelogin.webflow.io
 access-log.42web.io
@@ -43930,6 +43933,7 @@ ambientmoon.co.za
 ambiguiteastore.com
 ambiguitypanorama.top
 ambiguitypudding.top
+ambiguityserial.site
 ambiguous548.xyz
 ambiguousflap.top
 ambiguousshark.top
@@ -45765,6 +45769,7 @@ annaasti-tickets.ru
 annabellaconstable.net
 annabelle.nl
 annamarinatatekrard.cloud
+annamediumsmotretgo.online
 annaplebanek.com
 anndaindr-indaavgs-aaa10001.cfd
 anndaindr-indaavgs-aaa10001.cyou
@@ -52393,6 +52398,7 @@ auditoriumcarving.top
 auditoryawn.top
 auditrage.top
 audittravelerbookdetails.com
+audrey-reid.online
 audreybeaulacstyle.com
 audric.nichesite.org
 audsystemecll.net
@@ -53134,6 +53140,12 @@ autowrd.net
 autrequiredinsensitivity.com
 autrevalevale.click
 autsedpurgaammer.com
+autsorsserialbdk.online
+autsorsserialkhy.online
+autsorsserialoue.online
+autsorsserialrpv.online
+autsorsserialtyr.online
+autsorsserialyuu.online
 autt02-citzehnss.hopto.org
 autth-b-itmert--sso.webflow.io
 auttodessk.com
@@ -57176,6 +57188,7 @@ baharyankisi.com
 baharyardim.xyz
 bahasaindowerguj.club
 bahavfvkaskjdacsdas.cfd
+bahavfvkaskjdacsdas.sbs
 bahaykuboeliterealty.com.au
 bahbou.zapto.org
 bahceci.click
@@ -58218,6 +58231,8 @@ baraksdashakasds.xyz
 baranakinturk.com.tr
 barandemo.site
 baranhotel.com
+barankiny-serial.online
+barankinyserialxud.online
 barankli.sbs
 baranreis123.ddns.net
 baransiker.no-ip.org
@@ -65213,7 +65228,9 @@ bespariozel.com
 besparta.com
 bespessengin.xyz
 bespitech.sbs
+besplanto.online
 bespost.ddns.net
+besprincypnievpiterenovyeserii.online
 bessahotelliberdade-id854.world
 bessekuzyuzsenin.com
 besso1a1.ddns.net
@@ -77345,6 +77362,7 @@ blackisback.online
 blackish.hopto.org
 blackjack69.ddns.net
 blackjackandhookers.net
+blackjackonlineplay.com
 blackkings2sy.site
 blackkings2sy.top
 blacklace.club
@@ -96547,6 +96565,7 @@ chigzbuink.ddns.net
 chihuahuadpler.life
 chika1995.xyz
 chikaomlyfams.ddns.net
+chikatiloserialsxe.online
 chikloup24.duckdns.org
 chilayt.ru
 child97.xyz
@@ -121620,6 +121639,7 @@ dijitalmobilgiris-ziraat.com
 dijitalmobilgiris-ziraatbireysel.com
 dijitalmobilgiris-ziraatbireysel.sbs
 dijitalmobilgiris-ziraatbireyselweb.com
+dijitalmobilgiris-ziraatbireyselweb.sbs
 dijitalmobilgiris-ziraatkampanyaweb.com
 dijitalmobilgirisimdenizbank.co.vu
 dijitalmobilgirisiniz-denizacik.com
@@ -123150,6 +123170,7 @@ dljaw.com
 dllenizbank.com
 dllinkblendz.top
 dlll.hopto.org
+dllpgd.click
 dllrlflflfflf.xyz
 dlls.ddns.net
 dllsv2.hopto.org
@@ -125426,6 +125447,7 @@ dothd-1.xyz
 dotheneedfull.club
 dotheneedfull.xyz
 dothidella.com
+dotime.ru
 dotretaliation.top
 dottrickle.top
 dou.crownaqua.com
@@ -142467,6 +142489,7 @@ emanasb.duckdns.org
 emancipatecalcium.top
 emancipationcertification.top
 emancipationoutlaw.top
+emanetbelehahaha.org
 emanetgranittimgirisllemenum.com
 emanheims.com
 emansak.blogspot.com
@@ -192138,6 +192161,7 @@ hemendukkan.xyz
 hemeneabasvuruya.co.vu
 hemenebasvuru.com
 hemenebasvuruuyaps.co.vu
+hemenebels.net
 hemenegir1.space
 hemenekim-ayifirsatikampanyasi.tech
 hemenelinde.net
@@ -213482,6 +213506,7 @@ indirimfirsattllari.com
 indirimfisatlarindanfayadalanmayankalmasin.com.tr
 indirimfisatlarindanfayadalanmayankalmasin.online
 indirimfisatlarindanfayadalanmayankalmasin.xyz
+indirimfrstlarindayz.click
 indirimgecesia101.shop
 indirimgezegeni.com.tr
 indirimgnleri.cfd
@@ -266759,6 +266784,7 @@ mobil-geri-iade-aidatlari-gov-tr.com
 mobil-get.com.tr
 mobil-giriiss-online.cfd
 mobil-giris-aidatlatedevletgovtr.com
+mobil-giris-ak.sbs
 mobil-giris-bnka.sbs
 mobil-giris-garantim.com
 mobil-giris-guvenlisatinal.com
@@ -276326,6 +276352,7 @@ natrifyzone.com
 natriglow.com
 natrium100gram.site
 natsevskiy.zapto.org
+natsukage.jotakoxi.cyou
 nattavipolbo.ddns.net
 naturadeco.net
 naturafirsati.duckdns.org
@@ -306097,6 +306124,7 @@ playpro.website
 playptos.pro
 playsstore.net
 playstaion3.shop
+playstations.click
 playstore.com-apk-6712qw123asd8awf7.site
 playstore.site
 playstoreandroidguncel.co.vu
@@ -320961,6 +320989,7 @@ randevumuayne-turk.com
 randevumuayne-turk.online
 randevumuayne-turk.xyz
 randevumudurlu.com.tr
+randevumuynskakf.net
 randevumuzxz.net
 randevumx.net
 randevumyeninvi.b-cdn.net
@@ -354175,6 +354204,7 @@ sou-incirerator.com
 soubhi1998.ddns.net
 soucdtevoceumcuzao.duckdns.org
 soudanetsim.duckdns.org
+soufl-y.xyz
 soufrisementes.zapto.org
 souguenabean.duckdns.org
 soul-fly.xyz
@@ -374769,6 +374799,7 @@ topraktan-denize.my-homeip.com
 topraktarimindirim.online
 topraktedarik.app
 toprakverimliligi.pro
+toprapes.com
 topretwostdyanimasak.dns.army
 toprkmahuslleri.com
 topseck.site
@@ -385839,6 +385870,7 @@ turnsunchair.top
 turnujgnrjby.info
 turnvolatility.top
 turojgbovh.duckdns.org
+turok1990-one.online
 turostp.top
 turourkiaye.online
 turoven.com
@@ -406262,6 +406294,7 @@ website6621295.nicepage.io
 website6621307.nicepage.io
 website6621314.nicepage.io
 website6621568.nicepage.io
+website6622005.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
@@ -427338,6 +427371,7 @@ yasngeciss.is-best.net
 yasomolom.tk
 yaspikredi.com
 yasproe.com
+yassdgupanita.geek-for.cfd
 yasserspy02.ddns.net
 yassi.zapto.org
 yassih.info
@@ -436124,6 +436158,7 @@ zimiroe.com
 zimmerman867.xyz
 zimnii-teatr.ru
 zimnii-ticket.ru
+zimorodoktv.online
 zimvopk.duckdns.org
 zina-sookrah.zapto.org
 zinarhdlkkhl.com
