@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-18 17:44:39 UTC
-! Total: 350978 rules
+! Last modified: 2026-02-18 18:34:45 UTC
+! Total: 350990 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13602,6 +13602,7 @@
 *://*.a-1-01sendeucuz.com/*
 *://*.a-1-01sendeucuzal.com/*
 *://*.a-1-01sendeucuzz.com/*
+*://*.a-1-01snalcomtr.sbs/*
 *://*.a-1-1onlienakutel.com/*
 *://*.a-1-a1a.shop/*
 *://*.a-1-firsatlar-kapida.site/*
@@ -29064,6 +29065,7 @@
 *://*.all2wedding.com/*
 *://*.all3212131csa.com/*
 *://*.all4schoolstore.com/*
+*://*.alla-hayo-lendiriyorum.cfd/*
 *://*.allaboutblockchain.net/*
 *://*.allaboutcement.com/*
 *://*.alladdsite.digital/*
@@ -31118,6 +31120,7 @@
 *://*.aninda-onaylandi.online/*
 *://*.aninda-onaylandi.store/*
 *://*.aninda-onaylandi.xyz/*
+*://*.aninda-onaylanir.cfd/*
 *://*.aninda-oto-kirala.com/*
 *://*.aninda-satin-al.com/*
 *://*.aninda-siparis.com/*
@@ -42378,6 +42381,7 @@
 *://*.basvurma-yapikredi.com/*
 *://*.basvurmagirisi-turkeygovtr.com/*
 *://*.basvurmagirisiledev.net/*
+*://*.basvurmak.net/*
 *://*.basvurmanoktasi.xyz/*
 *://*.basvurmaxipuan.com/*
 *://*.basvurmerkezi.tk/*
@@ -82108,6 +82112,7 @@
 *://*.crfsbnzbm.store/*
 *://*.crfsdacfrsyagldnsncrfsa.com/*
 *://*.crfsdaylbasi.cfd/*
+*://*.crfsdenal.cfd/*
 *://*.crfsdnalcknrzolncagln.com/*
 *://*.crfsdnalsmnolrdmeolstebslr.com/*
 *://*.crfsdncrfsfrrssyahm.com/*
@@ -82375,6 +82380,7 @@
 *://*.crrrffrrssa.com/*
 *://*.crrrffrsadncrffsaaya.com/*
 *://*.crrrfsadaaaynihrsybrdaa.com/*
+*://*.crrsdayzbiz.cfd/*
 *://*.crrsdayzbz.cfd/*
 *://*.crsahzrafsvrz.net/*
 *://*.crsasahprskaam.cfd/*
@@ -116996,6 +117002,7 @@
 *://*.erltmsson.net/*
 *://*.erludkbnkabkbasvur.com/*
 *://*.ermewnhasn.ws/*
+*://*.ermidyson.com/*
 *://*.ermintrudechamberlain.net/*
 *://*.ermiscepo.ru/*
 *://*.ermolzek.com/*
@@ -220785,6 +220792,7 @@
 *://*.mutluolurduk.com/*
 *://*.mutlupatiler.xyz/*
 *://*.mutlupersembe.com/*
+*://*.mutluramazangunleri.com/*
 *://*.mutluramazanlar.com/*
 *://*.mutlusms.com.tr/*
 *://*.mutlusms.xyz/*
@@ -230845,6 +230853,7 @@
 *://*.onaylamobil.online/*
 *://*.onaylanan-basvurulariniz-kontrol-ediniz.sbs/*
 *://*.onaylanan-ilan.com.tr/*
+*://*.onaylanir-onaylanir.com/*
 *://*.onaylanmis-ilan.com.tr/*
 *://*.onaylanmis-ilanlar.com.tr/*
 *://*.onaylanmis-ilanlarim.com.tr/*
@@ -280402,6 +280411,7 @@
 *://*.sokmarketpazarindirimleri.com/*
 *://*.sokmarketpersembe.site/*
 *://*.sokmarketr.site/*
+*://*.sokmarketramazankampanyasi.cfd/*
 *://*.sokmarketsanal.online/*
 *://*.sokmarketsanal.site/*
 *://*.sokmarketsanal.xyz/*
@@ -311395,6 +311405,7 @@
 *://*.ulastakarastlamadabulamadiorta.net/*
 *://*.ulastakarastlamasdabulamadiorta.net/*
 *://*.ulaval.ca/*
+*://*.ulavonrix.com/*
 *://*.uldgdestek.org/*
 *://*.uldminyran.ru/*
 *://*.uldressvisu2.xyz/*
@@ -324934,6 +324945,7 @@
 *://*.webtccbuygulamasi07.com/*
 *://*.webtccrmuygulamasi.com/*
 *://*.webtctrbm8.com/*
+*://*.webte-belbis.com/*
 *://*.webte-finansbank.com/*
 *://*.webte-giris.com/*
 *://*.webte-subecilik.com/*
