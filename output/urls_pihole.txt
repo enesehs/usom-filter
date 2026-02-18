@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-18 07:41:58 UTC
-# Toplam: 439790 Domain
+# Son Güncelleme: 2026-02-18 08:30:44 UTC
+# Toplam: 439794 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -123370,6 +123370,7 @@ dn4l8xos.forms.app
 dn5uw0em.duckdns.org
 dn7oli0kxm.com
 dn8g4zf6y.duckdns.org
+dn8w43im.icu
 dn99a50cea000d4.gleeze.com
 dnahack515.linkpc.net
 dnahacker2012.zapto.org
@@ -126330,6 +126331,7 @@ drshare.online
 drskqorhukc.org
 drsosyal.name.tr
 drspay.com
+drsscrfksaonln.cfd
 drstalkci.com
 drststfsnvi.com
 drsw5iivd.duckdns.org
@@ -304569,6 +304571,7 @@ petrolofic.top
 petrolofis.com
 petrolofisi-bites.com
 petrolofisi-tr.com
+petrolofisi.pro
 petrolofisi.shop
 petrolofisikampanyalar.com
 petrolofisitr.top
@@ -358515,6 +358518,7 @@ strawmoney.top
 strawoverstate.top
 strax007.ddns.net
 strayknob.top
+strcrsaonlinemrk.cfd
 streaamrise.com
 streaazauuleuuuuuu-23c1fedb5deb.herokuapp.com
 streakatrocious.top
