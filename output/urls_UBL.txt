@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-18 12:31:21 UTC
-! Total: 350887 rules
+! Last modified: 2026-02-18 13:59:19 UTC
+! Total: 350919 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3287,6 +3287,8 @@
 *://*.14subat1xo1brda.com/*
 *://*.14subataozel-firsatlarikacirmayin.xyz/*
 *://*.14subatdenizlefaisiz.online/*
+*://*.14subatfirsatlari.com/*
+*://*.14subatozelindirimler.com/*
 *://*.14subatozelkampnya.com/*
 *://*.14subatsevgililerdenizle.online/*
 *://*.14subatsevgililergunu.us/*
@@ -13608,6 +13610,7 @@
 *://*.a-10--01dnkmpynlnari-ykala-yniyil.cfd/*
 *://*.a-10--1denhaftnin-yldizlari.cfd/*
 *://*.a-10--1dnynyl-flrsrlari.cfd/*
+*://*.a-10-01ra-mznflrsatico-mtr.sbs/*
 *://*.a-10-01rmzan-com.sbs/*
 *://*.a-10-1-bu-haftada-indrim-var.com/*
 *://*.a-10-1-kapimda-tr.online/*
@@ -25487,6 +25490,7 @@
 *://*.akira-cuddles-blahajs.pirate/*
 *://*.akirateam.com/*
 *://*.akisavolta2.net/*
+*://*.akishaber.site/*
 *://*.akisiisslemleronline.online/*
 *://*.akislelemlser.xyz/*
 *://*.akislem.site/*
@@ -47467,6 +47471,7 @@
 *://*.bestsheepleather.com/*
 *://*.bestshopu.online/*
 *://*.beststreammusic.com/*
+*://*.besttealsewi.com/*
 *://*.bestteam.top/*
 *://*.besttop.asia/*
 *://*.besttripadvise.club/*
@@ -48760,6 +48765,7 @@
 *://*.bilgiekranin.net/*
 *://*.bilgiekraniniz.net/*
 *://*.bilgietabi.com/*
+*://*.bilgifirsat.gifts/*
 *://*.bilgiform-destekhibeleri.com/*
 *://*.bilgiform-destekhibesi.com/*
 *://*.bilgiformdavetidoldur-portal.tk/*
@@ -57153,6 +57159,7 @@
 *://*.bizvaluemachine.com/*
 *://*.bizvesizlerdendestek.com/*
 *://*.bizvesizlervariz.com/*
+*://*.bizvision.top/*
 *://*.bizviz.com.au/*
 *://*.bizwires.net/*
 *://*.bizxess.com/*
@@ -63069,6 +63076,7 @@
 *://*.borsalsan.com/*
 *://*.borsanabzi.com/*
 *://*.borsanetwork.online/*
+*://*.borsaonerisi.com/*
 *://*.borsapetrolturk.com/*
 *://*.borsaportali.org/*
 *://*.borsaptrl.com/*
@@ -81690,6 +81698,7 @@
 *://*.craft-4fs2i-marki.com/*
 *://*.craft-gate-domains.com/*
 *://*.craftconfirm.com/*
+*://*.craftcrate.gifts/*
 *://*.craftdistillers.com/*
 *://*.craftfilelink.com/*
 *://*.craftilly.com/*
@@ -94985,6 +94994,7 @@
 *://*.dijitalpromosyon-ziraatmobil.com/*
 *://*.dijitalramazanda.com/*
 *://*.dijitalrnobilislerntrapp.space/*
+*://*.dijitalrnobilislerntrapp.xyz/*
 *://*.dijitalruya.space/*
 *://*.dijitals.online/*
 *://*.dijitals.site/*
@@ -99030,6 +99040,7 @@
 *://*.dunkinfredonutscoupons.cloud/*
 *://*.dunlararin-civisiyle-bas-edip-hepbirlilte-kazanacagiz.com/*
 *://*.dunlopillo.com.vn/*
+*://*.dunnerista.com/*
 *://*.dunnriteroofing.info/*
 *://*.dunnriteroofing.net/*
 *://*.dunnriteroofing.org/*
@@ -125068,6 +125079,7 @@
 *://*.finansroute.world/*
 *://*.finansruzgari.org/*
 *://*.finanssal.com/*
+*://*.finanssalplan.com/*
 *://*.finanssbank.com/*
 *://*.finanssektoru.info/*
 *://*.finanssifirfaizle.online/*
@@ -129464,6 +129476,7 @@
 *://*.frame3d.de/*
 *://*.frameclasp.top/*
 *://*.framecommonwealth.top/*
+*://*.framefactory.surf/*
 *://*.framegoal.com/*
 *://*.framegoalz.com/*
 *://*.frameloom.top/*
@@ -143303,6 +143316,7 @@
 *://*.guncelvakiftanhediyeniz2022.com/*
 *://*.guncelvakifvurgunlarim.click/*
 *://*.guncelveguvenilirgirishizmeti.tk/*
+*://*.guncelvizyon.pro/*
 *://*.guncelyatirim.online/*
 *://*.guncelyatirimlar.online/*
 *://*.guncelyukleme.net/*
@@ -202538,6 +202552,7 @@
 *://*.leaderthreshold.top/*
 *://*.leadgenerals.com/*
 *://*.leadger.online/*
+*://*.leadjenerals.top/*
 *://*.leadlifearkformyphone.com/*
 *://*.leads-management.net/*
 *://*.leadstepz.click/*
@@ -212156,6 +212171,7 @@
 *://*.merkezihekim.pro/*
 *://*.merkezihekim.sbs/*
 *://*.merkezihekimli.one/*
+*://*.merkezihekimli.sbs/*
 *://*.merkezihekimrandevu.online/*
 *://*.merkezihekimrandevu.org/*
 *://*.merkezihekimrandevu.vip/*
@@ -230360,6 +230376,7 @@
 *://*.olassvaxo.click/*
 *://*.olatfcmi.com/*
 *://*.olaurn.top/*
+*://*.olavexir.com/*
 *://*.olay-bu-com-tr.click/*
 *://*.olayanalizi.com/*
 *://*.olayhaberi.online/*
@@ -254231,6 +254248,7 @@
 *://*.pulseadnetwork.com/*
 *://*.pulseathermakf.com/*
 *://*.pulsecelebrity.top/*
+*://*.pulsenova.online/*
 *://*.pulseprofit.online/*
 *://*.pulserecordbp.com/*
 *://*.pulseriseglobal.com/*
@@ -256642,6 +256660,7 @@
 *://*.qroauthautobarcode-files.com/*
 *://*.qroauthbarcode-files.com/*
 *://*.qromationqooros.com/*
+*://*.qronlineislemenutrapp.space/*
 *://*.qroot.org/*
 *://*.qrowny.ru/*
 *://*.qrscanmachine.com/*
@@ -260046,6 +260065,7 @@
 *://*.renkli-haber.online/*
 *://*.renkliboyalar.com/*
 *://*.renklidunyavekarakterler.xyz/*
+*://*.renkligundem.com/*
 *://*.renklihaber.club/*
 *://*.renklihaber.xyz/*
 *://*.renklihaberhub.club/*
@@ -262502,6 +262522,7 @@
 *://*.ronaldlubbers.site/*
 *://*.ronaldsmith.loan/*
 *://*.ronaskyms0.net/*
+*://*.ronawibrac.com/*
 *://*.ronayksdme0.net/*
 *://*.rondonia.info/*
 *://*.ronesanspaketleme.com/*
@@ -262513,6 +262534,7 @@
 *://*.ronjustthetrebho.net/*
 *://*.ronlinesube.ga/*
 *://*.ronlvihsgvmllxh.ru/*
+*://*.ronnterial.com/*
 *://*.ronoliffuion.com/*
 *://*.rontglobalx.com/*
 *://*.ronthenughor.com/*
@@ -262684,6 +262706,7 @@
 *://*.rouseflatter.top/*
 *://*.routechx.com/*
 *://*.routeofgrowth.com/*
+*://*.routepebble.com/*
 *://*.routermanager.ga/*
 *://*.routermanager.gq/*
 *://*.routermanager.ml/*
@@ -268526,6 +268549,7 @@
 *://*.sbtjapans.com/*
 *://*.sbtsbtkaradayiwsynx.shop/*
 *://*.sbtsbtsbtwsyn.shop/*
+*://*.sbtslanswsynxkaradayi.shop/*
 *://*.sbu3d.xyz/*
 *://*.sbufirm.com/*
 *://*.sbuqkl.top/*
@@ -280335,6 +280359,7 @@
 *://*.sokmarketonline.com.tr/*
 *://*.sokmarketonline.net.tr/*
 *://*.sokmarketonline.org.tr/*
+*://*.sokmarketonlineozel.cfd/*
 *://*.sokmarketozel.site/*
 *://*.sokmarketpazarindirimleri.com/*
 *://*.sokmarketpersembe.site/*
@@ -281552,6 +281577,7 @@
 *://*.sonnktadabrayaynlrsnzs.monster/*
 *://*.sonnoktakta.com/*
 *://*.sonnyelectric.com/*
+*://*.sonodak.pro/*
 *://*.sonofatvturk.net/*
 *://*.sonosmanli1453.xyz/*
 *://*.sonosmanlidevleti.site/*
@@ -281623,6 +281649,7 @@
 *://*.sonsuzduru.com/*
 *://*.sonsuzfikirler.online/*
 *://*.sonsuzgece.com/*
+*://*.sonsuzgundem.com/*
 *://*.sonsuzhislerinbize.cfd/*
 *://*.sonsuzhuzur.space/*
 *://*.sonsuzkampanyalarekimayinda.online/*
@@ -285319,6 +285346,7 @@
 *://*.stanleyverse.xyz/*
 *://*.stanleyvertex.xyz/*
 *://*.stanleyverto.me/*
+*://*.stanleyvireon.xyz/*
 *://*.stanleyvitamin.xyz/*
 *://*.stanleyvk.click/*
 *://*.stanleyvoidpath.xyz/*
@@ -292856,6 +292884,7 @@
 *://*.teachingsound.xyz/*
 *://*.teachreren.click/*
 *://*.teachsolo.top/*
+*://*.teachtl.digital/*
 *://*.teacoffe.net/*
 *://*.teakakm.shop/*
 *://*.teala.art/*
@@ -294014,6 +294043,7 @@
 *://*.tektiklasepetinizde.me/*
 *://*.tektiklasepette.me/*
 *://*.tektiklasepettesiniz.me/*
+*://*.tektiklasepettesinizz.me/*
 *://*.tektiklasepetto.me/*
 *://*.tektiklasiqortayaptir.com.tr/*
 *://*.tektiklayaninda.online/*
@@ -307649,6 +307679,7 @@
 *://*.turkishcargo7.net/*
 *://*.turkishcargotakip.org/*
 *://*.turkishcarpet.shop/*
+*://*.turkishcitynews.com/*
 *://*.turkishdailynewsr.net/*
 *://*.turkishenergyfund.com/*
 *://*.turkishfurniture.blog/*
@@ -322575,6 +322606,7 @@
 *://*.wallorthdox.top/*
 *://*.wallpapercase.com/*
 *://*.wallpapersave.com/*
+*://*.wallpeacefulplatinum.com/*
 *://*.wallproj.com/*
 *://*.wallproximate.top/*
 *://*.wallstproperties.com/*

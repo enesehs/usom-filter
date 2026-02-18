@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-18 12:31:21 UTC
-# Toplam: 439813 Domain
+# Son Güncelleme: 2026-02-18 13:59:19 UTC
+# Toplam: 439851 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4875,6 +4875,8 @@
 14subat.sevgililergununeozel.com
 14subat1xo1brda.com
 14subataozel-firsatlarikacirmayin.xyz
+14subatfirsatlari.com
+14subatozelindirimler.com
 14subatozelkampnya.com
 14subatsevgililerdenizle.online
 14subatsevgililergunu.us
@@ -20856,6 +20858,7 @@
 92vrvk.duckdns.org
 92w3ojszo.duckdns.org
 92w8f3k.duckdns.org
+93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 93.104.209.253
 93.123.73.146
 93.188.163.62
@@ -22273,6 +22276,7 @@ a-1-o1.net
 a-10--01dnkmpynlnari-ykala-yniyil.cfd
 a-10--1denhaftnin-yldizlari.cfd
 a-10--1dnynyl-flrsrlari.cfd
+a-10-01ra-mznflrsatico-mtr.sbs
 a-10-01rmzan-com.sbs
 a-10-1-bu-haftada-indrim-var.com
 a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
@@ -38283,6 +38287,7 @@ akira-cuddles-blahajs.pirate
 akiraaaaa.zapto.org
 akirateam.com
 akisavolta2.net
+akishaber.site
 akisigorta.b-cdn.net
 akisiisslemleronline.online
 akislelemlser.xyz
@@ -65393,6 +65398,7 @@ bestshopu.online
 beststreammusic.com
 bestsuccess.ddns.net
 bestsuccess.duckdns.org
+besttealsewi.com
 bestteam.top
 besttop.asia
 besttripadvise.club
@@ -66965,6 +66971,7 @@ bilgiekranim.net
 bilgiekranin.net
 bilgiekraniniz.net
 bilgietabi.com
+bilgifirsat.gifts
 bilgiform-destekhibeleri.com
 bilgiform-destekhibesi.com
 bilgiformdavetidoldur-portal.tk
@@ -76032,6 +76039,7 @@ bizugarments.com
 bizvaluemachine.com
 bizvesizlerdendestek.com
 bizvesizlervariz.com
+bizvision.top
 bizviz.com.au
 bizwires.net
 bizxess.com
@@ -82898,6 +82906,7 @@ borsalivehaber.online
 borsalsan.com
 borsanabzi.com
 borsanetwork.online
+borsaonerisi.com
 borsapetrolturk.com
 borsaportali.org
 borsaptrl.com
@@ -105781,6 +105790,7 @@ craft-4fs2i-marki.com
 craft-gate-domains.com
 craft1.zapto.org
 craftconfirm.com
+craftcrate.gifts
 craftdistillers.com
 craftfilelink.com
 craftilly.com
@@ -121734,6 +121744,7 @@ dijitalportal.web.app
 dijitalportalgib.com
 dijitalpromosyon-ziraatmobil.com
 dijitalrnobilislerntrapp.space
+dijitalrnobilislerntrapp.xyz
 dijitalruya.space
 dijitals.online
 dijitals.site
@@ -126960,6 +126971,7 @@ dunlararin-civisiyle-bas-edip-hepbirlilte-kazanacagiz.com
 dunlop.force9.co.uk
 dunlop.hopto.org
 dunlopillo.com.vn
+dunnerista.com
 dunnriteroofing.info
 dunnriteroofing.net
 dunnriteroofing.org
@@ -133939,6 +133951,7 @@ e56465sd.nicepage.io
 e57058e562d4.com
 e5719nfb.duckdns.org
 e5955s7o.duckdns.org
+e598292a5fbd.ngrok-free.app
 e59tmhsx.duckdns.org
 e5b57288.com
 e5ce3j.duckdns.org
@@ -157147,6 +157160,7 @@ finansroute.world
 finansruzgari.org
 finanssal.com
 finanssal.pages.dev
+finanssalplan.com
 finanssbank.com
 finanssektoru.info
 finanssifirfaizle.online
@@ -162208,6 +162222,7 @@ fralardnbirsylergctimihmn.bond
 frame3d.de
 frameclasp.top
 framecommonwealth.top
+framefactory.surf
 frameforward.azurewebsites.net
 framegoal.com
 framegoalz.com
@@ -179438,6 +179453,7 @@ guncelvakiftanhediyeniz2022.com
 guncelvakifvurgunlarim.click
 guncelveguvenilirgirishizmeti.tk
 guncelveyuklemeler.sg-host.com
+guncelvizyon.pro
 guncelyatirim.online
 guncelyatirimlar.online
 guncelyuklee.sg-host.com
@@ -205031,6 +205047,7 @@ hx2hchf.duckdns.org
 hx5i4ae0.duckdns.org
 hx7pmx.duckdns.org
 hx8elupi.duckdns.org
+hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 hxae.bnnhs.ru
 hxafxatnxixnxfxixrxsxaxxtlxaxrxi.xyz
 hxal6.sbs
@@ -225071,6 +225088,7 @@ izeldocgc.dns.navy
 izeldsaf.blogspot.com
 izeldssanyi.blogspot.com
 izelfgnj.dns.navy
+izelfircgh.dns.navy
 izelfixs.dns.navy
 izelgececic.dns.navy
 izelgecexxxs.blogspot.com
@@ -250313,6 +250331,7 @@ leadersnews.org
 leadersoftstats.com
 leaderthreshold.top
 leadger.online
+leadjenerals.top
 leads-management.net
 leadstepz.click
 leadtipz.pw
@@ -263246,6 +263265,7 @@ merkezihekim.one
 merkezihekim.pro
 merkezihekim.sbs
 merkezihekimli.one
+merkezihekimli.sbs
 merkezihekimrandevu.online
 merkezihekimrandevu.org
 merkezihekimrandevu.vip
@@ -287001,6 +287021,7 @@ olassvaxo.click
 olatfcmi.com
 olatunbosun.hopto.org
 olaurn.top
+olavexir.com
 olay-bu-com-tr.click
 olay-weby-tring.my-homeip.com
 olay.b-cdn.net
@@ -315558,6 +315579,7 @@ pulse.herosms.cc
 pulseadnetwork.com
 pulseathermakf.com
 pulsecelebrity.top
+pulsenova.online
 pulseprofit.online
 pulserecordbp.com
 pulseriseglobal.com
@@ -318880,6 +318902,7 @@ qrkpcvx.com
 qrmdzo.duckdns.org
 qrnigroup.xyz
 qromationqooros.com
+qronlineislemenutrapp.space
 qrot.apjgtipty.com
 qrrdtqsz.duckdns.org
 qrsirketimiz.com
@@ -323787,6 +323810,7 @@ renkli-haber.club
 renkli-haber.online
 renkliboyalar.com
 renklidunyavekarakterler.xyz
+renkligundem.com
 renklihaber.club
 renklihaber.xyz
 renklihaberhub.club
@@ -326898,6 +326922,7 @@ ronaldlubbers.site
 ronaldo25.zapto.org
 ronaldoan.duckdns.org
 ronaskyms0.net
+ronawibrac.com
 ronayksdme0.net
 rondonia.info
 ronesanspaketleme.com
@@ -326913,6 +326938,7 @@ ronlinesube.ga
 ronlvihsgvmllxh.ru
 ronmjbywsr.duckdns.org
 ronninwllut.webflow.io
+ronnterial.com
 ronoliffuion.com
 ronsafadi.hopto.org
 ront.synergize.co
@@ -327159,6 +327185,7 @@ rouszmxkgc.duckdns.org
 route.creatorpot.cricket
 routechx.com
 routeofgrowth.com
+routepebble.com
 routermanager.ga
 routermanager.gq
 routermanager.ml
@@ -336590,6 +336617,7 @@ sbtgncakla.com.tr
 sbtjapans.com
 sbtsbtkaradayiwsynx.shop
 sbtsbtsbtwsyn.shop
+sbtslanswsynxkaradayi.shop
 sbu3d.xyz
 sbufirm.com
 sbuqkl.top
@@ -351497,6 +351525,7 @@ sokmarketonline.com.tr
 sokmarketonline.net.tr
 sokmarketonline.org.tr
 sokmarketonlinehizmetler.marketlergrubu.com
+sokmarketonlineozel.cfd
 sokmarketozel.site
 sokmarketpazarindirimleri.com
 sokmarketpersembe.site
@@ -352794,6 +352823,7 @@ sonnnadddetlerkr.blogspot.com
 sonnoktakta.com
 sonnyelectric.com
 sonoara.duckdns.org
+sonodak.pro
 sonofatvturk.net
 sononayekranllarigarantihasd.duckdns.org
 sononayisleminigerceklestiriniz56.urlhedge.website
@@ -352870,6 +352900,7 @@ sonsuzdunya.org
 sonsuzduru.com
 sonsuzfikirler.online
 sonsuzgece.com
+sonsuzgundem.com
 sonsuzhgs.sg-host.com
 sonsuzhislerinbize.cfd
 sonsuzhuzur.space
@@ -357387,6 +357418,7 @@ stanleyvenge.click
 stanleyverse.xyz
 stanleyvertex.xyz
 stanleyverto.me
+stanleyvireon.xyz
 stanleyvitamin.xyz
 stanleyvk.click
 stanleyvoidpath.xyz
@@ -366768,6 +366800,7 @@ teachingnutient.top
 teachingsound.xyz
 teachreren.click
 teachsolo.top
+teachtl.digital
 teacoffe.net
 teakakm.shop
 teala.art
@@ -368046,6 +368079,7 @@ tektiklasepetindewsynxkaradayi.shop
 tektiklasepetinizde.me
 tektiklasepette.me
 tektiklasepettesiniz.me
+tektiklasepettesinizz.me
 tektiklasepetto.me
 tektiklasiqortayaptir.com.tr
 tektiklayaninda.online
@@ -384303,6 +384337,7 @@ turkishcargo5.com
 turkishcargo7.net
 turkishcargotakip.org
 turkishcarpet.shop
+turkishcitynews.com
 turkishdailynewsr.net
 turkishenergyfund.com
 turkishfurniture.blog
@@ -398339,6 +398374,7 @@ verificinfoconnect.ddns.net
 verifid-346564.hopto.org
 verified-badge-support-fb.vercel.app
 verified-instagramsupport.ml
+verified-potter-section-present.trycloudflare.com
 verified-server.ddns.net
 verifiedaccess.za.com
 verifiedaccount-usa.com
@@ -403364,6 +403400,7 @@ wallonie.museum
 wallorthdox.top
 wallpapercase.com
 wallpaperengineu11.ddns.net
+wallpeacefulplatinum.com
 wallproj.com
 wallproximate.top
 wallscodedashboard.hopto.org
@@ -435583,6 +435620,7 @@ zeemark.in
 zeereeddqd.duckdns.org
 zeeremis.zapto.org
 zeeshanasghar.website
+zeetcckhtudizieudqyck5o4ez16y973h.oast.fun
 zeezee196112.workers.dev
 zeezichtoptiek.nl
 zeferegesewe1.website
