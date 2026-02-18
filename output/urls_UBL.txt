@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-18 11:29:25 UTC
-! Total: 350883 rules
+! Last modified: 2026-02-18 12:31:21 UTC
+! Total: 350887 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -146935,6 +146935,7 @@
 *://*.haftann-aldin-aldin.com/*
 *://*.haftannniiinn-indirmleerrririiiii.com/*
 *://*.haftaortasikaraca.com/*
+*://*.haftaortasindakrcabra.com/*
 *://*.haftasinbasilari.com/*
 *://*.haftasivaktisfirsatin.com/*
 *://*.haftasnunamtlugir.com.tr/*
@@ -154481,6 +154482,7 @@
 *://*.hemenebels.club/*
 *://*.hemenebels.net/*
 *://*.hemenebels.store/*
+*://*.hemenebels.xyz/*
 *://*.hemenegir1.space/*
 *://*.hemenekim-ayifirsatikampanyasi.tech/*
 *://*.hemenelinde.net/*
@@ -191371,6 +191373,7 @@
 *://*.karar-2021-biresysel-e-aidat-online-basvuru.xyz/*
 *://*.karar-iade-bilgilendirmesi-ve-basvurusu.xyz/*
 *://*.kararceza.net/*
+*://*.kararceza.org/*
 *://*.kararcumhurbskcim.com/*
 *://*.kararinca.name.tr/*
 *://*.kararlar-evdekaltr-webgiris.com/*
@@ -285239,6 +285242,7 @@
 *://*.stanleynwword.xyz/*
 *://*.stanleyorbit.xyz/*
 *://*.stanleyorion.xyz/*
+*://*.stanleyorvex.xyz/*
 *://*.stanleyparlar.com/*
 *://*.stanleypatron.xyz/*
 *://*.stanleyphase.xyz/*
