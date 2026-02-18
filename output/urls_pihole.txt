@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-18 10:31:14 UTC
-# Toplam: 439795 Domain
+# Son Güncelleme: 2026-02-18 11:29:25 UTC
+# Toplam: 439804 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -121619,6 +121619,7 @@ dijitalmobil-ziraatbireysel.sbs
 dijitalmobil-ziraatbireyselgiris.com
 dijitalmobil-ziraatbireyselgiris.vip
 dijitalmobil-ziraatbireyselweb.com
+dijitalmobil-ziraatbireyselweb.sbs
 dijitalmobil-ziraatgiris.com
 dijitalmobil-ziraatkampanya.com
 dijitalmobil-ziraatkampanyagiris.com
@@ -123211,6 +123212,7 @@ dlscord.org
 dlscordcom.top
 dlscvt-scvrt.com
 dlsjhqxlrt.duckdns.org
+dlt-r-ng-kry.my-homeip.de
 dlt34.site
 dlt34.space
 dlt34tennessee.space
@@ -187392,6 +187394,7 @@ hangikredi.gocampai.com
 hangikredi.shop
 hangikredi.website
 hangikredim.com
+hangikredim26.com
 hanginakitavans.com
 hangisi2benim.site
 hangisine-bukadarda-yakiniz-buradan-bilene.top
@@ -200536,6 +200539,7 @@ hizmetlerin.online
 hizmetlerin.org
 hizmetlerin.site
 hizmetlerindevleteiadatsorgula-portal.com
+hizmetlerinhizmetlerinhizmetleriniztakendisi.shop
 hizmetleriniz.com.tr
 hizmetleriniz.org
 hizmetleriniz.shop
@@ -210157,6 +210161,7 @@ ikelar-eviniz-icin.xyz
 ikengo.top
 ikentkxrtmdehmzeti.net
 ikentkxrtodmehzmet.net
+ikenys543esx.blogspot.com
 iker.zapto.org
 ikev.info
 ikexylyxuq.biz
@@ -238997,6 +239002,7 @@ kellas5745x.dns.navy
 kellas6002x.dns.navy
 kellas71x.dns.navy
 kellas754x.dns.navy
+kellas7881x.dns.navy
 kellas81x.dns.navy
 kellas8665x.dns.navy
 kellas8863x.dns.navy
@@ -327621,6 +327627,7 @@ rthjg.icu
 rticulation.top
 rtiqusqohd.duckdns.org
 rtjvritvrgtv.cloud
+rtkcfsaonlinemrk.cfd
 rtkepz.duckdns.org
 rtkurumsalhuge.cfd
 rtm-mtr-rmtm.store
@@ -391164,6 +391171,7 @@ usomvsgulyan.com.tr
 usomyemeyizbiz.net
 usomyetherpazar.tk
 usomyethesali.tk
+usorjp.top
 usowancxenryhlv.su
 usp00uverifses.ddns.net
 usp1.hopto.org
@@ -391799,6 +391807,7 @@ uyapdosyalarsorgu.online
 uyapdosyalarsorgu.org
 uyapdosyam.com
 uyapdosyam.sorgulamabaglanti.com
+uyapdosyaportal.org
 uyapdosyasisorgu.com
 uyapdosyasisorgulama.com
 uyapdosyasisorgulat.com
