@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-19 10:30:54 UTC
-! Total: 351014 rules
+! Last modified: 2026-02-19 11:29:22 UTC
+! Total: 351023 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -70456,6 +70456,7 @@
 *://*.carffosusa.xyz/*
 *://*.carffoursa.shop/*
 *://*.carflotyup.com/*
+*://*.carforiramadan.com/*
 *://*.carforstanley2.xyz/*
 *://*.carfouersana.org/*
 *://*.carfourileucuzalisveris.cfd/*
@@ -70703,6 +70704,7 @@
 *://*.carreforsaileramazan.shop/*
 *://*.carreforsi.shop/*
 *://*.carrefoueursa.com/*
+*://*.carrefoueursacom.cfd/*
 *://*.carrefouoersa.com/*
 *://*.carrefour-arg.online/*
 *://*.carrefour-argentina.com/*
@@ -82024,6 +82026,7 @@
 *://*.crfr-sa.net.tr/*
 *://*.crfrbrdasnndlrerdasd.bond/*
 *://*.crfrcix.sbs/*
+*://*.crfreousszeozel.online/*
 *://*.crfrikibinyirmibes.shop/*
 *://*.crfrlsdayilsnu.com/*
 *://*.crfrs-com.shop/*
@@ -109805,6 +109808,7 @@
 *://*.edvltvaktindeaidatlarr.com/*
 *://*.edvs-basvuru-iadeformu-edevlet.com/*
 *://*.edvtaidtiaade.com/*
+*://*.edvtapuonlinerdven.org/*
 *://*.edvtlaidtiade.com/*
 *://*.edvvletyrdmlarbaslyr.online/*
 *://*.edvvltbasvurvehemenal.com/*
@@ -143083,6 +143087,7 @@
 *://*.guncelmayisayinaozelfirsat.com.tr/*
 *://*.guncelmayisfirsatlariyeni.com.tr/*
 *://*.guncelmayiskredilerii.click/*
+*://*.guncelmeritgiris-adresi.com/*
 *://*.guncelmtvborcuodeme.gq/*
 *://*.guncelmtvodemeleri.com/*
 *://*.guncelnoktan-sok.com.tr/*
@@ -198793,6 +198798,7 @@
 *://*.krcadnarlkgnlrii.com/*
 *://*.krcadnarlkzmni.com/*
 *://*.krcafirsatlrynnz.com/*
+*://*.krcaherdaimortadasonda.com/*
 *://*.krcaikibinyirmibes.shop/*
 *://*.krcailarlk.cfd/*
 *://*.krcaile.com/*
@@ -231301,6 +231307,7 @@
 *://*.onepass-word.com/*
 *://*.onepassreglons.com/*
 *://*.oneperfectful.buzz/*
+*://*.oneportfoy.online/*
 *://*.oneptp.com/*
 *://*.onepttgov.life/*
 *://*.oneranjusfo.com/*
@@ -271671,6 +271678,7 @@
 *://*.sepetimsiparis.com/*
 *://*.sepetimstanleyler.xyz/*
 *://*.sepetin-cepte.com.tr/*
+*://*.sepetin-cepte.web.tr/*
 *://*.sepetin-tamamla.com.tr/*
 *://*.sepetin-tr.com.tr/*
 *://*.sepetinburaada.click/*
@@ -350411,6 +350419,7 @@
 *://*.zorlamayinsansinizi324.cfd/*
 *://*.zorlu-egitimvakfi.site/*
 *://*.zorlu-energy.com/*
+*://*.zorlu-invest-2026tr.forum/*
 *://*.zorlu-vakfi-destek.site/*
 *://*.zorlu-vakfi-egitime-destek.site/*
 *://*.zorlu-vakif-destek.site/*
