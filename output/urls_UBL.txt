@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-19 12:33:10 UTC
-! Total: 351028 rules
+! Last modified: 2026-02-19 14:01:47 UTC
+! Total: 351043 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26230,6 +26230,7 @@
 *://*.aktifbnonlinetr.com/*
 *://*.aktifbnscbasvurutr.com/*
 *://*.aktifbnscduyurutr.com/*
+*://*.aktifcagrimerkezi.online/*
 *://*.aktifcallcenter.com/*
 *://*.aktifdosyalariniz.com/*
 *://*.aktifduyurubncasetr.com/*
@@ -34790,6 +34791,8 @@
 *://*.arkamabaktim.click/*
 *://*.arkamahalle.com/*
 *://*.arkamp.ir/*
+*://*.arkanix.pw/*
+*://*.arkanix.ru/*
 *://*.arkansasboarduppros.com/*
 *://*.arkaslines.com/*
 *://*.arkberg-design.fi/*
@@ -46672,6 +46675,8 @@
 *://*.belbiss.space/*
 *://*.belbiss.xyz/*
 *://*.belbissdsd.com/*
+*://*.belbissdsd.dev/*
+*://*.belbissdsd.org/*
 *://*.belbisssd.com/*
 *://*.belblm.com/*
 *://*.belbmsxprt.net/*
@@ -47162,6 +47167,7 @@
 *://*.beraberinde-getirenleri-duymadan-hisseder.com/*
 *://*.beraberinde-sevgi-saglik-hissettiren-devamli-sevinir.com/*
 *://*.beraberizhepmz.net/*
+*://*.beraberramazanaylari.com/*
 *://*.beraberseviselimmi.ml/*
 *://*.beradocolon.top/*
 *://*.beragame.biz/*
@@ -64526,6 +64532,7 @@
 *://*.bsvrhmnhzligrsyapuadrskytyap.com/*
 *://*.bsvrisllm.com/*
 *://*.bsvrislm.com/*
+*://*.bsvrkkmpnyaaprssmny.pro/*
 *://*.bsvrkn.sbs/*
 *://*.bsvrkrdfrm.xyz/*
 *://*.bsvrlmiztki.sbs/*
@@ -70078,6 +70085,7 @@
 *://*.car.ru/*
 *://*.car1isleft.com/*
 *://*.carairport.cloud/*
+*://*.caraka.click/*
 *://*.caramane.net/*
 *://*.caramelgirl.ru/*
 *://*.caranatrium.com/*
@@ -94955,6 +94963,7 @@
 *://*.dijitalmobilislemler-ziraat.com/*
 *://*.dijitalmobilislemler-ziraatbireyselweb.com/*
 *://*.dijitalmobilislemleri-ziraat.com/*
+*://*.dijitalmobilislemlerin-ziraatbireyselweb.sbs/*
 *://*.dijitalmobilislemleriniz-ziraatbireyselweb.sbs/*
 *://*.dijitalmobilkampanya-ziraatbireysel.com/*
 *://*.dijitalmobilkanal-ziraatbireysel.com/*
@@ -139394,6 +139403,7 @@
 *://*.gnceliznice.com/*
 *://*.gncelkamtak2420kw.shop/*
 *://*.gncelmrkethper.cfd/*
+*://*.gncelmrketinizcrraforsa.cfd/*
 *://*.gncelyklemex.net/*
 *://*.gnchaberbilgileri.com/*
 *://*.gnchlizmetlerlesizlerleyiz.xyz/*
@@ -179035,6 +179045,7 @@
 *://*.isnbalm-srvv.click/*
 *://*.isndjdjshasldkshahadjdjs.cyou/*
 *://*.isntanbulkart.net/*
+*://*.isntbulkratbkaiyeykuleme.net/*
 *://*.isntnblkart.com/*
 *://*.isntnblkartt.com/*
 *://*.isntr.com/*
@@ -196674,6 +196685,7 @@
 *://*.kmbilgilendirme.cfd/*
 *://*.kmbjjpqnbgxjfmh.ru/*
 *://*.kmbnbnv.shop/*
+*://*.kmbrdansrglnrsznyptnzsn.shop/*
 *://*.kmbrdayz.click/*
 *://*.kmcansense.cfd/*
 *://*.kmcdkmpmz.site/*
@@ -222043,6 +222055,7 @@
 *://*.nakitavansfirsatlaritr.xyz/*
 *://*.nakitavanskampanyasi-vakif.pro/*
 *://*.nakitavanskampanyasi-vakif.store/*
+*://*.nakitblacckkkard.org/*
 *://*.nakitbul.com/*
 *://*.nakitburada.site/*
 *://*.nakitcepte-basvurular.com/*
@@ -286766,6 +286779,7 @@
 *://*.subatsnflrtst.shop/*
 *://*.subatsokfirsatlar.cfd/*
 *://*.subatsokmarket.cfd/*
+*://*.subatsonfirsatlara101.com/*
 *://*.subatsongunler.com.tr/*
 *://*.subatsonindirimpriv.net/*
 *://*.subatsonugidaindirimler.shop/*
@@ -309716,6 +309730,7 @@
 *://*.tuvturkm.digital/*
 *://*.tuvturkmf.digital/*
 *://*.tuvturkms.digital/*
+*://*.tuvturkmuayene.shop/*
 *://*.tuvturkmuayenearac.com/*
 *://*.tuvturkmuayeneci.com/*
 *://*.tuvturkmuayeneistastonlarim.com/*
