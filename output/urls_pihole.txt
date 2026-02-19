@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-19 16:37:36 UTC
-# Toplam: 440019 Domain
+# Son Güncelleme: 2026-02-19 17:40:43 UTC
+# Toplam: 440037 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5251,6 +5251,7 @@
 165.227.63.166
 1651561561651561.duckdns.org
 165161l11l125.duckdns.org
+16516516511l15156.duckdns.org
 16516516522.cloud
 16523326.site
 165384.cloud
@@ -15089,6 +15090,7 @@
 51554654889.cloud
 51555542632542.cloud
 515555456465.cloud
+51557162472.cloud
 515627474.corolain.ru
 515943752.goloser.ru
 515add09.hwqwwrh.com.cn
@@ -64501,6 +64503,7 @@ belbiss.xyz
 belbissdsd.com
 belbissdsd.dev
 belbissdsd.org
+belbisss.com
 belbisssd.com
 belblm.com
 belbmsxprt.net
@@ -64545,6 +64548,7 @@ belgemaktif.com
 belgeodemeleriniz.com
 belgeonaydogrula.org
 belgeonayhizmeti.xyz
+belgeonayislem.xyz
 belgeonayla.xyz
 belgeonaymerkezi.xyz
 belgeonaysistemi.xyz
@@ -64882,6 +64886,7 @@ benimsayfamgirisbasvur.xyz
 benimsepetim.xyz
 benimsitem.xyz
 benimsubem.com
+benimtarifimyemek.blogspot.com
 benimtokim.site
 benimumrem.com
 benimvergim.com
@@ -67031,6 +67036,7 @@ bilgiiade.de
 bilgiigirisim.com
 bilgiigirisin.com
 bilgiiguncelle.com
+bilgiiharita.com
 bilgiisayfam.net
 bilgiislem.store
 bilgiislemim.net
@@ -106306,6 +106312,7 @@ crfsdnzhizlicagldiler.com
 crfsdnzhizlicagldiler.info
 crfsdyncrfsyagldmbncrfasa.com
 crfsdyzgel.cfd
+crfsfrstlari.cfd
 crfsgnleri.cfd
 crfshiperkampgnbugn.sbs
 crfshipermrk.cfd
@@ -125443,6 +125450,7 @@ dosyacezasorgula.com
 dosyacezasorgulat.com
 dosyacezauzlasmasi.com
 dosyadava.com
+dosyadenetim.org
 dosyaedevlet.com
 dosyaesorgu.com
 dosyaform.com
@@ -211358,6 +211366,7 @@ ilkadiminiparibuileat.com
 ilkadiminiparibuileat.vakiflahediye.click
 ilkadiminiparibuilet.com
 ilkangroup.pw
+ilkarabambasvuru.com
 ilkargolarimerkez.com
 ilkateknik.com
 ilkayvakfi.com
@@ -223050,6 +223059,7 @@ istmn.net
 istmnblkaart.net
 istmnblrmzndas.giize.com
 istmnkart.blogspot.com
+istmnkhhbc.com
 istmnkvxas.com
 istmnkxcbvx.com
 istmrkhdshsfdhc.com
@@ -249690,6 +249700,7 @@ laneelastic.top
 lanesselapse.top
 lanfero.sbs
 lang3666.top
+langeldigeldi.duckdns.org
 language.wikaba.com
 language884.xyz
 languagecontemplate.top
@@ -258441,6 +258452,7 @@ maliafat.xyz
 maliafatciksizi.xyz
 maliafatfanclup.club
 malibilgisistem.com
+malibirim.org
 maliborc.org
 malicako.top
 malicc.site
@@ -287971,6 +287983,7 @@ onbirekim.com
 onbirodeme.tk
 onbirtemmuz.com
 onbjl.com
+onbonline.mefound.com
 onbwvvughjqdrwn.cn
 oncameraworkout.com
 onccoin.info
@@ -308231,6 +308244,7 @@ powerrembo.ru
 powerrfloww.com
 powersafetraining.net
 powersafetrainings.org
+powerseller-automated-cost-compaq.trycloudflare.com
 powershell-test.duckdns.org
 powerspyfire.hopto.org
 powersupportplan.com
@@ -355403,6 +355417,7 @@ sponsor781239girsisyap.com
 sponsorblackmail.top
 sponsorbngiris.com
 sponsorcunuz-844381.com
+sponsordijitalrnobilislernapp.space
 sponsored-ate.gl.at.ply.gg
 sponsoredads.sbs
 sponsoredrklmvkkf.com
@@ -359140,6 +359155,7 @@ subat-senin.ip-ddns.com
 subat-sonu-kampanya.com.tr
 subat-yeni.com.tr
 subat101toshibafirsatindasin.vercel.app
+subat101yakala.com
 subat1o1burda.com
 subat28songun.pt
 subataiddatiadeayi.xyz
@@ -379275,6 +379291,7 @@ trbydsiparis.com
 trc-cimer.com
 trc-ekonomi-baknligi-iade-basvuru-form.tk
 trc.webhop.net
+trcanlidestek.com
 trcarpente.com
 trcarrefor.cfd
 trcarrefourr.cfd
@@ -381693,6 +381710,7 @@ trsorgumali.org
 trsorgumaliye.com
 trsorguportal.org
 trsosyaldestek.blogspot.com
+trsponsordijitalrnobilislernap.space
 trsponsorlubasvuru.com
 trsponsorno4819823383422.com
 trsponsorno4819823383422.fit
