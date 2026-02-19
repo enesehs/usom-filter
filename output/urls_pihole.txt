@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-19 20:23:16 UTC
-# Toplam: 440055 Domain
+# Son Güncelleme: 2026-02-19 21:23:43 UTC
+# Toplam: 440064 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22295,6 +22295,7 @@ a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
 a-10-1-kapimda-tr.online
 a-10-1comtr.sbs
 a-10-1flrsatlari.cfd
+a-10-1malrketcomtr.sbs
 a-10-firsatlardunyasia101.wuaze.com
 a-1001buhaftaninindinirimler.com
 a-1001buhaftaninindinirimlerin.com
@@ -89642,6 +89643,7 @@ c-papara.com
 c-paribu.com
 c-prosahibinden.com
 c-pttgov.top
+c-rfurayolediriyo.sbs
 c-tec-support.co.uk
 c-tgbbvaiisllemlllerii.com
 c-tr.online
@@ -191229,6 +191231,7 @@ heelclamp.top
 heelcomplimentary.top
 heeldetergent.top
 heelsolicitor.top
+heenalnakltnas.net
 heereeqddd.duckdns.org
 heevusqnkj.duckdns.org
 heftybtc.com
@@ -243363,6 +243366,7 @@ kmsorgulamagovv-tr.duckdns.org
 kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamagulyan.shop
 kmsorgulamahemengovhasan5.web.app
+kmsorgulamahgspttavmgovemine.duckdns.org
 kmsorgulamakicin.blogspot.com
 kmsorgulamakubravursz.duckdns.org
 kmsorgulamalalrnzhizlica.web.app
@@ -245550,6 +245554,7 @@ krcadnarlkgnlrii.com
 krcadnarlkzmni.com
 krcafirsatlrynnz.com
 krcaherdaimortadasonda.com
+krcaherdaimsepetia.com
 krcaikibinyirmibes.shop
 krcailarlk.cfd
 krcaile.com
@@ -264481,6 +264486,7 @@ mhrsekonomik.duckdns.org
 mhrserandevu.com
 mhrserandevu.net
 mhrsgiris.it.nf
+mhrshizligiris.duckdns.org
 mhrsklsafslaalal.cyou
 mhrsklsafslaalal.one
 mhrsklsafslaalal.site
@@ -357439,6 +357445,7 @@ stanleyclassicc.vip
 stanleycordi.xyz
 stanleycosmos.xyz
 stanleydarkflow.xyz
+stanleydraxen.xyz
 stanleydunyasi.xyz
 stanleyechanges.xyz
 stanleyechoes.xyz
@@ -422443,6 +422450,7 @@ xn--tyeyuzylbasladihaberler-oqdgb.net
 xn--tyrznuxzc723288-9kc.online
 xn--u4nhmrh-n06c.cn
 xn--ubatayndakampanya-hvc18f.com
+xn--ube-garanti-qgc.my-homeip.net
 xn--ubekuvvuttrk-mlb98k.com
 xn--ubesiz-giri-ekili-katl-b7b99oh6alah.com
 xn--ubesiz-giri-onay-lddl.com
@@ -432466,6 +432474,7 @@ yol-doldur.xyz
 yol-doldur2.xyz
 yol-doldur4.xyz
 yol-doldur5.xyz
+yol-hzmtgcis.mooo.com
 yolaciktiktmaxmax.net
 yolailemusthakbizkuv0911alim.online
 yolalin.sbs
