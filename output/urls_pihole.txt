@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-20 16:23:39 UTC
-# Toplam: 440225 Domain
+# Son Güncelleme: 2026-02-20 17:27:56 UTC
+# Toplam: 440231 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -153682,6 +153682,7 @@ fakeidmaker.onlinewebshop.net
 fakenitro666.ddns.net
 faker.ddns.net
 fakers.co.jp
+fakestress.webredirect.org
 fakfukfakkkk-1097ea918206.herokuapp.com
 fakfukfikfukara-bb7ca216df3f.herokuapp.com
 fakfukfikfukaramadafaka-e10266d3c88e.herokuapp.com
@@ -183682,6 +183683,7 @@ haftaninenyenigirisleri.xyz
 haftaninenyenigirisleriburdan.cfd
 haftaninenyenigirisleriburdan.sbs
 haftaninfirsati.com.tr
+haftaninfirsati.net
 haftaninfirsati.online
 haftaninfirsati911.duckdns.org
 haftaninfirsatlar.com.tr
@@ -320768,6 +320770,7 @@ ramazanayi-2021hibe.com
 ramazanayi-destek2021.com
 ramazanayi-destekpaketi.com
 ramazanayi-hibe.com
+ramazanayiaktuelurunler.cfd
 ramazanayidestek-web.com
 ramazanayidestekpaketi.com
 ramazanayifirsatlari.site
@@ -357578,6 +357581,7 @@ stanleyburdauygun.site
 stanleycalyrex.xyz
 stanleycarrfour.store
 stanleycatalyst.xyz
+stanleyceltron.xyz
 stanleyclassicc.vip
 stanleycordi.xyz
 stanleycosmos.xyz
@@ -384841,6 +384845,7 @@ turkiye-finans-katilim.com
 turkiye-finans-tr.com
 turkiye-finans-web.com
 turkiye-finans.onrender.com
+turkiye-finans.web.app
 turkiye-finansbankasi.tk
 turkiye-finanstr.com
 turkiye-g-o-v-tr.com
@@ -404279,6 +404284,7 @@ wbythdxsou.duckdns.org
 wbzcwcdng.org
 wbzqmdwiiy.duckdns.org
 wc-sx6ogm3drx.yenilik.workers.dev
+wc-tvh6vsve2i.yenilik.workers.dev
 wc.animegogofilms.info
 wc28bm.duckdns.org
 wc2opth.duckdns.org
