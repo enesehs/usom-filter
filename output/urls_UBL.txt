@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-19 23:22:59 UTC
-! Total: 351096 rules
+! Last modified: 2026-02-20 00:57:35 UTC
+! Total: 351101 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6681,6 +6681,7 @@
 *://*.23462358587242.com/*
 *://*.23463145123123.com/*
 *://*.234631745831418.com/*
+*://*.2346523452356.com/*
 *://*.234723oi32947p1207481.website/*
 *://*.234812852507.site/*
 *://*.234872374823894.online/*
@@ -70033,6 +70034,7 @@
 *://*.capitalist.expert/*
 *://*.capitalistcelebrity.top/*
 *://*.capitalizerutc.com/*
+*://*.capitallexis.com/*
 *://*.capitallgrowers.com/*
 *://*.capitalorm.com/*
 *://*.capitalpyramid.top/*
@@ -111951,6 +111953,7 @@
 *://*.ekolaysigorta.org/*
 *://*.ekolojiosmanli.space/*
 *://*.ekomekosedoo.site/*
+*://*.ekonnomibilginet.com/*
 *://*.ekonomi-analist.pro/*
 *://*.ekonomi-analizi.info/*
 *://*.ekonomi-destek.info/*
@@ -137414,6 +137417,7 @@
 *://*.gigohe.top/*
 *://*.gigu.ga/*
 *://*.gigzrus.sbs/*
+*://*.gihbdijital.com/*
 *://*.gihbfevappqs.info/*
 *://*.gihf2.com/*
 *://*.giiriisiniyap-tr.com/*
@@ -139430,6 +139434,7 @@
 *://*.gncelkamtak2420kw.shop/*
 *://*.gncelmrkethper.cfd/*
 *://*.gncelmrketinizcrraforsa.cfd/*
+*://*.gncelsnalmrketiniz.cfd/*
 *://*.gncelyklemex.net/*
 *://*.gnchaberbilgileri.com/*
 *://*.gnchlizmetlerlesizlerleyiz.xyz/*
