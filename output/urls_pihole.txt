@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-20 14:31:00 UTC
-# Toplam: 440200 Domain
+# Son Güncelleme: 2026-02-20 15:27:48 UTC
+# Toplam: 440216 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -23287,6 +23287,7 @@ a101-kampanyalar.com.tr
 a101-kampanyalar.duckdns.org
 a101-kampanyalar.net
 a101-kampanyalari.uno
+a101-kampanyalarim-uygulamasi.com
 a101-kampanyalarim.com
 a101-kampanyalarimiz.com
 a101-kampanyan.buradangirisleriniz.app
@@ -25925,6 +25926,7 @@ aaccountverify.ml
 aacf32hx0.duckdns.org
 aachen-spar.ddns.net
 aacikdeniz-denizbank.com
+aacrfsfrsatlari.cfd
 aacrrfrsadayiz.cfd
 aadatmerkez.com
 aaddons--mozilla--org.webflow.io
@@ -45260,6 +45262,7 @@ anindabakiyeyukle.com
 anindabasvurdenizfirsatekranin.xyz
 anindabasvurdenizfirsatekraninfast.xyz
 anindabasvurkeridi.com
+anindabasvurkeridi.xyz
 anindabasvuru.cfd
 anindabasvuru.com
 anindabasvuru.mefound.com
@@ -77199,6 +77202,7 @@ bklrdansankardsan.bond
 bklslvsmlcsmdm.com
 bklsntryskal.mooo.com
 bklynhgs.blogspot.com
+bklynngs.blogspot.com
 bkm-aidat-iadesi-govtr.tk
 bkm-aidatiade.tk
 bkm-aiddinodemlrniz.com
@@ -124444,6 +124448,7 @@ dojocqewlryi.online
 dokedok.shop
 dokekoi.com
 dokfgatndtscdwxws.com
+doklmezayranlarim.org
 doknizmnr.net
 doksqy.com
 doktorasiddetehayir.com
@@ -126335,6 +126340,7 @@ drkampanyahaberi.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesizikanirtirrrr-678fbacbb8a7.herokuapp.com
+drkantesiziottururr-f5923b74fd47.herokuapp.com
 drkanteucururr-c1993e66f9db.herokuapp.com
 drkcafrledenizde.website
 drkdangrntibbva.mooo.com
@@ -221180,6 +221186,7 @@ islespotlight.top
 islet-dijitalim.app
 islet-dijitalimiz.app
 isletislem.app
+isletme-destekprogrami.com
 isletme-kredimerkezi.com
 isletme-yardimi.com
 isletmebilgisi.cfd
@@ -243936,6 +243943,7 @@ kobi-kredidestek.com
 kobi-krediformu.com
 kobi-kredimerkezi.com
 kobi-paraf-hediye.com
+kobi-projebasvuru.com
 kobi-tr-paraf.com
 kobibasvurunutamamla-12.cloud
 kobibilgilendirme.cfd
@@ -288012,6 +288020,7 @@ onaylisepet.com.tr
 onaylisiparis.com.tr
 onayliurun.name.tr
 onaymerkezi-destek.ml
+onaymerkezi.xyz
 onaymerkezicetelemteb.net
 onaymerkezikuveytislemler.net
 onaymerkezivakifislemler.net
@@ -294168,6 +294177,7 @@ ostils.pl
 ostimelektronik.shop
 ostitchy21.xyz
 ostlyepel.top
+ostnblllrdannbrdaaa.shop
 ostnbllrdanbrdayzbsf.sbs
 ostnbrdansrlrsz.sbs
 ostraciidae.com
@@ -320782,6 +320792,7 @@ ramazanbereketipttde.cfd
 ramazanbereketipttde1.cfd
 ramazanbereketipttdehizli.cfd
 ramazanbereketipttdehizli1.cfd
+ramazanbereketisofranizda.cfd
 ramazanbereketiylegelecek.sbs
 ramazanbimcell14.net
 ramazanbimcell4.net
@@ -348316,6 +348327,7 @@ siteciklerolmezmis.cfd
 sitede.name.tr
 sitedegor.com
 sitedurumum.com
+sitee-giris-mobil.sbs
 siteearth.weebly.com
 siteeitor.top
 siteekom.blogspot.com
@@ -351812,6 +351824,7 @@ sokmarketpazarindirimleri.com
 sokmarketpersembe.site
 sokmarketr.site
 sokmarketramazankampanyasi.cfd
+sokmarketramazanmenusu.cfd
 sokmarketsanal.b-cdn.net
 sokmarketsanal.online
 sokmarketsanal.site
@@ -355236,6 +355249,7 @@ spellingsubmerge.top
 spellrepress.top
 spellunfold.top
 spellway.top
+spencer-earlier-varies-coins.trycloudflare.com
 spencerstuartllc.top
 spend4366.xyz
 spendlesssmilmore.duckdns.org
@@ -359350,6 +359364,7 @@ subatindirimleriburada.com.tr
 subatindirimleriburada.online
 subatindirimleriburada.xyz
 subatindirimleriprime.net
+subatinenlerineyolculuk.com
 subatinfirsatlari.com
 subatinilkfirsatlari.cfd
 subatinndirimlerim-a101de.shop
@@ -376909,6 +376924,7 @@ tr-odemesistembayiniz.com
 tr-officalbasvurukampanyasisizlerle.cloud
 tr-onay-alisveris.com
 tr-onay-bimcellgiristlyukleme-comtr.tk
+tr-onay.online
 tr-onayla.net
 tr-onayli-alisveris.com
 tr-onayli-firsat.com
