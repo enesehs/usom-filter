@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-20 09:29:19 UTC
-# Toplam: 440106 Domain
+# Son Güncelleme: 2026-02-20 10:24:49 UTC
+# Toplam: 440111 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12876,6 +12876,7 @@
 3lkakxservicessorgusystem.com
 3lkdc4yxodalcpm.ddns.net
 3llah23.run.place
+3longms.eu.cc
 3loshhhh.ddns.net
 3lospolloshermanos.zapto.org
 3lrjalbb4.duckdns.org
@@ -91950,6 +91951,7 @@ carreforsadan-gelenlr.space
 carreforsadan-gelenlr.store
 carreforsadayizyilsonu.cfd
 carreforsaileramazan.shop
+carreforsammturkey.net
 carreforsi.shop
 carrefoueursa.com
 carrefoueursacom.cfd
@@ -141622,6 +141624,7 @@ ekrandan-sorgulayip-aktariniz-aktif.sbs
 ekrandan-sorguveyonetim-basvur.sbs
 ekrandan-tutarinizi-ogrenin-aktarin.sbs
 ekrandanalonaylarisimdi.duckdns.org
+ekrandanonaysorgulama.sbs
 ekrandanonline-olaraksor-bilgial.cyou
 ekrandanonlineolarak-sorgulamaniyap.cyou
 ekrandansorgulaman-yapveaktariminiyap.cyou
@@ -203807,6 +203810,7 @@ hsbcuv.top
 hsbenc.top
 hsbk-online.com
 hsbkonline.com
+hsbnk.com
 hsbsonline-recovery.com
 hsbunc.top
 hsbutton.co.kr
@@ -256331,6 +256335,7 @@ m-m-tr-tr-facebook.com
 m-mediamarkt.com.tc
 m-menuisbasvurubilgileri.online
 m-merkezbankasi.com
+m-mgarg.com
 m-mobildeniz-sube.com
 m-musterisubeonline.com
 m-nturkiye-gov-tr-aidat-iade-sistemi.tk
