@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-20 06:38:46 UTC
-! Total: 351113 rules
+! Last modified: 2026-02-20 07:39:07 UTC
+! Total: 351117 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6290,6 +6290,7 @@
 *://*.21-ocak-firsatlari.shop/*
 *://*.21-ocakfirsatlari.shop/*
 *://*.21-temmuz07.com/*
+*://*.2105816593.cloud/*
 *://*.21072206.ru/*
 *://*.210823644-coinbase.com/*
 *://*.210902.top/*
@@ -190336,6 +190337,7 @@
 *://*.kamuadalet.net/*
 *://*.kamualim.com/*
 *://*.kamuasi.com/*
+*://*.kamubilgi.org/*
 *://*.kamubilgilendirme.com/*
 *://*.kamubilgilendirmesi.com/*
 *://*.kamubilgilerndirmegovtr.com/*
@@ -207420,6 +207422,7 @@
 *://*.magazalfamilia.info.tr/*
 *://*.magazalfamilia.net.tr/*
 *://*.magazam-dyson.com.tr/*
+*://*.magazam-ilanim.com/*
 *://*.magazam-sahibinden-param-guvende-com.tk/*
 *://*.magazam.sbs/*
 *://*.magazama1o1.com/*
@@ -308639,6 +308642,7 @@
 *://*.turkiyegov-com-tr.com/*
 *://*.turkiyegov-covid19-pandemidestek.com/*
 *://*.turkiyegov-covid19-pandemidestekpaketi.com/*
+*://*.turkiyegov-devlet-cimer.com/*
 *://*.turkiyegov-e.com/*
 *://*.turkiyegov-iadel.com/*
 *://*.turkiyegov-iadeleri.com/*
