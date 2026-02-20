@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-20 21:12:42 UTC
-# Toplam: 440243 Domain
+# Son Güncelleme: 2026-02-20 22:12:40 UTC
+# Toplam: 440245 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -264544,6 +264544,7 @@ mhkjnlxv.com
 mhkxvancspxderb.su
 mhlbsrppvj.duckdns.org
 mhlks1uu.duckdns.org
+mhllrsgislsrs.net
 mhmgmntssas.net
 mhmhmhmhmrnvds-brd-mobil.web.app
 mhmngr6usp1gu7r2hi.biz
@@ -405243,6 +405244,7 @@ webbayramdenizdenguzel.com
 webbayramdenizgunumden2019.com
 webbayramdenizile.com
 webbbbt.com
+webbelbiss.com
 webberguitars.com
 webbildiri-icra.online
 webbildiri-ihlal.com
