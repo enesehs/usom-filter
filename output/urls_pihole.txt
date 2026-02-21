@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 11:11:45 UTC
-# Toplam: 440271 Domain
+# Son Güncelleme: 2026-02-21 12:23:07 UTC
+# Toplam: 440275 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -138836,6 +138836,7 @@ edostedgins.com
 edosyaburo.com
 edosyagoruntule.org
 edosyakontrol.net
+edosyamaliye.org
 edosyasorgu.org
 edosyasorgula.org
 edosyasorgulama.org
@@ -231195,6 +231196,7 @@ k27sadhsahdhashdasdhashd.site
 k28p8loy.duckdns.org
 k28sadhsahdhashdahsdhas.site
 k2ahsdhashdahsdhashd.site
+k2asdashdhashdhhs99asdhasd2.click
 k2asdhashdhasdhashdhasd.site
 k2ashdahsdhashdhashdas.site
 k2av5r.duckdns.org
@@ -320788,6 +320790,7 @@ ramazanaozelkampanyagaranti.line.pm
 ramazanaozelkampanyalar-1.com
 ramazanaozelkampanyalipuanlar.cf
 ramazanaozelkatilmalisin.net
+ramazanaozelkredi2.duckdns.org
 ramazanaozellfirsatlarkapinizda.online
 ramazanaozelpt-tal.cfd
 ramazanaozelpuanlar.ml
@@ -344186,6 +344189,7 @@ shinyzealous.top
 shiofk.top
 shionoe.info
 shiory.annebruce.xyz
+ship-beverage-guarantee-keyboard.trycloudflare.com
 ship-expert.gl.at.ply.gg
 ship-fill-value.com
 shipcynical.top
