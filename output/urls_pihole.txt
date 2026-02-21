@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 15:13:15 UTC
-# Toplam: 440290 Domain
+# Son Güncelleme: 2026-02-21 16:13:36 UTC
+# Toplam: 440291 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -165732,6 +165732,7 @@ garanti-online-tr.com
 garanti-online.cf
 garanti-online.cfd
 garanti-online.click
+garanti-online.sbs
 garanti-online.site
 garanti-online2019.com
 garanti-onlinebasvuru.site

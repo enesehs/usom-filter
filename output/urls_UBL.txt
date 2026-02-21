@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-21 15:13:15 UTC
-! Total: 351277 rules
+! Last modified: 2026-02-21 16:13:36 UTC
+! Total: 351278 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -132068,6 +132068,7 @@
 *://*.garanti-online.cf/*
 *://*.garanti-online.cfd/*
 *://*.garanti-online.click/*
+*://*.garanti-online.sbs/*
 *://*.garanti-online.site/*
 *://*.garanti-online2019.com/*
 *://*.garanti-onlinebasvuru.site/*
