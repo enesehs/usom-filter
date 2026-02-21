@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 06:26:34 UTC
-# Toplam: 440249 Domain
+# Son Güncelleme: 2026-02-21 07:22:59 UTC
+# Toplam: 440258 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -64699,6 +64699,7 @@ beltglacier.top
 beltofcurse.xyz
 beltturkey785.com
 beltweasel.top
+belunqory.com
 belvasports.com
 belvostera.pro
 belyardim.online
@@ -99383,6 +99384,7 @@ clouditprofi.com
 clouditzone.com
 cloudjs.live
 cloudkdzym.lat
+cloudlane.host
 cloudlare-lndex.com
 cloudlflares.com
 cloudlive.pub
@@ -131639,6 +131641,7 @@ e-guvendeonline.sa.com
 e-guvendetr.sa.com
 e-guvenleodeme.com
 e-guvenleodeme.com.tr
+e-guvenli-alisverim-burda.com
 e-guvenli-alisveris-tr.sa.com
 e-guvenli-alisveris.com
 e-guvenli-alisveris.sa.com
@@ -149321,6 +149324,7 @@ euroworldcuzdansorgulamasayfasidogrulamabireysel.line.pm
 euroworldebireyonaysizcuzdansorgulamakonlineozel.line.pm
 eurun-onay-hizmetler.shop
 eurun-servis-hizmetim.com
+eurun-servis-hizmetlerin.com
 eurun-servisleri-hizmetler.com
 eurunlerhizmetiniz.com
 eusecrypt.com
@@ -163874,6 +163878,7 @@ futureddospzmvq.shop
 futurefocuspro.online
 futureforbestsky.online
 futureforbeststart.online
+futurefund.capital
 futurehemp.com
 futureintrinsic.top
 futureinvestmant.com
@@ -193175,6 +193180,7 @@ hepiyibulduran.cfd
 hepkazanvemutluol.cfd
 hepkek2.ru
 hepkeyiflialisverisler.com
+hepkrcadaniyihaberler.com
 hepkwtyoucekcamp7.net
 hepmhizmetel.app
 hepmutluol.xyz
@@ -307095,6 +307101,7 @@ polaris-bios-editor.ru
 polarisan.com
 polarispulse.online
 polarisynsc.com
+polariumar.com
 polarnimbus.space
 polarof.koyhelp.top
 polarpeace.top
@@ -358724,6 +358731,7 @@ storeflare.art
 storegoogle.at
 storehepsibirarada.online
 storeindirim.site
+storelinker.art
 storemagento.info
 storemartyrdom.top
 storemonline.net
@@ -390625,6 +390633,7 @@ upsta.club
 upstairssegregation.top
 upstoxcalculator.com
 upstracking-services.duckdns.org
+upstreamy.com
 uptemp.icu
 uptight.su
 uptimisedmc.com
