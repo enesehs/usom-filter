@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 14:14:19 UTC
-# Toplam: 440280 Domain
+# Son Güncelleme: 2026-02-21 15:13:15 UTC
+# Toplam: 440290 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21091,6 +21091,7 @@
 978141832.goloser.ru
 97815a39.top
 9784561987498.net
+9786435453543.online
 978654322433.store
 978654876964556.com
 978941-coinbase.com
@@ -60682,6 +60683,7 @@ basvurukabulekrani.linkpc.net
 basvurukabulleri.com
 basvurukabulmerkezimms.net
 basvurukampanya-acikmobil.com
+basvurukampanya.investikayit.site
 basvurukampanya.online
 basvurukampanyabance.tech
 basvurukampanyabufirsattechbance.space
@@ -64475,6 +64477,7 @@ beklemedenkonus.com
 beklemedennyuklee.sg-host.com
 beklemedenyuklemelerrr.sg-host.com
 beklemekteolangelecek.net
+beklemelereson.com
 beklemexgecisim.sg-host.com
 beklemeyukleee.sg-host.com
 beklemezgecerim.sg-host.com
@@ -165727,6 +165730,8 @@ garanti-online-iade.org
 garanti-online-sube.com
 garanti-online-tr.com
 garanti-online.cf
+garanti-online.cfd
+garanti-online.click
 garanti-online.site
 garanti-online2019.com
 garanti-onlinebasvuru.site
@@ -221430,6 +221435,7 @@ israil.biz
 israilurunleri.site
 isramazanlarguncel.online
 israra.shop
+israrladeniyosn.org
 israrlayukleme.sg-host.com
 isroddp.com
 isrqdp.duckdns.org
@@ -264569,6 +264575,7 @@ mhkjnlxv.com
 mhkxvancspxderb.su
 mhlbsrppvj.duckdns.org
 mhlks1uu.duckdns.org
+mhllrsgislsrs.com
 mhllrsgislsrs.net
 mhmgmntssas.net
 mhmhmhmhmrnvds-brd-mobil.web.app
@@ -266948,6 +266955,7 @@ mobil-basvur-cepsube.best
 mobil-basvuracikdenizkredinizhemencepte.site
 mobil-basvuru-iade-islem-giristr.ml
 mobil-basvuru-sv-com.sbs
+mobil-basvuru-th-com.sbs
 mobil-basvuruacikdeniz-cekilis.com
 mobil-basvurucekilisonaysube.com
 mobil-basvurufirsatiacik.com
@@ -331172,6 +331180,7 @@ sahibinden-e-guvenli.alticaret.com.tr
 sahibinden-e.hizmetleru.com.tr
 sahibinden-enguvenli.com
 sahibinden-eparamguvende.com
+sahibinden-firsat-indirim.mooo.com
 sahibinden-g.tr-online-odemelerim.sa.com
 sahibinden-ge.t-ile-s-al.com
 sahibinden-ged.shop
@@ -359380,6 +359389,7 @@ subatayi-firsati.com
 subatayiaktuelurunler.cfd
 subatayifirsatlari.icu
 subatayiindirimleri.xyz
+subatayikaracaguzellikleri.com
 subatayimucizeleri.com
 subatayindaozelindirimler.shop
 subatayindirimleriniz.blogspot.com
