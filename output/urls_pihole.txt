@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 20:11:03 UTC
-# Toplam: 440327 Domain
+# Son Güncelleme: 2026-02-21 21:11:15 UTC
+# Toplam: 440331 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -91690,6 +91690,7 @@ carefursa.store
 carefursadan.cfd
 carefursadanal.cfd
 carefursadanszlere.com
+carefursamarketinde.cfd
 carefursanda.cfd
 caregiverskunbilof.zapto.org
 careglmz.2kool4u.net
@@ -245065,6 +245066,7 @@ koprugecis.2kool4u.net
 kopruhaberleri.com
 kopruhgss.com
 kopruluislemler.com
+koprununstndeyakiyom.org
 kopruotoyol-odeme-sorgulama.cf
 kopruotoyol-odeme-sorgulama.ga
 kopruotoyol-odeme-sorgulama.ml
@@ -247781,6 +247783,7 @@ kurumsal.otomoobilsigorta.site
 kurumsaladresi.com
 kurumsalajans-tr.tk
 kurumsalajansi.net
+kurumsalakilda.xyz
 kurumsalalimin.com.tr
 kurumsalaraarabafirmasikiralama.net
 kurumsalbayidyson.online
@@ -405327,6 +405330,7 @@ webbayramdenizgunumden2019.com
 webbayramdenizile.com
 webbbbt.com
 webbelbiss.com
+webbelbiss.xyz
 webberguitars.com
 webbildiri-icra.online
 webbildiri-ihlal.com
