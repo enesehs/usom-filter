@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-21 22:10:56 UTC
-# Toplam: 440331 Domain
+# Son Güncelleme: 2026-02-21 23:12:29 UTC
+# Toplam: 440337 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17036,6 +17036,7 @@
 67543w5547-34512-2346743.com
 67545423432124211423.com
 675523442342.duckdns.org
+675534534345.online
 67555.xyz
 6756445723543.cloud
 675665346543.online
@@ -22768,6 +22769,7 @@ a.ile.basuvurular.net
 a.ile.bilgilendirilme.net
 a.ile.bilgilerin.net
 a.kampanyambagustos.com
+a.lasdmoaskfd.cfd
 a.llegencl.ik.ekranii.net
 a.makemark.xyz
 a.makemark.xyzindex.ph
@@ -165549,6 +165551,7 @@ garanti-flas-bva.mom
 garanti-flashbonus.com
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-geri-iade-islemleri.line.pm
+garanti-giris.click
 garanti-giris.com
 garanti-girisim.com
 garanti-guncelhizmetleri-2023.com
@@ -187422,6 +187425,7 @@ hamamamammamamama2345.com
 hamamammaamama0238.com
 hamamammaammamah9021.com
 hamamammamamaam6361.com
+hamamammamamama4500.com
 hamamammamamama8862.com
 hamamammamamamaama2451.com
 hamamammamamamam172.site
@@ -233193,6 +233197,7 @@ kampanya-firsatlari-esube-bireysel-tr.club
 kampanya-firsatlari-esube-bireysel-tr.space
 kampanya-firsatlari2023.net
 kampanya-frsatbasvur.best
+kampanya-garanti.click
 kampanya-garantibonus.com
 kampanya-giris-tr.com
 kampanya-giris.com.tr
@@ -293293,6 +293298,7 @@ oprahbtc.org
 oprqni.top
 oprts.is-best.net
 opryfos.com
+ops-toko.cfd
 ops.swenzycheck.store
 opsaldasarayci.site
 opsecurity1.art
