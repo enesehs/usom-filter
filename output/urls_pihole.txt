@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-22 14:15:21 UTC
-# Toplam: 440394 Domain
+# Son Güncelleme: 2026-02-22 15:13:37 UTC
+# Toplam: 440410 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5051,6 +5051,7 @@
 156565226516565659909036599.xyz
 1565897119856231989.buzz
 156667.site
+156786434167.com
 15694987156659811.net
 156953coinbase.com
 15698445616565132.net
@@ -12061,6 +12062,7 @@
 360-online.com.tr
 360-plus.com.tr
 360-pro-mobil.com
+360-pro-tr.com
 360-pro.com.tr
 360-tr-evlllkrdisi.com
 360-tr-mobil.com
@@ -22336,6 +22338,7 @@ a-101-com-tr-harca-harca-bitmez.sa.com
 a-101-com.aldnaldnhftaninyildizlri.shop
 a-101-com.aralikindirimleri.online
 a-101-comtr.online
+a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
 a-101-firsatlar.online
@@ -61892,6 +61895,7 @@ batistadopovosjc.org.br
 batiyorsanki.com
 batlad.top
 batlxt.org
+batmanaansak.webredirect.org
 batmancayi.store
 batmanchecker.xyz
 batmaniol.info
@@ -91703,6 +91707,7 @@ carefursadan.cfd
 carefursadanal.cfd
 carefursadanszlere.com
 carefursamarketinde.cfd
+carefursamarketnde.cfd
 carefursanda.cfd
 caregiverskunbilof.zapto.org
 careglmz.2kool4u.net
@@ -92000,6 +92005,7 @@ carreforsadayizyilsonu.cfd
 carreforsaileramazan.shop
 carreforsammturkey.net
 carreforsi.shop
+carrefoueursa-ramadan.cfd
 carrefoueursa.com
 carrefoueursacom.cfd
 carrefoueursacomtr.cfd
@@ -92125,6 +92131,7 @@ carrentcenter.online
 carrentfilo.com
 carrentina.xyz
 carrentpegasus.comtr-tr.xyz
+carreoufouersa.sanal-marketim.com
 carrerlilla.com
 carreyazaylari.online
 carreyazaylari.xyz
@@ -106263,6 +106270,7 @@ crfonlinemarket.cfd
 crfonlineozeller.online
 crfonlineozelurunler.online
 crfonlinmrkts.cfd
+crfonlnemarketler.cfd
 crfoousafirsattlarxi.duckdns.org
 crfourindirim-firsatlari.online
 crfozelurunler.cfd
@@ -106370,6 +106378,7 @@ crfsaykkmpan.cfd
 crfsaykkmpan.sbs
 crfsbnzbm.store
 crfsdacfrsyagldnsncrfsa.com
+crfsdanalsam.cfd
 crfsdaylbasi.cfd
 crfsdenal.cfd
 crfsdnalcknrzolncagln.com
@@ -174937,6 +174946,7 @@ gncelenensistemedvltiad-e.com
 gnceliznice.com
 gncelkamtak2420kw.shop
 gncelmrkethper.cfd
+gncelmrkethpersana.cfd
 gncelmrketinizcrraforsa.cfd
 gncelsanamrketiniz.cfd
 gncelsnalmrketiniz.cfd
@@ -246933,6 +246943,7 @@ kritkrketatkrdedi.online
 kritktredezde.online
 kritrrdeide.shop
 kritrzridar.online
+kriv-l-g-r-n-l.my-homeip.de
 krivomadogolyhp.com
 krizacent01.site
 krizzgvende53531.online
@@ -249796,6 +249807,7 @@ lalopin.online
 lalp1x9t.duckdns.org
 lalscmalkkla.vercel.app
 lalyhuodae.com
+lam-adn-lar.cfd
 lamaggiora.it
 lamaie.ddns.net
 lamazone.site
@@ -290661,6 +290673,7 @@ onlinecokolay.com
 onlinecompany.website
 onlinecontroler.000webhostapp.com
 onlinecrfmarktindirm.cfd
+onlinecrsahiper.cfd
 onlinecurtain.top
 onlinedairebasvurusu.org
 onlinedakifirsatselalesi.xyz
@@ -327899,6 +327912,7 @@ rrtrfbbbbbbbbbbb.cfd
 rrtrisnakz.duckdns.org
 rrufneh62.duckdns.org
 rruzgarryardimerkezii.tech
+rrv-lr-g-r-n-l.my-homeip.de
 rrx22m.duckdns.org
 rrysrxtqlotfand.ru
 rrzefpze.duckdns.org
@@ -368174,6 +368188,7 @@ tekbasinabirdev.com
 tekbayi.online
 tekbbva.site
 tekbirlikfonu.com
+tekbisphetmdogrularioldrr.org
 tekcbd.com
 tekcharles.xyz
 tekchuks.xyz
@@ -370184,6 +370199,7 @@ tesckkallfrubdf.ru
 tesecuuweqo.shop
 tesee-ersese.duckdns.org
 tesegexyunis-001-site1.ftempurl.com
+tesekkrlerhallettm.org
 tesekkurler.baby
 tesets.live
 tesivisi11.top
