@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-22 11:12:12 UTC
-! Total: 351343 rules
+! Last modified: 2026-02-22 12:22:59 UTC
+! Total: 351346 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6448,6 +6448,7 @@
 *://*.21ocakmatkapcisi.xyz/*
 *://*.21paribu.com/*
 *://*.21savage.dyn/*
+*://*.21sokkkcom-xx-sok-market-11.cfd/*
 *://*.21subatfirsatlaridenizle.online/*
 *://*.21subatsiparisleri.cloud/*
 *://*.21subatsiparislerionline.cloud/*
@@ -228427,6 +228428,7 @@
 *://*.nvyyd-dvp.net/*
 *://*.nvyyd-dvv.net/*
 *://*.nvyyy-nv.com/*
+*://*.nvz7o8f9i1zyf48437f.click/*
 *://*.nvzkeleremdevu.net/*
 *://*.nvzleeeeer.net/*
 *://*.nvzmckcmrtbs.net/*
@@ -276652,6 +276654,7 @@
 *://*.simdi-lndrlmleri-kullanma-noktasi.com/*
 *://*.simdi-ode.com/*
 *://*.simdi-olur.com/*
+*://*.simdi-onay.sbs/*
 *://*.simdi-onaylansin.click/*
 *://*.simdi-onaylansin.com/*
 *://*.simdi-onaylansin.icu/*
