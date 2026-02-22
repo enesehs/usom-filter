@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-22 07:27:49 UTC
-# Toplam: 440347 Domain
+# Son Güncelleme: 2026-02-22 08:23:11 UTC
+# Toplam: 440354 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45232,6 +45232,7 @@ aninda-onaylandi.online
 aninda-onaylandi.store
 aninda-onaylandi.xyz
 aninda-onaylanir.cfd
+aninda-onaylanir.sbs
 aninda-onayli.net.tc
 aninda-online-basvuru-yap.tursab.co.uk
 aninda-oto-kirala.com
@@ -73663,6 +73664,7 @@ bireysel-tanimlama.xyz
 bireysel-te-b-subesi.com
 bireysel-teb-subesi-onlinetr.com
 bireysel-teb-tr.com
+bireysel-tebde.my-homeip.net
 bireysel-tl-yuk-hizli-bim.com
 bireysel-tr-halkbanka.com
 bireysel-tr-yapi-kredi.com
@@ -225524,6 +225526,7 @@ izlmkrlt.net
 izlmrklemexd.net
 izlogvszks.duckdns.org
 izlrmrmulasimm.net
+izlshr.blogspot.com
 izlstsod.dns.navy
 izlt0srews.dynip.org
 izltas03fkcuma.dynip.org
@@ -243337,6 +243340,7 @@ kmpnyagrntbasvurr.info
 kmpnyagrntbasvurr.pro
 kmpnyahazirfirsat.site
 kmpnyak.ru.com
+kmpnyalaramazanda1o1.click
 kmpnyalaricnsongun1o1.online
 kmpnyalaricnsongun1o1.xyz
 kmpnyalarimizdevam.online
@@ -247116,6 +247120,7 @@ ks7br7.3q03on.com
 ks8arxxyz.duckdns.org
 ks8cb.cc
 ksaabsfkqwsaffasb.site
+ksadcasklckdaskcads.sbs
 ksadhasgda.click
 ksaguna.com
 ksahosting.net
@@ -372184,6 +372189,7 @@ tinscm.xyz
 tinscrub.top
 tintastop.site
 tinteperen.com
+tintinurl.live
 tintuc.daikynguyen21.com
 tinurli.com
 tinurll.com
@@ -405273,6 +405279,7 @@ web3protocol.online
 web3withbinance.com
 web4311.coinbase-com.info
 web5041.web07.bero-webspace.de
+web55623143.nicepage.io
 web5564564333.nicepage.io
 web5564564564.nicepage.io
 web724avm.net
