@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-22 16:14:44 UTC
-# Toplam: 440421 Domain
+# Son Güncelleme: 2026-02-22 17:15:02 UTC
+# Toplam: 440429 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12344,6 +12344,7 @@
 37wc0c.duckdns.org
 37zr4kiys.duckdns.org
 38-000-1ll1-0.duckdns.org
+38-0000-101l1.duckdns.org
 38080.xc.cangpie.com
 380808fz.duckdns.org
 381365462354821010.duckdns.org
@@ -106430,6 +106431,7 @@ crfsykrsmtcfrdsyadn.com
 crftsahipr.cfd
 crftseydisehir.cfd
 crfursaabzmolursa.com
+crfursqfirsatlari.duckdns.org
 crfyonlendirme.shop
 crfytsac.cfd
 crgfrsat.cfd
@@ -221276,6 +221278,7 @@ isletmedestegi.click
 isletmedestegi.com
 isletmedestekleri.com
 isletmedestekleri2026.cfd
+isletmedestekmerkezi.com
 isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
@@ -244087,6 +244090,7 @@ kobihibemerkezi.com
 kobiisletmedestegi.com
 kobiisletmemerkezi.com
 kobikredibasvurusu-hemenkatil.cloud
+kobikredibilgilendirme.com
 kobikrediformu.com
 kobikredihizmetleri.com
 kobikredimerkezi.com
@@ -247875,6 +247879,7 @@ kurumsalhesaponaylasahibinden.com
 kurumsalhgsyukleme-com-tr.tk
 kurumsalhizlihizmet-merkezi.com
 kurumsalhizlimerkez-hemengir.com
+kurumsalhizmetler.xyz
 kurumsalhizmetlerdenizbank.com
 kurumsalhsys.ml
 kurumsalhu2.cfd
@@ -267211,6 +267216,7 @@ mobil-giris-islemlerim-portal.tk
 mobil-giris-kapisi-turkiye.tk
 mobil-giris-ll.tk
 mobil-giris-onlline.sbs
+mobil-giris-tcn.sbs
 mobil-giris-tr.com
 mobil-giris-turkiye.org
 mobil-giris.com.tr
@@ -406931,6 +406937,7 @@ website6622005.nicepage.io
 website6622824.nicepage.io
 website6623200.nicepage.io
 website6623257.nicepage.io
+website6623489.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io
@@ -434483,6 +434490,7 @@ yuphgss.com
 yuphsa6qwtg5.online
 yupikredi.com
 yupobabanevevidelogda.net
+yuppi.webredirect.org
 yupstocks.com
 yuqagcfk.com
 yuqbvfopicmp.xyz
