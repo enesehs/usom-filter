@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-23 20:30:59 UTC
-# Toplam: 440596 Domain
+# Son Güncelleme: 2026-02-23 21:32:15 UTC
+# Toplam: 440602 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -729,6 +729,7 @@
 0821gg.duckdns.org
 0823405-923354.com
 08249240239204.click
+08273663.onthewifi.com
 0836i3.duckdns.org
 083oyfirk.duckdns.org
 08502200000ziraatbankasigiris.com
@@ -15082,6 +15083,7 @@
 512-2412-4-5-6-7-8-1.com
 512-2412-4-5-6-7-8-1.pro
 512078022.dfgqdsd.ru
+512118001192.loseyourip.com
 51221kafklasf.xyz
 5123193323632.net
 51232443125256.com.tr
@@ -58705,6 +58707,7 @@ basitodemezs.xyz
 basitodemezzs.is-great.net
 basitoldu.com.tr
 basiton.is-best.net
+basitonay.cfd
 basitonay.sbs
 basitrndv-d3d0104ca57b.herokuapp.com
 basitrndv24-7af5b06c2cbc.herokuapp.com
@@ -151992,6 +151995,7 @@ exsimpetroleum.com
 exsnidnrmxdlrmbunlrx.click
 exsnidnrmxdlrmbunlrx.ru.com
 exsnidnrmxdlrmbunlrx.za.com
+exsscbrr.org
 exstrrafrstllrionln-mrktteyni.net
 ext.browserdog.com
 ext.browserdoghouse.com
@@ -268647,6 +268651,7 @@ mobile-isbank.com
 mobile-islemlerim2025.duckdns.org
 mobile-jreti.ddns.net
 mobile-kampanya-tk.sbs
+mobile-kampanya-tl.sbs
 mobile-kampanya.com
 mobile-messengerplus.network
 mobile-notify.ddns.net
@@ -434658,6 +434663,7 @@ yuphsa6qwtg5.online
 yupikredi.com
 yupobabanevevidelogda.net
 yuppi.webredirect.org
+yuppiss.webredirect.org
 yupstocks.com
 yuqagcfk.com
 yuqbvfopicmp.xyz
