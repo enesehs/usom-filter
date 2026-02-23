@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-23 14:43:09 UTC
-# Toplam: 440532 Domain
+# Son Güncelleme: 2026-02-23 15:35:08 UTC
+# Toplam: 440541 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -106947,6 +106947,7 @@ csa.diogoflix.com
 csa.naaronegya.com
 csaasd.egnyte.com
 csacsadhe.duckdns.org
+csadcaskdcjasdakjcdas.cfd
 csadde-dcvtt.com
 csagdjfdhadgadasddasnjd3.top
 csalkldsfkldlkdasdsacsadk.cfd
@@ -109196,6 +109197,7 @@ d13vt9.duckdns.org
 d14.dddgata789.com
 d14f5ngio.duckdns.org
 d14saf324dg43s.top
+d15mawx0xveem1.cloudfront.net
 d164yl.duckdns.org
 d1am0nd.ddns.net
 d1b878b3.hwqwwrh.com.cn
@@ -124534,6 +124536,7 @@ doktordasaklari.duckdns.org
 doktorkantesiziananizayollar-bfd48fb86609.herokuapp.com
 doktorkantesiziboylekudurtur-a61020ee40d9.herokuapp.com
 doktorkantesizigidiklarr-3c0e2bc61ce9.herokuapp.com
+doktorkantesiziparmaklarr-17b937ad88dc.herokuapp.com
 doktorkanteyokederr-79e91dcf02fd.herokuapp.com
 doktorkantezipzipziplatir-5e20f259e28e.herokuapp.com
 doktorlardantavsiyeler.club
@@ -231319,6 +231322,7 @@ k2ahsdhashdahsdhashd.site
 k2asdashdhashdhhs99asdhasd2.click
 k2asdhashdhasdhashdhasd.site
 k2ashdahsdhashdhashdas.site
+k2ashdhashdahsdhashdas.site
 k2av5r.duckdns.org
 k2cro47dcb70ovi6etix7t5.ddns.net
 k2e3vog.duckdns.org
@@ -247232,6 +247236,7 @@ ks7br7.3q03on.com
 ks8arxxyz.duckdns.org
 ks8cb.cc
 ksaabsfkqwsaffasb.site
+ksadcasklckdaskcads.cfd
 ksadcasklckdaskcads.sbs
 ksadhasgda.click
 ksaguna.com
@@ -367246,6 +367251,7 @@ tdccjwtetv.com
 tdcwmiprq.com
 tdd.zapto.org
 tddd2023-kmpnyl.xyz
+tdddd.cc.dvrlists.com
 tddenizbank.com
 tddk.site
 tddnmd.top
@@ -408187,6 +408193,7 @@ wewqewnqnnsnnasnnssfrrstlari.com
 wex1faggo.hopto.org
 wexad11.000webhostapp.com
 wexbipddvo.duckdns.org
+wexmri.cc
 wexonlake.com
 wexoprayyyy-62570.portmap.host
 wexznnplhyu.wcnv20.cn
@@ -416479,6 +416486,7 @@ www.nangapia.org.pk
 www.natefi.org
 www.ncgf15.xyz
 www.nckp27.xyz
+www.ndibstersoft.com
 www.ne-ba.org
 www.netmastersllc.com
 www.neuhausimmobilien.com
@@ -419302,6 +419310,7 @@ xmr-eu1.nanopool.org
 xmr.crypto-pool.fr
 xmr.enjoytopic.tk
 xmretr.ddns.net
+xmri.network
 xmrketimenbykfrsatlarkcrmax.online
 xmrminer.f3322.net
 xmrmkrltt.net

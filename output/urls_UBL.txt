@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-23 14:43:09 UTC
-! Total: 351462 rules
+! Last modified: 2026-02-23 15:35:08 UTC
+! Total: 351468 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -82666,6 +82666,7 @@
 *://*.crywxw.website/*
 *://*.cs-turkiye.tk/*
 *://*.cs01.shop/*
+*://*.csadcaskdcjasdakjcdas.cfd/*
 *://*.csadde-dcvtt.com/*
 *://*.csagdjfdhadgadasddasnjd3.top/*
 *://*.csalkldsfkldlkdasdsacsadk.cfd/*
@@ -187039,6 +187040,7 @@
 *://*.k2asdashdhashdhhs99asdhasd2.click/*
 *://*.k2asdhashdhasdhashdhasd.site/*
 *://*.k2ashdahsdhashdhashdas.site/*
+*://*.k2ashdhashdahsdhashdas.site/*
 *://*.k2l8z1yeodm.info/*
 *://*.k2qai2yeodm.net/*
 *://*.k2rdz1yeodm.biz/*
@@ -200217,6 +200219,7 @@
 *://*.ks6wblc.cn/*
 *://*.ks8cb.cc/*
 *://*.ksaabsfkqwsaffasb.site/*
+*://*.ksadcasklckdaskcads.cfd/*
 *://*.ksadcasklckdaskcads.sbs/*
 *://*.ksadhasgda.click/*
 *://*.ksaguna.com/*
@@ -223064,6 +223067,7 @@
 *://*.ndiasalmada.net/*
 *://*.ndiaslamada.net/*
 *://*.ndiasrndvupos.net/*
+*://*.ndibstersoft.com/*
 *://*.ndictnaivet.top/*
 *://*.ndirahubu.net/*
 *://*.ndirandehual.net/*
@@ -325994,6 +325998,7 @@
 *://*.weworkhard.xyz/*
 *://*.wewqewnqnnsnnasnnssfrrstlari.com/*
 *://*.wewsite.tk/*
+*://*.wexmri.cc/*
 *://*.wexonlake.com/*
 *://*.weysg.com.tr/*
 *://*.weystoun.com/*
@@ -334025,6 +334030,7 @@
 *://*.xmlutgdlfxpvdns.cn/*
 *://*.xmmzkrttxlerrxodm.net/*
 *://*.xmponmzmxkxkh.com/*
+*://*.xmri.network/*
 *://*.xmrketimenbykfrsatlarkcrmax.online/*
 *://*.xmrmkrltt.net/*
 *://*.xmrmrdot.net/*
