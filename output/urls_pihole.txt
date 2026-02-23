@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-23 19:53:23 UTC
-# Toplam: 440588 Domain
+# Son Güncelleme: 2026-02-23 20:30:59 UTC
+# Toplam: 440596 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9760,6 +9760,7 @@
 254142875620.online
 254142875630.online
 254142875680.online
+25424545443333.duckdns.org
 254365475678457.cloud
 2545547568.net
 2546.hopto.org
@@ -19876,6 +19877,7 @@
 878e4n1y.duckdns.org
 878nrtl-onllinemrkktxfirsllryla.net
 8795949222-11.cloud
+87984651321321.duckdns.org
 87987918791223897.cfd
 87987987798797987.space
 879879879123897.cfd
@@ -31246,6 +31248,7 @@ adc.flyermobi.com
 adc3sjlx.duckdns.org
 adcgqgkei.duckdns.org
 adcknttogydsbmgow.com
+adclakcskdlacskklsdflkckladca.cfd
 adconfig.appscomeon.com
 adcreators.com.au
 adcrtb.com
@@ -58702,6 +58705,7 @@ basitodemezs.xyz
 basitodemezzs.is-great.net
 basitoldu.com.tr
 basiton.is-best.net
+basitonay.sbs
 basitrndv-d3d0104ca57b.herokuapp.com
 basitrndv24-7af5b06c2cbc.herokuapp.com
 basitrndv25-ce24a1d5628d.herokuapp.com
@@ -99527,6 +99531,7 @@ clrgey1-pttavm.is-best.net
 clrurdwqga.duckdns.org
 cls-mys-system.net
 clsacladkaslckcldalskcldkalasd.cfd
+clsacladkaslckcldalskcldkalasd.sbs
 clsass.ddns.net
 clscdasdjkacsdasd.sbs
 clsl.xyz
@@ -106989,6 +106994,7 @@ cscrm-hiring.com
 cscscs.hopto.org
 cscservicesinfo.com
 cscyzr.csb.app
+csdcascalklkdlascdcasda.sbs
 csdcsdcsdcs2.s3.eu-central-1.amazonaws.com
 csdcsdscsd.top
 csdcvewdayuzbir.hopto.org
@@ -268640,6 +268646,7 @@ mobile-internetfinans.com
 mobile-isbank.com
 mobile-islemlerim2025.duckdns.org
 mobile-jreti.ddns.net
+mobile-kampanya-tk.sbs
 mobile-kampanya.com
 mobile-messengerplus.network
 mobile-notify.ddns.net
@@ -359679,6 +359686,7 @@ subatfirsatlariyenibasladi.cfd
 subatfirsatyakala101.com
 subatgeldifirsatlarikacirma.cfd
 subatgidakampn.com
+subatguzellikleri.com
 subatguzelliklerimiz.com
 subathizli-basladi.org.tr
 subathizliiceptesok.com
