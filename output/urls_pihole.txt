@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-23 16:40:23 UTC
-# Toplam: 440550 Domain
+# Son Güncelleme: 2026-02-23 17:53:04 UTC
+# Toplam: 440582 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -221,6 +221,8 @@
 010101032kk33.cloud
 0101012031010.duckdns.org
 0101012323.cloud
+01010235554l.duckdns.org
+01010245554l.duckdns.org
 010109434-111.duckdns.org
 0101650301-123.cloud
 0101sv.ddns.net
@@ -1933,6 +1935,7 @@
 101-bugun-firsatkapinda.com
 101-bugun.shop-mobil-tr.com
 101-bugune-ozel-mobil-tr.online-shop-tr.com
+101-bugune-ozel-ramazan-indirimleri-tr.mooo.com
 101-cadir26temmuz.com
 101-cepte.com.tr
 101-cesmesubemiz.com
@@ -9659,6 +9662,7 @@
 25-subatfirsatlar.shop
 25-tok-elkraln.sbs
 25-yil-acik-deniz.cf
+25.215.204.92.host.secureserver.net
 250-000-111lll1.duckdns.org
 250-000-11l11.duckdns.org
 250-000ll-11-1l.duckdns.org
@@ -45567,6 +45571,7 @@ aniymansngihynenrne.com
 anjanaspernheavily.info
 anjau2.cfd
 anjlicensed.com
+anjsdntyqtqt.cfd
 ank1mo.hopto.org
 ank342543c.com
 anka-token.com
@@ -59997,6 +60002,7 @@ basvuru-formum.com
 basvuru-forumu-gov-tr.com
 basvuru-garanti-bbva.com.tr
 basvuru-genelge.tk
+basvuru-gir-iss.sbs
 basvuru-gir.xyz
 basvuru-girisekrani.cfd
 basvuru-girisi.cf
@@ -64615,6 +64621,7 @@ belgedogrulama.sistemiturkiye.org
 belgedogrulamaonay.org
 belgeiadeniz.com
 belgeislemleri.xyz
+belgejet.xyz
 belgekayitet.com
 belgekontrolet.com
 belgekoruma.pro
@@ -126727,6 +126734,7 @@ dsfdg.sbs
 dsfdsfkjsdfshg.click
 dsfdsfklkjsaiu.top
 dsfe3w.is-best.net
+dsfgfdstgftwerrfdasddfasrfew.click
 dsfghgs.net
 dsfghjkl.website
 dsfghjkljjbhc.cloud
@@ -142264,6 +142272,7 @@ elephant.zzux.com
 elephantintheroomproductions.net
 eleronixzkt.gq
 elervah.com
+elesandan.shop
 eletiribabapors.xyz
 eletropau.ddns.net
 elettroveneta-it.com
@@ -158501,6 +158510,7 @@ firsatimaktuel-101.name.tr
 firsatimal.com
 firsatimbnkampanya.net
 firsatimbufirsat-vakti.site
+firsatimburadayani.com
 firsatimburdakatil.net
 firsatimceptedenizle2024.xyz
 firsatimceptesok.xyz
@@ -171191,6 +171201,7 @@ get-ile-odeme-yap-guvenle-alisverisler.buzz
 get-ile-paramguvende.com
 get-ile-satin-al.online
 get-islem.mywire.org
+get-islemler-alisveris.online
 get-islemler.net
 get-license2.com
 get-lifetime-badge-v.vercel.app
@@ -172924,6 +172935,7 @@ giris-tr-facebook.com
 giris-tr-gov.org
 giris-tr-link-iadeler.biz
 giris-tr-link-iadeler.org
+giris-tr-mobiltr.sbs
 giris-tr.basvurulink-tr.cloud
 giris-tr.blogspot.com
 giris-tr.com
@@ -188887,6 +188899,7 @@ hasretindenoleyimmi.com
 hasretlegez.net
 hasretruzgarlari.com
 hasrettimbensanaa.xyz
+hasretykkrrr.sbs
 hasrkaydisorgu.net
 hasrkydsendsrohgla.site
 hasrlakolasay.net
@@ -221334,9 +221347,11 @@ isletme-yardimi.com
 isletmebilgisi.cfd
 isletmedestegi.click
 isletmedestegi.com
+isletmedestekk.com
 isletmedestekleri.com
 isletmedestekleri2026.cfd
 isletmedestekmerkezi.com
+isletmedesteksorgula.com
 isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
@@ -222081,6 +222096,7 @@ istanbuldasin.net
 istanbuldasin.site
 istanbuldasinbizimle.mooo.com
 istanbuldayizknkmla.sa.com
+istanbuldazipla.shop
 istanbulddollmyeri.net
 istanbuldealflow.com
 istanbuldestekk.com
@@ -223289,6 +223305,7 @@ istmfathtermadam.net
 istmhkbcxbn.com
 istmhkfshsdcc.com
 istmhkhmn.com
+istmhkhsdfbcxbb.com
 istmhknbcxbv.com
 istmhkncv.com
 istmhknmc.com
@@ -244364,6 +244381,7 @@ kolay-ca-kapinda-arass-hizzmeteri.com
 kolay-gecislerii.22web.org
 kolay-iade.com
 kolay-kolay.com
+kolay-onay.cfd
 kolay-onay.sbs
 kolay-paketleme.ml
 kolay-sepetim-tr.online
@@ -244497,6 +244515,7 @@ kolaykredibasvuru.top
 kolaykredibasvurunuz.top
 kolaykredihesaplamahalkbankasi.blogspot.com
 kolaykrediler.com
+kolaylik-seninle.sbs
 kolaylikla-devlet-destekleri.com
 kolaylikla-devletdestekleri.com
 kolayliklarsaglanir.duckdns.org
@@ -252488,6 +252507,7 @@ linpttinteraktif.com
 linq.ink
 linshenlubosuxingwenqingsilansixin.top
 linshor.com
+lint-g-r-n-l.my-homeip.de
 lint18.com
 lintant.top
 linteling.com
@@ -258794,6 +258814,7 @@ malifalinali.work
 malignantsymposium.top
 malignantvicinity.top
 malihukuk.org
+maliidari.org
 maliidosya.com
 maliindam.xyz
 maliiyedosyasorgula.com
@@ -264757,6 +264778,7 @@ mhlbsrppvj.duckdns.org
 mhlks1uu.duckdns.org
 mhllrsgislsrs.com
 mhllrsgislsrs.net
+mhlmrsnzslere.mooo.com
 mhmgmntssas.net
 mhmhmhmhmrnvds-brd-mobil.web.app
 mhmngr6usp1gu7r2hi.biz
@@ -267316,6 +267338,7 @@ mobil-girisedevlet-portal.tk
 mobil-girisi.site
 mobil-girisi.xyz
 mobil-girisleri-aktif.sbs
+mobil-girisleri-onlline.cfd
 mobil-girisleriniz-aktifa.sbs
 mobil-girisonline-portal.tk
 mobil-giriss-bassvur.sbs
@@ -285075,6 +285098,7 @@ oaknhetegg.duckdns.org
 oakpelican.top
 oakrussia.ru
 oaksdjhtuenhed.net
+oaksnf9oiaywe.cfd
 oaktua1o1.com
 oam-wellsecure.ddns.net
 oammaqqdqq.duckdns.org
@@ -291120,6 +291144,7 @@ onlinegirisleribnnatr.com
 onlinegirisleribnstr.com
 onlinegirismerkez-hizlibasvurma.com
 onlinegirismerkezi.com
+onlinegirismobile.com
 onlinegirisparimtr.com
 onlinegirisplatform-webgirtr.com
 onlinegirisprb.com
@@ -321017,6 +321042,7 @@ ramazanaozelkampanyagaranti.line.pm
 ramazanaozelkampanyalar-1.com
 ramazanaozelkampanyalipuanlar.cf
 ramazanaozelkatilmalisin.net
+ramazanaozelkredi1.duckdns.org
 ramazanaozelkredi2.duckdns.org
 ramazanaozellfirsatlarkapinizda.online
 ramazanaozelpt-tal.cfd
@@ -323549,6 +323575,7 @@ reductiontrim.top
 redundancycognitive.top
 redundancysinister.top
 redvelvet.ddns.net
+redwbnbnc.click
 redweb.tech
 redwoodrest.world
 redxfeli.zapto.org
@@ -329959,6 +329986,7 @@ sabancitradeinvestment.com
 sabanciturkiye.com
 sabancivakfigroup.com
 sabanciyardimvakfi.com
+sabanciyatirim-programi.com
 sabanciyatirim.online
 sabanciyatirimlari.com
 sabane.xyz
@@ -337577,6 +337605,7 @@ scream879.xyz
 screamcensor.top
 screamwee.top
 screen-security.com
+screen-shot-maker-replitappbasv.replit.app
 screen.kedi.cloud
 screenai.online
 screenicon.top
@@ -374003,6 +374032,7 @@ toki-onlinebasvurumlari.vercel.app
 toki-onlinebasvurumlarin.vercel.app
 toki-onlinemobilbasvuru.vercel.app
 toki-projeleri-basvuru.cfd
+toki-projeleri-basvuru.sbs
 toki-projeleri.com
 toki-slv-basvuru.com
 toki-slv-basvuru.info
@@ -405464,6 +405494,7 @@ web3withbinance.com
 web4311.coinbase-com.info
 web5041.web07.bero-webspace.de
 web55623143.nicepage.io
+web5562314533.nicepage.io
 web5564564333.nicepage.io
 web5564564564.nicepage.io
 web724avm.net
@@ -427607,6 +427638,7 @@ yar7-yukleme.22web.org
 yaradanasoryaradandanoturu.fit
 yarakanan.my-homeip.com
 yarakilometre.cfd
+yaraksal.cc.dvrlists.com
 yarakus5g6gg.ddns.net
 yaramamerhem.farkxvar.xyz
 yaraminkafasinahosgeldniz.online
