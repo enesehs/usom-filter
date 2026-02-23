@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-23 10:37:35 UTC
-! Total: 351422 rules
+! Last modified: 2026-02-23 11:30:48 UTC
+! Total: 351429 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26603,6 +26603,7 @@
 *://*.aktuelfirsatlar.info.tr/*
 *://*.aktuelfirsatlar.net.tr/*
 *://*.aktuelfirsatlar.org.tr/*
+*://*.aktuelfirsatlar.shop/*
 *://*.aktuelfirsatlaralisverisredmi.cfd/*
 *://*.aktuelfirsatlaralisverisredmi.sbs/*
 *://*.aktuelfirsatlaralisverisredmi7.sbs/*
@@ -125679,6 +125680,7 @@
 *://*.firsat-familia.org.tr/*
 *://*.firsat-fastclickcampaignnance.cloud/*
 *://*.firsat-finansesubem.com/*
+*://*.firsat-garant.click/*
 *://*.firsat-garantibonus.com/*
 *://*.firsat-geceisi-almayan-kalmasin.icu/*
 *://*.firsat-geceisi.icu/*
@@ -134744,6 +134746,7 @@
 *://*.gcqntrvojbpmnrg.ru/*
 *://*.gcrg.in/*
 *://*.gcskgwmodemsi.com/*
+*://*.gcslerde.com/*
 *://*.gcsodemeleraxcz.net/*
 *://*.gcss-hwwx.net/*
 *://*.gcss-hwwy.net/*
@@ -179800,6 +179803,7 @@
 *://*.istanbulk.digital/*
 *://*.istanbulkaarrt.net/*
 *://*.istanbulkadar.shop/*
+*://*.istanbulkadarsanhemengel.shop/*
 *://*.istanbulkafrt.net/*
 *://*.istanbulkalbim.shop/*
 *://*.istanbulkankisi.net/*
@@ -180096,6 +180100,7 @@
 *://*.istanbulmus-hehe.net/*
 *://*.istanbulnoktasi.info/*
 *://*.istanbulnormalyukle.net/*
+*://*.istanbulnova.shop/*
 *://*.istanbulocakta.shop/*
 *://*.istanbulodemenoktasihizmeti.net/*
 *://*.istanbulogren.shop/*
@@ -180929,6 +180934,7 @@
 *://*.istnblmkartm.net/*
 *://*.istnblmkarttm.net/*
 *://*.istnblmkkyldkrtt.net/*
+*://*.istnblmkn.com/*
 *://*.istnblmsnzsavardks.com/*
 *://*.istnblmzdasnzdsfmgln.com/*
 *://*.istnblmzdavarsksbn.com/*
@@ -286996,6 +287002,7 @@
 *://*.suandakargoislemlerinizburadaninfo.com/*
 *://*.suanfirsatbanceicinbasvurukampanyasi.tech/*
 *://*.suantamzamani.net/*
+*://*.suaporta-shokcfd-sokkdd22.cfd/*
 *://*.suarapapua.co/*
 *://*.suarinecnderate.top/*
 *://*.suatxasdf.com.tr/*
