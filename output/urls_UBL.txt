@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-23 11:30:48 UTC
-! Total: 351429 rules
+! Last modified: 2026-02-23 12:33:36 UTC
+! Total: 351441 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7521,6 +7521,7 @@
 *://*.2aylak.org/*
 *://*.2b-coinbase.com/*
 *://*.2b3f258e4411h.net/*
+*://*.2b9x3h7s8n6f4mqakv.cfd/*
 *://*.2bbaybimcell.net/*
 *://*.2bd.net/*
 *://*.2bimcell.net/*
@@ -131622,6 +131623,7 @@
 *://*.garant-firsatadres.lat/*
 *://*.garant-firsatadres.xyz/*
 *://*.garant-firsatadreste.pro/*
+*://*.garant-firsatlar.click/*
 *://*.garant-firsatlar.pro/*
 *://*.garant-firsatsube.click/*
 *://*.garant-firsatsube.lat/*
@@ -178429,6 +178431,7 @@
 *://*.iscnbmbell.net/*
 *://*.iscp-kampnya.com.tr/*
 *://*.iscp-kmpnya.com/*
+*://*.iscple.cfd/*
 *://*.iscredi.com.tr/*
 *://*.iscrowdstrikedown.com/*
 *://*.iscta-necoali.click/*
@@ -188853,6 +188856,7 @@
 *://*.kampanya-onlayn-bizden-800tl-com.tk/*
 *://*.kampanya-online-900tl-giris-com.cf/*
 *://*.kampanya-online-giris-com.cf/*
+*://*.kampanya-online.click/*
 *://*.kampanya-online.com.tr/*
 *://*.kampanya-ozel.com/*
 *://*.kampanya-ozel.net/*
@@ -195340,6 +195344,7 @@
 *://*.khoumainis.com/*
 *://*.khpcbznsl.com/*
 *://*.khpeccmemed.net/*
+*://*.khphel.homes/*
 *://*.khpnnccgmemed.net/*
 *://*.khprj.com/*
 *://*.khprycemd.com/*
@@ -197193,6 +197198,9 @@
 *://*.kmpnyabsladibtctrkdagtyr.com/*
 *://*.kmpnyabsvrgrntt.info/*
 *://*.kmpnyabsvronline.click/*
+*://*.kmpnyacklsbsvruu.info/*
+*://*.kmpnyacklsbsvruu.live/*
+*://*.kmpnyacklsbsvruu.pro/*
 *://*.kmpnyafrsatlarmm.com/*
 *://*.kmpnyafrsatlarnz.com/*
 *://*.kmpnyagaranti.online/*
@@ -231680,6 +231688,7 @@
 *://*.onhekim.com/*
 *://*.oni7gi8baw.cloud/*
 *://*.oniiine-ynlendirmaktarim.site/*
+*://*.oniine-lndirim-flrsatlari.me/*
 *://*.oniineaktarimlareknai.store/*
 *://*.oniineozelfirsatlar.online/*
 *://*.onikiodeme.tk/*
@@ -232540,6 +232549,7 @@
 *://*.online-kampanya-com.cfd/*
 *://*.online-kampanya-katilim-binance.ml/*
 *://*.online-kampanya-sube.click/*
+*://*.online-kampanya.click/*
 *://*.online-kampanya.site/*
 *://*.online-kampanyalar-giris.com/*
 *://*.online-kampanyalar.online/*
@@ -233831,6 +233841,7 @@
 *://*.onlinegiris.com/*
 *://*.onlinegiris.net/*
 *://*.onlinegiris.website/*
+*://*.onlinegiris2026tr.com/*
 *://*.onlinegiris27849234.com/*
 *://*.onlinegirisaktiftr.com/*
 *://*.onlinegirisbn-hediyelerson.com/*
@@ -335868,6 +335879,7 @@
 *://*.xn--harvestcopy-ue3f.top/*
 *://*.xn--hasarkaydsorgulama-m0c.net/*
 *://*.xn--hataygvenotomasyon-r6b.net/*
+*://*.xn--havalimaniarakiralama-e4b.com/*
 *://*.xn--hayat-denzde-guzel-basvuru2020denz-jcfy.com/*
 *://*.xn--hayat-denzde-guzel-m0c.com/*
 *://*.xn--hayat-denzde-guzelbasvuru2020-8le.com/*
