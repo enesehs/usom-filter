@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-22 23:13:34 UTC
-# Toplam: 440458 Domain
+# Son Güncelleme: 2026-02-23 01:00:26 UTC
+# Toplam: 440460 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16869,6 +16869,7 @@
 654375632757.com
 6543etfd2-33357.portmap.host
 65446513265464565465.cloud
+6545131l11.duckdns.org
 65456735online.ddns.net
 654644321.duckdns.org
 65464646333.cloud
@@ -247130,6 +247131,7 @@ krtldatbasvr.com
 krtlhomenesfleskplekssad.cloud
 krtlsldkvrdklbrs.shop
 krtrzbst.xyz
+krtv-lo-g-r-n-lo.my-homeip.de
 kruhnhgnllll.space
 krukenzlogln.webflow.io
 kruktech.shop
