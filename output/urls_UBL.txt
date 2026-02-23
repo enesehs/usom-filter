@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-23 08:33:54 UTC
-! Total: 351417 rules
+! Last modified: 2026-02-23 09:39:55 UTC
+! Total: 351422 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9866,6 +9866,7 @@
 *://*.500tlaidatiniz.com/*
 *://*.500tokibasvur.xyz/*
 *://*.500toktokteslimat.sbs/*
+*://*.500ucus.sbs/*
 *://*.500usddoge.com/*
 *://*.500usddogebasvur.com/*
 *://*.500usddogehediyeli.com/*
@@ -161349,6 +161350,7 @@
 *://*.hizlisigortanyeni.com.tr/*
 *://*.hizlisiiparis1agustos.cloud/*
 *://*.hizlisilemadresinizadiatburda.online/*
+*://*.hizlisilembrudsjr.store/*
 *://*.hizlisilemrsnede.xyz/*
 *://*.hizlisindankapinda.cfd/*
 *://*.hizlisipairslerindne21temmuz.cloud/*
@@ -238134,6 +238136,9 @@
 *://*.ozelpaketlerim.com/*
 *://*.ozelpandemidesteklemeleri.com/*
 *://*.ozelperakende.com.tr/*
+*://*.ozelpromosyonbsvru.info/*
+*://*.ozelpromosyonbsvru.site/*
+*://*.ozelpromosyonbsvru.xyz/*
 *://*.ozelsaglikhizmeti.cf/*
 *://*.ozelsaglikhizmetim.cf/*
 *://*.ozelsaglikhizmetleri.cf/*
