@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-23 13:59:13 UTC
-! Total: 351450 rules
+! Last modified: 2026-02-23 14:43:09 UTC
+! Total: 351462 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21766,6 +21766,7 @@
 *://*.ahjgcfbl.com/*
 *://*.ahjuric.si/*
 *://*.ahkalleode.net/*
+*://*.ahkarandar.com/*
 *://*.ahkemkombinesdonicenis.site/*
 *://*.ahkgfhakgfsaufsad.cloud/*
 *://*.ahkmi.com/*
@@ -36077,6 +36078,7 @@
 *://*.aslnkartnmnackslan.cfd/*
 *://*.aslnkrtreklmsdknmkl.cfd/*
 *://*.aslpls.io/*
+*://*.aslssmgkw.cfd/*
 *://*.aslsverisparisi.com/*
 *://*.aslurtykndfnmanklar.cfd/*
 *://*.asmadern.com/*
@@ -47022,6 +47024,7 @@
 *://*.benibilmiyodinliyotaklidimi.xyz/*
 *://*.benibitirdin.com/*
 *://*.benicildirtmeyinkoyarimsi.site/*
+*://*.beniidsnnme.org/*
 *://*.benikepenkereyegetirdin.com/*
 *://*.benim-basvur-bireysel-formu-online.ml/*
 *://*.benim-kendi-resim-sayfam-ozel.com/*
@@ -71100,6 +71103,7 @@
 *://*.casavaldeseroma.com/*
 *://*.casawds.com/*
 *://*.casbygroup.com/*
+*://*.casclsdklcdldsdkacklds.sbs/*
 *://*.cascnqnwfqw.click/*
 *://*.casconut.xyz/*
 *://*.casdasfasccz.net/*
@@ -76611,6 +76615,7 @@
 *://*.clpclptrefinder.com/*
 *://*.clqbtkogbeycdrp.su/*
 *://*.cls-mys-system.net/*
+*://*.clsacladkaslckcldalskcldkalasd.cfd/*
 *://*.clscdasdjkacsdasd.sbs/*
 *://*.clsl.xyz/*
 *://*.clslk.com/*
@@ -86304,6 +86309,7 @@
 *://*.dellenmis.com/*
 *://*.delll.xyz/*
 *://*.dellliiindiirmler.com.tr/*
+*://*.dellojistik.com/*
 *://*.dellyou.com/*
 *://*.delmarlc.net/*
 *://*.delpaseek.com/*
@@ -139548,6 +139554,7 @@
 *://*.gncall-onllinemrkktxfirsllryla.net.tr/*
 *://*.gnccllmrktfixrrstllr-yniee.net/*
 *://*.gncdlkmtskwr.info/*
+*://*.gnceazcrforsamarket.cfd/*
 *://*.gncel-kamtak-2420kw.shop/*
 *://*.gncel-kamtak-2420kws.shop/*
 *://*.gncelenensistemedvltiad-e.com/*
@@ -197671,6 +197678,7 @@
 *://*.kobi-tr-paraf.com/*
 *://*.kobibasvurunutamamla-12.cloud/*
 *://*.kobibilgilendirme.cfd/*
+*://*.kobibilgilendirmeleri.com/*
 *://*.kobidenizbank.com/*
 *://*.kobidestek-formu.org/*
 *://*.kobidestekbasvuru.com.tr/*
@@ -209404,6 +209412,7 @@
 *://*.markazibank.website/*
 *://*.markazincirlerin.com/*
 *://*.markconstituent.top/*
+*://*.marke-tkapinda-s-okaadd.cfd/*
 *://*.markel-servicedesk.com/*
 *://*.markenzisight.pro/*
 *://*.markerking1.cfd/*
@@ -218559,6 +218568,7 @@
 *://*.mrhmkrksmmm.net/*
 *://*.mrhmtrylmzrnd.com/*
 *://*.mrhpv.com/*
+*://*.mrhsrrere.cfd/*
 *://*.mrjeay.top/*
 *://*.mrjicruyc.info/*
 *://*.mrkerli4.com/*
@@ -304024,6 +304034,7 @@
 *://*.trendyolgain.com/*
 *://*.trendyolgain1.com/*
 *://*.trendyolgomobil.com.tr/*
+*://*.trendyolgopartner.com/*
 *://*.trendyolgroupu.com/*
 *://*.trendyolgunceladres.com/*
 *://*.trendyolgunceladres.org/*
@@ -312836,6 +312847,7 @@
 *://*.uppernumerous.top/*
 *://*.upperseminar.top/*
 *://*.uppertrainingtool.com/*
+*://*.uppish.cfd/*
 *://*.uppnfubcjaaqcon.ru/*
 *://*.uppscalee.com/*
 *://*.uppttgov.click/*
