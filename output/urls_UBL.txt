@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-24 22:23:54 UTC
-! Total: 351594 rules
+! Last modified: 2026-02-24 23:23:46 UTC
+! Total: 351598 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42976,6 +42976,7 @@
 *://*.basvuru-onlinne.sbs/*
 *://*.basvuru-osym.com/*
 *://*.basvuru-osym.online/*
+*://*.basvuru-ox.cfd/*
 *://*.basvuru-ozel-aidat-geri-iade.com/*
 *://*.basvuru-paariibuhediyeteknolojisi-com.tk/*
 *://*.basvuru-paribuhediye1teknolojisi-com.tk/*
@@ -112117,6 +112118,7 @@
 *://*.ekonomihub.net/*
 *://*.ekonomihub.online/*
 *://*.ekonomik-20gb-turkcell.com/*
+*://*.ekonomik-hikayeler.info/*
 *://*.ekonomik-internet-turkcell.com/*
 *://*.ekonomik-paket-20gb-turkcell.com/*
 *://*.ekonomik-paket20-turkcell.com/*
@@ -189033,6 +189035,7 @@
 *://*.kampanya10gbkatilim.com/*
 *://*.kampanya10gbkatilimformu.com/*
 *://*.kampanya10gbramazaniserif.com/*
+*://*.kampanya1101.com/*
 *://*.kampanya2020-basvurum-denizbank.com/*
 *://*.kampanya2024.com/*
 *://*.kampanya20gb-hayatevesigar.com/*
@@ -348519,6 +348522,7 @@
 *://*.zerenem.net/*
 *://*.zerenprofessional.com/*
 *://*.zerfano.com/*
+*://*.zergim.xyz/*
 *://*.zerhgsz.com/*
 *://*.zeriio.com/*
 *://*.zerit.top/*
