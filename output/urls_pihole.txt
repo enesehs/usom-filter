@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-24 21:23:06 UTC
-# Toplam: 440714 Domain
+# Son Güncelleme: 2026-02-24 22:23:54 UTC
+# Toplam: 440720 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -74,6 +74,7 @@
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
+0000404041lk4.duckdns.org
 00004040440.duckdns.org
 000051139707.ddns.net
 000051139708.ddns.net
@@ -91807,6 +91808,7 @@ carfourrrsa.best
 carfourrse.com
 carfoursa.site
 carfoursa10koli.com
+carfoursrmddn.online
 carfoussa.shop
 carfoussa.xyz
 carfrdasirada.cfd
@@ -168074,6 +168076,7 @@ garantl-bbva.online
 garantl-mobil.com
 garantl-web-subesi.jumpingcrab.com
 garantl.com
+garantl.otzo.com
 garantlbbva.com
 garantlbbva.mefound.com
 garantlbbva.misecure.com
@@ -237329,6 +237332,7 @@ kartalilereklamvakti.com
 kartalilesahuradogru.com
 kartalisreklam.duckdns.org
 kartalkgm.com
+kartalkkk.bounceme.net
 kartallafirsatlarbitmez.com
 kartallafirsatlarimbitmez.duckdns.org
 kartalonlines277.duckdns.org
@@ -243353,6 +243357,7 @@ kmmfgdjnmkfgdv.shop
 kmmgwgnety.duckdns.org
 kmmhasrraraba.com
 kmmksorgulamafvemuzu.web.app
+kmmksorgulamagovpttyapomo.duckdns.org
 kmmksorgulamakremyattikkaya.duckdns.org
 kmmksrglumagovpttamat.com.mooo.com
 kmmksrglumagovpttamat2.com.mooo.com
@@ -434173,6 +434178,7 @@ yryghbd.com
 yryirpaobfiohkb.su
 ys0h8.uqauv.cn
 ys0ynwuo.duckdns.org
+ys245fatg4hgsd37fd.click
 ys3cdph.duckdns.org
 ys9tyoj.duckdns.org
 ysbismakinalari.com
