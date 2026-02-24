@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-24 10:35:17 UTC
-# Toplam: 440638 Domain
+# Son Güncelleme: 2026-02-24 11:30:51 UTC
+# Toplam: 440648 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -92,6 +92,7 @@
 000agustoskampanya232.com
 000agustoskampanya232.online
 000bjat.cn
+000cc3.blogspot.com
 000extranet.pinsents.ne13e.coinbase-com.info
 000lsbank000.com
 000webhostapp.com
@@ -26264,6 +26265,7 @@ abdesslamgx.ddns.net
 abdestbozanabdesthane2.com
 abdestliabidemsi.com
 abdicevikulasim.ml
+abdiibrahimlifta.info
 abdimnasdlo.vercel.app
 abdirahmanguerra0471.website
 abdnxsijcvwjsp.com
@@ -41935,6 +41937,7 @@ alicengizalien.ml
 aliceplants.com
 aliciabayl.com
 aliciazapaterias.es
+alicibilgilerin.space
 alicikoruma.site
 alicoyasiyor.site
 alidatsorqula.dev
@@ -55486,6 +55489,7 @@ b.coinbase-com.info
 b.cortanazone.com
 b.discoverahuge.xyz
 b.dravencia.sbs
+b.filisadlgkmas.cfd
 b.googie.pw
 b.i761bd.coinbase-com.info
 b.link
@@ -161075,6 +161079,7 @@ flrsatpersembegunlolerindeozel.site
 flrsatpersembetermosslar.store
 flrsatsimdisikisvakti2.top
 flrsatsimdisikisvakti3.top
+flrsatsizlerramazandaozelsok.shop
 flrsatsizolursokhemenkos.store
 flrsatsmdigeldi.shop
 flrsatsokkkpanyalardahemenflrsatals.store
@@ -204402,6 +204407,7 @@ htlgnjg-gwenivcls.com
 htloctmain25.blogspot.com
 htlr.ddns.net
 htmailler.duckdns.org
+htmalcnncttonw.appspot.com
 htmerkezisbilgi.sbs
 htmjnklkrmxg.space
 html-bilisim.com
@@ -223341,6 +223347,7 @@ istmhknbcxbv.com
 istmhkncv.com
 istmhknmc.com
 istmhknnvbcv.com
+istmhknvcnbcv.com
 istmhndvcx.com
 istmknbvcbcvc.com
 istmkrgshdfc.com
@@ -257098,6 +257105,7 @@ macapplesystemcloudesecureservercode91storageserversecurities.info
 macarenaluis.hopto.org
 macaristandaegitim.com
 macaronloop.com
+macaronotel.com
 macartevitale-ameli.ddns.net
 macartevitale.hopto.org
 macawiwmaacckuow.xyz
@@ -263522,6 +263530,7 @@ mercadolibrcf.shop
 mercadolibres.qpon
 mercadomyjoin.hopto.org
 mercadora.net
+mercadoshok1.cfd
 mercadostands.hopto.org
 mercair-help1.duckdns.org
 mercantilcapitalgroup.com
@@ -270762,6 +270771,7 @@ morfanya-merkez-bankasi.ml
 morfeucarder.duckdns.org
 morfo0qi.duckdns.org
 morgan-chase.ddns.net
+morgan-versus-chronic-concentrate.trycloudflare.com
 morgan346.xyz
 morganmorrison634.xyz
 morganserver-update.hopto.org

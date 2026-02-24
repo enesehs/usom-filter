@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-24 10:35:17 UTC
-! Total: 351533 rules
+! Last modified: 2026-02-24 11:30:51 UTC
+! Total: 351540 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -16072,6 +16072,7 @@
 *://*.abdestbozanabdesthane2.com/*
 *://*.abdestliabidemsi.com/*
 *://*.abdicevikulasim.ml/*
+*://*.abdiibrahimlifta.info/*
 *://*.abdirahmanguerra0471.website/*
 *://*.abdnxsijcvwjsp.com/*
 *://*.abdsc1.site/*
@@ -28437,6 +28438,7 @@
 *://*.aliceplants.com/*
 *://*.aliciabayl.com/*
 *://*.aliciazapaterias.es/*
+*://*.alicibilgilerin.space/*
 *://*.alicikoruma.site/*
 *://*.alicoyasiyor.site/*
 *://*.alidatsorqula.dev/*
@@ -124631,6 +124633,7 @@
 *://*.filifilm.com.br/*
 *://*.filinta.cfd/*
 *://*.filipp-kirkorov.com/*
+*://*.filisadlgkmas.cfd/*
 *://*.filistinramazanbagisi.shop/*
 *://*.filistinyardim.com/*
 *://*.filizlenen-iyilikler-bizcede-size-uygun.com/*
@@ -128543,6 +128546,7 @@
 *://*.flrsatpersembetermosslar.store/*
 *://*.flrsatsimdisikisvakti2.top/*
 *://*.flrsatsimdisikisvakti3.top/*
+*://*.flrsatsizlerramazandaozelsok.shop/*
 *://*.flrsatsizolursokhemenkos.store/*
 *://*.flrsatsmdigeldi.shop/*
 *://*.flrsatsokkkpanyalardahemenflrsatals.store/*
@@ -180879,6 +180883,7 @@
 *://*.istmhkncv.com/*
 *://*.istmhknmc.com/*
 *://*.istmhknnvbcv.com/*
+*://*.istmhknvcnbcv.com/*
 *://*.istmhndvcx.com/*
 *://*.istmknbvcbcvc.com/*
 *://*.istmkrgshdfc.com/*
@@ -207471,6 +207476,7 @@
 *://*.macapplesystemcloudesecureservercode91storageserversecurities.info/*
 *://*.macaristandaegitim.com/*
 *://*.macaronloop.com/*
+*://*.macaronotel.com/*
 *://*.macawiwmaacckuow.xyz/*
 *://*.macbartender.lat/*
 *://*.maccaffe.com/*
@@ -212342,6 +212348,7 @@
 *://*.mercadolibrcf.shop/*
 *://*.mercadolibres.qpon/*
 *://*.mercadora.net/*
+*://*.mercadoshok1.cfd/*
 *://*.mercantilcapitalgroup.com/*
 *://*.mercdes-tr.com/*
 *://*.mercdsbenztr.net/*
