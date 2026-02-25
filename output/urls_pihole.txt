@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-24 23:23:46 UTC
-# Toplam: 440725 Domain
+# Son Güncelleme: 2026-02-25 01:03:21 UTC
+# Toplam: 440733 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2193,6 +2193,7 @@
 101202303404505.info
 101202303404505.site
 1014903274.corolain.ru
+1014952.duckdns.org
 1015664156.corolain.ru
 10156749948413.cloud
 1016143934.corolain.ru
@@ -15117,6 +15118,7 @@
 513xvi5z3mlyu9is.com
 51433245.life
 514552145225.cloud
+5147524598584638415615416.duckdns.org
 51514344.duckdns.org
 5151501011.duckdns.org
 51516161.com
@@ -152810,6 +152812,7 @@ ez0a1s5dz.storage.googleapis.com
 ez2convertapp.com
 ez2x57n1.duckdns.org
 ez6jt5.duckdns.org
+eza.22web.org
 ezasi0od0.duckdns.org
 ezaxgjrqi.com
 ezaypq.info
@@ -219318,6 +219321,7 @@ isaidatiadebsvuru-tr.com
 isak.desdek-basvuru-kampanyalari-ozel.xyz
 isaktifbasvurular.b-cdn.net
 isallanhanmhanmhanmbnanamamnanmahamhnamn.xyz
+isan.22web.org
 isanbulklkn.net
 isandrix.net
 isantander.hopto.org
@@ -225285,6 +225289,7 @@ iybwilvl.info
 iyddqoapepjlrjo.su
 iydnvhyt.online
 iydtr.duckdns.org
+iyea.22web.org
 iyedess.ddns.net
 iyefkpqrjnee.space
 iyegov.dev
@@ -253169,6 +253174,7 @@ lkriongx.com
 lkrkysr0o.online
 lkrtweaas342.duckdns.org
 lkrvmb.xyz
+lksacdlcakldakclasdaklsads.sbs
 lksadl213jfdsjfas3-sd12312.shop
 lksadnlkj.net
 lksdlslnlknslnm.net
@@ -318091,6 +318097,7 @@ qnbbank.vercel.app
 qnbbankasl.top
 qnbbankonline.com
 qnbbankqnb.vercel.app
+qnbbasvur.mefound.com
 qnbbasvuru.online
 qnbbasvuruaidat-tr.com
 qnbbasvuruaidat.com
@@ -374131,6 +374138,7 @@ toki-ilkevbasvuruyap.vercel.app
 toki-ilkevim.cfd
 toki-ilkevim.com
 toki-ilkevim.duckdns.org
+toki-ilkevim.org
 toki-ilkevim.shop
 toki-islemim.online
 toki-islemleri.click
