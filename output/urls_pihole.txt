@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-25 07:42:38 UTC
-# Toplam: 440745 Domain
+# Son Güncelleme: 2026-02-25 08:33:02 UTC
+# Toplam: 440778 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2457,6 +2457,7 @@
 101guvenilir-alisveris.com
 101guzelfirsatlar.duckdns.org
 101haftaniinurunu-toshiba50tv.vercel.app
+101haftaninfrstlari.duckdns.org
 101haftaninyildizurunukapinda.vercel.app
 101haftaninyildzlaricomtr.vercel.app
 101hamaza.com
@@ -11176,6 +11177,7 @@
 30-mayis-akfirsatlar.online
 30-nisan-a101.free.nf
 300-png.com
+3000-id7k34wo3pb61w0zltx84-413525b9.sg1.manus.computer
 300000010010001.cloud
 300000kuvvv.shop
 3000444299823.cloud
@@ -22230,6 +22232,7 @@ a--10-1den-aralk-flrsatlari.cfd
 a--10-1den-kmpyanlar.sbs
 a--10-1den-ynliyliaozei.sbs
 a--10-1snal-mrklet-com.sbs
+a--101-comtr.cfd
 a--101-firsatlarri.online
 a--101.online
 a--haber-govtrr.org
@@ -67422,6 +67425,7 @@ bilinenhizmet.com
 bilinenler-biraz-fazla-iyi-hissedip-alinir.com
 bilinenler.sbs
 bilinenlere-ilk-gorundugun-seylerden-ugrar.com
+bilinenyuksek.homes
 bilingualsfe.info
 bilinir-buralarda-olanlari-kosturup-sevgilere.com
 bilinire-tamlayan-acilari-birazda-su-serpmeye-geliriz.com
@@ -84226,6 +84230,7 @@ briloza.org
 brimvakfbankmobil.tk
 brinchil.xyz
 brindlethorn.shop
+brineluxa.com
 brinematriscript.com
 brinestoum.com
 brinestoun.com
@@ -126398,6 +126403,7 @@ drillrotten.top
 drillseductive.top
 drillworry.top
 drilmaop.hopto.org
+drimolatu.com
 drimplix.com
 driniljjjilijjilijllia.com
 drink22.xyz
@@ -126411,6 +126417,7 @@ drinkypalapp.com
 dripclient.ddns.net
 dripobservatory.top
 dripprogram.top
+dripstyle.bond
 driptempo.top
 driqfmtvfwnnjltb.com
 dris.is-best.net
@@ -127301,6 +127308,7 @@ duploeriot-roapers0122.duckdns.org
 duqent.com
 duqkybpohhiymtykd.net
 duqnlhftqm.duckdns.org
+duqodica.store
 duquepresi.linkpc.net
 duquericopan.duckdns.org
 duquesade4supguas.com
@@ -162249,6 +162257,7 @@ fosurfosur8.xyz
 fosurfosur9.xyz
 fosurv2.site
 fosurv7.site
+fosuxaritum.space
 fot3s33ng.duckdns.org
 fotaqizymig.eu
 fotiji.xyz
@@ -196149,6 +196158,7 @@ hgsgirisde.cfd
 hgsgirisim-hgshizligecisyap-hgsgirisim.tk
 hgsgirislerhizmeth1.shop
 hgsgise-pttavm.com
+hgsgit.blogspot.com
 hgsgjodemem.net
 hgsgleen.com
 hgsgnelmdrulgum.org
@@ -231515,6 +231525,7 @@ k4ttcp.com
 k4xqhb6u4fo.com
 k4yyn44kk.xyz
 k4z5ioe.duckdns.org
+k54adhsahdhashdashd2sdahs2a.click
 k54g9yyl.duckdns.org
 k550ndj5.forms.app
 k565kny.duckdns.org
@@ -239517,6 +239528,7 @@ kelowuh.com
 kelpersx.click
 kelsomgir.pw
 keltiras.site
+kelunixor.com
 kelunora.com
 kelvin.agrillcs.com
 kelvin654.duckdns.org
@@ -245347,6 +245359,7 @@ koran3663.xyz
 koranixul.com
 koratanaba.com
 koratyma.com
+koravunex.com
 korayaba.com
 korayhegese.arabamuayenesi.xyz
 korayhegese.com
@@ -245811,6 +245824,7 @@ kqtwhy.top
 kqvezrhnvk.duckdns.org
 kqygeqtmpi.duckdns.org
 kqyitlar.com
+kr-ol-lndho.sbs
 kr-paribu.com
 kr1s.ru
 kr1tgjcx5g07q.duckdns.org
@@ -250925,6 +250939,7 @@ leanders.digital
 leanflattery.top
 leangoblinlol123.ddns.net
 leanhose.top
+leannoe.com
 leanstump.cn
 leanwithme.xyz
 leapconfig.com
@@ -274733,6 +274748,7 @@ mvpaypos.com
 mvpdrivkuxtuhretc.com
 mvpdrivkuxtuhretc.net
 mvpjyx.duckdns.org
+mvploom.com
 mvppwb.turnsunchair.top
 mvptcodesupport.com
 mvpyqesw.com
@@ -279521,6 +279537,7 @@ next-bbva.vercel.app
 next-dinamik-webtr.my-homeip.com
 next-firsat-webtr.my-homeip.com
 next-kamp-trweb.my-homeip.com
+next-sosyal.world
 next.my-homeip.com
 next2.my-homeip.com
 nextarabakirala.online
@@ -282041,6 +282058,7 @@ nousiieiffgogogoo.ru
 nousiieiffgogogoo.su
 nousom34.com
 nousomyesyonlendirme.yasinbabarpporooet.net
+nouv-lmd.online
 nouvelle-carte.ddns.net
 nouvellefacture.duckdns.org
 nouvelleversion236.ddns.net
@@ -282067,6 +282085,7 @@ novaera251214.ddns.net
 novafile.tk
 novagoodsplace.shop
 novahacker.ddns.net
+novahorizon.world
 novahorizonrise.com
 novakcy.ddns.net
 novakovic.hopto.org
@@ -298873,6 +298892,7 @@ paniesx.com
 panihostweb.gq
 panim4hg44.xyz
 panioucov.ddns.net
+panivexor.com
 panjandrumfree.com
 panjrxgeyigwuqx.ru
 pankia.ddns.net
@@ -306593,6 +306613,7 @@ plan123454.xyz
 planaddz.com
 planank.com
 planansa.net
+planbuddyai.com
 planchereserver.com
 plancreambugmale.com
 plandepreciate.top
@@ -308628,6 +308649,7 @@ posttgov.icu
 posttr.top
 postturkey.goodvibe.today
 postume.cfd
+postuniqu.digital
 postureradiator.top
 posturs.top
 postverification.duckdns.org
@@ -316351,6 +316373,7 @@ purefoe.top
 purehaber.club
 purehaber.life
 purehrest.nuadseyer.ru
+pureline.bond
 purelixia.com
 purelogic.site
 purelyfountains.com
@@ -317361,6 +317384,7 @@ qenbdenlerdens.com
 qenisanies.ddns.net
 qenjw68xlx4kikafuc.com
 qenmanepnh.info
+qenorivax.com
 qenshine.com
 qentrom.com
 qentroum.com
@@ -337572,6 +337596,7 @@ scholarshipfeat.top
 scholarshipmediator.top
 scholarshipoxide.top
 scholarshipthriller.top
+scholavo.qpon
 school.suliparwarda.com
 schoolclever.top
 schoolcode.top
@@ -347388,6 +347413,7 @@ silenthill88.top
 silentlegion.duckdns.org
 silentwild.top
 silertemperent.top
+silhouette.bond
 silicon-valley.duckdns.org
 siliconagitate.top
 silicondeadlock.top
@@ -359061,6 +359087,7 @@ stonecold.ddns.net
 stonedeyes.top
 stonedustpottery.com
 stonefacesy.info
+stonehart.pro
 stoneleighview.info
 stonemenace.top
 stoneprone.top
@@ -386196,6 +386223,7 @@ turkiyeindirimlerimiz.duckdns.org
 turkiyeinstagram.com
 turkiyeinternet.net
 turkiyeinternetdestegi-indir.com
+turkiyeinvestclub.com
 turkiyeinvsbankasi.com
 turkiyeis-bankasi.com
 turkiyeis.online
@@ -390891,6 +390919,7 @@ updatesystems.net
 updatetime.zone
 updatetorrent.hopto.org
 updateui.com
+updateva.com
 updateverflogsmo.hopto.org
 updateverif-amzonteamsupportalerts.duckdns.org
 updateverify.ddns.net
@@ -399676,6 +399705,7 @@ veriificatiion.info
 veriify-lnfo-acount-app-page008.duckdns.org
 veriincelemes0rgu.ct.ws
 veriizinleri.com
+verikaya.mom
 veriliagame.blogspot.com
 verilmisgideme.net
 verilverilsda21312.xyz
@@ -425312,6 +425342,7 @@ yakaladimsizi.com
 yakaladinfirsati.net
 yakaladintestereindirimini.xyz
 yakalafirsat.site
+yakalafirsati.net
 yakalafirsatihemenkrd.site
 yakalaman-lazim-sende-biz-gibi-sevin-sev.com
 yakalamangerekenfirsatlarinadresi.com.tr
@@ -428426,6 +428457,7 @@ yatirimgazetesi.info
 yatirimgazetesi.net
 yatirimgazetesi.org
 yatirimgazetesi.top
+yatirimgercekleri.com
 yatirimgoz.world
 yatirimgozu.ltd
 yatirimguncel.world
@@ -436671,6 +436703,7 @@ zentinalmusique.co.uk
 zentixorats.ddns.net
 zentlig.site
 zentoplex.org
+zentoril.com
 zentrademarketing.com
 zentrademarketingcom.leo-osti.click
 zentrivo.site
