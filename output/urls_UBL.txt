@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-25 14:02:05 UTC
-! Total: 351682 rules
+! Last modified: 2026-02-25 16:55:23 UTC
+! Total: 351708 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7646,6 +7646,7 @@
 *://*.2kzm0f.com/*
 *://*.2liveanddieinla.com/*
 *://*.2lkakxservicessorgusystem.com/*
+*://*.2lkasdskalcdasacsa.sbs/*
 *://*.2ly.link/*
 *://*.2martdenizfirsati.online/*
 *://*.2martiparisrehberiolustur.cloud/*
@@ -13659,6 +13660,7 @@
 *://*.a-101-cepte-market.online/*
 *://*.a-101-cepte-market.xyz/*
 *://*.a-101-cepte-tr.online/*
+*://*.a-101-comtr.cfd/*
 *://*.a-101-comtr.online/*
 *://*.a-101-eylulfirsatlari.online/*
 *://*.a-101-firsat.shop/*
@@ -43006,6 +43008,7 @@
 *://*.basvuru-qnbfinans.com/*
 *://*.basvuru-qnbfinansbank.com/*
 *://*.basvuru-qnbfinansci.com/*
+*://*.basvuru-qp.cfd/*
 *://*.basvuru-ramazanayidestek2021.com/*
 *://*.basvuru-reklam-merkezixc2.xyz/*
 *://*.basvuru-reklam-merkezixc3.xyz/*
@@ -43051,6 +43054,7 @@
 *://*.basvuru-turkiye-istikrar.com/*
 *://*.basvuru-turkiyegov-tr.com/*
 *://*.basvuru-turkiyegovtr.com/*
+*://*.basvuru-ul.cfd/*
 *://*.basvuru-vakfbireysel.com/*
 *://*.basvuru-vakif.com/*
 *://*.basvuru-vakifbireysel.com/*
@@ -44905,6 +44909,7 @@
 *://*.baykarturkey.org/*
 *://*.baykarvest.com/*
 *://*.baykaryardim.com/*
+*://*.baykaryatirim-programi.site/*
 *://*.baykaryatirim.online/*
 *://*.baykaryatirimci.com/*
 *://*.baykaryatirimfon.com/*
@@ -46811,6 +46816,7 @@
 *://*.belgetunceli.net/*
 *://*.belgeyonetim.xyz/*
 *://*.belgimislem.xyz/*
+*://*.belgimonayin.xyz/*
 *://*.beliale232634.at/*
 *://*.belialq449663.at/*
 *://*.belialw869367.at/*
@@ -56382,6 +56388,7 @@
 *://*.bitcoinbitcoin.xyz/*
 *://*.bitcoinbits.xyz/*
 *://*.bitcoineverestai.app/*
+*://*.bitcoinhorizon.pro/*
 *://*.bitcoinjsc.com/*
 *://*.bitcoinkredikarti.com/*
 *://*.bitcoinkreditbank.com/*
@@ -61719,6 +61726,7 @@
 *://*.bnscsduyurugirisi.com/*
 *://*.bnscsduyurugirisii.com/*
 *://*.bnscsgirislertr.com/*
+*://*.bnscsgrslertr.com/*
 *://*.bnsctr225ktlm.com/*
 *://*.bnsctronlinegiris.com/*
 *://*.bnsctronlinegiristr.com/*
@@ -71206,6 +71214,7 @@
 *://*.casla-abd-aldin-aldin.cfd/*
 *://*.casla-abd-aldin-aldin.icu/*
 *://*.casla-abd-aldin-aldin.sbs/*
+*://*.casmdkackscdacjkadscsad.sbs/*
 *://*.casnop.com/*
 *://*.casotaa.info/*
 *://*.casper-market-le-aktuel-urunlerim.site/*
@@ -95845,6 +95854,7 @@
 *://*.discontro.xyz/*
 *://*.discoparidiscotime.tk/*
 *://*.discord-jobs.com/*
+*://*.discord-verification.cfd/*
 *://*.discordapp.com/*
 *://*.discorderrand.top/*
 *://*.discordextract.top/*
@@ -123320,6 +123330,7 @@
 *://*.fbclick-metabrowser.cfd/*
 *://*.fbclick-metabrowser2025.cfd/*
 *://*.fbclickid-metabrowser.cfd/*
+*://*.fbclickid-metabrowser1245.cfd/*
 *://*.fbclickid-metabrowsetr.cfd/*
 *://*.fbclickid.site/*
 *://*.fbclikisbnksponsorlurklm.site/*
@@ -180944,6 +180955,7 @@
 *://*.istmerkestoplansizherkes.com/*
 *://*.istmfathtermadam.net/*
 *://*.istmhkbcxbn.com/*
+*://*.istmhkdfbvc.com/*
 *://*.istmhkfshsdcc.com/*
 *://*.istmhkhmn.com/*
 *://*.istmhkhsdfbcxbb.com/*
@@ -181278,6 +181290,7 @@
 *://*.isttd.com/*
 *://*.isttg.com/*
 *://*.isttg.net/*
+*://*.isttkarrrttttt.shop/*
 *://*.isttkbrbn1.com/*
 *://*.isttkr.shop/*
 *://*.isttnabrllkart.com/*
@@ -186246,6 +186259,7 @@
 *://*.journeywithvision.ga/*
 *://*.journyz.top/*
 *://*.jouukienbstchsv.su/*
+*://*.jovcf.cn/*
 *://*.jovexaa.com/*
 *://*.jovolewnac.info/*
 *://*.jovomirgaji.club/*
@@ -186473,6 +186487,7 @@
 *://*.jsterktest.click/*
 *://*.jstk9.com/*
 *://*.jstn12v22golds.xyz/*
+*://*.jstnblrlrayklemyplmbdn.cfd/*
 *://*.jsube-kuveyturk.cf/*
 *://*.jsube-kuveyturk.ga/*
 *://*.jsube-kuveyturk.gq/*
@@ -195071,6 +195086,7 @@
 *://*.kgm-govc.xyz/*
 *://*.kgm-gove.site/*
 *://*.kgm-gove.top/*
+*://*.kgm-govi.cyou/*
 *://*.kgm-govl.cyou/*
 *://*.kgm-govm.top/*
 *://*.kgm-govm.xyz/*
@@ -197805,9 +197821,11 @@
 *://*.kobidestekbasvuru.com.tr/*
 *://*.kobidestekhat.com/*
 *://*.kobidestekhibesi.cfd/*
+*://*.kobidestekleri.com/*
 *://*.kobidestekmerkezi.com/*
 *://*.kobidestekmerkeziniz.sbs/*
 *://*.kobidestekplatformu.cfd/*
+*://*.kobidestekprojesi.com/*
 *://*.kobihibebasvuru.sbs/*
 *://*.kobihibedestegi.cfd/*
 *://*.kobihibedestegi2026.cfd/*
@@ -216681,6 +216699,8 @@
 *://*.mobilgarantim.tk/*
 *://*.mobilgarntigirisekim.cfd/*
 *://*.mobilgarntigirisekim2025.cfd/*
+*://*.mobilgarntigirissubat2026.cfd/*
+*://*.mobilgarntigirisubat2026.cfd/*
 *://*.mobilgeranti.click/*
 *://*.mobilgib.com/*
 *://*.mobilgibcxgib1govtr.site/*
@@ -230381,6 +230401,7 @@
 *://*.officiallar.net/*
 *://*.officiallardan.net/*
 *://*.officiallivestreamfree.xyz/*
+*://*.officialonline.click/*
 *://*.officialpeddle.top/*
 *://*.officialpudding.top/*
 *://*.officinaartaud.org/*
@@ -258478,6 +258499,7 @@
 *://*.ramazanfirsatadresleri.online/*
 *://*.ramazanfirsatadresleri.xyz/*
 *://*.ramazanfirsati.com.tr/*
+*://*.ramazanfirsati.com/*
 *://*.ramazanfirsati.online/*
 *://*.ramazanfirsati3401.site/*
 *://*.ramazanfirsati3402.site/*
@@ -258610,6 +258632,7 @@
 *://*.ramazankredisicebinde.online/*
 *://*.ramazanktelofteklkatalogs.store/*
 *://*.ramazankutluolsn1.com.tr/*
+*://*.ramazanlardanfaydalan.com/*
 *://*.ramazanm.com/*
 *://*.ramazanmart.cfd/*
 *://*.ramazann-a1o1dee-dysonfirsatlarii.shop/*
@@ -299136,6 +299159,7 @@
 *://*.toki500yedek.com/*
 *://*.toki600konutbasvuru.sbs/*
 *://*.toki700konutbasvuru.sbs/*
+*://*.tokiabasvuru.org/*
 *://*.tokial500binprojebasvuruekrani.com/*
 *://*.tokiasrinprojesi.click/*
 *://*.tokibasladi.com.tr/*
@@ -300500,6 +300524,7 @@
 *://*.tp7djzjtcs6gm6.com/*
 *://*.tpaagudvn.net/*
 *://*.tpanel101.online/*
+*://*.tpao-basvuru.online/*
 *://*.tpao-borsa.com.tr/*
 *://*.tpao-invest.biz/*
 *://*.tpao-petrollaz.com/*
@@ -333455,6 +333480,7 @@
 *://*.x-vpn.ug/*
 *://*.x-xrnedevvasdfaslear.net/*
 *://*.x-y-nnnaracmuaynedomsaracmuayne.net/*
+*://*.x-ya.ru/*
 *://*.x-yapikredi.com/*
 *://*.x.gg/*
 *://*.x000xxdffffirsatas-dunasi-burasi-firsatx.com/*
