@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-25 10:37:59 UTC
-! Total: 351647 rules
+! Last modified: 2026-02-25 11:31:21 UTC
+! Total: 351664 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46339,6 +46339,7 @@
 *://*.beadfortnight.top/*
 *://*.beadimmersion.top/*
 *://*.beadpatronage.top/*
+*://*.beads-braids.com/*
 *://*.beags321.xyz/*
 *://*.beakidnow.com/*
 *://*.beakjudiciary.top/*
@@ -64826,6 +64827,7 @@
 *://*.bsvrrkmpnyaaaprmsynn.click/*
 *://*.bsvrrkmpnyaaprmsynn.info/*
 *://*.bsvrrkmpnyaaprmsynn.live/*
+*://*.bsvrrkmpnyaapsssrmsynn.art/*
 *://*.bsvrrkmpnyaprmsynnn.art/*
 *://*.bsvrrkmpnyaprmsynnn.info/*
 *://*.bsvrrkmpnyaprmsynnn.live/*
@@ -94896,6 +94898,7 @@
 *://*.dijitalislemlerim.com/*
 *://*.dijitalislemlerin-ziraatbireysel.com/*
 *://*.dijitalislemleriniz-ziraatbireysel.com/*
+*://*.dijitalislemleriniz-ziraatwebmobil.com/*
 *://*.dijitalislemlermobil-denizacik.com/*
 *://*.dijitalislemlerweb-denizacik.com/*
 *://*.dijitalislemlerweb-ziraatbireysel.com/*
@@ -97551,6 +97554,7 @@
 *://*.dolmkaribv34.net/*
 *://*.dolofikilopoty.us/*
 *://*.dolopolesasz.com/*
+*://*.dolor.sbs/*
 *://*.dolph-as.xyz/*
 *://*.dolphinsclean.com/*
 *://*.dolu-firsat-yili.shop/*
@@ -112360,6 +112364,7 @@
 *://*.ekstrahaftasonlari.xyz/*
 *://*.ekstrahesapgunleri.xyz/*
 *://*.ekstraindirim.com.tr/*
+*://*.ekstraindirimfirsatlari.com/*
 *://*.ekstraindirimlikampanyalar.com.tr/*
 *://*.ekstraindirimliurunler.com.tr/*
 *://*.ekstrakapida.online/*
@@ -122165,6 +122170,7 @@
 *://*.facialwaxmaxfaxlax3.com/*
 *://*.facialwaxmaxfaxlax3a.com/*
 *://*.facialwaxmaxfaxlax4.com/*
+*://*.facilisis.biz/*
 *://*.facilitatecomplacent.top/*
 *://*.facilitateconsulate.buzz/*
 *://*.facilitationarray.top/*
@@ -122550,6 +122556,7 @@
 *://*.fandombee.com/*
 *://*.fanenter.top/*
 *://*.fanfishwoler.life/*
+*://*.fanfree.net/*
 *://*.fanfuelrallymass.click/*
 *://*.fanfuld.com/*
 *://*.fanfuldaed.com/*
@@ -129832,6 +129839,7 @@
 *://*.freedynamicdns.net/*
 *://*.freedynamicdns.org/*
 *://*.freeedomly.com/*
+*://*.freefan.net/*
 *://*.freefinder.me/*
 *://*.freefolllow.com/*
 *://*.freefollowers-instagram.tk/*
@@ -180224,11 +180232,13 @@
 *://*.istanbulrskart.net/*
 *://*.istanbuls.ml/*
 *://*.istanbulsa.net/*
+*://*.istanbulsalarnim.shop/*
 *://*.istanbulsdks.com/*
 *://*.istanbulsenicokbozmus.shop/*
 *://*.istanbulsenin.online/*
 *://*.istanbulservsbas.shop/*
 *://*.istanbulsfkoh.com/*
+*://*.istanbulshemim.shop/*
 *://*.istanbulsistemibb.net/*
 *://*.istanbulsizinizindjddd.com/*
 *://*.istanbulsizlakdarhemarim.shop/*
@@ -214056,6 +214066,7 @@
 *://*.mindframe.sbs/*
 *://*.mindfuei.com/*
 *://*.mindfulmacro.com/*
+*://*.mindobserved.com/*
 *://*.mindservo.com/*
 *://*.mindsetabiguous.top/*
 *://*.mindsetydit.org/*
@@ -234004,6 +234015,7 @@
 *://*.onlinegirisbnncseaktif.com/*
 *://*.onlinegirisbnncstr.com/*
 *://*.onlinegirisbnnsduyurutr.com/*
+*://*.onlinegirisbonusgarantimobile.cfd/*
 *://*.onlinegirisburgan.com/*
 *://*.onlinegirisduyurutr.com/*
 *://*.onlinegirisdvltaidatxxc2.biz/*
@@ -246685,6 +246697,7 @@
 *://*.piyasaraporu.online/*
 *://*.piyasastrongasrrrtzz.net/*
 *://*.piyasatracker.online/*
+*://*.piyasavizyon.online/*
 *://*.piyerdesllemla.site/*
 *://*.piyonlar.pro/*
 *://*.piytrwd.com/*
@@ -252043,6 +252056,7 @@
 *://*.ptt-govtr.xyz/*
 *://*.ptt-govtrinc.top/*
 *://*.ptt-govtru.top/*
+*://*.ptt-govtt.cc/*
 *://*.ptt-govttur.top/*
 *://*.ptt-govtur.cfd/*
 *://*.ptt-govtur.help/*
@@ -262782,6 +262796,7 @@
 *://*.rnd199.online/*
 *://*.rnd518.com/*
 *://*.rndavvvalm.net/*
+*://*.rndbsurizmebrurds.store/*
 *://*.rndbsvhzimebrurds.store/*
 *://*.rndbsvsadhzimebrurds.store/*
 *://*.rndcuhizlf.pw/*
@@ -300470,6 +300485,7 @@
 *://*.tpaagudvn.net/*
 *://*.tpanel101.online/*
 *://*.tpao-borsa.com.tr/*
+*://*.tpao-invest.biz/*
 *://*.tpao-petrollaz.com/*
 *://*.tpaoalis.com/*
 *://*.tpaodigital.com/*
@@ -326163,6 +326179,7 @@
 *://*.weworkhard.xyz/*
 *://*.wewqewnqnnsnnasnnssfrrstlari.com/*
 *://*.wewsite.tk/*
+*://*.wewssnat.com/*
 *://*.wexmri.cc/*
 *://*.wexonlake.com/*
 *://*.weysg.com.tr/*

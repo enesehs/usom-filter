@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-25 10:37:59 UTC
-# Toplam: 440801 Domain
+# Son Güncelleme: 2026-02-25 11:31:21 UTC
+# Toplam: 440820 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15781,6 +15781,7 @@
 58505362443918756.com
 58555654875.cloud
 5855e81d.hds-dnd9n.com.cn
+5858520523jhf.duckdns.org
 586435.cloud
 5864faa.duckdns.org
 5865485652.cloud
@@ -64115,6 +64116,7 @@ beadbazaar.com.au
 beadfortnight.top
 beadimmersion.top
 beadpatronage.top
+beads-braids.com
 beags321.xyz
 beakidnow.com
 beakjudiciary.top
@@ -85092,6 +85094,7 @@ bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
 bsvrrkmpnyaaprmsynn.info
 bsvrrkmpnyaaprmsynn.live
+bsvrrkmpnyaapsssrmsynn.art
 bsvrrkmpnyaprmsynnn.art
 bsvrrkmpnyaprmsynnn.info
 bsvrrkmpnyaprmsynnn.live
@@ -121713,6 +121716,7 @@ dijitalislemlerim-ziraatbireysel.com
 dijitalislemlerim.com
 dijitalislemlerin-ziraatbireysel.com
 dijitalislemleriniz-ziraatbireysel.com
+dijitalislemleriniz-ziraatwebmobil.com
 dijitalislemlermobil-denizacik.com
 dijitalislemlerweb-denizacik.com
 dijitalislemlerweb-ziraatbireysel.com
@@ -125004,6 +125008,7 @@ dolmkaribv34.net
 dolofikilopoty.us
 dololow.ddns.net
 dolopolesasz.com
+dolor.sbs
 doloresguerra.duckdns.org
 dolphnindia.duckdns.org
 dolqrb7t.duckdns.org
@@ -141906,6 +141911,7 @@ ekstrafirsatlarsizlerle.com.tr
 ekstraguncelfirsatlar.com.tr
 ekstrahaftasonlari.xyz
 ekstraindirim.com.tr
+ekstraindirimfirsatlari.com
 ekstraindirimlikampanyalar.com.tr
 ekstraindirimliurunler.com.tr
 ekstrakapida.online
@@ -153565,6 +153571,7 @@ facialwaxmaxfaxlax2a.com
 facialwaxmaxfaxlax3.com
 facialwaxmaxfaxlax3a.com
 facialwaxmaxfaxlax4.com
+facilisis.biz
 facilitatecomplacent.top
 facilitateconsulate.buzz
 facilitationarray.top
@@ -154046,6 +154053,7 @@ fancyremnant.top
 fandombee.com
 fanenter.top
 fanfishwoler.life
+fanfree.net
 fanfuelrallymass.click
 fanfuld.com
 fanfuldaed.com
@@ -162756,6 +162764,7 @@ freedynamic.hopto.org
 freeedomly.com
 freeedp.duckdns.org
 freeefireespinnn.duckdns.org
+freefan.net
 freefinder.me
 freefire-collaboration.duckdns.org
 freefire-eventold2024terbaru.duckdns.org
@@ -222662,11 +222671,13 @@ istanbulr.ml
 istanbulrskart.net
 istanbuls.ml
 istanbulsa.net
+istanbulsalarnim.shop
 istanbulsdks.com
 istanbulsenicokbozmus.shop
 istanbulsenin.online
 istanbulservsbas.shop
 istanbulsfkoh.com
+istanbulshemim.shop
 istanbulsistemibb.net
 istanbulsizinizindjddd.com
 istanbulsizlakdarhemarim.shop
@@ -265868,6 +265879,7 @@ mindcraftstore.com
 minddbinder.com
 mindfuei.com
 mindfulmacro.com
+mindobserved.com
 mindservo.com
 mindsetabiguous.top
 mindsetydit.org
@@ -291260,6 +291272,7 @@ onlinegirisbnncede.net
 onlinegirisbnncseaktif.com
 onlinegirisbnncstr.com
 onlinegirisbnnsduyurutr.com
+onlinegirisbonusgarantimobile.cfd
 onlinegirisburgan.com
 onlinegirisdenizmobil.co.vu
 onlinegirisduyurutr.com
@@ -306349,6 +306362,7 @@ piyasaraporu.online
 piyasastrongasrrrtzz.net
 piyasatr.my-homeip.com
 piyasatracker.online
+piyasavizyon.online
 piycacj7.duckdns.org
 piyerdesllemla.site
 piyonlar.pro
@@ -306449,6 +306463,7 @@ pkeo4trn.net
 pket-ykle-bxm.blogspot.com
 pkfyoawi.com
 pkfzh.com
+pkg-metrics.official334.workers.dev
 pkgtcrui.duckdns.org
 pkhabhgzww.disposablesubdomain.xyz
 pkhdspnlhe.duckdns.org
@@ -312914,6 +312929,7 @@ ptt-govtr.top
 ptt-govtr.xyz
 ptt-govtrinc.top
 ptt-govtru.top
+ptt-govtt.cc
 ptt-govttur.top
 ptt-govtur.cfd
 ptt-govtur.help
@@ -327210,6 +327226,7 @@ rnd199.online
 rnd518.com
 rnd7ru3fbn.storage.googleapis.com
 rndavvvalm.net
+rndbsurizmebrurds.store
 rndbsvhzimebrurds.store
 rndbsvsadhzimebrurds.store
 rndbzxuspe.duckdns.org
@@ -376152,6 +376169,7 @@ tpaelrt-comper-laeper99676.duckdns.org
 tpajlvphmf.duckdns.org
 tpanel101.online
 tpao-borsa.com.tr
+tpao-invest.biz
 tpao-petrollaz.com
 tpaoalis.com
 tpaodigital.com
@@ -408434,6 +408452,7 @@ weworld59.myartsonline.com
 weworld78.atwebpages.com
 weworld79.mygamesonline.org
 wewqewnqnnsnnasnnssfrrstlari.com
+wewssnat.com
 wex1faggo.hopto.org
 wexad11.000webhostapp.com
 wexbipddvo.duckdns.org
