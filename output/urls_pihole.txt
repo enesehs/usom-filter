@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-25 06:53:00 UTC
-# Toplam: 440736 Domain
+# Son Güncelleme: 2026-02-25 07:42:38 UTC
+# Toplam: 440745 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -520,6 +520,7 @@
 04-sbtsma-nabsn-ansn.sbs
 04.kobprastoniskarmonisyakrofbaslanmba.net
 0403.zapto.org
+04040352ll34.duckdns.org
 0404044440240.duckdns.org
 04042023.ru
 040620.shop
@@ -15095,6 +15096,7 @@
 512-2412-4-5-6-7-8-1.pro
 512078022.dfgqdsd.ru
 512118001192.loseyourip.com
+51211830001192.webredirect.org
 51221kafklasf.xyz
 5123193323632.net
 51232443125256.com.tr
@@ -54484,6 +54486,7 @@ awudagabug.ddns.net
 awugvywu3opl.storage.googleapis.com
 awuifebaao.duckdns.org
 awwnkjhdbr.duckdns.org
+awwpqp.help
 awwsb4b.duckdns.org
 awwsdgmsas.ddns.net
 awxts.com
@@ -88409,6 +88412,7 @@ bvkcllill.com
 bvkclmcler.net
 bvkclmlkler.net
 bvkcmxnnt.net
+bvkhnv.homes
 bvkklklvk.com
 bvkkllkvlk.com
 bvklicmclell.net
@@ -172572,6 +172576,7 @@ gigzas.ddns.net
 gigzrus.sbs
 gihbdijital.com
 gihbfevappqs.info
+gihdijital.com
 gihexowixi.ddns.net
 gihf2.com
 gii9p33vc.duckdns.org
@@ -174427,6 +174432,7 @@ glbalcekilisfirsatisizlerle.life
 glbalharryglblgiftdaysonlinetodays.cloud
 glbasvur.com
 glbbll-evtt-kmpnya-hmn-katil.net
+glbdijital.com
 glbimgum.net
 glblbinnceeiadesi.net
 glblbnanbak-iyehediye.net
@@ -216503,6 +216509,7 @@ interaktifgiris.com
 interaktifharcodeme.net
 interaktifhizmetler.ga
 interaktifhizmetler.xyz
+interaktifiade.org
 interaktifileyapikredi.com
 interaktifinternetsube.com.de
 interaktifipc.club
@@ -239493,6 +239500,7 @@ kellas7881x.dns.navy
 kellas81x.dns.navy
 kellas8665x.dns.navy
 kellas8863x.dns.navy
+kellas9191x.dns.navy
 kellas9999x.dns.navy
 kellenleote.com
 kellerwarzone.ddns.net
@@ -239627,6 +239635,7 @@ kennas5453eessesx.blogspot.com
 kennedy-hotel.icu
 kennedywilsoninc.com
 kennethnorman776.xyz
+kennsoles6esx.blogspot.com
 kenntiminkartt.net
 kenntkartosmaniye.net
 kenntkkaartt.net
