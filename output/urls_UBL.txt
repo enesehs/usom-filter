@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-25 12:36:00 UTC
-! Total: 351665 rules
+! Last modified: 2026-02-25 14:02:05 UTC
+! Total: 351682 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -730,6 +730,7 @@
 *://*.10010101-33342-1111.cloud/*
 *://*.100101010101010101101010.cloud/*
 *://*.10011.cloud/*
+*://*.1001buhaftaninindinirimlerri.com/*
 *://*.1001cesitindirim.online/*
 *://*.1001chromokeyz.site/*
 *://*.1001incifirsatlar.com/*
@@ -7127,6 +7128,7 @@
 *://*.25princessbet.com/*
 *://*.25re.shop/*
 *://*.25sad1sa5dsa5da6.live/*
+*://*.25subat-sepetim-aaccb.cfd/*
 *://*.25temmuzakfirsatlar.online/*
 *://*.25temmuzguzelsiparis.cloud/*
 *://*.25tok-basvrs.sbs/*
@@ -26612,6 +26614,7 @@
 *://*.aktuelfirsatlar.com.tr/*
 *://*.aktuelfirsatlar.info.tr/*
 *://*.aktuelfirsatlar.net.tr/*
+*://*.aktuelfirsatlar.online/*
 *://*.aktuelfirsatlar.org.tr/*
 *://*.aktuelfirsatlar.shop/*
 *://*.aktuelfirsatlaralisverisredmi.cfd/*
@@ -27552,6 +27555,7 @@
 *://*.aldagnsksakscmtrsfirskiwi.shop/*
 *://*.aldagnsksakscmtrsvfirskiwi.shop/*
 *://*.aldankdhizli.com/*
+*://*.aldaslcaldakcds.sbs/*
 *://*.aldat-2021sorgula.ml/*
 *://*.aldat-odeme2024.online/*
 *://*.aldat-odemenial.online/*
@@ -32814,6 +32818,7 @@
 *://*.apptrdigitalreklamobilislern.space/*
 *://*.apptrdigitalreklamobilislern.xyz/*
 *://*.apptreklamobilislern.space/*
+*://*.apptrmobileonllinereklarn.space/*
 *://*.appupdate.ai/*
 *://*.appvenbey.com/*
 *://*.appweb-qnbfinancim-bildiri.com/*
@@ -35963,6 +35968,7 @@
 *://*.askcjadskajkcsad.sbs/*
 *://*.askcopli.xyz/*
 *://*.askcrave.top/*
+*://*.askdcasklcdalkckldas.sbs/*
 *://*.askdcxncxbz.net/*
 *://*.askdjwjs.click/*
 *://*.askdkdloponosjj.ml/*
@@ -70823,6 +70829,7 @@
 *://*.carreforsammturkey.net/*
 *://*.carreforsi.shop/*
 *://*.carrefoueursa-ramadan.cfd/*
+*://*.carrefoueursa.cfd/*
 *://*.carrefoueursa.com/*
 *://*.carrefoueursacom.cfd/*
 *://*.carrefoueursacomtr.cfd/*
@@ -84963,6 +84970,7 @@
 *://*.darembo.info/*
 *://*.darenfowes.pro/*
 *://*.darestopedunno.com/*
+*://*.darinfoul.cfd/*
 *://*.daringfollow.top/*
 *://*.daringterrace.top/*
 *://*.daris.club/*
@@ -96557,6 +96565,7 @@
 *://*.dnnszdasddarabbbbaxhhediyesiii.net/*
 *://*.dnnszdasdparabbbbaahhediyesiii.net/*
 *://*.dnnzzzyilbbbasiiarbaaahedyyylertii.com/*
+*://*.dnot.sh/*
 *://*.dnowerlake.site/*
 *://*.dnoxvtjeknnkxaxat.org/*
 *://*.dnpcbw7.cn/*
@@ -135229,6 +135238,7 @@
 *://*.gecolsungucolmasin.cfd/*
 *://*.gecsenwatsa1.net/*
 *://*.gecsgqcag-yqtwttwtfw-vxczcc.sbs/*
+*://*.gecsleriniz.com/*
 *://*.gecsmevguven.net/*
 *://*.gecsmmhgsservs.com/*
 *://*.gecsmmhgsservs.tk/*
@@ -179767,6 +179777,7 @@
 *://*.istanbul34kart.com/*
 *://*.istanbul35.xyz/*
 *://*.istanbul724.online/*
+*://*.istanbulacanim.shop/*
 *://*.istanbuladawqza.net/*
 *://*.istanbulagelcsen.net/*
 *://*.istanbulairport.xyz/*
@@ -180263,6 +180274,7 @@
 *://*.istanbulticaret.org/*
 *://*.istanbultlyukleme724-iett.tk/*
 *://*.istanbultlyuklemesixzsf.com/*
+*://*.istanbultoplumtasim.shop/*
 *://*.istanbulucokseviyoruz.com/*
 *://*.istanbulucyumben.pro/*
 *://*.istanbulugeziyorsun.com/*
@@ -186053,6 +186065,7 @@
 *://*.jogpolytechnic.top/*
 *://*.johaca.mobi/*
 *://*.johanblack05.xyz/*
+*://*.johanclothing.shop/*
 *://*.johbstizmir.net/*
 *://*.johenlittor.com/*
 *://*.john-donnelly.co.uk/*
@@ -234047,6 +234060,7 @@
 *://*.onlinegirisler.website/*
 *://*.onlinegirislerbnnsatr.com/*
 *://*.onlinegirislerbns.com/*
+*://*.onlinegirislerbonusgarantimobile.cfd/*
 *://*.onlinegirislergarantimobile.com/*
 *://*.onlinegirisleri-bntcnrntr.com/*
 *://*.onlinegirisleri-bntrncnntr.com/*
@@ -280877,6 +280891,7 @@
 *://*.sokmarketceptekampanya.site/*
 *://*.sokmarketceptekampanyalar.online/*
 *://*.sokmarketceptekapinda.online/*
+*://*.sokmarketcom-xx-sok0-market.cfd/*
 *://*.sokmarketcuma.site/*
 *://*.sokmarketfamilia.net.tr/*
 *://*.sokmarketfirsat.online/*
@@ -303373,6 +303388,7 @@
 *://*.traogoems.online/*
 *://*.trapajina.com/*
 *://*.traplanetnslseizeate.com/*
+*://*.trappmobilltronllinereklarn.space/*
 *://*.trapps.com.tr/*
 *://*.trapps.online/*
 *://*.trapskim.top/*
@@ -333263,6 +333279,7 @@
 *://*.wwwwwwnnnnnn.top/*
 *://*.wwwwwwwwwwwphonesites.com/*
 *://*.wwwwwwwwwwwwwwwphonesites.com/*
+*://*.wwwyandex.org/*
 *://*.wwwyapi-cepte.com/*
 *://*.wwwyapi-world.com/*
 *://*.wwwyapiikredi.com/*

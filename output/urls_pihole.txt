@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-25 12:36:00 UTC
-# Toplam: 440825 Domain
+# Son Güncelleme: 2026-02-25 14:02:05 UTC
+# Toplam: 440851 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -812,6 +812,7 @@
 093y4u4h.duckdns.org
 0940503022131.cloud
 0942az.duckdns.org
+09687334343bbb.duckdns.org
 096o6m6ra.duckdns.org
 096vply.duckdns.org
 097dinr6y.duckdns.org
@@ -1759,6 +1760,7 @@
 100101010101010101101010.cloud
 10011.cloud
 10011110201011.duckdns.org
+1001buhaftaninindinirimlerri.com
 1001cesitindirim.online
 1001chromokeyz.site
 1001incifirsatlar.com
@@ -2480,6 +2482,7 @@
 101hemenkapindasizinle.com
 101hemenkapinizda.com
 101herseyburadaonlineozel.rf.gd
+101hftninfrsatlri.duckdns.org
 101hizliislemler.cfd
 101hizlimarketleri.online
 101hizlimarketleri.xyz
@@ -9876,6 +9879,7 @@
 25re.shop
 25rw2.canweal.com
 25sad1sa5dsa5da6.live
+25subat-sepetim-aaccb.cfd
 25temmuzakfirsatlar.online
 25temmuzguzelsiparis.cloud
 25tok-basvrs.sbs
@@ -18535,6 +18539,7 @@
 777563.site
 777563224.cloud
 777571654821651165651.tech
+7775759421.duckdns.org
 777662766.cloud
 777668005.dfgqdsd.ru
 77768com.com
@@ -39829,6 +39834,7 @@ aktuelfirsatlar.biz.tr
 aktuelfirsatlar.com.tr
 aktuelfirsatlar.info.tr
 aktuelfirsatlar.net.tr
+aktuelfirsatlar.online
 aktuelfirsatlar.org.tr
 aktuelfirsatlar.shop
 aktuelfirsatlaralisverisredmi.cfd
@@ -40875,6 +40881,7 @@ aldagelfirsatlari.cfd
 aldagnsksakscmtrsfirskiwi.shop
 aldagnsksakscmtrsvfirskiwi.shop
 aldankdhizli.com
+aldaslcaldakcds.sbs
 aldat-2021sorgula.ml
 aldat-odeme2024.online
 aldat-odeme2024.wuaze.com
@@ -47070,6 +47077,7 @@ appdenizesubem.com
 appdiscordgg.duckdns.org
 appdllsvc.com
 appdndtpvndjpdbbh.com
+appdrkante-92dd43dbda26.herokuapp.com
 appdvltdstk.online
 appdvltdstk.site
 appeal-59321958.web.app
@@ -47577,6 +47585,7 @@ appteknoloji-dagitimbasvuruparibu-tr.tk
 apptrdigitalreklamobilislern.space
 apptrdigitalreklamobilislern.xyz
 apptreklamobilislern.space
+apptrmobileonllinereklarn.space
 appupdate.ai
 appupdate.dnsalias.com
 appupdate.ibmlotus.net
@@ -51249,6 +51258,7 @@ askcjadskajkcsad.cfd
 askcjadskajkcsad.sbs
 askcopli.xyz
 askcrave.top
+askdcasklcdalkckldas.sbs
 askdcxncxbz.net
 askdjwjs.click
 askdkdloponosjj.ml
@@ -92096,6 +92106,7 @@ carreforsaileramazan.shop
 carreforsammturkey.net
 carreforsi.shop
 carrefoueursa-ramadan.cfd
+carrefoueursa.cfd
 carrefoueursa.com
 carrefoueursacom.cfd
 carrefoueursacomtr.cfd
@@ -110184,6 +110195,7 @@ darembo.info
 darenfowes.pro
 darian12.duckdns.org
 darinborhan.zapto.org
+darinfoul.cfd
 daringfollow.top
 daringterrace.top
 daris.club
@@ -123715,6 +123727,7 @@ dnnszdasddarabbbbaxhhediyesiii.net
 dnnszdasdparabbbbaahhediyesiii.net
 dnnzzbnktrrgiriss2022.co.vu
 dnnzzzyilbbbasiiarbaaahedyyylertii.com
+dnot.sh
 dnowerlake.site
 dnoxvtjeknnkxaxat.org
 dnpcbw7.cn
@@ -124612,6 +124625,7 @@ doktordasaklari.duckdns.org
 doktorkantesiziananizayollar-bfd48fb86609.herokuapp.com
 doktorkantesiziboylekudurtur-a61020ee40d9.herokuapp.com
 doktorkantesizigidiklarr-3c0e2bc61ce9.herokuapp.com
+doktorkantesizimucuklarmuahh-5bebd162ee2e.herokuapp.com
 doktorkantesiziparmaklarr-17b937ad88dc.herokuapp.com
 doktorkanteyokederr-79e91dcf02fd.herokuapp.com
 doktorkantezipzipziplatir-5e20f259e28e.herokuapp.com
@@ -126501,6 +126515,7 @@ drkantesiziciddenaglatir-c8ee3cf1dc51.herokuapp.com
 drkantesiziciddeninletirrrrr-a62421a3b1b8.herokuapp.com
 drkantesizidomdomdomaltir-c01291656e3e.herokuapp.com
 drkantesizikanirtirrrr-678fbacbb8a7.herokuapp.com
+drkantesizimikerrrr-2b879a1a430d.herokuapp.com
 drkantesiziottururr-f5923b74fd47.herokuapp.com
 drkanteucururr-c1993e66f9db.herokuapp.com
 drkcafrledenizde.website
@@ -169856,6 +169871,7 @@ gecsdebzmlehizligecsne.blogspot.com
 gecsendehzxlicaburdan.blogspot.com
 gecsenwatsa1.net
 gecsgqcag-yqtwttwtfw-vxczcc.sbs
+gecsleriniz.com
 gecsmevguven.net
 gecsmmhgsservs.com
 gecsmmhgsservs.tk
@@ -170647,6 +170663,7 @@ geneticallyaggravation.top
 geneticallyuranium.top
 geneticio.one
 geneticrey.top
+genetics-para-pasta-gardens.trycloudflare.com
 geneticthorny.top
 geneticwretched.top
 genetikhastalik.com
@@ -189051,6 +189068,7 @@ hastanehizmetplatformu.xyz
 hastanemrveriyayini.xyz
 hastanemuayeneverileri.xyz
 hastanepersonelmodulu.xyz
+hastanerandevsu.mooo.com
 hastanerandevu-mhrs.cfd
 hastanerandevu.online
 hastanerandevu1.com
@@ -222110,6 +222128,7 @@ istanbul34favela.net
 istanbul34kart.com
 istanbul35.xyz
 istanbul724.online
+istanbulacanim.shop
 istanbuladawqza.net
 istanbuladevamedin.myshopify.com
 istanbulagelcsen.net
@@ -222707,6 +222726,7 @@ istanbultespit.com.tr
 istanbulticaret.org
 istanbultlyukleme724-iett.tk
 istanbultlyuklemesixzsf.com
+istanbultoplumtasim.shop
 istanbultuvturkrandevu.blogspot.com
 istanbulucokseviyoruz.com
 istanbulucyumben.pro
@@ -229796,6 +229816,7 @@ jogodo.duckdns.org
 jogpolytechnic.top
 johaca.mobi
 johanblack05.xyz
+johanclothing.shop
 johankipsy.temindelix.ru
 johbstizmir.net
 johearkwor.rumethaten.ru
@@ -291308,6 +291329,7 @@ onlinegirisler-yapikredi.com
 onlinegirisler.website
 onlinegirislerbnnsatr.com
 onlinegirislerbns.com
+onlinegirislerbonusgarantimobile.cfd
 onlinegirislergarantimobile.com
 onlinegirisleri-bntcnrntr.com
 onlinegirisleri-bntrncnntr.com
@@ -347866,6 +347888,7 @@ simshans3.duckdns.org
 simsiro-nklio.dnc.su
 simsoshop.com
 simulatecoexist.top
+simulation-tutorials-bandwidth-emacs.trycloudflare.com
 simulationincur.top
 simulators-and-cars.com
 simultaneousactivate.top
@@ -352204,6 +352227,7 @@ sokmarketcepteindirimler.online
 sokmarketceptekampanya.site
 sokmarketceptekampanyalar.online
 sokmarketceptekapinda.online
+sokmarketcom-xx-sok0-market.cfd
 sokmarketcuma.site
 sokmarketekstrakampanya1.duckdns.org
 sokmarketekstrakampanya3.duckdns.org
@@ -379555,6 +379579,7 @@ traogoems.online
 trapajina.com
 trapcoolrat.ddns.net
 traplanetnslseizeate.com
+trappmobilltronllinereklarn.space
 trapps.com.tr
 trapskim.top
 trapson2denhe.com
@@ -417958,6 +417983,7 @@ wwwwwwwwwwwwwwwphonesites.com
 wwwwwwwwwwwwwwwwwww.hopto.org
 wwwwxxwwww.zapto.org
 wwwy.sg-host.com
+wwwyandex.org
 wwwyapi-cepte.com
 wwwyapi-world.com
 wwwyapiikredi.com
