@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-25 22:23:28 UTC
-# Toplam: 441012 Domain
+# Son Güncelleme: 2026-02-25 23:23:57 UTC
+# Toplam: 441020 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -240662,6 +240662,7 @@ kgm.wklxda.homes
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
 kgmaa.top
+kgmab.bond
 kgmab.top
 kgmac.top
 kgmad.top
@@ -242882,6 +242883,7 @@ kl6wehmv.duckdns.org
 kla1hgs.com
 klaarinstelling.duckdns.org
 klaaslol.zapto.org
+klac-mortgage-kurum.my-homeip.de
 klaimentglobe.top
 klalim2x.com.tr
 klamer-vandel.duckdns.org
@@ -243349,6 +243351,7 @@ kmdurumogrenme.web.app
 kmdurumsmdi.sa.com
 kmdurumsmdihzli.ru.com
 kmdurumsmdihzli.za.com
+kmdurumu.sa.com
 kmdurumuburadangvenle.web.app
 kmdurumuburdas.ru.com
 kmdurumucozme.ru.com
@@ -314978,6 +314981,7 @@ pttgovhelpstr.help
 pttgovhelptr.help
 pttgovhomes.help
 pttgovi-tr.cc
+pttgovi.cc
 pttgovi.sbs
 pttgovi.xyz
 pttgovii.top
@@ -315952,6 +315956,7 @@ pttqi.top
 pttqi.xyz
 pttqmy.com
 pttqov.cc
+pttqov.sbs
 pttr-gorv.top
 pttr-tr.shop
 pttr-tr.top
@@ -321567,6 +321572,7 @@ ramazangindir.click
 ramazangindncc.click
 ramazangindnnr.click
 ramazangunleri.com
+ramazangunlerinde.com
 ramazanguzelliklerimiz.com
 ramazanhaftasiburada.com.tr
 ramazanhaftasiburada.online
@@ -358404,6 +358410,7 @@ stanleytyrion.xyz
 stanleyultry.xyz
 stanleyupgraded.xyz
 stanleyuplift.xyz
+stanleyvarion.xyz
 stanleyvault.xyz
 stanleyvector.xyz
 stanleyvectora.xyz
@@ -394657,6 +394664,7 @@ vakif-en.com
 vakif-esubem.xyz
 vakif-firsatlari.ml
 vakif-firsatlarla-kampanyalar.best
+vakif-firsatlarla-kampanyalar.click
 vakif-genelkararlar.com
 vakif-geriodeme.xyz
 vakif-giris-webb-com-tk.cf
