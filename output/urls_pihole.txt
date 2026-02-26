@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-26 14:01:38 UTC
-# Toplam: 441321 Domain
+# Son Güncelleme: 2026-02-26 15:40:30 UTC
+# Toplam: 441349 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14881,6 +14881,7 @@
 500binasrinprojesi.com
 500binbasvuruekrani.org
 500binbilet.club
+500binbilet.sbs
 500binevproje.xyz
 500binevprojesi.xyz
 500bingirisekrani-gov.click
@@ -33004,6 +33005,7 @@ ag-pttgov.top
 ag944o.duckdns.org
 aga.bulktakipci.com
 agaaangranti.com.tr
+agabe.click
 agabe.sbs
 agabes.click
 agacebe.com.br
@@ -36410,6 +36412,7 @@ aisbasvuruservislerimiz.com
 aisgiristercih.com
 aisgovturkiye.ml
 aishield.shop
+aishiterunoya.com
 aiside.shop
 aisimple.top
 aisirif-sfriaiis-sifieidi.lol
@@ -44720,6 +44723,7 @@ anadolutakibmarketing.com
 anadolutrafiksigorta.com
 anadoluvakifbursu.com
 anadoluya.org
+anadoluyatirim-portfoy.com
 anadoluyatirimmd.com
 anadoluyatirimmd.net
 anadoluyatirimportfoy.com
@@ -50231,6 +50235,7 @@ arterydistortion.top
 arteryfragility.top
 artexchange.top
 artexpectations.com
+artfigurtr.com
 artflowerstreet.net
 artforums.net
 arthassh.com
@@ -50562,6 +50567,7 @@ ascariproject.atwebpages.com
 ascarskiralama.com
 ascasdcsdac.duckdns.org
 ascasnuasdi.cfd
+ascdalcaksacasascdas.sbs
 ascdalcdsklasda.sbs
 ascdkaslkcdlkdsfdsadsa.sbs
 asce.email
@@ -60284,6 +60290,7 @@ basvuru-turkiye-gov-tr.com
 basvuru-turkiye-istikrar.com
 basvuru-turkiyegov-tr.com
 basvuru-turkiyegovtr.com
+basvuru-ug.cfd
 basvuru-ul.cfd
 basvuru-vakfbireysel.com
 basvuru-vakif.com
@@ -141299,6 +141306,7 @@ ekamudavamdosya.com
 ekamudosyasorgulama.org
 ekamuegm.org
 ekamuizle.org
+ekamusistemi.org
 ekapi-tr-trgiris-26.com
 ekapi-turkiye-giris.com
 ekapi-turkiye.com
@@ -169544,6 +169552,7 @@ gdfgdfggf.site
 gdfgsasfs.best
 gdfhjfdu.net
 gdfhmh.top
+gdfjhddssghm.online
 gdfjksdjkfajksd.net
 gdfkhasdhjasa.net
 gdfkmc.top
@@ -178159,6 +178168,7 @@ grntibdvv.tk
 grntibilgilendirmesitesi.cfd
 grntibnkakmpya.com.tr
 grntibonus-meta.cfd
+grntibonus-meta2026.cfd
 grntibonus-metafb.cfd
 grntibonusfirsati.com
 grntibonusmeta-fb.cfd
@@ -222408,6 +222418,7 @@ istanbulbuyuksehir.net
 istanbulbuyuksehirbelediyesi.com
 istanbulbuyuksehirbelediyesi.net
 istanbulc4cmkart.net
+istanbulcamsi.shop
 istanbulcan.net
 istanbulcannnn.net
 istanbulcanolsa.shop
@@ -222877,6 +222888,7 @@ istanbulogren.shop
 istanbulok.xyz
 istanbulolmakicindogruyerdesiniz.com
 istanbulolsan.shop
+istanbulolunnu34o.org
 istanbulolurmsn.click
 istanbulonix.shop
 istanbulonline-jnnatuubwo.amkbilisim.sbs
@@ -223658,6 +223670,7 @@ istmhknmc.com
 istmhknnvbcv.com
 istmhknvcnbcv.com
 istmhndvcx.com
+istmkbvcnxc.com
 istmknbvcbcvc.com
 istmkrgshdfc.com
 istmmllsad.com
@@ -225801,6 +225814,7 @@ izell.org
 izelosttas342.blogspot.com
 izelqgsd.blogspot.com
 izelsnerws3.dns.navy
+izeltacxsgs.dns.navy
 izeltas.dns.army
 izeltas101first47x.duckdns.org
 izeltas101first4x.duckdns.org
@@ -226000,6 +226014,7 @@ izltasinburada.xyz
 izltasinmarklari.xyz
 izltaslignlerin.xyz
 izltgcd.blogspot.com
+izlthdd.blogspot.com
 izltsbrada.xyz
 izltsfot.dns.navy
 izltsfrstim.dnsup.net
@@ -244595,6 +244610,8 @@ kobikredimerkezi.com
 kobikrediyardimi.com
 kobiler-paraf-halk.com
 kobilerdestekplatformu.cfd
+kobilerekredi.com
+kobileremujde.com
 kobinet.my-homeip.com
 kobiportal-bvtr.my-homeip.com
 kobiprojeleri.com
@@ -274851,6 +274868,7 @@ mutluhaftalarsimdi.shop
 mutluhaftasonu.com
 mutluhayat.online
 mutluhislerlesevindireniz.com
+mutluhissedin.com
 mutluistanbul.net
 mutlukal.name.tr
 mutlukalplerle.com
@@ -291294,6 +291312,7 @@ onlinecokolay.com
 onlinecompany.website
 onlinecontroler.000webhostapp.com
 onlinecrfmarktindirm.cfd
+onlinecrfship.cfd
 onlinecrsahiper.cfd
 onlinecurtain.top
 onlinedairebasvurusu.org
@@ -314558,6 +314577,7 @@ pttegovtr.top
 pttehgsbakiyeyukle.ml
 pttehgsbakiyeyuklemeptte.tk
 pttei-pn.qpon
+pttenewius.top
 pttepazaravm.com
 pttepostgov.top
 pttergov.icu
@@ -321926,6 +321946,7 @@ ramazanxn--kampanyas-3pbz-xyz.online
 ramazanyardimi.com
 ramazanyardimlari.net
 ramazanyateklwkw.click
+ramazizel.dns.navy
 ramazndagncelindrmler.click
 ramazzan-ayi-ilk-alisvris.online
 ramb.zapto.org
@@ -327622,6 +327643,7 @@ rndevunvigovtr.blogspot.com
 rndevusorgunvi.net
 rndevuvar.net
 rndfnjsmkhmwypu.su
+rndmhrsalbrdn.cfd
 rndsvsusal.net
 rndv-hlzc-m.mooo.com
 rndv-islemleriniz.com
@@ -340836,6 +340858,7 @@ seksekekesek101.com
 sekseninciyilimiz.com
 seksever.com
 sektet.nichesite.org
+sektf476211jj1.duckdns.org
 sektorecoktukkardes.sbs
 sektorecoktumoccccistediginkadarusomathahaha.dev
 sekubar.com
@@ -357477,6 +357500,7 @@ srrrqpqapn.biz
 srrybaby.ddns.net
 srryy.sa.com
 srsmwpeesh.biz
+srsnz-hadii.com
 srsp4f288.duckdns.org
 srsrqgechj.duckdns.org
 srswebavbilgi.sbs
@@ -358513,6 +358537,7 @@ stanleyember.xyz
 stanleyermemis.xyz
 stanleyermis.xyz
 stanleyevriliyor.xyz
+stanleyexaron.xyz
 stanleyferrto.me
 stanleyferto.me
 stanleyflux.xyz
@@ -387959,6 +387984,7 @@ tuzte.online
 tv-bonusalgirislemenu.online
 tv-genchaberinbilgisi.online
 tv-gencikhaberbilgileri.online
+tv-mortgag-ol-gr-n.my-homeip.de
 tv-netfiix.com
 tv-youtube.com
 tv.evinterneti.org
@@ -405829,6 +405855,7 @@ web-intstallegiris-portal.tk
 web-investing.my-homeip.com
 web-is-ekrani-2025.site
 web-islem-basvuru-degerlendirme.life
+web-islem-sayfasi.com
 web-islem-sonucla.me
 web-islem-sonuclandirma.com
 web-islem-tamamla.com
@@ -433328,6 +433355,7 @@ yksgiris.com
 ykshemenbasv.net
 yksiqorta.com.tr
 yksiqorta.xyz
+yksldsmbrd.mooo.com
 yksler.com
 yksodemeanlar.net
 yksonbasv.net
