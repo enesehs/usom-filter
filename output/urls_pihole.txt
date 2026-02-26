@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-26 15:40:30 UTC
-# Toplam: 441349 Domain
+# Son Güncelleme: 2026-02-26 16:42:17 UTC
+# Toplam: 441365 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60035,6 +60035,7 @@ basvuru-cimergovtr.com
 basvuru-cimeronline2019.com
 basvuru-cimervatandas2019.com
 basvuru-click.net
+basvuru-cvn.cfd
 basvuru-de-stek-tr.com
 basvuru-deniz-101.duckdns.org
 basvuru-deniz.ip-ddns.com
@@ -64754,6 +64755,7 @@ belgeyonetim.xyz
 belgimislem.xyz
 belgimislemlerin.xyz
 belgimkurumsal.com
+belgimkurumsal.net
 belgimonayin.xyz
 belgium-myservice.ddns.net
 belgom.duckdns.org
@@ -85332,6 +85334,7 @@ bsvuruyon5.click
 bsvuruyptm.digital
 bsvvronline-hazir.com
 bsvvrrr.online
+bsvvrrrpmsynnkmpnyaaa.online
 bsvvrrrrisssssbaaann.cloud
 bsvvrrscddt-95bln.com
 bsvvurru.site
@@ -124110,6 +124113,7 @@ dnzkmpymm.one
 dnzknqsnnnnaisjsdaasdqpqoaj.net
 dnzkredalhmntkla500bntl.net
 dnzkrediocakkmpya.xyz
+dnzleprmsynlarla.com
 dnzlikrtbakyeykle.net
 dnzlkrtbkyyukle.com
 dnzmafnadsjasdfasdsofasdpsfa.net
@@ -183235,6 +183239,7 @@ haberci1.ddns.net
 haberciblog.site
 habercidenizkatilim.tk
 haberciniz.website
+habercizgi.info
 habercupiz.club
 haberdakika.org
 haberdan.site
@@ -183789,6 +183794,7 @@ hadibaslayalimmi.site
 hadibb.cfd
 hadibenimlesen.com.tr
 hadibidenesenya.cyou
+hadibirlikteburadanalalim.com
 hadibirlikteguvenli.com
 hadibugundenbaslagrantiye.digital
 hadiburdanalsimdial.net
@@ -191763,6 +191769,7 @@ hegesegunduz.com
 hegeseislem.com
 hegeseislemler.com
 hegeseislemleriniz.com
+hegesem.com
 hegesemcannn.ml
 hegesemlecannn.ml
 hegesemusterihizligecishemensimdi.tk
@@ -220996,6 +221003,7 @@ isiisbabswis-isiasgqgsha.icu
 isikkurumu.com
 isikkvakfi.com
 isiklardayim.click
+isiklarrac.org
 isikroleplay.com.tr
 isiktechnet.digital
 isikumutlari.com
@@ -239895,6 +239903,7 @@ kendinleoynamayadevamke.cfd
 kendinyap.name.tr
 kendipayina.sa.com
 kendirfsfsfssf.com
+kendiseytannnmlabarisigim.org
 kendiyle.org
 kendtkart.net
 kendtkrt.net
@@ -243865,6 +243874,8 @@ kmpnyaaprmsynnnbsvrrr.art
 kmpnyaaprmsynnnbsvrrr.info
 kmpnyaaprmsynnnbsvrrr.pro
 kmpnyaaqnbbbsvrr.click
+kmpnyabasvurckls.pro
+kmpnyabasvurckls.site
 kmpnyabasvursssprmsynn.art
 kmpnyabasvursssprmsynn.info
 kmpnyabasvursssprmsynn.pro
@@ -255886,6 +255897,7 @@ lule.ddns.net
 luleburgazlazerepilasyon.com
 luleburgazyasamveteriner.com
 luleperepara.xyz
+lulerse6596123xx.duckdns.org
 lulquid.xyz
 lululemonturkiye.com.tr
 lulzpanel.ddns.net
@@ -317633,6 +317645,7 @@ qbj5nqvlctjz.storage.googleapis.com
 qbjz43mbq.duckdns.org
 qbkfewctxz.duckdns.org
 qbknprmsynllarlla.com
+qbkrnsr.com
 qbl8rk.duckdns.org
 qbl95m.duckdns.org
 qbmuzwyxk.com
@@ -318648,6 +318661,7 @@ qnbenparasube.com
 qnbenparasubesi.com
 qnbenyenim.vercel.app
 qnbf1nansbank.com
+qnbfendestek.com
 qnbfiansbank.com
 qnbfibannsbank.online
 qnbfibtr.com
@@ -407810,7 +407824,9 @@ website6623257.nicepage.io
 website6623489.nicepage.io
 website6623753.nicepage.io
 website662401207.nicepage.io
+website6624861.nicepage.io
 website6624932.nicepage.io
+website66249323.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
 website665454654565.nicepage.io

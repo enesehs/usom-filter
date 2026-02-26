@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-26 15:40:30 UTC
-! Total: 351941 rules
+! Last modified: 2026-02-26 16:42:17 UTC
+! Total: 351954 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -42834,6 +42834,7 @@
 *://*.basvuru-cimeronline2019.com/*
 *://*.basvuru-cimervatandas2019.com/*
 *://*.basvuru-click.net/*
+*://*.basvuru-cvn.cfd/*
 *://*.basvuru-de-stek-tr.com/*
 *://*.basvuru-denizbank-iadeleri.com/*
 *://*.basvuru-denizbank-iaedeleri.com/*
@@ -46837,6 +46838,7 @@
 *://*.belgimislem.xyz/*
 *://*.belgimislemlerin.xyz/*
 *://*.belgimkurumsal.com/*
+*://*.belgimkurumsal.net/*
 *://*.belgimonayin.xyz/*
 *://*.beliale232634.at/*
 *://*.belialq449663.at/*
@@ -65009,6 +65011,7 @@
 *://*.bsvuruyptm.digital/*
 *://*.bsvvronline-hazir.com/*
 *://*.bsvvrrr.online/*
+*://*.bsvvrrrpmsynnkmpnyaaa.online/*
 *://*.bsvvrrrrisssssbaaann.cloud/*
 *://*.bsvvrrscddt-95bln.com/*
 *://*.bsvvurru.site/*
@@ -96850,6 +96853,7 @@
 *://*.dnzknqsnnnnaisjsdaasdqpqoaj.net/*
 *://*.dnzkredalhmntkla500bntl.net/*
 *://*.dnzkrediocakkmpya.xyz/*
+*://*.dnzleprmsynlarla.com/*
 *://*.dnzlikrtbakyeykle.net/*
 *://*.dnzlkrtbkyyukle.com/*
 *://*.dnzmafnadsjasdfasdsofasdpsfa.net/*
@@ -146455,6 +146459,7 @@
 *://*.haberciblog.site/*
 *://*.habercidenizkatilim.tk/*
 *://*.haberciniz.website/*
+*://*.habercizgi.info/*
 *://*.habercupiz.club/*
 *://*.haberdakika.org/*
 *://*.haberdan.site/*
@@ -146860,6 +146865,7 @@
 *://*.hadibb.cfd/*
 *://*.hadibenimlesen.com.tr/*
 *://*.hadibidenesenya.cyou/*
+*://*.hadibirlikteburadanalalim.com/*
 *://*.hadibirlikteguvenli.com/*
 *://*.hadibugundenbaslagrantiye.digital/*
 *://*.hadiburdanalsimdial.net/*
@@ -154169,6 +154175,7 @@
 *://*.hegeseislem.com/*
 *://*.hegeseislemler.com/*
 *://*.hegeseislemleriniz.com/*
+*://*.hegesem.com/*
 *://*.hegesemcannn.ml/*
 *://*.hegesemlecannn.ml/*
 *://*.hegesemusterihizligecishemensimdi.tk/*
@@ -178751,6 +178758,7 @@
 *://*.isikkurumu.com/*
 *://*.isikkvakfi.com/*
 *://*.isiklardayim.click/*
+*://*.isiklarrac.org/*
 *://*.isikroleplay.com.tr/*
 *://*.isiktechnet.digital/*
 *://*.isikumutlari.com/*
@@ -194521,6 +194529,7 @@
 *://*.kendinleoynamayadevamke.cfd/*
 *://*.kendinyap.name.tr/*
 *://*.kendirfsfsfssf.com/*
+*://*.kendiseytannnmlabarisigim.org/*
 *://*.kendiyle.org/*
 *://*.kendtkart.net/*
 *://*.kendtkrt.net/*
@@ -197464,6 +197473,8 @@
 *://*.kmpnyaaprmsynnnbsvrrr.info/*
 *://*.kmpnyaaprmsynnnbsvrrr.pro/*
 *://*.kmpnyaaqnbbbsvrr.click/*
+*://*.kmpnyabasvurckls.pro/*
+*://*.kmpnyabasvurckls.site/*
 *://*.kmpnyabasvursssprmsynn.art/*
 *://*.kmpnyabasvursssprmsynn.info/*
 *://*.kmpnyabasvursssprmsynn.pro/*
@@ -255598,6 +255609,7 @@
 *://*.qbhcsope.com/*
 *://*.qbitka.com/*
 *://*.qbknprmsynllarlla.com/*
+*://*.qbkrnsr.com/*
 *://*.qbmuzwyxk.com/*
 *://*.qbn-firsatkampanyasi.online/*
 *://*.qbn-islem.xyz/*
@@ -256289,6 +256301,7 @@
 *://*.qnbenparasube.com/*
 *://*.qnbenparasubesi.com/*
 *://*.qnbf1nansbank.com/*
+*://*.qnbfendestek.com/*
 *://*.qnbfiansbank.com/*
 *://*.qnbfibannsbank.online/*
 *://*.qnbfibtr.com/*
