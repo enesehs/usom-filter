@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-26 18:34:36 UTC
-# Toplam: 441387 Domain
+# Son Güncelleme: 2026-02-26 19:34:41 UTC
+# Toplam: 441394 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16973,6 +16973,7 @@
 65c99716.sibforms.com
 65cyf630.duckdns.org
 65falfj.duckdns.org
+65ff54kerr232.duckdns.org
 65i82e.duckdns.org
 65izz7re.duckdns.org
 65r8esi.duckdns.org
@@ -60039,6 +60040,7 @@ basvuru-cimergovtr.com
 basvuru-cimeronline2019.com
 basvuru-cimervatandas2019.com
 basvuru-click.net
+basvuru-com-u.cfd
 basvuru-com-x.cfd
 basvuru-cvn.cfd
 basvuru-de-stek-tr.com
@@ -117944,6 +117946,7 @@ derckha.online
 derdahakknd.click
 derdenerda.click
 derdimedermansindaglar-p-t-t-a-v-m.shop
+derdinbitmez.club
 derdokara.xyz
 derdoosman.online
 dere-lake.vercel.app
@@ -282594,6 +282597,7 @@ nowv21alid.top
 noxbot.ddns.net
 noxeria.ooguy.com
 noxiuos-utopi.bond
+noya.carentotokiralama.store
 noyamicokseviyorum.com
 noyewa7162.ddns.net
 noyshare.com
@@ -321941,6 +321945,7 @@ ramazanozelfirsatpuanlari.tk
 ramazanozelfirsatt.me
 ramazanozelflrsatlar.com
 ramazanozelflrsatlar.store
+ramazanozelkaraca.com
 ramazanozell.shop
 ramazanozelnfaizsiznakit.xyz
 ramazanozelsansligunler.com
@@ -369409,6 +369414,7 @@ tektiklasepette.me
 tektiklasepettebugundeyiz.me
 tektiklasepettesiniz.me
 tektiklasepettesinizz.me
+tektiklasepettesinizzz.me
 tektiklasepetto.me
 tektiklasepettos.me
 tektiklasiqortayaptir.com.tr
@@ -433393,6 +433399,7 @@ yksgiris.com
 ykshemenbasv.net
 yksiqorta.com.tr
 yksiqorta.xyz
+yksld-brd.mooo.com
 yksldsmbrd.mooo.com
 yksler.com
 yksodemeanlar.net
