@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-26 12:33:27 UTC
-! Total: 351879 rules
+! Last modified: 2026-02-26 14:01:38 UTC
+! Total: 351919 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36316,6 +36316,8 @@
 *://*.assortmentenvisage.top/*
 *://*.assortmentmobilise.top/*
 *://*.assortmentrepute.top/*
+*://*.assosbeyazit.com/*
+*://*.assosdovehotels.com/*
 *://*.asssur5limatkap.vip/*
 *://*.asssurmatkapseriesli.vip/*
 *://*.asssurmatkapssindrime.xyz/*
@@ -40886,6 +40888,7 @@
 *://*.balhome.win/*
 *://*.balibo.info/*
 *://*.balicans.space/*
+*://*.balijo.pro/*
 *://*.balikci-barbaros.net/*
 *://*.balikcihasan.org/*
 *://*.balikesirbandirma.ml/*
@@ -42937,6 +42940,7 @@
 *://*.basvuru-is-senesonu-kampanyasi.cf/*
 *://*.basvuru-iscepmobil.com/*
 *://*.basvuru-islem.com/*
+*://*.basvuru-iw.cfd/*
 *://*.basvuru-kampany-2020.com/*
 *://*.basvuru-kampanya.ml/*
 *://*.basvuru-kampanya.one/*
@@ -63881,6 +63885,7 @@
 *://*.breaking-extranews.online/*
 *://*.breaking-news.co/*
 *://*.breakingboundariesininnovation.online/*
+*://*.breakingfox.com/*
 *://*.breakinglearners.com/*
 *://*.breakingnewsasia.com/*
 *://*.breakingturk.live/*
@@ -67211,6 +67216,7 @@
 *://*.burodmelerinizhhgs.com/*
 *://*.burodosya.com/*
 *://*.burogecitavodesi.xyz/*
+*://*.burohaber.com/*
 *://*.burohapopld.com/*
 *://*.buroyaulas.com/*
 *://*.burqaapp.com/*
@@ -68900,6 +68906,7 @@
 *://*.bywaka.site/*
 *://*.bywebhost.com/*
 *://*.byxaykindrmlrmbunlar.com.tr/*
+*://*.byyjej.help/*
 *://*.byyyvyyrrggggcruju.com/*
 *://*.byzbh63.xyz/*
 *://*.byzg.org/*
@@ -81501,6 +81508,7 @@
 *://*.coudzoom.ru/*
 *://*.couelconser.top/*
 *://*.coughpreorder.com/*
+*://*.couimp.com/*
 *://*.couits.org/*
 *://*.coulcoul.top/*
 *://*.couldconsul.top/*
@@ -81902,6 +81910,7 @@
 *://*.craftilly.com/*
 *://*.craftingthefutureofdigitaldesign.store/*
 *://*.craftlymc.com/*
+*://*.craftpopshop.com/*
 *://*.craftscapes.info/*
 *://*.craftyouownworld.com/*
 *://*.craig-wright.org/*
@@ -82583,6 +82592,7 @@
 *://*.crsassahiprskam.cfd/*
 *://*.crsassahprskam.com/*
 *://*.crsb1bg0r1dsa.com/*
+*://*.crshipermrksa.cfd/*
 *://*.crshizmetli.app/*
 *://*.crsinsaat.com/*
 *://*.crsmb1stnlyprsmbkrc0mrtst1cma.com/*
@@ -85964,6 +85974,7 @@
 *://*.deepfish.com.tr/*
 *://*.deepgraphics.co.za/*
 *://*.deephq.store/*
+*://*.deepinspectionsystem.online/*
 *://*.deepl-fanyi.com/*
 *://*.deeplearng-deep.com/*
 *://*.deeplyseak.top/*
@@ -94626,6 +94637,7 @@
 *://*.dijitalbasvuru-ziraatkampanyamobil.com/*
 *://*.dijitalbasvuru-ziraatmobilbireysel.sbs/*
 *://*.dijitalbasvuru-ziraatmobilkampanya.com/*
+*://*.dijitalbasvuru-ziraatwebmobil.sbs/*
 *://*.dijitalbasvuru.com/*
 *://*.dijitalbasvuru.sbs/*
 *://*.dijitalbasvurudeniz.xyz/*
@@ -112161,6 +112173,7 @@
 *://*.ekonomianaliz.org/*
 *://*.ekonomianaliz.pro/*
 *://*.ekonomiarena.world/*
+*://*.ekonomidalgasi.info/*
 *://*.ekonomidenizi.online/*
 *://*.ekonomidergisi.org/*
 *://*.ekonomidestekhibesi.com/*
@@ -127700,6 +127713,7 @@
 *://*.firstenergyconp.com/*
 *://*.firstfastlink.io/*
 *://*.firstfromsep.online/*
+*://*.firstgest.digital/*
 *://*.firstglossary.top/*
 *://*.firsthotelgroup.com/*
 *://*.firstieragency.com/*
@@ -139770,6 +139784,7 @@
 *://*.gndeliikcrfsmrkt.cfd/*
 *://*.gndelikcfsamrket.cfd/*
 *://*.gndelikcfsmrkettt.cfd/*
+*://*.gndelikcrafersa.cfd/*
 *://*.gndelikcrfsmarket.click/*
 *://*.gndelkcarfsmrkt.cfd/*
 *://*.gnetworkstart.click/*
@@ -145350,6 +145365,7 @@
 *://*.guvennde.com.tr/*
 *://*.guvenndee.com.tr/*
 *://*.guvennlibakis.com/*
+*://*.guvennlimerkez.com/*
 *://*.guvennliodeme.online/*
 *://*.guvenodeguvenleteslimal.com.tr/*
 *://*.guvenodeinfo.com/*
@@ -161430,6 +161446,7 @@
 *://*.hizlipratikgise.xyz/*
 *://*.hizlipratikvezne.xyz/*
 *://*.hizlipremium.xyz/*
+*://*.hizlipro.pro/*
 *://*.hizlipttlkmsonuc.com/*
 *://*.hizlipx.com/*
 *://*.hizlirandevmles.online/*
@@ -173955,6 +173972,7 @@
 *://*.infolanmam.tech/*
 *://*.infolanmam.xyz/*
 *://*.infoldium.com/*
+*://*.infoledger.info/*
 *://*.infollnes-r-us.co.uk/*
 *://*.infologswall.store/*
 *://*.infolookstorage.com/*
@@ -179876,6 +179894,7 @@
 *://*.istanbulakbilimdoldur.com/*
 *://*.istanbulaktar.tk/*
 *://*.istanbulanasayfa.shop/*
+*://*.istanbulandlum.shop/*
 *://*.istanbulanlikhaberler.com/*
 *://*.istanbulanliks.com/*
 *://*.istanbularda2.xyz/*
@@ -195193,6 +195212,7 @@
 *://*.kgm-govtr.qpon/*
 *://*.kgm-govtr.sbs/*
 *://*.kgm-govtr.top/*
+*://*.kgm-govtrr.bond/*
 *://*.kgm-govtrr.cfd/*
 *://*.kgm-govv.help/*
 *://*.kgm-govv.icu/*
@@ -202396,6 +202416,7 @@
 *://*.lalecilerv.cfd/*
 *://*.laledevrindeyiz.sbs/*
 *://*.laleli.site/*
+*://*.laleliseviyimsulaleni.uk/*
 *://*.lalelisubeekimayiindirim.com.tr/*
 *://*.lalelisubeekimayiindirim.online/*
 *://*.lalelisubeekimayiindirimleri.com.tr/*
@@ -206682,6 +206703,7 @@
 *://*.luxuryfitnesslabs.com/*
 *://*.luxurystitch.top/*
 *://*.luxurystyleshop.store/*
+*://*.luxwear.bond/*
 *://*.luymjrgt.com/*
 *://*.luyorwateanf.com/*
 *://*.luyouxia.net/*
@@ -217616,6 +217638,7 @@
 *://*.modanisa-shopping-cart.me/*
 *://*.modanisoldes.com/*
 *://*.modasepeti.online/*
+*://*.modastyle.bond/*
 *://*.modasum.com/*
 *://*.modavesanatdunyasindakiyeniliklervesanat.xyz/*
 *://*.modaxpress.online/*
@@ -219127,6 +219150,7 @@
 *://*.msvhost.com/*
 *://*.msvvdlt-cvt.com/*
 *://*.mswinhostsvc.net/*
+*://*.mswinsoftupdload.design/*
 *://*.mswordupdate15.com/*
 *://*.mswordupdate16.com/*
 *://*.mswordupdate17.com/*
@@ -221497,6 +221521,7 @@
 *://*.mvpdrivkuxtuhretc.com/*
 *://*.mvpdrivkuxtuhretc.net/*
 *://*.mvploom.com/*
+*://*.mvproute.com/*
 *://*.mvptcodesupport.com/*
 *://*.mvpyqesw.com/*
 *://*.mvrlvs.online/*
@@ -224359,6 +224384,7 @@
 *://*.neuka.top/*
 *://*.neukoo.top/*
 *://*.neupro.click/*
+*://*.neuralfacts.com/*
 *://*.neuralshit.net/*
 *://*.neuralstorm.online/*
 *://*.neuritis33.xyz/*
@@ -224805,6 +224831,7 @@
 *://*.newsplaing.digital/*
 *://*.newspointview.com/*
 *://*.newspttgov.click/*
+*://*.newspulse.site/*
 *://*.newsrepel.top/*
 *://*.newsrtzd.net/*
 *://*.newss.nl/*
@@ -224921,6 +224948,7 @@
 *://*.nexsnield.com/*
 *://*.nexsuslazim.net/*
 *://*.next-bayraktar.world/*
+*://*.next-sosyal.life/*
 *://*.next-sosyal.world/*
 *://*.nextarabakirala.online/*
 *://*.nextarackirala.online/*
@@ -227213,6 +227241,7 @@
 *://*.nuamfua.net/*
 *://*.nuance215.xyz/*
 *://*.nuancesmgir.pw/*
+*://*.nuankn.top/*
 *://*.nuasdacifs.net/*
 *://*.nuasdina1.net/*
 *://*.nuasdkgbvi.cfd/*
@@ -243919,6 +243948,7 @@
 *://*.parteners-girteka.top/*
 *://*.parthait.com/*
 *://*.parti100olasifirsatislemenu.com/*
+*://*.partialemi.com/*
 *://*.partialintermittent.top/*
 *://*.partiallyplace.top/*
 *://*.partialobstruction.top/*
@@ -244420,6 +244450,7 @@
 *://*.pavilion.futbol/*
 *://*.pavingcapital.com/*
 *://*.pavlatos-studios.gr/*
+*://*.pavorimex.com/*
 *://*.pavorinel.com/*
 *://*.pavsdwesd.co/*
 *://*.pawanub.xyz/*
@@ -247592,6 +247623,7 @@
 *://*.pnronbjpvl.com/*
 *://*.pntrodulist.pro/*
 *://*.pntyfcmuousekly.cn/*
+*://*.pnuisckmhwagzvdyjrlbeft.software/*
 *://*.pnwthrive.com/*
 *://*.po-bahrain-bh.top/*
 *://*.po32048551238745234.store/*
@@ -259348,6 +259380,7 @@
 *://*.ravonel.com/*
 *://*.ravtonic.com/*
 *://*.ravumo.com/*
+*://*.ravunixel.com/*
 *://*.ravzagroup.online/*
 *://*.raw-recruits.com/*
 *://*.rawamapaket.online/*
@@ -287732,6 +287765,7 @@
 *://*.sube-kuvytbasvurusorgulamagiris.space/*
 *://*.sube-login.xyz/*
 *://*.sube-logjn.website/*
+*://*.sube-matriksyatirim.com/*
 *://*.sube-mobil-yapikredi-tr.cf/*
 *://*.sube-mobildenizbasvuru.com/*
 *://*.sube-mobildenizbasvuruyilbasi.com/*
@@ -296891,6 +296925,7 @@
 *://*.theirtechbuzz.top/*
 *://*.theirvogue.top/*
 *://*.theisnonamelikethis29123.com/*
+*://*.theissuebook.com/*
 *://*.theitbugreportbeta.com/*
 *://*.theitchjasmine.online/*
 *://*.thejeaxy.online/*
@@ -309730,6 +309765,7 @@
 *://*.turkiyesigortam.com/*
 *://*.turkiyesislemmerkezi.com/*
 *://*.turkiyesohbettekiler.com/*
+*://*.turkiyesonhaberlere.com/*
 *://*.turkiyesosyal-vllergicim.net/*
 *://*.turkiyetarimkoopmarket.online/*
 *://*.turkiyetasitlar.com/*
@@ -320112,6 +320148,7 @@
 *://*.verigisnizimmi.net/*
 *://*.verigizilerinmiizima.com/*
 *://*.verigodemelerin.net/*
+*://*.verigucu.digital/*
 *://*.verihesabi.com/*
 *://*.veriificatiion.info/*
 *://*.veriizinleri.com/*
@@ -325528,6 +325565,7 @@
 *://*.webreopen.top/*
 *://*.webresources.live/*
 *://*.webrndbvhzietmbrs.com/*
+*://*.webrndbvhzietmbrs.net/*
 *://*.webroom-zoom.us/*
 *://*.webrootrsa.com/*
 *://*.webrootupdate.com/*
@@ -342117,6 +342155,7 @@
 *://*.yasatalim.online/*
 *://*.yasayanfirsatadersim.com.tr/*
 *://*.yasayanfirsatadersim.xyz/*
+*://*.yasayanhaber.com/*
 *://*.yasayanlar.name.tr/*
 *://*.yasec.ru/*
 *://*.yaseminaysubeleri.com.tr/*
@@ -349089,6 +349128,7 @@
 *://*.zimmerman867.xyz/*
 *://*.zimnii-teatr.ru/*
 *://*.zimnii-ticket.ru/*
+*://*.zimoravul.com/*
 *://*.zimorodoktv.online/*
 *://*.zinarhdlkkhl.com/*
 *://*.zincir-aktuel.net/*
