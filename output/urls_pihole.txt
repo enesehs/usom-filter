@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-26 20:23:10 UTC
-# Toplam: 441404 Domain
+# Son Güncelleme: 2026-02-26 21:23:43 UTC
+# Toplam: 441413 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -211748,6 +211748,7 @@ iletisim-sorgulama-aktarma.sbs
 iletisim-sorgulama-ve-aktarim.cfd
 iletisim-sorgulama-yonlendirme.one
 iletisim-trhazineiadeniz96.com
+iletisim-tutarogren-donusum.sbs
 iletisim-uygulamasi-gov-tr.club
 iletisim-ve-aktarim-ekrani.online
 iletisim20gbmobil.com
@@ -214231,6 +214232,7 @@ indirimfisatlarindanfayadalanmayankalmasin.online
 indirimfisatlarindanfayadalanmayankalmasin.xyz
 indirimfrstlarindayz.click
 indirimgecesia101.shop
+indirimgeldikampanya101.com
 indirimgezegeni.com.tr
 indirimgnleri.cfd
 indirimgnleri.com
@@ -248269,6 +248271,7 @@ kurdumjuzdani.com
 kurdumsalhizmet.cfd
 kurdyolu2.net
 kureker23451kk5433.duckdns.org
+kureker41645345.duckdns.org
 kureseicq1.com
 kureseicq2.com
 kureseicq3.com
@@ -340992,6 +340995,7 @@ selenivak.online
 selenive.bomqs.77-83-201-134.plesk.page
 selenive.resmigazetem.77-83-201-134.plesk.page
 selenivece.xyz
+selenk3441jh23.duckdns.org
 selenkurumu.online
 selentech.click
 selenyardim.net
@@ -343394,6 +343398,7 @@ servisleriminternetten.net
 servislerimiz.com.tr
 servislerin.net
 servisleriniz-fokus.net
+servislerinizlink.com
 servislerplus.xyz
 servislersizlerle.xyz
 servismikro.nichesite.org
@@ -352564,6 +352569,7 @@ sokkfirsatlarcepte.b-cdn.net
 sokkfristlarkcmzflrksmckz.mooo.com
 sokkindirimleer.com
 sokkkkampanyalardahemenflrsatal.site
+sokkkkmar-ketfirsat-spetim.cfd
 sokkkkmarket.online
 sokkkta-bayyramfirstlrri.com
 sokklima-ozel.com.tr
@@ -354179,6 +354185,7 @@ sonsuz-hislere-kuran-bizlerde-iyiyiz.com
 sonsuz-hizmetler.net
 sonsuz-saygilari-goren-hep-devamini-getirir.com
 sonsuzadek.click
+sonsuzadek.sbs
 sonsuzakadartok1.cyou
 sonsuzbilgelik.space
 sonsuzdan-bu-yana-sevgili-gunu-hissedin.com.tr
@@ -363199,6 +363206,7 @@ suqortamnet.com.tr
 suqortamnet.xyz
 suqxuqjedmv5.duckdns.org
 surangana.com
+surat-kargo.servislerinizlink.com
 suratcimqwe123.com
 suratelementres.zapto.org
 surathizmet.app
@@ -411248,6 +411256,7 @@ wq4wu83.duckdns.org
 wq66ig.duckdns.org
 wqafexzdp.com
 wqaibkk.ru
+wqawqa.qardashlar.cfd
 wqawqa.tadislksaslsssq.cfd
 wqbasityukleme.mywire.org
 wqbtewygh.ddns.net
