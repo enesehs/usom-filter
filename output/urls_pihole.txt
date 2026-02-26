@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-26 07:42:01 UTC
-# Toplam: 441035 Domain
+# Son Güncelleme: 2026-02-26 08:31:37 UTC
+# Toplam: 441048 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14132,6 +14132,7 @@
 49494944-11232.cloud
 49498489488449.duckdns.org
 4954.ddns.net
+4957519274.cloud
 495z2jiq.duckdns.org
 496465419874.cloud
 49651566151417.net
@@ -91909,6 +91910,7 @@ carfursea1.com
 carfurssa.shop
 cargo-turk.com
 cargoesconvoy.icu
+cargoesconvoys.icu
 cargoevaporate.top
 cargokoehler.de
 cargosavage.top
@@ -95568,6 +95570,7 @@ certifysop.com
 certiline.ddns.net
 certindia.chickenkiller.com
 certindia.ignorelist.com
+certralldspatch.com
 certralldspatch.top
 certserver.zapto.org
 cervamus.cf
@@ -104161,8 +104164,10 @@ contac-receve-app.duckdns.org
 contact-apple.com
 contact-click2399.com
 contact-click7773.com
+contact-efsllc.com
 contact-helpbusiness.com
 contact-nexo.com
+contact-timocom.com
 contact.rgssm.in
 contact021.hopto.org
 contactchoweysafe.ddns.net
@@ -147490,6 +147495,7 @@ ernier.shop
 ernigr-efsllc.com
 ernigr-efsllc.top
 ernigr-esfilc.com
+ernigr-esfilc.top
 ernlanstmasn2.net
 ernlmdwkpz.duckdns.org
 ernmlk.dev
@@ -207993,6 +207999,7 @@ iajlzdest.com
 ialbaraka.com
 ialbarakaturk.com
 ialecomhse.com
+iam-timocom.com
 iam-timocom.top
 iam-timocorn.icu
 iamblessed.duckdns.org
@@ -208008,6 +208015,7 @@ iamkazan.online
 iamkongu.com
 iamss.ir
 iamtimocomeu.com
+iamtimocomeu.top
 iamwbfdfxw.duckdns.org
 iamwhiskeymonday.com
 ianadaam.hopto.org
@@ -255117,6 +255125,7 @@ lp2tpju9yrz2fklj.lone-none-1807.workers.dev
 lp49roe.duckdns.org
 lp6kunfb.duckdns.org
 lpairdismi.lornatesta.ru
+lpanel-bumaepxuje-iframe.top
 lpanel-bumaepxuje.top
 lpanel-kkbnukltpo.top
 lparchv.click
@@ -265630,6 +265639,7 @@ migrosdenizkampanyalari.com
 migrosekstra.duckdns.org
 migrosextra-eonline.vercel.app
 migrosextra-ramazan.vercel.app
+migrosextra-ramazanozel.vercel.app
 migrosextram.vercel.app
 migrosguvenlisiparis.xyz
 migroshediye.club
@@ -302964,6 +302974,7 @@ partallomorte.com
 partcarfilo.com
 partdatalist.com
 parteafterparte.xyz
+parteners-girteka.com
 parteners-girteka.top
 parthait.com
 parti100olasifirsatislemenu.com
@@ -372747,6 +372758,7 @@ timmy66.ddns.net
 timocan.online
 timocan.shop
 timocomeuro.com
+timocomeuro.top
 timodz2013.zapto.org
 timofeytop.hopto.org
 timonocomo.top
@@ -408787,6 +408799,7 @@ wghya.com
 wgievsclqr.duckdns.org
 wgigdzuiom.duckdns.org
 wgipdk.com
+wgirteka.top
 wgiwswi0t.duckdns.org
 wgixx.com
 wgkaoe.com
