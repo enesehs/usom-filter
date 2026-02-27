@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-27 07:37:46 UTC
-! Total: 352015 rules
+! Last modified: 2026-02-27 08:27:23 UTC
+! Total: 352017 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -200977,6 +200977,7 @@
 *://*.kurmsalhszmt.shop/*
 *://*.kurnyreklamak.com/*
 *://*.kuroi-kingyo.com/*
+*://*.kursagindakalir.cyou/*
 *://*.kursunikibucuhmelyon.xyz/*
 *://*.kursusdigitalmarketingmalang.com/*
 *://*.kurtaran-iyiler-son-sozunde-sizle.com/*
@@ -335009,6 +335010,7 @@
 *://*.xn--avantajanndasizlerlee-sgd.com.tr/*
 *://*.xn--avantajrnlerinadresi-vecb.com/*
 *://*.xn--aviatrhilem-vfb.com/*
+*://*.xn--avisarakiralama-kmb.com/*
 *://*.xn--avislekiralk-c5b.net/*
 *://*.xn--avm-5la92da.com/*
 *://*.xn--awdada-2yae42ae31eea.com/*
