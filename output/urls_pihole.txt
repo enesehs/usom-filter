@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-27 21:23:11 UTC
-# Toplam: 441584 Domain
+# Son Güncelleme: 2026-02-27 22:11:55 UTC
+# Toplam: 441587 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -274164,6 +274164,7 @@ muayynerndvu.com
 muayynerndvu.xyz
 muazymaur.tk
 muazzam.cfd
+mubarekler.shop
 mubarekramazan.cyou
 mubarekramazan.sbs
 mubarekramazanlar.com
@@ -350958,6 +350959,7 @@ sliggywag.zapto.org
 slightcosmopolitan.top
 slightlybouquet.top
 slim-fast.net
+slim-og-r-n-l-o.myonlineportal.ch
 slim-world.xyz
 slimcannn.top
 slimeegg.ddns.net
@@ -398435,6 +398437,7 @@ vc.jjfdfe.icu
 vc.myobtain.com
 vc0038oti94ikr954.ml
 vc0jx7okg.duckdns.org
+vc231mmm343.duckdns.org
 vc6epqu.duckdns.org
 vc6fn2yrj.duckdns.org
 vca8iode2c.com
