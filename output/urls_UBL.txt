@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-27 06:36:26 UTC
-! Total: 352008 rules
+! Last modified: 2026-02-27 07:37:46 UTC
+! Total: 352015 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13667,6 +13667,7 @@
 *://*.a-101-cepte-tr.online/*
 *://*.a-101-comt-r.cfd/*
 *://*.a-101-comtr.cfd/*
+*://*.a-101-comtr.club/*
 *://*.a-101-comtr.online/*
 *://*.a-101-eylulfirsatlari.online/*
 *://*.a-101-firsat.shop/*
@@ -46673,6 +46674,7 @@
 *://*.beginwish.top/*
 *://*.begistic.site/*
 *://*.begjeopardize.top/*
+*://*.begl-ena-yi.sbs/*
 *://*.begonya.name.tr/*
 *://*.begonya.site/*
 *://*.begrutch.live/*
@@ -57121,6 +57123,7 @@
 *://*.bizimgaripdunyamiz.com/*
 *://*.bizimhaber.club/*
 *://*.bizimhaber.site/*
+*://*.bizimicinoldu.sbs/*
 *://*.bizimilegelir.net/*
 *://*.bizimilerandeval.com/*
 *://*.bizimilerandeval.net/*
@@ -160249,6 +160252,7 @@
 *://*.hizli-basvuru.xyz/*
 *://*.hizli-basvurukuwttrk.net/*
 *://*.hizli-basvurukuwtturk.net/*
+*://*.hizli-basvurum.vip/*
 *://*.hizli-basvuruyenisubeonay.com/*
 *://*.hizli-bayramsubeozelonay.com/*
 *://*.hizli-bimcell.com/*
@@ -164406,6 +164410,7 @@
 *://*.hpeemnapan.net/*
 *://*.hpermrketcarforsa.cfd/*
 *://*.hpermrktcrfsa.cfd/*
+*://*.hpersnalmrketslymanca.cfd/*
 *://*.hpgrmku.com/*
 *://*.hpgseg.org/*
 *://*.hpindl.com/*
@@ -284562,6 +284567,7 @@
 *://*.spnsoredyapiadresi.com/*
 *://*.spnsorlu-59012-icerik.online/*
 *://*.spnsorlu-669129229.online/*
+*://*.spnsorlu-reklamlar-burda.me/*
 *://*.spnsorlukampanya.com/*
 *://*.spnsorlukampanyalarim.com/*
 *://*.spnsorlypdayypi.com/*
@@ -314420,6 +314426,7 @@
 *://*.uwqs.club/*
 *://*.uwtvhqb.com/*
 *://*.uwustore.xyz/*
+*://*.uwustyleuwustyle.cfd/*
 *://*.uwwecpquoldsdms.su/*
 *://*.uwxtap.top/*
 *://*.uwzjxcsvz.info/*
