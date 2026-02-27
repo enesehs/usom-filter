@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-27 00:58:21 UTC
-! Total: 352001 rules
+! Last modified: 2026-02-27 03:26:57 UTC
+! Total: 352005 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -98448,6 +98448,7 @@
 *://*.dqbt8c1.cn/*
 *://*.dqdefqfw-fqfwyta-gqfsuw.lol/*
 *://*.dqdihx9ddf.com/*
+*://*.dqdznkmpnrprs.xyz/*
 *://*.dqemzppuwfurksorvdaxovca.info/*
 *://*.dqhpvazlm.com/*
 *://*.dqibixr.com/*
@@ -100056,6 +100057,7 @@
 *://*.dzitech.net/*
 *://*.dzkrpik.cn/*
 *://*.dzlgcspolositon.net/*
+*://*.dznkmpnrprs.xyz/*
 *://*.dzoneshop.shop/*
 *://*.dzopky.help/*
 *://*.dzpfihdnfajg.com/*
@@ -182719,6 +182721,7 @@
 *://*.iyiizlenim.online/*
 *://*.iyikalpler.net/*
 *://*.iyikidogdunhalk.com/*
+*://*.iyikivarsinizramazan.club/*
 *://*.iyikligunler.com/*
 *://*.iyikogrji.digital/*
 *://*.iyikupon.com/*
@@ -198565,6 +198568,7 @@
 *://*.konturpaketyukleme.net/*
 *://*.kontz.click/*
 *://*.konu-sayfa.digital/*
+*://*.konudelideli.sbs/*
 *://*.konumae1.com/*
 *://*.konumateslimarabalar.online/*
 *://*.konumateslimat.site/*
