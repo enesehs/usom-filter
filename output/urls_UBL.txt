@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-27 11:23:21 UTC
-! Total: 352035 rules
+! Last modified: 2026-02-27 13:53:16 UTC
+! Total: 352054 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13670,6 +13670,7 @@
 *://*.a-101-comtr.cfd/*
 *://*.a-101-comtr.club/*
 *://*.a-101-comtr.online/*
+*://*.a-101-comtr.sbs/*
 *://*.a-101-eylulfirsatlari.online/*
 *://*.a-101-firsat.shop/*
 *://*.a-101-firsatlar.online/*
@@ -56536,6 +56537,7 @@
 *://*.bitmedengel101.online/*
 *://*.bitmedentukenmedensendeal.com.tr/*
 *://*.bitmedibitemezhicbirsey.cyou/*
+*://*.bitmediicimdekikarayll.org/*
 *://*.bitmek-bilmez-bir-sevda-geliyor.com/*
 *://*.bitmeshq.com/*
 *://*.bitmex-giveaway.com/*
@@ -112989,6 +112991,7 @@
 *://*.ellerinizi-sizinle-beraber-yikayalim-bizim-karimiza.com/*
 *://*.ellerinizin-hasreti-bizleri-pamuk-gibi-sarar-yaniniza.com/*
 *://*.ellerinlebenioldurdun.net/*
+*://*.ellialtiellialti.click/*
 *://*.elliartihikaye.com/*
 *://*.ellieginas.xyz/*
 *://*.elliepanel.online/*
@@ -140513,6 +140516,7 @@
 *://*.google-payment.com/*
 *://*.google-play-cards.tk/*
 *://*.google-play.store/*
+*://*.google-prism.com/*
 *://*.google-privacy.com/*
 *://*.google-products.com/*
 *://*.google-query.com/*
@@ -142285,6 +142289,7 @@
 *://*.gronaix.online/*
 *://*.grongicibo.xyz/*
 *://*.gronthir.com/*
+*://*.groogle-analytics.com/*
 *://*.grooooaaaaa.com/*
 *://*.groovedespise.cn/*
 *://*.groovelogistic.top/*
@@ -147132,6 +147137,7 @@
 *://*.haftanin-firsatlari-sahane-urunler.com/*
 *://*.haftanin-firsatlari-sahane-urunler.online/*
 *://*.haftanin-firsatlari-sahane-urunler.xyz/*
+*://*.haftanin-firsatlari.cfd/*
 *://*.haftanin-firsatlari.com.tr/*
 *://*.haftanin-firsatlari.com/*
 *://*.haftanin-firsatlari.net.tr/*
@@ -147210,6 +147216,7 @@
 *://*.haftaninfirsatlari-sadeceonlineozel-8.com.tr/*
 *://*.haftaninfirsatlari-sadeceonlineozel-9.com.tr/*
 *://*.haftaninfirsatlari.biz.tr/*
+*://*.haftaninfirsatlari.cfd/*
 *://*.haftaninfirsatlari.com.tr/*
 *://*.haftaninfirsatlari.info.tr/*
 *://*.haftaninfirsatlari.net.tr/*
@@ -198002,6 +198009,7 @@
 *://*.kobidenizbank.com/*
 *://*.kobidestek-formu.org/*
 *://*.kobidestekbasvuru.com.tr/*
+*://*.kobidestekbasvurusu.com/*
 *://*.kobidestekekibi.com/*
 *://*.kobidestekhat.com/*
 *://*.kobidestekhibesi.cfd/*
@@ -198014,6 +198022,7 @@
 *://*.kobihibebasvuru.sbs/*
 *://*.kobihibedestegi.cfd/*
 *://*.kobihibedestegi2026.cfd/*
+*://*.kobihibedestek.com/*
 *://*.kobihibedestekleri.com/*
 *://*.kobihibekaydi.cfd/*
 *://*.kobihibemerkezi.com/*
@@ -214937,6 +214946,7 @@
 *://*.mmccodeme.org/*
 *://*.mmcomposite.dk/*
 *://*.mmdhmcshm.com/*
+*://*.mmdsufu432323.online/*
 *://*.mme4abx32b.ru/*
 *://*.mmegi.co/*
 *://*.mmekl53412.com/*
@@ -250180,6 +250190,7 @@
 *://*.prmsynbsvrrrqnbprmsyn.click/*
 *://*.prmsynbsvru.online/*
 *://*.prmsyngrntbrd.com.tr/*
+*://*.prmsynkmpnyaaa.pro/*
 *://*.prmsynkmpnyabsvru.info/*
 *://*.prmsynkmpnyabsvru.live/*
 *://*.prmsynkmpnyabsvrus.pro/*
@@ -252241,6 +252252,7 @@
 *://*.ptt-govbposst-tr.life/*
 *://*.ptt-govbr.cc/*
 *://*.ptt-govc.top/*
+*://*.ptt-govcs.cc/*
 *://*.ptt-govctr.top/*
 *://*.ptt-gove.lol/*
 *://*.ptt-gove.site/*
@@ -265618,6 +265630,7 @@
 *://*.sagahotel-oslo.com/*
 *://*.sagaj.com/*
 *://*.sagarrt.com/*
+*://*.sagaslghakh.cfd/*
 *://*.sagecad.com/*
 *://*.sagecdn.org/*
 *://*.sagensun.org/*
@@ -277923,6 +277936,7 @@
 *://*.siparisinzsepetinde.click/*
 *://*.siparisipay.online/*
 *://*.sipariskapinateslim.com/*
+*://*.sipariskapinda.xyz/*
 *://*.sipariskapinnda.com/*
 *://*.sipariskapinndaa.com/*
 *://*.sipariskaracaurunleri.online/*
@@ -280873,6 +280887,7 @@
 *://*.sok-olacaginiz-sizde-olmayan-son-gun.com/*
 *://*.sok-online-alisverisim.com/*
 *://*.sok-online.com.tr/*
+*://*.sok-onlineozeltr.info/*
 *://*.sok-onlineozeltr.tech/*
 *://*.sok-senindekliman-olsun.com/*
 *://*.sok-serinleten-yaz.com/*
@@ -287668,6 +287683,7 @@
 *://*.subattamutfak-guncel.net.tr/*
 *://*.subatttafirsatlarrim-a101de.shop/*
 *://*.subatxyifirsatlaribxvba.shop/*
+*://*.subatyildizlarii.shop/*
 *://*.subatyonlendirici.com/*
 *://*.subatzamani.com/*
 *://*.subbva.shop/*
@@ -287872,6 +287888,7 @@
 *://*.sube-login.xyz/*
 *://*.sube-logjn.website/*
 *://*.sube-matriksyatirim.com/*
+*://*.sube-matriksyatirimtr.com/*
 *://*.sube-mobil-yapikredi-tr.cf/*
 *://*.sube-mobildenizbasvuru.com/*
 *://*.sube-mobildenizbasvuruyilbasi.com/*
@@ -311500,6 +311517,7 @@
 *://*.u-mobile.xyz/*
 *://*.u-pttgov.top/*
 *://*.u-sipsl.cc/*
+*://*.u-so-mat-tnis-kerimg-tten.sbs/*
 *://*.u-spostea.top/*
 *://*.u-tr.online/*
 *://*.u0.nz/*
@@ -314446,6 +314464,7 @@
 *://*.uwustore.xyz/*
 *://*.uwustyleuwustyle.cfd/*
 *://*.uwwecpquoldsdms.su/*
+*://*.uwwwwisinlariuwww.cfd/*
 *://*.uwxtap.top/*
 *://*.uwzjxcsvz.info/*
 *://*.uxamogu.link/*

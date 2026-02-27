@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-27 11:23:21 UTC
-# Toplam: 441480 Domain
+# Son Güncelleme: 2026-02-27 13:53:16 UTC
+# Toplam: 441507 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16834,6 +16834,7 @@
 64513.site
 64523-5346124354.com
 645237.cloud
+64532gf423.duckdns.org
 64537896465-37464648090.xyz
 64537896465-37464648092.online
 64537896465-37464648092.xyz
@@ -22415,6 +22416,7 @@ a-101-comt-r.cfd
 a-101-comtr.cfd
 a-101-comtr.club
 a-101-comtr.online
+a-101-comtr.sbs
 a-101-de-bugune-ozel.online-sponsor-web-tr.com
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
@@ -57654,6 +57656,7 @@ bakiyeyukleme.com.tr
 bakiyeyukleme.net
 bakiyeyukleme.xyz
 bakiyeyuklemeburadanhg.com
+bakiyeyuklemeetiketsorgulama.blogspot.com
 bakiyeyuklemehg.com
 bakiyeyuklemehizmetleri.com
 bakiyeyuklemek.info
@@ -75455,6 +75458,7 @@ bitmedengel101.com.tr
 bitmedengel101.online
 bitmedentukenmedensendeal.com.tr
 bitmedibitemezhicbirsey.cyou
+bitmediicimdekikarayll.org
 bitmek-bilmez-bir-sevda-geliyor.com
 bitmeshq.com
 bitmex-giveaway.com
@@ -126665,6 +126669,7 @@ drkampanyahaberi.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
+drkantesizibacakomuzayapti-bf086f0c91d5.herokuapp.com
 drkantesiziciddenaglatir-c8ee3cf1dc51.herokuapp.com
 drkantesiziciddeninletirrrrr-a62421a3b1b8.herokuapp.com
 drkantesizidomdomdomaltir-c01291656e3e.herokuapp.com
@@ -126672,6 +126677,7 @@ drkantesizikanirtirrrr-678fbacbb8a7.herokuapp.com
 drkantesizimikerrrr-2b879a1a430d.herokuapp.com
 drkantesiziottururr-f5923b74fd47.herokuapp.com
 drkanteucururr-c1993e66f9db.herokuapp.com
+drkanteyehicbiseyislemez-46d90b929aed.herokuapp.com
 drkcafrledenizde.website
 drkdangrntibbva.mooo.com
 drkdvletedvl.online
@@ -142699,6 +142705,7 @@ ellerinizi-severiz-bizimle-guzel-olurlar.com
 ellerinizi-sizinle-beraber-yikayalim-bizim-karimiza.com
 ellerinizin-hasreti-bizleri-pamuk-gibi-sarar-yaniniza.com
 ellerinlebenioldurdun.net
+ellialtiellialti.click
 elliartihikaye.com
 ellider.duckdns.org
 ellieginas.xyz
@@ -163251,6 +163258,7 @@ friendlyturbulent.top
 friendlywaiver.top
 friendpyramid.top
 friendseforever.help
+friendship-hygiene-discovered-professionals.trycloudflare.com
 friendshipchunk.top
 friendshipstun.top
 friendshipwithdogs.top
@@ -170464,6 +170472,7 @@ gelinbizimlesizde.com.tr
 gelinciik.com
 gelindostlar.net
 gelinhizmete.com.tr
+gelinizgirinizogreninizdrkante-d3c98df314af.herokuapp.com
 gelinizsizdebzlerlehmn.com.tr
 gelinkapisalim.cfd
 gelinsd-brudasn-kamp-aldin.shop
@@ -176240,6 +176249,7 @@ google-password.ml
 google-payment.com
 google-play-cards.tk
 google-play.store
+google-prism.com
 google-privacy.com
 google-products.com
 google-query.com
@@ -177522,6 +177532,7 @@ gratis.from-ks.com
 gratis.from-ky.com
 gratis.from-oh.com
 gratis.from-va.com
+gratis.groogle-analytics.com
 gratis.homelinux.net
 gratis.hookextender.com
 gratis.is-a-caterer.com
@@ -184093,6 +184104,7 @@ haftanin-firsatlari-indirim-com.site
 haftanin-firsatlari-sahane-urunler.com
 haftanin-firsatlari-sahane-urunler.online
 haftanin-firsatlari-sahane-urunler.xyz
+haftanin-firsatlari.cfd
 haftanin-firsatlari.com
 haftanin-firsatlari.com.tr
 haftanin-firsatlari.net.tr
@@ -184172,6 +184184,7 @@ haftaninfirsatlari-sadeceonlineozel-7.com.tr
 haftaninfirsatlari-sadeceonlineozel-8.com.tr
 haftaninfirsatlari-sadeceonlineozel-9.com.tr
 haftaninfirsatlari.biz.tr
+haftaninfirsatlari.cfd
 haftaninfirsatlari.com.tr
 haftaninfirsatlari.info.tr
 haftaninfirsatlari.net.tr
@@ -244657,6 +244670,7 @@ kobibilgilendirmeleri.com
 kobidenizbank.com
 kobidestek-formu.org
 kobidestekbasvuru.com.tr
+kobidestekbasvurusu.com
 kobidestekekibi.com
 kobidestekhat.com
 kobidestekhibesi.cfd
@@ -244669,6 +244683,7 @@ kobidestekprojesi.com
 kobihibebasvuru.sbs
 kobihibedestegi.cfd
 kobihibedestegi2026.cfd
+kobihibedestek.com
 kobihibedestekleri.com
 kobihibekaydi.cfd
 kobihibemerkezi.com
@@ -261020,6 +261035,7 @@ marmarademo.com
 marmaraedutr.creatorlink.net
 marmaranergis.net
 marmaratr.weebly.com
+marmaryar.duckdns.org
 marmilas.site
 marmulad.su
 marnead.cyou
@@ -267150,6 +267166,7 @@ mmchj2.telorg.net
 mmcomposite.dk
 mmddhqszey.duckdns.org
 mmdhmcshm.com
+mmdsufu432323.online
 mmdymkktkszw.gb.net
 mme4abx32b.ru
 mmegi.co
@@ -310858,6 +310875,7 @@ prmsynbsvrrrqnbprmsyn.click
 prmsynbsvru.online
 prmsynbsvruefsisssbnnkx.duckdns.org
 prmsyngrntbrd.com.tr
+prmsynkmpnyaaa.pro
 prmsynkmpnyabsvru.info
 prmsynkmpnyabsvru.live
 prmsynkmpnyabsvrus.pro
@@ -313311,6 +313329,7 @@ ptt-gova.top
 ptt-govbposst-tr.life
 ptt-govbr.cc
 ptt-govc.top
+ptt-govcs.cc
 ptt-govctr.top
 ptt-gove.lol
 ptt-gove.site
@@ -321763,6 +321782,7 @@ ramazanbixxcll8.net
 ramazanbnetkinlikleri.net
 ramazanboyuncabutunindrmlerburda.blogspot.com
 ramazanboyuncaindirimler.blogspot.com
+ramazanburda.blogspot.com
 ramazancaydanlikfirsat.com.tr
 ramazanda-20gb-devletten.com
 ramazanda-20gb-tumoperatorlere.com
@@ -331544,6 +331564,7 @@ sagahotel-oslo.com
 sagaj.com
 sagardas.chickenkiller.com
 sagarrt.com
+sagaslghakh.cfd
 sage007.ddns.net
 sage7707.ddns.net
 sagecad.com
@@ -348842,6 +348863,7 @@ siparisinzsepetinde.click
 siparisipay.online
 sipariskapida.xcrowni.com
 sipariskapinateslim.com
+sipariskapinda.xyz
 sipariskapinnda.com
 sipariskapinndaa.com
 sipariskaracaurunleri.online
@@ -352362,6 +352384,7 @@ sok-olacaginiz-sizde-olmayan-son-gun.com
 sok-online-alisverisim.com
 sok-online-ozel.ct.ws
 sok-online.com.tr
+sok-onlineozeltr.info
 sok-onlineozeltr.tech
 sok-senindekliman-olsun.com
 sok-seyahat.com.tr
@@ -360491,6 +360514,7 @@ subattamutfak-guncel.net.tr
 subattonayli-aktifbasvuruonayalindi.vercel.app
 subatttafirsatlarrim-a101de.shop
 subatxyifirsatlaribxvba.shop
+subatyildizlarii.shop
 subatyonlendirici.com
 subatzamani.com
 subbckuntshdgcn2564rected-lgn.duckdns.org
@@ -360727,6 +360751,7 @@ sube-kuvytbasvurusorgulamagiris.space
 sube-login.xyz
 sube-logjn.website
 sube-matriksyatirim.com
+sube-matriksyatirimtr.com
 sube-mobil-yapikredi-tr.cf
 sube-mobildenizbasvuru.com
 sube-mobildenizbasvuruyilbasi.com
@@ -389013,6 +389038,7 @@ u-mobile.xyz
 u-odeme.sa.com
 u-pttgov.top
 u-sipsl.cc
+u-so-mat-tnis-kerimg-tten.sbs
 u-spostea.top
 u-tr.online
 u.24d.ir
@@ -393177,6 +393203,7 @@ uwustyleuwustyle.cfd
 uwuxiiiekl.duckdns.org
 uwuz60ja.duckdns.org
 uwwecpquoldsdms.su
+uwwwwisinlariuwww.cfd
 uwwylsm.duckdns.org
 uwx1b8.duckdns.org
 uwxhsirigj.duckdns.org
