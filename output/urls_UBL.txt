@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-27 18:27:44 UTC
-! Total: 352092 rules
+! Last modified: 2026-02-27 19:24:44 UTC
+! Total: 352097 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -71513,6 +71513,7 @@
 *://*.cavityredundant.top/*
 *://*.cawltxgaebicfc.cc/*
 *://*.cawra3645.com/*
+*://*.cay-firsati-yakala.net/*
 *://*.cay-makinesi.online/*
 *://*.cayatiw.xyz/*
 *://*.caydanlik-firsat.biz.tr/*
@@ -146479,6 +146480,7 @@
 *://*.haberanaliz.site/*
 *://*.haberarasi.world/*
 *://*.haberasya.com/*
+*://*.haberavrupa.online/*
 *://*.haberavrupa.org/*
 *://*.haberbasinfirsatlari.com/*
 *://*.haberbildirim.sbs/*
@@ -206417,6 +206419,7 @@
 *://*.lstnblklklkl.com/*
 *://*.lstnblkrtdldr.net/*
 *://*.lstnbllkrtdlm.net/*
+*://*.lstnbluneniysibzolcz.cfd/*
 *://*.lstnbul.com/*
 *://*.lsube-ziraatbankasi.com/*
 *://*.lsuhhf.top/*
@@ -280835,6 +280838,7 @@
 *://*.sok-ceptemarket.com/*
 *://*.sok-com-tr-kampanya.top/*
 *://*.sok-com-tr.top/*
+*://*.sok-com0-sonfirsat-lar0xa11.cfd/*
 *://*.sok-daha-ucuz-yok.space/*
 *://*.sok-daha-ucuzu-yok.space/*
 *://*.sok-dakcmaz.sbs/*
@@ -283732,6 +283736,7 @@
 *://*.sosyalmedyahizmetlerim.tk/*
 *://*.sosyalmedyakazan.com/*
 *://*.sosyalmedyayonetimplatformlari.xyz/*
+*://*.sosyalmedyaziyaretcil2.online/*
 *://*.sosyalogrenci.info/*
 *://*.sosyalpaketciniz.ml/*
 *://*.sosyalpaketler.xyz/*

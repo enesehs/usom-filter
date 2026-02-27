@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-27 18:27:44 UTC
-# Toplam: 441558 Domain
+# Son Güncelleme: 2026-02-27 19:24:44 UTC
+# Toplam: 441569 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -92956,6 +92956,7 @@ cawtrfcywt.duckdns.org
 cax1ch.duckdns.org
 caxtuxs.duckdns.org
 caxxxtrlgw.duckdns.org
+cay-firsati-yakala.net
 cay-makinesi.online
 cay6pp.duckdns.org
 cayatiw.xyz
@@ -107014,6 +107015,7 @@ crusora.com
 crustaesthetics.top
 cruzballard435.xyz
 cruzroja2.ddns.net
+crv-g-r-n-l-l.myonlineportal.ch
 crvenazvezda.ddns.net
 crvmsoa.com
 crvsigortam.site
@@ -166192,6 +166194,7 @@ garanti-subesi-giris.ws
 garanti-subesi-tr.com
 garanti-subesi.com
 garanti-subesi.gq
+garanti-suibe.my-homeip.net
 garanti-ten.vercel.app
 garanti-togg-cekilis.com
 garanti-tr-bbva.com
@@ -243705,6 +243708,7 @@ kmkkksorgulamacinargovptt.duckdns.org
 kmkkksorgulamaghovvvprrr.duckdns.org
 kmkkksorgulamagovkemal.web.app
 kmkkksorgulamagovvptt.shop
+kmkkksroegulamagovpttonru.duckdns.org
 kmkkksrogulamagovptthasan2.web.app
 kmkkksrogulamagovptthasan3.web.app
 kmkkmkslgrlmaburdaogren.web.app
@@ -255526,6 +255530,7 @@ lrk4aj.duckdns.org
 lrlgtqkefl.duckdns.org
 lrlhs.info
 lrlrumnfdo.duckdns.org
+lrm-g-r-n-l.myonlineportal.ch
 lrmficvqs.pw
 lro9m1.duckdns.org
 lrosokomoro.xyz
@@ -255707,6 +255712,7 @@ lstnblklkl.net
 lstnblklklkl.com
 lstnblkrtdldr.net
 lstnbllkrtdlm.net
+lstnbluneniysibzolcz.cfd
 lstnbul.com
 lstv-gl-rb-n.my-homeip.net
 lstxwsg.fehutop1.website
@@ -341527,6 +341533,7 @@ sendebizimlemisin.com.tr
 sendebizimlesin.co
 sendebizimlesin.com
 sendebnlardanbirisin.mooo.com
+sendebnsvd423.duckdns.org
 sendebubasvuruyakatilhemen.site
 sendebucekilisekkatil-hemenbasvur.com
 sendebufirsatakatilmalisin.online
@@ -352336,6 +352343,7 @@ sok-cebinde-com.top
 sok-ceptemarket.com
 sok-com-tr-kampanya.top
 sok-com-tr.top
+sok-com0-sonfirsat-lar0xa11.cfd
 sok-daha-ucuz-yok.space
 sok-daha-ucuzu-yok.space
 sok-dakcmaz.sbs
@@ -355564,6 +355572,7 @@ sosyalmedyahizmetler-tr.com
 sosyalmedyahizmetlerim.tk
 sosyalmedyakazan.com
 sosyalmedyayonetimplatformlari.xyz
+sosyalmedyaziyaretcil2.online
 sosyalogrenci.info
 sosyalpaketciniz.ml
 sosyalpaketler.xyz
@@ -375100,6 +375109,7 @@ tokibasvuru.com
 tokibasvuru.cyou
 tokibasvuru.duckdns.org
 tokibasvuru.ecubulls11fr.workers.dev
+tokibasvuru.haberavrupa.online
 tokibasvuru.info
 tokibasvuru.myvnc.com
 tokibasvuru.net
@@ -377010,6 +377020,7 @@ tr-418.h-sikayt-6.ru.com
 tr-451.gunceltrsikayetler-26.sbs
 tr-491.guncelsikaytlertr-21.sbs
 tr-491.sikayetinmivar-20.sbs
+tr-515.gunceltrsikayetler-20.sbs
 tr-53.guncelsikaytlertr-21.sbs
 tr-577.sikayetlervar-1.sbs
 tr-5yilparibu.com
