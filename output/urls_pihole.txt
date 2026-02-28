@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-28 11:09:04 UTC
-# Toplam: 441662 Domain
+# Son Güncelleme: 2026-02-28 12:23:42 UTC
+# Toplam: 441681 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22276,6 +22276,7 @@ a--10-1den-aralk-flrsatlari.cfd
 a--10-1den-kmpyanlar.sbs
 a--10-1den-ynliyliaozei.sbs
 a--10-1snal-mrklet-com.sbs
+a--101--comtr.cfd
 a--101-comtr.cfd
 a--101-comtr.duckdns.org
 a--101-firsatlarri.online
@@ -26083,6 +26084,7 @@ aalistreri.com
 aaliyahthatcher57464.xyz
 aallaall.ddns.net
 aallddiinnaaldin.online
+aallllclasdaadacasdcaskckasdcas.online
 aalogen.ddns.net
 aalolaalolaalolaalol.site
 aalrsn-mtlsnn.com
@@ -41433,6 +41435,7 @@ aldinaldinnisan.info.tr
 aldinaldinnisan.net.tr
 aldinaldinnisan.org.tr
 aldinaldinnnbufirstlarrkcvmckzmflflr.duckdns.org
+aldinaldinnnnn-sok-firsatlar000-aaax1.cfd
 aldinaldinnstok100.com
 aldinaldinnxindrmllrinde.net
 aldinaldinonline.com.tr
@@ -50596,6 +50599,7 @@ ascasdcsdac.duckdns.org
 ascasnuasdi.cfd
 ascdalcaksacasascdas.sbs
 ascdalcdsklasda.sbs
+ascdcdhdvhdfhdvgdf.cfd
 ascdkaslkcdlkdsfdsadsa.sbs
 asce.email
 ascendancetill.top
@@ -87463,6 +87467,7 @@ buradaniadenial.duckdns.org
 buradanistanbulluolun.com
 buradankatilin.com
 buradanlstanbullu.click
+buradanmutluyuz.com
 buradanodemehizmetlerin.net
 buradanrandevualmhxrs.org
 buradanyapabilrisinizonlineseklideonlinesekildeonline.st-esler.com
@@ -92020,6 +92025,7 @@ carfursa-online.site
 carfursa.mooo.com
 carfursa.site
 carfursa47ndrm.com
+carfursamarketonlne.cfd
 carfursea1.com
 carfurssa.shop
 cargo-turk.com
@@ -245443,6 +245449,7 @@ kontro-yuklebimas.net
 kontrol-ekranindan-bak.sbs
 kontrol-et-ucret-tutarini-siteden.cyou
 kontrol-sagla-ve-ogren.sbs
+kontrol-ve-ogrenme-ekrani.sbs
 kontrolarac.app
 kontrolbilesenleri.com
 kontroletdosyani.com
@@ -245964,6 +245971,7 @@ kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvuruformu.click
 kosgebbasvuruformu.com
+kosgebbasvurum.online
 kosgebbasvurusu.click
 kosgebbasvurusuu.click
 kosgebbasvuruu.online
@@ -264409,6 +264417,8 @@ merkezinhizlialisverisi.xyz
 merkezinizsistemi.net
 merkezinpazari.com
 merkezinteraktif.herokuapp.com
+merkezirandevu.cv
+merkezirandevu.sbs
 merkezirandevu.vip
 merkezirxndevuhizmeti.com
 merkezirxndevuhizmeti.net
@@ -266489,6 +266499,7 @@ miniklanssstoezya.ru
 minikme.cyou
 minikpatiler.xyz
 minimalderailment.top
+minimalive.digital
 minimalreputable.top
 minimirn.click
 minimiseassorted.top
@@ -278527,6 +278538,7 @@ nelerlazmhaydsylesenezdebar.online
 neleroluyo.xyz
 neleroluyor.xyz
 neleroluyorhayatta.xyz
+neleroluyorkontrol.sbs
 nelivo.com
 nellexuwu.hopto.org
 nellgill6.xyz
@@ -278799,6 +278811,7 @@ neseliekimayi.xyz
 neseliekimaylari.online
 neseliekimaylari.xyz
 neseligunlerde-sizi-mutlu-ediyoruz.com
+neseligunlerimiz.com
 neselihayat.xyz
 neselilersubeleri.online
 neselilersubelerindekampanya.com.tr
@@ -290164,6 +290177,7 @@ online-hizmet-com.tk
 online-hizmet-ekrani.site
 online-hizmet-ekrani.website
 online-hizmet-go-tr.magicalephesus.com
+online-hizmet-link.com
 online-hizmet-tr.com.tr
 online-hizmet.com
 online-hizmet.com.tr
@@ -319890,6 +319904,7 @@ qnbsfinansliramazan.xyz
 qnbsfinasbn.com
 qnbsfinasbnk.com
 qnbsizekazandiriyor.com
+qnbsizlerebasvurum.xyz
 qnbsizlerekazandiriyor.ml
 qnbsizlerekazandiriyor.tk
 qnbsizlerekredi.xyz
@@ -320733,6 +320748,7 @@ quizboxy.today
 quizcram.top
 quizdune.top
 quizenclose.top
+quizenest.com
 quiztestapplication.azurewebsites.net
 quiztr.tilda.ws
 quizzical-austin.94-156-66-71.plesk.page
@@ -323455,6 +323471,7 @@ readly.b-cdn.net
 readmeofworkingmood.hopto.org
 readmessageonwhatsapp.com
 readoxfile.live
+readrefinery.com
 readrepertoire.top
 ready4charging.com
 readybooking.com
@@ -359550,6 +359567,7 @@ stflisosdu.duckdns.org
 stforall.us
 stgt.com.cn
 stguvende.online
+sth.tr
 sthebeachforever.xyz
 stibialism.com
 stibiate.com
@@ -360534,6 +360552,7 @@ subat-giris-yap-kampanya.ip-ddns.com
 subat-hizli-basvur-yap.ddns-ip.net
 subat-indirimleri-basladi.com
 subat-indirimli-pak-et.blogspot.com
+subat-inson-firsatlari-2bb-00aax.cfd
 subat-kampanyasi.online
 subat-kampanyasi.vip
 subat-kampanyasi.xyz
