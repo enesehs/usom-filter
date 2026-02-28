@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-28 10:11:11 UTC
-# Toplam: 441654 Domain
+# Son Güncelleme: 2026-02-28 11:09:04 UTC
+# Toplam: 441662 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39912,6 +39912,7 @@ aktuelfirsatlarinikacirmadanfaydalan.online
 aktuelfirsatlarinikacirmadanfaydalan.xyz
 aktuelfirsatlaritemmuz.com
 aktuelfirsatlariyakalaaaa.blogspot.com
+aktuelfirsatlarm.online
 aktuelfirsatlarrrrrr.blogspot.com
 aktuelfirsatlarsepete.com.tr
 aktuelfirsatlarsepete.online
@@ -159931,6 +159932,7 @@ firsatodullerdenbasvurnuzutamamlayin.cloud
 firsatonay-acikdenizv2denizbank.com
 firsatonaydenizxyzbasvurudenizbank.online
 firsatonline-yuzbir.online
+firsatonline.click
 firsatonline.net
 firsatonline.site
 firsatonlineindirimguncel.online
@@ -235790,6 +235792,7 @@ kanalistanbul12.net
 kanallar-infoweb-tr.info
 kanallar-kendimicin-bvtrweb.sa.com
 kanalmuayne.net
+kanalonline.click
 kanalsanati.blogspot.com
 kananelnamakmu.xyz
 kanavagronomy.in
@@ -248760,6 +248763,7 @@ kutuplardan.site
 kutuplardan.website
 kutupuense.net
 kutusaglam.com
+kutyeycee323.duckdns.org
 kuubeloglstics.com
 kuucoinxlorgin.webflow.io
 kuukoinlognus.webflow.io
@@ -255663,6 +255667,7 @@ lsjxlvyjiilcwmo.com
 lsjzavoidr.duckdns.org
 lskbd.site
 lskbfidsbvkjsfgakfjsdffsdfupdate.net
+lskcklakscldscklcsladas.online
 lskjirn.life
 lsktltklsktlsklnm.net
 lsktrlstlltklnltln.net
@@ -264404,6 +264409,7 @@ merkezinhizlialisverisi.xyz
 merkezinizsistemi.net
 merkezinpazari.com
 merkezinteraktif.herokuapp.com
+merkezirandevu.vip
 merkezirxndevuhizmeti.com
 merkezirxndevuhizmeti.net
 merkezis-avbilgi.icu
@@ -343627,6 +343633,7 @@ servs-istanblm.sa.com
 servsecured.ddns.net
 servsecurzon.ddns.net
 servsiteyhdjfnserv.co
+servsmobil.store
 servsonline.tk
 servsrg01.online
 servtreceremc.duckdns.org
@@ -360571,6 +360578,7 @@ subatfirsatlari-trbnna.xyz
 subatfirsatlari101.net
 subatfirsatlariaktuel.net
 subatfirsatlariburada.pt
+subatfirsatlarii.online
 subatfirsatlarikampanyalari.pt
 subatfirsatlarim-aldinaldin.click
 subatfirsatlariyenibasladi.cfd
