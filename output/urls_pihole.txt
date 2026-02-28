@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-28 21:09:35 UTC
-# Toplam: 441784 Domain
+# Son Güncelleme: 2026-02-28 22:10:39 UTC
+# Toplam: 441788 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16933,6 +16933,7 @@
 65464646333.cloud
 6546546.cloud
 654654645465465465.duckdns.org
+65465465416164l1.duckdns.org
 654654655654564smsmobilg.cloud
 65465466.site
 6546549875466533.duckdns.org
@@ -47739,6 +47740,7 @@ apssainikschoolinrajasthan.com
 apstori.ru
 apsunate.zapto.org
 apt-apt.cfd
+apt-g-r-n-l-r.myonlineportal.ch
 apt40.ddns.net
 apt5-secure3-state.com
 aptalikyapmadostummm.site
@@ -221867,6 +221869,7 @@ isletmedestegi.com
 isletmedestekk.com
 isletmedestekleri.com
 isletmedestekleri2026.cfd
+isletmedestekmerkezi.click
 isletmedestekmerkezi.com
 isletmedesteksorgula.com
 isletmehibedestegi.com
@@ -230849,6 +230852,7 @@ jsmin.co
 jsmpsosla.click
 jsnadjkwnkjj.net
 jsnadkjnsa.net
+jsndtklemeypbrdan.cfd
 jsngupdwxeoa.uglyas.com
 jsnlkkvfjl.duckdns.org
 jsnnzbsqsx.click
