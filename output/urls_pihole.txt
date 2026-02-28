@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-02-28 19:11:49 UTC
-# Toplam: 441756 Domain
+# Son Güncelleme: 2026-02-28 20:12:19 UTC
+# Toplam: 441769 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -237,6 +237,7 @@
 010230326236.cloud
 010238gh198781693.mooo.com
 01026733634.ddns.net
+0109756539ll532.duckdns.org
 010bimcell.net
 010fly.cn
 01101100.hopto.org
@@ -13854,6 +13855,7 @@
 4563-4623-74235-872.com
 4563457456856.duckdns.org
 4563462.cloud
+4563483423145565232.com
 456348778.corolain.ru
 45634grewtwr.ddns.net
 4564-64-574-756856-453.com
@@ -32017,6 +32019,7 @@ adresimhepsiburada.com
 adresimne.net
 adresimtrendyol.com
 adresimtrendyol.net
+adresimyenihepsiburada.com
 adresimyenitrendyol.com
 adresimyenitrendyol.net
 adresindeoto.online
@@ -48145,6 +48148,7 @@ arac-randevuhizmeti.net
 arac-randevumuayene.com
 arac-randevusu.com
 arac-randevutvtrk.blogspot.com
+arac-rndvtvtrk-brd.mooo.com
 arac-sigiruta.b-cdn.net
 arac-sistemi-odeme.net
 arac-sorgula.com
@@ -127188,6 +127192,7 @@ dsvltisadelernlzle.net
 dsvncjpwpf.duckdns.org
 dsvsdcxnn.net
 dsvsxgfrdghjchtf98472.digital
+dsvvksdkfvsdlkvlksdvsfvfds.sbs
 dsw.jffdd.icu
 dswasx.nichesite.org
 dswgfvrehg.click
@@ -198827,6 +198832,7 @@ hirmma4lari.click
 hiro-wallet-eng.webflow.io
 hirodomus.hopto.org
 hirrimbkedir1.xyz
+hirsdolugozler.giize.com
 hirsizimamogluekremch.tk
 hirtoruew.duckdns.org
 hirvatpnl.com
@@ -243284,6 +243290,7 @@ klaxon.trandsz.com
 klayislmler.com
 klbfever.ddns.net
 klbmkoyduzn.net
+klbrabsthlmnler.cfd
 klbvnssendal.mooo.com
 klcfilorentacar.com
 klck.ai
@@ -246144,6 +246151,7 @@ koysepeteklenalgoturhemen.com.tr
 koysepeteklenalgoturhemen.online
 koyteriskl.hopto.org
 koyu.click
+koyunlar.pro
 koyusiyah.duckdns.org
 koyy01l.duckdns.org
 koza-altin.co
@@ -247950,6 +247958,7 @@ ksfakwqsfakw.space
 ksfcucerfy.ddns.net
 ksfksfdmasflasdfk.cfd
 ksgdybcpt.com
+ksgeb-form-giris.click
 ksgerceksifirihtiyacsizdenizile.com
 ksgerceksifirihtiyacsizdenizile.online
 ksgerceksifirihtiyacsizdenizile.xyz
@@ -259375,6 +259384,7 @@ makoukamkeriane.test4-mcacademy.com
 makretplaise.xyz
 makro-yetkilibayi.com
 makroalanim.xyz
+makrobiaopa.cfd
 makrodolumlar.xyz
 makrogec.sg-host.com
 makrogold.xyz
@@ -351849,6 +351859,7 @@ sndbnlarnhmnalmlsn.cyou
 sndbnlrdrpymcbkglgtt.cfd
 sndbnmgbiolmamlisin.cfd
 sndbrdasngeldnasd.icu
+sndbrdnartksmgndrme.cfd
 sndbrdngmnkpmlsin.icu
 snde-alsvrslrde.com
 snde-basvurtakipkampanyasina.com
@@ -377016,6 +377027,7 @@ tpaopltf.com
 tpaoprofitability.com
 tpaotr.com
 tpaotrplatform.com
+tpaoyatirim.site
 tpaoyatirim.top
 tpapara.com
 tpapu502.top
@@ -407497,6 +407509,7 @@ webinterstellar.com
 webintsubayrntilrm.xyz
 webinvoice-fact.hopto.org
 webionline.com
+webirisib.webredirect.org
 webisbnkbireyselgiris.shop
 webisbnkbireyselgiris.site
 webisbnkcepsube.site

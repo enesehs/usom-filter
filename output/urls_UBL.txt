@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-02-28 19:11:49 UTC
-! Total: 352244 rules
+! Last modified: 2026-02-28 20:12:19 UTC
+! Total: 352253 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9332,6 +9332,7 @@
 *://*.45623456.com/*
 *://*.4563-4623-74235-872.com/*
 *://*.4563462.cloud/*
+*://*.4563483423145565232.com/*
 *://*.4564-64-574-756856-453.com/*
 *://*.4564123546445645.cfd/*
 *://*.45645245312-8456374456345.xyz/*
@@ -20219,6 +20220,7 @@
 *://*.adresimne.net/*
 *://*.adresimtrendyol.com/*
 *://*.adresimtrendyol.net/*
+*://*.adresimyenihepsiburada.com/*
 *://*.adresimyenitrendyol.com/*
 *://*.adresimyenitrendyol.net/*
 *://*.adresindeoto.online/*
@@ -99160,6 +99162,7 @@
 *://*.dsvltisadelernlzle.net/*
 *://*.dsvsdcxnn.net/*
 *://*.dsvsxgfrdghjchtf98472.digital/*
+*://*.dsvvksdkfvsdlkvlksdvsfvfds.sbs/*
 *://*.dswgfvrehg.click/*
 *://*.dswhhkrqlknh.space/*
 *://*.dswpbnkcnmain.ch/*
@@ -197084,6 +197087,7 @@
 *://*.klavyemarkahuzur.com/*
 *://*.klayislmler.com/*
 *://*.klbmkoyduzn.net/*
+*://*.klbrabsthlmnler.cfd/*
 *://*.klcfilorentacar.com/*
 *://*.klck.ai/*
 *://*.klck.pw/*
@@ -199234,6 +199238,7 @@
 *://*.koysepeteklenalgoturhemen.com.tr/*
 *://*.koysepeteklenalgoturhemen.online/*
 *://*.koyu.click/*
+*://*.koyunlar.pro/*
 *://*.koza-altin.co/*
 *://*.koza-altn.xyz/*
 *://*.kozaaltin.cc/*
@@ -200704,6 +200709,7 @@
 *://*.ksfakwqsfakw.space/*
 *://*.ksfksfdmasflasdfk.cfd/*
 *://*.ksgdybcpt.com/*
+*://*.ksgeb-form-giris.click/*
 *://*.ksgerceksifirihtiyacsizdenizile.com/*
 *://*.ksgerceksifirihtiyacsizdenizile.online/*
 *://*.ksgerceksifirihtiyacsizdenizile.xyz/*
@@ -208717,6 +208723,7 @@
 *://*.makretplaise.xyz/*
 *://*.makro-yetkilibayi.com/*
 *://*.makroalanim.xyz/*
+*://*.makrobiaopa.cfd/*
 *://*.makrodolumlar.xyz/*
 *://*.makrogold.xyz/*
 *://*.makrohizmetim.xyz/*
@@ -280460,6 +280467,7 @@
 *://*.sndbnlrdrpymcbkglgtt.cfd/*
 *://*.sndbnmgbiolmamlisin.cfd/*
 *://*.sndbrdasngeldnasd.icu/*
+*://*.sndbrdnartksmgndrme.cfd/*
 *://*.sndbrdngmnkpmlsin.icu/*
 *://*.snde-alsvrslrde.com/*
 *://*.snde-basvurtakipkampanyasina.com/*
@@ -301030,6 +301038,7 @@
 *://*.tpaoprofitability.com/*
 *://*.tpaotr.com/*
 *://*.tpaotrplatform.com/*
+*://*.tpaoyatirim.site/*
 *://*.tpaoyatirim.top/*
 *://*.tpapara.com/*
 *://*.tpapu502.top/*
