@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-01 16:13:25 UTC
-# Toplam: 441823 Domain
+# Son Güncelleme: 2026-03-01 17:12:16 UTC
+# Toplam: 441832 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22456,6 +22456,7 @@ a-101-indirim.netlify.app
 a-101-indirim.oldubiler.vip
 a-101-indirimleri.s2lovam.com
 a-101-indirimlerinizsizle.com
+a-101-kampanya.replit.app
 a-101-kampanyalari.s-ode.com
 a-101-kapida.onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.shop
 a-101-kapimda.com
@@ -59092,6 +59093,7 @@ basvrrrmxa.click
 basvrrrprmosyonnnkmpnya.art
 basvrrrprmosyonnnkmpnya.info
 basvrrrprmosyonnnkmpnya.pro
+basvrrrrkmpyaaaprmsynnn.pro
 basvrrrrprmsynngrntt.click
 basvrrrularr.online
 basvrrunoktasi-hizlikayitol.com
@@ -76208,6 +76210,7 @@ bizimlekalin-saglicakla.site
 bizimlekalin-saglicakla.website
 bizimlekalmayanedersin.net
 bizimlemisinsen.com.tr
+bizimlengeldin1o1.site
 bizimleolun.net
 bizimleonaylat.online
 bizimleoynamakumar.hopto.org
@@ -142182,6 +142185,7 @@ ekstrafirsatlar.xyz
 ekstrafirsatlaridevam.com.tr
 ekstrafirsatlarlardanfrst.online
 ekstrafirsatlarsizlerle.com.tr
+ekstragross.store
 ekstraguncelfirsatlar.com.tr
 ekstrahaftasonlari.xyz
 ekstraindirim.com.tr
@@ -158940,6 +158944,7 @@ firsatinadresitemmuzgunleri.com
 firsatinakta25temmuzz.cloud
 firsatinanindahesap.site
 firsatinboylesi.site
+firsatinboylesiyok.com
 firsatinbuldu.com
 firsatinburaya-geldi.com
 firsatinburda101.com
@@ -223110,6 +223115,7 @@ istanbuls.ml
 istanbulsa.net
 istanbulsalarnim.shop
 istanbulsdks.com
+istanbulsemalarinda.shop
 istanbulsenicokbozmus.shop
 istanbulsenin.online
 istanbulservsbas.shop
@@ -321859,6 +321865,7 @@ ramadabahis.com
 ramadan-ptt-avm-tr.xyz
 ramadan.zapto.org
 ramadanmubarak101.shop
+ramadanmubarek.webredirect.org
 ramadanspecialcampaignwithout.cloud
 ramahteen.com
 ramalam984bitonc.blog
@@ -327940,6 +327947,7 @@ rmznaaozelhrsy.click
 rmznburda.blogspot.com
 rmzndacrfsadhycn.com
 rmznfirsatlariniixwx.click
+rmznfrscrfonlin.cfd
 rmznnicinhrsy.live
 rmznnicinhrsy.shop
 rmznrmzn.click
@@ -426258,6 +426266,7 @@ yabipkrebi.com
 yablon.info
 yabniislemler.is-best.net
 yabo-no1.vip
+yabog.cn
 yabskc.homes
 yabulumnapiyon21.com
 yaburdanalcnydahicbkmican.shop
