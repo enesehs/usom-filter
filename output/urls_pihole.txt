@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-01 06:30:51 UTC
-# Toplam: 441803 Domain
+# Son Güncelleme: 2026-03-01 07:24:19 UTC
+# Toplam: 441806 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -254153,6 +254153,7 @@ lnkcmg.com
 lnkedin.org
 lnkknskxt.online
 lnknqyheda.duckdns.org
+lnkralnsalmrasm.net
 lnksltmacepstr.strangled.net
 lnksp7vp.duckdns.org
 lnlapuswuvqrbxvyh.net
@@ -263467,6 +263468,7 @@ medyacilarlayiz.net
 medyahaberim.com
 medyahabersitesi.duckdns.org
 medyahizmeti.com
+medyaileozgurlukler.com
 medyamerkez.org
 medyaservicesystem.com
 medyaveduyuru.com
@@ -281990,6 +281992,7 @@ nnwkyp7.duckdns.org
 nnwrxndesu.net
 nnydhjkbturulhm.cn
 nnyxnzcc.asia
+nnyytu4324324.duckdns.org
 no-hack.zapto.org
 no-replay-notification.ga
 no1-paketleme.com.tr
