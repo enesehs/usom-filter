@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-01 20:12:27 UTC
-# Toplam: 441850 Domain
+# Son Güncelleme: 2026-03-01 21:11:24 UTC
+# Toplam: 441860 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -179971,6 +179971,13 @@ guncelsikayetimcom.app
 guncelsikayetimhesabimdavar.tk
 guncelsikayetimvar.app
 guncelsikayetimvar.com
+guncelsikayetin-1.sbs
+guncelsikayetin-12.sbs
+guncelsikayetin-16.sbs
+guncelsikayetin-17.sbs
+guncelsikayetin-26.sbs
+guncelsikayetin-28.sbs
+guncelsikayetin-9.sbs
 guncelsikayetincom.app
 guncelsikayetini.com
 guncelsikayetinizvar.app
@@ -317729,6 +317736,7 @@ q38k93.duckdns.org
 q3d8gbm7i.duckdns.org
 q3ea64.cn
 q3js9w56s.duckdns.org
+q3n8k2v6a7x9f4hmbs.sbs
 q3txpx.duckdns.org
 q417v5.duckdns.org
 q41mf4u.duckdns.org
@@ -377140,6 +377148,7 @@ tplinklocal.linkpc.net
 tplinsurance.xyz
 tpliyyxvso.duckdns.org
 tplmrpc.online
+tplmsl-r-g-l.myonlineportal.ch
 tplnbdcwa.com
 tplrtrpsmshs.shop
 tpmkhecspn.duckdns.org
@@ -394978,6 +394987,7 @@ v941ymt.duckdns.org
 v95fmt.duckdns.org
 v97uilu.cn
 v984h14.com
+v990011222012.online
 v99ay4wuo.ru
 v99glw3c.duckdns.org
 v9e060.duckdns.org
