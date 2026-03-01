@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-01 17:12:16 UTC
-! Total: 352302 rules
+! Last modified: 2026-03-01 19:13:50 UTC
+! Total: 352312 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12583,6 +12583,7 @@
 *://*.8eylul101-comtr.site/*
 *://*.8f00b204e9800998.com/*
 *://*.8f31.ru/*
+*://*.8f3h7m2n6bqk9a4xs.cfd/*
 *://*.8f6rhvyi.ru/*
 *://*.8f9a4ef8.com/*
 *://*.8febb549.com/*
@@ -41959,6 +41960,8 @@
 *://*.basvrrrprmosyonnnkmpnya.art/*
 *://*.basvrrrprmosyonnnkmpnya.info/*
 *://*.basvrrrprmosyonnnkmpnya.pro/*
+*://*.basvrrrrkmpyaaaprmsynnn.info/*
+*://*.basvrrrrkmpyaaaprmsynnn.online/*
 *://*.basvrrrrkmpyaaaprmsynnn.pro/*
 *://*.basvrrrrprmsynngrntt.click/*
 *://*.basvrrrularr.online/*
@@ -160929,6 +160932,7 @@
 *://*.hizlicaurunler-kargosizde-avantaj.com/*
 *://*.hizlicayonleniyorsunbaba.com/*
 *://*.hizlicayukleme.com/*
+*://*.hizlicayuklemeyap.online/*
 *://*.hizlicepaidat.com/*
 *://*.hizlicepteniademiz.com/*
 *://*.hizlicicek.fun/*
@@ -180624,6 +180628,7 @@
 *://*.istanbulyuklemeww.net/*
 *://*.istanbulyuklemexsfs.com/*
 *://*.istanbulyuklesen.net/*
+*://*.istanbulyusufaliaslan.shop/*
 *://*.istanbulyxklemeeee.com/*
 *://*.istanbulz9.shop/*
 *://*.istanbulzuah.online/*
@@ -195518,6 +195523,7 @@
 *://*.kgmgov.vip/*
 *://*.kgmgov.xyz/*
 *://*.kgmgovcoio.top/*
+*://*.kgmgovconc.top/*
 *://*.kgmgovet.cfd/*
 *://*.kgmgovetctr.com/*
 *://*.kgmgovitr.top/*
@@ -195658,6 +195664,7 @@
 *://*.kgmtrgov.icu/*
 *://*.kgmtrgov.top/*
 *://*.kgmtrogov.cyou/*
+*://*.kgmtrosogov.cyou/*
 *://*.kgmtrr.cc/*
 *://*.kgmtrsogov.cyou/*
 *://*.kgmtrsogov.icu/*
@@ -198165,6 +198172,7 @@
 *://*.kobilerdestekplatformu.cfd/*
 *://*.kobilerekredi.com/*
 *://*.kobileremujde.com/*
+*://*.kobimerkezi.click/*
 *://*.kobiprojeleri.com/*
 *://*.kobisi.com/*
 *://*.kobiyardimi.cfd/*
@@ -219105,6 +219113,7 @@
 *://*.mrkerli4.com/*
 *://*.mrkerli5.com/*
 *://*.mrketplacessuprt.com/*
+*://*.mrketslymanca.cfd/*
 *://*.mrkez-bsvrlargrs.com/*
 *://*.mrkez-trgrslerbsvr.com/*
 *://*.mrkezcozmnktsi.com/*
@@ -312623,6 +312632,7 @@
 *://*.ulasimkartbilgi.xyz/*
 *://*.ulasimkarthediye.pro/*
 *://*.ulasmajogerekli.com/*
+*://*.ulasmak-icin-git.sbs/*
 *://*.ulastakarastlamadabulamadiorta.net/*
 *://*.ulastakarastlamasdabulamadiorta.net/*
 *://*.ulasulas.com/*
