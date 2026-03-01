@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-01 15:11:10 UTC
-# Toplam: 441821 Domain
+# Son Güncelleme: 2026-03-01 16:13:25 UTC
+# Toplam: 441823 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -201023,6 +201023,7 @@ hizliyukleme.tk
 hizliyuklemek.tk
 hizliyuklemelerimben.space
 hizliyuklemeli.sg-host.com
+hizliyuklemenoktasi.com
 hizliyuklemesistem.com
 hizliyuklemesistemleri.com
 hizliyuklet.tk
@@ -328152,6 +328153,7 @@ road349.website
 road436.xyz
 roadcatastrophe.top
 roadetctre.xin
+roadfilo.com
 roadkillz.ddns.net
 roadkillz.duckdns.org
 roadmapselector.azurewebsites.net
