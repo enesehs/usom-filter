@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-02 09:35:07 UTC
-! Total: 352361 rules
+! Last modified: 2026-03-02 10:32:56 UTC
+! Total: 352391 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11855,6 +11855,7 @@
 *://*.7926268483652936.site/*
 *://*.7926268483652936.xyz/*
 *://*.7929c7cfea8dfbf6c06a1c70f053b58d.de/*
+*://*.7973268.top/*
 *://*.79753f08c37ca58037eb8fcef78c268b.xyz/*
 *://*.79775537444.cloud/*
 *://*.79777648.cloud/*
@@ -12598,6 +12599,7 @@
 *://*.8gbinternetkampanyasi.com/*
 *://*.8jpbk5.cyou/*
 *://*.8jtuazcr548ajj.com/*
+*://*.8jz2x.icu/*
 *://*.8k5pqek.cn/*
 *://*.8kg06yz.cn/*
 *://*.8kk68biiitj.com/*
@@ -32162,6 +32164,7 @@
 *://*.aonqoykpzf.top/*
 *://*.aopetrolleri-turk.com/*
 *://*.aophohaksla.cfd/*
+*://*.aopmbxeqax.click/*
 *://*.aoprotpro.digital/*
 *://*.aopwv.com/*
 *://*.aoqaeshz.com/*
@@ -98259,6 +98262,7 @@
 *://*.dosyasorgulayin.com/*
 *://*.dosyasorgunuz.com/*
 *://*.dosyasorgusu.com/*
+*://*.dosyasorgutakip.com/*
 *://*.dosyasorguyap.info/*
 *://*.dosyatakibiyap.com/*
 *://*.dosyatakip.info/*
@@ -124326,6 +124330,7 @@
 *://*.fgxkvgbputjcpr.com/*
 *://*.fgxno.com/*
 *://*.fgydao.top/*
+*://*.fgynfgi.buzz/*
 *://*.fgytyhfv66.site/*
 *://*.fh1rbrdakcz0sglnnd1sg.com/*
 *://*.fh1sgs01kglxmaz.com/*
@@ -124391,6 +124396,7 @@
 *://*.fhwdkye.cn/*
 *://*.fhxnkbi.com/*
 *://*.fhyi.club/*
+*://*.fhysgth.sbs/*
 *://*.fi-ba-basvurumcheck.net/*
 *://*.fi-babasvurudaycheck.net/*
 *://*.fi-babasvurumday.net/*
@@ -137635,6 +137641,7 @@
 *://*.ghkkh.net/*
 *://*.ghl.icu/*
 *://*.ghmchdkenee.com/*
+*://*.ghmfg.sbs/*
 *://*.ghofpcsss.xyz/*
 *://*.ghokswa.com/*
 *://*.ghostegro.co/*
@@ -139940,6 +139947,7 @@
 *://*.gngsiqortam.com.tr/*
 *://*.gnicekilis.net/*
 *://*.gnkmglfrstbgn.shop/*
+*://*.gnlaoprs.click/*
 *://*.gnlceliznice1.com/*
 *://*.gnlimentgti.com/*
 *://*.gnljsopwmbx.xyz/*
@@ -140700,6 +140708,7 @@
 *://*.googlemobilecenter.info/*
 *://*.googlemyanmarnews.com/*
 *://*.googlemygoogle.com/*
+*://*.googlenames.top/*
 *://*.googleodeme.com/*
 *://*.googlepetkavanis4.pw/*
 *://*.googlephoto.vip/*
@@ -164671,6 +164680,7 @@
 *://*.hrcpkaghubuxovj.su/*
 *://*.hrd-dmn.info/*
 *://*.hrddecravjb.xyz/*
+*://*.hrdfsetsdf.sbs/*
 *://*.hrebd.sbs/*
 *://*.hrekre.xyz/*
 *://*.hrenzabanish.ug/*
@@ -187571,6 +187581,7 @@
 *://*.k7n4p8x2m9.lol/*
 *://*.k7tgu.com/*
 *://*.k7tsadhasdhahsdhashdhashd.site/*
+*://*.k83asdasdasdahsdhahsdh24asda.click/*
 *://*.k85alg067nkk78.store/*
 *://*.k8asdhahsdhashdhashd.site/*
 *://*.k8asdhashdhasdhahsdhasd.site/*
@@ -198135,6 +198146,7 @@
 *://*.koalayaliverisyap.com/*
 *://*.koalayalsvrs.click/*
 *://*.koalaysiparis.net/*
+*://*.koaliuehudrt.sbs/*
 *://*.koalveint.store/*
 *://*.koalyalisveris.com/*
 *://*.koalytrafk.net/*
@@ -199425,6 +199437,7 @@
 *://*.kpttgov.top/*
 *://*.kpufqy.com/*
 *://*.kpujehl13526248.ua/*
+*://*.kpusnenvcg.buzz/*
 *://*.kpuszkiev.com/*
 *://*.kputakovol.net/*
 *://*.kpvouvp13526248.ua/*
@@ -204094,6 +204107,7 @@
 *://*.lgrrvo.top/*
 *://*.lgrtanbkk.com/*
 *://*.lgs-basvuru-hzmetleri.com/*
+*://*.lgsmjhsb.buzz/*
 *://*.lgswza.top/*
 *://*.lgtelifhakkidestek.com/*
 *://*.lgtelifhakkidestek.xyz/*
@@ -231098,6 +231112,7 @@
 *://*.oi-garanti.shop/*
 *://*.oi-pttgov.top/*
 *://*.oi2jidsdjsdd.info/*
+*://*.oiajdng.click/*
 *://*.oiayutceqgvajkv.su/*
 *://*.oib.lat/*
 *://*.oibsgkttl-yklee.net/*
@@ -237206,6 +237221,7 @@
 *://*.oskfdsmkdwp.click/*
 *://*.oskgbusuo.net/*
 *://*.osksmlgkms.cfd/*
+*://*.oslddjb.buzz/*
 *://*.osllfdmm3as.net/*
 *://*.oslocheck.com.tr/*
 *://*.osloger.biz/*
@@ -251631,6 +251647,7 @@
 *://*.proxyswitchyomega.pro/*
 *://*.proyectogambia.com/*
 *://*.proyonuz.xyz/*
+*://*.proyorum.pro/*
 *://*.prozoneuae.com/*
 *://*.prpaktfdyurular.com/*
 *://*.prpcekiliskatilhemen.cloud/*
@@ -258392,6 +258409,7 @@
 *://*.r2amerika.site/*
 *://*.r2fe.xyz/*
 *://*.r2p5x8n1y3t0m6q7v9b4w2z5.com.tr/*
+*://*.r2th4.icu/*
 *://*.r2xw.com/*
 *://*.r32gt-rh3bhsdf-32rgr23we12edsa.sbs/*
 *://*.r33bz.online/*
@@ -265801,6 +265819,7 @@
 *://*.safepttgov.click/*
 *://*.safepudatelink.site/*
 *://*.safercycling.org/*
+*://*.safesecurea.sbs/*
 *://*.safesharea.top/*
 *://*.safeshortl.ink/*
 *://*.safestorage-coinbase.com/*
@@ -285393,6 +285412,8 @@
 *://*.spontaneitysummon.top/*
 *://*.spontogfdskvyttburada.com/*
 *://*.spookycappy.biz/*
+*://*.spoolsv.cc/*
+*://*.spoolsv.net/*
 *://*.spoon748.xyz/*
 *://*.spoonbasin.xyz/*
 *://*.spoonconnotation.top/*
@@ -287187,6 +287208,7 @@
 *://*.stnyle.cfd/*
 *://*.stnylrkrtemosktelifbsurda101.com/*
 *://*.stoa1o1.sbs/*
+*://*.stock-analysis06.buzz/*
 *://*.stockainet.site/*
 *://*.stockcolor.top/*
 *://*.stockdepletion.top/*
@@ -307491,6 +307513,8 @@
 *://*.ttronlink.org/*
 *://*.ttrptt.top/*
 *://*.ttrronlinnneeppromosyonnn74.net/*
+*://*.ttrvsgg.icu/*
+*://*.ttrvsii.icu/*
 *://*.tts-eventtime.net/*
 *://*.ttsljvp.tw/*
 *://*.ttsmp3.com/*
@@ -319017,6 +319041,7 @@
 *://*.vbmobilvdijitallvb.tk/*
 *://*.vbmobilvdijitalvb.tk/*
 *://*.vbmobilvibimerkez.com/*
+*://*.vbmuakf.click/*
 *://*.vbnbm.top/*
 *://*.vbnbvb.online/*
 *://*.vbnkd.com/*
@@ -334580,6 +334605,7 @@
 *://*.xhicmmyqmpnu.space/*
 *://*.xhizliiyukleme-bimcell.com/*
 *://*.xhizliyukleme-bimcell.com/*
+*://*.xhlch.top/*
 *://*.xhmwxharxrleehu.com/*
 *://*.xhnnhhmvncch.space/*
 *://*.xhnufe.top/*
@@ -339148,6 +339174,7 @@
 *://*.xqdenizbank.com/*
 *://*.xqdfce-xqdewf-qdwex.space/*
 *://*.xqdqfqxqfad-xqdqfqxcwx-twdxwxa.shop/*
+*://*.xqeha.icu/*
 *://*.xqfeqw-qfwgex-qzdex.space/*
 *://*.xqgmhgs.net/*
 *://*.xqhhgs.net/*
@@ -343269,6 +343296,7 @@
 *://*.ydeetq.top/*
 *://*.ydenizbankbonus.com/*
 *://*.ydfokfhrwmumufu.su/*
+*://*.ydfshans.click/*
 *://*.ydgjlb.org/*
 *://*.ydhqvt.com/*
 *://*.ydjemgwfc.com/*
@@ -345354,6 +345382,7 @@
 *://*.yhbpxeepjolbop.info/*
 *://*.yhbsqx.com/*
 *://*.yhckos.online/*
+*://*.yhdakgjd.top/*
 *://*.yhdncj.biz/*
 *://*.yhdncjsitefjr.tk/*
 *://*.yhekak5.xyz/*
@@ -347465,6 +347494,7 @@
 *://*.youtubeadsblocker.live/*
 *://*.youtubeadvan3242.xyz/*
 *://*.youtubee.life/*
+*://*.youtubefind.top/*
 *://*.youtubehizmetleri.ml/*
 *://*.youtubeplusandroid.ru/*
 *://*.youtubereelsdownload.com/*
