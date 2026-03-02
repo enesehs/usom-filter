@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-02 05:09:23 UTC
-! Total: 352342 rules
+! Last modified: 2026-03-02 06:40:30 UTC
+! Total: 352346 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -134246,6 +134246,7 @@
 *://*.garentaaracfilo.com/*
 *://*.garentaaracfilom.com/*
 *://*.garentaaracflo.com/*
+*://*.garentaarackirala.com/*
 *://*.garentaarackiralaa.site/*
 *://*.garentaarackiralama.com/*
 *://*.garentaarackiralama.net/*
@@ -143624,11 +143625,13 @@
 *://*.guncelsikayetin-12.sbs/*
 *://*.guncelsikayetin-16.sbs/*
 *://*.guncelsikayetin-17.sbs/*
+*://*.guncelsikayetin-19.sbs/*
 *://*.guncelsikayetin-2.sbs/*
 *://*.guncelsikayetin-26.sbs/*
 *://*.guncelsikayetin-27.sbs/*
 *://*.guncelsikayetin-28.sbs/*
 *://*.guncelsikayetin-29.sbs/*
+*://*.guncelsikayetin-8.sbs/*
 *://*.guncelsikayetin-9.sbs/*
 *://*.guncelsikayetincom.app/*
 *://*.guncelsikayetini.com/*
@@ -334848,6 +334851,7 @@
 *://*.xm-sagfaxsafasrwqfdaghtg.net/*
 *://*.xm-sfsqweyasasvtst.com/*
 *://*.xm-sqrfasgatsasv.com/*
+*://*.xm8lcti3vo9sch4p.fun/*
 *://*.xmanagerinfo.com/*
 *://*.xmarseninoekmegini.click/*
 *://*.xmasfunerer.top/*
