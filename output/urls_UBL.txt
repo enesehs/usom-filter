@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-02 12:28:47 UTC
-! Total: 352406 rules
+! Last modified: 2026-03-02 13:53:31 UTC
+! Total: 352411 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -44257,6 +44257,7 @@
 *://*.basvuruservisi.ml/*
 *://*.basvurusimdi-globalkampanyabudurtechbance.tech/*
 *://*.basvurusistemi.cfd/*
+*://*.basvurusistemi.com/*
 *://*.basvurusistemi.online/*
 *://*.basvurusistemim.com/*
 *://*.basvurusistemonlineglbl.com/*
@@ -119150,6 +119151,7 @@
 *://*.euyapcezasorgulama.org/*
 *://*.euyapdosyalarim.org/*
 *://*.euyapkarar.org/*
+*://*.euyapkontrol.org/*
 *://*.euyapsorgu.org/*
 *://*.euygulama2.com/*
 *://*.euygulama6.com/*
@@ -126744,6 +126746,7 @@
 *://*.firsatkampayalari.xyz/*
 *://*.firsatkampayanalriburadanulasin.online/*
 *://*.firsatkampnayacheckbasvru.net/*
+*://*.firsatkanal.click/*
 *://*.firsatkanalim.click/*
 *://*.firsatkap.online/*
 *://*.firsatkapida-1-0-1.store/*
@@ -286603,6 +286606,7 @@
 *://*.stanleytermsotkelfsbrusa101ekstra.com/*
 *://*.stanleytitan.xyz/*
 *://*.stanleytkerlseisbtermburd.store/*
+*://*.stanleytrionex.xyz/*
 *://*.stanleytyrion.xyz/*
 *://*.stanleyultry.xyz/*
 *://*.stanleyupgraded.xyz/*
@@ -319645,6 +319649,7 @@
 *://*.vergdmeeenokta.net/*
 *://*.vergdmlermsvd.net/*
 *://*.vergdmmcx.net/*
+*://*.verged.cfd/*
 *://*.vergehixmetikoru.net/*
 *://*.vergelsinn.click/*
 *://*.vergemint.top/*
