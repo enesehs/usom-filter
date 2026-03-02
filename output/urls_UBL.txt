@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-02 18:29:17 UTC
-! Total: 352441 rules
+! Last modified: 2026-03-02 19:28:29 UTC
+! Total: 352460 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20652,6 +20652,7 @@
 *://*.aerivoxpartners.com/*
 *://*.aermgaermgam.fit/*
 *://*.aeroarrows.io/*
+*://*.aerobickarlaurbanovas.top/*
 *://*.aerobicsfit.com/*
 *://*.aeroclubofindia.co.in/*
 *://*.aerocorpevionics.com/*
@@ -30389,6 +30390,7 @@
 *://*.amesa.com.ar/*
 *://*.amesatarragona.com/*
 *://*.amesoulcoaching.com/*
+*://*.ametax.net/*
 *://*.ametek-servicedesk.net/*
 *://*.ametek-servicenow.net/*
 *://*.ametiseclinic.com/*
@@ -35668,6 +35670,7 @@
 *://*.asdklkjasjfa.com/*
 *://*.asdkmasdkvsadsz.com/*
 *://*.asdkoasdasfaqwrqwr.click/*
+*://*.asdkogkjfdmksdks.cfd/*
 *://*.asdkrldmznx.net/*
 *://*.asdkrt4543.com/*
 *://*.asdladcdvt-sdfvtt.com/*
@@ -54350,6 +54353,7 @@
 *://*.birbaskadir.icu/*
 *://*.birbgxkyppqhtxhch.org/*
 *://*.birbile-bilsen.net.tr/*
+*://*.birbilebilsen.sbs/*
 *://*.birbira.xyz/*
 *://*.birbirgercekoldular.click/*
 *://*.birbirimiziseviyoruz.biz/*
@@ -69550,6 +69554,7 @@
 *://*.calab0.com/*
 *://*.calacs-laurentides.com/*
 *://*.caladangroup.xyz/*
+*://*.caladzy.com/*
 *://*.calag.at/*
 *://*.calarpig.com/*
 *://*.calastool.cfd/*
@@ -82441,6 +82446,7 @@
 *://*.crfshiperkampgnbugn.sbs/*
 *://*.crfshipermrk.cfd/*
 *://*.crfshipers.cfd/*
+*://*.crfshponlnemarkt.cfd/*
 *://*.crfskfrsata.cfd/*
 *://*.crfskfrsata.sbs/*
 *://*.crfsmhmnal.shop/*
@@ -154260,6 +154266,7 @@
 *://*.hediyen-senlevar.com/*
 *://*.hediyen20gb-evdekaltr.com/*
 *://*.hediyenbizde.tk/*
+*://*.hediyenburada.cfd/*
 *://*.hediyendenizlegeldi.com/*
 *://*.hediyenet.tk/*
 *://*.hediyenhalktan.com/*
@@ -166482,6 +166489,7 @@
 *://*.hzlliersnizgrislver.shop/*
 *://*.hzlllcayklemelferllstannnbll.com/*
 *://*.hzllptltkmsrgla.com/*
+*://*.hzlmbldji.cfd/*
 *://*.hzlmgcssf.org/*
 *://*.hzlodmadrsbrshrzmn.net/*
 *://*.hzlrandvnnunall.net/*
@@ -180220,6 +180228,7 @@
 *://*.istanbulfans.net/*
 *://*.istanbulfast.net/*
 *://*.istanbulfestivalcity.com/*
+*://*.istanbulfizikselkim.shop/*
 *://*.istanbulfllllow.com/*
 *://*.istanbulfns.net/*
 *://*.istanbulfnx.net/*
@@ -212751,6 +212760,7 @@
 *://*.memosigla.su/*
 *://*.memotech.cf/*
 *://*.memphhapar.in/*
+*://*.memphiswawu.com/*
 *://*.memrlar.net/*
 *://*.memrular.net/*
 *://*.memsendenhak.site/*
@@ -224710,6 +224720,7 @@
 *://*.networkscanip.com/*
 *://*.networkschecker.net/*
 *://*.networkselfhelp.com/*
+*://*.networkservice.cyou/*
 *://*.networksynthesis.top/*
 *://*.networktopologymaps.com/*
 *://*.networktrim.top/*
@@ -280231,6 +280242,7 @@
 *://*.smallhole.club/*
 *://*.smallhome.org/*
 *://*.smallindulgence.top/*
+*://*.smallmartdirectintense.com/*
 *://*.smallmonster.net/*
 *://*.smallperfumerain.com/*
 *://*.smallrabbitcrossing.site/*
@@ -286842,6 +286854,7 @@
 *://*.statementquo.com/*
 *://*.statementreservas.quest/*
 *://*.statementreservations.quest/*
+*://*.statementstview.online/*
 *://*.statemob.yachts/*
 *://*.stateresemble.top/*
 *://*.statesales.info/*
@@ -287089,6 +287102,7 @@
 *://*.stewardesseccentric.top/*
 *://*.stewardessshorthand.top/*
 *://*.stewartthomas1234.xyz/*
+*://*.stewise.top/*
 *://*.steycools.pw/*
 *://*.steye-gtmek-icn-tkla-hemn.cfd/*
 *://*.stforall.us/*
@@ -296798,6 +296812,7 @@
 *://*.terrosotruffles.com/*
 *://*.terrrerrre.xyz/*
 *://*.terrythomson75.xyz/*
+*://*.tersbrksancrrmzozl.cfd/*
 *://*.tersgranitslemenum.com/*
 *://*.tersinedonuyoruz.surf/*
 *://*.tersir.store/*
@@ -306969,6 +306984,7 @@
 *://*.trustcdncloud.click/*
 *://*.trustcdncloud.shop/*
 *://*.trustcom.fun/*
+*://*.trustconnectsoftware.com/*
 *://*.trustcore.space/*
 *://*.trustd.biz/*
 *://*.trustedfiles.org/*
@@ -323377,6 +323393,7 @@
 *://*.vurstaksv2.online/*
 *://*.vurstaksv3.online/*
 *://*.vurucuyuz.app/*
+*://*.vurul.click/*
 *://*.vurularaparkatiamansizz.com/*
 *://*.vuruldukbea.xyz/*
 *://*.vururumokucukkafana.cfd/*
@@ -348667,6 +348684,7 @@
 *://*.z6xe0qc.cn/*
 *://*.z7azbit7zvqeyayz7z.biz/*
 *://*.z7elljx.cn/*
+*://*.z7k4x9m2q6b8fht3na.cfd/*
 *://*.z7qj3htylsop4.click/*
 *://*.z7ra1t.cfd/*
 *://*.z7s.org/*
@@ -352222,6 +352240,7 @@
 *://*.zxclpj.com/*
 *://*.zxcrfrsgnnde.cfd/*
 *://*.zxcsaffhj.wiki/*
+*://*.zxcvbnmasdf.sbs/*
 *://*.zxcvbnmasdfghjkl.xyz/*
 *://*.zxcvfr.com/*
 *://*.zxcxzvxbzxzxc10.click/*
