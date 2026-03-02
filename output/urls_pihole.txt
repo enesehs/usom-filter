@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-02 21:23:14 UTC
-# Toplam: 442062 Domain
+# Son Güncelleme: 2026-03-02 23:13:55 UTC
+# Toplam: 442069 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2162,6 +2162,7 @@
 101.sigortam-net-odeme-islemleri.online
 101.subatpersembeuygun.com
 101.temmuzuygun.com
+101.webredirect.org
 101001010100001.cloud
 101001011-11.cloud
 10100123232.cloud
@@ -65054,6 +65055,7 @@ benderhall.com
 benderkehe.online
 benders.zapto.org
 bendes.co.uk
+bendesenleyim.uk
 bendespatasmtksarl.giize.com
 bendevdsfsasssagfas.online
 bendigo-alerts.ddns.net
@@ -123507,6 +123509,7 @@ djhcsnfnig.duckdns.org
 djhikmapvc.duckdns.org
 djibg.eu
 djillalizayne.zapto.org
+djimblhzl.sbs
 djital-gunlerinegel.top
 djitalibbyklemx.net
 djitalkent.net
@@ -288012,6 +288015,7 @@ ogrenclerleeerodeeeemee.online
 ogrendegelin.xyz
 ogrenimbursum.org
 ogrenimdestekpaketi.com
+ogrenme-vesorgu-merkezsisstemi.sbs
 ogrenme.app
 ogretmenbonus.b-cdn.net
 ogretmendensikayetimvar.com
@@ -289009,6 +289013,7 @@ onay-bildirimlerim.xyz
 onay-bilgi-acikdenizv2denizbank.com
 onay-bireyselmobildenizgiris.com
 onay-cuzdanpaketonay.vercel.app
+onay-danismanim.com
 onay-dijitaldenizv2giris.tk
 onay-form.xyz
 onay-giris.xyz
@@ -343122,6 +343127,7 @@ ser.dermlogged.xyz
 ser2kke.monster
 ser3.sbs
 ser45bgh32qs.ddns.net
+ser4muyt668.duckdns.org
 serachtrtx.cfd
 seracwx.click
 seraevim.com
@@ -434863,6 +434869,7 @@ yonkzwqnvs.duckdns.org
 yonld-hzs-bni.store
 yonlen-buradan-anlik.sbs
 yonlen.click
+yonlenci.webredirect.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
