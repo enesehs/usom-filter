@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-02 06:40:30 UTC
-# Toplam: 441887 Domain
+# Son Güncelleme: 2026-03-02 07:40:33 UTC
+# Toplam: 441895 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -181858,6 +181858,7 @@ guvenlisatisnoter.com
 guvenlisayfa.online
 guvenlisayfabildirim.live
 guvenlisayfam.nl
+guvenlisayfam.online
 guvenlisbayistr.com
 guvenlisepet.info.tr
 guvenlisepet.online
@@ -202238,6 +202239,7 @@ hmwiwzsaks.duckdns.org
 hmwqnkmc.info
 hmxhgxs-ptavmsls.com
 hmxhksz-hizliodemelerpttavm.com
+hmxkaz.help
 hmxlsismxslr.net
 hmxxhkxsz-hizliiodemelerpttavm.com
 hmxxhkxsz-hizliodemelerpttavm.com
@@ -226134,6 +226136,7 @@ izeltrasmekanikcifirsati.blogspot.com
 izelts042101.blogspot.com
 izeltsb.dns.navy
 izeltsfirs032tl.blogspot.com
+izeltsforg.dns.navy
 izeltskandil.dns.navy
 izeltskeedr.dns.navy
 izeltsmc.dnsup.net
@@ -241074,6 +241077,7 @@ kgmab.bond
 kgmab.top
 kgmac.top
 kgmad.top
+kgmae.top
 kgmag.top
 kgmagvo.cfd
 kgmagvo.sbs
@@ -241090,6 +241094,7 @@ kgmavgecishukukode.icu
 kgmavhukukodeme.icu
 kgmax.top
 kgmay.top
+kgmaz.top
 kgmbbgovtr.top
 kgmbeklemedenislem.sg-host.com
 kgmbilgi-icrasis.com
@@ -268283,6 +268288,7 @@ mobil-online-kredi-kart-ucret-iade-basvurusu-2021.xyz
 mobil-online-pandemi-duyuru.ml
 mobil-online-siparis-101-tr.duckdns.org
 mobil-online-sube-yapikredi-tr.ga
+mobil-onlinekanal.click
 mobil-onlinekurumodemelergovtr.tk
 mobil-pandemi-duyuru.com
 mobil-pandemi-duyuru.ml
@@ -387331,6 +387337,7 @@ turkiyemarketingkatilim.xyz
 turkiyemaximum.com
 turkiyemde-kapisi.com
 turkiyemedestekzamani.org
+turkiyemenkuldegerler.com
 turkiyemeta.best
 turkiyemevdekall.com
 turkiyemfaturaodeme.com
@@ -441606,6 +441613,7 @@ zxgnbt.com
 zxgnnedpre.duckdns.org
 zxhuraesghmauldepjdaqinhx.info
 zxineright.info
+zxizvj.help
 zxjhczx.com.tr
 zxjmxdeklyyklemelerrr.net
 zxjt9183.icu
