@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-02 14:33:53 UTC
-# Toplam: 441972 Domain
+# Son Güncelleme: 2026-03-02 15:29:50 UTC
+# Toplam: 442017 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -52274,6 +52274,8 @@ atlascicekevi.org
 atlasdecarqo.com
 atlasgroupkibris.com.tr
 atlasmomentous.top
+atlasnode-app204.vercel.app
+atlasnode-ext957.vercel.app
 atlast.ddns.net
 atlaswebportal.zapto.org
 atledicrv.com
@@ -84383,6 +84385,8 @@ brightenwharf.top
 brightexciting.click
 brightform.cfd
 brightlatitude.top
+brightlaunch-app615.vercel.app
+brightlaunch-ext742.vercel.app
 brightle.ddns.net
 brightlink.site
 brightnano1.ddns.net
@@ -84469,6 +84473,7 @@ brkedevletttttttt.arabayorumlarim.com
 brkhgss.com
 brkle.tk
 brkosalislmlwrqx.com
+brksancrrmzozl.cfd
 brkwpflk7.ru
 brkybyrktar.gay
 brl-akt.shop
@@ -85288,6 +85293,7 @@ bsvrrkmpnyaprmsynnn.info
 bsvrrkmpnyaprmsynnn.live
 bsvrrkmpnyaprmsynnn.pro
 bsvrrkmpnyaprsmynnnn.live
+bsvrrkmpnyaprsmynnnn.pro
 bsvrrkmponyaaagrnt.live
 bsvrrkmponyaaagrnt.pro
 bsvrrkmpyaaaprmsyonnn.info
@@ -99242,6 +99248,8 @@ cleverlayer.top
 cleverlinked608.weebly.com
 cleversalsa709.weebly.com
 cleversrus897.weebly.com
+cleverstack-app998.vercel.app
+cleverstack-ext301.vercel.app
 clevertrade.top
 cleverwedge.cn
 clfejanpry.duckdns.org
@@ -99729,6 +99737,8 @@ cloudglbalfirsatcampanyabuguneozel.com
 cloudguardins.ru.com
 cloudguardveirfy.com
 cloudharambe.xyz
+cloudharbor-app239.vercel.app
+cloudharbor-ext664.vercel.app
 cloudhostdesign.com
 cloudhub.co.ls
 cloudimages.net
@@ -106761,9 +106771,11 @@ crfsonlingnc.cfd
 crfsonlnfrsaa.cfd
 crfsramazansenligi.cfd
 crfsrdnhlkageldkk.shop
+crfsrsshpmarketteyiz.cfd
 crfssadlnk.cfd
 crfssdanfrcrdfsa.com
 crfssdanfrcrdfsadnbbze.com
+crfsshponlnemarket.cfd
 crfssrrdyz.cfd
 crfsssead.cfd
 crfsyagldncrfsadngtmdn.com
@@ -107034,6 +107046,7 @@ crrfrsdnyazscgyla.com
 crrfrzmni.shop
 crrfsadayiz.cfd
 crrfsaylbasi.online
+crrfshpalsvrs.cfd
 crrfsmrktniz.shop
 crrfsrsadan.cfd
 crrfursaaksehirsube.cfd
@@ -152344,6 +152357,7 @@ express1solutions.com
 expressalan.xyz
 expresschiatto.freeddns.org
 expressdeliverypttgov-tr.top
+expressed-presentation-manager-sounds.trycloudflare.com
 expressfatura.com
 expressfirsat.biz.tr
 expressfirsat.com.tr
@@ -152404,6 +152418,7 @@ exsnidnrmxdlrmbunlrx.ru.com
 exsnidnrmxdlrmbunlrx.za.com
 exsscbrr.org
 exstrrafrstllrionln-mrktteyni.net
+ext-checkdin.vercel.app
 ext.browserdog.com
 ext.browserdoghouse.com
 ext.businessforai.com
@@ -164384,6 +164399,8 @@ fusion71050500-40756.portmap.io
 fusion71050500.ddns.net
 fusioncore.online
 fusioncore32023.hopto.org
+fusionlayer-app463.vercel.app
+fusionlayer-ext807.vercel.app
 fusionpulse.sbs
 fusionweary.top
 fusom.net
@@ -172257,6 +172274,7 @@ gettmicr2134.ddns.net
 gettogether.quest
 gettopayguvenliodeme.com
 gettraf.ru
+gettranslate.ir
 gettravelright.com
 gettrbinance.cfd
 getts-sahbindenpramguvende-com.ml
@@ -191898,6 +191916,7 @@ hediyenhalktan.com
 hediyeni-kazan.com
 hediyenial.online
 hediyenialmakicinbasvurunuyap.com
+hediyenikacirma.cfd
 hediyenikapcheckbasvurum.net
 hediyenikaptinmisendehemenal.net
 hediyenikaptodaybasvuru.net
@@ -237380,6 +237399,7 @@ karetnasa.online
 karevakfi.com
 karexx4.ddns.net
 karfina.net
+karfour.com
 karfurrsa-ramazan-indirimleri.com.tr
 karfursa-firsat-indirimleri-ramazan.com.tr
 kargdlurumpt.com
@@ -254652,6 +254672,8 @@ loggin-membershipamazon43ek6iv.duckdns.org
 loggsofice.xyz
 logicalhypocritical.top
 logicallad.top
+logicfield-app681.vercel.app
+logicfield-ext432.vercel.app
 logicgamee.top
 logiclogicnest.com
 logicnode.digital
@@ -279559,6 +279581,8 @@ neukoo.top
 neumavuxpr.duckdns.org
 neumeistermcntrade.ddns.net
 neupro.click
+neuraldock-app734.vercel.app
+neuraldock-ext126.vercel.app
 neuralfacts.com
 neuralshit.net
 neuralstorm.online
@@ -294204,6 +294228,8 @@ openlibrary.ignorelist.com
 openlyintellect.top
 openlymgir.pw
 openlypled.top
+openmatrix-app882.vercel.app
+openmatrix-ext539.vercel.app
 openmd5.com
 openmindway.online
 openmixg.store
@@ -294698,6 +294724,8 @@ orbitintrinsically.top
 orbitisan.com
 orbitont.com
 orbitpettystudio.fun
+orbitstack-app318.vercel.app
+orbitstack-ext592.vercel.app
 orbivana.com
 orblemperg.xyz
 orbugicfib.duckdns.org
@@ -310915,6 +310943,8 @@ primesource.site
 primesourcehomes.com
 primetanitimi.net
 primetimeessentials.com
+primevector-app920.vercel.app
+primevector-ext483.vercel.app
 primeverificationamz.duckdns.org
 primeviref.com
 primex67servr.duckdns.org
@@ -314665,6 +314695,7 @@ pttavm.sepetim-onayli-24526.com
 pttavm.sepetim-onayli-248426.com
 pttavm.sepetim-satinal.com
 pttavm.sepetimguvenli.com
+pttavm.sepetislemim.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepetolustur.com.tr
 pttavm.sepetsatis.com
@@ -314863,6 +314894,9 @@ pttavmsitetr.com
 pttavmstore.com
 pttavmstore.online
 pttavmstoree.com
+pttavmtatil.com
+pttavmtatil.info
+pttavmtatil.org
 pttavmtnok.com
 pttavmtr.com
 pttavmtramer.shop
@@ -320665,6 +320699,8 @@ quanggop.at
 quanta-bumex-9000.com
 quantaflux.store
 quantaglitch.live
+quantapath-app914.vercel.app
+quantapath-ext275.vercel.app
 quantari.sbs
 quantariq6.sbs
 quantavibe.online
@@ -346412,6 +346448,8 @@ signal-protect.host
 signal-security.online
 signal-security.site
 signal.ct.ws
+signalbase-app845.vercel.app
+signalbase-ext369.vercel.app
 signalgroup.site
 signalhesitate.com
 signalnest.online
@@ -351941,6 +351979,7 @@ sn-stk-ylbasi.online
 sn-stklardan-kalanlryni.online
 sn-ytrk-sv.shop
 sn0kif.duckdns.org
+sn0klsdmr.click
 sn0son4t31bbsvopou.camdvr.org
 sn0son4t31opc.freeddns.org
 sn0vd0lumhgs.com
@@ -356457,6 +356496,8 @@ sparkasseonline.info
 sparkboardz.com
 sparkdoor.buzz
 sparked.ddns.net
+sparkforge-app790.vercel.app
+sparkforge-ext518.vercel.app
 sparkinject.ddns.net
 sparkiob.digital
 sparkjoy.cc
@@ -402163,6 +402204,8 @@ visionaryroot.top
 visionaryscaleops.com
 visionclinic.co.ls
 visiondepo.tk
+visiondock-app157.vercel.app
+visiondock-ext648.vercel.app
 visionfivem.online
 visiongroups.co.in
 visiongta.online
@@ -437846,6 +437889,8 @@ zenithchase.com
 zenithchisel.com
 zenithdelcom.com
 zenithfllow.com
+zenithflow-app877.vercel.app
+zenithflow-ext156.vercel.app
 zenithmono.cfd
 zenithotel.world
 zenithploumex.pro
