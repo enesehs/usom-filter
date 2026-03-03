@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-03 08:26:18 UTC
-# Toplam: 442102 Domain
+# Son Güncelleme: 2026-03-03 09:29:20 UTC
+# Toplam: 442105 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -331304,6 +331304,7 @@ sad12213.carrd.co
 sad13.hopto.org
 sada1sd651aca.digital
 sadaasdasdasddas1.kred
+sadaclkdakslckadscas.sbs
 sadadasfasf2.click
 sadadsdascxzzxzx.s3.eu-central-1.amazonaws.com
 sadadstv.net
@@ -361097,6 +361098,7 @@ sube-bireyselbankasi.com.cp-tr-1.webhostbox.net
 sube-bireyselhalkbanktr.com
 sube-bireyselislemler.com
 sube-bireyselziraat-tr.com
+sube-bmenkuldegerler.com
 sube-bmenkulgiris.com
 sube-cekilistakipizlem.ml
 sube-cep-garanti-tr.cf
@@ -413021,6 +413023,7 @@ wupgxl.izopux.ru
 wupih.com
 wupkyt.top
 wuppfirsatkampanyam.xyz
+wuptibaba023.com
 wupytzrrvb.duckdns.org
 wuqlxtniff.duckdns.org
 wuqogok.store
