@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-03 06:34:46 UTC
-# Toplam: 442081 Domain
+# Son Güncelleme: 2026-03-03 07:33:54 UTC
+# Toplam: 442096 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3519,6 +3519,7 @@
 1152-698-785-985.site
 1152353721.corolain.ru
 115526875e47.com
+115615161ll11451l1.duckdns.org
 115776615-884492032168661957.preview.editmysite.com
 115amf.duckdns.org
 115cfsrrw.xyz
@@ -62758,6 +62759,7 @@ bayramdayapikredi.com
 bayramdayapikredi.website
 bayramdaybimcl.com
 bayramdayiz.com
+bayramdekoru.com
 bayramdenizdeguzel.com
 bayramdenizdeguzel.tc
 bayramdenizdenguzel.com
@@ -77838,6 +77840,7 @@ blapas.sa.com
 blapas.shop
 blapas.space
 blapas.website
+blarevuni.gifts
 blarhost.xyz
 blaroya.com
 blassagephotography.com
@@ -83280,6 +83283,7 @@ borsaonerisi.com
 borsapetrolturk.com
 borsaportali.org
 borsaptrl.com
+borsapusula.online
 borsara-tr.com
 borsarapor.online
 borsarehberi.pro
@@ -88382,6 +88386,7 @@ buyermar.top
 buyerstwink.weebly.com
 buyervaccinate.top
 buyfile-enter-net.com
+buyflex.rest
 buyhpliliop.click
 buyibest.blogspot.com
 buyiceecream.com
@@ -126817,6 +126822,7 @@ drk12.duckdns.org
 drkampanyahaberi.com
 drkantecatapatt-6d6918ae531b.herokuapp.com
 drkantecatapulttt-0ce6a51b0124.herokuapp.com
+drkantecatircuturrr-faf94a02cfd7.herokuapp.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
@@ -155800,6 +155806,7 @@ feedhostname.ddns.net
 feedjob.top
 feedmanifestation.top
 feedmee.ddns.net
+feedpulse.online
 feedradiator.top
 feedraliks.xyz
 feedrun.online
@@ -157503,6 +157510,7 @@ finansalkampanyalar.com
 finansalkredipaketi.click
 finansalsistemduyurulari.shop
 finansalsorgulama.site
+finansalyorum.com
 finansanaliz.org
 finansanaliz.pro
 finansarena.world
@@ -242306,6 +242314,7 @@ kindshrewd.top
 kindstki.com
 kindtournament.top
 kindupdates.com
+kindvas.com
 kindwell.top
 kinetic-and-potential-energy-worksheet.bet
 kineticwing.com
@@ -278806,6 +278815,7 @@ nelsonpaketleme.info
 nelsonpaketleme.site
 nelsonpt.ddns.net
 nelstoun.com
+nelthoris.sbs
 nelyayukleme.blogspot.com
 nelyayuklemee.blogspot.com
 nelzmsacrfrsa.shop
@@ -280144,6 +280154,7 @@ newsattacker.zapto.org
 newsbeast.gr.com
 newsbizshow.net
 newsbizupdates.net
+newscastly.online
 newschools.info
 newscome.online
 newscommercde.com
@@ -327765,6 +327776,7 @@ ripnoticebook.com
 rippedknees.co.uk
 ripper9.ddns.net
 rippeymp811.ddns.net
+ripplemetric.com
 ripplemore.top
 rippleshow.com
 ripplespider.top
@@ -360177,6 +360189,7 @@ stomachconstituent.top
 stomachimprison.top
 stomachmushroom.top
 stomachspectacular.top
+stomaretil.com
 stomatalgia.com
 stomatoplasty.com
 stomint.com
@@ -362825,6 +362838,7 @@ sundariq.pro
 sunday-smith-devon-appearance.trycloudflare.com
 sunday0813.com
 sundaysneak.top
+sunelapox.com
 sunexpresseco.arabamuayenesi.xyz
 sunexpresseco.com
 sunfireglobal.in
@@ -429769,6 +429783,7 @@ yatirimportal.online
 yatirimpostasi.world
 yatirimpotansiyeliturkiye.site
 yatirimpuan.online
+yatirimpusulasitr.com
 yatirimradar.info
 yatirimradar.top
 yatirimradar.world
