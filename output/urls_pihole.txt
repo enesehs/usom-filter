@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-03 17:33:31 UTC
-# Toplam: 442154 Domain
+# Son Güncelleme: 2026-03-03 18:31:08 UTC
+# Toplam: 442167 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18487,6 +18487,7 @@
 7681342591688148070.xyz
 76843.cloud
 7684533243252373466425213412.xyz
+7684597864523442.online
 76875845364.cloud
 768782231355.duckdns.org
 768867125.com
@@ -45749,6 +45750,7 @@ ankara069.app
 ankara24saatacikcicekci.com
 ankara24saatcicek.com
 ankara24saatcicek.net
+ankara404.site
 ankaraa-kartinn.net
 ankaraakarttss.net
 ankarab.ddns.net
@@ -64868,6 +64870,7 @@ belgimkurumsal.net
 belgimonay.com
 belgimonay.net
 belgimonayin.xyz
+belgimportal.com
 belgimpratik.com
 belgium-myservice.ddns.net
 belgom.duckdns.org
@@ -109539,6 +109542,7 @@ d.windowsupdatesupport.link
 d.wupdomain.com
 d001.ddns.net
 d015irn5.duckdns.org
+d02120212z.duckdns.org
 d027d8e364a6187.ticat31.ru
 d07a19ee4d47.com
 d089981453d4.com
@@ -177144,6 +177148,7 @@ gozumgormesinsizi.cfd
 gozunu-kamastiran-sekilde-karsiniza-cikanlar.com
 gozunuz-yuksekte-eliniz-cebinizede.net
 gozuwomoru.com
+gozyasinisildgmmendilinolaym.org
 gp0stahane.com
 gp1q52fc.duckdns.org
 gp2n3i.duckdns.org
@@ -222846,6 +222851,7 @@ istanbulguzellik.me
 istanbulhaber.club
 istanbulhaber.online
 istanbulhaber.site
+istanbulhadiyollarinn.shop
 istanbulhakkinda.shop
 istanbulhamsi.shop
 istanbulharikasinya.online
@@ -232342,6 +232348,7 @@ kabaskalonline.com
 kabcho.zapto.org
 kabdanhoyt.info
 kabebenim.net
+kabedehacilar.duckdns.org
 kabelbrendedjelekbiru.lol
 kabelospy.ga
 kabelsad2904.wordpress.com
@@ -292709,6 +292716,7 @@ onlinekampanyaozelfirsat.com
 onlinekanal-garanti.click
 onlinekanal.click
 onlinekanal.lat
+onlinekanalim.click
 onlinekapida.com
 onlinekapida.com.tr
 onlinekapida.site
@@ -310675,6 +310683,7 @@ premiumknowledgegood24.com
 premiumlokasyon.xyz
 premiummarketim.xyz
 premiumosm.com
+premiumparcam.site
 premiumpellepelle.com
 premiumperpetual.top
 premiumplattform.site
@@ -311324,6 +311333,7 @@ prmsnynnkmpanyagrnt.pro
 prmsnynnnkmpnyaaaaabasvru.info
 prmsnyonngrntkmpnyaa.info
 prmsooosynnngrntt.sa.com
+prmssynnkmpnyaaabsvrr.info
 prmssynnkmpnyaaabsvrrs.live
 prmssynnkmpnyaabsvrrr.click
 prmsyn-basvrs-yap.cfd
@@ -328196,6 +328206,7 @@ rmzksn.com
 rmzn-h-g-s-yukler.blogspot.com
 rmzn-pakler-101.blogspot.com
 rmznaaozelhrsy.click
+rmznbrdayik.blogspot.com
 rmznburda.blogspot.com
 rmzndacrfsadhycn.com
 rmznfirsatlariniixwx.click
@@ -361308,6 +361319,7 @@ sube-iscep-katilim.ga
 sube-islemlerim.com
 sube-kampanya-eteb.com
 sube-kampanyabasvuru.com
+sube-kanalonline.click
 sube-krediacikdenizbasvurgirisonayi.click
 sube-kuveytturk.cf
 sube-kuveytturk.com
@@ -364459,6 +364471,7 @@ swimmerratify.top
 swimmerrst.top
 swimmingimpetus.top
 swimsolution.ap-reklama.cz
+swimwisean.com
 swindonconcretepumps.com
 swing32.xyz
 swingarbitrate.top
