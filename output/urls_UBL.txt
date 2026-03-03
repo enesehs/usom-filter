@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-03 19:30:49 UTC
-! Total: 352562 rules
+! Last modified: 2026-03-03 20:23:18 UTC
+! Total: 352571 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9886,6 +9886,7 @@
 *://*.500konutprojesi.locker/*
 *://*.500konutprojesi.lol/*
 *://*.500konutprojesi.sbs/*
+*://*.500konuttokibasvurma.xyz/*
 *://*.500konutyatirimbasvuru.click/*
 *://*.500tl-pandemi-destek.com/*
 *://*.500tl-yukle-finansbank.com/*
@@ -48383,6 +48384,7 @@
 *://*.bifcl.com/*
 *://*.bifekcell.ga/*
 *://*.bifikirajans.com/*
+*://*.bifisa.store/*
 *://*.bifrostsr8.app/*
 *://*.biftekcell.ga/*
 *://*.big-bang.ae/*
@@ -99497,6 +99499,7 @@
 *://*.dunyaninenucuzalisverisyerleri.cfd/*
 *://*.dunyaninenucuzalisverisyerleri.sbs/*
 *://*.dunyapaketleme.com/*
+*://*.dunyapanorama.online/*
 *://*.dunyaptt.net/*
 *://*.dunyasaglik-tedbirlik-webtrgirisler.com/*
 *://*.dunyasaglikorgutu-sosyaldestekvakfi.org/*
@@ -180234,6 +180237,7 @@
 *://*.istanbulc4cmkart.net/*
 *://*.istanbulcamsi.shop/*
 *://*.istanbulcan.net/*
+*://*.istanbulcanhalis.shop/*
 *://*.istanbulcannnn.net/*
 *://*.istanbulcanolsa.shop/*
 *://*.istanbulcard.net/*
@@ -196846,6 +196850,7 @@
 *://*.kitjlpaaptmx.com/*
 *://*.kitkattt.com/*
 *://*.kitlefonlamahaber.com/*
+*://*.kitoramusarim.run/*
 *://*.kitspecial.top/*
 *://*.kitsuper.top/*
 *://*.kittbuzz.com/*
@@ -225365,6 +225370,7 @@
 *://*.nexsuslazim.net/*
 *://*.next-bayraktar.world/*
 *://*.next-sosyal.life/*
+*://*.next-sosyal.run/*
 *://*.next-sosyal.world/*
 *://*.nextarabakirala.online/*
 *://*.nextarackirala.online/*
@@ -235743,6 +235749,7 @@
 *://*.onlinesube-enpara.com/*
 *://*.onlinesube-finans.com/*
 *://*.onlinesube-garanti.cfd/*
+*://*.onlinesube-garanti.click/*
 *://*.onlinesube-garanti.com/*
 *://*.onlinesube-garanti.sbs/*
 *://*.onlinesube-garantibankasi.com/*
@@ -246423,6 +246430,7 @@
 *://*.petrolarmour.top/*
 *://*.petrolchronically.top/*
 *://*.petroldemographic.top/*
+*://*.petroldonusum.sbs/*
 *://*.petroldreadful.top/*
 *://*.petroleri-borsa.com/*
 *://*.petroleri.com/*
@@ -249866,6 +249874,7 @@
 *://*.preallow.com/*
 *://*.preapprovedloansoffline.kz/*
 *://*.preapprovedloansonline.kz/*
+*://*.preaproof.icu/*
 *://*.prebwle.su/*
 *://*.precambrianera.com/*
 *://*.precations.online/*
