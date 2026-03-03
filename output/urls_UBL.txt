@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-03 12:28:38 UTC
-! Total: 352506 rules
+! Last modified: 2026-03-03 13:53:08 UTC
+! Total: 352514 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -16373,6 +16373,7 @@
 *://*.abuzerkomurcu3.store/*
 *://*.abuzerkomurcu50.store/*
 *://*.abuzerkomurcu99.xyz/*
+*://*.abv-abc3.top/*
 *://*.abvantek.com/*
 *://*.abvegtndbs.click/*
 *://*.abvrdun.click/*
@@ -69668,6 +69669,7 @@
 *://*.callrecorder-pro.com/*
 *://*.callservice.us/*
 *://*.callt.co.uk/*
+*://*.calltask.im/*
 *://*.callusrsas.xyz/*
 *://*.calmcompassion.top/*
 *://*.calmequate.top/*
@@ -117442,6 +117444,7 @@
 *://*.ermsdna3.net/*
 *://*.ermsrg.online/*
 *://*.ermsrg2.online/*
+*://*.ermtncla.com/*
 *://*.ernenugirislernbonuslarirn.online/*
 *://*.ernestoangiolini.com/*
 *://*.erngn-efsllc.com/*
@@ -210523,6 +210526,7 @@
 *://*.martayifirsatlari.com/*
 *://*.martayihalkbank.ml/*
 *://*.martayiiadesistem.tk/*
+*://*.martayikaraca.com/*
 *://*.martayinaozelherseykapinda.com.tr/*
 *://*.martayinaozelindirimler.com.tr/*
 *://*.martayinaozelramazanindirimleri.com/*
@@ -229608,6 +229612,7 @@
 *://*.obichniedonwload.com/*
 *://*.obidatticampaign.us/*
 *://*.obil3t.com/*
+*://*.obilet-kampanya.com/*
 *://*.obilet-kampanya.org/*
 *://*.obilet-tr.com/*
 *://*.obilet.info/*
@@ -238331,6 +238336,7 @@
 *://*.ouuoamdt.top/*
 *://*.ouut.xyz/*
 *://*.ouuud.top/*
+*://*.ouviraparelhosauditivos.com.br/*
 *://*.ouvvphli.cfd/*
 *://*.ouvvphli.sbs/*
 *://*.ouwvqp.top/*
@@ -249145,6 +249151,7 @@
 *://*.power-dijital.com/*
 *://*.power-dos.com/*
 *://*.power-pcp.com/*
+*://*.powerappsportals.com/*
 *://*.powerarackiralama.com/*
 *://*.powerbankbless.xyz/*
 *://*.powercat.dog/*
@@ -278570,6 +278577,7 @@
 *://*.sirinivas.com/*
 *://*.sirinnovaterra.xyz/*
 *://*.siritacaginiz-pamuklu-dunyalar-burada.com/*
+*://*.siriusmarine-sg.com/*
 *://*.sirkanteri.site/*
 *://*.sirketcv.com/*
 *://*.sirketiminhediyesi.com/*
