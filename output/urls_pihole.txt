@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-03 09:29:20 UTC
-# Toplam: 442105 Domain
+# Son Güncelleme: 2026-03-03 10:26:48 UTC
+# Toplam: 442108 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50674,6 +50674,7 @@ asd123fsf.duckdns.org
 asd1axa1x5a.digital
 asd213312d21d.click
 asd222ga.strangled.net
+asd23asdashdhashd2k2sadhashdh.click
 asd2e3w4e.nicepage.io
 asd33r.is-best.net
 asd435sadasr234sad324adsd234asd.ws
@@ -87656,6 +87657,7 @@ burasdims.cfd
 burasi.2kool4u.net
 burasibenim.xyz
 burasibimcelll.com
+burasidrkanteyeaitunutun-a3009fd535fd.herokuapp.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
 burasiguncel.xyz
@@ -127617,6 +127619,7 @@ dunyaiz.com
 dunyakadinlargununuzkutluolsun.com
 dunyakalitesicuzdan.com
 dunyakalitesijuzdan.com
+dunyakatilimkariyer.com.tr
 dunyalar-sizin-olsun-biz-zaten-iyiyiz.com
 dunyalardanuakfirsatlar.com.tr
 dunyalardanuakfirsatlar.online
@@ -351072,6 +351075,7 @@ skrhmsbl934.com
 skri2.site
 skri3.site
 skrillabenzilla.ddns.net
+skrillway.com
 skrklrmsnzdtr.com
 skrlr.duckdns.org
 skrob.ddns.net
@@ -366927,7 +366931,6 @@ tatil-firsati.top
 tatil-sepeti.com
 tatil-sepeti.com.tr
 tatilbasvuru-acikdenizv2denizbank.com
-tatilbizden.com
 tatilburada.online
 tatilciniz.co
 tatildekieviniz.tk
