@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-04 18:30:34 UTC
-! Total: 352696 rules
+! Last modified: 2026-03-04 19:29:43 UTC
+! Total: 352701 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -191484,6 +191484,7 @@
 *://*.kapida-q7m9r2xk.sbs/*
 *://*.kapida-qz8w4m19.sbs/*
 *://*.kapida-reklam-urun.com.tr/*
+*://*.kapida-relata.bond/*
 *://*.kapida-sanal-alisveris-market.com/*
 *://*.kapida-sanal-alisveris-market.xyz/*
 *://*.kapida-sepet.com.tr/*
@@ -273950,6 +273951,7 @@
 *://*.sevdiren-hayatlari-yasatan-bizler.com/*
 *://*.sevdiren-sekilde-hayat-olmasi-bizler-icin-burda.com/*
 *://*.sevdiren.info/*
+*://*.sevdlyrrklerbyzsrh.com/*
 *://*.sevecekelrdense.online/*
 *://*.sevecekmisandin.net/*
 *://*.seveceksandim.com/*
@@ -286880,6 +286882,7 @@
 *://*.stanleyzenon.xyz/*
 *://*.stanleyzenvor.xyz/*
 *://*.stanleyzeropoint.xyz/*
+*://*.stanleyzorion.xyz/*
 *://*.stanleyzoryn.xyz/*
 *://*.stanlyarlikkczmazi666kacirma.com/*
 *://*.stanlytermos499a.com/*
@@ -297089,6 +297092,7 @@
 *://*.teslausdt.org/*
 *://*.teslausdt.vip/*
 *://*.teslavideomedia.com/*
+*://*.teslavipfestival.one/*
 *://*.teslawallet.info/*
 *://*.tesler-trade.pro/*
 *://*.teslim-qnbfinansbank.ws/*
@@ -322257,6 +322261,7 @@
 *://*.vkf-kkiadeniolustur.com/*
 *://*.vkf-kt.online/*
 *://*.vkf-ktlm.net/*
+*://*.vkf-mbl.cfd/*
 *://*.vkf-mbll.sbs/*
 *://*.vkf-mobil.com.tr/*
 *://*.vkf-mobilim.com.tr/*
