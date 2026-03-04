@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-04 09:28:14 UTC
-# Toplam: 442286 Domain
+# Son Güncelleme: 2026-03-04 10:23:41 UTC
+# Toplam: 442294 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3517,6 +3517,7 @@
 114ht2t1k.duckdns.org
 114i33o9.duckdns.org
 114oldest.com
+1151ll1151151ll1.duckdns.org
 1152-432-785-985.site
 1152-698-785-985.site
 1152353721.corolain.ru
@@ -33980,6 +33981,7 @@ ahkshkgzlsr.jumpingcrab.com
 ahlam1212.ddns.net
 ahlatcikuyumculukaltin.com
 ahlatcimenkuldegerler.com
+ahlatcimenkulkiymetler.com
 ahlatciwebyatirim.com
 ahlatciyatirimtr.com
 ahlatyatirimkiymetler.com.tr
@@ -85364,6 +85366,7 @@ bsvrrkmpnyaprmsynnn.art
 bsvrrkmpnyaprmsynnn.info
 bsvrrkmpnyaprmsynnn.live
 bsvrrkmpnyaprmsynnn.pro
+bsvrrkmpnyaprsmynnnn.art
 bsvrrkmpnyaprsmynnnn.live
 bsvrrkmpnyaprsmynnnn.pro
 bsvrrkmponyaaagrnt.live
@@ -151812,6 +151815,7 @@ evskrdlerrr.blogspot.com
 evsldrktr3er-er.com
 evsrgsdslkgdsjlsjfd.online
 evszzeaws231.com
+evtemizlikleri.com
 evtgranitsllemenullerim.com
 evtlwar.com
 evtokxibasvuruhizmetleriniz.jumpingcrab.com
@@ -235927,6 +235931,7 @@ kampnyaabasvrrrprmsyyn.pro
 kampnyaabasvruuuprmsynn.art
 kampnyaabasvruuuprmsynn.info
 kampnyaabasvruuuprmsynn.pro
+kampnyaaemekliprmsynn.pro
 kampnyaakdayaz.net.tr
 kampnyabasvrm2.click
 kampnyabasvrmm.click
@@ -294088,6 +294093,7 @@ onnline-ticarett.com
 onnlineaktif.net
 onnlinee-vtnnds-hiizmt101.ga
 onnlinehgsyukllemecim.com
+onnlineolarak-gor.sbs
 onnlne-bsvvrm-yap.com.tr
 onnlqr8r.duckdns.org
 onnmuoru.privatedns.org
@@ -369743,6 +369749,7 @@ teebkatilim-3311.duckdns.org
 teebys.com
 teeeebbmoobiill.net
 teeeebbmoobiilll.net
+teegrom.top
 teelam.com
 teemmuzfirsatlarikapindapttile.online
 teemorat.myftp.biz
@@ -387929,6 +387936,7 @@ turkoskeri.site
 turkoteshio.com
 turkparaborsa.com
 turkparaplatform.com
+turkpatent-harc-govtr.site
 turkpatentharc.com
 turkpayment.net
 turkpetrol.live
