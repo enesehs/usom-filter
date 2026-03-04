@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-04 08:23:52 UTC
-! Total: 352591 rules
+! Last modified: 2026-03-04 09:28:14 UTC
+! Total: 352640 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7206,6 +7206,7 @@
 *://*.26937106.cloud/*
 *://*.269444bimcel4444gbyagmrkampanya.net/*
 *://*.2698139875134.com/*
+*://*.26a.online/*
 *://*.26aralikakfirsatlarin.tr/*
 *://*.26aralikkampanyasi.com/*
 *://*.26c3ce635911h.net/*
@@ -8974,6 +8975,7 @@
 *://*.3u2qp0zm.cn/*
 *://*.3utilities.com/*
 *://*.3v1n35i5kwx.life/*
+*://*.3v5w1km5gv.xyz/*
 *://*.3vam4nd3s.xyz/*
 *://*.3vb.us/*
 *://*.3voltafirsatim.cfd/*
@@ -9633,6 +9635,7 @@
 *://*.4k9xlx.top/*
 *://*.4kampanyavolta.sbs/*
 *://*.4kdownloads.com/*
+*://*.4kgame.us/*
 *://*.4kisiliknurgaz.lat/*
 *://*.4kisiliknurgaz.pics/*
 *://*.4kisiliknurgazmasa.cfd/*
@@ -9705,6 +9708,7 @@
 *://*.4tt923.com/*
 *://*.4tt988.com/*
 *://*.4tytsx7v5.ru/*
+*://*.4u.game/*
 *://*.4ukazandiriyor.com/*
 *://*.4voice.bz/*
 *://*.4voltafirsatlarim.cfd/*
@@ -10973,6 +10977,7 @@
 *://*.668400.com/*
 *://*.6688.org/*
 *://*.668asdahsdhashdhashdashdhashd52.click/*
+*://*.668ddf.cc/*
 *://*.66927523.net/*
 *://*.669320432.net/*
 *://*.669sadhashdhashdahshdahsdh82.click/*
@@ -11780,6 +11785,7 @@
 *://*.77778745577.cloud/*
 *://*.777846522777.xyz/*
 *://*.7779315.xyz/*
+*://*.777bingos.xyz/*
 *://*.777dql7qtwkdwl2f6t183xgl8.com/*
 *://*.777havaleodeme.com/*
 *://*.777palm.com/*
@@ -11795,6 +11801,7 @@
 *://*.77979797997.cloud/*
 *://*.77996688.com/*
 *://*.77a13b8666c737b9a8f9106c6a55dd44.cf/*
+*://*.77bingos.com/*
 *://*.77igcxhtone.digital/*
 *://*.77pqlw1ox3y.ru/*
 *://*.77uujwnd.com/*
@@ -11950,6 +11957,8 @@
 *://*.7f5e1d4f2254.net/*
 *://*.7fbgvw.icu/*
 *://*.7fc68c82eb47.com/*
+*://*.7ff.online/*
+*://*.7fun.icu/*
 *://*.7garenta24.com/*
 *://*.7gbhediye.site/*
 *://*.7h-h-hsr-f12fwsaadag-sagsad.com/*
@@ -12000,6 +12009,7 @@
 *://*.7ocaksicaksurprizleri.com/*
 *://*.7ocaktafirsat.com/*
 *://*.7oo4hxt5haih5.life/*
+*://*.7p.game/*
 *://*.7pqlw1ox3y.ru/*
 *://*.7r0i6gkcm1.top/*
 *://*.7r3xtzaao.ru/*
@@ -12030,6 +12040,7 @@
 *://*.7tz.us/*
 *://*.7u6h8.xyz/*
 *://*.7ueusuajaskasmdsfldksfldskf.com/*
+*://*.7uspin.us/*
 *://*.7uwj8mx7a.ru/*
 *://*.7v30bt1m9yqew12aptge1gvkzin.net/*
 *://*.7v8b9n.com/*
@@ -13075,6 +13086,7 @@
 *://*.98983782099834772.online/*
 *://*.9898563.cloud/*
 *://*.989896332323.cloud/*
+*://*.98a.online/*
 *://*.98a036be1dfcd09f0e91df6dd6dbd7c7.com/*
 *://*.98aicode.com/*
 *://*.98iade-hizmetleriniz.com/*
@@ -21981,6 +21993,7 @@
 *://*.ai-nude.cloud/*
 *://*.ai-nude.pro/*
 *://*.ai-pttgov.top/*
+*://*.ai-scorepredict.com/*
 *://*.ai-sentence-rewriter.com/*
 *://*.ai-smart.website/*
 *://*.ai-sso.com/*
@@ -32876,6 +32889,7 @@
 *://*.appsrcv-miappidaccsrvinc.com/*
 *://*.appster.it/*
 *://*.appstore-account.com/*
+*://*.appstoreconn.com/*
 *://*.appsuites.ai/*
 *://*.appsvoice.info/*
 *://*.appswonder.info/*
@@ -39909,6 +39923,7 @@
 *://*.b23xmvc1ll.net/*
 *://*.b24vmc1ll.net/*
 *://*.b24vmc4ll.net/*
+*://*.b27.icu/*
 *://*.b2bmarketingturkiye.com/*
 *://*.b2bseller.ga/*
 *://*.b2cell2.com/*
@@ -47620,6 +47635,7 @@
 *://*.bestcoolingtowels.reviews/*
 *://*.bestcorona.com/*
 *://*.bestcoverpix.com/*
+*://*.bestcryptocurrency.top/*
 *://*.bestdamascusknives.com/*
 *://*.bestdeal34771.win/*
 *://*.bestdealsclub.club/*
@@ -53678,6 +53694,7 @@
 *://*.binanceactivitycheckandcampaigns.net/*
 *://*.binanceaff.com/*
 *://*.binanceairdropairbnb.top/*
+*://*.binancealliancesintro.com/*
 *://*.binanceanlikbakiyesininyuzdeyirmibeskadarinihediyeediyoruz.net/*
 *://*.binancebalace.site/*
 *://*.binancebankcoin.com/*
@@ -54021,6 +54038,7 @@
 *://*.binancventads.site/*
 *://*.binancyeniyil.com/*
 *://*.binancyeniyil.xyz/*
+*://*.binaner.com/*
 *://*.binanhediyenial.online/*
 *://*.binanhediyenikap.online/*
 *://*.binanhelpp.top/*
@@ -54162,6 +54180,7 @@
 *://*.bingforce.org/*
 *://*.binglamour.top/*
 *://*.bingleybuilder.co.uk/*
+*://*.bingo777.now/*
 *://*.bingobongo.xyz/*
 *://*.bingocaptchapoint.top/*
 *://*.bingoroll16.net/*
@@ -65503,6 +65522,7 @@
 *://*.btpum-buisness.net/*
 *://*.btqii.ru/*
 *://*.btrader.info/*
+*://*.btrank.top/*
 *://*.btrasiis.click/*
 *://*.btrbinance.com.tr/*
 *://*.btrcnfrstaktifgiris.com/*
@@ -82846,6 +82866,7 @@
 *://*.cryptocrio.pw/*
 *://*.cryptocrio.top/*
 *://*.cryptocryptobitcoin.xyz/*
+*://*.cryptocurrencyworld.top/*
 *://*.cryptodocumentinformation.com/*
 *://*.cryptodomain.agency/*
 *://*.cryptoextra.net/*
@@ -84346,6 +84367,7 @@
 *://*.cy1bards0drne1lgxsngroup.com/*
 *://*.cy1bards0drne1lgxsnonline.com/*
 *://*.cy4na.shop/*
+*://*.cy8.top/*
 *://*.cyanura.com/*
 *://*.cyatechcenter.com/*
 *://*.cybblade.com/*
@@ -85638,6 +85660,7 @@
 *://*.dbea33nnephew.top/*
 *://*.dbenx.com/*
 *://*.dbft.org/*
+*://*.dbgopaxl.com/*
 *://*.dbhubspi.com/*
 *://*.dbigc.sbs/*
 *://*.dbit33terexplicit.top/*
@@ -85736,6 +85759,7 @@
 *://*.dd75231.com/*
 *://*.dd88o.com/*
 *://*.dd98652.com/*
+*://*.dd9l7e6ghme8pbk.xyz/*
 *://*.ddasqf.com/*
 *://*.ddbqms.top/*
 *://*.ddclaskcklasjasjcas.online/*
@@ -85832,6 +85856,7 @@
 *://*.ddt-tickets.ru/*
 *://*.ddtrmn.top/*
 *://*.ddtrmy.top/*
+*://*.ddus17.com/*
 *://*.ddvvs.icu/*
 *://*.ddwjmp.top/*
 *://*.ddwqxqxq.website/*
@@ -131234,6 +131259,7 @@
 *://*.fxparacekimislemleri.online/*
 *://*.fxqot.cn/*
 *://*.fxrauxh.info/*
+*://*.fxrhcnfwxes90q.xyz/*
 *://*.fxrsatlix-fxyatlaar.online/*
 *://*.fxrsatlx-fiyxt.online/*
 *://*.fxrsatlx-fiyxtlxrr.online/*
@@ -140089,6 +140115,7 @@
 *://*.goals1in.xyz/*
 *://*.goalskeptical.top/*
 *://*.goalstreamev.pro/*
+*://*.goanalytics.xyz/*
 *://*.goasoftwarecompany.com/*
 *://*.goatlad.top/*
 *://*.goatni.top/*
@@ -140580,6 +140607,7 @@
 *://*.goodcoffe.com/*
 *://*.goodcolonell.xyz/*
 *://*.goodconstituent.top/*
+*://*.goodcryptocurrency.top/*
 *://*.gooddns.ir/*
 *://*.gooddongov.best/*
 *://*.goodemeyap.com/*
@@ -146470,6 +146498,7 @@
 *://*.h4.vc/*
 *://*.h4c1f4hr1.online/*
 *://*.h4gsodemelearl1.net/*
+*://*.h4k.icu/*
 *://*.h4k4nc4n.com/*
 *://*.h4nz0s.xyz/*
 *://*.h4ppyb0st.online/*
@@ -187698,6 +187727,7 @@
 *://*.k8cf0j5u.cf/*
 *://*.k8e58.ru/*
 *://*.k8worldcup94.com/*
+*://*.k96.icu/*
 *://*.k9ccin.com/*
 *://*.k9mum.com/*
 *://*.kIsa.link/*
@@ -191169,6 +191199,7 @@
 *://*.kanalmuayne.net/*
 *://*.kanalonline.click/*
 *://*.kananelnamakmu.xyz/*
+*://*.kanav.blog/*
 *://*.kanavagronomy.in/*
 *://*.kanayanyaralarkapananadekhayat.com/*
 *://*.kancaegitimvakfi.com/*
@@ -192193,6 +192224,7 @@
 *://*.karakascit.com/*
 *://*.karakayagcsgecei.net/*
 *://*.karakgmodemsiavbilgi.com/*
+*://*.karakocsorgu.xyz/*
 *://*.karakolcheck.com.tr/*
 *://*.karakolcheck.net.tr/*
 *://*.karakoprunarliktirle.shop/*
@@ -203460,6 +203492,7 @@
 *://*.ldddmp.top/*
 *://*.lddenizbank.com/*
 *://*.lddnmm.top/*
+*://*.lddx3z2d72aa8i6.xyz/*
 *://*.ldeniz.com/*
 *://*.ldenizbank-basvuru.com/*
 *://*.ldenizbank.com/*
@@ -204937,6 +204970,7 @@
 *://*.liquidzone.site/*
 *://*.liquorabnormal.top/*
 *://*.liquorculmination.top/*
+*://*.liquorfight.com/*
 *://*.liquorpeople.top/*
 *://*.lira-live.com/*
 *://*.liraenerjiplat.com/*
@@ -214390,6 +214424,7 @@
 *://*.miimms.com/*
 *://*.miistoria.com/*
 *://*.mijehen.top/*
+*://*.mijieqi.cn/*
 *://*.mijnoverheid.top/*
 *://*.mika-lea.com/*
 *://*.mikad.store/*
@@ -215110,6 +215145,7 @@
 *://*.mjaznxbvakjjouxir0z.xyz/*
 *://*.mjbnukq.com/*
 *://*.mjcvb.in/*
+*://*.mjdqw.cn/*
 *://*.mjdshsdgsd.net/*
 *://*.mjesafar.com/*
 *://*.mjet.pw/*
@@ -215167,6 +215203,7 @@
 *://*.mkisekuoyw2o1.top/*
 *://*.mkjhuy-66.ml/*
 *://*.mkjhvnhfufhjv.xyz/*
+*://*.mkkku.com/*
 *://*.mkl423232.com/*
 *://*.mkl54k3.com/*
 *://*.mklaq-wifds-olmlb.com/*
@@ -222884,6 +222921,7 @@
 *://*.n3bvakjjouxir0zkzmd.xyz/*
 *://*.n3onversexpqt91.click/*
 *://*.n42nrn2nr24n24n.xyz/*
+*://*.n49.top/*
 *://*.n4m6k8xq9f3h7v2asb.sbs/*
 *://*.n4shcnkybimcell.net/*
 *://*.n4shilerndvukeyfsss.net/*
@@ -245944,6 +245982,7 @@
 *://*.peoplesservicz.com/*
 *://*.peopletemptation.top/*
 *://*.peoritughbnmv.net/*
+*://*.pepeairdrop01.com/*
 *://*.pepepeererty.xyz/*
 *://*.pepkgovi.top/*
 *://*.pepparayatir.com/*
@@ -273884,6 +273923,8 @@
 *://*.seven-birazda-buraya-gelir-goren-bilir.com/*
 *://*.seven-oranges.com/*
 *://*.seven-sevilen-hayatin-ellerini-bizler-tutar.com/*
+*://*.seven7.to/*
+*://*.seven7.vip/*
 *://*.sevencozy.top/*
 *://*.sevendoka.xyz/*
 *://*.sevenegitimvakfi.com/*
@@ -279653,6 +279694,7 @@
 *://*.siztep-biztep.online/*
 *://*.sizvarsaniz-bizlerede-sadecesize-getirerek.top/*
 *://*.sizveodeme.website/*
+*://*.sj9ioz3a7y89cy7.xyz/*
 *://*.sjadasgdvaaer.click/*
 *://*.sjadjasnadfx.net/*
 *://*.sjakqgkxairbly.net/*
@@ -284982,6 +285024,7 @@
 *://*.spimfactory.net/*
 *://*.spimports.com.br/*
 *://*.spin-top.net/*
+*://*.spin7.icu/*
 *://*.spinakrosa.at/*
 *://*.spinalaspiration.top/*
 *://*.spinalreferee.top/*
@@ -291450,6 +291493,7 @@
 *://*.t7.nz/*
 *://*.t70qurh.cn/*
 *://*.t718zra.cn/*
+*://*.t7c.icu/*
 *://*.t7emmuzindirimyararlanile.com/*
 *://*.t7jgqhhq7.com/*
 *://*.t7z3w9x1b2q8m4r0y6n5v2a3.com.tr/*
@@ -307776,6 +307820,7 @@
 *://*.tubecompany.top/*
 *://*.tubehum.top/*
 *://*.tubeintuition.top/*
+*://*.tubeluck.com/*
 *://*.tuberclelike.com/*
 *://*.tubestewardess.top/*
 *://*.tubpariang.com/*
@@ -312059,6 +312104,7 @@
 *://*.uaafd.biz/*
 *://*.uabijieeqgsgmlj.ru/*
 *://*.uacontruct.space/*
+*://*.uacounter.com/*
 *://*.uadxwj.top/*
 *://*.uaery.top/*
 *://*.uaetrc.com/*
@@ -337368,6 +337414,7 @@
 *://*.xn--jeopardizeanimate-ny2j.top/*
 *://*.xn--jeopardizeerupt-1r9h.top/*
 *://*.xn--jnhbg-mnbv-juhy-ilc.space/*
+*://*.xn--jor0b302fdhgwnccw8g.com/*
 *://*.xn--k-a-c--r-m-a-64b.online/*
 *://*.xn--kaanatesogluemektardrrrrrr-e6d.net/*
 *://*.xn--kaderdenkesienyollarinhikayesi-4wf.xyz/*
@@ -338800,6 +338847,7 @@
 *://*.xn--xgvende-o2a.com/*
 *://*.xn--xhgstrrdemelerms-swb.com/*
 *://*.xn--xhsaftannxdrmlerix-l0c.com.tr/*
+*://*.xn--xkrsa0078bd6d.com/*
 *://*.xn--xn--bilgi-acikdenizdehayat-nx5m-u94s.com/*
 *://*.xn--xn--dnizbank-b1a-ud6i.com/*
 *://*.xn--xnapkred-9ya23b-vu9h.com/*
@@ -340014,6 +340062,7 @@
 *://*.y4nothing.xyz/*
 *://*.y4peace.org/*
 *://*.y4pimineniyisi597ckjblk.com/*
+*://*.y4w.icu/*
 *://*.y5.ms/*
 *://*.y515.com/*
 *://*.y5hdcf.icu/*
