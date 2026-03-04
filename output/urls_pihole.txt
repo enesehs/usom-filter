@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-04 12:27:54 UTC
-# Toplam: 442316 Domain
+# Son Güncelleme: 2026-03-04 14:29:27 UTC
+# Toplam: 442337 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2839,6 +2839,7 @@
 101redmikampanyasi.click
 101redmikampanyasi.sbs
 101rmarketuygun.com
+101rmzn.webredirect.org
 101ruxmarket.com
 101sabah-cuma.com
 101sabahcuma.com
@@ -3809,6 +3810,7 @@
 1234346423523415.com
 12343545435.cloud
 12345.zapto.org
+123451l11o1.duckdns.org
 123456780.tk
 123456789-1.com
 12345678910xxali.ddns.net
@@ -5277,6 +5279,7 @@
 163kx3.duckdns.org
 164.132.213.119
 1641177891.dfgqdsd.ru
+164151111211l1.duckdns.org
 164364363295239.shop
 16442580-coinbase.com
 16450107-coinbase.com
@@ -17026,6 +17029,7 @@
 65s4a16das98ds61a.site
 65s4a65dsa64sa6d1fs6522.site
 65u6fi.duckdns.org
+65vc321235t645.duckdns.org
 65yilozelfirsatlar.kisalink.cc
 65z0uql.duckdns.org
 66.133.129.5
@@ -66353,6 +66357,7 @@ bgvt.trplatork.com
 bgw8cr0.duckdns.org
 bgwf0v8e.duckdns.org
 bgwvldjmk.com
+bgwxbl.homes
 bgwzs1o.duckdns.org
 bgxfgpuskk.duckdns.org
 bgxmxcell.com
@@ -120391,6 +120396,7 @@ dfg4gf23r.duckdns.org
 dfgdfgdfgdfg.great-site.net
 dfgdfgweqnasn.com
 dfgdfmgdmfgmdf.xyz
+dfgdgdfgdgdhghg.sbs
 dfgdhjashsasdf.net
 dfgdt.ddns.net
 dfgerta.com
@@ -154962,6 +154968,7 @@ fatllamaupdate.info
 fatmacoskunmng.com
 fatmacoskunyakuza.net
 fatmazpharmc.com
+fatmoneycantada.uk
 fato.2kool4u.net
 fatodeme.com
 fatoftheland.top
@@ -171609,6 +171616,7 @@ geriyednuksorguveaktar.my
 geriyedonk-islemlerinizi-ogrenme-ekrani.sbs
 geriyedonkaktarimynlendrirme.site
 geriyedonktransfer.cfd
+geriyedonuk-islemlerinizz.sbs
 geriyedonukaktarim.club
 geriyedonukaktarimlar.click
 geriyedonukaktarimlar.cyou
@@ -178538,6 +178546,7 @@ grntibonus-meta2026.cfd
 grntibonus-metafb.cfd
 grntibonusfirsati.com
 grntibonusmeta-fb.cfd
+grntibonusmeta.cfd
 grntibonusmetafb.cfd
 grntibonusmetainsgrtam.cfd
 grntibonusmetainsgrtam354566.cfd
@@ -222930,6 +222939,7 @@ istanbulgngkartel.net
 istanbulgulum.net
 istanbulgunaydin.net
 istanbulguncel.net
+istanbulguvenhalis.shop
 istanbulguzelim.com
 istanbulguzellik.me
 istanbulhaber.club
@@ -225151,6 +225161,8 @@ itoken-apk.com
 itopiya.xyz
 itorqdtqwgfb.org
 itotr.org
+itoy2724.online
+itoy2724.store
 itp.coinbase-com.info
 itpanel.cfd
 itpanel.cloud
@@ -246349,6 +246361,7 @@ kosgebhibebasvuru.cfd
 kosgebhibebasvuru.com
 kosgebhibebasvurusu.cfd
 kosgebhibebasvurusu.com
+kosgebhibedestegi.com
 kosgebhibehizmetleri.com
 kosgebhibemerkezi.com
 kosgebhibeonline.com
@@ -273220,6 +273233,7 @@ mtftheatre.com
 mtg3sslaut.zapto.org
 mtgk.site
 mtgqzt.top
+mth.tc
 mthvhwkknv.duckdns.org
 mtietw.xyz
 mtigjwwtuvpgfio.su
@@ -273235,6 +273249,7 @@ mtkoytnvfastren.net
 mtl-ayrl-brdn-vakit-bitti.top
 mtlaisntla.com
 mtloginc.ddns.net
+mtlskasr.com
 mtmdcfi63n5hihm83l7.ddns.net
 mtmdj33s0.ru
 mtmkd14ka.duckdns.org
@@ -281922,6 +281937,7 @@ nkkzhqqslod.com
 nklfarhfaulasfa.com
 nklmnnfjipev.org
 nklmxq.com
+nklsltaks.com
 nkmrfvzreur.xyz
 nkmvrbluxbwy.wcnv20.cn
 nknbtl.pw
@@ -314937,6 +314953,7 @@ pttavm.siparisfirsati.com.tr
 pttavm.siparisguvencesi.com.tr
 pttavm.siparisiim.com.tr
 pttavm.siparislerim-onayli-127452.com
+pttavm.siparisodeme.com
 pttavm.sistemini-tamamla.com
 pttavm.sonfirsati.com.tr
 pttavm.store
@@ -376910,6 +376927,7 @@ toplukonutbasvur.online
 toplukonutbasvuru.cfd
 toplukonutbasvuru.online
 toplukonutbasvuru.sbs
+toplukonutbasvuru12419.com
 toplukonutbasvuru1piv8em48.vercel.app
 toplukonutbasvuru23677.onrender.com
 toplukonutbasvuru4vjnrovjs82.vercel.app
@@ -400775,6 +400793,7 @@ verify-idevice-icloud.com
 verify-info.zapto.org
 verify-instagrann.ga
 verify-internetbanking-online.com
+verify-lastpass.com
 verify-mybecu.hopto.org
 verify-office-outlook.com
 verify-page-2508.help
@@ -435216,6 +435235,7 @@ yonlendirmesfsadsssfa.xyz
 yonlendirmeveaktarimservisi.my
 yonlendirmveaktarimekrani.lat
 yonlendlrmeadresleklm.duckdns.org
+yonlendrci.webredirect.org
 yonlendrici-guvenli.sbs
 yonlendrici-stiye-aktar.sbs
 yonlendriciye-aktarliyorsunuz.sbs
@@ -438861,6 +438881,7 @@ ziraat-bank-kredim.github.io
 ziraat-bank.hizli-giriss-tr.com
 ziraat-bank.katilma.vip
 ziraat-bank.meinkontowechsel.de
+ziraat-bank.one
 ziraat-bank.online
 ziraat-bank.sbs
 ziraat-banka.com

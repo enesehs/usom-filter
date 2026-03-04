@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-04 12:27:54 UTC
-! Total: 352665 rules
+! Last modified: 2026-03-04 14:29:27 UTC
+! Total: 352681 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -48180,6 +48180,7 @@
 *://*.bguvende.online/*
 *://*.bgvgov.com/*
 *://*.bgwvldjmk.com/*
+*://*.bgwxbl.homes/*
 *://*.bgxmxcell.com/*
 *://*.bgynpvjfghrwyeewr.cc/*
 *://*.bgyosxw.com/*
@@ -93725,6 +93726,7 @@
 *://*.dfg45dfg45.best/*
 *://*.dfgdfgweqnasn.com/*
 *://*.dfgdfmgdmfgmdf.xyz/*
+*://*.dfgdgdfgdgdhghg.sbs/*
 *://*.dfgdhjashsasdf.net/*
 *://*.dfgerta.com/*
 *://*.dfggggggggggytuuuut.cfd/*
@@ -123232,6 +123234,7 @@
 *://*.fatmacoskunmng.com/*
 *://*.fatmacoskunyakuza.net/*
 *://*.fatmazpharmc.com/*
+*://*.fatmoneycantada.uk/*
 *://*.fatodeme.com/*
 *://*.fatoftheland.top/*
 *://*.fatoix.click/*
@@ -136701,6 +136704,7 @@
 *://*.geriyedonk-islemlerinizi-ogrenme-ekrani.sbs/*
 *://*.geriyedonkaktarimynlendrirme.site/*
 *://*.geriyedonktransfer.cfd/*
+*://*.geriyedonuk-islemlerinizz.sbs/*
 *://*.geriyedonukaktarim.club/*
 *://*.geriyedonukaktarimlar.click/*
 *://*.geriyedonukaktarimlar.cyou/*
@@ -142388,6 +142392,7 @@
 *://*.grntibonus-metafb.cfd/*
 *://*.grntibonusfirsati.com/*
 *://*.grntibonusmeta-fb.cfd/*
+*://*.grntibonusmeta.cfd/*
 *://*.grntibonusmetafb.cfd/*
 *://*.grntibonusmetainsgrtam.cfd/*
 *://*.grntibonusmetainsgrtam354566.cfd/*
@@ -180347,6 +180352,7 @@
 *://*.istanbulgulum.net/*
 *://*.istanbulgunaydin.net/*
 *://*.istanbulguncel.net/*
+*://*.istanbulguvenhalis.shop/*
 *://*.istanbulguzelim.com/*
 *://*.istanbulguzellik.me/*
 *://*.istanbulhaber.club/*
@@ -182312,6 +182318,8 @@
 *://*.itopiya.xyz/*
 *://*.itorqdtqwgfb.org/*
 *://*.itotr.org/*
+*://*.itoy2724.online/*
+*://*.itoy2724.store/*
 *://*.itpanel.cfd/*
 *://*.itpanel.cloud/*
 *://*.itpanel.fun/*
@@ -199373,6 +199381,7 @@
 *://*.kosgebhibebasvuru.com/*
 *://*.kosgebhibebasvurusu.cfd/*
 *://*.kosgebhibebasvurusu.com/*
+*://*.kosgebhibedestegi.com/*
 *://*.kosgebhibehizmetleri.com/*
 *://*.kosgebhibemerkezi.com/*
 *://*.kosgebhibeonline.com/*
@@ -219706,6 +219715,7 @@
 *://*.mtgk.site/*
 *://*.mtgqzt.top/*
 *://*.mtguvende.online/*
+*://*.mth.tc/*
 *://*.mtietw.xyz/*
 *://*.mtigjwwtuvpgfio.su/*
 *://*.mtindgovsg.com/*
@@ -219717,6 +219727,7 @@
 *://*.mtkoytnvfastren.net/*
 *://*.mtl-ayrl-brdn-vakit-bitti.top/*
 *://*.mtlaisntla.com/*
+*://*.mtlskasr.com/*
 *://*.mtmdj33s0.ru/*
 *://*.mtmvodemegunu.com/*
 *://*.mtngucluasansor.com/*
@@ -226427,6 +226438,7 @@
 *://*.nklfarhfaulasfa.com/*
 *://*.nklmnnfjipev.org/*
 *://*.nklmxq.com/*
+*://*.nklsltaks.com/*
 *://*.nkmrfvzreur.xyz/*
 *://*.nknbtl.pw/*
 *://*.nknightstudio.com/*
@@ -278517,6 +278529,7 @@
 *://*.siparisnsepette.click/*
 *://*.siparisnspette.net/*
 *://*.siparisnzhazir.click/*
+*://*.siparisodeme.com/*
 *://*.siparisolustruldu.click/*
 *://*.siparisolusturkapiinda.online/*
 *://*.siparisonaylacom.online/*
@@ -300927,6 +300940,7 @@
 *://*.toplukonutbasvuru.cfd/*
 *://*.toplukonutbasvuru.online/*
 *://*.toplukonutbasvuru.sbs/*
+*://*.toplukonutbasvuru12419.com/*
 *://*.toplukonutbasvurular-45.com/*
 *://*.toplukonutbasvurular.com/*
 *://*.toplukonutbasvurulari.cloud/*
@@ -320652,6 +320666,7 @@
 *://*.verify-idevice-icloud.com/*
 *://*.verify-instagrann.ga/*
 *://*.verify-internetbanking-online.com/*
+*://*.verify-lastpass.com/*
 *://*.verify-office-outlook.com/*
 *://*.verify-page-2508.help/*
 *://*.verify-reserv435.com/*
@@ -350001,6 +350016,7 @@
 *://*.ziraat-bank-bireysel.com/*
 *://*.ziraat-bank-katilim.cf/*
 *://*.ziraat-bank-katilim.tk/*
+*://*.ziraat-bank.one/*
 *://*.ziraat-bank.online/*
 *://*.ziraat-bank.sbs/*
 *://*.ziraat-banka.com/*
