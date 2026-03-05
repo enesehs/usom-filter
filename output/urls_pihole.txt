@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-05 11:24:30 UTC
-# Toplam: 442438 Domain
+# Son Güncelleme: 2026-03-05 12:30:49 UTC
+# Toplam: 442443 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22449,6 +22449,7 @@ a-10-01rmzan-com.sbs
 a-10-1-bu-haftada-indrim-var.com
 a-10-1-bu-haftada-indrim-var.comtramrhsrkyt.net
 a-10-1-kapimda-tr.online
+a-10-1com-t-r.cfd
 a-10-1comtr.sbs
 a-10-1flrsatlari.cfd
 a-10-1malrketcomtr.sbs
@@ -124218,6 +124219,7 @@ dnshsdfskjasdns1423.com
 dnsinass.hopto.org
 dnsmicrosoftds-data.com
 dnsmicrosoftds-data.org
+dnsmnlk23.blogspot.com
 dnsmnlkhzmtlrwitech.site
 dnsnkahsa-mladklasa-nmamska.cyou
 dnsnkahsa-mladklasa-nmamska.icu
@@ -150160,6 +150162,8 @@ evbasvuru.online
 evbasvuru.xyz
 evbasvuru1.duckdns.org
 evbasvuru2.duckdns.org
+evbasvuru3.duckdns.org
+evbasvuru4.duckdns.org
 evbasvurugovtr.cyou
 evbasvurugovtr.sbs
 evbasvurukurra.com
@@ -235996,6 +236000,7 @@ kampnyaabasvrrrprmsyyn.pro
 kampnyaabasvruuuprmsynn.art
 kampnyaabasvruuuprmsynn.info
 kampnyaabasvruuuprmsynn.pro
+kampnyaaemekliprmsynn.info
 kampnyaaemekliprmsynn.live
 kampnyaaemekliprmsynn.pro
 kampnyaakdayaz.net.tr
