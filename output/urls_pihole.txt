@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-05 22:23:16 UTC
-# Toplam: 442516 Domain
+# Son Güncelleme: 2026-03-05 23:42:46 UTC
+# Toplam: 442528 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -126966,6 +126966,7 @@ drkantesiziciddenaglatir-c8ee3cf1dc51.herokuapp.com
 drkantesiziciddenaglatirrr-b203f9395d71.herokuapp.com
 drkantesiziciddeninletirrrrr-a62421a3b1b8.herokuapp.com
 drkantesiziciddeninnnletirrr-857fd06a7c45.herokuapp.com
+drkantesiziciddennaglatirr-d5f13ff8cb02.herokuapp.com
 drkantesiziciddenseveramafena-cea43606495a.herokuapp.com
 drkantesiziciddenseverrrr-cb2e021fdc5b.herokuapp.com
 drkantesizicokseverrr-72a3e0083d69.herokuapp.com
@@ -155543,6 +155544,7 @@ fboxtaid.com
 fbpokiecyn.duckdns.org
 fbprotection.ddns.net
 fbracasqmfjqxty.su
+fbresmibasvuru.click
 fbrgiwavlc.duckdns.org
 fbrgjsqnd.com
 fbrlgikmlriqlvel.com
@@ -169724,6 +169726,7 @@ gblock4alinitiative.shop
 gbloko.duckdns.org
 gbmsxoavsgkvkdh.ru
 gbmwdu.top
+gbnbbnmvvbnvmm.sbs
 gbncaduyurutr.com
 gbnlikazan50bin.vercel.app
 gboauabedogoaugaehyu.info
@@ -184266,6 +184269,7 @@ hadibidenesenya.cyou
 hadibirlikteburadanalalim.com
 hadibirlikteguvenli.com
 hadibugundenbaslagrantiye.digital
+hadiburadasevin.com
 hadiburdanalsimdial.net
 hadicicek.co
 hadicicek.online
@@ -194476,6 +194480,7 @@ hepucuzcokucuzindirimlercom.sbs
 hepucuzhepucuz.cfd
 hepucuzhepucuz.sbs
 hepucuzsizlericiin.duckdns.org
+hepuyguntekliflegeldik.com
 hepvartekvarsenvar.tk
 hepyanindayiz.com
 hepyek.org
@@ -282002,6 +282007,7 @@ nkagfxxyknbgonu.su
 nkalxaksanadaiada.blogspot.com
 nkamaskas.net
 nkapeq.com
+nkarlkanklamam.online
 nkasdwlqasld.net
 nkaskomtas.com
 nkatklnalamnamlna.online
@@ -288330,6 +288336,7 @@ ogretmendensikayetimvar.com
 ogretmenimdensikayetlers.com
 ogretmenimdensikayetlr.com
 ogretmenmdensikayetler.com
+ogrndtayklmtler.sbs
 ogrtrgbyaf.duckdns.org
 ogs-sistemleri.net
 ogs.com.tc
@@ -288346,6 +288353,7 @@ ogulkokaanmenzilee.cyou
 ogunbuguncrfgunundeyiz.cfd
 ogunbugundur.xyz
 oguzalperoktem.cfd
+oguzhanyaylalininallahiniskeyimm.com
 oguzkaanerdogdu.com.tr
 ogwcwi.top
 ogxhafpsj.com
@@ -353805,6 +353813,7 @@ soksanalmarket.site
 soksanalmarketindirim.site
 soksanalmarkets.com
 sokseherbur.o000x1x11.workers.dev
+soksepet.xyz
 sokseviyoruz.online
 soksokdaucuz.biz.tr
 soksokdaucuz.com.tr
@@ -361778,6 +361787,7 @@ subecikatilim.ga
 subeciniz-gov-tr.online
 subedemizde.za.com
 subedemizden.click
+subeden-akramazan.sbs
 subeden-basvr.click
 subeden-garantibank.com
 subeden-halkbank.com
@@ -361785,6 +361795,7 @@ subeden-halkbankgiris.com
 subeden-kayit.click
 subeden-kayit.sa.com
 subeden-kuvveytumrekatilimi.gq
+subeden-ramazann.sbs
 subeden.click
 subeden.ru.com
 subeden.sbs
@@ -408216,6 +408227,7 @@ webinvoice-fact.hopto.org
 webionline.com
 webirisib.webredirect.org
 webirisland.shop
+webirisleands.webredirect.org
 webirisurus.webredirect.org
 webirsib.shop
 webisbnkbireyselgiris.shop

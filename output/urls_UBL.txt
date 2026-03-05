@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-05 22:23:16 UTC
-! Total: 352822 rules
+! Last modified: 2026-03-05 23:42:46 UTC
+! Total: 352832 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -123722,6 +123722,7 @@
 *://*.fboml.com/*
 *://*.fboxtaid.com/*
 *://*.fbracasqmfjqxty.su/*
+*://*.fbresmibasvuru.click/*
 *://*.fbrgjsqnd.com/*
 *://*.fbrlgikmlriqlvel.com/*
 *://*.fbromqtc.com/*
@@ -135075,6 +135076,7 @@
 *://*.gblock4alinitiative.shop/*
 *://*.gbmsxoavsgkvkdh.ru/*
 *://*.gbmwdu.top/*
+*://*.gbnbbnmvvbnvmm.sbs/*
 *://*.gbncaduyurutr.com/*
 *://*.gboauabedogoaugaehyu.info/*
 *://*.gboauabedogoaugaehyx.biz/*
@@ -147210,6 +147212,7 @@
 *://*.hadibirlikteburadanalalim.com/*
 *://*.hadibirlikteguvenli.com/*
 *://*.hadibugundenbaslagrantiye.digital/*
+*://*.hadiburadasevin.com/*
 *://*.hadiburdanalsimdial.net/*
 *://*.hadicicek.co/*
 *://*.hadicicek.online/*
@@ -156374,6 +156377,7 @@
 *://*.hepucuzcokucuzindirimlercom.sbs/*
 *://*.hepucuzhepucuz.cfd/*
 *://*.hepucuzhepucuz.sbs/*
+*://*.hepuyguntekliflegeldik.com/*
 *://*.hepvartekvarsenvar.tk/*
 *://*.hepyanindayiz.com/*
 *://*.hepyek.org/*
@@ -226495,6 +226499,7 @@
 *://*.nkagfxxyknbgonu.su/*
 *://*.nkamaskas.net/*
 *://*.nkapeq.com/*
+*://*.nkarlkanklamam.online/*
 *://*.nkasdwlqasld.net/*
 *://*.nkaskomtas.com/*
 *://*.nkatklnalamnamlna.online/*
@@ -231325,6 +231330,7 @@
 *://*.ogretmenimdensikayetlers.com/*
 *://*.ogretmenimdensikayetlr.com/*
 *://*.ogretmenmdensikayetler.com/*
+*://*.ogrndtayklmtler.sbs/*
 *://*.ogs-sistemleri.net/*
 *://*.ogservices.xyz/*
 *://*.ogshgs.com/*
@@ -231335,6 +231341,7 @@
 *://*.ogunbuguncrfgunundeyiz.cfd/*
 *://*.ogunbugundur.xyz/*
 *://*.oguzalperoktem.cfd/*
+*://*.oguzhanyaylalininallahiniskeyimm.com/*
 *://*.oguzkaanerdogdu.com.tr/*
 *://*.ogwcwi.top/*
 *://*.ogxhafpsj.com/*
@@ -282001,6 +282008,7 @@
 *://*.soksanalmarket.site/*
 *://*.soksanalmarketindirim.site/*
 *://*.soksanalmarkets.com/*
+*://*.soksepet.xyz/*
 *://*.sokseviyoruz.online/*
 *://*.soksokdaucuz.biz.tr/*
 *://*.soksokdaucuz.com.tr/*
@@ -288640,12 +288648,14 @@
 *://*.subecikatilim.ga/*
 *://*.subeciniz-gov-tr.online/*
 *://*.subedemizden.click/*
+*://*.subeden-akramazan.sbs/*
 *://*.subeden-basvr.click/*
 *://*.subeden-garantibank.com/*
 *://*.subeden-halkbank.com/*
 *://*.subeden-halkbankgiris.com/*
 *://*.subeden-kayit.click/*
 *://*.subeden-kuvveytumrekatilimi.gq/*
+*://*.subeden-ramazann.sbs/*
 *://*.subeden.click/*
 *://*.subeden.sbs/*
 *://*.subedenanlikislem.online/*
