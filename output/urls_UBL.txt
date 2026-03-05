@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-05 06:34:57 UTC
-! Total: 352719 rules
+! Last modified: 2026-03-05 07:33:44 UTC
+! Total: 352751 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29735,6 +29735,7 @@
 *://*.alphaxiom.com/*
 *://*.alphazero1-endscape.cc/*
 *://*.alpineai.uk/*
+*://*.alpinelab.shop/*
 *://*.alpinreisan1.com/*
 *://*.alplog.net/*
 *://*.alpon.net/*
@@ -30107,6 +30108,7 @@
 *://*.alvarezarquitectos.com/*
 *://*.alverdur.com.tr/*
 *://*.alverhazir.xyz/*
+*://*.alverin.mom/*
 *://*.alverisfirsatin.net/*
 *://*.alverskolay.click/*
 *://*.alverzo.xyz/*
@@ -34890,6 +34892,7 @@
 *://*.arifeilebimcokguzel.net/*
 *://*.arifemtarifeem.com/*
 *://*.arifeniztarifenizzz.com/*
+*://*.ariitdc.es/*
 *://*.arionhotelgr.com/*
 *://*.ariopolanetyoa.com/*
 *://*.arisanet.club/*
@@ -58660,6 +58663,7 @@
 *://*.blackvue.com.pk/*
 *://*.blackwall.top/*
 *://*.blackwolfco.com/*
+*://*.blackztitle.cfd/*
 *://*.bladebone.top/*
 *://*.bladeconsiderablea.top/*
 *://*.bladehypocrisy.top/*
@@ -81932,6 +81936,7 @@
 *://*.coyoteseekinmatehurdle.click/*
 *://*.coyrty.buzz/*
 *://*.cozemezsinn.net/*
+*://*.cozhorizon.com/*
 *://*.coziest.lol/*
 *://*.cozum-odakli-hizmetler-senin-icin.top/*
 *://*.cozumbursu.com/*
@@ -86553,6 +86558,7 @@
 *://*.delidivaneolmusumfirsatlari.cfd/*
 *://*.delight-business-online.site/*
 *://*.delight.mv/*
+*://*.delightbox.gifts/*
 *://*.delightcaf.xyz/*
 *://*.delightclock.top/*
 *://*.delightfringe.top/*
@@ -110778,6 +110784,7 @@
 *://*.efundalternatel.top/*
 *://*.efuwlkmirpie.online/*
 *://*.efvcoyhrj.com/*
+*://*.efwzxgd.es/*
 *://*.egalregistration.net/*
 *://*.egamcorps.ga/*
 *://*.egamine.com/*
@@ -137932,12 +137939,14 @@
 *://*.giftcardamazon.cf/*
 *://*.giftcardmall.beauty/*
 *://*.giftcardmall.today/*
+*://*.giftcenter.gifts/*
 *://*.giftcoinbase.com/*
 *://*.giftdaysbasvurusu.cloud/*
 *://*.giftecadmall.hair/*
 *://*.gifteddetriment.top/*
 *://*.giftedperch.top/*
 *://*.giftemali.click/*
+*://*.giftgallery.gifts/*
 *://*.giftiosaqe.site/*
 *://*.giftloom.website/*
 *://*.giftmall.homes/*
@@ -153865,6 +153874,7 @@
 *://*.headinginauguration.top/*
 *://*.headlinegenerator.app/*
 *://*.headlineurine.top/*
+*://*.headlineza.online/*
 *://*.headmasterillicit.top/*
 *://*.headmistressmindset.top/*
 *://*.headntale.com/*
@@ -170580,6 +170590,7 @@
 *://*.ilan-odemesi-778667.com/*
 *://*.ilan-odemesi-778668.com/*
 *://*.ilan-odemesi-778669.com/*
+*://*.ilan-onay-bilgi.online/*
 *://*.ilan-onay-tr.online/*
 *://*.ilan-onay.com.tr/*
 *://*.ilan-onay.online/*
@@ -186696,6 +186707,7 @@
 *://*.jorimthk.xyz/*
 *://*.jorissnlo.com/*
 *://*.jorlixen.com/*
+*://*.jornalis.sbs/*
 *://*.jornalismonobrasilem2017.com/*
 *://*.jornathic.shop/*
 *://*.jornelis.net/*
@@ -186762,6 +186774,7 @@
 *://*.joycarskiralama.com/*
 *://*.joycebyers.club/*
 *://*.joyclasses.eu/*
+*://*.joyfactory.gifts/*
 *://*.joyform.online/*
 *://*.joyfulblunder.top/*
 *://*.joyfullday.shop/*
@@ -202603,6 +202616,7 @@
 *://*.kz-moscow.ru/*
 *://*.kz-zaryadye.ru/*
 *://*.kz8535821521.shop/*
+*://*.kzagniw.es/*
 *://*.kzancmilionario.store/*
 *://*.kzancmillionario.store/*
 *://*.kzbsvr22851929501.shop/*
@@ -208479,6 +208493,7 @@
 *://*.magicindignation.top/*
 *://*.magiclick.net/*
 *://*.magiclight05.top/*
+*://*.magicmoment.gifts/*
 *://*.magicofis.com/*
 *://*.magicoptic.net/*
 *://*.magicoptik.life/*
@@ -223491,6 +223506,7 @@
 *://*.natfgt.gq/*
 *://*.natflb.help/*
 *://*.natfrolgate.com/*
+*://*.nathacha.digital/*
 *://*.nathatrabdint.com/*
 *://*.nathompsstra.com/*
 *://*.nathost834431.xyz/*
@@ -235822,6 +235838,7 @@
 *://*.onlinesorgusistem.com/*
 *://*.onlinesorgusistemi.com/*
 *://*.onlinesorgusistemlerim.com/*
+*://*.onlinesorgusualsistemigovtr.sbs/*
 *://*.onlinesorguveodeme.com/*
 *://*.onlinesorguyap.xyz/*
 *://*.onlinesozlesmepolicesi.com/*
@@ -247389,6 +247406,7 @@
 *://*.pixelia.shop/*
 *://*.pixelka.fun/*
 *://*.pixella.shop/*
+*://*.pixelmarrow.com/*
 *://*.pixelmator.pics/*
 *://*.pixelmator.us/*
 *://*.pixelnestr.store/*
@@ -248769,6 +248787,7 @@
 *://*.portalgirisim-turkeygovtr.com/*
 *://*.portalgiriskapisie-devletgovtr.com/*
 *://*.portalgiristurkiyegov.com/*
+*://*.portalglbdijital.com/*
 *://*.portalhayatevesigar.com/*
 *://*.portalhayatevesigar2020.com/*
 *://*.portalhayatevesigar20gb.com/*
@@ -280027,6 +280046,7 @@
 *://*.sktrpeerssmbefrstlrsmdikpida.tech/*
 *://*.sktrutx.com/*
 *://*.sktsltsksktsltklm.net/*
+*://*.skudarevon.com/*
 *://*.skulbntr.online/*
 *://*.skull247.cf/*
 *://*.skullisland.ml/*
@@ -298090,6 +298110,7 @@
 *://*.thoroughbilateral.top/*
 *://*.thoroughoutstanding.top/*
 *://*.thoroughstamp.top/*
+*://*.thorousha.ru/*
 *://*.thorxyz.online/*
 *://*.those-whocannot.tk/*
 *://*.thoseauxiliary.top/*
@@ -300928,6 +300949,7 @@
 *://*.toplukonut.forum/*
 *://*.toplukonut.homes/*
 *://*.toplukonut.site/*
+*://*.toplukonut0504.com/*
 *://*.toplukonut1klb9ahn.com/*
 *://*.toplukonut2d1214cc.com/*
 *://*.toplukonut2d1214dd.com/*
@@ -304998,6 +305020,7 @@
 *://*.trendburasigelal.online/*
 *://*.trendcallcenter.com/*
 *://*.trendcosse.pw/*
+*://*.trendcurrent.online/*
 *://*.trenddofficial.com.co/*
 *://*.trenddyol.net/*
 *://*.trendeniz-cekilis.click/*
@@ -305016,6 +305039,7 @@
 *://*.trendingnewsnow.online/*
 *://*.trendinmall.top/*
 *://*.trendinmall.xyz/*
+*://*.trendkiln.com/*
 *://*.trendkolik.site/*
 *://*.trendlerce.name.tr/*
 *://*.trendleriniz.club/*
@@ -314115,6 +314139,7 @@
 *://*.urbansferret.com/*
 *://*.urbanstanderd.com/*
 *://*.urbantrailblaze.store/*
+*://*.urbanwear.sbs/*
 *://*.urbhhktprkdlbhp.cn/*
 *://*.urbulentpresumabl.top/*
 *://*.urd-apdaps.com/*
@@ -319528,6 +319553,7 @@
 *://*.vebavirus.cfd/*
 *://*.vebsmzmks.click/*
 *://*.vebsnl.shop/*
+*://*.vecedoo.online/*
 *://*.vecehivy.com/*
 *://*.veceliogrogan.com/*
 *://*.vecerezvolasifirsatgirisim.com/*
@@ -322666,6 +322692,7 @@
 *://*.vmerdybrnosgcec.ru/*
 *://*.vmerkezbankasi.com/*
 *://*.vmfare.com/*
+*://*.vmfuiojitnlb.es/*
 *://*.vmhjd.com/*
 *://*.vmkinc.site/*
 *://*.vmkujsd.com/*
@@ -324889,6 +324916,7 @@
 *://*.wearyredundancy.top/*
 *://*.weaselcoempt.cfd/*
 *://*.weaseljolly.top/*
+*://*.weaslueeternal1948.com/*
 *://*.weathear.live/*
 *://*.weatherbenevolent.top/*
 *://*.weathercheck.digital/*
@@ -328178,6 +328206,7 @@
 *://*.wnnuhgfgbl.com/*
 *://*.wnpdxham.com/*
 *://*.wnqwddasd1262152-asd12612.com/*
+*://*.wnrathttb.ru/*
 *://*.wnsb-edtapurasndevusu.com/*
 *://*.wnscp.net/*
 *://*.wnshehamhh.in/*
@@ -334383,6 +334412,7 @@
 *://*.wynqhguukhpo.space/*
 *://*.wynstrasa.online/*
 *://*.wynstrasas.su/*
+*://*.wynthira.asia/*
 *://*.wynthira.com/*
 *://*.wyodq.com/*
 *://*.wyoeapj.com/*
@@ -334787,6 +334817,7 @@
 *://*.xelvadorgas.xyz/*
 *://*.xelvira.space/*
 *://*.xelvono.sbs/*
+*://*.xelvoren.asia/*
 *://*.xelycui.com/*
 *://*.xelzads.cyou/*
 *://*.xelzyskurum.cfd/*
@@ -352440,6 +352471,7 @@
 *://*.zuvyvoe.com/*
 *://*.zuxsqcfod.com/*
 *://*.zuyelh.tw/*
+*://*.zuyistoo.today/*
 *://*.zuzal468.xyz/*
 *://*.zuzupromosyonhome.store/*
 *://*.zuzuydenisda.com/*
