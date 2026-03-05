@@ -1,6 +1,6 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2026-03-05 09:30:30 UTC
-# Toplam: 445965 URL
+# Son Güncelleme: 2026-03-05 10:26:51 UTC
+# Toplam: 445967 URL
 
 http://0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 http://0--loook.net
@@ -84848,6 +84848,7 @@ http://bots.configbinbots.info
 http://bots.gxz.me
 http://botsc.autoupdate.xyz
 http://botscriptshop.com
+http://botshield.vu
 http://botslabturkiye.com
 http://botslabturkiye.online
 http://botsunuz.cfd
@@ -263065,6 +263066,7 @@ http://malzemedolabi.com
 http://mam121.duckdns.org
 http://mama12544.zapto.org
 http://mamahona.zapto.org
+http://mamakbel.unaux.com
 http://mamakliyik.xyz
 http://mamamailer.top
 http://mamarita10005.ddns.net
