@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-06 20:23:37 UTC
-# Toplam: 442635 Domain
+# Son Güncelleme: 2026-03-06 21:23:37 UTC
+# Toplam: 442636 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -75929,6 +75929,7 @@ bixzsmcwll.com
 bixzvcllsvr06.net
 bixzzavbcell.com
 biy3wz5s0.duckdns.org
+biyansetrza.club
 biyanyapi.com
 biyeni.is-best.net
 biyeyukleme.22web.org
