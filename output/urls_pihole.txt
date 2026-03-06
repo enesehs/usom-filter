@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-06 06:31:51 UTC
-# Toplam: 442545 Domain
+# Son Güncelleme: 2026-03-06 07:30:45 UTC
+# Toplam: 442559 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -121159,6 +121159,7 @@ digital-siz.website
 digital-subesi.website
 digital-subesiz.website
 digital-subesjz.website
+digital-ua.digital
 digital-vakif-subesizislem.xyz
 digital-vakifbank-reklam-web.tk
 digital-vakifbankbireyselhediye.com
@@ -125893,6 +125894,7 @@ dontseptembermissthecampaignbonus.cloud
 donttravelwithmom.com
 donttrustfraudedd.hopto.org
 dontworryman.club
+donuk-islemlerinizi-sor-ogren.sbs
 donusumdekor.pro
 donuyor-geri-donuk.sbs
 donvitonusrettt.xyz
@@ -288233,6 +288235,7 @@ og2226542.workers.dev
 og2cfe.duckdns.org
 og8636tp.duckdns.org
 og9cs01.duckdns.org
+ogabes.click
 ogama.ddns.net
 ogamch.top
 ogayki.duckdns.org
@@ -331348,6 +331351,7 @@ sa-store.club
 sa-yfaya-akt-arici.cfd
 sa.comertpet.biz
 sa0ac01.top
+sa1at.ru
 sa1casc18sa289c1.digital
 sa1o1.com
 sa1o1s.com
@@ -333233,6 +333237,7 @@ sahibinden-getsahibinden.com
 sahibinden-getsatisal.gq
 sahibinden-getsilanguvende.ml
 sahibinden-getsparamguvende.ml
+sahibinden-getsparamguvende.workers.dev
 sahibinden-gett.com
 sahibinden-getz.com
 sahibinden-gg-param.ml
@@ -336896,6 +336901,9 @@ salaryconsist.com
 salasremote.duckdns.org
 salasssnikalim.duckdns.org
 salat-prayertimes.com
+salat.cn
+salator.es
+salator.ru
 salayaddu.com
 salazarnet.com
 salbaraka.com
@@ -341347,6 +341355,7 @@ security-system.ddns.net
 security-system.online
 security-tsb.com
 security-umusic.com
+security.digital-ua.digital
 security.dwnloadsolutions.com
 security.rebirth-network.su
 security.sahibinden.ticaretguvende.com
@@ -359543,6 +359552,7 @@ stanleyceltron.xyz
 stanleyclassicc.vip
 stanleycordi.xyz
 stanleycosmos.xyz
+stanleycryonix.xyz
 stanleydarkflow.xyz
 stanleydraxen.xyz
 stanleydunyasi.xyz
@@ -390185,6 +390195,7 @@ u9x5y42n.duckdns.org
 u9zdx59.duckdns.org
 ua-agreements.online
 ua-consumerpanel.frge.io
+ua-gov.info
 ua-login.site
 ua-minagro.com
 ua-passport.online
@@ -391255,6 +391266,7 @@ ukraine-news.ddns.net
 ukraineup.hopto.org
 ukrainianworldcongress.info
 ukranianhorseriding.net
+ukremail.com
 ukroboronprom-com.site
 ukroboronprom.online
 ukroekrinatuhof.ddns.net
@@ -408787,6 +408799,7 @@ websaglikuygulamasi4.com
 websaglikuygulamasi5.com
 websahibinden-paramguvende.ga
 websahibindenparam-guvende.com
+websalat.top
 websayfagiriskismi.space
 websbaynntlrm32.xyz
 websbaynntlrmin37.xyz
@@ -412438,6 +412451,7 @@ wrappixels.com
 wrapplentiful.top
 wrasdfdasdasdasdasdasdadasadtest.com
 wrasse.quarterpdfpro.com
+wrat.in
 wrawmgpvmgyuufv.su
 wrbmypvgjz.duckdns.org
 wrckagejopady.top
