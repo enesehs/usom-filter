@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-06 05:05:42 UTC
-# Toplam: 442542 Domain
+# Son Güncelleme: 2026-03-06 06:31:51 UTC
+# Toplam: 442545 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -188652,6 +188652,7 @@ harbi.k4lkamiyomm.com
 harbicokiyiyim.cfd
 harbiisakammaapha.com
 harbimilaaa.duckdns.org
+harbinasil.dns.navy
 harbiodeme.net
 harborfrieght.shop
 harbormain.top
@@ -226579,6 +226580,7 @@ izlkvlkvlkvllkk.net
 izlkvlvklvkk.net
 izlkvlvklvkkaltn.net
 izllltmmmm.duckdns.org
+izllttssknk.blogspot.com
 izlmasmrnsm.blogspot.com
 izlmbkemslnasm.blogspot.com
 izlmkrlt.net
@@ -429626,6 +429628,7 @@ yardimdevlettengeliyor.org
 yardimdilan.org
 yardimdstekbasladibasvru.online
 yardimduragi.com
+yardimedindernegi.com
 yardimekibitr.co.vu
 yardimeli.buzz
 yardimelidernek.buzz
