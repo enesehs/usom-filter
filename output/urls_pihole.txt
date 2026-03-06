@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-06 10:23:08 UTC
-# Toplam: 442567 Domain
+# Son Güncelleme: 2026-03-06 11:24:26 UTC
+# Toplam: 442585 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78729,6 +78729,7 @@ bloomprerequisite.top
 bloomridge.site
 bloomwarden.com
 bloomwpp.info
+bloopencil.net
 blooper.today
 bloorco.com
 blopsadmvdrl.com
@@ -99301,6 +99302,7 @@ cleanmagoza.com
 cleanmasters.store
 cleanmilitia.top
 cleanmymac.pro
+cleanmymacos.org
 cleanotomobilkirala.online
 cleanpatron.top
 cleanplatefit.com
@@ -171709,6 +171711,7 @@ geriyedonukislem.com
 geriyedonukislemler.com
 geriyedonuksorgulamahizmeti.cfd
 geriyedonukyonlendirmeaktarimiletisim.site
+geriyeveeskiyedonuk-sorupogren.sbs
 geriynlendirmeekranionline.site
 geriyonlendirmeveaktarim.site
 german-banks.net
@@ -182261,6 +182264,7 @@ guvenndee.com.tr
 guvennlibakis.com
 guvennlimerkez.com
 guvennliodeme.online
+guvennliplatform.com
 guvenodeguvenleteslimal.com.tr
 guvenodeinfo.com
 guvenodeme.com
@@ -200601,6 +200605,7 @@ hizlihizlibilgiler.com
 hizlihizligec.sg-host.com
 hizlihizlim.sg-host.com
 hizlihizliyuklemeler.sg-host.com
+hizlihizmet.online
 hizlihizmetekrani.site
 hizlihizmetgirisi-basvurmamerkezi.com
 hizlihizmetin.app
@@ -230974,6 +230979,7 @@ joygolfla.com
 joyjoy.hopto.org
 joylastik.com
 joyn.com.pk
+joynectar.asia
 joyngroup.com
 joynityx.com
 joyolog.com
@@ -236578,6 +236584,7 @@ kapida-sepet.com.tr
 kapida-sepeti.com.tr
 kapida-sepetim.com.tr
 kapida-sepets.com.tr
+kapida-sideby.sbs
 kapida-siparis-hafta.com.tr
 kapida-siparis-online.com.tr
 kapida-siparis.com.tr
@@ -264621,6 +264628,7 @@ mentoro.pl
 mentorstepz.xyz
 mentosjolly.com
 mentotdnizo.com
+mentoxi.com
 mentsglobal.com
 menu-conviction-given-not.trycloudflare.com
 menu-komilerlemenugirisleri.xyz
@@ -280521,6 +280529,7 @@ newslisa.ddns.net
 newslive2.xyz
 newslogix.ch
 newsmakedon.com
+newsmonitor.icu
 newsmonitoring.hopto.org
 newsnew.info
 newsnjgfsd.net
@@ -308369,6 +308378,7 @@ plunder.jumpingcrab.com
 plunerasu.pro
 plungebutter.top
 plungeluminous.top
+plunkstep.com
 pluraldeplore.cn
 plurallieutenant.top
 plurexa.space
@@ -326579,6 +326589,7 @@ res-gar.online
 res.babala.sa.com
 res.qiqigece.top
 res1.myrms.pw
+res2erch-sl0ut.com
 res54allb.xn--xkrsa0078bd6d.com
 res5959-51456.portmap.host
 resaaijqluimnkl.cn
@@ -353843,6 +353854,7 @@ soksanalmarket.site
 soksanalmarketindirim.site
 soksanalmarkets.com
 sokseherbur.o000x1x11.workers.dev
+soksepet.com
 soksepet.xyz
 sokseviyoruz.online
 soksokdaucuz.biz.tr
@@ -355821,6 +355833,7 @@ sorgz-l.com
 sorhaasrr.net
 sorhsgz.xyz
 sorihino.com
+sorimavex.com
 sorjxavfp.com
 sorklamabakyedw.com
 sorksasalt.duckdns.org
@@ -386698,6 +386711,7 @@ turkiiyekapisi.com
 turkiletisim.org
 turkindustrials.com
 turkinv.site
+turkipayfeesgov.hosted.phplist.com
 turkisb.com
 turkisbank-yapikred.com
 turkisbank.com
@@ -405931,6 +405945,7 @@ walletloginverify.duckdns.org
 walletnity.com
 walletr--trezwer.webflow.io
 walletrad.com
+wallets-gate.io
 wallets-storeee2.ddns.net
 walletsafety.ddns.net
 walletsurprise.shop
@@ -420360,6 +420375,7 @@ xchodiv.com
 xchomelesgoerg.xyz
 xchwqtktsi.duckdns.org
 xciahessea.info
+xcit76.com
 xciy.net
 xcjbzyoub.com
 xcjidjssr.duckdns.org
@@ -425975,6 +425991,7 @@ xtgglfx.duckdns.org
 xth5erx.duckdns.org
 xthjwscwtu.duckdns.org
 xthome.ddns.net
+xtibh.com
 xtjgebwtpd.duckdns.org
 xtlljy.duckdns.org
 xtlyuklemex.com
@@ -430222,6 +430239,7 @@ yatirimiscepten.tk
 yatirimizacikmobildenizbank.com
 yatirimjet.com
 yatirimkampanya-acikdenizbankkatil.com
+yatirimkayitlari.com
 yatirimkredi.com.tr
 yatirimkulisi.online
 yatirimlinki-payfixdeposit.com
