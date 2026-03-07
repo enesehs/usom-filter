@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-07 12:23:00 UTC
-# Toplam: 442688 Domain
+# Son Güncelleme: 2026-03-07 13:31:02 UTC
+# Toplam: 442704 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -83783,6 +83783,7 @@ boylreklamskm.duckdns.org
 boyluzdeold.net
 boynagalavaa.work
 boynagalsafasfw.work
+boyner.fashionoscope.com
 boynerparfum.com
 boynerrui.com
 boynertr.com
@@ -92167,6 +92168,7 @@ carefursadanszlere.com
 carefursamarketinde.cfd
 carefursamarketnde.cfd
 carefursanda.cfd
+carefursandna.cfd
 caregiverskunbilof.zapto.org
 careglmz.2kool4u.net
 caregroup.co.za
@@ -127322,6 +127324,7 @@ dsengineer.in
 dsetlyuklecll.net
 dsf546svc123421.ddns.net
 dsfavaagcqwkdbg.cn
+dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
 dsfdsfkjsdfshg.click
 dsfdsfklkjsaiu.top
@@ -157666,6 +157669,7 @@ finans-subesionline.com
 finans-takip.info
 finans-tamdestek.com
 finans-vizyon.pro
+finans-vizyonu.info
 finans-yilbasi-hediyem.com
 finans-yilbasinda.com
 finans-yilbasiozel.com
@@ -213600,6 +213604,7 @@ inatbox-guncelyayininiz.com
 inatbox-tv.store
 inatboxguncell.dev
 inatboxindirapk.com
+inatboxindirapkk.com
 inatboxsupport.online
 inatbx-2.com
 inatlaboxx.com
@@ -222294,6 +222299,7 @@ isletmebilgisi.cfd
 isletmedestegi.click
 isletmedestegi.com
 isletmedestekk.com
+isletmedestekleri.click
 isletmedestekleri.com
 isletmedestekleri2026.cfd
 isletmedestekmerkezi.click
@@ -236613,6 +236619,7 @@ kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
 kapida-haftax.com
 kapida-haftax.com.tr
+kapida-helloix.cyou
 kapida-k9q2x7mw.sbs
 kapida-link.com.tr
 kapida-linkora.bond
@@ -241427,6 +241434,7 @@ kgm-govtr.me
 kgm-govtr.qpon
 kgm-govtr.sbs
 kgm-govtr.top
+kgm-govtri.top
 kgm-govtrr.bond
 kgm-govtrr.cfd
 kgm-govv.help
@@ -244950,6 +244958,7 @@ kmsrgoualmayaplimgovserkan.web.app
 kmsrgouglamyapgovhemenpttz.com
 kmsrgoulamaapoapoapoa.web.app
 kmsrgoulamayapalimhemengovasa.duckdns.org
+kmsrgoulamayapalimhemengovasaa.duckdns.org
 kmsrgoulamayaphemenhanfiasfe.web.app
 kmsrgoulamayaphemngovnecat.web.app
 kmsrgoulamayaplimgovptszhj.duckdns.org
@@ -248403,6 +248412,7 @@ kruktech.shop
 krumaodenti.org
 krummhdtzk.com
 krumsalodenti.com
+krutv7654614.duckdns.org
 kruvg2uvaje2s6m.ddns.net
 krvalinar2est.site
 krvbayiniz.com
@@ -258865,6 +258875,7 @@ mahkemedosyalari.org
 mahkemedosyalarim.org
 mahkemedosyatrakip.org
 mahkemeler.pro
+mahkememaliye.org
 mahkemesorgu.info
 mahkemesorgugov.org
 mahkemesorgulama.com
@@ -290170,6 +290181,7 @@ onlie-aktarma-veyonlendir.qpon
 onlieaidatsstemi.xyz
 onlieaktarimekranin.site
 onliekiralikarac.com
+onliekstaynida.online
 onlieyonsorgu.cfd
 onliine-firssatlar-yenni.online
 onliine-islem.net
@@ -310182,6 +310194,7 @@ pp-transaktion-de.info
 pp-transaktion.info
 pp-werbu.com
 pp.fcloudshare.xyz
+pp112-224xsdsed.duckdns.org
 pp11j0w6vrslvqofhrzguk.com
 pp1a9jmo.duckdns.org
 pp5w0uye.duckdns.org
@@ -337711,6 +337724,7 @@ sanaozelkampanyalar.duckdns.org
 sanaozelkampanyalkar.click
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
+sanaozelpromsynnkmpnya.info
 sanaozelsayfa.site
 sanaozelsiparsverdim.click
 sanaozelvakfbankdestktr.ml
@@ -406895,6 +406909,7 @@ web-bbva-tr-sa.click
 web-bbva.my-homeip.net
 web-bedavainternetbasvuru.com
 web-belbis.com
+web-belbiss.com
 web-bella.com
 web-bilgilerimiadeler-edevlet.com
 web-binance.net
@@ -430271,6 +430286,7 @@ yatirim-kulubu.online
 yatirim-magma.online
 yatirim-nokta.com
 yatirim-noktasi.pro
+yatirim-rapor.pro
 yatirim-rehberi.net
 yatirim-sinyal.info
 yatirim-taktikleri.info
