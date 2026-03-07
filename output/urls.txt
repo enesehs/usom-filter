@@ -1,6 +1,6 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2026-03-07 04:53:00 UTC
-# Toplam: 446195 URL
+# Son Güncelleme: 2026-03-07 05:29:52 UTC
+# Toplam: 446197 URL
 
 http://0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 http://0--loook.net
@@ -125425,6 +125425,7 @@ http://diyanetelleri.org
 http://diyanetevlilik.com
 http://diyanetguvenlikgiris.co.vu
 http://diyanethayateli.org
+http://diyanetikiinsanbirhayat.com
 http://diyanetisleribakanligi.vercel.app
 http://diyanetkurban.net
 http://diyanetmemnuniyet.com
@@ -294598,6 +294599,7 @@ http://onlinebasvuru-sistemgiris-edevlet.com
 http://onlinebasvuru-sistemgirisi-edevlet.com
 http://onlinebasvuru-turkeygovtr.com
 http://onlinebasvuru-turkiyegovtr.com
+http://onlinebasvuru.e-devlet.live
 http://onlinebasvuru.ml
 http://onlinebasvuru.online
 http://onlinebasvuru.org

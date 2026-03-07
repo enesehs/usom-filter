@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-07 04:53:00 UTC
-# Toplam: 442657 Domain
+# Son Güncelleme: 2026-03-07 05:29:52 UTC
+# Toplam: 442659 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -123587,6 +123587,7 @@ diyanetelleri.org
 diyanetevlilik.com
 diyanetguvenlikgiris.co.vu
 diyanethayateli.org
+diyanetikiinsanbirhayat.com
 diyanetisleribakanligi.vercel.app
 diyanetkurban.net
 diyanetmemnuniyet.com
@@ -291907,6 +291908,7 @@ onlinebasvuru-sistemgiris-edevlet.com
 onlinebasvuru-sistemgirisi-edevlet.com
 onlinebasvuru-turkeygovtr.com
 onlinebasvuru-turkiyegovtr.com
+onlinebasvuru.e-devlet.live
 onlinebasvuru.ml
 onlinebasvuru.online
 onlinebasvuru.org
