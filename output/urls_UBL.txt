@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-07 14:12:44 UTC
-! Total: 352979 rules
+! Last modified: 2026-03-07 15:11:23 UTC
+! Total: 352981 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13685,6 +13685,7 @@
 *://*.a-1-01sendeucuzal.com/*
 *://*.a-1-01sendeucuzz.com/*
 *://*.a-1-01snalcomtr.sbs/*
+*://*.a-1-01snlm-rket.cfd/*
 *://*.a-1-1onlienakutel.com/*
 *://*.a-1-a1a.shop/*
 *://*.a-1-firsatlar-kapida.site/*
@@ -257947,6 +257948,7 @@
 *://*.qnbprmsynbsvrr.click/*
 *://*.qnbprmsynfrst.top/*
 *://*.qnbpromosyon25.click/*
+*://*.qnbpromosyonburda.biz/*
 *://*.qnbpromosyonburda.click/*
 *://*.qnbpromosyonislemleri.xyz/*
 *://*.qnbpromsynlarlla.com/*
