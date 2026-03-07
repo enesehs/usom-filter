@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-07 06:23:01 UTC
-! Total: 352941 rules
+! Last modified: 2026-03-07 07:23:35 UTC
+! Total: 352958 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20607,6 +20607,7 @@
 *://*.advocatetn.com/*
 *://*.advokat-hodonin.info/*
 *://*.advolcman.com/*
+*://*.advox.club/*
 *://*.advscpflyxkguhm.ru/*
 *://*.advss.co.za/*
 *://*.advvanced-ip-scanner.com/*
@@ -36818,6 +36819,7 @@
 *://*.atlascicekevi.org/*
 *://*.atlasdecarqo.com/*
 *://*.atlasgroupkibris.com.tr/*
+*://*.atlasmira.vu/*
 *://*.atlasmomentous.top/*
 *://*.atledicrv.com/*
 *://*.atlester.ru/*
@@ -76889,6 +76891,7 @@
 *://*.cloudsponcer.com/*
 *://*.cloudspora.com/*
 *://*.cloudssl.dns/*
+*://*.cloudstack.sbs/*
 *://*.cloudstatistics.net/*
 *://*.cloudstats112192.space/*
 *://*.cloudstore.cam/*
@@ -86684,6 +86687,7 @@
 *://*.delvoro.sbs/*
 *://*.delvys.com/*
 *://*.delwafn.com/*
+*://*.delyvora.pics/*
 *://*.delzdigi.com/*
 *://*.deman1.icu/*
 *://*.demandconducive.top/*
@@ -93033,6 +93037,7 @@
 *://*.devicesupport-rnicrosoft.com/*
 *://*.deviceuniverse.com/*
 *://*.deviea-giris-portal-acik.xyz/*
+*://*.devify.mom/*
 *://*.devil-team666.life/*
 *://*.devilcanvas.top/*
 *://*.devilishde.site/*
@@ -95510,6 +95515,7 @@
 *://*.dijitalsifresiz.net/*
 *://*.dijitalsistemlerdekikredibasvurusu.cfd/*
 *://*.dijitalsitemizs.site/*
+*://*.dijitalsorgu-veogrenmeekrani.sbs/*
 *://*.dijitalsorgulamasyon.com/*
 *://*.dijitalstanbulkart.net/*
 *://*.dijitalstanbulkrt.net/*
@@ -122925,6 +122931,7 @@
 *://*.familysegregate.top/*
 *://*.familytentative.top/*
 *://*.familytrouble.net/*
+*://*.familyvault.cyou/*
 *://*.familyworld.top/*
 *://*.famineconception.top/*
 *://*.faminecynicism.top/*
@@ -124337,6 +124344,7 @@
 *://*.fesanka.net/*
 *://*.fesder.com/*
 *://*.fesered.com/*
+*://*.fesk.my/*
 *://*.fessassi.top/*
 *://*.fessoclick.com/*
 *://*.festalferalweek.online/*
@@ -129225,6 +129233,7 @@
 *://*.focusedweek.site/*
 *://*.focusforeyes.buzz/*
 *://*.focusframephoto.com/*
+*://*.focusmingle.com/*
 *://*.focussilentpausekangaroo.com/*
 *://*.focussspace.com/*
 *://*.focustime24.online/*
@@ -203784,6 +203793,7 @@
 *://*.leapindy.org/*
 *://*.leappoach.info/*
 *://*.learn74.xyz/*
+*://*.learncrafty.com/*
 *://*.learndigitalseo.com/*
 *://*.learnedexpiration.top/*
 *://*.learnernaivety.top/*
@@ -204313,6 +204323,7 @@
 *://*.lexator.org/*
 *://*.lexenorf.org/*
 *://*.lexip.live/*
+*://*.lexis.sbs/*
 *://*.lexis2024.info/*
 *://*.lexis2024.pro/*
 *://*.lexisnex.pro/*
@@ -210655,6 +210666,7 @@
 *://*.marklarinzeltasi.xyz/*
 *://*.marklarlalazltas.xyz/*
 *://*.marklooksmart.com/*
+*://*.markluxe.com/*
 *://*.markoislem.com/*
 *://*.markoislemler.com/*
 *://*.markoislemleri.com/*
@@ -213036,6 +213048,7 @@
 *://*.memnunlar.club/*
 *://*.memnunlar.live/*
 *://*.memnunlar.tk/*
+*://*.memoanchor.com/*
 *://*.memoliiiii.net/*
 *://*.memoneyonline.com/*
 *://*.memorableevents.click/*
@@ -225515,6 +225528,7 @@
 *://*.newsturk.website/*
 *://*.newsturrkey.com/*
 *://*.newsubtlety.top/*
+*://*.newsvoyant.online/*
 *://*.newsworldcity.com/*
 *://*.newsworldcity.ml/*
 *://*.newsystemcontrol.com/*
@@ -257918,6 +257932,7 @@
 *://*.qnbprmsynbsvrr.click/*
 *://*.qnbprmsynfrst.top/*
 *://*.qnbpromosyon25.click/*
+*://*.qnbpromosyonburda.click/*
 *://*.qnbpromosyonislemleri.xyz/*
 *://*.qnbpromsynlarlla.com/*
 *://*.qnbramazan.com/*
@@ -292409,6 +292424,7 @@
 *://*.talesofkrendor.com/*
 *://*.talesseries.com/*
 *://*.talete.click/*
+*://*.talexoriv.com/*
 *://*.talgroni.cfd/*
 *://*.talgroni.cyou/*
 *://*.talgroni.sbs/*
@@ -334597,6 +334613,7 @@
 *://*.wynstrasas.su/*
 *://*.wynthira.asia/*
 *://*.wynthira.com/*
+*://*.wynthora.click/*
 *://*.wyodq.com/*
 *://*.wyoeapj.com/*
 *://*.wyone.co.in/*
