@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-08 10:12:58 UTC
-! Total: 353015 rules
+! Last modified: 2026-03-08 11:11:00 UTC
+! Total: 353017 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36442,6 +36442,7 @@
 *://*.assortmentmobilise.top/*
 *://*.assortmentrepute.top/*
 *://*.assosbeyazit.com/*
+*://*.assosdeluxehotels.com/*
 *://*.assosdovehotels.com/*
 *://*.asssur5limatkap.vip/*
 *://*.asssurmatkapseriesli.vip/*
@@ -49152,6 +49153,7 @@
 *://*.bilgilendirmehizmetdijitalvakif.com/*
 *://*.bilgilendirmehizmetleri.xyz/*
 *://*.bilgilendirmelidanismanlik.com/*
+*://*.bilgilendirmemerkezi.click/*
 *://*.bilgilendirmes.net/*
 *://*.bilgilendirmesyf.dev/*
 *://*.bilgilendirmetebesdiji.online/*
