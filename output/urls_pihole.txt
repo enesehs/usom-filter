@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-08 17:13:12 UTC
-# Toplam: 442804 Domain
+# Son Güncelleme: 2026-03-08 19:14:22 UTC
+# Toplam: 442816 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -19842,6 +19842,7 @@
 8509295925.store
 850numara.com.tr
 850swt.duckdns.org
+851581002004332212.webredirect.org
 851581002004555.webredirect.org
 8523816.net
 852cvl.duckdns.org
@@ -20137,6 +20138,7 @@
 8890329043289u21i219.icu
 8896669999.cloud
 889846465456465465465.duckdns.org
+889856956589526251.duckdns.org
 8898987788.cloud
 8899562qq2.click
 889qsb.duckdns.org
@@ -90430,6 +90432,7 @@ c729ts.duckdns.org
 c72asbu.duckdns.org
 c73249882394.com
 c74c905dc454.net
+c75asdhashdhashdahsk2k3sad.click
 c77f8741.hygth76y.com.cn
 c7837d06b87f11c6bec3e3.d2db5c23.ru
 c78wqupix.duckdns.org
@@ -133656,6 +133659,7 @@ e-pasaportrandevu.com
 e-pay-guvenli.com
 e-pay-guvenlisx.com
 e-payyukleme.net
+e-pazaraktv.com
 e-pepara.com
 e-pilatform-bireysel-aidat-geri-iade-basvurusu.xyz
 e-pilatform-bireysel-aidat-iade-basvurusu.xyz
@@ -185914,6 +185918,7 @@ halepeyardim.org
 halepvakfi.com
 halepyardim.org
 halepyardim.tk
+halernsamca.com
 halersbar.net
 halesmibun.net
 halesmp.com
@@ -193058,6 +193063,7 @@ hemen-siparis-ver-kapinda-tr.online
 hemen-sizlerle.com
 hemen-sor-ve-aktr.cyou
 hemen-ucuza-kapinda.top
+hemen-yukle.com
 hemen-yukle.ml
 hemen-yukle.xyz
 hemen.arabamkirala.com.tr
@@ -198784,6 +198790,7 @@ hhhggssodeyinnn.com
 hhhh11111000.ddns.net
 hhhhfdtrqwgshregdsfqwdascshs.com.tr
 hhhhfdtrqwgshregdsfqwdascshs.net.tr
+hhhhggyy567.sbs
 hhhhgsxyiyedimknk.shop
 hhhhgsxyiyedimknk.store
 hhhhgsxyiyedimknk.wiki
@@ -226480,6 +226487,7 @@ izdzdzimrgl.net
 izefbeys.info
 izefxxs.blogspot.com
 izehbruc.com
+izelasoqo.dns.navy
 izelbbs.dns.navy
 izeldasbcvc.blogspot.com
 izeldasknknbr.blogspot.com
@@ -236656,6 +236664,7 @@ kapida-bysidea.sbs
 kapida-ca3bn4-inds3ml4r.cfd
 kapida-closeby.sbs
 kapida-connecta.cyou
+kapida-dorvix.bond
 kapida-eniyiixndrmlrmbunlarbnm.click
 kapida-firsat-urun.com.tr
 kapida-firsat.com.tr
@@ -242000,6 +242009,7 @@ khjig.duckdns.org
 khkhgss.com
 khkmdskmskrrrrmm.com
 khkrlsrytrmmm.blogspot.com
+khkrtrtr-brdsd.mooo.com
 khkvatanbizalim171sayl.click
 khl-kazan.ru
 khlisna.com
@@ -325694,6 +325704,7 @@ reklamkutuphanesi.click
 reklamkutuphanesi.sbs
 reklamkutuphanesi.site
 reklamkutuphanesiekim.cfd
+reklamlar-kaplnda-flrsatlarla.me
 reklamlar.click
 reklamlar.cyou
 reklamlar.icu
@@ -367613,6 +367624,7 @@ tavsancik.xyz
 tavsiyeediyorum.club
 tavsiyeediyorum.xyz
 tavsiyelerdensai.read-books.org
+tavuk.yasuapanitanaik.cfd
 tavukyiyinnnnn-abe0edc294d8.herokuapp.com
 tavxlr.com
 tavyhvvuzi.duckdns.org

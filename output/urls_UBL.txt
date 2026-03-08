@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-08 17:13:12 UTC
-! Total: 353043 rules
+! Last modified: 2026-03-08 19:14:22 UTC
+! Total: 353050 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -69351,6 +69351,7 @@
 *://*.c7273c77x3388.online/*
 *://*.c73249882394.com/*
 *://*.c74c905dc454.net/*
+*://*.c75asdhashdhashdahsk2k3sad.click/*
 *://*.c80530d100da2e953c21c55d7cb4b86a.info/*
 *://*.c809c1938770b01e320959c62af3af79.ga/*
 *://*.c8201834f811h.net/*
@@ -104951,6 +104952,7 @@
 *://*.e-pay-guvenli.com/*
 *://*.e-pay-guvenlisx.com/*
 *://*.e-payyukleme.net/*
+*://*.e-pazaraktv.com/*
 *://*.e-pepara.com/*
 *://*.e-pilatform-bireysel-aidat-geri-iade-basvurusu.xyz/*
 *://*.e-pilatform-bireysel-aidat-iade-basvurusu.xyz/*
@@ -148662,6 +148664,7 @@
 *://*.halepvakfi.com/*
 *://*.halepyardim.org/*
 *://*.halepyardim.tk/*
+*://*.halernsamca.com/*
 *://*.halersbar.net/*
 *://*.halesmibun.net/*
 *://*.halesmp.com/*
@@ -155112,6 +155115,7 @@
 *://*.hemen-sizlerle.com/*
 *://*.hemen-sor-ve-aktr.cyou/*
 *://*.hemen-ucuza-kapinda.top/*
+*://*.hemen-yukle.com/*
 *://*.hemen-yukle.ml/*
 *://*.hemen-yukle.xyz/*
 *://*.hemen.sbs/*
@@ -160028,6 +160032,7 @@
 *://*.hhhggssodeyinnn.com/*
 *://*.hhhhfdtrqwgshregdsfqwdascshs.com.tr/*
 *://*.hhhhfdtrqwgshregdsfqwdascshs.net.tr/*
+*://*.hhhhggyy567.sbs/*
 *://*.hhhhgsxyiyedimknk.shop/*
 *://*.hhhhgsxyiyedimknk.store/*
 *://*.hhhhgsxyiyedimknk.wiki/*
@@ -191620,6 +191625,7 @@
 *://*.kapida-ca3bn4-inds3ml4r.cfd/*
 *://*.kapida-closeby.sbs/*
 *://*.kapida-connecta.cyou/*
+*://*.kapida-dorvix.bond/*
 *://*.kapida-eniyiixndrmlrmbunlarbnm.click/*
 *://*.kapida-firsat-urun.com.tr/*
 *://*.kapida-firsat.com.tr/*
@@ -261405,6 +261411,7 @@
 *://*.reklamkutuphanesi.sbs/*
 *://*.reklamkutuphanesi.site/*
 *://*.reklamkutuphanesiekim.cfd/*
+*://*.reklamlar-kaplnda-flrsatlarla.me/*
 *://*.reklamlar.click/*
 *://*.reklamlar.cyou/*
 *://*.reklamlar.icu/*
