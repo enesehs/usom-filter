@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-08 19:14:22 UTC
-# Toplam: 442816 Domain
+# Son Güncelleme: 2026-03-08 20:12:03 UTC
+# Toplam: 442821 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -81907,6 +81907,7 @@ bntrttsrmplleasure.vercel.app
 bntrvarlikalimsatimplatformu.com
 bntrvarlikalimsatimplatformu.info
 bntrvatrzl.vercel.app
+bntrworld.biz
 bntrxrp-basvuru.com
 bntrxrp-basvuru.xyz
 bntrxrphesal.vercel.app
@@ -84250,6 +84251,7 @@ brdafrstllrx-szxnnsnouynii.com.tr
 brdaindrmlerhicbitmezharca.duckdns.org
 brdakifirsataralanaka.cfd
 brdan-alirsan-rahatlik-edersin.com
+brdanaldmsnkzzzzz.net
 brdangeldksznrdsnzbrda.shop
 brdangeldzlerasd.icu
 brdangloprdansans.lat
@@ -209165,6 +209167,7 @@ ibbwebislemler.org
 ibbwebportal.webredirect.org
 ibbwebportalers.webredirect.org
 ibbwebportaling.webredirect.org
+ibbwebportals.gleeze.com
 ibbwebservis.webredirect.org
 ibbwkart.net
 ibbwsxfrtdrgdrg34-yklee.net
@@ -236698,6 +236701,7 @@ kapida-online93kcmn4-xum3nf2.click
 kapida-online93kcwmn4-xum3nf2.click
 kapida-partner.sbs
 kapida-q7m9r2xk.sbs
+kapida-quanty.cfd
 kapida-qz8w4m19.sbs
 kapida-reklam-urun.com.tr
 kapida-relata.bond
@@ -354054,6 +354058,7 @@ soksanalmarkets.com
 sokseherbur.o000x1x11.workers.dev
 soksepet.com
 soksepet.xyz
+soksepetimkampanya.online
 sokseviyoruz.online
 soksokdaucuz.biz.tr
 soksokdaucuz.com.tr
