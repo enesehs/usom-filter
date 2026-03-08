@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-08 12:23:34 UTC
-! Total: 353018 rules
+! Last modified: 2026-03-08 13:32:22 UTC
+! Total: 353021 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36275,6 +36275,7 @@
 *://*.asorgula.org/*
 *://*.asortally.com/*
 *://*.asoscar.com/*
+*://*.asosdoveresort.com/*
 *://*.asosyl.shop/*
 *://*.asoundy.site/*
 *://*.asova.tk/*
@@ -143519,6 +143520,7 @@
 *://*.guncel-giris-adresi.click/*
 *://*.guncel-giris-akbank-ileguvende.net/*
 *://*.guncel-giris.ml/*
+*://*.guncel-giris.vip/*
 *://*.guncel-giris.xyz/*
 *://*.guncel-global-web-krediim.net/*
 *://*.guncel-globalislemlerim-guvencede.net/*
@@ -191655,6 +191657,7 @@
 *://*.kapida-sepetim.com.tr/*
 *://*.kapida-sepets.com.tr/*
 *://*.kapida-sideby.sbs/*
+*://*.kapida-sidevera.sbs/*
 *://*.kapida-siparis-hafta.com.tr/*
 *://*.kapida-siparis-online.com.tr/*
 *://*.kapida-siparis.com.tr/*
