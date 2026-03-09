@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-09 17:37:56 UTC
-# Toplam: 442977 Domain
+# Son Güncelleme: 2026-03-09 18:34:13 UTC
+# Toplam: 442985 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22512,6 +22512,7 @@ a-101-app.online
 a-101-app.shop
 a-101-aylikkampanyalar.com.tr
 a-101-aylikkampanyalar.xyz
+a-101-bugune-ozel-cepte.ozel-sponsor.com
 a-101-c-om-t-r.sbs
 a-101-cepte-market-kampanya.online
 a-101-cepte-market.com
@@ -27821,6 +27822,7 @@ acik-firsatmobildenizsube.com
 acik-giris-deniz.click
 acik-hava-kamp-rotasi.top
 acik-hemenbireyselafillidenizbasvur.com
+acik-hemenbireyselafillidenizbasvur.za.com
 acik-hizmetleri.cf
 acik-iadelermobildenisan.com
 acik-internet-subem-denizbank.com
@@ -188490,6 +188492,7 @@ hamamammamammamakd2412.com
 hamammamamamama2041.com
 hamammamamamamamama84.store
 hamammamamamamop2314.com
+hamammamamammamamma1453.com
 hamammamammama9342.com
 hamammammmamam2113.com
 hamane9021.hopto.org
@@ -294534,6 +294537,7 @@ onlyleaflet.top
 onlyltd.com.tr
 onlyltdapiservice.com.tr
 onlynem-tr.net
+onlyngeridnksor.sbs
 onlyoneghost.workers.dev
 onlyonetvkart.com
 onlyosun.ooguy.com
@@ -337151,6 +337155,7 @@ sakajwqjkwq-wqvjkqwvqwv.shop
 sakamakaonv.com
 sakamin.com
 sakarya54x-odexmeservis.net
+sakasssaka.uk
 sakatat.cfd
 sakbank.net
 sakbntr.click
@@ -342155,6 +342160,7 @@ sekoaptenae1.net
 sekolemaka.online
 sekranterist.site
 sekratles.site
+seksek66232-4321.duckdns.org
 seksekekesek101.com
 sekseninciyilimiz.com
 seksever.com
@@ -353599,6 +353605,7 @@ sok-marketci.cfd
 sok-marketim.com
 sok-marketler.com
 sok-marketlerceptefirsat.site
+sok-martta.sbs
 sok-nisankampanyalar.com.tr
 sok-olacaginiz-sizde-olmayan-son-gun.com
 sok-online-alisverisim.com
@@ -361762,6 +361769,7 @@ subatortasindirimler.cfd
 subatozelfirsat101.com
 subatozelkampanya.site
 subatozelkatalofsbrdsmc.com
+subatpazari.sbs
 subatprimeindirimi.net
 subatqnbsurprizleri.ga
 subatqnbsurprizleri.ml
