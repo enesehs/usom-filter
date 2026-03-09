@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-09 00:59:51 UTC
-! Total: 353074 rules
+! Last modified: 2026-03-09 03:33:51 UTC
+! Total: 353085 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -258,6 +258,7 @@
 *://*.03iade-hizmetleriniz.com/*
 *://*.03iadenin-merkezi.com/*
 *://*.03intesasanpaolo.top/*
+*://*.03marttasifrancelerin.cloud/*
 *://*.03marttasiparislerin.cloud/*
 *://*.03mw.cn/*
 *://*.03np.cn/*
@@ -64869,6 +64870,7 @@
 *://*.bsvrkkmpnyaaprssmny.pro/*
 *://*.bsvrkmpnyaprmsynnnn.info/*
 *://*.bsvrkmpnyaprmsynnnn.live/*
+*://*.bsvrkmpnyaprmsynnnn.pro/*
 *://*.bsvrkn.sbs/*
 *://*.bsvrkrdfrm.xyz/*
 *://*.bsvrlmiztki.sbs/*
@@ -144027,7 +144029,13 @@
 *://*.guncelsikaytlertr-28.sbs/*
 *://*.guncelsikaytlertr-9.sbs/*
 *://*.guncelsikaytlervar-11.sbs/*
+*://*.guncelsikaytlervar-12.sbs/*
 *://*.guncelsikaytlervar-17.sbs/*
+*://*.guncelsikaytlervar-27.sbs/*
+*://*.guncelsikaytlervar-3.sbs/*
+*://*.guncelsikaytlervar-30.sbs/*
+*://*.guncelsikaytlervar-4.sbs/*
+*://*.guncelsikaytlervar-7.sbs/*
 *://*.guncelsikaytlervar-9.sbs/*
 *://*.guncelsikaytvar-tr-22.sbs/*
 *://*.guncelsikaytvar-tr-4.sbs/*
@@ -251633,6 +251641,7 @@
 *://*.promossistem.com/*
 *://*.promosubesi.com/*
 *://*.promosuper.net/*
+*://*.promosyncklssbsvrrr.info/*
 *://*.promosyncklssbsvrrr.live/*
 *://*.promosyngarant.com.tr/*
 *://*.promosyngrntbbva.info/*
@@ -288779,6 +288788,7 @@
 *://*.sube-online.click/*
 *://*.sube-onlineakislem.sbs/*
 *://*.sube-onlinehalkbank-li.com/*
+*://*.sube-onlineislemlerim.sbs/*
 *://*.sube-onlinemobilislemleri.com/*
 *://*.sube-parafiade.com/*
 *://*.sube-pari.com/*
@@ -312782,6 +312792,7 @@
 *://*.ucuzharca101.com.tr/*
 *://*.ucuzharca101.online/*
 *://*.ucuzharca101.xyz/*
+*://*.ucuzhepucuza101.cfd/*
 *://*.ucuzhgsyukleme.com/*
 *://*.ucuzislemler.xyz/*
 *://*.ucuzizeltasa101.site/*
