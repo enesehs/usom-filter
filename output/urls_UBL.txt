@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-09 08:29:59 UTC
-! Total: 353122 rules
+! Last modified: 2026-03-09 09:35:08 UTC
+! Total: 353126 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -84551,6 +84551,7 @@
 *://*.cykvixov.com/*
 *://*.cylehgsd0lum.org/*
 *://*.cylinderminiature.top/*
+*://*.cylorantis.com/*
 *://*.cylqfm.com/*
 *://*.cylveniq.mom/*
 *://*.cymcolombia.net/*
@@ -180946,6 +180947,7 @@
 *://*.istanbultlyukleme724-iett.tk/*
 *://*.istanbultlyuklemesixzsf.com/*
 *://*.istanbultoplumtasim.shop/*
+*://*.istanbultoplutasulasim.shop/*
 *://*.istanbulucokseviyoruz.com/*
 *://*.istanbulucokseviyoruz.online/*
 *://*.istanbulucyumben.pro/*
@@ -287126,6 +287128,7 @@
 *://*.stanleyorbit.xyz/*
 *://*.stanleyorion.xyz/*
 *://*.stanleyorvex.xyz/*
+*://*.stanleyorvian.xyz/*
 *://*.stanleyorvion.xyz/*
 *://*.stanleyparlar.com/*
 *://*.stanleypatron.xyz/*
@@ -307027,6 +307030,7 @@
 *://*.trpttgovp.cc/*
 *://*.trpttgovpe.cc/*
 *://*.trpttgovpl.cc/*
+*://*.trpttgovr.cc/*
 *://*.trpttgovres.help/*
 *://*.trpttgovrr.ink/*
 *://*.trpttgovrs.cc/*
