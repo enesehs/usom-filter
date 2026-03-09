@@ -1,6 +1,6 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2026-03-09 03:33:51 UTC
-# Toplam: 446401 URL
+# Son Güncelleme: 2026-03-09 05:14:26 UTC
+# Toplam: 446403 URL
 
 http://0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 http://0--loook.net
@@ -182618,6 +182618,7 @@ http://guncelsikaytlertr-16.sbs
 http://guncelsikaytlertr-17.sbs
 http://guncelsikaytlertr-28.sbs
 http://guncelsikaytlertr-9.sbs
+http://guncelsikaytlervar-10.sbs
 http://guncelsikaytlervar-11.sbs
 http://guncelsikaytlervar-12.sbs
 http://guncelsikaytlervar-17.sbs
@@ -182625,6 +182626,7 @@ http://guncelsikaytlervar-27.sbs
 http://guncelsikaytlervar-3.sbs
 http://guncelsikaytlervar-30.sbs
 http://guncelsikaytlervar-4.sbs
+http://guncelsikaytlervar-6.sbs
 http://guncelsikaytlervar-7.sbs
 http://guncelsikaytlervar-9.sbs
 http://guncelsikaytvar-tr-22.sbs
