@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-09 11:26:14 UTC
-! Total: 353127 rules
+! Last modified: 2026-03-09 12:30:44 UTC
+! Total: 353138 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -69405,6 +69405,7 @@
 *://*.caarrfurrssaa.shop/*
 *://*.caarrfurssa.shop/*
 *://*.caarrfurssaa.shop/*
+*://*.caarsipzrss.cfd/*
 *://*.caavocivdcigexeabitgtcfmof.com/*
 *://*.cab2cablink-space.com/*
 *://*.cabanazmi.cfd/*
@@ -76370,6 +76371,7 @@
 *://*.clatteqrpq.digital/*
 *://*.claud-mail.ru/*
 *://*.claud-oficecsof.com/*
+*://*.claude-code-macos.com/*
 *://*.clauderversandet.com/*
 *://*.claudflurer.com/*
 *://*.claudfront.net/*
@@ -76518,6 +76520,7 @@
 *://*.clevertrade.top/*
 *://*.cleverwedge.cn/*
 *://*.clfonl365.xyz/*
+*://*.clfslcdsklfcsdfcsjdfcdskfs.sbs/*
 *://*.clgnfstaln.cfd/*
 *://*.clgsh.xyz/*
 *://*.cliamsresistant.top/*
@@ -81009,6 +81012,7 @@
 *://*.contaminatehurdle.top/*
 *://*.contaminationbrace.top/*
 *://*.contamnatecinity.top/*
+*://*.contatoplus.com/*
 *://*.contatosclientes.services/*
 *://*.contdjf.pro/*
 *://*.contemplateodszsv.shop/*
@@ -144627,6 +144631,7 @@
 *://*.guvende-bireysel-hizmet-s.com/*
 *://*.guvende-bireysel-s.com/*
 *://*.guvende-bireysel.org/*
+*://*.guvende-e-alisverisler.com/*
 *://*.guvende-e-odemeler.com.tr/*
 *://*.guvende-e-ticaret.com/*
 *://*.guvende-eticaret.com.tr/*
@@ -160036,6 +160041,7 @@
 *://*.hhfmmttpgz.com/*
 *://*.hhfnsfsga.sbs/*
 *://*.hhfus.com/*
+*://*.hhgfghdkkfkgjghf.sbs/*
 *://*.hhggslonline.click/*
 *://*.hhggssodeyin.com/*
 *://*.hhggsss-ptislemler.com/*
@@ -180299,6 +180305,7 @@
 *://*.istanblkartyukleme.net/*
 *://*.istanblkartyukleyelim.net/*
 *://*.istanblkrmdnz.net/*
+*://*.istanblkrt.com/*
 *://*.istanblkrt.net/*
 *://*.istanblkrt34.net/*
 *://*.istanblkrtbkiyeat.com/*
@@ -215515,6 +215522,7 @@
 *://*.mksamkskmas.net/*
 *://*.mksampurna.com/*
 *://*.mksijortam.xyz/*
+*://*.mksnalshd.com/*
 *://*.mkstq.top/*
 *://*.mksyynmaska.com/*
 *://*.mktblend.monster/*
@@ -269576,6 +269584,7 @@
 *://*.sarabaturbe.xyz/*
 *://*.sarafa.click/*
 *://*.sarah-louisewoodcock56.top/*
+*://*.sarahmoftah.com/*
 *://*.sarahtame.at/*
 *://*.sarakan.click/*
 *://*.saraken.xyz/*
@@ -288652,6 +288661,7 @@
 *://*.sube-bireyselislemler.com/*
 *://*.sube-bireyselziraat-tr.com/*
 *://*.sube-bmenkuldegerler.com/*
+*://*.sube-bmenkuldegerler.net/*
 *://*.sube-bmenkulgiris.com/*
 *://*.sube-cekilistakipizlem.ml/*
 *://*.sube-cep-garanti-tr.cf/*
@@ -314186,6 +314196,7 @@
 *://*.update-security-accounts.com/*
 *://*.update-symantec.com/*
 *://*.update-verification.solutions/*
+*://*.update-version.com/*
 *://*.update-windows-security.tk/*
 *://*.update-your-account-100747078478784309.com/*
 *://*.update-your-account-id1000037709.com/*
