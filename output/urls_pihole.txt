@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-09 06:44:51 UTC
-# Toplam: 442872 Domain
+# Son Güncelleme: 2026-03-09 07:41:59 UTC
+# Toplam: 442896 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78743,6 +78743,7 @@ blogyonlendir23432qsf.blogspot.com
 blokchaln.com
 blokgozalti.sbs
 blokkade-opheffen.hopto.org
+blokmint.cfd
 bloknotiktr.pro
 blombank-mobile.com
 blondassimiltion.top
@@ -98869,6 +98870,7 @@ city-splash.online
 cityassssin.top
 citycarousel.com
 cityclinicpanama.com
+citycompassor.com
 cityde.online
 citydenzuidas.world
 citydisco.bet
@@ -136025,6 +136027,7 @@ echorynth.xyz
 echosirinverse.xyz
 echotrailliving.com
 echoverse.live
+echowarden.com
 echrupebsm.duckdns.org
 echtar7.zapto.org
 ecigarettestudies.com
@@ -180517,6 +180520,7 @@ guncelsikaytlervar-12.sbs
 guncelsikaytlervar-17.sbs
 guncelsikaytlervar-18.sbs
 guncelsikaytlervar-19.sbs
+guncelsikaytlervar-2.sbs
 guncelsikaytlervar-27.sbs
 guncelsikaytlervar-28.sbs
 guncelsikaytlervar-3.sbs
@@ -223200,6 +223204,7 @@ istanbulhizmetitaklaci.info
 istanbulhizmetitaklaci.pro
 istanbulhizmetlermbzurd.store
 istanbulholdingyonetim.net
+istanbulhzlkrts.com
 istanbulhzlykleem.net
 istanbulibakiyecm.net
 istanbulibbapp.site
@@ -231116,6 +231121,7 @@ joydphp.westooo.com
 joyfactory.gifts
 joyform.online
 joyfulblunder.top
+joyfullbox.gifts
 joyfullday.shop
 joyfulpulsepro.com
 joyfulzenithlife.com
@@ -231780,6 +231786,7 @@ jurisdictionsarcastic.top
 jurisg.xyz
 juristlex.com
 jurloj3ik.duckdns.org
+jurly.bond
 jurnalriwiewpgae432.duckdns.org
 jurst.com
 jurtiyterfa.club
@@ -245267,6 +245274,7 @@ knowledgebleutin.top
 knowledgedplore.top
 knowledgeintimidation.top
 knowledgejoint.com
+knowledgelab.study
 knowledgetime.slyip.net
 knowlledgeplace.com
 knownowactive.webflow.io
@@ -252860,6 +252868,7 @@ lexorica.com
 lexpeyze.info
 lexpress.me
 lexrjel4.duckdns.org
+lexu.click
 lexvoran.one
 lexware-invoice-deutsch-popup.lovable.app
 lexxantira.com
@@ -261663,6 +261672,7 @@ marketkapindaservices.com
 marketkasin.site
 marketkataloglarin.com
 marketkaze.com
+marketlearn.courses
 marketler-indirimi.com
 marketlerdesiralar.com
 marketleregelinindirimekosun.com
@@ -271783,6 +271793,7 @@ moneyconsultearn.info
 moneycpanel.com
 moneycryptinvestru.info
 moneycryptmoneyinvest.info
+moneydeal.courses
 moneyearnus.xyz
 moneyfastgirls.cfd
 moneygnom.com
@@ -277494,6 +277505,7 @@ n1-vnckrndvularim.com
 n1-vnfsxftgc.net
 n1-vntdckjrxd.com
 n11-kep-adres.com
+n11.click
 n11.vip
 n111.info
 n11alisveris.com
@@ -302785,6 +302797,7 @@ paribucekilis.com
 paribucekilis.epizy.com
 paribucekilis.org
 paribucekilis.site
+paribucekilisi.com
 paribucekilisi.online
 paribucekilisi.sbs
 paribucekiliskatilim.com
@@ -304322,6 +304335,7 @@ partygoodbye.net
 partypremier.top
 partyrelentless.top
 partyukle.sg-host.com
+partyzenan.com
 parubiaralikfrstlari.com
 parubicom-firsat.xyz
 parubikasimkampanyasi.com
@@ -310689,6 +310703,7 @@ pravilnoe-hudenie.ru
 pravizzillo.club
 pravizzillo.email
 pravoceitau.zapto.org
+pravu.club
 prawinvinbil2.clienteasciendig.world
 prawinzinbil66.clienteasciendig.world
 prawinzinbil66.clienteascindig.world
@@ -317343,6 +317358,7 @@ pttsapp.top
 pttscore.com
 pttsdx.click
 pttseninle.com
+pttservice-turkey.hrgebaeudereinigung.com
 pttservisibbleri.com
 pttsex.club
 pttsgo-v.top
@@ -328161,6 +328177,7 @@ richarddrakeconstruction.com
 richardflorespoew.shop
 richardmair435.xyz
 richardmills770.ddns.net
+richardremington.xyz
 richardrobertryan643.xyz
 richards23.xyz
 richardskoug34.ddns.net
@@ -328477,6 +328494,7 @@ riverhasus.com
 riveridge.zapto.org
 riverlaunchers.com
 riverlogic.top
+rivernova.icu
 riveroakbank.online
 riverstonefield.site
 rivertracker.pages.dev
@@ -351799,6 +351817,7 @@ skylimitim.com
 skylimitiniz.com
 skylimitsorguvkf.com
 skyline20000.zapto.org
+skylineflashnow.com
 skylineqaz.crabdance.com
 skylinerevival.top
 skyljne2006.ddns.net
@@ -372064,6 +372083,7 @@ tenin58gaccel.rr.nu
 tenisairconfort.site
 tenjo10ht.top
 tenjo10sr.top
+tenkoas.com
 tenkosa.com
 tenmartasvurularinn.cloud
 tennis4good.co.uk
@@ -382133,6 +382153,7 @@ trendasedexxxx.fit
 trendauto.buzz
 trendav.vip
 trendbasket.click
+trendbayat.com
 trendbeatr.website
 trendbolster.top
 trendburasigelal.online
@@ -406572,6 +406593,7 @@ wavelifa.net
 wavelinez.com
 wavenavigation.top
 waveplento.xyz
+waveto.cyou
 wavewatcherhealth.com
 wavkms12x.net
 wavyparish.top
@@ -437161,6 +437183,7 @@ yusufcanr.cfd
 yusufcarental.xyz
 yusufenesseker.net
 yusuff.zapto.org
+yusufmedya.xyz
 yusufogludernegi.org
 yusufsepet.com
 yusungtech.co.kr
@@ -438033,6 +438056,7 @@ zakk7.ddns.net
 zakkasj.com
 zakmi3.zapto.org
 zakolibal.online
+zakon.sbs
 zakora.zapto.org
 zakorn.com
 zakrylki809.ru
