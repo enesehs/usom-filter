@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-09 16:43:25 UTC
-! Total: 353156 rules
+! Last modified: 2026-03-09 17:37:56 UTC
+! Total: 353164 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33067,6 +33067,7 @@
 *://*.aqpqmuksadbgrer.ru/*
 *://*.aqqkooskwa.org/*
 *://*.aqqrshqnqn.com/*
+*://*.aqqtrmobilledigitallerekllarn.space/*
 *://*.aqshgsmarket.xyz/*
 *://*.aqsmppswwh.com/*
 *://*.aqspttmarket.xyz/*
@@ -126366,6 +126367,7 @@
 *://*.firsat.info.tr/*
 *://*.firsat.shop/*
 *://*.firsat1-0-1-kapida.site/*
+*://*.firsat101.com/*
 *://*.firsat101.site/*
 *://*.firsat101kapida.com/*
 *://*.firsat1208aypromosyon0faiz.online/*
@@ -180931,6 +180933,7 @@
 *://*.istanbulsa.net/*
 *://*.istanbulsalarnim.shop/*
 *://*.istanbulsdks.com/*
+*://*.istanbulsehiric.shop/*
 *://*.istanbulsemalarinda.shop/*
 *://*.istanbulsenicokbozmus.shop/*
 *://*.istanbulsenin.online/*
@@ -181019,6 +181022,7 @@
 *://*.istanbulyakasi.shop/*
 *://*.istanbulyap.com/*
 *://*.istanbulyardim.com/*
+*://*.istanbulyavastur.xyz/*
 *://*.istanbulyavrum.shop/*
 *://*.istanbulyemektarifleri.com/*
 *://*.istanbulyklemee.com/*
@@ -195903,6 +195907,7 @@
 *://*.kgm-trgov.sbs/*
 *://*.kgm-trm.cfd/*
 *://*.kgm-vvc.top/*
+*://*.kgm-yuklee.org/*
 *://*.kgmaa.top/*
 *://*.kgmab.bond/*
 *://*.kgmab.top/*
@@ -252308,6 +252313,8 @@
 *://*.psmnolmzsn.shop/*
 *://*.psmrewwhhh.in/*
 *://*.psmrrnehma.in/*
+*://*.psmsynnnkmpnyaaaa.info/*
+*://*.psmsynnnkmpnyaaaa.pro/*
 *://*.psneu.com/*
 *://*.psnony2sev.com/*
 *://*.psocygb.xin/*
@@ -326737,6 +326744,7 @@
 *://*.webrangir.com/*
 *://*.webrank.ws/*
 *://*.webredirect.org/*
+*://*.webredrict.sbs/*
 *://*.webreopen.top/*
 *://*.webresources.live/*
 *://*.webrndbvhzietmbrs.com/*
