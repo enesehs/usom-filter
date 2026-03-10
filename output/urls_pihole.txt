@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-10 06:33:02 UTC
-# Toplam: 443025 Domain
+# Son Güncelleme: 2026-03-10 07:31:38 UTC
+# Toplam: 443046 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -32435,6 +32435,7 @@ advenced-ip-scanner.com
 advennture.top
 advensigorta.com
 adventhansmet.com
+adventline.com
 adventsales.co.uk
 adventturepoint.com
 adventure-hut.com
@@ -78120,6 +78121,7 @@ blenderxnew.tohocaper1979.workers.dev
 blendrape.top
 blendrhetoric.top
 blennia.qpon
+blenthira.click
 bleoxaelcaell.com
 bleres.com
 blesblochem.com
@@ -83204,6 +83206,7 @@ bookroom.rogerclarkehigh.edu.jm
 books.com-identifier-servicelog.name
 booksandtoys.com.tr
 bookscastle.zapto.org
+bookseatan.com
 booksformhotels.com
 booksimplereg.com
 booksiparisslerin.cloud
@@ -84648,6 +84651,7 @@ brinthor.com
 briotaste.com
 brisasanalpos.org
 briserodeenero202020.duckdns.org
+briskalon.store
 briskfm.co.uk
 briskhundred.top
 briskid.com
@@ -88616,6 +88620,7 @@ buykfrskcrfsa.cfd
 buykkmamka0342.shop
 buykmrke-frsaltr.sbs
 buylbscrfsonli.cfd
+buylineat.com
 buymagicmushies.com
 buymak.html-5.me
 buymart.top
@@ -105581,6 +105586,7 @@ coupleorder.top
 coupon-online.fr
 coupon365.hopto.org
 couponatonline.com
+couponbox.cfd
 couponmaster.co.uk
 couragebank-block.com
 courageousbleak.top
@@ -111840,6 +111846,7 @@ dealnexi.xyz
 dealreal.top
 dealrush.info
 dealsonthecloud.com
+dealspotat.com
 dealspprt.com
 dealsprint.net
 dealsquare.top
@@ -165013,6 +165020,7 @@ fylvwtlgyzq.info
 fymumiddomj.wcnv20.cn
 fyn001.ddns.net
 fynlith.com
+fynthera.qpon
 fynty.net
 fyosxsi.info
 fyoutside.com
@@ -216529,6 +216537,7 @@ inkour.top
 inkplazamaine.com
 inksama.com
 inkseed.info
+inkspot.sbs
 inkuci.top
 inkueslt.top
 inkuist.top
@@ -221670,6 +221679,7 @@ isegirmekistiyorumusom.com
 isemfsasis.net
 isencsadiv.net
 isendorin.com
+isendrix.qpon
 isepome.com
 iservicec.com
 isf.ddns.net
@@ -234220,6 +234230,7 @@ kalsinlarbiktimartikamk.click
 kalsinlarsdsa.space
 kalskaldfk.com
 kalskdasdaldadma.blogspot.com
+kaltheriq.qpon
 kalthira.com
 kaltieliidnirimlerdesongun.sbs
 kaltm.2kool4u.net
@@ -252267,6 +252278,7 @@ learningsalvage.top
 learningturbulent.top
 learnjerk.top
 learnmore.study
+learnmotive.com
 learnnoise.net
 learnuxid.com
 learnwithline.com
@@ -252940,6 +252952,8 @@ lexisnexis.lat
 lexisnexis.one
 lexisnexis.pro
 lexisnexis.top
+lexivo.qpon
+lexorad.com
 lexorica.com
 lexpeyze.info
 lexpress.me
@@ -304360,6 +304374,7 @@ particuliersgfr.zapto.org
 particuliersirvisg.ddns.net
 particulierverfication.duckdns.org
 particulieservicesg.ddns.net
+partikolay.com
 partilebebejx.net
 partilicumhurbaskani.co
 partiniongroup.com.tr
@@ -357338,6 +357353,7 @@ sparkassen-hilfe.info
 sparkassen-support.info
 sparkasseonline.info
 sparkboardz.com
+sparkbox.gifts
 sparkdoor.buzz
 sparked.ddns.net
 sparkforge-app790.vercel.app
@@ -363590,6 +363606,7 @@ summerlanddogtraining.com
 summerlure.top
 summerlyric.top
 summerrain.cloud
+summertrip.surf
 summervacation.bit
 summi.space
 summiseek.com
@@ -373051,6 +373068,7 @@ thailandpost.ddns.net
 thaipoliticstoday.com
 thaitishop.com
 thaivilan.com
+thalassian.icu
 thalassiansanctuary.com
 thalassophilous.com
 thalvire.com
@@ -411660,6 +411678,7 @@ wisedelicacy.top
 wisegroundbreaking.top
 wisemean.top
 wisemeticulous.top
+wisentro.cyou
 wisenutmgir.pw
 wiseorbitacademy.com
 wisescatter.top
@@ -421002,6 +421021,7 @@ xelpersx.click
 xelphoria.store
 xeltykzmpr.duckdns.org
 xelunora.shop
+xeluravon.com
 xeluvorin.com
 xelvadorgas.xyz
 xelvira.space
@@ -431977,6 +431997,7 @@ yenicksacbisweasd.net
 yenicozumlerimiz.com
 yenicrfsonlingnc.cfd
 yenidairem.blogspot.com
+yenidalga.world
 yeniddenaktif.net
 yeniden-aktarimlar-baslamistir.online
 yeniden-ayaga-kalkiyoruz-halkimizla.online

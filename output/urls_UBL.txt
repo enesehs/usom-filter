@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-10 06:33:02 UTC
-! Total: 353199 rules
+! Last modified: 2026-03-10 07:31:38 UTC
+! Total: 353220 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20558,6 +20558,7 @@
 *://*.advennture.top/*
 *://*.advensigorta.com/*
 *://*.adventhansmet.com/*
+*://*.adventline.com/*
 *://*.adventsales.co.uk/*
 *://*.adventturepoint.com/*
 *://*.adventure-hut.com/*
@@ -58858,6 +58859,7 @@
 *://*.blendrape.top/*
 *://*.blendrhetoric.top/*
 *://*.blennia.qpon/*
+*://*.blenthira.click/*
 *://*.bleoxaelcaell.com/*
 *://*.bleres.com/*
 *://*.blesblochem.com/*
@@ -63209,6 +63211,7 @@
 *://*.bookreview-reserve.com/*
 *://*.bookreviewreserve.com/*
 *://*.booksandtoys.com.tr/*
+*://*.bookseatan.com/*
 *://*.booksformhotels.com/*
 *://*.booksimplereg.com/*
 *://*.booksiparisslerin.cloud/*
@@ -64371,6 +64374,7 @@
 *://*.brinthor.com/*
 *://*.briotaste.com/*
 *://*.brisasanalpos.org/*
+*://*.briskalon.store/*
 *://*.briskfm.co.uk/*
 *://*.briskhundred.top/*
 *://*.briskid.com/*
@@ -67887,6 +67891,7 @@
 *://*.buykkmamka0342.shop/*
 *://*.buykmrke-frsaltr.sbs/*
 *://*.buylbscrfsonli.cfd/*
+*://*.buylineat.com/*
 *://*.buymagicmushies.com/*
 *://*.buymart.top/*
 *://*.buymore360.com/*
@@ -81843,6 +81848,7 @@
 *://*.coupleorder.top/*
 *://*.coupon-online.fr/*
 *://*.couponatonline.com/*
+*://*.couponbox.cfd/*
 *://*.couponmaster.co.uk/*
 *://*.couragebank-block.com/*
 *://*.courageousbleak.top/*
@@ -86049,6 +86055,7 @@
 *://*.dealreal.top/*
 *://*.dealrush.info/*
 *://*.dealsonthecloud.com/*
+*://*.dealspotat.com/*
 *://*.dealspprt.com/*
 *://*.dealsprint.net/*
 *://*.dealsquare.top/*
@@ -131452,6 +131459,7 @@
 *://*.fym.fm/*
 *://*.fym5gserobhh.pw/*
 *://*.fynlith.com/*
+*://*.fynthera.qpon/*
 *://*.fynty.net/*
 *://*.fyosxsi.info/*
 *://*.fyoutside.com/*
@@ -174914,6 +174922,7 @@
 *://*.inkplazamaine.com/*
 *://*.inksama.com/*
 *://*.inkseed.info/*
+*://*.inkspot.sbs/*
 *://*.inkuci.top/*
 *://*.inkueslt.top/*
 *://*.inkuist.top/*
@@ -179244,6 +179253,7 @@
 *://*.isemfsasis.net/*
 *://*.isencsadiv.net/*
 *://*.isendorin.com/*
+*://*.isendrix.qpon/*
 *://*.isepome.com/*
 *://*.iservicec.com/*
 *://*.isfaizsiz.com/*
@@ -189376,6 +189386,7 @@
 *://*.kalsinlarbiktimartikamk.click/*
 *://*.kalsinlarsdsa.space/*
 *://*.kalskaldfk.com/*
+*://*.kaltheriq.qpon/*
 *://*.kalthira.com/*
 *://*.kaltieliidnirimlerdesongun.sbs/*
 *://*.kaluga.xyz/*
@@ -203941,6 +203952,7 @@
 *://*.learningturbulent.top/*
 *://*.learnjerk.top/*
 *://*.learnmore.study/*
+*://*.learnmotive.com/*
 *://*.learnnoise.net/*
 *://*.learnuxid.com/*
 *://*.learnwithline.com/*
@@ -204467,6 +204479,8 @@
 *://*.lexisnexis.one/*
 *://*.lexisnexis.pro/*
 *://*.lexisnexis.top/*
+*://*.lexivo.qpon/*
+*://*.lexorad.com/*
 *://*.lexorica.com/*
 *://*.lexpeyze.info/*
 *://*.lexpress.me/*
@@ -244836,6 +244850,7 @@
 *://*.particularlydivine.top/*
 *://*.particularlystance.top/*
 *://*.particularplight.top/*
+*://*.partikolay.com/*
 *://*.partilebebejx.net/*
 *://*.partilicumhurbaskani.co/*
 *://*.partiniongroup.com.tr/*
@@ -285134,6 +285149,7 @@
 *://*.sparkassen-support.info/*
 *://*.sparkasseonline.info/*
 *://*.sparkboardz.com/*
+*://*.sparkbox.gifts/*
 *://*.sparkdoor.buzz/*
 *://*.sparkiob.digital/*
 *://*.sparkjoy.cc/*
@@ -289996,6 +290012,7 @@
 *://*.summerlure.top/*
 *://*.summerlyric.top/*
 *://*.summerrain.cloud/*
+*://*.summertrip.surf/*
 *://*.summervacation.bit/*
 *://*.summi.space/*
 *://*.summiseek.com/*
@@ -297792,6 +297809,7 @@
 *://*.thaipoliticstoday.com/*
 *://*.thaitishop.com/*
 *://*.thaivilan.com/*
+*://*.thalassian.icu/*
 *://*.thalassiansanctuary.com/*
 *://*.thalassophilous.com/*
 *://*.thalvire.com/*
@@ -328388,6 +328406,7 @@
 *://*.wisegroundbreaking.top/*
 *://*.wisemean.top/*
 *://*.wisemeticulous.top/*
+*://*.wisentro.cyou/*
 *://*.wisenutmgir.pw/*
 *://*.wiseorbitacademy.com/*
 *://*.wisepops.co/*
@@ -335247,6 +335266,7 @@
 *://*.xelpersx.click/*
 *://*.xelphoria.store/*
 *://*.xelunora.shop/*
+*://*.xeluravon.com/*
 *://*.xeluvorin.com/*
 *://*.xelvadorgas.xyz/*
 *://*.xelvira.space/*
@@ -344622,6 +344642,7 @@
 *://*.yenicksacbisweasd.net/*
 *://*.yenicozumlerimiz.com/*
 *://*.yenicrfsonlingnc.cfd/*
+*://*.yenidalga.world/*
 *://*.yeniddenaktif.net/*
 *://*.yeniden-aktarimlar-baslamistir.online/*
 *://*.yeniden-ayaga-kalkiyoruz-halkimizla.online/*
