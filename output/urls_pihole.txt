@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-09 21:23:28 UTC
-# Toplam: 443001 Domain
+# Son Güncelleme: 2026-03-10 00:54:18 UTC
+# Toplam: 443018 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1985,6 +1985,7 @@
 101-de-ozel-firsatlar-bugune-ozel-alisveris-tr.com
 101-de-ozel-firsatlar-bugune-ozel-online-indirimler-tr.mooo.com
 101-de-ozel-mobil.cep-shop-sponsor.com
+101-de-ramazana-ozel-sepet-indirimleri.mooo.com
 101-de-tr-bugune-ozel.cep-shop-sponsor.com
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
@@ -22477,6 +22478,7 @@ a-1-01sendegselals.com
 a-1-01sendeucuz.com
 a-1-01sendeucuzal.com
 a-1-01sendeucuzz.com
+a-1-01snal-mrkt.cfd
 a-1-01snalcomtr.sbs
 a-1-01snlm-rket.cfd
 a-1-1onlienakutel.com
@@ -22555,6 +22557,7 @@ a-101-indirim.netlify.app
 a-101-indirim.oldubiler.vip
 a-101-indirimleri.s2lovam.com
 a-101-indirimlerinizsizle.com
+a-101-internete-ozel-online-indirimler-tr-mobile.mooo.com
 a-101-kampanya.replit.app
 a-101-kampanyalari.s-ode.com
 a-101-kapida.onlne-frsatlar-kmpnya-ozl-simd-aldn-aldn.shop
@@ -54500,6 +54503,7 @@ avsonline.com.tr
 avsonlinee.com.tr
 avsonlinee.xyz
 avsonlinefilom.me
+avsotomobilkiralama.com
 avsrent.com.tr
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
@@ -106833,6 +106837,7 @@ cresthill.co.uk
 crestui.com
 creve-html-log.duckdns.org
 crevice73.xyz
+crevito.store
 crewcleaner.info
 crewwworks.com
 crexen.xyz
@@ -129230,6 +129235,7 @@ e-basvuru-platformu-aidat-iadesi.xyz
 e-basvuru-portali-2021-online-iadeler-sayfasi.xyz
 e-basvuru-sayfa-bireysel-online.ml
 e-basvuru-sosyaldestek.com
+e-basvuru-tokim.sbs
 e-basvuru-tse.org
 e-basvuru-turkiye.com
 e-basvuru-ucret-hesaplama-online-web-sitesi.xyz
@@ -134606,6 +134612,7 @@ e-yardimbasvru.online
 e-yardimkampanyasi.com
 e-yardimsaglikhalkpandemi.com
 e-yaygin-meb.com
+e-yaygin.net
 e-yaygin.org
 e-yazmaodeme.net
 e-ydode.net
@@ -184356,6 +184363,7 @@ hacklinkci.com
 hacklinkcini.blogspot.com.tr
 hacklinker.com
 hacklinknet.blogspot.com.tr
+hacklinkpaketleri.com
 hacklinkpanel.app
 hacklinkpanel.xyz
 hacklinksatisi.com
@@ -243903,6 +243911,7 @@ kkyolllldalargeliyorlar.com
 kkyxpfcdtkmtyca.ru
 kkzgx1gc.duckdns.org
 kkzjtv9.duckdns.org
+kkznneszxs.blogspot.com
 kl12lps.click
 kl22ak8ll.duckdns.org
 kl4475ig.duckdns.org
@@ -286819,6 +286828,7 @@ obibayim.is-best.net
 obichniedonwload.com
 obiden.multifamilypurcheses.com
 obil3t.com
+obilet-indirim.com
 obilet-kampanya.com
 obilet-kampanya.org
 obilet-tr.com
@@ -308548,6 +308558,7 @@ pljfftutpo.duckdns.org
 pljgdcrnkj.duckdns.org
 pljgedrnkg.duckdns.org
 pljhdaxmif.duckdns.org
+pljszjkiw.cfd
 pljvwxdgdl.duckdns.org
 plkbskowxoxy.xyz
 plkes-secure.site
@@ -322807,6 +322818,7 @@ ramazan20gbinternet.com
 ramazan5ozeltwl25.click
 ramazan6ozeltwl25.click
 ramazana-ozelindirim.com
+ramazana101.duckdns.org
 ramazana10gb.blogspot.com
 ramazanaaozel.com.tr
 ramazanaaozel.online
@@ -328829,6 +328841,7 @@ rmrm90.zapto.org
 rms-server.tektonit.ru
 rms22.duckdns.org
 rmsalf.com
+rmsayignleri.cfd
 rmsjck.com
 rmsrg2.online
 rmsrmpnewh.org
@@ -363860,6 +363873,7 @@ supercep7a101.online
 supercep8a101.online
 supercepa101.xyz
 supercepindirimi-a-1o1.online
+supercepindirimi-a-1o1.store
 supercoeur.zapto.org
 supercumaindirimleri.duckdns.org
 supercummmaindirimi.com
@@ -370105,6 +370119,7 @@ tebsubesi-online-tr.com
 tebsubesicomd139.com
 tebsurpriz.com
 tebte-webkampayalar.com
+tebtecep.my-homeip.net
 tebtedtektikbasvurularimonline.click
 tebtefirsat.com
 tebtekampanya.site
@@ -409255,6 +409270,7 @@ websecured03c.ddns.net
 websecuree-sahibindengetts.com
 websecureoutlook.glitch.me
 websencl.com
+websenus.shop
 webseorank.org
 websep.click
 websep.shop
@@ -411602,6 +411618,7 @@ wiperehabilitation.top
 wiphqhflzb.duckdns.org
 wipikedia.xyz
 wipresolutions.com
+wiqkowwq.cfd
 wiqp.xyz
 wiqrj494.com
 wiqrt82.tictra.pw
