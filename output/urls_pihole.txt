@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-10 21:23:44 UTC
-# Toplam: 443157 Domain
+# Son Güncelleme: 2026-03-10 22:14:24 UTC
+# Toplam: 443162 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22484,6 +22484,7 @@ a-1-01sendegselals.com
 a-1-01sendeucuz.com
 a-1-01sendeucuzal.com
 a-1-01sendeucuzz.com
+a-1-01snaal-mrkt.cfd
 a-1-01snal-mrkt.cfd
 a-1-01snalcomtr.sbs
 a-1-01snlm-rket.cfd
@@ -189557,6 +189558,7 @@ harikayalardiyariidnirimleri.cfd
 harikayalardiyariidnirimleri.sbs
 harikayardim.tech
 harikayuzyilkamoanyas.online
+hariksa.click
 harinlatextiles.com
 harird.ru.com
 harkort-strl.com
@@ -226602,6 +226604,7 @@ iz9uyk.duckdns.org
 izakaofpa.blogspot.com
 izakasgsdhs.blogspot.com
 izakfss.blogspot.com
+izalappss.dns.navy
 izalgfwqq.dns.navy
 izalopopda.dns.navy
 izamaasahotsan.net
@@ -295480,6 +295483,7 @@ orangmourand.duckdns.org
 orangy.ddns.net
 oranindexon.duckdns.org
 orankfix.com
+oranlara.click
 orantilislemak-islemadresi.shop
 oraqww.com
 orarent.com.tr
@@ -390346,6 +390350,7 @@ tyapikredi.com
 tyass.cc
 tyazd.duckdns.org
 tyb1b5237012rklm.site
+tybldgmzsekdurts.cfd
 tybnpvh9.duckdns.org
 tybxclnsell.net
 tycby.duckdns.org
