@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-10 08:25:49 UTC
-! Total: 353224 rules
+! Last modified: 2026-03-10 09:31:43 UTC
+! Total: 353244 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -85002,6 +85002,7 @@
 *://*.dailylifelives.com/*
 *://*.dailyqadamat.com/*
 *://*.dailyrasoi.com.tr/*
+*://*.dailyrumour.co.nz/*
 *://*.dailysportsgossips.com/*
 *://*.dailystepstowardsuccess.com/*
 *://*.dailystudy.org/*
@@ -110067,6 +110068,7 @@
 *://*.edidos.shop/*
 *://*.edieaciler.lol/*
 *://*.edieaciler.monster/*
+*://*.edifaqe.org/*
 *://*.edifiandosgp.com/*
 *://*.edifianpcpinc.com/*
 *://*.edifianppcllc.com/*
@@ -136488,7 +136490,10 @@
 *://*.genisailelericinhesaplikampanyalar.cfd/*
 *://*.genisfilo.com/*
 *://*.genisfilo.online/*
+*://*.genisfun.co.nz/*
 *://*.genismarketim.com/*
+*://*.geniusfun.co.in/*
+*://*.geniusfun.co.za/*
 *://*.geniusinnvest.com/*
 *://*.geniusmusicalbumsdata.com/*
 *://*.geniusmusicplayer.com/*
@@ -163593,6 +163598,7 @@
 *://*.holganbet940.com/*
 *://*.holhgsz.com/*
 *://*.holibixmbclell.net/*
+*://*.holicithed.com/*
 *://*.holidamyup.today/*
 *://*.holiday-inn-bilbao-airport.com/*
 *://*.holiday-otel.cfd/*
@@ -182895,6 +182901,7 @@
 *://*.ivedikgez.net/*
 *://*.iveedvergilericode.net/*
 *://*.ivegridaire.net/*
+*://*.ivenih.org/*
 *://*.ivenstouz.com/*
 *://*.ivention.pl/*
 *://*.iveoakbank.com/*
@@ -206600,6 +206607,7 @@
 *://*.loop-is.com/*
 *://*.loop4test.com/*
 *://*.loopdesolate.top/*
+*://*.loopdeviceconnection.co.in/*
 *://*.loopholehole.com/*
 *://*.loopholespongy.top/*
 *://*.loopian.lat/*
@@ -215018,6 +215026,7 @@
 *://*.mindfuei.com/*
 *://*.mindfulmacro.com/*
 *://*.mindobserved.com/*
+*://*.mindorbittest.com/*
 *://*.mindservo.com/*
 *://*.mindsetabiguous.top/*
 *://*.mindsetydit.org/*
@@ -223941,6 +223950,7 @@
 *://*.navitech.club/*
 *://*.navitecharacmedya.com/*
 *://*.navitechteyp-oto.com/*
+*://*.navixzuno.co.in/*
 *://*.navmavmemmmfefm.wiki/*
 *://*.navneetsharma.xyz/*
 *://*.navnow.xyz/*
@@ -235640,6 +235650,7 @@
 *://*.onlinekredisistemleri.com/*
 *://*.onlinekredit.ml/*
 *://*.onlinekredit.online/*
+*://*.onlinekstra.com/*
 *://*.onlinekurumodemeleri.com/*
 *://*.onlinekuveytr.com/*
 *://*.onlinekuveytturkn.com/*
@@ -258739,6 +258750,8 @@
 *://*.quiverwrestle.top/*
 *://*.quiz-nest.com/*
 *://*.quizboxy.today/*
+*://*.quizcentral.co.in/*
+*://*.quizcentral.co.za/*
 *://*.quizcram.top/*
 *://*.quizdune.top/*
 *://*.quizenclose.top/*
@@ -263785,6 +263798,7 @@
 *://*.rivsalty.click/*
 *://*.rivxon.com/*
 *://*.rivyqup.com/*
+*://*.rixifabed.org/*
 *://*.rixoria.xyz/*
 *://*.rixosbelekpremium.com/*
 *://*.rixospremiumspa.com/*
@@ -306253,6 +306267,7 @@
 *://*.trivenstoun.com/*
 *://*.triveyatirim.net/*
 *://*.trivi-xan.co/*
+*://*.triviabox.co.in/*
 *://*.trivlat.com/*
 *://*.trix-node.cfd/*
 *://*.trixieservices.com/*
@@ -313300,6 +313315,7 @@
 *://*.uhsdefvdvi.cfd/*
 *://*.uhsee.com/*
 *://*.uhtsong.com/*
+*://*.uhuhedeb.org/*
 *://*.uhuioo.cf/*
 *://*.uhvyvnkuue.xyz/*
 *://*.uhxndh.homes/*
@@ -314109,6 +314125,7 @@
 *://*.unsisany.live/*
 *://*.unsjyvwrqelxdvobpo.pw/*
 *://*.unsottgbblyi.rent/*
+*://*.unsphiperidion.co.in/*
 *://*.unstowsd.com/*
 *://*.unstylizeddif.com/*
 *://*.unsustaining.com/*
@@ -315610,6 +315627,7 @@
 *://*.uyap.eu/*
 *://*.uyap.link/*
 *://*.uyap.site/*
+*://*.uyap.tk/*
 *://*.uyapadliye.com/*
 *://*.uyapadliye.org/*
 *://*.uyaparabuluculuk.org/*
@@ -345878,6 +345896,7 @@
 *://*.yepyenisigortacim.xyz/*
 *://*.yepyeniyazfirsatiaccountbnance.net/*
 *://*.yepyeniyilin-hediyeleri.com/*
+*://*.yeqeso.org/*
 *://*.yer1yeri.com/*
 *://*.yerago.mobi/*
 *://*.yeraliasr.sbs/*
@@ -347381,6 +347400,7 @@
 *://*.ylkrcsnkam.com/*
 *://*.yllbasinanaozellll.com/*
 *://*.yllcumacente.site/*
+*://*.ylloer.org/*
 *://*.ylncarefourhmnal.org/*
 *://*.ylogi.ru/*
 *://*.ylosi.com/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-10 08:25:49 UTC
-# Toplam: 443051 Domain
+# Son Güncelleme: 2026-03-10 09:31:43 UTC
+# Toplam: 443072 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -110306,6 +110306,7 @@ dailyhouse-bpn.com
 dailylifelives.com
 dailyqadamat.com
 dailyrasoi.com.tr
+dailyrumour.co.nz
 dailysportsgossips.com
 dailystepstowardsuccess.com
 dailystudy.org
@@ -139524,6 +139525,7 @@ edidod.2kool4u.net
 edidos.shop
 edieaciler.lol
 edieaciler.monster
+edifaqe.org
 edifiandosgp.com
 edifianpcpinc.com
 edifianppcllc.com
@@ -171432,9 +171434,12 @@ genis23bonus.b-cdn.net
 genisailelericinhesaplikampanyalar.cfd
 genisfilo.com
 genisfilo.online
+genisfun.co.nz
 genisgecis.is-best.net
 genisleme-tr-ing-btr.my-homeip.com
 genismarketim.com
+geniusfun.co.in
+geniusfun.co.za
 geniusinnvest.com
 geniusmusicalbumsdata.com
 geniusmusicplayer.com
@@ -203064,6 +203069,7 @@ holforehomeless.top
 holganbet940.com
 holhgsz.com
 holibixmbclell.net
+holicithed.com
 holidamyup.today
 holiday-inn-bilbao-airport.com
 holiday-otel.cfd
@@ -225932,6 +225938,7 @@ ivederverg.net
 ivedikgez.net
 iveedvergilericode.net
 ivegridaire.net
+ivenih.org
 ivenstouz.com
 ivention.pl
 iveoakbank.com
@@ -255944,6 +255951,7 @@ loop67.marginisbi.ru
 loop79.marginisbi.ru
 loop81.marginisbi.ru
 loopdesolate.top
+loopdeviceconnection.co.in
 loopgame.ddns.net
 loopholehole.com
 loopholespongy.top
@@ -267254,6 +267262,7 @@ minddbinder.com
 mindfuei.com
 mindfulmacro.com
 mindobserved.com
+mindorbittest.com
 mindservo.com
 mindsetabiguous.top
 mindsetydit.org
@@ -278096,6 +278105,7 @@ nance-trky.com
 nancetr.com
 nanchwespy.world
 nancoreatakan.duckdns.org
+nancycarsauw.com
 nancycemt1225.ddns.net
 nandagarment.com
 nandandan.net
@@ -278595,6 +278605,7 @@ navitech.club
 navitecharacmedya.arabamuayenesi.xyz
 navitecharacmedya.com
 navitechteyp-oto.com
+navixzuno.co.in
 navmavmemmmfefm.wiki
 navneetsharma.xyz
 navnow.xyz
@@ -293434,6 +293445,7 @@ onlinekredisistemleri.com
 onlinekredit.ml
 onlinekredit.online
 onlinekredlmbasvurusu.basvurusuyap.lol
+onlinekstra.com
 onlinekurumodemeleri.com
 onlinekuveytr.com
 onlinekuveytturkn.com
@@ -321770,6 +321782,8 @@ quiverinherent.top
 quiverwrestle.top
 quiz-nest.com
 quizboxy.today
+quizcentral.co.in
+quizcentral.co.za
 quizcram.top
 quizdune.top
 quizenclose.top
@@ -328627,6 +328641,7 @@ rivsalty.click
 rivxon.com
 rivy-g-r-n-l.my-homeip.de
 rivyqup.com
+rixifabed.org
 rixoria.xyz
 rixosbelekpremium.com
 rixospremiumspa.com
@@ -383253,6 +383268,7 @@ triveno.store
 trivenstoun.com
 triveyatirim.net
 trivi-xan.co
+triviabox.co.in
 trivlat.com
 trix-node.cfd
 trixie.freemyip.com
@@ -391548,6 +391564,7 @@ uhsf3i0rj.duckdns.org
 uhsp7o.duckdns.org
 uhsuewv.duckdns.org
 uhtsong.com
+uhuhedeb.org
 uhvyvnkuue.xyz
 uhxndh.homes
 uhxqin.biz
@@ -392537,6 +392554,7 @@ unshmentlegend.top
 unsj6df.duckdns.org
 unsjyvwrqelxdvobpo.pw
 unsottgbblyi.rent
+unsphiperidion.co.in
 unstowsd.com
 unstylizeddif.com
 unsual-wellsfargo-bank.duckdns.org
@@ -399305,6 +399323,7 @@ vatandas.sorgu.uyap.tr.za.com
 vatandas.uyap-gov.vg
 vatandas.uyap.edu.pl
 vatandas.uyap.eu
+vatandas.uyap.tk
 vatandas.uyapgov.us
 vatandas20gbportal.com
 vatandasa-cozum.online
@@ -433350,6 +433369,7 @@ yepyenisigortacim.com.tr
 yepyenisigortacim.xyz
 yepyeniyazfirsatiaccountbnance.net
 yepyeniyilin-hediyeleri.com
+yeqeso.org
 yer1yeri.com
 yerago.mobi
 yeraliasr.sbs
@@ -435109,6 +435129,7 @@ ylksodeme.blogspot.com
 yllbasinanaozellll.com
 yllbbasiozelfrst.dns.navy
 yllcumacente.site
+ylloer.org
 ylmnbnbns.hopto.org
 ylncarefourhmnal.org
 ylosi.com
