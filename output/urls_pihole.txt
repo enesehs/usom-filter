@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-10 13:53:30 UTC
-# Toplam: 443114 Domain
+# Son Güncelleme: 2026-03-10 14:37:07 UTC
+# Toplam: 443117 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -112941,6 +112941,7 @@ denetimakobasvuruservices.com
 denetimerkkezi.com
 denetimmerkezi.tk
 denetimservisleri-tr.ga
+denetimsorgu.org
 denetleme-grs-hzt.online
 denetleme-iadeformu-edevlet.com
 denetlemebasvur.online
@@ -162637,6 +162638,7 @@ form253.xyz
 form2page.duckdns.org
 formaicafeng123.ddns.net
 formajans.xyz
+formal-thereafter-requiring-connectors.trycloudflare.com
 formal.drfqopmnlight.com
 formal.nmyfun.com
 formal.terdpo.com
@@ -231499,6 +231501,7 @@ jsdfsdf434sdf11ii.ru
 jsdj178.duckdns.org
 jsdnuaskbnvkaxxes.cloud
 jsdshjhj.infinityfreeapp.com
+jsdtsakujdhed73bdnsbcsnbhvdsatamgbojiaku.duckdns.org
 jse-photographe.com
 jsevbwbsplyskqh.su
 jsfgipfvq.info
