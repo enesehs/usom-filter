@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-10 10:26:16 UTC
-! Total: 353244 rules
+! Last modified: 2026-03-10 11:23:19 UTC
+! Total: 353251 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47130,6 +47130,7 @@
 *://*.bemifktxbqqp.bid/*
 *://*.bemuzzeki.sbs/*
 *://*.bemzsiparis.online/*
+*://*.ben-garipbir-avareyim-care-bulan-siseden.com/*
 *://*.ben-trdestegimsorgularim.net/*
 *://*.benalmasambaskasialacalan.shop/*
 *://*.benanlamadimamaniye.uk/*
@@ -127815,6 +127816,7 @@
 *://*.firsatnisangunleri.info.tr/*
 *://*.firsatnisangunleri.net.tr/*
 *://*.firsatnisangunleri.org.tr/*
+*://*.firsatnokta.xyz/*
 *://*.firsatnoktancepte.com.tr/*
 *://*.firsatnoktaniz.com.tr/*
 *://*.firsatnoktanizayaginizda.net/*
@@ -180829,6 +180831,7 @@
 *://*.istanbulksohhs.com/*
 *://*.istanbulksoth.com/*
 *://*.istanbulkurum.com/*
+*://*.istanbulkuryeler.shop/*
 *://*.istanbulkuvyetsubemodel.com/*
 *://*.istanbulkxart.net/*
 *://*.istanbulkxrssl.net/*
@@ -180953,6 +180956,7 @@
 *://*.istanbulout.net/*
 *://*.istanbulpadisahi.net/*
 *://*.istanbulpangoo.net/*
+*://*.istanbulparcaes.shop/*
 *://*.istanbulparlakhalis.shop/*
 *://*.istanbulpazargunu.net/*
 *://*.istanbulpazartesiye.site/*
@@ -225784,6 +225788,7 @@
 *://*.nexoraid.com/*
 *://*.nexoriax.shop/*
 *://*.nexoryapp.store/*
+*://*.nexovirexa.com/*
 *://*.nexovortex.online/*
 *://*.nexprice.com/*
 *://*.nexralt.com/*
@@ -240295,6 +240300,7 @@
 *://*.pak-rebel.com/*
 *://*.pak-snacks.com/*
 *://*.pak-urdu-installer.com/*
+*://*.pakaoakgmna.cfd/*
 *://*.pakara.info/*
 *://*.pakchat.online/*
 *://*.pakdanisma.nl/*
@@ -271014,6 +271020,7 @@
 *://*.sealmramazzn.online/*
 *://*.sealmramazzn.xyz/*
 *://*.sealtribute.org/*
+*://*.seandromead.cfd/*
 *://*.seanexusx.com/*
 *://*.seanowy.com/*
 *://*.seaorlakegaranti.buzz/*
