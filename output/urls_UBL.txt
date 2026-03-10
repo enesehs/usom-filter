@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-10 11:23:19 UTC
-! Total: 353251 rules
+! Last modified: 2026-03-10 12:30:43 UTC
+! Total: 353260 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65262,6 +65262,7 @@
 *://*.bszu53.ru/*
 *://*.bt-cll.com/*
 *://*.bt-kassa.com/*
+*://*.bt-mob.net/*
 *://*.bt-tickets.com/*
 *://*.btafbearings.com/*
 *://*.btakkmyu.com/*
@@ -65613,6 +65614,7 @@
 *://*.btmkoko.net/*
 *://*.btmkussai.net/*
 *://*.btmmcelpersembe.com/*
+*://*.btmob.xyz/*
 *://*.btnnce.nl/*
 *://*.btnuulfvovpl.org/*
 *://*.btocturk.store/*
@@ -84110,6 +84112,7 @@
 *://*.cupfaser.site/*
 *://*.cupiditate-dignissimos.com/*
 *://*.cupofhockey.com/*
+*://*.cupomgratisfood.shop/*
 *://*.cupomkinghost.com.br/*
 *://*.cuponomia.com.br/*
 *://*.cuponos.com/*
@@ -117545,6 +117548,7 @@
 *://*.erghgsn.com/*
 *://*.erghgsv.com/*
 *://*.ergnbhvggrda.wiki/*
+*://*.ergonensign.sbs/*
 *://*.ergonomia.com.tr/*
 *://*.ergonomikanaliz.pro/*
 *://*.ergosnooze.com/*
@@ -131023,6 +131027,7 @@
 *://*.fuckmy.store/*
 *://*.fuclorland.digital/*
 *://*.fucqw.com/*
+*://*.fud2026.com/*
 *://*.fudaco.biz/*
 *://*.fudcitydelivers.com/*
 *://*.fuddezmebbeb.com/*
@@ -180613,6 +180618,7 @@
 *://*.istanbulhepimizin.com/*
 *://*.istanbulhepimizin.net/*
 *://*.istanbulhepsi.shop/*
+*://*.istanbulhizliat.shop/*
 *://*.istanbulhizliyiz.me/*
 *://*.istanbulhizmet.com/*
 *://*.istanbulhizmetitaklaci.blog/*
@@ -196302,6 +196308,7 @@
 *://*.khtaznakv.org/*
 *://*.khunnapap.com/*
 *://*.khupekqmlfljse.com/*
+*://*.khwdji319.xyz/*
 *://*.ki-rmiz-i-bas-vur-alan-asdas.click/*
 *://*.kiaceitn.store/*
 *://*.kiaemz.com/*
@@ -239014,6 +239021,7 @@
 *://*.oxideidiotic.top/*
 *://*.oxidizability.com/*
 *://*.oximpetus.top/*
+*://*.oxkasl.help/*
 *://*.oxlixnexalsxvrs-nxbludk-pmhqe-xyt.click/*
 *://*.oxlop.com/*
 *://*.oxmrkib.com/*
@@ -349477,6 +349485,7 @@
 *://*.z8ieuu8.cn/*
 *://*.z8x4r2t7b1n9q0m5y6v3p2w8.com.tr/*
 *://*.z99909930m.click/*
+*://*.z99sadhasdhashdhasz0z9sad.click/*
 *://*.z9w8l8k1zaf3g.info/*
 *://*.za-post-word.top/*
 *://*.za.com/*
