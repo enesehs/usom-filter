@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-10 17:36:47 UTC
-! Total: 353279 rules
+! Last modified: 2026-03-10 18:32:40 UTC
+! Total: 353283 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13713,6 +13713,7 @@
 *://*.a-10-01ra-mznflrsatico-mtr.sbs/*
 *://*.a-10-01rmzan-com.sbs/*
 *://*.a-10-1-bu-haftada-indrim-var.com/*
+*://*.a-10-1-cm-t-r.cfd/*
 *://*.a-10-1-kapimda-tr.online/*
 *://*.a-10-1com-t-r.cfd/*
 *://*.a-10-1comtr.sbs/*
@@ -130377,6 +130378,7 @@
 *://*.freelancergyn.com.br/*
 *://*.freelancers-blag.ru/*
 *://*.freelancingservice.net/*
+*://*.freelinkinpark.cfd/*
 *://*.freelookup.org/*
 *://*.freeluckyday.com/*
 *://*.freemagazineforyou.com/*
@@ -151141,6 +151143,7 @@
 *://*.hamamamamamamma8232.com/*
 *://*.hamamamamamammama02691.com/*
 *://*.hamamamamammama0941.com/*
+*://*.hamamamamammama8918.com/*
 *://*.hamamamamammamama3409.com/*
 *://*.hamamamammama2341.com/*
 *://*.hamamamammamaamam1239.com/*
@@ -198214,6 +198217,7 @@
 *://*.kmpnyaparmsynnbsvr.live/*
 *://*.kmpnyaprmsnyngrntt.info/*
 *://*.kmpnyaprmsnyngrntt.pro/*
+*://*.kmpnyaprmsynn0nb.live/*
 *://*.kmpnyaprmsynn0nb.pro/*
 *://*.kmpnyasdias1c.cfd/*
 *://*.kmpnyatbe.com/*
