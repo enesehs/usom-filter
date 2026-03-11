@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-11 07:35:17 UTC
-# Toplam: 443213 Domain
+# Son Güncelleme: 2026-03-11 08:25:47 UTC
+# Toplam: 443220 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57894,6 +57894,7 @@ bakiyeyuklemeveznesi.xyz
 bakiyeyukleonline.tk
 bakiyeyukllhgs.xyz
 bakiymi.net
+bakiyorduyuldu.sbs
 bakkalufukbey.online
 bakkatmlastanda.com
 baklaa31la.com
@@ -84344,6 +84345,7 @@ brdnynlndksnkzlrdnyb.mooo.com
 brdoge--treozio.webflow.io
 brdrkydumtekydilabu.xyz
 brdsfrstlrrs.duckdns.org
+brdvkffzszvr.cfd
 breabutter.ddns.net
 breachmaternal.top
 breadashetypoccu.hopto.org
@@ -127122,6 +127124,7 @@ drkantecatapatt-6d6918ae531b.herokuapp.com
 drkantecatapulttt-0ce6a51b0124.herokuapp.com
 drkantecatircuturrr-faf94a02cfd7.herokuapp.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
+drkantemokakokaii-afc92a5a22f1.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesikilachiii-7481906010f7.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
@@ -171786,6 +171789,7 @@ geridengelendvmfrst.com
 geridevletiadesi.com
 geridon-uk-sorgulariniz.sbs
 geridonuk-islemlerisorgula.sbs
+geridonuk-sorgulama-islemleri.org
 geridonus-turkiyegovtr.com
 geridonusistemi.site
 geridonusselkampanyaicintikla.monster
@@ -299532,6 +299536,8 @@ palmgorohive.myddns.me
 palmisultan.com
 palmiyesultan.best
 palmiyesultan.business
+palmiyesultan.cc
+palmiyesultan.net
 palmiyesultanbungalov.com
 palmon-law.co.il
 palmpredominant.top
@@ -369394,6 +369400,7 @@ tcmb-bddkiadeonay.com
 tcmb-duyurular.online
 tcmb-gov-tr.com
 tcmb-gov.com
+tcmb-gov.org
 tcmb-gov.tk
 tcmb-govtr.com
 tcmb-helps.com
