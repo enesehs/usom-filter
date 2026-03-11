@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-11 12:30:23 UTC
-! Total: 353371 rules
+! Last modified: 2026-03-11 13:56:23 UTC
+! Total: 353379 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4630,6 +4630,7 @@
 *://*.1drvmail.work/*
 *://*.1drvmicrosoft.com/*
 *://*.1drvms.space/*
+*://*.1drvms.store/*
 *://*.1drvmscloud-acrbatadbfls.com/*
 *://*.1dv.online/*
 *://*.1dv365.live/*
@@ -29636,6 +29637,7 @@
 *://*.almendroatelier.com/*
 *://*.almeniyescomres.site/*
 *://*.almeriahotelja.com/*
+*://*.almersalstore.com/*
 *://*.almhizmet.com/*
 *://*.almi-aldi.net/*
 *://*.almightyalienation.top/*
@@ -82908,6 +82910,7 @@
 *://*.crsmbdabncekcrma.shop/*
 *://*.crsmbprsmbpzrcmapzrtsiind1r1mzamani.com/*
 *://*.crsonlinecrsahiper.cfd/*
+*://*.crsshoponln.cfd/*
 *://*.crtrskadnkards.cfd/*
 *://*.crtruiofhjg.info/*
 *://*.crucialaggregate.top/*
@@ -86422,6 +86425,7 @@
 *://*.defectiveunderlie.top/*
 *://*.defectprey.top/*
 *://*.defencedetergent.top/*
+*://*.defenceprodindia.site/*
 *://*.defenceretrieve.top/*
 *://*.defend-coinbase.com/*
 *://*.defendantclearing.top/*
@@ -145503,6 +145507,7 @@
 *://*.guvenlice-islem-yap.com/*
 *://*.guvenlice-odemeni-yap.com/*
 *://*.guvenliden.com/*
+*://*.guvenlidenetim.org/*
 *://*.guvenlidenizbnk.cf/*
 *://*.guvenlidogrulama.com/*
 *://*.guvenlidolap.com/*
@@ -198199,6 +198204,7 @@
 *://*.kmpnyaabsvrrrprmsynnn.art/*
 *://*.kmpnyaabsvrrrprmsynnn.info/*
 *://*.kmpnyaabsvrrrprmsynnn.pro/*
+*://*.kmpnyaabsvru.pro/*
 *://*.kmpnyaacllkprrmsyn.art/*
 *://*.kmpnyaacllkprrmsyn.xyz/*
 *://*.kmpnyaaemekkliiprmsnyn.info/*
@@ -222314,6 +222320,7 @@
 *://*.mutluolurduk.com/*
 *://*.mutlupatiler.xyz/*
 *://*.mutlupersembe.com/*
+*://*.mutlupetler.com.tr/*
 *://*.mutluramazangunleri.com/*
 *://*.mutluramazanlar.com/*
 *://*.mutluramazanlarda.com/*
@@ -326074,6 +326081,7 @@
 *://*.webbbbt.com/*
 *://*.webbelbiss.com/*
 *://*.webbelbiss.net/*
+*://*.webbelbiss.org/*
 *://*.webbelbiss.xyz/*
 *://*.webberguitars.com/*
 *://*.webbildiri-icra.online/*
