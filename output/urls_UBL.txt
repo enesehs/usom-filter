@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-11 14:39:44 UTC
-! Total: 353381 rules
+! Last modified: 2026-03-11 15:35:30 UTC
+! Total: 353382 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -160834,6 +160834,7 @@
 *://*.hizli-firsat.online/*
 *://*.hizli-form.online/*
 *://*.hizli-gecis-ihlali.shop/*
+*://*.hizli-gecis-ist.shop/*
 *://*.hizli-gecis-sistemi.info/*
 *://*.hizli-gecisim.cf/*
 *://*.hizli-gectik-yakala-zamanin-iyisini-yetistirin.com/*
