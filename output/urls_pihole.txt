@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-11 05:05:31 UTC
-# Toplam: 443170 Domain
+# Son Güncelleme: 2026-03-11 06:35:59 UTC
+# Toplam: 443176 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -47005,6 +47005,7 @@ apk88988.com
 apkbank.cf
 apkcruncyeksverip.hopto.org
 apkdunya.xyz
+apkevents.com
 apkglobe.net
 apkgmna.click
 apkh.info
@@ -107607,7 +107608,9 @@ csdcvewdayuzbir.hopto.org
 csdfb-svssg-hfghj-gss.cyou
 csdfb-svssg-hfghj-gss.icu
 csdfcfklcklasklcdlacas.sbs
+csdfcklsdcaskdla.cfd
 csdfcklsdcaskdla.sbs
+csdfklscklakldcaklssa.cfd
 csdsadvvt-svvttt.com
 csdveirfsconfrim.com
 csec-03citizenverif.hopto.org
@@ -223649,6 +223652,7 @@ istanbulllxsca.net
 istanbulllyuklex.net
 istanbullmanzaram.net
 istanbullnetkentin.net
+istanbullojistik.shop
 istanbullokko.com
 istanbullolunn.com
 istanbullsbakiyeler.com
@@ -241743,6 +241747,7 @@ kgm-trgov.sbs
 kgm-trm.cfd
 kgm-vvc.top
 kgm-yukle.com
+kgm-yukle.org
 kgm-yuklee.com
 kgm-yuklee.org
 kgm.byyjej.help
@@ -265040,6 +265045,7 @@ mer1996.com
 mer1998.cc
 mer1998.com
 mer1cy.click
+mera-kiraz.cfd
 mera1o1.net
 meraf-c128a.appspot.com
 merahaeteruskntl.ddns.net
@@ -359656,6 +359662,7 @@ ssskklrmstmrskmcczzflrs.com
 sssklrkmflrskmcsztmrss.com
 sssklrmflrsstmrsskmcflrsss.com
 sssklrmsflrstmrsskmczz.xyz
+ssslcdsklflskdflksckflds.cfd
 ssslfeitopravc.ddns.net
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
 ssslrmstmrsklmrczflrss.store
@@ -360848,7 +360855,6 @@ stflisosdu.duckdns.org
 stforall.us
 stgt.com.cn
 stguvende.online
-sth.tr
 sthebeachforever.xyz
 stibialism.com
 stibiate.com
