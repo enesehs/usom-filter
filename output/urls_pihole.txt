@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-11 08:25:47 UTC
-# Toplam: 443220 Domain
+# Son Güncelleme: 2026-03-11 09:30:52 UTC
+# Toplam: 443221 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -164507,6 +164507,7 @@ fuckyounigger.ddns.net
 fuckzachebt.meowmeowmeowmeowmeow.meow.indiahackgod.su
 fuclorland.digital
 fucqw.com
+fud2026.com
 fudaco.biz
 fudcheck-ace.rf.gd
 fudcitydelivers.com
