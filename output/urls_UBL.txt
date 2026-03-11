@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-11 10:26:43 UTC
-! Total: 353366 rules
+! Last modified: 2026-03-11 12:30:23 UTC
+! Total: 353371 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -44849,6 +44849,7 @@
 *://*.bayconstructio23.store/*
 *://*.bayderkaysenonl.online/*
 *://*.baydi.xyz/*
+*://*.baydoner.org/*
 *://*.bayenat.pk/*
 *://*.bayernbadabum.com/*
 *://*.bayfinans.info/*
@@ -192842,6 +192843,7 @@
 *://*.karenaloursan.sbs/*
 *://*.karenandkarren.com/*
 *://*.karenlergeldi.cfd/*
+*://*.karenpara.click/*
 *://*.karenweingard.com/*
 *://*.karetnasa.com/*
 *://*.karetnasa.online/*
@@ -211180,6 +211182,7 @@
 *://*.masakdava.net/*
 *://*.masakdavamtr.org/*
 *://*.masakdenetim.com/*
+*://*.masakdenetim.org/*
 *://*.masakdosya.net/*
 *://*.masakdosyagovtr.org/*
 *://*.masakdosyasorgu.com/*
@@ -237559,6 +237562,7 @@
 *://*.organizesorgu.xyz/*
 *://*.organizewater.top/*
 *://*.organmelody.top/*
+*://*.organnnzebaba.net/*
 *://*.organsurveillance.top/*
 *://*.orgazatonwresting.top/*
 *://*.orgeneral.sbs/*
@@ -245693,6 +245697,7 @@
 *://*.paypaypay.org/*
 *://*.payplticket5170494.info/*
 *://*.payppall-confrimation-account-limit.com/*
+*://*.payqislemmerkezi.com/*
 *://*.payrolappaeent.top/*
 *://*.payrrool.com/*
 *://*.pays-u.cfd/*
