@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-11 06:35:59 UTC
-! Total: 353316 rules
+! Last modified: 2026-03-11 07:35:17 UTC
+! Total: 353353 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -71020,6 +71020,7 @@
 *://*.carmodzone.click/*
 *://*.carnegiemonster.app/*
 *://*.carneliantc.com/*
+*://*.carnelis.icu/*
 *://*.carnesmemdesa.com/*
 *://*.carniceriamartinezadria.com/*
 *://*.carnivalaa32.xyz/*
@@ -92222,6 +92223,7 @@
 *://*.desqfrsasdwqer.click/*
 *://*.desrtiyupasi.one/*
 *://*.dessardlorsegm.net/*
+*://*.desscarf.com/*
 *://*.dessertarbitration.top/*
 *://*.dessertcatastrophic.top/*
 *://*.dessertcradle.top/*
@@ -112533,6 +112535,7 @@
 *://*.ekolaysigorta.org/*
 *://*.ekolojiosmanli.space/*
 *://*.ekomekosedoo.site/*
+*://*.ekonnomibakis.com/*
 *://*.ekonnomibilginet.com/*
 *://*.ekonomi-analist.pro/*
 *://*.ekonomi-analizi.info/*
@@ -113488,6 +113491,7 @@
 *://*.elxmklroaldemela.net/*
 *://*.elyassavage325.xyz/*
 *://*.elygiveaway.com/*
+*://*.elynvora.com/*
 *://*.elysees-hotel.com/*
 *://*.elysianecho.org/*
 *://*.elyvoraq.com/*
@@ -120143,6 +120147,7 @@
 *://*.eventglobal-service.com/*
 *://*.eventgrape.loan/*
 *://*.eventhowand.com/*
+*://*.eventifyan.com/*
 *://*.eventim-kampanya-takip.net/*
 *://*.eventim-kampanya-takipleri.net/*
 *://*.eventimkampanya.net/*
@@ -121473,6 +121478,7 @@
 *://*.exploreafricatourssafaris.com/*
 *://*.exploreambiguous.top/*
 *://*.explorebieology.run/*
+*://*.exploreguide.cyou/*
 *://*.exploremanoeuvre.cn/*
 *://*.explorenewworlds.online/*
 *://*.exploreth.shop/*
@@ -122693,6 +122699,7 @@
 *://*.factorysmoke.site/*
 *://*.factoryyearning.top/*
 *://*.factovaler.pro/*
+*://*.factrally.com/*
 *://*.factsofmind.com/*
 *://*.factualeradication.top/*
 *://*.factualstatic.top/*
@@ -125498,6 +125505,7 @@
 *://*.finansarena.world/*
 *://*.finansatlas.info/*
 *://*.finansbahar.com/*
+*://*.finansbakis.online/*
 *://*.finansbakisi.com/*
 *://*.finansbakyeniyil.tk/*
 *://*.finansbank---mobilsuben.com/*
@@ -142300,6 +142308,7 @@
 *://*.greentechify.digital/*
 *://*.greentek2.com/*
 *://*.greenvideo.nl/*
+*://*.greenvista.sbs/*
 *://*.greenvoyant.com/*
 *://*.greenwayturkey.com/*
 *://*.greenweb.co.il/*
@@ -154096,7 +154105,9 @@
 *://*.headgearmgir.pw/*
 *://*.headingace.top/*
 *://*.headinginauguration.top/*
+*://*.headlinebay.online/*
 *://*.headlinegenerator.app/*
+*://*.headlineobserver.com/*
 *://*.headlineurine.top/*
 *://*.headlineza.online/*
 *://*.headmasterillicit.top/*
@@ -199661,6 +199672,7 @@
 *://*.koronabagis.net/*
 *://*.koronabilgilendirme.com/*
 *://*.korpla.co.kr/*
+*://*.korqx.shop/*
 *://*.korromorkkoxe.work/*
 *://*.kort.click/*
 *://*.kortaksodeme.net/*
@@ -199787,6 +199799,7 @@
 *://*.kotb.top/*
 *://*.kotform.online/*
 *://*.kotgo.cc/*
+*://*.kotiri.store/*
 *://*.kotl.space/*
 *://*.kotlinn.xyz/*
 *://*.koton-sale.top/*
@@ -204540,6 +204553,7 @@
 *://*.lexisnexis.pro/*
 *://*.lexisnexis.top/*
 *://*.lexivo.qpon/*
+*://*.lexly.click/*
 *://*.lexorad.com/*
 *://*.lexorica.com/*
 *://*.lexpeyze.info/*
@@ -206232,6 +206246,7 @@
 *://*.lockdown-coinbase.com/*
 *://*.locked-appleid.info/*
 *://*.lockerfabricate.top/*
+*://*.lockertrail.com/*
 *://*.lockettrail.xyz/*
 *://*.lockheedmartinjobs.us/*
 *://*.lockitmaster.xyz/*
@@ -206974,6 +206989,7 @@
 *://*.lqsixectptph.info/*
 *://*.lqtsetcofsxagao.su/*
 *://*.lqurlboxyo.info/*
+*://*.lqxar.bond/*
 *://*.lralapa.com/*
 *://*.lrandxvuodemelerinizkolaycayxkleyin.net/*
 *://*.lrbmngywrsvbifuctcfegetsrksk.com/*
@@ -214273,6 +214289,7 @@
 *://*.mexipa.online/*
 *://*.mexstat128.com/*
 *://*.mexupro.top/*
+*://*.mexuq.qpon/*
 *://*.mexwrdvcyvbi.xyz/*
 *://*.meyatemai.com/*
 *://*.meycoun.com/*
@@ -225660,6 +225677,7 @@
 *://*.newscome.online/*
 *://*.newscommercde.com/*
 *://*.newscorp-okta.com/*
+*://*.newscovia.com/*
 *://*.newscurrent.info/*
 *://*.newsdargoresolarde.com/*
 *://*.newsdaysmoneys.com/*
@@ -225717,6 +225735,8 @@
 *://*.newsofnp.com/*
 *://*.newsofthemoment.net/*
 *://*.newsokfdadwesd.net/*
+*://*.newsoriax.com/*
+*://*.newsorio.com/*
 *://*.newspaceque.com/*
 *://*.newspaperalternation.top/*
 *://*.newspapercomet.top/*
@@ -226693,6 +226713,7 @@
 *://*.niubab.com/*
 *://*.niupilao.vip/*
 *://*.niva-randevu.online/*
+*://*.nivax.shop/*
 *://*.nivehash.net/*
 *://*.nivellation.com/*
 *://*.nivendo.sbs/*
@@ -227782,6 +227803,7 @@
 *://*.nowheretread.top/*
 *://*.nowinfotech.online/*
 *://*.nowivests.com/*
+*://*.nowledger.online/*
 *://*.nowley-rus.ru/*
 *://*.nowmurmur.top/*
 *://*.nowosci-pl.cloud/*
@@ -240532,6 +240554,7 @@
 *://*.pallingchi4.xyz/*
 *://*.palloaltonetworks.com/*
 *://*.palm38.xyz/*
+*://*.palmangels.vu/*
 *://*.palmdeeshop.com/*
 *://*.palmedge.com/*
 *://*.palmfunplay.cn/*
@@ -246959,6 +246982,7 @@
 *://*.petrolistanbul.xyz/*
 *://*.petrolkar-tr.com/*
 *://*.petrolkar.com/*
+*://*.petrolkazanc.com/*
 *://*.petroll-ofisiii-2024.online/*
 *://*.petroll-tr.com/*
 *://*.petroll.site/*
@@ -256577,6 +256601,7 @@
 *://*.qaviloxen.com/*
 *://*.qavimelux.com/*
 *://*.qavimexo.shop/*
+*://*.qavux.shop/*
 *://*.qaynky.biz/*
 *://*.qazsporttv.com/*
 *://*.qazwsxedc.xyz/*
@@ -256723,6 +256748,7 @@
 *://*.qexiacase.fund/*
 *://*.qexiacase.pro/*
 *://*.qexiacheck.tech/*
+*://*.qexon.sbs/*
 *://*.qexyhul.com/*
 *://*.qexyriq.com/*
 *://*.qeyhsndhmaxgppb.cn/*
@@ -264215,6 +264241,7 @@
 *://*.roboarm.click/*
 *://*.robodaptica.com/*
 *://*.roboengine.click/*
+*://*.robonity.click/*
 *://*.robooottkmngff.wiki/*
 *://*.roborobonsnsnn.net/*
 *://*.robot-dyson.com.tr/*
@@ -265133,6 +265160,7 @@
 *://*.ruuolfsson.com/*
 *://*.ruvana.org/*
 *://*.ruvapy.com/*
+*://*.ruvix.qpon/*
 *://*.ruwixo.info/*
 *://*.ruwufsahn.com/*
 *://*.ruya-gibi-nisan.com.tr/*
@@ -274385,6 +274413,7 @@
 *://*.sevdaliyizingrntiyeburada.com/*
 *://*.sevdamardahan.xyz/*
 *://*.sevdamizbirgarantide.com/*
+*://*.sevdanolmasa.com/*
 *://*.sevdayadahilmi.click/*
 *://*.sevde-gel-planlari-yaparak-gidelim.com/*
 *://*.sevdigi-sonsuz-hayelleri-ugradiktan-sonra.com/*
@@ -281010,6 +281039,7 @@
 *://*.smartscape.eu/*
 *://*.smartscreen-api.com/*
 *://*.smartsellers.shop/*
+*://*.smartsetsafety.com/*
 *://*.smartstand.org/*
 *://*.smartsystems.fun/*
 *://*.smarttech-turk.com/*
@@ -290138,6 +290168,7 @@
 *://*.sundanders.online/*
 *://*.sundanesian.com/*
 *://*.sundariq.pro/*
+*://*.sundarivoq.store/*
 *://*.sunday0813.com/*
 *://*.sundaysneak.top/*
 *://*.sundby.com/*
@@ -301531,6 +301562,7 @@
 *://*.toplumsaldestek.com/*
 *://*.toplumsaliyilik.com/*
 *://*.toplumuz.org/*
+*://*.toplumvizyon.top/*
 *://*.topluproje.site/*
 *://*.toplusorguislemi.com/*
 *://*.toplutakipci.com/*
@@ -308635,6 +308667,7 @@
 *://*.tuncaykantarc.cfd/*
 *://*.tunedia.com/*
 *://*.tunehal.click/*
+*://*.tunehuban.com/*
 *://*.tunelounge.top/*
 *://*.tunemcell.com/*
 *://*.tunenov22.ml/*
@@ -321096,6 +321129,7 @@
 *://*.verianaliziveteknolojigezileri.xyz/*
 *://*.veriasmonetakodofwin.com/*
 *://*.vericationservicetwitter.com/*
+*://*.veridessa.com/*
 *://*.veridiansanctuary.com/*
 *://*.veridianvistashore.com/*
 *://*.veridiona.xyz/*
@@ -322690,6 +322724,7 @@
 *://*.vixmenor.com/*
 *://*.vixolita.sbs/*
 *://*.vixonar.com/*
+*://*.vixor.qpon/*
 *://*.viyau.cn/*
 *://*.viyhxb.cn/*
 *://*.vizacdth.com/*
@@ -328177,6 +328212,7 @@
 *://*.wildernessappraisal.top/*
 *://*.wildernesshydr8.com/*
 *://*.wildernessreminiscence.top/*
+*://*.wildframe.cfd/*
 *://*.wildhorizon.st/*
 *://*.wildpettykiwi.com/*
 *://*.wildpettykiwi.info/*
@@ -352363,6 +352399,7 @@
 *://*.zivert-tickets.ru/*
 *://*.zivert.am/*
 *://*.zivert.kg/*
+*://*.zivon.bond/*
 *://*.zivpyqdom.com/*
 *://*.zivvello.com/*
 *://*.zixdf.com/*

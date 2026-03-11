@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-11 06:35:59 UTC
-# Toplam: 443176 Domain
+# Son Güncelleme: 2026-03-11 07:35:17 UTC
+# Toplam: 443213 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -92443,6 +92443,7 @@ carmodzone.click
 carnagev1.blogspot.com
 carnegiemonster.app
 carneliantc.com
+carnelis.icu
 carnesmemdesa.com
 carniceriamartinezadria.com
 carnival.za.com
@@ -118737,6 +118738,7 @@ desqfrsasdwqer.click
 desquare27.duckdns.org
 desrtiyupasi.one
 dessardlorsegm.net
+desscarf.com
 dessddfff.duckdns.org
 dessertarbitration.top
 dessertcatastrophic.top
@@ -142309,6 +142311,7 @@ ekolayp-ttavm.com
 ekolaysigorta.org
 ekolojiosmanli.space
 ekomekosedoo.site
+ekonnomibakis.com
 ekonnomibilginet.com
 ekonomi-analist.pro
 ekonomi-analizi.info
@@ -143394,6 +143397,7 @@ elxcuvfkz.com
 elxmklroaldemela.net
 elyassavage325.xyz
 elyeso.ip-ddns.com
+elynvora.com
 elysagomez.hopto.org
 elysees-hotel.com
 elysianecho.org
@@ -151050,6 +151054,7 @@ eventglobal-service.com
 eventgratis-ff.hopto.org
 eventgratismobilelegend11.duckdns.org
 eventhowand.com
+eventifyan.com
 eventim-kampanya-takip.net
 eventim-kampanya-takipleri.net
 eventimkampanya.net
@@ -152648,6 +152653,7 @@ explore55.xyz
 exploreafricatourssafaris.com
 exploreambiguous.top
 explorebieology.run
+exploreguide.cyou
 exploremanoeuvre.cn
 explorenewworlds.online
 exploreth.shop
@@ -154348,6 +154354,7 @@ factorypetus.top
 factorysmoke.site
 factoryyearning.top
 factovaler.pro
+factrally.com
 factrure.duckdns.org
 factsofmind.com
 factualeradication.top
@@ -157871,6 +157878,7 @@ finansanaliz.pro
 finansarena.world
 finansatlas.info
 finansbahar.com
+finansbakis.online
 finansbakisi.com
 finansbakyeniyil.tk
 finansbank---mobilsuben.com
@@ -178470,6 +178478,7 @@ greentechdaily.org
 greentechify.digital
 greentek2.com
 greenvideo.nl
+greenvista.sbs
 greenvoyant.com
 greenwayturkey.com
 greenwichconstructions.com
@@ -191823,7 +191832,9 @@ headgearmgir.pw
 headingace.top
 headinginauguration.top
 headislem.22web.org
+headlinebay.online
 headlinegenerator.app
+headlineobserver.com
 headlineurine.top
 headlineza.online
 headmasterillicit.top
@@ -246774,6 +246785,7 @@ koronabagis.net
 koronabilgilendirme.com
 korotohxm.hopto.org
 korpla.co.kr
+korqx.shop
 korromorkkoxe.work
 kort.click
 kortaksodeme.net
@@ -246911,6 +246923,7 @@ kotasiz-evinterneti-abonelikleri.click
 kotasizevinterneti-abonelikmerkezi.site
 kotb.top
 kotform.online
+kotiri.store
 kotl.space
 kotlinn.xyz
 koton-sale.top
@@ -253034,6 +253047,7 @@ lexisnexis.one
 lexisnexis.pro
 lexisnexis.top
 lexivo.qpon
+lexly.click
 lexorad.com
 lexorica.com
 lexpeyze.info
@@ -255275,6 +255289,7 @@ lockdown-coinbase.com
 locked-account.ddns.net
 locked-appleid.info
 lockerfabricate.top
+lockertrail.com
 lockettrail.xyz
 lockforanyreason.hopto.org
 lockheedmartinjobs.us
@@ -256448,6 +256463,7 @@ lqueeaes.duckdns.org
 lqurlboxyo.info
 lqw5agzk77jopcio9qgxrrr.duckdns.org
 lqwipbbuve.duckdns.org
+lqxar.bond
 lqyrjowbug.duckdns.org
 lqzxn.spiteryo.ru
 lr5i01t.duckdns.org
@@ -266123,6 +266139,7 @@ mexipa.online
 mexkjdp.duckdns.org
 mexstat128.com
 mexupro.top
+mexuq.qpon
 mexwrdvcyvbi.xyz
 mexyyvtrml.duckdns.org
 meyatemai.com
@@ -280871,6 +280888,7 @@ newschools.info
 newscome.online
 newscommercde.com
 newscorp-okta.com
+newscovia.com
 newscurrent.info
 newsdargoresolarde.com
 newsdaysmoneys.com
@@ -280937,6 +280955,8 @@ newsofficial.info
 newsofthemoment.net
 newsokfdadwesd.net
 newsorgulars-dd61cad24a04.herokuapp.com
+newsoriax.com
+newsorio.com
 newspaceque.com
 newspaperalternation.top
 newspapercomet.top
@@ -282196,6 +282216,7 @@ niutsimi.ddns.net
 niuubhjsxa.duckdns.org
 niuydn.duckdns.org
 niva-randevu.online
+nivax.shop
 nivehash.net
 nivellation.com
 nivendo.sbs
@@ -283766,6 +283787,7 @@ nowheretread.top
 nowinfotech.online
 nowislem.22web.org
 nowivests.com
+nowledger.online
 nowley-rus.ru
 nowmurmur.top
 nowosci-pl.cloud
@@ -299500,6 +299522,7 @@ pallets-sales.com
 pallingchi4.xyz
 palloaltonetworks.com
 palm38.xyz
+palmangels.vu
 palmartket.vercel.app
 palmdeeshop.com
 palmedge.com
@@ -306922,6 +306945,7 @@ petrolish.com
 petrolistanbul.xyz
 petrolkar-tr.com
 petrolkar.com
+petrolkazanc.com
 petroll-ofisiii-2024.online
 petroll-tr.com
 petroll.site
@@ -318943,6 +318967,7 @@ qavd3dj.duckdns.org
 qaviloxen.com
 qavimelux.com
 qavimexo.shop
+qavux.shop
 qawfsdswqar.blogspot.com
 qawuqfbvvs.duckdns.org
 qaxz4wx.duckdns.org
@@ -319199,6 +319224,7 @@ qexiacase.fun
 qexiacase.fund
 qexiacase.pro
 qexiacheck.tech
+qexon.sbs
 qexwknfkfr.duckdns.org
 qexyhul.com
 qexyriq.com
@@ -329294,6 +329320,7 @@ robo51.info
 roboarm.click
 robodaptica.com
 roboengine.click
+robonity.click
 robooottkmngff.wiki
 roborobonsnsnn.net
 roboscchi.duckdns.org
@@ -330602,6 +330629,7 @@ rutor.space
 ruuolfsson.com
 ruvana.org
 ruvapy.com
+ruvix.qpon
 ruwixo.info
 ruwufsahn.com
 ruya-gibi-nisan.com.tr
@@ -345027,6 +345055,7 @@ sevdalisindevamko.com
 sevdaliyizingrntiyeburada.com
 sevdamardahan.xyz
 sevdamizbirgarantide.com
+sevdanolmasa.com
 sevdayadahilmi.click
 sevde-gel-planlari-yaparak-gidelim.com
 sevdi4485.beget.tech
@@ -352615,6 +352644,7 @@ smartplace.monster
 smartsavocats.com
 smartscreen-api.com
 smartsellers.shop
+smartsetsafety.com
 smartslaves.hopto.org
 smartstand.org
 smartsystems.fun
@@ -363779,6 +363809,7 @@ sundamarketim.com
 sundanders.online
 sundanesian.com
 sundariq.pro
+sundarivoq.store
 sunday-smith-devon-appearance.trycloudflare.com
 sunday0813.com
 sundaysneak.top
@@ -377784,6 +377815,7 @@ toplumkararnamesi-cimer.com
 toplumsaldestek.com
 toplumsaliyilik.com
 toplumuz.org
+toplumvizyon.top
 topluproje.site
 toplusorguislemi.com
 toplutakipci.com
@@ -386040,6 +386072,7 @@ tunba.duckdns.org
 tuncaykantarc.cfd
 tunedia.com
 tunehal.click
+tunehuban.com
 tunelounge.top
 tunemcell.com
 tunenov22.ml
@@ -401310,6 +401343,7 @@ veriappleid.zapto.org
 veriasmonetakodofwin.com
 vericationservicetwitter.com
 verichasenow.ddns.net
+veridessa.com
 veridiancreditunion.ddns.net
 veridiansanctuary.com
 veridianvistashore.com
@@ -403467,6 +403501,7 @@ vixmars.com
 vixmenor.com
 vixolita.sbs
 vixonar.com
+vixor.qpon
 vixx4dwv.duckdns.org
 viyau.cn
 viyhxb.cn
@@ -411317,6 +411352,7 @@ wildcnc.hopto.org
 wilderment.top
 wildernessappraisal.top
 wildernessreminiscence.top
+wildframe.cfd
 wildpettykiwi.com
 wildpettykiwi.info
 wildpettykiwi.xyz
@@ -441672,6 +441708,7 @@ zivah.zapto.org
 zivert-tickets.ru
 zivert.am
 zivert.kg
+zivon.bond
 zivpyqdom.com
 zivvello.com
 ziwaw0.duckdns.org
