@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 07:38:01 UTC
-# Toplam: 443294 Domain
+# Son Güncelleme: 2026-03-12 08:28:00 UTC
+# Toplam: 443299 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -226666,6 +226666,7 @@ izakfss.blogspot.com
 izalappss.dns.navy
 izalgfwqq.dns.navy
 izalopopda.dns.navy
+izalpoppps.dns.navy
 izamaasahotsan.net
 izambysv.net
 izan.live
@@ -266092,6 +266093,7 @@ metro-internet.com
 metro-onlinaccess.com
 metro.pgqsg.icu
 metro.zfbmz.cyou
+metropol-ulasim.shop
 metropoliscapitalbank.us
 metropolitanpolytechnic.top
 metropolitantack.top
@@ -389619,6 +389621,7 @@ tuvturkmuaynelerburda.web.app
 tuvturkmuaynerandevu.shop
 tuvturkmuaynerandvuhzmt.web.app
 tuvturkmuaynesi.com
+tuvturkmuhendislikleri.digital
 tuvturkmukemmellikleri.digital
 tuvturkmuyanealmaprn.web.app
 tuvturkmuyanehzmetarac.net
@@ -427094,6 +427097,7 @@ xxx.retweet.shop
 xxx1.dezhen.icu
 xxx12.ddns.net
 xxx12323.zapto.org
+xxx3cx31s.duckdns.org
 xxx4442.duckdns.org
 xxx99.zapto.org
 xxxanonymous147.duckdns.org
@@ -436187,6 +436191,7 @@ yonlendrmespnsrrrr.xyz
 yonlendrmevesrgusevisi.store
 yonlendrmiletisimanlksorgu.site
 yonlendunrutd.duckdns.org
+yonlenduronu.duckdns.org
 yonlendurur.webredirect.org
 yonlener.webredirect.org
 yonlenin-bize.com
