@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 19:33:06 UTC
-# Toplam: 443375 Domain
+# Son Güncelleme: 2026-03-12 20:23:02 UTC
+# Toplam: 443382 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15622,6 +15622,7 @@
 55098hustlenow.hopto.org
 5510010101555.duckdns.org
 551165144.com
+551214124231231232.duckdns.org
 551769com.com
 551787.xyz
 551e953d84d4.com
@@ -22596,6 +22597,7 @@ a-101-marketindirim.com
 a-101-mobil-bugune-ozel-indirim-tr.online-alisveris-sepeti.com
 a-101-mrketler-snal.sbs
 a-101-ocakozel.me
+a-101-olnline.cyou
 a-101-oniline-mrket.sbs
 a-101-onlilne-flrsatiar.sbs
 a-101-online-ozel.website
@@ -41264,6 +41266,7 @@ aldin-aldin-market-shop-pazari-tr.online
 aldin-aldin-market.com.tr
 aldin-aldin-market.online
 aldin-aldin-marketi-bugune-ozel-tr.online
+aldin-aldin-mart.net
 aldin-aldin-mayis.com.tr
 aldin-aldin-mayis.online
 aldin-aldin-ocak.com.tr
@@ -91557,6 +91560,7 @@ canibalsec.online
 canilenuricraat.online
 canileyap.shop
 canileyukleme.shop
+canim-ben-canim-sikilirsa-gencligimi-yakarim.com
 canim.sbs
 canim64534232.com
 canimbenim.xyz
@@ -170415,6 +170419,7 @@ gecccshgssserv.tk
 geccsmmhgssserv.tk
 gece-frsatlarda-brdayz.shop
 gece-gunduz-demeden-mutluluk.com
+gece-mavisi.cfd
 gece-panel-hizmetleri.com
 gece.101bayramaksam.com
 gece.101marketpazartesi.com
@@ -383197,6 +383202,7 @@ trguvenli-ilan.com
 trguvenlialisveris.sa.com
 trguvenliodeme.sa.com
 trguvenlionline.sa.com
+trguvenlirnobilislemleriapp.space
 trgvnli.com.tr
 trgvu.top
 trhaber.dev
@@ -436155,6 +436161,7 @@ yonld-hzs-bni.store
 yonlen-buradan-anlik.sbs
 yonlen.click
 yonlenci.webredirect.org
+yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
