@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 09:30:59 UTC
-# Toplam: 443303 Domain
+# Son Güncelleme: 2026-03-12 10:26:42 UTC
+# Toplam: 443329 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -54448,6 +54448,7 @@ avoidortray.top
 avoilekirala.com
 avokiralama.store
 avondalemclarenparts.com
+avonelis.asia
 avonkatilim.space
 avorcpd.top
 avordic.site
@@ -92885,6 +92886,7 @@ cartegoogleplau.ddns.net
 carteiradigital.ddns.net
 cartermayorhour.com
 cartevitale-secure.ddns.net
+cartifyat.com
 cartloop.top
 cartografia.zapto.org
 cartolabrasil.com
@@ -105845,6 +105847,7 @@ cozumler-guvenlik-binance.net
 cozumlergiderfinans.site
 cozy-sofware.com
 cozyappt.club
+cozybox.gifts
 cozycoforts.store
 cozydwarf.top
 cozyhowl.top
@@ -112043,6 +112046,7 @@ decode.ddns.net
 decoder.re
 decoderskullphilco.tevisyloki.workers.dev
 decoding.at
+decohuban.com
 decomn.itcom.top
 decomobs.com
 decompression.cloudnestde.com.de
@@ -161360,6 +161364,7 @@ flashfruitful.top
 flashgen.ddns.net
 flashi.com.cn
 flashindirimlerxyz123.com
+flashinsightnow.com
 flashl1ght.top
 flashmaster.pw
 flashmnt.top
@@ -162261,6 +162266,7 @@ focusdate.com
 focused-lovelace.45-91-169-60.plesk.page
 focused4life.online
 focusedweek.site
+focusfjord.com
 focusforeyes.buzz
 focusframephoto.com
 focusfusion.eastus.cloudapp.azure.com
@@ -164906,6 +164912,7 @@ futurevisiontechnologies.site
 futureway24.online
 futurewaystart.online
 futurewayup.online
+futurewise.courses
 futurisehub.com
 futurist2.ddns.net
 futurist40.ddns.net
@@ -173418,6 +173425,7 @@ gifteddetriment.top
 giftedperch.top
 giftemali.click
 giftgallery.gifts
+giftgarden.gifts
 giftiosaqe.site
 giftloom.website
 giftmall.homes
@@ -231324,6 +231332,7 @@ joyfullday.shop
 joyfulpulsepro.com
 joyfulzenithlife.com
 joygolfla.com
+joyjournalhub.com
 joyjoy.hopto.org
 joylastik.com
 joyn.com.pk
@@ -232029,6 +232038,7 @@ justgonnatry.hopto.org
 justgoturwork.xyz
 justhealthbenefits.com
 justhvh1337.ddns.net
+justi.bond
 justibrahime.ddns.net
 justiceskeptical.top
 justiceua.org
@@ -243575,6 +243585,7 @@ kittenclient.top
 kittens95.xyz
 kittimasszazs.hu
 kittypanel.xyz
+kitund.icu
 kiu6.com
 kiucoqiunlog.webflow.io
 kiuveytturk.com
@@ -249358,6 +249369,7 @@ kureseicq2.com
 kureseicq3.com
 kureseicq4.com
 kureseicq5.com
+kurex.cyou
 kurgecisleriodemesiavih.xyz
 kurgizgcsdokamen.net
 kurgu-haber.club
@@ -253917,6 +253929,7 @@ linerannex.top
 linerclanse.top
 linerprestigious.top
 linesblogers.bar
+linesens.cyou
 lineway.space
 linewizeconnect.com
 linfennlinb.com
@@ -258693,6 +258706,7 @@ macflt.com
 macgains.duckdns.org
 machaltusproducts.com
 machavellii.workers.dev
+machi-zukuri-sikin.bond
 machiavellibackup.hopto.org
 machies.ddns.net
 machine-cheap.at.ply.gg
@@ -280937,6 +280951,7 @@ newsattacker.zapto.org
 newsbeast.gr.com
 newsbizshow.net
 newsbizupdates.net
+newsbridgehub.com
 newscastly.online
 newschools.info
 newscome.online
@@ -295030,6 +295045,7 @@ opaf5twxk23bqvu67n1l5ns.ddns.net
 opakmodeme.net
 opakvalican.com.tr
 opalescentbay.com
+opalglowqpon.qpon
 opalsteamgrove.site
 opalstream.top
 opaquepesticide.top
@@ -297775,6 +297791,7 @@ oyoylhgese.me
 oyoylhgese.tech
 oyoyolkaragmwbgc.duckdns.org
 oyoyolkaragmwbgcc.duckdns.org
+oypiomari.com
 oyqalk.org
 oysarerev.net
 oysfzml.com
@@ -308535,6 +308552,7 @@ platformtrirtibatg-webtrgiris.com
 platformtrirtibatkaynak-web.com
 platformtrweb-girtronline.com
 platformum.xyz
+platforn.com
 platforrma-turkish.website
 platinbayim.com
 platinbayim.org
@@ -319027,6 +319045,7 @@ qatrairwysbuyticket.net
 qatuat.ddns.net
 qatuk.org
 qavd3dj.duckdns.org
+qavil.shop
 qaviloxen.com
 qavimelux.com
 qavimexo.shop
@@ -325998,6 +326017,7 @@ rejectoption.top
 rejectreign.top
 rejectsuppress.top
 rejectturnover.top
+rejesogocs.store
 rejkcw01.duckdns.org
 rejoicetheatre.com
 rejoicingelicit.top
@@ -338220,6 +338240,7 @@ sanasorusormambile.sbs
 sanateksperi.pro
 sanatincografiavrupagezisi.xyz
 sanativeoasis.com
+sanativeqpon.qpon
 sanatvedogaltasarimlarincografyasi.xyz
 sanatveguncelprojelerplani.xyz
 sanatvesanatcihayatlari.xyz
@@ -374816,6 +374837,7 @@ tinydomain.xyz
 tinydomains.sbs
 tinylink.pro
 tinylinks.live
+tinytrail.click
 tinyulrs.com
 tinyurl.cloud
 tinyurl.co.il
@@ -399178,6 +399200,7 @@ valscadmindesk.ddns.net
 valsi2sels.site
 valsleww2.site
 valtcnetwork.com
+valthira.digital
 valuablecheck2024bnnance.life
 valuabledisplacement.top
 valuableritual.top
@@ -399841,6 +399864,7 @@ vavrava.xyz
 vawgxlsbcj.duckdns.org
 vawsfcafuc.duckdns.org
 vawzbd8.duckdns.org
+vaxil.shop
 vaxmucr7oqz.storage.googleapis.com
 vayanambabamz1.duckdns.org
 vaybabamvay.duckdns.org
@@ -421272,6 +421296,7 @@ xelunora.shop
 xeluravon.com
 xeluvorin.com
 xelvadorgas.xyz
+xelvanil.asia
 xelvira.space
 xelvono.sbs
 xelvoren.asia
@@ -436248,6 +436273,7 @@ yorkertvist.xyz
 yorkndb.com
 yorkrmyczv.duckdns.org
 yorkscene.com
+yorlenix.asia
 yormatkap303.xyz
 yoroboshi.77-83-201-133.plesk.page
 yorten.b-cdn.net

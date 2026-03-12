@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-12 09:30:59 UTC
-! Total: 353418 rules
+! Last modified: 2026-03-12 10:26:42 UTC
+! Total: 353444 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -38221,6 +38221,7 @@
 *://*.avoilekirala.com/*
 *://*.avokiralama.store/*
 *://*.avondalemclarenparts.com/*
+*://*.avonelis.asia/*
 *://*.avonkatilim.space/*
 *://*.avorcpd.top/*
 *://*.avordic.site/*
@@ -71413,6 +71414,7 @@
 *://*.cartcollective.art/*
 *://*.cartdisplacement.top/*
 *://*.cartermayorhour.com/*
+*://*.cartifyat.com/*
 *://*.cartloop.top/*
 *://*.cartolabrasil.com/*
 *://*.cartonmaoeuvre.top/*
@@ -82074,6 +82076,7 @@
 *://*.cozumlergiderfinans.site/*
 *://*.cozy-sofware.com/*
 *://*.cozyappt.club/*
+*://*.cozybox.gifts/*
 *://*.cozybp.com/*
 *://*.cozycoforts.store/*
 *://*.cozydwarf.top/*
@@ -86208,6 +86211,7 @@
 *://*.declineperpetuate.top/*
 *://*.decoder.re/*
 *://*.decoding.at/*
+*://*.decohuban.com/*
 *://*.decomobs.com/*
 *://*.deconfer.top/*
 *://*.decorandoimoveis.com/*
@@ -128620,6 +128624,7 @@
 *://*.flashfruitful.top/*
 *://*.flashi.com.cn/*
 *://*.flashindirimlerxyz123.com/*
+*://*.flashinsightnow.com/*
 *://*.flashl1ght.top/*
 *://*.flashmaster.pw/*
 *://*.flashmnt.top/*
@@ -129355,6 +129360,7 @@
 *://*.focusdate.com/*
 *://*.focused4life.online/*
 *://*.focusedweek.site/*
+*://*.focusfjord.com/*
 *://*.focusforeyes.buzz/*
 *://*.focusframephoto.com/*
 *://*.focusmingle.com/*
@@ -131401,6 +131407,7 @@
 *://*.futureway24.online/*
 *://*.futurewaystart.online/*
 *://*.futurewayup.online/*
+*://*.futurewise.courses/*
 *://*.futurisehub.com/*
 *://*.futuristicdesignsolutions.online/*
 *://*.futurixclear.com/*
@@ -138161,6 +138168,7 @@
 *://*.giftedperch.top/*
 *://*.giftemali.click/*
 *://*.giftgallery.gifts/*
+*://*.giftgarden.gifts/*
 *://*.giftiosaqe.site/*
 *://*.giftloom.website/*
 *://*.giftmall.homes/*
@@ -187092,6 +187100,7 @@
 *://*.joyfulpulsepro.com/*
 *://*.joyfulzenithlife.com/*
 *://*.joygolfla.com/*
+*://*.joyjournalhub.com/*
 *://*.joylastik.com/*
 *://*.joyn.com.pk/*
 *://*.joynectar.asia/*
@@ -187585,6 +187594,7 @@
 *://*.justforyoumybab.com/*
 *://*.justgoturwork.xyz/*
 *://*.justhealthbenefits.com/*
+*://*.justi.bond/*
 *://*.justiceskeptical.top/*
 *://*.justiceua.org/*
 *://*.justificationdole.top/*
@@ -197298,6 +197308,7 @@
 *://*.kittimasszazs.hu/*
 *://*.kittyechopages.net/*
 *://*.kittypanel.xyz/*
+*://*.kitund.icu/*
 *://*.kiu6.com/*
 *://*.kiuveytturk.com/*
 *://*.kivac.store/*
@@ -201728,6 +201739,7 @@
 *://*.kureseicq3.com/*
 *://*.kureseicq4.com/*
 *://*.kureseicq5.com/*
+*://*.kurex.cyou/*
 *://*.kurgecisleriodemesiavih.xyz/*
 *://*.kurgizgcsdokamen.net/*
 *://*.kurgu-haber.club/*
@@ -205188,6 +205200,7 @@
 *://*.linerclanse.top/*
 *://*.linerprestigious.top/*
 *://*.linesblogers.bar/*
+*://*.linesens.cyou/*
 *://*.linetax.date/*
 *://*.lineway.space/*
 *://*.linewizeconnect.com/*
@@ -208586,6 +208599,7 @@
 *://*.macflt.com/*
 *://*.machaltusproducts.com/*
 *://*.machangikanalda.org/*
+*://*.machi-zukuri-sikin.bond/*
 *://*.machineaccountquota.com/*
 *://*.machineconfiguration.top/*
 *://*.machineconsecutive.top/*
@@ -225712,6 +225726,7 @@
 *://*.newsaboutphones.com/*
 *://*.newsbizshow.net/*
 *://*.newsbizupdates.net/*
+*://*.newsbridgehub.com/*
 *://*.newscastly.online/*
 *://*.newschools.info/*
 *://*.newscome.online/*
@@ -236992,6 +237007,7 @@
 *://*.opakmodeme.net/*
 *://*.opakvalican.com.tr/*
 *://*.opalescentbay.com/*
+*://*.opalglowqpon.qpon/*
 *://*.opalsteamgrove.site/*
 *://*.opalstream.top/*
 *://*.opaquepesticide.top/*
@@ -239194,6 +239210,7 @@
 *://*.oyoteseekinmatehurdle.click/*
 *://*.oyoylhgese.me/*
 *://*.oyoylhgese.tech/*
+*://*.oypiomari.com/*
 *://*.oyqalk.org/*
 *://*.oysarerev.net/*
 *://*.oysfzml.com/*
@@ -248251,6 +248268,7 @@
 *://*.platformtrirtibatkaynak-web.com/*
 *://*.platformtrweb-girtronline.com/*
 *://*.platformum.xyz/*
+*://*.platforn.com/*
 *://*.platforrma-turkish.website/*
 *://*.platinbayim.com/*
 *://*.platinbayim.org/*
@@ -256645,6 +256663,7 @@
 *://*.qatqu.ru/*
 *://*.qatrairwysbuyticket.net/*
 *://*.qatuk.org/*
+*://*.qavil.shop/*
 *://*.qaviloxen.com/*
 *://*.qavimelux.com/*
 *://*.qavimexo.shop/*
@@ -261614,6 +261633,7 @@
 *://*.rejectreign.top/*
 *://*.rejectsuppress.top/*
 *://*.rejectturnover.top/*
+*://*.rejesogocs.store/*
 *://*.rejoicetheatre.com/*
 *://*.rejoicingelicit.top/*
 *://*.rejoicingfeast.top/*
@@ -269576,6 +269596,7 @@
 *://*.sanateksperi.pro/*
 *://*.sanatincografiavrupagezisi.xyz/*
 *://*.sanativeoasis.com/*
+*://*.sanativeqpon.qpon/*
 *://*.sanatvedogaltasarimlarincografyasi.xyz/*
 *://*.sanatveguncelprojelerplani.xyz/*
 *://*.sanatvesanatcihayatlari.xyz/*
@@ -299294,6 +299315,7 @@
 *://*.tinydomains.sbs/*
 *://*.tinylink.pro/*
 *://*.tinylinks.live/*
+*://*.tinytrail.click/*
 *://*.tinyulrs.com/*
 *://*.tinyurl.cloud/*
 *://*.tinyurl.co.il/*
@@ -319310,6 +319332,7 @@
 *://*.valsi2sels.site/*
 *://*.valsleww2.site/*
 *://*.valtcnetwork.com/*
+*://*.valthira.digital/*
 *://*.valuablecheck2024bnnance.life/*
 *://*.valuabledisplacement.top/*
 *://*.valuableritual.top/*
@@ -319873,6 +319896,7 @@
 *://*.vavkeldopeldoedle1dvbabkeloepldedoqawe12ddcocldoea.com/*
 *://*.vavrava.net/*
 *://*.vavrava.xyz/*
+*://*.vaxil.shop/*
 *://*.vaybeknk231.xyz/*
 *://*.vaybeknks33.xyz/*
 *://*.vaybesporir.xyz/*
@@ -335461,6 +335485,7 @@
 *://*.xeluravon.com/*
 *://*.xeluvorin.com/*
 *://*.xelvadorgas.xyz/*
+*://*.xelvanil.asia/*
 *://*.xelvira.space/*
 *://*.xelvono.sbs/*
 *://*.xelvoren.asia/*
@@ -348307,6 +348332,7 @@
 *://*.yorkertvist.xyz/*
 *://*.yorkndb.com/*
 *://*.yorkscene.com/*
+*://*.yorlenix.asia/*
 *://*.yormatkap303.xyz/*
 *://*.yoroboshi.com/*
 *://*.yoru.me/*
