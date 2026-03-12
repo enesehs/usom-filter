@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-12 20:23:02 UTC
-! Total: 353486 rules
+! Last modified: 2026-03-12 21:23:06 UTC
+! Total: 353491 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -113783,6 +113783,7 @@
 *://*.emekllmuracatlari.com/*
 *://*.emekllyeytadresb.com.tr/*
 *://*.emeknetwork.com/*
+*://*.emektarifleri.shop/*
 *://*.emektarrrr.net/*
 *://*.emekvakfi.com/*
 *://*.emekverenler.com/*
@@ -141959,6 +141960,8 @@
 *://*.granntttttstststtntttttarabbab.com/*
 *://*.grannyejh.lat/*
 *://*.granshine.com/*
+*://*.grant-online.click/*
+*://*.grant-online.lat/*
 *://*.grant154prom0syons.com/*
 *://*.grant374.xyz/*
 *://*.grantayashd.com/*
@@ -144006,6 +144009,7 @@
 *://*.guncelramazankampanyalari.net/*
 *://*.guncelsayfa-basvurulari.org/*
 *://*.guncelsayfatrnbngiris.online/*
+*://*.guncelsikayet-22.sbs/*
 *://*.guncelsikayet-26.sbs/*
 *://*.guncelsikayet-36.sbs/*
 *://*.guncelsikayet-37.sbs/*
@@ -194624,6 +194628,7 @@
 *://*.kazan-kampanyam.net/*
 *://*.kazan-kazan.cfd/*
 *://*.kazan-prb.ml/*
+*://*.kazan.cam/*
 *://*.kazan.world/*
 *://*.kazanalimsecimi.net/*
 *://*.kazanan-bilir-bizler-iyi-goruruz-hep.com/*

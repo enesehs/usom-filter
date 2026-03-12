@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 20:23:02 UTC
-# Toplam: 443382 Domain
+# Son Güncelleme: 2026-03-12 21:23:06 UTC
+# Toplam: 443387 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -143748,6 +143748,7 @@ emekllmuracatin.com
 emekllmuracatlari.com
 emekllyeytadresb.com.tr
 emeknetwork.com
+emektarifleri.shop
 emektarrrr.net
 emekvakfi.com
 emekverenler.com
@@ -178026,6 +178027,8 @@ granntttttstststtntttttarabbab.com
 grannyclassone.ddns.net
 grannyejh.lat
 granshine.com
+grant-online.click
+grant-online.lat
 grant154prom0syons.com
 grant374.xyz
 grantassass.satisim-107.site
@@ -180518,6 +180521,7 @@ guncelsikaayetler.sa.com
 guncelsikayeetleer.sa.com
 guncelsikayeetler-e.sa.com
 guncelsikayeetler.sa.com
+guncelsikayet-22.sbs
 guncelsikayet-26.sbs
 guncelsikayet-36.sbs
 guncelsikayet-37.sbs
@@ -221523,6 +221527,7 @@ iscep.cf
 iscep.co.in
 iscep.finance
 iscep.firsatbildirimileri.online
+iscep.kazan.cam
 iscep.netsube.com
 iscep.online
 iscep.site
