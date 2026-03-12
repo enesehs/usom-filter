@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 12:29:12 UTC
-# Toplam: 443347 Domain
+# Son Güncelleme: 2026-03-12 13:53:55 UTC
+# Toplam: 443358 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15160,6 +15160,7 @@
 50g.vf32.xyz
 50gb-kampanyasi-turkcell.com
 50gb-kampanyasi-turkcell.net
+50gbkazan.online
 50gf8dbxj.duckdns.org
 50gfs63i.duckdns.org
 50ggguku.duckdns.org
@@ -15199,6 +15200,7 @@
 512-2412-4-5-6-7-8-1.pro
 512078022.dfgqdsd.ru
 512118001192.loseyourip.com
+512118001192.webredirect.org
 51211830001192.webredirect.org
 51221kafklasf.xyz
 5123193323632.net
@@ -55370,6 +55372,7 @@ ayrilalim.click
 ayrisdawjrkskffksadjsbnk.cfd
 ayrisdawjrkskffksadjsbnk.cyou
 ayrisdawjrkskffksadjsbnk.icu
+ayrldkttlmylunbkrsnpki.mooo.com
 aysamturizm.com.tr
 ayscmbv.sa.com
 aysegulaskm.pro
@@ -62682,6 +62685,7 @@ baykaras.xyz
 baykarat.site
 baykarav.online
 baykarc.eu
+baykarcapital.com
 baykarcapitalgroup.space
 baykarcloud.com
 baykard.trbaykl.com
@@ -62762,6 +62766,7 @@ baykaryardim.com
 baykaryatirim-programi.site
 baykaryatirim.online
 baykaryatirimci.com
+baykaryatirimco.com
 baykaryatirimfon.com
 baykaryatrm.com
 baykatr.digital
@@ -79724,10 +79729,12 @@ bmcxxellkncxxturnoktasi.tk
 bmcxxellknturhzmetim.tk
 bmcyep.com
 bmcyerim.net
+bmd-grup.com
 bmdekasodayz.net
 bmdenizlbank.com
 bmdesgol.blogspot.com
 bmdislem.com
+bmdkayit.com
 bmdlrkjznxmx.net
 bmdlrkmznx.net
 bmdncxklxm.net
@@ -118749,6 +118756,7 @@ desktops-download-app.com
 desktops-download-pc.com
 desktops-downloads-app.com
 desktops-pc-download.com
+deskvakfi.org
 desmalazooor.cyou
 desmkedltd.online
 desnnprcedntd.top
@@ -295910,6 +295918,7 @@ orjinalshop.xyz
 orkeasansor.com
 orkelowtqcnsmbwd.com
 orkidem.live
+orkidesat.com
 orlandorojast85.duckdns.org
 orlandoscreenenclosure.net
 orlandroot.com
@@ -370896,6 +370905,7 @@ teknodanhaftasonuindirimi.net
 teknodigi.digital
 teknoegitim.online
 teknoevlilk.pw
+teknofest-otomasyon.com
 teknohaber.club
 teknohaftasonufirsatlari.net
 teknohayatas.club
@@ -389205,6 +389215,7 @@ tursabwebonay.org
 tursap.org
 tursap.site
 turshopnowonlineee.online
+tursil-cepte.click
 tursil-martta.sbs
 tursiteptts.help
 tursktelekomtlyukleme.net
