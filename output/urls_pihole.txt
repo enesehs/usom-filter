@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 16:45:10 UTC
-# Toplam: 443367 Domain
+# Son Güncelleme: 2026-03-12 17:39:34 UTC
+# Toplam: 443371 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -157149,6 +157149,7 @@ fibatogcekilis.com
 fibatogg.net
 fibatoggkmpn.com
 fibatr.com
+fibavarlikmenkuldeger.com
 fibawebsitesi.cfd
 fibayatirimmenkuldeger.com
 fibayeniyildaguzel.ml
@@ -225064,6 +225065,7 @@ istyenidunya.net
 istyeralticufk.xyz
 istykleme.com
 istyklemes1s.com
+istykr.xyz
 istyle.ge
 istylyl-bkylrm.net
 istyml-yllym.net
@@ -307115,6 +307117,7 @@ petroumz.com
 petrovichmargonovbratva.biz
 petrss.duckdns.org
 petrulerinc.com
+pets.threesold.cfd
 petseverler-icin-yenilikci-urunler.top
 petsfasr837.weebly.com
 petshopbook.com
@@ -435731,6 +435734,7 @@ yolccu360.com
 yolccu360.net
 yolcezasiyoltakip.com
 yolcu-360.com
+yolcu-destek.shop
 yolcu-kirala.com
 yolcu-kiralama.com
 yolcu-rezervasyon.com
