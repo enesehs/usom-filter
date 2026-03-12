@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-12 11:23:43 UTC
-# Toplam: 443336 Domain
+# Son Güncelleme: 2026-03-12 12:29:12 UTC
+# Toplam: 443347 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4979,6 +4979,7 @@
 1513534.duckdns.org
 15152244.cloud
 151532423666163252521214.com.tr
+1515485266959.duckdns.org
 1516.walkzonecold.buzz
 1518jmg5.duckdns.org
 151asrm09.duckdns.org
@@ -14088,6 +14089,7 @@
 47444564884.site
 47462638.com
 4747423232.cloud
+4747xxx421c32.duckdns.org
 474927328273.webhop.me
 474970jd.duckdns.org
 474rebels.online
@@ -91896,6 +91898,7 @@ caramelgirl.ru
 caranatrium.com
 caranthir.zapto.org
 caravanmgir.pw
+carb-span-expired-still.trycloudflare.com
 carbeloy.com
 carbethoxy.com
 carbohydrateeaster.top
@@ -215944,6 +215947,7 @@ infantrybison.zapto.org
 infaxil-ru.xyz
 infaz1.zapto.org
 infazceza.org
+infazcezamaliye.org
 infazegm.net
 infazkarar.org
 infazmaliye.org
@@ -223168,6 +223172,7 @@ istanbuklyukle.net
 istanbul-0510.xyz
 istanbul-bakvurum.click
 istanbul-belbim.net
+istanbul-bilet.shop
 istanbul-doldurma.net
 istanbul-dolumu.online
 istanbul-eklmfirsatlarl.store
@@ -223251,6 +223256,7 @@ istanbulataturkhavaalani.trkayipb.site
 istanbulataturkhavaalaniburo.kayipesyalar.xyz
 istanbulataturkhavaalaniburosu.kayip-esya1b.xyz
 istanbulbabherkskrnaz.com
+istanbulbabskfoy.com
 istanbulbabsoktyu.com
 istanbulbakanligi.com
 istanbulbakarim.online
@@ -326023,6 +326029,8 @@ rejectreign.top
 rejectsuppress.top
 rejectturnover.top
 rejesogocs.store
+rejinib509.online
+rejinib509.sbs
 rejkcw01.duckdns.org
 rejoicetheatre.com
 rejoicingelicit.top
@@ -333723,6 +333731,7 @@ sahibinden-get.r-onaylihizmetler.com
 sahibinden-get.r-onayliservisin.com
 sahibinden-get.r-onayliservislerin.com
 sahibinden-get.rhizmetsrvs.com
+sahibinden-get.rhizmetsrvslerr.com
 sahibinden-get.rmobillserviisin.com
 sahibinden-get.rservshzmetin.com
 sahibinden-get.rservsleriniz.com
@@ -335564,6 +335573,7 @@ sahibinden.manuelalisim.net
 sahibinden.me
 sahibinden.mobi
 sahibinden.mobiil.online
+sahibinden.mobil-1.xyz
 sahibinden.mobil-alisverisim.online
 sahibinden.mobil-get.com.tr
 sahibinden.mobil-ilanlarimizla.com
@@ -421298,6 +421308,7 @@ xelltrio.in
 xeloriax.com
 xelpersx.click
 xelphoria.store
+xelqo.shop
 xeltykzmpr.duckdns.org
 xelunora.shop
 xeluravon.com
