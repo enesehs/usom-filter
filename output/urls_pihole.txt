@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 07:36:42 UTC
-# Toplam: 443433 Domain
+# Son Güncelleme: 2026-03-13 08:26:30 UTC
+# Toplam: 443441 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -234,6 +234,7 @@
 0102020022-222.cloud
 0102021010.cloud
 010203.coinbase-com.info
+010203040506070809.me
 01021254525101.online
 010230302012001.cloud
 010230326236.cloud
@@ -94831,6 +94832,7 @@ cep-mobil-giris.ml
 cep-mobil-giris.tk
 cep-mobil-girisvakif-bank.ml
 cep-mobil-granti.com
+cep-mobil-teb-bireysel.my-homeip.net
 cep-online-giris-kapisi.ml
 cep-online-giris-kapisi.tk
 cep-online-giris-subem.tk
@@ -127175,6 +127177,7 @@ drkantecatapulttt-0ce6a51b0124.herokuapp.com
 drkantecatircuturrr-faf94a02cfd7.herokuapp.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantemokakokaii-afc92a5a22f1.herokuapp.com
+drkantemokakokaiili-ec8043731b6b.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesikilachiii-7481906010f7.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
@@ -157854,6 +157857,7 @@ finans-masasi.online
 finans-mobilsubebasvuru.com
 finans-musteri-hizmetleri.tk
 finans-musteri-islemlerii.xyz
+finans-noktasi.info
 finans-nyhederne.com
 finans-odea.com
 finans-online.com
@@ -216193,6 +216197,7 @@ infodigitalnew.com
 infodocitsolution.com
 infodocs.kginfocom.com
 infodocu.ddns.net
+infoesube.com
 infofacekook.com
 infofacturation.ddns.net
 infofluv.ddns.net
@@ -223414,6 +223419,7 @@ istanbulhaber.club
 istanbulhaber.online
 istanbulhaber.site
 istanbulhadiyollarinn.shop
+istanbulhadsahur.shop
 istanbulhakkinda.shop
 istanbulhamsi.shop
 istanbulharikasinya.online
@@ -245028,6 +245034,7 @@ kmpnyaprmsnyngrntt.info
 kmpnyaprmsnyngrntt.pro
 kmpnyaprmsynn0nb.live
 kmpnyaprmsynn0nb.pro
+kmpnyaprmsynnnncklss.pro
 kmpnyasdias1c.cfd
 kmpnyasizlerle.blogspot.com
 kmpnyatbe.com
@@ -326111,6 +326118,7 @@ reklam-bimcell.tk
 reklam-finansman-mortgage-danismanlik.blogspot.com.tr
 reklam-firma.com
 reklam-flrsatlari-markette.me
+reklam-flrsatlari-teke-ailesi.me
 reklam-frsatlari-isilmeliscyln.me
 reklam-frsatlari-kapinlzda.me
 reklam-frsatlarindayasirteke.me

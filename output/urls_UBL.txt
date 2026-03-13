@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-13 07:36:42 UTC
-! Total: 353533 rules
+! Last modified: 2026-03-13 08:26:30 UTC
+! Total: 353539 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -149,6 +149,7 @@
 *://*.0101650301-123.cloud/*
 *://*.0102020022-222.cloud/*
 *://*.0102021010.cloud/*
+*://*.010203040506070809.me/*
 *://*.01021254525101.online/*
 *://*.010230302012001.cloud/*
 *://*.010230326236.cloud/*
@@ -125470,6 +125471,7 @@
 *://*.finans-mobilsubebasvuru.com/*
 *://*.finans-musteri-hizmetleri.tk/*
 *://*.finans-musteri-islemlerii.xyz/*
+*://*.finans-noktasi.info/*
 *://*.finans-nyhederne.com/*
 *://*.finans-odea.com/*
 *://*.finans-online.com/*
@@ -174633,6 +174635,7 @@
 *://*.infodestek.blog/*
 *://*.infodigitalnew.com/*
 *://*.infodocitsolution.com/*
+*://*.infoesube.com/*
 *://*.infofacekook.com/*
 *://*.infoformdata.com/*
 *://*.infofucktory.it/*
@@ -180715,6 +180718,7 @@
 *://*.istanbulhaber.online/*
 *://*.istanbulhaber.site/*
 *://*.istanbulhadiyollarinn.shop/*
+*://*.istanbulhadsahur.shop/*
 *://*.istanbulhakkinda.shop/*
 *://*.istanbulhamsi.shop/*
 *://*.istanbulharikasinya.online/*
@@ -198336,6 +198340,7 @@
 *://*.kmpnyaprmsnyngrntt.pro/*
 *://*.kmpnyaprmsynn0nb.live/*
 *://*.kmpnyaprmsynn0nb.pro/*
+*://*.kmpnyaprmsynnnncklss.pro/*
 *://*.kmpnyasdias1c.cfd/*
 *://*.kmpnyatbe.com/*
 *://*.kmpnybrd.com/*
@@ -261710,6 +261715,7 @@
 *://*.reklam-bimcell.tk/*
 *://*.reklam-firma.com/*
 *://*.reklam-flrsatlari-markette.me/*
+*://*.reklam-flrsatlari-teke-ailesi.me/*
 *://*.reklam-frsatlari-isilmeliscyln.me/*
 *://*.reklam-frsatlari-kapinlzda.me/*
 *://*.reklam-frsatlarindayasirteke.me/*
