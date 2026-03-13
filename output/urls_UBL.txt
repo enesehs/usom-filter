@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-13 12:28:33 UTC
-! Total: 353561 rules
+! Last modified: 2026-03-13 13:53:23 UTC
+! Total: 353571 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9716,6 +9716,7 @@
 *://*.4rentistanbul.com/*
 *://*.4rentorlando.com/*
 *://*.4rmp.com/*
+*://*.4rodaspneusararaquara.com.br/*
 *://*.4s1xhtt-2xzmmr.net/*
 *://*.4s4a56d1sa78ds5a4d231as64.site/*
 *://*.4sa8.com/*
@@ -95631,6 +95632,7 @@
 *://*.dijitalsistemlerdekikredibasvurusu.cfd/*
 *://*.dijitalsitemizs.site/*
 *://*.dijitalsorgu-veogrenmeekrani.sbs/*
+*://*.dijitalsorgu.org/*
 *://*.dijitalsorgulamasyon.com/*
 *://*.dijitalstanbulkart.net/*
 *://*.dijitalstanbulkrt.net/*
@@ -125452,6 +125454,7 @@
 *://*.finans-doktrin.online/*
 *://*.finans-enpara.com/*
 *://*.finans-firsat-kampanyalari.com/*
+*://*.finans-gundelik.info/*
 *://*.finans-gundem.pro/*
 *://*.finans-gundemi.net/*
 *://*.finans-gundemi.pro/*
@@ -171152,6 +171155,7 @@
 *://*.ilanlarimmobile.com/*
 *://*.ilanlarimmobiles.com/*
 *://*.ilanlarimobilden.com/*
+*://*.ilanlarimode.shop/*
 *://*.ilanlarimodeme.com/*
 *://*.ilanlarin-siparis.com/*
 *://*.ilanlarin.com/*
@@ -172249,6 +172253,7 @@
 *://*.imminentanalogue.top/*
 *://*.imminesenc.com/*
 *://*.immmm.net/*
+*://*.immnextgen.online/*
 *://*.immobiliarebelliniepecunia.info/*
 *://*.immobiliarebelliniepecunia.online/*
 *://*.immobilibelliniepecunia.me/*
@@ -181251,6 +181256,7 @@
 *://*.istannbullskartt.net/*
 *://*.istannbuluntarihi.com/*
 *://*.istannnbullltlyuklemeeee724.tk/*
+*://*.istannnnbuulktttc.com/*
 *://*.istanns.net/*
 *://*.istannsd.net/*
 *://*.istannxbbullkart.gq/*
@@ -192548,6 +192554,7 @@
 *://*.karacaiindirrim.click/*
 *://*.karacaiindirrim.com/*
 *://*.karacailepazartesi.com/*
+*://*.karacaileramazan.cfd/*
 *://*.karacaindiriim.com/*
 *://*.karacaindirim.sbs/*
 *://*.karacaindirim.shop/*
@@ -193066,6 +193073,7 @@
 *://*.karlikayinormani.best/*
 *://*.karliratr.com/*
 *://*.karlmarxx.app/*
+*://*.karma2022.com/*
 *://*.karmafirsatlarineniyisi.shop/*
 *://*.karmafisker.com/*
 *://*.karmaformdogrula.net/*
@@ -281130,6 +281138,7 @@
 *://*.smarstdliage.org/*
 *://*.smart-contracts.blog/*
 *://*.smart-courses.online/*
+*://*.smart-digitaloptics.com/*
 *://*.smart-investments.info/*
 *://*.smart-js.link/*
 *://*.smart-kendim-icin.info/*
@@ -343282,6 +343291,7 @@
 *://*.yapsikredi.com/*
 *://*.yapskredj.com/*
 *://*.yapsorgu.online/*
+*://*.yapt1gnbosyormmsayessnd.net/*
 *://*.yaptigimiz-guzellikler-buraya-kadar-surdu.com/*
 *://*.yaptigimseyleriuykundadile.net/*
 *://*.yaptikflowglmdksana.net/*

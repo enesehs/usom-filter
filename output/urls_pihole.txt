@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 12:28:33 UTC
-# Toplam: 443465 Domain
+# Son Güncelleme: 2026-03-13 13:53:23 UTC
+# Toplam: 443476 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14721,6 +14721,7 @@
 4rji6vz09.duckdns.org
 4rjw164o.duckdns.org
 4rmp.com
+4rodaspneusararaquara.com.br
 4rr67o.duckdns.org
 4rspbx.duckdns.org
 4rt7qtg9q.duckdns.org
@@ -122668,6 +122669,7 @@ dijitalsifresiz.net
 dijitalsistemlerdekikredibasvurusu.cfd
 dijitalsitemizs.site
 dijitalsorgu-veogrenmeekrani.sbs
+dijitalsorgu.org
 dijitalsorgulamasyon.com
 dijitalstanbulkart.net
 dijitalstanbulkrt.net
@@ -157837,6 +157839,7 @@ finans-destek.com
 finans-doktrin.online
 finans-enpara.com
 finans-firsat-kampanyalari.com
+finans-gundelik.info
 finans-gundem.pro
 finans-gundemi.net
 finans-gundemi.pro
@@ -212253,6 +212256,7 @@ ilanlarimmobilden.com
 ilanlarimmobile.com
 ilanlarimmobiles.com
 ilanlarimobilden.com
+ilanlarimode.shop
 ilanlarin-siparis.com
 ilanlarin.com
 ilanlarinburada.com
@@ -213553,6 +213557,7 @@ imminent123.zapto.org
 imminentanalogue.top
 imminesenc.com
 immmm.net
+immnextgen.online
 immobiliarebelliniepecunia.info
 immobiliarebelliniepecunia.online
 immobilibelliniepecunia.me
@@ -224035,6 +224040,7 @@ istannbulllkartyklmee.blogspot.com
 istannbullskartt.net
 istannbuluntarihi.com
 istannnbullltlyuklemeeee724.tk
+istannnnbuulktttc.com
 istanns.net
 istannsd.net
 istannxbbullkart.gq
@@ -237722,6 +237728,7 @@ karacahome.site
 karacaiindirrim.click
 karacaiindirrim.com
 karacailepazartesi.com
+karacaileramazan.cfd
 karacaindiriim.com
 karacaindirim.sbs
 karacaindirim.shop
@@ -238331,6 +238338,7 @@ karlikarliscswq.xyz
 karlikayinormani.best
 karliratr.com
 karlmarxx.app
+karma2022.com
 karmadhi-37033.portmap.io
 karmafirsatlarineniyisi.shop
 karmafisker.com
@@ -313190,6 +313198,7 @@ promosyon-odemesi.duckdns.org
 promosyon-randevugiris.duckdns.org
 promosyon-zamani.shop
 promosyon.akpro-akbn-ozel.com.tr
+promosyon.bounceme.net
 promosyon.misecure.com
 promosyon.my-homeip.com
 promosyon.netlify.app
@@ -352772,6 +352781,7 @@ smaowl.ddns.net
 smarkly.ddns.net
 smarstdliage.org
 smart-courses.online
+smart-digitaloptics.com
 smart-investments.info
 smart-js.link
 smart-kendim-icin.info
@@ -430402,6 +430412,7 @@ yaprkdskjfs.duckdns.org
 yapsikredi.com
 yapskredj.com
 yapsorgu.online
+yapt1gnbosyormmsayessnd.net
 yaptigimiz-guzellikler-buraya-kadar-surdu.com
 yaptigimseyleriuykundadile.net
 yaptikflowglmdksana.net
