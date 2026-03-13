@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 20:23:08 UTC
-# Toplam: 443502 Domain
+# Son Güncelleme: 2026-03-13 21:23:51 UTC
+# Toplam: 443509 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15711,6 +15711,7 @@
 55dj7yy8t.duckdns.org
 55f3mex3.duckdns.org
 55jjpxq7.duckdns.org
+55kk66uu77vv.servegame.com
 55m9ks.duckdns.org
 55p5uy.duckdns.org
 55rky27.duckdns.org
@@ -134242,6 +134243,7 @@ e-subedeislem.com
 e-subedenizbank.online
 e-subeduyurulari.com
 e-subeedeniz.com
+e-subefibamenkul.online
 e-subegaranti.com
 e-subegiris.com
 e-subehizmeti.com
@@ -142432,6 +142434,7 @@ ekonomihatti.online
 ekonomihub.net
 ekonomihub.online
 ekonomik-20gb-turkcell.com
+ekonomik-analiz.info
 ekonomik-hikayeler.info
 ekonomik-internet-turkcell.com
 ekonomik-paket-20gb-turkcell.com
@@ -179045,6 +179048,7 @@ grntprmsynnnkampanyasi.info
 grntprmsynnnkampanyasi.pro
 grntprmsynnnkampnya.info
 grntprmsynnnkampnya.pro
+grntprmsynnnn.info
 grntprmsynnnn.pro
 grntprofkest.click
 grntprsmynnkmpnyaabsvrr.info
@@ -225106,6 +225110,7 @@ istwnbullaxa.net
 istwnfkart.com
 istwnkartn.blogspot.com
 istwnnbulkart.blogspot.com
+istwrld.xyz
 istwvkart.blogspot.com
 istwvkart.com
 istwvnkart.blogspot.com
@@ -389340,6 +389345,7 @@ tursap.site
 turshopnowonlineee.online
 tursil-cepte.click
 tursil-martta.sbs
+tursil-stability.xyz
 tursiteptts.help
 tursktelekomtlyukleme.net
 tursolution.pw
@@ -431042,6 +431048,7 @@ yatirim-bakis.info
 yatirim-defteri.online
 yatirim-deniz-tr.com
 yatirim-denizbank.ml
+yatirim-dosyaniz.info
 yatirim-dunyasi.info
 yatirim-dunyasi.life
 yatirim-formlinki.site
