@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 08:26:30 UTC
-# Toplam: 443441 Domain
+# Son Güncelleme: 2026-03-13 09:27:24 UTC
+# Toplam: 443450 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -132548,6 +132548,7 @@ e-haberler.shop
 e-haberlerduyuru.site
 e-haberleri.tk
 e-haditurkiyem-gov-tr.com
+e-haftaicigel.com
 e-hakkindasikayet.ru.com
 e-halk-destek-govtr.epizy.com
 e-halk-kampanya.online
@@ -134821,6 +134822,7 @@ e.overallwobbly.ru
 e.p.formaxprime.co.uk
 e.prizehubtop.top
 e.qn.iolbns.com
+e.sube-fibavarlikmenkul.com
 e.top4top.io
 e.vakifbireysel-basvuru.top
 e.vlilik.kredis.i.basuvuru.net
@@ -142372,6 +142374,7 @@ ekomekosedoo.site
 ekonnomibakis.com
 ekonnomibilginet.com
 ekonomi-analist.pro
+ekonomi-analitik.info
 ekonomi-analizi.info
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
 ekonomi-destek.info
@@ -362261,6 +362264,7 @@ sube-digitall.website
 sube-ehalkbank.com
 sube-enparamobilsube.com
 sube-enparamobilsube.ws
+sube-fibavarlikmenkul.com
 sube-finans.net
 sube-firsat-halk.com
 sube-firsatbasvurudenizde.com
@@ -371145,6 +371149,7 @@ teknoyasamak.online
 teknsa-online-firsat.com
 teknvibb.net
 tekonomicbankasi.com
+tekowave.click
 tekpanelsbayi.com
 tekpekersedatteker.tk
 tekphoria.cfd
@@ -391315,6 +391320,7 @@ ucupgittin.cfd
 ucurumlardayimlan.duckdns.org
 ucusanzamans.net
 ucusu.store
+ucutips.org
 ucuyoryildizlaramuptezelgibi.xyz
 ucuz-aralik-firsatlari-kacirma-muhtesem.com.tr
 ucuz-firsatlari-kacirma-aktl.com.tr
@@ -400758,6 +400764,7 @@ ver5gio4d3me.net
 veracidep.ru
 veradel3d.xyz
 veraj.store
+veraki.pro
 veralaska.hopto.org
 veraleo0klop.online
 veramebel.kz
@@ -431019,6 +431026,7 @@ yatirimakli.world
 yatirimanaliz.org
 yatirimanaliz.world
 yatirimbakis.online
+yatirimbasarisi.com
 yatirimbasvuru.site
 yatirimbaykar.com
 yatirimbilgileri.com
@@ -440489,6 +440497,7 @@ ziraatbank-tr.org
 ziraatbank-xrhediyesi.com
 ziraatbank.6345445486384.com
 ziraatbank.ambucurie.ro
+ziraatbank.asia
 ziraatbank.cabanon-ecailler.com
 ziraatbank.cc
 ziraatbank.cepsubenyukle.com
