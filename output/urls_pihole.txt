@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 21:23:51 UTC
-# Toplam: 443509 Domain
+# Son Güncelleme: 2026-03-13 22:23:20 UTC
+# Toplam: 443534 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58767,6 +58767,7 @@ barcakssskdomain.com
 barcddakssskdomain.click
 barcddakssskdomain.com
 barcddakssskdomain.top
+barcelix.club
 barcelonasevere.duckdns.org
 barcla.ug
 barclaycard-banking-deutschland.info
@@ -83493,6 +83494,7 @@ borsa-binance-giristr.cloud
 borsa-binance-tr.cloud
 borsa-bitci.com
 borsa-bitcim.com
+borsa-dunyasi.info
 borsa-petrol.com
 borsa-sirri.online
 borsa-strateji.pro
@@ -91204,6 +91206,7 @@ calq0ald6.duckdns.org
 calquickl6.xyz
 calsury.com
 calthacompany.com
+calthorix.shop
 calveriq.net
 calvinesquivel5463.xyz
 calvinistically.com
@@ -157637,6 +157640,7 @@ filmaaron.zapto.org
 filmbimcxll.com
 filmbounce.at
 filmemario.at
+filmfocus.mom
 filmhhots.com
 filmoraus.com
 filmsanitary.top
@@ -157934,6 +157938,7 @@ finansal-hizmetler.info
 finansal-kasim-duyurularim.online
 finansal-mobilislemler.com
 finansal-vakif-duyuru.online
+finansal-yolculuk.info
 finansalcozumleme.site
 finansalcozumler.site
 finansalcozumleri.com
@@ -165947,6 +165952,7 @@ gameplinkempire.top
 gamer.zapto.org
 gamerhub.forum
 gameriot.top
+gamerly.sbs
 gamerocker.net
 gamerpin34laalin.com
 gamerx133.ddns.net
@@ -201549,6 +201555,7 @@ hizlisonuclarhemen.com
 hizlisonuctakilb.net
 hizlisor-6b89e4051a0a.herokuapp.com
 hizlisorgu.net
+hizlisorgu.org
 hizlisorguft.online
 hizlisorguislem.com
 hizlisorgula.app
@@ -207188,6 +207195,7 @@ hzlmgcssf.org
 hzlodmadrsbrshrzmn.net
 hzlrandvnnunall.net
 hzlrandvnual.net
+hzlrhbrismbl.site
 hzlrhbrste.cfd
 hzlsgevc.net
 hzlsigortamburdaatr.com.tr
@@ -245522,6 +245530,7 @@ kneeaspiration.top
 kneeljerk.top
 kneelyopkr.cfd
 kneemindset.top
+kneli.sbs
 knelmp7bcjy0c63.ddns.net
 knem208.duckdns.org
 knetkartykleme.net
@@ -246955,6 +246964,7 @@ kortu.xyz
 korumamudurlugu.com
 korumanmuaynes.ner
 korumanmuaynes.net
+korun.cfd
 korunmatalep.com
 korxzqcsqw.duckdns.org
 koryenidyson.com
@@ -253211,6 +253221,7 @@ lexisnexis.pro
 lexisnexis.top
 lexivo.qpon
 lexly.click
+lexor.bond
 lexorad.com
 lexorica.com
 lexpeyze.info
@@ -255488,6 +255499,7 @@ lodevice.top
 lodgeautonomous.top
 lodgeburke.com
 lodgemalice.top
+lodgevector.com
 lodgingdepict.top
 lodgingeligibility.top
 lodib.xyz
@@ -257325,6 +257337,7 @@ luteappiaoupghv.cn
 lutfengirmeyinlan.online
 lutfikirdarhastanem.xyz
 lutharen.com
+lutharia.qpon
 luthegiolle.freemyip.com
 lutheranph.com
 lutm3j3r.duckdns.org
@@ -261093,6 +261106,7 @@ maltepeokul1.top
 maltepetemizlikwsf.com
 maltepetemssfsfs.com
 malties23.xyz
+maltup.sbs
 maluakphp.com
 malubulule.ddns.net
 maluisepaul.com
@@ -283912,6 +283926,7 @@ novembertickle.top
 noventia.info
 novergi.com
 novexavas.pro
+novfase.com
 novgeo.online
 novgorod-basket.ru
 novidadeonline.website
@@ -284898,6 +284913,7 @@ nuyek.ddns.me
 nuyersar.com
 nuyterderfer.click
 nuyujfdzwt.duckdns.org
+nuzex.bond
 nuzmm5.duckdns.org
 nuzybrju727.online
 nuzyzbbrhe.duckdns.org
@@ -295236,6 +295252,7 @@ openingoverture.store
 openingpatriot.top
 openjoiter.shop
 openjovexar.site
+openlane.click
 openlayerd.com
 openlibrary.ignorelist.com
 openlyintellect.top
@@ -305276,6 +305293,7 @@ paxfulo.com
 paxfuluk.com
 paxfulverify.org
 paxfulza.com
+paxiq.sbs
 paxit.duckdns.org
 paxjcgds4.duckdns.org
 paxmentra.one
@@ -308176,6 +308194,7 @@ pixarssl-view.ddns.net
 pixel1.dnsalias.net
 pixelarkz.com
 pixelbreeze.store
+pixelcore.sbs
 pixeldeneme.blogdns.net
 pixelia.shop
 pixelka.fun
@@ -310735,6 +310754,7 @@ powxodwx.click
 pox112s62on.xyz
 pox5616s62on.xyz
 pox5e63dion.xyz
+poxaq.qpon
 poxexgecis-autokesif.net
 poxpe.cn
 poxs62on.xyz
@@ -323579,6 +323599,7 @@ ramb.zapto.org
 rambiler.com
 ramble.myartsonline.com
 ramblrr.com
+ramblrr.digital
 rambutanvcx.run
 ramchhaya.com
 ramcltd.zapto.org
@@ -352958,6 +352979,7 @@ smi5ruaq.duckdns.org
 smile-glory.com
 smile234.xyz
 smileagte.zapto.org
+smilebox.gifts
 smileccoconut.sbs
 smileg2te.ddns.net
 smileissuea.top
@@ -396485,6 +396507,7 @@ v8fga1kbveg3z9i.xyz
 v8iwrb.duckdns.org
 v8l5cgsv5.duckdns.org
 v8loei3b.duckdns.org
+v8m2k6x4q9f3n7hbat.sbs
 v8pniz.duckdns.org
 v8wgk6eg.duckdns.org
 v8y6qwb.duckdns.org
@@ -413349,6 +413372,7 @@ wranttyndrmlr.online
 wraperadication.top
 wrappixels.com
 wrapplentiful.top
+wrapzone.gifts
 wrasdfdasdasdasdasdasdadasadtest.com
 wrasse.quarterpdfpro.com
 wrat.in
@@ -420688,6 +420712,7 @@ wynstrasas.su
 wynthira.asia
 wynthira.com
 wynthora.click
+wynthoris.asia
 wyodq.com
 wyoeapj.com
 wyoming.coinbase-com.info
