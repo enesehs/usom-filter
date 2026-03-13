@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 05:07:31 UTC
-# Toplam: 443398 Domain
+# Son Güncelleme: 2026-03-13 06:35:33 UTC
+# Toplam: 443401 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -85586,6 +85586,7 @@ bsvrrrkmnpyaa.click
 bsvrrrkmpnyaaaafinnss.click
 bsvrrrkmpnyaaaprmosynn.click
 bsvrrrkmpnyaaaqnbb.click
+bsvrrrkmpnyaabsvrrrprmo.click
 bsvrrrkmpnyaaprmsynn.click
 bsvrrrkmpnyaaprmsynnn.art
 bsvrrrkmpnyaaprmsynnn.info
@@ -251164,6 +251165,7 @@ l55polis155polisi.online
 l55polisitr155tr.online
 l55polistr.online
 l55tr-polistr.online
+l55trpolisii.shop
 l570m1qef.duckdns.org
 l587432t-caixanow.ddns.net
 l58jj0.duckdns.org
@@ -436203,6 +436205,7 @@ yonlendiriliyorsunuz.duckdns.org
 yonlendiriliyorsunuz.online
 yonlendiriliyorsunuz.shop
 yonlendirilmekicintiklayin.shop
+yonlendirilmekicintiklayiniz.cfd
 yonlendirilmeler.online
 yonlendirimveraktarimekrani.cfd
 yonlendiriyorum-bekle-o-c-wsynxmorbid.shop
