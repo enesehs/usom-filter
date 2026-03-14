@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-14 00:57:26 UTC
-! Total: 353683 rules
+! Last modified: 2026-03-14 03:23:08 UTC
+! Total: 353687 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -144235,6 +144235,7 @@
 *://*.guncelsikaytlertr-17.sbs/*
 *://*.guncelsikaytlertr-21.sbs/*
 *://*.guncelsikaytlertr-28.sbs/*
+*://*.guncelsikaytlertr-30.sbs/*
 *://*.guncelsikaytlertr-9.sbs/*
 *://*.guncelsikaytlervar-10.sbs/*
 *://*.guncelsikaytlervar-11.sbs/*
@@ -145115,6 +145116,7 @@
 *://*.guvenilirsitelersizle.online/*
 *://*.guvenilirsitelersizle.xyz/*
 *://*.guvenilirsitelersizlerle.com.tr/*
+*://*.guvenilirsorgu.xyz/*
 *://*.guvenilirurunlersizle.com.tr/*
 *://*.guvenilirurunlersizle.xyz/*
 *://*.guvenilodeme.com/*
@@ -246581,6 +246583,7 @@
 *://*.pemhnnmqhs.in/*
 *://*.pemimmobiliare.com/*
 *://*.pemnias.com/*
+*://*.pemorixal.com/*
 *://*.pempoo.com/*
 *://*.pemuru.com/*
 *://*.pemy.org/*
@@ -271195,6 +271198,7 @@
 *://*.sdfjksdkjfsd.net/*
 *://*.sdfjsdjfsdfj.net/*
 *://*.sdfkjshdfjhskdfhsf22.click/*
+*://*.sdfklasdkaskdaslkdas.sbs/*
 *://*.sdfmytrolgeldimben.site/*
 *://*.sdfnfnefefehnwfme.wiki/*
 *://*.sdfphs.xyz/*
