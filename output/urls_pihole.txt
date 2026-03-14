@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-14 06:30:46 UTC
-# Toplam: 443606 Domain
+# Son Güncelleme: 2026-03-14 07:26:57 UTC
+# Toplam: 443608 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -180782,6 +180782,7 @@ guncelsikaytlertr-12.sbs
 guncelsikaytlertr-16.sbs
 guncelsikaytlertr-17.sbs
 guncelsikaytlertr-28.sbs
+guncelsikaytlertr-29.sbs
 guncelsikaytlertr-30.sbs
 guncelsikaytlertr-9.sbs
 guncelsikaytlervar-10.sbs
@@ -378826,6 +378827,7 @@ tr-2025-mobil-sube.duckdns.org
 tr-2025bnc15000hmntkrm.com
 tr-312.guncelsikayetin-2.sbs
 tr-387.gunceltrsikayetler-20.sbs
+tr-4.guncelsikaytlertr-21.sbs
 tr-418.h-sikayt-6.ru.com
 tr-451.gunceltrsikayetler-26.sbs
 tr-491.guncelsikaytlertr-21.sbs
