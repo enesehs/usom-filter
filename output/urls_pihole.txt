@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-13 22:23:20 UTC
-# Toplam: 443534 Domain
+# Son Güncelleme: 2026-03-14 00:57:26 UTC
+# Toplam: 443595 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50640,7 +50640,21 @@ arvests.ddns.net
 arvestsite.duckdns.org
 arvestsupp.duckdns.org
 arvesttsecure.duckdns.org
+arvexa.site
+arvexaapp.shop
+arvexaapp.store
+arvexahq.store
+arvexahubs.shop
+arvexahubs.site
+arvexahubs.store
+arvexalabs.shop
+arvexalabs.site
 arvg2.51tz2.ru
+arvion.site
+arvionapp.site
+arvionhq.site
+arvionhubs.site
+arvionlabs.site
 arvision.com.co
 arvmsg.ddns.net
 arvoswdcxa.duckdns.org
@@ -54981,6 +54995,15 @@ axhackxa.ddns.net
 axhppv.duckdns.org
 axid.online
 axionhubs.shop
+axioraapp.shop
+axioraapp.site
+axiorahq.shop
+axiorahq.site
+axiorahq.store
+axiorahubs.shop
+axiorahubs.store
+axioralabs.shop
+axioralabs.store
 axis-id8934.world
 axis.mycardcare.in
 axisape.top
@@ -82128,6 +82151,7 @@ boaivietnam.com
 boamdrieywbo1.duckdns.org
 boaonlinecdesk.duckdns.org
 boaonlinecdesksession.duckdns.org
+boapp.shop
 boapp.store
 boaprepaidv1.ddns.net
 boaprepaidverifyca.ddns.net
@@ -84741,6 +84765,7 @@ britishnews.press
 britishofficefitout.com
 britorikanosa.top
 britstep.digital
+brivanahubs.shop
 brixc.hopto.org
 brixxxpizza.com
 brizalor.com
@@ -91176,6 +91201,7 @@ callingstuning.top
 calliofis.com
 calliopsies.com
 calliperer.com
+calllabs.site
 callmanusript.top
 callmetery.top
 callnetcenter.com
@@ -91208,6 +91234,7 @@ calsury.com
 calthacompany.com
 calthorix.shop
 calveriq.net
+calvexhubs.site
 calvinesquivel5463.xyz
 calvinistically.com
 calvinlarry3551.hopto.org
@@ -93897,6 +93924,7 @@ cds203.ddns.net
 cdsbml.top
 cdscscsdcsf.top
 cdshop-eventnew.duckdns.org
+cdsjkfckjdsfjkcsd.sbs
 cdsjms.top
 cdskenyabackgrounds.com
 cdspmx.top
@@ -109628,6 +109656,8 @@ cyroonline.com
 cyrptomaker.info
 cyrt.amoltran.com
 cyrus-test.ddns.net
+cyrvan.shop
+cyrvanlabs.shop
 cyslng.com
 cyspatosnk.duckdns.org
 cysreklm.com
@@ -112733,6 +112763,8 @@ delvetiade.com
 delvoro.sbs
 delvys.com
 delwafn.com
+delyra.shop
+delyrahubs.shop
 delyvora.pics
 delzdigi.com
 dem.businessdeep.com
@@ -126198,6 +126230,7 @@ dorareco.net
 dorateks.top
 doratopelase.pw
 dorcarskiralama.com
+dorelialabs.shop
 dorerlpat-dreoape23.duckdns.org
 dores.ddns.net
 dorfbzhfdx.duckdns.org
@@ -156441,6 +156474,7 @@ fennelface.lat
 fenniekibi.net
 fenomenbegeni.com
 fenomeno.gq
+fenoralabs.shop
 fenoraxis.sbs
 fenory.store
 fenoryhq.shop
@@ -161074,6 +161108,8 @@ five.nameapp.xyz
 fiveapp.xyz
 fivebit.io
 fiveinrow.com
+fivelabs.site
+fivelabs.store
 fiveleapp.xyz
 fivelora.com
 fivem-1.ddns.net
@@ -165170,6 +165206,7 @@ fymumiddomj.wcnv20.cn
 fyn001.ddns.net
 fynlith.com
 fynthera.qpon
+fyntor.shop
 fynty.net
 fyosxsi.info
 fyoutside.com
@@ -172419,6 +172456,7 @@ getanother.xyz
 getasahbinden-parmguvendeetr.nl
 getavatar.top
 getbadge-case2343531.online
+getbarny.store
 getbeanlabs.com
 getbikesahibinden.ml
 getbildirimlerim.com.tr
@@ -172651,6 +172689,8 @@ getqeptot.store
 getquery.org
 getqures.store
 getraenke-weichmann.de
+getralvoro.shop
+getralvoro.store
 getrattedskid.ddns.net
 getrayton.online
 getrdigitalgirislemenutr100yil.com
@@ -172819,6 +172859,7 @@ getuptateserv.eu
 getuqterio.site
 getvaluepast.com
 getvelvexis.site
+getwally.site
 getykipolo.xyz
 getyonlendirs-s.com.tr
 getyourapi.site
@@ -172918,6 +172959,7 @@ gffhgfghfgfbfghf.sbs
 gfgafcu.hopto.org
 gfgbv.xyz
 gfgeurspll.duckdns.org
+gfgfhgvghbhjjhbjvhjhv1.sbs
 gfgkkhz.duckdns.org
 gfh54htr.duckdns.org
 gfhaodrq.com
@@ -178938,6 +178980,7 @@ grnti-mobil.click
 grnti-net.com
 grnti-pkampanya.com
 grnti-rpromosyon.com
+grnti-sube.online
 grnti2cekiliskatilsende.cloud
 grntiaakrespectclick.com
 grntibasvurularaseliadadad.duckdns.org
@@ -240866,6 +240909,7 @@ keldorin.com
 kelebek.no-ip.biz
 kelebeklerdiyari12.site
 kelebeksallama.xyz
+kelekeref555.icu
 kelemterekeyfe.com
 kelen.talk4fun.net
 kelenedekeme.net
@@ -264591,6 +264635,7 @@ meetomoves.com
 meetone.gg
 meetotyler.site
 meetphase.com
+meetralvoro.store
 meetroomonlin1925.w3spaces.com
 meets-gooie.com
 meettrek.top
@@ -295270,6 +295315,8 @@ openorder.site
 openoutlookdocs.hopto.org
 openproject.novadsa.com
 openprojectgate.com
+openralvoro.shop
+openralvoro.store
 openroadsolutions.com
 openscope.online
 opensea-player.com
@@ -323128,6 +323175,14 @@ rallysearch.top
 ralph-lauren.com.tr
 ralphlaurenturkiye.top
 ralventura.cc
+ralvoro.shop
+ralvoro.store
+ralvoroapp.shop
+ralvorohq.shop
+ralvorohub.shop
+ralvorolabs.shop
+ralvoroly.shop
+ralvoroly.store
 ram-bireysel-guvenli.com
 ram-guvende-alisveris.com
 ram-guvende-alisverisi.com
@@ -373985,6 +374040,8 @@ thepttgovts.icu
 thequantumai.org
 thequarry.ddns.net
 thequranlight.com
+theralvoro.shop
+theralvoro.store
 therapeuticaftermath.top
 therapeuticalequation.top
 therapeuticalsanitary.top
@@ -385528,6 +385585,8 @@ tryolgcsonlnhgsbrc.duckdns.org
 tryols2.a0001.net
 tryonlendirmebntr.com
 tryphptoday.com
+tryralvoro.shop
+tryralvoro.store
 trys-docs-mics.org
 trysahibinden-paramhizmetleri-departmani.publicvm.com
 tryshellabove.top
@@ -394428,6 +394487,8 @@ user99655.ddns.net
 useraccountupdate.ddns.net
 useraccountvalidation.com
 userads.digital
+useralvoro.shop
+useralvoro.store
 useranch.top
 userannexation.top
 userauthentication0.zapto.org
