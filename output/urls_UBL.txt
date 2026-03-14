@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-14 14:23:33 UTC
-! Total: 353710 rules
+! Last modified: 2026-03-14 18:23:54 UTC
+! Total: 353747 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13754,6 +13754,7 @@
 *://*.a-101-cepte-market.online/*
 *://*.a-101-cepte-market.xyz/*
 *://*.a-101-cepte-tr.online/*
+*://*.a-101-clmt-r.cyou/*
 *://*.a-101-clmtl.cyou/*
 *://*.a-101-comt-r.cfd/*
 *://*.a-101-comtr.cfd/*
@@ -26583,6 +26584,7 @@
 *://*.akttuelkasim-indirimlerr.com/*
 *://*.aktu2l-urunler-22m.cfd/*
 *://*.aktualdipr.com/*
+*://*.aktudeadio.com/*
 *://*.aktudepazkar.com/*
 *://*.aktueeladresindecampny.sbs/*
 *://*.aktueelmerkezz.click/*
@@ -38281,6 +38283,7 @@
 *://*.avrupafonudestek.org/*
 *://*.avrupagocmen.com/*
 *://*.avrupagoz.online/*
+*://*.avrupagundem.uk/*
 *://*.avrupahibedestek.org/*
 *://*.avrupahibefonu.org/*
 *://*.avrupapandemivakfi.com/*
@@ -77590,6 +77593,7 @@
 *://*.cofm-sta-tda.buzz/*
 *://*.cofn-resrv-compl.icu/*
 *://*.cogerea.net/*
+*://*.cogex.shop/*
 *://*.cogffast.shop/*
 *://*.cogicpt.org/*
 *://*.cogkmby.com/*
@@ -85592,6 +85596,7 @@
 *://*.datainfosecure.com/*
 *://*.dataintelligenceoptimal.com/*
 *://*.datajax.online/*
+*://*.datakestrel.com/*
 *://*.datalarcim.com/*
 *://*.datalytica.su/*
 *://*.datamarketplace.net/*
@@ -124602,6 +124607,7 @@
 *://*.fewwapalfxbckee.com/*
 *://*.fewwrongsaved.today/*
 *://*.fewyroinpoidfjhcmd.com/*
+*://*.fexal.cfd/*
 *://*.fexcongroup.com/*
 *://*.fexpres.lol/*
 *://*.fexra.cyou/*
@@ -131876,6 +131882,7 @@
 *://*.gacahyat75.top/*
 *://*.gacebetjohn.com/*
 *://*.gachgss.com/*
+*://*.gachiplay.cyou/*
 *://*.gachit.yachts/*
 *://*.gaclick.net/*
 *://*.gaclms.com/*
@@ -142723,7 +142730,9 @@
 *://*.grnti-flsh-54689798e.cfd/*
 *://*.grnti-kmpnya.online/*
 *://*.grnti-mobil.click/*
+*://*.grnti-mobil.lat/*
 *://*.grnti-net.com/*
+*://*.grnti-online.lat/*
 *://*.grnti-pkampanya.com/*
 *://*.grnti-rpromosyon.com/*
 *://*.grnti-sube.online/*
@@ -144722,6 +144731,7 @@
 *://*.guputhy.site/*
 *://*.guraleyz.com/*
 *://*.gurasclephoteram.com/*
+*://*.gurbetmedia.uk/*
 *://*.gurcistanlicruel331144.com/*
 *://*.gurcuhewal.app/*
 *://*.gurebbeaa.xyz/*
@@ -179874,6 +179884,7 @@
 *://*.islemkolayappgiris.app/*
 *://*.islemkolayi.app/*
 *://*.islemkolayiaden.app/*
+*://*.islemkolayligi.com/*
 *://*.islemkom.xyz/*
 *://*.islemkontrolmerkezi.ml/*
 *://*.islemkredimnetlerle.net/*
@@ -180660,6 +180671,7 @@
 *://*.istanbul-onlineislem.com/*
 *://*.istanbul-onlinekartyuklemeleri.com/*
 *://*.istanbul-soft.com.tr/*
+*://*.istanbul-tasimacilik.shop/*
 *://*.istanbul-ucuz-escort.com/*
 *://*.istanbul-vesnlik.xyz/*
 *://*.istanbul.xyz/*
@@ -187694,6 +187706,7 @@
 *://*.juppeterrac.xyz/*
 *://*.jupyternotebookcollections.com/*
 *://*.juqnnxinzqn.in/*
+*://*.jurio.bond/*
 *://*.jurisdictionhierarchy.top/*
 *://*.jurisdictionient.com/*
 *://*.jurisdictionsarcastic.top/*
@@ -195351,6 +195364,7 @@
 *://*.kelowuh.com/*
 *://*.kelpersx.click/*
 *://*.kelsomgir.pw/*
+*://*.kelthira.digital/*
 *://*.keltiras.site/*
 *://*.kelunixor.com/*
 *://*.kelunora.com/*
@@ -196183,6 +196197,7 @@
 *://*.kgm-yukle.com/*
 *://*.kgm-yukle.net/*
 *://*.kgm-yukle.org/*
+*://*.kgm-yukle.xyz/*
 *://*.kgm-yuklee.com/*
 *://*.kgm-yuklee.org/*
 *://*.kgm-yuklee.xyz/*
@@ -199174,6 +199189,7 @@
 *://*.kolayislemler.com/*
 *://*.kolayislemleragustos.com/*
 *://*.kolayislemlerin.com/*
+*://*.kolayislemlerinizile.com/*
 *://*.kolayislemlerr.app/*
 *://*.kolayislemzssx.xyz/*
 *://*.kolaykampanyafirsatifirsathbance.tech/*
@@ -199904,6 +199920,7 @@
 *://*.kosel.com.tr/*
 *://*.kosendeagla.cfd/*
 *://*.kosfzv.com/*
+*://*.kosgb1000.com/*
 *://*.kosgdestekprojesi.site/*
 *://*.kosgeb-basvur.com/*
 *://*.kosgeb-basvuru.click/*
@@ -203797,12 +203814,14 @@
 *://*.latysale7.quest/*
 *://*.lauagsndbfud.top/*
 *://*.laufer.com.br/*
+*://*.laughclub.lol/*
 *://*.laughportrayal.top/*
 *://*.laughround.net/*
 *://*.laughtercurtail.top/*
 *://*.laughterdecimal.top/*
 *://*.laughterentrust.top/*
 *://*.launch45723.xyz/*
+*://*.launchcircle.org/*
 *://*.launchruse.com/*
 *://*.launchyear.shop/*
 *://*.laundrycolonel.top/*
@@ -204218,6 +204237,7 @@
 *://*.learnernaivety.top/*
 *://*.learnerradiant.top/*
 *://*.learnerrenowned.top/*
+*://*.learnfield.study/*
 *://*.learningconcession.top/*
 *://*.learningcrouch.top/*
 *://*.learningequation.top/*
@@ -204228,6 +204248,7 @@
 *://*.learnmore.study/*
 *://*.learnmotive.com/*
 *://*.learnnoise.net/*
+*://*.learnorat.com/*
 *://*.learnuxid.com/*
 *://*.learnwithline.com/*
 *://*.learnyprocce.bond/*
@@ -204611,6 +204632,7 @@
 *://*.lesson-first.info/*
 *://*.lessonmalicious.top/*
 *://*.lessonnonetheless.top/*
+*://*.lessonquarry.com/*
 *://*.lessonretrieve.top/*
 *://*.lessonstaple.top/*
 *://*.lesspeesbkgmhizkigecis.net/*
@@ -204874,6 +204896,7 @@
 *://*.lguvenlial.com/*
 *://*.lgvfxqkjujlmrkey.com/*
 *://*.lgyetkiliklimaservisi.com/*
+*://*.lh-hgastgn.sbs/*
 *://*.lhaasarrogrenmenolktasi.net/*
 *://*.lhajikudi.com/*
 *://*.lhalkbank.com/*
@@ -223147,6 +223170,7 @@
 *://*.myinfocheck.com/*
 *://*.myinsfollower.com/*
 *://*.myinvestgroup.com/*
+*://*.myiphost.com/*
 *://*.myitappnext.com/*
 *://*.myittechnext.com/*
 *://*.myjino.ru/*
@@ -226428,6 +226452,7 @@
 *://*.niboshiyahonpo.com/*
 *://*.nic-svc.net/*
 *://*.nic.ru/*
+*://*.nicbar.shop/*
 *://*.niccenter.net/*
 *://*.nice-goods.online/*
 *://*.nice-ng.org/*
@@ -228700,6 +228725,7 @@
 *://*.nuxcdq.top/*
 *://*.nuxgera.xyz/*
 *://*.nuxmobomoob.site/*
+*://*.nuxor.bond/*
 *://*.nuxq.net/*
 *://*.nuyersar.com/*
 *://*.nuyterderfer.click/*
@@ -236979,6 +237005,7 @@
 *://*.onlywsalmon.click/*
 *://*.onlyyahcts.com/*
 *://*.onlyymgc.com/*
+*://*.onmarktaktuel.cfd/*
 *://*.onmcrsft-workflow-mailcloudus17-web.com/*
 *://*.onmeda.click/*
 *://*.onmicrosft-us06web-zoom.com/*
@@ -248057,6 +248084,7 @@
 *://*.piur.loan/*
 *://*.piuwqnvohjibcy.cc/*
 *://*.pivactubmi.com/*
+*://*.pivor.bond/*
 *://*.pivox.shop/*
 *://*.pivqmane.com/*
 *://*.piwsarbgqj.com/*
@@ -256983,6 +257011,7 @@
 *://*.qerona.live/*
 *://*.qertauiklap.shop/*
 *://*.qerton.store/*
+*://*.qerunavo.com/*
 *://*.qeryxegwqucxbuvat.com/*
 *://*.qesacoy.com/*
 *://*.qestero.xyz/*
@@ -276183,6 +276212,7 @@
 *://*.shorandom.top/*
 *://*.shoreboxregion.top/*
 *://*.shoretrillion.top/*
+*://*.shorewander.com/*
 *://*.shorinana.com/*
 *://*.short-en.net/*
 *://*.short-ion-per.live/*
@@ -286035,6 +286065,7 @@
 *://*.sponsor-mobil-360.site/*
 *://*.sponsor-mobil-tr.com/*
 *://*.sponsor-mobil-tr.online/*
+*://*.sponsor-online-mobil-internet-tr.online/*
 *://*.sponsor.cf/*
 *://*.sponsor00girisyap99.com/*
 *://*.sponsor123052-mama.cloud/*
@@ -286592,6 +286623,7 @@
 *://*.spotifyp.com/*
 *://*.spotifypremium.my.id/*
 *://*.spotlessimminentys.shop/*
+*://*.spotlightbrief.com/*
 *://*.spotlightdenotation.top/*
 *://*.spotlightreproach.top/*
 *://*.spotlightserial.top/*
@@ -287867,6 +287899,7 @@
 *://*.starvillam.com/*
 *://*.starxpush7x.xyz/*
 *://*.starzoooon777.com/*
+*://*.stashspring.com/*
 *://*.stashy.lat/*
 *://*.stashy.life/*
 *://*.stashy.lol/*
@@ -293723,6 +293756,7 @@
 *://*.tavaevsn.net/*
 *://*.tavaevsyn.net/*
 *://*.tavaevsyn.xyz/*
+*://*.tavafirsati.cfd/*
 *://*.tavernique.info/*
 *://*.tavernsnowless.com/*
 *://*.tavirlari-iyiden-getiren-burada-durunca-bilirler.com/*
@@ -322592,6 +322626,7 @@
 *://*.vimarnrespay.com/*
 *://*.vimarnrespay.sbs/*
 *://*.vimeoly.com/*
+*://*.vimeradokul.com/*
 *://*.vimiluu.com/*
 *://*.vimuhqrfgurxret.cn/*
 *://*.vinaaz.net/*
@@ -335502,6 +335537,7 @@
 *://*.xanzal.xyz/*
 *://*.xaoedayispiwrgr.su/*
 *://*.xaomi-tlf-tr.sbs/*
+*://*.xapul.bond/*
 *://*.xaqeilbcsyrpaqiytujrrldm.me/*
 *://*.xaqng.com/*
 *://*.xaqwg226.app/*
@@ -341433,6 +341469,7 @@
 *://*.yaniyorumhalaaa.cyou/*
 *://*.yaniyorumvovov.com/*
 *://*.yaniyorumyanginvarrr.click/*
+*://*.yankeecap.cfd/*
 *://*.yanlamayiseverun.surf/*
 *://*.yanlarda-bizgibi-kimselere-katildigin-iyisine-bakar.com/*
 *://*.yanlarina-kalanada-bugibin-oluruz.cfd/*

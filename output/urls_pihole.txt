@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-14 14:23:33 UTC
-# Toplam: 443630 Domain
+# Son Güncelleme: 2026-03-14 18:23:54 UTC
+# Toplam: 443670 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15797,7 +15797,9 @@
 567999com.com
 567ff6675657656.blogspot.com
 5689.cloud
+56890309823.duckdns.org
 5689198258989.xyz
+5689220309823.duckdns.org
 568950309.dfgqdsd.ru
 5689741s5165.site
 568iwj.cn
@@ -22553,6 +22555,7 @@ a-101-cepte-market.com
 a-101-cepte-market.online
 a-101-cepte-market.xyz
 a-101-cepte-tr.online
+a-101-clmt-r.cyou
 a-101-clmtl.cyou
 a-101-com-sadece-online-ozel.sa.com
 a-101-com-tr-harca-harca-bitmez.sa.com
@@ -39749,6 +39752,7 @@ akttuelkasim-indirimlerr.com
 aktu2l-urunler-22m.cfd
 aktualdipr.com
 aktualkatal0g.duckdns.org
+aktudeadio.com
 aktudepazkar.com
 aktueeladresindecampny.sbs
 aktueelmerkezz.click
@@ -54526,6 +54530,7 @@ avrupadesteklerim.com
 avrupafonudestek.org
 avrupagocmen.com
 avrupagoz.online
+avrupagundem.uk
 avrupahibedestek.org
 avrupahibefonu.org
 avrupapandemivakfi.com
@@ -60671,6 +60676,7 @@ basvuru.evlilikkredicisi.com
 basvuru.evlilikkredisii.net
 basvuru.garanticepsube.com.tr
 basvuru.gq
+basvuru.gurbetmedia.uk
 basvuru.guvenlik-cihazonay.xyz
 basvuru.hangikredim.com
 basvuru.info
@@ -100919,6 +100925,7 @@ cofm-sta-tda.buzz
 cofn-resrv-compl.icu
 cofr2t02.duckdns.org
 cogerea.net
+cogex.shop
 cogffast.shop
 coghanoga.thelmontr.ru
 cogkmby.com
@@ -111157,6 +111164,7 @@ dataiaccount.club
 datainfosecure.com
 dataintelligenceoptimal.com
 datajax.online
+datakestrel.com
 dataki134.hopto.org
 datalarcim.com
 datalogmekvk.duckdns.org
@@ -118650,6 +118658,7 @@ dertvesikinti.xyz
 dertyert.info
 dertykate.zapto.org
 dertz.threesold.cfd
+dertz.yankeecap.cfd
 deruizx.com
 derukolino.site
 dervasopssec.com
@@ -156705,6 +156714,7 @@ fewtruly.online
 fewwapalfxbckee.com
 fewwrongsaved.today
 fewyroinpoidfjhcmd.com
+fexal.cfd
 fexcongroup.com
 fexpres.lol
 fexra.cyou
@@ -165691,6 +165701,7 @@ gacahyat75.top
 gacebetjohn.com
 gachgss.com
 gachigachi.duckdns.org
+gachiplay.cyou
 gachit.yachts
 gaclick.net
 gaclms.com
@@ -178987,7 +178998,9 @@ grnti-flsh-54689798e.cfd
 grnti-giris-yap.duckdns.org
 grnti-kredi-zamani.duckdns.org
 grnti-mobil.click
+grnti-mobil.lat
 grnti-net.com
+grnti-online.lat
 grnti-pkampanya.com
 grnti-rpromosyon.com
 grnti-sube.online
@@ -222407,6 +222420,7 @@ islemkmptt.com
 islemkolayappgiris.app
 islemkolayi.app
 islemkolayiaden.app
+islemkolayligi.com
 islemkom.xyz
 islemkontrolmerkezi.ml
 islemkredimnetlerle.net
@@ -223333,6 +223347,7 @@ istanbul-neco.net
 istanbul-onlineislem.com
 istanbul-onlinekartyuklemeleri.com
 istanbul-soft.com.tr
+istanbul-tasimacilik.shop
 istanbul-ucuz-escort.com
 istanbul-vesnlik.xyz
 istanbul-yapiceponay.vercel.app
@@ -232148,6 +232163,7 @@ jupyternotebookcollections.com
 jupyternotebookscollection.azurewebsites.net
 juqnnxinzqn.in
 jurassic.clearsoundvoice.com
+jurio.bond
 jurisdictionhierarchy.top
 jurisdictionient.com
 jurisdictionsarcastic.top
@@ -240986,6 +241002,7 @@ kelnttkart.com
 kelowuh.com
 kelpersx.click
 kelsomgir.pw
+kelthira.digital
 keltiras.site
 kelunixor.com
 kelunora.com
@@ -241982,6 +241999,7 @@ kgm-vvc.top
 kgm-yukle.com
 kgm-yukle.net
 kgm-yukle.org
+kgm-yukle.xyz
 kgm-yuklee.com
 kgm-yuklee.org
 kgm-yuklee.xyz
@@ -245038,6 +245056,7 @@ kmphbzlesstttrgml.com
 kmphstsrgllmm.com
 kmpmyaaaprmsynnbsvr.info
 kmpmyaaaprmsynnbsvr.pro
+kmpnamrm2026mart.myiphost.com
 kmpnkrdbsvronl.online
 kmpnnnyaaabsvrrrgrnntt.click
 kmpnnya-aldn-aldn-frssatlar.com
@@ -246189,6 +246208,7 @@ kolayislemin.com
 kolayislemler.com
 kolayislemleragustos.com
 kolayislemlerin.com
+kolayislemlerinizile.com
 kolayislemlerr.app
 kolayislemzssx.xyz
 kolaykampanyafirsatifirsathbance.tech
@@ -247051,6 +247071,7 @@ koscgbdevlet.net
 kosel.com.tr
 kosendeagla.cfd
 kosfzv.com
+kosgb1000.com
 kosgdestekprojesi.site
 kosgeb-basvur.com
 kosgeb-basvuru.click
@@ -252065,6 +252086,7 @@ latticino.hopto.org
 latysale7.quest
 lauagsndbfud.top
 laudioko.zapto.org
+laughclub.lol
 laughing-chaplygin.5-199-139-56.plesk.page
 laughing-chatelet.167-86-112-89.plesk.page
 laughing-hoover.20-121-50-101.plesk.page
@@ -252075,6 +252097,7 @@ laughtercurtail.top
 laughterdecimal.top
 laughterentrust.top
 launch45723.xyz
+launchcircle.org
 launchruse.com
 launchyear.shop
 laundrycolonel.top
@@ -252601,6 +252624,7 @@ learnedexpiration.top
 learnernaivety.top
 learnerradiant.top
 learnerrenowned.top
+learnfield.study
 learnhoww.zapto.org
 learningconcession.top
 learningcrouch.top
@@ -252611,6 +252635,7 @@ learnjerk.top
 learnmore.study
 learnmotive.com
 learnnoise.net
+learnorat.com
 learnuxid.com
 learnwithline.com
 learnyprocce.bond
@@ -253102,6 +253127,7 @@ lessmultilateral.top
 lesson-first.info
 lessonmalicious.top
 lessonnonetheless.top
+lessonquarry.com
 lessonretrieve.top
 lessonstaple.top
 lesspeesbkgmhizkigecis.net
@@ -253459,6 +253485,7 @@ lgw3yxh.duckdns.org
 lgwgkfs5.duckdns.org
 lgyetkiliklimaservisi.com
 lgz4yy4ee.duckdns.org
+lh-hgastgn.sbs
 lh1gxr170.duckdns.org
 lh2yehyhu.duckdns.org
 lh4lfbe1a.duckdns.org
@@ -281848,6 +281875,7 @@ nibiru33.duckdns.org
 niboshiyahonpo.com
 nibzwtpmiw.duckdns.org
 nic-svc.net
+nicbar.shop
 nice-austin.77-90-38-140.plesk.page
 nice-goods.online
 nice.who1sbeee.xyz
@@ -284975,6 +285003,7 @@ nux58k7.duckdns.org
 nuxcdq.top
 nuxgera.xyz
 nuxmobomoob.site
+nuxor.bond
 nuyek.ddns.me
 nuyersar.com
 nuyterderfer.click
@@ -294976,6 +295005,7 @@ onlyturkish.xyz
 onlywsalmon.click
 onlyyahcts.com
 onlyymgc.com
+onmarktaktuel.cfd
 onmcrsft-workflow-mailcloudus17-web.com
 onmeda.click
 onmicrosft-us06web-zoom.com
@@ -308252,6 +308282,7 @@ pityuumwlmhd.duckdns.org
 piuwqnvohjibcy.cc
 pivactubmi.com
 pivo11333.ddns.net
+pivor.bond
 pivox.shop
 pivqmane.com
 pivyxebmfe.duckdns.org
@@ -319490,6 +319521,7 @@ qernolin.com
 qerona.live
 qertauiklap.shop
 qerton.store
+qerunavo.com
 qerx4tnnv.duckdns.org
 qeryxegwqucxbuvat.com
 qes4152br.duckdns.org
@@ -332401,6 +332433,7 @@ sabihinden-paranguvende.com
 sabinaengineering.com
 sabines-marmeladen.de
 sabioqalimthingjascareers.com
+sabir.yankeecap.cfd
 sabirlabekliyoruz.net
 sabirpo.ru
 sabirs.click
@@ -347194,6 +347227,7 @@ shopwigchamp.com
 shorandom.top
 shoreboxregion.top
 shoretrillion.top
+shorewander.com
 shorinana.com
 short-en.net
 short-ion-per.live
@@ -358423,6 +358457,7 @@ sponsor-market-indirimleri.online
 sponsor-mobil-360.site
 sponsor-mobil-tr.com
 sponsor-mobil-tr.online
+sponsor-online-mobil-internet-tr.online
 sponsor-reklami101.nicepage.io
 sponsor.cf
 sponsor.martfirsat.org
@@ -359034,6 +359069,7 @@ spotifyopen.com
 spotifyp.com
 spotifypremium.my.id
 spotlessimminentys.shop
+spotlightbrief.com
 spotlightdenotation.top
 spotlightreproach.top
 spotlightserial.top
@@ -360844,6 +360880,7 @@ starwork209.hopto.org
 starxpush7x.xyz
 starzoooon777.com
 starzstep.criptojackpot.com
+stashspring.com
 stashy.lat
 stashy.life
 stashy.lol
@@ -368306,6 +368343,7 @@ tavadatavuk.ml
 tavaevsn.net
 tavaevsyn.net
 tavaevsyn.xyz
+tavafirsati.cfd
 tavernique.info
 tavernsnowless.com
 tavevjou.duckdns.org
@@ -403327,6 +403365,7 @@ viltech.ml
 vimarnrespay.com
 vimarnrespay.sbs
 vimeoly.com
+vimeradokul.com
 vimilhxgz.duckdns.org
 vimiluu.com
 vimuhqrfgurxret.cn
@@ -421206,6 +421245,7 @@ xap.ss.la
 xapalrmtpe.duckdns.org
 xapangu.hopto.org
 xaphu0nk5n.duckdns.org
+xapul.bond
 xaqeilbcsyrpaqiytujrrldm.me
 xaqng.com
 xaqwg226.app
