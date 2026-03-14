@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-14 12:22:53 UTC
-! Total: 353700 rules
+! Last modified: 2026-03-14 13:37:04 UTC
+! Total: 353706 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26582,6 +26582,7 @@
 *://*.akttuelkapinda1101.co/*
 *://*.akttuelkasim-indirimlerr.com/*
 *://*.aktu2l-urunler-22m.cfd/*
+*://*.aktualdipr.com/*
 *://*.aktudepazkar.com/*
 *://*.aktueeladresindecampny.sbs/*
 *://*.aktueelmerkezz.click/*
@@ -46963,6 +46964,7 @@
 *://*.beklemedengelin.net/*
 *://*.beklemedenkonus.com/*
 *://*.beklemekteolangelecek.net/*
+*://*.beklemelere.com/*
 *://*.beklemelereson.com/*
 *://*.beklemelereson.net/*
 *://*.beklemelereson.org/*
@@ -85369,6 +85371,7 @@
 *://*.danyelcompletalien.ml/*
 *://*.danyeneoses03.site/*
 *://*.danylmassey574.xyz/*
+*://*.dao-asiiv.icu/*
 *://*.daodayetankaigan.top/*
 *://*.daopker.com/*
 *://*.daopoker.com/*
@@ -196055,6 +196058,7 @@
 *://*.kgm-goa.com/*
 *://*.kgm-goe.com/*
 *://*.kgm-goh.com/*
+*://*.kgm-gom.com/*
 *://*.kgm-gou.com/*
 *://*.kgm-gov-co.me/*
 *://*.kgm-gov-shop.top/*
@@ -210124,6 +210128,7 @@
 *://*.maliyekamu.org/*
 *://*.maliyekarar.org/*
 *://*.maliyekontrol.com/*
+*://*.maliyekontrol.org/*
 *://*.maliyekontrolu.com/*
 *://*.maliyekurulu.com/*
 *://*.maliyem.com.tr/*
@@ -311400,6 +311405,7 @@
 *://*.turkiyeyardim.xyz/*
 *://*.turkiyeyardimhizmetleri.org/*
 *://*.turkiyeyegetir.com/*
+*://*.turkiyeyemegegel.com/*
 *://*.turkiyeyeni.org/*
 *://*.turkiyeylebimcelliol.com/*
 *://*.turkiyeyuzyili.online/*
