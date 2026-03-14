@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-14 05:04:40 UTC
-! Total: 353687 rules
+! Last modified: 2026-03-14 06:30:46 UTC
+! Total: 353692 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -85301,6 +85301,7 @@
 *://*.danismankayitlarimiz.online/*
 *://*.danismanlikodemesistemi.com/*
 *://*.danismanlikturkey.shop/*
+*://*.danismanmedym.com/*
 *://*.danismannform.online/*
 *://*.danismaofisi.com/*
 *://*.danito.rs/*
@@ -126928,6 +126929,7 @@
 *://*.firsatikazanmakicinkatilhemen.tech/*
 *://*.firsatiln.site/*
 *://*.firsatim-a1o1.net/*
+*://*.firsatim-carrefoursa.com/*
 *://*.firsatim-ekstra.online/*
 *://*.firsatimaktuel-101.name.tr/*
 *://*.firsatimal.com/*
@@ -192689,6 +192691,7 @@
 *://*.karacasonkasim-ozelfirsatlar.xyz/*
 *://*.karacastore.net.tr/*
 *://*.karacastore.org.tr/*
+*://*.karacatava.cfd/*
 *://*.karacatc.cfd/*
 *://*.karacatc.com/*
 *://*.karacatcb.cfd/*
@@ -307522,8 +307525,10 @@
 *://*.trpttgovot.cc/*
 *://*.trpttgovou.cc/*
 *://*.trpttgovp.cc/*
+*://*.trpttgovpc.cc/*
 *://*.trpttgovpe.cc/*
 *://*.trpttgovpl.cc/*
+*://*.trpttgovpv.cc/*
 *://*.trpttgovr.cc/*
 *://*.trpttgovres.help/*
 *://*.trpttgovrr.ink/*
