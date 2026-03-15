@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-15 15:23:16 UTC
-# Toplam: 443712 Domain
+# Son Güncelleme: 2026-03-15 18:23:25 UTC
+# Toplam: 443724 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13091,6 +13091,7 @@
 3owala.shopbuyreviews.com
 3ozpf7d.duckdns.org
 3p.ms
+3p01i3lkx.icu
 3p1gtr5.duckdns.org
 3p3hyg4.duckdns.org
 3p5n1lk6a2apgrg2oj7rm0e.ddns.net
@@ -15591,6 +15592,7 @@
 546yra6f.duckdns.org
 54725r1rcfofwvot3ledmts.ddns.net
 54745799090548989456764.duckdns.org
+547523034880.duckdns.org
 54765-coinbase.com
 54779362121.cloud
 5478965441788554.online
@@ -16051,6 +16053,7 @@
 5b3aad15.yh764theb.com.cn
 5b3dka40h.duckdns.org
 5b3yn1k.duckdns.org
+5b3z1x46m416.duckdns.org
 5b5lyhghexwro8ulera.ddns.net
 5b6b7b.info
 5b77qzc.duckdns.org
@@ -32279,6 +32282,7 @@ ads-moon.top
 ads-moon.xyz
 ads-pill.top
 ads-pill.xyz
+ads-redirect.online
 ads-semrush.com
 ads-star.online
 ads-star.site
@@ -82126,6 +82130,7 @@ bnxinenisynxdrmlrmbxn.sa.com
 bnxldmrisndixmdlridmsi.com.tr
 bnxldmrisndixmdlridmsi.online
 bnyalas.click
+bnyasmaot.xyz
 bnyazkampanyasii.net
 bnyeniyilbasvurutr.com
 bnyfrt.top
@@ -223365,6 +223370,7 @@ istanbul-kolayca-yukle.online
 istanbul-lkart.blogspot.com
 istanbul-lojistik.shop
 istanbul-neco.net
+istanbul-ofis-tasima.shop
 istanbul-onlineislem.com
 istanbul-onlinekartyuklemeleri.com
 istanbul-soft.com.tr
@@ -223866,6 +223872,7 @@ istanbullbakiyesillik.net
 istanbullblog2025.myshopify.com
 istanbullbrsibb.net
 istanbullcarddd.org
+istanbullccokkguzell.com
 istanbullcumbakim.pro
 istanbullda.shop
 istanbulldestekburasi.com
@@ -223949,6 +223956,7 @@ istanbulluxms.com
 istanbullyklmss.com
 istanbulm-yukleme.online
 istanbulmatik.giize.com
+istanbulmatiks.webredirect.org
 istanbulmaxi.shop
 istanbulmemis.com
 istanbulmerkez.click
@@ -230262,6 +230270,7 @@ jelevao.com
 jelimbokorsakire.site
 jelj82m4e.duckdns.org
 jellybaby.zapto.org
+jellybon-sa.cfd
 jellycoexistence.top
 jellyfin-server-jarvis.duckdns.org
 jellyplateau.top
@@ -241978,6 +241987,7 @@ kgm-islem.blogspot.com
 kgm-kgs.com
 kgm-oag.com
 kgm-odeme.com
+kgm-odemee.com
 kgm-oga.com
 kgm-ogc.com
 kgm-ogd.com
@@ -362694,6 +362704,7 @@ sube-sekerbankasi.com
 sube-sekerbankfirsatlari.com
 sube-siz-gi-ris-denizban-k.tk
 sube-siz-login.website
+sube-t-e-b.my-homeip.net
 sube-teb-bireysel-tr.cf
 sube-teb-katilim-tr.com
 sube-teb-yatirimtr.com
@@ -437311,6 +437322,7 @@ yudefohuko.com
 yudfrhtdl.info
 yudops.online
 yudum-aycicek-yagi-18lt-4adet.online
+yudum-aycicek.duckdns.org
 yudum-aycicekhemensiparis.eticret.icu
 yudum699lt.me
 yudumaycicekyag699.cfd
