@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-16 01:07:40 UTC
-! Total: 353802 rules
+! Last modified: 2026-03-16 04:27:47 UTC
+! Total: 353815 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35425,15 +35425,21 @@
 *://*.arukjdz.com/*
 *://*.arunews2.ru/*
 *://*.arunvakfi.org/*
+*://*.arvex.shop/*
+*://*.arvexa.shop/*
 *://*.arvexa.site/*
 *://*.arvexaapp.shop/*
+*://*.arvexaapp.site/*
 *://*.arvexaapp.store/*
+*://*.arvexahq.shop/*
+*://*.arvexahq.site/*
 *://*.arvexahq.store/*
 *://*.arvexahubs.shop/*
 *://*.arvexahubs.site/*
 *://*.arvexahubs.store/*
 *://*.arvexalabs.shop/*
 *://*.arvexalabs.site/*
+*://*.arvexalabs.store/*
 *://*.arvion.site/*
 *://*.arvionapp.site/*
 *://*.arvionhq.site/*
@@ -38673,10 +38679,12 @@
 *://*.axionhubs.shop/*
 *://*.axioraapp.shop/*
 *://*.axioraapp.site/*
+*://*.axioraapp.store/*
 *://*.axiorahq.shop/*
 *://*.axiorahq.site/*
 *://*.axiorahq.store/*
 *://*.axiorahubs.shop/*
+*://*.axiorahubs.site/*
 *://*.axiorahubs.store/*
 *://*.axioralabs.shop/*
 *://*.axioralabs.store/*
@@ -76641,6 +76649,7 @@
 *://*.cleverlayer.top/*
 *://*.clevertrade.top/*
 *://*.cleverwedge.cn/*
+*://*.clevoxlabs.store/*
 *://*.clfonl365.xyz/*
 *://*.clfslcdsklfcsdfcsjdfcdskfs.sbs/*
 *://*.clgnfstaln.cfd/*
@@ -124441,6 +124450,7 @@
 *://*.fenniekibi.net/*
 *://*.fenomenbegeni.com/*
 *://*.fenomeno.gq/*
+*://*.fenora.shop/*
 *://*.fenoralabs.shop/*
 *://*.fenoraxis.sbs/*
 *://*.fenory.store/*
@@ -137586,6 +137596,7 @@
 *://*.getkilla.xyz/*
 *://*.getkira.info/*
 *://*.getkitplayer.com/*
+*://*.getkronex.shop/*
 *://*.getlaztot.store/*
 *://*.getle-paranizguvende.com/*
 *://*.getlinkpayment.com/*
@@ -138645,6 +138656,7 @@
 *://*.giris-kartiadeaidatgovtr.org/*
 *://*.giris-kgm-sorg.digital/*
 *://*.giris-koinim.com/*
+*://*.giris-kontrol.com/*
 *://*.giris-kurumsal-odemeler.site/*
 *://*.giris-login-hizlikartdoldurrmaizmirlxsxskf.net/*
 *://*.giris-login.de/*
@@ -198513,6 +198525,7 @@
 *://*.kmpnynzbrd.com/*
 *://*.kmpnynzsizlerleburada.com/*
 *://*.kmpnyprmsynckls0.live/*
+*://*.kmpnysprmsyncklss.live/*
 *://*.kmpnytaaaqnbbbsvrrr.click/*
 *://*.kmpnyyaaaaceeeekilisssssstoogggg.cloud/*
 *://*.kmpnyyaaaaceeeekilissstoogggg.cloud/*
