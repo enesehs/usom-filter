@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-16 11:37:14 UTC
-# Toplam: 443808 Domain
+# Son Güncelleme: 2026-03-16 12:40:03 UTC
+# Toplam: 443828 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14262,6 +14262,7 @@
 49z065zv54.duckdns.org
 49z1pok.duckdns.org
 4a0a28b6.top
+4a3d.com
 4a515y3.duckdns.org
 4a71147c.jdhuwoskz.cloud
 4a80jrq.uuhzb.ru
@@ -21703,6 +21704,7 @@
 9da3ecce.icu
 9da3ecce.shop
 9dc6gj.duckdns.org
+9de1.com
 9djuknqc.duckdns.org
 9dkmbgrn.duckdns.org
 9dmv5p.duckdns.org
@@ -26191,6 +26193,7 @@ aaasssddd-24246.portmap.host
 aaastyloff.xyz
 aaauth-logon-m-trzoo.webflow.io
 aaavabanjbxwvsr.su
+aaaww222111111111.duckdns.org
 aaaxxx60.hopto.org
 aaba.zapto.org
 aabdhska-shdhamm-absnama.sbs
@@ -47665,6 +47668,7 @@ apply-free-tick.netlify.app
 apply-get-badge.org
 apply-get-tick.netlify.app
 apply-get-verified-badge-eight.vercel.app
+apply-next.tempurl.host
 apply-now-meta-free-verfied-badge-m.vercel.app
 apply-now-online-digital.com
 apply-re-for-verification-badge.vercel.app
@@ -56764,6 +56768,7 @@ b3b3kl3r.gdn
 b3ce1ezifnp2tsc.duckdns.org
 b3cell.com
 b3cgyd8.duckdns.org
+b3d0.com
 b3dodetanirlar.online
 b3egb2.duckdns.org
 b3eqd1.duckdns.org
@@ -65013,6 +65018,7 @@ beklemelere.com
 beklemelereson.com
 beklemelereson.net
 beklemelereson.org
+beklemenizegerekkalmadan.com
 beklemenizegerekkalmadan.net
 beklemexgecisim.sg-host.com
 beklemeyukleee.sg-host.com
@@ -82026,7 +82032,9 @@ bntrnnrcnonline-girisitr.com
 bntrodulist.pro
 bntroin.vercel.app
 bntronlinebasvuru.com
+bntrpbol.xyz
 bntrpdol.xyz
+bntrphol.xyz
 bntrprol.xyz
 bntrrainsbowiftes.vercel.app
 bntrraivvdnbowiftes.vercel.app
@@ -92352,6 +92360,7 @@ careforsamrkettt.cfd
 careforsanal.cfd
 careforsasper.cfd
 carefour-arg.com
+carefour-sepetim.com
 carefour-tr.cfd
 carefour.jiahs.xyz
 carefour.sa.com
@@ -127307,6 +127316,7 @@ drkantesiziciddenaglatir-c8ee3cf1dc51.herokuapp.com
 drkantesiziciddenaglatirrr-b203f9395d71.herokuapp.com
 drkantesiziciddeninletirrrrr-a62421a3b1b8.herokuapp.com
 drkantesiziciddeninnnletirrr-857fd06a7c45.herokuapp.com
+drkantesiziciddenmuahoperrrr-6fe4ee512d93.herokuapp.com
 drkantesiziciddennaglatirr-d5f13ff8cb02.herokuapp.com
 drkantesiziciddennaglatirrmuah-4f1ba373f9d7.herokuapp.com
 drkantesiziciddenseveramafena-cea43606495a.herokuapp.com
@@ -140270,6 +140280,7 @@ ef-oh.com
 ef09i53te.duckdns.org
 ef0aba3698.com
 ef0gre3.duckdns.org
+ef0h.com
 ef1x2gnvl.duckdns.org
 ef31f54cea54.net
 ef3bg4qpolkvqfy8ifepyho.ddns.net
@@ -188859,6 +188870,7 @@ hamenkazan.com
 hamenox1t3yz.xyz
 hamepureaf.xyz
 hamer.zapto.org
+hamhamhamhamhmaham435234.com
 hamhose.top
 hamid424242.zapto.org
 hamidibabo.online
@@ -242105,6 +242117,7 @@ kgm.cwptmz.help
 kgm.gofmsz.help
 kgm.govtek.help
 kgm.gzdmxw.help
+kgm.hcbxkx.homes
 kgm.hmksym.homes
 kgm.jalpey.homes
 kgm.jbbang.com
@@ -243946,6 +243959,7 @@ kizilaybagisyap.com
 kizilaydestek.vg
 kizilayhaliyikamadertesene.site
 kizilayiadesistemi.com
+kizilaymenkul.com
 kizilayyardim.com
 kizimanchi.cf
 kizimbenmatmazel.net
@@ -256636,6 +256650,7 @@ lovedance666.com
 loveeejoe.hopto.org
 lovegodalways.ddns.net
 lovehome19.com
+lovehomely.com
 loveitsomuch.com
 lovekplerdx.com
 lovekxa.com
@@ -277269,6 +277284,7 @@ mydfoflvtxqckjj.com
 mydigi-nationaal.ddns.net
 mydigital.my-homeip.com
 mydigitalfederallo.hopto.org
+mydigitalrevival.com
 mydirectpages.hopto.org
 mydise-eksi.ddns.net
 mydiv.zapto.org
@@ -299922,6 +299938,7 @@ palenko.net
 palesana.net
 paleshrubbery.top
 palestrand.top
+paletolife.com
 paletsirih.com
 paley.zapto.org
 palifaxbul.com
@@ -334592,6 +334609,7 @@ sahibinden-mobil.tr-sepetin.com
 sahibinden-mobilde.com
 sahibinden-mobile.app
 sahibinden-mobile.com
+sahibinden-mobilhizmetalimi.site
 sahibinden-mparamguvende.ml
 sahibinden-net.cf
 sahibinden-net.ga
@@ -374048,6 +374066,7 @@ theirvogue.top
 theislem.22web.org
 theisnonamelikethis29123.com
 theissuebook.com
+theistnflaskfd.com
 theitbugreportbeta.com
 theitchjasmine.online
 thejeaxy.online
@@ -409788,6 +409807,7 @@ webmaster-service3290.tripod.com
 webmaster.basvuru-toki.sa.com
 webmasterbl.duckdns.org
 webmayista-finans-kazandiriyor.gq
+webmensagens4bb7.com
 webmerkezigiris-kurumsalbasvurma.com
 webmerkezinfo.com
 webmerkezis-webinfo.icu
