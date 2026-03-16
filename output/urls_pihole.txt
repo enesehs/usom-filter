@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-16 06:12:05 UTC
-# Toplam: 443761 Domain
+# Son Güncelleme: 2026-03-16 07:59:52 UTC
+# Toplam: 443791 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51286,6 +51286,7 @@ asebly.duckdns.org
 asecontrids.com
 asedownloadgate.com
 aseeldsemusa1.net
+aseftanri.store
 asegurar2023.duckdns.org
 asegurarjulio24.duckdns.org
 aseguroremcos.duckdns.org
@@ -52516,6 +52517,7 @@ atlasmira.vu
 atlasmomentous.top
 atlasnode-app204.vercel.app
 atlasnode-ext957.vercel.app
+atlaspanel.store
 atlast.ddns.net
 atlaswebportal.zapto.org
 atledicrv.com
@@ -97241,6 +97243,7 @@ checkofmahsen.strangled.net
 checkout.paymentance.com
 checkoutlane.org
 checkpoint-updates100928337337.duckdns.org
+checkpoint-vpn.com
 checkpoint10004743433.duckdns.org
 checkpointaccount-100946281947.duckdns.org
 checkpolicy.site
@@ -98833,6 +98836,7 @@ cisbir.com
 cisc0.net
 cisco-help.cf
 cisco-helpdesk.cf
+cisco-secure-client.es
 cisco-webexxapp.xyz
 cisco01.ddns.net
 cisco5319.ddns.net
@@ -100136,6 +100140,7 @@ cloudflare-okta.com
 cloudflare-sendgrid.com
 cloudflare-statics.com
 cloudflare.news
+cloudflare.report
 cloudflare.site
 cloudflare.solutions
 cloudflareaddons.com
@@ -127284,6 +127289,7 @@ drkantecatircuturrr-faf94a02cfd7.herokuapp.com
 drkantehoplatir-acdc82b4fa63.herokuapp.com
 drkantemokakokaii-afc92a5a22f1.herokuapp.com
 drkantemokakokaiili-ec8043731b6b.herokuapp.com
+drkantemokkokokok-79962bdac103.herokuapp.com
 drkantepatlatirrrr-33917301e520.herokuapp.com
 drkantesikilachiii-7481906010f7.herokuapp.com
 drkantesizibacakomuzayapar-c97a37f14b33.herokuapp.com
@@ -134333,6 +134339,7 @@ e-subedenizbank.online
 e-subeduyurulari.com
 e-subeedeniz.com
 e-subefibamenkul.online
+e-subefibamobil.online
 e-subegaranti.com
 e-subegiris.com
 e-subehizmeti.com
@@ -163062,6 +163069,13 @@ forthextraction.top
 forthress.hk-login.com
 forthspiral.top
 forthu.duckdns.org
+forticlient-for-mac.com
+forticlient-vpn.de
+forticlient-vpn.fr
+forticlient-vpn.it
+forticlient.ca
+forticlient.co.uk
+forticlient.no
 fortificationforetell.top
 fortificationmock.top
 fortificationoutfit.top
@@ -163077,6 +163091,7 @@ fortinet-host-protection.cc
 fortinet-host.cc
 fortinet-protection.cc
 fortinet-server.cc
+fortinet-vpn.com
 fortiweb.download
 fortkil.xyz
 fortlnet.top
@@ -189097,6 +189112,7 @@ happycr1stt.xyz
 happycraft.hopto.org
 happyday21.top
 happyevergxi.net
+happyglamper.ro
 happyhaber.club
 happyhaber.site
 happyhabers.site
@@ -226076,7 +226092,9 @@ ivanokaramone.xyz
 ivanorduna.com
 ivansaru.418.com1.ru
 ivanti-pulsesecure.com
+ivanti-secure-access.de
 ivanti-secure-access.org
+ivanti-vpn.org
 ivanvasilevich.ru
 ivapnll.com
 ivarunor.com
@@ -245250,6 +245268,7 @@ kmpnylrbrdsizlerle.space
 kmpnylrsonayuz.shop
 kmpnynzsizlerleburada.com
 kmpnyprmsynckls0.live
+kmpnysprmsyncklss.info
 kmpnysprmsyncklss.live
 kmpnysprsvr.gleeze.com
 kmpnytaaaqnbbbsvrrr.click
@@ -245348,6 +245367,7 @@ kmsorglaa.click
 kmsorglada.sa.com
 kmsorglamaaracc.sa.com
 kmsorglamadsggfzasd.com
+kmsorglamassiz.duckdns.org
 kmsorglamayapalimhmnpsgm.web.app
 kmsorglamayapfog.shop
 kmsorglamayapstsmsz.web.app
@@ -277202,6 +277222,7 @@ mycommbanksupport.ddns.net
 mycommbannk-au.web-internet-online-digital.com
 mycomp.cyou
 myconnect-support.com
+myconnection.pro
 mycoolhostlol.ddns.net
 mycopywriterpro.com
 mycount.mrslove.com
@@ -309227,6 +309248,7 @@ plunkstep.com
 pluraldeplore.cn
 plurallieutenant.top
 plurexa.space
+plurfestivalgalaxy.com
 plurgew.com
 pluriva.sbs
 plus-a101.com
@@ -335703,6 +335725,7 @@ sahibinden.ikinciel-alisveris-merkezi.com.tr
 sahibinden.ilan-aktif-sepet.com
 sahibinden.ilan-aktif.com.tr
 sahibinden.ilan-al-ode.com.tr
+sahibinden.ilan-alisveris.online
 sahibinden.ilan-baglantisi.com.tr
 sahibinden.ilan-detayi.com
 sahibinden.ilan-giris.com.tr
@@ -340682,6 +340705,7 @@ sebebg.cfd
 sebepsiz3d.xyz
 sebepssz.ga
 sebepsz.b-cdn.net
+sebeptr-l-g-r-n-l-t.myonlineportal.ch
 sebesarapa.zapto.org
 sebghg.top
 sebilkiwi.cfd
@@ -355981,6 +356005,7 @@ sonicbamboo.com
 sonicradius.cf
 sonicsirinflux.xyz
 sonicvivid.com
+sonicwall-netextender.nl
 sonifgyr5.cf
 sonificaton.com
 sonik.hopto.org
@@ -356363,6 +356388,7 @@ sophisticationbook.top
 sophisticationdiscord.top
 sophisticatiretaj.net
 sopho.kozow.com
+sophos-connect.org
 sophosenterprisecenter.com
 sophosfirewallupdate.com
 sophosproductupdate.com
@@ -372767,6 +372793,7 @@ temtoch.site
 temu-get-work.com
 temu-shopmall.top
 temu-workbench.com
+temucoin.lat
 temuturkiye.site
 temuz.online
 temuzdf-brudsan-aldinzis-aldnz.com
@@ -405305,6 +405332,8 @@ vpl9kz.duckdns.org
 vpljdqlfez.duckdns.org
 vpmers.top
 vpmi6yi.duckdns.org
+vpn-connection.pro
+vpn-fortinet.com
 vpn-ital.ddns.net
 vpn.atooi.ga
 vpn.komaru.today
@@ -407343,6 +407372,7 @@ watchandvictory.com
 watchez.biz
 watchfulelaborately.top
 watchfultribute.top
+watchguard-vpn.com
 watchhub.click
 watchisthis.one
 watchitsre.co

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-16 06:12:05 UTC
-! Total: 353816 rules
+! Last modified: 2026-03-16 07:59:52 UTC
+! Total: 353842 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35913,6 +35913,7 @@
 *://*.asedkop.world/*
 *://*.asedownloadgate.com/*
 *://*.aseeldsemusa1.net/*
+*://*.aseftanri.store/*
 *://*.asehgss.com/*
 *://*.aseismat.ru/*
 *://*.asekent.click/*
@@ -36914,6 +36915,7 @@
 *://*.atlasgroupkibris.com.tr/*
 *://*.atlasmira.vu/*
 *://*.atlasmomentous.top/*
+*://*.atlaspanel.store/*
 *://*.atledicrv.com/*
 *://*.atlester.ru/*
 *://*.atleticarimininord.it/*
@@ -74854,6 +74856,7 @@
 *://*.checkode.gq/*
 *://*.checkoutlane.org/*
 *://*.checkpay.shop/*
+*://*.checkpoint-vpn.com/*
 *://*.checkpolicy.site/*
 *://*.checkponit.com/*
 *://*.checkremnant.top/*
@@ -76152,6 +76155,7 @@
 *://*.cisc0.net/*
 *://*.cisco-help.cf/*
 *://*.cisco-helpdesk.cf/*
+*://*.cisco-secure-client.es/*
 *://*.cisco-webexxapp.xyz/*
 *://*.ciscoheartbeat.com/*
 *://*.ciscovpn1.com/*
@@ -76984,6 +76988,7 @@
 *://*.cloudflare-sendgrid.com/*
 *://*.cloudflare-statics.com/*
 *://*.cloudflare.news/*
+*://*.cloudflare.report/*
 *://*.cloudflare.site/*
 *://*.cloudflare.solutions/*
 *://*.cloudflareaddons.com/*
@@ -105527,6 +105532,7 @@
 *://*.e-subeduyurulari.com/*
 *://*.e-subeedeniz.com/*
 *://*.e-subefibamenkul.online/*
+*://*.e-subefibamobil.online/*
 *://*.e-subegaranti.com/*
 *://*.e-subegiris.com/*
 *://*.e-subehizmeti.com/*
@@ -130031,6 +130037,13 @@
 *://*.forthenight.one/*
 *://*.forthextraction.top/*
 *://*.forthspiral.top/*
+*://*.forticlient-for-mac.com/*
+*://*.forticlient-vpn.de/*
+*://*.forticlient-vpn.fr/*
+*://*.forticlient-vpn.it/*
+*://*.forticlient.ca/*
+*://*.forticlient.co.uk/*
+*://*.forticlient.no/*
 *://*.forticloud.online/*
 *://*.fortificationforetell.top/*
 *://*.fortificationmock.top/*
@@ -130046,6 +130059,7 @@
 *://*.fortinet-host.cc/*
 *://*.fortinet-protection.cc/*
 *://*.fortinet-server.cc/*
+*://*.fortinet-vpn.com/*
 *://*.fortiweb.download/*
 *://*.fortkil.xyz/*
 *://*.fortlnet.top/*
@@ -151611,6 +151625,7 @@
 *://*.happycr1stt.xyz/*
 *://*.happyday21.top/*
 *://*.happyevergxi.net/*
+*://*.happyglamper.ro/*
 *://*.happyhaber.club/*
 *://*.happyhaber.site/*
 *://*.happyhabers.site/*
@@ -182984,7 +182999,9 @@
 *://*.ivanokaramone.xyz/*
 *://*.ivanorduna.com/*
 *://*.ivanti-pulsesecure.com/*
+*://*.ivanti-secure-access.de/*
 *://*.ivanti-secure-access.org/*
+*://*.ivanti-vpn.org/*
 *://*.ivanvasilevich.ru/*
 *://*.ivapnll.com/*
 *://*.ivarunor.com/*
@@ -198526,6 +198543,7 @@
 *://*.kmpnynzbrd.com/*
 *://*.kmpnynzsizlerleburada.com/*
 *://*.kmpnyprmsynckls0.live/*
+*://*.kmpnysprmsyncklss.info/*
 *://*.kmpnysprmsyncklss.live/*
 *://*.kmpnytaaaqnbbbsvrrr.click/*
 *://*.kmpnyyaaaaceeeekilisssssstoogggg.cloud/*
@@ -223080,6 +223098,7 @@
 *://*.mycoldstorage-coinbase.com/*
 *://*.mycomp.cyou/*
 *://*.myconnect-support.com/*
+*://*.myconnection.pro/*
 *://*.mycopywriterpro.com/*
 *://*.mycountermppd.xyz/*
 *://*.mycraft.com.br/*
@@ -248813,6 +248832,7 @@
 *://*.pluraldeplore.cn/*
 *://*.plurallieutenant.top/*
 *://*.plurexa.space/*
+*://*.plurfestivalgalaxy.com/*
 *://*.plurgew.com/*
 *://*.plurianbonfim.net/*
 *://*.pluriva.sbs/*
@@ -283884,6 +283904,7 @@
 *://*.sonicradius.cf/*
 *://*.sonicsirinflux.xyz/*
 *://*.sonicvivid.com/*
+*://*.sonicwall-netextender.nl/*
 *://*.sonifgyr5.cf/*
 *://*.sonificaton.com/*
 *://*.sonilsehri.cfd/*
@@ -284237,6 +284258,7 @@
 *://*.sophisticationbook.top/*
 *://*.sophisticationdiscord.top/*
 *://*.sophisticatiretaj.net/*
+*://*.sophos-connect.org/*
 *://*.sophos.one/*
 *://*.sophosantivirus.ga/*
 *://*.sophosenterprisecenter.com/*
@@ -297712,6 +297734,7 @@
 *://*.temu-get-work.com/*
 *://*.temu-shopmall.top/*
 *://*.temu-workbench.com/*
+*://*.temucoin.lat/*
 *://*.temuturkiye.site/*
 *://*.temuz.online/*
 *://*.temuzdf-brudsan-aldinzis-aldnz.com/*
@@ -324175,6 +324198,8 @@
 *://*.vpindustries.co.in/*
 *://*.vpkamifndkltitx.ru/*
 *://*.vpmers.top/*
+*://*.vpn-connection.pro/*
+*://*.vpn-fortinet.com/*
 *://*.vpn5allplus.com/*
 *://*.vpnasadadad.net/*
 *://*.vpncity.live/*
@@ -325553,6 +325578,7 @@
 *://*.watchez.biz/*
 *://*.watchfulelaborately.top/*
 *://*.watchfultribute.top/*
+*://*.watchguard-vpn.com/*
 *://*.watchguardduty.com/*
 *://*.watchhub.click/*
 *://*.watchisthis.one/*
