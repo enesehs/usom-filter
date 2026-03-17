@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-17 18:42:55 UTC
-# Toplam: 443995 Domain
+# Son Güncelleme: 2026-03-17 20:26:15 UTC
+# Toplam: 444014 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40226,6 +40226,7 @@ aktuelindirimlerimiz.info
 aktuelindirimlerimiz.life
 aktuelindirimlerimiz.online
 aktuelindirimliurunler18.duckdns.org
+aktuelindmrktleri.cfd
 aktuelinfirsatla101.com
 aktuelinidnrigvakti.com
 aktueliniz.icu
@@ -90207,6 +90208,7 @@ bytestrxeam.ru
 bytesyncs.com
 bytet.ddns.net
 bytfl.site
+bytfonliuzouckhmo.online
 bytheskin.xyz
 byticsecure.com
 bytkgswbgcsodeihllhizli.duckdns.org
@@ -99358,6 +99360,7 @@ ckrneze-2023-2020son.com
 cksjs9.duckdns.org
 ckslcskcskcscc.net
 cksllprmsynnnkmpnya.info
+cksllprmsynnnkmpnya.live
 cksllprmsynnnkmpnya.pro
 ckstar.zapto.org
 cksternima.ietebuyelf.ru
@@ -142442,6 +142445,7 @@ ekinokss.name.tr
 ekinvakfi.site
 ekip09freeavie.org
 ekipcheck.com.tr
+ekiphabermedya.com
 ekisevdepaketleme.com
 ekisevdepaketleme.store
 ekisistem.info
@@ -164258,6 +164262,7 @@ frs0larkar0.shop
 frs1sac0sad-1cs.sbs
 frs2024akkcmzzbu.site
 frs7012.sa.com
+frsaaktuelindmrktleri.cfd
 frsaatanala.cfd
 frsamsdnasbralarda.giize.com
 frsat-indrmleri-siz-bize-hbr-vxhshsn.com.tr
@@ -180421,6 +180426,7 @@ guncel-odemeler.com
 guncel-satin-alim.online
 guncel-sepetler.biz.tr
 guncel-sepetler.name.tr
+guncel-sepetler.org.tr
 guncel-sepetler.tv.tr
 guncel-sepetler.web.tr
 guncel-sikayet-burda.ml
@@ -180845,6 +180851,8 @@ guncelsikayetler-73.sbs
 guncelsikayetler-74.sbs
 guncelsikayetler-781.sbs
 guncelsikayetler-782.sbs
+guncelsikayetler-812.sbs
+guncelsikayetler-813.sbs
 guncelsikayetler-a11.com
 guncelsikayetler-c12.sbs
 guncelsikayetler-c13.sbs
@@ -194969,6 +194977,7 @@ hepsiburadax.com
 hepsiburaday.com
 hepsiburadayaninda.com
 hepsiburadayeniadres.com
+hepsiburadayeniadres.net
 hepsiburadayeniadresim.com
 hepsiburadayeniadresim.org
 hepsiburadaz.com
@@ -198444,6 +198453,7 @@ hgssel.net
 hgssell.net
 hgssepetim.blogspot.com
 hgssepetin.site
+hgsser.site
 hgsservice65345.blogspot.com
 hgsservisi-antakya.xyz
 hgsservisi-bursa.xyz
@@ -221897,6 +221907,7 @@ iscepmaksimum.com
 iscepmaxibasvurutr.com
 iscepmaxibireysel.com
 iscepmaximumda.com
+iscepmbl.xyz
 iscepmobil-giris.cfd
 iscepmobil-giris.click
 iscepmobil-giris.cyou
@@ -225155,6 +225166,7 @@ istnbz.net
 istnbzz.net
 istncmbcell.net
 istnd.net
+istnfarktmdasdda.shop
 istnfd.net
 istnflsdk.com
 istnfz.net
@@ -264231,6 +264243,7 @@ mcmwpen.info
 mcnjhscmnr.citithespa.ru
 mcnodes.zapto.org
 mcntradeandreas.ddns.net
+mcnzkx.homes
 mcocsskan.net
 mcodashop-event.duckdns.org
 mcojis.duckdns.org
@@ -269706,6 +269719,7 @@ mobil-sosyaldevletdestegi.com
 mobil-sparamguvende.online
 mobil-sponsor-extra.online
 mobil-sponsor-market-tr.online
+mobil-sponsor-tr.lol
 mobil-sube-basvur-ekran.click
 mobil-sube-bireysel-giris.ml
 mobil-sube-denizbank.com
@@ -276399,6 +276413,7 @@ musteriportalbasvuruparibucom.tk
 musteriportali.online
 musteripromo.com
 musteripromosyonlarin.com
+musteriqbns.xyz
 musterisubesi-qnb.ga
 musteritemsilcinizz.com
 musteriziraatdestek.cfd
@@ -281444,6 +281459,7 @@ newsgraogermeander.com
 newsgroupupdate.com
 newshappys.dyndns-blog.com
 newsharlereans.com
+newshbrclk.cfd
 newsheanmerler.com
 newshearsupporty.com
 newshemo.com
@@ -316670,6 +316686,7 @@ pttgoovtr.top
 pttgoovv.top
 pttgoovz.top
 pttgorvv.top
+pttgost.cc
 pttgostvaxs-tr.icu
 pttgostvaxs-tr.sbs
 pttgostvaxs-tr.top
@@ -371336,6 +371353,7 @@ tekdokunus.website
 tekdokunus.website.gidatas.com
 tekdokunus.xyz
 tekdokunus.xyz.gidatas.com
+tekdokunuslaevinde.me
 tekeiteh.quest
 tekelenehe.net
 tekenkenege.net
@@ -438354,6 +438372,7 @@ yuzbirdefirsatlaringunu.icu
 yuzbirdefirsatlaringunu.my
 yuzbirdeindirim.com.tr
 yuzbirdeindirim.online
+yuzbirdenal.cfd
 yuzbirdenevinizee.top
 yuzbiregel.com.tr
 yuzbiregel.online
