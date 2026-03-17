@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-17 11:34:29 UTC
-! Total: 353965 rules
+! Last modified: 2026-03-17 12:38:16 UTC
+! Total: 353975 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47005,6 +47005,7 @@
 *://*.beklemelereson.com/*
 *://*.beklemelereson.net/*
 *://*.beklemelereson.org/*
+*://*.beklemenizegerekkalmadan.club/*
 *://*.beklemenizegerekkalmadan.com/*
 *://*.beklemenizegerekkalmadan.info/*
 *://*.beklemenizegerekkalmadan.net/*
@@ -56418,6 +56419,7 @@
 *://*.birilerivar-com.cfd/*
 *://*.birimandaolusturulankampanya.beauty/*
 *://*.birimelektronik.com/*
+*://*.birimhost.com/*
 *://*.birimlerimiz3212.com/*
 *://*.birimlerimiz9085.com/*
 *://*.birinizhepimiz156.com/*
@@ -65208,6 +65210,7 @@
 *://*.bsvrnoktasihzlihemnbasvr.com/*
 *://*.bsvrpromsynnkampanya.info/*
 *://*.bsvrpromsynnkampanya.pro/*
+*://*.bsvrrburadnnn.art/*
 *://*.bsvrrgrnti124242412.com/*
 *://*.bsvrrkmnpnyaa.click/*
 *://*.bsvrrkmonyaaprmsnyn.art/*
@@ -118852,6 +118855,7 @@
 *://*.esubemceptetebde.cf/*
 *://*.esubemceptetebim.cf/*
 *://*.esubemcepteteblim.cf/*
+*://*.esubemfibavarlikmobil.online/*
 *://*.esubemgaranti-tr.com/*
 *://*.esubemgarantibapps.xyz/*
 *://*.esubemgarantim.com/*
@@ -129535,6 +129539,7 @@
 *://*.focusfjord.com/*
 *://*.focusforeyes.buzz/*
 *://*.focusframephoto.com/*
+*://*.focusgroovy.com/*
 *://*.focusmingle.com/*
 *://*.focussilentpausekangaroo.com/*
 *://*.focussspace.com/*
@@ -135245,6 +135250,7 @@
 *://*.gatedocsview.com/*
 *://*.gateinfosecure.com/*
 *://*.gateleben.com/*
+*://*.gatemaden.space/*
 *://*.gatemetaphorical.top/*
 *://*.gatenewtechlikew.world/*
 *://*.gateporto-id8982.world/*
@@ -180987,6 +180993,7 @@
 *://*.istanbulkarll.lat/*
 *://*.istanbulkarrt.com/*
 *://*.istanbulkart-bakiye.org/*
+*://*.istanbulkart-bakiye.shop/*
 *://*.istanbulkart-bakiyeyukle.ml/*
 *://*.istanbulkart-dolum.com/*
 *://*.istanbulkart-hizlibakiyem.ml/*
@@ -181467,6 +181474,7 @@
 *://*.istannbuluntarihi.com/*
 *://*.istannnbullltlyuklemeeee724.tk/*
 *://*.istannnnbuulktttc.com/*
+*://*.istannnnbuulktttttc.shop/*
 *://*.istanns.net/*
 *://*.istannsd.net/*
 *://*.istannxbbullkart.gq/*
@@ -222891,6 +222899,7 @@
 *://*.mxayenereservation.net/*
 *://*.mxbilegirxsisbanka.online/*
 *://*.mxbilegxrisisbnka.online/*
+*://*.mxbkzc.help/*
 *://*.mxblog77.cfd/*
 *://*.mxbxlegirisisbnka.store/*
 *://*.mxclick.com/*
@@ -347867,6 +347876,7 @@
 *://*.yineodeme.ml/*
 *://*.yineodeme.tk/*
 *://*.yinesizlerleyizfirsalari.click/*
+*://*.yineyeniyenden.cfd/*
 *://*.yingchunjiaoguan.com/*
 *://*.yingguo.top/*
 *://*.yinghuxy.cn/*
