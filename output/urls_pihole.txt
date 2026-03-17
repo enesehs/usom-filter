@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-17 21:25:22 UTC
-# Toplam: 444020 Domain
+# Son Güncelleme: 2026-03-17 22:23:13 UTC
+# Toplam: 444031 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60334,6 +60334,7 @@ basvuru-acikdenizv2denizbankbireysel.online
 basvuru-acikdenizv2denizhediyebonus.com
 basvuru-acikdenizv2denizhediyebonus.online
 basvuru-acikmobilbireyselbasvuruformu.com
+basvuru-ai.sbs
 basvuru-aidat-geri-iadesi.com
 basvuru-aidat-geri-odeme.com
 basvuru-aidat-geri-odemesi.com
@@ -107811,6 +107812,7 @@ csdcsdscsd.top
 csdcvewdayuzbir.hopto.org
 csdfb-svssg-hfghj-gss.cyou
 csdfb-svssg-hfghj-gss.icu
+csdfccjkasjdcaskdcasdkc.sbs
 csdfcfklcklasklcdlacas.sbs
 csdfcklsdcaskdla.cfd
 csdfcklsdcaskdla.sbs
@@ -154205,6 +154207,7 @@ f3goz4f.duckdns.org
 f3i01l.duckdns.org
 f3id60hd.duckdns.org
 f3ip4.turcell.org
+f3k7x9m2q6b4n8hvat.cfd
 f3ksihzm5.duckdns.org
 f3skg8er.duckdns.org
 f3v53a.duckdns.org
@@ -164508,6 +164511,7 @@ fs5daf9asd5841as8d.digital
 fs5sokxmy.duckdns.org
 fs7ffn7p.duckdns.org
 fsaasggsasgakgsagsagsasga.xyz
+fsacsjdkscdadcas.sbs
 fsadf3rfsdfa.s3.eu-central-1.amazonaws.com
 fsadfasdasdfasdfrt.com
 fsadfasjhahajsd.net
@@ -221682,6 +221686,7 @@ isca-vasbvr.click
 iscaleos.com
 iscamvbul.net
 iscata-basvurmk.click
+iscbrhbr.sbs
 isceb-bireysel.com
 isceb-guncelkampanya.club
 isceb-kampanya.com
@@ -257073,6 +257078,7 @@ lscep.vercel.app
 lscepcekilis.com
 lsceps.com
 lscfrslmdnlsad.mooo.com
+lscpmbl.sbs
 lsdcheck.xyz
 lsddjkqxakumbotfgw.com
 lsdenizbank.com
@@ -292008,6 +292014,7 @@ online-mi-cro.narbutes.space
 online-mobil-aidat-iade-basvurusu-e-devlet-vatandas-2021.xyz
 online-mobil-aidat-iade-basvurusu-edevlet-2021.xyz
 online-mobil-alisveris-indirimli-101-mobil.linkpc.net
+online-mobil-cep-tr.com
 online-mobil-egiris.ml
 online-mobil-egiris.tk
 online-mobil-esubem.ml
@@ -329659,6 +329666,7 @@ rmzdnindrmleri.click
 rmzfwjxuxb.duckdns.org
 rmzksn.com
 rmzn-h-g-s-yukler.blogspot.com
+rmzn-indirimfirsatlari.online
 rmzn-pakler-101.blogspot.com
 rmznaaozelhrsy.click
 rmznbrdayik.blogspot.com
@@ -362768,6 +362776,7 @@ sube-denizbank.com
 sube-denizfirsat-tr.com
 sube-denizkazandiriyor.com
 sube-deniztr.com
+sube-digital-web.my-homeip.net
 sube-digitall.website
 sube-ehalkbank.com
 sube-enparamobilsube.com
@@ -364108,6 +364117,7 @@ substitutionsaddle.top
 substitutionvoid.top
 substitutionzigzag.top
 substitutives.live
+subt-l-ear-l-g-r-n-l.myonlineportal.ch
 subtener.duckdns.org
 subterrasphere.world
 subtitle1.duckdns.org
@@ -370673,6 +370683,7 @@ teb-subesi-cep-tr.com
 teb-subesi-cep.com
 teb-subesi.com
 teb-suprizleri.com
+teb-surprizler-burda.my-homeip.net
 teb-tr-online.com
 teb-tr.co
 teb-tr.com

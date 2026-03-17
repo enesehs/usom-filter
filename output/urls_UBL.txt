@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-17 21:25:22 UTC
-! Total: 354034 rules
+! Last modified: 2026-03-17 22:23:13 UTC
+! Total: 354042 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43021,6 +43021,7 @@
 *://*.basvuru-acikdenizv2denizhediyebonus.com/*
 *://*.basvuru-acikdenizv2denizhediyebonus.online/*
 *://*.basvuru-acikmobilbireyselbasvuruformu.com/*
+*://*.basvuru-ai.sbs/*
 *://*.basvuru-aidat-geri-iadesi.com/*
 *://*.basvuru-aidat-geri-odeme.com/*
 *://*.basvuru-aidat-geri-odemesi.com/*
@@ -83253,6 +83254,7 @@
 *://*.csdcsdscsd.top/*
 *://*.csdfb-svssg-hfghj-gss.cyou/*
 *://*.csdfb-svssg-hfghj-gss.icu/*
+*://*.csdfccjkasjdcaskdcasdkc.sbs/*
 *://*.csdfcfklcklasklcdlacas.sbs/*
 *://*.csdfcklsdcaskdla.cfd/*
 *://*.csdfcklsdcaskdla.sbs/*
@@ -122670,6 +122672,7 @@
 *://*.f321y.com/*
 *://*.f3322.net/*
 *://*.f3322.org/*
+*://*.f3k7x9m2q6b4n8hvat.cfd/*
 *://*.f4123dsite23.site/*
 *://*.f42d2.ru/*
 *://*.f42d50grfvazfqbxg13iwg33e11c29hrbsjvbx.com/*
@@ -131134,6 +131137,7 @@
 *://*.fs-tickets.ru/*
 *://*.fs5daf9asd5841as8d.digital/*
 *://*.fsaasggsasgakgsagsagsasga.xyz/*
+*://*.fsacsjdkscdadcas.sbs/*
 *://*.fsadfasdasdfasdfrt.com/*
 *://*.fsadfasjhahajsd.net/*
 *://*.fsadfasjkdaskj.net/*
@@ -179285,6 +179289,7 @@
 *://*.iscaleos.com/*
 *://*.iscamvbul.net/*
 *://*.iscata-basvurmk.click/*
+*://*.iscbrhbr.sbs/*
 *://*.isceb-bireysel.com/*
 *://*.isceb-guncelkampanya.club/*
 *://*.isceb-kampanya.com/*
@@ -207462,6 +207467,7 @@
 *://*.lscep.site/*
 *://*.lscepcekilis.com/*
 *://*.lsceps.com/*
+*://*.lscpmbl.sbs/*
 *://*.lsdcheck.xyz/*
 *://*.lsddjkqxakumbotfgw.com/*
 *://*.lsdenizbank.com/*
@@ -234360,6 +234366,7 @@
 *://*.online-mevduat-try.online/*
 *://*.online-mobil-aidat-iade-basvurusu-e-devlet-vatandas-2021.xyz/*
 *://*.online-mobil-aidat-iade-basvurusu-edevlet-2021.xyz/*
+*://*.online-mobil-cep-tr.com/*
 *://*.online-mobil-egiris.ml/*
 *://*.online-mobil-egiris.tk/*
 *://*.online-mobil-esubem.ml/*
@@ -264593,6 +264600,7 @@
 *://*.rmzcd.com/*
 *://*.rmzdnindrmleri.click/*
 *://*.rmzksn.com/*
+*://*.rmzn-indirimfirsatlari.online/*
 *://*.rmznaaozelhrsy.click/*
 *://*.rmzndacrfsadhycn.com/*
 *://*.rmznfirsatlariniixwx.click/*
