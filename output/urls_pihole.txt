@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-17 10:37:46 UTC
-# Toplam: 443936 Domain
+# Son Güncelleme: 2026-03-17 11:34:29 UTC
+# Toplam: 443941 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -140416,6 +140416,7 @@ efjowbdbaxxcxed.ru
 efjt0khzn.duckdns.org
 efkcdz4.duckdns.org
 eflow-payment.shop
+eflskardmtnsl.com
 efm1ej58.duckdns.org
 efn5ps.duckdns.org
 efnmvhj6.duckdns.org
@@ -203018,6 +203019,7 @@ hmnkatilsendebasvurfirsati2203yakla.shop
 hmnkatilsendefirsatlaricin.com
 hmnkatilson3kisi.com.tr
 hmnkgshgv.com
+hmnkhfhdfbc.com
 hmnkmpnyabrdaa.xyz
 hmnkpilarageliyrzbrda.com
 hmnkpilaraglyrzhzlica.com
@@ -203074,6 +203076,7 @@ hmnszinlefrsatalrgdunnyasndayzz.com
 hmnszinlefrsatalrgdunyasndayz.com
 hmnszinlefrsatalrgdunyasndayzz.com
 hmntklsndsalkrtds.pro
+hmnyklemecvcv.com
 hmnyklhdsh.com
 hmnzitakpzietzkicki.com
 hmobil-islemler.net
@@ -224893,6 +224896,7 @@ istmdsldfk.com
 istmerkestoplansizherkes.com
 istmfathtermadam.net
 istmhkbcxbn.com
+istmhkbnvcnc.com
 istmhkdfbvc.com
 istmhkfshsdcc.com
 istmhkhmn.com
@@ -250420,6 +250424,7 @@ kuveytturk-mobilsube.com
 kuveytturk-onlinebnk.com
 kuveytturk-onlinegiris.com
 kuveytturk-promosyon-hemen.duckdns.org
+kuveytturk-promosyon-hemengir.duckdns.org
 kuveytturk-promosyon-takip.duckdns.org
 kuveytturk-promosyon-takipet.duckdns.org
 kuveytturk-ramazanaozel.club
