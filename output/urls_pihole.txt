@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-17 03:32:17 UTC
-# Toplam: 443887 Domain
+# Son Güncelleme: 2026-03-17 06:53:15 UTC
+# Toplam: 443922 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -27599,6 +27599,7 @@ acdc-tickets.com
 acdcloackekasderas.cfd
 acdcloackekasderas.sbs
 acddesigns.com.au
+acdem.bond
 acden-bzden.online
 acdhgss.com
 acdm.online
@@ -61888,6 +61889,7 @@ basvurunyapi-kredi.com
 basvurunyapikredi.com
 basvurunyeni.com
 basvurunzamani-com.cfd
+basvuruo.sbs
 basvuruoblineozelonatrbinance.strangled.net
 basvuruodemesi.com
 basvuruolustur.com
@@ -66197,6 +66199,7 @@ betparibu486.com
 betparibu489.com
 betparibu504.com
 betparibu506.com
+betparibu508.com
 betparibu52.com
 betparibu55.com
 betparibu58.com
@@ -84374,6 +84377,7 @@ braunileevdekal.site
 brausincsystem.pro
 bravadoapp.store
 bravadolabs.store
+brave-go.com
 brave-kowalevski.178-18-241-14.plesk.page
 brave-thompson.5-189-184-131.plesk.page
 bravebrowser.duckdns.org
@@ -105331,6 +105335,7 @@ copyrigthelpling.co.vu
 copyrigththelpservlce.org
 copyrsystemservice.com
 copysystemguard.com
+copytactic.com
 copythat-35963.portmap.host
 copywritingsecretscourse.com
 coql3pl.duckdns.org
@@ -123036,6 +123041,7 @@ dijorxcchk.duckdns.org
 dijtal-kampanya.net
 dijtal-kampanya.org
 dijtal-subesiz-inter.net
+dijtalaninda.sbs
 dijtalbasvuru-ziraatwebmobil.com
 dijtaldenizkredionlineislem.co.vu
 dijtalislemenugirislerim.com
@@ -127284,6 +127290,7 @@ drivehost.live
 drivehub.live
 drivemountain.com
 drivemyfile.com
+drivenarrow.com
 drivenc.pub
 drivenpropel.top
 driventy.click
@@ -158422,6 +158429,7 @@ finansnotu.online
 finansnrl.com
 finansnrl.net
 finansonaygirisi.com
+finansonerisi.com
 finansonline-qnb.com
 finansonline-tr.com
 finansonline2019.com
@@ -173668,6 +173676,7 @@ giftvip.xyz
 giftwallets.org
 giftweedbasvurunuyap.net
 giftyland.live
+giftzen.gifts
 gigabitsoftware.com
 gigabrainsmp.ddns.net
 gigaga.de
@@ -206006,6 +206015,7 @@ hublaa.ddns.net
 hublevelup.com
 hubnedther.pro
 hubns.ddns.net
+hubobik.com
 hubofstyle.com
 hubservices-crm.com
 hubsitechoruspro.duckdns.org
@@ -218258,6 +218268,7 @@ internet-qnbfinansonline.com
 internet-sanalsube.com
 internet-satis.club
 internet-sinirsizkampanya.com
+internet-sponsor-mobil-tr-cep.online
 internet-sube-garanti.com
 internet-sube-giris.com
 internet-sube-katilimlari.xyz
@@ -238602,6 +238613,7 @@ karmento.space
 karmi1963516.site
 karmicburst.com
 karncahomer.com
+karnelix.bond
 karnovia.one
 karoanpa.ru
 karohama2.zapto.org
@@ -252713,7 +252725,9 @@ leadershippostmicrosoft.com
 leadersnews.org
 leadersoftstats.com
 leaderthreshold.top
+leadforce.top
 leadger.online
+leadgrowth.top
 leadjenerals.top
 leads-management.net
 leadstepz.click
@@ -257880,6 +257894,7 @@ lynea10k.com
 lynmzvqbmf.duckdns.org
 lynnnaz.ddns.net
 lynoujsnxx.duckdns.org
+lyntrivexa.com
 lynxback.pro
 lynxblog.net
 lynxcm.com
@@ -258994,6 +259009,7 @@ m9gn3pl56.duckdns.org
 m9knpg68.duckdns.org
 m9lngnq.duckdns.org
 m9msuf.duckdns.org
+m9q2x6k4f7b3n8hvat.cfd
 m9rdbjc8.duckdns.org
 m9rpdk2i.duckdns.org
 m9tflgn.duckdns.org
@@ -265247,6 +265263,7 @@ melvastream.info
 melvinar.com
 melvinchrist774.zapto.org
 melvoraq.com
+melvoria.icu
 melzkott3.com
 melzsolcn56.com
 mema8r3yq.duckdns.org
@@ -279158,6 +279175,7 @@ navmavmemmmfefm.wiki
 navneetsharma.xyz
 navnow.xyz
 navoisco.info
+navor.lat
 navorixem.com
 navryta.com
 navsadassadsada.net
@@ -288041,6 +288059,7 @@ od84yjby.duckdns.org
 od9.us
 oda6y.is-best.net
 odabirmuneyli.b-cdn.net
+odakguncel.com
 odakgundem.com
 odakli.name.tr
 odakmedya.site
@@ -308506,6 +308525,7 @@ piyasa-haber.world
 piyasa-kilavuz.info
 piyasa-sayfalar-web-in.ru.com
 piyasa-yatirimi.info
+piyasa-yorum.online
 piyasa360.online
 piyasa360world.world
 piyasaakisi.org
@@ -319733,6 +319753,7 @@ qexiacase.fun
 qexiacase.fund
 qexiacase.pro
 qexiacheck.tech
+qexin.lat
 qexon.sbs
 qexwknfkfr.duckdns.org
 qexyhul.com
@@ -322470,6 +322491,7 @@ qur0in3t.duckdns.org
 quran-books.store
 quranvault.com
 quraqlothnq.wcnv20.cn
+quron.lat
 qurvegraphics.com
 qusain7745.hopto.org
 qusay1.ddns.net
@@ -325307,6 +325329,7 @@ reawwerrwn.org
 rebar26688.zapto.org
 rebdhktvok.duckdns.org
 rebeccannebloodworth.net
+rebedalosi.info
 rebekkaworm.snuggleam.org
 rebel.ae
 rebeldettern.com
@@ -338783,6 +338806,7 @@ sandshrimp.top
 sandsngo.com
 sandsultan.com
 sandtoneindhovencentre.world
+sandvoyage.com
 sandwichdowngrade.top
 sandwichinertia.top
 sandwichlounge.top
@@ -339549,6 +339573,7 @@ savlargod.za.com
 savme.xyz
 savmpet.com
 savoornoo.ddns.net
+savoran.com
 savorfullpoints.com
 savorstripe.com
 savraktosbanisrotalesnikarfonaaryasva.net
@@ -340116,6 +340141,7 @@ scientificpesttherapy.com
 scientistbotany.top
 scifimond.com
 scikmk.info
+scilo.bond
 scimitarpod.com
 scinetwork1.ddns.net
 sciqnivevo.duckdns.org
@@ -343066,6 +343092,7 @@ sellindd1omains.click
 sellitron.store
 selllify.shop
 selllvision.com
+sellmartat.com
 sellmyhousebud.com
 sellmyhousequickly.website
 selloria.shop
@@ -363267,6 +363294,7 @@ subeonline-garant.sa.com
 subeonline-garant.za.com
 subeonline-garanti.click
 subeonline-kampanya.com
+subeonline.lat
 subeonlineiscepgiris.co.vu
 subeonlinemobildenizgiris.co.vu
 subeonlinene.cf
@@ -367188,6 +367216,7 @@ tactarrow.com
 tactcrest.com
 tactdesk.com
 tacteed.top
+tactframe.com
 tactfulfraud.top
 tactfulregimental.top
 tactfulsovereign.top
@@ -389409,6 +389438,7 @@ turksesleri.org
 turksevd.org
 turksevgi.org
 turkshair.space
+turksignals.site
 turksken547.wixsite.com
 turksmerkeziodeme.tk
 turksmtv.com
@@ -402934,6 +402964,7 @@ vexillum23.xyz
 vexio.io
 vexiubpya.com
 vexmordiant.shop
+vexnas.com
 vexoquery.icu
 vexorahubs.shop
 vexorilun.com
@@ -426891,6 +426922,7 @@ xoowill56.duckdns.org
 xoplytsmg.com
 xoqeaxvrzx.duckdns.org
 xorec.zapto.org
+xorin.cfd
 xormxr.duckdns.org
 xorotelec.quest
 xortoproject.duckdns.org
@@ -431250,6 +431282,7 @@ yarizamankampanyafirsatbance.tech
 yarmand.zapto.org
 yarmangyasi.info
 yarmcghs1.duckdns.org
+yarnpilot.com
 yarpytm2.com
 yarqusmmmasd.com
 yarradanmmnn5.com
@@ -431433,6 +431466,7 @@ yatirim-garantibbva.site
 yatirim-garantiden.site
 yatirim-guncel-bilgiler.info
 yatirim-guncel.info
+yatirim-gunlugu.pro
 yatirim-haberleri.world
 yatirim-kredi.com.tr
 yatirim-kubbe.online
@@ -432820,6 +432854,7 @@ yenicksacbisweasd.net
 yenicozumlerimiz.com
 yenicrfsonlingnc.cfd
 yenidairem.blogspot.com
+yenidalga.online
 yenidalga.world
 yeniddenaktif.net
 yeniden-aktarimlar-baslamistir.online
