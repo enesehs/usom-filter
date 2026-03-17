@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-17 12:38:16 UTC
-# Toplam: 443952 Domain
+# Son Güncelleme: 2026-03-17 14:09:52 UTC
+# Toplam: 443966 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3427,6 +3427,7 @@
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
 1111113232323-23232.cloud
 111112221.duckdns.org
+11111222233321.duckdns.org
 1111212121212121.duckdns.org
 1111233232311123211.cloud
 1111254865645-online.cloud
@@ -21654,6 +21655,7 @@
 9aranti.site
 9arantibbva.website
 9asdas0a9as4s45fas.click
+9asdsfdscasa.sbs
 9ax3zwc.duckdns.org
 9axckaskxservicessorgusystem.com
 9axkaskxservicessorgusystem.com
@@ -22693,6 +22695,7 @@ a-101aldinaldingdf.com
 a-101birfirsatlari.me
 a-101c-o-mt-r.cyou
 a-101c0mtl.cfd
+a-101c0myr.cyou
 a-101co-mtr.cfd
 a-101cumartesix.com
 a-101dehemenindirim.net
@@ -99350,6 +99353,7 @@ ckrhgsci.is-best.net
 ckrneze-2023-2020son.com
 cksjs9.duckdns.org
 ckslcskcskcscc.net
+cksllprmsynnnkmpnya.info
 ckstar.zapto.org
 cksternima.ietebuyelf.ru
 ckt3f8.duckdns.org
@@ -159099,6 +159103,7 @@ firsat-solenleri.sa.com
 firsat-subelermobildeniz.com
 firsat-subemobilgiris.com
 firsat-subende.com
+firsat-subeonline.lat
 firsat-taksitle.duckdns.org
 firsat-teklifleri.net.tr
 firsat-tkelfibru-brasdsa.store
@@ -184216,6 +184221,7 @@ haber350.online
 haber350.site
 haber350.website
 haber360.site
+haber360tr.com
 haber365.club
 haber365.online
 haber365.site
@@ -227222,6 +227228,7 @@ izizmirimbelediysi.com
 izjjjtkkelt.net
 izjmlrmxkcrt.net
 izjr6g.duckdns.org
+izkakaooppqas.blogspot.com
 izkart-bakiyesxyukle.tk
 izkartonline.tk
 izkartwm.net
@@ -227280,6 +227287,7 @@ izlkvlvklvkk.net
 izlkvlvklvkkaltn.net
 izllltmmmm.duckdns.org
 izllttssknk.blogspot.com
+izlmakoss.dns.navy
 izlmasmrnsm.blogspot.com
 izlmbkemslnasm.blogspot.com
 izlmkrlt.net
@@ -253694,6 +253702,7 @@ lh8krjsej.duckdns.org
 lh8nc0v.duckdns.org
 lh9o3i.duckdns.org
 lhaasarrogrenmenolktasi.net
+lhadhsadsad.online
 lhajikudi.com
 lhalkbank.com
 lhasar-sorgulma.com
@@ -272324,6 +272333,7 @@ molru.ddns.net
 moltbot.you
 molteppope.store
 molterana.online
+molutletokondrl.sbs
 momantrodulist.pro
 mombaontop.ddns.net
 momclamp.top
@@ -274306,6 +274316,7 @@ mtmrd187.ddns.net
 mtmtb0.duckdns.org
 mtmtbm.ddns.net
 mtmvodemegunu.com
+mtnarldefm.com
 mtndldaskm.com
 mtngucluasansor.com
 mtnsknaslmr.com
@@ -322443,6 +322454,7 @@ quirckbooks-accounting.com
 quirkleblip.top
 quirkquestai.com
 quirkyrealty.com
+quitbodywoundquaint.com
 quitbrewery.top
 quitelimst.com
 quitesniper.site
@@ -353682,6 +353694,7 @@ sndbnmgbiolmamlisin.cfd
 sndbrdasngeldnasd.icu
 sndbrdnartksmgndrme.cfd
 sndbrdngmnkpmlsin.icu
+sndbsvrrbrdnnn.art
 snde-alsvrslrde.com
 snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
@@ -356288,6 +356301,7 @@ sonrasinada-buralarda-kalirsanizda-bulunun.top
 sonrasinda-kalana-kadarda-buralari-getirir.com
 sonrasinin-bunabenzer-degisime-yakalanir.top
 sonrentcar.com
+sons-chubby-pushing-habits.trycloudflare.com
 sonsaatfirsatlarinikacirmaurunlersepette.com.tr
 sonsaatfirsatlarinikacirmaurunlersepette.online
 sonsaatfirsatlarinikacirmaurunlersepette.xyz
