@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-18 11:35:23 UTC
-# Toplam: 444123 Domain
+# Son Güncelleme: 2026-03-18 12:38:45 UTC
+# Toplam: 444129 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -49333,6 +49333,7 @@ aracyuklemeleri.xyz
 araczmgunlugu.net
 arada-bir-sende-bak.com
 aradadasdfsdfsdf.online
+aradanynlengor.sbs
 aradgnhrseyburdasnaozel.online
 aradhana.faith
 aradigimfiyatigordum.cfd
@@ -81353,6 +81354,7 @@ bnmmcelll.net
 bnmmx.net
 bnmsbasvuru-tr.com
 bnmsfdvt-sdvt.com
+bnmtnsarld.com
 bnmusteridestek-2022ceptr-giris.com
 bnmusteridestek-2022ceptr-giris.ertenler.club
 bnmusteridestek-2022ceptr-girisleri.com
@@ -147863,6 +147865,7 @@ epttavmonline-hgs2.xyz
 epttavmonline-hgs3.xyz
 epttavmonline-islemler.com
 epttavmonline-islemservisi.com
+epttavmonline.com
 epttavmonlinehgs.com
 epttavmonlinehsgecisvergi.com
 epttavmonlinemerkezlerxx.org
@@ -242211,6 +242214,7 @@ kgm-islem.blogspot.com
 kgm-kgs.com
 kgm-oag.com
 kgm-odeme.com
+kgm-odeme.xyz
 kgm-odemee.com
 kgm-odemex.com
 kgm-odemexx.com
@@ -250306,6 +250310,7 @@ kuveyt-mobil-online-pratiksube.com
 kuveyt-mobilgiris-togg.com
 kuveyt-net.com
 kuveyt-togg-basvuru.com
+kuveyt-turk-dijitalbankacilik.duckdns.org
 kuveyt-turk-mobil-giris-tr.com
 kuveyt-turk-mobil.com
 kuveyt-turk-promosyon-ekraniniz.duckdns.org
@@ -385168,6 +385173,7 @@ trpttgovp.cc
 trpttgovpc.cc
 trpttgovpe.cc
 trpttgovpl.cc
+trpttgovpo.cc
 trpttgovpv.cc
 trpttgovr.cc
 trpttgovres.help
