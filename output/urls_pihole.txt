@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-18 07:43:17 UTC
-# Toplam: 444058 Domain
+# Son Güncelleme: 2026-03-18 08:33:51 UTC
+# Toplam: 444078 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -41158,6 +41158,7 @@ alcoholfreegin.de
 alcoholnutrient.top
 alcradiochat.net
 alctest.ddns.net
+alcup.sbs
 ald-n-ald-n-site-tr.net
 ald-n-aldnnx-firstllriyla.xyz
 ald1infi-drsat101.xyz
@@ -63101,6 +63102,7 @@ bayramfirsatlariibasladi.com
 bayramfirsatlarim.com
 bayramfirsatlarimiz.pw
 bayramfirsatlarisiizinle.top
+bayramfirsatlarison.click
 bayramfirsatlarlageldi.xyz
 bayramfirstlari.shop
 bayramfirstlariikacmaz.store
@@ -64639,6 +64641,7 @@ beastratification.top
 beastsites.xyz
 beatablydoxzcop.shop
 beatanyinvestment.club
+beatbox.sbs
 beatcommendation.top
 beater.ddns.net
 beatifulcampaignnancefast.online
@@ -65774,6 +65777,7 @@ bergamasubelerindekampanya.xyz
 bergamot.lancescanb.com
 berganottt.duckdns.org
 bergenvemercimek.net
+bergotrom.com
 bergslotnieuws.nl
 berhendeh.net
 berhizmetleri.tk
@@ -164062,6 +164066,7 @@ freshwarsmi.ddns.net
 freshwind09.top
 freshworks-hr.com
 fresiq.online
+fresora.top
 frespoatr.click
 fress.xyz
 fressos.jumpingcrab.com
@@ -173697,6 +173702,7 @@ giftcardmall.beauty
 giftcardmall.today
 giftcenter.gifts
 giftcoinbase.com
+giftcorner.gifts
 giftdays-simdikatil22.duckdns.org
 giftdaysbasvurusu.cloud
 giftecadmall.hair
@@ -175553,6 +175559,7 @@ gladiyator.tk
 gladmerger.top
 gladservice.site
 glakkcma.info
+glamify.makeup
 glammonkey.weebly.com
 glammplug.com
 glammstar.com
@@ -189215,6 +189222,7 @@ happy-haber.site
 happy-mmoodd.dev
 happy-new-year.esy.es
 happy-nis.com
+happy-talent.cfd
 happyauction.top
 happybirdz.xyz
 happybuzz.top
@@ -189231,6 +189239,7 @@ happyinmte.top
 happyislem.22web.org
 happyllfe.online
 happymall.cc
+happymarket.gifts
 happymc.zapto.org
 happyminerd.buzz
 happymodguncel.online
@@ -222825,6 +222834,7 @@ islemmerkezi.tk
 islemmerkezi12online.xyz
 islemmerkeziniz.net
 islemmerkeziyapikredi.com
+islemmerkezsleri.com
 islemmm.is-best.net
 islemmmerkezi.net
 islemmsizlerle.com
@@ -224311,6 +224321,7 @@ istanbunlu13.click
 istanbunlu8.click
 istanbunlu9.click
 istanbus.net
+istanbushkosty.com
 istanbuslastar.click
 istanbuslda.net
 istanbuulkaarttbasvuruu.online
@@ -231644,6 +231655,7 @@ joseedward5001.ddns.net
 josefpaketleme.site
 joseluissaldarriagalora09.duckdns.org
 josemonila.ddnsfree.com
+josenubar.store
 josephevinchi.com
 josephineweiss.store
 josephjoshua3265.xyz
@@ -279192,6 +279204,7 @@ nausdiafvv.net
 nauseaspinn.info
 nauseorofte.ru
 nausilpak.shop
+nauticrent.boats
 nauwimoill.xyz
 nauwimoill2025.xyz
 nav-av.shop
@@ -306713,6 +306726,7 @@ peg4l480d.duckdns.org
 pegaarackiralama.com
 pegaes.suleqi1.website
 pegamente.com
+pegarob.store
 pegas56.ru
 pegasfilokurumsal.com.tr
 pegasfilos.com
@@ -307039,6 +307053,7 @@ perakendetoptantekurun.com
 perakendeylulayikataloglari.com
 peramancapg.com
 peranama-yapicepaktifonay.vercel.app
+perapogipu.com
 peratikdolumlarim.xyz
 perauscretsiz.dev
 perawanhot.hopto.org
@@ -326448,6 +326463,7 @@ region10.group
 regionail.xyz
 regional-around.gl.at.ply.gg
 regional3dauthenti.ddns.net
+regionalbrief.com
 regionaldetached.top
 regionaltactful.top
 regionaltournament.top
@@ -334280,6 +334296,7 @@ sahibinden-get.ilanlarimiz.com.pl
 sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
 sahibinden-get.islem-guvence-hizmet.com.tr
+sahibinden-get.islemmerkezsleri.com
 sahibinden-get.le-odeme.com
 sahibinden-get.mhizmetalimlar.com
 sahibinden-get.ml
@@ -379054,6 +379071,7 @@ tpao-basvuru.online
 tpao-borsa.com.tr
 tpao-invest.biz
 tpao-petrollaz.com
+tpao.space
 tpaoalis.com
 tpaodigital.com
 tpaoeksen.com
@@ -438323,6 +438341,7 @@ yuruyendweds.net
 yuruyeyuruyeal.xyz
 yusanlar.duckdns.org
 yushli.com
+yusignal.com
 yusingai.ddns.net
 yusingaii.ddns.net
 yusingaii.duckdns.org
@@ -439944,6 +439963,7 @@ zennova.store
 zenobox.eu
 zenova.duckdns.org
 zenovan.com
+zenpast.com
 zenpirlanta-kampanya.com.tr
 zenpirlanta.gerefaenus.sbs
 zenpirlantaalisveris.com
