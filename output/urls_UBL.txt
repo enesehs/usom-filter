@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-18 19:40:14 UTC
-! Total: 354138 rules
+! Last modified: 2026-03-18 20:23:06 UTC
+! Total: 354147 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -64224,6 +64224,7 @@
 *://*.brdansknzbnrynlasdew.bond/*
 *://*.brdanskzbasvrdnzmsdonline.com/*
 *://*.brdansnkzynlnyrz.icu/*
+*://*.brdansnzlerdensnkz.shop/*
 *://*.brdaynidosylarlabsvrunuzuyapn.site/*
 *://*.brdcallcenter.org/*
 *://*.brdcst.email/*
@@ -74742,6 +74743,7 @@
 *://*.charmingmanuscript.top/*
 *://*.charmmarble.top/*
 *://*.charmonick2link.website/*
+*://*.charmzone.gifts/*
 *://*.charnakola.com/*
 *://*.charonx.fun/*
 *://*.charonx.pro/*
@@ -112951,6 +112953,7 @@
 *://*.ekrandan-sorgulayip-aktariniz-aktif.sbs/*
 *://*.ekrandan-sorguveyonetim-basvur.sbs/*
 *://*.ekrandan-tutarinizi-ogrenin-aktarin.sbs/*
+*://*.ekrandanbakinvekontroledin.sbs/*
 *://*.ekrandanbilgiveonaysor.sbs/*
 *://*.ekrandanonaysorgulama.sbs/*
 *://*.ekrandanonline-olaraksor-bilgial.cyou/*
@@ -153992,6 +153995,7 @@
 *://*.hazirladik-senin-icin.com/*
 *://*.hazirlan-mutluluk-geliyor-bitmeden-sizlere.com.tr/*
 *://*.hazirlayinvalizleri.com/*
+*://*.hazirliklaroncesi.sbs/*
 *://*.hazirlimit.blog/*
 *://*.hazirlimit.click/*
 *://*.hazirlimit.store/*
@@ -157059,6 +157063,7 @@
 *://*.hergunyeniyenialiveris.xyz/*
 *://*.herguzelliginizgeldi.com/*
 *://*.hergyi.com/*
+*://*.herhaftasizle.space/*
 *://*.herhaftayag.space/*
 *://*.herhangibir-bizlere-yanlislari-burada-olmaz.top/*
 *://*.herhangibir-sizlerde-eniyisine-daima-yakinizda-oldu.top/*
@@ -187313,6 +187318,7 @@
 *://*.joinparent.top/*
 *://*.joinservicewrap.com/*
 *://*.jointhejanuarycampaignsandwin.cloud/*
+*://*.jointlife.cfd/*
 *://*.jointlimp.top/*
 *://*.joinuseakira.com/*
 *://*.joinushealth.com/*
@@ -201552,6 +201558,7 @@
 *://*.kristalbursvakfi.com/*
 *://*.kristalvilla.com/*
 *://*.kristianfiedler.club/*
+*://*.kristianodomald.com/*
 *://*.kristophersharalyn.net/*
 *://*.kritec.pics/*
 *://*.kritkredeteitedeoz.online/*
@@ -272714,6 +272721,7 @@
 *://*.sehirankara.ml/*
 *://*.sehirdekiencokindirimlimarketler.cfd/*
 *://*.sehirgezi.biz/*
+*://*.sehirr-kartlari-odeme.shop/*
 *://*.sehirsehri.cfd/*
 *://*.sehirulasimi.tk/*
 *://*.sehiscefo.com/*
@@ -273341,6 +273349,7 @@
 *://*.sendegeldunyabizimle.com/*
 *://*.sendegeldunyadan.com/*
 *://*.sendegeldunyaya.com/*
+*://*.sendegelebilirsin.uk/*
 *://*.sendegelecegindunyasindasin.com/*
 *://*.sendegeleceksinde.net/*
 *://*.sendegelgaarantemm.net/*
