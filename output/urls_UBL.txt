@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-18 08:33:51 UTC
-! Total: 354079 rules
+! Last modified: 2026-03-18 09:39:30 UTC
+! Total: 354099 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -23940,6 +23940,7 @@
 *://*.airesis.blog/*
 *://*.airfanhydro.net/*
 *://*.airfitgym.com/*
+*://*.airflix.sbs/*
 *://*.airfunding.net/*
 *://*.airgenx.com/*
 *://*.airgunwarehouseinc.com/*
@@ -35315,6 +35316,7 @@
 *://*.artbilisimv.com/*
 *://*.artbilisimv.info/*
 *://*.artbilisimv.net/*
+*://*.artbook.sbs/*
 *://*.artcharge.top/*
 *://*.artcmrarca.com/*
 *://*.artcmynelerinnziburdanypn.net/*
@@ -72838,6 +72840,7 @@
 *://*.cellocafeuae.com/*
 *://*.cellsiteus.com/*
 *://*.cellulardrive.com/*
+*://*.cellvyr.com/*
 *://*.celnoria.site/*
 *://*.celogeek.com/*
 *://*.celpasaj.com/*
@@ -76541,6 +76544,7 @@
 *://*.classifiedlavish.top/*
 *://*.classifiedmandatory.top/*
 *://*.classifyvenue.top/*
+*://*.classkernel.com/*
 *://*.classmateappease.top/*
 *://*.classmateboot.site/*
 *://*.classmatenonetheless.top/*
@@ -130490,6 +130494,7 @@
 *://*.framer.app/*
 *://*.framer.website/*
 *://*.frametamer.store/*
+*://*.framevalley.com/*
 *://*.framevisualizer.co.za/*
 *://*.frameworkbrink.top/*
 *://*.frameworksponge.top/*
@@ -139857,6 +139862,7 @@
 *://*.gladmerger.top/*
 *://*.gladservice.site/*
 *://*.glakkcma.info/*
+*://*.glamhouse.makeup/*
 *://*.glamify.makeup/*
 *://*.glammplug.com/*
 *://*.glammstar.com/*
@@ -174099,6 +174105,7 @@
 *://*.indirimler-burda-alinir.com/*
 *://*.indirimler-burda.online/*
 *://*.indirimler-burda.site/*
+*://*.indirimler-csa.com/*
 *://*.indirimler-dyson.com.tr/*
 *://*.indirimler-efsane-sadece-online-ozel.com.tr/*
 *://*.indirimler-firsatlar-bu-hafta-sadeceburada.com.tr/*
@@ -180558,6 +180565,7 @@
 *://*.issizitler.cfd/*
 *://*.issizligesonveriyoruz.com/*
 *://*.issizliklere-ozel-finanss.net/*
+*://*.isskrt.com/*
 *://*.isslemimsizlerle.com/*
 *://*.isslemlhemen.net/*
 *://*.isslemonsonucakr.net/*
@@ -204760,6 +204768,7 @@
 *://*.lenpoki.cyou/*
 *://*.lenpoki.sbs/*
 *://*.lensfor.xyz/*
+*://*.lensify.surf/*
 *://*.lenslayman.top/*
 *://*.lensofafrica.co.za/*
 *://*.lenspull.top/*
@@ -219994,6 +220003,7 @@
 *://*.mounteloquent.top/*
 *://*.mountinnovate.com/*
 *://*.mountsinaischool.edu.pk/*
+*://*.mounttrader.shop/*
 *://*.moupzypanabankilometresorgulayin.net/*
 *://*.mournconducive.top/*
 *://*.mournflattery.top/*
@@ -240726,6 +240736,7 @@
 *://*.painfuldiscern.top/*
 *://*.painfulsimultaneous.top/*
 *://*.painmediation.top/*
+*://*.paintal.click/*
 *://*.paintdreamworks.com/*
 *://*.paintercommonwealth.top/*
 *://*.painterilliteracy.top/*
@@ -247955,6 +247966,7 @@
 *://*.picturesquerefund.top/*
 *://*.pictureworm.site/*
 *://*.picursquepoise.top/*
+*://*.picverse.surf/*
 *://*.pidara.nl/*
 *://*.pidemeapp.com/*
 *://*.pidlirmidlir23.com/*
@@ -248336,6 +248348,7 @@
 *://*.piuwqnvohjibcy.cc/*
 *://*.pivactubmi.com/*
 *://*.pivor.bond/*
+*://*.pivotgrove.com/*
 *://*.pivox.shop/*
 *://*.pivqmane.com/*
 *://*.piwsarbgqj.com/*
@@ -256641,6 +256654,7 @@
 *://*.pure-hbr.life/*
 *://*.pure-okta.com/*
 *://*.pureci007acenti.site/*
+*://*.purederma.beauty/*
 *://*.puredoffustow.shop/*
 *://*.puredropdrink.com/*
 *://*.pureedride.my/*
@@ -274078,6 +274092,7 @@
 *://*.sepetim-guvende-alim.com.tr/*
 *://*.sepetim-guvenli-13478.com/*
 *://*.sepetim-guvenli-14278.com/*
+*://*.sepetim-guvenli-14378.com/*
 *://*.sepetim-guvenli.com/*
 *://*.sepetim-ilan-76897.com/*
 *://*.sepetim-ilanda.com/*
@@ -287583,6 +287598,7 @@
 *://*.stackapt.com/*
 *://*.stackconfide.top/*
 *://*.stackconsulting.co.ke/*
+*://*.stackgroove.com/*
 *://*.stacklogicz.com/*
 *://*.stackmother.top/*
 *://*.stackpatriotic.top/*
@@ -305587,6 +305603,7 @@
 *://*.travelmountain.ml/*
 *://*.travelportflio.top/*
 *://*.travelportprod-servicenow.com/*
+*://*.travelqpon.com/*
 *://*.travelreservs2025.world/*
 *://*.travelstore.name.tr/*
 *://*.traveltipspage.com/*
@@ -307881,6 +307898,7 @@
 *://*.trpttgovlm.cc/*
 *://*.trpttgovmv.cc/*
 *://*.trpttgovo.cc/*
+*://*.trpttgovoi.cc/*
 *://*.trpttgovot.cc/*
 *://*.trpttgovou.cc/*
 *://*.trpttgovp.cc/*
@@ -317081,6 +317099,7 @@
 *://*.uzlasmatakip.com/*
 *://*.uzlasmatakip.org/*
 *://*.uzlasmauyap-maliye.com/*
+*://*.uzlasmauyap.org/*
 *://*.uzlasmauyapceza.com/*
 *://*.uzlasmauyapdosya.com/*
 *://*.uzlasmauyapgiris.com/*
@@ -325867,6 +325886,7 @@
 *://*.wavyparish.top/*
 *://*.wawcarfilo.com/*
 *://*.wax-ayuzbir-kxnk-ankr.shop/*
+*://*.waxheritagejuicy.com/*
 *://*.waxk.top/*
 *://*.waxk521sel.com/*
 *://*.waxofi.com/*
