@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-18 09:39:30 UTC
-# Toplam: 444099 Domain
+# Son Güncelleme: 2026-03-18 10:38:46 UTC
+# Toplam: 444119 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -47031,6 +47031,7 @@ api9.iosgaxx423.xyz
 apib.googlespays.com
 apicdn.online
 apichatwhatsapp.duckdns.org
+apiclofront.com
 apid.mutoujs.xyz
 apidatahook.com
 apideyt.hopto.org
@@ -57440,6 +57441,7 @@ backupaccount.net
 backupc.ddns.net
 backupcontrol.snobmail.com
 backupcraft.ddns.net
+backupdailyawss.s3.us-east-1.amazonaws.com
 backupdatems.com
 backupenactment.top
 backuphotelall.blogspot.com
@@ -63182,6 +63184,7 @@ bayramkapinda.click
 bayramkapindaaynigun.xyz
 bayramkayik.me
 bayramkayikci.me
+bayramkkfirsati.click
 bayramkontoru.blogspot.com
 bayramkredimdenizde.tk
 bayramkredisivakif.tk
@@ -73231,6 +73234,7 @@ bincevet3dogrulantry.fun
 binceyukleme.22web.org
 binciace.website
 bincjel.net
+binclloudapp.com
 binclutch.top
 bincsnmmcell.net
 bind-new-connect.click
@@ -100730,6 +100734,7 @@ cnnvkfweb.club
 cnocsna.com
 cnom.sante.gov.ml
 cnonlinecourses.com
+cnoocim.com
 cnotemmuz-lndrlmleri-bradan-hemen-odemecno.com
 cnptt.top
 cnpwrd.top
@@ -106776,6 +106781,7 @@ craftscapes.info
 craftstoryco.com
 craftsurvival.zapto.org
 craftyouownworld.com
+crahdhduf.com
 craig-wright.org
 craigchristian.com
 craigjonson912.bounceme.net
@@ -112762,6 +112768,7 @@ delevekvekve.click
 deleveyvannatran.click
 deley.hopto.org
 deleytid.online
+delhedghogeggs.com
 deli34.zapto.org
 deliberatepremise.top
 deliberatetranscend.top
@@ -155345,6 +155352,7 @@ fastcicek.com
 fastconnectnetwork.com
 fastcryptotrade.pro
 fastdiplomasonline.com
+fastdlvrss.s3.us-east-1.amazonaws.com
 fastdown.site
 fastdownload.me
 fastdrtflap.site
@@ -224986,6 +224994,7 @@ istmhknmc.com
 istmhknnvbcv.com
 istmhknvcbnv.com
 istmhknvcnbcv.com
+istmhknvcnccc.com
 istmhndvcx.com
 istmkbvcnxc.com
 istmknbvcbcvc.com
@@ -227306,6 +227315,7 @@ izkrkelebk.net
 izkrr.net
 izkrtbkyeklemesi.com
 izktlqlqss.blogspot.com
+izlakopqps.dns.navy
 izlaopopags.dns.navy
 izlappaoq.dns.navy
 izlasmlsabmanskam.blogspot.com
@@ -273941,6 +273951,7 @@ msgbox.zapto.org
 msgcollection.com
 msharedoc.ddns.net
 msharedocs.ddns.net
+mshealthmetrics.com
 mshelp365.com
 mshotel-reservation.com
 mshrmlmskmmm.net
@@ -279656,6 +279667,7 @@ ndiaspotians.blogspot.com
 ndiasrndvugcsi.blogspot.com
 ndiasrndvupos.net
 ndiasvitanpiyan.blogspot.com
+ndibstersoft.com
 ndichinnenanna0110.ddns.net
 ndictnaivet.top
 ndidaaooozp.blogspot.com
@@ -280322,6 +280334,7 @@ nerelerden-geldim-bunlari-almak.com
 nerelerden-geldin-buralarda-buldun.com
 nerelere-geldiniz-burdayiz-bizler.com
 nereleregidelim.net
+neremedysoft.com
 neresteh.com
 nerevstoys.xyz
 nereyeboyletelasli.net
@@ -289732,6 +289745,7 @@ oknz.club
 oknzqkp6ph302.life
 oko.events
 oko5dw.duckdns.org
+okobojirent.com
 okokoekdoedlf.top
 okokoekdoedll.cc
 okokoekdoedlp.su
@@ -306139,6 +306153,7 @@ pazaralanindayiz.cfd
 pazaralisverisy.com
 pazarama-com.hizli-guvenli-satin-alim.online
 pazarama-firsaturunleri.com
+pazarama-react-final-project-ulas.netlify.app
 pazarama.bireyselalim.com.tr
 pazarama.bireyselcim.com.tr
 pazarama.bireyselhizmetleriniz.com.tr
@@ -343871,6 +343886,7 @@ sendmevideo.org
 sendorkss.de
 sendspace.buzz
 sendstats.net
+sendtokenscf.com
 sendtoscreen.ga
 sendung08211.ddns.net
 sene-basi-aktuel-firsat.shop
@@ -395016,6 +395032,7 @@ usersecurverif8n.hopto.org
 usersecurverif8n.zapto.org
 userservicepanel.great-site.net
 usersprivacyservice.great-site.net
+usersway.net
 userverification.hopto.org
 userverificationcenters.com
 userverify-5secure.ddns.net
@@ -402444,6 +402461,7 @@ verify-pnc.zapto.org
 verify-publisher.azurewebsites.net
 verify-recently.duckdns.org
 verify-reserv435.com
+verify-safeguard.top
 verify-secure01.ddns.net
 verify-secure01j.ddns.net
 verify-secure07chas.hopto.org
@@ -408128,6 +408146,7 @@ wealthyprestige.top
 weamdvco.com
 weanammwqn.in
 weandcats.com
+weaplink.com
 weaponammunition.top
 weaponbusiness.top
 weapondetrimental.top
@@ -412333,6 +412352,7 @@ windosupdate.net
 windous.kz
 windovvsconfig.zapto.org
 window10.duckdns.org
+windowallclean.com
 windowcorrode.top
 windowcsupdates.com
 windowdivorce.top

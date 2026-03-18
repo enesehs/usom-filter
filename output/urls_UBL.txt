@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-18 09:39:30 UTC
-! Total: 354099 rules
+! Last modified: 2026-03-18 10:38:46 UTC
+! Total: 354114 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32423,6 +32423,7 @@
 *://*.api4server.com/*
 *://*.api536yepwj.com/*
 *://*.apicdn.online/*
+*://*.apiclofront.com/*
 *://*.apidatahook.com/*
 *://*.apidomainserver.com/*
 *://*.apidubai.ae/*
@@ -45467,6 +45468,7 @@
 *://*.bayramkapindaaynigun.xyz/*
 *://*.bayramkayik.me/*
 *://*.bayramkayikci.me/*
+*://*.bayramkkfirsati.click/*
 *://*.bayramkredimdenizde.tk/*
 *://*.bayramkredisivakif.tk/*
 *://*.bayramlarbizim.com/*
@@ -54361,6 +54363,7 @@
 *://*.bincevet3dogrulantry.fun/*
 *://*.binciace.website/*
 *://*.bincjel.net/*
+*://*.binclloudapp.com/*
 *://*.binclutch.top/*
 *://*.bincsnmmcell.net/*
 *://*.bind-new-connect.click/*
@@ -77449,6 +77452,7 @@
 *://*.cnnvkfweb.club/*
 *://*.cnocsna.com/*
 *://*.cnonlinecourses.com/*
+*://*.cnoocim.com/*
 *://*.cnotemmuz-lndrlmleri-bradan-hemen-odemecno.com/*
 *://*.cnpc.com.cn/*
 *://*.cnptt.top/*
@@ -82378,6 +82382,7 @@
 *://*.craftscapes.info/*
 *://*.craftstoryco.com/*
 *://*.craftyouownworld.com/*
+*://*.crahdhduf.com/*
 *://*.craig-wright.org/*
 *://*.craigchristian.com/*
 *://*.craiglange.com/*
@@ -86832,6 +86837,7 @@
 *://*.delevekvekve.click/*
 *://*.deleveyvannatran.click/*
 *://*.deleytid.online/*
+*://*.delhedghogeggs.com/*
 *://*.deliberatepremise.top/*
 *://*.deliberatetranscend.top/*
 *://*.deliberationflush.top/*
@@ -182105,6 +182111,7 @@
 *://*.istmhknnvbcv.com/*
 *://*.istmhknvcbnv.com/*
 *://*.istmhknvcnbcv.com/*
+*://*.istmhknvcnccc.com/*
 *://*.istmhndvcx.com/*
 *://*.istmkbvcnxc.com/*
 *://*.istmknbvcbcvc.com/*
@@ -220406,6 +220413,7 @@
 *://*.msgahost.net/*
 *://*.msgcollection.com/*
 *://*.msglocalmicro.com/*
+*://*.mshealthmetrics.com/*
 *://*.mshelp365.com/*
 *://*.mshotel-reservation.com/*
 *://*.mshrmlmskmmm.net/*
@@ -225285,6 +225293,7 @@
 *://*.nerelerden-geldin-buralarda-buldun.com/*
 *://*.nerelere-geldiniz-burdayiz-bizler.com/*
 *://*.nereleregidelim.net/*
+*://*.neremedysoft.com/*
 *://*.neresteh.com/*
 *://*.nerevstoys.xyz/*
 *://*.nereyeboyletelasli.net/*
@@ -232374,6 +232383,7 @@
 *://*.oknz.club/*
 *://*.oknzqkp6ph302.life/*
 *://*.oko.events/*
+*://*.okobojirent.com/*
 *://*.okokoekdoedlf.top/*
 *://*.okokoekdoedll.cc/*
 *://*.okokoekdoedlp.su/*
@@ -273507,6 +273517,7 @@
 *://*.sendspace.buzz/*
 *://*.sendspace.com/*
 *://*.sendstats.net/*
+*://*.sendtokenscf.com/*
 *://*.sendtoscreen.ga/*
 *://*.sene-basi-aktuel-firsat.shop/*
 *://*.sene-basinda-firsatlar-kapinda.shop/*
@@ -315977,6 +315988,7 @@
 *://*.users-mail.ru/*
 *://*.usersaccountsaprv-bnb1.tk/*
 *://*.userscss.top/*
+*://*.usersway.net/*
 *://*.userverificationcenters.com/*
 *://*.uservicescheck.com/*
 *://*.uservicesforyou.com/*
@@ -321983,6 +321995,7 @@
 *://*.verify-office-outlook.com/*
 *://*.verify-page-2508.help/*
 *://*.verify-reserv435.com/*
+*://*.verify-safeguard.top/*
 *://*.verify-session-service.site/*
 *://*.verify-snapchat.com/*
 *://*.verify-sso.com/*
@@ -326160,6 +326173,7 @@
 *://*.weamdvco.com/*
 *://*.weanammwqn.in/*
 *://*.weandcats.com/*
+*://*.weaplink.com/*
 *://*.weaponammunition.top/*
 *://*.weaponbusiness.top/*
 *://*.weapondetrimental.top/*
@@ -329028,6 +329042,7 @@
 *://*.windnomination.top/*
 *://*.windosupdate.net/*
 *://*.windous.kz/*
+*://*.windowallclean.com/*
 *://*.windowcorrode.top/*
 *://*.windowcsupdates.com/*
 *://*.windowdivorce.top/*
