@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-19 08:27:36 UTC
-# Toplam: 444212 Domain
+# Son Güncelleme: 2026-03-19 09:31:41 UTC
+# Toplam: 444223 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5552,6 +5552,7 @@
 176284-coinbase.com
 1762ymp.duckdns.org
 1763.site
+1765000000.xyz
 176821.com
 176981243862436330.xyz
 176981243862436350.xyz
@@ -5563,6 +5564,7 @@
 176981243862439360.xyz
 176981243862439380.com.tr
 176981243862439390.online
+1770000000.xyz
 177253-coinbase.com
 17757d9e9d.ddns.net
 177954coinbase.com
@@ -56832,6 +56834,7 @@ b48ded58.dsfiurb-u.shop
 b48qokag4zsl.storage.googleapis.com
 b4bios.com
 b4c4dd8d.dj-hd5kfu.shop
+b4dfa5.xyz
 b4diyc.duckdns.org
 b4f3ae0279bacc16.com
 b4h859q0xq.yhsgrcares.ru
@@ -88083,6 +88086,7 @@ burasidrkanteyeaitunutdedimm-f2af853431eb.herokuapp.com
 burasidrkanteyeaitunutun-a3009fd535fd.herokuapp.com
 burasidrkanteyeaituuttr-aa38756b189b.herokuapp.com
 burasidrkanteyeaituzadedim-e63d0d05b368.herokuapp.com
+burasidrkanteyeaituzakayboll-ef6fb7c4c771.herokuapp.com
 burasidrkanteyeaituzayin-d26b874ac3bb.herokuapp.com
 burasigibi-olana-kadar-gecirdik-bilinenleri.top
 burasiguncel-com.xyz
@@ -173056,6 +173060,7 @@ getthe.fun
 getthe.online
 getthe.tech
 getthefilenow.com
+getthishasg.live
 gettileparamguvende.tk
 gettinfo.com
 gettmicr2134.ddns.net
@@ -176566,6 +176571,7 @@ gocmenyapi.com
 gocoloflarecrest.xyz
 gocpnxzv.com
 gocrandevu.net
+gocrazy.gg
 gocukaltindakalanlard-ernegi.com
 gocukaltindakalanlardernegi.com
 gocuzmani.net
@@ -241447,6 +241453,7 @@ kenoratravels.com
 kenos.tk
 kenosky.ddns.net
 kenoss.duckdns.org
+kenovn.net
 kens6lesx.blogspot.com
 kensahastonsa.net
 kensendenaside.site
@@ -302690,6 +302697,7 @@ paranizguvendesahibinde.com
 paranizguvendesahibinden.com
 paranizguvendesahibindende.com
 paranizguvenli.online
+paranmiparan.click
 parannguuvendegets.com.tr
 parannguveendeget-s.com.tr
 parannguveendeget.com.tr
@@ -353865,6 +353873,7 @@ snapplinked.com
 snappttube.net
 snapridge.top
 snapsalutaton.top
+snapshare.chat
 snaptube-herunterladen.net
 snaptubeapk.com.tr
 snapzy.biz
@@ -355453,6 +355462,7 @@ solntsepek.com
 solntsepek.info
 solntsepek.org
 solntsepek.ru
+solo-zeph.2miners.com
 solo3call241.tk
 solo3call2412.tk
 solo3call24123.tk
@@ -411385,6 +411395,7 @@ wenger-werkzeugbau.de
 wenimpison.top
 wenkgefmpgfumtk.com
 wenqwenqw.com
+wensbol.site
 wentbegan.net
 wenu.duckdns.org
 wenugirislewbonuslari.online
