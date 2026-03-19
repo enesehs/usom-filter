@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-19 14:53:27 UTC
-! Total: 354284 rules
+! Last modified: 2026-03-19 15:40:26 UTC
+! Total: 354286 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -181110,6 +181110,7 @@
 *://*.istanbulhepimizin.com/*
 *://*.istanbulhepimizin.net/*
 *://*.istanbulhepsi.shop/*
+*://*.istanbulhicguzeldegil.com/*
 *://*.istanbulhizliat.shop/*
 *://*.istanbulhizliyiz.me/*
 *://*.istanbulhizmet.com/*
@@ -204180,6 +204181,7 @@
 *://*.laverna39.ru/*
 *://*.lavetinet.store/*
 *://*.lavetonat.store/*
+*://*.lavidaloka.click/*
 *://*.lavidelocals.net/*
 *://*.lavieseraconte.com/*
 *://*.laviewddns.com/*
