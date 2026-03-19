@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-19 12:32:36 UTC
-# Toplam: 444266 Domain
+# Son Güncelleme: 2026-03-19 14:00:26 UTC
+# Toplam: 444321 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14404,6 +14404,7 @@
 4ekim-aksamda.art
 4ekim-defirst.art
 4ekimtelefoneindi.uk
+4el0z88umiyauh5.top
 4elunq8idilenw8ojqtupg.ddns.net
 4emq2r.duckdns.org
 4enhvixlvi92t8p.duckdns.org
@@ -55208,6 +55209,7 @@ ayaksrg6lira6lira.net
 ayanesdomeneshaliyikanacasi.site
 ayanlo.com
 ayar-web.today
+ayaras.click
 ayasofyadayanismavakfi.com
 ayasofyayardimvakfi.com
 ayasofyaydv.com
@@ -61738,6 +61740,7 @@ basvurumonlinebasvuruozelactivasyontrbinance.ignorelist.com
 basvurumonlineonaylisban.com
 basvurumonlinetektikdenizde.4-231-235-170.plesk.page
 basvurumonlinetektinizde.4-231-235-170.plesk.page
+basvurums-kuveytaninda.dvrlists.com
 basvurums.com
 basvurumstarkampanya.net
 basvurumtoki2025.com
@@ -65037,6 +65040,7 @@ beizhizhi.com
 beizlnafdm.duckdns.org
 bejaiaforever1.zapto.org
 bek.ae
+bek.cloudvaly.com
 beka.click
 beka.zapto.org
 bekaad.click
@@ -87483,6 +87487,7 @@ bulamsndwesd.wtf
 bulan337.site
 buland5.site
 bulbthorn.top
+buldiakogroup.com
 buldingelaborately.top
 bulduklariniz-sizleri-burada-mutlu-eder.com
 buldular.site
@@ -99603,12 +99608,16 @@ claude-code-docs-dvlr2jpuuw.edgeone.app
 claude-code-docs-site.pages.dev
 claude-code-install.squarespace.com
 claude-code-macos.com
+claude-code-update.squarespace.com
 claude.update-version.com
+claudecode-developers.squarespace.com
+claudecodeupdate.squarespace.com
 clauderversandet.com
 claudetoumas.ddns.net
 claudflurer.com
 claudfront.net
 claudia7363.ddns.net
+claulastver.squarespace.com
 clausealmighty.top
 clavedinamica.duckdns.org
 clavosolutions.com
@@ -107988,6 +107997,7 @@ csojipinae.duckdns.org
 csok997.com
 csomfdujfgpwkot.cn
 csonebntr.vercel.app
+csp.cloudvaly.com
 cspbyxeu.com
 cspg.pw
 csplendidbu453.xyz
@@ -127734,6 +127744,7 @@ dsdvdwdsdn.net
 dsebimcell.com
 dsefsq234.s3.eu-central-1.amazonaws.com
 dsengineer.in
+dsennbuappec.zhivachkapro.com
 dsetlyuklecll.net
 dsf546svc123421.ddns.net
 dsfavaagcqwkdbg.cn
@@ -157748,6 +157759,7 @@ file.log4jv.info
 file.onedrivecloud.store
 file.wonderbackup.com
 file3-netwk-system.com
+file3x34531x23.duckdns.org
 fileaccesscenter.com
 fileaccesschannel.com
 fileaccessibilitynetwork.com
@@ -172245,6 +172257,7 @@ geriye-dnk-aktarm-ekrani.cyou
 geriye-dnk-bsvr-srg-ekrni.sbs
 geriye-dnk-transferler-ekrani.cfd
 geriye-dnkodeme-sorgula.sbs
+geriye-dnksorgu-sual-ogren.sbs
 geriye-dnksrgu.sbs
 geriye-dondugunde-birakip-gittiklerim-bulunmaz.com
 geriye-donk-ade-basvur.xyz
@@ -172504,6 +172517,7 @@ get-linksahibinden.com
 get-loads.com
 get-location.com
 get-location.net
+get-mactech.com
 get-midjourney.site
 get-mldjourney.shop
 get-mldjourney.site
@@ -172850,6 +172864,8 @@ getlintout.co
 getlitigeservices.ddns.net
 getloops-ai-d822fc.webflow.io
 getluckyprize.com
+getmaclab.com
+getmacnow.com
 getmacos.org
 getmanis.store
 getmcafee.net
@@ -177763,6 +177779,7 @@ govco.icu
 govcom.online
 govcza.homes
 govczk.homes
+goveanrs.org
 goveloms.space
 goverbarrier.top
 govermentsecintro.com
@@ -178424,6 +178441,7 @@ grantivoll21238383.site
 grantkmpanya.com.tr
 grantlendirdeyiz.online
 grantlendirdeyiz.xyz
+grantonline.lat
 grantssts.net
 grantsts.net
 granttatatak.com
@@ -179992,6 +180010,7 @@ gtx-vio.space
 gtxikp8.duckdns.org
 gtxpioneer.za.com
 gtxsolutions.sa.com
+gty.cloudvaly.com
 gtysijortam.xyz
 gtzfbl.top
 gtzin7x.duckdns.org
@@ -184333,6 +184352,7 @@ haber360tr.com
 haber365.club
 haber365.online
 haber365.site
+haber3655tr.cfd
 haber366.club
 haber366.online
 haber366.site
@@ -192165,6 +192185,7 @@ hdllearyapike.com
 hdllereelflafs.com
 hdlmeeqellaefs.com
 hdlmts-odxemele.com
+hdlvrsnafld.com
 hdm0.xyz
 hdm5o8e1tas3n.net
 hdmahanshdmaghmshsn.duckdns.org
@@ -205363,6 +205384,7 @@ hritaneki.top
 hrjekd.duckdns.org
 hrjmbmmyolutxut.ru
 hrkdqjsshrejurc.cn
+hrlivetoday.today
 hrlnvm.recordhighelse.top
 hrm.social
 hrmhnpmrsa.net
@@ -213718,6 +213740,7 @@ im3n5vra.duckdns.org
 im7002pzd.duckdns.org
 im8rdeq4.duckdns.org
 im9ov070725iqu.com
+imaclife.com
 imacore.ddns.net
 imadhack.ddns.net
 imaeopjume.duckdns.org
@@ -213783,6 +213806,7 @@ imaucnafvu.net
 imaverygoodbadboy.libre
 imayista1o1.net
 imb0re3zuz.com
+imbalanceposib.com
 imbc.onthewifi.com
 imbgbfh.duckdns.org
 imbisbronkokiller.zapto.org
@@ -217368,6 +217392,7 @@ insta-art.co.za
 insta-gram-com.tk
 insta-gram.net
 insta-help-girisyap.online
+insta-macer.com
 insta-takipci.ml
 insta.4kdownloads.com
 insta.cyou
@@ -217724,6 +217749,7 @@ institutionalsnobbish.top
 institutionalvow.top
 institutoangelabatista.com
 instlnaslnatkama.net
+instmac.com
 instnkrkl-yklr.net
 instools.me
 instotakipci.com
@@ -220426,6 +220452,7 @@ irfade1.ddns.me
 irfanandirfan.com
 irfanhamzaoglu.cfd
 irfizv.top
+irforgoten.com
 irfxvpn.site
 irgro83lyj1xyfe27pod5di.ddns.net
 irhnnax.com
@@ -230910,6 +230937,7 @@ jhabv.com
 jhalkbank.com
 jhasgla3ncfer.com
 jhasnzbnx.click
+jhbghlmjhfejbaj.top
 jhbjbhh.duckdns.org
 jhbn.me
 jhcxwsmyxd.duckdns.org
@@ -231322,6 +231350,7 @@ jmo3d23ux.duckdns.org
 jmodqh.duckdns.org
 jmoha66808.ddns.net
 jmot0ym.cn
+jmpbowl.top
 jmqiux.top
 jmqwchm.ijxdt.ru
 jmrrvbu.info
@@ -237138,6 +237167,7 @@ kanalistanbul12.net
 kanallar-infoweb-tr.info
 kanallar-kendimicin-bvtrweb.sa.com
 kanalmuayne.net
+kanalonline-grant.click
 kanalonline-grant.lat
 kanalonline.click
 kanalsanati.blogspot.com
@@ -241075,6 +241105,7 @@ kebob1.xyz
 kebplhfbjg.duckdns.org
 kebulaflare.com
 kebuvyy.com
+kec.cloudvaly.com
 kecekurdan.za.com
 keciboynuzu.host
 keck0.hopto.org
@@ -254211,6 +254242,7 @@ lightslategrey-gaur-997959.hostingersite.com
 lightsoi.pages.dev
 lightsometimeworld.duckdns.org
 lightsout.sbs
+lightspreme.com
 lightt.ddns.net
 lighttt.hopto.org
 lightttt.ddns.net
@@ -257431,6 +257463,7 @@ ltrblncetra.xyz
 ltrdenizv2giris.gq
 ltrkiqhp.com
 lts-me.hopto.org
+lts.cloudvaly.com
 ltsavbilgitr.sbs
 ltserqe3.duckdns.org
 ltsm-cmd12.duckdns.org
@@ -259268,8 +259301,11 @@ mabkpjuh.com
 mabpex.xyz
 mabstrategy.com
 mabsub.com
+mac-fast.com
+mac-faster.com
 mac-pro.it
 mac-safer.com
+mac-space.com
 mac.cracked23.site
 mac.qrscanmachine.com
 mac8amazon.duckdns.org
@@ -259298,6 +259334,7 @@ macetint.store
 macetoin.store
 macfee.ga
 macfiit.com
+macfixnow.com
 macfllt.com
 macflt.com
 macgains.duckdns.org
@@ -259450,6 +259487,7 @@ madagent.cc
 madagkrsfadmuayn.net
 madalyalarim.com
 madamderegulation.top
+madamelam.com
 madamwebb.duckdns.org
 madarafu.hopto.org
 madareemguest.com
@@ -277886,6 +277924,8 @@ mylover23.ddns.net
 mylrendyphone.com
 myltafarmtr.cfd
 mylxzmerm3eke.net
+mymachub.com
+mymacsoft.com
 mymagnethub.one
 mymanageapps352s.hopto.org
 mymanageappsints.hopto.org
@@ -289668,6 +289708,7 @@ oilinvestments.site
 oilinvestmentsbosphorus.site
 oilkjhg.eu
 oilouga.xyz
+oilporter.com
 oilproduct.autos
 oilqx.com
 oilrap.top
@@ -311236,6 +311277,7 @@ pourstipulation.top
 poursupport.ddns.net
 pourtraictos.com
 pousunaata.net
+pov.cloudvaly.com
 povadda.click
 povertyhierarchical.top
 povertymagnify.top
@@ -321857,6 +321899,7 @@ qnbsfinansliramazan.xyz
 qnbsfinasbn.com
 qnbsfinasbnk.com
 qnbsizekazandiriyor.com
+qnbsizineseriniz.duckdns.org
 qnbsizlerebasvurum.xyz
 qnbsizlerebasvvuruhatti.xyz
 qnbsizlerekazandiriyor.ml
@@ -338981,6 +339024,7 @@ sanaozelkampanya.click
 sanaozelkampanya846841.cfd
 sanaozelkampanyalar.duckdns.org
 sanaozelkampanyalkar.click
+sanaozelkmpnyaaa.info
 sanaozell-getsahibinden-magazamm.com
 sanaozelmigros.com
 sanaozelpromsynnkmpnya.info
@@ -339297,6 +339341,7 @@ sarakolle.com
 saramargo.com
 saramargo.net
 saramargo.org
+saramoftah.com
 sarampole.com
 sarang19.net
 saranville.com
@@ -344452,6 +344497,7 @@ sentukanrbd.duckdns.org
 sentw.mercyhost.cloud
 sentysupent.top
 senuoris.digital
+senvarsanvarim.uk
 senvayanapanyaneb.shop
 senvbenyanikmzbrlslm.online
 senvebenbarsvur2026.it.com
@@ -358709,6 +358755,7 @@ spetlerinizdeyizbzde.com
 spetlerinizdeyzbzlerde.com
 spetlerinizicnbrdayiz.com
 spetlerkolycageliyrz.com
+spf.cloudvaly.com
 spfc-01fcu.org
 spfpqe.duckdns.org
 spg5n6.duckdns.org
@@ -366831,6 +366878,7 @@ systineupdate415.hopto.org
 systm.ddns.net
 systolicscribebp.com
 systool-24459.portmap.host
+syswolupdatesupp1.com
 sysysysysrt.xyz
 syszdcn.duckdns.org
 sytemautorcode.x10.mx
@@ -366854,6 +366902,7 @@ syxznteihs.duckdns.org
 syzfkbeqd.com
 syzpomjhkc.duckdns.org
 syzsernfl.com
+syzv21d.top
 sz.secpert.com
 sz0098ia6.dev
 sz0lr48.duckdns.org
@@ -368516,6 +368565,7 @@ tarancerente.top
 taranchik.store
 taransa-gelen-deva.dnsuser.de
 tarapatch.com
+tarara.click
 tararfararta.xyz
 tarasmacerxcew.net
 taraulembigode.ddns.net
@@ -378861,6 +378911,7 @@ toqipksk8.duckdns.org
 tor-browser.io
 tor-hgsz.com
 tor-odemeler.xyz
+tor.cloudvaly.com
 torabilisim.xyz
 toraledorr.xyz
 toramanlar.com.tr
@@ -397064,6 +397115,7 @@ v3-grok.com
 v3.magic-cat.world
 v30ty639krk3p.life
 v34rgiodmee.ibbvrgxeeeodmee.net
+v361422.hosted-by-vdsina.com
 v368mum0.duckdns.org
 v393ds.duckdns.org
 v3denizzbanksube.ml
@@ -412374,6 +412426,7 @@ wilful.micefastpdf.net
 wilhelminapark.quest
 wilhouettteamerica.com
 wilkerson235.xyz
+wilknnson.com
 will-coma.com
 will-neta.net
 will-nett.com
@@ -414123,6 +414176,7 @@ wrgef.dehisops1.website
 wrgegczwoo.duckdns.org
 wrh0i8ja.duckdns.org
 wrhkjn.ddns.net
+wriconsult.com
 wright.hopto.org
 wrinkletile.top
 wripy.net
@@ -427865,6 +427919,7 @@ xwkfbpjumr.duckdns.org
 xwkhi.com
 xwkjljqkyvcpeaq.su
 xwkkppppoc.duckdns.org
+xwlmi.duckdns.org
 xwlrnzkjbdr.xyz
 xwlz47dwc.duckdns.org
 xwmdlvk.com
