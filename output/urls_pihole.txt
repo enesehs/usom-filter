@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-19 19:38:32 UTC
-# Toplam: 444390 Domain
+# Son Güncelleme: 2026-03-19 20:23:55 UTC
+# Toplam: 444430 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3601,6 +3601,7 @@
 11beamgools.com
 11bwy.com
 11bwyone.com
+11c979baeb8bddc12e79ad4def0964e94.bulinouui.sbs
 11canissiparislerini.cloud
 11cst.ddns.net
 11cyclesforest.com
@@ -11829,6 +11830,7 @@
 336bde1d2111h.net
 3375cwdx3.duckdns.org
 33777.url.9xiazaiqi.com
+3381536ffe13739277b0a87c08a66596.bulinouui.sbs
 3386f734.ieybfs7j447b.org.cn
 3389293-sendekatil.duckdns.org
 339004992y-a12232112.shop
@@ -15489,6 +15491,7 @@
 53cd7bfaebd095ad083c34f007469ff5.biz
 53d5brunei13d1as53d13.site
 53d86.ayniwasi.ru
+53d9da1f7632f687dde3b0ec4df00710.bulinouui.sbs
 53devml.ddns.net
 53e5579kx.duckdns.org
 53ealaw.duckdns.org
@@ -44770,6 +44773,7 @@ ampsqhrras.com
 ampvita.com
 ampzks.fernuykiopop1.website
 amq1mtkxmdqy.top
+amqkidy.cn
 amrennsrk.xyz
 amrhack.ddns.net
 amrican-sport-live-stream.cc
@@ -52950,6 +52954,7 @@ aued.zvvbgf.icu
 auedu.rfcxb.icu
 auek.top
 aueos.synergize.co
+aufal.filevexcasv.buzz
 aufsafsrsststasd.xyz
 aug-prerequisite.at.ply.gg
 augami.net
@@ -90861,6 +90866,7 @@ cabifygratis.info
 cabincalcium.top
 cabinderailment.top
 cabinet-gov-bd.dwnlld.info
+cabinet-gov-bd.nic-svc.net
 cabinet-gov-bd.org-liv.net
 cabinet-gov-pk.dytt888.net
 cabinet-salyk.kz
@@ -91098,6 +91104,7 @@ cahide-palazzo.xyz
 cahide-palazzorezervasyon.com
 cahide.b-cdn.net
 cahide.click
+cahide1453maslakrezerve.online
 cahide1453palazzo.xyz
 cahide1453reservasyon.online
 cahide1453rezervasyon.sbs
@@ -96594,6 +96601,7 @@ cfdprivateme9082.serveirc.com
 cfe47df26c8eaf0a7c136b50c703e173.com
 cfeemdedcxuv.pw
 cff-explorer.com
+cfg.brasilinst.site
 cfg.my-homeip.com
 cfg14.za.com
 cfg3i0e7.duckdns.org
@@ -96681,6 +96689,8 @@ cgdevhizmetgirs-basvrmerkezz.com
 cgehzmetleregirrs-hemenalmal.com
 cgehzmetlergirrs-hemenal.com
 cgeooqbtfv.duckdns.org
+cgf.facturastbs.shop
+cgf.midasx.site
 cgfsbcxhmcxpxxe.cn
 cgg57n.lqonx.ru
 cghizliaidataktar-merkeznoktasi.com
@@ -106926,6 +106936,7 @@ crdfsrsyonledrfrst.blogspot.com
 crditgricoler.duckdns.org
 crditmutuelrgnional.duckdns.org
 crdmnatiuc.duckdns.org
+crds-hgs-yukleme.com
 crdyiz.cfd
 cre8ivecase.net
 cre8iveintel.com
@@ -110636,6 +110647,7 @@ daimahepalirim1.sg-host.com
 daimamutlualisveris.com
 daimaseninle.xyz
 daimasizinle.online
+daimasizinleberaberler.com
 daimasizlericin.blogspot.com
 daimaumitleyardim.com
 daimayuklemelerim.sg-host.com
@@ -152401,6 +152413,7 @@ evrishipping.sbs
 evriuk.top
 evrryday.com
 evruni.top
+evs.grupotuis.buzz
 evs6t0n3pt5p.icu
 evsahibibasvuru.com
 evsahibiiturkiye.org
@@ -157131,6 +157144,7 @@ fgrudp.com
 fgrv0.zapto.org
 fgsasdfwefaan.net
 fgsczjtmq.com
+fgsdol.icu
 fgstd.com
 fgta.lol
 fgtb6gch.duckdns.org
@@ -173274,6 +173288,7 @@ gftfttdrtdrrttgfderrt654.cfd
 gfthwards.net
 gftkltm-dysneoen.duckdns.org
 gftpheuek.duckdns.org
+gfvgddgd.shop
 gfvnkg.top
 gfwrtwtd.click
 gfwrwtdhyse.click
@@ -196120,6 +196135,7 @@ hfozuzlcas.duckdns.org
 hfpmx.com
 hfrek3.duckdns.org
 hfroysk.xyz
+hfrrhfhfhjf.icu
 hfrzpxt.duckdns.org
 hfs.t1linux.com
 hfsdjhfjdshfjdsvndjvd.xyz
@@ -239062,6 +239078,7 @@ kart.yillik-aidatiadesi-basvurusu.com
 kart12sec.gq
 kart38dolumlari.net
 kart38yuklemeservisi.net
+karta-yukledme-noktasi.shop
 kartaaidatiadesi.wixsite.com
 kartabtn.vercel.app
 kartacnictvi.cz
@@ -254183,6 +254200,7 @@ lifelove.ddns.net
 lifemedicalplus.net
 lifemotivator.tv
 lifenetusa.com
+lifenews.pro
 lifenewsgood.com
 lifeprrot.top
 lifepulse.top
@@ -255245,6 +255263,7 @@ ljxfpdrldiiqrfcaq.org
 ljxlxjjxjx.net
 ljy2girg4.duckdns.org
 ljyx44d6.duckdns.org
+lk.hluttaw-govmm.co
 lk2kwx.duckdns.org
 lk6r2ma.duckdns.org
 lk8pda1.duckdns.org
@@ -259985,6 +260004,7 @@ mail-mfagovcn.hopto.org
 mail-mod-gov-bd-account-conf-files.netlify.app
 mail-mod-gov-np-account-file-data.netlify.app
 mail-modaf.hopto.org
+mail-modgov.myftp.org
 mail-mofa-gov.org-liv.net
 mail-mofa.hopto.org
 mail-mofagovnp.hopto.org
@@ -260591,6 +260611,7 @@ mailacgov.inro.link
 mailadmirable.top
 mailamateur.top
 mailanew.top
+mailarmylk.mods.email
 mailatop.top
 mailattention.top
 mailattorney.top
@@ -260725,12 +260746,14 @@ mailmale.top
 mailmaths.top
 mailmedium.top
 mailminimal.top
+mailmofagovmm.mofa.email
 mailmost.top
 mailmow.top
 mailnahg.webflow.io
 mailnaive.top
 mailnavybd.govpk.net
 mailnavymilbd.govpk.net
+mailnepalarmymil.mods.email
 mailnine.top
 mailnortheast.top
 mailnovember.top
@@ -272414,6 +272437,7 @@ mofa-gov-np.live-co.org
 mofa-gov-np.net-src.info
 mofa-gov-np.org-liv.net
 mofa-ic.ae
+mofa.gov.bd.pk-govt.net
 mofa.ungov.org
 mofaiq.com
 mofapak.info
@@ -273244,6 +273268,7 @@ mortgagesnm.com
 mortgagevolatility.top
 mortgcine.top
 morton2021-property.com
+morttttf08.top
 morttttq12.top
 morulk2sa3l.site
 morvex.sbs
@@ -280101,6 +280126,7 @@ necondvube.net
 necorre.ddns.net
 necosxlersevxyor.click
 necoylanodell.net
+necrskfaonlin.cfd
 nectar.wtf
 ned.kesug.com
 ned6n5.duckdns.org
@@ -285411,6 +285437,7 @@ nunoret-yumples.hs.vc
 nunu-app.net
 nunu.hopto.me
 nunzioisbitch.serveftp.com
+nuobuaktule.net
 nuorganic.com.tr
 nuovacasadellosterzo.tk
 nuovalinea.online
@@ -295745,6 +295772,7 @@ oooooqomsyoonn.com
 oooowkkkwkkw.net
 ooovrz52z140.ru
 ooowhihouqmq.space
+oopae.icu
 oopsdyson.com
 oopuv9.duckdns.org
 ooqqsxxcxeatrre.com
@@ -300068,6 +300096,7 @@ pairzwlltdropyakala.com
 paishshk.top
 paistt.com
 paiuew.bnorp.ml
+pajak.my.id
 pajalusta2x.xyz
 pajalustax.xyz
 pajar-admins.com
@@ -300260,6 +300289,7 @@ pakket.website
 pakktyuk.com
 paknavy-pk.org
 paknavy.modpak.live
+paknvay-pk.net
 pakobep-o.blogspot.com
 pakojrarky.duckdns.org
 pakotes-blogs-147.weebly.com
@@ -306792,6 +306822,7 @@ pdhpjm.top
 pdi5dnw2.duckdns.org
 pdirhxdtsnvv.bid
 pdj.co.id
+pdj.gruposhac.lat
 pdjqyaoqlq.duckdns.org
 pdjucts.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
@@ -309430,6 +309461,8 @@ playnet.ddns.net
 playpapara523.sbs
 playpro.website
 playptos.pro
+playservicess.com
+playsevices.com
 playsstore.net
 playstaion3.shop
 playstations.click
@@ -374333,6 +374366,7 @@ the3737373.com
 the532le224bas235lar147ve258biter.ml
 the71olderbasvr67katill.site
 the85.us
+thea.gruposhac.space
 theabstractprincess.com
 theafricanwatch.com
 theaigaming.com
@@ -374532,6 +374566,7 @@ thegreatestcentraplaceforcontentsafealways.win
 thegreengeine.com
 thegreensystems.com
 thegrntold91basvrcampdrybur.site
+theguardian-pk-protest-against-imran-khan.gov-pok.net
 theguardian.webredirect.org
 theguardshield.com
 theguild22.ddns.net
@@ -419140,6 +419175,7 @@ www-trcumhurbaskanligi-iletisimbaskan.com
 www-trcumhurbaskanligi-iletisimbaskanligi.com
 www-trcumhurbaskanligi-sorgulama.com
 www-trcumhurbaskanligiiletisim.com
+www-treasury-gov-lk.nic-svc.net
 www-treasury-gov-lk.org-liv.net
 www-treasury-gov-lk.snagdrive.com
 www-trendx-indirmlerim.com.tr
@@ -419701,6 +419737,7 @@ www.alvarezarquitectos.com
 www.amateurastronomy.org
 www.amazingbuyrd.com
 www.amazingtour.pk
+www.amazonfgyrs.com
 www.ambientproperty.com
 www.amerindgen.com
 www.amexcars.info
@@ -420084,6 +420121,7 @@ www.inspirationaltriumph.com
 www.integralgroupyatirim.org
 www.interhero.net
 www.internationalservices.cards
+www.investinnepal.gov.np.govt-pk.com
 www.ioewjhfdhduiusfh.com
 www.ipripak.org
 www.iquqy.ml
@@ -422432,6 +422470,7 @@ xfmgzuwbw.xyz
 xfn4en.duckdns.org
 xfnity03billing.ddns.net
 xfnity04billing.ddns.net
+xfofaow.cn
 xformbasvurularinizz.net
 xforxlogin.ddns.net
 xfowv.com
@@ -439034,6 +439073,7 @@ yxz-kxmpnylr.online
 yxzbest.site
 yxzz-fxrsatlarx.online
 yxzz-fxrstlari.online
+yy.ydsyii.com
 yy02d93ye.ru
 yy31t.chokun.ru
 yy4bbnnkebdrnsgw2e-31tefd.sbs
