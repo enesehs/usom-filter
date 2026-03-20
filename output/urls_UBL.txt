@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-20 00:59:28 UTC
-! Total: 354351 rules
+! Last modified: 2026-03-20 03:29:08 UTC
+! Total: 354361 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29849,6 +29849,7 @@
 *://*.alpinelab.shop/*
 *://*.alpinreisan1.com/*
 *://*.alplog.net/*
+*://*.alpmnt.com/*
 *://*.alpon.net/*
 *://*.alpracticetery.top/*
 *://*.alpsigorta.net/*
@@ -117299,6 +117300,7 @@
 *://*.epidemicsrawl.top/*
 *://*.epidubai.com/*
 *://*.epifonica.com/*
+*://*.epigeneticflow.com/*
 *://*.epihaber.com/*
 *://*.epikcarderindenemeleri.com/*
 *://*.epiksolution.org/*
@@ -130995,6 +130997,7 @@
 *://*.frontierty.org/*
 *://*.frontingenuity.top/*
 *://*.frontonasal.com/*
+*://*.frontpagereport.com/*
 *://*.frostcelery.top/*
 *://*.frostgocolochill.xyz/*
 *://*.frostman.shop/*
@@ -159335,6 +159338,7 @@
 *://*.hgsmtvonline.ml/*
 *://*.hgsmtvyukle.com/*
 *://*.hgsmtvyukleodeme.com/*
+*://*.hgsmusteri-govtr.com/*
 *://*.hgsmusteri-otoyol.net/*
 *://*.hgsmusteri-ptt.ml/*
 *://*.hgsmusteri-ptt.net/*
@@ -170899,6 +170903,7 @@
 *://*.iislemiade.app/*
 *://*.iislemimsizlerle.com/*
 *://*.iislemsizlerle.com/*
+*://*.iisntbulkratbkaiyeykuleme.net/*
 *://*.iisstetamdstekis.online/*
 *://*.iistalbualdasoraga.xyz/*
 *://*.iistanblkart.com/*
@@ -196647,6 +196652,7 @@
 *://*.kgmgovtra.cc/*
 *://*.kgmgovtrbuy.com/*
 *://*.kgmgovtronline.top/*
+*://*.kgmgovtur.one/*
 *://*.kgmgovzztr.top/*
 *://*.kgmgrv.cfd/*
 *://*.kgmgtio.cfd/*
@@ -246042,6 +246048,7 @@
 *://*.patentharc-gov-tr.site/*
 *://*.patentharc-gov-trrr.site/*
 *://*.patentharc-govtrr.site/*
+*://*.patentharc-resmi-govtr.site/*
 *://*.patentharc.com/*
 *://*.paternalen.com/*
 *://*.paternenabler.com/*
@@ -259617,6 +259624,7 @@
 *://*.qujstgkm.com/*
 *://*.qukkaxccda.asia/*
 *://*.qulhcxpo.com/*
+*://*.qulinas.com/*
 *://*.qulusulu.site/*
 *://*.qumarot.com/*
 *://*.qumparakampanya.com/*
@@ -299409,6 +299417,7 @@
 *://*.thiccnigga.me/*
 *://*.thickcauliflower.top/*
 *://*.thickcosmopolitan.top/*
+*://*.thicketlane.com/*
 *://*.thicketstrike.com/*
 *://*.thickextrnce.top/*
 *://*.thidrsorebahsufll.shop/*
@@ -351205,6 +351214,7 @@
 *://*.zenixmedia.com.tr/*
 *://*.zenkogroup.com/*
 *://*.zenkora2.sbs/*
+*://*.zenlife.sbs/*
 *://*.zenlod.com/*
 *://*.zenmrktingsnl.shop/*
 *://*.zennabe.com/*

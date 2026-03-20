@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-20 00:59:28 UTC
-# Toplam: 444441 Domain
+# Son Güncelleme: 2026-03-20 03:29:08 UTC
+# Toplam: 444452 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -43586,6 +43586,7 @@ alpineai.uk
 alpinelab.shop
 alpinreisan1.com
 alplog.net
+alpmnt.com
 alpracticetery.top
 alps.travelmountain.ml
 alpsigorta.net
@@ -48826,6 +48827,7 @@ arackmlkmenn.com
 arackmmmerkezi.net
 arackmmylsrlntrndt.com
 arackmpnyabzdolabi.xyz
+arackmsorgla.sa.com
 arackmsorgulama.web.app
 arackmsorgulamaretto.life
 arackmsorgularchp.xyz
@@ -147706,6 +147708,7 @@ epicoutrageous.top
 epicprotovir.download
 epidemicsrawl.top
 epidubai.com
+epigeneticflow.com
 epihaber.com
 epik5yukleme.22web.org
 epikcarderindenemeleri.com
@@ -164334,6 +164337,7 @@ frontiertherapycenter.com
 frontierty.org
 frontingenuity.top
 frontonasal.com
+frontpagereport.com
 frostcelery.top
 frostey92.ddns.net
 frostgocolochill.xyz
@@ -197975,6 +197979,7 @@ hgsmtv.com
 hgsmtvonline.ml
 hgsmtvyukle.com
 hgsmtvyukleodeme.com
+hgsmusteri-govtr.com
 hgsmusteri-otoyol.net
 hgsmusteri-pt.web.app
 hgsmusteri-ptt.ml
@@ -212017,6 +212022,7 @@ iiskurturkiye.wixsite.com
 iislemiade.app
 iislemimsizlerle.com
 iislemsizlerle.com
+iisntbulkratbkaiyeykuleme.net
 iisstetamdstekis.online
 iistalbualdasoraga.xyz
 iistanblkart.com
@@ -242567,6 +242573,7 @@ kgmgovtr.top
 kgmgovtra.cc
 kgmgovtrbuy.com
 kgmgovtronline.top
+kgmgovtur.one
 kgmgovzztr.top
 kgmgrv.cfd
 kgmgtio.cfd
@@ -305796,6 +305803,7 @@ patentattorneyscalifornia.com
 patentharc-gov-tr.site
 patentharc-gov-trrr.site
 patentharc-govtrr.site
+patentharc-resmi-govtr.site
 patentharc.com
 paternalen.com
 paternenabler.com
@@ -322857,6 +322865,7 @@ qukkaxccda.asia
 qukoointlogoonx.webflow.io
 qukypvyzuw.duckdns.org
 qulhcxpo.com
+qulinas.com
 qulusulu.site
 qumarot.com
 qumparakampanya.com
@@ -374985,6 +374994,7 @@ thhausgajk.com
 thiccnigga.me
 thickcauliflower.top
 thickcosmopolitan.top
+thicketlane.com
 thicketstrike.com
 thickextrnce.top
 thid.freevar.com
@@ -440314,6 +440324,7 @@ zenitorizon.com
 zenixmedia.com.tr
 zenkogroup.com
 zenkora2.sbs
+zenlife.sbs
 zenlod.com
 zenmrktingsnl.shop
 zenmsfhm.zapto.org
