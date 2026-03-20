@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-20 11:23:13 UTC
-# Toplam: 444475 Domain
+# Son Güncelleme: 2026-03-20 12:29:16 UTC
+# Toplam: 444495 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -32712,6 +32712,7 @@ aeroclinicit.azurewebsites.net
 aeroclubofindia.co.in
 aerocorpevionics.com
 aerofluidthermo.org
+aerohub.cyou
 aeroiayuroa.duckdns.org
 aerolithan.com
 aeromexi.co
@@ -84652,6 +84653,7 @@ brekelter2.com
 brekestetic.top
 brekkegard.no
 brelliantshon.com
+brelovikadu.boats
 breltorn.buzz
 bremstaufel.pro
 bren111.zapto.org
@@ -106466,6 +106468,7 @@ cpcalendars.tbmtrhazineuktr44.ga
 cpcalendars.tctrbmtrhazinegovtr9373.ml
 cpcalendars.tektiklakredims.com
 cpcalendars.tkrciyehediyebonusduyuru.com
+cpcalendars.toki.turkiye-basvuru.com
 cpcalendars.tr-sb-irtibatiletisim.com
 cpcalendars.tramer-sorgu.net
 cpcalendars.tramer-sorgula.net
@@ -111592,6 +111595,7 @@ dawidjasper.ddns.net
 dawkc5.duckdns.org
 dawkinsfitness.com
 dawn97853.xyz
+dawnatelier.com
 dawnmitton.com
 dawnnews.workers.dev
 dawnsinister.top
@@ -136450,6 +136454,7 @@ echoesky.online
 echoesoftherion.com
 echofernspire.site
 echoflux.site
+echohearth.com
 echohorizon.space
 echoingsolstice.org
 echojoy.xyz
@@ -156963,6 +156968,7 @@ fewwapalfxbckee.com
 fewwrongsaved.today
 fewyroinpoidfjhcmd.com
 fexal.cfd
+fexanas.com
 fexcongroup.com
 fexpres.lol
 fexra.cyou
@@ -225504,6 +225510,7 @@ istsagns2ss.com
 istsambnbldkl.mooo.com
 istsanbul34.cf
 istsanbulkartbasvuru.org
+istshrrrtrkt.com
 istsmgminayaasigim.com
 istsnbubssdvruds.store
 istsnbubsvruds.store
@@ -226703,6 +226710,7 @@ ivolvepture.top
 ivolxmmuuupp.xyz
 ivorenth.com
 ivoryfix.top
+ivorygarden.gifts
 ivoryhotela.top
 ivorytwo.top
 ivosmxhwnm.duckdns.org
@@ -245045,6 +245053,7 @@ kltv-gr-nt.myonlineportal.ch
 kltvsnzomphq.duckdns.org
 klub046.co
 klub11n.us
+kludarevop.gifts
 kludgequib.info
 kluh1xufyjml7js4apo.ddns.net
 klushchko.icu
@@ -261697,6 +261706,7 @@ mallcommend.top
 malleableness.com
 mallelectricarsgb.bond
 malleneaser.top
+mallifyat.com
 mallqicjdn.duckdns.org
 malls-36.top
 mallsvip.vip
@@ -263606,6 +263616,7 @@ maverz31.pro
 mavesao.com
 mavetina.info
 mavetinetin.store
+mavex.lat
 mavi-a1o1.net
 mavi-hafta-indirimleri-a1o1de.shop
 mavi-indirim-101de.com
@@ -273341,6 +273352,7 @@ mosquitocloth.top
 mosquitomelt.top
 mossadapi.tk
 mossadapii.tk
+mossatelier.store
 mosslano.in
 mossory.asia
 mossovet-afisa.ru
@@ -277033,6 +277045,7 @@ muvottanasa1.net
 muwirkz.duckdns.org
 muwkege4.zapto.org
 muxaaynetvturk.com
+muxelavri.com
 muxenceo.com
 muxg4d7z.duckdns.org
 muxrpmkffd.duckdns.org
@@ -277654,6 +277667,7 @@ mychode.hopto.org
 mychoiced.top
 mychoicet.top
 mychoicex.top
+myciqoi.digital
 mycisco-helpdesk.ml
 mycisco.cf
 mycisco.gq
@@ -282488,6 +282502,7 @@ nicktung.com
 nickward45.xyz
 nickymicky23125.com
 nickytrend.com
+nicmix.shop
 nicmpztady.duckdns.org
 nicolas123123.no-ip.biz
 nicolas20190427.duckdns.org
@@ -296445,6 +296460,7 @@ orcapraiahotel.world
 orcateheck.com
 orccgsmryw.duckdns.org
 orchardbloom.online
+orchardglow.store
 orchardhollow.top
 orchardsymbol.top
 orchestiidae.com
@@ -305841,6 +305857,7 @@ pathlightx.com
 pathmostlybatteries.com
 pathnest.online
 pathofdev.com
+pathogenwatch.com
 paticinha.duckdns.org
 patienceerection.top
 patiencemonotony.top
@@ -305962,6 +305979,7 @@ pavicomsa.com
 pavicontech.com
 pavilion.futbol
 pavlatos-studios.gr
+pavnas.com
 pavnnfcqhs.zapto.org
 pavorimex.com
 pavorinel.com
@@ -379440,6 +379458,7 @@ tpaotrplatform.com
 tpaoyatirim.online
 tpaoyatirim.site
 tpaoyatirim.top
+tpaozunavex.com
 tpapara.com
 tpapu502.top
 tparibu.com
@@ -386000,6 +386019,7 @@ trudve2dk.duckdns.org
 true-bottom.com
 true-deals.com
 true-lie.com
+true-start.com
 true.az-link.email
 trueaerned.com
 truecareforpets.hopto.org
