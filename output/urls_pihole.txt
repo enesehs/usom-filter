@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-20 15:31:33 UTC
-# Toplam: 444506 Domain
+# Son Güncelleme: 2026-03-20 16:28:11 UTC
+# Toplam: 444512 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24271,6 +24271,7 @@ a101ayfisratlari.duckdns.org
 a101b.kapmanylxzateldfnoxnxiaomzxms13.com
 a101b.sponsorlukampanyapersembemasa.com
 a101balcilar.net
+a101bayram.wuaze.com
 a101bayramaozel.com
 a101bayramaozel.site
 a101bayramdafirsatlaraktif.com
@@ -40545,6 +40546,7 @@ aktuelvolta.net
 aktuelxmpyyn.click
 aktuelyilbasi.net
 aktuelyon.cubepavid.cfd
+aktuelyudmkmp.cfd
 aktuelzmpyyn.click
 aktuerk.info
 aktufirsat.net
@@ -134835,6 +134837,7 @@ e-tuvturkbayilerrii.digital
 e-tuvturkbayilik.digital
 e-tuvturkbayinburada.digital
 e-tuvturkbayisi.digital
+e-tuvturkdijitalkesim.digital
 e-tuvturkileyasam.digital
 e-tuvturkk.digital
 e-tuvturkkbayisii.digital
@@ -199668,6 +199671,7 @@ hicmiduymadinizbunu.net
 hicpismandel.net
 hicyasirsdwe.net
 hid7js3fx.duckdns.org
+hidai.eafc-playteam.cfd
 hidatabase.cn
 hidayetvakfi.com.tr
 hiddeneasily.top
@@ -428918,6 +428922,7 @@ yagpazartesi.online
 yagpazartesigunu.site
 yagpazartesil.shop
 yagpazartesil.site
+yagpiyeniyil.store
 yagskmarkt.shop
 yagyuzuncuyil.online
 yagyuzuncuyilda.online
@@ -438097,6 +438102,7 @@ yud519hu.duckdns.org
 yuddum45323.dns.navy
 yudefohuko.com
 yudfrhtdl.info
+yudmaktuelkamp.cfd
 yudops.online
 yudum-aycicek-yagi-18lt-4adet.online
 yudum-aycicek.duckdns.org
