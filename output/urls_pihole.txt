@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-20 05:10:29 UTC
-# Toplam: 444452 Domain
+# Son Güncelleme: 2026-03-20 06:38:25 UTC
+# Toplam: 444457 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -241312,6 +241312,7 @@ keke61.zapto.org
 kekebizuuu.xyz
 kekekanka1.xyz
 kekekelemenek.club
+kekeksex.dns.navy
 kekekxntkxrtileodeme.net
 kekelerarabayiyanastirir.click
 kekemnaber21.xyz
@@ -241319,6 +241320,7 @@ kekempepe.xyz
 kekewresr.ddns.net
 kekeze21.ddns.net
 kekhgss.com
+kekksleeesx.blogspot.com
 keklik.zapto.org
 kekmekerekatara.com
 kekntsskart.net
@@ -259954,6 +259956,7 @@ mahkemesorgu.info
 mahkemesorgugov.org
 mahkemesorgulama.com
 mahkemesorgulama.net
+mahkrsbcbv.com
 mahmatagada.top
 mahmoodonline.com
 mahmoud-radwan.com
@@ -271801,6 +271804,7 @@ mobilsube-garantii.com
 mobilsube-garantiweb.cfd
 mobilsube-garantiweb.sbs
 mobilsube-grant.lat
+mobilsube-grnt.lat
 mobilsube-halk.com
 mobilsube-hediyepuan-firsatkampanyalari-ozel.xyz
 mobilsube-hediyepuan-firsatkampanyalari-ozeltr.xyz
@@ -370942,6 +370946,7 @@ teb-basvuruiphone.net
 teb-basvurular2026.duckdns.org
 teb-basvurusu.com
 teb-basvurutr.com
+teb-bayramaozel.my-homeip.net
 teb-bayramfirsatlari.com
 teb-bireysel-islemler.com
 teb-bireysel-kampanya.gt.tc
