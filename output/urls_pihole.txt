@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-21 21:13:48 UTC
-# Toplam: 444616 Domain
+# Son Güncelleme: 2026-03-21 22:11:23 UTC
+# Toplam: 444623 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21677,6 +21677,7 @@
 9b36asxcvza.ddns.net
 9b5uja.am.files.1drv.com
 9b7ef4f12ed4.com
+9b7f4s6k2x8n3mvaqh.sbs
 9b81om.duckdns.org
 9b9gn7g4.duckdns.org
 9bb1332453233981d0595033c23.com
@@ -223102,6 +223103,7 @@ islemportali.duckdns.org
 islempratik.xyz
 islems-ailevgenc.pw
 islemsayfasi.webredirect.org
+islemsayfasii.webredirect.org
 islemservisi.com
 islemservisi.org
 islemservisii.com
@@ -261175,6 +261177,7 @@ maksodemem.com
 makspkrak.com
 maksuda2230-52612.portmap.host
 maktron.yachts
+makuna.click
 makuraydankan.club
 makxsifirsat.xyz
 makxsifirssat.com.tr
@@ -278698,6 +278701,7 @@ n3g5mls.duckdns.org
 n3itxonp.duckdns.org
 n3onversexpqt91.click
 n3p1hc8er1jcfy8ghklc.ddns.net
+n3q7x2m8k4f9b6hvat.sbs
 n3sqnvpi.duckdns.org
 n3tflix098-secure.hopto.org
 n3tflix467-secure.hopto.org
@@ -278774,6 +278778,7 @@ n7qek7.duckdns.org
 n7r1x5q9t3m8b2v0y6p4w2z5.com.tr
 n7rx22szy.duckdns.org
 n7ubxn.duckdns.org
+n7x2m8k4q9f3b6hvat.cfd
 n7xejmjcdux1nqvcpcvcry.ddns.net
 n7z8k1u.duckdns.org
 n8.ahnlabinc.com
@@ -318485,6 +318490,7 @@ pttodemeler-bakiyeodeme.com
 pttodemeleri-hgsyukle.net
 pttodlzmkjdslkibb.com
 pttofmood.xyz
+pttogovtr.top
 pttogovtr.xyz
 pttoigov.cfd
 pttokfas.com
@@ -344858,6 +344864,7 @@ sepetbi.com
 sepetburada.com.tr
 sepetdemons24v.vip
 sepete-ekle-hizlifirsat.shop
+sepete-ekle-mobilde-store-tr.sbs
 sepete-takimi-tr.buzz
 sepete-takimlar-tr.buzz
 sepete-takimlara-tr.buzz
