@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-21 14:15:10 UTC
-! Total: 354481 rules
+! Last modified: 2026-03-21 15:14:16 UTC
+! Total: 354484 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10371,6 +10371,7 @@
 *://*.56734564847546.cfd/*
 *://*.5674564.com/*
 *://*.56754334649209214.com/*
+*://*.56754624324.online/*
 *://*.56767677777.site/*
 *://*.567678569.cloud/*
 *://*.567687843.site/*
@@ -163675,6 +163676,7 @@
 *://*.hlturkiyesaglikliyasam.com/*
 *://*.hluttaw-govmm.co/*
 *://*.hlzcmcmkmhgl.com/*
+*://*.hlzkdmsld.com/*
 *://*.hlzksidnf.shop/*
 *://*.hlzlasislmlerm.com/*
 *://*.hlzlislemlerimnokta.net/*
@@ -198885,6 +198887,7 @@
 *://*.kmpnyalrbitiyr1o1.xyz/*
 *://*.kmpnyalrmzlasn.net/*
 *://*.kmpnyambuaakdakrdm.top/*
+*://*.kmpnyanoktasiprmsynmrkzi.info/*
 *://*.kmpnyanoktasiprmsynmrkzi.live/*
 *://*.kmpnyaparmsynnbsvr.art/*
 *://*.kmpnyaparmsynnbsvr.live/*

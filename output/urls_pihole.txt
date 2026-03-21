@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-21 14:15:10 UTC
-# Toplam: 444594 Domain
+# Son Güncelleme: 2026-03-21 15:14:16 UTC
+# Toplam: 444599 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15807,6 +15807,7 @@
 56734564847546.cfd
 56745623542351.duckdns.org
 5674564.com
+56754624324.online
 567565.vercel.app
 56767677777.site
 567678569.cloud
@@ -203117,6 +203118,7 @@ hlxcwnsbob.duckdns.org
 hlxvhprmsc.duckdns.org
 hlzbrd-nypaiver.mooo.com
 hlzcmcmkmhgl.com
+hlzkdmsld.com
 hlzksidnf.shop
 hlzlasislmlerm.com
 hlzlasistem.duckdns.org
@@ -245692,6 +245694,7 @@ kmpnyalartuknyr1o1.xyz
 kmpnyalrbitiyr1o1.xyz
 kmpnyalrmzlasn.net
 kmpnyambuaakdakrdm.top
+kmpnyanoktasiprmsynmrkzi.info
 kmpnyanoktasiprmsynmrkzi.live
 kmpnyaparmsynnbsvr.art
 kmpnyaparmsynnbsvr.live
@@ -250564,6 +250567,7 @@ kuveyt-katilimbankasi.com
 kuveyt-katilimduyuru.com
 kuveyt-kurt.net
 kuveyt-kuveyturk.com
+kuveyt-mo1aktvsyn.duckdns.org
 kuveyt-mobil-com-tr.tk
 kuveyt-mobil-internet-subesi.com
 kuveyt-mobil-online-giris.com
@@ -396242,6 +396246,7 @@ uyapdosyauzlasmaportali.com
 uyapedevlet.org
 uyapeislem.com
 uyapforex.com
+uyapgiris.duckdns.org
 uyapgiris.online
 uyapgirisadres.vercel.app
 uyapgirisceza.com
