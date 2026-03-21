@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-21 17:15:10 UTC
-! Total: 354485 rules
+! Last modified: 2026-03-21 18:23:13 UTC
+! Total: 354490 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -103945,6 +103945,7 @@
 *://*.e-giris-borsalar-birliyi-gov-tr.com/*
 *://*.e-giris-devlet-eportal-webtr.com/*
 *://*.e-giris-dogrulamam.net/*
+*://*.e-giris-evim.sbs/*
 *://*.e-giris-kaidat.site/*
 *://*.e-giris-kartaidat.site/*
 *://*.e-giris-konut.sbs/*
@@ -112812,6 +112813,7 @@
 *://*.ekmdnbitsgldi.com/*
 *://*.ekmedogrusfrrdksmdkzert.online/*
 *://*.ekmeginesahip.xyz/*
+*://*.ekmekbabus.com/*
 *://*.ekmekcii.net/*
 *://*.ekmekciii.click/*
 *://*.ekmekcraft.com/*
@@ -191421,6 +191423,7 @@
 *://*.kampanyalisanslieylulayi.online/*
 *://*.kampanyalisanslieylulayi.xyz/*
 *://*.kampanyalisepet.online/*
+*://*.kampanyalisepetim.online/*
 *://*.kampanyalisigortacilar.xyz/*
 *://*.kampanyalisigortateklifi.com/*
 *://*.kampanyalislemlergirislerionline.com/*
@@ -234596,6 +234599,7 @@
 *://*.online-istanbul.online/*
 *://*.online-istanbulkart.com/*
 *://*.online-istanbulkart.istanbul/*
+*://*.online-istanbulkart.shop/*
 *://*.online-istikrar-eiadelerim.com/*
 *://*.online-ivdd.tk/*
 *://*.online-izmirimkart-com.ml/*
@@ -314596,6 +314600,7 @@
 *://*.ukwzdmyhp.com/*
 *://*.ukxk.xyz/*
 *://*.ukxrvohulyb.info/*
+*://*.uladsssim-yukle-online.shop/*
 *://*.ulahayattyok.com.tr/*
 *://*.ulalallareckol.net/*
 *://*.ulamaotrpastkslameoalsmgatadarasc.net/*
