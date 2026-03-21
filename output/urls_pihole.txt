@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-21 10:14:10 UTC
-# Toplam: 444568 Domain
+# Son Güncelleme: 2026-03-21 11:12:57 UTC
+# Toplam: 444571 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -170866,6 +170866,7 @@ gecegunduz.sbs
 gecegunduztikabasaa.com
 geceindirimlerim.online
 geceindirimlerisadeceonline.duckdns.org
+geceislerikkgeceler.com
 geceiszmirism.net
 gecekampanyalari.shop
 gecekizicayi.bid
@@ -238543,6 +238544,7 @@ karasabamao.ga
 karasaca.karjalamasoratalamatoraksalamavanbah.net
 karasaplak310.com
 karasinek.xyz
+karasnbayram.sbs
 karasoy4hold.live
 karasto01.ddns.net
 karatan.click
@@ -412616,6 +412618,7 @@ wikanzzx.zapto.org
 wikeneweb.com
 wiki-text.xyz
 wiki.filemodapk.com
+wiki.pikochoco.cfd
 wikiegregor.top
 wikihatch.com
 wikileaks.email
