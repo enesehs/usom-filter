@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-21 11:12:57 UTC
-# Toplam: 444571 Domain
+# Son Güncelleme: 2026-03-21 12:23:10 UTC
+# Toplam: 444588 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17056,6 +17056,7 @@
 6548127.cloud
 6548595763474.cloud
 65487458795487.duckdns.org
+65498413211l11156787.duckdns.org
 654984653165.net
 65498482158.com
 65498746158961513151.cloud
@@ -63065,6 +63066,7 @@ bayramaozelsinirlisaayi.xyz
 bayramaozeltarife-10gb.com
 bayramaozeltarifen-10gb.com
 bayramaozelyenietkinlikler.net
+bayramaraksn.click
 bayrambasvuru-1100tl.com
 bayrambereketli.me
 bayrambitmedi.online
@@ -63111,6 +63113,8 @@ bayramdayapikredi.com
 bayramdayapikredi.website
 bayramdaybimcl.com
 bayramdayiz.com
+bayramdazarn.click
+bayramdazarn.sbs
 bayramdekoru.com
 bayramdenizdeguzel.com
 bayramdenizdeguzel.tc
@@ -127331,6 +127335,7 @@ dremmfyttrred.com
 dremom2.duckdns.org
 dremrentsfilo.online
 drenkihs.zapto.org
+drenostavik.digital
 dresatl.info
 dresoklanfirsatlan1o1.xyz
 dresortgocekresort.com
@@ -182303,6 +182308,7 @@ guvenli-iade-platformu-guncel-e-devlet2021.xyz
 guvenli-iade-platformu-odemeleri-simdi-guncel-e-devlet2021.xyz
 guvenli-iade.com
 guvenli-iade2021-teknik-destek-birimi-kredim-toplu.xyz
+guvenli-ilan-alisveris.online
 guvenli-ilan-sahibinden.com.tr
 guvenli-ilan-tr.sa.com
 guvenli-ilan.com
@@ -196001,6 +196007,7 @@ heumaim-09011-1112.online
 heureux123.zapto.org
 heuristic-archimedes.20-208-140-27.plesk.page
 heuristic-meitner.87-248-157-101.plesk.page
+heuristicwave.com
 heuroxoy.com
 heus.fun
 heuscheck.com.tr
@@ -202321,6 +202328,7 @@ hizmetakbnkbasvuru.app
 hizmetaktc.de
 hizmetaliade.de
 hizmetalisveris.com.tr
+hizmetalservislerin.com
 hizmetaracim.dev
 hizmetaracmuayene.com
 hizmetavm.xyz
@@ -223749,6 +223757,7 @@ istanbukargrs.autos
 istanbukart.online
 istanbukfirsat.net
 istanbuklyukle.net
+istanbukoshzus.com
 istanbul-0510.xyz
 istanbul-bakvurum.click
 istanbul-belbim.net
@@ -233236,6 +233245,7 @@ k038jp4616.info
 k05gpk7.duckdns.org
 k05sduy9.duckdns.org
 k0b-update.duckdns.org
+k0bimerkezi.click
 k0c2o8kfmra2wt3vu4klcvw.ddns.net
 k0dxnr.duckdns.org
 k0ejxa1mfw2634fy.com
@@ -258015,6 +258025,7 @@ luxconprojects.co.za
 luxdevon.com
 luxenoria.live
 luxeorbit.shop
+luxglow.beauty
 luxhayatvize.ml
 luxkaiii.hopto.org
 luxkking.com
@@ -273572,6 +273583,7 @@ motosonuc.ml
 motovzbiz.b-cdn.net
 motown-player.com
 motown-space.com
+motoworld.motorcycles
 motpack.com
 motrior.com
 motrlutasitv3rgisi.org
@@ -307896,6 +307908,7 @@ petrointurkey.com
 petroinvestmentgroup.site
 petrol-borsa.com
 petrol-depart.com
+petrol-invest-1.emergent.host
 petrol-ofisleri-kampanya.online
 petrol-pltf.com
 petrol-tr.com
@@ -322668,6 +322681,7 @@ quantohub.com
 quantorra.art
 quantrexapisystems.ct.ws
 quantrez.space
+quantrin.com
 quanttivise.com
 quanttoki.site
 quanttrobot.com
@@ -330426,6 +330440,7 @@ robotsia.asia
 robotstout.top
 robotszad.duckdns.org
 robotveinsanbirlesmesimacerasi.xyz
+robovacdeals.com
 robowise.click
 robsacks.com
 robsheraldry.com
@@ -352995,6 +353010,7 @@ skiingfabrication.top
 skiinnandsuites.world
 skilfulhumiliate.top
 skilfulide.top
+skilify.vu
 skill-share.org
 skillanv.com
 skillaro.ru
@@ -401025,6 +401041,7 @@ vavrava.xyz
 vawgxlsbcj.duckdns.org
 vawsfcafuc.duckdns.org
 vawzbd8.duckdns.org
+vaxenoladir.digital
 vaxil.shop
 vaxmucr7oqz.storage.googleapis.com
 vayanambabamz1.duckdns.org
