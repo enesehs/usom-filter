@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-22 05:43:46 UTC
-# Toplam: 444635 Domain
+# Son Güncelleme: 2026-03-22 06:35:10 UTC
+# Toplam: 444640 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -96058,6 +96058,7 @@ cepteteb.ga
 cepteteb.giris-user.com
 cepteteb.kisalink.cc
 cepteteb.ml
+cepteteb.my-homeip.de
 cepteteb.my-homeip.net
 cepteteb.online
 cepteteb.xyz
@@ -170271,6 +170272,7 @@ gawyni.com
 gaxcop.duckdns.org
 gaxlsw.com
 gaxtpkgtsp.duckdns.org
+gaxuridelon.com
 gay.energy
 gaya.ddns.net
 gayado.ru
@@ -320251,6 +320253,7 @@ qeiigk.duckdns.org
 qeikdm.com
 qeilsowds.com
 qekyfeg.com
+qelastorim.com
 qeloravi.com
 qelundo.pro
 qemaxilur.com
@@ -332119,6 +332122,7 @@ s-dolap-param-guvende-hizmet.com
 s-dolap-param-guvende-hizmet.com.tr
 s-dolap-paramguvende-odeme-destek.shop
 s-dolapp-paranguvende-satinal-com.shop
+s-ds-d-fgfgfg.mooo.com
 s-e-ric-letions.site
 s-ecureparamguvende-sahibinden.com
 s-ecuresahibinden.online
@@ -379238,6 +379242,7 @@ torlekttraval.com
 torlium.space
 torlummlingarf.com
 torlummmirzen.com
+tormelavinu.com
 torment.ddns.net
 torment1628.duckdns.org
 tormenta.hopto.org
