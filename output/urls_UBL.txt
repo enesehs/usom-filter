@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-23 08:40:08 UTC
-! Total: 354606 rules
+! Last modified: 2026-03-23 09:52:54 UTC
+! Total: 354625 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -94860,6 +94860,7 @@
 *://*.digiturkbasvuru.net/*
 *://*.digiturkbasvurumerkezim.com/*
 *://*.digiturki.com/*
+*://*.digiturksepetim.com/*
 *://*.digiviews.co.uk/*
 *://*.digiwizr.com/*
 *://*.dignifyhop.top/*
@@ -119272,6 +119273,7 @@
 *://*.etifjdjdllkk.xyz/*
 *://*.etifjdjdrtt.xyz/*
 *://*.etihad-arena.com/*
+*://*.etihov.homes/*
 *://*.etijkxgtqkmtrda.cn/*
 *://*.etiketdolumyap.com/*
 *://*.etiketeyukle.me/*
@@ -153134,6 +153136,7 @@
 *://*.havaalanindankirala.com/*
 *://*.havaalanirentacar-filo-rezervasyon.com/*
 *://*.havaalanirentoffice.com.tr/*
+*://*.havaas.ist/*
 *://*.havacilikhukuku.pro/*
 *://*.havadrumu15gunluk.xyz/*
 *://*.havaiiist.site/*
@@ -154348,6 +154351,7 @@
 *://*.hcm-paycor.org/*
 *://*.hcmetallurg-tickets.com/*
 *://*.hcmuafgh.com/*
+*://*.hcnjxm.homes/*
 *://*.hcontrol.pro/*
 *://*.hcpfd.com/*
 *://*.hcpljtab.com/*
@@ -195513,6 +195517,7 @@
 *://*.kcmzindirimleryepyenifirsatlarlasnidibrdatsla.com/*
 *://*.kcmzsalipzrikmpnyalribsladixcynne.com/*
 *://*.kcmzsndifisratlarbrdaxcq1.com/*
+*://*.kcnach.homes/*
 *://*.kcnkcnmainservjfn.info/*
 *://*.kcnncjnrjnrjfjr.in/*
 *://*.kcnndmsjdnwekjwjen.xyz/*
@@ -196815,6 +196820,7 @@
 *://*.kgmkarayoluajans.com/*
 *://*.kgmkarayoluajans2023.com/*
 *://*.kgmkg.top/*
+*://*.kgmkm.online/*
 *://*.kgmldgovtr.top/*
 *://*.kgmlegecisins.dev/*
 *://*.kgmlo.top/*
@@ -199355,6 +199361,7 @@
 *://*.knvbcnz832.online/*
 *://*.knvbcnz833.online/*
 *://*.knvbcnz834.online/*
+*://*.knxhzc.homes/*
 *://*.knxqrq.top/*
 *://*.knxtkartykleme.net/*
 *://*.knyalin-ptthgs.com/*
@@ -223309,6 +223316,7 @@
 *://*.mxbkzc.help/*
 *://*.mxblog77.cfd/*
 *://*.mxbxlegirisisbnka.store/*
+*://*.mxbznx.homes/*
 *://*.mxclick.com/*
 *://*.mxcyqb.com/*
 *://*.mxdif.com/*
@@ -223316,6 +223324,7 @@
 *://*.mxexchange-365office-mxexchange-crosoft365.com/*
 *://*.mxfcum.top/*
 *://*.mxfg.pw/*
+*://*.mxhbzx.homes/*
 *://*.mxhrxsrandevbzle.org/*
 *://*.mxiangsc.com/*
 *://*.mxiiemkadyx.xyz/*
@@ -248877,6 +248886,7 @@
 *://*.pktyklesendekzn.net/*
 *://*.pkulbntr.online/*
 *://*.pkxlncghq.com/*
+*://*.pkxnzm.homes/*
 *://*.pkzybgc.com/*
 *://*.pkzz.xyz/*
 *://*.pl-s-alisveris.com/*
@@ -261212,6 +261222,7 @@
 *://*.ranranduvu.net/*
 *://*.ranscendtribun.top/*
 *://*.ransdaskw.net/*
+*://*.ransddevuhzmtlerburdsas.store/*
 *://*.ransdrmlr.com.tr/*
 *://*.ransdrmlr.online/*
 *://*.ransdrmlr.xyz/*
@@ -271602,6 +271613,7 @@
 *://*.scepticluminous.top/*
 *://*.sceyiz.buzz/*
 *://*.sceyiz.sbs/*
+*://*.scfklcaskxl32xlkcs.cfd/*
 *://*.scfmrct.cn/*
 *://*.scgawj.com/*
 *://*.scgestor.com.br/*
@@ -307491,6 +307503,7 @@
 *://*.trivdsrg.online/*
 *://*.triveno.store/*
 *://*.trivenstoun.com/*
+*://*.triveonline.com.tr/*
 *://*.triveyatirim.net/*
 *://*.trivi-xan.co/*
 *://*.triviabox.co.in/*
@@ -324514,6 +324527,7 @@
 *://*.vnwx4.xyz/*
 *://*.vnxuytun234z.com/*
 *://*.vnzbyen28287.com/*
+*://*.vnzjgi.homes/*
 *://*.voakdenetimglobalbasvurun.com/*
 *://*.voavsuahlybhnhaae.net/*
 *://*.voaxd.com/*
@@ -341229,6 +341243,7 @@
 *://*.xnyidc.top/*
 *://*.xnypkred-hwa04e.com/*
 *://*.xnzk.me/*
+*://*.xnzkmx.homes/*
 *://*.xnzyjx.com/*
 *://*.xo.je/*
 *://*.xoafrg.top/*
@@ -341695,6 +341710,7 @@
 *://*.xxoht18.cn/*
 *://*.xxonlineodemelermt.com/*
 *://*.xxparawwxxghost.net/*
+*://*.xxpscx.homes/*
 *://*.xxpxdrkydxfo.xyz/*
 *://*.xxsvx.com/*
 *://*.xxswxd.click/*
@@ -345417,6 +345433,7 @@
 *://*.ybaucjymobdbplb.ru/*
 *://*.ybcqjt.com/*
 *://*.ybenzuo.com/*
+*://*.ybfxgk.homes/*
 *://*.ybfxw.cn/*
 *://*.ybir-dnl-yln-flrllsati.sbs/*
 *://*.ybkos.link/*
@@ -347561,6 +347578,7 @@
 *://*.yhbpxeepjolbop.info/*
 *://*.yhbsqx.com/*
 *://*.yhckos.online/*
+*://*.yhclzx.homes/*
 *://*.yhdakgjd.top/*
 *://*.yhdncj.biz/*
 *://*.yhdncjsitefjr.tk/*
@@ -347584,6 +347602,7 @@
 *://*.yhuposkurstaygus.com/*
 *://*.yhvxm.icu/*
 *://*.yhwkeb.com/*
+*://*.yhxkkh.homes/*
 *://*.yhzsjg.online/*
 *://*.yi087011.xyz/*
 *://*.yi7qlaice.cf/*
