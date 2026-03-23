@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-23 06:02:27 UTC
-# Toplam: 444744 Domain
+# Son Güncelleme: 2026-03-23 07:53:25 UTC
+# Toplam: 444758 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -53243,6 +53243,7 @@ auth-m-bbitmert-sso.webflow.io
 auth-m-trezor--en-cdn.webflow.io
 auth-masdhqwodkoasdiqwdjoasfg.duckdns.org
 auth-mzxcbwfghqiwgkjasdhsafiqwghjasdjkdf.duckdns.org
+auth-owa-staffs.ubpages.com
 auth-qsf4qs5f48zq.zapto.org
 auth-rbfcu01.ddns.net
 auth-s-start-authtrazor.webflow.io
@@ -85290,6 +85291,7 @@ bruisenegligible.top
 brunchsubordinate.top
 bruncolinc59.lumiscoconsupoltronsia.org
 bruneivays9x.digital
+brunestavok.digital
 brunoboss.zapto.org
 brunoman.top
 brunomars-ticket.com
@@ -111029,6 +111031,7 @@ danylmassey574.xyz
 danyshman2.ddns.net
 danzou1.zapto.org
 dao-asiiv.icu
+dao-asioiiv.icu
 daodayetankaigan.top
 daogaingon.hopto.org
 daogidimumebale.ddns.net
@@ -136515,6 +136518,7 @@ echelonyieldai.app
 echidnas64.xyz
 echobravo.zapto.org
 echobrink.top
+echoburstmedia.com
 echoesky.online
 echoesoftherion.com
 echofernspire.site
@@ -184498,6 +184502,7 @@ haber360.site
 haber360tc2016.cfd
 haber360tr.cfd
 haber360tr.com
+haber364tr.live
 haber365.club
 haber365.online
 haber365.site
@@ -204749,6 +204754,7 @@ horsepowerwrestle.top
 horseprofasdasd.com
 horsesink.xyz
 horsesymposium.top
+hort.garden
 hort.pe
 horussorgu.top
 horvesac.bit
@@ -241418,6 +241424,7 @@ keesterfcu-kfcu.ddns.net
 keesterfcu-kfculogi.ddns.net
 keewoolas.pw
 keewoom.co.kr
+kefalukaakyarlar.com
 kefalukabodrumresort.com
 kefelukasparesort.com
 keffxecqimbuoq.me
@@ -242451,6 +242458,7 @@ kgm-goa.com
 kgm-goe.com
 kgm-goh.com
 kgm-gom.com
+kgm-gom.life
 kgm-gou.com
 kgm-gov-co.me
 kgm-gov-shop.top
@@ -298176,6 +298184,7 @@ otv-gl-r-n.myonlineportal.ch
 otv9kckk.duckdns.org
 otvaok.xyz
 otvpxkdbiyfbhvj.com
+otwave.pics
 otwfr.com
 otwgpxnivl.duckdns.org
 otwnif.com
@@ -325077,7 +325086,9 @@ rapidirrespective.top
 rapiditycompile.top
 rapidityknob.top
 rapiditypant.top
+rapidnewsroom.com
 rapidrotate.top
+rapidstoryline.com
 rapidterminate.top
 rapimibitiricen.cyou
 rapirog.pw
@@ -362801,6 +362812,7 @@ streetlegacy.top
 streetmow.top
 streetpulsedev.wpengine.com
 streettimid.top
+streetvibe.monster
 streetwalkersd.top
 streetway.info
 strehen78zinal.islandofinvolomartyreasurgical.io
@@ -362914,6 +362926,7 @@ strongmodern.online
 strongodrancvevularmm.net
 strongoperative.top
 strongslot.top
+strongstartsfood.com
 strongsugar.top
 stronpn.courses
 stroongaartzzzz.net
@@ -443767,6 +443780,7 @@ zorluvakif-destek-burs.site
 zorluvakif.org
 zorluvakiflari-burs-destek.site
 zorluvakiflari-destek-burs.site
+zormekalidu.digital
 zororo.mobi
 zoros.ddns.net
 zorpleflux.top
