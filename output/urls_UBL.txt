@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-23 17:41:17 UTC
-! Total: 354698 rules
+! Last modified: 2026-03-23 18:35:46 UTC
+! Total: 354706 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14132,6 +14132,7 @@
 *://*.a1-01-kaslm-flrsatlari.cfd/*
 *://*.a1-01-snal-mrketim.cfd/*
 *://*.a1-01alisveriskampanyam.com/*
+*://*.a1-01c0lmtlr.cyou/*
 *://*.a1-01kekstracom-tr.sbs/*
 *://*.a1-o-1-central.site/*
 *://*.a1-o-1-firsatlari.com/*
@@ -83173,6 +83174,7 @@
 *://*.crrsdayzbz.cfd/*
 *://*.crsafronlin.cfd/*
 *://*.crsahzrafsvrz.net/*
+*://*.crsancake24aldn.cfd/*
 *://*.crsasahprskaam.cfd/*
 *://*.crsassahiprskam.cfd/*
 *://*.crsassahprskam.com/*
@@ -144139,6 +144141,7 @@
 *://*.guncel-satin-alim.online/*
 *://*.guncel-sepetler.biz.tr/*
 *://*.guncel-sepetler.name.tr/*
+*://*.guncel-sepetler.net.tr/*
 *://*.guncel-sepetler.org.tr/*
 *://*.guncel-sepetler.tv.tr/*
 *://*.guncel-sepetler.web.tr/*
@@ -196675,6 +196678,7 @@
 *://*.kgm-odemee.com/*
 *://*.kgm-odemex.com/*
 *://*.kgm-odemexx.com/*
+*://*.kgm-odemexxx.app/*
 *://*.kgm-odemexxx.net/*
 *://*.kgm-oga.com/*
 *://*.kgm-ogc.com/*
@@ -206031,6 +206035,7 @@
 *://*.linkisalt.xyz/*
 *://*.linkit.digital/*
 *://*.linkk-my.com/*
+*://*.linkkisalt-tr.site/*
 *://*.linkkisaltmobil.com/*
 *://*.linkkoturkkuuvyt.com/*
 *://*.linklihzmt.xyz/*
@@ -214950,6 +214955,7 @@
 *://*.metecenne.click/*
 *://*.meteforx444.space/*
 *://*.metehan.cfd/*
+*://*.metenyalhuya.cfd/*
 *://*.meteoannecy.net/*
 *://*.meteorhollow.space/*
 *://*.meterappal.top/*
@@ -217371,6 +217377,7 @@
 *://*.mobil-sparamguvende.online/*
 *://*.mobil-sponsor-extra.online/*
 *://*.mobil-sponsor-market-tr.online/*
+*://*.mobil-sponsor-store-mobilde-tr.site/*
 *://*.mobil-sponsor-tr.lol/*
 *://*.mobil-sponsor.cyou/*
 *://*.mobil-sube-basvur-ekran.click/*
@@ -345562,6 +345569,7 @@
 *://*.ydkyazkllmaaspettelnldlrm.com/*
 *://*.ydlwrmlinoyq.space/*
 *://*.ydmaycyzbrozlrmzn.cfd/*
+*://*.ydmyapykznkaycyzbrozlrmzn.cfd/*
 *://*.ydns.eu/*
 *://*.ydnsk.com/*
 *://*.ydntmr.top/*
