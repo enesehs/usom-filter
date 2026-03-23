@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-23 11:34:57 UTC
-! Total: 354636 rules
+! Last modified: 2026-03-23 12:35:40 UTC
+! Total: 354648 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -110563,6 +110563,7 @@
 *://*.educatorbouquet.top/*
 *://*.educedetachmen.top/*
 *://*.educu.xyz/*
+*://*.edud.site/*
 *://*.edudemac.ru/*
 *://*.edudestek.org/*
 *://*.edueduedudrecuedu.com/*
@@ -141775,6 +141776,7 @@
 *://*.gov-hzwy.live/*
 *://*.gov-ihlas-haber-tr.com/*
 *://*.gov-imky.win/*
+*://*.gov-irs216.net/*
 *://*.gov-kasih.com/*
 *://*.gov-kgm.cc/*
 *://*.gov-kgm.cyou/*
@@ -178465,6 +178467,7 @@
 *://*.irritationcompartment.top/*
 *://*.irritationpretext.top/*
 *://*.irritationschool.top/*
+*://*.irs-doc.com/*
 *://*.irs-ein-gov.us/*
 *://*.irs-forms.top/*
 *://*.irs01.com/*
@@ -182279,6 +182282,7 @@
 *://*.istkentkartbakiyemonline.com/*
 *://*.istkisbas.online/*
 *://*.istkisielstmrenmvarsz.com/*
+*://*.istkkkrtt.shop/*
 *://*.istklartbasvuru.app/*
 *://*.istklr.online/*
 *://*.istkm.icu/*
@@ -189780,6 +189784,7 @@
 *://*.kafejer121.com/*
 *://*.kafes.sbs/*
 *://*.kafexyu.com/*
+*://*.kafiga.pro/*
 *://*.kafinasiddetehayir.tk/*
 *://*.kafkafdenizdensesdes.site/*
 *://*.kafkefreis.click/*
@@ -198961,6 +198966,7 @@
 *://*.kmpnyaprmsnyngrntt.pro/*
 *://*.kmpnyaprmsynbsvrusendekatl.live/*
 *://*.kmpnyaprmsyngrntt.info/*
+*://*.kmpnyaprmsyngrntt.live/*
 *://*.kmpnyaprmsyngrntt.pro/*
 *://*.kmpnyaprmsynn0nb.live/*
 *://*.kmpnyaprmsynn0nb.pro/*
@@ -251914,6 +251920,7 @@
 *://*.privat-bankau.com/*
 *://*.privatbank-ua.com/*
 *://*.privatdoma.cfd/*
+*://*.private-adobe-client.im/*
 *://*.private-bireysel-gris.site/*
 *://*.private-chatting.com/*
 *://*.private-edinmarketing.com/*
@@ -256419,6 +256426,7 @@
 *://*.pttmatiksanal.com/*
 *://*.pttmavm.com/*
 *://*.pttmba.store/*
+*://*.pttme.bond/*
 *://*.pttmgov.cfd/*
 *://*.pttmgov.ink/*
 *://*.pttmhgs.xyz/*
@@ -261176,6 +261184,7 @@
 *://*.randtapv.online/*
 *://*.randvalsanaxd.net/*
 *://*.randvcerlas.net/*
+*://*.randvehuziemtbrudsad.store/*
 *://*.randvni.net/*
 *://*.randvnv1alok.net/*
 *://*.randvu-islemleriniz.net/*
@@ -282116,6 +282125,7 @@
 *://*.smarttech-turk.com/*
 *://*.smarttptt.com/*
 *://*.smartturkproj.com/*
+*://*.smartvault.im/*
 *://*.smartvisioncom.com/*
 *://*.smartwashingtonhomebuyers.com/*
 *://*.smartwealth24.info/*
@@ -294575,6 +294585,7 @@
 *://*.taxationlinguistics.top/*
 *://*.taxationlipstick.top/*
 *://*.taxationparachute.top/*
+*://*.taxationstatments2025.com/*
 *://*.taxationverdict.top/*
 *://*.taxationvolatile.top/*
 *://*.taxconstituent.cn/*
@@ -321329,6 +321340,7 @@
 *://*.vedeypliandir.net/*
 *://*.vedfilkse.site/*
 *://*.vedicultorrganics.com/*
+*://*.vedikol.pro/*
 *://*.vedisparbe.com/*
 *://*.vedldeno.store/*
 *://*.vedoledeka.de/*
