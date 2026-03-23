@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-23 10:40:52 UTC
-# Toplam: 444782 Domain
+# Son Güncelleme: 2026-03-23 11:34:57 UTC
+# Toplam: 444793 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -76254,6 +76254,7 @@ biyukleme.mywire.org
 biyuklemeler.22web.org
 biyuklemeli.mywire.org
 biywjo.duckdns.org
+biz-babayiz-222222.mooo.com
 biz-biz-esahne.com
 biz-bize-kampanya-basvurusu-biryel.tk
 biz-bize-yeteriz-kampanyasi.xyz
@@ -94025,6 +94026,7 @@ cdn.diogoflix.com
 cdn.discordapp.com
 cdn.disqusapi.com
 cdn.doublesclick.me
+cdn.eideasrl.it
 cdn.finance1num.com
 cdn.fullpccare.com
 cdn.funckgroup-server.com
@@ -127087,6 +127089,7 @@ dpvcsk.com
 dpvlpwurmjt.org
 dpy1roy.duckdns.org
 dpzwv8t44.duckdns.org
+dq.bestshoppingday.com
 dq.fhjyd.icu
 dq1xo384qd7qytoe53l71vu.com
 dq232sdr2.s3.eu-central-1.amazonaws.com
@@ -154803,6 +154806,7 @@ facthq.store
 factionalleviation.top
 factionhomogeneous.top
 factionnitrogen.top
+factledger.online
 factocrestira.pro
 factonovaria.online
 factor9.win
@@ -184874,6 +184878,7 @@ haberyayincilik.club
 haberyayincilik.site
 haberyikamalaerf.blogspot.com
 haberyolu.online
+haberzona.online
 habib223.zapto.org
 habib236547.zapto.org
 habibmentro.com
@@ -225291,6 +225296,7 @@ istmhknvcbnv.com
 istmhknvcnbcv.com
 istmhknvcnccc.com
 istmhknvnvc.com
+istmhksdfbnxc.com
 istmhndvcx.com
 istmkbbcxbc.com
 istmkbvcnxc.com
@@ -256735,6 +256741,7 @@ logpanel1.cf
 logpnc.duckdns.org
 logremngerb.info
 logrenisie.xyz
+logs.bestshopingday.com
 logs7wa.ddns.net
 logsapimanagement.azurewebsites.net
 logsapimanagements.azurewebsites.net
@@ -318912,6 +318919,7 @@ ptttr-avm.com
 ptttr-gov.top
 ptttr-gov.xyz
 ptttr-tr.top
+ptttr.bond
 ptttr.shop
 ptttr.top
 ptttrgov.top
@@ -323018,6 +323026,7 @@ quickboorks-accountings.com
 quickcompe.net
 quickdatenight.duckdns.org
 quickdebithub.com
+quickdocshare.com
 quickheadline.online
 quickhelpsolve.com
 quickhype.click
@@ -440663,6 +440672,7 @@ zennn.ddns.net
 zennone.ddns.net
 zennova.store
 zenobox.eu
+zenorium.com
 zenova.duckdns.org
 zenovan.com
 zenovism.com
@@ -444294,6 +444304,7 @@ zunenvpwmf.ngtanga20.com
 zunketao.com
 zunkv6c3.duckdns.org
 zunlen.com
+zunopareki.com
 zunpthedoanin.com
 zunqex.com
 zuobxrlgfd.duckdns.org

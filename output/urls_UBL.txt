@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-23 10:40:52 UTC
-! Total: 354626 rules
+! Last modified: 2026-03-23 11:34:57 UTC
+! Total: 354636 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47973,6 +47973,8 @@
 *://*.bestserviceboost.com/*
 *://*.bestservicehelp.com/*
 *://*.bestsheepleather.com/*
+*://*.bestshopingday.com/*
+*://*.bestshoppingday.com/*
 *://*.bestshopu.online/*
 *://*.beststreammusic.com/*
 *://*.besttealsewi.com/*
@@ -112217,6 +112219,7 @@
 *://*.eidaridava.org/*
 *://*.eidaridosya.org/*
 *://*.eidarisorgu.org/*
+*://*.eideasrl.it/*
 *://*.eidekk.com/*
 *://*.eidets.com/*
 *://*.eidmood.com/*
@@ -123040,6 +123043,7 @@
 *://*.factionalleviation.top/*
 *://*.factionhomogeneous.top/*
 *://*.factionnitrogen.top/*
+*://*.factledger.online/*
 *://*.factocrestira.pro/*
 *://*.factonovaria.online/*
 *://*.factor9.win/*
@@ -147770,6 +147774,7 @@
 *://*.haberyayincilik.club/*
 *://*.haberyayincilik.site/*
 *://*.haberyolu.online/*
+*://*.haberzona.online/*
 *://*.habibmentro.com/*
 *://*.habibtextiles.pk/*
 *://*.habilitation.top/*
@@ -182350,6 +182355,7 @@
 *://*.istmhknvcnbcv.com/*
 *://*.istmhknvcnccc.com/*
 *://*.istmhknvnvc.com/*
+*://*.istmhksdfbnxc.com/*
 *://*.istmhndvcx.com/*
 *://*.istmkbbcxbc.com/*
 *://*.istmkbvcnxc.com/*
@@ -256761,6 +256767,7 @@
 *://*.ptttr-gov.top/*
 *://*.ptttr-gov.xyz/*
 *://*.ptttr-tr.top/*
+*://*.ptttr.bond/*
 *://*.ptttr.shop/*
 *://*.ptttr.top/*
 *://*.ptttrgov.top/*
@@ -259739,6 +259746,7 @@
 *://*.quickcompe.net/*
 *://*.quickcontentnetwork.com/*
 *://*.quickdebithub.com/*
+*://*.quickdocshare.com/*
 *://*.quickheadline.online/*
 *://*.quickhelpsolve.com/*
 *://*.quickhype.click/*
@@ -351485,6 +351493,7 @@
 *://*.zenngrowth.com/*
 *://*.zennova.store/*
 *://*.zenobox.eu/*
+*://*.zenorium.com/*
 *://*.zenovan.com/*
 *://*.zenovism.com/*
 *://*.zenpast.com/*
@@ -354329,6 +354338,7 @@
 *://*.zunelovix.com/*
 *://*.zunketao.com/*
 *://*.zunlen.com/*
+*://*.zunopareki.com/*
 *://*.zunpthedoanin.com/*
 *://*.zunqex.com/*
 *://*.zupertech.com/*
