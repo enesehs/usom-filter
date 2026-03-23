@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-23 20:26:17 UTC
-# Toplam: 444892 Domain
+# Son Güncelleme: 2026-03-23 21:24:21 UTC
+# Toplam: 444895 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -65144,6 +65144,7 @@ beklemenizegerekkalmadan.xyz
 beklemenizgerek.com
 beklemexgecisim.sg-host.com
 beklemeyegerekkalmadan.net
+beklemeyinlutf.com
 beklemeyukleee.sg-host.com
 beklemezgecerim.sg-host.com
 beklenemedefe.net
@@ -85024,6 +85025,7 @@ brncrtrgirsler.com.tr
 brnd-thlz34.ignorelist.com
 brndbnvukselrmde.net
 brndfrstrfcrbufnr.mooo.com
+brnfeniskrmsenin.mooo.com
 brnnrc-tronlinegiris.com
 brnntrgiris-onlinetr.com
 brnrahtnnndaaa.online
@@ -224734,6 +224736,7 @@ istanrbulkart.blogspot.com
 istansanakolay.xyz
 istansanburada.xyz
 istansbduslabursd.store
+istansbelgim.sbs
 istansbulbrhzilsi.com
 istansizlerlabulolsadan.shop
 istantrbilgmr.fun
