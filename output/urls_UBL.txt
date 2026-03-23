@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-23 12:35:40 UTC
-! Total: 354648 rules
+! Last modified: 2026-03-23 14:05:15 UTC
+! Total: 354658 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -5972,6 +5972,7 @@
 *://*.2025yildizlarinda.online/*
 *://*.2025yildizlarinda.xyz/*
 *://*.2025yilikampanyasizlere.com/*
+*://*.2026-basvurum.sbs/*
 *://*.2026-hep-beraber-sahlaniyoruz-sayesinde.sbs/*
 *://*.2026-ocakayi-sorgusu.sbs/*
 *://*.2026-yanizda-olacak.sbs/*
@@ -15114,6 +15115,7 @@
 *://*.a101markextkamxpanya.com/*
 *://*.a101martaktuel.online/*
 *://*.a101martaozel.online/*
+*://*.a101martfirsatlari.com/*
 *://*.a101mayis-indirimleri.com/*
 *://*.a101mayisfirsati.com/*
 *://*.a101mayisfirsatii.com/*
@@ -46100,6 +46102,7 @@
 *://*.bcfguk.com/*
 *://*.bcfolpse.click/*
 *://*.bcgmlvi.com/*
+*://*.bchckyzbrmrkonli.cfd/*
 *://*.bchdrop.com/*
 *://*.bchdrop.net/*
 *://*.bchdrops.com/*
@@ -47967,6 +47970,7 @@
 *://*.bestrejoicing.top/*
 *://*.bestridge.top/*
 *://*.bestrongerlouder.com/*
+*://*.bestsaleshoppingday.com/*
 *://*.bestscanipworld.xyz/*
 *://*.bestseller.homes/*
 *://*.bestsellertrendyol.com/*
@@ -136937,6 +136941,7 @@
 *://*.genhgsz.com/*
 *://*.genhqq.xyz/*
 *://*.genic365.com/*
+*://*.genim.com.tr/*
 *://*.genimmob.online/*
 *://*.genisailelericinhesaplikampanyalar.cfd/*
 *://*.genisfilo.com/*
@@ -182382,6 +182387,7 @@
 *://*.istmrkxsagdsg.com/*
 *://*.istmusicc.surf/*
 *://*.istnablakrt.com/*
+*://*.istnabldm.com/*
 *://*.istnabulkant.org/*
 *://*.istnabulkartlar.net/*
 *://*.istnanbllkart.com/*
@@ -226577,6 +226583,7 @@
 *://*.newskunorlerger.com/*
 *://*.newsl.ink/*
 *://*.newslahetkenst.com/*
+*://*.newslandia.com/*
 *://*.newsletterverify.com/*
 *://*.newsline24.live/*
 *://*.newslive2.xyz/*
@@ -288239,6 +288246,7 @@
 *://*.stamppreewntnq.shop/*
 *://*.stamps-usps.online/*
 *://*.stanbridgeestate.com/*
+*://*.stanbulerelarzcbnslears.com/*
 *://*.stanbulkartyukledim.cloud/*
 *://*.stanceinversion.top/*
 *://*.stand-registration.world/*
@@ -289342,6 +289350,7 @@
 *://*.storydevoted.top/*
 *://*.storydisay.top/*
 *://*.storyhibernate.top/*
+*://*.storyradar.online/*
 *://*.storysymmetrical.top/*
 *://*.stoudelmin.pro/*
 *://*.stounai.com/*
@@ -290842,6 +290851,7 @@
 *://*.subeziraatdefetival.net/*
 *://*.subeziraattdefestival.net/*
 *://*.subeziratimiz.com/*
+*://*.subgoward.digital/*
 *://*.subhasree.org/*
 *://*.subhsj.top/*
 *://*.subindometa.world/*
