@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-23 22:23:06 UTC
-# Toplam: 444895 Domain
+# Son Güncelleme: 2026-03-23 23:23:55 UTC
+# Toplam: 444902 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57250,6 +57250,7 @@ babal543e.dns.navy
 babala.sa.com
 babala.xyz
 babalaburda.com
+babalar-brd.mooo.com
 babalar-raahata34.b-cdn.net
 babalar.linkpc.net
 babalar2.duckdns.org
@@ -233520,6 +233521,7 @@ k3jl6z.duckdns.org
 k3k1zt40.duckdns.org
 k3k3rekt.duckdns.org
 k3kt4qq6.duckdns.org
+k3m9x2q8f6b4n7vzat.cfd
 k3n2x8v4s9f7mb6hqa.sbs
 k3ntcart.net
 k3ntk4rtdldr.net
@@ -233671,6 +233673,7 @@ k9kyh61.duckdns.org
 k9mum.com
 k9sqadc59.duckdns.org
 k9town.duckdns.org
+k9x3m7q2f6b8n4hvat.sbs
 kIsa.link
 ka-m-u-yayinspotu.net
 ka-mu-sosyaldestek.net
@@ -299803,6 +299806,7 @@ p7o2p5ex.duckdns.org
 p7paxg.duckdns.org
 p7pdxh7k.duckdns.org
 p7urb61z.duckdns.org
+p7x4m9k2q6f8b3nvat.cfd
 p7xz7lh.duckdns.org
 p7zmaj46o.duckdns.org
 p80mbzd.duckdns.org
@@ -377539,6 +377543,7 @@ togg.satisonbasvuru.com
 togg2023denizsubegiris.tk
 togg2023enparacekilisi.net
 togg202643575854634677656.duckdns.org
+togg32456443435234635345435.duckdns.org
 toggakbnk.com
 toggarantokatilim.online
 toggariza.xyz
@@ -396067,6 +396072,7 @@ utbopcs.com
 utca.site
 utcitemleriniz.xyz
 utcp.cc
+utcpss.homes
 utd-corts.com
 utd-forts.com
 utd-gochisu.com
@@ -439849,6 +439855,7 @@ z8cjf0a.duckdns.org
 z8i430r3.duckdns.org
 z8ieuu8.cn
 z8itdb3s.duckdns.org
+z8m2x7k4q9f6b3nvat.sbs
 z8mimtbh.duckdns.org
 z8puzktbg.duckdns.org
 z8ql228t2.duckdns.org
