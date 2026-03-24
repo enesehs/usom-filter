@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-24 10:38:17 UTC
-# Toplam: 444943 Domain
+# Son Güncelleme: 2026-03-24 11:35:52 UTC
+# Toplam: 444970 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34158,6 +34158,7 @@ ahlatcikuyumculukaltin.com
 ahlatcimenkuldegerler.com
 ahlatcimenkulkiymetler.com
 ahlatciwebyatirim.com
+ahlatciyatirim.org
 ahlatciyatirimtr.com
 ahlatyatirimkiymetler.com.tr
 ahlbrandt.eu
@@ -42343,6 +42344,7 @@ aliexpresszs.cyou
 alifframlan.xyz
 alifmedical.shop
 aligamer998.ddns.net
+align-vocal-dui-calculation.trycloudflare.com
 alignmentaptly.top
 alignmentbarometer.top
 alignmenteradicate.top
@@ -63319,6 +63321,7 @@ bayramsizlerlegeldi.xyz
 bayramsonfirsata1o1deeeee.online
 bayramsongunakfirsati.vercel.app
 bayramsonrasikampanya.com
+bayramsonukaraca.cfd
 bayramss-islem1.com
 bayramsupriziacikdenizv2denizbank.co.vu
 bayramtarifen-10gb.com
@@ -99943,6 +99946,7 @@ clickinizbileiade.cfd
 clickiver.click
 clickjumbitora.pw
 clickkkyerrrruzulursun-8096e0060d07.herokuapp.com
+clicklab.qpon
 clickle3gelsin.xyz
 clickmsummer.com
 clicknote.sa.com
@@ -102193,6 +102197,7 @@ com-reconfirmationaccountpayment937.com
 com-recoveryaccount.support
 com-redirect-manage-account-id.info
 com-regye.top
+com-reklamgirisrnenusutr.space
 com-reminder-refund-accountsite98312.com
 com-reseration.site
 com-reserfationid.life
@@ -119071,6 +119076,7 @@ designercandleco.com
 designercavity.top
 designereradicate.top
 designerslyjgangnam.com
+designflow.courses
 designgiri.pw
 designislem.22web.org
 designjaumguest.com
@@ -127307,6 +127313,7 @@ drcopps.com
 drddndd1ddd.com
 drdep.ddns.net
 drdigitalmd.com
+drdijitalreklarngirisrnenusu.space
 drdosurvey.info
 drdrfdd.cat
 dre1hgs.com
@@ -148898,6 +148905,7 @@ esarwzvx.com
 esashaber.club
 esashotkensat.net
 esassva.click
+esatbumyazabi.click
 esatis-sahibindenparamguvende-com.tk
 esatis-uyap.com.tr
 esatisim-get.com.tr
@@ -161882,6 +161890,7 @@ flashmaster.pw
 flashmnt.top
 flashnewsservice.org
 flashnighttroj.ddns.net
+flashorbitnews.com
 flashplayeer.xyz
 flashplayer-20gbdestegi.com
 flashplayer-simdiguncelle.com
@@ -170352,6 +170361,7 @@ gawfgasah.shop
 gawrgura.ddns.net
 gawyni.com
 gaxcop.duckdns.org
+gaxenorulik.digital
 gaxlsw.com
 gaxtpkgtsp.duckdns.org
 gaxuridelon.com
@@ -182259,6 +182269,7 @@ guvenlekargo.shop
 guvenlekatilbasvurunuyapodulunualhemenalseninolsunperiodyourand.net
 guvenleode.ga
 guvenleode.net
+guvenleodemeburada.com
 guvenleodemeyapget.com
 guvenleodemeyontemi.com
 guvenleodesistemleri.com
@@ -184735,6 +184746,7 @@ haberkaynagim.website
 haberkek.club
 haberkonut24.com
 haberkonut724.com
+haberkucugu.com
 haberleer.club
 haberleer.site
 haberleers.site
@@ -192522,6 +192534,7 @@ headinginauguration.top
 headislem.22web.org
 headlinebay.online
 headlinegenerator.app
+headlinegrove.com
 headlineobserver.com
 headlineurine.top
 headlineza.online
@@ -226628,6 +226641,7 @@ ivaloasis.com
 ivamnudasvsi.net
 ivan23ru.ddns.net
 ivancalderon.duckdns.org
+ivandria.com
 ivandrix.com
 ivanlogistics.com
 ivano433pro.xyz
@@ -262459,6 +262473,7 @@ marblecoast.site
 marbleedit.top
 marbleintervene.top
 marblekidney.top
+marbles.sbs
 marbrewery.top
 marc87.ddns.net
 marcakass.ug
@@ -296836,6 +296851,7 @@ oregrntyesco.buzz
 oreheatq.live
 orenthialuxira.my
 oreprospect.com
+oreprospect.icu
 oresamucsai.sbs
 orestporest1.hopto.org
 orestrata.com
@@ -298395,6 +298411,7 @@ oussamanj.ddns.net
 oussema.mywire.org
 ousync.kginfocom.com
 out-look-mail-bh.com
+outages.sbs
 outarcubleauded.xyz
 outblot.com
 outbound-via-msoft365-onmicorsotf.com
@@ -309753,6 +309770,7 @@ plausiblehat.top
 plausiblespiral.top
 plaveient.store
 plavton.com
+plaxenorudi.digital
 play-google-com-store-hl-tr-e-devlet.tk
 play-google.site
 play-googyle.com
@@ -315658,6 +315676,7 @@ ptt-gocom.cc
 ptt-god.cc
 ptt-god.top
 ptt-godm.cc
+ptt-goe.cyou
 ptt-goec.cc
 ptt-goen.cc
 ptt-goes.shop
@@ -339920,6 +339939,7 @@ sarkza7f.ddns.net
 sarmadibu.ml
 sarmsoftware.com
 sarnama.zapto.org
+sarnelix.digital
 sarocangarates.com
 sarp.site
 sarpinomointainresorts.com
@@ -366361,6 +366381,7 @@ surlturkioruu.online
 surmont-it.online
 surnamelenient.top
 surnameprosperous.top
+surnekalovi.digital
 surodee.sg-host.com
 surpasshoist.top
 surpassverse.top
@@ -371615,6 +371636,7 @@ tebcomtrkredibasvurulari.co.vu
 tebde-cep-firsatin.net
 tebdecekilisvar.tk
 tebdecep.my-homeip.de
+tebdecep.my-homeip.net
 tebdecepilekazaniyoruz.online
 tebdecepsube.com
 tebdeceptepromosyonhizmetlerim.life
@@ -384018,6 +384040,7 @@ trendleriniz.xyz
 trendlumo.lat
 trendmicro.tech
 trendmicrotech.com
+trendmintnews.com
 trendmonte.com
 trendmotor.com.tr
 trendolparfum.com
@@ -385600,6 +385623,7 @@ trolltest.ddns.net
 trolltunno.com
 tromahasarkaydisgrl.com
 trombositting.org
+tromelavudi.digital
 tromerci.net
 trominguatedrop.org
 trompadiom.tutotame.bigbox.info
@@ -395059,6 +395083,7 @@ urbanpathz.com
 urbanpeak.icu
 urbanpeak.sbs
 urbanpeak.site
+urbans.bond
 urbansferret.com
 urbanstanderd.com
 urbantenniscontest.zapto.org
@@ -396522,6 +396547,7 @@ uyapdavasorgula.com
 uyapdevlet.duckdns.org
 uyapdosya.com
 uyapdosyaa.com
+uyapdosyabilgilendirme.org
 uyapdosyabilgiler.com
 uyapdosyacezasi.com
 uyapdosyagoster.com
@@ -401364,6 +401390,7 @@ vavrava.xyz
 vawgxlsbcj.duckdns.org
 vawsfcafuc.duckdns.org
 vawzbd8.duckdns.org
+vaxeludori.com
 vaxenoladir.digital
 vaxil.shop
 vaxmucr7oqz.storage.googleapis.com

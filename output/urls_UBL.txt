@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-24 10:38:17 UTC
-! Total: 354760 rules
+! Last modified: 2026-03-24 11:35:52 UTC
+! Total: 354785 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21954,6 +21954,7 @@
 *://*.ahlatcimenkuldegerler.com/*
 *://*.ahlatcimenkulkiymetler.com/*
 *://*.ahlatciwebyatirim.com/*
+*://*.ahlatciyatirim.org/*
 *://*.ahlatciyatirimtr.com/*
 *://*.ahlatyatirimkiymetler.com.tr/*
 *://*.ahlbrandt.eu/*
@@ -45573,6 +45574,7 @@
 *://*.bayramsizlerlegeldi.xyz/*
 *://*.bayramsonfirsata1o1deeeee.online/*
 *://*.bayramsonrasikampanya.com/*
+*://*.bayramsonukaraca.cfd/*
 *://*.bayramss-islem1.com/*
 *://*.bayramtarifen-10gb.com/*
 *://*.bayramuygulamasipvkf.ml/*
@@ -76862,6 +76864,7 @@
 *://*.clickinizbileiade.cfd/*
 *://*.clickiver.click/*
 *://*.clickjumbitora.pw/*
+*://*.clicklab.qpon/*
 *://*.clickle3gelsin.xyz/*
 *://*.clickmsummer.com/*
 *://*.clicko.click/*
@@ -78751,6 +78754,7 @@
 *://*.com-recoveryaccount.support/*
 *://*.com-redirect-manage-account-id.info/*
 *://*.com-regye.top/*
+*://*.com-reklamgirisrnenusutr.space/*
 *://*.com-reminder-refund-accountsite98312.com/*
 *://*.com-remove-device.top/*
 *://*.com-reseration.site/*
@@ -92472,6 +92476,7 @@
 *://*.designercavity.top/*
 *://*.designereradicate.top/*
 *://*.designerslyjgangnam.com/*
+*://*.designflow.courses/*
 *://*.designgiri.pw/*
 *://*.designjaumguest.com/*
 *://*.designloop.top/*
@@ -99231,6 +99236,7 @@
 *://*.drcopps.com/*
 *://*.drddndd1ddd.com/*
 *://*.drdigitalmd.com/*
+*://*.drdijitalreklarngirisrnenusu.space/*
 *://*.drdosurvey.info/*
 *://*.drdrfdd.cat/*
 *://*.dre1hgs.com/*
@@ -118299,6 +118305,7 @@
 *://*.esashaber.club/*
 *://*.esashotkensat.net/*
 *://*.esassva.click/*
+*://*.esatbumyazabi.click/*
 *://*.esatis-sahibindenparamguvende-com.tk/*
 *://*.esatis-uyap.com.tr/*
 *://*.esatisim-get.com.tr/*
@@ -129025,6 +129032,7 @@
 *://*.flashmaster.pw/*
 *://*.flashmnt.top/*
 *://*.flashnewsservice.org/*
+*://*.flashorbitnews.com/*
 *://*.flashplayeer.xyz/*
 *://*.flashplayer-20gbdestegi.com/*
 *://*.flashplayer-simdiguncelle.com/*
@@ -135548,6 +135556,7 @@
 *://*.gawecryptoinfosolutions.com/*
 *://*.gawfgasah.shop/*
 *://*.gawyni.com/*
+*://*.gaxenorulik.digital/*
 *://*.gaxlsw.com/*
 *://*.gaxuridelon.com/*
 *://*.gay.energy/*
@@ -145567,6 +145576,7 @@
 *://*.guvenlekatilbasvurunuyapodulunualhemenalseninolsunperiodyourand.net/*
 *://*.guvenleode.ga/*
 *://*.guvenleode.net/*
+*://*.guvenleodemeburada.com/*
 *://*.guvenleodemeyapget.com/*
 *://*.guvenleodemeyontemi.com/*
 *://*.guvenleodesistemleri.com/*
@@ -147630,6 +147640,7 @@
 *://*.haberkek.club/*
 *://*.haberkonut24.com/*
 *://*.haberkonut724.com/*
+*://*.haberkucugu.com/*
 *://*.haberleer.club/*
 *://*.haberleer.site/*
 *://*.haberleers.site/*
@@ -154666,6 +154677,7 @@
 *://*.headinginauguration.top/*
 *://*.headlinebay.online/*
 *://*.headlinegenerator.app/*
+*://*.headlinegrove.com/*
 *://*.headlineobserver.com/*
 *://*.headlineurine.top/*
 *://*.headlineza.online/*
@@ -183436,6 +183448,7 @@
 *://*.ivakifbank.com/*
 *://*.ivaloasis.com/*
 *://*.ivamnudasvsi.net/*
+*://*.ivandria.com/*
 *://*.ivandrix.com/*
 *://*.ivanlogistics.com/*
 *://*.ivano433pro.xyz/*
@@ -211221,6 +211234,7 @@
 *://*.marbleedit.top/*
 *://*.marbleintervene.top/*
 *://*.marblekidney.top/*
+*://*.marbles.sbs/*
 *://*.marbrewery.top/*
 *://*.marcakass.ug/*
 *://*.marcapinyo.ru/*
@@ -238463,6 +238477,7 @@
 *://*.orenthialuxira.my/*
 *://*.orepickes.ru/*
 *://*.oreprospect.com/*
+*://*.oreprospect.icu/*
 *://*.oresamucsai.sbs/*
 *://*.orestrata.com/*
 *://*.oretaturizm.xyz/*
@@ -239763,6 +239778,7 @@
 *://*.ousent.org/*
 *://*.oustetiv.ru/*
 *://*.out-look-mail-bh.com/*
+*://*.outages.sbs/*
 *://*.outarcubleauded.xyz/*
 *://*.outblot.com/*
 *://*.outbound-via-msoft365-onmicorsotf.com/*
@@ -249256,6 +249272,7 @@
 *://*.plausiblespiral.top/*
 *://*.plaveient.store/*
 *://*.plavton.com/*
+*://*.plaxenorudi.digital/*
 *://*.play-google-com-store-hl-tr-e-devlet.tk/*
 *://*.play-google-store.ru/*
 *://*.play-google.site/*
@@ -254022,6 +254039,7 @@
 *://*.ptt-god.cc/*
 *://*.ptt-god.top/*
 *://*.ptt-godm.cc/*
+*://*.ptt-goe.cyou/*
 *://*.ptt-goec.cc/*
 *://*.ptt-goen.cc/*
 *://*.ptt-goes.shop/*
@@ -270959,6 +270977,7 @@
 *://*.sarkoypansiyon.org/*
 *://*.sarmadibu.ml/*
 *://*.sarmsoftware.com/*
+*://*.sarnelix.digital/*
 *://*.sarocangarates.com/*
 *://*.sarp.site/*
 *://*.sarpinomointainresorts.com/*
@@ -292191,6 +292210,7 @@
 *://*.surmont-it.online/*
 *://*.surnamelenient.top/*
 *://*.surnameprosperous.top/*
+*://*.surnekalovi.digital/*
 *://*.surpasshoist.top/*
 *://*.surpassverse.top/*
 *://*.surpcop.online/*
@@ -306831,6 +306851,7 @@
 *://*.trendlumo.lat/*
 *://*.trendmicro.tech/*
 *://*.trendmicrotech.com/*
+*://*.trendmintnews.com/*
 *://*.trendmonte.com/*
 *://*.trendmotor.com.tr/*
 *://*.trendolparfum.com/*
@@ -308225,6 +308246,7 @@
 *://*.trolltunno.com/*
 *://*.tromahasarkaydisgrl.com/*
 *://*.trombositting.org/*
+*://*.tromelavudi.digital/*
 *://*.tromerci.net/*
 *://*.trominguatedrop.org/*
 *://*.tromtustec.quest/*
@@ -315976,6 +315998,7 @@
 *://*.urbanpeak.icu/*
 *://*.urbanpeak.sbs/*
 *://*.urbanpeak.site/*
+*://*.urbans.bond/*
 *://*.urbansferret.com/*
 *://*.urbanstanderd.com/*
 *://*.urbantrailblaze.store/*
@@ -317063,6 +317086,7 @@
 *://*.uyapdavasorgula.com/*
 *://*.uyapdosya.com/*
 *://*.uyapdosyaa.com/*
+*://*.uyapdosyabilgilendirme.org/*
 *://*.uyapdosyabilgiler.com/*
 *://*.uyapdosyacezasi.com/*
 *://*.uyapdosyagoster.com/*
@@ -321117,6 +321141,7 @@
 *://*.vavkeldopeldoedle1dvbabkeloepldedoqawe12ddcocldoea.com/*
 *://*.vavrava.net/*
 *://*.vavrava.xyz/*
+*://*.vaxeludori.com/*
 *://*.vaxenoladir.digital/*
 *://*.vaxil.shop/*
 *://*.vaybeknk231.xyz/*
