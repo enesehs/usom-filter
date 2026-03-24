@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-24 14:09:43 UTC
-# Toplam: 444983 Domain
+# Son Güncelleme: 2026-03-24 15:53:12 UTC
+# Toplam: 445001 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18564,6 +18564,7 @@
 765-4434343-4343.cloud
 765010679.corolain.ru
 76543545112.duckdns.org
+7654456543.online
 7654654387654356.cloud
 7655651525412.com.tr
 7655651525412.online
@@ -22760,6 +22761,7 @@ a-101kariyerimm.com
 a-101kariyerr.com.tr
 a-101kariyerr.xyz
 a-101kmpanya.com
+a-101maketilni.cyou
 a-101market-onlineislemler.alsvrsnhzladres.com
 a-101market-onlineislemler.hazirandaindirimkapinda.com
 a-101market-onlineislemler.haziranindirimi.com
@@ -24886,6 +24888,7 @@ a101markt.kampanyalialisveris.com
 a101martaktuel.online
 a101martaozel.online
 a101martfirsatlari.com
+a101marttfirsatlari.com
 a101mayis-indirimleri.com
 a101mayisfirsati.com
 a101mayisfirsatii.com
@@ -44982,6 +44985,7 @@ anadolubanks.com
 anadolubasaksigorta.com
 anadolubimcell.com
 anadolubursum.com
+anadolucentral.com
 anadoludernegi.com
 anadoludestekekibi-gov-tr.ml
 anadoludolmen.eu
@@ -65372,6 +65376,7 @@ belmirrvalf.com
 belmounc.com
 belmrs.click
 belnarkanrelsskm.com
+belnglirvir.cfd
 belo.my-style.in
 beloit.drinkypalapp.com
 belong34.xyz
@@ -76706,6 +76711,7 @@ bizimlekalin-saglicakla.site
 bizimlekalin-saglicakla.website
 bizimlekalmayanedersin.net
 bizimlemisinsen.com.tr
+bizimlengeldin1o1.shop
 bizimlengeldin1o1.site
 bizimleolun.net
 bizimleonaylat.online
@@ -84591,6 +84597,7 @@ brdangloprdansans.lat
 brdankacmaz.com
 brdankcmazk.com
 brdanlardansandaseasn.bond
+brdanlardanszlardans.shop
 brdanlardsnasdsasa.mooo.com
 brdansknzbnrynlasdew.bond
 brdanskzbasvrdnzmsdonline.com
@@ -178135,6 +178142,7 @@ gozetimvergisiiadesi.com
 gozeye.2kool4u.net
 gozeye.html-5.me
 gozgoz.zapto.org
+gozkirptim.lol
 gozle-gorunmeden-ortaya-cikmayip-daima-hissederiz.com
 gozlediginde-umutlar-cicek-acar.com
 gozler-onune-serilen-hersey-daha-net-al.com
@@ -182535,6 +182543,7 @@ guvenli-onay.online
 guvenli-online-hizmet.com.tr
 guvenli-online-kart-ucret-iadesi-basvuru-formu.xyz
 guvenli-online-odeme.com.tr
+guvenli-online-satici.com
 guvenli-online-tr.sa.com
 guvenli-online.sa.com
 guvenli-onlinetr.sa.com
@@ -195948,6 +195957,7 @@ herzaman-yanimizda-var-ol.cyou
 herzaman.regaltess.xyz
 herzamanaktuell.duckdns.org
 herzamanal.site
+herzamanburadakewle.com
 herzamanburadatekle.com
 herzamanburdayiz.cfd
 herzamancekilis.duckdns.org
@@ -257341,6 +257351,7 @@ loves.zapto.org
 loves19.com
 loveservice-wrap.com
 lovesyr.zapto.org
+lovethecay.com
 lovetheshake.com
 lovetoflight.com
 loveuo75544.ddns.net
@@ -270665,6 +270676,8 @@ mobilcepdnzgris.ml
 mobilcepdnzgris.site
 mobilcepdnzgris.tk
 mobilcepdnzgris.xyz
+mobilcepis.sbs
+mobilcepis.xyz
 mobilcepli.com
 mobilceplidenizv2.net
 mobilcepsite.com
@@ -334285,6 +334298,7 @@ safsfafq-ssdgggggg.space
 safsfavxzvv-wqvsdbfd-fqfasdsdbbsd.website
 safsfawqwfq-ssvz-waf.space
 safsksfasfaq.space
+safteks.top
 saftlylnper.org
 saftyappchecknotfcations.duckdns.org
 safwetoki.click
@@ -345539,6 +345553,7 @@ serdavakfi.com
 serderipinar-23.net
 serdf.click
 serdiklerinden-ilkkez-bukadar-yakinda-durdurulur.com
+serdiva.seedwarm.cfd
 sere.basvurm-desdek-kampanyasi-bireysel.xyz
 sere.bireye-ozel-basvur-destek-kampanya.xyz
 serefeter.net
@@ -354645,6 +354660,7 @@ snkzbrdnglqwe.bond
 snkzbrdsznlehk.shop
 snkzbrygldkbd.bond
 snkzbryrgldkbd.bond
+snkzlerdasndsa.shop
 snkzlerdensenk.org
 snkzordanlrdasns.bond
 snkzvrolrazdasdas.club
@@ -360508,6 +360524,7 @@ srhplpskspskt.ru
 sriaatxkredidstek.online
 sridattabalajiindustriesandtraders.com
 sried.sementpl.ru
+srilankawear.cfd
 srimedhasoft.com
 srisaradabrahmavidyakendra.com
 sriseshadriswamigalashramtiruvannamalai.org
@@ -385126,6 +385143,7 @@ trkyekatilimbasvurziraat.net
 trkyekatilimlarinizabasvurziraat.net
 trkyhaberlerimiz.com.tr
 trkyvac.com
+trl55polis155.online
 trl55polisi155.online
 trlb2c.duckdns.org
 trlbiance.com
