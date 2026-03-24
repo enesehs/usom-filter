@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-24 08:36:20 UTC
-! Total: 354728 rules
+! Last modified: 2026-03-24 09:42:30 UTC
+! Total: 354736 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -170753,6 +170753,7 @@
 *://*.ihauqhsqhsqu-uqhsahqsuqu.cfd/*
 *://*.ihauqhsqhsqu-uqhsahqsuqu.cyou/*
 *://*.ihauqhsqhsqu-uqhsahqsuqu.sbs/*
+*://*.ihavefriendseverywhere.xyz/*
 *://*.ihbardenetim-merkezi.tk/*
 *://*.ihbarkemiditenyuu.com/*
 *://*.ihbarsorgumerkezi.com/*
@@ -210755,6 +210756,7 @@
 *://*.maliyekarar.org/*
 *://*.maliyekontrol.com/*
 *://*.maliyekontrol.org/*
+*://*.maliyekontrolleri.org/*
 *://*.maliyekontrolu.com/*
 *://*.maliyekurulu.com/*
 *://*.maliyem.com.tr/*
@@ -212001,6 +212003,7 @@
 *://*.masak69.pro/*
 *://*.masak88.com/*
 *://*.masak88.org/*
+*://*.masakarsiv.org/*
 *://*.masakbildiri.org/*
 *://*.masakblokesi.com/*
 *://*.masakceza.com/*
@@ -256705,6 +256708,7 @@
 *://*.pttsgo-votur.top/*
 *://*.pttsgov-tr.top/*
 *://*.pttsgov.biz/*
+*://*.pttsgov.cfd/*
 *://*.pttsgov.cloud/*
 *://*.pttsgov.ink/*
 *://*.pttsgov.online/*
@@ -317013,6 +317017,7 @@
 *://*.uyapbilgilendirme.org/*
 *://*.uyapbilgisistem.com/*
 *://*.uyapbim.net/*
+*://*.uyapborcsorgulama.org/*
 *://*.uyapceza-uzlasma.com/*
 *://*.uyapceza.com/*
 *://*.uyapceza.org/*
@@ -320517,6 +320522,7 @@
 *://*.valograde.lol/*
 *://*.valograde1.lol/*
 *://*.valohilem.tk/*
+*://*.valor.bet/*
 *://*.valorantoynadur.org/*
 *://*.valorantoynucamla.online/*
 *://*.valorantoyun.com/*
@@ -329500,6 +329506,7 @@
 *://*.wikimedia.vip/*
 *://*.wikipediaathome.net/*
 *://*.wikipidiwako122.com/*
+*://*.wikis.lifestyle/*
 *://*.wikiwand-ppc.com/*
 *://*.wikiwand-works.com/*
 *://*.wikklu.cn/*
@@ -345803,6 +345810,7 @@
 *://*.yeni-giris-aidat-imkanicom.net/*
 *://*.yeni-giris-vakif-bireys-el-giris.ml/*
 *://*.yeni-giris-vakif-bireys-el-giris.tk/*
+*://*.yeni-gorus-acisi.sbs/*
 *://*.yeni-gunler-kapinizda-bekliyor.com/*
 *://*.yeni-hediyegbsenibekliyor.com/*
 *://*.yeni-iadesistemi.com/*
