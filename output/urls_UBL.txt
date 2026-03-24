@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-24 21:25:54 UTC
-! Total: 354831 rules
+! Last modified: 2026-03-24 22:24:04 UTC
+! Total: 354839 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -117924,6 +117924,7 @@
 *://*.erenlerkatilimvakfi.com/*
 *://*.erennasko.guru/*
 *://*.erenokyaltirak1.vip/*
+*://*.erenokyaltirak2.vip/*
 *://*.erenokyaltrak.cc/*
 *://*.erenokyaltrakdoland.click/*
 *://*.erenokyaltrk.com.tr/*
@@ -207731,6 +207732,7 @@
 *://*.loves.co.il/*
 *://*.loves19.com/*
 *://*.loveservice-wrap.com/*
+*://*.lovesizinleinx.com/*
 *://*.loveslife.biz/*
 *://*.lovestoblog.com/*
 *://*.lovethecay.com/*
@@ -274735,6 +274737,7 @@
 *://*.sepetimde-ode.com.tr/*
 *://*.sepetimde.xyz/*
 *://*.sepetimdeindirim.click/*
+*://*.sepetimdeindirim.com/*
 *://*.sepetimdo101sizinlegelsinsiradaxksla.fun/*
 *://*.sepetimguvende.com.tr/*
 *://*.sepetimguvende.com/*
@@ -281426,6 +281429,7 @@
 *://*.sizlerlepaylasilanfirsatlar.com.tr/*
 *://*.sizlerlepaylasilanfirsatlar.online/*
 *://*.sizlerlepaylasilanfirsatlar.xyz/*
+*://*.sizlerlerle.com/*
 *://*.sizlerlesevi1ensiparis1er.online/*
 *://*.sizlerlesevi1ensiparis1er.xyz/*
 *://*.sizlerlesiparisleranindavehizli.online/*
@@ -308740,7 +308744,9 @@
 *://*.trsl-mrti.xyz/*
 *://*.trsl-rmzn.xyz/*
 *://*.trsl-wwpry.xyz/*
+*://*.trsll-online.xyz/*
 *://*.trsll-ylld.xyz/*
+*://*.trsllw-market.xyz/*
 *://*.trsmaasa.com/*
 *://*.trsmobeiadegibkk.ml/*
 *://*.trsmrscmasgh.net/*
@@ -336530,6 +336536,7 @@
 *://*.x7c2c55.tokyo/*
 *://*.x7f70.ru/*
 *://*.x7m4k9q2f6b8n3hvat.cfd/*
+*://*.x7m4k9q2f6b8n3vzat.sbs/*
 *://*.x7pl9qw3zt2my8n.lol/*
 *://*.x7sbu5hcg9b3f.net/*
 *://*.x91aot53.club/*
@@ -349966,6 +349973,7 @@
 *://*.ypkrrdddcekklizzaddlfapsadfmfas.net/*
 *://*.ypkwordpuansubesi.com/*
 *://*.ypmobil.com/*
+*://*.ypmobilhizli.com/*
 *://*.yporoororo.xyz/*
 *://*.ypp-studio.com/*
 *://*.yppbnxwjjwxe.tech/*
