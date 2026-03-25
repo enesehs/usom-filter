@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-25 20:25:43 UTC
-! Total: 354931 rules
+! Last modified: 2026-03-25 21:25:39 UTC
+! Total: 354939 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35667,6 +35667,7 @@
 *://*.ascribemandatory.top/*
 *://*.ascribethreshold.top/*
 *://*.asd-ads.shop/*
+*://*.asd-asdasdasd.org/*
 *://*.asd-katilimlarniz2023.com/*
 *://*.asd-tok.click/*
 *://*.asd123.online/*
@@ -73227,6 +73228,7 @@
 *://*.cep-mobil-giris.tk/*
 *://*.cep-mobil-girisvakif-bank.ml/*
 *://*.cep-mobil-granti.com/*
+*://*.cep-mobil.sbs/*
 *://*.cep-online-giris-kapisi.ml/*
 *://*.cep-online-giris-kapisi.tk/*
 *://*.cep-online-giris-subem.tk/*
@@ -123747,6 +123749,7 @@
 *://*.fastenreciprocal.top/*
 *://*.fastenvocal.top/*
 *://*.fasterdeals.click/*
+*://*.fastertry.info/*
 *://*.fasterxml.org/*
 *://*.fastestzzd.tk/*
 *://*.fastfilebackup.com/*
@@ -197976,6 +197979,7 @@
 *://*.kisaltbendenmi.live/*
 *://*.kisaltici.link/*
 *://*.kisaltiyoruz.link/*
+*://*.kisaltma-sc-tr.space/*
 *://*.kisaltma.name.tr/*
 *://*.kisaltmaca.xyz/*
 *://*.kisaltmadahizli.online/*
@@ -235219,6 +235223,7 @@
 *://*.online-srg.site/*
 *://*.online-stokta-com-tr.cfd/*
 *://*.online-storage.live/*
+*://*.online-store-mobil-tr.site/*
 *://*.online-store.top/*
 *://*.online-sube-basvuru.net/*
 *://*.online-sube-basvuru.org/*
@@ -257677,6 +257682,7 @@
 *://*.q3n8k2v6a7x9f4hmbs.sbs/*
 *://*.q3vc6.ru/*
 *://*.q4dgp6xv.ru/*
+*://*.q4m9x2k8f6b3n7vpat.sbs/*
 *://*.q5ncv0dekcm8a1p.biz/*
 *://*.q5o2uad1cem8a1p.net/*
 *://*.q5oed8l.cn/*
@@ -336607,6 +336613,7 @@
 *://*.x473ee.tw/*
 *://*.x4m79.com/*
 *://*.x4m8k2q9f6b3n7vpat.sbs/*
+*://*.x4q9m2k8f6b3n7vzat.sbs/*
 *://*.x50zbqev4po5.online/*
 *://*.x53453453.xyz/*
 *://*.x55gc.com/*
@@ -339977,6 +339984,7 @@
 *://*.xn--nlinegiriimcom-pqd.net/*
 *://*.xn--nosereward-1s6e.top/*
 *://*.xn--npara-gsa.com/*
+*://*.xn--npara-m51b.com/*
 *://*.xn--npr-ema1519aba.com/*
 *://*.xn--npr-jlaba4c.com/*
 *://*.xn--npr-tgzb3l.com/*
