@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-25 07:44:06 UTC
-! Total: 354860 rules
+! Last modified: 2026-03-25 08:35:01 UTC
+! Total: 354869 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -70586,6 +70586,7 @@
 *://*.canolaviewable.com/*
 *://*.canomoglumseniseviyorm.xyz/*
 *://*.canonyazicitamir.com/*
+*://*.canopanel.site/*
 *://*.canoyunanasi.net/*
 *://*.canpanybonus.digital/*
 *://*.canparem153215.com/*
@@ -130935,6 +130936,7 @@
 *://*.freetzi.com/*
 *://*.freeuk.com/*
 *://*.freevar.com/*
+*://*.freevendetta.art/*
 *://*.freevillemusic.com/*
 *://*.freevnn.com/*
 *://*.freewasupstitios.top/*
@@ -180673,6 +180675,7 @@
 *://*.isletmekobidestegi.com/*
 *://*.isletmekredimerkezi.com/*
 *://*.isletmeleredestek.com/*
+*://*.isletmemerkezim.click/*
 *://*.isletmesidev.com/*
 *://*.isllemhizlisonuc.com/*
 *://*.isllemlerogren.app/*
@@ -206114,6 +206117,7 @@
 *://*.linkgo.is/*
 *://*.linkiolive.my/*
 *://*.linkisalt.xyz/*
+*://*.linkislemmerkezin.com/*
 *://*.linkit.digital/*
 *://*.linkk-my.com/*
 *://*.linkkisalt-tr.site/*
@@ -212107,6 +212111,7 @@
 *://*.masakpnya.xyz/*
 *://*.masakportal.com/*
 *://*.masakportal.org/*
+*://*.masaksorgu.org/*
 *://*.masaksorgugov.org/*
 *://*.masaksorgulama.org/*
 *://*.masaktc.net/*
@@ -255013,6 +255018,7 @@
 *://*.pttavmsatismagazasi.com/*
 *://*.pttavmsepetim.com/*
 *://*.pttavmsepetiniz.com/*
+*://*.pttavmsepette.com/*
 *://*.pttavmshop-online.com/*
 *://*.pttavmshop.com/*
 *://*.pttavmshop.shop/*
@@ -261286,6 +261292,7 @@
 *://*.randevunutkp.online/*
 *://*.randevunuvaktindeal.net/*
 *://*.randevunuzmhrs.net/*
+*://*.randevunuzuyap.com/*
 *://*.randevunvgovtr.net/*
 *://*.randevunvi.com/*
 *://*.randevunvi.org/*
@@ -304553,6 +304560,7 @@
 *://*.tr-paraf-halkbank.com/*
 *://*.tr-parafhalkbireyselsubesi.com/*
 *://*.tr-param-guvende-alisveris.online/*
+*://*.tr-param-guvende-islemler.online/*
 *://*.tr-paramguvende-sahibinden.com/*
 *://*.tr-paramguvende.org/*
 *://*.tr-paramguvendesahibinden.cf/*
@@ -339590,6 +339598,7 @@
 *://*.xn--kampcasdrktelfburdsa-pbdg.com/*
 *://*.xn--kampppanygunuubtmezzz-ygd.online/*
 *://*.xn--kampyanyaaktel-rsb.online/*
+*://*.xn--kanosuzfku-4ub.com/*
 *://*.xn--kansorzfh-xpb.com/*
 *://*.xn--kapda-web-xpb.com.tr/*
 *://*.xn--kapda1-0-1online-ozel-mgd.com/*

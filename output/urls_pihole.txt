@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-25 07:44:06 UTC
-# Toplam: 445055 Domain
+# Son Güncelleme: 2026-03-25 08:35:01 UTC
+# Toplam: 445066 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -91992,6 +91992,7 @@ canolagroove.com
 canolaviewable.com
 canomoglumseniseviyorm.xyz
 canonyazicitamir.com
+canopanel.site
 canoveradcobntr.vercel.app
 canoyunanasi.net
 canpanybonus.digital
@@ -164269,6 +164270,7 @@ freesystemic4upgrading.bid
 freetickets-win.com
 freetogo01.ddns.net
 freetry-log-web.xyz
+freevendetta.art
 freeverify09.duckdns.org
 freevillemusic.com
 freewasupstitios.top
@@ -222695,6 +222697,7 @@ isisisisihshshsh-scasdhahd.duckdns.org
 isisleribakanligi.com
 isislove.zapto.org
 isisosirisx0cg.duckdns.org
+isitanbulbasvurbull.webredirect.org
 isitanbulkartbasvurrr.org
 isitcrowdstrike.com
 isitdoneyet.xyz
@@ -223357,6 +223360,7 @@ isletmehibedestegi.com
 isletmekobidestegi.com
 isletmekredimerkezi.com
 isletmeleredestek.com
+isletmemerkezim.click
 isletmesidev.com
 isllemhizlisonuc.com
 isllemlerogren.app
@@ -255057,6 +255061,7 @@ linkhr.ddns.net
 linkin2011.zapto.org
 linkiolive.my
 linkisalt.xyz
+linkislemmerkezin.com
 linkit.digital
 linkizz.duckdns.org
 linkk-my.com
@@ -263489,6 +263494,7 @@ masakonlineodeme.com
 masakpnya.xyz
 masakportal.com
 masakportal.org
+masaksorgu.org
 masaksorgugov.org
 masaksorgulama.org
 masaktc.net
@@ -317122,6 +317128,7 @@ pttavmsatiscim.com
 pttavmsatismagazasi.com
 pttavmsepetim.com
 pttavmsepetiniz.com
+pttavmsepette.com
 pttavmshop-online.com
 pttavmshop.com
 pttavmshop.shop
@@ -325056,6 +325063,7 @@ randevunuhzlcaallll-gov-tr.net
 randevunutkp.online
 randevunuvaktindeal.net
 randevunuzmhrs.net
+randevunuzuyap.com
 randevunvgovtr.net
 randevunvi.com
 randevunvi.org
@@ -345240,6 +345248,7 @@ sepetim-aktif.com.tr
 sepetim-dolap.com
 sepetim-guvende-alim.com.tr
 sepetim-guvenli-13478.com
+sepetim-guvenli-14378.com
 sepetim-guvenli.com
 sepetim-ilanda.com
 sepetim-ilanimda.com
@@ -381309,6 +381318,7 @@ tr-papara.xyz
 tr-paraf-halkbank.com
 tr-parafhalkbireyselsubesi.com
 tr-param-guvende-alisveris.online
+tr-param-guvende-islemler.online
 tr-paramguvende-sahibinden.com
 tr-paramguvende.org
 tr-paramguvendesahibinden.cf
@@ -426010,6 +426020,7 @@ xn--kampanyayannda-ggc.online
 xn--kampcasdrktelfburdsa-pbdg.com
 xn--kampppanygunuubtmezzz-ygd.online
 xn--kampyanyaaktel-rsb.online
+xn--kanosuzfku-4ub.com
 xn--kansorzfh-xpb.com
 xn--kapda-web-xpb.com.tr
 xn--kapda1-0-1online-ozel-mgd.com
