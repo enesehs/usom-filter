@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-25 22:23:12 UTC
-! Total: 354947 rules
+! Last modified: 2026-03-25 23:23:03 UTC
+! Total: 354953 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10035,6 +10035,7 @@
 *://*.51555542632542.cloud/*
 *://*.515555456465.cloud/*
 *://*.51557162472.cloud/*
+*://*.51623871.cloud/*
 *://*.516531-519-48468732.xyz/*
 *://*.516541248518-mobilss.cloud/*
 *://*.516549999.cloud/*
@@ -132403,6 +132404,7 @@
 *://*.gaiwise.shop/*
 *://*.gaiwonderful.top/*
 *://*.gak7naffekw.ru/*
+*://*.gakgala.sbs/*
 *://*.gakjeroaw.tk/*
 *://*.gakorimokotorro.work/*
 *://*.gakosafd.com/*
@@ -151806,6 +151808,8 @@
 *://*.hamamammamamamam2452.com/*
 *://*.hamamammamamamamammmamamama9824.com/*
 *://*.hamamammamamamm8190.com/*
+*://*.hamamammamamammama0233.com/*
+*://*.hamamammamamammama6316.com/*
 *://*.hamamammamammamakd2412.com/*
 *://*.hamammamamamama2041.com/*
 *://*.hamammamamamamamama84.store/*
@@ -283920,6 +283924,7 @@
 *://*.soletrobuse.ru/*
 *://*.solevux.com/*
 *://*.solfrio.tech/*
+*://*.solgala.sbs/*
 *://*.soliarytari.top/*
 *://*.solicitleverage.top/*
 *://*.solicitmasculine.top/*
@@ -305166,6 +305171,7 @@
 *://*.trabzonsubesikasimindirimi.xyz/*
 *://*.tracaceza-takibi.info/*
 *://*.tracarmenkul.com/*
+*://*.traccedirespiro.it/*
 *://*.traccifborcodemee.net/*
 *://*.tracechronic.top/*
 *://*.tracer-onetwo.com/*
