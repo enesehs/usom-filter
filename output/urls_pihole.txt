@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-26 20:24:13 UTC
-# Toplam: 445310 Domain
+# Son Güncelleme: 2026-03-26 21:23:36 UTC
+# Toplam: 445326 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40242,6 +40242,7 @@ aktuelgunlerisongun.online
 aktuelgunlerisongun.xyz
 aktuelgunlersencede.cfd
 aktuelgunluk.icu
+aktuelgusenceda.cfd
 aktuelhaber.info
 aktuelhaberler.org
 aktuelhaftaiciflash.com.tr
@@ -48556,6 +48557,7 @@ aracbozdolabindan.xyz
 aracbuodheas.net
 aracburadankiralanir.xyz
 aracburdagetrz.b-cdn.net
+aracbuzdolabifirsatii.xyz
 aracbuzdolabikampanyasi.xyz
 aracbuzdolabisepetteindir.xyz
 aracbuzdolabiss.xyz
@@ -58582,7 +58584,9 @@ bangblink.top
 bangbuslazybangladesh.com
 bangcontrive.top
 bangflirt.top
+banglada.click
 bangladesh-bank.com
+banglafe.click
 banglanews-24.com
 bangortalk.org.uk
 bangskulto.morymponam.ru
@@ -58596,6 +58600,7 @@ banisdor.top
 banislem.com
 banisori.xyz
 banisorid.xyz
+banisorit.xyz
 banisorixa.xyz
 banjalucke-ljepotice.ru
 banjo.la
@@ -84398,6 +84403,7 @@ br4green.com
 br5g55m5r.duckdns.org
 br7qo7.duckdns.org
 bra-portable-air-conditioner-9o.bond
+bra2eaktuelgusenceda.cfd
 bra7d64xc.duckdns.org
 brabolisakee.online
 brabxlet.duckdns.org
@@ -122515,6 +122521,7 @@ dijitalbinancekampanya.net
 dijitalbireysel-ziraat.com
 dijitalbireysel-ziraatmobil.com
 dijitalbireysel-ziraatweb.sbs
+dijitalbireysel-ziraatwebmobil.com
 dijitalbireyselcepvakif.ml
 dijitalbireyselmobil-ziraat.com
 dijitalbireyselsube.com
@@ -160793,6 +160800,7 @@ firsatlariniz.com.tr
 firsatlariniz.xyz
 firsatlariniz1o1de.com
 firsatlarinizayaginiza.xyz
+firsatlarinizburda101.com
 firsatlarinizdenizleguzel.xyz
 firsatlarinizfaisizbugun.online
 firsatlarinizikacirma.com
@@ -199811,6 +199819,7 @@ hhhhgsxyiyedimknk.store
 hhhhgsxyiyedimknk.wiki
 hhhhgsxyiyedimknk.xyz
 hhhhhhgggggggssssss3.net
+hhhhhhhbabaflws-sdsd.cfd
 hhhhhhhhhhhhhhhhhhh.zapto.org
 hhhhhkrufnrrrs1982.zapto.org
 hhhhuntingtonnnn.duckdns.org
@@ -201275,6 +201284,7 @@ hizlicayuklerimmm1.sg-host.com
 hizlicebimdenpaketim.sg-host.com
 hizlicecixzamani.blogspot.com
 hizlicepaidat.com
+hizliceptemobil.sbs
 hizlicepteniademiz.com
 hizlicezalar.22web.org
 hizlicicek.fun
@@ -205628,6 +205638,7 @@ hpxxwlmrsklo.space
 hpyap.io
 hpyapp.io
 hpylendrtlenv.com
+hpzdurnlerdegnl.cfd
 hq10ri5.xxoht18.cn
 hq61zzv.duckdns.org
 hqa4c9cfj.duckdns.org
@@ -270883,6 +270894,7 @@ mobilcepsubeyukle.com
 mobilcepte-sponsor.com
 mobilcepte-teb.com
 mobilcepte.com.tr
+mobilcepte.sbs
 mobilceptecebim.tk
 mobilcepteindir.com
 mobilceptenindir.com
@@ -271935,6 +271947,7 @@ mobilhediyelerbmwparibu.tk
 mobilhemendenizbasvurun.info
 mobilhesap-hizli-giris.xyz
 mobilhesap-onayli-giris.com
+mobilhesapaninda.sbs
 mobilhglbgecicode.duckdns.org
 mobilhgsbilgi.com
 mobilhibebasvurusu2021.com
@@ -341577,6 +341590,7 @@ sdfasdfsf.9527527.xyz
 sdfasdhjasda.net
 sdfcse.ddns.net
 sdfcvlsvdvt-dscvt.com
+sdfdf4rs.cfd
 sdfdfvsldistrd.mooo.com
 sdfdmsdmsdmsd.sbs
 sdfdsdsc.click
@@ -351625,6 +351639,7 @@ sinirli-sayida-gelenleri-bitmeden-yakala.com
 sinirlicivciv.com
 sinirlikampanyalar.duckdns.org
 sinirlikampanyalarikacirma.duckdns.org
+sinirlikampanyasureli.xyz
 sinirlimatkapsuresi.xyz
 sinirlisaydaurunler.com.tr
 sinirlisaydaurunler.online
@@ -397018,6 +397033,7 @@ uyggocylglbtcmw.su
 uyghuri.51vip.biz
 uyghurie.51vip.biz
 uyglqtazei.duckdns.org
+uygncapkmble.cfd
 uygnfirscrfs.cfd
 uygnfirscrfshiprs.cfd
 uygnfsta.cfd
