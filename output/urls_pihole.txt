@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-26 14:23:11 UTC
-# Toplam: 445256 Domain
+# Son Güncelleme: 2026-03-26 15:59:39 UTC
+# Toplam: 445289 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50592,6 +50592,7 @@ arsxczy.top
 art-gallery-128.webflow.io
 art-midjourney.art
 art-midjourney.org
+art-rhyme.click
 art.yfieldrainasch.com
 art12sec.ga
 art23546.xyz
@@ -58572,6 +58573,7 @@ baneddboappsrv.ddns.net
 banefirstkill.site
 baneozel-paramguvende.com
 banesdgeer.site
+banesore.xyz
 bang83.xyz
 bangbaystore.com
 bangblink.top
@@ -84807,6 +84809,7 @@ breskbaji1994.ddns.net
 bresn.com.tr
 bressino.sbs
 bressolia.one
+brestonakil.mom
 bresz.xyz
 bretby.plus.com
 brettcarlson37.xyz
@@ -93393,6 +93396,7 @@ cashoutguide.com
 cashpara724.com
 cashpayconsumeredd.ddns.net
 cashpointa.com
+cashvera.online
 casibom3067.fun
 casillas.hicam.net
 casillas.libfoobar.so
@@ -99340,6 +99344,7 @@ citrix-okta.com
 citrixreceiver.ddns.net
 citroam14.ddns.net
 citroen.gr.com
+citrusnex.vu
 citrusquad.com
 citscale.com
 citsecurebank.duckdns.org
@@ -158914,6 +158919,7 @@ finayllearlscourtg.com
 finbasmavanatarar.site
 finbuinvest.com
 fincasoroel.es
+finconsultlab.pro
 find-dentalimplants.com
 find-device-my-icloud.com
 find-my.live
@@ -179852,6 +179858,7 @@ growthcapsule.top
 growthgains.online
 growthgalaxy.site
 growthinvestor.shop
+growthlab.courses
 growthofgreen.com
 growthplus.bid
 growthplus.life
@@ -203487,6 +203494,7 @@ hmmnaberknk.com
 hmmnnmsanmasnmasmhashmashsansamnasnmashasmhasnm838.site
 hmmnsanmsah6mnsahsah.site
 hmmpledtenvc.me.uk
+hmmsfsrssdbsbab.cfd
 hmmzdeiaihvgwsitxwnjddey.com
 hmn-basvur.pages.dev
 hmn-basvurbizekatilkmpyanasi.com
@@ -225594,6 +225602,7 @@ istnblckrt.net
 istnblckrtakp.net
 istnblcwkrt.net
 istnbldkart.net
+istnbldksm.com
 istnbldunya.com
 istnblesker.net
 istnblguas.shop
@@ -245220,6 +245229,7 @@ klemanzino.net
 klemelferllstannnbll.com
 klemx.net
 klen.cc
+klenarovitu.mom
 klenderbont.info
 kleopatra.world
 kleoskent.net
@@ -253473,6 +253483,7 @@ leadforce.top
 leadger.online
 leadgrowth.top
 leadjenerals.top
+leadmarket.top
 leads-management.net
 leadstepz.click
 leadtipz.pw
@@ -258310,6 +258321,7 @@ lunarisyazilimweb.sbs
 lunarsirinshift.xyz
 lunatect.freemyip.com
 lunaverka.top
+lunavokired.mom
 lunbhothling.duckdns.org
 lunch938.xyz
 lunchcrate.top
@@ -261654,6 +261666,7 @@ malitehja.tk
 malito.duckdns.org
 malitrsorgu.com
 maliuzlasma.com
+malivergi.com
 maliweb-ilerle-tr.my-homeip.com
 maliye-bakanligi.com.tr
 maliye-bakanligi.org
@@ -261767,6 +261780,7 @@ maliyehukuk.com
 maliyehukuk.org
 maliyehukukcezasi.com
 maliyehukukuceza.com
+maliyeidaribirim.org
 maliyeidariceza.org
 maliyeinfaz.com
 maliyeinfaz.net
@@ -293982,6 +293996,7 @@ onlinedenal.cfd
 onlinedenal.com
 onlinedenal.sbs
 onlinedenal.xyz
+onlinedenetim.org
 onlinedenizbasvuralarimportalin.xyz
 onlinedenizbireysel.xyz
 onlinedenizbireyselim.xyz
@@ -312416,6 +312431,7 @@ prawinvinbil2.clienteasciendig.world
 prawinzinbil66.clienteasciendig.world
 prawinzinbil66.clienteascindig.world
 prawze.top
+praxemolinu.mom
 praxlonfire73.live
 praxont.com
 prayag.online
@@ -314138,6 +314154,7 @@ profitpulse24.online
 profitritual.top
 profittgo.com
 profittmax.top
+profitutor.pro
 profitvault.sbs
 profitvisionary.online
 profjestyers.duckdns.org
@@ -322757,6 +322774,7 @@ qonnfp.wnrathttb.ru
 qopeeplollscwwc.ru
 qopnldbyvs.duckdns.org
 qornas.com
+qorva.sbs
 qorvi.bond
 qoryesum.com
 qosidie.com
@@ -330977,6 +330995,7 @@ rocknsoulamerica.com
 rockrak.com
 rockriddle.world
 rockrock.ug
+rockscanner.digital
 rocksegregation.top
 rockstareats.com
 rockstargames.ddns.net
@@ -343737,6 +343756,7 @@ seedlingwhereby.top
 seednay.gvardiano.ru
 seedsindia.org
 seedsxouts.shop
+seedwarm.cfd
 seeeeendefirsatlarikaciiiirma.shop
 seeelcrsmba.dns.army
 seehgss.com
@@ -353759,6 +353779,7 @@ skyinformdata.com
 skyjetsatis.com
 skyjetturkiye.com
 skykm12.duckdns.org
+skylarkbay.com
 skylevis.com
 skylight.browserzheng.com
 skylimitim.com
@@ -358094,6 +358115,7 @@ sorllg.com
 sorllz.com
 sorlsz.com
 sorlzl.com
+sormekavudi.mom
 sornfyydkhoo.tech
 sornstanbul.shop
 sornszblnlerecom.spectralix.sbs
@@ -365508,6 +365530,7 @@ summerrain.cloud
 summertrip.surf
 summervacation.bit
 summi.space
+summiseek.click
 summiseek.com
 summit-files.com
 summit.agmandm.ru
@@ -369725,6 +369748,7 @@ tavaevsn.net
 tavaevsyn.net
 tavaevsyn.xyz
 tavafirsati.cfd
+tavelorunik.digital
 tavernique.info
 tavernsnowless.com
 tavevjou.duckdns.org
@@ -372745,6 +372769,7 @@ tekrarkazanmakicinmobildebasvur.online
 tekrarsizinlemutlu.com
 tekrkekfegh.com
 tekrona.ooguy.com
+teksancesbrdasance.cfd
 teksansinvardi.cfd
 tekscarkiralama.com
 teksefer.tech
@@ -389047,6 +389072,7 @@ turkeyptt.top
 turkeypttu.vip
 turkeyreliefdao.notion.site
 turkeyrelieftoken.help
+turkeyrocket.info
 turkeysamsung.com
 turkeysb.com
 turkeystraw.com
@@ -390277,6 +390303,7 @@ turkiyeinstagram.com
 turkiyeinternet.net
 turkiyeinternetdestegi-indir.com
 turkiyeinvestclub.com
+turkiyeinvestments.com
 turkiyeinvsbankasi.com
 turkiyeis-bankasi.com
 turkiyeis.online
@@ -390435,6 +390462,7 @@ turkiyeninotomobili.site
 turkiyeninpopulermarketindirimkataloglari.cfd
 turkiyeninteknolojiussu.tk
 turkiyeninvakiflarininbankasi.com
+turkiyeninyardimcisi.com
 turkiyeninyenigundemleri.com
 turkiyeninyuzyili.dev
 turkiyeninyuzyili.net
@@ -393828,6 +393856,7 @@ ulkouxevalap.ddns.net
 ulku8d5.duckdns.org
 ulllongitudina.top
 ulmjq2yfapqbahqdqlq.ddns.net
+ulmorin.asia
 uln890o.duckdns.org
 ulnawoyyzbljc.ru
 ulnboh.com
@@ -395298,6 +395327,7 @@ uqw3k36.duckdns.org
 uqyumxqlwttwcqd.ru
 ur.hgsyuklemeyerii.net
 ur5rgqwbe.duckdns.org
+ur95ztyb07nro560.fun
 urafnor.net
 ural-pelmeny.ru
 uralakads.xyz
@@ -403248,6 +403278,7 @@ veriasmonetakodofwin.com
 vericationservicetwitter.com
 verichasenow.ddns.net
 veridessa.com
+veridianbay.click
 veridianbay.icu
 veridiancreditunion.ddns.net
 veridiansanctuary.com
@@ -438285,6 +438316,7 @@ younglaturkey.com.tr
 younglaturkiye.com.tr
 youngliner.top
 youngnonte.hopto.org
+youngouzo.cfd
 youngsterconservation.top
 youngsterseductive.top
 younika-hayde.bazar
@@ -440818,6 +440850,7 @@ zc.bnfhf.icu
 zc1800.oss-cn-shenzhen.aliyuncs.com
 zc4kplg.duckdns.org
 zc7jw9qvq9.icu
+zc95asdahsdhashdhzc5c95sad.click
 zc97kn.duckdns.org
 zcarrefrsaindirim.cfd
 zcclzrwtysvclql.com
