@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-26 17:59:07 UTC
-! Total: 355072 rules
+! Last modified: 2026-03-26 19:01:48 UTC
+! Total: 355076 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35989,6 +35989,7 @@
 *://*.asdvsacsadckasdcjka.net/*
 *://*.asdwwisttemo123.com/*
 *://*.asdxccvsa211312.net/*
+*://*.asdxkasjc31xksadxa.cfd/*
 *://*.asdxxcd45asva32.net/*
 *://*.asdxzczxsd.net/*
 *://*.asdzsdasdasd.cf/*
@@ -67783,6 +67784,7 @@
 *://*.burogecitavodesi.xyz/*
 *://*.burohaber.com/*
 *://*.burohapopld.com/*
+*://*.burotuelde.net/*
 *://*.buroyaulas.com/*
 *://*.burqaapp.com/*
 *://*.burqan-bnk.com/*
@@ -127817,6 +127819,7 @@
 *://*.firsatlarburadatemmuzetkinligi.net/*
 *://*.firsatlarburalaraldinaldin.com.tr/*
 *://*.firsatlarburda.com/*
+*://*.firsatlarburda101.com/*
 *://*.firsatlarburdahementiklailerle.com/*
 *://*.firsatlarburdasizinle.xyz/*
 *://*.firsatlarburdawebbasvuruekimde.click/*
@@ -257890,6 +257893,7 @@
 *://*.qbmuzwyxk.com/*
 *://*.qbn-firsatkampanyasi.online/*
 *://*.qbn-islem.xyz/*
+*://*.qbnasckjdcasjkdjsca.sbs/*
 *://*.qbnfinansbank.com/*
 *://*.qbnimkmpany.com/*
 *://*.qbnkprmsynllarla.com/*
