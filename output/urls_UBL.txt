@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-26 08:39:07 UTC
-! Total: 354994 rules
+! Last modified: 2026-03-26 09:53:15 UTC
+! Total: 355013 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -63674,6 +63674,7 @@
 *://*.borsa-bitci.com/*
 *://*.borsa-bitcim.com/*
 *://*.borsa-dunyasi.info/*
+*://*.borsa-haberleri.world/*
 *://*.borsa-petrol.com/*
 *://*.borsa-sirri.online/*
 *://*.borsa-strateji.pro/*
@@ -64590,6 +64591,7 @@
 *://*.briefcaseopaque.top/*
 *://*.briefcasepact.top/*
 *://*.briefcasewhereby.top/*
+*://*.briefcentral.com/*
 *://*.briefcode.online/*
 *://*.briefconfirm.top/*
 *://*.briefdeal.buzz/*
@@ -70535,6 +70537,7 @@
 *://*.canlidestegi.com/*
 *://*.canlidestek-kimsesizz.com/*
 *://*.canlidestekuygulamalar.online/*
+*://*.canlihaber.net/*
 *://*.canlii-show.com/*
 *://*.canliisaray.net/*
 *://*.canliisohbetimeesendegelkatill1.gq/*
@@ -73033,6 +73036,7 @@
 *://*.cemrevakfi.com/*
 *://*.cemsklaris.site/*
 *://*.cemsolutions.org/*
+*://*.cemusu.store/*
 *://*.cemzdyf.com/*
 *://*.cenabet.online/*
 *://*.cenabet1096.com/*
@@ -82141,6 +82145,7 @@
 *://*.cottagestifle.top/*
 *://*.cottonng.xyz/*
 *://*.cottrauris.xyz/*
+*://*.coture.live/*
 *://*.coturk.com/*
 *://*.coucarachiz.top/*
 *://*.couchand.com/*
@@ -86049,6 +86054,7 @@
 *://*.davranhizlicax.xyz/*
 *://*.davranis-kaybindan-daha-sevgili-olabilir-geneli.com/*
 *://*.davranis-kaybindandansa-dahada-sevgilii-olabilir-geneeli.xyz/*
+*://*.davutardaozcelik.art/*
 *://*.davutogutum.xyz/*
 *://*.davutogutunc.xyz/*
 *://*.davutogutunkalesxi.online/*
@@ -86141,6 +86147,7 @@
 *://*.dayzim.org/*
 *://*.daz1hgs.com/*
 *://*.dazamanlifirsatlar.com/*
+*://*.daziwov.store/*
 *://*.dazlinko.com/*
 *://*.dazscz.help/*
 *://*.dazzl.vip/*
@@ -146961,6 +146968,7 @@
 *://*.gxrnttiigxxzrizzzeeee.net/*
 *://*.gxrntttigxxxzrizaaaa2023.net/*
 *://*.gxrxnntxibbvx.space/*
+*://*.gxrxntibxnxkampanya.xyz/*
 *://*.gxrxnticxzumleri1295.com/*
 *://*.gxrxntiifirsatlari.space/*
 *://*.gxrxnttixbnxk.xyz/*
@@ -197281,6 +197289,7 @@
 *://*.kidscover.nl/*
 *://*.kidsurology.co.uk/*
 *://*.kidswebsiteguide.com/*
+*://*.kidtalks.mom/*
 *://*.kidukes.com/*
 *://*.kieden.org/*
 *://*.kieleckadrukarnia.pl/*
@@ -209614,6 +209623,7 @@
 *://*.madrashotelashoka.com/*
 *://*.madreporaria.com/*
 *://*.madridiowa.com/*
+*://*.madrivox.club/*
 *://*.madrizir.at/*
 *://*.mads412341241241.xyz/*
 *://*.mads5325523532.xyz/*
@@ -226742,6 +226752,7 @@
 *://*.news4you.digital/*
 *://*.news9pakistan.com/*
 *://*.newsaboutphones.com/*
+*://*.newsado.com/*
 *://*.newsbizshow.net/*
 *://*.newsbizupdates.net/*
 *://*.newsbridgehub.com/*
@@ -228826,6 +228837,7 @@
 *://*.novastraem.com/*
 *://*.novastres.com/*
 *://*.novatercaagilidade.com/*
+*://*.novatrendflash.com/*
 *://*.novaworld-novaland.vn/*
 *://*.novayol.org/*
 *://*.novazwhiz.com/*
@@ -249040,6 +249052,7 @@
 *://*.piyasaraporu.online/*
 *://*.piyasastrongasrrrtzz.net/*
 *://*.piyasatracker.online/*
+*://*.piyasatrend.online/*
 *://*.piyasavizyon.online/*
 *://*.piyerdesllemla.site/*
 *://*.piyonlar.pro/*
@@ -252400,6 +252413,7 @@
 *://*.proaviskiralama724.online/*
 *://*.proayumpy.life/*
 *://*.prob21lemdrum.top/*
+*://*.probabilisticmind.com/*
 *://*.probabilitymoan.top/*
 *://*.probablepumpkin.top/*
 *://*.probably-thermal.cfd/*
@@ -257951,6 +257965,7 @@
 *://*.qerona.live/*
 *://*.qertauiklap.shop/*
 *://*.qerton.store/*
+*://*.qerunalodi.com/*
 *://*.qerunavo.com/*
 *://*.qeryxegwqucxbuvat.com/*
 *://*.qesacoy.com/*
@@ -286256,6 +286271,7 @@
 *://*.sosyolife.name.tr/*
 *://*.sosyologbayi.com/*
 *://*.sosyrdmuyglma.club/*
+*://*.sotavirekun.com/*
 *://*.sotefkl-telfs-rbrdsa-brda.com/*
 *://*.sotefkl-telfs-rbrdsa-brda.net/*
 *://*.sotefkl-telfs-rbrdsa-brda.shop/*
@@ -300557,6 +300573,7 @@
 *://*.tiltbenevont.top/*
 *://*.tilters6.xyz/*
 *://*.tiltyufaz.ru/*
+*://*.timague.pro/*
 *://*.timatiolimp.ru/*
 *://*.timber-landstore.com/*
 *://*.timbercage.top/*
@@ -306962,6 +306979,7 @@
 *://*.tremendoussnob.top/*
 *://*.tremendousweird.top/*
 *://*.tremerrrorr.net/*
+*://*.tremidavoku.com/*
 *://*.treminsran.org/*
 *://*.tremkeer.net/*
 *://*.tremker.net/*
@@ -351906,6 +351924,7 @@
 *://*.zerlhocantcompete.dyn/*
 *://*.zermnf.com/*
 *://*.zermnfl.com/*
+*://*.zernadoviku.com/*
 *://*.zernfl.com/*
 *://*.zernixo.sbs/*
 *://*.zero-ehizlibasvur-girisyap-kayitol.com/*
