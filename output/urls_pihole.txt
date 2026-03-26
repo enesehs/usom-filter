@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-26 12:43:11 UTC
-# Toplam: 445242 Domain
+# Son Güncelleme: 2026-03-26 14:23:11 UTC
+# Toplam: 445256 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20002,6 +20002,7 @@
 866f-46-1-155-122.ngrok-free.app
 867265434-2138.website
 86753487554.cloud
+867645354.online
 86802fc613fa6859610c9d335fc3c630.ir
 868612481.corolain.ru
 8688865456.cloud
@@ -42822,6 +42823,7 @@ alisverisodeme.shop
 alisverisonline-tr.net
 alisverisonline.sbs
 alisverisonlinep-ttcepte.com
+alisverisozelfour-sa.xyz
 alisverisp-ttyeni.com
 alisverispazari45.xyz
 alisverisperakendem.com
@@ -62899,6 +62901,7 @@ baykar.icu
 baykar.lol
 baykar.ltd
 baykar.run
+baykar.shop
 baykar.site
 baykar.ticktokers.com
 baykar.top
@@ -148528,6 +148531,7 @@ erenkokyaltirak.click
 erenlerkatilimvakfi.com
 erennasko.guru
 erenokyaltirak1.vip
+erenokyaltirak1.xyz
 erenokyaltirak2.vip
 erenokyaltrak.cc
 erenokyaltrakdoland.click
@@ -149575,6 +149579,7 @@ estetic-online.com
 estetiksikayet.org
 estetiksikayetlerimiz.com
 estewadogrows.com
+estfirm.com
 esthermgir.pw
 estheticego.top
 esthgsm.com
@@ -153641,6 +153646,7 @@ eyardmturkiyegov.site
 eyasaldosya.org
 eyasalizleme.org
 eyasaltakip.org
+eyaskyuceasksanabosyerekuruldum.cfd
 eyaygin.org
 eyayginiorg.org
 eybiez.flatforwardtogether.xyz
@@ -171819,6 +171825,7 @@ gelistermenofresh.duckdns.org
 gelistirmeyeni.online
 geliyoa1o1.net
 geliyookurye.com
+geliyorgelmekolanlarss.com
 geliyorgelmekteolanlar.com
 geliyorlarkampanya.com
 geliyorlarkksmdsa.com
@@ -197694,6 +197701,7 @@ hgsbayraminsongunusun.com
 hgsbayramodemehizmetleri.com
 hgsbaysas23232.blogspot.com
 hgsbb.com
+hgsbbababrtfyjk.online
 hgsbbyklemesi.com
 hgsbd.com
 hgsbedas.com
@@ -225557,6 +225565,7 @@ istnbb.net
 istnbbbwa.icu
 istnbbkart.com
 istnbbl.net
+istnbblsa.com
 istnbdlkart.net
 istnbduslhziemetlr.shop
 istnbduslhziemetlr.store
@@ -242794,6 +242803,7 @@ kgm-odemexxx.app
 kgm-odemexxx.net
 kgm-odemexxx.org
 kgm-odemexxxx.com
+kgm-odemexxxx.org
 kgm-odemexxxx.xyz
 kgm-oga.com
 kgm-ogc.com
@@ -250179,6 +250189,7 @@ kudaras.com
 kudaterbangtinggi.duckdns.org
 kudivmaefaer.net
 kudmgivpvuejmgog.io
+kudoravime.com
 kudrnwosas.faith
 kudurttum.proxydns.com
 kuduruyosunuz.sbs
@@ -266708,6 +266719,7 @@ merrrzaeltas.dns.navy
 merryajans.com
 merrychristmiiice.top
 merrymilkfoods.com
+merryon.live
 merryxmaslmao.hopto.org
 merservice.net
 merservice.org
@@ -271623,6 +271635,7 @@ mobilebankinggrd.today
 mobilebasvuruyap-vakifbankm.com
 mobilecensorship.top
 mobileceplik.com
+mobilecomp.cyou
 mobilecontinue.network
 mobiledcuauth01.ddns.net
 mobiledeniz.online
@@ -422786,6 +422799,7 @@ xatgupks9.duckdns.org
 xaviaraivax.com
 xavier1221.duckdns.org
 xavierat.ddnsfree.com
+xavir.sbs
 xavo2.com
 xavorenquastra.lat
 xavshahb-abwvah-absna.cfd

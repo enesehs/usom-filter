@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-26 12:43:11 UTC
-! Total: 355021 rules
+! Last modified: 2026-03-26 14:23:11 UTC
+! Total: 355035 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12414,6 +12414,7 @@
 *://*.865d128632d4.com/*
 *://*.867265434-2138.website/*
 *://*.86753487554.cloud/*
+*://*.867645354.online/*
 *://*.86802fc613fa6859610c9d335fc3c630.ir/*
 *://*.8688865456.cloud/*
 *://*.8688885646546.cloud/*
@@ -29144,6 +29145,7 @@
 *://*.alisverisonline-tr.net/*
 *://*.alisverisonline.sbs/*
 *://*.alisverisonlinep-ttcepte.com/*
+*://*.alisverisozelfour-sa.xyz/*
 *://*.alisverisp-ttyeni.com/*
 *://*.alisverispazari45.xyz/*
 *://*.alisverisperakendem.com/*
@@ -45205,6 +45207,7 @@
 *://*.baykar.lol/*
 *://*.baykar.ltd/*
 *://*.baykar.run/*
+*://*.baykar.shop/*
 *://*.baykar.site/*
 *://*.baykar.top/*
 *://*.baykar.uno/*
@@ -117984,6 +117987,7 @@
 *://*.erenlerkatilimvakfi.com/*
 *://*.erennasko.guru/*
 *://*.erenokyaltirak1.vip/*
+*://*.erenokyaltirak1.xyz/*
 *://*.erenokyaltirak2.vip/*
 *://*.erenokyaltrak.cc/*
 *://*.erenokyaltrakdoland.click/*
@@ -118878,6 +118882,7 @@
 *://*.estetiksikayet.org/*
 *://*.estetiksikayetlerimiz.com/*
 *://*.estewadogrows.com/*
+*://*.estfirm.com/*
 *://*.esthermgir.pw/*
 *://*.estheticego.top/*
 *://*.esthgsm.com/*
@@ -122245,6 +122250,7 @@
 *://*.eyasaldosya.org/*
 *://*.eyasalizleme.org/*
 *://*.eyasaltakip.org/*
+*://*.eyaskyuceasksanabosyerekuruldum.cfd/*
 *://*.eyaygin.org/*
 *://*.eyayginiorg.org/*
 *://*.eybreeeehh.shop/*
@@ -136777,6 +136783,7 @@
 *://*.gelistirmeyeni.online/*
 *://*.geliyoa1o1.net/*
 *://*.geliyookurye.com/*
+*://*.geliyorgelmekolanlarss.com/*
 *://*.geliyorgelmekteolanlar.com/*
 *://*.geliyorlarkampanya.com/*
 *://*.geliyorlarkksmdsa.com/*
@@ -159070,6 +159077,7 @@
 *://*.hgsbayraminsongunusun.com/*
 *://*.hgsbayramodemehizmetleri.com/*
 *://*.hgsbb.com/*
+*://*.hgsbbababrtfyjk.online/*
 *://*.hgsbbyklemesi.com/*
 *://*.hgsbd.com/*
 *://*.hgsbedas.com/*
@@ -182573,6 +182581,7 @@
 *://*.istnbbbwa.icu/*
 *://*.istnbbkart.com/*
 *://*.istnbbl.net/*
+*://*.istnbblsa.com/*
 *://*.istnbdlkart.net/*
 *://*.istnbduslhziemetlr.shop/*
 *://*.istnbduslhziemetlr.store/*
@@ -196840,6 +196849,7 @@
 *://*.kgm-odemexxx.net/*
 *://*.kgm-odemexxx.org/*
 *://*.kgm-odemexxxx.com/*
+*://*.kgm-odemexxxx.org/*
 *://*.kgm-odemexxxx.xyz/*
 *://*.kgm-oga.com/*
 *://*.kgm-ogc.com/*
@@ -202408,6 +202418,7 @@
 *://*.kudaras.com/*
 *://*.kudivmaefaer.net/*
 *://*.kudmgivpvuejmgog.io/*
+*://*.kudoravime.com/*
 *://*.kudrnwosas.faith/*
 *://*.kuduruyosunuz.sbs/*
 *://*.kudusedestekol.com/*
@@ -214784,6 +214795,7 @@
 *://*.merryajans.com/*
 *://*.merrychristmiiice.top/*
 *://*.merrymilkfoods.com/*
+*://*.merryon.live/*
 *://*.mersanajans.com.tr/*
 *://*.merseine.com/*
 *://*.merservice.net/*
@@ -218617,6 +218629,7 @@
 *://*.mobilebasvuruyap-vakifbankm.com/*
 *://*.mobilecensorship.top/*
 *://*.mobileceplik.com/*
+*://*.mobilecomp.cyou/*
 *://*.mobilecontinue.network/*
 *://*.mobiledeniz.online/*
 *://*.mobiledevletkiadepayodeme.ml/*
@@ -336777,6 +336790,7 @@
 *://*.xasjhbxuaysg523314.net/*
 *://*.xaskm.com/*
 *://*.xaviaraivax.com/*
+*://*.xavir.sbs/*
 *://*.xavo2.com/*
 *://*.xavorenquastra.lat/*
 *://*.xavshahb-abwvah-absna.cfd/*
