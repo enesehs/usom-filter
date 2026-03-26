@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-26 19:01:48 UTC
-# Toplam: 445298 Domain
+# Son Güncelleme: 2026-03-26 20:24:13 UTC
+# Toplam: 445310 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22731,6 +22731,7 @@ a-101aldinaldin.shop
 a-101aldinaldingdf.com
 a-101birfirsatlari.me
 a-101c-o-mt-r.cyou
+a-101c0lmtd.cyou
 a-101c0lmtl.cyou
 a-101c0m.cyou
 a-101c0mtl.cfd
@@ -58593,6 +58594,9 @@ baninventory.top
 banis.hopto.org
 banisdor.top
 banislem.com
+banisori.xyz
+banisorid.xyz
+banisorixa.xyz
 banjalucke-ljepotice.ru
 banjo.la
 bank-account.live
@@ -66743,6 +66747,7 @@ bgncshksl.duckdns.org
 bgndolnfsrtlarn.sbs
 bgne-dgrktmk.com
 bgnfrsataylarimiz.cfd
+bgnglivir.cfd
 bgnl-ng-smd.shop
 bgnlerdeszlerlefrstlr.com
 bgnlerdsbyzlerdbyk.shop
@@ -95246,6 +95251,7 @@ cep-teteb.net
 cep-teteb.online
 cep-teziraat.com
 cep-tr-giris-mobil-subem.ml
+cep-tr-mobilde-online-sepet.cfd
 cep-tr-mobilde-online-sepet.sbs
 cep-ttsiparis.com
 cep-turkiye-bireysel-mobil-giris-kapisi.ml
@@ -122721,6 +122727,7 @@ dijitalhizligiris-ziraatweb.sbs
 dijitalhizligiris-ziraatwebbireysel.sbs
 dijitalhizligiris-ziraatwebkampanya.sbs
 dijitalhizligiris-ziraatwebmobil.sbs
+dijitalhizlihesap.cfd
 dijitalhizliislemler-denizacik.com
 dijitalhizliislemler.com
 dijitalhizliislemleriniz-denizacik.com
@@ -225561,6 +225568,7 @@ istmrkncxbxg.com
 istmrkxjslxsa.com
 istmrkxsagdsg.com
 istmusicc.surf
+istmvbnsl.com
 istmvlanca.myshopify.com
 istnaabsstasd.squarespace.com
 istnablakrt.com
@@ -285373,6 +285381,7 @@ ns-client.net
 ns-krt.online
 ns-vaikf.online
 ns-wwwaksamcomtr.swarebleaks.cfd
+ns-wwwhaber61net.amidolstarny.cfd
 ns-wwwhaber61net.dismansuddy.cfd
 ns-wwwhaber61net.galibigirly.cfd
 ns-wwwhaber61net.rasperstate.sbs
@@ -299286,6 +299295,7 @@ ozel-link-guvende.gq
 ozel-link.com.tr
 ozel-market-indirimleri.online
 ozel-online-alisveris.cfd
+ozel-online-cepte-tr.site
 ozel-s-guvendeparam.com
 ozel-s-paranguvende.com
 ozel-satis-islemlerim.com
@@ -341568,6 +341578,7 @@ sdfasdhjasda.net
 sdfcse.ddns.net
 sdfcvlsvdvt-dscvt.com
 sdfdfvsldistrd.mooo.com
+sdfdmsdmsdmsd.sbs
 sdfdsdsc.click
 sdfdsfjkasjdkas.net
 sdfeqq.shop
@@ -393428,6 +393439,7 @@ ufhiscufiuny.com
 ufiputilurkbixi2eno.ddns.net
 ufjcuuo.cn
 ufjdb.com
+ufjhskd.cfd
 ufk-kfsfslfsjfsjsklfsjkfsaksfsksfa.online
 ufksnizomu.duckdns.org
 ufktapurehberlik.com
