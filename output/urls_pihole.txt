@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-27 18:39:15 UTC
-# Toplam: 445526 Domain
+# Son Güncelleme: 2026-03-27 19:33:48 UTC
+# Toplam: 445532 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -194733,6 +194733,7 @@ hemenkapinagelsinsiparssler.xyz
 hemenkapinda.online
 hemenkapinda.xyz
 hemenkapindacom.com
+hemenkapindaonline.xyz
 hemenkapindasizle.83782729262739272928274917.com
 hemenkapindsnn.click
 hemenkapinizageliyoruz.com
@@ -248637,6 +248638,7 @@ krcaktuel.info.tr
 krcaktuel.net.tr
 krcaktuel.org.tr
 krcamtlusnlerdiler.top
+krcansanadgru.cfd
 krcaocaksiparislerim.xyz
 krcaocktabslyr.top
 krcaockzmi.click
@@ -255220,6 +255222,7 @@ link-iddana.ddns.net
 link-js.link
 link-kisalt.com
 link-kisalt.online
+link-kisaltma-tr.blog
 link-m.xyz
 link-net.website
 link-pa.com
@@ -271000,6 +271003,7 @@ mobildagitimteknolji-bnbtr.tk
 mobilde-ak-islem.app
 mobilde-denizbankacikhediye.com
 mobilde-gecerli-20gbhediye.epizy.com
+mobilde-siparis-tr.blog
 mobilde-sube.com
 mobilde-suprizacikdeniz.com
 mobilde-tr.online
@@ -372939,6 +372943,7 @@ tekpanelsbayi.com
 tekpekersedatteker.tk
 tekphoria.cfd
 tekpos.html-5.me
+tekraonacand2acn.cfd
 tekrar-iadeislemleri-baslamistir.site
 tekrardan-geldi-sizinle-daha-mutlu.com
 tekrardan-sizleri-sevindiren-bizler.com
@@ -439483,6 +439488,7 @@ yungie.net
 yungouzo.cfd
 yunnddhsrregfdshlvsbsw.cfd
 yunqhi.com
+yunsacanreak.cfd
 yunusbabanburulas.icu
 yunusbaligi-haber.com
 yunusbeyasm.gov.tr
