@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-27 11:32:53 UTC
-# Toplam: 445440 Domain
+# Son Güncelleme: 2026-03-27 12:34:19 UTC
+# Toplam: 445459 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -42002,6 +42002,7 @@ aldnnindrmll-firsttlrszllerle.net
 aldnnldnozlflrstlr.com
 aldnnnladlnlnllndfd.duckdns.org
 aldnsfrsatlrdckfrm.blogdns.com
+aldnsnlrdanasd.shop
 aldnxalin101pkahd.com
 aldog25.zapto.org
 aldojuanpettiti.com.ar
@@ -58596,6 +58597,7 @@ bangflirt.top
 banglaco.click
 banglada.click
 bangladesh-bank.com
+bangladq.click
 banglafe.click
 banglanews-24.com
 bangortalk.org.uk
@@ -112874,6 +112876,7 @@ definitivechiropractic.ca
 definvst.store
 defiorion.com
 defitankzone.com
+defiwaren.com
 defizooma.com
 defkoizmrn.net
 deflaut.ddns.net
@@ -142958,6 +142961,7 @@ ekonomianaliz.online
 ekonomianaliz.org
 ekonomianaliz.pro
 ekonomiarena.world
+ekonomibakis.online
 ekonomidalgasi.info
 ekonomidenizi.online
 ekonomidergisi.org
@@ -182703,6 +182707,7 @@ guvenli-online-hizmet.com.tr
 guvenli-online-kart-ucret-iadesi-basvuru-formu.xyz
 guvenli-online-odeme.com.tr
 guvenli-online-satici.com
+guvenli-online-satisim.com
 guvenli-online-tr.sa.com
 guvenli-online.sa.com
 guvenli-onlinetr.sa.com
@@ -192578,6 +192583,7 @@ hdjfgjhdshh.net
 hdjfhn.verify.dhdjs.valid4you13.ru
 hdjgmd.top
 hdjtmz.top
+hdkbakistl.com
 hdkearo.com
 hdkkk.club
 hdkmlibov.com
@@ -211163,6 +211169,7 @@ idaricezasorgula.org
 idaricezasorgulama.org
 idaridavasorgu.org
 idaridenetleme.com
+idaridosya.com
 idaridosya.org
 idaridosyasistemi.org
 idaridosyatakibi.org
@@ -213302,6 +213309,7 @@ ile-kolay-alisveris-islemleri.com
 ile-kolay-guvenli-forum.com
 ile-kolay-islemler.com
 ile-kolay-odeme-kismi.com
+ile-magazam-siparis.com
 ile-magazan.com
 ile-merkezi-odeme.com
 ile-netalisverisim.com.tr
@@ -264515,6 +264523,7 @@ maxwiz1221.duckdns.org
 maxxflush.com
 maxxprofitss.com
 maxxscool.ddns.net
+maxylike.digital
 maxziflow.ddns.net
 may-24rooms.com
 may-my1.duckdns.org
@@ -271757,6 +271766,7 @@ mobilekredipanelim.sbs
 mobilelegendsbangbangevent2022.duckdns.org
 mobilelinkcm.link
 mobilemacuregain.ddns.net
+mobilemechanicprosoffhialeah.com
 mobilemklivecftcibsvrusu.duckdns.org
 mobilemobileorlando.com
 mobilenflasyonkartiadeleri.cf
@@ -282624,6 +282634,7 @@ nextssbmcel.net
 nextstepmodern.top
 nextvisionn.com
 nextwaveideas.online
+nextworldly.world
 nextxriver.com
 nextynfo.com
 nexulix.com
@@ -285144,6 +285155,7 @@ novanot.ddns.net
 novapath.sbs
 novaposhta.website
 novapostxx.icu
+novaradar.world
 novarissor.com
 novartisphamcorp.com
 novartispharmaceuticalscorp.com
@@ -295012,6 +295024,7 @@ onlinekontorum.com
 onlinekontorum.online
 onlinekontorum.xyz
 onlinekontrol-hizmetlerim.com
+onlinekontrol.org
 onlinekqmyukleme.xyz
 onlinekrbimvakif.xyz
 onlinekrdildeniz.xyz
@@ -338082,6 +338095,7 @@ sahibindenhemenparam.duckdns.org
 sahibindenhepsi.com
 sahibindenhepsi.com.tr
 sahibindenhizliticaret.com
+sahibindenhjyy.duckdns.org
 sahibindenikincell.com.tr
 sahibindenilan-get-guvende.com
 sahibindenilan-ver.com
@@ -345530,6 +345544,7 @@ sepetim-guvende-alim.com.tr
 sepetim-guvenli-13478.com
 sepetim-guvenli-14378.com
 sepetim-guvenli.com
+sepetim-ilan.com
 sepetim-ilanda.com
 sepetim-ilanimda.com
 sepetim-ilanli.com.tr
@@ -346642,6 +346657,7 @@ servislerhizmetleri.xyz
 servislerim.com.tr
 servisleriminternetten.net
 servislerimiz.com.tr
+servislerimlink.com
 servislerin.net
 servisleriniz-fokus.net
 servislerinizlink.com
@@ -385578,6 +385594,7 @@ trmagazafirsat.org.tr
 trmali.org
 trmaliidari.org
 trmaliye.org
+trmaliyebilgi.org
 trmaliyeceza.org
 trmaliyetc.org
 trmalmiadmx1.net
@@ -413371,6 +413388,7 @@ wideappreciative.space
 widechanges.best
 widecounterfeit.top
 widecrunch.top
+widefocus.world
 widenclergy.top
 widenight.top
 widequery.top
@@ -440553,6 +440571,7 @@ zairaatban.net
 zairaatbankassi.com
 zairaatbankkasi.com
 zairexcheck.online
+zairexcheck.xyz
 zairexservice.com
 zairexservice.xyz
 zairexservices.fun
