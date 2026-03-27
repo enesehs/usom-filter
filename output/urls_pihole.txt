@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-27 10:35:31 UTC
-# Toplam: 445379 Domain
+# Son Güncelleme: 2026-03-27 11:32:53 UTC
+# Toplam: 445440 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34449,7 +34449,9 @@ aicienou.zapto.org
 aicikdenizmobilin-trtr.com
 aicmas.com
 aicno.ddns.net
+aicoims.com
 aicoin-app.co
+aicoinzh.com
 aicovhxl.com
 aid-atiadel-erinisorgula.xyz
 aid.ewqewmokgfd.com
@@ -36867,6 +36869,7 @@ ajskbnrs.xn--jor0b302fdhgwnccw8g.com
 ajsl990.com
 ajsl999.com
 ajssalvagedesigns.com
+ajsvpn.com
 ajtkgygth.com
 ajudepo777.top
 ajuygn.com
@@ -47912,6 +47915,7 @@ apps-trusteer.com
 apps-verify-pgkgjgwtyo.duckdns.org
 apps-verify.zapto.org
 apps-verifyconfirmationfn13vqunjcbm.duckdns.org
+apps-whatsapp.com
 apps-wordhoty.xyz
 apps.177954coinbase.com
 apps.bsi.ir
@@ -52008,6 +52012,7 @@ assassinatezeal.top
 assassinationretrospect.top
 assassinbenign.top
 assassinfurious.top
+assau.oss-ap-southeast-7.aliyuncs.com
 assaultbureaucracy.top
 assaultcongregation.top
 assaulthuddle.top
@@ -55417,6 +55422,7 @@ ayhanlttasat.com.tr
 ayhn.xyz
 ayhpcxikmp.duckdns.org
 ayhyoldayim.online
+ayicoin.com
 ayidaire.homes
 ayidat-govturkiade.tk
 ayidattan-govtrkyi.tk
@@ -94127,6 +94133,7 @@ cdn-code-jquery.info
 cdn-connect.docusigner.info
 cdn-content.cc
 cdn-dowloand-e-devlet-turkiye-gov-tr.tk
+cdn-down.cdndown.shop
 cdn-google-tag.info
 cdn-hk-6dc8.bogotatrade.co
 cdn-icloud.co
@@ -97789,6 +97796,8 @@ chimneysweepdetroit.com
 chimpanzee235235.xyz
 chin235423.xyz
 china-stocker2015.com
+china-telegram.im
+china-whatsapp.com
 chinacqn.com
 chinadevmonster.top
 chinahacking.zapto.org
@@ -97807,6 +97816,7 @@ chinasuppotyshop.top
 chinataiw39e9i9ds.com
 chincenterblandwka.pw
 chineellergic.top
+chinese-whatsapp.com
 chineseculturepre.coinbase-com.info
 chinesekungfu.org
 chinesse-foods.cfd
@@ -127122,6 +127132,7 @@ downlooter.net
 downlying.com
 downparwaswith.com
 downplease.c1.biz
+downs-hao123.top
 downs.showprice.xyz
 downtherai.pro
 downtownfoe.top
@@ -128067,6 +128078,7 @@ dshgsd-asjvfj-asfsaf.cfd
 dshgsd-asjvfj-asfsaf.cyou
 dshgsd-asjvfj-asfsaf.icu
 dshgsd-asjvfj-asfsaf.sbs
+dshjfdf.oss-cn-hongkong.aliyuncs.com
 dshnjsejse.site
 dsifoe.ml
 dsijwxwfytisljhsx.net
@@ -149035,6 +149047,7 @@ esarta.com
 esarwzvx.com
 esashaber.club
 esashotkensat.net
+esasportfoy.net
 esassva.click
 esatbumyazabi.click
 esatis-sahibindenparamguvende-com.tk
@@ -161915,6 +161928,7 @@ fky.dfg45dfg45.best
 fkzgaeq.duckdns.org
 fl-pass.com
 fl-road.com
+fl-vpn.com
 fl.ypgs.com
 fl0st.hldns.ru
 fl1jz1ib.duckdns.org
@@ -170416,6 +170430,7 @@ gateblurbrepository.com
 gatecryptospace.com
 gatedmgir.pw
 gatedocsview.com
+gategw.com
 gateinfosecure.com
 gatekeeper.tss.net
 gateleben.com
@@ -180469,6 +180484,7 @@ gudepour.ddns.net
 gudfelips.site
 gudguy.zapto.org
 gudonenksxgfsaw.ru
+guduo.xyz
 gueastr-booikcheks.com
 gueetychekscnow.com
 guendolenbertrand.net
@@ -184734,6 +184750,7 @@ haber256.com
 haber350.online
 haber350.site
 haber350.website
+haber359.com
 haber360.cfd
 haber360.site
 haber360tc2016.cfd
@@ -193455,6 +193472,10 @@ heighttrivial.top
 heigsssaxgsxs.net
 heiiasjournai.com
 heikickgn.com
+heimao-131.com
+heimao-132.com
+heimao-134.com
+heimao-136.com
 heimatverein-menne.de
 heimserver.shop
 heimserver.xyz
@@ -194053,6 +194074,7 @@ hemen-kaskom.blogspot.com
 hemen-kmpanyafaydalan.com
 hemen-kredi-giris.buzz
 hemen-kredi-giris.lat
+hemen-kredim-burda.sbs
 hemen-kripto-varlik-sorgula.xyz
 hemen-migros.vercel.app
 hemen-odedin.com
@@ -235371,6 +235393,7 @@ kalnstklar-sn-yni.online
 kalog.vn
 kalomob.store
 kalorsystem.com
+kalosumozufk.com
 kalovexi.icu
 kalpfogi.net
 kalpkacdefasever.net
@@ -255081,6 +255104,7 @@ line-cn.net
 line-d.vip
 line-infos-convnexionn.duckdns.org
 line-of-wizard.cfd
+line-zhcn.com
 line.gizlitiraf.com
 line.largefamiliesonpurpose.com
 line.lawnteam.org
@@ -269542,6 +269566,7 @@ mlylalmndhfw.duckdns.org
 mlzqto.com
 mm-ffdwwasfsf.com.tr
 mm-ueexf.run-eu-central1.goorm.io
+mm.bitbrowser.me
 mm.superbrightflashlight.xyz
 mm02kw8a.duckdns.org
 mm123.ddns.net
@@ -269624,6 +269649,7 @@ mmlgrosonl1ne.shop
 mmlo7.ddns.net
 mmm.freesite.us
 mmm21122mm2.cloud
+mmm3.oss-cn-hongkong.aliyuncs.com
 mmma7811play.com
 mmma7811play.net
 mmma7811play.xyz
@@ -280278,6 +280304,7 @@ nbwfasfgw.blogspot.com
 nbwh4qzdfjr0.click
 nbwkdxwac.click
 nbwvg2egflr8t2da1-wo.com
+nbxieheng.cn
 nbxiwhjdhwjdjs.net
 nbxqrgyqijcxgri.ru
 nbxuw.click
@@ -290660,6 +290687,7 @@ okvwetbryz.duckdns.org
 okvxkmgz6.duckdns.org
 okwtz.com
 okwzc.com
+okx-client.cn
 okxtp.duckdns.org
 okxyjqz3.duckdns.org
 okyanus-iletisim.com
@@ -292857,6 +292885,7 @@ online-kartdolum.online
 online-kartodemeleri-hizmet-portal.tk
 online-katilim.one
 online-kayitwebing.xyz
+online-kgm.net
 online-kirala.cf
 online-kirala.ml
 online-kirala.tk
@@ -296855,6 +296884,7 @@ optus-technologies.site
 optusbilling.ddns.net
 optusiy.com
 optyukleme.sg-host.com
+opuaera.com
 opug8t9e6.duckdns.org
 opusizlememerkezi.xyz
 opv0d81s.duckdns.org
@@ -297717,6 +297747,7 @@ osqllaslfll.shop
 osqxv.com
 osrdbkh.com
 osrqn.duckdns.org
+oss-kuaisu.oss-cn-hongkong.aliyuncs.com
 oss-sso.com
 oss.17ww.vip
 oss228228.hopto.org
@@ -302106,6 +302137,7 @@ paodrrdwyyfj.org
 paok-24.com
 paolaarm.duckdns.org
 paolo.zapto.org
+paopaoliaotian.s3.ap-east-1.amazonaws.com
 paosjmss.click
 pap-cut.com
 pap1ara.com
@@ -322800,6 +322832,7 @@ qo-pttgov.top
 qo4qbzx.duckdns.org
 qo6oiqnb.duckdns.org
 qo9zu9.duckdns.org
+qobddze.cn
 qobuzgrouphub.com
 qobuzpromohub.com
 qobvzcayls.duckdns.org
@@ -324577,6 +324610,7 @@ ramazan-destekpaketi.com
 ramazan-firsat.click
 ramazan-firsat.com
 ramazan-firsati-mart.cfd
+ramazan-garanti-kredi.xyz
 ramazan-geldi-mubarek-olsun-buradanal.com
 ramazan-hediyeleri.com
 ramazan-hediyeleriniz.com
@@ -351487,6 +351521,7 @@ simkart-tl-yukleme.blogspot.com
 simkart-yukleme.blogspot.com
 simkaxw.icu
 simlperesrlvatlonhotel.com
+simmem.com
 simmonitor.gq
 simmpel-resrvtion.com
 simo.zapto.org
@@ -355332,6 +355367,7 @@ sofewas24.duckdns.org
 sofewas3.ddnsfree.com
 sofexjordanx.com
 sofftventrix.com
+sofia-pecete-99-son-ay.sbs
 sofialorin2.zapto.org
 sofianx.ddns.net
 sofiaschulz.com
@@ -355383,6 +355419,7 @@ softofmobi.lisx.ru
 softonline.ddns.net
 softradar.net
 softres.oss-accelerate.aliyuncs.com
+softs-downloads.oss-ap-southeast-1.aliyuncs.com
 softs-labs.com
 softservicetel.ddns.net
 softsube.com
@@ -355436,6 +355473,7 @@ sogenvlsclick0.duckdns.org
 sognostudio.com
 sogoodnowtodaynow.com
 sogor.zapto.org
+sogou-shurufa.com
 sogsfoold.buzz
 soguk-gergin-uzay-transform.sbs
 soguk-guc-uzay-mutfak.sbs
@@ -368965,6 +369003,7 @@ takvimdenaktueller.xyz
 takvimegoreaktuel.com.tr
 takvimegoreaktuel.xyz
 takvimlerdogru-hedefedogru.sbs
+takvimlerdogruyugosteriyor.sbs
 takyss.zapto.org
 tal11p.site
 tal11p.store
@@ -373056,6 +373095,8 @@ teleglarm.com
 teleglren.com
 telegraem.org
 telegram-1.org
+telegram-apk.com
+telegram-desktop.org
 telegram-files.trustedfiles.org
 telegram-il.org
 telegram-j.org
@@ -373070,8 +373111,11 @@ telegrambackups.com
 telegrambots.me
 telegramco.org
 telegramdesktop.com
+telegramkx.com
+telegramlo.com
 telegramni.com
 telegramos.org
+telegramox.com
 telegramplus.com.tr
 telegramreport.me
 telegramsystem32dn.duckdns.org
@@ -373248,6 +373292,7 @@ telephoneranch.top
 telephonetrivial.top
 telephoneverdictyow.site
 telepoticu.top
+teleram914.oss-cn-hongkong.aliyuncs.com
 telerradproradis.ddns.net
 telescopeadolescence.top
 telescopeascend.top
@@ -375064,6 +375109,7 @@ tgsodeme.net
 tgtoolsservice.onrender.com
 tgujbhzxon.duckdns.org
 tgup1988.com
+tgurl.cc
 tgustwhsou.duckdns.org
 tgv.gfjut.icu
 tgvxmsdqlm.duckdns.org
@@ -377180,6 +377226,7 @@ tldrnet.top
 tle2oc.duckdns.org
 tleb5j3.duckdns.org
 tlefonkazanredmiylea1o1isbirligi.blogspot.com
+tlelga929.oss-cn-hongkong.aliyuncs.com
 tlendyol.com
 tlfaturasistemi.com
 tlfiyat.shop
@@ -377900,6 +377947,7 @@ todaystoocampaniaforseven.net
 todaywinners.net
 todayzh.sytes.net
 toddlerchronic.top
+todeskcn.com
 todfg.duckdns.org
 todidnwron.com
 todoexy.su
@@ -382401,6 +382449,7 @@ tradingprogress-online.homes
 tradingprosper.club
 tradinguzmani.info
 tradingview-beta.dev
+tradingview-en.com
 tradingview-software.com
 tradingview-software.net
 tradingview-software.org
@@ -383559,6 +383608,7 @@ transmitdisclosure.top
 transmitscornful.top
 transmitterorthodox.top
 transnet.wiki
+transocks-vpn.com
 transparencyepic.top
 transparencyhand.top
 transparencytentative.top
@@ -384164,6 +384214,7 @@ trdestekmobil.com
 trdevletkapisi.com
 trdevletyardim.site
 trdfddgf.info
+trdgh.oss-cn-hongkong.aliyuncs.com
 trdigilira.com
 trdijitaldenizcepgiris.ml
 trdijitalmobilsubemvakifbank.ml
@@ -384469,6 +384520,7 @@ trendyol-in.com
 trendyol-indirim-servisi.ml
 trendyol-kampanya-com.hesap-bilgi-giris.site
 trendyol-kampanya.com
+trendyol-kampanyali-urunler.com
 trendyol-kep-adresi-dogrulama.com
 trendyol-life.com
 trendyol-mall.xyz
@@ -393702,6 +393754,7 @@ uid.zapto.org
 uidtkrdadkaqax.com
 uieec.duckdns.org
 uietd.com
+uifdt6.oss-cn-hongkong.aliyuncs.com
 uifkd.com
 uigtzy.bond
 uiiadvertise.online
@@ -419981,6 +420034,7 @@ www-teknosa.space
 www-teknosam.online
 www-teknossa.com
 www-telegram.com
+www-telegram.org
 www-thunderblrd.top
 www-tl-xxx2.blogspot.com
 www-tmmuzfrsatay.com.tr
@@ -441546,6 +441600,11 @@ zgvjwjuhvfwdcjme.xyz
 zgwe3avu.duckdns.org
 zgx780.ddns.net
 zgxsky.com
+zh-aijiasu.com
+zh-csvpn.com
+zh-gateio.cn
+zh-mexc.com
+zh.seacdndown.com
 zh.yomobi.net
 zh49hl3a9.duckdns.org
 zh5emsa.duckdns.org
@@ -441557,6 +441616,8 @@ zhakangjuskagf-yhrsujfmndssagdfs.duckdns.org
 zhaksylyk.kz
 zhankai168.com
 zhara-festival.com
+zhcn-whatsapp.org
+zhcn.down-cdn.com
 zhcn63e63.chascerse.ru
 zhcxkgbwea.duckdns.org
 zhdbio.online
