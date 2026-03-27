@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-27 07:53:19 UTC
-# Toplam: 445358 Domain
+# Son Güncelleme: 2026-03-27 08:36:25 UTC
+# Toplam: 445375 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -66000,6 +66000,7 @@ berrokaslan.com
 berrtur.site
 berryallergic.top
 berryantagonism.top
+berrybundle.gifts
 berryhypocritical.top
 berrymealsonwheels.com
 berrywholesome.top
@@ -100493,6 +100494,7 @@ cloudhostdesign.com
 cloudhub.co.ls
 cloudimages.net
 cloudimg.my
+cloudimt.com
 cloudinewsystem.com
 cloudinfodata.com
 cloudithub.com
@@ -107041,6 +107043,7 @@ craftcrate.gifts
 craftdistillers.com
 craftfilelink.com
 craftilly.com
+craftimti.com
 craftingthefutureofdigitaldesign.store
 craftlymc.com
 craftmania.sa.com
@@ -121905,6 +121908,7 @@ digitaldonus.site
 digitaldonusum.site
 digitaldonusun.site
 digitaldoviz-acikdenizmobilbank.com
+digitaldrill.digital
 digitaldunyaparib.co.vu
 digitaldunyayasendeadiminiat.com
 digitale-sleutelskv.ddns.net
@@ -172202,7 +172206,6 @@ genfmfsestfsjstres.com
 genhgsm.com
 genhgsz.com
 genhqq.xyz
-genim.com.tr
 genimmob.online
 geninstr.army-govbd.info
 genis23bonus.b-cdn.net
@@ -237778,6 +237781,7 @@ kaompaannyaapazsrtsei.xyz
 kaompaannyasapazsasrtsei.xyz
 kaorapen.xyz
 kaos-haber.com
+kaosmuhkzuo.com
 kaosunoglu.tk
 kaotickontracting.info
 kaoyuang2.ddns.net
@@ -258320,6 +258324,7 @@ luminareie.xyz
 luminarycrest.store
 luminasoft.ddns.net
 luminaz-tr.com
+luministv.com
 luminix.kr
 luminix.openhaja.com
 luminoreye.top
@@ -264188,6 +264193,7 @@ mavininavantajindirimleri.com
 mavininsezonuseninicin.com
 maviodeme.net
 mavionline.top
+mavirekulon.com
 mavis-ble66.site
 mavis-dracula.com
 mavisepetim101zmani.com
@@ -266881,6 +266887,7 @@ messlugo.net
 messtimetabledkolvk.shop
 messtube999.info
 messviiqqq.info
+mesta.cc
 mestoxcalculator.com
 mestrecdt.hopto.org
 mesuco.com
@@ -331405,6 +331412,7 @@ roswellcheck.com.tr
 rosybasket.com
 rosybiwu.com
 rosybrown-chicken-623191.hostingersite.com
+rosybundle.gifts
 rosyconstraint.top
 rosycorporal.top
 rosyparcel.com
@@ -333906,6 +333914,7 @@ sadceyonlyeozalfrrstlar.blogdns.org
 sadcfrstlndrm.xyz
 sadchaira.top
 sadckampsd.duckdns.org
+sadcladkaslcdklasdcsa.sbs
 sadcnonlinkmo.duckdns.org
 sadconlfsdridst.blogspot.com
 sadconlna1o1kamp.duckdns.org
@@ -384374,6 +384383,7 @@ trendinapp.com
 trendingnewsnow.online
 trendinmall.top
 trendinmall.xyz
+trendisfb.com
 trendiwedfjatrndyolwiodawsk.ct.ws
 trendkiln.com
 trendkolik.site
@@ -401751,6 +401761,7 @@ vawsfcafuc.duckdns.org
 vawzbd8.duckdns.org
 vaxeludori.com
 vaxenoladir.digital
+vaxenorudil.icu
 vaxil.shop
 vaxmucr7oqz.storage.googleapis.com
 vayanambabamz1.duckdns.org
@@ -405020,6 +405031,7 @@ vintagebag.top
 vintagechecker.com.tr
 vintagechecker.xyz
 vintageredwe.xyz
+vintagereturns.com
 vinted.lat
 vinujay.com
 vinyl-stars.com
@@ -406944,6 +406956,7 @@ vregmerkez.com
 vrelastonid.digital
 vreldmrnz.blogspot.com
 vrengim.blogspot.com
+vrenodakuli.mom
 vrenokadilu.com
 vrerlelele.xyz
 vresd473-creste748.thefeistysage.su
@@ -421359,6 +421372,7 @@ www.yillik-kredi-karti-aidat-iadesi.com
 www.yitaichi.com
 www.yklud.ml
 www.ylhsklzjs.com
+www.ymwu.com
 www.ynngon.ml
 www.yomka.ml
 www.youpilot.org
@@ -423231,6 +423245,7 @@ xekjcmyaf.com
 xekqgmuhjg.duckdns.org
 xekstrafrstlrimkapinda.online
 xekstrakpidaonlne1.online
+xekudee.digital
 xekwmwsvhsebqlkab.com
 xelar.shop
 xelefatobates.xyz
@@ -432976,6 +432991,7 @@ yatirimradar.info
 yatirimradar.top
 yatirimradar.world
 yatirimradyosu.online
+yatirimraporlari.com
 yatirimraporlari.org
 yatirimraporu.info
 yatirimraporu.online
@@ -444283,6 +444299,7 @@ zoom-download.fun
 zoom-download.host
 zoom-download.space
 zoom-for-desktop.com
+zoom-meet.us
 zoom-meetings-download.com
 zoom-meetings-install.com
 zoom-pc.ru

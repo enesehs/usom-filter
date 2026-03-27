@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-27 07:53:19 UTC
-! Total: 355132 rules
+! Last modified: 2026-03-27 08:36:25 UTC
+! Total: 355149 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47833,6 +47833,7 @@
 *://*.berrtur.site/*
 *://*.berryallergic.top/*
 *://*.berryantagonism.top/*
+*://*.berrybundle.gifts/*
 *://*.berryhypocritical.top/*
 *://*.berrymealsonwheels.com/*
 *://*.berrywholesome.top/*
@@ -77277,6 +77278,7 @@
 *://*.cloudhub.co.ls/*
 *://*.cloudimages.net/*
 *://*.cloudimg.my/*
+*://*.cloudimt.com/*
 *://*.cloudinewsystem.com/*
 *://*.cloudinfodata.com/*
 *://*.cloudithub.com/*
@@ -82593,6 +82595,7 @@
 *://*.craftdistillers.com/*
 *://*.craftfilelink.com/*
 *://*.craftilly.com/*
+*://*.craftimti.com/*
 *://*.craftingthefutureofdigitaldesign.store/*
 *://*.craftlymc.com/*
 *://*.craftpopshop.com/*
@@ -94839,6 +94842,7 @@
 *://*.digitaldonusum.site/*
 *://*.digitaldonusun.site/*
 *://*.digitaldoviz-acikdenizmobilbank.com/*
+*://*.digitaldrill.digital/*
 *://*.digitaldunyayasendeadiminiat.com/*
 *://*.digitale-vakif-katilim-portal.xyz/*
 *://*.digitalexplorers.xyz/*
@@ -137111,7 +137115,6 @@
 *://*.genhgsz.com/*
 *://*.genhqq.xyz/*
 *://*.genic365.com/*
-*://*.genim.com.tr/*
 *://*.genimmob.online/*
 *://*.genisailelericinhesaplikampanyalar.cfd/*
 *://*.genisfilo.com/*
@@ -192502,6 +192505,7 @@
 *://*.kaompaannyasapazsasrtsei.xyz/*
 *://*.kaorapen.xyz/*
 *://*.kaos-haber.com/*
+*://*.kaosmuhkzuo.com/*
 *://*.kaosunoglu.tk/*
 *://*.kaotickontracting.info/*
 *://*.kap-ceple.com/*
@@ -208438,6 +208442,7 @@
 *://*.luminatesec.com/*
 *://*.luminaz-tr.com/*
 *://*.luminisconsultoria.io/*
+*://*.luministv.com/*
 *://*.luminix.kr/*
 *://*.luminix.sbs/*
 *://*.luminoreye.top/*
@@ -212713,6 +212718,7 @@
 *://*.mavininsezonuseninicin.com/*
 *://*.maviodeme.net/*
 *://*.mavionline.top/*
+*://*.mavirekulon.com/*
 *://*.mavis-ble66.site/*
 *://*.mavis-dracula.com/*
 *://*.mavisepetim101zmani.com/*
@@ -214931,6 +214937,7 @@
 *://*.messtimetabledkolvk.shop/*
 *://*.messtube999.info/*
 *://*.messviiqqq.info/*
+*://*.mesta.cc/*
 *://*.mestoxcalculator.com/*
 *://*.mesuco.com/*
 *://*.mesudababaa.net/*
@@ -265928,6 +265935,7 @@
 *://*.roswellcheck.com.tr/*
 *://*.rosybasket.com/*
 *://*.rosybiwu.com/*
+*://*.rosybundle.gifts/*
 *://*.rosyconstraint.top/*
 *://*.rosycorporal.top/*
 *://*.rosyparcel.com/*
@@ -267655,6 +267663,7 @@
 *://*.sadceozlonlnxfirsarxlar.xyz/*
 *://*.sadcfrstlndrm.xyz/*
 *://*.sadchaira.top/*
+*://*.sadcladkaslcdklasdcsa.sbs/*
 *://*.sadcta-client.co.za/*
 *://*.sadcuisine.top/*
 *://*.saddaddasdsadsabbbmmmmcelll.org/*
@@ -307145,6 +307154,7 @@
 *://*.trendingnewsnow.online/*
 *://*.trendinmall.top/*
 *://*.trendinmall.xyz/*
+*://*.trendisfb.com/*
 *://*.trendkiln.com/*
 *://*.trendkolik.site/*
 *://*.trendlerce.name.tr/*
@@ -321461,6 +321471,7 @@
 *://*.vavrava.xyz/*
 *://*.vaxeludori.com/*
 *://*.vaxenoladir.digital/*
+*://*.vaxenorudil.icu/*
 *://*.vaxil.shop/*
 *://*.vaybeknk231.xyz/*
 *://*.vaybeknks33.xyz/*
@@ -323982,6 +323993,7 @@
 *://*.vintagechecker.com.tr/*
 *://*.vintagechecker.xyz/*
 *://*.vintageredwe.xyz/*
+*://*.vintagereturns.com/*
 *://*.vinted.lat/*
 *://*.vinujay.com/*
 *://*.vinyl-stars.com/*
@@ -325475,6 +325487,7 @@
 *://*.vregm0xme.com/*
 *://*.vregmerkez.com/*
 *://*.vrelastonid.digital/*
+*://*.vrenodakuli.mom/*
 *://*.vrenokadilu.com/*
 *://*.vrerlelele.xyz/*
 *://*.vrezbq.com/*
@@ -337087,6 +337100,7 @@
 *://*.xekjcmyaf.com/*
 *://*.xekstrafrstlrimkapinda.online/*
 *://*.xekstrakpidaonlne1.online/*
+*://*.xekudee.digital/*
 *://*.xekwmwsvhsebqlkab.com/*
 *://*.xelar.shop/*
 *://*.xelefatobates.xyz/*
@@ -345474,6 +345488,7 @@
 *://*.yatirimradar.top/*
 *://*.yatirimradar.world/*
 *://*.yatirimradyosu.online/*
+*://*.yatirimraporlari.com/*
 *://*.yatirimraporlari.org/*
 *://*.yatirimraporu.info/*
 *://*.yatirimraporu.online/*
@@ -349307,6 +349322,7 @@
 *://*.ymvh8w5.xyz/*
 *://*.ymvxvpdsg.info/*
 *://*.ymwcbr.com/*
+*://*.ymwu.com/*
 *://*.ymx2267.com/*
 *://*.ymxlymeedlm.net/*
 *://*.ymxnizblw.com/*
@@ -354461,6 +354477,7 @@
 *://*.zoom-download.host/*
 *://*.zoom-download.space/*
 *://*.zoom-for-desktop.com/*
+*://*.zoom-meet.us/*
 *://*.zoom-meetings-download.com/*
 *://*.zoom-meetings-install.com/*
 *://*.zoom-pc.ru/*
