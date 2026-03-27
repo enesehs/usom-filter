@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-27 06:05:05 UTC
-! Total: 355115 rules
+! Last modified: 2026-03-27 07:53:19 UTC
+! Total: 355132 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43272,6 +43272,7 @@
 *://*.basvuru-genelge.tk/*
 *://*.basvuru-gir-iss.sbs/*
 *://*.basvuru-gir.xyz/*
+*://*.basvuru-giris.sbs/*
 *://*.basvuru-girisekrani.cfd/*
 *://*.basvuru-girisi.cf/*
 *://*.basvuru-globalfirsatkampanyasinihemenyakala.com/*
@@ -43340,11 +43341,13 @@
 *://*.basvuru-katilim.one/*
 *://*.basvuru-katilim.site/*
 *://*.basvuru-kayitlarim-gov-tr.com/*
+*://*.basvuru-kontrol.sbs/*
 *://*.basvuru-kredilerim-bbvadan.net/*
 *://*.basvuru-kredilerim-weboonay.net/*
 *://*.basvuru-kurum.online/*
 *://*.basvuru-merkezi.com/*
 *://*.basvuru-merkezi.org/*
+*://*.basvuru-merkezi.sbs/*
 *://*.basvuru-merkezi.xyz/*
 *://*.basvuru-merkeziburada.com/*
 *://*.basvuru-merkezitr.com/*
@@ -43422,6 +43425,7 @@
 *://*.basvuru-sorgulasonuc.com/*
 *://*.basvuru-sosyal-proje.com/*
 *://*.basvuru-sosyaldestek.com/*
+*://*.basvuru-talep.sbs/*
 *://*.basvuru-talepadresi.com/*
 *://*.basvuru-tamamla-com-tr.cfd/*
 *://*.basvuru-tamamla-com-tr.shop/*
@@ -64632,6 +64636,7 @@
 *://*.brighqthorizon.cyou/*
 *://*.bright.su/*
 *://*.brightalizer.info/*
+*://*.brightaris.com/*
 *://*.brightaxis.org/*
 *://*.brightbusinesspath.com/*
 *://*.brightchoiceacademy.com/*
@@ -70741,6 +70746,7 @@
 *://*.capitalcritical.top/*
 *://*.capitalearcare.com/*
 *://*.capitalestates.es/*
+*://*.capitalex.ltd/*
 *://*.capitalexchange.ae/*
 *://*.capitalexcite.top/*
 *://*.capitalfinders.org/*
@@ -141021,6 +141027,7 @@
 *://*.goderimod.top/*
 *://*.godfather33.com/*
 *://*.godhasizmir.net/*
+*://*.godia-shipping.com/*
 *://*.godiadse.cfd/*
 *://*.godiapps.cfd/*
 *://*.godigiads.com/*
@@ -147763,6 +147770,7 @@
 *://*.haberiye.site/*
 *://*.haberiye.website/*
 *://*.haberiz.shop/*
+*://*.haberizle.online/*
 *://*.haberizlek.com/*
 *://*.haberizlesene.site/*
 *://*.haberkampanyasi.com/*
@@ -175431,6 +175439,7 @@
 *://*.informativeobscurity.top/*
 *://*.informealdia.ovh/*
 *://*.informilluinate.top/*
+*://*.informlume.com/*
 *://*.inforstaytday.com/*
 *://*.infosecnow.cfd/*
 *://*.infoshoutout.com/*
@@ -220704,6 +220713,7 @@
 *://*.movil-bbva.info/*
 *://*.movil-bbva.online/*
 *://*.movil-bbva.xyz/*
+*://*.movixim.com/*
 *://*.movokold.xyz/*
 *://*.movolokko.de/*
 *://*.movolta.cfd/*
@@ -228962,6 +228972,7 @@
 *://*.nowercheck.xyz/*
 *://*.nowfatal.top/*
 *://*.nowfuturemodern.online/*
+*://*.nowheadline.online/*
 *://*.nowherededicate.top/*
 *://*.nowheretread.top/*
 *://*.nowinfotech.online/*
@@ -238607,6 +238618,7 @@
 *://*.orbitforge.space/*
 *://*.orbitintrinsically.top/*
 *://*.orbitisan.com/*
+*://*.orbitisn.com/*
 *://*.orbitont.com/*
 *://*.orbitpettystudio.fun/*
 *://*.orbivana.com/*
@@ -262135,6 +262147,7 @@
 *://*.realspeedcampaignhere.cloud/*
 *://*.realstar.co.za/*
 *://*.realteke.com/*
+*://*.realtimeecho.online/*
 *://*.realtimenews.tk/*
 *://*.realtradebot.icu/*
 *://*.realtrustcoin.com.tr/*
@@ -265676,6 +265689,7 @@
 *://*.rockybalboa.at/*
 *://*.rockylinux.si/*
 *://*.rockyndawn.com/*
+*://*.rockzone.icu/*
 *://*.rocuf.com/*
 *://*.rocxnrxwvqmtsq.info/*
 *://*.rodaxabedrnfy.life/*
@@ -290490,6 +290504,7 @@
 *://*.sube-kuvytbasvurusorgulamagiris.space/*
 *://*.sube-login.xyz/*
 *://*.sube-logjn.website/*
+*://*.sube-matriksmenkultr.com/*
 *://*.sube-matriksyatirim.com/*
 *://*.sube-matriksyatirimtr.com/*
 *://*.sube-mobil-yapikredi-tr.cf/*
@@ -297928,6 +297943,7 @@
 *://*.telekomonline-basvur.site/*
 *://*.telekomonline-basvuru.site/*
 *://*.telekomonline-fiber.site/*
+*://*.telekomonline.com.tr/*
 *://*.telekomonline.site/*
 *://*.telekomonlinebasvurusu.com/*
 *://*.telekomonlineislemler.com/*
@@ -345471,6 +345487,7 @@
 *://*.yatirimsinyal.online/*
 *://*.yatirimsirri.pro/*
 *://*.yatirimspot.online/*
+*://*.yatirimstore.store/*
 *://*.yatirimstrat.online/*
 *://*.yatirimtavsiyesi.net/*
 *://*.yatirimtera.com/*

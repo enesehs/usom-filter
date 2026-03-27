@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-27 06:05:05 UTC
-# Toplam: 445341 Domain
+# Son Güncelleme: 2026-03-27 07:53:19 UTC
+# Toplam: 445358 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -60629,6 +60629,7 @@ basvuru-garanti-bbva.com.tr
 basvuru-genelge.tk
 basvuru-gir-iss.sbs
 basvuru-gir.xyz
+basvuru-giris.sbs
 basvuru-girisekrani.cfd
 basvuru-girisi.cf
 basvuru-globalfirsatkampanyasinihemenyakala.com
@@ -60704,10 +60705,12 @@ basvuru-katilim-form.epizy.com
 basvuru-katilim.one
 basvuru-katilim.site
 basvuru-kayitlarim-gov-tr.com
+basvuru-kontrol.sbs
 basvuru-kredilerim-bbvadan.net
 basvuru-kredilerim-weboonay.net
 basvuru-kurum.online
 basvuru-merkezi.org
+basvuru-merkezi.sbs
 basvuru-merkezi.xyz
 basvuru-merkezitr.com
 basvuru-mobildenizbireysel.com
@@ -60788,6 +60791,7 @@ basvuru-sorgulasonuc.com
 basvuru-sosyal-proje.com
 basvuru-sosyaldestek.com
 basvuru-subat-giris.ip-ddns.com
+basvuru-talep.sbs
 basvuru-talepadresi.com
 basvuru-tamamla-com-tr.cfd
 basvuru-tamamla-com-tr.shop
@@ -84979,6 +84983,7 @@ bright.su
 bright1.awsmppl.com
 bright2020.hopto.org
 brightalizer.info
+brightaris.com
 brightaxis.org
 brightbusinesspath.com
 brightchoiceacademy.com
@@ -92168,6 +92173,7 @@ capitaladvisor.my
 capitalcritical.top
 capitalearcare.com
 capitalestates.es
+capitalex.ltd
 capitalexchange.ae
 capitalexcite.top
 capitalfinders.org
@@ -176971,6 +176977,7 @@ godfather33.com
 godfelix.ddns.net
 godhasizmir.net
 godhlep.ddns.net
+godia-shipping.com
 godiadse.cfd
 godiapps.cfd
 godigiads.com
@@ -184884,6 +184891,7 @@ haberiye.online
 haberiye.site
 haberiye.website
 haberiz.shop
+haberizle.online
 haberizlek.com
 haberizlesene.site
 haberkampanyasi.com
@@ -217159,6 +217167,7 @@ informer.ddns.net
 informes8520.duckdns.org
 informesespeciales201.duckdns.org
 informilluinate.top
+informlume.com
 inforosi3m.hopto.org
 inforstaytday.com
 inforverify.duckdns.org
@@ -274179,6 +274188,7 @@ movil-bbva.xyz
 movil-caixabank.ddns.net
 movingonedrivedocu.hopto.org
 movis-es.ignorelist.com
+movixim.com
 movl1.ddns.net
 movokold.xyz
 movolokko.de
@@ -285186,6 +285196,7 @@ nowercheck.com
 nowercheck.xyz
 nowfatal.top
 nowfuturemodern.online
+nowheadline.online
 nowhere-locked-manor-hs.trycloudflare.com
 nowherededicate.top
 nowheretread.top
@@ -297000,6 +297011,7 @@ orbitercodistancethe.com
 orbitforge.space
 orbitintrinsically.top
 orbitisan.com
+orbitisn.com
 orbitont.com
 orbitpettystudio.fun
 orbitstack-app318.vercel.app
@@ -326374,6 +326386,7 @@ realtek31.ddns.net
 realteke.com
 realtekhoster.ddns.net
 realteks.gjdredj.com
+realtimeecho.online
 realtimenews.tk
 realtradebot.icu
 realtrustcoin.com.tr
@@ -331045,6 +331058,7 @@ rocksv.com
 rocky-bolbao.cfd
 rockybalboa.at
 rockyndawn.com
+rockzone.icu
 rocosacloud.ddns.net
 rocqcff.duckdns.org
 rocuf.com
@@ -364044,6 +364058,7 @@ sube-kuvytbasvurusorgulamagiris.site
 sube-kuvytbasvurusorgulamagiris.space
 sube-login.xyz
 sube-logjn.website
+sube-matriksmenkultr.com
 sube-matriksyatirim.com
 sube-matriksyatirimtr.com
 sube-mobil-yapikredi-tr.cf
@@ -373172,6 +373187,7 @@ telekomnumaratasima.net
 telekomonline-basvur.site
 telekomonline-basvuru.site
 telekomonline-fiber.site
+telekomonline.com.tr
 telekomonline.site
 telekomonlinebasvurusu.com
 telekomonlineislemler.com
@@ -432973,6 +432989,7 @@ yatirimsesleri.org
 yatirimsinyal.online
 yatirimsirri.pro
 yatirimspot.online
+yatirimstore.store
 yatirimstrat.online
 yatirimtavsiyesi.net
 yatirimtera.com
