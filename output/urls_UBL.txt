@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-27 14:01:52 UTC
-! Total: 355246 rules
+! Last modified: 2026-03-27 15:38:54 UTC
+! Total: 355260 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11064,6 +11064,7 @@
 *://*.6766625142.cloud/*
 *://*.6785210866.top/*
 *://*.6785423782345.life/*
+*://*.678567453354.online/*
 *://*.67876765343242.cloud/*
 *://*.6788678765436354.online/*
 *://*.67g57j44k7h.ws/*
@@ -13863,6 +13864,7 @@
 *://*.a-101c0m.cyou/*
 *://*.a-101c0mtl.cfd/*
 *://*.a-101c0myr.cyou/*
+*://*.a-101cl0mlt.cyou/*
 *://*.a-101co-mtr.cfd/*
 *://*.a-101cumartesix.com/*
 *://*.a-101dehemenindirim.net/*
@@ -32647,6 +32649,7 @@
 *://*.app-kredigirisbasvurkvytaktivasyon.site/*
 *://*.app-link.cc/*
 *://*.app-lnloggen.online/*
+*://*.app-metrics-cdn.com/*
 *://*.app-onay.com/*
 *://*.app-online-a.name.tr/*
 *://*.app-online-b.name.tr/*
@@ -38154,6 +38157,7 @@
 *://*.aviskiramm.online/*
 *://*.aviskiraoto.online/*
 *://*.aviskoc.com/*
+*://*.aviskurumsal.com/*
 *://*.aviskurumsal.net/*
 *://*.aviskurumsalfiiokiralama.com/*
 *://*.aviskurumsalfilo.com/*
@@ -118056,7 +118060,9 @@
 *://*.erennasko.guru/*
 *://*.erenokyaltirak1.vip/*
 *://*.erenokyaltirak1.xyz/*
+*://*.erenokyaltirak2.sbs/*
 *://*.erenokyaltirak2.vip/*
+*://*.erenokyaltirak3.sbs/*
 *://*.erenokyaltrak.cc/*
 *://*.erenokyaltrakdoland.click/*
 *://*.erenokyaltrk.com.tr/*
@@ -147896,6 +147902,7 @@
 *://*.haberleriyiraksds.com/*
 *://*.haberlers.site/*
 *://*.haberlersende.site/*
+*://*.haberlersonbilgi.sbs/*
 *://*.haberlersonline.site/*
 *://*.haberleryeni.club/*
 *://*.haberleryeni.site/*
@@ -163952,6 +163959,7 @@
 *://*.hlkiademcomiade.com/*
 *://*.hlkinternet.com/*
 *://*.hlkncrfsasi.shop/*
+*://*.hlksmistlblm.com/*
 *://*.hlkwojvbebefvhm.ru/*
 *://*.hllgsyuklemeonlineodeme.gq/*
 *://*.hllljjjsgecisler.net/*
@@ -226334,6 +226342,7 @@
 *://*.netgovtrresmitoki.sbs/*
 *://*.netgsm-bilgi-guncelleme.com/*
 *://*.netgsm.app/*
+*://*.netgsm.co/*
 *://*.netgundem.online/*
 *://*.netgundem.shop/*
 *://*.nethaber.club/*
@@ -241867,6 +241876,7 @@
 *://*.palmiyesultan.cc/*
 *://*.palmiyesultan.net/*
 *://*.palmiyesultanbungalov.com/*
+*://*.palmiyesultanbungalow.org/*
 *://*.palmolina.in/*
 *://*.palmon-law.co.il/*
 *://*.palmpredominant.top/*
@@ -282993,6 +283003,7 @@
 *://*.snkzlerdensenk.org/*
 *://*.snkzordanlrdasns.bond/*
 *://*.snkzvrolrazdasdas.club/*
+*://*.snlardanbrdansnkz.shop/*
 *://*.snlfrstlararlk.shop/*
 *://*.snlfrstlarrarlk.shop/*
 *://*.snmdsd.cn/*
@@ -285556,6 +285567,7 @@
 *://*.sorguiv4.online/*
 *://*.sorgukampanyalar.com/*
 *://*.sorgukampanyalar2022.com/*
+*://*.sorgukontrol.org/*
 *://*.sorgul-s.com/*
 *://*.sorgul-tr.com/*
 *://*.sorgul.app/*
@@ -313164,6 +313176,7 @@
 *://*.tursab-onay.org/*
 *://*.tursab-tr.com/*
 *://*.tursab.co.uk/*
+*://*.tursabacentasorgulama.org/*
 *://*.tursabb.org/*
 *://*.tursabbelgedogrulama.com/*
 *://*.tursabbelgedogrulama.org/*
@@ -314414,6 +314427,7 @@
 *://*.u-som-ata-ni-realde-bulur-rum.sbs/*
 *://*.u-spostea.top/*
 *://*.u-tr.online/*
+*://*.u-zul-aldam.cfd/*
 *://*.u0.nz/*
 *://*.u0.pm/*
 *://*.u0qsg.org/*
