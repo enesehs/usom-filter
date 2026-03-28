@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-28 04:06:54 UTC
-# Toplam: 445560 Domain
+# Son Güncelleme: 2026-03-28 05:52:57 UTC
+# Toplam: 445567 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -64677,6 +64677,7 @@ bdkwebavist.sbs
 bdkymj.top
 bdkymz.top
 bdkzwhs.com
+bdl55polisi155.online
 bdlpxhzgulq.top
 bdluwdzorn.duckdns.org
 bdlwi4s.duckdns.org
@@ -92836,6 +92837,7 @@ carkgiveaway-trky.com
 carkhavuzusizlereozel.cloud
 carkhediyecamdaybsvuru.net
 carkhediyeleri.info
+carkhediyeleri54454546263.duckdns.org
 carkhediyesi.com.tr
 carkhediyesidaybsvuru.net
 carki-cevir-hediyeni-topla.com
@@ -181374,11 +181376,14 @@ guncelsikayetler-33.sbs
 guncelsikayetler-34.sbs
 guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
+guncelsikayetler-61.sbs
 guncelsikayetler-62.sbs
+guncelsikayetler-63.sbs
 guncelsikayetler-64.sbs
 guncelsikayetler-657.sbs
 guncelsikayetler-658.sbs
 guncelsikayetler-659.sbs
+guncelsikayetler-66.sbs
 guncelsikayetler-667.sbs
 guncelsikayetler-7.sa.com
 guncelsikayetler-71.sbs
@@ -271741,6 +271746,7 @@ mobile-onlinesube-teb-tr.cf
 mobile-onlinesube-teb.cf
 mobile-ozel-islemleri.xyz
 mobile-ozel-kampanya.online
+mobile-ozel-online-sepet-tr.site
 mobile-paribudogecoinhediyeleri-basvuru-com.tk
 mobile-paylas.com.tr
 mobile-payment.shop
@@ -293102,6 +293108,7 @@ online-ozel-kanpanya101.com.tr
 online-ozel-kanpanyaa10-1.com
 online-ozel-kmpnyalar.cfd
 online-ozel-market.net
+online-ozel-mobil-sepet-tr.site
 online-ozel-mutfakk-araclaritr.net
 online-ozel-sepet.xyz
 online-ozel.gtxsa-host.pw
