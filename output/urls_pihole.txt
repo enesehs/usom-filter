@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-29 07:42:51 UTC
-# Toplam: 445683 Domain
+# Son Güncelleme: 2026-03-29 08:26:19 UTC
+# Toplam: 445689 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -127498,6 +127498,7 @@ drawntocolour.com
 drawntornado.xyz
 drawtribune.top
 draxenovilu.com
+draxenovilu.mom
 draxionhq.shop
 drbakim.name.tr
 drbednz.duckdns.org
@@ -263372,6 +263373,7 @@ marketmegadeals.com
 marketmerkezi.online
 marketmodern-homes.sbs
 marketmoves.online
+marketnest.tr
 marketonline.gtxapixo.ru.com
 marketonlinea.com
 marketonlinec.com
@@ -332463,6 +332465,7 @@ rusfinansbank.info
 rusha.wtf
 rushaccess.site
 rushdisregard.top
+rushhhworks.com
 rushhike.com
 rushhstart.com
 rushi.claysrat.top
@@ -340911,6 +340914,7 @@ saveonoffers.com
 saveprojectfile.ddns.net
 savethebestforhass.com
 savetibet.internetdocss.com
+savetolirun.icu
 savezmeet.com
 savgptforchrome.pro
 savingdread.top
@@ -371846,6 +371850,7 @@ teachingamiable.top
 teachingbutter.info
 teachingnutient.top
 teachingsound.xyz
+teachpro.icu
 teachreren.click
 teachsolo.top
 teachtl.digital
@@ -390207,6 +390212,7 @@ turkiyebankalarbirligiaidatmerkezigovtr.com
 turkiyebankasi.ffox.site
 turkiyebankasi.online
 turkiyebankasi.online-acess.com
+turkiyebankasionline.com
 turkiyebankisi.net
 turkiyebaraka.com
 turkiyebasvuru.com
