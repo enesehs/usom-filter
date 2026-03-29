@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-29 04:26:05 UTC
-# Toplam: 445666 Domain
+# Son Güncelleme: 2026-03-29 06:04:47 UTC
+# Toplam: 445681 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -52682,6 +52682,7 @@ atlasmomentous.top
 atlasnode-app204.vercel.app
 atlasnode-ext957.vercel.app
 atlaspanel.store
+atlasripple.com
 atlast.ddns.net
 atlaswebportal.zapto.org
 atledicrv.com
@@ -63160,6 +63161,7 @@ bayrama-geliyor-mutlu-olun-burada.com
 bayrama-gidiyoruz-dediniz-mutlu-ettik.com
 bayrama-girdik-herkes-burada-mutlu.com
 bayrama-onli-kampis.b-24.de
+bayrama-ozel-kampanya.one
 bayrama-ozel-olarak-gelen-urunler.com
 bayrama-ozelvakf.cfd
 bayrama-ozelvakf.click
@@ -76214,6 +76216,7 @@ bitscrunch.zapto.org
 bitscrunnch.run.place
 bitsiiinbetibetsatislari.com
 bitsopanel.duckdns.org
+bitsparkan.com
 bitspiritfun2.net
 bitstamp.tv
 bitstorma.com
@@ -136002,6 +136005,7 @@ eastr.ddns.net
 eastrandmotorlab.co.za
 eastsea.or.kr
 easttrack.net
+eastworld.biz
 eastzonentp.com
 easxzs00f.app
 easy-blue-tick.surge.sh
@@ -171586,6 +171590,7 @@ gelall360iade.app
 gelartikltfenozledmseni.online
 gelaseaekwrq.fit
 gelatinate.com
+gelator1.nicepage.io
 gelatosg.com
 gelbaanawe.click
 gelbasvuralim.sbs
@@ -232483,6 +232488,7 @@ jowinjoinery.icu
 jowwalkingvs.host
 joyangudole.click
 joyanolog.ml
+joybundle.gifts
 joycarskiralama.com
 joycebyers.club
 joyclasses.eu
@@ -255613,6 +255619,7 @@ listentrillion.top
 listercvnh.zapto.org
 listetin.club
 listfoo.org
+listingmetric.com
 listmerkez.xyz
 listospordi.duckdns.org
 listtem.22web.org
@@ -255860,6 +255867,7 @@ liwuxf.duckdns.org
 lix1i0.duckdns.org
 lixan.sbs
 lixar.top
+lixev.cyou
 lixland.net
 lixompto.ddns.net
 lixsine.com
@@ -301186,6 +301194,7 @@ paleshrubbery.top
 palestrand.top
 paletolife.com
 paletsirih.com
+palevioletred-seahorse-695827.hostingersite.com
 paley.zapto.org
 palifaxbul.com
 palikyu.ml
@@ -312682,6 +312691,7 @@ prawinzinbil66.clienteasciendig.world
 prawinzinbil66.clienteascindig.world
 prawze.top
 praxemolinu.mom
+praxenolavi.icu
 praxlonfire73.live
 praxont.com
 prayag.online
@@ -351375,10 +351385,12 @@ silkargranit.online
 silkarstone.gr
 silkarstone.uk
 silkayyetvar.ml
+silkbase.org
 silkglobe.com
 silkhumiliate.top
 silkrepress.top
 silktennis.top
+silkview.tech
 silkycow.pw
 silkyjack.top
 sillldkisteaqq.com
@@ -359120,6 +359132,7 @@ sotrmarket.info.tr
 sotrmarket.net.tr
 sotrmarket.org.tr
 sotrmldzwx.duckdns.org
+sotunelari.com
 sou-incirerator.com
 soubhi1998.ddns.net
 soucdtevoceumcuzao.duckdns.org
@@ -441525,6 +441538,7 @@ zenkogroup.com
 zenkora2.sbs
 zenlife.sbs
 zenlod.com
+zenlore.biz
 zenmrktingsnl.shop
 zenmsfhm.zapto.org
 zennabe.com
@@ -441560,6 +441574,7 @@ zentrivo.site
 zentroxio.pro
 zenvalis.site
 zenvorra.store
+zenwise.biz
 zenzen15.ddns.net
 zeozfqcekqhw.com
 zep0de.com
