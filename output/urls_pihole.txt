@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-29 21:23:11 UTC
-# Toplam: 445746 Domain
+# Son Güncelleme: 2026-03-29 22:23:03 UTC
+# Toplam: 445760 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -8987,6 +8987,7 @@
 2154103321.cloud
 2155455552545215.cloud
 215641-008.com
+2159175145.cloud
 215e892944d4.com
 216-9-224-134.plesk.page
 2161262754754325.buzz
@@ -41475,6 +41476,7 @@ aldin-aldinn.com.tr
 aldin-aldinn.net
 aldin-aldins.com.tr
 aldin-cay-firsatlari.net
+aldin-cay-paketi.com
 aldin-cepte.com.tr
 aldin-ekstra.biz.tr
 aldin-ekstra.info.tr
@@ -42149,6 +42151,7 @@ alessioborzuola.com
 alestacan.duckdns.org
 aleter.ae
 aletsetlerindef.com
+alettakimlariyapimarkethirdavat.sbs
 aleum11.hopto.org
 aleviturkler.com
 alevsdvdsglk-bs.net
@@ -43356,6 +43359,7 @@ almahasouq.com
 almahy.ae
 almakicinsonfirsat.icu
 almalehonest44.xyz
+almalialsivrs.biz
 almalifescience.com
 almalisiniade.com.tr
 almalisiniade.online
@@ -49867,6 +49871,7 @@ arastir.sbs
 arasua.click
 arateklifalsiqorta.com.tr
 aratmans.sbs
+aratmansza.sbs
 aratsss.com
 arauas.com
 araucahkbm.live
@@ -95983,6 +95988,7 @@ ceptekiaidat.com
 ceptekifirsatimsokta.shop
 ceptekimagazamsokta.shop
 ceptekimobilfirsatlarineylulayinda.click
+ceptekisalt-spnsor-tr.site
 ceptekrc.com.tr
 ceptekrc.net.tr
 ceptekrc.org.tr
@@ -146559,6 +146565,7 @@ enmutlukapsamlarsizdengeldi.com
 enn.aralikyilsonubasvurulari-prokampanyasi.com
 ennaeir.icu
 ennamehost.xyz
+ennderine.blogspot.com
 enne.zapto.org
 ennghhomefirrstlariilekapidakcmzzzz.mooo.com
 ennghlshomefirrstlariilekapidakcmzzzz.mooo.com
@@ -146569,6 +146576,7 @@ ennngzl-zamanlar-sizlericin.com
 ennnnngzl-zamanlar-sizlericin.com
 ennnnnnnnn.net
 ennnvxxyy-msynnssmxasall.net
+ennnzelt.dns.navy
 ennpara-hediye.com
 ennpara-hediyem.com
 ennpara-hediyesi.com
@@ -159451,6 +159459,7 @@ firsat-aylari-geldi.shop
 firsat-aylari-yine-geldi.shop
 firsat-aylari-yinegeldi.shop
 firsat-baharlari-burada.cyou
+firsat-baharlari-burada.sbs
 firsat-basladiaktifbasvur.b-cdn.net
 firsat-basvurudenizacikmobildeniz.com
 firsat-basvurudenizmobil.com
@@ -253077,6 +253086,7 @@ laraexprodgcscsme.net
 laraibgroup.com
 larainsaat.hazirsite.pro
 larakunduhotelleri.ml
+laranas.sbs
 laraningcslufyani.net
 laratikonajalodasa.top
 larbidousement.zapto.org
@@ -353353,6 +353363,7 @@ sizisevenler.cfd
 sizistenizbizyaptikvkf.com
 sizistersenizherseyolur.tech
 sizisteyinbizyapalim.tech
+siziterminatoryapacamterminatorrrrrr.sbs
 sizizlemeyebizfirsatsunmayadevamediyoruz.shop
 sizkimsinizyaaa.app
 sizldbe-brudsaa-aldin-aldin.com
@@ -368966,6 +368977,8 @@ takilanyonetiler.xyz
 takilmam.xyz
 takim-setleri-tr.click
 takimaletindirimibasladi.com
+takimaletlerindesinirlisayilar.sbs
+takimaletleriyapimarkethirdavat.sbs
 takimcantasi62.vip
 takimcantasiindirimi.sbs
 takimcantasiseri.xyz
@@ -374629,6 +374642,7 @@ ter3535sss.epizy.com
 ter4363634634.dpdns.org
 terab.retalonx.com
 terac-anexstry.ddns.net
+teracan2321sonca.cfd
 teracom.co.id
 teradik-odeme.com
 terae-lumiere.com
