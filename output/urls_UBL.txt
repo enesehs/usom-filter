@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-30 17:42:28 UTC
-! Total: 355792 rules
+! Last modified: 2026-03-30 18:42:19 UTC
+! Total: 355802 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1739,6 +1739,7 @@
 *://*.101siparisver.shop/*
 *://*.101sizlere-ozelsabah.com/*
 *://*.101smarketuygun.com/*
+*://*.101sokflrsatlar.com/*
 *://*.101songunsonfirsat.com.tr/*
 *://*.101songunsonfirsat.xyz/*
 *://*.101sonstok-karaca.sbs/*
@@ -65293,6 +65294,7 @@
 *://*.bsrekrani.net/*
 *://*.bsrfehi.com/*
 *://*.bsrtangrsfa.net/*
+*://*.bsruvulara.online/*
 *://*.bsrv-konut-t-o-k-i.click/*
 *://*.bsrv-konut.click/*
 *://*.bsrv-konut.life/*
@@ -113210,6 +113212,7 @@
 *://*.ekimurunlerionlineozelurunlerimiz.com/*
 *://*.ekimvakifkrdinizy.xyz/*
 *://*.ekimvsmvltafrst.online/*
+*://*.ekincimenkuldegerler.com/*
 *://*.ekinokss.name.tr/*
 *://*.ekinvakfi.site/*
 *://*.ekip09freeavie.org/*
@@ -117196,6 +117199,7 @@
 *://*.entvhaber.online/*
 *://*.entvhaber.site/*
 *://*.entvhaber.xyz/*
+*://*.entyaceaesan.cfd/*
 *://*.entyensktekliflernbrs.store/*
 *://*.enucuz101burada.com.tr/*
 *://*.enucuz101burada.online/*
@@ -143165,6 +143169,7 @@
 *://*.grbets55.com/*
 *://*.grbnva.shop/*
 *://*.grbtiprmsynnfrstlrlri.com/*
+*://*.grceklerdenrde.cfd/*
 *://*.grckinsangrckdost.site/*
 *://*.grclno-flirem-tery.icu/*
 *://*.grcoyntclr.com/*
@@ -200727,6 +200732,7 @@
 *://*.kontrolyapiliyor.com/*
 *://*.kontrolyuklemebayi.com/*
 *://*.kontroyuklehemen.xyz/*
+*://*.kontrscan.cfd/*
 *://*.kontt.click/*
 *://*.konturbayimiz.shop/*
 *://*.konturgsmservisi.com/*
@@ -206749,6 +206755,7 @@
 *://*.linksafe.life/*
 *://*.linksammosupply.com/*
 *://*.linksbit.com/*
+*://*.linkskislatma-tr.sbs/*
 *://*.linksmobil.com/*
 *://*.linksome.me/*
 *://*.linksorgula.online/*
@@ -244125,6 +244132,7 @@
 *://*.paramguvende.dev/*
 *://*.paramguvende.gq/*
 *://*.paramguvende.link/*
+*://*.paramguvende.my/*
 *://*.paramguvende.net/*
 *://*.paramguvende.online/*
 *://*.paramguvende.pro/*
@@ -275633,6 +275641,7 @@
 *://*.sepette-onayli.com.tr/*
 *://*.sepette-online.com.tr/*
 *://*.sepette-satinal.com/*
+*://*.sepette-shop-online.rest/*
 *://*.sepette-tr.com/*
 *://*.sepette-urunum.com.tr/*
 *://*.sepette101.online/*
@@ -351882,6 +351891,7 @@
 *://*.yzbirilekolaysiparis.com/*
 *://*.yzbirkapiinndakcrma.com/*
 *://*.yzbirklimafirsatii.com/*
+*://*.yzbironlnemarkt.cfd/*
 *://*.yzbirsanalmarkt1.xyz/*
 *://*.yzbirsnlk-kmpynleraslk.xyz/*
 *://*.yzbngpf.com/*
