@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-30 12:45:40 UTC
-! Total: 355750 rules
+! Last modified: 2026-03-30 14:23:43 UTC
+! Total: 355765 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -59728,6 +59728,7 @@
 *://*.blogsbelievebiggest.com/*
 *://*.blogseninblog.com/*
 *://*.blogsite.org/*
+*://*.blogsjust.shop/*
 *://*.blogsky.com/*
 *://*.blogspot.be/*
 *://*.blogspot.com.cy/*
@@ -74687,6 +74688,7 @@
 *://*.cezadavalariniz.com/*
 *://*.cezadavam.com/*
 *://*.cezadenetimbirim.online/*
+*://*.cezadosya.net/*
 *://*.cezadosyalari.com/*
 *://*.cezadosyasiiportal.com/*
 *://*.cezadosyasiiuzlasma.com/*
@@ -77247,6 +77249,7 @@
 *://*.clkkjprmsnynnkmpnyaa.art/*
 *://*.clkkjprmsnynnkmpnyaa.xyz/*
 *://*.clkockarclklasklscklacsadcs.online/*
+*://*.clksaclakx3241x.sbs/*
 *://*.clksrg.online/*
 *://*.cllbguhxggwd.tech/*
 *://*.clmcokprana.net/*
@@ -161949,6 +161952,7 @@
 *://*.hizli-finans.info/*
 *://*.hizli-firsat.online/*
 *://*.hizli-form.online/*
+*://*.hizli-gec.app/*
 *://*.hizli-gecis-ihlali.shop/*
 *://*.hizli-gecis-ist.shop/*
 *://*.hizli-gecis-sistemi.info/*
@@ -182329,6 +182333,7 @@
 *://*.istanbuluncanavari.com/*
 *://*.istanbulungucu.com/*
 *://*.istanbulunguvercinleri.shop/*
+*://*.istanbulunmetrosu.com/*
 *://*.istanbulunsizlerindenhab.shop/*
 *://*.istanbuluntarifleri.com/*
 *://*.istanbulunyasinatasoyu.net/*
@@ -234325,6 +234330,7 @@
 *://*.onbirtemmuz.com/*
 *://*.onbjl.com/*
 *://*.onbkmpnyaprmsynnn.info/*
+*://*.onbkmpnyaprmsynnn.live/*
 *://*.onbkmpnyaprmsynnn.pro/*
 *://*.onbwvvughjqdrwn.cn/*
 *://*.oncameraworkout.com/*
@@ -235526,6 +235532,7 @@
 *://*.online-kartodemeleri-hizmet-portal.tk/*
 *://*.online-katilim.one/*
 *://*.online-kayitwebing.xyz/*
+*://*.online-kgm.com/*
 *://*.online-kgm.net/*
 *://*.online-kirala.cf/*
 *://*.online-kirala.ml/*
@@ -235739,6 +235746,7 @@
 *://*.online-satis-gerec-tr.cfd/*
 *://*.online-satis-islemlerim.com/*
 *://*.online-satis-islerimlerim.com/*
+*://*.online-satis-satici.com/*
 *://*.online-satis.com.tr/*
 *://*.online-satisa-ozel.com/*
 *://*.online-satislar.click/*
@@ -249478,6 +249486,7 @@
 *://*.piranno12.site/*
 *://*.piranteach.online/*
 *://*.piranteclh.com/*
+*://*.pirantlech.com/*
 *://*.pirasokureta.top/*
 *://*.piratashost.top/*
 *://*.pirateappraisal.top/*
@@ -256007,6 +256016,7 @@
 *://*.pttgoop.top/*
 *://*.pttgooq.top/*
 *://*.pttgoouv.site/*
+*://*.pttgoov-tr.hair/*
 *://*.pttgoovesdfq-tr.top/*
 *://*.pttgoovj.top/*
 *://*.pttgoovk.top/*
@@ -259004,6 +259014,7 @@
 *://*.qnb-iade2018.com/*
 *://*.qnb-ifinansbank.com/*
 *://*.qnb-international.com/*
+*://*.qnb-islem-guvende.life/*
 *://*.qnb-islemler-basvurular.life/*
 *://*.qnb-islemler-bilgiler.life/*
 *://*.qnb-islemler.online/*
@@ -276239,6 +276250,7 @@
 *://*.servismobil.xyz/*
 *://*.servismusterihizmeti.com/*
 *://*.servisn-mobilin.com/*
+*://*.servisnlink.com/*
 *://*.servisofsistemlogingirisinfosystemdemocrasy.com/*
 *://*.servisonayonline.top/*
 *://*.servispakettlyuklemeyeriservisi.org/*
@@ -281185,6 +281197,7 @@
 *://*.siqurtamerkez.com.tr/*
 *://*.siraatbank.com/*
 *://*.sirabeklem.com/*
+*://*.sirabeklemeden.net/*
 *://*.sirabeklemedens.online/*
 *://*.sirabeklemeyiniz.online/*
 *://*.sirabeklemi.com/*
@@ -283974,6 +283987,7 @@
 *://*.soka-gela2l-kacirma1aadd34.cfd/*
 *://*.sokaginmeselesi.pro/*
 *://*.sokakdadostlar.com/*
+*://*.sokakfirsatlari.store/*
 *://*.sokakhayvanlarinadestek.com/*
 *://*.sokakhayvanlarinadestektr.com/*
 *://*.sokaklaraktiv.shop/*
@@ -298278,6 +298292,7 @@
 *://*.tektiksiqqqorta.site/*
 *://*.tektipdnz.site/*
 *://*.tektipwp.site/*
+*://*.tektlklaevlnegellr.com/*
 *://*.tektokat.cfd/*
 *://*.tektokiilkevimgovtr.com/*
 *://*.tektonit.ru/*

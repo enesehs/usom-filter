@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-30 12:45:40 UTC
-# Toplam: 446037 Domain
+# Son Güncelleme: 2026-03-30 14:23:43 UTC
+# Toplam: 446056 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -79232,6 +79232,7 @@ blogsalihe.cfd
 blogsalmon.top
 blogsbelievebiggest.com
 blogseninblog.com
+blogsjust.shop
 blogsmile.ru.com
 blogstat355.xyz
 blogstatserv25.xyz
@@ -96785,6 +96786,7 @@ cezadavalarin.com
 cezadavalariniz.com
 cezadavam.com
 cezadenetimbirim.online
+cezadosya.net
 cezadosyalari.com
 cezadosyasiiportal.com
 cezadosyasiiuzlasma.com
@@ -100405,6 +100407,7 @@ clkkjprmsnynnkmpnyaa.xyz
 clkockarclklasklscklacsadcs.online
 clkrbrdanynlnrsnz.mooo.com
 clkrdansnkzlerdsns.mooo.com
+clksaclakx3241x.sbs
 clksrg.online
 clku6z2.duckdns.org
 cllbguhxggwd.tech
@@ -198795,6 +198798,7 @@ hgsnonlneodem.net
 hgsnow.com
 hgsnowguvenli.com
 hgsnzkgmkarylbrcz.ddnsgeek.com
+hgsnzkgmkarylbrczz.ddnsgeek.com
 hgsoceodemce.net
 hgsodcfc.net
 hgsode.com
@@ -201050,6 +201054,7 @@ hizli-finans.info
 hizli-firsat-baslasi.b-cdn.net
 hizli-firsat.online
 hizli-form.online
+hizli-gec.app
 hizli-gecis-ihlali.shop
 hizli-gecis-ist.shop
 hizli-gecis-sistemi.info
@@ -225271,6 +225276,7 @@ istanbulumut.online
 istanbuluncanavari.com
 istanbulungucu.com
 istanbulunguvercinleri.shop
+istanbulunmetrosu.com
 istanbulunsizlerindenhab.shop
 istanbuluntarifleri.com
 istanbuluntarihi.myshopify.com
@@ -244106,6 +244112,7 @@ kilometreislemleriniz.web.app
 kilometreislemptt.web.app
 kilometreislemxleri.com
 kilometreislmlrnzz.web.app
+kilometreiziniz.web.app
 kilometrekanirtan.cfd
 kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
@@ -272398,6 +272405,7 @@ mobilgirisler-paribudogecoinhediyebasvurusu-com.tk
 mobilgirisler.com
 mobilgirisleribnetr.com
 mobilgirislerimizsizlerle.blogspot.com
+mobilgirislerimonline.sbs
 mobilgirisleriniz.com
 mobilgirislerivakifkampanya.co.vu
 mobilgirisnakdmafdmzc.com.tr
@@ -292073,6 +292081,7 @@ onbirodeme.tk
 onbirtemmuz.com
 onbjl.com
 onbkmpnyaprmsynnn.info
+onbkmpnyaprmsynnn.live
 onbkmpnyaprmsynnn.pro
 onbonline.mefound.com
 onbwvvughjqdrwn.cn
@@ -293356,6 +293365,7 @@ online-kartdolum.online
 online-kartodemeleri-hizmet-portal.tk
 online-katilim.one
 online-kayitwebing.xyz
+online-kgm.com
 online-kgm.net
 online-kirala.cf
 online-kirala.ml
@@ -293578,6 +293588,7 @@ online-satis-avm.store
 online-satis-gerec-tr.cfd
 online-satis-islemlerim.com
 online-satis-islerimlerim.com
+online-satis-satici.com
 online-satis.com.tr
 online-satis.ru.com
 online-satisa-ozel.com
@@ -309908,6 +309919,7 @@ piranltech.com
 piranno12.site
 piranteach.online
 piranteclh.com
+pirantlech.com
 pirasokureta.top
 pirata-88.zapto.org
 piratashost.top
@@ -318181,6 +318193,7 @@ pttgooktrr.top
 pttgoop.top
 pttgooq.top
 pttgoouv.site
+pttgoov-tr.hair
 pttgoovesdfq-tr.top
 pttgoovj.top
 pttgoovk.top
@@ -321979,6 +321992,7 @@ qnb-iade2018.com
 qnb-iadelerimgiris.duckdns.org
 qnb-ifinansbank.com
 qnb-international.com
+qnb-islem-guvende.life
 qnb-islemiadeler-girisgovtr.duckdns.org
 qnb-islemiadeleri-giris.duckdns.org
 qnb-islemler-basvurular.life
@@ -335863,6 +335877,7 @@ sahibinden-get.satis-tr.online
 sahibinden-get.satislarim-odeme-servisi.com
 sahibinden-get.servis-emobilim.com
 sahibinden-get.servisn-mobilin.com
+sahibinden-get.servisnlink.com
 sahibinden-get.shop
 sahibinden-get.sipariis.com.tr
 sahibinden-get.site
@@ -345744,6 +345759,7 @@ senneymissinbeabi.cyou
 sennn.duckdns.org
 sennorion.com
 seno.ddns.net
+senoldomurcuksaglikgovtr.weebly.com
 senoldunvale.sbs
 senolmazsan-olmaz.com
 senordanatlayadurbebek.tk
@@ -352817,6 +352833,7 @@ siqqrrtatamir.pw
 siqurtam.com.tr
 siqurtamerkez.com.tr
 sirabeklem.com
+sirabeklemeden.net
 sirabeklemedens.online
 sirabeklemeyiniz.online
 sirabeklemi.com
@@ -356189,6 +356206,7 @@ soka-gela2l-kacirma1aadd34.cfd
 sokaciklamalar-12-05.o-oo.vip
 sokaginmeselesi.pro
 sokakdadostlar.com
+sokakfirsatlari.store
 sokakhayvanlarinadestek.com
 sokakhayvanlarinadestektr.com
 sokaklar-kotudur.weaselcoempt.cfd
@@ -373495,6 +373513,7 @@ tektikonlineislem.net
 tektiksiqqqorta.site
 tektipdnz.site
 tektipwp.site
+tektlklaevlnegellr.com
 tektokat.cfd
 tektokiilkevimgovtr.com
 tekuran.com
