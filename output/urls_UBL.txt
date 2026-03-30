@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-30 14:23:43 UTC
-! Total: 355765 rules
+! Last modified: 2026-03-30 15:57:43 UTC
+! Total: 355787 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -16967,6 +16967,7 @@
 *://*.acdem.bond/*
 *://*.acden-bzden.online/*
 *://*.acdhgss.com/*
+*://*.acdkx324lkaxdas.sbs/*
 *://*.acdm.online/*
 *://*.acdserv.com/*
 *://*.ace-check.com/*
@@ -26632,6 +26633,7 @@
 *://*.aktle-de-mvi-frsst.site/*
 *://*.aktlehzmetonlppzr.cfd/*
 *://*.aktlenbykmrkzn.cfd/*
+*://*.aktlindrmgnlerideyfj.cfd/*
 *://*.aktlindrmgnlerideyz.cfd/*
 *://*.aktlindrmxyz.com/*
 *://*.aktll-xmrlktfirstlrylli.net/*
@@ -48388,6 +48390,7 @@
 *://*.bexcsmked.com/*
 *://*.bexenh.fyi/*
 *://*.bexipa.com/*
+*://*.bexir.sbs/*
 *://*.bexloroon.com/*
 *://*.beyapikredi.com/*
 *://*.beyaz-corapli-tayt.com/*
@@ -68483,6 +68486,7 @@
 *://*.buyumuyuhuhudada.site/*
 *://*.buyvault.shop/*
 *://*.buyviagraoverthecounterusabb.net/*
+*://*.buyvista.tr/*
 *://*.buyweatherstriponline.com/*
 *://*.buyzkmp.site/*
 *://*.buyzkmp.store/*
@@ -72704,6 +72708,7 @@
 *://*.cebimdefinans.club/*
 *://*.cebimdefirsttsok.com/*
 *://*.cebimdeki-tebim.com/*
+*://*.cebimdekifirsatim.com/*
 *://*.cebimdekifirsatlar.com/*
 *://*.cebimdekinakit.com/*
 *://*.cebimdekisube.com/*
@@ -77446,6 +77451,7 @@
 *://*.cloudglbalfirsatcampanyabuguneozel.com/*
 *://*.cloudguardveirfy.com/*
 *://*.cloudharambe.xyz/*
+*://*.cloudhollow.store/*
 *://*.cloudhostdesign.com/*
 *://*.cloudhosting.lv/*
 *://*.cloudhub.co.ls/*
@@ -85713,6 +85719,7 @@
 *://*.dakbank.net/*
 *://*.dakdjdhsjahag1.cfd/*
 *://*.dakdjdhsjahag1.cyou/*
+*://*.dakemiro.site/*
 *://*.daketheblame.pro/*
 *://*.dakikacicek.site/*
 *://*.dakikalaricindeyararlan.shop/*
@@ -117643,6 +117650,7 @@
 *://*.eonlineyaptisnahgs.com/*
 *://*.eonliveisllernmenubonuslarim.online/*
 *://*.eonllinegiranitisllemenu.com/*
+*://*.eonllinereklarngirisrnenusu.space/*
 *://*.eonskg.com/*
 *://*.eonvktwpi.com/*
 *://*.eooeoeooejesfiehfiiu.info/*
@@ -118969,6 +118977,7 @@
 *://*.eskilerkest.click/*
 *://*.eskillora.com/*
 *://*.eskimeyenpazar.com.tr/*
+*://*.eskisidegilimbenartiksahibiyimburanin.sbs/*
 *://*.eskisigibidegilartiknese.cyou/*
 *://*.eskisigibidegilim.click/*
 *://*.eskisigibigeldiginizden.online/*
@@ -148283,6 +148292,7 @@
 *://*.haberru.site/*
 *://*.habers.cfd/*
 *://*.habers360.cfd/*
+*://*.habers360tr.cfd/*
 *://*.habersal.site/*
 *://*.habersen.club/*
 *://*.habersen.live/*
@@ -172360,6 +172370,7 @@
 *://*.ile-alisverisinizguvende.com/*
 *://*.ile-alisverisinizguvenilir.com/*
 *://*.ile-alisverisiyap.com/*
+*://*.ile-alisverisler.com.tr/*
 *://*.ile-anindaodeme.com/*
 *://*.ile-devam.com.tr/*
 *://*.ile-dogrulanmis-ilan.com/*
@@ -178607,6 +178618,7 @@
 *://*.investsystemus.net/*
 *://*.investtgroup.com/*
 *://*.investtr.pro/*
+*://*.investturkeyhub.com/*
 *://*.investura.lat/*
 *://*.investwell.ml/*
 *://*.investwell.site/*
@@ -203154,6 +203166,7 @@
 *://*.kurnyreklamak.com/*
 *://*.kuroi-kingyo.com/*
 *://*.kursagindakalir.cyou/*
+*://*.kursan.cfd/*
 *://*.kursunikibucuhmelyon.xyz/*
 *://*.kursusdigitalmarketingmalang.com/*
 *://*.kurtaran-iyiler-son-sozunde-sizle.com/*
@@ -218455,6 +218468,7 @@
 *://*.mobilde-suprizacikdeniz.com/*
 *://*.mobilde-tr.online/*
 *://*.mobilde.site/*
+*://*.mobilde2026giris.vip/*
 *://*.mobildeaktifsubem.sbs/*
 *://*.mobildebnteknomusteri-2022ceptr.com/*
 *://*.mobildedeniz.org/*
@@ -219011,6 +219025,7 @@
 *://*.mobildestekpandemi.com/*
 *://*.mobildesteksahibinden.com/*
 *://*.mobildestekvakifbnk.tk/*
+*://*.mobildetr-online.site/*
 *://*.mobildevcekilisfirsatlari.cloud/*
 *://*.mobildevletgiris-onlinebilgiler.tk/*
 *://*.mobildevletgiris.com/*
@@ -221335,6 +221350,7 @@
 *://*.mrjicruyc.info/*
 *://*.mrkerli4.com/*
 *://*.mrkerli5.com/*
+*://*.mrketlergndeaktu.cfd/*
 *://*.mrketplacessuprt.com/*
 *://*.mrketslymanca.cfd/*
 *://*.mrkez-bsvrlargrs.com/*
@@ -258447,6 +258463,7 @@
 *://*.qbhcsope.com/*
 *://*.qbitka.com/*
 *://*.qbknprmsynllarlla.com/*
+*://*.qbknrzsrd.org/*
 *://*.qbkrnsr.com/*
 *://*.qbmuzwyxk.com/*
 *://*.qbn-firsatkampanyasi.online/*
@@ -273195,6 +273212,7 @@
 *://*.seckinbutik.fun/*
 *://*.seckinyardim.xyz/*
 *://*.seckinyardimm.xyz/*
+*://*.secknabisican.cfd/*
 *://*.seclawdoorway.com/*
 *://*.secmailbox.us/*
 *://*.secmenkaydi.online/*
@@ -283018,6 +283036,7 @@
 *://*.smartinvestfund.site/*
 *://*.smartinvst.site/*
 *://*.smartlabor.it/*
+*://*.smartlearn.vu/*
 *://*.smartlira-tr.com/*
 *://*.smartmanualspdf.com/*
 *://*.smartmediasearcher.com/*
@@ -307636,6 +307655,7 @@
 *://*.tredevletsayfa.site/*
 *://*.tredevlettaidatbasvuruformugovtr.com/*
 *://*.tredevlettiadebasvuruformugovtr.com/*
+*://*.tredijitalreklarnmenulerirn.space/*
 *://*.tredildlngviw.shop/*
 *://*.tredildlngviw.xyz/*
 *://*.trednyl.site/*
@@ -326081,6 +326101,7 @@
 *://*.vrelastonid.digital/*
 *://*.vrenodakuli.mom/*
 *://*.vrenokadilu.com/*
+*://*.vrenolatikum.com/*
 *://*.vrerlelele.xyz/*
 *://*.vrezbq.com/*
 *://*.vrezvrez.com/*
@@ -337458,6 +337479,7 @@
 *://*.xamaxlfjaxlvcaac.shop/*
 *://*.xamlhiyzj.com/*
 *://*.xampanyaxatilimozelsenesonu.ml/*
+*://*.xamqi.shop/*
 *://*.xancc4fp.live/*
 *://*.xancc4fp.online/*
 *://*.xancds432432.com/*
