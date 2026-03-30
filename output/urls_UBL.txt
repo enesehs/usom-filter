@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-30 15:57:43 UTC
-! Total: 355787 rules
+! Last modified: 2026-03-30 16:53:33 UTC
+! Total: 355790 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -86008,6 +86008,7 @@
 *://*.dark31.com/*
 *://*.darkacikdennisbizdensinzzxc.info/*
 *://*.darkarmy.ru/*
+*://*.darkarsanca.cfd/*
 *://*.darkbegeni.com/*
 *://*.darkblue3-e3.xyz/*
 *://*.darkbluehost.xyz/*
@@ -181311,6 +181312,7 @@
 *://*.isndjdjshasldkshahadjdjs.cyou/*
 *://*.isntanbulkart.net/*
 *://*.isntbulkratbkaiyeykuleme.net/*
+*://*.isntflkfddersm.com/*
 *://*.isntnblkart.com/*
 *://*.isntnblkartt.com/*
 *://*.isntr.com/*
@@ -345530,6 +345532,7 @@
 *://*.yardimciolmaliyiz.xyz/*
 *://*.yardimcioluruzz.com/*
 *://*.yardimcioluruzz.net/*
+*://*.yardimcioluruzz.org/*
 *://*.yardimcioluyoruzzz.com/*
 *://*.yardimdayanisma.com/*
 *://*.yardimdayokf.tk/*

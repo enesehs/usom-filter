@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-30 15:57:43 UTC
-# Toplam: 446079 Domain
+# Son Güncelleme: 2026-03-30 16:53:33 UTC
+# Toplam: 446082 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -111540,6 +111540,7 @@ darkacikdennisbizdensinzzxc.info
 darkack.ddns.net
 darkahbbd.ddns.net
 darkarmy.ru
+darkarsanca.cfd
 darkbat.ddns.net
 darkbegeni.com
 darkblue3-e3.xyz
@@ -224044,6 +224045,7 @@ isnbkartw.blogspot.com
 isndjdjshasldkshahadjdjs.cyou
 isntanbulkart.net
 isntbulkratbkaiyeykuleme.net
+isntflkfddersm.com
 isntnblkart.com
 isntnblkartt.com
 isntr.com
@@ -433048,6 +433050,7 @@ yardimcinizbiziz.com
 yardimciolmaliyiz.xyz
 yardimcioluruzz.com
 yardimcioluruzz.net
+yardimcioluruzz.org
 yardimcioluyoruzzz.com
 yardimcom.github.io
 yardimdayanisma.com
