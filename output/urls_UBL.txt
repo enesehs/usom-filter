@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-31 19:44:38 UTC
-! Total: 355917 rules
+! Last modified: 2026-03-31 20:30:34 UTC
+! Total: 355928 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13930,6 +13930,7 @@
 *://*.a-101saligdffff.com/*
 *://*.a-101sanalalisveris.site/*
 *://*.a-101sanalmarket.com.tr/*
+*://*.a-101senal.cyou/*
 *://*.a-101sendegelal.com/*
 *://*.a-101sepetim-kapimda.online/*
 *://*.a-101sindirimcisiparis.com/*
@@ -45164,6 +45165,7 @@
 *://*.baycarkiralama.com/*
 *://*.baycarkurumsal.com.tr/*
 *://*.bayconstructio23.store/*
+*://*.baycontimobil.vip/*
 *://*.bayderkaysenonl.online/*
 *://*.baydi.xyz/*
 *://*.baydoner.org/*
@@ -59232,6 +59234,7 @@
 *://*.blcturkethbasvurusu.com/*
 *://*.blcturkkampanya.com/*
 *://*.blcturktrx.com/*
+*://*.bld155polisi155.online/*
 *://*.bldaradanrdansans.click/*
 *://*.bldgmelose.net/*
 *://*.bldl55polisi155.online/*
@@ -74873,6 +74876,7 @@
 *://*.cfrhsw.xyz/*
 *://*.cfrsakan.cfd/*
 *://*.cfrsnline.cfd/*
+*://*.cfsdklkasxjk12kj3xxads.sbs/*
 *://*.cfskcskabenfikportxcvcom.com/*
 *://*.cfskllascklaklsdkasdcas.sbs/*
 *://*.cfsonlinemrk.cfd/*
@@ -189282,8 +189286,10 @@
 *://*.k02sadhashdhhdasdhh38sadsad.click/*
 *://*.k038jp4616.info/*
 *://*.k049j.ru/*
+*://*.k0bidestek.cfd/*
 *://*.k0bihizmetler.click/*
 *://*.k0bimerkezi.click/*
+*://*.k0biprojem.cfd/*
 *://*.k0ejxa1mfw2634fy.com/*
 *://*.k0ineksz.com/*
 *://*.k0iniim.com/*
@@ -235630,8 +235636,10 @@
 *://*.online-kartodemeleri-hizmet-portal.tk/*
 *://*.online-katilim.one/*
 *://*.online-kayitwebing.xyz/*
+*://*.online-kgm.app/*
 *://*.online-kgm.com/*
 *://*.online-kgm.net/*
+*://*.online-kgm.org/*
 *://*.online-kgm.xyz/*
 *://*.online-kirala.cf/*
 *://*.online-kirala.ml/*
@@ -313374,6 +313382,7 @@
 *://*.turkiyepandemidestegi2020.com/*
 *://*.turkiyepandemidestek.com/*
 *://*.turkiyepandemiyardimi-2020.com/*
+*://*.turkiyepetroleri.com/*
 *://*.turkiyepetrolleri.info/*
 *://*.turkiyepetrolleriin.com/*
 *://*.turkiyeprojeleri2025.cfd/*
@@ -322206,6 +322215,7 @@
 *://*.vaybeknks33.xyz/*
 *://*.vaybesporir.xyz/*
 *://*.vaycanina.xyz/*
+*://*.vaycasinosupport.net/*
 *://*.vayd234losda.site/*
 *://*.vaydaslans231.site/*
 *://*.vaydl00losd2a.site/*
@@ -348665,6 +348675,7 @@
 *://*.yesugaryes.eu/*
 *://*.yeswater.top/*
 *://*.yesyeysyeyszfadamadaxlxlxl.xyz/*
+*://*.yet-erylahu.cfd/*
 *://*.yetcb.com/*
 *://*.yetdogma.top/*
 *://*.yetebersdwse.net/*

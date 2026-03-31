@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 19:44:38 UTC
-# Toplam: 446232 Domain
+# Son Güncelleme: 2026-03-31 20:30:34 UTC
+# Toplam: 446246 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15973,6 +15973,7 @@
 5891191.com
 58963211222.cloud
 58963214720.cloud
+58966565dssc.duckdns.org
 589665985.dfgqdsd.ru
 5897137924132.online
 58dt6p68.duckdns.org
@@ -22830,6 +22831,7 @@ a-101redictare.store
 a-101saligdffff.com
 a-101sanalalisveris.site
 a-101sanalmarket.com.tr
+a-101senal.cyou
 a-101sendegelal.com
 a-101sepetim-kapimda.online
 a-101sindirimcisiparis.com
@@ -62810,6 +62812,7 @@ baycarkiralama.com
 baycarkurumsal.com.tr
 baychort.onthemtaitp.com
 bayconstructio23.store
+baycontimobil.vip
 bayd6498.hopto.org
 bayderkaysenonl.online
 baydi.xyz
@@ -78579,6 +78582,7 @@ blcturkethbasvurusu.com
 blcturkkampanya.com
 blcturktrx.com
 bld.ddns.net
+bld155polisi155.online
 bldaradanrdansans.click
 bldgmelose.net
 bldl55polisi155.online
@@ -97044,6 +97048,7 @@ cfrfwsaa.icu
 cfrhsw.xyz
 cfrsakan.cfd
 cfrsnline.cfd
+cfsdklkasxjk12kj3xxads.sbs
 cfsfsrlnsddlrm.mooo.com
 cfskcskabenfikportxcvcom.com
 cfskllascklaklsdkasdcas.sbs
@@ -234128,8 +234133,10 @@ k038jp4616.info
 k05gpk7.duckdns.org
 k05sduy9.duckdns.org
 k0b-update.duckdns.org
+k0bidestek.cfd
 k0bihizmetler.click
 k0bimerkezi.click
+k0biprojem.cfd
 k0c2o8kfmra2wt3vu4klcvw.ddns.net
 k0dxnr.duckdns.org
 k0ejxa1mfw2634fy.com
@@ -268401,6 +268408,7 @@ mhsn-randevu.blogspot.com
 mhsn.edu.bd
 mhsr-randvu.net
 mhsr2.ddns.net
+mhsrasras.duckdns.org
 mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
@@ -293481,8 +293489,10 @@ online-kartdolum.online
 online-kartodemeleri-hizmet-portal.tk
 online-katilim.one
 online-kayitwebing.xyz
+online-kgm.app
 online-kgm.com
 online-kgm.net
+online-kgm.org
 online-kgm.xyz
 online-kirala.cf
 online-kirala.ml
@@ -372558,6 +372568,7 @@ teb-mobilsube.cf
 teb-mobilsube.ga
 teb-mobilsube.tk
 teb-mobilsubem.com
+teb-nisan-kampanyalari.my-homeip.net
 teb-online-2018.com
 teb-online-basvuru-tr.cf
 teb-online-cep-tr.com
@@ -391357,6 +391368,7 @@ turkiyepandemibasvurulari.unaux.com
 turkiyepandemidestegi2020.com
 turkiyepandemidestek.com
 turkiyepandemiyardimi-2020.com
+turkiyepetroleri.com
 turkiyepetrolleri.info
 turkiyepetrolleriin.com
 turkiyeprojeleri2025.cfd
@@ -402570,6 +402582,7 @@ vaybeknk231.xyz
 vaybeknks33.xyz
 vaybesporir.xyz
 vaycanina.xyz
+vaycasinosupport.net
 vayd234losda.site
 vaydaslans231.site
 vaydl00losd2a.site
@@ -436638,6 +436651,7 @@ yeswecan.duckdns.org
 yesydsfdfds.ddns.net
 yesyes2.hicam.net
 yesyeysyeyszfadamadaxlxlxl.xyz
+yet-erylahu.cfd
 yetcb.com
 yetdogma.top
 yetebersdwse.net
