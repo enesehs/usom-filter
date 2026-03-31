@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 12:44:02 UTC
-# Toplam: 446175 Domain
+# Son Güncelleme: 2026-03-31 14:23:00 UTC
+# Toplam: 446198 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -39176,7 +39176,9 @@ akrobinhodonlinegrskmpyonayi.online
 akronesafyon.com
 akronesafyonthermalspa.com
 akroneshotels.com
+akronesotelafyons.com
 akronesthermalafyon.com
+akronesthermalspaotel.com
 akrretygm.com
 akrslaparlan.com
 akrtronline.com
@@ -47427,6 +47429,7 @@ app-yapifirsatim.click
 app-yenis.herokuapp.com
 app-yk.xyz
 app-ziraat-online.com
+app-zoom.com
 app.10xprofit.io
 app.95560.cc
 app.a101kurbanbayrami.com
@@ -65092,6 +65095,7 @@ bedavapanel.site
 bedavasorgu.com
 bedavasorgula.com
 bedavasorgupaneli.online
+bedavasorgupaneli.site
 bedavatabletdevletdestegi.com
 bedavatakipci.ml
 bedavatakipcim.com
@@ -67264,6 +67268,7 @@ bievdiz.com
 bieventsinbut.com
 bieyselislemlerin.com
 bif.zapto.org
+bifa668.com
 bifcellzrty.com
 bifcl.com
 bifekcell.ga
@@ -98420,6 +98425,7 @@ cicekburda.com
 cicekcidukkani.b-cdn.net
 cicekcigledx.com.tr
 cicekcihizli.homes
+cicekcihizli.sbs
 cicekcikaan.com.tr
 cicekcim.biz
 cicekcinur.com
@@ -148902,6 +148908,7 @@ erenokyaltirak1.xyz
 erenokyaltirak2.sbs
 erenokyaltirak2.vip
 erenokyaltirak3.sbs
+erenokyaltirak5.sbs
 erenokyaltirak8.sbs
 erenokyaltirak9.sbs
 erenokyaltrak.cc
@@ -225412,6 +225419,7 @@ istandakt.shop
 istandblbenim.net
 istandnz.net
 istanfckart.blogspot.com
+istanhemenp.net
 istanibkllkart.com
 istankxrtxs.net
 istanlbedava.net
@@ -241914,6 +241922,7 @@ kcdrldrbgx.info
 kcdryervents.com
 kcdsfklkcalksdfg532213.sbs
 kcdsfklkcalksdfgfd1213.sbs
+kcdsfklkcalksdlkx51414.sbs
 kcee1990.xyz
 kceeyr.top
 kcfileshare0.ddns.net
@@ -242251,6 +242260,7 @@ kefilsizbasvuruplatformu.com
 kefilsizdenizonlinekredi.co.vu
 keflfos.wordpress.com
 kefogkorbefylk.com
+kefubao-pc.com
 kefzh6h7.duckdns.org
 keg38u.duckdns.org
 kegmgv.sbs
@@ -268220,6 +268230,7 @@ mh-rdnvlrm-buradan-m.web.app
 mh-service.ru
 mh-sns.com
 mh.bestshopingday.com
+mh.cicekcihizli.sbs
 mh.madagent.cc
 mh22w4n.duckdns.org
 mh3roylarchp.blogspot.com
@@ -268282,6 +268293,7 @@ mhmgmntssas.net
 mhmhmhmhmrnvds-brd-mobil.web.app
 mhmhrsrnfdrndvs.online
 mhmngr6usp1gu7r2hi.biz
+mhmrmsnlerrebrdal.com
 mhmrmsnzlere.mooo.com
 mhmrmsnzser.mooo.com
 mhmrnsenszlereglm.mooo.com
@@ -293451,6 +293463,7 @@ online-katilim.one
 online-kayitwebing.xyz
 online-kgm.com
 online-kgm.net
+online-kgm.xyz
 online-kirala.cf
 online-kirala.ml
 online-kirala.tk
@@ -309801,6 +309814,7 @@ pilosilodol.site
 pilotbeni.com
 pilotcruise.top
 pilotgear.top
+pilotsphere.store
 pilozol.quest
 pilr-mijnalerts.duckdns.org
 piltex.ru
@@ -317664,6 +317678,7 @@ pttavm.ilan-satisi-hizli.com.tr
 pttavm.ilanhizmetlerim.com.tr
 pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
+pttavm.ilanlarim-ozelsepetim.com
 pttavm.ilanlarim.com.co
 pttavm.ilanlarimiz.com.mx
 pttavm.ilanlarimiz.com.se
@@ -349858,6 +349873,7 @@ signal-premium-app.org
 signal-protect.host
 signal-security.online
 signal-security.site
+signal-signal.com
 signal.ct.ws
 signalbase-app845.vercel.app
 signalbase-ext369.vercel.app
@@ -360853,6 +360869,7 @@ sponsorlubasvuru-2.online
 sponsorlubasvuru-3.online
 sponsorlubasvuru-5.online
 sponsorlubasvurum.click
+sponsorlubasvurum.sbs
 sponsorlubbva.site
 sponsorlubbvareklami.site
 sponsorlubsvr3.xyz
@@ -373797,6 +373814,7 @@ telegramzzindex.info
 telegraphist.cloudnestde.com.de
 telegraxm.net
 telegrgam.com
+telegrtam.com.cn
 telehealthconnectpro.azurewebsites.net
 telehub.shop
 teleindirimgelin0810.com
@@ -385509,6 +385527,7 @@ trezor-io-start-startingu-s.webflow.io
 trezor-r-r-hardware-r.webflow.io
 trezor-r-wallet-getting-started.webflow.io
 trezor-r-wallets.webflow.io
+trezor-trezor.com
 trezor-web.io
 trezor.authentication-check.io
 trezorauthenticator.webflow.io
@@ -394759,6 +394778,7 @@ ultrasirali1.site
 ultravault.store
 ultraversion.com
 ultraview-ramotepc.top
+ultraviewer-cn.com
 ultraviewer.icu
 ultravirilehemer.com
 ultrayukleme.sg-host.com
@@ -417674,6 +417694,7 @@ wwss-bimcell-tly-kleme.com
 wwsxcpl.shop
 wwt-chi.vercel.app
 wwt3ref.ddns.net
+wwtalk-app.com
 wwuqiubmkt.duckdns.org
 wwuylv.duckdns.org
 wwuzunyukleme.mywire.org
@@ -420704,6 +420725,7 @@ www-subesiztebgiris-2021.com
 www-subesizvakifbank-giris2021.com
 www-subesizvakifbankgiris-2021.com
 www-support-c0lnbase3.duckdns.org
+www-surfshark.com
 www-t-eknosa.com.tr
 www-t0gg.net
 www-tc-cimer-duyuru.com
@@ -420718,6 +420740,7 @@ www-tcmb-bddk-onaylar.tk
 www-tcmb-bddk.tk
 www-tcmbbgov.com
 www-tcmbbgovtr.com
+www-teams.com
 www-teamviewer.top
 www-teamvlewer.top
 www-teb-com-tr.ga
