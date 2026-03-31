@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 17:44:24 UTC
-# Toplam: 446222 Domain
+# Son Güncelleme: 2026-03-31 18:42:43 UTC
+# Toplam: 446232 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57953,6 +57953,7 @@ bahariadesigaranti.com
 baharimingunesi.xyz
 bahariminyapragi.xyz
 baharimladenizcuma.online
+baharindirimleri.com
 baharindirimlerimarket.com.tr
 baharinfirsaticumadeniz.online
 baharinqbsi.com
@@ -88213,6 +88214,7 @@ burada-kamp-stkeflise-aldin-aldsn.store
 burada-kampanya-cok.shop
 burada-musmutlu-bir-aile-olduk-sizlerle.com
 burada-nereden-geldiysen-orada.com
+burada-nisan.net.tr
 burada-olan-baska-yerde-yok.com
 burada-olmak-iyi-hissettirir.xyz
 burada-ramazan-unutma-mutlu-olsana.com
@@ -185388,6 +185390,7 @@ haberler2022.tk
 haberler2025.tk
 haberler2026.co
 haberler24.site
+haberler360.sbs
 haberler8.club
 haberler8.online
 haberler8.site
@@ -237519,6 +237522,7 @@ kampanyamagusti.com
 kampanyamarketi.website
 kampanyamaxcuma.com
 kampanyamayiscaydanlik.com.tr
+kampanyamayonlendir.xyz
 kampanyambagustos.com
 kampanyambinans.net
 kampanyambuhafta.com
@@ -320284,6 +320288,7 @@ pufmbzbal.duckdns.org
 pufycol.com
 pufyna.com
 pugc3t.duckdns.org
+pugcafere55babam.me
 puigov.vip
 puigoxwoldrh.wcnv20.cn
 puixgrdf.com
@@ -327868,6 +327873,7 @@ redost.net
 redouille.ddns.net
 redoveraex.com
 redownloadsoft.com
+redpagebiziyildiramaz.webredirect.org
 redpageyedim.click
 redper.a0001.net
 redpetkarca.com
@@ -352459,6 +352465,7 @@ sinirsizinternetkampanya.org
 sinirsizlartr.org
 sinirsizoxdeme.com.tr
 sinirsizoyuncular.pw
+sinirsizparamethod.online
 sinirsizparamethod.xyz
 sinirsizstoklarinyeri.cyou
 sinirsizyazayiindirimler.online
@@ -362849,6 +362856,7 @@ stanlyarlikkczmazi666kacirma.com
 stanlyefirsati.blogspot.com
 stanlykampanya.blogspot.com
 stanlytermos499a.com
+stanlywbb-service.xyz
 stanlyytermosteklifiifdfa101.com
 stanmus.com.ru
 stanocalsaonlns.cfd
@@ -364547,6 +364555,7 @@ subatsonugidaindirimler.shop
 subatsonugidaindirimleri.com.tr
 subatsurprizleribasladi.com
 subatsurprizleribasladi.com.ph
+subatta-burada.sbs
 subatta-kampanya-a101de.shop
 subattadadahamutluyuz.com
 subattadeniz-kampanya-basvuru.com
@@ -387259,6 +387268,7 @@ trsl-morx.xyz
 trsl-mrti.xyz
 trsl-rmzn.xyz
 trsl-wwpry.xyz
+trsll-mart.xyz
 trsll-online.xyz
 trsll-ylld.xyz
 trsllw-market.xyz
