@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-31 04:24:33 UTC
-! Total: 355830 rules
+! Last modified: 2026-03-31 06:08:29 UTC
+! Total: 355840 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -68503,6 +68503,7 @@
 *://*.buzamandaki-yalnizda-kalmayana-kaderine-gelirse.top/*
 *://*.buzdiyarien.online/*
 *://*.buzdolabindakampanyalisatis.xyz/*
+*://*.buzdolabitakimaletialetler.sbs/*
 *://*.buzdolabiucretialti.xyz/*
 *://*.buzdolabotosepet.cfd/*
 *://*.buzdolabotosepet.icu/*
@@ -70422,6 +70423,7 @@
 *://*.campain-binance-new-year.net/*
 *://*.campain-event-takip.net/*
 *://*.campain-yeni-yil.net/*
+*://*.campaingyuzbir.sbs/*
 *://*.campalix.xyz/*
 *://*.campana20gb.com/*
 *://*.campandyafirsati.net/*
@@ -70486,6 +70488,7 @@
 *://*.campingkatilimkirmiziyuzde30.net/*
 *://*.campinglocale.com/*
 *://*.campingnonediet.com/*
+*://*.campingyuzbirr.sbs/*
 *://*.campingyuzde25bnkampanya.net/*
 *://*.campingyuzde25bnkampanyagiris.net/*
 *://*.campkapinda2heykwt.net/*
@@ -145063,6 +145066,7 @@
 *://*.guncelsikayetler-32.sbs/*
 *://*.guncelsikayetler-33.sbs/*
 *://*.guncelsikayetler-34.sbs/*
+*://*.guncelsikayetler-449.sbs/*
 *://*.guncelsikayetler-489.sbs/*
 *://*.guncelsikayetler-61.sbs/*
 *://*.guncelsikayetler-62.sbs/*
@@ -148036,6 +148040,7 @@
 *://*.haber366.club/*
 *://*.haber366.online/*
 *://*.haber366.site/*
+*://*.haber366ttr.sbs/*
 *://*.haber369.com/*
 *://*.haber40.club/*
 *://*.haber40.online/*
@@ -162508,6 +162513,7 @@
 *://*.hizlicakmpyafirsati.site/*
 *://*.hizlicamppnyfirrsat.sbs/*
 *://*.hizlicana.com.tr/*
+*://*.hizlicanabizler.com/*
 *://*.hizlicanaer.click/*
 *://*.hizlicankmsorgla.buzz/*
 *://*.hizlicapapara.com/*
@@ -277108,6 +277114,7 @@
 *://*.sfpbruhom.com/*
 *://*.sfqokh.com/*
 *://*.sfr-stkkpda-frst.online/*
+*://*.sfrclak.com/*
 *://*.sfrdnyzekadar.net/*
 *://*.sfrdoksndkzzaltaydanertelde.online/*
 *://*.sfrevhxdqui.org/*
@@ -302220,6 +302227,7 @@
 *://*.tmmuzlndrmlerikmpnya.com/*
 *://*.tmmuzsleysal.shop/*
 *://*.tmmuzun-son-frstlarini-kacirma-hmen-sparis-ile-kapinda.com/*
+*://*.tmmya.sbs/*
 *://*.tmmzaltayertelesifrdksndkz.online/*
 *://*.tmmzaltayertraskolsifrdkndkz.online/*
 *://*.tmmzaltayrtlsfdkndkvdfz.online/*
@@ -305876,6 +305884,7 @@
 *://*.tr155polisia155tr.online/*
 *://*.tr155polisil.online/*
 *://*.tr155trpolis.online/*
+*://*.tr17-guncelsikaytler.sbs/*
 *://*.tr18-guncelsikaytler.sbs/*
 *://*.tr19-guncelsikaytler.com/*
 *://*.tr1919010912090910.cloud/*
@@ -306944,6 +306953,7 @@
 *://*.tranfilicim.net/*
 *://*.tranimmtrako.com/*
 *://*.trankelo.xyz/*
+*://*.tranko.co/*
 *://*.tranlfisik.net/*
 *://*.tranlkktmbnc.com/*
 *://*.tranmigrust.club/*

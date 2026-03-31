@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 04:24:33 UTC
-# Toplam: 446128 Domain
+# Son Güncelleme: 2026-03-31 06:08:29 UTC
+# Toplam: 446138 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -89330,6 +89330,7 @@ buzamandabufiyat.sbs
 buzamandaki-yalnizda-kalmayana-kaderine-gelirse.top
 buzdiyarien.online
 buzdolabindakampanyalisatis.xyz
+buzdolabitakimaletialetler.sbs
 buzdolabiucretialti.xyz
 buzdolabotosepet.cfd
 buzdolabotosepet.icu
@@ -91828,6 +91829,7 @@ campaimalpce.top
 campain-binance-new-year.net
 campain-event-takip.net
 campain-yeni-yil.net
+campaingyuzbir.sbs
 campalix.xyz
 campana20gb.com
 campandyafirsati.net
@@ -91893,6 +91895,7 @@ campingkatilimkampanyagirisyuzde.net
 campingkatilimkirmiziyuzde30.net
 campinglocale.com
 campingnonediet.com
+campingyuzbirr.sbs
 campingyuzde25bnkampanya.net
 campingyuzde25bnkampanyagiris.net
 campkapinda2heykwt.net
@@ -181724,6 +181727,7 @@ guncelsikayetler-241.sbs
 guncelsikayetler-32.sbs
 guncelsikayetler-33.sbs
 guncelsikayetler-34.sbs
+guncelsikayetler-449.sbs
 guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-61.sbs
@@ -185167,6 +185171,7 @@ haber365tr.com
 haber366.club
 haber366.online
 haber366.site
+haber366ttr.sbs
 haber369.com
 haber40.club
 haber40.online
@@ -197931,6 +197936,7 @@ hgs.paridu.com
 hgs.postahanec.com
 hgs.pttodeme.online
 hgs.roadplansleap.com
+hgs.tranko.co
 hgs.vergiodemex.net
 hgs.webredirect.org
 hgs.xn--epttavm-88a.com
@@ -201708,6 +201714,7 @@ hizlicakmpyafirsati.site
 hizlicakmsrglaa.sa.com
 hizlicamppnyfirrsat.sbs
 hizlicana.com.tr
+hizlicanabizler.com
 hizlicanaer.click
 hizlicankmsorgla.buzz
 hizlicaodemetalpet.za.com
@@ -348193,6 +348200,7 @@ sfqokh.com
 sfr-l-g-r-n-l.my-homeip.de
 sfr-messagerie.ddns.net
 sfr-stkkpda-frst.online
+sfrclak.com
 sfrdnyzekadar.net
 sfrdoksndkzzaltaydanertelde.online
 sfrevhxdqui.org
@@ -378259,6 +378267,7 @@ tmmuzsleysal.shop
 tmmuzun-son-frstlarini-kacirma-hmen-sparis-ile-kapinda.com
 tmmxzldtest.duckdns.org
 tmmy1.duckdns.org
+tmmya.sbs
 tmmzaltayertelesifrdksndkz.online
 tmmzaltayertraskolsifrdkndkz.online
 tmmzaltayrtlsfdkndkvdfz.online
@@ -382828,6 +382837,7 @@ tr155polisia155.online
 tr155polisia155tr.online
 tr155polisil.online
 tr155trpolis.online
+tr17-guncelsikaytler.sbs
 tr18-guncelsikaytler.sbs
 tr19-guncelsikaytler.com
 tr1919010912090910.cloud
