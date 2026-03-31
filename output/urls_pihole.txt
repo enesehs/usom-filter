@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 11:38:28 UTC
-# Toplam: 446167 Domain
+# Son Güncelleme: 2026-03-31 12:44:02 UTC
+# Toplam: 446175 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -32559,6 +32559,7 @@ advanced-lp-saanel.com
 advanced-lp-saaner.com
 advanced-lp-scanel.com
 advanced-lp-scannel.com
+advanceda.digital
 advancedaccess05wf.com
 advancedanalysis.be
 advancedcodeaccess.com
@@ -125570,6 +125571,7 @@ docdrive-remittance.com
 docdrivecloudstorage.com
 docdxsiga.goodbreadtrucklng.com
 docesoberana.com
+docexpert.site
 docffiles055.ddns.net
 docfilepdf.ddns.net
 docfileview.org
@@ -125700,6 +125702,7 @@ documentarydodge.top
 documentaryovert.top
 documentarypredominate.top
 documentarytickle.top
+documentation.contains.life
 documentation.ddns.net
 documentdirectllc.com
 documentdirectto.com
@@ -193032,6 +193035,7 @@ hdllearyapike.com
 hdllereelflafs.com
 hdlmeeqellaefs.com
 hdlmts-odxemele.com
+hdlsilstbnllm.com
 hdlvrsnafld.com
 hdm0.xyz
 hdm5o8e1tas3n.net
@@ -268318,6 +268322,7 @@ mhrs-randvm.blogspot.com
 mhrs-vatandas-randevu.click
 mhrs-web.pages.dev
 mhrs.basvurulari.org
+mhrs.cicekcihizli.cyou
 mhrs.cicekcihizli.xyz
 mhrs.co.vu
 mhrs.fr
@@ -296051,6 +296056,7 @@ onlinesbanking.ddns.net
 onlinesbanking010.ddns.net
 onlinesbanking18279.ddns.net
 onlinesbi.net
+onlinesbm.com.tr
 onlinesbm.org.tr
 onlinesbszbasvurularimbva.net
 onlineschool.co.tz
@@ -349260,6 +349266,7 @@ shopsetrms.top
 shopsleta.ru
 shopsshops.de
 shopstation.com.au
+shopster.courses
 shopstodrop.com
 shopstoregame.icu
 shopstoregamese.icu
@@ -404804,6 +404811,7 @@ vermiclexkser.life
 verminlike.com
 vermintop.com
 verna.bpcardiocapture.com
+vernalis.asia
 verniga.pics
 verniga.xyz
 vernomqmonday.duckdns.org

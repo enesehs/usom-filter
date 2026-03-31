@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-31 11:38:28 UTC
-! Total: 355861 rules
+! Last modified: 2026-03-31 12:44:02 UTC
+! Total: 355869 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20629,6 +20629,7 @@
 *://*.advanced-lp-saaner.com/*
 *://*.advanced-lp-scanel.com/*
 *://*.advanced-lp-scannel.com/*
+*://*.advanceda.digital/*
 *://*.advancedaccess05wf.com/*
 *://*.advancedanalysis.be/*
 *://*.advancedcodeaccess.com/*
@@ -75768,6 +75769,7 @@
 *://*.cicekburada.store/*
 *://*.cicekburda.com/*
 *://*.cicekcigledx.com.tr/*
+*://*.cicekcihizli.cyou/*
 *://*.cicekcihizli.homes/*
 *://*.cicekcihizli.xyz/*
 *://*.cicekcikaan.com.tr/*
@@ -81623,6 +81625,7 @@
 *://*.containersalmon.top/*
 *://*.containersentiment.top/*
 *://*.containmentcompliment.top/*
+*://*.contains.life/*
 *://*.contaminatehurdle.top/*
 *://*.contaminationbrace.top/*
 *://*.contamnatecinity.top/*
@@ -98029,6 +98032,7 @@
 *://*.docdrive-remittance.com/*
 *://*.docdrivecloudstorage.com/*
 *://*.docesoberana.com/*
+*://*.docexpert.site/*
 *://*.docfileview.org/*
 *://*.docguardmaterial.com/*
 *://*.docholdersolution.com/*
@@ -155163,6 +155167,7 @@
 *://*.hdllereelflafs.com/*
 *://*.hdlmeeqellaefs.com/*
 *://*.hdlmts-odxemele.com/*
+*://*.hdlsilstbnllm.com/*
 *://*.hdlvrsnafld.com/*
 *://*.hdm0.xyz/*
 *://*.hdm5o8e1tas3n.net/*
@@ -237892,6 +237897,7 @@
 *://*.onlinesatislaraozel.com/*
 *://*.onlinesatislardabuhafta.net/*
 *://*.onlinesbi.net/*
+*://*.onlinesbm.com.tr/*
 *://*.onlinesbm.org.tr/*
 *://*.onlinesbszbasvurularimbva.net/*
 *://*.onlineschool.co.tz/*
@@ -277940,6 +277946,7 @@
 *://*.shopsleta.ru/*
 *://*.shopsshops.de/*
 *://*.shopstation.com.au/*
+*://*.shopster.courses/*
 *://*.shopstodrop.com/*
 *://*.shopstoregame.icu/*
 *://*.shopstoregamese.icu/*
@@ -323903,6 +323910,7 @@
 *://*.vermiclexkser.life/*
 *://*.verminlike.com/*
 *://*.vermintop.com/*
+*://*.vernalis.asia/*
 *://*.verniga.pics/*
 *://*.verniga.xyz/*
 *://*.vernonmgir.pw/*
