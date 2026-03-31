@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-03-31 10:41:46 UTC
-! Total: 355854 rules
+! Last modified: 2026-03-31 11:38:28 UTC
+! Total: 355861 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -75768,6 +75768,7 @@
 *://*.cicekburada.store/*
 *://*.cicekburda.com/*
 *://*.cicekcigledx.com.tr/*
+*://*.cicekcihizli.homes/*
 *://*.cicekcihizli.xyz/*
 *://*.cicekcikaan.com.tr/*
 *://*.cicekcim.biz/*
@@ -131178,6 +131179,8 @@
 *://*.frankwaive.top/*
 *://*.frankyydomxo123.net/*
 *://*.frankyyxd.net/*
+*://*.fransizkonvoy.online/*
+*://*.fransizkonvoy.site/*
 *://*.franticallybutt.top/*
 *://*.franticallyoppression.top/*
 *://*.franticallysob.top/*
@@ -136024,6 +136027,7 @@
 *://*.gawfgasah.shop/*
 *://*.gawyni.com/*
 *://*.gaxelunoriv.com/*
+*://*.gaxenoridul.com/*
 *://*.gaxenorulik.digital/*
 *://*.gaxlsw.com/*
 *://*.gaxuridelon.com/*
@@ -183067,6 +183071,7 @@
 *://*.istmmrkrlslykleee.com/*
 *://*.istmn.net/*
 *://*.istmnblkaart.net/*
+*://*.istmnflsklls.com/*
 *://*.istmnkhhbc.com/*
 *://*.istmnkvxas.com/*
 *://*.istmnkxcbvx.com/*
@@ -190870,6 +190875,7 @@
 *://*.kamoanyaliindimler.com.tr/*
 *://*.kamoanyaliindimler.xyz/*
 *://*.kamorszfg.com/*
+*://*.kamoskyuzkfl.com/*
 *://*.kamotors.net/*
 *://*.kamotslofz.com/*
 *://*.kamp-any-alar.com/*
@@ -340569,6 +340575,7 @@
 *://*.xn--kasimfirsatlar2023-ty-xgd.shop/*
 *://*.xn--kasm-ay-kampanyalar-i5cem.com.tr/*
 *://*.xn--kasosnnannkymsa-glc.shop/*
+*://*.xn--katsuzmbu-ypb.com/*
 *://*.xn--kazandranlarnhaftas-l5cgh.com/*
 *://*.xn--kazannkazann-54bg.com/*
 *://*.xn--kazanvakflakazan-hqc.com/*
