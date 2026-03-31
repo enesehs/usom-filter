@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 07:59:05 UTC
-# Toplam: 446152 Domain
+# Son Güncelleme: 2026-03-31 08:54:32 UTC
+# Toplam: 446158 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -259286,6 +259286,7 @@ lyricwarrant.top
 lyrosajupid.eu
 lyrpjjkno.duckdns.org
 lyrqotnicdg.org
+lyrtkcv33232.duckdns.org
 lyrytun.com
 lysdhm.com
 lyssaawing.net
@@ -301624,6 +301625,7 @@ palmiyesultan.business
 palmiyesultan.cc
 palmiyesultan.net
 palmiyesultanbungalov.com
+palmiyesultanbungalov.org
 palmiyesultanbungalow.org
 palmon-law.co.il
 palmpredominant.top
@@ -303685,6 +303687,7 @@ paramguvende.k2stqk.com
 paramguvende.k2sts1q.site
 paramguvende.k4sts2q.site
 paramguvende.link
+paramguvende.my
 paramguvende.net
 paramguvende.odemeozetisayfasi.online
 paramguvende.odemeyap.site
@@ -339265,6 +339268,7 @@ sahibindensanalmarket.com
 sahibindensatilik.net.tr
 sahibindensatis.online
 sahibindensatis.shop
+sahibindensatisget.com
 sahibindensatisilan.com
 sahibindensatisonline.com
 sahibindensecure-link.com
@@ -438905,6 +438909,7 @@ yonlendirildinisefendimis.duckdns.org
 yonlendirilfrsltoo.web.app
 yonlendiriliyokserndaw.duckdns.org
 yonlendiriliyorsun-wsynx.sbs
+yonlendiriliyorsundj.duckdns.org
 yonlendiriliyorsunuz-bekleyin-wsynx.shop
 yonlendiriliyorsunuz.duckdns.org
 yonlendiriliyorsunuz.online
@@ -440374,6 +440379,7 @@ yurttasyardim.com
 yurttasyardim.site
 yurttasyardim.xyz
 yurttayardim.com
+yurttickargo.com
 yurttkpmerkezi.uk
 yurtumawat.wwwhost.us
 yurtyys-newlife.xyz
