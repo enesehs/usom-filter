@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-03-31 20:30:34 UTC
-# Toplam: 446246 Domain
+# Son Güncelleme: 2026-03-31 21:26:08 UTC
+# Toplam: 446252 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -156079,6 +156079,7 @@ fastandprettycleaner.hk
 fastandstrongwolf.com
 fastandwork.tech
 fastar.sbs
+fastara.sbs
 fastbireyselacikdenizv2denizbank.co.vu
 fastbrokerlik.net.tr
 fastbsvuru.click
@@ -185195,6 +185196,7 @@ haber359.com
 haber360.cfd
 haber360.site
 haber360tc2016.cfd
+haber360tc2026.sbs
 haber360tr.cfd
 haber360tr.com
 haber364tr.live
@@ -234134,6 +234136,7 @@ k05gpk7.duckdns.org
 k05sduy9.duckdns.org
 k0b-update.duckdns.org
 k0bidestek.cfd
+k0bidestek.click
 k0bihizmetler.click
 k0bimerkezi.click
 k0biprojem.cfd
@@ -253855,6 +253858,7 @@ lbci-seguro.com
 lbcrisdwwlvbusw.su
 lbcrz.com
 lbcsupport.ddns.net
+lbdl55polisi155.online
 lbepdggjgwgh.online
 lberche.info
 lbfdpco.com
@@ -284019,6 +284023,7 @@ nisan-ayi-sorgulama-basladi.cyou
 nisan-ayi101frstlari-ud.online
 nisan-ayina-ozel-kampanyalaar.com
 nisan-ayina-ozel-kampanyalar.com
+nisan-burada.com.tr
 nisan-caydanlik.com.tr
 nisan-eklimiterim.net
 nisan-firsatlaringeldi.shop
@@ -391853,6 +391858,7 @@ tursap.org
 tursap.site
 turshopnowonlineee.online
 tursil-cepte.click
+tursil-cepte.com.tr
 tursil-martta.sbs
 tursil-stability.xyz
 tursiteptts.help
