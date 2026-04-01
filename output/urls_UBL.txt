@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-01 18:41:32 UTC
-! Total: 356884 rules
+! Last modified: 2026-04-01 19:53:35 UTC
+! Total: 356891 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10248,6 +10248,7 @@
 *://*.545454651.cloud/*
 *://*.54545465456465.online/*
 *://*.54546413123138.xyz/*
+*://*.54546512312sxdd.com/*
 *://*.54548965151864879466.online/*
 *://*.5454896515186487946651156987948.com/*
 *://*.545522165465.cloud/*
@@ -34443,6 +34444,7 @@
 *://*.araecxemkdx.net/*
 *://*.arafatoles.xyz/*
 *://*.arafcfimuayynen.org/*
+*://*.arafminza.sbs/*
 *://*.arahasitof.digital/*
 *://*.arahgsz.com/*
 *://*.arailik-ozl-flrsatlari.cfd/*
@@ -44049,6 +44051,7 @@
 *://*.basvuruislemin.net/*
 *://*.basvuruislemleri.com/*
 *://*.basvuruislemleri.net/*
+*://*.basvuruislemleri.sbs/*
 *://*.basvuruislemleri.today/*
 *://*.basvuruislemlerigratis.net/*
 *://*.basvuruislemleriniz.com/*
@@ -99346,6 +99349,7 @@
 *://*.donttravelwithmom.com/*
 *://*.dontworryman.club/*
 *://*.donuk-islemlerinizi-sor-ogren.sbs/*
+*://*.donukgeriye-onaytlnanktislem.sbs/*
 *://*.donusspor01.com/*
 *://*.donusumdekor.pro/*
 *://*.donuyor-geri-donuk.sbs/*
@@ -191526,6 +191530,7 @@
 *://*.kamitorishoji.com/*
 *://*.kamix.hu/*
 *://*.kamnomleosley.tk/*
+*://*.kamnpnnx.sbs/*
 *://*.kamoanayalardaalisverlerisyerleriburadakiyerler.sbs/*
 *://*.kamoanayardasongun.cfd/*
 *://*.kamoanayardasongun.icu/*
@@ -294512,6 +294517,7 @@
 *://*.sxbzsistemi.wiki/*
 *://*.sxdbimcell.com/*
 *://*.sxdpoanswmdthkt.su/*
+*://*.sxflkkjwcjk3x123x.bond/*
 *://*.sxflkkjwcjk3x123x.cfd/*
 *://*.sxflkkjwcjk3x123x.sbs/*
 *://*.sxfze.com/*
@@ -298928,6 +298934,7 @@
 *://*.tekdokunus.website/*
 *://*.tekdokunus.xyz/*
 *://*.tekdokunuslaevinde.me/*
+*://*.tekdusmanimahparanoya.org/*
 *://*.tekeiteh.quest/*
 *://*.tekelenehe.net/*
 *://*.tekenkenege.net/*
