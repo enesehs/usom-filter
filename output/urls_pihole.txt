@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-01 01:15:06 UTC
-# Toplam: 446272 Domain
+# Son Güncelleme: 2026-04-01 04:36:40 UTC
+# Toplam: 446291 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17008,6 +17008,7 @@
 64747435494-64749090.xyz
 6476557.zapto.org
 647877358356312.com
+64877897dsd.com
 6491770-review-bump-rails-otpkqb.gs-staging.coinbase-com.info
 6494545344534413456.blogspot.com
 6498415319861.cloud
@@ -161643,6 +161644,7 @@ firsattlarindiriim.com
 firsattlarkaracada.com
 firsattlarsennlegzl.com.tr
 firsattlr-dunysi.com
+firsattlrronlineozl.ct.ws
 firsattoday-kuv-eytturkbasvurum.ml
 firsattoday-kuv-eytturkbasvurum.online
 firsattoday-kuv-eytturkbasvurum.tech
@@ -174585,6 +174587,7 @@ gifted-sammet.93-177-103-39.plesk.page
 gifteddetriment.top
 giftedperch.top
 giftemali.click
+giftfeather.gifts
 giftgallery.gifts
 giftgarden.gifts
 giftiosaqe.site
@@ -181493,6 +181496,7 @@ gunceldenizislemislemleri.net
 gunceldenzkrdimiz.xyz
 gunceldosyan.com
 gunceldunya.com
+gunceldunya.info
 guncelduyurubnncrtr.online
 guncelduyurular.online
 guncelduyurum.com
@@ -200795,6 +200799,7 @@ hipduplication.top
 hiperbolicus.com
 hiperconection.duckdns.org
 hiperfdhaus.com
+hiperhaber.com
 hiperkampgnbugn.cfd
 hiperkampgnbugn.sbs
 hipermomentum7.ru
@@ -255509,6 +255514,7 @@ liliykleme.net
 lillethrek.biz
 lillliliiliiilliillil.com
 lillllllllllllll.duckdns.org
+lilnest.mom
 lilninop.ga
 liloacldtna.ddns.net
 liloupb.zapto.org
@@ -264151,6 +264157,7 @@ martramznfrsatlarinikacrma.xyz
 martrzmksnteklfistv.store
 martsigortasi.site
 martt.vip
+martta-burada.com.tr
 martta-denizim.com
 martta-dysona1o1bnkaoozel.shop
 martta-dysona1o1firsatiii.shop
@@ -264440,6 +264447,7 @@ masterleboncoin.000webhostapp.com
 masterlogisticsfzco.com
 mastermancallista.net
 mastermanthompsett.net
+mastermap.courses
 mastermeltqroup.com
 mastermindmonat.com
 masterok23.ddns.net
@@ -284038,6 +284046,7 @@ nisan-ayi101frstlari-ud.online
 nisan-ayina-ozel-kampanyalaar.com
 nisan-ayina-ozel-kampanyalar.com
 nisan-burada.com.tr
+nisan-burada.org.tr
 nisan-caydanlik.com.tr
 nisan-eklimiterim.net
 nisan-firsatlaringeldi.shop
@@ -284182,6 +284191,7 @@ nisanmarket.com.tr
 nisanmarket.info.tr
 nisanmarket.net.tr
 nisanmarket.org.tr
+nisanmartkampanyalari.shop
 nisann-ayinaozel.com
 nisanna-firstlaarr.com
 nisannayikampanyasi.com.tr
@@ -289522,6 +289532,7 @@ ocdmvkodme.net
 ocdywzirbs.duckdns.org
 oceanamong.top
 oceancaravan.top
+oceancharter.boats
 oceane-crooks.pserver.ru
 oceanfame.top
 oceanfleetz.com
@@ -293510,6 +293521,7 @@ online-katilim.one
 online-kayitwebing.xyz
 online-kgm.app
 online-kgm.com
+online-kgm.me
 online-kgm.net
 online-kgm.org
 online-kgm.xyz
@@ -311061,6 +311073,7 @@ plurexa.space
 plurfestivalgalaxy.com
 plurgew.com
 pluriva.sbs
+plurnostavi.digital
 plus-a101.com
 plus-condos-thy-redeem.trycloudflare.com
 plus-dolap.com.tr
@@ -320351,6 +320364,7 @@ pulse.herosms.cc
 pulseadnetwork.com
 pulseathermakf.com
 pulsecelebrity.top
+pulseheadline.online
 pulsejournalist.com
 pulsenova.online
 pulseprofit.online
@@ -323705,6 +323719,7 @@ qrandpashabet1660.com
 qranto.space
 qraq45b.duckdns.org
 qraqcmvayne-rndevularim.net
+qraxenovadi.icu
 qrazfztlbsewumunrx.com
 qrb72ek6.duckdns.org
 qrbvno.com
@@ -346599,6 +346614,7 @@ serenewisp.com
 sereneye.net
 serengetijourney.com
 serenitybay.space
+serenitydeal.qpon
 serenityqpon.com
 serenityzc.top
 serenry.com
@@ -354395,6 +354411,7 @@ skilldidittoya.ddns.net
 skillednft.com
 skilledtornado.top
 skillfulobsess.top
+skillhub.icu
 skillissue.ddns.net
 skillmasteryhub.us
 skillpharmacy.top
@@ -369838,6 +369855,7 @@ talepyonlen.com
 talesofkrendor.com
 talesseries.com
 talete.click
+talex.lat
 talexoriv.com
 talgroni.cfd
 talgroni.cyou
@@ -388917,6 +388935,7 @@ turbo-rts.com
 turbo3d.xyz
 turboemlkverg.net
 turbokurumsal.site
+turbostream.bond
 turbotaxbitgroup.duckdns.org
 turbovergakincilars.net
 turbozik.hopto.org

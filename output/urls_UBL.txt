@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-01 01:15:06 UTC
-! Total: 355952 rules
+! Last modified: 2026-04-01 04:36:40 UTC
+! Total: 355970 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10909,6 +10909,7 @@
 *://*.6473423423325723454234.com/*
 *://*.64747435494-64749090.xyz/*
 *://*.647877358356312.com/*
+*://*.64877897dsd.com/*
 *://*.6498415319861.cloud/*
 *://*.64b6c9bebf541c17a229d921556d14a4ffd4.com/*
 *://*.64c93afc7e0b00e49ebfb2ac3318aab7.ua/*
@@ -139175,6 +139176,7 @@
 *://*.gifteddetriment.top/*
 *://*.giftedperch.top/*
 *://*.giftemali.click/*
+*://*.giftfeather.gifts/*
 *://*.giftgallery.gifts/*
 *://*.giftgarden.gifts/*
 *://*.giftiosaqe.site/*
@@ -144857,6 +144859,7 @@
 *://*.gunceldenzkrdimiz.xyz/*
 *://*.gunceldosyan.com/*
 *://*.gunceldunya.com/*
+*://*.gunceldunya.info/*
 *://*.guncelduyurubnncrtr.online/*
 *://*.guncelduyurular.online/*
 *://*.guncelduyurum.com/*
@@ -161738,6 +161741,7 @@
 *://*.hipduplication.top/*
 *://*.hiperbolicus.com/*
 *://*.hiperfdhaus.com/*
+*://*.hiperhaber.com/*
 *://*.hiperkampgnbugn.cfd/*
 *://*.hiperkampgnbugn.sbs/*
 *://*.hipermomentum7.ru/*
@@ -206557,6 +206561,7 @@
 *://*.liliykleme.net/*
 *://*.lillethrek.biz/*
 *://*.lillliliiliiilliillil.com/*
+*://*.lilnest.mom/*
 *://*.lilninop.ga/*
 *://*.lilqyhqjhibgbpj.cn/*
 *://*.lilsakainrot.com/*
@@ -212716,6 +212721,7 @@
 *://*.martrzmksnteklfistv.store/*
 *://*.martsigortasi.site/*
 *://*.martt.vip/*
+*://*.martta-burada.com.tr/*
 *://*.martta-denizim.com/*
 *://*.martta-dysona1o1bnkaoozel.shop/*
 *://*.martta-dysona1o1firsatiii.shop/*
@@ -212961,6 +212967,7 @@
 *://*.masterlogisticsfzco.com/*
 *://*.mastermancallista.net/*
 *://*.mastermanthompsett.net/*
+*://*.mastermap.courses/*
 *://*.mastermeltqroup.com/*
 *://*.mastermindmonat.com/*
 *://*.masteron.sbs/*
@@ -228258,6 +228265,7 @@
 *://*.nisan-ayina-ozel-kampanyalaar.com/*
 *://*.nisan-ayina-ozel-kampanyalar.com/*
 *://*.nisan-burada.com.tr/*
+*://*.nisan-burada.org.tr/*
 *://*.nisan-caydanlik.com.tr/*
 *://*.nisan-eklimiterim.net/*
 *://*.nisan-firsatlaringeldi.shop/*
@@ -228399,6 +228407,7 @@
 *://*.nisanmarket.info.tr/*
 *://*.nisanmarket.net.tr/*
 *://*.nisanmarket.org.tr/*
+*://*.nisanmartkampanyalari.shop/*
 *://*.nisann-ayinaozel.com/*
 *://*.nisanna-firstlaarr.com/*
 *://*.nisannayikampanyasi.com.tr/*
@@ -232347,6 +232356,7 @@
 *://*.ocean78.com/*
 *://*.oceanamong.top/*
 *://*.oceancaravan.top/*
+*://*.oceancharter.boats/*
 *://*.oceanfame.top/*
 *://*.oceanfleetz.com/*
 *://*.oceanfreerobux.net/*
@@ -235655,6 +235665,7 @@
 *://*.online-kayitwebing.xyz/*
 *://*.online-kgm.app/*
 *://*.online-kgm.com/*
+*://*.online-kgm.me/*
 *://*.online-kgm.net/*
 *://*.online-kgm.org/*
 *://*.online-kgm.xyz/*
@@ -250390,6 +250401,7 @@
 *://*.plurgew.com/*
 *://*.plurianbonfim.net/*
 *://*.pluriva.sbs/*
+*://*.plurnostavi.digital/*
 *://*.plus-a101.com/*
 *://*.plus-billing.sbs/*
 *://*.plus-cdn.ml/*
@@ -257979,6 +257991,7 @@
 *://*.pulseadnetwork.com/*
 *://*.pulseathermakf.com/*
 *://*.pulsecelebrity.top/*
+*://*.pulseheadline.online/*
 *://*.pulsejournalist.com/*
 *://*.pulsenova.online/*
 *://*.pulseprofit.online/*
@@ -260418,6 +260431,7 @@
 *://*.qrandpashabet1660.com/*
 *://*.qranto.space/*
 *://*.qraqcmvayne-rndevularim.net/*
+*://*.qraxenovadi.icu/*
 *://*.qrazfztlbsewumunrx.com/*
 *://*.qrbvno.com/*
 *://*.qrccowjjkimi.xyz/*
@@ -275954,6 +275968,7 @@
 *://*.sereneye.net/*
 *://*.serengetijourney.com/*
 *://*.serenitybay.space/*
+*://*.serenitydeal.qpon/*
 *://*.serenityqpon.com/*
 *://*.serenityzc.top/*
 *://*.serenry.com/*
@@ -282574,6 +282589,7 @@
 *://*.skilledtornado.top/*
 *://*.skillence360.com/*
 *://*.skillfulobsess.top/*
+*://*.skillhub.icu/*
 *://*.skillmasteryhub.us/*
 *://*.skillpharmacy.top/*
 *://*.skillquestions.com/*
@@ -295006,6 +295022,7 @@
 *://*.talesofkrendor.com/*
 *://*.talesseries.com/*
 *://*.talete.click/*
+*://*.talex.lat/*
 *://*.talexoriv.com/*
 *://*.talgroni.cfd/*
 *://*.talgroni.cyou/*
@@ -311096,6 +311113,7 @@
 *://*.turbobit.net/*
 *://*.turboemlkverg.net/*
 *://*.turbokurumsal.site/*
+*://*.turbostream.bond/*
 *://*.turbovergakincilars.net/*
 *://*.turbulencebarren.top/*
 *://*.turbulencedepreciate.top/*
