@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-01 10:44:20 UTC
-! Total: 356743 rules
+! Last modified: 2026-04-01 11:40:59 UTC
+! Total: 356749 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -29611,6 +29611,7 @@
 *://*.alltarra.com/*
 *://*.allternatifbank.com/*
 *://*.allthat.social/*
+*://*.allthebirdsonestone.com/*
 *://*.allthegiftsforthewhole.world/*
 *://*.alltop.asia/*
 *://*.alltoursegypt.com/*
@@ -96011,6 +96012,7 @@
 *://*.dijitalbireysel-ziraatwebmobil.com/*
 *://*.dijitalbireyselcepvakif.ml/*
 *://*.dijitalbireyselmobil-ziraat.com/*
+*://*.dijitalbireyselozel-ziraatwebmobil.com/*
 *://*.dijitalbireyselsube.com/*
 *://*.dijitalbireyselweb-ziraat.com/*
 *://*.dijitalbireyselweb-ziraatmobil.com/*
@@ -99541,6 +99543,7 @@
 *://*.dosyasorgulatuyap.com/*
 *://*.dosyasorgulatuzlasmaa.com/*
 *://*.dosyasorgulayin.com/*
+*://*.dosyasorgum.org/*
 *://*.dosyasorgunuz.com/*
 *://*.dosyasorgusistemi.com/*
 *://*.dosyasorgusu.com/*
@@ -100081,6 +100084,7 @@
 *://*.drenostavik.digital/*
 *://*.dresatl.info/*
 *://*.dresoklanfirsatlan1o1.xyz/*
+*://*.dresokunavi.gifts/*
 *://*.dresortgocekresort.com/*
 *://*.dresortsgocek.com/*
 *://*.dresschronically.top/*
@@ -111561,6 +111565,7 @@
 *://*.edvs-basvuru-iadeformu-edevlet.com/*
 *://*.edvtaidtiaade.com/*
 *://*.edvtapkonlv.com/*
+*://*.edvtapkonlv.org/*
 *://*.edvtapuonlinerdven.org/*
 *://*.edvtlaidtiade.com/*
 *://*.edvvletyrdmlarbaslyr.online/*
@@ -197963,6 +197968,7 @@
 *://*.kgm-odeme.net/*
 *://*.kgm-odeme.xyz/*
 *://*.kgm-odemee.com/*
+*://*.kgm-odemeler.net/*
 *://*.kgm-odemex.com/*
 *://*.kgm-odemexx.com/*
 *://*.kgm-odemexxx.app/*

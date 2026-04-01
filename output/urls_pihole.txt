@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-01 10:44:20 UTC
-# Toplam: 447068 Domain
+# Son Güncelleme: 2026-04-01 11:40:59 UTC
+# Toplam: 447078 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18139,6 +18139,7 @@
 71239094ipp2139746123.website
 7124975125.com
 712734218431278217412.cloud
+71281l116146463.duckdns.org
 712842568.site
 713mtauburnctcolumbusoh43085.st
 7152231321.cloud
@@ -43333,6 +43334,7 @@ alltaran.com
 alltarra.com
 allternatifbank.com
 allthat.social
+allthebirdsonestone.com
 allthegiftsforthewhole.world
 alltop.asia
 alltoys.store
@@ -123121,6 +123123,7 @@ dijitalbireysel-ziraatweb.sbs
 dijitalbireysel-ziraatwebmobil.com
 dijitalbireyselcepvakif.ml
 dijitalbireyselmobil-ziraat.com
+dijitalbireyselozel-ziraatwebmobil.com
 dijitalbireyselsube.com
 dijitalbireyselweb-ziraat.com
 dijitalbireyselweb-ziraatmobil.com
@@ -127484,6 +127487,7 @@ dosyasorgulat.com
 dosyasorgulatuyap.com
 dosyasorgulatuzlasmaa.com
 dosyasorgulayin.com
+dosyasorgum.org
 dosyasorgunuz.com
 dosyasorgusistemi.com
 dosyasorgusu.com
@@ -128186,6 +128190,7 @@ drenostavik.digital
 drerseesx2.dns.navy
 dresatl.info
 dresoklanfirsatlan1o1.xyz
+dresokunavi.gifts
 dresortgocekresort.com
 dresortsgocek.com
 dress.html-5.me
@@ -141184,6 +141189,7 @@ edvntltzz.strangled.net
 edvs-basvuru-iadeformu-edevlet.com
 edvtaidtiaade.com
 edvtapkonlv.com
+edvtapkonlv.org
 edvtapuonlinerdven.org
 edvtlaidtiade.com
 edvtrm18.duckdns.org
@@ -191434,6 +191440,7 @@ harikaramzanfirdatlari.xyz
 harikasaatlerbasladi.com
 harikasekildeyaninageldi.com
 harikaservisssssz-3aa72187eae1.herokuapp.com
+harikaservissssszyeah-6ad1d6cb379e.herokuapp.com
 harikasevilenkampanyalar.com.tr
 harikasevilenkampanyalar.xyz
 harikasevilenkampanyalarsizlerle.com.tr
@@ -200780,6 +200787,7 @@ hgyuuss.click
 hgz1s6qp.duckdns.org
 hgzbest.is-best.net
 hgzjklm-yolodemex.com
+hgzkgmkyolgcsnzbc.ddnsgeek.com
 hgzodemesi1457.com
 hgzpanel.is-best.net
 hgzsdeyizbugunla.net
@@ -243950,6 +243958,7 @@ kgm-odeme.com
 kgm-odeme.net
 kgm-odeme.xyz
 kgm-odemee.com
+kgm-odemeler.net
 kgm-odemex.com
 kgm-odemexx.com
 kgm-odemexxx.app
@@ -256195,6 +256204,7 @@ linavixor.com
 linavo.store
 linb4hsafjh873rhoadg-a984ihf47y89agiw3y.duckdns.org
 linbnkxrckro.xyz
+lincoln-discovery-export-bond.trycloudflare.com
 linda-callaghan.icu
 linda-gaytan.website
 linda991.duckdns.org
