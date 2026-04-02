@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-02 06:03:43 UTC
-# Toplam: 447268 Domain
+# Son Güncelleme: 2026-04-02 07:56:04 UTC
+# Toplam: 447279 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22639,6 +22639,7 @@ a-101-bugune-ozel-cepte.ozel-sponsor.com
 a-101-c-om-t-r.sbs
 a-101-c0lmtl.cyou
 a-101-c0m.cyou
+a-101-c0n.cyou
 a-101-cepte-market-kampanya.online
 a-101-cepte-market.com
 a-101-cepte-market.online
@@ -59613,6 +59614,7 @@ baspinarlartulumpeyniri.com
 basre.loveslife.biz
 basriasrl.shop
 basruvularim.online
+basruvularimiz.online
 bass1024.ddns.net
 bassaksigorta.com.tr
 bassaksigorta.xyz
@@ -88626,6 +88628,7 @@ buraya-kadar-geldiniz-burada-beklediniz-unutma.com
 buraya-kadar-geldiniz-sizleri-mutlu-etmeden-gitmeyiz.com
 buraya-kadar-kazancli-gelinir-gorun-bilin.com
 buraya-mutlu-hisler-biraktik-sende-gel.com
+burayabeklerizzz-5609cdc513ba.herokuapp.com
 burayafocus.club
 burayagel.club
 burayagelfirsatlarburada.sbs
@@ -214237,6 +214240,7 @@ ilanlarimmobilden.com
 ilanlarimmobile.com
 ilanlarimmobiles.com
 ilanlarimobilden.com
+ilanlarimode.online
 ilanlarimode.shop
 ilanlarin-siparis.com
 ilanlarin.com
@@ -214551,6 +214555,7 @@ ilerisideniz-basvuruyelik.tk
 ilerisideniz.ooguy.com
 ilerisideniz.xyz
 ilerisidenizfirsatlari.website
+ileriye-hep-arkasinda.sbs
 ileriyesongazz.com
 ileriyidusunengelir.cfd
 ilerle-sonraki.xyz
@@ -256177,6 +256182,7 @@ liliweb.postegroweb.co
 liliwebgiris.postegroweb.co
 liliykleme.net
 lillethrek.biz
+lillieclairelove.com
 lillliliiliiilliillil.com
 lillllllllllllll.duckdns.org
 lilnest.mom
@@ -310861,6 +310867,7 @@ piramityatirim.com
 piramityatirimonline.com
 pirana-tech.com
 piranhayetkilibayi.site
+piranhtech.online
 piranltech.com
 piranno12.site
 piranteach.online
@@ -340237,6 +340244,7 @@ sahibindensecurity.cf
 sahibindensecurity.epizy.com
 sahibindensecury.com
 sahibindensecury.xyz
+sahibindensepetim.ilanlarimode.online
 sahibindensget-s.com
 sahibindensget.com
 sahibindensgetlis.com
@@ -365521,6 +365529,7 @@ subbva.shop
 subbzero15.duckdns.org
 subcarinate.com
 subcnected.duckdns.org
+subcompensative-tuyet-scapiform.ngrok-free.dev
 subcore.sbs
 subd.a0001.net
 subd.html-5.me
@@ -394331,6 +394340,7 @@ u-odeme.sa.com
 u-pttgov.top
 u-sipsl.cc
 u-so-mat-tnis-kerimg-tten.sbs
+u-solm-yelemeez.sbs
 u-som-ata-ni-realde-bulur-rum.sbs
 u-spostea.top
 u-tr.online
@@ -406771,6 +406781,7 @@ vimeoly.com
 vimeradokul.com
 vimilhxgz.duckdns.org
 vimiluu.com
+vimoslabasla.com
 vimuhqrfgurxret.cn
 vinaaz.net
 vinaychutiya.no-ip.biz
