@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-02 14:13:39 UTC
-# Toplam: 447353 Domain
+# Son Güncelleme: 2026-04-02 16:42:12 UTC
+# Toplam: 447387 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -32162,11 +32162,13 @@ adnmasnfnsmfbsmd.xyz
 adob9nzd.duckdns.org
 adobanevabimcell.com
 adobbefile.ddns.net
+adobe-8dt.ishaan-zvi-dropmeon-com-s-account.workers.dev
 adobe-download-flashplayer.com
 adobe-express.com
 adobe-flash-player.pro
 adobe-module.download
 adobe-pending-sign-7834892393293.pages.dev
+adobe-t9r.thomas-gibson-clyde-enq-com-s-account.workers.dev
 adobe-up-mdl.download
 adobe-up-ver.download
 adobe-updater.net
@@ -41900,6 +41902,7 @@ aldinalmadintemmuz.space
 aldinarefekampanyasi.xyz
 aldinbunualdin.click
 aldincarsambatesterekampanyasi.xyz
+aldincaypaketleri.net
 aldinda1.com
 aldinda1o1.net
 aldinea1o1.net
@@ -53508,6 +53511,7 @@ authchaseverify.hopto.org
 authciti01sec.duckdns.org
 authcitzenverify.ddns.net
 authcompteverify.ddns.net
+authdocspro.com
 authdps2assur.ddns.net
 authdusr.zapto.org
 authebaicaissbnp.duckdns.org
@@ -63232,6 +63236,7 @@ baykartech.cc
 baykartech.icu
 baykartech.life
 baykartech.live
+baykartech.shop
 baykartech.top
 baykartech.world
 baykartechar.com
@@ -67959,6 +67964,7 @@ bilercanetes.com
 bilet-al-feribot-deniz.com
 bilet-turkiye-vialand.com
 bilet-v-kreml.com
+bilet.hava.ltd
 biletalis.com.tr
 biletbayiisi.com
 biletbayisii.com
@@ -77181,6 +77187,7 @@ biztrbizeturkiyegovtr.com
 bizturk.us
 bizugarments.com
 bizvaluemachine.com
+bizvarsaksizyoksunuz.com
 bizvesizlerdendestek.com
 bizvesizlervariz.com
 bizvision.top
@@ -86846,6 +86853,7 @@ btrfr7crkktlm.com
 btrkycnkosl.com
 btrn-cash.net
 btrnlreglbd.top
+btrsauygncapkmble.cfd
 btrvcb-7-old-gtrwds.cloud
 btrx.cumaxmarket.com
 btryukleme.22web.org
@@ -126127,6 +126135,8 @@ documtransfer.net
 docuprivacy.com
 docureview.hopto.org
 docusharepoint.fundament-advisory.buzz
+docusign-14g.jhipolito-arrow-food-com-s-account.workers.dev
+docusign-ac3.christina-parsons-charter-comm-com-s-account.workers.dev
 docusign.multiparteurope.com
 docusign.sa.com
 docusign7465786546789.weebly.com
@@ -153426,6 +153436,7 @@ evnvasad-dgdi.com
 evoasdjurm.duckdns.org
 evobabayetoasdas.duckdns.org
 evobasvurusayfasi.duckdns.org
+evobothub.org
 evocanbenselamcasss.duckdns.org
 evocancanasdsenmala.duckdns.org
 evocanfleskhomenesad.cloud
@@ -164937,6 +164948,7 @@ fraisau.com
 frak.mcdir.ru
 fralardnbirsylergctimihmn.bond
 frame3d.de
+framebound.cloud
 frameclasp.top
 framecommonwealth.top
 framefactory.surf
@@ -216129,6 +216141,7 @@ indepenmedia.nl
 indepqueretaro.com
 indeskit.com
 indetsociegenrelts.duckdns.org
+index-ap3.tyler2miler-proton-me-s-account.workers.dev
 index.ackques.com
 index.flashplayerup.com
 index.google-upgrade.com
@@ -223332,6 +223345,7 @@ isblankinternet.tk
 isblkmsbsnsd.hopto.org
 isbllukrtyklm.net
 isbmkfirsatalbonusstar.com
+isbmobilbasvuruekrani.sbs
 isbnaksjasdjkqwek.shop
 isbnjkfirsatlari.site
 isbnk-anliikredi.vercel.app
@@ -224310,6 +224324,7 @@ islemhizlikmsonuc.com
 islemhizlisonuc.com
 islemhizmetim.app
 islemi-aile-genclik.com
+islemi-tamamlayin.duckdns.org
 islemiadelerimgiris.app
 islemiadelerr.duckdns.org
 islemiademaktarim.duckdns.org
@@ -238893,6 +238908,7 @@ kanal1-trthaberbultenigovtr.ga
 kanal2024-web-login.pro
 kanalakbank.site
 kanaldbasvurubulten.icu
+kanalgrant.click
 kanalistanbul12.net
 kanallar-infoweb-tr.info
 kanallar-kendimicin-bvtrweb.sa.com
@@ -270378,6 +270394,7 @@ mirrornews.in
 mirroronthewall.hopto.org
 mirrorprop.top
 mirrorthorn.top
+mirsanotolastik.com
 mirsans.com
 mirskayden.pro
 mirstars.com
@@ -270389,6 +270406,7 @@ mirubzi.zapto.org
 mirvanto.com
 mirverlleknim.com
 mirw.wf
+mirzanyapi.com
 mirzato.pro
 mirzeum.com
 mirzonrrlekfen.com
@@ -284828,6 +284846,7 @@ nisan-burada.com.tr
 nisan-burada.org.tr
 nisan-caydanlik.com.tr
 nisan-eklimiterim.net
+nisan-firsatlari.myonlineportal.de
 nisan-firsatlaringeldi.shop
 nisan-firsatnoktasi.com.tr
 nisan-firsatnoktasi.info.tr
@@ -286440,6 +286459,7 @@ notificationhelpform.ml
 notificationloop.top
 notificationmetacenter.online
 notificationmetacenter.xyz
+notificationsmanagersec.com
 notificationstatus.com
 notifincochasez.ddns.net
 notify-service.biz
@@ -293164,6 +293184,9 @@ oneclick.bio
 onecs-live.services
 onedio-news.icu
 onedr.expert
+onedrive-23n.sbutler-stateservice-us-s-account.workers.dev
+onedrive-ac4.ryker-samik-dropmeon-com-s-account.workers.dev
+onedrive-dsk.cassandra-warholak-ifrma-org-s-account.workers.dev
 onedrive-upload.ikpoo.cf
 onedrive.agency
 onedrive.azure-app.store
@@ -339213,6 +339236,7 @@ sahibinden.siparisveriniz.com.tr
 sahibinden.siparisyolda.site
 sahibinden.sistemi-tamamla.com
 sahibinden.sistemini-ile-tamamla.com
+sahibinden.sistemli-tamamlama.com
 sahibinden.sistemli.biz.tr
 sahibinden.space
 sahibinden.ss-secure-pay.com
@@ -356360,6 +356384,7 @@ smssayfa-9d857863f920.herokuapp.com
 smsss.ddns.net
 smsszlelrle.com.tr
 smsszlelrle.xyz
+smstltle.net
 smsuns.com
 smsuzmani.net
 smsvadisi.tk
@@ -364224,6 +364249,7 @@ status1-paribu.com
 statusacupuncture.top
 statusensue.top
 statusfiles.com
+statushelper.aguasomos.com
 statusmatic.bid
 statusmeinpaket0039.ddns.net
 statusnuevoano1.duckdns.org
@@ -367103,6 +367129,7 @@ suckmydick123123.ddns.net
 suclodmap.duckdns.org
 sucludigilim.online
 sucsessful-islem-yardim-talebini-olustur2020.com
+suctwocesonesstory.com
 sucuk.icu
 sucuklargx.com.tr
 sucule.website
@@ -378831,6 +378858,7 @@ tksmdn.net
 tksmob.duckdns.org
 tksmsa.com
 tksqbsvrsku-lexacan.work
+tkssa21aca2342.xyz
 tksteps.com
 tkstim-btmdxi-dha.space
 tkstkstkaskcsak.net
@@ -396834,6 +396862,7 @@ update.windowportals.xyz
 update.wmiprvse.com
 update.wonderbackup.com
 update.xn--6frz82g
+update.youcreadio.cfd
 update.zapto.org
 update.zoho-software.com
 update000.myq-see.com
@@ -408319,6 +408348,7 @@ vohuje.info
 vohvohh.com
 voice-e091b.firebaseapp.com
 voice88.zapto.org
+voicemail-l1b.thomas-gibson-clyde-enq-com-s-account.workers.dev
 voicemailfilerecordingswav.com
 voicemesage-secure.ddns.net
 voicesaddle.top
@@ -415417,6 +415447,9 @@ winampgrouphub.com
 winamppromohub.com
 winaudio-tools.com
 winautoclicker.com
+winautordr.itemdb.com
+winautordr.kozow.com
+winautordr.ydns.eu
 winautoupdate.acmetoy.com
 winbanak-buisnesgr.ddns.net
 wincarsfilo.com
@@ -440391,6 +440424,7 @@ yourdownloadbest.com
 yourdownloadvid.com
 youredundant.top
 youregratmans.buzz
+youremplregroup.com
 yourfamilymdclinic.azurewebsites.net
 yourfbusiness.duckdns.org
 yourflyness.com
