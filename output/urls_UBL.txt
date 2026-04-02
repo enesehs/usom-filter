@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-02 22:24:32 UTC
-! Total: 357044 rules
+! Last modified: 2026-04-02 23:22:54 UTC
+! Total: 357059 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32025,6 +32025,7 @@
 *://*.anlikfirsatlarkred.com.tr/*
 *://*.anlikgelisimn.net/*
 *://*.anlikgundem.info/*
+*://*.anlikgundem.site/*
 *://*.anlikgundem.store/*
 *://*.anlikhaber.club/*
 *://*.anlikhaber.online/*
@@ -41276,6 +41277,7 @@
 *://*.bakiskuresi.net/*
 *://*.bakislar-hic-sapmaz-sende-bunlara-sahit-ol.com/*
 *://*.bakislarinizi-bir-cirpida-kazandiran-mutluga-gelin.com/*
+*://*.bakispenceresi.info/*
 *://*.bakisplatform.ltd/*
 *://*.bakisplatform.world/*
 *://*.bakistopluluk.org/*
@@ -49789,6 +49791,7 @@
 *://*.bilginngirisin.com/*
 *://*.bilginnoldu.com/*
 *://*.bilginnolsun.com/*
+*://*.bilgiodagi.org/*
 *://*.bilgiogrenme.app/*
 *://*.bilgionay.com/*
 *://*.bilgionayislem.site/*
@@ -68711,6 +68714,7 @@
 *://*.buzzentry.site/*
 *://*.buzzertv.xyz/*
 *://*.buzzfeedhealth.com/*
+*://*.buzzfocushub.com/*
 *://*.buzzknot.com/*
 *://*.buzzonclick.com/*
 *://*.buzzpoint.top/*
@@ -86024,6 +86028,7 @@
 *://*.dailytrendgrid.com/*
 *://*.dailyua.com/*
 *://*.dailyupdate-wise.com/*
+*://*.dailyvector.company/*
 *://*.dailywellnesstips.fun/*
 *://*.daimaguvenli.name.tr/*
 *://*.daimamutlualisveris.com/*
@@ -113807,6 +113812,7 @@
 *://*.ekonomianaliz.pro/*
 *://*.ekonomiarena.world/*
 *://*.ekonomibakis.online/*
+*://*.ekonomibilinci.club/*
 *://*.ekonomidalgasi.info/*
 *://*.ekonomidenizi.online/*
 *://*.ekonomidergisi.org/*
@@ -132012,6 +132018,7 @@
 *://*.freshtech.website/*
 *://*.freshtime.com.pk/*
 *://*.freshtrackhub.com/*
+*://*.freshupdate.top/*
 *://*.freshvids.info/*
 *://*.freshwind09.top/*
 *://*.freshworks-hr.com/*
@@ -132973,6 +132980,7 @@
 *://*.fydwnhc.com/*
 *://*.fyeniguncelgirisadress.shop/*
 *://*.fyfhoppdijxw.online/*
+*://*.fygityu.digital/*
 *://*.fygydoiy.com/*
 *://*.fyjrgwednwwrmrt.ru/*
 *://*.fykqx.ru/*
@@ -148998,6 +149006,7 @@
 *://*.habermerkezgenel.com/*
 *://*.habermerkezi.shop/*
 *://*.habermerkezi1.site/*
+*://*.habermerkezim.shop/*
 *://*.habermerkezim724.com/*
 *://*.habernabzi.online/*
 *://*.habernerde.xyz/*
@@ -155956,6 +155965,7 @@
 *://*.headingace.top/*
 *://*.headinginauguration.top/*
 *://*.headlinebay.online/*
+*://*.headlinecurrent.com/*
 *://*.headlinegenerator.app/*
 *://*.headlinegrove.com/*
 *://*.headlineobserver.com/*
@@ -217924,6 +217934,7 @@
 *://*.mitial.at/*
 *://*.mitmail.tech/*
 *://*.mito--cn.com/*
+*://*.mitochondrialcore.com/*
 *://*.mitoteam.com/*
 *://*.mitrampolin.com/*
 *://*.mitskdascafsfsdfsdf.cfd/*
@@ -232429,6 +232440,7 @@
 *://*.nyjivxwgwcypprev.com/*
 *://*.nyjpgvw.com/*
 *://*.nyjur.tk/*
+*://*.nyjyno.asia/*
 *://*.nykgpm.com/*
 *://*.nyklawyer.com/*
 *://*.nylalobghyhirgh.com/*
@@ -244530,6 +244542,7 @@
 *://*.paraanalizi.com/*
 *://*.paraanalizi.org/*
 *://*.paraanguvendeget.com.tr/*
+*://*.parabakis.site/*
 *://*.parabau.top/*
 *://*.parabayim.xyz/*
 *://*.parabbu-girris.com/*
@@ -245485,6 +245498,7 @@
 *://*.paraparaparapampam.online/*
 *://*.parapesindeyim.online/*
 *://*.paraphrastic.com/*
+*://*.paraprofili.site/*
 *://*.paraptrl.com/*
 *://*.parapuan-aktivasyon-finansbank.com/*
 *://*.parapuan-cardfinans.com/*
@@ -356742,6 +356756,7 @@
 *://*.zunaliro.icu/*
 *://*.zunazao.com/*
 *://*.zunelovix.com/*
+*://*.zunex.cyou/*
 *://*.zunketao.com/*
 *://*.zunlen.com/*
 *://*.zunopareki.com/*
