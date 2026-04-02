@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-02 01:05:28 UTC
-# Toplam: 447263 Domain
+# Son Güncelleme: 2026-04-02 04:15:13 UTC
+# Toplam: 447266 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -123178,6 +123178,7 @@ dijitalbirysel.net
 dijitalborsa-tr.com
 dijitalborsatr.com
 dijitalcep-ziraatwebbireysel.sbs
+dijitalcep.sbs
 dijitalcepgirisdeniz.co.vu
 dijitalcepislemleri-ziraatbireysel.com
 dijitalcepmobil.com
@@ -185819,6 +185820,7 @@ haber256.com
 haber350.online
 haber350.site
 haber350.website
+haber352.xyz
 haber359.com
 haber360.cfd
 haber360.site
@@ -437515,6 +437517,7 @@ yererymanw.duckdns.org
 yerfins.com
 yerhgs.sg-host.com
 yerhgsz.com
+yeridsas.sbs
 yerifest.com
 yerigerigeldik.net
 yerinde-firsat-tr-com.cfd
