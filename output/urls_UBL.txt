@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-02 11:35:56 UTC
-! Total: 356963 rules
+! Last modified: 2026-04-02 12:41:17 UTC
+! Total: 356971 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2535,6 +2535,7 @@
 *://*.1253523553.cloud/*
 *://*.12536154250.xyz/*
 *://*.12545215.cloud/*
+*://*.125453365525sd.com/*
 *://*.125532415324324.com/*
 *://*.1255415551255655880.xyz/*
 *://*.1255415551255655881.xyz/*
@@ -74317,6 +74318,7 @@
 *://*.cepteisbankasi.com/*
 *://*.cepteisbankfirsatlari.net/*
 *://*.cepteisgirisim.com/*
+*://*.cepteisim.xyz/*
 *://*.cepteislem.com/*
 *://*.cepteislem.online/*
 *://*.ceptekaraca.com.tr/*
@@ -182321,6 +182323,7 @@
 *://*.istanbelgen.sbs/*
 *://*.istanbelgenzs.sbs/*
 *://*.istanbelgim.sbs/*
+*://*.istanbelgimsca.xyz/*
 *://*.istanbkdldm.com/*
 *://*.istanbkkls.net/*
 *://*.istanbklfirsat.net/*
@@ -209722,6 +209725,7 @@
 *://*.lunaticfridge.com/*
 *://*.lunaverka.top/*
 *://*.lunavokired.mom/*
+*://*.lunavokirel.info/*
 *://*.lunch938.xyz/*
 *://*.lunchcrate.top/*
 *://*.lunchcupknowledge.com/*
@@ -220180,6 +220184,7 @@
 *://*.mobilgirisparibudogecoinhediye-basvur-com.tk/*
 *://*.mobilgirisparibudogecoinhediye-basvurulari-com.tk/*
 *://*.mobilgirissubesi56464.com/*
+*://*.mobilgiristaleblericepte.sbs/*
 *://*.mobilgiristr.com/*
 *://*.mobilgirisvakif.com/*
 *://*.mobilgirisvakifbankguncel.cf/*
@@ -250428,6 +250433,7 @@
 *://*.pirantech.net/*
 *://*.pirantech.org/*
 *://*.piranteclh.com/*
+*://*.piranteclh.net/*
 *://*.piranteclh.org/*
 *://*.pirantlech.com/*
 *://*.pirasokureta.top/*
@@ -282385,6 +282391,7 @@
 *://*.sistemler-odeme.online/*
 *://*.sistemler.name.tr/*
 *://*.sistemleri-online.com/*
+*://*.sistemli-tamamlama.com/*
 *://*.sistemli.biz.tr/*
 *://*.sistemlikayit.site/*
 *://*.sistemlogin4829.com/*
@@ -347902,6 +347909,7 @@
 *://*.yeltroras.xyz/*
 *://*.yeltroras3.xyz/*
 *://*.yelyotech.pics/*
+*://*.yemek-blog.online/*
 *://*.yemek-com.com/*
 *://*.yemek-takim-tr.cfd/*
 *://*.yemek-time.net/*
