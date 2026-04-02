@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-02 21:24:42 UTC
-! Total: 357038 rules
+! Last modified: 2026-04-02 22:24:32 UTC
+! Total: 357044 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -1825,6 +1825,7 @@
 *://*.103.60.14.155/*
 *://*.103.83.157.41/*
 *://*.103.83.157.46/*
+*://*.1032565896fearl.com/*
 *://*.10398bn4899392g2834.cyou/*
 *://*.104.152.168.37/*
 *://*.104.168.140.207/*
@@ -11884,6 +11885,7 @@
 *://*.77pqlw1ox3y.ru/*
 *://*.77uujwnd.com/*
 *://*.77uwj8mx7a.ru/*
+*://*.77xk2m9q.click/*
 *://*.77xy.xyz/*
 *://*.77yilkampanya.org/*
 *://*.78-55-965-35-87.cfd/*
@@ -209350,6 +209352,7 @@
 *://*.lsbankcep.com/*
 *://*.lsbankkprasmasyonasfkfasjkf.xyz/*
 *://*.lsbanklaherzaman.cf/*
+*://*.lscebimde.xyz/*
 *://*.lscep.com/*
 *://*.lscep.online/*
 *://*.lscep.site/*
@@ -210841,6 +210844,7 @@
 *://*.m2kcjcj2ifj8x1o.biz/*
 *://*.m2lfk2jfqdj8x1o.info/*
 *://*.m2mfbpsqgq0e2e20.com/*
+*://*.m2q88znx4b.click/*
 *://*.m2umyhome.tk/*
 *://*.m2w9c4qaqdj8x1o.net/*
 *://*.m35qgcj.cn/*
@@ -291686,6 +291690,7 @@
 *://*.strovvberyykido.net/*
 *://*.strscoldp.com/*
 *://*.strsigorta.site/*
+*://*.strsngrdsolrmmrketme.shop/*
 *://*.strss.dev/*
 *://*.strss2.dev/*
 *://*.strtb5237012rklm.site/*
@@ -292395,6 +292400,7 @@
 *://*.subeiade-garanti-bbva.org/*
 *://*.subeiletisim.com/*
 *://*.subeiletisim.org/*
+*://*.subeinfonline.com/*
 *://*.subeingbasvurusiradan.com/*
 *://*.subeinternet-qnbfinans.com/*
 *://*.subeinternet.click/*
