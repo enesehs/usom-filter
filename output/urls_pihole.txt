@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-02 12:41:17 UTC
-# Toplam: 447329 Domain
+# Son Güncelleme: 2026-04-02 14:13:39 UTC
+# Toplam: 447353 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18613,6 +18613,7 @@
 7657.click
 76575252.online
 7657534543242.cloud
+765756543345.online
 7657676755.cloud
 765867575773.life
 765svv.duckdns.org
@@ -44082,6 +44083,7 @@ altocloudzone.live
 altoinfor.co
 altorex.sbs
 altosdefontana.com
+altqef.help
 altrablog.com
 altralogos.com
 altrarlnmakmu.net
@@ -90930,6 +90932,7 @@ bznjmclvnb.ml
 bznr0rs.cn
 bzns1ves.ml
 bznxcvnml.ml
+bznxjn.help
 bznybuexjvx.info
 bzoivzzyor.duckdns.org
 bzone.no-ip.biz
@@ -101350,6 +101353,7 @@ cna42423sk52.com
 cna4322543as.com
 cnaci8gyolttkgmguzog.ignorelist.com
 cnajomoredgac.pro
+cnashdashdhashd29sdcnsadhh.click
 cnaweb.mrslove.com
 cnb346348.click
 cnbacmcpwy.duckdns.org
@@ -125904,6 +125908,7 @@ doanja.ddns.net
 doanlee.com
 doare-assets.s3.sa-east-1.amazonaws.com
 doaska22sd.com
+doavoc.help
 doayla-uyumlu-yasam-alani.top
 dob09e89i.duckdns.org
 dobbedvlver.com
@@ -163707,6 +163712,7 @@ fmnmkebzdb.duckdns.org
 fmoqkzx2.top
 fmovies123.top
 fmoz.pages.dev
+fmqklx.help
 fmrpsp.top
 fms9hv.duckdns.org
 fmsgatshzvkzh.net
@@ -221897,6 +221903,7 @@ iptvexpertise.com
 iptvpabloo.com
 iptvpremiumsubscription.com
 iptwk3jqg9exsvzhfn.duckdns.org
+iptyyn.help
 ipu3recx.duckdns.org
 ipub9bape.duckdns.org
 ipucukutusu.org
@@ -232018,6 +232025,7 @@ jbimcell.com
 jbimcell.net
 jbincell.com
 jbitdhcv.com
+jbitiy.world
 jbiw.ivpaw.ru
 jbjkfebbkpmj.xyz
 jbjrzvfuiu.orothypeters.ru
@@ -238876,6 +238884,7 @@ kanadalinamussuzaksel.com
 kanako.cc
 kanal-7.net
 kanal-akbank.one
+kanal-grant.click
 kanal-my-landtr.info
 kanal-myweb-landtr.info
 kanal-web-alanitr.info
@@ -242669,6 +242678,7 @@ kcmzsndifisratlarbrdaxcq1.com
 kcnach.homes
 kcnbgp8.duckdns.org
 kcnkcnmainservjfn.info
+kcnmhx.homes
 kcnncjnrjnrjfjr.in
 kcnndmsjdnwekjwjen.xyz
 kcnnrjyhdjfn.in
@@ -244341,6 +244351,7 @@ kgmkm.online
 kgmkskarylborcodmslrinz.duckdns.org
 kgmldgovtr.top
 kgmlegecisins.dev
+kgmlh.bond
 kgmlo.top
 kgmmgecisbilgi.com
 kgmmgm2.net
@@ -247871,6 +247882,7 @@ knkhgss.com
 knks000deasf.xyz
 knksde23asf.xyz
 knksdeasf.xyz
+knlkmp.help
 knmal3.ddns.net
 knmalvado9.ddns.net
 knmalvado9.duckdns.org
@@ -259963,6 +259975,7 @@ lxipvta.com
 lxjgwg.top
 lxjumvapusajnl.net
 lxkvt.com
+lxkznx.help
 lxlkeis.duckdns.org
 lxlow.shop
 lxlow.site
@@ -282120,6 +282133,7 @@ neden4s12412412rsunmert.digital
 nedenbizdenalmiyorsunki.cfd
 nedenbruadabakiyorsunaliserisedevam.cfd
 nedenegelke.net
+nedenkayipgittirotan.org
 nedenkazan.com
 nedennedengunleri.online
 nedenrp.xyz
@@ -285634,6 +285648,7 @@ nmvvdmm.online
 nmw5ti15.duckdns.org
 nmwudzk.com
 nmxgqp7fcnqr5zoqep4w2t4z78gb5x1yqo563iblv737dx3h.com
+nmxkmz.help
 nmxquantify.com
 nmxsasdmm.net
 nmymz-cmagndesn.net
@@ -290811,6 +290826,7 @@ odememerkezi.net
 odememerkezi.ru.com
 odememerkezihg.com
 odememerkezileri.ru.com
+odememerkezim.com.tr
 odememevergi.net
 odememgunes.net
 odememgunx.net
@@ -322196,6 +322212,7 @@ qbkfewctxz.duckdns.org
 qbknprmsynllarlla.com
 qbknrzsrd.org
 qbkrnsr.com
+qbkrsnrszs.xyz
 qbl8rk.duckdns.org
 qbl95m.duckdns.org
 qbmuzwyxk.com
@@ -424913,6 +424930,7 @@ xbxjcmllsbhd1vm.com
 xbxxasde-aidatedevlet.net
 xbxxsqmy.wcnv20.cn
 xbyffinakqfbjho.su
+xbyzgc.help
 xbzfovnund.xyz
 xc-giylator-xyz.cdn.ampproject.org
 xc-naakitcozumlerimerkezi-wd.top
@@ -425703,6 +425721,7 @@ xk1aw99ig8a61a.xyz
 xk3j6am0.top
 xk9ulv9e.duckdns.org
 xkax2p.duckdns.org
+xkaxsa.help
 xkbotho5.duckdns.org
 xkbptxxnfp.duckdns.org
 xkbzwwsomj.duckdns.org
@@ -439173,6 +439192,7 @@ ykdaxtiauiwxkbm.su
 ykderpgdgopopfuvgt.ddns.net
 ykeksonrandev.xyz
 ykfqwaubht.duckdns.org
+ykgpkd.homes
 ykhsnkns.net
 ykivjtnxq.com
 ykixumavomem.biz
@@ -439459,6 +439479,7 @@ ynitrfsb.dev
 yniyilhediyebnnceozel.cloud
 yniyilozelhediyebnnce.cloud
 ynk4apg6oli2ejklilqle6k.ddns.net
+ynkvtx.help
 ynldrfrstbrdsok.web.app
 ynldrmfrst.web.app
 ynlendirme-git-stiye.click
@@ -441908,6 +441929,7 @@ yxfnwcbntx.duckdns.org
 yxggrycvpy.duckdns.org
 yxgwhotf.com
 yxhx5nsw.duckdns.org
+yxhzsj.help
 yxjsibeugmmj.com
 yxjvpwc.com
 yxkazrrn0.duckdns.org
@@ -442833,6 +442855,7 @@ zbdrixk.com
 zbe36s9.duckdns.org
 zbecs.com
 zbgtrqlu.com
+zbhcnx.help
 zbhxuzuo.duckdns.org
 zbi13.zapto.org
 zbiimzell.com
@@ -443504,6 +443527,7 @@ zhakangjuskagf-yhrsujfmndssagdfs.duckdns.org
 zhaksylyk.kz
 zhankai168.com
 zhara-festival.com
+zhcgsa.help
 zhcn-whatsapp.org
 zhcn.down-cdn.com
 zhcn63e63.chascerse.ru
