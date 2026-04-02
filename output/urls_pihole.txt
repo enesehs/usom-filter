@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-02 07:56:04 UTC
-# Toplam: 447279 Domain
+# Son Güncelleme: 2026-04-02 08:42:45 UTC
+# Toplam: 447301 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9104,6 +9104,7 @@
 21temmuzakfirsatin.online
 21tzo2wd.storage.googleapis.com
 21w1c.0pr3.com
+21x5v31vb3423432.duckdns.org
 21yc4v.duckdns.org
 21yil-denizbank.com
 21yilaozelfirsatlar.com
@@ -13345,6 +13346,7 @@
 3x18wtujetoxm8apypo.ddns.net
 3x216p.duckdns.org
 3x246h.duckdns.org
+3x2x1c34bg4xwsa2.duckdns.org
 3x32.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 3x5hpq2xd.duckdns.org
 3x64.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
@@ -98234,6 +98236,7 @@ chinapacific.co.nz
 chinapolicyanalysis.org
 chinaquila.com
 chinarecord.asia
+chinarfc.com
 chinasonix.cf
 chinasufffppotyshopr.top
 chinasuppotyshop.top
@@ -177008,6 +177011,7 @@ gktsk.cyou
 gkub0uapsrbj.storage.googleapis.com
 gkulbntr.online
 gkwsjnftn.xdk8ax.cn
+gkxbpj.help
 gkxtbg.duckdns.org
 gkxyhxyutx.duckdns.org
 gkyldkxzm.net
@@ -244014,6 +244018,7 @@ kgm-gov.sbs
 kgm-gov.shop
 kgm-gov.site
 kgm-gov.store
+kgm-gov.top
 kgm-gov.vip
 kgm-gov.work
 kgm-gov.xin
@@ -244139,13 +244144,19 @@ kgm.mdjxja.help
 kgm.otoyolimiss.net
 kgm.otoyollarlz.online
 kgm.otoyollla.online
+kgm.oxkasl.help
 kgm.oygmbq.help
 kgm.pcksac.cc
+kgm.pdpvhh.homes
 kgm.pepmmu.click
+kgm.ptlkak.click
 kgm.scdqwl.homes
 kgm.suoesu.homes
+kgm.txhppa.help
+kgm.vnzjgi.homes
 kgm.wklxda.homes
 kgm.xabkks.homes
+kgm.xseowz.world
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
 kgmaa.top
@@ -244221,6 +244232,7 @@ kgmgg.xin
 kgmggov-tr.ink
 kgmggovtr.top
 kgmgio.icu
+kgmgit.top
 kgmgk.top
 kgmglo.life
 kgmgo-vtr.bond
@@ -244301,6 +244313,7 @@ kgmimgovtr.top
 kgminfo-ihlalsis.com
 kgminfo.cc
 kgmisgv.click
+kgmit.top
 kgmivdodeme.net
 kgmkarahgznbrc.com
 kgmkarayoluajan.com
@@ -244361,6 +244374,7 @@ kgmotoyolmobilgc.duckdns.org
 kgmotoyolwebsis.icu
 kgmotrgov.cyou
 kgmotrgov.shop
+kgmotrsogov.icu
 kgmouw.cc
 kgmov.life
 kgmovt.cyou
@@ -244385,6 +244399,8 @@ kgmsorgu.digital
 kgmsorgu.xyz
 kgmsorgulamaveodeme.click
 kgmsorgullarcx.net
+kgmsotrgov.cyou
+kgmsotrgov.icu
 kgmsss.cfd
 kgmsswbkadrgcshgsbrc.duckdns.org
 kgmstrategy.com
@@ -244404,6 +244420,7 @@ kgmtrgov.cyou
 kgmtrgov.help
 kgmtrgov.icu
 kgmtrgov.top
+kgmtrgova.cc
 kgmtrogov.cyou
 kgmtrosogov.cyou
 kgmtrr.cc
@@ -249564,6 +249581,7 @@ kpssartiolmadangiris.ml
 kpssartiolmaksizinsizle.ml
 kpssbasvurulr.blogspot.com
 kpssbasvurumerkez.com
+kpssd.com
 kpssistemyetki.ml
 kpssosymodeme.net
 kpssosymsss.net
@@ -291717,6 +291735,7 @@ ohpceazus.com
 ohqaphal.net
 ohqdeprl.com
 ohrfrost.com
+ohridblue.com
 ohs1yx.duckdns.org
 ohsunfjtd.site
 ohtcsklucfhnqqg.cn
@@ -330782,6 +330801,7 @@ resmizerogirisi-turkeygovtri.com
 resmodmlr.online
 resoklanfirsatlan1o1.xyz
 resoluteartisan.com
+resolutedhc.com
 resoluteendeavor.top
 resolutelegacy.top
 resoluterevenge.top
@@ -367449,6 +367469,7 @@ sunskyeco.online
 sunspass.com
 sunspasstollsservices.com
 suntit.ddns.net
+suntrailan.com
 suntrailz.com
 suntrustsecure.ddns.net
 sunu.misecure.com
@@ -388014,6 +388035,7 @@ trpttgovev.cc
 trpttgovf.cc
 trpttgovfd.cc
 trpttgovfm.cc
+trpttgovgk.cc
 trpttgovgq.cc
 trpttgovgr.cc
 trpttgovgv.cc
