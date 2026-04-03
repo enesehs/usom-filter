@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-03 15:30:44 UTC
-! Total: 357136 rules
+! Last modified: 2026-04-03 16:25:43 UTC
+! Total: 357142 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47390,6 +47390,7 @@
 *://*.beklemenizgerek.com/*
 *://*.beklemeyegerekkalmadan.net/*
 *://*.beklemeyinkgm.biz/*
+*://*.beklemeyinkgm.com/*
 *://*.beklemeyinlutf.com/*
 *://*.beklenemedefe.net/*
 *://*.beklenen-eyluliade.xyz/*
@@ -195145,6 +195146,7 @@
 *://*.kariyergratis.com/*
 *://*.kariyeriimburadaa.com/*
 *://*.kariyerinbizimle.com/*
+*://*.kariyerkapim.online/*
 *://*.kariyermediamarkt.store/*
 *://*.kariyermerkez.com/*
 *://*.kariyerteknosa.space/*
@@ -229267,6 +229269,7 @@
 *://*.nisanodeme.org/*
 *://*.nisanodemelerigov.com/*
 *://*.nisanozel-indirimler.com/*
+*://*.nisanozelfirsatlar101.com/*
 *://*.nisanshop.com/*
 *://*.nisansigorta4.pw/*
 *://*.nisansigorta5.pw/*
@@ -234997,6 +235000,7 @@
 *://*.onaruy.com/*
 *://*.onasama.com/*
 *://*.onasilanatomi.online/*
+*://*.onasvtvturuk.com/*
 *://*.onawhimduo.com/*
 *://*.onay--internetsubegiris.com/*
 *://*.onay--qnbfinansbank.com/*
@@ -259304,6 +259308,7 @@
 *://*.pytizuy.com/*
 *://*.pytugrauinyndkabj.org/*
 *://*.pyungz.org/*
+*://*.pyunuqakb.com/*
 *://*.pyv9i.tw/*
 *://*.pyvhdgo.com/*
 *://*.pyvjwcknkkgnewkowkg.pw/*
@@ -302788,6 +302793,7 @@
 *://*.tjyaphr.com/*
 *://*.tk-garantigroup.com/*
 *://*.tk-i-knt-bvsru.online/*
+*://*.tk033.vip/*
 *://*.tk20sa.net/*
 *://*.tk9u.com/*
 *://*.tkaklatalka.online/*
