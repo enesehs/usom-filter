@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-03 16:25:43 UTC
-! Total: 357142 rules
+! Last modified: 2026-04-03 17:23:28 UTC
+! Total: 357152 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -20319,6 +20319,7 @@
 *://*.admlogs457.cfd/*
 *://*.admob-games.online/*
 *://*.admob-games.xyz/*
+*://*.admondtamang.com.np/*
 *://*.admonpc-ayapel.com.co/*
 *://*.admoyu.com/*
 *://*.admrwtssnshs.eu/*
@@ -74998,6 +74999,7 @@
 *://*.cezaesorgu.net/*
 *://*.cezagecisler.info/*
 *://*.cezagecislerin.info/*
+*://*.cezahmb.org/*
 *://*.cezahukuksorgulatma.com/*
 *://*.cezahukukudosya.com/*
 *://*.cezai-islemler.com/*
@@ -182100,6 +182102,7 @@
 *://*.ismisisiizkisi.com/*
 *://*.ismissizckaha.com/*
 *://*.ismisssizcha.com/*
+*://*.ismknbvhfd.com/*
 *://*.ismmmodamaktuaidatiodemex.net/*
 *://*.ismntlkart.net/*
 *://*.ismobil-web.ml/*
@@ -198081,6 +198084,7 @@
 *://*.kgm-cometr.com/*
 *://*.kgm-cvs.com/*
 *://*.kgm-demo.com/*
+*://*.kgm-deyiz.com/*
 *://*.kgm-e.digital/*
 *://*.kgm-etc.com/*
 *://*.kgm-example.com/*
@@ -198513,6 +198517,7 @@
 *://*.kgngovtr.top/*
 *://*.kgnodevihhlalweb.site/*
 *://*.kgod.top/*
+*://*.kgodeyin.com/*
 *://*.kgonline.me/*
 *://*.kgonlineodeme.org/*
 *://*.kgosbckfmuto.com/*
@@ -219359,6 +219364,7 @@
 *://*.mobilcarkbinance.com.tr/*
 *://*.mobilcebim.com/*
 *://*.mobilcebim.online/*
+*://*.mobilcebimdebasvurularim.sbs/*
 *://*.mobilcebsubem.com/*
 *://*.mobilcekilisformu.com/*
 *://*.mobilcekilisi.com/*
@@ -220428,6 +220434,7 @@
 *://*.mobilislemlerzrat.ga/*
 *://*.mobilisube.com/*
 *://*.mobilite-denizden.com/*
+*://*.mobilitecebasvurusulari.sbs/*
 *://*.mobilitenet.net/*
 *://*.mobiliz-cepten.site/*
 *://*.mobiliz-ihtyc.tk/*
@@ -285766,6 +285773,7 @@
 *://*.solargroup.xyz/*
 *://*.solarhome.top/*
 *://*.solarishub.xyz/*
+*://*.solariukampanski.life/*
 *://*.solarlyreciproal.top/*
 *://*.solarmerkez.site/*
 *://*.solarodemem.net/*
@@ -319924,6 +319932,7 @@
 *://*.uzlasmadavasi.com/*
 *://*.uzlasmadosya.org/*
 *://*.uzlasmadosyalari.org/*
+*://*.uzlasmadosyalarim.org/*
 *://*.uzlasmadosyamaliye.com/*
 *://*.uzlasmadosyasi.org/*
 *://*.uzlasmadosyasimaliye.com/*
@@ -348293,6 +348302,7 @@
 *://*.yeniaktuellik.online/*
 *://*.yeniaktuellik.xyz/*
 *://*.yenialanyahaber.com/*
+*://*.yenialdinaldinkampanya.com/*
 *://*.yenialiasverisfirsati.com.tr/*
 *://*.yenialiasverisfirsati.online/*
 *://*.yenialiasverisfirsati.xyz/*
