@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-03 06:04:31 UTC
-! Total: 357072 rules
+! Last modified: 2026-04-03 07:53:14 UTC
+! Total: 357080 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -14608,6 +14608,7 @@
 *://*.a101.biz/*
 *://*.a101.blog/*
 *://*.a101.cfd/*
+*://*.a101.club/*
 *://*.a101.homes/*
 *://*.a101.icu/*
 *://*.a101.ink/*
@@ -74156,6 +74157,7 @@
 *://*.cepte-papara.com/*
 *://*.cepte-seninle.name.tr/*
 *://*.cepte-seninle.web.tr/*
+*://*.cepte-shop-online.sbs/*
 *://*.cepte-sok-ilkbaharkampanyasi.online/*
 *://*.cepte-sok-indirim.name.tr/*
 *://*.cepte-sok-market.name.tr/*
@@ -149013,6 +149015,7 @@
 *://*.habermerkezi.shop/*
 *://*.habermerkezi1.site/*
 *://*.habermerkezim.shop/*
+*://*.habermerkezim.xyz/*
 *://*.habermerkezim724.com/*
 *://*.habernabzi.online/*
 *://*.habernerde.xyz/*
@@ -207588,6 +207591,7 @@
 *://*.linksys-analytic.com/*
 *://*.linksysmgir.pw/*
 *://*.linktatar.com/*
+*://*.linktesins-mobil-tr.click/*
 *://*.linktothisa.xyz/*
 *://*.linkupdate.org/*
 *://*.linkwide.site/*
@@ -250503,10 +250507,12 @@
 *://*.pirana-tech.com/*
 *://*.piranhayetkilibayi.site/*
 *://*.piranhtech.online/*
+*://*.piranlteaclh.online/*
 *://*.piranltech.com/*
 *://*.piranno12.site/*
 *://*.piranteach.online/*
 *://*.pirantecch.com/*
+*://*.pirantech.cfd/*
 *://*.pirantech.fun/*
 *://*.pirantech.lol/*
 *://*.pirantech.net/*
@@ -250514,6 +250520,7 @@
 *://*.piranteclh.com/*
 *://*.piranteclh.net/*
 *://*.piranteclh.org/*
+*://*.pirantelch.com/*
 *://*.pirantlech.com/*
 *://*.pirasokureta.top/*
 *://*.piratashost.top/*
@@ -313297,6 +313304,7 @@
 *://*.turkishhairlines.online/*
 *://*.turkishisbankasi.com/*
 *://*.turkishjet.org/*
+*://*.turkishlines.click/*
 *://*.turkishlira24.com/*
 *://*.turkishmarkets.online/*
 *://*.turkishmenkulyatirim.com/*

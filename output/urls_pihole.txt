@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-03 06:04:31 UTC
-# Toplam: 447452 Domain
+# Son Güncelleme: 2026-04-03 07:53:14 UTC
+# Toplam: 447461 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5960,6 +5960,7 @@
 190.97.167.186
 19012024.com
 1901202419012024.com
+1902999301.duckdns.org
 19032n302g3x3782n93.duckdns.org
 190338com.com
 190527814536.online
@@ -23949,6 +23950,7 @@ a101.carsambafir.com
 a101.carsambahizmet3.com
 a101.carsambaonlineislemler.com
 a101.cfd
+a101.club
 a101.com-firsatlari-yakala.xyz
 a101.com-tr-indirimm.online
 a101.com-tr-kapida.com
@@ -96147,6 +96149,7 @@ cepte-papara.com
 cepte-qnbhizmetlercomtr.duckdns.org
 cepte-seninle.name.tr
 cepte-seninle.web.tr
+cepte-shop-online.sbs
 cepte-sok-ilkbaharkampanyasi.online
 cepte-sok-indirim.name.tr
 cepte-sok-market.name.tr
@@ -186179,6 +186182,7 @@ habermerkezi.my-homeip.com
 habermerkezi.shop
 habermerkezi1.site
 habermerkezim.shop
+habermerkezim.xyz
 habermerkezim724.com
 habermerkezimiz.my-homeip.com
 habernabzi.online
@@ -256647,6 +256651,7 @@ linksubsistence.top
 linksys-analytic.com
 linksysmgir.pw
 linktatar.com
+linktesins-mobil-tr.click
 linktothisa.xyz
 linkupdate.org
 linkwide.site
@@ -311003,10 +311008,12 @@ piramityatirimonline.com
 pirana-tech.com
 piranhayetkilibayi.site
 piranhtech.online
+piranlteaclh.online
 piranltech.com
 piranno12.site
 piranteach.online
 pirantecch.com
+pirantech.cfd
 pirantech.fun
 pirantech.lol
 pirantech.net
@@ -311014,6 +311021,7 @@ pirantech.org
 piranteclh.com
 piranteclh.net
 piranteclh.org
+pirantelch.com
 pirantlech.com
 pirasokureta.top
 pirata-88.zapto.org
@@ -391256,6 +391264,7 @@ turkishh.shop
 turkishhairlines.online
 turkishisbankasi.com
 turkishjet.org
+turkishlines.click
 turkishlira24.com
 turkishmarkets.online
 turkishmenkulyatirim.com
