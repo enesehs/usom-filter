@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-03 13:54:29 UTC
-# Toplam: 447509 Domain
+# Son Güncelleme: 2026-04-03 14:33:48 UTC
+# Toplam: 447521 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22647,6 +22647,7 @@ a-101-app.online
 a-101-app.shop
 a-101-aylikkampanyalar.com.tr
 a-101-aylikkampanyalar.xyz
+a-101-balahar.lol
 a-101-bugune-ozel-cepte.ozel-sponsor.com
 a-101-c-om-t-r.sbs
 a-101-c0lmtl.cyou
@@ -49580,6 +49581,7 @@ arafaali.zapto.org
 arafatoles.xyz
 arafcfimuayynen.org
 arafetjihed.zapto.org
+arafminsa.sbs
 arafminza.sbs
 arahasitof.digital
 arahgsz.com
@@ -113830,6 +113832,7 @@ delivrysystems.ddns.net
 delkrano.com
 dell1.ug
 dellenmis.com
+dellerdelisi.lol
 dellgenius.hopto.org
 delll.xyz
 dellliiindiirmler.com.tr
@@ -218363,6 +218366,7 @@ infopage.hopto.org
 infopaymentlocked.hopto.org
 infoplusplus.com
 infoportal.duckdns.org
+infopresshub.info
 infoprokaps.ddns.net
 infoprokapz.ddns.net
 infopromo.biz
@@ -246970,6 +246974,7 @@ kmasorgulamasi-70b605936c55.herokuapp.com
 kmasrgulamasi-80750c264c34.herokuapp.com
 kmasxnsxanwer.click
 kmavotohizligecisode.xyz
+kmbak.sa.com
 kmbaksende.online
 kmbenimyallah.cfd
 kmbgfgbf.shop
@@ -248037,6 +248042,7 @@ knqblbzpx.com
 knqgemf.com
 knqusjt.com
 knsbdc.top
+knsistnblsbs.com
 knsl1.zapto.org
 knspwiym.manus.space
 knt-baswqqwu.net
@@ -283365,6 +283371,7 @@ neverlandserver.nn.pe
 neverletyoudownsexx.ddns.net
 neverlose.icu
 neverlosecheck.site
+neverloseland.loseyourip.com
 neverloselo.net
 neverlosepro.icu
 neveroker.info
@@ -294663,6 +294670,7 @@ online-satis.com.tr
 online-satis.ru.com
 online-satisa-ozel.com
 online-sayfalarland-webtr-in.sa.com
+online-sbm.com
 online-secure-alim.com.tr
 online-secure-get.site
 online-secure-hizmetleri.com
@@ -296534,6 +296542,7 @@ onlinekazaburada.com
 onlinekazandiranhafta.com.tr
 onlinekdviadetalebi.com
 onlinekg.org
+onlinekgmm.com
 onlinekilomtresorglma.web.app
 onlinekilomtresorgu.web.app
 onlinekilomtresorgulama.web.app
@@ -320334,6 +320343,7 @@ ptthelp.help
 ptthelps.cyou
 ptthelps.site
 ptthemen.com
+ptthemencan.com
 ptthemenngirisyap.xyz
 ptthgs--hgs-tr.blogspot.com
 ptthgs-avm-gov-tr.blogspot.com
@@ -338624,6 +338634,7 @@ sahibinden.guvenli-alimlarin.com.tr
 sahibinden.guvenli-alis.com.tr
 sahibinden.guvenli-alisveris-hizmeti.online
 sahibinden.guvenli-alisveris-hizmetleri-tr.com
+sahibinden.guvenli-alisveris-ilan.online
 sahibinden.guvenli-alisveris-ilani.com
 sahibinden.guvenli-alisveris.sa.com
 sahibinden.guvenli-alisveris.site
@@ -370574,6 +370585,7 @@ takilanyonetiler.xyz
 takilmam.xyz
 takim-setleri-tr.click
 takimaletedavatsa.shop
+takimaletibi.shop
 takimaletindirimibasladi.com
 takimaletlerindesinirlisayilar.sbs
 takimaletleriyapimarkethirdavat.sbs
