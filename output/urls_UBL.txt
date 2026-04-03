@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-03 11:28:31 UTC
-! Total: 357090 rules
+! Last modified: 2026-04-03 12:33:54 UTC
+! Total: 357094 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -119263,6 +119263,7 @@
 *://*.esashaber.club/*
 *://*.esashotkensat.net/*
 *://*.esasportfoy.net/*
+*://*.esasportfoy.org/*
 *://*.esassva.click/*
 *://*.esatbumyazabi.click/*
 *://*.esatis-sahibindenparamguvende-com.tk/*
@@ -137097,6 +137098,7 @@
 *://*.gecefrsatlarikacirma.com/*
 *://*.gecefrstlrbgnckgzl.shop/*
 *://*.gecegecedeniz.tk/*
+*://*.gecegunduz.click/*
 *://*.gecegunduz.sbs/*
 *://*.gecegunduztikabasaa.com/*
 *://*.geceindirimlerim.online/*
@@ -144431,6 +144433,7 @@
 *://*.grntprmsynkmpnyaaa.info/*
 *://*.grntprmsynkmpnyaaa.pro/*
 *://*.grntprmsynnkmpnyamkrz.live/*
+*://*.grntprmsynnkmpnyamkrz.pro/*
 *://*.grntprmsynnnbsvrr.xyz/*
 *://*.grntprmsynnnkampanyasi.info/*
 *://*.grntprmsynnnkampanyasi.pro/*
@@ -216946,6 +216949,7 @@
 *://*.mhrsrandevualma.net/*
 *://*.mhrsrandevum.net/*
 *://*.mhrsrandevumuolustur.site/*
+*://*.mhrsrandevun.com/*
 *://*.mhrsrandevunuz.net/*
 *://*.mhrsrndvislmlerin.online/*
 *://*.mhrsrsrs.cfd/*
