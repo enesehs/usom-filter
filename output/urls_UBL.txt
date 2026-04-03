@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-03 12:33:54 UTC
-! Total: 357094 rules
+! Last modified: 2026-04-03 13:54:29 UTC
+! Total: 357123 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32924,6 +32924,7 @@
 *://*.appjzdnn6.click/*
 *://*.appjzdnn7.click/*
 *://*.appjzdnn8.click/*
+*://*.applattice.buzz/*
 *://*.applaudcomplement.top/*
 *://*.applaudinvalid.top/*
 *://*.applaudunification.top/*
@@ -33395,6 +33396,7 @@
 *://*.araba-randevumuayne.net/*
 *://*.arabaaaakmmmgecmis.click/*
 *://*.arabaasigorta.site/*
+*://*.arababasvurum.click/*
 *://*.arabacekilisfirsatisizlerlehemenkatil.space/*
 *://*.arabacekilisi-tr.com/*
 *://*.arabacekilisi.ml/*
@@ -36665,6 +36667,7 @@
 *://*.assaultseekwoodywod.pw/*
 *://*.assaultslush.top/*
 *://*.assaultt45.xyz/*
+*://*.assaylab.sbs/*
 *://*.assclrvt-scvdt.com/*
 *://*.assdadasadadwasa.net/*
 *://*.assdalfaslfqlasfq.shop/*
@@ -55050,6 +55053,7 @@
 *://*.birebirbayiniz.com/*
 *://*.bireiselgiris.com/*
 *://*.birekampyakatilimsayfasiforumozel.online/*
+*://*.biresakt.net/*
 *://*.biresi.xyz/*
 *://*.biretbitteptik.site/*
 *://*.birey-aidat-iade-basvuru-ozel.com/*
@@ -64772,6 +64776,7 @@
 *://*.brekelter2.com/*
 *://*.brekestetic.top/*
 *://*.brekkegard.no/*
+*://*.brelamodir.com/*
 *://*.brelliantshon.com/*
 *://*.brelovikadu.boats/*
 *://*.breltorn.buzz/*
@@ -92729,6 +92734,7 @@
 *://*.dentisttariff.top/*
 *://*.dentistvicinity.top/*
 *://*.dentkvck2tekgiris.ga/*
+*://*.dentpedia.com.tr/*
 *://*.dentrigid.top/*
 *://*.dentsfirst.com/*
 *://*.dentsivd.com/*
@@ -106250,6 +106256,7 @@
 *://*.e-pepara.com/*
 *://*.e-pilatform-bireysel-aidat-geri-iade-basvurusu.xyz/*
 *://*.e-pilatform-bireysel-aidat-iade-basvurusu.xyz/*
+*://*.e-pirantech.com/*
 *://*.e-plakabakiyeyukleme.live/*
 *://*.e-plakahesabi.com/*
 *://*.e-plakasubaci.com/*
@@ -108421,6 +108428,7 @@
 *://*.edavasorgu.net/*
 *://*.edavasorgula.org/*
 *://*.edavasorgulama.org/*
+*://*.edavatakim.com/*
 *://*.edavatr.org/*
 *://*.edaveltes.top/*
 *://*.edawtgfswerdasz.com/*
@@ -120001,6 +120009,7 @@
 *://*.esubehostname.gq/*
 *://*.esubeindir.com/*
 *://*.esubeinfo.com/*
+*://*.esubeinfonline.com/*
 *://*.esubeinfoyatirim.com/*
 *://*.esubeisbank.com/*
 *://*.esubeisbankonlineislemler.com/*
@@ -128203,6 +128212,7 @@
 *://*.firsathaberleri.shop/*
 *://*.firsathaftamasgir.com/*
 *://*.firsathaftanzi.com/*
+*://*.firsathaftasi.com.tr/*
 *://*.firsathaftasi.online/*
 *://*.firsathaftasibugun.com/*
 *://*.firsathaftasigeldi.shop/*
@@ -131981,6 +131991,7 @@
 *://*.freisaq.com/*
 *://*.frekansbozuk.net/*
 *://*.fremonttwnshp.com/*
+*://*.frenavotil.com/*
 *://*.french-cooking.com/*
 *://*.frenchflick.com/*
 *://*.frenchfries8.top/*
@@ -137843,6 +137854,7 @@
 *://*.geltakipins.fun/*
 *://*.gelte3dgel.xyz/*
 *://*.geltro.pt/*
+*://*.gelunoradi.gifts/*
 *://*.gelvagonlarimandesto.online/*
 *://*.gelvatandasgel.cfd/*
 *://*.gelvatandasgell.com.tr/*
@@ -144065,6 +144077,7 @@
 *://*.gregsizlerlegere.com/*
 *://*.grelavoniku.icu/*
 *://*.grelithor.net/*
+*://*.grelonatiku.gifts/*
 *://*.grelvarin.com/*
 *://*.grempeloksa.pro/*
 *://*.gremscd.pro/*
@@ -155958,6 +155971,7 @@
 *://*.hdwpmw.top/*
 *://*.hdxrhj.online/*
 *://*.hdxsmj.top/*
+*://*.hdyecnlargeldeler.xyz/*
 *://*.hdyonlumicroems.com/*
 *://*.hdysmn.top/*
 *://*.hdyzml.top/*
@@ -162451,6 +162465,7 @@
 *://*.hirdavatci.click/*
 *://*.hirdavatdunyam.com.tr/*
 *://*.hirdavatmalzemeleriyapi.sbs/*
+*://*.hirdavatveyapimarket.sbs/*
 *://*.hireassessment.com/*
 *://*.hirecaraccidentlawyer.com/*
 *://*.hireja.com/*
@@ -165252,6 +165267,7 @@
 *://*.hmnkatilson3kisi.com.tr/*
 *://*.hmnkgshgv.com/*
 *://*.hmnkhfhdfbc.com/*
+*://*.hmnkhyfsdh.com/*
 *://*.hmnkmpnyabrdaa.xyz/*
 *://*.hmnkpilarageliyrzbrda.com/*
 *://*.hmnkpilaraglyrzhzlica.com/*
@@ -179851,6 +179867,7 @@
 *://*.irofu.bar/*
 *://*.iron-tunnel.com/*
 *://*.iron325.xyz/*
+*://*.ironatlas.vu/*
 *://*.ironcageclash.com/*
 *://*.ironchicken.top/*
 *://*.ironfirst4983.xyz/*
@@ -183875,6 +183892,7 @@
 *://*.istnblckrtakp.net/*
 *://*.istnblcwkrt.net/*
 *://*.istnbldkart.net/*
+*://*.istnbldkas.com/*
 *://*.istnbldksm.com/*
 *://*.istnbldunya.com/*
 *://*.istnblesker.net/*
@@ -201154,6 +201172,7 @@
 *://*.kolada.xyz/*
 *://*.kolal.click/*
 *://*.kolasdastasdasdatasda.com/*
+*://*.kolasdhahsdhash234sadh299.click/*
 *://*.kolasifirsatgirisim.com/*
 *://*.kolay-aktarim-ekrani.site/*
 *://*.kolay-al-sat.com/*
@@ -250551,6 +250570,7 @@
 *://*.pirireist.cfd/*
 *://*.pirkettin.com/*
 *://*.pirlantaalisveris.cfd/*
+*://*.pirlantech.online/*
 *://*.pirlay.fun/*
 *://*.pirlopays.buzz/*
 *://*.pirnhaindrmleric.click/*
@@ -254587,6 +254607,7 @@
 *://*.prokrakenportfolio.com/*
 *://*.prolakers.xyz/*
 *://*.prolakros.xyz/*
+*://*.prolance.study/*
 *://*.prolar.sbs/*
 *://*.prolema.xyz/*
 *://*.prolending.pw/*
@@ -261281,6 +261302,7 @@
 *://*.qopeeplollscwwc.ru/*
 *://*.qopop.com/*
 *://*.qornas.com/*
+*://*.qornila.click/*
 *://*.qorun.shop/*
 *://*.qorva.sbs/*
 *://*.qorvi.bond/*
@@ -266329,6 +266351,7 @@
 *://*.reviewpackage.com/*
 *://*.reviewscan.top/*
 *://*.revise-akmo.com/*
+*://*.revise.sbs/*
 *://*.reviseinauguration.top/*
 *://*.reviserecur.top/*
 *://*.revisetenure.top/*
@@ -295686,6 +295709,7 @@
 *://*.takilanyonetiler.xyz/*
 *://*.takilmam.xyz/*
 *://*.takim-setleri-tr.click/*
+*://*.takimaletedavatsa.shop/*
 *://*.takimaletindirimibasladi.com/*
 *://*.takimaletlerindesinirlisayilar.sbs/*
 *://*.takimaletleriyapimarkethirdavat.sbs/*
@@ -299493,6 +299517,7 @@
 *://*.tektipdnz.site/*
 *://*.tektipwp.site/*
 *://*.tektlklaevlnegellr.com/*
+*://*.tektlklasepetlndeslekle.com/*
 *://*.tektokat.cfd/*
 *://*.tektokiilkevimgovtr.com/*
 *://*.tektonit.ru/*
@@ -338237,6 +338262,7 @@
 *://*.wwwsahibinden.online/*
 *://*.wwwsahibinden.xyz/*
 *://*.wwwsahibindenparamguvende.com/*
+*://*.wwwsampanski.life/*
 *://*.wwwsekabet562.com/*
 *://*.wwwsendekazan.site/*
 *://*.wwwsikayetvar.com/*
@@ -344599,6 +344625,7 @@
 *://*.yalisveris.sbs/*
 *://*.yalitest3.info/*
 *://*.yallahbaskasektore.sbs/*
+*://*.yallahhabibi.click/*
 *://*.yallahistkarta.cfd/*
 *://*.yallahkulubune.sbs/*
 *://*.yallahsofer.com/*
@@ -353625,6 +353652,7 @@
 *://*.zaraturkiyeonline.com/*
 *://*.zaraturkiyetr.com/*
 *://*.zardinglog.com/*
+*://*.zaremitolu.com/*
 *://*.zarex.app/*
 *://*.zareydanbunlar.sbs/*
 *://*.zarhaatbancorp.online/*
@@ -354028,6 +354056,7 @@
 *://*.zerotwofivenine.cfd/*
 *://*.zerotwosix.top/*
 *://*.zerotwosixoneseven.buzz/*
+*://*.zerphia.live/*
 *://*.zerqa.bond/*
 *://*.zerrinozeryasamvakfi.com.tr/*
 *://*.zertyjim.store/*
