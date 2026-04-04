@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-04 12:26:14 UTC
-# Toplam: 447607 Domain
+# Son Güncelleme: 2026-04-04 13:43:28 UTC
+# Toplam: 447616 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14076,6 +14076,7 @@
 465456654334.ddns.net
 465456uy6898sd999878.work.gd
 46546323574583238.com
+46546546545465.duckdns.org
 4667734552455.com
 467455213745334.com
 4679877663563673456.click
@@ -60178,6 +60179,7 @@ basvur.denizlebenimgunum.com.tr
 basvur.destek-bireysel-basvurumuz-ozel-kampanya.xyz
 basvur.edev-bireysel-aidat-geri-iadeleri.tk
 basvur.fun
+basvur.gareantrpgfgfm.click
 basvur.girisiniyap.online
 basvur.github.io
 basvur.ilkevim-basvuru.com
@@ -198505,6 +198507,7 @@ hgs-ptt-avm.com
 hgs-ptt-avm.net
 hgs-ptt-avmm.com
 hgs-ptt-avmonline.com
+hgs-ptt-gov-tr.digital
 hgs-ptt-odeme-org.blogspot.com
 hgs-ptt-odemei.herokuapp.com
 hgs-ptt-odme.net
@@ -216804,6 +216807,7 @@ indignationbenevolent.top
 indignationdiesel.top
 indignationlinguistics.top
 indigo-internet.com
+indigo-parrot-854502.hostingersite.com
 indigo22.ddns.net
 indigopeter.ddns.net
 indigoz.click
@@ -226975,6 +226979,7 @@ istnbldkas.com
 istnbldksm.com
 istnbldunya.com
 istnblesker.net
+istnblfkfam.com
 istnblguas.shop
 istnblileyklemedeyiz.net
 istnblkard.net
@@ -228016,6 +228021,7 @@ itsme2022.ddns.net
 itsmeitsme313.ddns.net
 itsmekrappa.ddns.net
 itsmevalideren.zapto.org
+itsmksdcbx.com
 itsmybestplaces.com
 itsolusenz.com
 itsopwxwx.click
@@ -316791,6 +316797,7 @@ protection-9617369146.duckdns.org
 protection-checklinks.xyz
 protection-link.online
 protection-office.live
+protection.retarus.com
 protection7b.ddns.net
 protectionapplicationuser.infinityfreeapp.com
 protectionciit.zapto.org
@@ -335433,6 +335440,7 @@ saa0p3l.duckdns.org
 saaadnesss.shop
 saaaphoifh.duckdns.org
 saaapxpjglvjgrb.com
+saaasadskaraca.nicepage.io
 saaaszty.storage.googleapis.com
 saacaste3d.xyz
 saacma.co.za
@@ -415204,6 +415212,7 @@ whcms.greendreamcannabis.com
 whcscyd.duckdns.org
 whdacxerg.wcnv20.cn
 whdbazxxwo.ddns.net
+wheat-dove-635132.hostingersite.com
 wheat-stingray-909272.hostingersite.com
 wheatconspicuous.top
 wheatendorse.top
