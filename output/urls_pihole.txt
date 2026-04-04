@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-04 10:23:15 UTC
-# Toplam: 447594 Domain
+# Son Güncelleme: 2026-04-04 11:23:14 UTC
+# Toplam: 447605 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2458,6 +2458,7 @@
 101firsattlari.com
 101firsattlr.xyz
 101firstalariindirimlerde.com
+101firsxtlarburada.com
 101fisatlarindakapindacomtr.vercel.app
 101fjgdfkgjkhfg.hopto.org
 101frsatlararwq.click
@@ -58375,6 +58376,7 @@ bakiyeyuklemeetiketsorgulama.blogspot.com
 bakiyeyuklemehg.com
 bakiyeyuklemehizmetleri.com
 bakiyeyuklemek.info
+bakiyeyuklememerkezi-hgs-onay.duckdns.org
 bakiyeyuklememerkezi.com
 bakiyeyuklemenoktasi.xyz
 bakiyeyuklemesepeti.xyz
@@ -144064,6 +144066,7 @@ ekstrayazfirsatlarinda.net.tr
 ekstrayuk.net
 ekstre-yapkredi.com
 ekstreiade.com
+ekstrra.duckdns.org
 eksttr--amrktxindrmlleriyle.gb.net
 eksttr-amrdktxindrmlleriyle.xyz
 eksttr-amrkdddtsddxinsdrmgglleriyle.gb.net
@@ -154463,6 +154466,7 @@ extra-mobil-alisveris-tr.online
 extra-siparis-mobil-tr.online
 extra-siparis-tr.online
 extra-sponsor-market.online
+extra-sponsor-tr.site
 extra-tr.online
 extra1o1aldinaldntukenyr.shop
 extra1o1firsatlrtukenyr.shop
@@ -162488,6 +162492,7 @@ firstzamanimusayiziktim.shop
 firstztb.com
 firsuaissanews.com
 firsvtlvilktikacirma.com.tr
+firsxtlarburxda101.com
 firsxtlarxm-eyxlul.online
 firsxtlarxm-eyxlul.xyz
 firsxtli-urunller.com
@@ -234946,6 +234951,7 @@ k0bidestek.cfd
 k0bidestek.click
 k0bihizmetler.click
 k0bimerkezi.click
+k0bimerkezl.click
 k0biprojem.cfd
 k0c2o8kfmra2wt3vu4klcvw.ddns.net
 k0dxnr.duckdns.org
@@ -238879,6 +238885,7 @@ kampspn23.com
 kamptanyaliurgunlerism.com
 kampuno.xyz
 kampvergix.net
+kampxevra.click
 kampxnyamxotrlxrmbnm.cfd
 kampya-bireysel-basvur-com.cf
 kampya-bireysel-basvur-com.ga
@@ -249471,6 +249478,7 @@ kosgebbasvuru.cfd
 kosgebbasvuru.online
 kosgebbasvuruformu.click
 kosgebbasvuruformu.com
+kosgebbasvurular.click
 kosgebbasvurum.online
 kosgebbasvurusu.click
 kosgebbasvurusuu.click
@@ -263054,6 +263062,7 @@ makeventure.top
 makeyearn.top
 makeyourpay.com
 makicakes.com
+makielse.cc
 makineteknoloji.net
 makitablackfriday.shop
 makkakuyio.store
@@ -297835,6 +297844,7 @@ onnline-aketuelindirimler.com
 onnline-ticarett.com
 onnlineaktif.net
 onnlinee-vtnnds-hiizmt101.ga
+onnlinegerisor-merkez.click
 onnlinehgsyukllemecim.com
 onnlineolarak-gor.sbs
 onnlne-bsvvrm-yap.com.tr
@@ -361828,6 +361838,7 @@ sponsor-9.online
 sponsor-basvrum-online.com
 sponsor-bnturkeykriptovarlikalimsatim.com
 sponsor-bnturkeykriptovarlikalimsatim.net
+sponsor-extra-mobil-tr.click
 sponsor-girisyap-basvur.com
 sponsor-icerik.com
 sponsor-market-indirimleri-tr.online
