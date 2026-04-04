@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-04 18:23:08 UTC
-# Toplam: 447661 Domain
+# Son Güncelleme: 2026-04-04 19:22:55 UTC
+# Toplam: 447671 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22657,6 +22657,7 @@ a-101-aylikkampanyalar.com.tr
 a-101-aylikkampanyalar.xyz
 a-101-balahar.lol
 a-101-bugune-ozel-cepte.ozel-sponsor.com
+a-101-bugune-ozel-mobilde.sepette-shop-online.rest
 a-101-c-om-t-r.sbs
 a-101-c0lmtl.cyou
 a-101-c0m.cyou
@@ -58042,6 +58043,7 @@ bahadirsahinoglu.com
 bahaius.info
 bahaosgb.com
 bahaquci.com
+bahar-firsatlari.my-homeip.net
 bahar-firsatlariyla-sende-mutlu-ol.cfd
 bahar-firsatlariyla-sende-mutlu-ol.sbs
 bahar-geldi-keyif-basladi-hemen.top
@@ -86371,6 +86373,7 @@ bsvrto-ki.com
 bsvrtooki.com
 bsvru-frsatkmpanysi2023.net
 bsvru-frstlari.online
+bsvru-online.cfd
 bsvru-online.sbs
 bsvru-t-o-k-i-500.com
 bsvru1-garntl.name.tr
@@ -214997,6 +215000,7 @@ ilkadiminiparibuileat.com
 ilkadiminiparibuileat.vakiflahediye.click
 ilkadiminiparibuilet.com
 ilkangroup.pw
+ilkarabambasvur.click
 ilkarabambasvuru.com
 ilkarabambasvuruu.online
 ilkargolarimerkez.com
@@ -217162,7 +217166,9 @@ indirimbizde.site
 indirimbizde4.site
 indirimbul.xyz
 indirimburada.shop
+indirimburada101.com
 indirimburada101onlinehizmetler.com
+indirimburada1o1.com
 indirimceindirim.xyz
 indirimcepte.com.tr
 indirimceptefirsat.com
@@ -269409,6 +269415,7 @@ mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
 mhtmcntmbk.online
+mhttsr.click
 mhulaisbhrajsksa-jyjhlhpaitueqwosgasgfds.duckdns.org
 mhvjhvjhvjhgvjhgcg.sbs
 mhvmsgsdqwrw.com
@@ -285115,6 +285122,7 @@ nisanayiaidatodemesi.org
 nisanayifirsat.xyz
 nisanayifirsatlar.com
 nisanayifirsatlari.com
+nisanayifirsatlarla101.com
 nisanayifirsstlarii.com
 nisanayifirstlarii.com
 nisanayikampanyalari.com.tr
@@ -315497,6 +315505,8 @@ prmsynkmpnyaaa.pro
 prmsynkmpnyabsvru.info
 prmsynkmpnyabsvru.live
 prmsynkmpnyabsvrus.pro
+prmsynkmpnyanoktasi10.info
+prmsynkmpnyanoktasi10.live
 prmsynladenzm.vercel.app
 prmsynladenzzban.vercel.app
 prmsynnay.com.tr

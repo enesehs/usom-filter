@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-04 18:23:08 UTC
-! Total: 357253 rules
+! Last modified: 2026-04-04 19:22:55 UTC
+! Total: 357261 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65856,6 +65856,7 @@
 *://*.bsvrtooki.com/*
 *://*.bsvru-frsatkmpanysi2023.net/*
 *://*.bsvru-frstlari.online/*
+*://*.bsvru-online.cfd/*
 *://*.bsvru-online.sbs/*
 *://*.bsvru-t-o-k-i-500.com/*
 *://*.bsvru1-garntl.name.tr/*
@@ -173703,6 +173704,7 @@
 *://*.ilkadiminiparibuileat.com/*
 *://*.ilkadiminiparibuilet.com/*
 *://*.ilkangroup.pw/*
+*://*.ilkarabambasvur.click/*
 *://*.ilkarabambasvuru.com/*
 *://*.ilkarabambasvuruu.online/*
 *://*.ilkargolarimerkez.com/*
@@ -175552,7 +175554,9 @@
 *://*.indirimbizde4.site/*
 *://*.indirimbul.xyz/*
 *://*.indirimburada.shop/*
+*://*.indirimburada101.com/*
 *://*.indirimburada101onlinehizmetler.com/*
+*://*.indirimburada1o1.com/*
 *://*.indirimceindirim.xyz/*
 *://*.indirimcepte.com.tr/*
 *://*.indirimceptefirsat.com/*
@@ -217069,6 +217073,7 @@
 *://*.mht-tickets.ru/*
 *://*.mhtevents.com/*
 *://*.mhtmcntmbk.online/*
+*://*.mhttsr.click/*
 *://*.mhvjhvjhvjhgvjhgcg.sbs/*
 *://*.mhvmsgsdqwrw.com/*
 *://*.mhxrsbzlehizlica.org/*
@@ -229268,6 +229273,7 @@
 *://*.nisanayifirsat.xyz/*
 *://*.nisanayifirsatlar.com/*
 *://*.nisanayifirsatlari.com/*
+*://*.nisanayifirsatlarla101.com/*
 *://*.nisanayifirsstlarii.com/*
 *://*.nisanayifirstlarii.com/*
 *://*.nisanayikampanyalari.com.tr/*
@@ -254100,6 +254106,8 @@
 *://*.prmsynkmpnyabsvru.info/*
 *://*.prmsynkmpnyabsvru.live/*
 *://*.prmsynkmpnyabsvrus.pro/*
+*://*.prmsynkmpnyanoktasi10.info/*
+*://*.prmsynkmpnyanoktasi10.live/*
 *://*.prmsynnay.com.tr/*
 *://*.prmsynnbasvrrrrgrntt.click/*
 *://*.prmsynnbsvrrkmpnya.info/*
