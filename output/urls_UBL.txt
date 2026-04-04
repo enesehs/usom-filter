@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-04 07:40:02 UTC
-! Total: 357183 rules
+! Last modified: 2026-04-04 08:26:25 UTC
+! Total: 357191 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26924,6 +26924,7 @@
 *://*.aktuelfirsatlarinikacirmadanfaydalan.xyz/*
 *://*.aktuelfirsatlaritemmuz.com/*
 *://*.aktuelfirsatlarm.online/*
+*://*.aktuelfirsatlars.sbs/*
 *://*.aktuelfirsatlarsepete.com.tr/*
 *://*.aktuelfirsatlarsepete.online/*
 *://*.aktuelfirsatlarsepete.xyz/*
@@ -27177,6 +27178,7 @@
 *://*.aktuelmarketlerseri.click/*
 *://*.aktuelmarketlerseri.lat/*
 *://*.aktuelmarketonline.com.tr/*
+*://*.aktuelmarketonline.sbs/*
 *://*.aktuelmarkettenal.cfd/*
 *://*.aktuelmarketteyilzi.sbs/*
 *://*.aktuelmarkt101.online/*
@@ -129332,6 +129334,7 @@
 *://*.firsatonline.click/*
 *://*.firsatonline.net/*
 *://*.firsatonline.site/*
+*://*.firsatonline.xyz/*
 *://*.firsatonlineindirimguncel.online/*
 *://*.firsatonlineindirimgunleri.com/*
 *://*.firsatonlinezamni234kpaindacom.com/*
@@ -157875,6 +157878,7 @@
 *://*.hementeklifalsiqgorta.site/*
 *://*.hementeknikdestekcagir.tk/*
 *://*.hementikla-kampanya.com/*
+*://*.hementikla.site/*
 *://*.hementiklasendegel.com.tr/*
 *://*.hementiklasendegel.online/*
 *://*.hementiklasendegel.xyz/*
@@ -176259,6 +176263,7 @@
 *://*.indirsinlerinisenkacirmsa.shop/*
 *://*.indirsminlerinikacirma.shop/*
 *://*.indirxmfirsatlari.com/*
+*://*.indirzora.click/*
 *://*.indisimillerikacirmsa.store/*
 *://*.indisimrinilerinikacisam.shop/*
 *://*.indisnxndmsncmsd.sbs/*
@@ -199428,6 +199433,7 @@
 *://*.kisasurelisiparis.sbs/*
 *://*.kisasurelizeltas.xyz/*
 *://*.kisatlmalisin.com/*
+*://*.kisatlmayonlendirme.click/*
 *://*.kisatr.link/*
 *://*.kisayakisansicaksurprizler10.com/*
 *://*.kisayakisansicaksurprizler21.com/*
@@ -295769,6 +295775,8 @@
 *://*.takimcantasiindirimi.sbs/*
 *://*.takimcantasiseri.xyz/*
 *://*.takimcantasiyildizzx.sbs/*
+*://*.takimedavat.com/*
+*://*.takimedavetaletss.sbs/*
 *://*.takimsetlerin.com/*
 *://*.takinghigh.online/*
 *://*.takip-10039102.online/*
