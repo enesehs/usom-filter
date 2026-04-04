@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-04 04:04:31 UTC
-# Toplam: 447571 Domain
+# Son Güncelleme: 2026-04-04 05:53:00 UTC
+# Toplam: 447574 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22740,6 +22740,7 @@ a-101-snlmrkt.cyou
 a-101-stanley.sa.com
 a-101-tektikla.cfd
 a-101-tektiklasepette.me
+a-101-tr-de-sadece-bugune-ozel-mobil.onlinecep-tr.site
 a-101-tr.com
 a-101-yilbasi-indirimleri.com
 a-101.alisveris-tr.online
@@ -151339,6 +151340,7 @@ etovamnepomozhet.ru
 etphgsn.com
 etpsh.ddns.net
 etpvigksig.duckdns.org
+etq8y5kpkn53qy57.fun
 etr-edevlet-iade-basvurusu.com
 etr-paribu.com
 etr.lat
@@ -186054,6 +186056,7 @@ habergezegen.club
 habergezegen.site
 habergirislerionlineturkiye.app
 haberglemiyor2552.com
+haberglobale.xyz
 haberglobals.xyz
 habergun.club
 habergun.site
