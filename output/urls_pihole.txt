@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-03 23:23:23 UTC
-# Toplam: 447560 Domain
+# Son Güncelleme: 2026-04-04 01:02:22 UTC
+# Toplam: 447570 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -163912,6 +163912,7 @@ focusframephoto.com
 focusfusion.eastus.cloudapp.azure.com
 focusgroovy.com
 focusmingle.com
+focusnews.icu
 focussilentpausekangaroo.com
 focussspace.com
 focustime24.online
@@ -177180,6 +177181,7 @@ glaremortal.top
 glarepoke.top
 glarequick.top
 glareraiant.top
+glarevotim.gifts
 glaroza.shop
 glashandelmaxima.nl
 glass25.xyz
@@ -206438,6 +206440,7 @@ hostlogsnation.duckdns.org
 hostlox.ddns.net
 hostm.top
 hostmaster.coinbase-com.info
+hostmatrix.shop
 hostmayfuck.hopto.org
 hostme.pages.dev
 hostn5ph.ddns.net
@@ -249355,6 +249358,7 @@ koreapostst.shop
 koreapostxb.shop
 koreapostxn.shop
 koreapostxt.shop
+korel.vu
 korell.badcode.be
 korepi.xyz
 korfilocars.com
@@ -283874,6 +283878,7 @@ newsexam.com
 newsfeeds-microsoft.press
 newsfor.newss.nl
 newsforgoodlife.com
+newsfusioner.com
 newsgiant.top
 newsgleam.online
 newsgnomed.ml
@@ -283918,6 +283923,7 @@ newsmonitor.icu
 newsmonitoring.hopto.org
 newsnew.info
 newsnjgfsd.net
+newsodo.com
 newsoffceuatler.com
 newsofficial.info
 newsofthemoment.net
@@ -309274,6 +309280,7 @@ pedropaulino.hopto.org
 pedropedreiromoxik.su
 pedrosimanez.fun
 pedsicomdu.site
+pedux.sbs
 peebxwtjgf.duckdns.org
 peedyhiv.top
 peek-through.com
@@ -311110,6 +311117,7 @@ pirckxungwkv.com
 pirckxungwkv.ru
 pirefebautmepu.ddns.net
 pirenti.site
+pirevonaku.com
 pirexulav.com
 piribu.cf
 pirijinko.ru
@@ -408844,6 +408852,7 @@ vowyrym.com
 voxdreamz.com
 voxenya.com
 voxglider.com
+voxiano.qpon
 voxly.top
 voyage-omra.com
 voyage36.xyz
@@ -446551,6 +446560,7 @@ zorinpro.space
 zorip.at
 zorlakinetek.com
 zorlamayinsansinizi324.cfd
+zorlivex.sbs
 zorlu-2023-burs-al.b-cdn.net
 zorlu-egitimvakfi.site
 zorlu-energy.com
