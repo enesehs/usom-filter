@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-05 20:24:22 UTC
-# Toplam: 447771 Domain
+# Son Güncelleme: 2026-04-05 21:23:11 UTC
+# Toplam: 447776 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34279,6 +34279,7 @@ ahlatcihizli.online
 ahlatcihizli.shop
 ahlatcihizliislemicindm.shop
 ahlatcikuyumculukaltin.com
+ahlatcikuyumculukonline.com
 ahlatcimenkuldegerler.com
 ahlatcimenkulkiymetler.com
 ahlatcistore.net
@@ -158239,6 +158240,7 @@ feverishjeopardise.top
 feversegregation.top
 fevertwitch.com
 feviwah886.online
+feviwah886.site
 fevrmkcj.com
 fevxvxkpdf.duckdns.org
 fevzikimyagebzeilaclama.site
@@ -192344,6 +192346,7 @@ hauyrt883.xyz
 hava-ist.com
 hava-ist.org
 hava.bio
+hava.ltd
 hava.today
 havaa.ist
 havaalaniarackira.co
@@ -204563,6 +204566,7 @@ hkdevuong.zapto.org
 hkdfdshkgs.click
 hkdhhwsafvnef.site
 hkdsksdm.net
+hkerlarptlarca.xyz
 hket.ddns.net
 hketoil-gov.ink
 hketoll-etc-hk.top
@@ -348633,6 +348637,7 @@ servisim-150basvurular.com
 servisim-ailegenc.com
 servisimburadaonline53f34ff41s1s1.wordpress.com
 servisin-tr.com.tr
+servisinllinkjet.com
 servisislemiyap.net
 servisislemlerimiz.net
 servisistem.xyz
