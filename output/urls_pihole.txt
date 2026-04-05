@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-05 22:23:08 UTC
-# Toplam: 447778 Domain
+# Son Güncelleme: 2026-04-05 23:23:18 UTC
+# Toplam: 447780 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -173537,6 +173537,7 @@ geri-aktarmalar-islemler-sorgu1.icu
 geri-aktarmalar-islemler-sorgu2.cyou
 geri-aktarmalar-islemler-sorgu2.icu
 geri-aktarmalar-sorgu.cyou
+geri-dnk-islemleriniz.click
 geri-dondu-gibi.sbs
 geri-ehalkiadeodemeleri.com.tr
 geri-gelmez.kolay-ca-kapinda-aarass-hizzmetleri.com
@@ -403529,6 +403530,7 @@ varlikdefteri.com
 varlikdogrula1.duckdns.org
 varlikguncellemeonayhizmetleri.online
 varlikkatilim.xyz
+varliksorgu.com
 varlikyonetimi.site
 varlix.sbs
 varmarvolmerdos.com
