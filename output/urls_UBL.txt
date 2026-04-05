@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-05 11:23:05 UTC
-! Total: 357298 rules
+! Last modified: 2026-04-05 12:28:13 UTC
+! Total: 357308 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -328,6 +328,7 @@
 *://*.06agustos-sizlere.art/*
 *://*.06ekimindirimler.work/*
 *://*.06g.co/*
+*://*.06ghsyukledim.site/*
 *://*.06hgs.com/*
 *://*.06tbbmmcc.ga/*
 *://*.07-12-aesrd-zsdxfcg-esrdf.com/*
@@ -7769,6 +7770,7 @@
 *://*.2plus2.cz/*
 *://*.2pqdww.cn/*
 *://*.2qjg2wj4gjsgdsjd.xyz/*
+*://*.2qm7xk9v.click/*
 *://*.2r-coinbase.com/*
 *://*.2r3k2fq.cn/*
 *://*.2repuvegobmx.com.mx/*
@@ -73017,6 +73019,7 @@
 *://*.cebimdekinakit.com/*
 *://*.cebimdekisube.com/*
 *://*.cebimdekitebinfirsatlari.com/*
+*://*.cebimdekrd.xyz/*
 *://*.cebimdemobil.com/*
 *://*.cebimdentutankopekler.xyz/*
 *://*.cebimdeteb-yazfirsatim.com/*
@@ -120096,6 +120099,7 @@
 *://*.esubemgarantimgiris.tk/*
 *://*.esubemizcepteteb.ml/*
 *://*.esubemizpandemigiris.xyz/*
+*://*.esubemobil.online/*
 *://*.esubemobilcepteteb.com/*
 *://*.esubemobilportal.online/*
 *://*.esubemqnb.com/*
@@ -173080,6 +173084,7 @@
 *://*.ilanlar-mobilde.com/*
 *://*.ilanlar-mobile.com/*
 *://*.ilanlar-odemeler.com/*
+*://*.ilanlar-ozelsepetim.com/*
 *://*.ilanlar-paramguvende.com/*
 *://*.ilanlar-s-get.com/*
 *://*.ilanlar-s.net/*
@@ -200552,6 +200557,9 @@
 *://*.kmpnyaabsvrrrprmsynnn.art/*
 *://*.kmpnyaabsvrrrprmsynnn.info/*
 *://*.kmpnyaabsvrrrprmsynnn.pro/*
+*://*.kmpnyaabsvrrrrprmsynn.art/*
+*://*.kmpnyaabsvrrrrprmsynn.info/*
+*://*.kmpnyaabsvrrrrprmsynn.live/*
 *://*.kmpnyaabsvru.info/*
 *://*.kmpnyaabsvru.live/*
 *://*.kmpnyaabsvru.pro/*
@@ -339679,6 +339687,7 @@
 *://*.xmtwvebxsodeme.net/*
 *://*.xmtxvcumaodemem.org/*
 *://*.xmvr54.top/*
+*://*.xmxm29qk.click/*
 *://*.xmxmxmzmxxxxxz.net/*
 *://*.xmxtvxxodemenoktasi.org/*
 *://*.xmyerkyleme.net/*
@@ -345204,6 +345213,7 @@
 *://*.yapiaidat.com/*
 *://*.yapiaidatbasvurum-trtr.com/*
 *://*.yapianinda.com/*
+*://*.yapianinda.sbs/*
 *://*.yapianindaiade.com/*
 *://*.yapibanksube.com/*
 *://*.yapibasvuru-78ozelbmwx3.com/*

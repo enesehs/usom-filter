@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-05 11:23:05 UTC
-# Toplam: 447714 Domain
+# Son Güncelleme: 2026-04-05 12:28:13 UTC
+# Toplam: 447726 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -667,6 +667,7 @@
 06fypbj.duckdns.org
 06g.co
 06g13rh9.duckdns.org
+06ghsyukledim.site
 06hgs.com
 06lrromu.duckdns.org
 06lw7v.duckdns.org
@@ -11048,6 +11049,7 @@
 2qlfwi2ftozq2riit8g4kcokcky.2qlfwkfwp1lxtbfd3qj0jwsc6bu.canary.assetnotessrf.com
 2qlmteltsdssj5tmocne6bybldw.2qlmthafqsqmzmk58wqfqwvm9xh.canary.assetnotessrf.com
 2qlu8lh6ei3u8nhyjhncjalvxbh.2qlu8ob1emkeg4rxybs9jgitvxe.canary.assetnotessrf.com
+2qm7xk9v.click
 2qn1pkvglidmn5vclen1.ddns.net
 2qn5k48a.duckdns.org
 2qn889ueeos.storage.googleapis.com
@@ -94878,6 +94880,7 @@ cebimdekifirsatlar.com
 cebimdekinakit.com
 cebimdekisube.com
 cebimdekitebinfirsatlari.com
+cebimdekrd.xyz
 cebimdemobil.com
 cebimden-basvurum-cepteonayyapimcep.vercel.app
 cebimdenislemler.duckdns.org
@@ -150867,6 +150870,7 @@ esubemgarantim.com
 esubemgarantimgiris.tk
 esubemizcepteteb.ml
 esubemizpandemigiris.xyz
+esubemobil.online
 esubemobilcepteteb.com
 esubemobilgiris.co.vu
 esubemobilgirisvakifyilbasi.co.vu
@@ -158587,6 +158591,7 @@ fiba-internet-sube.com
 fiba-online-bank.buzz
 fiba-online.buzz
 fiba.cekilis-firsatlari.com.tr
+fiba.esubemobil.online
 fiba.kisal.cc
 fiba.kisalt.cc
 fiba.online
@@ -214369,6 +214374,7 @@ ilanlar-mobil.com
 ilanlar-mobilde.com
 ilanlar-mobile.com
 ilanlar-odemeler.com
+ilanlar-ozelsepetim.com
 ilanlar-paramguvende.com
 ilanlar-s.net
 ilanlar-sahbiniden.com
@@ -247524,6 +247530,9 @@ kmpnyaabsvrrrprmo.click
 kmpnyaabsvrrrprmsynnn.art
 kmpnyaabsvrrrprmsynnn.info
 kmpnyaabsvrrrprmsynnn.pro
+kmpnyaabsvrrrrprmsynn.art
+kmpnyaabsvrrrrprmsynn.info
+kmpnyaabsvrrrrprmsynn.live
 kmpnyaabsvru.info
 kmpnyaabsvru.live
 kmpnyaabsvru.pro
@@ -338982,6 +338991,7 @@ sahibinden.ilanlar-hizmet.com.tr
 sahibinden.ilanlar-kurumsal.com.tr
 sahibinden.ilanlar-m.com.pl
 sahibinden.ilanlar-mobile.com.de
+sahibinden.ilanlar-ozelsepetim.com
 sahibinden.ilanlar-s-get.com
 sahibinden.ilanlar-satis.com.tr
 sahibinden.ilanlar-sayfa.com
@@ -426268,6 +426278,7 @@ xmtxvcumaodemem.org
 xmusicle.hopto.org
 xmvmqgwzpt.ddns.net
 xmvoma3.duckdns.org
+xmxm29qk.click
 xmxmxmzmxxxxxz.net
 xmxtvxxodemenoktasi.org
 xmyerkyleme.net
@@ -432664,6 +432675,7 @@ yapi78yilozelbmvx3.co.vu
 yapiaidat.com
 yapiaidatbasvurum-trtr.com
 yapianinda.com
+yapianinda.sbs
 yapianindaiade.com
 yapiavantaj-onlinemobiilgiris-aktivasyon.vercel.app
 yapibanksube.com
