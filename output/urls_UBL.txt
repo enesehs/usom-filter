@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-05 17:22:58 UTC
-! Total: 357325 rules
+! Last modified: 2026-04-05 18:24:22 UTC
+! Total: 357338 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -37120,6 +37120,7 @@
 *://*.athabonift99.xyz/*
 *://*.atharvafinancial.in/*
 *://*.atheere.com/*
+*://*.athenadiag.com/*
 *://*.athenianhouse.cfd/*
 *://*.athensplatinum.cfd/*
 *://*.athentitevent.com/*
@@ -77884,6 +77885,7 @@
 *://*.cloudsystemchat.com/*
 *://*.cloudthicket.com/*
 *://*.cloudtimesync.com/*
+*://*.cloudtrailx.xyz/*
 *://*.cloudupdate.co.za/*
 *://*.cloudupdates.co.za/*
 *://*.cloudupdatesss.com/*
@@ -138255,6 +138257,7 @@
 *://*.geostrategy-ec.com/*
 *://*.geotilla.com/*
 *://*.geotrading.ae/*
+*://*.geoupdate.pics/*
 *://*.geowf.ge/*
 *://*.geoyacobs.com/*
 *://*.gephyrocercy.com/*
@@ -156108,6 +156111,7 @@
 *://*.headzees.com/*
 *://*.heaglap.info/*
 *://*.healgeni.live/*
+*://*.healmind.study/*
 *://*.health-and-beauty.pw/*
 *://*.health-check-today.com/*
 *://*.health-ray-id.com/*
@@ -215342,6 +215346,7 @@
 *://*.mediantake.info/*
 *://*.mediaology.com.pk/*
 *://*.mediaone.sbs/*
+*://*.mediaorbit.online/*
 *://*.mediapemim.top/*
 *://*.mediapepper.top/*
 *://*.mediaqlt.com/*
@@ -248374,6 +248379,7 @@
 *://*.pavibu.com/*
 *://*.pavicomsa.com/*
 *://*.pavicontech.com/*
+*://*.pavik.vu/*
 *://*.pavilion.futbol/*
 *://*.pavingcapital.com/*
 *://*.pavlatos-studios.gr/*
@@ -274443,6 +274449,7 @@
 *://*.seaxgo.com/*
 *://*.seayuen.com/*
 *://*.sebab.xyz/*
+*://*.sebago-ayakkabi-turkiye.com/*
 *://*.sebagoboat.com/*
 *://*.sebap.xyz/*
 *://*.sebastian-a.sbs/*
@@ -277348,6 +277355,7 @@
 *://*.serverakp.site/*
 *://*.serverbye.com/*
 *://*.servercloudweb.com/*
+*://*.servercorex.click/*
 *://*.serverdata.net/*
 *://*.serverdatacenterim.xyz/*
 *://*.serverguarditweb.com/*
@@ -279172,6 +279180,7 @@
 *://*.shoplureklam14.xyz/*
 *://*.shoplvndrhaldi.com/*
 *://*.shopmira.store/*
+*://*.shopmix.click/*
 *://*.shopnestat.com/*
 *://*.shopnova.art/*
 *://*.shopopp-2912.click/*
@@ -285092,6 +285101,7 @@
 *://*.sofacrib.accountant/*
 *://*.sofarrada.com/*
 *://*.sofaseatsclearance.com/*
+*://*.sofaside.biz/*
 *://*.sofatvsales.com/*
 *://*.sofexjordanx.com/*
 *://*.sofftventrix.com/*
@@ -324056,6 +324066,7 @@
 *://*.velvetrockapps.com/*
 *://*.velvetsnap.com/*
 *://*.velvetvoyager.one/*
+*://*.velvetwish.gifts/*
 *://*.velvlmobillisllemllerigiriisslem.com/*
 *://*.vembemsenden.site/*
 *://*.venagard.com/*
@@ -327456,6 +327467,7 @@
 *://*.voucherempirical.top/*
 *://*.vouchermediation.top/*
 *://*.voucheroppressive.top/*
+*://*.voucherpoint.cfd/*
 *://*.voughtcorp.com/*
 *://*.voulistan.com/*
 *://*.vovguvenl.com/*
@@ -328704,6 +328716,7 @@
 *://*.wanderingechoes.online/*
 *://*.wanderlusstwave.com/*
 *://*.wanderrefund.top/*
+*://*.wandervave.com/*
 *://*.wanerberud.xyz/*
 *://*.wanft5000l.cloud/*
 *://*.wangaaverent.top/*
