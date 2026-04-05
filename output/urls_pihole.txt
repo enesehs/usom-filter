@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-05 01:10:15 UTC
-# Toplam: 447692 Domain
+# Son Güncelleme: 2026-04-05 04:25:48 UTC
+# Toplam: 447708 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34167,6 +34167,7 @@ ahb1.xyz
 ahb3.xyz
 ahb5izw.duckdns.org
 ahbad.org
+ahbakhzli.top
 ahbap-bagis.net
 ahbap.digital
 ahbap.link
@@ -42322,6 +42323,7 @@ alfie12.duckdns.org
 alfieleeoconnor63.xyz
 alfirsat.com
 alfirsata1o1.com
+alfirsatbugun.dns.navy
 alfonsinastorni.duckdns.org
 alforatsystem.com
 alforcargo.com
@@ -45218,6 +45220,7 @@ anadolusosyd.online
 anadolusydv.online
 anadolutakibmarketing.blogspot.com
 anadolutakibmarketing.com
+anadolutrack.com
 anadolutrafiksigorta.com
 anadoluvakifbursu.com
 anadoluya.org
@@ -85416,6 +85419,7 @@ briloza.org
 brimvakfbankmobil.tk
 brinchil.xyz
 brindlethorn.shop
+brinelakudo.com
 brineluxa.com
 brinematriscript.com
 brinestoum.com
@@ -101802,6 +101806,7 @@ codemingle.shop
 codename.beget.tech
 codenoma.com
 codeof.duckdns.org
+codeorbit.buzz
 codeordiefind.top
 codepath.courses
 coderkaos.cloud
@@ -113822,6 +113827,7 @@ delightcaf.xyz
 delightclock.top
 delightfringe.top
 delightfulelaborately.top
+delightparcel.com
 delightperplex.top
 deligibifirsatlar.cfd
 deligibiloggeliyorkanka.click
@@ -125299,6 +125305,7 @@ dl166-web-eticket.ru
 dl1e0t2ye.duckdns.org
 dl4zdu.duckdns.org
 dl55-web-yachtbooking.xyz
+dl55polisi155.online
 dl5o6lvo.duckdns.org
 dl6q95zf.top
 dlajvgbka.duckdns.org
@@ -156222,6 +156229,7 @@ fakirsetkampanya.xyz
 fakjcsaeyhs.ddnsfree.com
 fakksciibq.duckdns.org
 faklimayiskampanyasi.wiki
+fakodirenu.com
 fakzr.zapto.org
 fakzudii.com
 fal.cl
@@ -217949,6 +217957,7 @@ indirsimsezonu.shop
 indirsinimiligunlersin.shop
 indirsinlerinisenkacirmsa.shop
 indirsminlerinikacirma.shop
+indirvaxel.click
 indirxmfirsatlari.com
 indirzora.click
 indisimillerikacirmsa.store
@@ -229058,6 +229067,7 @@ iz7ydop.duckdns.org
 iz95sk.cyou
 iz9uyk.duckdns.org
 izaakaaoooq.blogspot.com
+izakakosddd.blogspot.com
 izakaofpa.blogspot.com
 izakasgsdhs.blogspot.com
 izakfss.blogspot.com
@@ -259307,6 +259317,7 @@ lrlrumnfdo.duckdns.org
 lrm-g-r-n-l.myonlineportal.ch
 lrmficvqs.pw
 lrnnet.vu
+lrnnow.vu
 lro9m1.duckdns.org
 lrosokomoro.xyz
 lrpfbsjtjy.pw
@@ -264241,6 +264252,7 @@ maplecontrol.top
 maplecrest.online
 maplediesel.top
 maplegateu-yj.xyz
+maplehaven.store
 maplejoin.chelseasosa.com
 maplezen.site
 mappedal.top
@@ -265801,6 +265813,7 @@ maviylekazanmakeyfi.com
 maviylsmm.tk
 maviyosun.name.tr
 mavlilesssa.net
+mavor.cyou
 mavorqeth.com
 mavrixonline.com
 mavromisgppc.click
@@ -327738,6 +327751,7 @@ rawap.org
 rawbussines.com
 rawcdvbhad-agwcxdcw-awdcv.shop
 rawdagger.top
+rawearth.xyz
 rawfurnish.com
 rawinzinbil66.clienteascindig.world
 rawiwi.info
@@ -355631,6 +355645,7 @@ skiinnandsuites.world
 skilfulhumiliate.top
 skilfulide.top
 skilify.vu
+skilio.cfd
 skill-share.org
 skillanv.com
 skillaro.ru
@@ -406286,6 +406301,7 @@ verqiodemeaninda.online
 verratomiller.hopto.org
 verrgsiodeyse.net
 verriifffyyyupdate.ddns.net
+verrtyonastudio.pro
 vers1bec.zapto.org
 versa0ce.app
 versabank-transfer.com
