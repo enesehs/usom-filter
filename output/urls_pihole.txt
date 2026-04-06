@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-06 12:40:49 UTC
-# Toplam: 447814 Domain
+# Son Güncelleme: 2026-04-06 14:02:52 UTC
+# Toplam: 447841 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4836,6 +4836,7 @@
 1472589662.xyz
 147260-coinbase.com
 14752563253asd.com
+14755866522sdd.com
 14765-coinbase.com
 147751434565132.com
 14781875871.site
@@ -127645,6 +127646,7 @@ dosyaform.com
 dosyagoruntuleme.org
 dosyagov.org
 dosyahakkindabilgi.com
+dosyahmb.net
 dosyahmb.org
 dosyahukuk.com
 dosyahukuku.com
@@ -158255,6 +158257,7 @@ feversegregation.top
 fevertwitch.com
 feviwah886.online
 feviwah886.site
+feviwah886.xyz
 fevrmkcj.com
 fevxvxkpdf.duckdns.org
 fevzikimyagebzeilaclama.site
@@ -175283,6 +175286,7 @@ gibodemeleri.com
 gibodemem.net
 gibonlinebasvuru.com
 gibportaldijital.com
+gibportalim.com
 gibportamobil.com
 gibsms.com
 gibtkzoja.com
@@ -178034,6 +178038,7 @@ gncxdlfdzl-onllinemrfkktxfirsllryla.click
 gncxdlfzl-onlalinemrfkktxfirsllryla.click
 gncxdlfzl-onllinemrfkktxfirsllryla.xyz
 gndecerselerde.xyz
+gndeclersance.xyz
 gndeliikcrfsmrkt.cfd
 gndelikcfsamrket.cfd
 gndelikcfsmrkettt.cfd
@@ -207180,6 +207185,7 @@ hrfqsq1h.duckdns.org
 hrgebaeudereinigung.com
 hrgpq.com
 hrgsavbilgis.sbs
+hrguxhellito281.onrender.com
 hrhelpdesk.ddns.net
 hrheodfsd121dqsdlqdsq.sbs
 hrhucremkx.net
@@ -232679,6 +232685,7 @@ jeton5.com
 jeton6.com
 jeton9.com
 jetonal.com
+jetonbaba2.space
 jetonbaba4.online
 jetonlineodeme.com
 jetonlyseath.top
@@ -244458,6 +244465,7 @@ kgmavhukukodeme.icu
 kgmax.top
 kgmay.top
 kgmaz.top
+kgmbakiye.com
 kgmbbgovtr.top
 kgmbebe.com
 kgmbeklemedenislem.sg-host.com
@@ -249642,6 +249650,7 @@ kosgebkrediformu.com
 kosgebkredimerkezi.click
 kosgebkredinhazir.click
 kosgeble.mobi
+kosgebmerkez.click
 kosgebmerkezi.click
 kosgebprogramdestek.cfd
 kosgebyardim.com
@@ -261576,6 +261585,7 @@ macflt.com
 macgains.duckdns.org
 machaltusproducts.com
 machavellii.workers.dev
+macheries.webredirect.org
 machi-zukuri-sikin.bond
 machiavellibackup.hopto.org
 machies.ddns.net
@@ -263330,6 +263340,7 @@ maliclick1.ddnsfree.com
 malidava.com
 malidava.org
 malidosya.net
+malidosyalarim.org
 malifalinali.work
 malignantsymposium.top
 malignantvicinity.top
@@ -269471,6 +269482,7 @@ mhrsmsmhsxzwshshn.net
 mhrsortakgiris.co.vu
 mhrsrandavu.net
 mhrsrandevu.com
+mhrsrandevu.net
 mhrsrandevualma.net
 mhrsrandevuhekim.duckdns.org
 mhrsrandevum.net
@@ -273744,6 +273756,7 @@ mobilin-ziraat.com
 mobilin.cfd
 mobilin100yilkampanyasi.online
 mobilin85yillinaaozelkampanya.com
+mobilincebtekihalibasvur.sbs
 mobilindebayramfirsatlari.vercel.app
 mobilingiris.sbs
 mobilingiris.site
@@ -286988,6 +287001,7 @@ noya.hdsncxakalar.com
 noya.kristianodomald.com
 noya.mooo.com
 noya.pocikerimsenta.com
+noyalandinixcv.com
 noyamicokseviyorum.com
 noyewa7162.ddns.net
 noyshare.com
@@ -289606,6 +289620,8 @@ nxzcnzxh.wiki
 nxzfdsio58.ru
 nxzhvnlck.xyz
 nxzjpi4.duckdns.org
+ny.gov-skd.org
+ny.ofkhv.life
 ny05fn5i8.duckdns.org
 ny1r94tb.duckdns.org
 ny4fb6hbt.duckdns.org
@@ -299249,6 +299265,7 @@ ortakborcbilgisi.info
 ortakborcodemebayi.info
 ortakborcodemeonline.info
 ortakbyy.tk
+ortakdogrulama.org.tr
 ortakfatura-mobil.com
 ortakfaturam.com
 ortakgiris.a.ile.basuvurular.net
@@ -315621,6 +315638,10 @@ prmsynnkmapnyaaabasvuruu.info
 prmsynnkmmpnyaabsvrrr.art
 prmsynnkmmpnyaabsvrrr.info
 prmsynnkmmpnyaabsvrrr.pro
+prmsynnkmpnnyaabsvrr.art
+prmsynnkmpnnyaabsvrr.info
+prmsynnkmpnnyaabsvrr.live
+prmsynnkmpnnyaabsvrr.pro
 prmsynnkmpnyaabsvr.info
 prmsynnkmpnyaabsvrr.info
 prmsynnkmpnyaabsvrr.live
@@ -358311,6 +358332,7 @@ soksubatayifirsati.xyz
 soksubatindiri.inz-aghi.xyz
 sokta-bavulgunleri.com.tr
 sokta-firsatrobot.org.tr
+sokta-gunler.tv.tr
 sokta-gunler.web.tr
 sokta-haziranfirsatlar.com.tr
 sokta-karaca.com.tr
@@ -361940,6 +361962,7 @@ spnsorlu-1vakf.duckdns.org
 spnsorlu-1yapl.duckdns.org
 spnsorlu-59012-icerik.online
 spnsorlu-669129229.online
+spnsorlu-flrsatlar-epespatos.com
 spnsorlu-reklamlar-burda.me
 spnsorlu-yaplonline.duckdns.org
 spnsorlukampanya.com
@@ -377213,6 +377236,7 @@ tfyycedckl.duckdns.org
 tfzcqdbj.com
 tfzdsakl.com
 tfzxrnkevb.duckdns.org
+tg-bot-gnyq.vercel.app
 tg-box.documshare.org
 tg-media.guardedcloud.net
 tg-yonlendirme.duckdns.org
@@ -379109,6 +379133,7 @@ tkfdchi.com
 tkfheigxaqqbkej.cn
 tkfoficial.ddns.net
 tkfoficial.duckdns.org
+tkg-edvtapko.org
 tkgm-basvur.online
 tkgm-guncelislemleriniz.com
 tkgm-hizmet.online
@@ -440519,6 +440544,7 @@ yonkoayoub.ddns.net
 yonkzwqnvs.duckdns.org
 yonld-hzs-bni.store
 yonlen-2010201.art
+yonlen-artik-310131.com
 yonlen-buradan-anlik.sbs
 yonlen.click
 yonlenci.webredirect.org
@@ -447722,6 +447748,7 @@ zyzcw3o69.duckdns.org
 zz00atr9.top
 zz00zbgun.com
 zz4kzt27u8.ru
+zz7kx2mq.click
 zz7l5w5.duckdns.org
 zz98ytnhn.duckdns.org
 zzaazz.ddns.net

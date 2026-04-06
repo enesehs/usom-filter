@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-06 12:40:49 UTC
-! Total: 357373 rules
+! Last modified: 2026-04-06 14:02:52 UTC
+! Total: 357397 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3235,6 +3235,7 @@
 *://*.1472589662.xyz/*
 *://*.147260-coinbase.com/*
 *://*.14752563253asd.com/*
+*://*.14755866522sdd.com/*
 *://*.14765-coinbase.com/*
 *://*.147751434565132.com/*
 *://*.14781875871.site/*
@@ -99670,6 +99671,7 @@
 *://*.dosyagoruntuleme.org/*
 *://*.dosyagov.org/*
 *://*.dosyahakkindabilgi.com/*
+*://*.dosyahmb.net/*
 *://*.dosyahmb.org/*
 *://*.dosyahukuk.com/*
 *://*.dosyahukuku.com/*
@@ -125989,6 +125991,7 @@
 *://*.fevertwitch.com/*
 *://*.feviwah886.online/*
 *://*.feviwah886.site/*
+*://*.feviwah886.xyz/*
 *://*.fevrmkcj.com/*
 *://*.fevzikimyagebzeilaclama.site/*
 *://*.few-dsgrg-qetht-dbbd.space/*
@@ -139846,6 +139849,7 @@
 *://*.gibodemem.net/*
 *://*.gibonlinebasvuru.com/*
 *://*.gibportaldijital.com/*
+*://*.gibportalim.com/*
 *://*.gibportamobil.com/*
 *://*.gibsms.com/*
 *://*.gibtkzoja.com/*
@@ -142085,6 +142089,7 @@
 *://*.gncxdlfzl-onlalinemrfkktxfirsllryla.click/*
 *://*.gncxdlfzl-onllinemrfkktxfirsllryla.xyz/*
 *://*.gndecerselerde.xyz/*
+*://*.gndeclersance.xyz/*
 *://*.gndeliikcrfsmrkt.cfd/*
 *://*.gndelikcfsamrket.cfd/*
 *://*.gndelikcfsmrkettt.cfd/*
@@ -143172,6 +143177,7 @@
 *://*.gov-ptt.icu/*
 *://*.gov-ptt.life/*
 *://*.gov-ptts-tr.top/*
+*://*.gov-skd.org/*
 *://*.gov-str.com/*
 *://*.gov-tax.cfd/*
 *://*.gov-tax.icu/*
@@ -188615,6 +188621,7 @@
 *://*.jeton6.com/*
 *://*.jeton9.com/*
 *://*.jetonal.com/*
+*://*.jetonbaba2.space/*
 *://*.jetonbaba4.online/*
 *://*.jetonlineodeme.com/*
 *://*.jetonlyseath.top/*
@@ -198380,6 +198387,7 @@
 *://*.kgmax.top/*
 *://*.kgmay.top/*
 *://*.kgmaz.top/*
+*://*.kgmbakiye.com/*
 *://*.kgmbbgovtr.top/*
 *://*.kgmbebe.com/*
 *://*.kgmbeklemeyinn.com/*
@@ -202197,6 +202205,7 @@
 *://*.kosgebkredimerkezi.click/*
 *://*.kosgebkredinhazir.click/*
 *://*.kosgeble.mobi/*
+*://*.kosgebmerkez.click/*
 *://*.kosgebmerkezi.click/*
 *://*.kosgebprogramdestek.cfd/*
 *://*.kosgebyardim.com/*
@@ -212055,6 +212064,7 @@
 *://*.malidava.com/*
 *://*.malidava.org/*
 *://*.malidosya.net/*
+*://*.malidosyalarim.org/*
 *://*.malifalinali.work/*
 *://*.malignantsymposium.top/*
 *://*.malignantvicinity.top/*
@@ -217123,6 +217133,7 @@
 *://*.mhrsmsmhsxzwshshn.net/*
 *://*.mhrsrandavu.net/*
 *://*.mhrsrandevu.com/*
+*://*.mhrsrandevu.net/*
 *://*.mhrsrandevualma.net/*
 *://*.mhrsrandevum.net/*
 *://*.mhrsrandevumuolustur.site/*
@@ -220546,6 +220557,7 @@
 *://*.mobilin.sbs/*
 *://*.mobilin100yilkampanyasi.online/*
 *://*.mobilin85yillinaaozelkampanya.com/*
+*://*.mobilincebtekihalibasvur.sbs/*
 *://*.mobilingiris.sbs/*
 *://*.mobilingiris.site/*
 *://*.mobilingiris1.site/*
@@ -230616,6 +230628,7 @@
 *://*.nowtwmedia.com/*
 *://*.nowv21alid.top/*
 *://*.noxiuos-utopi.bond/*
+*://*.noyalandinixcv.com/*
 *://*.noyamicokseviyorum.com/*
 *://*.noyshare.com/*
 *://*.np-hotelss.com/*
@@ -234348,6 +234361,7 @@
 *://*.ofismiz.com/*
 *://*.ofkarayolugecsonle.com/*
 *://*.ofkedoluptasiyorken.click/*
+*://*.ofkhv.life/*
 *://*.ofkjihckckbj.pw/*
 *://*.oflusansakawa.sbs/*
 *://*.oflybfv.biz/*
@@ -240644,6 +240658,7 @@
 *://*.ortakborcodemebayi.info/*
 *://*.ortakborcodemeonline.info/*
 *://*.ortakbyy.tk/*
+*://*.ortakdogrulama.org.tr/*
 *://*.ortakfatura-mobil.com/*
 *://*.ortakfaturam.com/*
 *://*.ortakgisebayim.net/*
@@ -254201,6 +254216,10 @@
 *://*.prmsynnkmmpnyaabsvrrr.art/*
 *://*.prmsynnkmmpnyaabsvrrr.info/*
 *://*.prmsynnkmmpnyaabsvrrr.pro/*
+*://*.prmsynnkmpnnyaabsvrr.art/*
+*://*.prmsynnkmpnnyaabsvrr.info/*
+*://*.prmsynnkmpnnyaabsvrr.live/*
+*://*.prmsynnkmpnnyaabsvrr.pro/*
 *://*.prmsynnkmpnyaabsvr.info/*
 *://*.prmsynnkmpnyaabsvrr.info/*
 *://*.prmsynnkmpnyaabsvrr.live/*
@@ -285863,6 +285882,7 @@
 *://*.soksubatayifirsati.xyz/*
 *://*.sokta-bavulgunleri.com.tr/*
 *://*.sokta-firsatrobot.org.tr/*
+*://*.sokta-gunler.tv.tr/*
 *://*.sokta-gunler.web.tr/*
 *://*.sokta-haziranfirsatlar.com.tr/*
 *://*.sokta-karaca.com.tr/*
@@ -289126,6 +289146,7 @@
 *://*.spnsoredyapiadresi.com/*
 *://*.spnsorlu-59012-icerik.online/*
 *://*.spnsorlu-669129229.online/*
+*://*.spnsorlu-flrsatlar-epespatos.com/*
 *://*.spnsorlu-reklamlar-burda.me/*
 *://*.spnsorlukampanya.com/*
 *://*.spnsorlukampanyalarim.com/*
@@ -303037,6 +303058,7 @@
 *://*.tkfbba.top/*
 *://*.tkfdchi.com/*
 *://*.tkfheigxaqqbkej.cn/*
+*://*.tkg-edvtapko.org/*
 *://*.tkgm-basvur.online/*
 *://*.tkgm-guncelislemleriniz.com/*
 *://*.tkgm-hizmet.online/*
@@ -352063,6 +352085,7 @@
 *://*.yonkearyse.com/*
 *://*.yonld-hzs-bni.store/*
 *://*.yonlen-2010201.art/*
+*://*.yonlen-artik-310131.com/*
 *://*.yonlen-buradan-anlik.sbs/*
 *://*.yonlen.click/*
 *://*.yonlendir-aktarma-sistem.cyou/*
@@ -357314,6 +357337,7 @@
 *://*.zz00zbgun.com/*
 *://*.zz3r0.com/*
 *://*.zz4kzt27u8.ru/*
+*://*.zz7kx2mq.click/*
 *://*.zzb.bz/*
 *://*.zzbiryag.site/*
 *://*.zzbiryagg.site/*
