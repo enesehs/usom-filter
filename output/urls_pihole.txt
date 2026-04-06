@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-06 09:56:59 UTC
-# Toplam: 447800 Domain
+# Son Güncelleme: 2026-04-06 10:54:04 UTC
+# Toplam: 447802 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3554,6 +3554,7 @@
 115tr-polistr.online
 116-12-355-755.com
 1161253.com
+11614165165465.duckdns.org
 11624-security.com
 1163-11-876-7.com
 11654811.cloud
@@ -227246,6 +227247,7 @@ istnlblbsvrml.com
 istnlblkart.blogspot.com
 istnlbllykle.cf
 istnlbstlslnsntsn.online
+istnlfdhst.com
 istnlkntslnatndan.online
 istnlllagsts.online
 istnlnsltnst.online
