@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-06 16:33:05 UTC
-! Total: 357420 rules
+! Last modified: 2026-04-06 17:34:56 UTC
+! Total: 357439 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2990,6 +2990,7 @@
 *://*.1442512544112555590.xyz/*
 *://*.1443243243432.cloud/*
 *://*.144514453563632288.cloud/*
+*://*.144522111212cvk.com/*
 *://*.1447.store/*
 *://*.1447435252423.com/*
 *://*.1447bimsell.net/*
@@ -8465,6 +8466,7 @@
 *://*.3545625465232.click/*
 *://*.354qytr.cn/*
 *://*.35542222534.cloud/*
+*://*.3556544511sda.com/*
 *://*.3560guest-booking.com/*
 *://*.356456576787345.com.tr/*
 *://*.3564653236535324.com/*
@@ -13518,6 +13520,7 @@
 *://*.9yxatdb.cn/*
 *://*.9yyoucalltodaz.tk/*
 *://*.9zolaxckaskxservicessorgusystem.com/*
+*://*.9zzx4k2m7q.click/*
 *://*.Academiaarena.com/*
 *://*.Activationsmicrosoft.com/*
 *://*.Agusto-s10-1comtr.online/*
@@ -30991,6 +30994,7 @@
 *://*.anadolubanks.com/*
 *://*.anadolubasaksigorta.com/*
 *://*.anadolubimcell.com/*
+*://*.anadolubridge.com/*
 *://*.anadolubursum.com/*
 *://*.anadolucentral.com/*
 *://*.anadolucode.com/*
@@ -31021,6 +31025,7 @@
 *://*.anadolumenkuldegerler.com/*
 *://*.anadolumenkuldegerler.net/*
 *://*.anadolumobilsube.com/*
+*://*.anadolumotion.com/*
 *://*.anadolumsigorta.com/*
 *://*.anadolumsigorta.net/*
 *://*.anadolumsigortaci.com/*
@@ -43064,6 +43069,7 @@
 *://*.basvuriade.com/*
 *://*.basvuriadeal.net/*
 *://*.basvurinternetyapikredi.com/*
+*://*.basvurisbkatilimlari.sbs/*
 *://*.basvuriscepte.online/*
 *://*.basvurislem.net/*
 *://*.basvurislemin.net/*
@@ -86908,6 +86914,7 @@
 *://*.db-grs.website/*
 *://*.db-kampanya-info2022.tk/*
 *://*.db-sorgulama-bilgilendirme.tk/*
+*://*.db155polisi155polisi.online/*
 *://*.db7093.com/*
 *://*.dbakirlaguvenlislemlr.net/*
 *://*.dbal33conydrawn.top/*
@@ -95790,6 +95797,7 @@
 *://*.dijijuzdan.click/*
 *://*.dijimicrofon.com/*
 *://*.dijionlinedenizkredikntrl.com/*
+*://*.dijiseninle.click/*
 *://*.dijislemenugirislerim.com/*
 *://*.dijit-al-web.net/*
 *://*.dijit-al.net/*
@@ -96303,6 +96311,7 @@
 *://*.dijitalgiris-ziraatkampanyaweb.com/*
 *://*.dijitalgiris-ziraatmobil.com/*
 *://*.dijitalgiris-ziraatmobilbireysel.sbs/*
+*://*.dijitalgiris-ziraatmobilin.com/*
 *://*.dijitalgiris-ziraatmobilkampanya.com/*
 *://*.dijitalgiris-ziraatmobilweb.com/*
 *://*.dijitalgiris-ziraatmobilweb.sbs/*
@@ -141776,6 +141785,7 @@
 *://*.globalkatilimfirsati-hemenbasvur.com/*
 *://*.globalletrkiyehediyeduyuru.com/*
 *://*.globalleturkiyehediyeduyurubonus.com/*
+*://*.globallnetwork.com/*
 *://*.globallogicworks.com/*
 *://*.globalmarket247online.com/*
 *://*.globalmarketingsite.site/*
@@ -144564,6 +144574,7 @@
 *://*.grntprsmynnnkmpnyaaa.info/*
 *://*.grntprsmynnnkmpnyaaa.pro/*
 *://*.grntramazanaozel.site/*
+*://*.grntsube.click/*
 *://*.grnttbbkredibasvurr.net/*
 *://*.grnttbbvvaa.com/*
 *://*.grnttbbvvaa.online/*
@@ -153161,6 +153172,7 @@
 *://*.hamamammamamamaama2451.com/*
 *://*.hamamammamamamam172.site/*
 *://*.hamamammamamamam2452.com/*
+*://*.hamamammamamamama72108.com/*
 *://*.hamamammamamamamammmamamama9824.com/*
 *://*.hamamammamamamm8190.com/*
 *://*.hamamammamamammama0233.com/*
@@ -225262,6 +225274,7 @@
 *://*.mxmmmxmxm.com/*
 *://*.mxmmtvpazar.com/*
 *://*.mxmxmxmx.online/*
+*://*.mxq27k.click/*
 *://*.mxrrndlarinzxsd.net/*
 *://*.mxrz.xyz/*
 *://*.mxsecured-365server-officecrosoft365.com/*
@@ -236341,6 +236354,7 @@
 *://*.online-e-devllet-0917.ga/*
 *://*.online-e-hizmet-turkeygovt.com/*
 *://*.online-e-kapi-giris.ml/*
+*://*.online-e-kt-ekrniniz.sbs/*
 *://*.online-e-p-t-t-a-v-m.shop/*
 *://*.online-e-turkeygovt.com/*
 *://*.online-ebasvuru-guvenli-giris-form-doldur.xyz/*
@@ -238528,6 +238542,7 @@
 *://*.onlinekampanyalifiyatlarmm.com.tr/*
 *://*.onlinekampanyalifiyatlarmm.online/*
 *://*.onlinekampanyalifiyatlarmm.xyz/*
+*://*.onlinekampanyam.cloud/*
 *://*.onlinekampanyamerkezi.xyz/*
 *://*.onlinekampanyaozelfirsat.com/*
 *://*.onlinekanal-garanti.click/*
@@ -288333,6 +288348,7 @@
 *://*.sosyalyardimlasma.site/*
 *://*.sosyalyardimlasma2021.com/*
 *://*.sosyalyardimlasmapandemi2021.com/*
+*://*.sosyalyardimlasmavedayanismagovtr.online/*
 *://*.sosyalyardimm.com/*
 *://*.sosyalyardimonay.net/*
 *://*.sosyalyardimpandemi3501tl.xyz/*
@@ -299756,6 +299772,7 @@
 *://*.tektikladestek.online/*
 *://*.tektikladestekyardimi.com/*
 *://*.tektiklaevindeolur.me/*
+*://*.tektiklaevinegelllr.com/*
 *://*.tektiklaevlnegellr.com/*
 *://*.tektiklafaturaode.com/*
 *://*.tektiklagir.xyz/*
@@ -339019,6 +339036,7 @@
 *://*.x6vl9710f400g7alstar.online/*
 *://*.x777843252.xyz/*
 *://*.x78xc12f.site/*
+*://*.x7bqm29zz.click/*
 *://*.x7c2c55.tokyo/*
 *://*.x7f70.ru/*
 *://*.x7m4k9q2f6b8n3hvat.cfd/*
@@ -348383,6 +348401,7 @@
 *://*.yenerlervakfi.com/*
 *://*.yenfirsatlarkapinda.shop/*
 *://*.yeng5858.com/*
+*://*.yengirzes2026.com/*
 *://*.yenhaftayaceplegir.site/*
 *://*.yenhgss.com/*
 *://*.yeni-acikdenizkredimobildenonaylat.click/*

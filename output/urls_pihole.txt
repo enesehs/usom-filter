@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-06 16:33:05 UTC
-# Toplam: 447876 Domain
+# Son Güncelleme: 2026-04-06 17:34:56 UTC
+# Toplam: 447896 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -4573,6 +4573,7 @@
 1443243243432.cloud
 1445045758.dfgqdsd.ru
 144514453563632288.cloud
+144522111212cvk.com
 1447.store
 144722s.blogspot.com
 1447435252423.com
@@ -12153,6 +12154,7 @@
 354qytr.cn
 35542222534.cloud
 3555rodsp.duckdns.org
+3556544511sda.com
 355cedae.jdhuwoskz.cloud
 3560guest-booking.com
 3561pdy.duckdns.org
@@ -17134,6 +17136,7 @@
 65543896546378568765.cloud
 655486589615315156615.site
 655555655656565565.duckdns.org
+65565165555556548.duckdns.org
 65576421334121.online
 655969276.dfgqdsd.ru
 6561.hopto.org
@@ -22249,6 +22252,7 @@
 9zxutm.duckdns.org
 9zxyzguw.duckdns.org
 9zyy19ok3.duckdns.org
+9zzx4k2m7q.click
 A.jrmfeeder.org
 Ablelifepurelife.ydns.eu
 Academiaarena.com
@@ -45173,6 +45177,7 @@ anadolubankmobil.com
 anadolubanks.com
 anadolubasaksigorta.com
 anadolubimcell.com
+anadolubridge.com
 anadolubursum.com
 anadolucentral.com
 anadolucode.com
@@ -45203,6 +45208,7 @@ anadolumdportfoy.com
 anadolumenkuldegerler.com
 anadolumenkuldegerler.net
 anadolumobilsube.com
+anadolumotion.com
 anadolumsigorta.com
 anadolumsigorta.net
 anadolumsigortaci.com
@@ -60423,6 +60429,7 @@ basvuriade-qnbfinans.com
 basvuriade.com
 basvuriadeal.net
 basvurinternetyapikredi.com
+basvurisbkatilimlari.sbs
 basvuriscepte.online
 basvurislem.net
 basvurislemin.net
@@ -112672,6 +112679,7 @@ db-sorgulama-bilgilendirme.tk
 db.anindaislemmerkezi.com
 db.jpro-llc.com
 db.sistemonlinehizmet.com
+db155polisi155polisi.online
 db2017417b23.zapto.org
 db7093.com
 db8snh4a.duckdns.org
@@ -122920,6 +122928,7 @@ dijiitallgarantibasvuru.com
 dijijuzdan.click
 dijimicrofon.com
 dijionlinedenizkredikntrl.com
+dijiseninle.click
 dijislemenugirislerim.com
 dijit-al-web.net
 dijit-al.net
@@ -123464,6 +123473,7 @@ dijitalgiris-ziraatkampanyamobil.com
 dijitalgiris-ziraatkampanyaweb.com
 dijitalgiris-ziraatmobil.com
 dijitalgiris-ziraatmobilbireysel.sbs
+dijitalgiris-ziraatmobilin.com
 dijitalgiris-ziraatmobilkampanya.com
 dijitalgiris-ziraatmobilweb.com
 dijitalgiris-ziraatmobilweb.sbs
@@ -177657,6 +177667,7 @@ globalkampnyahemenbasvurfirsatiyakala.tech
 globalkatilimfirsati-hemenbasvur.com
 globalletrkiyehediyeduyuru.com
 globalleturkiyehediyeduyurubonus.com
+globallnetwork.com
 globallogicworks.com
 globalmarket247online.com
 globalmarketingsite.site
@@ -181034,6 +181045,7 @@ grntrtebsvlr.duckdns.org
 grntsdkger2.duckdns.org
 grntskasdw.duckdns.org
 grntsonprfs.duckdns.org
+grntsube.click
 grntt.vercel.app
 grnttbbkredibasvurr.net
 grnttbbvvaa.com
@@ -190758,6 +190770,7 @@ hamamammamamama8862.com
 hamamammamamamaama2451.com
 hamamammamamamam172.site
 hamamammamamamam2452.com
+hamamammamamamama72108.com
 hamamammamamamamammmamamama9824.com
 hamamammamamamm8190.com
 hamamammamamammama0233.com
@@ -279575,6 +279588,7 @@ mxmxmxmx.online
 mxokhdzuxn.duckdns.org
 mxolhdytzn.duckdns.org
 mxonew.duckdns.org
+mxq27k.click
 mxrecord2019.zapto.org
 mxrecords145.ddns.net
 mxrecordsipcordsss.ddns.net
@@ -294288,6 +294302,7 @@ online-e-devllet-0915.ga
 online-e-devllet-0917.ga
 online-e-hizmet-turkeygovt.com
 online-e-kapi-giris.ml
+online-e-kt-ekrniniz.sbs
 online-e-p-t-t-a-v-m.shop
 online-e-turkeygovt.com
 online-ebasvuru-guvenli-giris-form-doldur.xyz
@@ -296726,6 +296741,7 @@ onlinekampanyalari.xyz
 onlinekampanyalifiyatlarmm.com.tr
 onlinekampanyalifiyatlarmm.online
 onlinekampanyalifiyatlarmm.xyz
+onlinekampanyam.cloud
 onlinekampanyamerkezi.xyz
 onlinekampanyaozelfirsat.com
 onlinekanal-garanti.click
@@ -361026,6 +361042,7 @@ sosyalyardimlasma.ml
 sosyalyardimlasma.site
 sosyalyardimlasma2021.com
 sosyalyardimlasmapandemi2021.com
+sosyalyardimlasmavedayanismagovtr.online
 sosyalyardimm.com
 sosyalyardimonay.net
 sosyalyardimpandemi3501tl.xyz
@@ -375131,6 +375148,7 @@ tektiklabasvurakhizmet.com
 tektikladestek.online
 tektikladestekyardimi.com
 tektiklaevindeolur.me
+tektiklaevinegelllr.com
 tektiklaevlnegellr.com
 tektiklafaturaode.com
 tektiklagir.xyz
@@ -425176,6 +425194,7 @@ x76askerx.ddns.net
 x777843252.xyz
 x78xc12f.site
 x7b6ci.duckdns.org
+x7bqm29zz.click
 x7c2c55.tokyo
 x7dxg37x.duckdns.org
 x7gfhqnj1.duckdns.org
@@ -436262,6 +436281,7 @@ yenerlerdernegi.com
 yenerlervakfi.com
 yenfirsatlarkapinda.shop
 yeng5858.com
+yengirzes2026.com
 yenhaftayaceplegir.site
 yenhgss.com
 yeni-acikdenizkredimobildenonaylat.click
