@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-06 10:54:04 UTC
-! Total: 357363 rules
+! Last modified: 2026-04-06 11:38:53 UTC
+! Total: 357369 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -31043,6 +31043,7 @@
 *://*.anadolusigortacilik.com/*
 *://*.anadolusigortam.com/*
 *://*.anadolusigortam.online/*
+*://*.anadolusmart.com/*
 *://*.anadolusosyal.online/*
 *://*.anadolusosyal1.online/*
 *://*.anadolusosyal2.online/*
@@ -78730,6 +78731,7 @@
 *://*.coktatokimde.com/*
 *://*.cokucuz.name.tr/*
 *://*.cokuykumvar.app/*
+*://*.cokuzgunumcok.click/*
 *://*.cokuzunsurebeklemeyin.net/*
 *://*.cokyakindaaaaaaaageliyoruz.com/*
 *://*.cokyakindabiliyorsunuz.com/*
@@ -98883,6 +98885,7 @@
 *://*.doktordansikayetler.com/*
 *://*.doktordansikayetlerimlz.com/*
 *://*.doktordansikayetvar.com/*
+*://*.doktorkante.click/*
 *://*.doktorlardantavsiyeler.club/*
 *://*.doktorlarinonerisi.club/*
 *://*.doktoronlinehizmet.com/*
@@ -258338,6 +258341,7 @@
 *://*.ptthgsodeme.com/*
 *://*.ptthgsonline.com/*
 *://*.ptthgsonline.net/*
+*://*.ptthgspalenk.com/*
 *://*.ptthgss-avm.com/*
 *://*.ptthgssavmlsrgu.click/*
 *://*.ptthgssodeme.net/*
@@ -275749,6 +275753,7 @@
 *://*.semrush.tech/*
 *://*.semrush.works/*
 *://*.semrussh.sbs/*
+*://*.semt-pazari.shop/*
 *://*.semtbura.xyz/*
 *://*.semtinenekonomikmarketzinciri.cfd/*
 *://*.semtinizdesadeceenkaliteliveenuygun.cfd/*
@@ -285854,6 +285859,7 @@
 *://*.soksubatayifirsati.xyz/*
 *://*.sokta-bavulgunleri.com.tr/*
 *://*.sokta-firsatrobot.org.tr/*
+*://*.sokta-gunler.web.tr/*
 *://*.sokta-haziranfirsatlar.com.tr/*
 *://*.sokta-karaca.com.tr/*
 *://*.sokta-klimagunleri.com.tr/*
