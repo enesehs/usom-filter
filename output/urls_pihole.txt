@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-06 11:38:53 UTC
-# Toplam: 447809 Domain
+# Son Güncelleme: 2026-04-06 12:40:49 UTC
+# Toplam: 447814 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -100802,6 +100802,7 @@ cliveoperg.space
 clixendo.com
 cljldxsgsp.duckdns.org
 cljvdsbi.xyz
+clk-7f620beb401fce503930.storage.googleapis.com
 clk-bglntsi.shop
 clk-trf.online
 clk3r1241l2xr.t625u.ru
@@ -123671,6 +123672,7 @@ dijitalkampanyaweb-ziraat.com
 dijitalkampanyaweb-ziraatbireysel.com
 dijitalkampanyaweb-ziraatbireysel.sbs
 dijitalkampnya.net
+dijitalkanal-ziraatmobilkampanya.com
 dijitalkanal-ziraatmobilweb.com
 dijitalkanal.sbs
 dijitalkar-tr.com
@@ -134865,6 +134867,7 @@ e-nabiz.store
 e-nabizgov.com
 e-nabizgovtr.com
 e-netgsm.com
+e-netgsm.online
 e-netode.net
 e-netodeme.net
 e-netonlineiade.com
@@ -311266,6 +311269,7 @@ piranhayetkilibayi.site
 piranhtech.online
 piranlteaclh.online
 piranltech.com
+piranltech.online
 piranno12.site
 piranteach.online
 pirantecch.com
@@ -311274,6 +311278,7 @@ pirantech.fun
 pirantech.lol
 pirantech.net
 pirantech.org
+pirantechl.online
 piranteclh.com
 piranteclh.net
 piranteclh.org
