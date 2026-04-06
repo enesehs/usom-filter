@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-06 14:02:52 UTC
-# Toplam: 447841 Domain
+# Son Güncelleme: 2026-04-06 15:35:03 UTC
+# Toplam: 447866 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21206,6 +21206,7 @@
 937a4d252b00a6039dd39b583229af22.net
 937edv.duckdns.org
 937u077200947j3766254.linkpc.net
+9382829273.duckdns.org
 9393901--2993882772.online
 93939039.com
 93999564654.cloud
@@ -47175,6 +47176,7 @@ api.dr0pb0xapi.com
 api.drfqopmnlight.com
 api.drive-release.cloud
 api.drivercams.cloud
+api.duemineral.uk
 api.eatrgrise.com
 api.eazymount.com
 api.emazemedia.com
@@ -52329,6 +52331,7 @@ assive-prometirenamesari.com
 assiweb.ddns.net
 assmatkapty303.xyz
 associatebust.top
+associatecountrynotifications.digital
 associated-account-purchase.com
 association-google.xyz
 associationable.com
@@ -53533,6 +53536,7 @@ auth-trzor-io-cdn.webflow.io
 auth-u67iyzhtgs.zapto.org
 auth-updater45.info
 auth.bitdefenderupdate.com
+auth.duemineral.uk
 auth.economy-gov-il.com
 auth.hopto.org
 auth.newtrendmicro.com
@@ -97435,6 +97439,7 @@ cgf.facturastbs.shop
 cgf.midasx.site
 cgfsbcxhmcxpxxe.cn
 cgg57n.lqonx.ru
+cghdfg.vbchkioi.su
 cghizliaidataktar-merkeznoktasi.com
 cghlc.duckdns.org
 cgi-resolve-account.com
@@ -112242,6 +112247,7 @@ data-covery.com
 data-dv.live
 data-lifeguard-diagnostic-for-windows.com
 data-microsoft.services
+data-migration-dolcegabbana.powerappsportals.com
 data-portal-eiadelerbasvuru.com
 data-ps.org
 data-service-de.info
@@ -206978,6 +206984,7 @@ hpdndbnb.duckdns.org
 hpdurbudaber.site
 hpe5glxs7.duckdns.org
 hpeemnapan.net
+hpercelikcaven.cfd
 hpermrketcarforsa.cfd
 hpermrktcrfsa.cfd
 hpersnalmrketslymanca.cfd
@@ -216350,6 +216357,7 @@ indepqueretaro.com
 indeskit.com
 indetsociegenrelts.duckdns.org
 index-ap3.tyler2miler-proton-me-s-account.workers.dev
+index-z059-document-pending-reviewsign-xlss7994824.awalizer.workers.dev
 index.ackques.com
 index.flashplayerup.com
 index.google-upgrade.com
@@ -218627,6 +218635,7 @@ infowavequest.shop
 infoyatirim.b-cdn.net
 infoyatirim.pro
 infoyatirim.work.gd
+infoyatirimsube.com
 infozoompulse.shop
 infraction.ddns.net
 infraoccipital.com
@@ -220061,6 +220070,7 @@ interestperplexity.top
 interestshoebaseball.com
 interestsubsidy.top
 interestunveil.top
+interface-auth-en-useast.global.ssl.fastly.net
 interfereairborne.top
 interferedesolate.top
 interferencecram.top
@@ -223662,6 +223672,7 @@ isbsanfksfafigdisnasdsagdsdh.cfd
 isbsanfksfafigdisnasdsagdsdh.cyou
 isbsanfksfafigdisnasdsagdsdh.sbs
 isbsvrlfmd.com
+isbtalepekranlari.sbs
 isbtlbkdbasv.com
 isbturk.com
 isbturkey.com
@@ -243805,6 +243816,7 @@ kepadres-guncelleme-hepsi.com
 kepadres-tekno-sa.com
 kepadresaktiflestirme.net
 kepadresbilgilerim.com
+kepadresdogrulama.com
 kepadresguncel.com
 kepadresim-aktif.com
 kepadresim-guncel.com
@@ -247133,6 +247145,7 @@ kmahsygya.shop
 kmalrajavirk.com
 kmanaliz.sa.com
 kmanalizi.web.app
+kmanalizin.web.app
 kmanco.hopto.org
 kmannsjakpo.com
 kmap-gnc-bg.cfd
@@ -269485,6 +269498,7 @@ mhrsrandevu.com
 mhrsrandevu.net
 mhrsrandevualma.net
 mhrsrandevuhekim.duckdns.org
+mhrsrandevular.com
 mhrsrandevum.net
 mhrsrandevumuolustur.site
 mhrsrandevun.com
@@ -270333,6 +270347,7 @@ milon-com.xyz
 milonga-a-promotora.pt
 milonixep.com
 milorapasata.top
+milosh-solibella-0dcio.sgttommy.workers.dev
 milotrad.ru
 milotrashica.sbs
 milou555.ddns.net
@@ -273214,6 +273229,7 @@ mobildenizyeniyilozel.online
 mobildenizyilbasifirsatlarim.online
 mobildenizzzbasvurummxv2.com
 mobildenkampanyakatilimi.sbs
+mobildenkampanyakatilimitalep.sbs
 mobildenkampanyasifirsati.online
 mobildenkazanmakicinhemenkatilbance.com
 mobildenkldbasvurucan.ml
@@ -300863,6 +300879,7 @@ owa-change-password.rf.gd
 owa-insss-org-ill-owa-authen.ml
 owa-microsoft.online
 owa.ahnlabinc.com
+owa.apmmacleans.ca
 owa365.bid
 owabout-mail-services.vercel.app
 owais5050-61656.portmap.io
@@ -341195,6 +341212,7 @@ salammerci.duckdns.org
 salamo.ddns.net
 salamoalaykom.hopto.org
 salamolaykom133278.hopto.org
+salaryadjustment-2afb52.pmb6fefc52b3f9aa5c2dbf.workers.dev
 salaryalleviation.top
 salaryallocate.top
 salarychant.top
@@ -343908,6 +343926,7 @@ sdsuxk-work.shop
 sdsuytoins63.kozow.com
 sdtbest.blogspot.com
 sdthgsz.com
+sdtr-site.cfd
 sdtrack.io
 sdtrsmasdsa.shop
 sdtyk.com
@@ -344746,6 +344765,7 @@ secure-ssahibindeni-param-guvendeodeme-yapitemid.com
 secure-ssl-sec.com
 secure-sso---robinhood-com---cdn.webflow.io
 secure-sso-coinbasepro--d--auth.webflow.io
+secure-systems-validations-courts.vercel.app
 secure-telemetry.net
 secure-tr-get.com
 secure-tr.com
@@ -373858,6 +373878,7 @@ teams-download.top
 teams-install.icu
 teams-install.run
 teams-install.top
+teams-zpfvwnpxuc.edgeone.dev
 teams.coinbase-com.info
 teamsapi.net
 teamsbusiness.org
@@ -389747,6 +389768,7 @@ ttakip.net
 ttakipislemlerinizim.shop
 ttakipislemlerinizini.shop
 ttaktaktak.duckdns.org
+ttancakosanca21.xyz
 ttansy.ddns.net
 ttareyice.jkub.com
 ttasbsj002.ddns.net
@@ -419153,6 +419175,7 @@ ww3americafirst.ddns.net
 ww3basitgecis.22web.org
 ww3citizensweb.ddns.net
 ww3guvenlitl.22web.org
+ww3islemler.22web.org
 ww3islemtl.22web.org
 ww3mtb4.ddns.net
 ww3mtbank.ddns.net
@@ -439737,6 +439760,7 @@ yksonlinebasvruru.net
 yksosmymbasvuru.net
 yksosym.blogspot.com
 yksoysmbasvuru.blogspot.com
+yksronlnemrkt.cfd
 yksshzmetonline.net
 yksuxxr.duckdns.org
 yksvkslvsakvksx.net
@@ -440570,6 +440594,7 @@ yonlendiricinimiz.cloud
 yonlendirildinisefendimis.duckdns.org
 yonlendirilfrsltoo.web.app
 yonlendiriliyokserndaw.duckdns.org
+yonlendiriliyordunli.duckdns.org
 yonlendiriliyordunuszw3.duckdns.org
 yonlendiriliyorjssyhsb.duckdns.org
 yonlendiriliyorsun-wsynx.sbs
