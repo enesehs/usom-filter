@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 10:44:23 UTC
-# Toplam: 447971 Domain
+# Son Güncelleme: 2026-04-07 11:42:21 UTC
+# Toplam: 447981 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -99581,6 +99581,7 @@ cimertrtiadeleri.com
 cimerturkiye.co.vu
 cimertuvturk-iadegenelsorgulavebasvuru-com.tk
 cimeruygulama.com
+cimeruzlasma.org
 cimervatandasiade.com
 cimerweb.com
 cimerwebbasvuruportalim.com
@@ -155450,6 +155451,7 @@ f-indmyiphone.com
 f-iththird.ddns.net
 f-karcahome.shop
 f-lens.ru
+f-ocustrade.online
 f-otosan.com
 f-phlilips.com
 f-pttgov.top
@@ -186214,6 +186216,7 @@ habergirislerionlineturkiye.app
 haberglemiyor2552.com
 haberglobal-89sdf8789tweg45dfsgvds4sgfsd8sgd45.xyz
 haberglobale.xyz
+haberglobale56.xyz
 haberglobals.xyz
 habergun.club
 habergun.site
@@ -214718,6 +214721,7 @@ ile-islemini-guvenliyap.com
 ile-isleminiguvenliceyap.com
 ile-isleminiyap.com
 ile-islemler.com
+ile-islemler.com.tr
 ile-islemleriniz-webde.com
 ile-kampanya-ilan.com
 ile-kampanya.com
@@ -218561,6 +218565,7 @@ infonetupdate.ddns.net
 infonew.dubya.net
 infonitymanageautos.hopto.org
 infonlinesube.com
+infonlineyatirim.com
 infonotifi.com
 infonotification.com
 infoone-informatique.fr
@@ -245231,6 +245236,7 @@ kilometredenuzayin.cfd
 kilometredetaylari.web.app
 kilometredetekimheptekim.web.app
 kilometredevlet.blogspot.com
+kilometredoktoruvekantesi.click
 kilometredomainchp.shop
 kilometredrmsorgf.click
 kilometredrmsorgf.sa.com
@@ -247668,7 +247674,10 @@ kmpnyaaprmsnynnbasvr.live
 kmpnyaaprmsnynnbasvr.pro
 kmpnyaaprmsynnbasvrr.info
 kmpnyaaprmsynnbasvrr.pro
+kmpnyaaprmsynnbsvrrr.info
+kmpnyaaprmsynnbsvrrr.live
 kmpnyaaprmsynnbsvrrr.online
+kmpnyaaprmsynnbsvrrr.pro
 kmpnyaaprmsynnbsvrrrr.art
 kmpnyaaprmsynnbsvrrrr.info
 kmpnyaaprmsynnbsvrrrr.live
@@ -386693,6 +386702,7 @@ trellayard.com
 trelma.site
 trelve47.hopto.org
 tremar.com.tr
+tremavodiku.info
 trembala.zapto.org
 trembledilution.top
 trembolone.duckdns.org
