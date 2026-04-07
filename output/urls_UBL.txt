@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-07 12:53:20 UTC
-! Total: 357537 rules
+! Last modified: 2026-04-07 14:23:28 UTC
+! Total: 357544 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -130071,6 +130071,7 @@
 *://*.fkfklgklgd.xyz/*
 *://*.fkfy.org/*
 *://*.fkgarage.net/*
+*://*.fkgmkwjgb.click/*
 *://*.fkhrlzqx.biz/*
 *://*.fkibsrcpu.com/*
 *://*.fkjmnihtwnwk.com/*
@@ -198957,6 +198958,7 @@
 *://*.kilometredelirten.cfd/*
 *://*.kilometredelisi.cfd/*
 *://*.kilometredenuzayin.cfd/*
+*://*.kilometredetay.com/*
 *://*.kilometredoktoruvekantesi.click/*
 *://*.kilometredomainchp.shop/*
 *://*.kilometredrmsorgf.click/*
@@ -211423,6 +211425,7 @@
 *://*.magazam-ilanim.com/*
 *://*.magazam-sahibinden-param-guvende-com.tk/*
 *://*.magazam.sbs/*
+*://*.magazam.shop/*
 *://*.magazama1o1.com/*
 *://*.magazampasajturkcell.store/*
 *://*.magazamsanal.store/*
@@ -229508,6 +229511,7 @@
 *://*.nisangecekatilimkampanyasi.site/*
 *://*.nisangeliyormazbata.world/*
 *://*.nisangunleri.com/*
+*://*.nisangunlerinde.com/*
 *://*.nisangunlerineozelbunlar.com/*
 *://*.nisanhaftalari.biz.tr/*
 *://*.nisanhaftalari.com.tr/*
@@ -238238,6 +238242,7 @@
 *://*.onlineharc.org/*
 *://*.onlinehasarcilarim.com/*
 *://*.onlinehasarsorgulama.com/*
+*://*.onlinehastanerandevulari.com/*
 *://*.onlinehayatevesigar.com/*
 *://*.onlinehazirangunleri.com/*
 *://*.onlinehediyeler-qnbfinansbank-com.tk/*
@@ -343793,6 +343798,7 @@
 *://*.xn--yatrmgaranti-34bb.com.tr/*
 *://*.xn--yazbasvuru-acikdenizv2denizbank-u94s.com/*
 *://*.xn--yaztatilacikdenizv2denizbank-gi5q.com/*
+*://*.xn--ydagzlatdynyrsdnd-jvc.shop/*
 *://*.xn--yediyirmidortyklememerkezi-c0c.net/*
 *://*.xn--yen-binanceyl-59bjb.net/*
 *://*.xn--yeni-acikdenizv2yilbasigiris-gi5q.com/*
@@ -351562,6 +351568,7 @@
 *://*.yksodemeanlar.net/*
 *://*.yksonbasv.net/*
 *://*.yksonlinebasvruru.net/*
+*://*.yksonlnemarkettenal.xyz/*
 *://*.yksonlnemarkettnal.xyz/*
 *://*.yksosmymbasvuru.net/*
 *://*.yksronlnemrkt.cfd/*
