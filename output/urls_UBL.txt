@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-07 22:26:20 UTC
-! Total: 357576 rules
+! Last modified: 2026-04-07 23:26:53 UTC
+! Total: 357587 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -66827,6 +66827,7 @@
 *://*.budway.site/*
 *://*.budways.site/*
 *://*.budwy.site/*
+*://*.budz.garden/*
 *://*.budzedeqe.click/*
 *://*.buekimbaska.com/*
 *://*.buekimbaskaekim.best/*
@@ -67446,6 +67447,7 @@
 *://*.bullconsulate.top/*
 *://*.bulldogironworksllc.com/*
 *://*.bulldogshousing.com/*
+*://*.bulldomat.mom/*
 *://*.bulletcrunch.top/*
 *://*.bulletgorist.xyz/*
 *://*.bulletin23.xyz/*
@@ -111614,6 +111616,7 @@
 *://*.edupoliceam.info/*
 *://*.eduquest.icu/*
 *://*.edurestunningcrackyow.fun/*
+*://*.eduspark.courses/*
 *://*.edutr.net/*
 *://*.eduv.icu/*
 *://*.eduwsky.com/*
@@ -111811,6 +111814,7 @@
 *://*.edwesdqawed.site/*
 *://*.edwhi.ru/*
 *://*.edwinharrington54.xyz/*
+*://*.edwise.cfd/*
 *://*.edwsdrkweasrfd.com/*
 *://*.edwsqeaerqwa.site/*
 *://*.edynmlqbvmwabqn.cn/*
@@ -145894,6 +145898,7 @@
 *://*.guncelpuankampanyalari.ml/*
 *://*.guncelpuankampanyalari.tk/*
 *://*.guncelramazankampanyalari.net/*
+*://*.guncelrota.world/*
 *://*.guncelsayfa-basvurulari.org/*
 *://*.guncelsayfatrnbngiris.online/*
 *://*.guncelseyir.info/*
@@ -206613,6 +206618,7 @@
 *://*.learnmotive.com/*
 *://*.learnnoise.net/*
 *://*.learnorat.com/*
+*://*.learnstorage.pics/*
 *://*.learnuxid.com/*
 *://*.learnwithline.com/*
 *://*.learnyprocce.bond/*
@@ -215459,6 +215465,7 @@
 *://*.mediakznul.lat/*
 *://*.medialabpro.com/*
 *://*.medialinks.cc/*
+*://*.medialocker.locker/*
 *://*.medialog.top/*
 *://*.mediamaarkt.com/*
 *://*.mediamaarktt.site/*
@@ -226850,6 +226857,7 @@
 *://*.navcdis.com/*
 *://*.navectrece.com/*
 *://*.naveentour.com/*
+*://*.navekodiru.gifts/*
 *://*.navelo.click/*
 *://*.naver-download.com/*
 *://*.naver.co.in/*
@@ -267060,6 +267068,7 @@
 *://*.ridededuce.top/*
 *://*.ridefox.com/*
 *://*.ridercommonwealth.top/*
+*://*.riderf1.cyou/*
 *://*.riderflush.top/*
 *://*.riderratttinow.shop/*
 *://*.ridethenorth.travel/*
@@ -268027,6 +268036,7 @@
 *://*.rouseantagonist.top/*
 *://*.rouseflatter.top/*
 *://*.routechx.com/*
+*://*.routeforge.shop/*
 *://*.routeofgrowth.com/*
 *://*.routepebble.com/*
 *://*.routermanager.ga/*
@@ -279476,6 +279486,7 @@
 *://*.shotsmob.sbs/*
 *://*.shotsruts.com/*
 *://*.shotstatutory.top/*
+*://*.shotz.icu/*
 *://*.shou123.shop/*
 *://*.shoulderrevolt.top/*
 *://*.shoulderreward.top/*
