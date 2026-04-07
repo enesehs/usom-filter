@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-07 06:11:21 UTC
-! Total: 357491 rules
+! Last modified: 2026-04-07 08:03:11 UTC
+! Total: 357494 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2471,6 +2471,7 @@
 *://*.124123451256789.online/*
 *://*.1242142121sdg.cfd/*
 *://*.12421551236223.online/*
+*://*.12421hjhfkhsgd.click/*
 *://*.1242332389171269732.buzz/*
 *://*.12424565365243544.com/*
 *://*.12430120410143634.com/*
@@ -259211,6 +259212,7 @@
 *://*.pudenizbank.com/*
 *://*.pudloxan.com/*
 *://*.pudnaeovas.net/*
+*://*.pudomaeuri.net/*
 *://*.puerrogfh.live/*
 *://*.puffpuff421.top/*
 *://*.puffsatis.com/*
@@ -339373,6 +339375,7 @@
 *://*.xekudee.digital/*
 *://*.xekwmwsvhsebqlkab.com/*
 *://*.xelar.shop/*
+*://*.xelavodiru.info/*
 *://*.xelefatobates.xyz/*
 *://*.xelefatobatesx.xyz/*
 *://*.xelfarabetosx.xyz/*

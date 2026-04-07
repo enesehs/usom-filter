@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 06:11:21 UTC
-# Toplam: 447955 Domain
+# Son Güncelleme: 2026-04-07 08:03:11 UTC
+# Toplam: 447959 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3894,6 +3894,7 @@
 124123451256789.online
 1242142121sdg.cfd
 12421551236223.online
+12421hjhfkhsgd.click
 1242332389171269732.buzz
 12424565365243544.com
 12430120410143634.com
@@ -192308,6 +192309,7 @@ hataylilarsubesi.xyz
 hataylilarsubesindekampanyalar.com.tr
 hataylilarsubesindekampanyalar.online
 hataylilarsubesindekampanyalar.xyz
+hataylivezir.duckdns.org
 hataymerkezsube.com.tr
 hataymerkezsube.online
 hataymerkezsube.xyz
@@ -321679,6 +321681,7 @@ puddinglubricate.top
 pudenizbank.com
 pudloxan.com
 pudnaeovas.net
+pudomaeuri.net
 pudphfpbyjql.wcnv20.cn
 puerrogfh.live
 puertosvps1010.duckdns.org
@@ -425748,6 +425751,7 @@ xekstrakpidaonlne1.online
 xekudee.digital
 xekwmwsvhsebqlkab.com
 xelar.shop
+xelavodiru.info
 xelefatobates.xyz
 xelefatobatesx.xyz
 xelfarabetosx.xyz
