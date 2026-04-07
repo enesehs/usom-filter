@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 17:45:27 UTC
-# Toplam: 448044 Domain
+# Son Güncelleme: 2026-04-07 18:42:34 UTC
+# Toplam: 448051 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -122943,6 +122943,7 @@ dijicebinde.click
 dijicebinde.xyz
 dijicuucey.com
 dijiden.my-homeip.com
+dijihizlicebinde.click
 dijiistkartim.net
 dijiital-fines.com
 dijiital-vakifbireysellgra.cf
@@ -198927,6 +198928,7 @@ hgs.paridu.com
 hgs.postahanec.com
 hgs.pttodeme.online
 hgs.roadplansleap.com
+hgs.simple-url.com
 hgs.tranko.co
 hgs.vergiodemex.net
 hgs.webredirect.org
@@ -245242,6 +245244,7 @@ kilometreacimaz.cfd
 kilometreaddicted.cfd
 kilometreaffedermi.cfd
 kilometreaglatan.cfd
+kilometreanaliz.web.app
 kilometrearacdurumu.web.app
 kilometrearaciburda.web.app
 kilometrearacsorgulari.web.app
@@ -270140,6 +270143,7 @@ migrosn1onlin-devcmua-kanpnyalarnztyv734.b-cdn.net
 migrosonlinekampanya.xyz
 migrossaanallmarketim.com
 migrossanalmarket.shop
+migrossanalmarketim.net
 migrosyeni.blogspot.com
 miguel123h.ddns.net
 miguelangeltrabado.com
@@ -281327,6 +281331,7 @@ nakitparamguvende.com
 nakitparamguvende.online
 nakitparamguvende.xyz
 nakitpiramite.org
+nakitpromosyon.vercel.app
 naklenmacizle.ml
 naklenmacizle.tk
 nakliyatblze.net
@@ -285293,6 +285298,7 @@ nisan-burada.com.tr
 nisan-burada.info.tr
 nisan-burada.name.tr
 nisan-burada.org.tr
+nisan-burada.web.tr
 nisan-caydanlik.com.tr
 nisan-eklimiterim.net
 nisan-firsatlari.myonlineportal.de
@@ -348236,6 +348242,7 @@ serkan58.zapto.org
 serkancaratan23.cfd
 serkandiyarii.com
 serkanismayilgorls.tk
+serke4334cxx.duckdns.org
 serkerdehefer.online
 serkerterasd.duckdns.org
 serkketftn2431231.duckdns.org
