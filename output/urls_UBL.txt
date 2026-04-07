@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-07 16:01:57 UTC
-! Total: 357561 rules
+! Last modified: 2026-04-07 17:45:27 UTC
+! Total: 357566 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -45074,6 +45074,7 @@
 *://*.basvuruyap.org/*
 *://*.basvuruyap.rest/*
 *://*.basvuruyap.sbs/*
+*://*.basvuruyap.shop/*
 *://*.basvuruyap.site/*
 *://*.basvuruyap.tk/*
 *://*.basvuruyap.xyz/*
@@ -95803,6 +95804,7 @@
 *://*.dijibasvuru.sbs/*
 *://*.dijibireyselislemlerim.online/*
 *://*.dijicebinde.click/*
+*://*.dijicebinde.xyz/*
 *://*.dijicuucey.com/*
 *://*.dijiistkartim.net/*
 *://*.dijiital-fines.com/*
@@ -148928,6 +148930,7 @@
 *://*.haber360tr.cfd/*
 *://*.haber360tr.com/*
 *://*.haber364tr.live/*
+*://*.haber365-basvurusorguekrani.xyz/*
 *://*.haber365.club/*
 *://*.haber365.online/*
 *://*.haber365.site/*
@@ -181073,6 +181076,7 @@
 *://*.isbasvurumfirsatlar.online/*
 *://*.isbasvurumun.online/*
 *://*.isbasvurusayfaniz.online/*
+*://*.isbasvurusu.sbs/*
 *://*.isbasvvurular.click/*
 *://*.isbaxnk-ramazankrexdisix.com/*
 *://*.isbazkakafirsat.site/*
@@ -347275,6 +347279,7 @@
 *://*.yardimdstekbasladibasvru.online/*
 *://*.yardimduragi.com/*
 *://*.yardimedindernegi.com/*
+*://*.yardimedinlareklamsikintisivar.click/*
 *://*.yardimeli.buzz/*
 *://*.yardimelidernek.buzz/*
 *://*.yardimelii.org/*
