@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 11:42:21 UTC
-# Toplam: 447981 Domain
+# Son Güncelleme: 2026-04-07 12:53:20 UTC
+# Toplam: 448006 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -45224,6 +45224,7 @@ anadolununevlatlari.site
 anadolununilacsikaderotu.xyz
 anadoluoffshorebnktr.com
 anadolup.pro
+anadolupath.com
 anadolupazari.space
 anadolupetrolleri.com.tr
 anadolupgroup.pro
@@ -85399,6 +85400,7 @@ briefingparadigm.top
 briefingpreside.top
 briefingrepress.top
 brieflume.com
+briefonx.com
 brient.ml
 briesiojob.duckdns.org
 brigaderua.ml
@@ -103437,6 +103439,7 @@ comodotrl.com
 comolokkodeney.duckdns.org
 comonratto.ddns.net
 comoxxossq.asia
+compacpro.pics
 compact-miracle-abounds.top
 compact.link
 compactembed.ml
@@ -108560,6 +108563,7 @@ crumblerigor.top
 crumblevaccination.top
 cruptocom--logoiun.webflow.io
 crushco.ddns.net
+crusherhub.bond
 crushignore.top
 crusider.tk
 crusora.com
@@ -119600,7 +119604,6 @@ deprem-sorgublog.top
 deprem-yaylakonak.ch
 deprem.42web.io
 deprem.link
-deprem.tech
 deprem.wesdteam.org
 deprem1.wesdteam.org
 deprem2.wesdteam.org
@@ -123695,6 +123698,7 @@ dijitalkampanya-ziraat.com
 dijitalkampanya-ziraatbireysel.com
 dijitalkampanya-ziraatbireysel.sbs
 dijitalkampanya-ziraatgiris.sbs
+dijitalkampanya-ziraatmobilin.com
 dijitalkampanya-ziraatweb.com
 dijitalkampanya-ziraatweb.sbs
 dijitalkampanya-ziraatwebmobil.sbs
@@ -156048,6 +156052,7 @@ factovaler.pro
 factrally.com
 factrure.duckdns.org
 factsofmind.com
+factstream.online
 factstreamer.com
 factualeradication.top
 factualstatic.top
@@ -183835,6 +183840,7 @@ guvenli-alisveris-hizmetleri.online
 guvenli-alisveris-ilan.online
 guvenli-alisveris-mobil.online
 guvenli-alisveris-odeme.online
+guvenli-alisveris-onay.online
 guvenli-alisveris-pttavm.com
 guvenli-alisveris-sahibinden.com
 guvenli-alisveris-shopier.com
@@ -184062,6 +184068,7 @@ guvenli-satinalim.org
 guvenli-satis-islemi.com
 guvenli-satis-online.com
 guvenli-satis-sahibinden.com
+guvenli-satis-satici.com
 guvenli-satis-yap.site
 guvenli-satis.com.tr
 guvenli-satisim-online.com
@@ -218699,6 +218706,7 @@ infrastructureavenge.top
 infrastructuredeprive.cn
 infrastructurefurious.top
 infratechconsulting.com
+infrazone.xyz
 infrekcomp.store
 infringeinterrogation.top
 infringement-copyrights.ml
@@ -240529,6 +240537,7 @@ karayollari-surucuhgsetiket.net
 karayollari-webhizmet.ga
 karayollari-webislem.net
 karayollari-webtakip.ga
+karayollari.one
 karayollari.org
 karayollariahsgislemleri.com
 karayollariavukatbirimi.ga
@@ -246869,6 +246878,7 @@ klck.pw
 klczrmtbcu.duckdns.org
 kldfmkzmxkqo.net
 kldjwdw.click
+kldkcndnordas.shop
 kldxp.com
 kleinereclasswardcornlaclaims.vercel.app
 kleinereclasswardcornlasasdclaims.vercel.app
@@ -251903,6 +251913,7 @@ kudakilautanbersama.ddns.net
 kudalxkvyy.duckdns.org
 kudamakanrumput.duckdns.org
 kudaras.com
+kudarevon.com
 kudaterbangtinggi.duckdns.org
 kudivmaefaer.net
 kudmgivpvuejmgog.io
@@ -261948,6 +261959,7 @@ magaza-paranguvende.com
 magaza-pasaj.com
 magaza-siparis-ver.online
 magaza-sok.com.tr
+magaza-teslimat.com
 magaza-v-kayit.tk
 magaza.duckdns.org
 magaza.paranguvende-banaozel.com
@@ -266751,6 +266763,7 @@ mcare.co.in
 mcarskiralama.com
 mcasprod.com
 mcbgvsbcos.ytyukai.cn
+mcbnxh.homes
 mcbxtjeaki.duckdns.org
 mccallagenvyinc.com
 mccann.expert
@@ -280362,6 +280375,7 @@ mykings.top
 mykings2020.xyz
 mykuveytturkonline.com
 mykvytgoldpointpuanfirsat.com
+mykxnz.help
 mylase.click
 mylatestrem.duckdns.org
 mylatinasoulmate.com
@@ -285372,6 +285386,7 @@ nisanfirsatgunleri.org.tr
 nisanfirsati.duckdns.org
 nisanfirsatkampanyalari.cloud
 nisanfirsatlari.org
+nisanfirsatlarimizda.com
 nisanfirsatlarindan.org
 nisanfirsatlariozel.com.tr
 nisanfirsatlarisizlerle.cloud
@@ -302221,6 +302236,7 @@ package07update.hopto.org
 packagedeliveryuu.ddns.net
 packagednyb.cyou
 packageonhold.hopto.org
+packages.npm.org
 packages.storeartifact.com
 packagesecure.ddns.net
 packagesimulate.top
@@ -336693,6 +336709,7 @@ safetyl.duckdns.org
 safetylfe-fragainstbully.com
 safetylongitude.top
 safetypaid.site
+safetyshaft.click
 safetystorage-coinbase.com
 safetyturkiye.org
 safetyvault-coinbase.com
@@ -361602,6 +361619,7 @@ sparkleexpand.top
 sparklefracture.top
 sparkleidle.top
 sparklemeticulous.top
+sparklenest.gifts
 sparkleovert.top
 sparklerecipe.top
 sparklhing.site
@@ -365281,6 +365299,7 @@ stone234.xyz
 stoneandjon.com
 stonecanoe.top
 stonecold.ddns.net
+stonecrusher.shop
 stonedeyes.top
 stonedustpottery.com
 stonefacesy.info
@@ -367683,6 +367702,7 @@ suddenzealous.top
 sudebilisim.com
 sudekurulusu.com
 sudelerdeyim.sbs
+sudemaskim.xyz
 sudenizbank.com
 suderenpaketleme.com
 suderimod.top
@@ -385469,6 +385489,7 @@ trainerentity.top
 trainerfragile.top
 trainericon.top
 trainermissionary.top
+trainhard.cyou
 trainhub.site
 trainhub.store
 training-investment.info
@@ -386057,6 +386078,7 @@ traveltime.hopto.org
 traveltipspage.com
 travelturkey.info
 travelturkeybenefits.com
+travelvault.pics
 traversecityspringbreak.com
 travessantheria.lat
 travewlio.shop
@@ -393040,7 +393062,9 @@ turkiyevergibaskanligi.org
 turkiyevergiiade.com
 turkiyevergiodeme.net
 turkiyevezne.com
+turkiyevista.com
 turkiyewebtahsilatbasvurupdf.online
+turkiyeworlds.com
 turkiyex-bimcell.com
 turkiyeyardim-pandemidestek.com
 turkiyeyardim.net
@@ -404631,6 +404655,7 @@ vecr.ddns.net
 vecrigiodmece.net
 vectariia.com
 vector123.xyz
+vectordawn.icu
 vectordmanagesoft.com
 vectorhaubens.pro
 vectorinvesst.com
