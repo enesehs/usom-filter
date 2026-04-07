@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 01:08:31 UTC
-# Toplam: 447913 Domain
+# Son Güncelleme: 2026-04-07 04:23:29 UTC
+# Toplam: 447950 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -87453,6 +87453,7 @@ budgzp.cn
 budibodataktiko.com
 budintrewpe.com
 budison-oklarly.com
+budly.garden
 budportfolio.com
 budqetanahtar.online
 budqetarabakijrala.net
@@ -89653,8 +89654,10 @@ buzzdeployment.top
 buzzedcompany.com
 buzzentry.site
 buzzertv.xyz
+buzzfeedcurrent.com
 buzzfeedhealth.com
 buzzfocushub.com
+buzzgridnews.com
 buzzknot.com
 buzzonclick.com
 buzzpoint.top
@@ -90901,6 +90904,7 @@ bysunucum.com
 bytbbvahemenislem.hopto.org
 byte-tech.sbs
 byte.inteleksys.com
+byteanchor.xyz
 bytedance-sso.com
 byteepic.vip
 bytehub.asia
@@ -92706,6 +92710,7 @@ capitalismcontemplation.top
 capitalismpesticide.top
 capitalist.expert
 capitalistcelebrity.top
+capitalium.company
 capitalizerutc.com
 capitallexis.com
 capitallgrowers.com
@@ -101010,6 +101015,7 @@ cloud-server-updater8.co.za
 cloud-server-updater9.co.za
 cloud-server.store
 cloud-service23.ddns.net
+cloud-space.sbs
 cloud-start.at
 cloud-storage.live
 cloud-sync.org
@@ -108407,6 +108413,7 @@ crouchstagger.top
 crouhdnmgwsdrkms.com
 croventru.coritagen.ru
 croverocan.baraminte.org
+crovinate.com
 crowd3456.xyz
 crowdederadicate.top
 crowdedglacier.top
@@ -135503,6 +135510,7 @@ e-sigortamnet.com
 e-sigortamnet.net
 e-sigortannet.xyz
 e-sigortaodemesi.com
+e-sikayet-20.sbs
 e-sikayetimvartr.rest
 e-sikayetvatandas.rest
 e-simdibasvur.com
@@ -143971,6 +143979,7 @@ ekonomivizyon.pro
 ekonomivizyonu.online
 ekonomix.online
 ekonomix.world
+ekonomiye-yatirim.world
 ekonomiyontemm.com
 ekonomiyorumlari.com
 ekonommax.com
@@ -175582,6 +175591,7 @@ girbasvuronayla.online
 girdimfirsatagisrism.cloud
 girdinaldinsizekampany.online
 girdinhemen.com.tr
+girelonatu.gifts
 girenitti.site
 girerinadina.com
 giresunekimsubeleri.online
@@ -182565,6 +182575,7 @@ guncelpuankampanyalari.tk
 guncelramazankampanyalari.net
 guncelsayfa-basvurulari.org
 guncelsayfatrnbngiris.online
+guncelseyir.info
 guncelsiikayetler.sa.com
 guncelsikaayetleer.sa.com
 guncelsikaayetler.sa.com
@@ -183155,6 +183166,7 @@ gunlukseviyorumalisveris.online
 gunlukseviyorumalisveris.xyz
 gunluktazelikmarketiniz.cfd
 gunlukyasam.name.tr
+gunlukyorum.online
 gunnpaketlemee.com
 gunodemembayi.net
 gunoxygen1.website
@@ -186416,6 +186428,7 @@ habersonline.com
 habersosyalmedya.online
 habersosyalmedya.site
 haberspeedsayfasi.click
+habertazesi.site
 habertk724.com
 habertmy.site
 habertoki724.com
@@ -212150,6 +212163,7 @@ iconcart.shop
 iconicciti.com
 iconnbrand.com
 iconnectuae.com
+iconwear.digital
 icowscrglonm.pw
 icppebpkk.com
 icq-turkdunyalarisilzlere.xyz
@@ -216172,6 +216186,7 @@ inaourabg.duckdns.org
 inapptap.xyz
 inapturst.top
 inariworkdomen.ru
+inarovex.com
 inastra.online
 inat-boxpro.com.tr
 inat-boxtv.com
@@ -218664,6 +218679,7 @@ infoyatirim.work.gd
 infoyatirimsube.com
 infozoompulse.shop
 infraction.ddns.net
+infrahive.shop
 infraoccipital.com
 infraredsen.com
 infrasternal.com
@@ -219212,6 +219228,7 @@ insidetechie.xceltec.in
 insideukk.com
 insightcommonwealth.top
 insightdubious.top
+insightfeed.online
 insightflow.my
 insightfracture.top
 insightfularrogance.top
@@ -242338,6 +242355,7 @@ kavgate.com
 kavglobalcdn2.casacam.net
 kavkazcentr.info
 kavmt.com
+kavorelinud.com
 kavrac.online
 kavramagcslurk.net
 kavrgotakple.com
@@ -243300,6 +243318,7 @@ keke61.zapto.org
 kekebizuuu.xyz
 kekekanka1.xyz
 kekekelemenek.club
+kekekexe.dns.navy
 kekeksex.dns.navy
 kekekxntkxrtileodeme.net
 kekelerarabayiyanastirir.click
@@ -252062,6 +252081,7 @@ kuralihlalibildirimi.org
 kurallarauymalisxnzgl.net
 kurallarikaldir.doubleheart.coinbase-com.info
 kuralli.app
+kuralliialan.com
 kuralliigenel.com
 kuralsiz.app
 kurama98-28588.portmap.host
@@ -258851,6 +258871,7 @@ lomendo.online
 lomendra.com
 lomento.de
 lomesbolasfas.com
+lomirekadu.gifts
 lomirento.com
 lomrrn81c.duckdns.org
 lomvira.digital
@@ -260043,6 +260064,7 @@ lunchpicturepin.com
 lunchstar.xyz
 lunchtimeresultstoday.co.za
 lundo.com
+lunestokari.gifts
 lunestokari.icu
 lunetra.digital
 lunexaril.com
@@ -271226,6 +271248,7 @@ mlfvxxgnjjji.info
 mlgculoodmfg.xyz
 mlgemilyaaxztct.net
 mlgpmlqtgrwvwf1.ddns.net
+mlgros0nl1ne.shop
 mlgxf.com
 mlhkasersxrgfv.net
 mlidkpydnwcx.com
@@ -284101,6 +284124,7 @@ newsehgelerensden.com
 newselatelleretgen.com
 newsenmorningen.com
 newsenrsdxc.net
+newsentia.com
 newsermsdermsd.net
 newsersvsdwe.net
 newserviciosnao.duckdns.org
@@ -284159,6 +284183,7 @@ newsoffceuatler.com
 newsofficial.info
 newsofthemoment.net
 newsokfdadwesd.net
+newsorahub.com
 newsorgulars-dd61cad24a04.herokuapp.com
 newsoriax.com
 newsorio.com
@@ -285309,6 +285334,7 @@ nisanda-karaca.com.tr
 nisanda-sigorta.b-cdn.net
 nisandaki-kxmpnylar.com
 nisandamarket.net
+nisandamutluyuz.com
 nisandasigorta.xyz
 nisandaucuzukacirma.com
 nisandenizdekaptan.com
@@ -285326,6 +285352,7 @@ nisanfirsatlari.org
 nisanfirsatlarindan.org
 nisanfirsatlariozel.com.tr
 nisanfirsatlarisizlerle.cloud
+nisanfirsatlariyakala101.com
 nisangecekatilimkampanyasi.site
 nisangeliyormazbata.world
 nisangunleri.com
@@ -287041,6 +287068,7 @@ nowprobisd-htchekid.com
 nowsmartinfo.online
 nowsmartmodern.online
 nowstartfuture.online
+nowupdates.online
 nowv21alid.top
 noxbot.ddns.net
 noxeria.ooguy.com
@@ -301453,6 +301481,7 @@ ozelmusteri.site
 ozelmustericekilisisubev.com
 ozelmusterigirisi2255.cloud
 ozelmusterimiz.site
+ozelnisanfirsatlari101.com
 ozelonline.com.tr
 ozelonlinekapida.com.tr
 ozelotoyolodemesi.duckdns.org
@@ -305468,6 +305497,7 @@ parasizsohbet.xyz
 paraslkgas.vercel.app
 paraspot.online
 paratakacamlan.club
+paratakip.info
 paratakip.live
 paratpao.com
 paratrend.world
@@ -330733,6 +330763,7 @@ reportlatin.top
 reportscan.ddns.net
 reportsenlo.top
 reportservicefuture.website
+reportshift.online
 reportvan.top
 repositorybsd.uk.to
 repossessionheadquarters.org
@@ -332527,6 +332558,7 @@ rixosbelekpremium.com
 rixospremiumspa.com
 rixosrugs.com
 riyadgo.com
+riyadh-magazine7.today
 riyadhfoods.com
 riyadhroute.com
 riyah.net
@@ -355847,6 +355879,7 @@ skinndia.com
 skinnyallusion.top
 skinnytactful.top
 skinover.top
+skinpoise.com
 skinrespect.site
 skinsml-free16.hopto.org
 skinstocks.com
@@ -380196,6 +380229,7 @@ todaychina.world
 todayfuturemodern.online
 todayholrain.world
 todaymanagea.top
+todaynarrative.online
 todaynestimes.com
 todaynewsearchfuture.space
 todaynewsfetch.com
@@ -414986,6 +415020,7 @@ wesniai.vewegesat1.website
 wesooo.no-ip.biz
 wespeaktruthtoman.sytes.net
 wespeaktruthtoman12.sytes.net
+wessariton.com
 wessel234.zapto.org
 west.exch026.serverdata.net
 westanspk.cfd
@@ -425326,6 +425361,7 @@ xaniar.zapto.org
 xanndery.com
 xanny.pro
 xannyt0i.duckdns.org
+xanoretiluq.com
 xanstutick.xyz
 xantar-newoxflasher.com
 xanthe.anondns.net
@@ -443240,6 +443276,7 @@ zangais.hopto.org
 zangs.ga
 zannertaolkimmener.store
 zannso325s.duckdns.org
+zanok.click
 zanorivudek.gifts
 zantaclodemo.com
 zantocusus.xyz
