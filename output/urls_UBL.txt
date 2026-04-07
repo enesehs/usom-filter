@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-07 04:23:29 UTC
-! Total: 357489 rules
+! Last modified: 2026-04-07 06:11:21 UTC
+! Total: 357491 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65425,6 +65425,7 @@
 *://*.brutopurtorub.xyz/*
 *://*.brutuilionust.com/*
 *://*.bruv.media/*
+*://*.bruvular.online/*
 *://*.bruze2.ug/*
 *://*.brvaffs.com/*
 *://*.brvqdlgp.com/*
@@ -183698,6 +183699,7 @@
 *://*.istemizol.site/*
 *://*.istemobil-cepte.com/*
 *://*.istemobilim-cep.com/*
+*://*.istemredogan.com/*
 *://*.istemtkpsetiindirimi.online/*
 *://*.istenceple.com/*
 *://*.istenfirsatlartg.com/*
