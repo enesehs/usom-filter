@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-07 08:03:11 UTC
-# Toplam: 447959 Domain
+# Son Güncelleme: 2026-04-07 09:55:27 UTC
+# Toplam: 447971 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34289,6 +34289,7 @@ ahkod.com
 ahkok.ddns.net
 ahkshkgzlsr.jumpingcrab.com
 ahlam1212.ddns.net
+ahlatche.vercel.app
 ahlatci-yatirimtr.com
 ahlatci-yatirimtr.org
 ahlatcihizli.online
@@ -75394,6 +75395,7 @@ bireyselkampanyamobilfirsatlar-ozel.cf
 bireyselkampanyamobilfirsatlar-tr.ga
 bireyselkampanyaniz.cfd
 bireyselkampanyasayfasi900tlozel.linkpc.net
+bireyselkapina.com.tr
 bireyselkart.istanbul
 bireyselkarts.com
 bireyselkatilacikdenizv2denizbank.co.vu
@@ -126631,6 +126633,7 @@ doktorumdansikayettler.com
 doktorundansikayetvar.com
 doktorunilerndvu.net
 doktoruzrandevus.net
+doktorvekantenindukkani.click
 dokujet.xyz
 dokumantakip.info
 dokumantakip.shop
@@ -187443,6 +187446,7 @@ hahaha.zapto.org
 hahahahahaha.hopto.org
 hahahahahahahaha.hopto.org
 hahahakng34.ddns.net
+hahahehehih-cf9aa3d97935.herokuapp.com
 hahahmnnmasasnmsanmhas32.site
 hahahsafjha.net
 hahaimage.info
@@ -247206,6 +247210,7 @@ kmapnayalaringunu.com.tr
 kmapnayalaringunu.online
 kmaracislemleri.com
 kmaracsorglama.sa.com
+kmaracsorgu.web.app
 kmarcsorgl.sa.com
 kmasdkmasd.xyz
 kmasnxsa.click
@@ -247787,6 +247792,7 @@ kmpzagctn.com
 kmqsvrgprtrdoawybohguq.pw
 kmrapor.sa.com
 kmraporlari.sa.com
+kmraporum.com
 kmraporum.sa.com
 kmrcloudfakkpap.website
 kmrgsolzg.com
@@ -273495,6 +273501,7 @@ mobilecontinue.network
 mobiledcuauth01.ddns.net
 mobiledeniz.online
 mobiledevletkiadepayodeme.ml
+mobiledijitalekranlarim.sbs
 mobiledijitalv2denizbankaltinyatirim.co.vu
 mobiledvletaidathizmtleri.org
 mobilefree.freepasg.beget.tech
@@ -296851,6 +296858,7 @@ onlinekazaburada.com
 onlinekazandiranhafta.com.tr
 onlinekdviadetalebi.com
 onlinekg.org
+onlinekgm.xyz
 onlinekgmm.com
 onlinekilomtresorglma.web.app
 onlinekilomtresorgu.web.app
@@ -311376,6 +311384,7 @@ piranhtech.online
 piranlteaclh.online
 piranltech.com
 piranltech.online
+piranlteclh.com
 piranno12.site
 piranteach.online
 pirantecch.com
@@ -377084,6 +377093,7 @@ testhost2007.ddns.net
 testhostir.ddns.net
 testhostnameserver.duckdns.org
 testhoward.mysecondarydns.com
+testicin11-c5e31156e6f6.herokuapp.com
 testidgsd.icu
 testifycora.top
 testifylieutenant.top
@@ -392837,6 +392847,7 @@ turkiyekartiade2.online
 turkiyekayitekrani.sbs
 turkiyekmsorgulama.web.app
 turkiyekocsigorta.net
+turkiyekolay.com
 turkiyekonom.com
 turkiyekonom.tk
 turkiyekonomi.com
@@ -447414,6 +447425,7 @@ zuckkyrabi198-60433.portmap.io
 zucts.com
 zucutu.com
 zudmlbws.com
+zudomireva.info
 zuekg.duckdns.org
 zuepwweyle.duckdns.org
 zuesremmy.duckdns.org
