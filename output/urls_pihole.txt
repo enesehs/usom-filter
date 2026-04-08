@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-08 08:04:27 UTC
-# Toplam: 448085 Domain
+# Son Güncelleme: 2026-04-08 09:55:47 UTC
+# Toplam: 448088 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -135043,6 +135043,7 @@ e-online-guvenli-iade-sorgulama-basvuru-sistem.tr
 e-online-guvenli-iade-sorgulama-basvuru-sistem.xyz
 e-online-guvenli-iade-sorgulama-basvuru.xyz
 e-online-guvenli-iade-sorgulama.xyz
+e-online-guvenli-satici.com
 e-online-hadibakalim-bizde-kampanya.ml
 e-online-hadibakalim-isde-kampanya.ml
 e-online-iade-sistemi.ml
@@ -354365,6 +354366,7 @@ siparislerim-onayli-127452.com
 siparislerim.net
 siparislerimhizlim.cloud
 siparislerimiz.com
+siparislerin-kapida.com
 siparislerin.com
 siparislerin18in.cloud
 siparislerin20agustonsanta.net
@@ -374519,6 +374521,7 @@ teblebayramdahediyeceki.ml
 teblebayramlarr.com
 teblebayramrahat.com
 teblebayramzamani.com
+tebleherseyhazir.click
 tebles.com
 teblesendekazan.com
 teblesendekazan.ga
