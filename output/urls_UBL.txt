@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-08 18:58:30 UTC
-! Total: 357645 rules
+! Last modified: 2026-04-08 19:54:51 UTC
+! Total: 357649 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -41377,6 +41377,7 @@
 *://*.bakiyeiadeleri.com/*
 *://*.bakiyeiadesi.com/*
 *://*.bakiyekazan.com/*
+*://*.bakiyekgm.com/*
 *://*.bakiyekirk.net/*
 *://*.bakiyela.com/*
 *://*.bakiyelerdiyari.homes/*
@@ -139857,6 +139858,7 @@
 *://*.ghr8338424-1554-63yrehd-gs-d123qeads.biz.tr/*
 *://*.ghrfsqixuloawgc.ru/*
 *://*.ghrg48ca54ca.com/*
+*://*.ghsdfjgsd13sd.sbs/*
 *://*.ghshgsz.com/*
 *://*.ghskc.net/*
 *://*.ghsodemehizmetleriniz.com/*
@@ -211491,6 +211493,7 @@
 *://*.magazan-cepte.net.tr/*
 *://*.magazan-cepte.org.tr/*
 *://*.magazan-link.com/*
+*://*.magazan-siparis.com/*
 *://*.magazaniza.com/*
 *://*.magazanoktan.com/*
 *://*.magazaonline.com.tr/*
@@ -353469,6 +353472,7 @@
 *://*.yuzbirdeindirim.com.tr/*
 *://*.yuzbirdeindirim.online/*
 *://*.yuzbirdenal.cfd/*
+*://*.yuzbirdenal.xyz/*
 *://*.yuzbirdenevinizee.top/*
 *://*.yuzbiregel.com.tr/*
 *://*.yuzbiregel.online/*
