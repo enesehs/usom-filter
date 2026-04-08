@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-08 12:52:35 UTC
-# Toplam: 448108 Domain
+# Son Güncelleme: 2026-04-08 14:25:23 UTC
+# Toplam: 448117 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22308,6 +22308,7 @@ Cryptoinfo-allnews.com
 Cryptoinfo-news.com
 Customsearchbar.me
 Cymkpuadkduz.xyz
+D.2fcc7078.digimg.store
 DCLCWPDTSDCC.ddnsfree.com
 DYSONGCC.COM
 Dactarhome.com
@@ -23049,6 +23050,7 @@ a-ksfswws.sbs
 a-kuveytturk.com
 a-l01-kaapinda.com
 a-l01.com
+a-l0l-cayaldinaldin.online
 a-ligned.online
 a-line.top
 a-lkkfdwsgdgqsrsqsdsf.com.tr
@@ -25743,6 +25745,7 @@ a1o1haftaninyildizlari.online
 a1o1haftaninyildizlari.xyz
 a1o1harca-harca.com.tr
 a1o1harca.net
+a1o1harcaharca.xyz
 a1o1haziranfirsati.com
 a1o1hemen.com
 a1o1i.net
@@ -186425,6 +186428,7 @@ habermerkezim.shop
 habermerkezim.xyz
 habermerkezim724.com
 habermerkezimiz.my-homeip.com
+habermerkezimtr.xyz
 habernabzi.online
 habernerde.xyz
 habernet24.online
@@ -235183,6 +235187,7 @@ k0b-update.duckdns.org
 k0bidestek.cfd
 k0bidestek.click
 k0bidestekl.cfd
+k0bidestekleri.click
 k0bihizmet.click
 k0bihizmetler.click
 k0bimerkezi.click
@@ -247368,6 +247373,7 @@ kmfuda.com
 kmfwzgq.com
 kmgbayihgs-pdfs.xyz
 kmgdffgd.shop
+kmgecmisin.web.app
 kmgfdvdbfgv.shop
 kmgfhghf.shop
 kmghjghj.shop
@@ -300960,6 +300966,7 @@ overseas-recognized-athens-oakland.trycloudflare.com
 overseasendment.top
 overseediscord.top
 oversightweariness.top
+oversitehelpdesk.moy.su
 overstatemar.top
 overstockoutlet.site
 oversun.net
@@ -303088,6 +303095,7 @@ palmfunplay.cn
 palmgo.at
 palmgorohive.myddns.me
 palmisultan.com
+palmiye-sultan.blog
 palmiye-sultan.com
 palmiye-sultan.org
 palmiyesultan.best
@@ -311498,6 +311506,7 @@ piranteclh.org
 pirantelch.com
 pirantlech.com
 pirantleclh.com
+pirantlleclh.com
 pirasokureta.top
 pirata-88.zapto.org
 piratashost.top
