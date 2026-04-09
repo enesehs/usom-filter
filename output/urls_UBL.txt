@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-09 11:42:32 UTC
-! Total: 357768 rules
+! Last modified: 2026-04-09 12:53:28 UTC
+! Total: 357779 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9254,6 +9254,7 @@
 *://*.43544435486384.com/*
 *://*.43565.click/*
 *://*.435676787873.cloud/*
+*://*.43587127865.net/*
 *://*.436142128374512584712985434134.biz/*
 *://*.436234326342532.com/*
 *://*.4362412362354234.com/*
@@ -47452,6 +47453,7 @@
 *://*.beklemelereson.net/*
 *://*.beklemelereson.org/*
 *://*.beklemeleresonverdim.com/*
+*://*.beklemelereverdim.com/*
 *://*.beklemenizegerekkalmadan.biz/*
 *://*.beklemenizegerekkalmadan.club/*
 *://*.beklemenizegerekkalmadan.com/*
@@ -70929,6 +70931,7 @@
 *://*.canapl1934.app/*
 *://*.canariasmotor.top/*
 *://*.canasinleser.com/*
+*://*.canavarkampanyaburada.click/*
 *://*.canavarshuzky.net/*
 *://*.canbaba.xyz/*
 *://*.canbeginsaat.com/*
@@ -71006,6 +71009,7 @@
 *://*.candlyphoto.com/*
 *://*.candlyplagium.com/*
 *://*.candostumhiddxncaan.net/*
+*://*.candrmabrdancandns.shop/*
 *://*.candsaak432.com/*
 *://*.candsakm534543.com/*
 *://*.candy-pdf-convertor.world/*
@@ -73187,6 +73191,7 @@
 *://*.cebtekampanya.com/*
 *://*.cebtekampanyan.com/*
 *://*.cebtekampanyaniz.com/*
+*://*.cebtekimobilplatform.sbs/*
 *://*.cebtemobilim.com/*
 *://*.cebteteb-mobil-giris.tk/*
 *://*.cebteteb-tr-bonus.com/*
@@ -132617,6 +132622,7 @@
 *://*.fsafsafsafasfasfsag.com/*
 *://*.fsafsafsagsgassaffsasdasfas.online/*
 *://*.fsagaskgsafsaasfgsaagsfsafasasas.online/*
+*://*.fsagbsusuns.shop/*
 *://*.fsaggsasafsasfafsafssgagsgsdgsagsafsa.online/*
 *://*.fsagsadsaasfslsfsaa.com.tr/*
 *://*.fsagsagsaaszx.lol/*
@@ -138101,6 +138107,7 @@
 *://*.gencegitimdernegi.com/*
 *://*.gencegitimvakfi.org/*
 *://*.gencellertlyukleme.com/*
+*://*.gencertemizlik.click/*
 *://*.gencgelecekvakfi.online/*
 *://*.gencgelecekvakfi.org/*
 *://*.gencgelisimvakfi.online/*
@@ -176955,6 +176962,7 @@
 *://*.infoviewstorage.com/*
 *://*.infowardendoc.com/*
 *://*.infowavequest.shop/*
+*://*.infoxesubem.com/*
 *://*.infoyatirim.pro/*
 *://*.infoyatirimsube.com/*
 *://*.infozoompulse.shop/*
@@ -184188,6 +184196,7 @@
 *://*.istnbldunya.com/*
 *://*.istnblesker.net/*
 *://*.istnblfkfam.com/*
+*://*.istnblfkmer.com/*
 *://*.istnblguas.shop/*
 *://*.istnblileyklemedeyiz.net/*
 *://*.istnblkard.net/*
@@ -272639,6 +272648,7 @@
 *://*.sallakazan-20gb.com/*
 *://*.sallakazanhalk.com/*
 *://*.sallamadamarmy100.xyz/*
+*://*.sallan.click/*
 *://*.sallasallas.live/*
 *://*.sallatkdfer.us/*
 *://*.sallatutsundedikgirme.site/*
@@ -327962,6 +327972,7 @@
 *://*.vr341zxxx312.sbs/*
 *://*.vr4gjcicjode.net/*
 *://*.vra4.com/*
+*://*.vrandvula647.click/*
 *://*.vraneskadolina.com/*
 *://*.vrapus.name.tr/*
 *://*.vraq-new.click/*

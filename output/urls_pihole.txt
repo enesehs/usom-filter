@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-09 11:42:32 UTC
-# Toplam: 448275 Domain
+# Son Güncelleme: 2026-04-09 12:53:28 UTC
+# Toplam: 448289 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -13737,6 +13737,7 @@
 43544435486384.com
 43565.click
 435676787873.cloud
+43587127865.net
 435ayjq3.duckdns.org
 4360709899089045086.duckdns.org
 43609090903467.duckdns.org
@@ -65562,6 +65563,7 @@ beklemelereson.com
 beklemelereson.net
 beklemelereson.org
 beklemeleresonverdim.com
+beklemelereverdim.com
 beklemenizegerekkalmadan.biz
 beklemenizegerekkalmadan.club
 beklemenizegerekkalmadan.com
@@ -92381,6 +92383,7 @@ canapl1934.app
 canariasmotor.top
 canary-finance-modserver-content.g03.coinbase-com.info
 canasinleser.com
+canavarkampanyaburada.click
 canavarshuzky.net
 canbaba-api.ezyro.com
 canbaba.xyz
@@ -92463,6 +92466,7 @@ candlesnamibia.com
 candlyphoto.com
 candlyplagium.com
 candostumhiddxncaan.net
+candrmabrdancandns.shop
 candsaak432.com
 candsakm534543.com
 candy-pdf-convertor.world
@@ -95085,6 +95089,7 @@ cebtehalkbank.com
 cebtekampanya.com
 cebtekampanyan.com
 cebtekampanyaniz.com
+cebtekimobilplatform.sbs
 cebtemobilim.com
 cebteteb-mobil-giris.tk
 cebteteb-tr-bonus.com
@@ -135531,6 +135536,7 @@ e-sbe-tebde.click
 e-sbe-tebde.site
 e-sbimcell.net
 e-sbimcells.net
+e-sbm-ortak-veri-modeli-dogrulama-360.netlify.app
 e-scapes.ltd
 e-scrverqi.net
 e-secure--paramguvende-get-sahibinden--com.tk
@@ -166149,6 +166155,7 @@ fsafsafsafasfas.com
 fsafsafsafasfasfsag.com
 fsafsafsagsgassaffsasdasfas.online
 fsagaskgsafsaasfgsaagsfsafasasas.online
+fsagbsusuns.shop
 fsaggsasafsasfafsafssgagsgsdgsagsafsa.online
 fsagsadsaasfslsfsaa.com.tr
 fsagsagsaaszx.lol
@@ -173239,6 +173246,7 @@ genceegitimdernegi.com
 gencegitimdernegi.com
 gencegitimvakfi.org
 gencellertlyukleme.com
+gencertemizlik.click
 gencgelecekvakfi.online
 gencgelecekvakfi.org
 gencgelisimvakfi.online
@@ -217467,6 +217475,7 @@ indirimedogrugelin.me
 indirimegela101.com
 indirimegelinhemen.me
 indirimegels.site
+indirimegelsene101.duckdns.org
 indirimegeltr.website
 indirimekimkampanyaisteburada.online
 indirimelresongunler.cfd
@@ -218795,6 +218804,7 @@ infoviewergate.com
 infoviewstorage.com
 infowardendoc.com
 infowavequest.shop
+infoxesubem.com
 infoyatirim.b-cdn.net
 infoyatirim.pro
 infoyatirim.work.gd
@@ -227275,6 +227285,7 @@ istnbldksm.com
 istnbldunya.com
 istnblesker.net
 istnblfkfam.com
+istnblfkmer.com
 istnblguas.shop
 istnblileyklemedeyiz.net
 istnblkard.net
@@ -247940,6 +247951,7 @@ kmraporlari.sa.com
 kmraporum.com
 kmraporum.sa.com
 kmrcloudfakkpap.website
+kmrehberi.web.app
 kmrgsolzg.com
 kmrgyl.xyz
 kmrhsalmalsn.cfd
@@ -341714,6 +341726,7 @@ salladakazan.com
 sallakazan-20gb.com
 sallakazanhalk.com
 sallamadamarmy100.xyz
+sallan.click
 sallasallas.live
 sallatkdfer.us
 sallatutsundedikgirme.site
@@ -409682,6 +409695,7 @@ vr969mu.vasofiaagui.ru
 vra4.com
 vracsp.hopto.org
 vrand-evu-islem.blogspot.com
+vrandvula647.click
 vraneskadolina.com
 vrapus.name.tr
 vraq-new.click
