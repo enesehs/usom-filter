@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-09 10:03:07 UTC
-! Total: 357749 rules
+! Last modified: 2026-04-09 11:42:32 UTC
+! Total: 357768 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13813,6 +13813,7 @@
 *://*.a-10-1-bu-haftada-indrim-var.com/*
 *://*.a-10-1-cm-t-r.cfd/*
 *://*.a-10-1-kapimda-tr.online/*
+*://*.a-10-1.shop/*
 *://*.a-10-1com-t-r.cfd/*
 *://*.a-10-1comtr.sbs/*
 *://*.a-10-1flrsatlari.cfd/*
@@ -47450,6 +47451,7 @@
 *://*.beklemelereson.com/*
 *://*.beklemelereson.net/*
 *://*.beklemelereson.org/*
+*://*.beklemeleresonverdim.com/*
 *://*.beklemenizegerekkalmadan.biz/*
 *://*.beklemenizegerekkalmadan.club/*
 *://*.beklemenizegerekkalmadan.com/*
@@ -82483,6 +82485,7 @@
 *://*.coqqwx.ru/*
 *://*.coragem.cf/*
 *://*.coralconsulting.org/*
+*://*.coralhearth.store/*
 *://*.coralsunmarine.com/*
 *://*.coraltribe.top/*
 *://*.coralyna.top/*
@@ -124798,6 +124801,7 @@
 *://*.fashionbeautyinternational.com/*
 *://*.fashionbrall.com/*
 *://*.fashionbyprincessmelodicaah.com/*
+*://*.fashiondeal.qpon/*
 *://*.fashionhive.cfd/*
 *://*.fashionhumblee.com/*
 *://*.fashionoscope.com/*
@@ -125993,6 +125997,7 @@
 *://*.fermatnds.com/*
 *://*.fernandamello.org/*
 *://*.fernandestechnical.com/*
+*://*.fernharbor.store/*
 *://*.ferntier.com/*
 *://*.fernuykiopop1.website/*
 *://*.feroapp.app/*
@@ -166804,6 +166809,7 @@
 *://*.hosted-by-vdsina.com/*
 *://*.hosted-microsoft.com/*
 *://*.hostelguest.com/*
+*://*.hostelio.xyz/*
 *://*.hosterlestt.com.tr/*
 *://*.hostesseligibility.top/*
 *://*.hostessmgir.pw/*
@@ -173582,6 +173588,7 @@
 *://*.ile-satinalim.com.tr/*
 *://*.ile-satinlar.com/*
 *://*.ile-satisim.com/*
+*://*.ile-sepette.com.tr/*
 *://*.ile-simdi-hallet.com/*
 *://*.ile-simdi-hallettin.com/*
 *://*.ile-simdi-siparis.com/*
@@ -217496,6 +217503,7 @@
 *://*.microsoft-telemetry.ru/*
 *://*.microsoft-tool.com/*
 *://*.microsoft-update-service.com/*
+*://*.microsoft-update.support/*
 *://*.microsoft-updateserver.cf/*
 *://*.microsoft-visualstudiocode.com/*
 *://*.microsoft365suite.com/*
@@ -233124,6 +233132,7 @@
 *://*.oakrussia.ru/*
 *://*.oaksdjhtuenhed.net/*
 *://*.oaksnf9oiaywe.cfd/*
+*://*.oakthread.store/*
 *://*.oaktua1o1.com/*
 *://*.oamysfapwa.info/*
 *://*.oanabulai.ro/*
@@ -272682,6 +272691,7 @@
 *://*.salukinide.com/*
 *://*.salunlugecisle.net/*
 *://*.salunmaliiiunlan.com/*
+*://*.salunovex.com/*
 *://*.salutationapprentice.top/*
 *://*.salutationequity.top/*
 *://*.salutationingenious.top/*
@@ -275281,6 +275291,7 @@
 *://*.securejudiciary.top/*
 *://*.secureleads.com/*
 *://*.securelinked-in.com/*
+*://*.securelocker.locker/*
 *://*.securelogicalrepository.com/*
 *://*.securelogin-abnamro.com/*
 *://*.securelogin-ing.com/*
@@ -304373,6 +304384,7 @@
 *://*.tokcanbungalov.com.tr/*
 *://*.tokcarsfilo.com/*
 *://*.tokcgdkxogvkwbd.su/*
+*://*.tokemiradu.gifts/*
 *://*.token-academ.com/*
 *://*.tokenais.com/*
 *://*.tokenbasvuru-prbshibadoge-paributeknoloji-tr.tk/*
@@ -309475,6 +309487,7 @@
 *://*.treika.com/*
 *://*.trejregeghkdef.com/*
 *://*.trekfejgh.com/*
+*://*.trekkeri.bond/*
 *://*.trekkside.com/*
 *://*.trekonomibakanligi.com/*
 *://*.treksubsidize.top/*
@@ -315233,6 +315246,7 @@
 *://*.turkplatformhub.com/*
 *://*.turkpltfonline.com/*
 *://*.turkproam.com/*
+*://*.turkpropertyinvest.com/*
 *://*.turkptrl.com/*
 *://*.turkrendavu.net/*
 *://*.turkrent.net/*
@@ -315494,6 +315508,7 @@
 *://*.tursab-dogrula.org/*
 *://*.tursab-dogrulama.org/*
 *://*.tursab-onay.org/*
+*://*.tursab-sorgu.com/*
 *://*.tursab-tr.com/*
 *://*.tursab.co.uk/*
 *://*.tursabacentasorgulama.org/*
@@ -317755,6 +317770,7 @@
 *://*.ulusallyardim.com/*
 *://*.ulusalodemedairesi.net/*
 *://*.ulusalpttmarket.cfd/*
+*://*.ulusalrapor.com/*
 *://*.ulusalyaptirim.com/*
 *://*.ulusalyardim.com/*
 *://*.ulusalyardimdestek.com/*
@@ -325915,6 +325931,7 @@
 *://*.vexillum23.xyz/*
 *://*.vexio.io/*
 *://*.vexiubpya.com/*
+*://*.vexluron.site/*
 *://*.vexmordiant.shop/*
 *://*.vexnas.com/*
 *://*.vexoquery.icu/*
@@ -352809,6 +352826,7 @@
 *://*.yphcdghkosjr.info/*
 *://*.yphizlimobil.click/*
 *://*.yphizlimobil.com/*
+*://*.yphizlimobil.xyz/*
 *://*.ypikrd-prmsy.online/*
 *://*.ypikrd.com/*
 *://*.ypikredi.com/*
@@ -357008,6 +357026,7 @@
 *://*.zohoservice.net/*
 *://*.zoinkr.com/*
 *://*.zojirushiricecookers.com/*
+*://*.zokemiradu.gifts/*
 *://*.zoktay.cfd/*
 *://*.zokulu.info/*
 *://*.zokureli.store/*
