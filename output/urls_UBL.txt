@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-09 12:53:28 UTC
-! Total: 357779 rules
+! Last modified: 2026-04-09 14:53:22 UTC
+! Total: 357803 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6416,6 +6416,7 @@
 *://*.21387912512.online/*
 *://*.2139.site/*
 *://*.213b4823tf217678438.icu/*
+*://*.213erwerwerwedsf21.shop/*
 *://*.2141294219421.shop/*
 *://*.21421521521.shop/*
 *://*.2142315343.cloud/*
@@ -28423,6 +28424,7 @@
 *://*.aldinbunualdin.click/*
 *://*.aldincarsambatesterekampanyasi.xyz/*
 *://*.aldincaypaketleri.net/*
+*://*.aldincaypaketli6.net/*
 *://*.aldinda1.com/*
 *://*.aldinda1o1.net/*
 *://*.aldinea1o1.net/*
@@ -36058,6 +36060,7 @@
 *://*.asdfsadfssalsebfsfd.xyz/*
 *://*.asdfsadfssalseblsfd.xyz/*
 *://*.asdfsadfssefsadfsfd.xyz/*
+*://*.asdfsagas1241dfg.lol/*
 *://*.asdfsagsad.net/*
 *://*.asdfsdfgtdfasda.sbs/*
 *://*.asdfsdfsdfgsd.buzz/*
@@ -47452,6 +47455,7 @@
 *://*.beklemelereson.com/*
 *://*.beklemelereson.net/*
 *://*.beklemelereson.org/*
+*://*.beklemeleresonverdik.com/*
 *://*.beklemeleresonverdim.com/*
 *://*.beklemelereverdim.com/*
 *://*.beklemenizegerekkalmadan.biz/*
@@ -63140,6 +63144,7 @@
 *://*.boldhypenews.com/*
 *://*.boldips.site/*
 *://*.boldixil.win/*
+*://*.boldlygoingnowhere.org/*
 *://*.boldsierra.com/*
 *://*.boldstage.live/*
 *://*.boldventuressite.site/*
@@ -64752,6 +64757,7 @@
 *://*.brdakifirsataralanaka.cfd/*
 *://*.brdan-alirsan-rahatlik-edersin.com/*
 *://*.brdanaldmsnkzzzzz.net/*
+*://*.brdanbsvasdasd.shop/*
 *://*.brdangeldksznrdsnzbrda.shop/*
 *://*.brdangeldzlerasd.icu/*
 *://*.brdangloprdansans.lat/*
@@ -68836,6 +68842,7 @@
 *://*.buzzpurchase.top/*
 *://*.buzzrin.de/*
 *://*.buzzrumors.com/*
+*://*.buzztrendflow.com/*
 *://*.buzztrib.com/*
 *://*.buzzybeet.net/*
 *://*.buzzzyday.com/*
@@ -76918,6 +76925,7 @@
 *://*.cineverseformparby.com/*
 *://*.cineverseparlbu.com/*
 *://*.cinfuserver.com/*
+*://*.cingirak.click/*
 *://*.cinjyab.cn/*
 *://*.cinkasuwashop.com/*
 *://*.cinku.gdn/*
@@ -100183,6 +100191,7 @@
 *://*.dravinex-tr.com/*
 *://*.dravixhq.site/*
 *://*.dravixs.site/*
+*://*.dravon.click/*
 *://*.dravonhq.store/*
 *://*.dravonhubs.shop/*
 *://*.dravonovalect.pro/*
@@ -138108,6 +138117,7 @@
 *://*.gencegitimvakfi.org/*
 *://*.gencellertlyukleme.com/*
 *://*.gencertemizlik.click/*
+*://*.gencertemizlik.club/*
 *://*.gencgelecekvakfi.online/*
 *://*.gencgelecekvakfi.org/*
 *://*.gencgelisimvakfi.online/*
@@ -138671,6 +138681,7 @@
 *://*.geriyednktransferekrani.site/*
 *://*.geriyednkyonlendirmeler.my/*
 *://*.geriyednuksorguveaktar.my/*
+*://*.geriyedogru-ktekrani.click/*
 *://*.geriyedonk-islemlerinizi-ogrenme-ekrani.sbs/*
 *://*.geriyedonkaktarimynlendrirme.site/*
 *://*.geriyedonktransfer.cfd/*
@@ -149304,6 +149315,7 @@
 *://*.haberpusula.world/*
 *://*.haberru.site/*
 *://*.habers.cfd/*
+*://*.habers.xyz/*
 *://*.habers360.cfd/*
 *://*.habers360tr.cfd/*
 *://*.habersal.site/*
@@ -149337,6 +149349,7 @@
 *://*.habertr252.com/*
 *://*.habertr360.com/*
 *://*.habertr724.com/*
+*://*.habertr788.xyz/*
 *://*.habertrend.online/*
 *://*.habertrend.site/*
 *://*.habertur.club/*
@@ -158047,6 +158060,7 @@
 *://*.hemensigortayaptir.site/*
 *://*.hemensigotladim.net/*
 *://*.hemensimdialddinaldintesterehyundai.xyz/*
+*://*.hemensimdialin.com/*
 *://*.hemensimdialinaldin.shop/*
 *://*.hemensimdibasv.com/*
 *://*.hemensimdibasvurkazan-event.com/*
@@ -173218,6 +173232,7 @@
 *://*.ilanim-odemeler.com/*
 *://*.ilanim-odemelerim.com/*
 *://*.ilanim-ozel.com/*
+*://*.ilanim-ozelsepetim.com/*
 *://*.ilanim-pttavm.com/*
 *://*.ilanim-satis.com.tr/*
 *://*.ilanim-satista.com/*
@@ -216810,6 +216825,7 @@
 *://*.metacopyrightservice.tk/*
 *://*.metacopyrigteam.ml/*
 *://*.metacoracoid.com/*
+*://*.metadasorunvar.click/*
 *://*.metadenizbank.com/*
 *://*.metadestekmerkezi.com/*
 *://*.metadestekmerkezi.tk/*
@@ -217329,6 +217345,7 @@
 *://*.mhrdrandsveu.com/*
 *://*.mhreseranedeual.net/*
 *://*.mhrmhrdsmsd.click/*
+*://*.mhrmhrdsmsdxdd.click/*
 *://*.mhrndlmnszabvgln.com/*
 *://*.mhrnuda.com/*
 *://*.mhrpeewwhs.in/*
@@ -251045,6 +251062,7 @@
 *://*.pirireist.cfd/*
 *://*.pirkettin.com/*
 *://*.pirlantaalisveris.cfd/*
+*://*.pirlantech.com/*
 *://*.pirlantech.online/*
 *://*.pirlay.fun/*
 *://*.pirlopays.buzz/*
@@ -262358,6 +262376,7 @@
 *://*.quran-books.store/*
 *://*.quranvault.com/*
 *://*.quron.lat/*
+*://*.qurvazel.live/*
 *://*.qurvegraphics.com/*
 *://*.qusadqueszh.com/*
 *://*.qusuesorlion.xyz/*
@@ -291200,6 +291219,7 @@
 *://*.stanleyultry.xyz/*
 *://*.stanleyupgraded.xyz/*
 *://*.stanleyuplift.xyz/*
+*://*.stanleyurunlerindekampanyavar.click/*
 *://*.stanleyvaleron.xyz/*
 *://*.stanleyvarion.xyz/*
 *://*.stanleyvault.xyz/*
@@ -295008,6 +295028,7 @@
 *://*.svdgngnlerdndrlm.shop/*
 *://*.svdkburdasznrdsnz.icu/*
 *://*.svdkbzbrdyksnzslers.shop/*
+*://*.svdklerdenlardansadas.shop/*
 *://*.svdklrndbrabzvrdks.shop/*
 *://*.svdkmglsdslors.shop/*
 *://*.svdlargnlredesas.shop/*
@@ -339328,6 +339349,7 @@
 *://*.x1q8t6r9m5y2b4n0p7v3wz2.com.tr/*
 *://*.x1x2x3killa.shop/*
 *://*.x2emvshop.com/*
+*://*.x2k8m4q9f6b3n7vpat.sbs/*
 *://*.x2mqq7k9.click/*
 *://*.x3283473248.click/*
 *://*.x34529495962.xyz/*
@@ -340019,6 +340041,7 @@
 *://*.xk-cska.ru/*
 *://*.xk1aw99ig8a61a.xyz/*
 *://*.xk3j6am0.top/*
+*://*.xk7q2m.click/*
 *://*.xkaxsa.help/*
 *://*.xkcska.ru/*
 *://*.xkfacnfha.com/*
@@ -344418,6 +344441,7 @@
 *://*.xrd1.net/*
 *://*.xredirectr.com/*
 *://*.xredirectservices.com/*
+*://*.xrefurk34123232.shop/*
 *://*.xrent.store/*
 *://*.xrepositoryx.name/*
 *://*.xreunkwc.com/*
