@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-09 05:43:41 UTC
-# Toplam: 448210 Domain
+# Son Güncelleme: 2026-04-09 07:07:03 UTC
+# Toplam: 448225 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2243,6 +2243,7 @@
 101agustosuygun.com
 101ailekampanyasi.com
 101aksamcarsamba.com
+101aktifaldinaldin.vercel.app
 101aktmarket.com
 101aktuel.b-cdn.net
 101aktuel.com
@@ -65326,6 +65327,7 @@ bedavamobilinternetkampanya.blogspot.com
 bedavanetmet.com
 bedavaoyun.online
 bedavapakett.online
+bedavapanel.org
 bedavapanel.site
 bedavasorgu.com
 bedavasorgula.com
@@ -85451,6 +85453,7 @@ brightenwharf.top
 brightexciting.click
 brightform.cfd
 brightgifts.gifts
+brightheadline.online
 brightlatitude.top
 brightlaunch-app615.vercel.app
 brightlaunch-ext742.vercel.app
@@ -85905,6 +85908,7 @@ brutuilionust.com
 brutus4000.zapto.org
 bruv.media
 bruvular.online
+bruvulars.online
 bruwrwxfkj.duckdns.org
 bruze2.ug
 brvesfvebw.duckdns.org
@@ -176717,6 +176721,7 @@ girisonaylari.online
 girisonaylibasvurusube.com
 girisonaysube.com
 girisonline-bnndstr.com
+girisonline-ogrenme-kapisi.sbs
 girisonline-ziraatbank.com
 girisonline.website
 girisonlineaktifbnncse.com
@@ -206729,6 +206734,7 @@ hostpidorasa.ddns.net
 hostpipi.ddns.net
 hostpurseinc.ddns.net
 hostqsr.ddns.net
+hostquarry.shop
 hostresultkey.duckdns.org
 hostsam.ddns.net
 hostserver01.hopto.org
@@ -218751,6 +218757,7 @@ infosportals.com
 infostat.pw
 infostoragegate.com
 infostorageroute.com
+infostreamer.online
 infosubeonline.com
 infosupprt00account.duckdns.org
 infosverification.ddns.net
@@ -239711,6 +239718,7 @@ kapidafirsatim-101.site
 kapidafirsatlarsss.com
 kapidafrsatlarrrrbzle1o1de.com
 kapidafrsattindrmlerr.click
+kapidafrsatttlarburda.com
 kapidafrstxqa.com
 kapidagozunvarmi.click
 kapidaguvenliode.cf
@@ -260141,6 +260149,7 @@ lumberproductsinc.com
 lumbers.top
 lumdukekiy.shop
 lumenarix.pro
+lument.bond
 lumentsawfu.ru
 lumetrail.site
 lumewave.online
@@ -299234,6 +299243,7 @@ ordngldkbzbrdngldk.shop
 ordos.duckdns.org
 orducrrefour.sbs
 ordular-ileri.repenadeps.cfd
+oreanvil.com
 orebeacon.com
 orebimcell.com
 orebolt.com
@@ -313685,6 +313695,7 @@ portantibiotic.cn
 portapp.net
 portben.top
 portbleaistraic.top
+portbntr-shop.club
 portconnfcuu.com
 portendail.pro
 porter652.xyz
@@ -315336,6 +315347,7 @@ pressing-wfbsecurity-confirmation.services
 pressing-wfbsecurity-confirmation.xyz
 pressingspine.top
 pressrrodo.com
+pressshift.online
 presssureup.com
 presst.top
 presstariff.top
@@ -356457,6 +356469,7 @@ sleepy-keller.20-94-247-101.plesk.page
 sleepyanalogue.top
 sleepyduck.xyz
 sleepymasculine.top
+sleepzenan.com
 sleet.eventgrape.loan
 sleet.motioncherry.trade
 sleevediminish.top
@@ -381906,6 +381919,7 @@ toobalhost.publicvm.com
 toobfindr.com
 tooentmc.com
 toofindcer.com
+toofish.shop
 toog-vergiyokkampanyasisizlerle.net
 toogbasliyorsim.hopto.org
 toogfirsatcekilisi-sizlerle.net
@@ -435739,6 +435753,7 @@ yatirimmi.com
 yatirimmport.com
 yatirimmzinciri.com
 yatirimnet.net
+yatirimnot.today
 yatirimonaylagirisimcilik.com
 yatirimonline.info
 yatirimonline.live
