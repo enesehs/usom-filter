@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-09 16:09:43 UTC
-# Toplam: 448331 Domain
+# Son Güncelleme: 2026-04-09 17:54:13 UTC
+# Toplam: 448349 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16732,6 +16732,7 @@
 602375.cloud
 60237753.cloud
 6024ukw.duckdns.org
+602717984.cloud
 60282h2382f2151637.icu
 602fk.uqauv.cn
 604238172.corolain.ru
@@ -22634,6 +22635,7 @@ a-1-01-ucuz.com
 a-1-01-ucuzalisveris.com.tr
 a-1-01-ucuzalisveris.online
 a-1-01-ucuzalisveris.xyz
+a-1-01c0k.shop
 a-1-01kapida.com.tr
 a-1-01onlilnecomtr.sbs
 a-1-01rmazanozel.online
@@ -41702,6 +41704,7 @@ aldinaldin101firsatlari.online
 aldinaldin101firsatlari.xyz
 aldinaldin101firsatlarii.duckdns.org
 aldinaldin101kamapnya.online
+aldinaldin101kampanyan.vercel.app
 aldinaldin101mobil.gtx-vio.site
 aldinaldin101son.online
 aldinaldin101tr.online
@@ -58145,6 +58148,7 @@ baharfirsatidenizde.com
 baharfirsatidenizlegeldi.com
 baharfirsatikacmaz.online
 baharfirsationline.com.tr
+baharfirsatlari.digital
 baharfirsatlari.sbs
 baharfirsatlari101.com.tr
 baharfirsatlari101.xyz
@@ -84994,6 +84998,7 @@ brashy45.xyz
 brasil.ddns.com.br
 brasileiraco.com
 braskelun.com
+braskivu.vu
 brasqeni.live
 brass.snailtracebrass.com
 brasscivic.top
@@ -174798,6 +174803,7 @@ getstockprice.info
 getstudy.top
 getstylify.com
 getsupportsservices.azurewebsites.net
+getswimwe.digital
 getsythira.shop
 getsythira.site
 getsythira.store
@@ -235401,6 +235407,7 @@ k2cro47dcb70ovi6etix7t5.ddns.net
 k2e3vog.duckdns.org
 k2l8z1yeodm.info
 k2llsub.duckdns.org
+k2m9xv.click
 k2q8m4x9f6b3n7zha.sbs
 k2qai2yeodm.net
 k2qdpzwrz.duckdns.org
@@ -247559,6 +247566,7 @@ kmkanlikbasvuruservisinde.com
 kmkantem1-67863c131eb7.herokuapp.com
 kmkavbilgi.sbs
 kmkaydim.net
+kmkayit.com
 kmkhgss.com
 kmkilometre.com
 kmkkkllsrgulamgobbptt.duckdns.org
@@ -247976,6 +247984,7 @@ kmraporlari.sa.com
 kmraporum.com
 kmraporum.sa.com
 kmrcloudfakkpap.website
+kmrehberi.firebaseapp.com
 kmrehberi.web.app
 kmrgsolzg.com
 kmrgyl.xyz
@@ -250408,6 +250417,7 @@ krcaktuel.info.tr
 krcaktuel.net.tr
 krcaktuel.org.tr
 krcamtlusnlerdiler.top
+krcanisana.cfd
 krcansanadgru.cfd
 krcansanda.cfd
 krcaocaksiparislerim.xyz
@@ -263652,6 +263662,7 @@ malisorgutr.org
 malisucdosya.org
 malisuclar234.tk
 malisuclardosyasorgu.info
+malitakip.org
 malitehja.tk
 malito.duckdns.org
 malitrsorgu.com
@@ -272577,6 +272588,7 @@ mobil-subesiz-giris.online
 mobil-t-e-b-firsatlari.com
 mobil-tbmm-aidet-gov-tr.com
 mobil-tbmm-duyuru.ml
+mobil-tebkampanyam.my-homeip.net
 mobil-tokibasvuruyap.vercel.app
 mobil-tr-blnance.cloud
 mobil-tr-gov.com
@@ -281958,6 +281970,7 @@ nasyqyza.net
 nataaaaratnkika.live
 natalieparkins.com
 natalyincity.com
+natanyalhu.lol
 natea.ddns.net
 natebennettfleming.com
 natedev.top
@@ -287324,6 +287337,7 @@ noxiuos-utopi.bond
 noya.carentotokiralama.store
 noya.hdsncxakalar.com
 noya.kristianodomald.com
+noya.mitskiforev.com
 noya.mooo.com
 noya.pocikerimsenta.com
 noyalandinixcv.com
@@ -299434,6 +299448,7 @@ orientflags.com
 orientguide.com
 orientpeacea.top
 orientpeak.biz
+orientru.com
 orientsaoradbutsanbusnance.vercel.app
 orientsclaimscflaxment.vercel.app
 orientsclaimslaaqqtzment.vercel.app
@@ -359941,6 +359956,7 @@ sonlaradogrular.xyz
 sonlarda-dahasi-kendine-azda-geride-durmaz.top
 sonlardabrdabzvrdkszn.shop
 sonlardan-kazanip-ileriye-devam-eder.com
+sonlardancandansad.shop
 sonlari-biraz-tahmin-ederek-iyiden-gidin.com
 sonlaridabilirkibizden.cfd
 sonlarinda-buragibi-ilkine-getirdikce-aliriz.top
@@ -382994,6 +383010,7 @@ tpwebkmpnyozel.site
 tpxlolrkm.shop
 tpyyz-cmw.com
 tq-google.com
+tq2x9m.click
 tq5ajrf.duckdns.org
 tq744.publicvm.com
 tq8k1cp.duckdns.org
@@ -393415,6 +393432,7 @@ turklye.site
 turklye.website
 turklyegovtr.website
 turklynews.com
+turkmailyardimx.com
 turkmenistanpost-gov.top
 turkmenoglu.ddns.net
 turkmerkeziodemeniz.tk
