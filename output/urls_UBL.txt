@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-09 07:07:03 UTC
-! Total: 357726 rules
+! Last modified: 2026-04-09 10:03:07 UTC
+! Total: 357749 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -73512,6 +73512,7 @@
 *://*.celerysilly.top/*
 *://*.celesand.icu/*
 *://*.celesandretreat.com/*
+*://*.celestdx.com/*
 *://*.celestialgocolopulse.xyz/*
 *://*.celestialloom.online/*
 *://*.celestialpath.online/*
@@ -77321,6 +77322,7 @@
 *://*.class-devletdestekleri.com/*
 *://*.class-muscle.com/*
 *://*.classalienation.top/*
+*://*.classforge.study/*
 *://*.classicaholic.top/*
 *://*.classicaldebris.top/*
 *://*.classicalpanoramic.top/*
@@ -86656,6 +86658,7 @@
 *://*.datacatch.xyz/*
 *://*.datacentreonline.com/*
 *://*.datacheck.cc/*
+*://*.datacircuit.click/*
 *://*.dataclypser.com/*
 *://*.datacntrsecured.com/*
 *://*.datacoveo.com/*
@@ -86686,6 +86689,7 @@
 *://*.datamarketplace.net/*
 *://*.datamatikpanel.org/*
 *://*.datanalytic.org/*
+*://*.datanode.buzz/*
 *://*.dataoar.top/*
 *://*.dataplushosting.com/*
 *://*.dataprufen.com/*
@@ -132214,6 +132218,7 @@
 *://*.freshmanenclosure.top/*
 *://*.freshmantemporal.top/*
 *://*.freshnews-now.com/*
+*://*.freshnewsbridge.com/*
 *://*.freshnewsroom.com/*
 *://*.freshroute.top/*
 *://*.freshtech.website/*
@@ -202710,6 +202715,7 @@
 *://*.krallarvesoytarilarx.net/*
 *://*.kralmacun.bid/*
 *://*.kralnatekmes.net/*
+*://*.kralnivo.site/*
 *://*.kralodeme.net/*
 *://*.kralprofslerst.click/*
 *://*.kralprogramcdn.com/*
@@ -215496,6 +215502,7 @@
 *://*.medalzebra.top/*
 *://*.medapatot.top/*
 *://*.medastr.com/*
+*://*.medatav.com/*
 *://*.medbury.com/*
 *://*.medegenerate.top/*
 *://*.medeniyet25221.xyz/*
@@ -228156,6 +228163,7 @@
 *://*.netplatforms.xyz/*
 *://*.netpttgov.click/*
 *://*.netpttgovs.click/*
+*://*.netpulsex.shop/*
 *://*.netqnbfinansbank.com/*
 *://*.netqnbfinansci.com/*
 *://*.netqpvmnjy.lat/*
@@ -228680,6 +228688,7 @@
 *://*.newsesthetics.top/*
 *://*.newsexam.com/*
 *://*.newsfeeds-microsoft.press/*
+*://*.newsforgehub.com/*
 *://*.newsforgoodlife.com/*
 *://*.newsfusioner.com/*
 *://*.newsgiant.top/*
@@ -241023,6 +241032,7 @@
 *://*.oseucsddi.cfd/*
 *://*.oseucsddi.sbs/*
 *://*.osfa.al/*
+*://*.osfc.org.cn/*
 *://*.osferatmnskasds.sbs/*
 *://*.osfhbdsgs.com/*
 *://*.osgibys.com/*
@@ -259205,6 +259215,7 @@
 *://*.ptttr.bond/*
 *://*.ptttr.shop/*
 *://*.ptttr.top/*
+*://*.ptttrgov.cyou/*
 *://*.ptttrgov.top/*
 *://*.ptttrr.top/*
 *://*.pttts-gov.top/*
@@ -262116,6 +262127,7 @@
 *://*.quartextravagant.top/*
 *://*.quartz23.xyz/*
 *://*.quartzslabchina.com/*
+*://*.quartzvoyage.icu/*
 *://*.quaryget.org/*
 *://*.quasar-hotels-new.xyz/*
 *://*.quasar-hotes-new.com.tr/*
@@ -262284,6 +262296,7 @@
 *://*.quizdune.top/*
 *://*.quizenclose.top/*
 *://*.quizenest.com/*
+*://*.quizquill.com/*
 *://*.quizzlepuff.top/*
 *://*.qujeikdax.com/*
 *://*.qujequa.com/*
@@ -267821,6 +267834,7 @@
 *://*.rockaslan.com/*
 *://*.rockbull.pro/*
 *://*.rockcreekdds.com/*
+*://*.rockdrill.sbs/*
 *://*.rockemineu.bond/*
 *://*.rocketbit.club/*
 *://*.rockethavoc.top/*
@@ -275574,6 +275588,7 @@
 *://*.seedsindia.org/*
 *://*.seedsxouts.shop/*
 *://*.seedwarm.cfd/*
+*://*.seedz.garden/*
 *://*.seeeeendefirsatlarikaciiiirma.shop/*
 *://*.seehgss.com/*
 *://*.seehotelleoni.world/*
@@ -276330,6 +276345,7 @@
 *://*.sendegitme.online/*
 *://*.sendeglburabizlrekatl1.online/*
 *://*.sendeglbuyzkmpnyalrxt.online/*
+*://*.sendegormer.sbs/*
 *://*.sendegrntdenyanaol.net/*
 *://*.sendehaftayamutlubasla.online/*
 *://*.sendehaftayamutlubasla.xyz/*
@@ -296669,6 +296685,7 @@
 *://*.tamamla-destekbasvr.com/*
 *://*.tamamla-onay.xyz/*
 *://*.tamamla-onayla.xyz/*
+*://*.tamamla-siparislerini.com/*
 *://*.tamamlabasvurunudestekal.com/*
 *://*.tamamlaislemdjtal.app/*
 *://*.tamamlakampanya.sbs/*
@@ -299375,6 +299392,7 @@
 *://*.techconviction.top/*
 *://*.techcosupportservice.com/*
 *://*.techcreationsanddiscoveries.online/*
+*://*.techdock.buzz/*
 *://*.techdom.click/*
 *://*.techemeka.work/*
 *://*.techevolveproservice.com/*
@@ -299495,6 +299513,7 @@
 *://*.techplaginapp.com/*
 *://*.techpowerup-gpu-z.com/*
 *://*.techride.xyz/*
+*://*.techroute.click/*
 *://*.techrovia.online/*
 *://*.techrulez.xyz/*
 *://*.techs-basvurusorgu-bnb.tk/*
@@ -301246,6 +301265,7 @@
 *://*.teniant.store/*
 *://*.tenient.store/*
 *://*.tenimotsuhaisou.com/*
+*://*.tenire.com/*
 *://*.tenisairconfort.site/*
 *://*.tenjo10ht.top/*
 *://*.tenjo10sr.top/*
@@ -331400,6 +331420,7 @@
 *://*.webtex.ga/*
 *://*.webtexnoplus.online/*
 *://*.webtimeapi.com/*
+*://*.webtizen.sbs/*
 *://*.webtkgmturkiye.com/*
 *://*.webtlyukle.com/*
 *://*.webtlyukle.net/*
@@ -344710,6 +344731,7 @@
 *://*.xxparawwxxghost.net/*
 *://*.xxpscx.homes/*
 *://*.xxpxdrkydxfo.xyz/*
+*://*.xxrandevuxx.space/*
 *://*.xxrandevuxx.xyz/*
 *://*.xxsvx.com/*
 *://*.xxswxd.click/*
@@ -357427,6 +357449,7 @@
 *://*.zunlen.com/*
 *://*.zunopareki.com/*
 *://*.zunpthedoanin.com/*
+*://*.zunqa.shop/*
 *://*.zunqex.com/*
 *://*.zupertech.com/*
 *://*.zupgo.click/*
