@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-10 22:24:22 UTC
-! Total: 357932 rules
+! Last modified: 2026-04-10 23:23:38 UTC
+! Total: 357949 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65636,6 +65636,7 @@
 *://*.bstz2txp.tw/*
 *://*.bsukgq4lfpg864xovqd.com/*
 *://*.bsv-mbl.cfd/*
+*://*.bsv-online.cfd/*
 *://*.bsvakonlinekampanyalar.online/*
 *://*.bsvarkurdam.com/*
 *://*.bsvcllee.com/*
@@ -69986,6 +69987,7 @@
 *://*.bytesmanufactured.com/*
 *://*.bytestrxeam.ru/*
 *://*.bytesyncs.com/*
+*://*.bytevault.click/*
 *://*.bytevista.cloud/*
 *://*.bytfl.site/*
 *://*.bytfonliuzouckhmo.online/*
@@ -99915,6 +99917,7 @@
 *://*.dovamirekun.com/*
 *://*.dovaukcnt.com/*
 *://*.doveindictment.top/*
+*://*.dovekaritu.gifts/*
 *://*.dovenscope.xyz/*
 *://*.doveoutrage.top/*
 *://*.dovikadiradi.com/*
@@ -111715,6 +111718,7 @@
 *://*.edurestunningcrackyow.fun/*
 *://*.eduspark.courses/*
 *://*.edutr.net/*
+*://*.edutrack.courses/*
 *://*.eduv.icu/*
 *://*.eduwsky.com/*
 *://*.eduxa.sbs/*
@@ -130046,6 +130050,7 @@
 *://*.fitxqvogquexoov.ru/*
 *://*.fityasa.win/*
 *://*.fitzaoz.ru/*
+*://*.fitzenith.icu/*
 *://*.fiunzcsmj.com/*
 *://*.fiursatcukmartaesi.xyz/*
 *://*.fiva-ktlm.online/*
@@ -166931,6 +166936,7 @@
 *://*.hostingzealoft.today/*
 *://*.hostjava.net/*
 *://*.hostjnger.com/*
+*://*.hostlattice.com/*
 *://*.hostloads.xyz/*
 *://*.hostm.top/*
 *://*.hostmatrix.shop/*
@@ -202829,6 +202835,7 @@
 *://*.kralsorgu.com/*
 *://*.kralsuyu231.xyz/*
 *://*.kraltanimamquzi.com/*
+*://*.kralvuni.com/*
 *://*.kralyadabilordd.tk/*
 *://*.kralyikamastandi.store/*
 *://*.kranement.ml/*
@@ -206804,6 +206811,7 @@
 *://*.learnjerk.top/*
 *://*.learnmore.study/*
 *://*.learnmotive.com/*
+*://*.learnnest.study/*
 *://*.learnnoise.net/*
 *://*.learnorat.com/*
 *://*.learnstorage.pics/*
@@ -206953,6 +206961,7 @@
 *://*.legendofbozkurt.icu/*
 *://*.legendoffline.com/*
 *://*.legendreach.com/*
+*://*.legendtales.lol/*
 *://*.legendtr.xyz/*
 *://*.legensdarycin.com/*
 *://*.leggelatez.lat/*
@@ -228845,6 +228854,7 @@
 *://*.newsloomer.com/*
 *://*.newsmakedon.com/*
 *://*.newsmonitor.icu/*
+*://*.newsmora.com/*
 *://*.newsnew.info/*
 *://*.newsnewth365.com/*
 *://*.newsnjgfsd.net/*
@@ -243295,6 +243305,7 @@
 *://*.packedbva.click/*
 *://*.packersmoversmohali.com/*
 *://*.packervip.cfd/*
+*://*.packet-core.com/*
 *://*.packetappropriate.top/*
 *://*.packetassassinate.top/*
 *://*.packetbite.live/*
@@ -254476,6 +254487,7 @@
 *://*.privateplatter.com/*
 *://*.privaterejoice.top/*
 *://*.privatereputable.top/*
+*://*.privatestore.cyou/*
 *://*.privathostel.ru/*
 *://*.privatiationaify.top/*
 *://*.privaticann.top/*
@@ -290898,6 +290910,7 @@
 *://*.stackgroove.com/*
 *://*.stacklogicz.com/*
 *://*.stackmother.top/*
+*://*.stackorbit.xyz/*
 *://*.stackpatriotic.top/*
 *://*.stackreconciliatory.top/*
 *://*.stackseduce.top/*
@@ -309058,6 +309071,7 @@
 *://*.traveldials.com/*
 *://*.traveldog.org/*
 *://*.traveliteislem.com/*
+*://*.travelix.lat/*
 *://*.travelkezen.com/*
 *://*.travellingilove.com/*
 *://*.travelmate.bit/*
@@ -309699,6 +309713,7 @@
 *://*.trendfactoryhub.com/*
 *://*.trendfirstlar101leyilsonu.com/*
 *://*.trendflarex.store/*
+*://*.trendform.digital/*
 *://*.trendgo.xyz/*
 *://*.trendgurupro.com/*
 *://*.trendhaber.online/*
@@ -330784,6 +330799,7 @@
 *://*.webflow.io/*
 *://*.webfontupdate.com/*
 *://*.webforcenetforiceinterglobalorg.co.za/*
+*://*.webforge.buzz/*
 *://*.webfotce.me/*
 *://*.webfotce.pw/*
 *://*.webfranklin.com/*
@@ -352152,6 +352168,7 @@
 *://*.yoga-intention.de/*
 *://*.yogaavignon.com/*
 *://*.yogabalance.icu/*
+*://*.yogaessentials.icu/*
 *://*.yogakidsuae.com/*
 *://*.yogaoutreachproject.com/*
 *://*.yogapets.xyz/*
