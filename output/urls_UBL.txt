@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-10 15:38:41 UTC
-! Total: 357891 rules
+! Last modified: 2026-04-10 16:37:54 UTC
+! Total: 357917 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3408,6 +3408,7 @@
 *://*.154yilimizisizlerlekutluyoruz.net/*
 *://*.154yilziraatozel.com/*
 *://*.154yilziraatten.com/*
+*://*.155-polisi.shop/*
 *://*.155-wind.info/*
 *://*.155.138.193.119/*
 *://*.155.254.33.183/*
@@ -3420,7 +3421,11 @@
 *://*.155f00ffd2d4.com/*
 *://*.155konutbasvuru.sbs/*
 *://*.155polis-tr.online/*
+*://*.155polise.shop/*
+*://*.155polisi.shop/*
 *://*.155polisi155tr.online/*
+*://*.155polisia.online/*
+*://*.155polisie.online/*
 *://*.155polisil155tr.online/*
 *://*.155polisis.online/*
 *://*.155polisitr.com/*
@@ -3433,6 +3438,7 @@
 *://*.155trpolis155tr.online/*
 *://*.155trpolisi.online/*
 *://*.155trpolisi155.online/*
+*://*.155trpolisia.online/*
 *://*.155yilimiz.tk/*
 *://*.156161961991.com/*
 *://*.156253-gemini.com/*
@@ -35192,6 +35198,7 @@
 *://*.arepos.bit/*
 *://*.ares-mooday.com/*
 *://*.aresabant.com/*
+*://*.aresbntr-shop.club/*
 *://*.aresboot.xyz/*
 *://*.aresebetseng.co.za/*
 *://*.aresetetere.online/*
@@ -39758,6 +39765,7 @@
 *://*.b12mcell.com/*
 *://*.b13j21ja.life/*
 *://*.b1502b.gdn/*
+*://*.b155polis.online/*
 *://*.b1ack.cat/*
 *://*.b1awnscjs.ml/*
 *://*.b1b1b1b1biwcellgovtr.xyz/*
@@ -105206,6 +105214,7 @@
 *://*.e-guvenli-kart-ucret-basvuru-formu-tr.xyz/*
 *://*.e-guvenli-odeme.online/*
 *://*.e-guvenli-odemeler.online/*
+*://*.e-guvenli-online-satici.com/*
 *://*.e-guvenli-satici-online.com/*
 *://*.e-guvenli-satis.online/*
 *://*.e-guvenli.com.tr/*
@@ -129871,6 +129880,7 @@
 *://*.firstlrmd-burd.com/*
 *://*.firstlrmm-burdaa.com/*
 *://*.firstlrrszlxller-ozlyniszn.net/*
+*://*.firstlxl2k3sadc2342.sbs/*
 *://*.firstlydlution.top/*
 *://*.firstlyerupt.top/*
 *://*.firstlyindignant.top/*
@@ -149356,6 +149366,7 @@
 *://*.habers360.cfd/*
 *://*.habers360tr.cfd/*
 *://*.habers360try.shop/*
+*://*.habers360turk.shop/*
 *://*.habersal.site/*
 *://*.habersen.club/*
 *://*.habersen.live/*
@@ -149390,6 +149401,7 @@
 *://*.habertr788.xyz/*
 *://*.habertrend.online/*
 *://*.habertrend.site/*
+*://*.habertrt.shop/*
 *://*.habertur.club/*
 *://*.habertur.site/*
 *://*.habertur.xyz/*
@@ -211323,6 +211335,7 @@
 *://*.m1-arena.com/*
 *://*.m1112929211.cloud/*
 *://*.m141231444.cloud/*
+*://*.m155polisi.online/*
 *://*.m1m1mapi.com/*
 *://*.m1o1comtr.online/*
 *://*.m1p8z.com/*
@@ -218456,6 +218469,7 @@
 *://*.mitskdascafsfsdfsdf.cfd/*
 *://*.mitskiforev.com/*
 *://*.mitskiforeve.com/*
+*://*.mitskinsde.com/*
 *://*.mitsubishiklimaservisim.net/*
 *://*.mitube1.link/*
 *://*.miuarkenfnwenfnewnfei.world/*
@@ -252219,6 +252233,7 @@
 *://*.polipkuru.win/*
 *://*.polis-icisleri-govtr.site/*
 *://*.polis-tr-155.online/*
+*://*.polis155tr.online/*
 *://*.polisgunlukleri.xyz/*
 *://*.polish-daniska.cfd/*
 *://*.polish223.xyz/*
@@ -252226,6 +252241,7 @@
 *://*.polisi155trpolis.online/*
 *://*.polisiatr155tr.online/*
 *://*.polisitr155.online/*
+*://*.polisitr155tr.online/*
 *://*.polisknqanapaysvbabsg.shop/*
 *://*.polisl155ltr.online/*
 *://*.polistr-155.online/*
@@ -273935,6 +273951,7 @@
 *://*.savblooling29.xyz/*
 *://*.savc-children.com/*
 *://*.savciliketutani.org/*
+*://*.savcilikevrakdava.org/*
 *://*.savciliktr.org/*
 *://*.saveallfbloader.com/*
 *://*.savebig-yolgecizhizmeti.com/*
@@ -284443,6 +284460,7 @@
 *://*.skzegugvy.info/*
 *://*.sl1bgunbrd0kcmz1gl.com/*
 *://*.sl540z.cn/*
+*://*.sl55polisi155tr.online/*
 *://*.sl9xa73g7u3eo07wt42n7f4vin5fzh.biz/*
 *://*.sla1.org/*
 *://*.slaayhocam.com/*
@@ -294992,6 +295010,7 @@
 *://*.surviveassorted.top/*
 *://*.survivethill.top/*
 *://*.survivor13ofthe.xyz/*
+*://*.surxlwelkqwsdalkdlsa12.cyou/*
 *://*.surxlwelkqwsdalkdlsa12.sbs/*
 *://*.suryapolix.club/*
 *://*.susansthreads.com/*
@@ -299806,6 +299825,7 @@
 *://*.tekdokunus.website/*
 *://*.tekdokunus.xyz/*
 *://*.tekdokunuslaevinde.me/*
+*://*.tekdokunuslaevinegelsin.com/*
 *://*.tekdusmanimahparanoya.org/*
 *://*.tekeiteh.quest/*
 *://*.tekelenehe.net/*
@@ -306170,6 +306190,7 @@
 *://*.tr-10yilkampanyasiozel.com/*
 *://*.tr-115polistr.online/*
 *://*.tr-155-polis-tr.online/*
+*://*.tr-155-polistr.online/*
 *://*.tr-2020aralikbasvru.com/*
 *://*.tr-2023-acikdenizv2denizbank.com/*
 *://*.tr-2023firsati.click/*
@@ -307729,6 +307750,7 @@
 *://*.tr14-guncelsikaytler.sbs/*
 *://*.tr155-polis-tr.online/*
 *://*.tr155polis-tr.online/*
+*://*.tr155polis.shop/*
 *://*.tr155polis155tr.online/*
 *://*.tr155polisai155tr.online/*
 *://*.tr155polise.online/*
@@ -307738,8 +307760,10 @@
 *://*.tr155polisi155tr.online/*
 *://*.tr155polisia155.online/*
 *://*.tr155polisia155tr.online/*
+*://*.tr155polisiatr.online/*
 *://*.tr155polisil.online/*
 *://*.tr155trpolis.online/*
+*://*.tr156polis155.online/*
 *://*.tr16-guncelsikaytler.sbs/*
 *://*.tr17-guncelsikaytler.sbs/*
 *://*.tr18-guncelsikaytler.sbs/*
@@ -316887,6 +316911,7 @@
 *://*.u0qsg.org/*
 *://*.u0qsgla.org/*
 *://*.u123812372139.online/*
+*://*.u155polise.online/*
 *://*.u19vaks.cn/*
 *://*.u221144333.cloud/*
 *://*.u2s0k8d1ial3r.info/*
@@ -355190,6 +355215,7 @@
 *://*.ziraat-avantajserisi12.fun/*
 *://*.ziraat-avantajserisi14.fun/*
 *://*.ziraat-avantajserisi2.xyz/*
+*://*.ziraat-avantajserisi23.fun/*
 *://*.ziraat-avantajserisi24.fun/*
 *://*.ziraat-avantajserisi3.xyz/*
 *://*.ziraat-avantajserisi31.fun/*

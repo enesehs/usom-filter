@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-10 15:38:41 UTC
-# Toplam: 448435 Domain
+# Son Güncelleme: 2026-04-10 16:37:54 UTC
+# Toplam: 448462 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5088,6 +5088,7 @@
 154yilimizisizlerlekutluyoruz.net
 154yilziraatozel.com
 154yilziraatten.com
+155-polisi.shop
 155-wind.info
 155.138.193.119
 155.254.33.183
@@ -5100,7 +5101,11 @@
 155f00ffd2d4.com
 155konutbasvuru.sbs
 155polis-tr.online
+155polise.shop
+155polisi.shop
 155polisi155tr.online
+155polisia.online
+155polisie.online
 155polisil155tr.online
 155polisis.online
 155polisitr.com
@@ -5113,6 +5118,7 @@
 155trpolis155tr.online
 155trpolisi.online
 155trpolisi155.online
+155trpolisia.online
 155y02.duckdns.org
 155yilimiz.tk
 156-233-225-66.plesk.page
@@ -50394,6 +50400,7 @@ areons.zya.me
 arepos.bit
 ares-mooday.com
 aresabant.com
+aresbntr-shop.club
 aresboot.xyz
 aresebetseng.co.za
 aresetetere.online
@@ -56436,6 +56443,7 @@ b12jyg.duckdns.org
 b12mcell.com
 b13j21ja.life
 b1502b.gdn
+b155polis.online
 b17mj1.duckdns.org
 b18gdumct.duckdns.org
 b194fbc1.9du-flk.shop
@@ -134080,6 +134088,7 @@ e-guvenli-odeme-tr.sa.com
 e-guvenli-odeme.online
 e-guvenli-odeme.sa.com
 e-guvenli-odemeler.online
+e-guvenli-online-satici.com
 e-guvenli-satici-online.com
 e-guvenli-satis.online
 e-guvenli.com.tr
@@ -162710,6 +162719,7 @@ firstlrmabuhaafta.com
 firstlrmd-burd.com
 firstlrmm-burdaa.com
 firstlrrszlxller-ozlyniszn.net
+firstlxl2k3sadc2342.sbs
 firstlydlution.top
 firstlyerupt.top
 firstlyindignant.top
@@ -180447,6 +180457,7 @@ gratiskampanya.shop
 gratiskampanya.site
 gratiskampanyasi.site
 gratiskariyer.net
+gratisle.7s.com.tr
 gratislecekilis.xyz
 gratisler.7s.com.tr
 gratisliyoruzkizlar.online
@@ -186577,6 +186588,7 @@ habers.xyz
 habers360.cfd
 habers360tr.cfd
 habers360try.shop
+habers360turk.shop
 habersal.site
 habersen.club
 habersen.live
@@ -186612,6 +186624,7 @@ habertr724.com
 habertr788.xyz
 habertrend.online
 habertrend.site
+habertrt.shop
 habertur.club
 habertur.site
 habertur.xyz
@@ -261650,6 +261663,7 @@ m1.uptime66.com
 m1112929211.cloud
 m141231444.cloud
 m15-caixabank.ddns.net
+m155polisi.online
 m16-caixabank.ddns.net
 m16n087.duckdns.org
 m18-caixabank.ddns.net
@@ -271216,6 +271230,7 @@ mitochondrialcore.com
 mitoteam.com
 mitskdascafsfsdfsdf.cfd
 mitskiforeve.com
+mitskinsde.com
 mitsubishiklimaservisim.net
 mittmkxlogzn.webflow.io
 mittmkxwallat.webflow.io
@@ -313199,6 +313214,7 @@ polipolpoasdt.vercel.app
 poliru.zapto.org
 polis-icisleri-govtr.site
 polis-tr-155.online
+polis155tr.online
 polisgeldixy.duckdns.org
 polisgunlukleri.xyz
 polish-daniska.cfd
@@ -313210,6 +313226,7 @@ polisiatr155tr.online
 polisiindo.hopto.org
 polisinyiduk.hopto.org
 polisitr155.online
+polisitr155tr.online
 polisknqanapaysvbabsg.shop
 polisl155ltr.online
 polistr-155.online
@@ -343224,6 +343241,7 @@ savasbaslasin.clars-tz.xyz
 savblooling29.xyz
 savc-children.com
 savciliketutani.org
+savcilikevrakdava.org
 savciliktr.org
 save-trezor-ste.webflow.io
 save-trzor-login.webflow.io
@@ -356542,6 +356560,7 @@ sl.szmr.org
 sl00m.ddns.net
 sl1bgunbrd0kcmz1gl.com
 sl540z.cn
+sl55polisi155tr.online
 sl5p38yp3ja6qv34oboxuls.ddns.net
 sl9xa73g7u3eo07wt42n7f4vin5fzh.biz
 slaayhocam.com
@@ -369486,6 +369505,7 @@ survivalrestless.top
 surviveassorted.top
 survivethill.top
 survivor13ofthe.xyz
+surxlwelkqwsdalkdlsa12.cyou
 surxlwelkqwsdalkdlsa12.sbs
 surya.ddns.net
 suryapolix.club
@@ -375257,6 +375277,7 @@ tekdokunus.website.gidatas.com
 tekdokunus.xyz
 tekdokunus.xyz.gidatas.com
 tekdokunuslaevinde.me
+tekdokunuslaevinegelsin.com
 tekdusmanimahparanoya.org
 tekeiteh.quest
 tekelenehe.net
@@ -383156,6 +383177,7 @@ tr-101-online-alisveris-internete-ozel.com
 tr-10yilkampanyasiozel.com
 tr-115polistr.online
 tr-155-polis-tr.online
+tr-155-polistr.online
 tr-196.sikaytvarmi-22.online
 tr-2020aralikbasvru.com
 tr-2023-acikdenizv2denizbank.com
@@ -384914,6 +384936,7 @@ tr13-guncelsikaytler.com
 tr14-guncelsikaytler.sbs
 tr155-polis-tr.online
 tr155polis-tr.online
+tr155polis.shop
 tr155polis155tr.online
 tr155polisai155tr.online
 tr155polise.online
@@ -384923,8 +384946,10 @@ tr155polisi.shop
 tr155polisi155tr.online
 tr155polisia155.online
 tr155polisia155tr.online
+tr155polisiatr.online
 tr155polisil.online
 tr155trpolis.online
+tr156polis155.online
 tr16-guncelsikaytler.sbs
 tr17-guncelsikaytler.sbs
 tr18-guncelsikaytler.sbs
@@ -395447,6 +395472,7 @@ u1.minerpool.pw
 u123812372139.online
 u13dbdquy.duckdns.org
 u152k1m.duckdns.org
+u155polise.online
 u171dbw.duckdns.org
 u174ir.duckdns.org
 u19rofv8j.duckdns.org
@@ -444939,6 +444965,7 @@ ziraat-avantaj108.xyz
 ziraat-avantajserisi12.fun
 ziraat-avantajserisi14.fun
 ziraat-avantajserisi2.xyz
+ziraat-avantajserisi23.fun
 ziraat-avantajserisi24.fun
 ziraat-avantajserisi3.xyz
 ziraat-avantajserisi31.fun
