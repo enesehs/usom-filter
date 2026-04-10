@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-10 17:38:24 UTC
-# Toplam: 448467 Domain
+# Son Güncelleme: 2026-04-10 18:36:10 UTC
+# Toplam: 448469 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24736,6 +24736,7 @@ a101ileburayagel.duckdns.org
 a101ileegell.duckdns.org
 a101ilefirsat.com
 a101ilegel.com
+a101ilegel1n.duckdns.org
 a101ilegelinindirime.duckdns.org
 a101iletiisim.com
 a101iletiisimm.com
@@ -134093,6 +134094,7 @@ e-guvenli-odeme.online
 e-guvenli-odeme.sa.com
 e-guvenli-odemeler.online
 e-guvenli-online-satici.com
+e-guvenli-online-satisi.com
 e-guvenli-satici-online.com
 e-guvenli-satis.online
 e-guvenli.com.tr
