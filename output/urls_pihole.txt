@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-12 19:30:44 UTC
-# Toplam: 448658 Domain
+# Son Güncelleme: 2026-04-12 20:23:04 UTC
+# Toplam: 448669 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -91084,6 +91084,7 @@ bz2tt1.duckdns.org
 bzaawvlihg.duckdns.org
 bzaaywnkji.duckdns.org
 bzahgsyw2.epizy.com
+bzaim.com
 bzbcsbzzyo.duckdns.org
 bzbditls.duckdns.org
 bzbgnlrdsnbfstas.shop
@@ -92184,6 +92185,7 @@ calpadia.co.id
 calpewawd.run
 calq0ald6.duckdns.org
 calquickl6.xyz
+calrdsavrdkmmstam.click
 calsury.com
 calthacompany.com
 calthorix.shop
@@ -203043,6 +203045,7 @@ hizlidolumlardasin.net
 hizlidomcekimucret.net
 hizlidonemgecisleri.sg-host.com
 hizliduyuru.website
+hizliehrmenbdsurgyjkle.store
 hizliekstra-market-alisveris.com
 hizlierisim.cf
 hizlierisim.tk
@@ -211816,6 +211819,7 @@ ibbcrt34-yukle.tk
 ibbctsk.net
 ibbdenaxaxa2.net
 ibbdestek.com
+ibbdiva.duckdns.org
 ibbdolum.net
 ibbdolumcu.lol
 ibbdolumlar.net
@@ -229378,6 +229382,7 @@ iyilik-dolu-bir-dunya.it.com
 iyilik-zamani-simdi-sizlere-buraya-geldi.com
 iyilikdolukalpler.com
 iyilikelii.org
+iyilikgunesleri.online
 iyilikgunleri.online
 iyilikguzeldir.org
 iyilikhalkalari.org
@@ -269920,6 +269925,7 @@ mhrdrandsveu.com
 mhreseranedeual.net
 mhrmhrdsmsd.click
 mhrmhrdsmsdxdd.click
+mhrmhrdsmsdxddd.click
 mhrndlmnszabvgln.com
 mhrndvlmernszsanz.gleeze.com
 mhrnmslmarnsan.gleeze.com
@@ -279518,6 +279524,7 @@ mutehurricane.top
 mutelec.quest
 mutequery.top
 mutfaak-zamani-tr.com
+mutfaginizdarenk.cfd
 mutfaginizintedarikzincirianalizi.cfd
 mutfak-gerec-tr.cfd
 mutfak-indirim-tr.com
@@ -394639,6 +394646,7 @@ tuvuturkrandevuolustur.com
 tuvuvutuvtkr.net
 tuvvedec.website
 tuvvrandevuoperation.site
+tuvvrandevuopertion.site
 tuvvturk-isl.digital
 tuvvturk.live
 tuvvturkaracmuayene.com
@@ -410660,6 +410668,7 @@ vv-koinim.com
 vv-yapikredi.com
 vv.vxqpomwum.pw
 vv0zz.bzwkt.com
+vv2qxm7.click
 vv3rg1od3m3.net
 vv99ay4wuo.ru
 vv9l5h31o.duckdns.org
@@ -425994,6 +426003,7 @@ xaitwoe.com
 xajx5x6e.duckdns.org
 xajyzwjks.com
 xak1dj1k8.duckdns.org
+xakasdlk123jk12sca.lol
 xakg1b9.duckdns.org
 xaksx.09xbsd.xyz
 xalaka.xyz
@@ -426194,6 +426204,7 @@ xcarrekampanya.click
 xcarrekampanya.online
 xcarwgemfs.duckdns.org
 xcasc23klxkallcddas.cfd
+xcasc23klxkallcddas.lol
 xcasc23klxkallcddas.sbs
 xcat-industries.com
 xcavqnavct.duckdns.org
