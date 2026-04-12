@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-12 04:35:49 UTC
-# Toplam: 448580 Domain
+# Son Güncelleme: 2026-04-12 07:55:23 UTC
+# Toplam: 448585 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40861,6 +40861,7 @@ akutakviyekitin.click
 akutel101.shop
 akutelaldinaldin.store
 akutelcebinde.com
+akutelceplerde.com
 akutelfirsati.shop
 akutelfirsatlar.shop
 akutelkampanyalar.shop
@@ -97063,6 +97064,7 @@ ceramicsubsistence.top
 cerasatvf.su
 cerb-covid.site
 cerberus1980.hopto.org
+cerberuscore.click
 cerbvpofht.duckdns.org
 cercekfolastik.vercel.app
 cerclub.com
@@ -134937,6 +134939,7 @@ e-lnstagramcopyrightserver.cf
 e-login-webgiris-devlet-govtr.com
 e-login-ziraatbank.online
 e-loginiz-portalweb-girisgovtr.com
+e-loginpagemobil.vercel.app
 e-lumberjack.top
 e-magazan.org
 e-magazaonline.com.tr
@@ -197262,6 +197265,7 @@ hepucuzsizlericiin.duckdns.org
 hepuyguntekliflegeldik.com
 hepvartekvarsenvar.tk
 hepyanindayiz.com
+hepyedektekalin.sbs
 hepyek.org
 hepyekheptek.com
 hepyekheptek.com.tr
@@ -198313,6 +198317,7 @@ hgcvmxmserx.net
 hgcvyuklxmelvbn.net
 hgcxvyumyuklem.net
 hgcyuklekacsenle.blogspot.com
+hgdaracktnrlyklsi.online
 hgday.is-best.net
 hgdbohoyflwbieqlg.net
 hgddvx.net
