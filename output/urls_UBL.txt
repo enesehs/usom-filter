@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-12 01:14:25 UTC
-! Total: 358009 rules
+! Last modified: 2026-04-12 04:35:49 UTC
+! Total: 358017 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47537,6 +47537,7 @@
 *://*.belbimlerbitti.online/*
 *://*.belbimyuklekazan.net/*
 *://*.belbimyuklerim.net/*
+*://*.belbisim.com/*
 *://*.belbiss.com/*
 *://*.belbiss.org/*
 *://*.belbiss.space/*
@@ -125490,6 +125491,7 @@
 *://*.fbkisal.cc/*
 *://*.fbku.com/*
 *://*.fbl.com.sg/*
+*://*.fblcikd1yonlendiriliyor.sbs/*
 *://*.fblcikd1yonlendirmeyeri.sbs/*
 *://*.fblicdks11.sbs/*
 *://*.fblogin.me/*
@@ -251219,6 +251221,7 @@
 *://*.pirosakuta.top/*
 *://*.pirosumona.top/*
 *://*.piroxkeok.com/*
+*://*.pirrantech.org/*
 *://*.pirvippro.click/*
 *://*.pisa1.net/*
 *://*.pisamonaskids.site/*
@@ -257416,7 +257419,9 @@
 *://*.pttavmhgsborcodeme.org/*
 *://*.pttavmhgsborcodeme.xyz/*
 *://*.pttavmhgsyukle.com/*
+*://*.pttavmikinciel.com/*
 *://*.pttavmilanlarmobil.com/*
+*://*.pttavmindirimsepeti.com/*
 *://*.pttavminternet.com/*
 *://*.pttavmislemler.buzz/*
 *://*.pttavmkampanya.com/*
@@ -257485,6 +257490,7 @@
 *://*.pttavmshop.shop/*
 *://*.pttavmshoptr.com/*
 *://*.pttavmsiparis.com/*
+*://*.pttavmsiparis.online/*
 *://*.pttavmsiparisim.com/*
 *://*.pttavmsiparisler.net/*
 *://*.pttavmsiparisleri.com/*
@@ -314146,6 +314152,7 @@
 *://*.turkishmarkets.online/*
 *://*.turkishmenkulyatirim.com/*
 *://*.turkishnewz.com/*
+*://*.turkishpay.online/*
 *://*.turkishpetroll.com/*
 *://*.turkishresidents.pro/*
 *://*.turkishsikke.xyz/*
@@ -327673,6 +327680,7 @@
 *://*.vndjgheruewy1.com/*
 *://*.vndkdibvcuuvdeme.net/*
 *://*.vndqjcfzl.com/*
+*://*.vndulas627.click/*
 *://*.vnebank.xyz/*
 *://*.vneyp.com/*
 *://*.vnfjnmnedneed.com/*
