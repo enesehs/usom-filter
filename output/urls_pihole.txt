@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-12 15:24:53 UTC
-# Toplam: 448614 Domain
+# Son Güncelleme: 2026-04-12 16:23:36 UTC
+# Toplam: 448634 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22799,6 +22799,7 @@ a-101-sanal.xyz
 a-101-sanial-markel.sbs
 a-101-sepetim.com
 a-101-sepetimkapimda.com
+a-101-sl.shop
 a-101-snlmrkt.cyou
 a-101-stanley.sa.com
 a-101-tektikla.cfd
@@ -24743,6 +24744,7 @@ a101ilefirsat.com
 a101ilegel.com
 a101ilegel1n.duckdns.org
 a101ilegelinindirime.duckdns.org
+a101ileindirimegelin.duckdns.org
 a101ileindirimlerburda.duckdns.org
 a101iletiisim.com
 a101iletiisimm.com
@@ -40864,6 +40866,7 @@ akutel101.shop
 akutelaldinaldin.store
 akutelcebinde.com
 akutelceplerde.com
+akutelceplerdec.com
 akutelfirsati.shop
 akutelfirsatlar.shop
 akutelkampanyalar.shop
@@ -45600,6 +45603,7 @@ andex-express.com
 andfmde.site
 andhomogeneous.top
 andihaas.at
+andiriagandigiandi.lol
 andjanigroup.com
 andkovz.com
 andlom.xyz
@@ -67153,6 +67157,7 @@ bgjuknsx.com
 bgkfnx.com
 bgkurumsalgiris-hemenalbasvur.com
 bgleak.site
+bgleovebncalstkcabrd.shop
 bgltnbvvlvada.duckdns.org
 bgltnkmpnykatla.space
 bgltrxtfwe.duckdns.org
@@ -134944,6 +134949,7 @@ e-login-webgiris-devlet-govtr.com
 e-login-ziraatbank.online
 e-loginiz-portalweb-girisgovtr.com
 e-loginpagemobil.vercel.app
+e-loginpagemobile.vercel.app
 e-lumberjack.top
 e-magazan.org
 e-magazaonline.com.tr
@@ -204200,6 +204206,8 @@ hizllicaislmerinizaktaa.online
 hizlligecis-hizlligecissistemi.ga
 hizllihassarogren.net
 hizlliicaabasvuvurma.com
+hizlliigecistbeursd.online
+hizlliigecistbeursd.store
 hizlliihizmet.app
 hizllisslemyap.app
 hizlpktyukle.net
@@ -223974,6 +223982,7 @@ isbnktkgov.cf
 isbnktr.com
 isbnkturkey-tr.com
 isbnlaki.com
+isbnm.buzz
 isbnreklm.click
 isbnsskwqdwqsdsq.xyz
 isbnxf81723k.top
@@ -269879,6 +269888,7 @@ mhmrmsnzlereglrmsn.org
 mhmrmsnzser.mooo.com
 mhmrnsenszlereglm.mooo.com
 mhmrsmnsbzs.mooo.com
+mhmrsmnszleremsnz.uk
 mhmrsnedsgelsnz.com
 mhmrsnzxmsn.mooo.com
 mhmtensylmzrndvudm.com
@@ -276423,6 +276433,7 @@ moydovv.com
 moyenezhaliyikamacises.site
 moyhoeagri.ddns.net
 moynssondanismanlik.blogspot.com
+moyrsondanismanlik.blogspot.com
 moysukalisoptamdurpes.tech
 moyu88.xyz
 moyue14.com
@@ -299723,6 +299734,7 @@ ornerfukent.ddns.net
 ornitorenk.sbs
 ornlfcu-assistauthw.ddns.net
 ornlry.duckdns.org
+ornsysn.net
 ornt.bursunuz.com.tr
 orocoao.com
 orondementres.zapto.org
@@ -317169,6 +317181,7 @@ promosyongrubu.com
 promosyonguncelleri.com
 promosyonhaziran.click
 promosyonhipodrom.com
+promosyonhizmetlerinizclub.lol
 promosyonindirimibbva.com
 promosyoniscep.site
 promosyonkampanyasi.duckdns.org
@@ -323631,6 +323644,7 @@ qjy2ar7tcvi4ixg.ddns.net
 qjzqbqlp.wcnv20.cn
 qk-pttgov.top
 qk0uosyn.duckdns.org
+qk2xmv.click
 qk423su.duckdns.org
 qk6vm0v.duckdns.org
 qkamwocfaungnyu.su
@@ -341692,6 +341706,7 @@ saiwenreal.net
 saizw03w.duckdns.org
 sajagdaesad.click
 sajdaazhari2801.hopto.org
+sajdasdhu.rf.gd
 sajdasggae.click
 sajdfue.com
 sajdjdsfkdsjfksdjsakdsa.cyou
@@ -342305,6 +342320,7 @@ sanalalisveris-kam-anya-mo-bil.com
 sanalavmp-ttmarket.com
 sanalbireysel-ziraat.website
 sanalcilar.online
+sanalcilar.org
 sanalclar.site
 sanaldabrdacalsyor.org
 sanaldaire.siradabeklemeden.biz
@@ -375793,6 +375809,7 @@ tektikonlineislem.net
 tektiksiqqqorta.site
 tektipdnz.site
 tektipwp.site
+tektklasepetlmszdende.com
 tektlklaevlnegellr.com
 tektlklasepetlndeslekle.com
 tektokat.cfd
@@ -394263,6 +394280,7 @@ tuvtaracmuaynesistemimiz.net
 tuvteskefetarac.net
 tuvtkr-mynekxl.net
 tuvtkrkdf.net
+tuvtkrktk.ct.ws
 tuvtork.com
 tuvtr-veri-system.net
 tuvtr.click
@@ -409561,6 +409579,7 @@ volcarsfilo.com
 voldalms21.site
 voldemort.cfd
 voldemort1997.ddns.net
+voldora.store
 vole2sdal34.site
 volenka.net
 volesdal234.site
@@ -425965,6 +425984,7 @@ xalouti2001.ddns.net
 xalticainvest.com
 xaltrionex.com
 xalusi.com
+xalven.click
 xamaxlfjaxlvcaac.shop
 xamazonauthportus.duckdns.org
 xami8wr.duckdns.org
