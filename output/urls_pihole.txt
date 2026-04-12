@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-12 13:53:03 UTC
-# Toplam: 448599 Domain
+# Son Güncelleme: 2026-04-12 14:30:55 UTC
+# Toplam: 448602 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -198517,6 +198517,7 @@ hgmodesiyeni.bond
 hgmonlinecom.com
 hgmonliney.duckdns.org
 hgmrhb.com
+hgmslm.cfd
 hgmwebkgmgcsblsomam.duckdns.org
 hgmwkedx.net
 hgmxn.cn
@@ -276416,6 +276417,7 @@ moybirs.com
 moydovv.com
 moyenezhaliyikamacises.site
 moyhoeagri.ddns.net
+moynssondanismanlik.blogspot.com
 moysukalisoptamdurpes.tech
 moyu88.xyz
 moyue14.com
@@ -369892,6 +369894,7 @@ svvl.store
 svvskc.de
 svwra1rl.duckdns.org
 svxejxxyswldldfwy.com
+svxzvntvtruk.com
 svyeahjfu.pbhjby
 svyktepnlz.duckdns.org
 sw0hmu5a.duckdns.org
