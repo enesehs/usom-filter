@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-12 14:30:55 UTC
-# Toplam: 448602 Domain
+# Son Güncelleme: 2026-04-12 15:24:53 UTC
+# Toplam: 448614 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24743,6 +24743,7 @@ a101ilefirsat.com
 a101ilegel.com
 a101ilegel1n.duckdns.org
 a101ilegelinindirime.duckdns.org
+a101ileindirimlerburda.duckdns.org
 a101iletiisim.com
 a101iletiisimm.com
 a101iletilenler101.duckdns.org
@@ -134118,6 +134119,7 @@ e-guvenli-odeme.online
 e-guvenli-odeme.sa.com
 e-guvenli-odemeler.online
 e-guvenli-online-satici.com
+e-guvenli-online-satis.com
 e-guvenli-online-satisi.com
 e-guvenli-satici-online.com
 e-guvenli-satis.online
@@ -200208,6 +200210,7 @@ hgsodemlrinizindrm.net
 hgsodemx.net
 hgsodemx2.com
 hgsodenmelerv1.net
+hgsodeptt.com
 hgsodese.net
 hgsodeyukle.sg-host.com
 hgsodlerx3d.com
@@ -250055,6 +250058,7 @@ kosgeble.mobi
 kosgebmerkez.click
 kosgebmerkezi.click
 kosgebprogramdestek.cfd
+kosgebprojelerii.com
 kosgebyardim.com
 kosgebyenidestek.com
 kosgep-halkbank.com
@@ -272693,6 +272697,7 @@ mobil-siparis-101e-ozel.duckdns.org
 mobil-siparis-indirim-tr.xyz
 mobil-siparis-online-101.duckdns.org
 mobil-siparis-tr.online
+mobil-siparisiniz.com
 mobil-siparisler-tr.com
 mobil-siparisler-tr.com.tr
 mobil-siparisler.com
@@ -327811,6 +327816,7 @@ randevuhizmetlerim.com
 randevuhizmetlerimiz.com
 randevuhizmetlerimizz.com
 randevuhizmetleriniz.com
+randevuicinebekleme.com
 randevuislem.net
 randevuislemleri.com
 randevukapisi.com
@@ -327872,6 +327878,7 @@ randevunuhzlcaallll-gov-tr.net
 randevunutkp.online
 randevunuvaktindeal.net
 randevunuzicnske.com
+randevunuzikne.com
 randevunuzmhrs.net
 randevunuzuyap.com
 randevunvgovtr.net
@@ -327941,6 +327948,7 @@ randuman.webredirect.org
 randumhemn.b-cdn.net
 randvalsanaxd.net
 randvcerlas.net
+randvehuziemtbrudsad.online
 randvehuziemtbrudsad.store
 randvmerkz.b-cdn.net
 randvni.net
@@ -382791,6 +382799,7 @@ torment.ddns.net
 torment1628.duckdns.org
 tormenta.hopto.org
 torminator.ddns.net
+tormiq.click
 tormirrlinv.com
 tornado-ai.com
 tornadocockpit.top
@@ -394589,6 +394598,7 @@ tuvuturk-onl-randvu.click
 tuvuturkrandevuolustur.com
 tuvuvutuvtkr.net
 tuvvedec.website
+tuvvrandevuoperation.site
 tuvvturk-isl.digital
 tuvvturk.live
 tuvvturkaracmuayene.com
@@ -426142,6 +426152,7 @@ xcarrekampanya.click
 xcarrekampanya.online
 xcarwgemfs.duckdns.org
 xcasc23klxkallcddas.cfd
+xcasc23klxkallcddas.sbs
 xcat-industries.com
 xcavqnavct.duckdns.org
 xcb6an.duckdns.org
@@ -441303,6 +441314,7 @@ yonlendir.itemdb.com
 yonlendir.link
 yonlendir9659.online
 yonlendirbabacan1.site
+yonlendirbeni.net
 yonlendirbeni.online
 yonlendirbenibebek.my-homeip.com
 yonlendiremezsinbeni.com
