@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-13 14:25:40 UTC
-# Toplam: 448759 Domain
+# Son Güncelleme: 2026-04-13 16:03:29 UTC
+# Toplam: 448787 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -455,6 +455,7 @@
 030y2.efae01.com
 031031031031.me
 031724031724031724.cloud
+032015542ss25ck.com
 032094092374786723.cloud
 0321223332012.duckdns.org
 0324712667128301qo3294.store
@@ -94545,6 +94546,7 @@ cbpexbrasilia.com.br
 cbphe.com
 cbpheback.com
 cbpiiiwiww.duckdns.org
+cbpzsxxiv.acessoeditoracao.com.br
 cbq4dn.duckdns.org
 cbqa8n.duckdns.org
 cbr.zapto.org
@@ -160233,6 +160235,7 @@ finansv4hesaplidogrulama.online
 finansvakti.pro
 finansvizyon.life
 finansvizyon.pro
+finansvizyon.site
 finansvizyonu.org
 finansyatirimi.com
 finansza.com
@@ -177857,6 +177860,7 @@ globaldigitalcard.com
 globaldigitalmobilkampanyasi.online
 globaldirectory.top
 globaldnyayabasvurunuyap.com
+globaldrift.world
 globaldunya-hemenbasvurunuyap.com
 globaldunya-hemenfirsatkampanyayakatil.com
 globaldunya-hemenfirsatkampanyayakatil.globalislemlerehemensimdibasvurun.com
@@ -182914,6 +182918,7 @@ guncelsikayetler-66.sbs
 guncelsikayetler-660.sbs
 guncelsikayetler-661.sbs
 guncelsikayetler-667.sbs
+guncelsikayetler-668.sbs
 guncelsikayetler-7.sa.com
 guncelsikayetler-71.sbs
 guncelsikayetler-73.sbs
@@ -184078,6 +184083,7 @@ guvenli-alisveriis.com.tr
 guvenli-alisveris-3d.com.tr
 guvenli-alisveris-al.com
 guvenli-alisveris-bilgi.online
+guvenli-alisveris-detay.online
 guvenli-alisveris-get.com
 guvenli-alisveris-getsahibinden.com.tr
 guvenli-alisveris-getsahibinden.online
@@ -186341,6 +186347,7 @@ haber250.online
 haber250.site
 haber250.website
 haber256.com
+haber258tr.shop
 haber350.online
 haber350.site
 haber350.website
@@ -194208,6 +194215,7 @@ hdfxksglpe.duckdns.org
 hdgb22m.is-best.net
 hdggmq.top
 hdgjg.net
+hdgms.cfd
 hdhjeuehujwghqjejfejd.club
 hdibnlrillmhmnsmdi.mooo.com
 hdiclckeregdlmbrbr.mooo.com
@@ -203081,6 +203089,7 @@ hizlidolumlardasin.net
 hizlidomcekimucret.net
 hizlidonemgecisleri.sg-host.com
 hizliduyuru.website
+hizliehrmenbdsurgyjkle.online
 hizliehrmenbdsurgyjkle.store
 hizliekstra-market-alisveris.com
 hizlierisim.cf
@@ -221839,6 +221848,7 @@ intyetkibayileriyeri.com
 intyetkibayiteki.com
 inuamvt.com
 inufsaf.top
+inuhudcgo.acessoeditoracao.com.br
 inumsicg.com
 inunbi.top
 inustiyapi.com
@@ -232621,6 +232631,7 @@ jaxonian.sa.com
 jaxstrike.duckdns.org
 jaxstrikehomes.com.tr
 jaxstrikexdxd.duckdns.org
+jaxtons.pro
 jaxubdocesmgxnb.su
 jaya18.com
 jayaassssss.link
@@ -242460,6 +242471,7 @@ katilimaralikfirsatlari.com
 katilimbankaniz.com
 katilimbankonline.com
 katilimbasvur-2025hmnkatil.duckdns.org
+katilimbasvurmaekranim.sbs
 katilimbasvuru-finans.com
 katilimbasvuru-teb.com
 katilimbasvuru.com
@@ -247612,6 +247624,7 @@ kmbak.sa.com
 kmbaksende.online
 kmbenimyallah.cfd
 kmbgfgbf.shop
+kmbilgi.firebaseapp.com
 kmbilgi.web.app
 kmbilgiburdaogren.cfd
 kmbilgilendirme.cfd
@@ -248550,6 +248563,7 @@ kmvehasar.org
 kmvehasar.sa.com
 kmvehsasar.sa.com
 kmveri.sa.com
+kmveriniz.firebaseapp.com
 kmveriniz.web.app
 kmvesran.online
 kmvesran.ru.com
@@ -254799,6 +254813,7 @@ lanamakotrue.com
 lanapayments.com
 lanasiewrdf.net
 lanbendenviacicammoupzyben.app
+lanbultis.site
 lancastercars.co.uk
 lancasternh.com
 lancesaa33.xyz
@@ -274365,6 +274380,8 @@ mobilislemlerzrat.ga
 mobilisube.com
 mobilite-denizden.com
 mobilitecebasvurusulari.sbs
+mobilitehizlisibasvur.sbs
+mobilitekatilimlarim.sbs
 mobilitenet.net
 mobiliz-cepten.site
 mobiliz-ihtyc.tk
@@ -276651,6 +276668,7 @@ mqoo0etwg5vssvapo7l.com
 mqphenmpra.in
 mqqqnlgcgc.duckdns.org
 mqqtvodemelerim.org
+mqrinfbsz.acessoeditoracao.com.br
 mqru3l.duckdns.org
 mqsiqorta.com.tr
 mqsiqorta.xyz
@@ -284617,6 +284635,7 @@ newscastly.online
 newschools.info
 newscome.online
 newscommercde.com
+newscore.ltd
 newscorp-okta.com
 newscovia.com
 newscurrent.info
@@ -309548,6 +309567,8 @@ pazarama.bireyselhizmetleriniz.com.tr
 pazarama.bireyselprovizyon.com.tr
 pazarama.bireyselsatisin.com.tr
 pazarama.bireyselticaret.com.tr
+pazarama.firsatiseninle.com.tr
+pazarama.guvencelifirsatlar.com.tr
 pazarama.guvenceonay.com.tr
 pazarama.onlinebireyselcisatici.com.tr
 pazarama.onlinesaticimiz.com.tr
@@ -339595,6 +339616,7 @@ sahibinden.guvenli-alimlarim.com.tr
 sahibinden.guvenli-alimlarin.com.tr
 sahibinden.guvenli-alis.com.tr
 sahibinden.guvenli-alisveris-bilgi.online
+sahibinden.guvenli-alisveris-detay.online
 sahibinden.guvenli-alisveris-hizmeti.online
 sahibinden.guvenli-alisveris-hizmetleri-tr.com
 sahibinden.guvenli-alisveris-ilan.online
@@ -343473,6 +343495,7 @@ savcilikevrakdava.org
 savciliktr.org
 save-trezor-ste.webflow.io
 save-trzor-login.webflow.io
+savebase.org
 savebig-yolgecizhizmeti.com
 savechatgpt.site
 savecltch.top
@@ -347068,6 +347091,7 @@ sellukaet.best
 sellychukwu.ru
 selma.servecounterstrike.com
 selmik-001-site1.btempurl.com
+selmiv.click
 selmonstudies.com
 selneasigim.net
 selo-can.com
@@ -378298,6 +378322,7 @@ theceocforeporter.com
 theceon.shop
 thechaibali.com
 thecheckupdater.com
+thechidocas.cyou
 thechina1.ddns.net
 thechinastyle.com
 thecloudappbox.azurewebsites.net
@@ -380876,6 +380901,7 @@ to5gvxadi.duckdns.org
 to6n4m3a3dor.com
 toa.mygametoa.com
 toach.photoah.com
+toadcornswordtune.com
 toaffix.top
 toajwjax.blogspot.com
 toakira.pro
@@ -394467,6 +394493,7 @@ tuvturk-d.digital
 tuvturk-dijital.site
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
+tuvturk-kss.com
 tuvturk-ltd.digital
 tuvturk-m.digital
 tuvturk-mobil.com
@@ -436259,6 +436286,7 @@ yatirimjet.com
 yatirimkampanya-acikdenizbankkatil.com
 yatirimkayitlari.com
 yatirimkredi.com.tr
+yatirimkulisi.company
 yatirimkulisi.online
 yatirimlinki-payfixdeposit.com
 yatirimlinki.site

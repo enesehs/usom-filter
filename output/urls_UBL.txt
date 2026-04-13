@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-13 14:25:40 UTC
-! Total: 358174 rules
+! Last modified: 2026-04-13 16:03:29 UTC
+! Total: 358196 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -249,6 +249,7 @@
 *://*.0304050607.me/*
 *://*.031031031031.me/*
 *://*.031724031724031724.cloud/*
+*://*.032015542ss25ck.com/*
 *://*.032094092374786723.cloud/*
 *://*.0324712667128301qo3294.store/*
 *://*.0324824o2346617624e.store/*
@@ -17096,6 +17097,7 @@
 *://*.acesse-app.info/*
 *://*.acessesuafaturasmagalu.com/*
 *://*.acessoaocliente.com/*
+*://*.acessoeditoracao.com.br/*
 *://*.acetylbenzoic.com/*
 *://*.acexpresscargo.com/*
 *://*.acfdgvbh-atwrcdv-adcfadvgh.sbs/*
@@ -127578,6 +127580,7 @@
 *://*.finansvakti.pro/*
 *://*.finansvizyon.life/*
 *://*.finansvizyon.pro/*
+*://*.finansvizyon.site/*
 *://*.finansvizyonu.org/*
 *://*.finansyatirimi.com/*
 *://*.finansza.com/*
@@ -141941,6 +141944,7 @@
 *://*.globaldigitalmobilkampanyasi.online/*
 *://*.globaldirectory.top/*
 *://*.globaldnyayabasvurunuyap.com/*
+*://*.globaldrift.world/*
 *://*.globaldunya-hemenbasvurunuyap.com/*
 *://*.globaldunya-hemenfirsatkampanyayakatil.com/*
 *://*.globaldunyaprb-hediyedagitiyor.com/*
@@ -146159,6 +146163,7 @@
 *://*.guncelsikayetler-660.sbs/*
 *://*.guncelsikayetler-661.sbs/*
 *://*.guncelsikayetler-667.sbs/*
+*://*.guncelsikayetler-668.sbs/*
 *://*.guncelsikayetler-71.sbs/*
 *://*.guncelsikayetler-73.sbs/*
 *://*.guncelsikayetler-74.sbs/*
@@ -146822,6 +146827,7 @@
 *://*.guvenceli-tedarik.com.tr/*
 *://*.guvenceli.com.tr/*
 *://*.guvencelibimtl100.ga/*
+*://*.guvencelifirsatlar.com.tr/*
 *://*.guvencelikredim.click/*
 *://*.guvencelionlineislem.com.tr/*
 *://*.guvencelisatis.com/*
@@ -147263,6 +147269,7 @@
 *://*.guvenli-alisveris-3d.com.tr/*
 *://*.guvenli-alisveris-al.com/*
 *://*.guvenli-alisveris-bilgi.online/*
+*://*.guvenli-alisveris-detay.online/*
 *://*.guvenli-alisveris-get.com/*
 *://*.guvenli-alisveris-getsahibinden.com.tr/*
 *://*.guvenli-alisveris-getsahibinden.online/*
@@ -149119,6 +149126,7 @@
 *://*.haber250.site/*
 *://*.haber250.website/*
 *://*.haber256.com/*
+*://*.haber258tr.shop/*
 *://*.haber350.online/*
 *://*.haber350.site/*
 *://*.haber350.website/*
@@ -156250,6 +156258,7 @@
 *://*.hdfxdoxdomdeode.net/*
 *://*.hdggmq.top/*
 *://*.hdgjg.net/*
+*://*.hdgms.cfd/*
 *://*.hdhjeuehujwghqjejfejd.club/*
 *://*.hdirwanda.org/*
 *://*.hdisimdiindirimkapindakif1rs9at.com/*
@@ -163766,6 +163775,7 @@
 *://*.hizlidolumlardasin.net/*
 *://*.hizlidomcekimucret.net/*
 *://*.hizliduyuru.website/*
+*://*.hizliehrmenbdsurgyjkle.online/*
 *://*.hizliehrmenbdsurgyjkle.store/*
 *://*.hizliekstra-market-alisveris.com/*
 *://*.hizlierisim.cf/*
@@ -188635,6 +188645,7 @@
 *://*.jaxoliro.com/*
 *://*.jaxonsorensen.club/*
 *://*.jaxstrikehomes.com.tr/*
+*://*.jaxtons.pro/*
 *://*.jaxubdocesmgxnb.su/*
 *://*.jaya18.com/*
 *://*.jayaassssss.link/*
@@ -196784,6 +196795,7 @@
 *://*.katilimaralikfirsatlari.com/*
 *://*.katilimbankaniz.com/*
 *://*.katilimbankonline.com/*
+*://*.katilimbasvurmaekranim.sbs/*
 *://*.katilimbasvuru-finans.com/*
 *://*.katilimbasvuru-teb.com/*
 *://*.katilimbasvuru.com/*
@@ -206176,6 +206188,7 @@
 *://*.lanapayments.com/*
 *://*.lanasiewrdf.net/*
 *://*.lanbendenviacicammoupzyben.app/*
+*://*.lanbultis.site/*
 *://*.lancastercars.co.uk/*
 *://*.lancasternh.com/*
 *://*.lancebarkerwa.com/*
@@ -221060,6 +221073,8 @@
 *://*.mobilisube.com/*
 *://*.mobilite-denizden.com/*
 *://*.mobilitecebasvurusulari.sbs/*
+*://*.mobilitehizlisibasvur.sbs/*
+*://*.mobilitekatilimlarim.sbs/*
 *://*.mobilitenet.net/*
 *://*.mobiliz-cepten.site/*
 *://*.mobiliz-ihtyc.tk/*
@@ -228923,6 +228938,7 @@
 *://*.newschools.info/*
 *://*.newscome.online/*
 *://*.newscommercde.com/*
+*://*.newscore.ltd/*
 *://*.newscorp-okta.com/*
 *://*.newscovia.com/*
 *://*.newscurrent.info/*
@@ -274147,6 +274163,7 @@
 *://*.savcilikevrakdava.org/*
 *://*.savciliktr.org/*
 *://*.saveallfbloader.com/*
+*://*.savebase.org/*
 *://*.savebig-yolgecizhizmeti.com/*
 *://*.saveboston.today/*
 *://*.savechatgpt.site/*
@@ -276279,6 +276296,7 @@
 *://*.selltix.org/*
 *://*.sellukaet.best/*
 *://*.sellychukwu.ru/*
+*://*.selmiv.click/*
 *://*.selmonstudies.com/*
 *://*.selneasigim.net/*
 *://*.selo-can.com/*
@@ -302332,6 +302350,7 @@
 *://*.theceon.shop/*
 *://*.thechaibali.com/*
 *://*.thecheckupdater.com/*
+*://*.thechidocas.cyou/*
 *://*.thechinastyle.com/*
 *://*.thecnnpower.gq/*
 *://*.thecocopacific.com/*
@@ -304515,6 +304534,7 @@
 *://*.to-kibsvr.com/*
 *://*.to2.com.tr/*
 *://*.to6n4m3a3dor.com/*
+*://*.toadcornswordtune.com/*
 *://*.toaffix.top/*
 *://*.toakira.pro/*
 *://*.toalinto.top/*
@@ -316163,6 +316183,7 @@
 *://*.tuvturk-dijital.site/*
 *://*.tuvturk-islem-randevu.net/*
 *://*.tuvturk-islemleri.com/*
+*://*.tuvturk-kss.com/*
 *://*.tuvturk-ltd.digital/*
 *://*.tuvturk-m.digital/*
 *://*.tuvturk-mobil.com/*
@@ -348407,6 +348428,7 @@
 *://*.yatirimkampanya-acikdenizbankkatil.com/*
 *://*.yatirimkayitlari.com/*
 *://*.yatirimkredi.com.tr/*
+*://*.yatirimkulisi.company/*
 *://*.yatirimkulisi.online/*
 *://*.yatirimlink.com/*
 *://*.yatirimlinki-payfixdeposit.com/*
