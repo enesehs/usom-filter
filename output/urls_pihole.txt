@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-13 07:05:45 UTC
-# Toplam: 448682 Domain
+# Son Güncelleme: 2026-04-13 09:23:15 UTC
+# Toplam: 448693 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -100648,6 +100648,7 @@ cleansesymmetrical.top
 cleanshot.ink
 cleanswatersteam.com
 cleanupett.ddns.net
+cleanupmac.mssg.me
 cleanwatersteams.com
 clear-cutstory.top
 clear-sign-e69444a8e4ea.herokuapp.com
@@ -128973,6 +128974,7 @@ drysymphony.top
 drytrailz.com
 dryukleme.22web.org
 dryve.ae
+dryvecar.com
 drz-3000tl-pndmidstk.ml
 drzapato.xyz
 drzfhxrh1.duckdns.org
@@ -169515,6 +169517,7 @@ garantibbva.mywire.org
 garantibbva.net
 garantibbva.netlify.app
 garantibbva.nilaimcinc.com
+garantibbva.oii.mobi
 garantibbva.online
 garantibbva.ooguy.com
 garantibbva.org
@@ -183610,6 +183613,7 @@ guvencelisepet.com.tr
 guvencelmobil.com
 guvenceniz.com.tr
 guvenceonayli.com.tr
+guvencesepette.com.tr
 guvencesi-ile-ode.com
 guvencesi-ile.com
 guvencesi.com.tr
@@ -247506,6 +247510,7 @@ km-merkezimiz1-65ee7a8a7344.herokuapp.com
 km-merkezimm1-a5a167ae7962.herokuapp.com
 km-merkezimm5432-98db0163a7ae.herokuapp.com
 km-nyc.com
+km-ogren.firebaseapp.com
 km-ogren.web.app
 km-pttavm.sa.com
 km-sorcukm.blogspot.com
@@ -251972,6 +251977,7 @@ krzzddddesetek.online
 ks-cumhurbaskanligi.com
 ks-drive.com
 ks-lane.com
+ks-mobil-links.site
 ks.manlish.net
 ks1qkxi2.duckdns.org
 ks23231111.cloud
@@ -262290,6 +262296,7 @@ maefu1tejdt.net
 maekathni.xyz
 maellisromance.com
 maercuestionaryeas.duckdns.org
+maestro-bntr.club
 maestro49.ddns.net
 maestrocar.cloud
 maestrodelamarreefectivo.com
@@ -272492,6 +272499,7 @@ mobil-esubemdijitalsube-girisvakif.ml
 mobil-extra-alisveris-tr.online
 mobil-extra-haftanin-firsatlari-tr.online
 mobil-extra-siparis-cep.online
+mobil-extra-tr.site
 mobil-finans-onay.top
 mobil-finans.tk
 mobil-finans2019.com
@@ -348130,6 +348138,7 @@ sep-shaparak-payment.com
 sepa-cloud.com
 sepa-europa.eu
 sepa-europa.info
+sepabntr-shop.club
 sepacloud.eu
 sepacloud.org
 separateaffixation.top
@@ -388556,6 +388565,7 @@ trmarfsfgs.shop
 trmarketaralik.com.tr
 trmarketaralik.net.tr
 trmarketaralik.org.tr
+trmarketw.shop
 trmarsrgulamaa.com
 trmasak.com
 trmasak.org
@@ -404397,6 +404407,7 @@ vashadvokat.in.ua
 vasifgo.ru
 vaskaworldairways.com
 vaskdalslvxvzx.net
+vaskelon.live
 vaslol23xles.site
 vaspq.patyacbalaastakamtyapabelyoz.net
 vasqqquez.net
