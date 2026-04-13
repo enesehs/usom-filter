@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-13 17:54:09 UTC
-# Toplam: 448812 Domain
+# Son Güncelleme: 2026-04-13 18:56:13 UTC
+# Toplam: 448819 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59806,6 +59806,7 @@ basodeme.net
 baspinarlartulumpeyniri.com
 basre.loveslife.biz
 basriasrl.shop
+basruvular.hegikeiroz.workers.dev
 basruvularim.online
 basruvularimiz.online
 basruvulariniz.online
@@ -204433,6 +204434,7 @@ hizmetfast.net
 hizmetfilo.com.tr
 hizmetfilo.xyz
 hizmetfirsati.xyz
+hizmetfirsatlarim.sbs
 hizmetfull.xyz
 hizmetgarantitr.my-homeip.com
 hizmetgeldisizlere20.com
@@ -226756,6 +226758,7 @@ istanbunlu12.click
 istanbunlu13.click
 istanbunlu8.click
 istanbunlu9.click
+istanburada.com
 istanbus.net
 istanbushkosty.com
 istanbuslastar.click
@@ -226788,6 +226791,7 @@ istanlikislem.com
 istanllkart.online
 istanmbblmkartm.net
 istanmbucellallah.cc
+istanmefe.com
 istanmistik.net
 istanmnz.com
 istannbbllkrrt.mooo.com
@@ -341925,6 +341929,7 @@ sakyamoon.com
 sakyz.click
 salaccgfa.top
 salad.dilige.cc
+saladardsarasd.sbs
 saladoppress.top
 saladtilt.top
 salagramat.org
@@ -348397,6 +348402,7 @@ sepetimde.xyz
 sepetimdealisveris.shop
 sepetimdealisveris.store
 sepetimdealisverisim.store
+sepetimdealisverislerim.online
 sepetimdeindirim.click
 sepetimdeindirim.com
 sepetimdinr.shahiyarran.sbs
@@ -349739,6 +349745,7 @@ seveceksandimmkk.net
 seveceksandimmm.net
 seveceksandimvalla.net
 sevecen-tavirla-devlestik-uyguna-aliniz.com
+sevemedimkaragozlum.com
 seven-bilene-hepsine-ugrayarak-alirsan-bukadar.top
 seven-bir-daha-bakarsa-hizlica-alir.xyz
 seven-birazda-buraya-gelir-goren-bilir.com
