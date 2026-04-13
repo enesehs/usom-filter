@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-13 16:03:29 UTC
-# Toplam: 448787 Domain
+# Son Güncelleme: 2026-04-13 17:54:09 UTC
+# Toplam: 448812 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -16789,6 +16789,7 @@
 611101108251512031.com.tr
 6112345-867566082.online
 611348134839.online
+61161672x.duckdns.org
 612255225.cloud
 612282.xyz
 61231231235512.cloud
@@ -21463,6 +21464,7 @@
 9812.hopto.org
 9812737123643.online
 981277982136746237864562346.site
+9815819.duckdns.org
 9816q6.duckdns.org
 98189189189198189198.cloud
 982141241912.com
@@ -50315,6 +50317,7 @@ arcxtrmrxrpiskobaba.com
 arcxtvtrxkxnmdjsa.net
 arcxxtrmmr.net
 arcxxtrmmr.world
+arcyklemebakye.web.app
 arcymanmtvtsk.net
 ard-wswag.app
 arda.today
@@ -52163,6 +52166,7 @@ aslinda-yenilikci-formul-ayagina-geldi.com
 aslindaguzelkampanya.sbs
 asliyecezagov.org
 asliyecezamahkeme.org
+asliyedava.org
 asliyemahkeme.org
 aslkamask.cfd
 aslkm65m.com
@@ -112755,6 +112759,7 @@ daxljyxbqv.duckdns.org
 daxmmliefd.duckdns.org
 daxnnsetmemgerexkiyorcaxnm.blogspot.com
 daxnsetxmemgerekiyorogxlm.click
+daxora.click
 daxspnjwur.duckdns.org
 day-info.pro
 day-place-river.com
@@ -113240,6 +113245,7 @@ ddupcjjksy.duckdns.org
 ddus17.com
 ddv1cwxjx.duckdns.org
 ddvadijital80yilkarnpanyagiris.space
+ddvadijitalreklam80yilkampanyagirisi.space
 ddvareklamdijital80yilgirisrnenu.space
 ddvatreklamenudijitallgirisllemi.space
 ddvtrgolans.duckdns.org
@@ -177976,6 +177982,7 @@ globalsec.ddns.net
 globalsecuritybasvuruservcs.com
 globalsergeant.top
 globalserverwindows.duckdns.org
+globalsignal.world
 globalsigorta.xyz
 globalsistem-hemenbasvurunuyap.com
 globalsistem-onlinebasvurunuyap.com
@@ -193304,6 +193311,7 @@ haydibakalim-kampanyan-bizden-online-iadem-9000tl-com.ml
 haydibasvurum.com
 haydibizimlekazan-kampanyasi.ml
 haydicevirsende.online
+haydicocuklaruykuya.click
 haydidelioglan2.site
 haydiffusion.top
 haydigel.xyz
@@ -194388,6 +194396,7 @@ headlinecore.online
 headlinecorehub.com
 headlinecurrent.com
 headlineforge.online
+headlinefusion.world
 headlinegenerator.app
 headlinegrove.com
 headlineobserver.com
@@ -198399,6 +198408,7 @@ hgds.site
 hgdsgdshssd.net
 hgdsismlemerinizodmsi.duckdns.org
 hgdslal.cfd
+hgdslhl.sbs
 hgdsmwqrtf.net
 hgdszlermn.net
 hgdwhx.click
@@ -233160,6 +233170,7 @@ jewelmalicious.top
 jewelmandate.top
 jewelquantum.top
 jewelrydistill.top
+jeweltrove.shop
 jewkx0.duckdns.org
 jewmibyftryk1.website
 jewnjksbs.net
@@ -248204,6 +248215,7 @@ kmpyn900178.sbs
 kmpynyenliil-mobligr.com
 kmpzagctn.com
 kmqsvrgprtrdoawybohguq.pw
+kmrapor.com
 kmrapor.sa.com
 kmraporlari.sa.com
 kmraporum.com
@@ -248411,6 +248423,7 @@ kmsorgullamayappburdanptt.duckdns.org
 kmsorgulmachpknt.shop
 kmsorgulmachpknt.xyz
 kmsorgulmazss.info
+kmsorgumerkezi.web.app
 kmsorgunzlamx.com
 kmsorgupatronu.cfd
 kmsorgupttavmgotr.duckdns.org
@@ -254813,6 +254826,7 @@ lanamakotrue.com
 lanapayments.com
 lanasiewrdf.net
 lanbendenviacicammoupzyben.app
+lanbultis.online
 lanbultis.site
 lancastercars.co.uk
 lancasternh.com
@@ -254993,6 +255007,7 @@ larbidousement.zapto.org
 larcausk.site
 lardairset.leauguantu.ru
 lardanasdwesafasdasd.autos
+lardannsanasdas.shop
 lardansandasdasd.icu
 laren.online
 larendeyapiinsaat.com
@@ -274380,6 +274395,7 @@ mobilislemlerzrat.ga
 mobilisube.com
 mobilite-denizden.com
 mobilitecebasvurusulari.sbs
+mobilitecebbasvurusu.sbs
 mobilitehizlisibasvur.sbs
 mobilitekatilimlarim.sbs
 mobilitenet.net
@@ -288015,6 +288031,7 @@ nsnayindakampnyabasladi.shop
 nsnayindakamyasigeldi.shop
 nsnayiozel.blogspot.com
 nsndacrfshmnbrda.com
+nsndamutfagnzda.cfd
 nsnfrsssttlribrayagldi.com
 nsnjwtnjlq.duckdns.org
 nsnsnnsananwse.net
@@ -315030,6 +315047,7 @@ pramguvendesahibindangets-com.ml
 pramguvnde-satsahbinden-com.ml
 prandoria.com
 prandrix.com
+pranel.click
 prantiygzor.duckdns.org
 prapolt.info
 praseantal.com
@@ -348378,6 +348396,7 @@ sepetimanindakapimda.com.tr
 sepetimde.xyz
 sepetimdealisveris.shop
 sepetimdealisveris.store
+sepetimdealisverisim.store
 sepetimdeindirim.click
 sepetimdeindirim.com
 sepetimdinr.shahiyarran.sbs
@@ -355230,6 +355249,7 @@ sisslemrrinizzzzsrgllaoaa.xyz
 sissytem.com
 sist34.tk
 sist382.uk
+sistanbuk.hegikeiroz.workers.dev
 sistecmastegodd.life
 sistem-aktarimlari-basladi.online
 sistem-basvuru.online
@@ -357869,6 +357889,7 @@ snkzvrdkbrdkbrmdks.shop
 snkzvrolrazdasdas.club
 snlardanbrdansad.shop
 snlardanbrdansnkz.shop
+snlardankardasnsa.click
 snlardansnkzlerden.shop
 snlardansnkzlerden.xyz
 snldbrdnaldsndalbnc.mooo.com
@@ -366508,6 +366529,7 @@ studyclynoris.com
 studydeduct.top
 studyevenpack.com
 studygen.icu
+studylaban.com
 studyland-summer.com
 studyunanimous.top
 studyzion.com
@@ -393308,6 +393330,7 @@ turkiyegirismerkezi-edevlet.com
 turkiyegirissayfamiz.tk
 turkiyegl-obalbndst-ek.com
 turkiyeglobalbnbakiyeiade.net
+turkiyeglobe.com
 turkiyegoovtr.org
 turkiyegov-aidat.20-42-95-49.plesk.page
 turkiyegov-aidat.com
@@ -417168,6 +417191,7 @@ wishdistil.cn
 wishfrantically.top
 wishgrumble.com
 wishnwish.com
+wishwin.gifts
 wishwoodenfish.com
 wiskundebijles.nu
 wislerwr.sg-host.com
@@ -436220,6 +436244,7 @@ yatirim.fun
 yatirim.live
 yatirim.turkmenkuldegerler.net
 yatirim360.online
+yatirimakisi.site
 yatirimakli.world
 yatirimanaliz.org
 yatirimanaliz.world
