@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-14 14:44:07 UTC
-! Total: 358301 rules
+! Last modified: 2026-04-14 15:58:51 UTC
+! Total: 358330 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -7848,6 +7848,7 @@
 *://*.2yutrcallus.tk/*
 *://*.2zc.us/*
 *://*.2zgob.ru/*
+*://*.2zq7vx.click/*
 *://*.3-2-9-7-6-2.com/*
 *://*.3-3-3-33-3-333-33-333333321.sbs/*
 *://*.3-3-312-31-21321-213wedsasgfagsa.sbs/*
@@ -15235,6 +15236,7 @@
 *://*.a101martaktuel.online/*
 *://*.a101martaozel.online/*
 *://*.a101martfirsatlari.com/*
+*://*.a101martketxindirim.shop/*
 *://*.a101marttfirsatlari.com/*
 *://*.a101mayis-indirimleri.com/*
 *://*.a101mayisfirsati.com/*
@@ -20850,6 +20852,7 @@
 *://*.aea-basvuru-iadeformu-edevlet.com/*
 *://*.aeaccting.com/*
 *://*.aeacmuaynehizmetimiz.net/*
+*://*.aeahap.help/*
 *://*.aeahhwrssa.com/*
 *://*.aeakemegood24.com/*
 *://*.aeat-tgss.com/*
@@ -37585,6 +37588,7 @@
 *://*.auhsppnlfkcspvlyqd.com/*
 *://*.auircv.com/*
 *://*.aujigt.com/*
+*://*.aukjxp.help/*
 *://*.aulaphoi.ru/*
 *://*.aulealnper.org/*
 *://*.auliavernek.xyz/*
@@ -46530,6 +46534,7 @@
 *://*.bcfguk.com/*
 *://*.bcfolpse.click/*
 *://*.bcgmlvi.com/*
+*://*.bchabj.help/*
 *://*.bchckyzbrmrkonli.cfd/*
 *://*.bchdrop.com/*
 *://*.bchdrop.net/*
@@ -96705,6 +96710,7 @@
 *://*.dijitalkampanyaweb-ziraat.com/*
 *://*.dijitalkampanyaweb-ziraatbireysel.com/*
 *://*.dijitalkampanyaweb-ziraatbireysel.sbs/*
+*://*.dijitalkampanyaweb-ziraatmobilin.com/*
 *://*.dijitalkampnya.net/*
 *://*.dijitalkanal-ziraatmobilkampanya.com/*
 *://*.dijitalkanal-ziraatmobilweb.com/*
@@ -101676,6 +101682,7 @@
 *://*.dxnlnxn.com/*
 *://*.dxnrbwk.com/*
 *://*.dxnvxrgiode.net/*
+*://*.dxopae.help/*
 *://*.dxosvhzw.com/*
 *://*.dxpovxxj.com/*
 *://*.dxqkz.com/*
@@ -108506,6 +108513,7 @@
 *://*.eclipsedelusion.top/*
 *://*.eclipsehaven.space/*
 *://*.eclipsemonitor.com/*
+*://*.eclipseturkey.com/*
 *://*.eclipthor.com/*
 *://*.eclipticaily.com/*
 *://*.ecloud-sharedfile.com/*
@@ -113728,6 +113736,7 @@
 *://*.ekboshop.co.uk/*
 *://*.ekbsvrbsladi.org.tr/*
 *://*.ekbtil.com/*
+*://*.ekcmko.help/*
 *://*.ekdvzoqt.com/*
 *://*.ekefitpun.com/*
 *://*.ekelkfdmekefkleklm.app/*
@@ -165901,6 +165910,7 @@
 *://*.hnvosyuklemler.net/*
 *://*.hnvwhpbv.info/*
 *://*.hnxhbn.top/*
+*://*.hnxjkx.help/*
 *://*.hnzdbg.com/*
 *://*.hnzuimx.org/*
 *://*.ho-mobile.online/*
@@ -181815,6 +181825,7 @@
 *://*.iscnbmbell.net/*
 *://*.iscp-kampnya.com.tr/*
 *://*.iscp-kmpnya.com/*
+*://*.iscpdjital.click/*
 *://*.iscple.cfd/*
 *://*.iscprhbr.cfd/*
 *://*.iscredi.com.tr/*
@@ -189137,6 +189148,7 @@
 *://*.jgsikortam.xyz/*
 *://*.jgsw4g.cn/*
 *://*.jgtmrvohkurphgbbx.me/*
+*://*.jgtqwq.help/*
 *://*.jgttg.cf/*
 *://*.jgu0.com/*
 *://*.jguery.net/*
@@ -189190,6 +189202,7 @@
 *://*.jhuosisfzg.info/*
 *://*.jhvyodk.com/*
 *://*.jhvzpcfg.biz/*
+*://*.jhwfxo.help/*
 *://*.jhwjdxh.click/*
 *://*.jhxrrkmmjrmibafre.org/*
 *://*.jhytlebqv.com/*
@@ -190384,6 +190397,7 @@
 *://*.jvpghaxdt.com/*
 *://*.jvpsfunerals.co.za/*
 *://*.jvrzhkndzmjj.cf/*
+*://*.jvshkd.help/*
 *://*.jvszln.wtf/*
 *://*.jvtcuw.cyou/*
 *://*.jvte4.sbs/*
@@ -197639,6 +197653,7 @@
 *://*.kcumhurbaskanligi-tr.com/*
 *://*.kcw.xn--6frz82g/*
 *://*.kcwzqmvg.com/*
+*://*.kcxbqh.help/*
 *://*.kczu.net/*
 *://*.kd3k9t.cyou/*
 *://*.kdarvama.com/*
@@ -204279,6 +204294,7 @@
 *://*.ksnytbp.com/*
 *://*.ksoxprwqd.com/*
 *://*.ksprudbdjdnflfn.xyz/*
+*://*.ksqnbkmpnsyr.com/*
 *://*.ksratlewrsd.net/*
 *://*.ksslevdvt-dvtyr.com/*
 *://*.kssmkgmtrmr.shop/*
@@ -215297,6 +215313,7 @@
 *://*.maytinhnhatlong.com/*
 *://*.maytrillion.top/*
 *://*.mayyis-firstlrmm.com/*
+*://*.mazafakaerindahouse.info/*
 *://*.mazdafinancialsevrices.com/*
 *://*.mazdakrichest.com/*
 *://*.mazeargueconnectdeliver.com/*
@@ -230193,6 +230210,7 @@
 *://*.njzcxk.in/*
 *://*.nk-vaikf.online/*
 *://*.nkaac.net/*
+*://*.nkaees.help/*
 *://*.nkagfxxyknbgonu.su/*
 *://*.nkamaskas.net/*
 *://*.nkapeq.com/*
@@ -234734,6 +234752,7 @@
 *://*.oelmysg.com/*
 *://*.oem-sec4-mx32.com/*
 *://*.oemobi.net/*
+*://*.oemsay.cc/*
 *://*.oepncrwbq.com/*
 *://*.oerdemkerdsads.xyz/*
 *://*.oeredrt.com/*
@@ -235490,6 +235509,7 @@
 *://*.olgakurakina-color.xyz/*
 *://*.olgsjakolruyhoc.cn/*
 *://*.olgw.my/*
+*://*.olhxsc.help/*
 *://*.olidka.pics/*
 *://*.oliej.com/*
 *://*.olikast.com/*
@@ -276689,6 +276709,7 @@
 *://*.sendebundanyararlanhizmetedevlet.com/*
 *://*.sendebunlardanhepkazandin.com/*
 *://*.sendebunubilirsen.cfd/*
+*://*.sendeburadabizekatilirsin.com/*
 *://*.sendeburadagrantiniall.net/*
 *://*.sendeburadakal.net/*
 *://*.sendeburadakalbenimle.net/*
@@ -317221,6 +317242,7 @@
 *://*.tyzgw.cn/*
 *://*.tz6.org/*
 *://*.tzebttgldkbrdavrz.shop/*
+*://*.tzeruq.help/*
 *://*.tzgl.org/*
 *://*.tziraatc.com/*
 *://*.tzjeupvk.com/*
@@ -317391,6 +317413,7 @@
 *://*.ucczzluk-zamanni-gelldi.com/*
 *://*.ucea1o1.net/*
 *://*.ucegkfzrt.com/*
+*://*.ucexoc.help/*
 *://*.ucfitx.com/*
 *://*.ucgunicindeal.info/*
 *://*.ucgunicindeal.online/*
@@ -318559,6 +318582,7 @@
 *://*.unfollowtr.com/*
 *://*.unforgettableoffers.com/*
 *://*.ungelatinizable.com/*
+*://*.unglan.help/*
 *://*.ungov.org/*
 *://*.unhanorarse.info/*
 *://*.unhooper.com/*
@@ -324518,6 +324542,7 @@
 *://*.vbcapitalizm.live/*
 *://*.vbcheck-onlineislemler.com/*
 *://*.vbchkioi.su/*
+*://*.vbcluy.help/*
 *://*.vbcn768347.click/*
 *://*.vbcnmds.click/*
 *://*.vbdfhjafsnfasf.xyz/*
@@ -326604,6 +326629,7 @@
 *://*.vhspvkpjssyhxay.ru/*
 *://*.vhsyofgq.com/*
 *://*.vhtevltbqxqlemyl2w.com/*
+*://*.vhtfzq.help/*
 *://*.vhucqggjgth.net/*
 *://*.vhuenilodge.co.za/*
 *://*.vhuoqy.top/*
@@ -344880,6 +344906,7 @@
 *://*.xpyxucpfyleqaqciqcqdwotkzl.info/*
 *://*.xpzzhgsz.xyz/*
 *://*.xq6a.com/*
+*://*.xq72pmz.click/*
 *://*.xqdafqfga-rqfqxaffa-xwtag.buzz/*
 *://*.xqdayefsc.com/*
 *://*.xqddwe-xqdgfew-cwxe.space/*
@@ -353363,6 +353390,7 @@
 *://*.ypk-rd.online/*
 *://*.ypkbankasi.com/*
 *://*.ypkcrediymobl.com/*
+*://*.ypkghd.help/*
 *://*.ypkias.com/*
 *://*.ypklmmbmceleray.net/*
 *://*.ypkonlinesubesi.com/*
@@ -354743,6 +354771,7 @@
 *://*.zanaatgaranti.xyz/*
 *://*.zanbntrs.click/*
 *://*.zancetom.com/*
+*://*.zancgj.help/*
 *://*.zandelshop.com/*
 *://*.zandorfaniskalyoniskapramintarnoskarya.net/*
 *://*.zandrelitho.xyz/*
