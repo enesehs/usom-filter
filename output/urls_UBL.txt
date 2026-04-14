@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-14 17:01:59 UTC
-! Total: 358339 rules
+! Last modified: 2026-04-14 18:54:16 UTC
+! Total: 358353 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -78123,6 +78123,7 @@
 *://*.clubesthetic.top/*
 *://*.clubhouse.site/*
 *://*.clubinfo.io/*
+*://*.clubline.cc/*
 *://*.clublogos.io/*
 *://*.clubmanager.net.ar/*
 *://*.clubrobinssonhotels.com/*
@@ -154883,6 +154884,7 @@
 *://*.hatirda-kalangibi-buradan-serice-gorunduler.top/*
 *://*.hatirimadusunce.net.tr/*
 *://*.hatirladiginiz.com/*
+*://*.hatirladigizgibi.com/*
 *://*.hatirladinmibeni.cfd/*
 *://*.hatirlatan-saatler-basladi-devamli-yeniden.com/*
 *://*.hatirlatildi-guzel-gunler.sbs/*
@@ -156383,6 +156385,7 @@
 *://*.hdsfweqdt.sbs/*
 *://*.hdsgmg.top/*
 *://*.hdshdsggsdgds.net/*
+*://*.hdshmdl.online/*
 *://*.hdshzli-kgmcgsx.com/*
 *://*.hdsizbsvrkmpysizlerdenmsnizzzz.space/*
 *://*.hdsjfkgsadoghdsiougds.space/*
@@ -172777,6 +172780,7 @@
 *://*.ihsanveyardimvakfi.com.tr/*
 *://*.ihsanyardimi.org/*
 *://*.ihsblgrp.com/*
+*://*.ihsdgfdsnf2.click/*
 *://*.ihsmedya.com/*
 *://*.ihtantakildsrmedenradara.click/*
 *://*.ihtiyabasvurudepartmaniv.com/*
@@ -197063,6 +197067,7 @@
 *://*.katiloduluhemencutesendealhediyeseninolsuntoday.net/*
 *://*.katiloffkampanyasencutestar.net/*
 *://*.katiloumet-turkey.xyz/*
+*://*.katilsamalar.sbs/*
 *://*.katilsendekazan.com/*
 *://*.katilsendeteb2024.com.tr/*
 *://*.katilsendeteb2024.xyz/*
@@ -203201,6 +203206,7 @@
 *://*.krd-zamni-gldi.com/*
 *://*.krd0zrt.xyz/*
 *://*.krdandfgsadasd.shop/*
+*://*.krdanlardansan.click/*
 *://*.krdanlardansanlardan.shop/*
 *://*.krdbasvrssai.net/*
 *://*.krdbasvurum.net/*
@@ -225783,6 +225789,7 @@
 *://*.mx24.eu/*
 *://*.mx3-rewc-state.com/*
 *://*.mx365server-officecrosoft365.com/*
+*://*.mx7q2pv9.click/*
 *://*.mxa-host.net/*
 *://*.mxan2-5xanck22o1asdcqw.cloud/*
 *://*.mxayenereservation.net/*
@@ -277744,6 +277751,7 @@
 *://*.sepetteguncelindirimler.com.tr/*
 *://*.sepetteguven.com/*
 *://*.sepetteguvence.com.tr/*
+*://*.sepetteguvence.online/*
 *://*.sepetteguvenilirurunl3r.xyz/*
 *://*.sepetteguvenlihizmet.com/*
 *://*.sepettehazir.xyz/*
@@ -301985,6 +301993,7 @@
 *://*.teruakisakoda.com/*
 *://*.terugbetaling.online/*
 *://*.terwea.com/*
+*://*.terymar.com/*
 *://*.terziibo.click/*
 *://*.terzimev.com/*
 *://*.tesa1.net/*
@@ -303635,6 +303644,7 @@
 *://*.tinthethaoi.com/*
 *://*.tintinurl.live/*
 *://*.tintuchoahau.com/*
+*://*.tintvera.makeup/*
 *://*.tinurli.com/*
 *://*.tinurll.com/*
 *://*.tinxselz.net/*
@@ -315576,6 +315586,7 @@
 *://*.turkiyeonlinebasvurumerkezi.org/*
 *://*.turkiyeonlinedestek.com/*
 *://*.turkiyeonlinehaber.com/*
+*://*.turkiyeonlinehub.com/*
 *://*.turkiyeonlinepandemidestegi.com/*
 *://*.turkiyeonlinesatis.com/*
 *://*.turkiyeotomobilhizmetleri.net/*
@@ -319169,6 +319180,7 @@
 *://*.uponunilateral.top/*
 *://*.upormthdw.com/*
 *://*.upoter.com/*
+*://*.uppdatefile.com/*
 *://*.upperalign.top/*
 *://*.upperalternate.top/*
 *://*.upperdarby26.com/*
@@ -329605,10 +329617,12 @@
 *://*.wallonie.museum/*
 *://*.wallorthdox.top/*
 *://*.wallpapercase.com/*
+*://*.wallpapermacos.com/*
 *://*.wallpapersave.com/*
 *://*.wallpeacefulplatinum.com/*
 *://*.wallproj.com/*
 *://*.wallproximate.top/*
+*://*.wallspaceapp.com/*
 *://*.wallstproperties.com/*
 *://*.wally02.org/*
 *://*.wallymac.com/*
