@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-14 12:53:54 UTC
-# Toplam: 448903 Domain
+# Son Güncelleme: 2026-04-14 14:44:07 UTC
+# Toplam: 448924 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -598,6 +598,7 @@
 050l28t.duckdns.org
 05122024bntr.com
 051wh4.duckdns.org
+052201ksmc569s.com
 05221555214250.duckdns.org
 05284oh.t68f3k.cn
 052f8842-fb28-4251-8759-78148e037ada-00-1n4dwrobtewcu.worf.replit.dev
@@ -42137,6 +42138,7 @@ aldinxoami.xyz
 aldinyadaaldin.com
 aldinyeniadres.net
 aldinyeniyilkampanyasi.shop
+aldinyepyenicay.org
 aldinz-aldn-tkefld-burds.store
 aldinz-taldisn-tkefld-burds.store
 aldiordaakt.com
@@ -91894,6 +91896,7 @@ cagrrimerkeeziievden.com
 cagrrimerkeziis.com
 cahannamerl.duckdns.org
 cahatvx.duckdns.org
+cahayailmukreatif.web.id
 cahde-palazzorezervasyon.com
 cahde-palazzorezervasyonn.com
 cahdepalazo.com
@@ -119579,7 +119582,6 @@ dentisttariff.top
 dentistvicinity.top
 dentkgiriscep.co.vu
 dentkvck2tekgiris.ga
-dentpedia.com.tr
 dentrigid.top
 dentsfirst.com
 dentsivd.com
@@ -144336,6 +144338,7 @@ ekremkasmeroglux.tk
 ekremmutlu.com
 ekremvebakvaruma.online
 ekrkskajdjrjsj.xyz
+ekrnniz-geri-dnk-srgu.sbs
 ekrntrf.dev
 ekrolie.com
 eks-kapidafirsat101.site
@@ -173352,6 +173355,7 @@ gelsfkwfgww.click
 gelsinfirsa0tuirunmizsimd.com
 gelsinhemen09domain.com
 gelsinhizlisindansiparislerin.xyz
+gelsinhytbldigigbi.sbs
 gelsinkapimahemen.xyz
 gelsinmindeyikz7jnaah.com
 gelsinsimdifirsat.com
@@ -183617,6 +183621,7 @@ gustescharge.com
 gustomimarlik.com
 gustorlivepoint.online
 gustreverv-comlp.com
+gustro-bntr.club
 gutagony.top
 gutcordial.top
 gutentagmeinliebeff.com
@@ -203127,6 +203132,7 @@ hizlidolumlardasin.net
 hizlidomcekimucret.net
 hizlidonemgecisleri.sg-host.com
 hizliduyuru.website
+hizliebkdaiosyebus.store
 hizliehrmenbdsurgyjkle.online
 hizliehrmenbdsurgyjkle.store
 hizliekstra-market-alisveris.com
@@ -213290,6 +213296,7 @@ idsejaggyc.duckdns.org
 idservappsdatainfo.ddns.net
 idservice-amazon.com
 idsgigsdidsg-fsanfasfas.cfd
+idshftysdfjs1.shop
 idsloqyfqv.duckdns.org
 idsprozz.buzz
 idsspmjiev.duckdns.org
@@ -225490,6 +225497,7 @@ isnbkartw.blogspot.com
 isndjdjshasldkshahadjdjs.cyou
 isntanbulkart.net
 isntbulkratbkaiyeykuleme.net
+isntflfbsv.com
 isntflkfddersm.com
 isntnblkart.com
 isntnblkartt.com
@@ -227508,6 +227516,7 @@ istnabulkartlar.net
 istnanbllkart.com
 istnasbdulbursdolrmsd.shop
 istnasbdulbursdolrmsd.store
+istnaslshaydd.com
 istnb-lkrt.net
 istnb-xbrysel.werenxrd.pro
 istnb.net
@@ -264817,6 +264826,7 @@ manoodr.top
 manorle.top
 manorstudios.net
 manovediahemen.net.tr
+manpages.wtf
 manpowerfeedapi.azurewebsites.net
 manpowerfeedapijson.azurewebsites.net
 manramekarnam.com
@@ -271864,6 +271874,7 @@ mlsbest.blogspot.com
 mlsfasr616.weebly.com
 mlsksls-aldlmsl-smsnsa.sbs
 mlsn1.xyz
+mlsrlerlereadal.com
 mlsvq0a4qvadab58s4ibgxw.ddns.net
 mltbaz.click
 mltlvtemmuzweb.com
@@ -302737,6 +302748,7 @@ p9ijdeol.duckdns.org
 p9kn6nkqj.duckdns.org
 p9lm5itrk.duckdns.org
 p9n89.onsens13.com
+p9x2qmm7.click
 p9yys7.duckdns.org
 pNUMWWDLjPmzg.ddns.net
 pa-crtdomain.info
@@ -322229,6 +322241,7 @@ pub-2149a070e76f4ccabd67228f754768dc.r2.dev
 pub-2440c5ea3d904ef785a10a8728fbb7f4.r2.dev
 pub-31a116fb226d4dfaa2004eef764a6bff.r2.dev
 pub-387efa48609e4a64bfab8ba5ddf30032.r2.dev
+pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
 pub-48d70f931b7a4d90a47cbb32937dbd40.r2.dev
 pub-49b8b16db7834bcbb6dff151e37ba5ab.r2.dev
 pub-4a2f0b51363249eab0a66035b5dda49c.r2.dev
@@ -322240,6 +322253,7 @@ pub-626890a630d8418ea6c2ef0fa17f02ef.r2.dev
 pub-65276a8cd6da49e782a91b9bd80f51d7.r2.dev
 pub-6ae0497c224b4ee497b9d8906da627d5.r2.dev
 pub-71997e79ae6b4983830507f5999f7668.r2.dev
+pub-757471403cd04d778e6066c5164bbbf8.r2.dev
 pub-7c9b7b0164b0481a9ca111c28a2c2de9.r2.dev
 pub-7dcf3f68279c48d487e72ad644e6ace0.r2.dev
 pub-7efc089d5da740a994d1472af48fc689.r2.dev
@@ -322248,6 +322262,7 @@ pub-8ba7be1893df42c39afc6fe1ebb97863.r2.dev
 pub-8c469686ecb34304864e58edf5ab4597.r2.dev
 pub-945c471b2637475ca2c0967787c5e5b8.r2.dev
 pub-959ff112c2eb41ce8f7b24e38c9b4f94.r2.dev
+pub-9b6f4716cfbc4c29a0eece569addcb13.r2.dev
 pub-9ee1bf400ea645748830bc408aa2b88a.r2.dev
 pub-b7ce0512b9744e2db68f993e355a03f9.r2.dev
 pub-bcead69ec85a44b2a122c3f464248544.r2.dev
@@ -325738,6 +325753,7 @@ qqtqvehldthppkg.ru
 qqu40cv.duckdns.org
 qquacontritioullisimpo.com
 qquqqu.duckdns.org
+qqvareklarngirisdijitall80yil.space
 qqvyvpm.duckdns.org
 qqvzftbpcr.duckdns.org
 qqwedsfrqeqr.net
@@ -336706,6 +336722,7 @@ sadaclkdakslckadscas.sbs
 sadadasfasf2.click
 sadadsdascxzzxzx.s3.eu-central-1.amazonaws.com
 sadadstv.net
+sadaedasdsabsrvu.sbs
 sadaferyadtatam.site
 sadaffiliate.top
 sadahahagada.site
@@ -365025,6 +365042,7 @@ stanleylegendaryfirsatlarlaaa.techsolve.sbs
 stanleylorvex.xyz
 stanleylucent.xyz
 stanleylumen.xyz
+stanleylyra.xyz
 stanleymarket.biz.tr
 stanleymarket.info.tr
 stanleymarket.net.tr
@@ -386732,6 +386750,7 @@ transitionalslack.top
 transitionaltropical.top
 transitionativate.top
 transitionpremature.top
+transitopalermo.com
 translate99.duckdns.org
 translaterevolt.top
 translatesplit.com
@@ -405023,6 +405042,7 @@ vatkerokeasdo23sdkeasdpflekscoeldekasdowe1asde.com
 vatmiddleeast.com
 vatnadasvsinvl.blogspot.com
 vatra.at
+vatrobran.hr
 vatwx4wx.click
 vaude-visions.com
 vaudelstorm.pro
@@ -441595,6 +441615,7 @@ yonlendir.itemdb.com
 yonlendir.link
 yonlendir9659.online
 yonlendirbabacan1.site
+yonlendirbeni.club
 yonlendirbeni.net
 yonlendirbeni.online
 yonlendirbenibebek.my-homeip.com
