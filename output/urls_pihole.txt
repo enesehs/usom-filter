@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-14 22:34:03 UTC
-# Toplam: 448999 Domain
+# Son Güncelleme: 2026-04-14 23:32:42 UTC
+# Toplam: 449001 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -42036,6 +42036,7 @@ aldinalinbunlarkacmazindirimler.sbs
 aldinalmadimdemiizle.site
 aldinalmadintemmuz.space
 aldinarefekampanyasi.xyz
+aldinayniguncay.site
 aldinbunualdin.click
 aldincarsambatesterekampanyasi.xyz
 aldincaypaketleri.net
@@ -197217,6 +197218,7 @@ hepsiburadakargo.com
 hepsiburadakargom.com
 hepsiburadakasim.com
 hepsiburadakep-adresim.com
+hepsiburadakepim.com
 hepsiburadakepim.net
 hepsiburadal.com
 hepsiburadalojistik.com
