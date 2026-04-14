@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-14 08:23:56 UTC
-! Total: 358242 rules
+! Last modified: 2026-04-14 10:04:03 UTC
+! Total: 358245 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -76414,6 +76414,7 @@
 *://*.cidadedeolhao-id843.world/*
 *://*.ciddenolabilirmiacaba.online/*
 *://*.ciddi.click/*
+*://*.ciderurginsx.com/*
 *://*.cidufitojex.eu/*
 *://*.cidvtegaxoevwxeyn.com/*
 *://*.ciekawostkihistoryczne.in/*
@@ -213956,6 +213957,7 @@
 *://*.markettrcepte.org.tr/*
 *://*.markettrendingcenter.com/*
 *://*.markettrunner.com/*
+*://*.markettscope.com/*
 *://*.markettsignal.com/*
 *://*.marketurunlerindekidegisenfiyatlarburada.cfd/*
 *://*.marketuygunu.com/*
@@ -333710,6 +333712,7 @@
 *://*.world76ozel.com/*
 *://*.world76yapkredi.com/*
 *://*.world76yilozel.com/*
+*://*.worldassitencia.com/*
 *://*.worldatdoor.in/*
 *://*.worldawaitsgo.com/*
 *://*.worldbankloan.com/*

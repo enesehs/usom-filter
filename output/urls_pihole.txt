@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-14 08:23:56 UTC
-# Toplam: 448845 Domain
+# Son Güncelleme: 2026-04-14 10:04:03 UTC
+# Toplam: 448849 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -99138,6 +99138,7 @@ cicumsanceevok.top
 cidadedeolhao-id843.world
 ciddenolabilirmiacaba.online
 ciddi.click
+ciderurginsx.com
 cidufitojex.eu
 cidvtegaxoevwxeyn.com
 ciecie-amazon.duckdns.org
@@ -265549,6 +265550,7 @@ markettrcepte.net.tr
 markettrcepte.org.tr
 markettrendingcenter.com
 markettrunner.com
+markettscope.com
 markettsignal.com
 marketurunlerindekidegisenfiyatlarburada.cfd
 marketuygunu.com
@@ -339459,6 +339461,7 @@ sahibinden.e-onayla.net
 sahibinden.e-online-alisverislerim.sa.com
 sahibinden.e-online-alisveristr.sa.com
 sahibinden.e-online-odeme.sa.com
+sahibinden.e-online-satici-pazari.com
 sahibinden.e-online-satici.com
 sahibinden.e-online-satisi.com
 sahibinden.e-online-tr.net
@@ -411559,6 +411562,7 @@ w4si1ve8s.duckdns.org
 w4wc8t7s.duckdns.org
 w4yn3st0ne.xyz
 w4zovchv.duckdns.org
+w51w.worldassitencia.com
 w549c.rewhe.ru
 w5889acv.duckdns.org
 w5cd4lo.duckdns.org
