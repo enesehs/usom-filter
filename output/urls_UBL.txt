@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-15 16:54:04 UTC
-! Total: 358525 rules
+! Last modified: 2026-04-15 17:56:46 UTC
+! Total: 358538 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -11794,6 +11794,7 @@
 *://*.762haber.site/*
 *://*.763222.site/*
 *://*.763642364273552.com/*
+*://*.76456645645.online/*
 *://*.764848166818161646464.online/*
 *://*.765-4434343-4343.cloud/*
 *://*.7654456543.online/*
@@ -28473,6 +28474,7 @@
 *://*.aldinbuguncay.site/*
 *://*.aldinbunualdin.click/*
 *://*.aldincarsambatesterekampanyasi.xyz/*
+*://*.aldincaylaripaket6.store/*
 *://*.aldincaypaketleri.net/*
 *://*.aldincaypaketli6.net/*
 *://*.aldinda1.com/*
@@ -163429,6 +163431,7 @@
 *://*.hizli-otokiralama.rest/*
 *://*.hizli-paribu.com/*
 *://*.hizli-ppaket-bim-bireysel-tl.com/*
+*://*.hizli-pratik.click/*
 *://*.hizli-pttavm-hgogs.com/*
 *://*.hizli-pttavm-ogshgs.com/*
 *://*.hizli-ptthgs-avm-bayisi.tk/*
@@ -168795,6 +168798,7 @@
 *://*.hvewokdem.org/*
 *://*.hvfqmj.top/*
 *://*.hvg.si/*
+*://*.hvg3729.click/*
 *://*.hvgs-casorgu.net/*
 *://*.hvgscanimturkym.com/*
 *://*.hvgsdecasodayz.net/*
@@ -169316,6 +169320,8 @@
 *://*.hzhz.trade/*
 *://*.hzhzhlitrnn.net/*
 *://*.hzhzhllzlitrrrn.net/*
+*://*.hziligeciseehsburs.online/*
+*://*.hziligeciseehsburs.store/*
 *://*.hzir0x10.com/*
 *://*.hziranindrm.com/*
 *://*.hzirankmpanylrii.com/*
@@ -172886,6 +172892,7 @@
 *://*.ihtiyaclariniziertelemeyin.com.tr/*
 *://*.ihtiyacteklifal.site/*
 *://*.ihtiyacvarotele.org/*
+*://*.ihtiyacyaninda.click/*
 *://*.ihtiyakredi.cfd/*
 *://*.ihtquajm.com/*
 *://*.ihtsusxcwkhnmdd.com/*
@@ -190664,6 +190671,7 @@
 *://*.k-kartaidat.site/*
 *://*.k-kent.tk/*
 *://*.k-kiosk.com/*
+*://*.k-kvk-yt.cfd/*
 *://*.k-pr---l----cv-ad----ia.icu/*
 *://*.k-pr---l----cv-ad----ia1.icu/*
 *://*.k-pr---l----cv-ad----ia10.icu/*
@@ -190696,6 +190704,7 @@
 *://*.k0bidestekl.cfd/*
 *://*.k0bidestekleri.click/*
 *://*.k0bihizmet.click/*
+*://*.k0bihizmetl.click/*
 *://*.k0bihizmetler.click/*
 *://*.k0bimerkezi.click/*
 *://*.k0bimerkezl.click/*
@@ -204475,6 +204484,7 @@
 *://*.ktv2a.com/*
 *://*.ktxhome.com/*
 *://*.ku-veyt-technology.cloud/*
+*://*.ku1jksdfshdf.lol/*
 *://*.ku8616.cn/*
 *://*.kuafor-guzelliksalonum.com/*
 *://*.kuafor-tatar.net/*
@@ -214423,6 +214433,7 @@
 *://*.masakdenetim.com/*
 *://*.masakdenetim.org/*
 *://*.masakdosya.net/*
+*://*.masakdosyabilgi.org/*
 *://*.masakdosyagovtr.org/*
 *://*.masakdosyakontrol.org/*
 *://*.masakdosyam.org/*
@@ -291828,6 +291839,7 @@
 *://*.stanleyxerion.xyz/*
 *://*.stanleyyakinda.xyz/*
 *://*.stanleyzenon.xyz/*
+*://*.stanleyzenora.xyz/*
 *://*.stanleyzenvor.xyz/*
 *://*.stanleyzeropoint.xyz/*
 *://*.stanleyzorion.xyz/*
@@ -354669,6 +354681,7 @@
 *://*.z2a.digital/*
 *://*.z2adigital.cloud/*
 *://*.z2digital.cloud/*
+*://*.z2xq7mv9r.sbs/*
 *://*.z37jtkdzff.com/*
 *://*.z3d8ybfqlj6e15fz.com/*
 *://*.z3w.us/*
