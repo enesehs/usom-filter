@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-15 10:04:49 UTC
-! Total: 358449 rules
+! Last modified: 2026-04-15 11:44:03 UTC
+! Total: 358455 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -8482,6 +8482,7 @@
 *://*.353335455.cloud/*
 *://*.3534655.site/*
 *://*.353934.com/*
+*://*.354046793.net/*
 *://*.354157841634165413545431.com/*
 *://*.3542233342543478.com/*
 *://*.3543432343343.cloud/*
@@ -65518,6 +65519,7 @@
 *://*.bruemald.top/*
 *://*.bruisegruesome.best/*
 *://*.bruisenegligible.top/*
+*://*.brulqave.vu/*
 *://*.brumelavodi.icu/*
 *://*.brunchsubordinate.top/*
 *://*.bruneivays9x.digital/*
@@ -139080,6 +139082,7 @@
 *://*.get-mldjourney.site/*
 *://*.get-mobil.com.tr/*
 *://*.get-ms.info/*
+*://*.get-odeme-onay.online/*
 *://*.get-odeme-secury-param-guvende.ml/*
 *://*.get-odeme.com/*
 *://*.get-online-alisveris.com.tr/*
@@ -149212,6 +149215,7 @@
 *://*.haber360tc2026.sbs/*
 *://*.haber360tr.cfd/*
 *://*.haber360tr.com/*
+*://*.haber360tr.shop/*
 *://*.haber364tr.live/*
 *://*.haber365-basvurusorguekrani.xyz/*
 *://*.haber365.club/*
@@ -277692,7 +277696,9 @@
 *://*.sepetimde-aktif.com.tr/*
 *://*.sepetimde-ode.com.tr/*
 *://*.sepetimde.xyz/*
+*://*.sepetimdealisveris.online/*
 *://*.sepetimdealisveris.shop/*
+*://*.sepetimdealisveris.site/*
 *://*.sepetimdealisveris.store/*
 *://*.sepetimdealisverisim.store/*
 *://*.sepetimdealisverislerim.online/*
