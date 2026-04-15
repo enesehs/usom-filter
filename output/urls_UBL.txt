@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-15 14:28:03 UTC
-! Total: 358513 rules
+! Last modified: 2026-04-15 15:56:26 UTC
+! Total: 358522 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9227,6 +9227,7 @@
 *://*.42vergi-iade.com/*
 *://*.42web.io/*
 *://*.43017-coinbase.com/*
+*://*.43078387444.net/*
 *://*.4312.cloud/*
 *://*.432-5235645-3456243-34.com/*
 *://*.4320kwsonfisrk.shop/*
@@ -12137,6 +12138,7 @@
 *://*.7oo4hxt5haih5.life/*
 *://*.7p.game/*
 *://*.7pqlw1ox3y.ru/*
+*://*.7pzxm2q4.cfd/*
 *://*.7q2xk9m4fbb8zzna.cfd/*
 *://*.7qxm2k9f4b8n3z6ha.sbs/*
 *://*.7r0i6gkcm1.top/*
@@ -28615,6 +28617,7 @@
 *://*.aldnaldnnnnnozlfrstlrkpidaaa.tech/*
 *://*.aldnaldnpzrts.store/*
 *://*.aldngeliadi.art/*
+*://*.aldnhizlifirstlaryakindaherzamansizlerleyiz.com.tr/*
 *://*.aldnhizlifirstlaryakindasizlerle.com.tr/*
 *://*.aldnn-aldnnxmrktindrmlleryle.xyz/*
 *://*.aldnnaldlnazlflrstlrr.com/*
@@ -126598,6 +126601,7 @@
 *://*.fibabnaka.com/*
 *://*.fibabnk.com/*
 *://*.fibabnka.com/*
+*://*.fibaborsamarket.com/*
 *://*.fibacekilis.com/*
 *://*.fibacekilis.ml/*
 *://*.fibacekilis2022.ml/*
@@ -160016,6 +160020,7 @@
 *://*.hggh1.site/*
 *://*.hggmoviehxd.net/*
 *://*.hggmoviehxw.com/*
+*://*.hggmsldm.cfd/*
 *://*.hggsborcccodme752.net/*
 *://*.hggsguncelodemee.gq/*
 *://*.hggshgss.com/*
@@ -163891,6 +163896,7 @@
 *://*.hizlidolumlardasin.net/*
 *://*.hizlidomcekimucret.net/*
 *://*.hizliduyuru.website/*
+*://*.hizliebkdaiosyebus.online/*
 *://*.hizliebkdaiosyebus.store/*
 *://*.hizliehrmenbdsurgyjkle.online/*
 *://*.hizliehrmenbdsurgyjkle.store/*
@@ -205897,6 +205903,7 @@
 *://*.kxlnum.com/*
 *://*.kxlxl.click/*
 *://*.kxm29r.click/*
+*://*.kxm29r4q.cfd/*
 *://*.kxmonlineplatform.tk/*
 *://*.kxmpanyabasladi.com.tr/*
 *://*.kxntkrt.net/*
@@ -252705,6 +252712,7 @@
 *://*.poluninink.ru/*
 *://*.polusolu.site/*
 *://*.polvaneda.top/*
+*://*.polvexia.click/*
 *://*.polweruik.xyz/*
 *://*.polybreadphx.com/*
 *://*.polymorphis.top/*
@@ -341250,6 +341258,7 @@
 *://*.xn--aranti-o5a.com/*
 *://*.xn--arantibbva-vpb.com/*
 *://*.xn--arbu-9ra22a.com/*
+*://*.xn--ardsamburadncacalsyrz-1gdb.shop/*
 *://*.xn--aribu-ipb.com/*
 *://*.xn--aribu-to1b.com/*
 *://*.xn--arkteri-aldn-aldn-42b92hfa16g.online/*
