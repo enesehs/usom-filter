@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-15 22:30:44 UTC
-# Toplam: 449204 Domain
+# Son Güncelleme: 2026-04-15 23:31:40 UTC
+# Toplam: 449206 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -328257,6 +328257,7 @@ randevularimial.net
 randevularimm.online
 randevulariniz.click
 randevularinizalin.online
+randevulug.com
 randevuluislemler.com
 randevum-nvi.com
 randevum-portal-inv.online
@@ -390161,6 +390162,7 @@ trthaber-web.com
 trthaber.cf
 trthaber.ml
 trthaber.mypressonline.com
+trthaber256.shop
 trthaberbasvuru.com
 trthaberci.com
 trthabergov-tr.com
