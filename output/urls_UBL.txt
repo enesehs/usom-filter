@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-15 04:34:36 UTC
-! Total: 358373 rules
+! Last modified: 2026-04-15 06:25:12 UTC
+! Total: 358379 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -33985,6 +33985,7 @@
 *://*.arackargo.com/*
 *://*.arackayid.net/*
 *://*.arackerast.ru/*
+*://*.arackgsyklemekontr.online/*
 *://*.arackhlsarmkrtyrmmm.com/*
 *://*.arackiirala369.com.tr/*
 *://*.arackilometre.site/*
@@ -38739,6 +38740,7 @@
 *://*.avskiralikaraclar.com.tr/*
 *://*.avskiralikaraclar.xyz/*
 *://*.avsonline.com.tr/*
+*://*.avsonline.net/*
 *://*.avsonlinee.com.tr/*
 *://*.avsonlinee.xyz/*
 *://*.avsonlinefilom.me/*
@@ -114895,6 +114897,7 @@
 *://*.elitizm11.com/*
 *://*.elitizm12.com/*
 *://*.elitizm14.com/*
+*://*.elitkurumsalfilo.com/*
 *://*.elitleworldsapanca.com/*
 *://*.elitpuro1.com/*
 *://*.eliumak.com/*
@@ -234470,6 +234473,7 @@
 *://*.odememmlklaibb.net/*
 *://*.odememobil.com.tr/*
 *://*.odemempaket.net/*
+*://*.odemen-guvende.com/*
 *://*.odemen.dev/*
 *://*.odemen.fun/*
 *://*.odemen.xyz/*
@@ -274610,6 +274614,7 @@
 *://*.sccslink.online/*
 *://*.scd.network/*
 *://*.scdeneme321.tk/*
+*://*.scdklclkasdklcsdca12x12.cyou/*
 *://*.scdn-cxense.com/*
 *://*.scdnya.com/*
 *://*.scdqwl.help/*
@@ -278423,6 +278428,7 @@
 *://*.servoniquee.com/*
 *://*.servsiteyhdjfnserv.co/*
 *://*.servsmobil.store/*
+*://*.servsnjethizmet.com/*
 *://*.servsonline.tk/*
 *://*.servsrg01.online/*
 *://*.servyxa.com/*
