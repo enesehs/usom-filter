@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-15 11:44:03 UTC
-# Toplam: 449090 Domain
+# Son Güncelleme: 2026-04-15 12:53:32 UTC
+# Toplam: 449104 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -256,6 +256,7 @@
 011122211011.duckdns.org
 01121200212102.duckdns.org
 0112120212012.duckdns.org
+011212sds1sd2d5da.com
 0116254-teaxmacc.com
 0116254team-acc.com
 0116254teamacc.com
@@ -92560,6 +92561,7 @@ candandestek.com
 candandestek.online
 candanfesirgeme.tk
 candangez.net
+candankandanbrdayz.xyz
 candatebigul.store
 candede.cf
 candede.ga
@@ -109031,6 +109033,7 @@ csdfcklsdcaskdla.cfd
 csdfcklsdcaskdla.sbs
 csdfklscklakldcaklssa.cfd
 csdfklscklakldcaklssa.sbs
+csdlxkl123lsalcdask432.cyou
 csdsadvvt-svvttt.com
 csdveirfsconfrim.com
 csec-03citizenverif.hopto.org
@@ -135291,6 +135294,7 @@ e-online-hadibakalim-isde-kampanya.ml
 e-online-iade-sistemi.ml
 e-online-iade.cf
 e-online-iade.com
+e-online-ilan.com
 e-online-islemler.sbs
 e-online-istikraraidatiadeleri.com
 e-online-istikrarcimeraidatlari.com
@@ -186607,6 +186611,7 @@ haberinfo.site
 haberinfo.xyz
 haberiniz-olsun.club
 haberiniz-olsun.life
+haberinkaynagi145.shop
 haberinmerkezi-tr.blogspot.com
 haberinolsolar.site
 haberinolsun.site
@@ -193096,6 +193101,7 @@ hayatbakis.site
 hayatbayilerimiz.is-best.net
 hayatbayram.online
 hayatbazenkapindabelirir.com
+hayatbiasdansasma.sbs
 hayatbilgin.name.tr
 hayatbim.com
 hayatbimaraton.org
@@ -226889,6 +226895,7 @@ istandakt.shop
 istandblbenim.net
 istandnz.net
 istanfckart.blogspot.com
+istanhemenp.com
 istanhemenp.net
 istanibkllkart.com
 istankxrtxs.net
@@ -227049,6 +227056,7 @@ istbrzma.online
 istbsabs.com
 istbsav.com
 istbsvnrsa.com
+istbsvrlhdml.com
 istbul-islemleri.digital
 istbulkartdolum.net
 istbulkrrt.net
@@ -247815,6 +247823,7 @@ kmdqj1.c1.biz
 kmdsannasx.click
 kmdsoserglymalss.duckdns.org
 kmdsqwewd.site
+kmdurumkontrol.web.app
 kmdurumkontrolu.firebaseapp.com
 kmdurumkontrolu.web.app
 kmdurumogrenme.web.app
@@ -266032,6 +266041,7 @@ masakdenetim.org
 masakdigital.base44.app
 masakdosya.net
 masakdosyagovtr.org
+masakdosyakontrol.org
 masakdosyam.org
 masakdosyasorgu.com
 masakdosyatakip.org
@@ -339637,6 +339647,7 @@ sahibinden.e-onayim.com
 sahibinden.e-onayla.net
 sahibinden.e-online-alisverislerim.sa.com
 sahibinden.e-online-alisveristr.sa.com
+sahibinden.e-online-ilan.com
 sahibinden.e-online-odeme.sa.com
 sahibinden.e-online-satici-pazari.com
 sahibinden.e-online-satici.com
@@ -377592,6 +377603,7 @@ teoresp.com
 teorija.rs
 teostic.com
 teoven.store
+tep-kampanyam.my-homeip.de
 tepco-co-jp.online
 tepecars.com
 tepeenerji.org
@@ -431981,6 +431993,7 @@ xpmsept.xyz
 xpnano091123.ddns.net
 xpnmebxyicnm.pw
 xpoalswwkjddsljsy.com
+xpogio.buzz
 xpohxglaoelovmo.ru
 xpolaxuszy.duckdns.org
 xpologistics.ga
@@ -445010,6 +445023,7 @@ zermnf.com
 zermnfl.com
 zernadoviku.com
 zernfl.com
+zernivok.vu
 zernixo.sbs
 zero-ehizlibasvur-girisyap-kayitol.com
 zero-hemenal-kurumsalgirisim-tolerance.com
