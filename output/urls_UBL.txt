@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-15 20:02:11 UTC
-! Total: 358543 rules
+! Last modified: 2026-04-15 21:39:54 UTC
+! Total: 358550 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12536,6 +12536,7 @@
 *://*.87654321-9004-1.live/*
 *://*.8765433774256.shop/*
 *://*.876565476879665875.xyz/*
+*://*.87676556756.net/*
 *://*.876soft.com/*
 *://*.8775.site/*
 *://*.877533213123.cloud/*
@@ -70123,6 +70124,7 @@
 *://*.bzc5wf2n9s.com/*
 *://*.bzcbnfejf.com/*
 *://*.bzcjmcxll.net/*
+*://*.bzdebrdansaglksorgsyprz.click/*
 *://*.bzden-zszdenz.online/*
 *://*.bzdndhackkmnnylrsdn.xyz/*
 *://*.bzeaxl.com/*
@@ -165686,6 +165688,7 @@
 *://*.hlqa1l5j7l52.icu/*
 *://*.hlrfsdvtls-dlcvt.com/*
 *://*.hlrrxvby.com/*
+*://*.hlsdksma.cfd/*
 *://*.hlsgcmeodmcler.net/*
 *://*.hlsgcodee.net/*
 *://*.hlsmvqiww.info/*
@@ -200143,6 +200146,7 @@
 *://*.kisiselbasvurumiademial.com/*
 *://*.kisiselbilgilendirme.com/*
 *://*.kisiselcepomobilimgirisllemenu.online/*
+*://*.kisiselgelisimvefarkindalik.shop/*
 *://*.kisiselgelisimvesosyalmedyayonetimi.xyz/*
 *://*.kisiselgelisimveteknolojikatlasi.xyz/*
 *://*.kisiselismenugirislem.online/*
@@ -264119,6 +264123,7 @@
 *://*.randevualportal.net/*
 *://*.randevualtr.com/*
 *://*.randevubas.net/*
+*://*.randevubelirle.com/*
 *://*.randevuburdskathizlis.store/*
 *://*.randevucaki.net/*
 *://*.randevucuhizmetleri.net/*
@@ -271028,6 +271033,7 @@
 *://*.saglikliyelp.com/*
 *://*.sagliknetbasvurulargovtr-saglikbakanligi.tk/*
 *://*.saglikodemelerinial.org/*
+*://*.saglikoncegelirr.com/*
 *://*.saglikpandemidestegi.com/*
 *://*.saglikpandemiyardim.com/*
 *://*.saglikramazan20bgb.net/*
@@ -297568,6 +297574,7 @@
 *://*.tapudsrksbrusad.com/*
 *://*.tapuharci.net/*
 *://*.tapuharciyatirs.net/*
+*://*.tapuhrsdhizebrusd.online/*
 *://*.tapuislemlerim.net/*
 *://*.tapuislemlerinizburadan.com/*
 *://*.tapulandiniz.net/*
