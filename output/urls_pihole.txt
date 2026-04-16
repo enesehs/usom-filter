@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-16 16:13:46 UTC
-# Toplam: 449320 Domain
+# Son Güncelleme: 2026-04-16 18:01:51 UTC
+# Toplam: 449332 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -46104,6 +46104,7 @@ anindaguveniliralisveris.online
 anindaguveniliralisverislersongun.com.tr
 anindaguveniliralisverislersongun.xyz
 anindaguzelikleri.com
+anindahaber.shop
 anindahadigelseneeesizde.com.tr
 anindahasarsrgla.net
 anindahattinizakredi.com
@@ -56375,6 +56376,7 @@ b-asvurudeste-khizmet.com
 b-b-v-a-firsatlari.my-homeip.com
 b-b-v-a-kampanya.my-homeip.com
 b-b-v-a-online.click
+b-b-v-a-s-u-be.click
 b-b-v-a.online
 b-b-v-a.shop
 b-b-vtr-ekran-web.za.com
@@ -96688,6 +96690,7 @@ ceptegirisinizdecebinizde.b-cdn.net
 ceptegirisonline.online
 ceptegirisonline.xyz
 ceptegiristebonline.life
+ceptehaber.shop
 ceptehaziranozel.shop
 ceptehazirkredi.com
 ceptehediyeinternetsizinle.epizy.com
@@ -174085,6 +174088,7 @@ geriden-duygu-severler-bizlerle-orada.com
 geridengelendvmfrst.com
 geridevletiadesi.com
 geridnk-ia-de-islemi-sorgulama.sbs
+geridnk-sorogreniniz.sbs
 geridon-uk-sorgulariniz.sbs
 geridonuk-islemlerisorgula.sbs
 geridonuk-sorgulama-islemleri.org
@@ -186691,6 +186695,7 @@ haberhome.online
 haberi.my-homeip.com
 haberim.fun
 haberimguncel.fun
+haberimtry2.shop
 haberimvar.fun
 haberimvar.life
 haberimvar.site
@@ -244550,6 +244555,7 @@ kepimaktif-tekno-sa.com
 kepimaktif.net
 kepimaktifhepsiburada.net
 kepimdogrulama.com
+kepimguncel.com
 kepimguncel.net
 kepimguncelleme-hepsi-burada.com
 kepimyeni.com
@@ -262007,6 +262013,7 @@ m-t-e-b-online.com
 m-t-v-odemeler.com
 m-t-v-odemeleri.tk
 m-t-vmtvmtvmtvdairesi.site
+m-talepbasuvuru.duckdns.org
 m-tb0nline.ddns.net
 m-tb0verify.ddns.net
 m-tb3verify.ddns.net
@@ -265538,6 +265545,7 @@ market15.duckdns.org
 market24expert.site
 market58.vendivity.com
 market73jj3d-323.duckdns.org
+marketa101devindirim.store
 marketahahaha.duckdns.org
 marketaktuel.info.tr
 marketaktuel.net
@@ -267375,6 +267383,7 @@ mbl-aciikdeniz-newwevents.net
 mbl-acikdeniz-newevents.net
 mbl-dnz.my-homeip.com
 mbl-grant.click
+mbl-grnt.click
 mbl-vibisubeislemleri.com
 mblbsvr.sbs
 mbldevltgovtrxv1.art
@@ -339024,6 +339033,7 @@ sahibinden-online-get-param-guvende.com
 sahibinden-online-get-param-guvende.hizmetler-s.com
 sahibinden-online-gets.tk
 sahibinden-online-ilan.x10.mx
+sahibinden-online-islemler.ct.ws
 sahibinden-online-param-gvnd.tk
 sahibinden-online-param.guvende-security-hizmet.org
 sahibinden-online-tr.com
@@ -360088,6 +360098,7 @@ sonbaharinsicaksurprizi1.com
 sonbaharinsicaksurprizi2018.com
 sonbaharinsicaksurprizi4.com
 sonbaharinsicaksurprizi6.com
+sonbaharkampanyalari.rf.gd
 sonbaharkampanyasi.site
 sonbaharkampanyasibitiyorkatilkazan.com
 sonbaharkampanyasibitmedenyetis.com
@@ -445544,6 +445555,7 @@ zhzjj.in
 zi-chem.co
 zi-destekhibesi.com
 zi-giris-mpbil.sbs
+zi-ra-a-t-web-online.my-homeip.de
 zi01.ddns.net
 zi0cix8fd.duckdns.org
 zi420.duckdns.org
