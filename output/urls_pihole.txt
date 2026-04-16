@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-16 04:40:42 UTC
-# Toplam: 449208 Domain
+# Son Güncelleme: 2026-04-16 06:26:04 UTC
+# Toplam: 449212 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3717,6 +3717,7 @@
 12111237721231234.cloud
 1212121455598909990.xyz
 1212121455598909992.xyz
+121214545899888991.duckdns.org
 12122223366555990.xyz
 12122223366555994.xyz
 12122223366555995.xyz
@@ -6331,6 +6332,7 @@
 19856552280.online
 19856552282.online
 19865616111.cloud
+1986891896.duckdns.org
 1988.hopto.org
 198j50tmm.duckdns.org
 199.231.191.254
@@ -325818,6 +325820,7 @@ qonnfp.wnrathttb.ru
 qopeeplollscwwc.ru
 qopnldbyvs.duckdns.org
 qornas.com
+qornazek.com
 qornila.click
 qorun.shop
 qorva.sbs
@@ -328259,6 +328262,7 @@ randevularimm.online
 randevulariniz.click
 randevularinizalin.online
 randevulug.com
+randevulugunum.com
 randevulugunun.com
 randevuluislemler.com
 randevum-nvi.com
