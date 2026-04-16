@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-16 20:36:32 UTC
-# Toplam: 449336 Domain
+# Son Güncelleme: 2026-04-16 21:32:21 UTC
+# Toplam: 449339 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2230,6 +2230,7 @@
 1014952.duckdns.org
 1015664156.corolain.ru
 10156749948413.cloud
+1015d1s1dsad40c0c2.com
 1016143934.corolain.ru
 1019499849.corolain.ru
 10195-coinbase.com
@@ -15307,6 +15308,7 @@
 5110.zapto.org
 511000.top
 5113716272462535.duckdns.org
+5115851547.duckdns.org
 511759681.dfgqdsd.ru
 512-2412-4-5-6-7-8-1.com
 512-2412-4-5-6-7-8-1.pro
@@ -24937,6 +24939,7 @@ a101kampanyalari.shop
 a101kampanyalari.site
 a101kampanyalarim.com
 a101kampanyalarim.shop
+a101kampanyalariyakala.com
 a101kampanyalarmerkeizi.com
 a101kampanyam.online
 a101kampanyamizhepimizin.com
