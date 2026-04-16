@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-16 01:23:05 UTC
-! Total: 358554 rules
+! Last modified: 2026-04-16 04:40:42 UTC
+! Total: 358556 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -106192,6 +106192,7 @@
 *://*.e-met-dev-hiz.org/*
 *://*.e-mevduatlarbasvuru-portal.tk/*
 *://*.e-meyiode.net/*
+*://*.e-mhrsrandevumerkezi.digital/*
 *://*.e-mlzbsvrgirsonayhediye.com/*
 *://*.e-mobil-bbvakredim.sbs/*
 *://*.e-mobil-bilgiler-girishizmetler.com/*
@@ -264161,6 +264162,7 @@
 *://*.randevulariniz.click/*
 *://*.randevularinizalin.online/*
 *://*.randevulug.com/*
+*://*.randevulugunun.com/*
 *://*.randevuluislemler.com/*
 *://*.randevum-nvi.com/*
 *://*.randevum-portal-inv.online/*
