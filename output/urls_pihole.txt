@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-16 06:26:04 UTC
-# Toplam: 449212 Domain
+# Son Güncelleme: 2026-04-16 08:23:46 UTC
+# Toplam: 449239 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -62370,6 +62370,7 @@ basvurun-iqnbfinans.com
 basvurun-mobildenizsupriz.com
 basvurun-mobildenizsupriz.online
 basvurun-odeme.online
+basvurun-online.cfd
 basvurun-online.com.tr
 basvurun-online.sbs
 basvurun-online.xyz
@@ -89464,6 +89465,7 @@ businessustad.com
 businessvideonews.com
 businessvision.info
 businessyukleme.com
+businestrail.com
 businesvak-iflimit.xyz
 busistemkacyildirboyle.com
 buski.biz
@@ -110918,6 +110920,7 @@ cyberone.com.tr
 cyberplay.at
 cyberpnk2343.com
 cyberpol.zapto.org
+cyberr.bond
 cyberrdraccesspro.duckdns.org
 cybersecnet.co.za
 cybersecnet.org
@@ -113774,6 +113777,7 @@ deepseektrump.xyz
 deepsekk.sbs
 deepsolarium.top
 deepspacee.com
+deepstrata.icu
 deepthinkingroom.ddns.net
 deepturk.net
 deepunfold.top
@@ -141603,6 +141607,7 @@ edvgrosfzln.org
 edvhzmtgncl.com
 edvithzlis0rgl.online
 edvithzlis0rgl.xyz
+edvix.bond
 edvjewawekdaw.com
 edvjjletiiade.com
 edvjlettniade.com
@@ -165942,6 +165947,7 @@ freshnews-now.com
 freshnewsbridge.com
 freshnewsroom.com
 freshroute.top
+freshsignalhub.com
 freshstartrmcdns.duckdns.org
 freshtech.website
 freshtime.com.pk
@@ -175818,6 +175824,7 @@ giftloom.website
 giftluna.gifts
 giftmall.homes
 giftmarket.gifts
+giftnest.gifts
 giftquest.website
 giftrejoicing.top
 gifts-whells-july.net
@@ -186498,6 +186505,7 @@ haber360tr.com
 haber360tr.shop
 haber360try.shop
 haber364tr.live
+haber364try.shop
 haber365-basvurusorguekrani.xyz
 haber365.club
 haber365.online
@@ -224613,6 +224621,7 @@ iscnbmbell.net
 iscp-kampnya.com.tr
 iscp-kmpnya.com
 iscpdjital.click
+iscpdjital.sbs
 iscple.cfd
 iscprhbr.cfd
 iscredi.com.tr
@@ -243970,6 +243979,7 @@ kelasanta.net
 kelasas.com
 kelbrion.com
 keldenehe.net
+keldorav.com
 keldorin.com
 kelebek.no-ip.biz
 kelebeklerdiyari12.site
@@ -248459,6 +248469,7 @@ kmslertamburda.cfd
 kmslkcmas.com
 kmslktmsnc.com
 kmsmakmkaask.net
+kmsmds0504skdmda.com
 kmsmsorglglapadisahic.web.app
 kmsoara.com
 kmsoarlzks.com
@@ -284003,6 +284014,7 @@ netco305.ddns.net
 netco500.ddns.net
 netco803.ddns.net
 netcode-alert.ddns.net
+netcraftio.com
 netdekampanya.my-homeip.net
 netden.my-homeip.de
 netdenfirsatlar.my-homeip.de
@@ -288281,6 +288293,7 @@ nsnayindakampnyabasladi.cfd
 nsnayindakampnyabasladi.shop
 nsnayindakamyasigeldi.shop
 nsnayiozel.blogspot.com
+nsnayiozeldeyiz.blogspot.com
 nsndacrfshmnbrda.com
 nsndamutfagnzda.cfd
 nsnfrsssttlribrayagldi.com
@@ -299012,6 +299025,7 @@ onvturkiye.com
 onvylsnilknm.xyz
 onvystvtturk.com
 onvzyd.duckdns.org
+onwardframe.com
 onwardvelocity.top
 onwfacttasunslahf.norwayeast.cloudapp.azure.com
 onwin1364.com
@@ -299292,6 +299306,7 @@ openralvoro.shop
 openralvoro.store
 openrecord.shop
 openrecord.store
+openreserve.shop
 openresponse.shop
 openresponse.store
 openroadsolutions.com
@@ -299912,6 +299927,7 @@ oretradehub.com
 oreveay.net
 oreveay.xyz
 oreversa.com
+orevision.click
 orevon.xyz
 orevonet.net
 orevonet.xyz
@@ -316492,6 +316508,7 @@ priyamblogs.com
 prize-box.org
 prize-box.shop
 prize4538654.xyz
+prizebox.gifts
 prizebtcq2024.duckdns.org
 prizebuyer.top
 prizeconfederation.top
@@ -326537,6 +326554,7 @@ qukoointlogoonx.webflow.io
 qukypvyzuw.duckdns.org
 qulhcxpo.com
 qulinas.com
+qulix.cfd
 qulusulu.site
 qumarot.com
 qumparakampanya.com
@@ -328237,6 +328255,7 @@ randevuduzenle.com
 randevufirsatlari.org
 randevufirsatlariburda.org
 randevugovaislemler.com
+randevugunlerim.com
 randevuhatti.net
 randevuhizmetib.b-cdn.net
 randevuhizmetigov.net
@@ -328262,6 +328281,7 @@ randevularimm.online
 randevulariniz.click
 randevularinizalin.online
 randevulug.com
+randevulugun.com
 randevulugunum.com
 randevulugunun.com
 randevuluislemler.com
@@ -334104,6 +334124,7 @@ rockaslan.com
 rockbull.pro
 rockcreekdds.com
 rockdrill.sbs
+rockdynamo.xyz
 rockemineu.bond
 rocket2.new10k.com
 rocketbit.club
@@ -359683,6 +359704,7 @@ sololevelink.sa.com
 solomedikal.com
 solomonegbe.com
 solomongrandy.zapto.org
+solorn.bond
 soloturan.net
 solovunt.de
 solpath.quest
@@ -367825,6 +367847,7 @@ subemyapikredi.com
 subemziraat.xyz
 subemziraatbank.site
 subemziraatbank.xyz
+suben-bbva.click
 suben-firsatlar-halk-kobi.com
 suben-halk-paraf-firsat.com
 suben.digital
@@ -368950,6 +368973,7 @@ summit.agmandm.ru
 summitartillery.top
 summitelaboration.top
 summithowl.top
+summitledger.live
 summitstracecolumbus.com
 summon.misecure.com
 summonadherence.top
@@ -426537,6 +426561,7 @@ xalticainvest.com
 xaltrionex.com
 xalusi.com
 xalven.click
+xalvionex.one
 xamaxlfjaxlvcaac.shop
 xamazonauthportus.duckdns.org
 xami8wr.duckdns.org
@@ -444529,6 +444554,7 @@ zantaclodemo.com
 zantocusus.xyz
 zantocusus99.xyz
 zantrao.pro
+zantrio.website
 zantrix.sbs
 zanudorexil.com
 zanunath.com
@@ -445247,6 +445273,7 @@ zewanovji.com
 zewhnvip.ct.ws
 zexeq.com
 zexil.lat
+zexiq.shop
 zey101.cfd
 zey8372712.tr
 zeycanegitimkulturvakfi.com
