@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-16 08:23:46 UTC
-# Toplam: 449239 Domain
+# Son Güncelleme: 2026-04-16 10:04:34 UTC
+# Toplam: 449278 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -51105,6 +51105,7 @@ arvestsite.duckdns.org
 arvestsupp.duckdns.org
 arvesttsecure.duckdns.org
 arvex.shop
+arvex.store.jpg
 arvexa.shop
 arvexa.site
 arvexaapp.shop
@@ -51124,10 +51125,12 @@ arvexhq.shop
 arvexhubs.shop
 arvexhubs.store
 arvexlabs.shop
+arvexlabs.store.jpg
 arvg2.51tz2.ru
 arvion.site
 arvionapp.shop
 arvionapp.site
+arvionapp.store.jpg
 arvionhq.shop
 arvionhq.site
 arvionhq.store
@@ -51141,9 +51144,11 @@ arvmsg.ddns.net
 arvoswdcxa.duckdns.org
 arvox.store
 arvoxapp.shop
+arvoxapp.store.jpg
 arvoxhq.shop
 arvoxhubs.store
 arvoxlabs.shop
+arvoxlabs.store.jpg
 arvrest.duckdns.org
 arvshw5o0.duckdns.org
 arvt.ddns.net
@@ -55572,6 +55577,7 @@ axionapp.store
 axionhq.shop
 axionhq.store
 axionhubs.shop
+axionhubs.store.jpg
 axionlabs.shop
 axionlabs.store
 axioraapp.shop
@@ -63425,6 +63431,7 @@ baykardevlet-programi.com
 baykardevletprogrami.com
 baykardevletprogrami.net
 baykardrone.com
+baykareserve.site.jpg
 baykaress.icu
 baykarfirsati.online
 baykarfly.com
@@ -63443,11 +63450,13 @@ baykarintr.site
 baykarinvest.biz
 baykarinvest.club
 baykarinvest.net
+baykarinvest.site.jpg
 baykarinvest.vip
 baykarinvest.xyz
 baykarinvesting.com
 baykarinvestment.com
 baykarinvestmentopportunity.net
+baykarinvests.info.jpg
 baykarkatilim.com
 baykarlabs.com
 baykarlanding.vicchk.com
@@ -63473,7 +63482,9 @@ baykars-tr.com
 baykars.org
 baykars.trbaykl.com
 baykarsavunmasanayi.com
+baykarsite.info.jpg
 baykarsmartai.com
+baykarstore.info.jpg
 baykarstr.com
 baykarsystem.tr
 baykarsystems.com
@@ -78660,6 +78671,7 @@ bkorvmhkvffu.com
 bkp.windowstimes.me
 bkppink.com
 bkqacshefn.duckdns.org
+bkr-invest.site.jpg
 bkrdfnlj.org
 bkresearch.org
 bkrsnbnadhaiyilrsnnolur.digital
@@ -89428,6 +89440,7 @@ business71.zapto.org
 businessadvertise.net
 businessandfinance.pro
 businessaviators.com
+businessbaykar.info.jpg
 businessblaze.online
 businessdeprive.top
 businessesview.shop
@@ -100841,6 +100854,7 @@ clevox.shop
 clevox.store
 clevoxapp.shop
 clevoxhq.shop
+clevoxhq.store.jpg
 clevoxhubs.shop
 clevoxhubs.store
 clevoxlabs.shop
@@ -110970,6 +110984,7 @@ cygnix.store
 cygnixapp.shop
 cygnixapp.store
 cygnixhq.shop
+cygnixhq.store.jpg
 cygnixhubs.shop
 cygnixhubs.store
 cygnixlabs.shop
@@ -128005,6 +128020,7 @@ dosyasorgulatuyap.com
 dosyasorgulatuzlasmaa.com
 dosyasorgulayin.com
 dosyasorgum.org
+dosyasorgumerkezi.org
 dosyasorgunuz.com
 dosyasorgusistemi.com
 dosyasorgusu.com
@@ -144274,6 +144290,7 @@ ekonomikzone.com
 ekonomilive.online
 ekonominabzi.site
 ekonominikfirsatlar.site
+ekonomionline.online.jpg
 ekonomipaneli.click
 ekonomiplatformu.info
 ekonomiportal.online
@@ -158414,6 +158431,7 @@ fenomeno.gq
 fenora.shop
 fenoraapp.shop
 fenorahq.shop
+fenorahq.store.jpg
 fenorahubs.shop
 fenoralabs.shop
 fenoralabs.store
@@ -159781,6 +159799,7 @@ finanacetr.site
 finanbankartiadeleri.tk
 financdenizyatirim.club
 finance-advice.life
+finance-bkr.site.jpg
 finance-cleaning.info
 finance-height.info
 finance-online.tk
@@ -160539,6 +160558,7 @@ finottorubatta.xyz
 finpartner.world
 finpeak.online
 finpeaks.online
+finprog.info.jpg
 finra-online.com
 finreachr.com
 finsans-tr.com
@@ -172288,6 +172308,8 @@ gcloud-adguard.ddns.net
 gclubrace.info
 gcmbdin.edu.pk
 gcmdtipfgd.duckdns.org
+gcmyatlrlm.info.jpg
+gcmyatlrlm.site.jpg
 gcncelfirsatlr.click
 gcoinaiangelinvestor.top
 gcoinaibacker.top
@@ -174586,8 +174608,10 @@ getandroidplaystore.co.vu
 getanewsmycampaniakbasvurusundabulunun.net
 getanother.xyz
 getarvex.shop
+getarvex.store.jpg
 getarvion.shop
 getarvion.store
+getarvox.store.jpg
 getasahbinden-parmguvendeetr.nl
 getavatar.top
 getaxion.shop
@@ -174629,6 +174653,7 @@ getcookies.ddns.net
 getcord.co.za
 getcoupon.xyz
 getcrypte.shop
+getcrypte.store.jpg
 getcygnix.shop
 getdalvon.store
 getdevice.site
@@ -174795,7 +174820,9 @@ getkira.info
 getkitplayer.com
 getklowe.store
 getkronex.shop
+getkronex.store.jpg
 getkryon.shop
+getkryon.store.jpg
 getlanyrix.shop
 getlanyrix.site
 getlanyrix.store
@@ -174814,6 +174841,7 @@ getloryth.shop
 getloryth.store
 getluckyprize.com
 getlumex.shop
+getlumex.store.jpg
 getlumira.shop
 getlumira.store
 getmaclab.com
@@ -284504,6 +284532,7 @@ nevzlsleee.net
 new-acc-firsatlarikampanyasi.net
 new-agency.us
 new-anonyzm.com
+new-baykarinvest.info.jpg
 new-binance-campaigns.net
 new-bllog-i.com
 new-book.linkpc.net
@@ -284581,6 +284610,8 @@ newattendmodern.online
 newaugustcampanys-trtoggsixthing.net
 newauthurdomain.duckdns.org
 newbasdwqesad.net
+newbaykar-store.info.jpg
+newbaykar.site.jpg
 newbbvayear.my-homeip.com
 newbegin24.duckdns.org
 newbeginmodern.online
@@ -299243,6 +299274,8 @@ openapplicationcheck.azurewebsites.net
 openarackiralama.com
 openattachment.net
 openbankcard.ru
+openbaykar.info.jpg
+openbaykar.site.jpg
 openboxclue.ddns.net
 opencartmodules.biz
 opencategory.site
@@ -311314,6 +311347,8 @@ petrollcapital.com
 petrollem.com
 petrolleri-growth.com
 petrolleri-invest.com
+petrolleri-invest.info.jpg
+petrolleri-invest.site.jpg
 petrolleri-investing.info
 petrolleri-tr.icu
 petrolleri-tr.pro
@@ -328255,6 +328290,7 @@ randevuduzenle.com
 randevufirsatlari.org
 randevufirsatlariburda.org
 randevugovaislemler.com
+randevugunler.com
 randevugunlerim.com
 randevuhatti.net
 randevuhizmetib.b-cdn.net
@@ -360095,6 +360131,7 @@ sondakikafirsatlaribitmez.online
 sondakikafirsatlaribitmez.xyz
 sondakikafirsatlariicinaciltikla.beauty
 sondakikahab-erler.com
+sondakikahaberi.sbs
 sondakikahaberler.cf
 sondakikahaberler.ga
 sondakikahaberler.gq
@@ -364347,6 +364384,7 @@ ssahibinden-paramguvende.online
 ssahibinden-paramguvende.xyz
 ssahibinden.aguvende.online
 ssahibinden.com.tr
+ssahibinden.net
 ssahibinden.sbguvende.com
 ssahibindenbireyselparamguvende.online
 ssahibindennguvende.com
@@ -417049,6 +417087,7 @@ wihotitbu.com
 wiiesfargocnnect.duckdns.org
 wijaxcnjw.duckdns.org
 wijgzsfh.com
+wijmau.click
 wijzig-alerts.duckdns.org
 wikanzzx.zapto.org
 wikeneweb.com

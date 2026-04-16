@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-16 08:23:46 UTC
-! Total: 358584 rules
+! Last modified: 2026-04-16 10:04:34 UTC
+! Total: 358623 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35774,6 +35774,7 @@
 *://*.arunews2.ru/*
 *://*.arunvakfi.org/*
 *://*.arvex.shop/*
+*://*.arvex.store.jpg/*
 *://*.arvexa.shop/*
 *://*.arvexa.site/*
 *://*.arvexaapp.shop/*
@@ -35793,9 +35794,11 @@
 *://*.arvexhubs.shop/*
 *://*.arvexhubs.store/*
 *://*.arvexlabs.shop/*
+*://*.arvexlabs.store.jpg/*
 *://*.arvion.site/*
 *://*.arvionapp.shop/*
 *://*.arvionapp.site/*
+*://*.arvionapp.store.jpg/*
 *://*.arvionhq.shop/*
 *://*.arvionhq.site/*
 *://*.arvionhq.store/*
@@ -35807,9 +35810,11 @@
 *://*.arvision.com.co/*
 *://*.arvox.store/*
 *://*.arvoxapp.shop/*
+*://*.arvoxapp.store.jpg/*
 *://*.arvoxhq.shop/*
 *://*.arvoxhubs.store/*
 *://*.arvoxlabs.shop/*
+*://*.arvoxlabs.store.jpg/*
 *://*.arwcheck.pro/*
 *://*.arwcrandewum.net/*
 *://*.arwjffywmsxhzfjksadrryptc.shop/*
@@ -39121,6 +39126,7 @@
 *://*.axionhq.shop/*
 *://*.axionhq.store/*
 *://*.axionhubs.shop/*
+*://*.axionhubs.store.jpg/*
 *://*.axionlabs.shop/*
 *://*.axionlabs.store/*
 *://*.axioraapp.shop/*
@@ -45648,6 +45654,7 @@
 *://*.baykardevletprogrami.com/*
 *://*.baykardevletprogrami.net/*
 *://*.baykardrone.com/*
+*://*.baykareserve.site.jpg/*
 *://*.baykaress.icu/*
 *://*.baykarfirsati.online/*
 *://*.baykarfly.com/*
@@ -45666,11 +45673,13 @@
 *://*.baykarinvest.biz/*
 *://*.baykarinvest.club/*
 *://*.baykarinvest.net/*
+*://*.baykarinvest.site.jpg/*
 *://*.baykarinvest.vip/*
 *://*.baykarinvest.xyz/*
 *://*.baykarinvesting.com/*
 *://*.baykarinvestment.com/*
 *://*.baykarinvestmentopportunity.net/*
+*://*.baykarinvests.info.jpg/*
 *://*.baykarkatilim.com/*
 *://*.baykarlabs.com/*
 *://*.baykarnews.com/*
@@ -45692,7 +45701,9 @@
 *://*.baykars-tr.com/*
 *://*.baykars.org/*
 *://*.baykarsavunmasanayi.com/*
+*://*.baykarsite.info.jpg/*
 *://*.baykarsmartai.com/*
+*://*.baykarstore.info.jpg/*
 *://*.baykarstr.com/*
 *://*.baykarsystem.tr/*
 *://*.baykarsystems.com/*
@@ -59352,6 +59363,7 @@
 *://*.bkns.com.vn/*
 *://*.bkorvmhkvffu.com/*
 *://*.bkppink.com/*
+*://*.bkr-invest.site.jpg/*
 *://*.bkrdfnlj.org/*
 *://*.bkresearch.org/*
 *://*.bkrsnbnadhaiyilrsnnolur.digital/*
@@ -68567,6 +68579,7 @@
 *://*.businessadvertise.net/*
 *://*.businessandfinance.pro/*
 *://*.businessaviators.com/*
+*://*.businessbaykar.info.jpg/*
 *://*.businessblaze.online/*
 *://*.businessdeep.com/*
 *://*.businessdeprive.top/*
@@ -77678,6 +77691,7 @@
 *://*.clevox.store/*
 *://*.clevoxapp.shop/*
 *://*.clevoxhq.shop/*
+*://*.clevoxhq.store.jpg/*
 *://*.clevoxhubs.shop/*
 *://*.clevoxhubs.store/*
 *://*.clevoxlabs.shop/*
@@ -85852,6 +85866,7 @@
 *://*.cygnixapp.shop/*
 *://*.cygnixapp.store/*
 *://*.cygnixhq.shop/*
+*://*.cygnixhq.store.jpg/*
 *://*.cygnixhubs.shop/*
 *://*.cygnixhubs.store/*
 *://*.cygnixlabs.shop/*
@@ -99974,6 +99989,7 @@
 *://*.dosyasorgulatuzlasmaa.com/*
 *://*.dosyasorgulayin.com/*
 *://*.dosyasorgum.org/*
+*://*.dosyasorgumerkezi.org/*
 *://*.dosyasorgunuz.com/*
 *://*.dosyasorgusistemi.com/*
 *://*.dosyasorgusu.com/*
@@ -114267,6 +114283,7 @@
 *://*.ekonomilive.online/*
 *://*.ekonominabzi.site/*
 *://*.ekonominikfirsatlar.site/*
+*://*.ekonomionline.online.jpg/*
 *://*.ekonomipaneli.click/*
 *://*.ekonomiplatformu.info/*
 *://*.ekonomiplatformu.site/*
@@ -126120,6 +126137,7 @@
 *://*.fenora.shop/*
 *://*.fenoraapp.shop/*
 *://*.fenorahq.shop/*
+*://*.fenorahq.store.jpg/*
 *://*.fenorahubs.shop/*
 *://*.fenoralabs.shop/*
 *://*.fenoralabs.store/*
@@ -127157,6 +127175,7 @@
 *://*.finanbankartiadeleri.tk/*
 *://*.financdenizyatirim.club/*
 *://*.finance-advice.life/*
+*://*.finance-bkr.site.jpg/*
 *://*.finance-cleaning.info/*
 *://*.finance-height.info/*
 *://*.finance-online.tk/*
@@ -127853,6 +127872,7 @@
 *://*.finpartner.world/*
 *://*.finpeak.online/*
 *://*.finpeaks.online/*
+*://*.finprog.info.jpg/*
 *://*.finra-online.com/*
 *://*.finreachr.com/*
 *://*.finsans-tr.com/*
@@ -137274,6 +137294,8 @@
 *://*.gclhgsm.com/*
 *://*.gclubrace.info/*
 *://*.gcmbdin.edu.pk/*
+*://*.gcmyatlrlm.info.jpg/*
+*://*.gcmyatlrlm.site.jpg/*
 *://*.gcncelfirsatlr.click/*
 *://*.gcoinaiangelinvestor.top/*
 *://*.gcoinaibacker.top/*
@@ -139297,8 +139319,10 @@
 *://*.getanewsmycampaniakbasvurusundabulunun.net/*
 *://*.getanother.xyz/*
 *://*.getarvex.shop/*
+*://*.getarvex.store.jpg/*
 *://*.getarvion.shop/*
 *://*.getarvion.store/*
+*://*.getarvox.store.jpg/*
 *://*.getasahbinden-parmguvendeetr.nl/*
 *://*.getavatar.top/*
 *://*.getaxion.shop/*
@@ -139340,6 +139364,7 @@
 *://*.getcorpeo.com/*
 *://*.getcoupon.xyz/*
 *://*.getcrypte.shop/*
+*://*.getcrypte.store.jpg/*
 *://*.getcygnix.shop/*
 *://*.getdalvon.store/*
 *://*.getdevice.site/*
@@ -139500,7 +139525,9 @@
 *://*.getkitplayer.com/*
 *://*.getklowe.store/*
 *://*.getkronex.shop/*
+*://*.getkronex.store.jpg/*
 *://*.getkryon.shop/*
+*://*.getkryon.store.jpg/*
 *://*.getlanyrix.shop/*
 *://*.getlanyrix.site/*
 *://*.getlanyrix.store/*
@@ -139517,6 +139544,7 @@
 *://*.getloryth.store/*
 *://*.getluckyprize.com/*
 *://*.getlumex.shop/*
+*://*.getlumex.store.jpg/*
 *://*.getlumira.shop/*
 *://*.getlumira.store/*
 *://*.getmaclab.com/*
@@ -228895,6 +228923,7 @@
 *://*.new-acc-firsatlarikampanyasi.net/*
 *://*.new-agency.us/*
 *://*.new-anonyzm.com/*
+*://*.new-baykarinvest.info.jpg/*
 *://*.new-binance-campaigns.net/*
 *://*.new-bllog-i.com/*
 *://*.new-campaign.net/*
@@ -228941,6 +228970,8 @@
 *://*.newattendmodern.online/*
 *://*.newaugustcampanys-trtoggsixthing.net/*
 *://*.newbasdwqesad.net/*
+*://*.newbaykar-store.info.jpg/*
+*://*.newbaykar.site.jpg/*
 *://*.newbeginmodern.online/*
 *://*.newbeginstep.top/*
 *://*.newbestgiveaway.com/*
@@ -240669,6 +240700,8 @@
 *://*.openarackiralama.com/*
 *://*.openattachment.net/*
 *://*.openbankcard.ru/*
+*://*.openbaykar.info.jpg/*
+*://*.openbaykar.site.jpg/*
 *://*.opencartmodules.biz/*
 *://*.opencategory.site/*
 *://*.opencausefoundation.org/*
@@ -250795,6 +250828,8 @@
 *://*.petrollem.com/*
 *://*.petrolleri-growth.com/*
 *://*.petrolleri-invest.com/*
+*://*.petrolleri-invest.info.jpg/*
+*://*.petrolleri-invest.site.jpg/*
 *://*.petrolleri-investing.info/*
 *://*.petrolleri-tr.icu/*
 *://*.petrolleri-tr.pro/*
@@ -264156,6 +264191,7 @@
 *://*.randevufirsatlari.org/*
 *://*.randevufirsatlariburda.org/*
 *://*.randevugovaislemler.com/*
+*://*.randevugunler.com/*
 *://*.randevugunlerim.com/*
 *://*.randevuhatti.net/*
 *://*.randevuhizmetigov.net/*
@@ -287401,6 +287437,7 @@
 *://*.sondakikafirsatlaribitmez.xyz/*
 *://*.sondakikafirsatlariicinaciltikla.beauty/*
 *://*.sondakikahab-erler.com/*
+*://*.sondakikahaberi.sbs/*
 *://*.sondakikahaberler.cf/*
 *://*.sondakikahaberler.ga/*
 *://*.sondakikahaberler.gq/*
@@ -291096,6 +291133,7 @@
 *://*.ssahibinden-paramguvende.online/*
 *://*.ssahibinden-paramguvende.xyz/*
 *://*.ssahibinden.com.tr/*
+*://*.ssahibinden.net/*
 *://*.ssahibindenbireyselparamguvende.online/*
 *://*.ssahibindennguvende.com/*
 *://*.ssahibindenparamguvende.com.tr/*
@@ -333154,6 +333192,7 @@
 *://*.wiheiufisduxo.su/*
 *://*.wihotitbu.com/*
 *://*.wijgzsfh.com/*
+*://*.wijmau.click/*
 *://*.wikaba.com/*
 *://*.wikeneweb.com/*
 *://*.wiki-text.xyz/*
