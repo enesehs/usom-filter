@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-17 16:39:53 UTC
-# Toplam: 449488 Domain
+# Son Güncelleme: 2026-04-17 17:38:15 UTC
+# Toplam: 449494 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -24872,6 +24872,7 @@ a101indirimlertr.online
 a101indirimlifirsatlarcom.xyz
 a101indirimligun.online
 a101indirimligunler.store
+a101indirimliurunleral.com
 a101indirimlizamanlar.xyz
 a101indirimmkampanyalari.com
 a101indirimplus.xyz
@@ -51301,6 +51302,7 @@ asapor.xyz
 asaporeg.xyz
 asapxreopaklams.com
 asarackirala.com
+asarat.click
 asareholdings.com
 asarnaar.click
 asaryapi.com.tr
@@ -219127,6 +219129,7 @@ infoarrival-aboutcheck.com
 infoattention.com
 infobankofamrica.ddns.net
 infobinanceonline.com
+infobireysel.com
 infoburst.world
 infocarnames.ru
 infocatalog.pics
@@ -237847,6 +237850,7 @@ kampanya-basvurulari-is.vercel.app
 kampanya-basvurum-denizbank.com
 kampanya-basvurum2020-denizbank.com
 kampanya-bbvagarantiv2.tk
+kampanya-bilgi-sistemim.cfd
 kampanya-binncellil.com
 kampanya-bireysel.com
 kampanya-bireysele-ozel-basvur-online-com.ml
@@ -337716,6 +337720,7 @@ sadxx7sad77.ddns.net
 sadyfxvug.com
 sae3acom.com
 saeacmasus.net
+saeafaszs.webredirect.org
 saeef88.ddns.net
 saeef9999.ddns.net
 saeklesenegicekhsikle.net
@@ -360038,6 +360043,7 @@ somliyvvrp.duckdns.org
 sommlmbyvt.duckdns.org
 somniosus.xyz
 somniumresort.com
+somnix.click
 somnorama.com
 somolinosstrategies.com
 somorafa.duckdns.org
