@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-17 10:02:12 UTC
-# Toplam: 449373 Domain
+# Son Güncelleme: 2026-04-17 11:40:22 UTC
+# Toplam: 449380 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -685,6 +685,7 @@
 06ofnuo8q3ii58r.04v2uce.ru
 06pb4n.duckdns.org
 06perfilacesso.ddns.net
+06ss6df5aa6s62ccas.com
 06tbbmmcc.ga
 06ui958j.duckdns.org
 06vhyb.duckdns.org
@@ -2231,6 +2232,7 @@
 1015664156.corolain.ru
 10156749948413.cloud
 1015d1s1dsad40c0c2.com
+1015ghs52s3a6ds2c.com
 1016143934.corolain.ru
 1019499849.corolain.ru
 10195-coinbase.com
@@ -98346,6 +98348,7 @@ check.snapupdate.org
 check.sysupdates.org
 check.webhop.org
 check004-expedia.com
+check02id.com
 check2sever.com
 check904541ddosstop.ddns.net
 checkapicountryquestions.azurewebsites.net
@@ -250848,6 +250851,7 @@ kralinkraligelsedusurmaez.com
 kralinyo.it.com
 kralisis23q.site
 kraliz.cfd
+kralkabetti.duckdns.org
 kralkampanyastand.store
 kralkampanyayikama.shop
 kralkaybeders4.click
@@ -259694,6 +259698,7 @@ longevacuation.top
 longevityelectorate.top
 longevityjuvenile.top
 longhorntruckingcomp.com
+longhungphatlogistics.vn
 longish.zoofv.com
 longislandd.cfd
 longitudde.digital
@@ -400453,6 +400458,7 @@ uvvvenfrudkf.xyz
 uvxufggeyw.duckdns.org
 uvyutvgj.duckdns.org
 uvzo0th73.duckdns.org
+uw04webzoom.us
 uw2rdgs2l.duckdns.org
 uw3ixnc2.duckdns.org
 uw77hwd4.duckdns.org
@@ -443599,6 +443605,7 @@ yutricl.kargoi.top
 yutrpodzwu.duckdns.org
 yutsjfczwt.duckdns.org
 yutupmusicc.xyz
+yuty34cx32421.duckdns.org
 yuubittak.online
 yuubworld.shop
 yuukllegez.net
