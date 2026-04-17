@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-17 06:27:02 UTC
-! Total: 358682 rules
+! Last modified: 2026-04-17 08:24:23 UTC
+! Total: 358690 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -43226,6 +43226,7 @@
 *://*.basvurkredidenizgrs.click/*
 *://*.basvurkredidenizgrs.site/*
 *://*.basvurkredimacikdenizbank.com/*
+*://*.basvurkvytpromosyonlari.sbs/*
 *://*.basvurlar-destek-kampanya-ozel-bireysel.xyz/*
 *://*.basvurlar-destek-kampanyalar-ozel-bireysel.xyz/*
 *://*.basvurlar-destek-kampanyasi-ozel-bireysel.xyz/*
@@ -176838,6 +176839,7 @@
 *://*.indirimworld-tr.com/*
 *://*.indirimx-firsatllari.com/*
 *://*.indirimxoami.xyz/*
+*://*.indirimyakala.xyz/*
 *://*.indirimyeri.cfd/*
 *://*.indirimyeri.site/*
 *://*.indirimzamani-turkcell.com/*
@@ -181660,6 +181662,7 @@
 *://*.isbnm.buzz/*
 *://*.isbnreklm.click/*
 *://*.isbnsskwqdwqsdsq.xyz/*
+*://*.isbnxafirsatlari.site/*
 *://*.isbnxf81723k.top/*
 *://*.isbonk.com/*
 *://*.isbonline-tr.com/*
@@ -202163,6 +202166,7 @@
 *://*.kolaytrink.digital/*
 *://*.kolayuklehgs.com/*
 *://*.kolayvehizliislemler.online/*
+*://*.kolayvergidairesi.com/*
 *://*.kolayvezne.xyz/*
 *://*.kolaywebtasarim.com/*
 *://*.kolaywebyazilim.com/*
@@ -212604,6 +212608,7 @@
 *://*.majoritycarry.top/*
 *://*.majoritychancellor.top/*
 *://*.majoritysolitude.top/*
+*://*.majormetalcsorp.com/*
 *://*.majorpanel34.tk/*
 *://*.majorpanelimm.com/*
 *://*.majorselect.top/*
@@ -291011,6 +291016,7 @@
 *://*.sqwcpgbl.com/*
 *://*.sqwoxmcyk.com/*
 *://*.sqwqwasresbkng.com/*
+*://*.sqyqjp.help/*
 *://*.sr-deniz-kampanyam.net/*
 *://*.sr1bimcell.net/*
 *://*.sr55x.click/*
@@ -295951,6 +295957,7 @@
 *://*.swiftcampaignbnnannce.website/*
 *://*.swiftcode.work/*
 *://*.swiftglo.com/*
+*://*.swiftgrove.live/*
 *://*.swiftio.online/*
 *://*.swiftjinx.com/*
 *://*.swiftleadsolutions.com/*
@@ -357936,6 +357943,7 @@
 *://*.zoharsitwas.com/*
 *://*.zoho-documents.com/*
 *://*.zoho-software.com/*
+*://*.zoholandingpage.com/*
 *://*.zohopublic.eu/*
 *://*.zohoservice.net/*
 *://*.zoinkr.com/*
