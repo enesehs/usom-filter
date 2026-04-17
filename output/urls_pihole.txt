@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-17 17:38:15 UTC
-# Toplam: 449494 Domain
+# Son Güncelleme: 2026-04-17 18:38:59 UTC
+# Toplam: 449506 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -161561,6 +161561,7 @@ firsatiln.site
 firsatim-a1o1.net
 firsatim-carrefoursa.com
 firsatim-ekstra.online
+firsatim-onlin.click
 firsatimaktuel-101.name.tr
 firsatimal.com
 firsatimbnkampanya.net
@@ -180057,6 +180058,12 @@ govuy.cc
 govvtrrraspx.org
 govxrgibsite.lat
 govyu.vip
+govza.help
+govzb.help
+govzc.help
+govze.help
+govzf.help
+govzi.help
 govzj.help
 govzk.help
 govzq.help
@@ -245486,6 +245493,7 @@ kgmsaeaas.net
 kgmsag.life
 kgmsg.top
 kgmsite.help
+kgmsites.help
 kgmsizlersizolmazasd.net
 kgmskohgskarayolbrcodsmleri.duckdns.org
 kgmsmobilhgs.com
@@ -245500,6 +245508,7 @@ kgmsotrgov.cyou
 kgmsotrgov.icu
 kgmsss.cfd
 kgmsswbkadrgcshgsbrc.duckdns.org
+kgmstore.help
 kgmstrategy.com
 kgmswebgcshsgoss.duckdns.org
 kgmswebgcsodemees.com
@@ -248201,6 +248210,7 @@ kmkmsrglmaaturgay.web.app
 kmkmsrglmagovpttcengz.web.app
 kmkmsrglmagvsinem.web.app
 kmkmsrogruszpttgovavm.com
+kmkmsrogulamagovpttcngz.web.app
 kmkmsrogulamagovpttvelit.web.app
 kmkmsrohgulamabelgin2.web.app
 kmkontrol.sa.com
@@ -248836,6 +248846,7 @@ kmsrglmaychp.web.app
 kmsrglmma.com
 kmsrglsburda.web.app
 kmsrglynzzz.com.tr
+kmsrgoalamayapanlardannim.com
 kmsrgoalamayaphemenhizli.web.app
 kmsrgoalamyapalimdm.duckdns.org
 kmsrgoalamyapalimorg.duckdns.org
@@ -326542,6 +326553,7 @@ quavabvc.top
 quaverer5.xyz
 qubemu.com
 qubikgpafwimlur.cn
+qubira.click
 quccoinnelogin.webflow.io
 quci8.ya0z1.com
 qucobiotguoquno.ddns.net
