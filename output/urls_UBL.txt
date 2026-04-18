@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-18 14:31:55 UTC
-! Total: 358843 rules
+! Last modified: 2026-04-18 15:26:27 UTC
+! Total: 358853 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26768,6 +26768,7 @@
 *://*.aktivasyon20gbtanimlama.com/*
 *://*.aktivasyoniptalislemi.shop/*
 *://*.aktivasyonislemlerinebasla.xyz/*
+*://*.aktivasyontr.com/*
 *://*.aktiveller101.online/*
 *://*.aktivelmarkt101.online/*
 *://*.aktiveltelefon.online/*
@@ -149746,6 +149747,7 @@
 *://*.haberturk34online.club/*
 *://*.haberturk360.site/*
 *://*.haberturkd.com/*
+*://*.haberturkey.shop/*
 *://*.haberturkiye24.online/*
 *://*.haberturks.site/*
 *://*.haberturs.site/*
@@ -203480,6 +203482,7 @@
 *://*.krdandfgsadasd.shop/*
 *://*.krdanlardansan.click/*
 *://*.krdanlardansanlardan.shop/*
+*://*.krdansardanlaras.shop/*
 *://*.krdbasvrssai.net/*
 *://*.krdbasvurum.net/*
 *://*.krdbsvrfrmzrtn.xyz/*
@@ -210430,6 +210433,7 @@
 *://*.lstanbul.store/*
 *://*.lstanbul.tech/*
 *://*.lstanbulbasvuru.com/*
+*://*.lstanbulbasvvl.xyz/*
 *://*.lstanbulblogg.com/*
 *://*.lstanbulbreysell.click/*
 *://*.lstanbulbreysell.online/*
@@ -214377,6 +214381,7 @@
 *://*.marqquees.com/*
 *://*.marquery.top/*
 *://*.marquiven.shop/*
+*://*.marrahat.click/*
 *://*.marrentora.com/*
 *://*.marriageomit.top/*
 *://*.marriagetuition.top/*
@@ -217908,6 +217913,7 @@
 *://*.mhgshizligecis.com/*
 *://*.mhgtheatre.ru/*
 *://*.mhhfzxt.info/*
+*://*.mhhhrrrrrrrrrrs.sbs/*
 *://*.mhhrrss.com/*
 *://*.mhhrrssrandvvunal.com/*
 *://*.mhhrsrsrhshrscs.net/*
@@ -240709,6 +240715,7 @@
 *://*.onyenzoputa.ml/*
 *://*.onyfghtkasa.com/*
 *://*.onymityrap.top/*
+*://*.onyonvys.net/*
 *://*.onyrdo.top/*
 *://*.onyx-food.com/*
 *://*.onyxistn.bet/*
@@ -262575,6 +262582,7 @@
 *://*.qomira.sbs/*
 *://*.qopeeplollscwwc.ru/*
 *://*.qopop.com/*
+*://*.qoriva.click/*
 *://*.qornas.com/*
 *://*.qornazek.com/*
 *://*.qornila.click/*
@@ -264979,6 +264987,7 @@
 *://*.reachalternate.top/*
 *://*.reachclub.net/*
 *://*.reachhhack.com/*
+*://*.reachlyx.com/*
 *://*.reachmodern.online/*
 *://*.reachziraat.com/*
 *://*.reactdisclosure.top/*
@@ -286045,6 +286054,7 @@
 *://*.snkzvrolrazdasdas.club/*
 *://*.snlardanbrdansad.shop/*
 *://*.snlardanbrdansnkz.shop/*
+*://*.snlardanburdayzsnznerdee.xyz/*
 *://*.snlardankardasnsa.click/*
 *://*.snlardansnkzlerden.shop/*
 *://*.snlardansnkzlerden.xyz/*
