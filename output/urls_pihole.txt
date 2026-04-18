@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-18 16:24:20 UTC
-# Toplam: 449564 Domain
+# Son Güncelleme: 2026-04-18 17:26:33 UTC
+# Toplam: 449565 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -418364,6 +418364,7 @@ woeburhhjy.duckdns.org
 woecnixydz.duckdns.org
 woellhaf-it.de
 woelpuu.com
+woernerhaustechnik.com
 wofneb4ao.duckdns.org
 woginizexega.com
 wogyi.com
