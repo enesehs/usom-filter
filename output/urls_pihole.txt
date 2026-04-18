@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-18 04:23:12 UTC
-# Toplam: 449517 Domain
+# Son Güncelleme: 2026-04-18 06:04:38 UTC
+# Toplam: 449523 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -613,6 +613,7 @@
 055512585505.duckdns.org
 055hd.com
 0564edcc6154.net
+056556adass222c5ca.com
 05705fdb023a166e09dafefa488e0b02.com
 0577ihep.duckdns.org
 05aogk3p4.duckdns.org
@@ -5317,6 +5318,7 @@
 1601iy6.duckdns.org
 1602.webredirect.org
 1604.ddns.net
+16042025basvurularilar.duckdns.org
 160429748283.xyz
 1612579504.universalimage.org
 1612956872.cloud
@@ -52241,6 +52243,7 @@ aslinda-mutlu-olmanin-formulu-hemen-yaninizda-hissedin.com
 aslinda-ortaya-geldikten-sonra-iyi.com
 aslinda-yenilikci-formul-ayagina-geldi.com
 aslindaguzelkampanya.sbs
+asliyeceza.org
 asliyecezagov.org
 asliyecezamahkeme.org
 asliyedava.org
@@ -108112,6 +108115,7 @@ crditgricoler.duckdns.org
 crditmutuelrgnional.duckdns.org
 crdmnatiuc.duckdns.org
 crds-hgs-yukleme.com
+crdsbabaaktifgeldiloo.com
 crdyiz.cfd
 cre8ivecase.net
 cre8iveintel.com
@@ -273665,6 +273669,7 @@ mobilde-suprizacikdeniz.com
 mobilde-tr.online
 mobilde.my-homeip.com
 mobilde.site
+mobilde100yil.duckdns.org
 mobilde2026giris.vip
 mobildeakbayram.vercel.app
 mobildeaktifsubem.sbs
@@ -338171,6 +338176,7 @@ saglikhsysyetki.ml
 sagliki.com.tr
 saglikicinevdekalbasvmyusu.org
 saglikicinevdekalbasvurusu.com
+saglikicinlazim.com
 saglikkhalkbasvuru.epizy.com
 saglikkoprusu.site
 saglikkpandemidestegiiim.com
