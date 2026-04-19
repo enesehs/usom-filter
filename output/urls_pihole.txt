@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-19 08:53:52 UTC
-# Toplam: 449601 Domain
+# Son Güncelleme: 2026-04-19 09:36:09 UTC
+# Toplam: 449603 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58718,6 +58718,7 @@ bald.my-style.in
 baldamlasi.name.tr
 baldatca.com
 baldcircleyouth.weebly.com
+baldiza.site
 baldur-power.com
 baldur1.duckdns.org
 baldwin-gonzalez.live
@@ -195294,6 +195295,7 @@ hediyenizisecin.com
 hediyenizyapikredi.com
 hediyenizyapikredim.com
 hediyenkt.tr.gg
+hediyenyaninda.online
 hediyeofficialbnnsaccounts.com
 hediyeonline.net
 hediyeozelprbdoge-com.tk
