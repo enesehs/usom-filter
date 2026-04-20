@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-20 21:35:19 UTC
-# Toplam: 449799 Domain
+# Son Güncelleme: 2026-04-20 22:31:17 UTC
+# Toplam: 449802 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -240121,6 +240121,7 @@ kanpamyafrisatlari.xyz
 kanpanya1o1firsatlarcom.xyz
 kanpanyabimcell.com
 kanpanyalar-ozel-bireysel-basvurumuz.xyz
+kanpaypktrecnf.click
 kansahibi.app
 kansahibiyim.app
 kansahibiyiz.app
@@ -336881,6 +336882,7 @@ s10157.xyz
 s11-11232323.cloud
 s1112topwar.com
 s13krem.club
+s1464753453ll43.duckdns.org
 s1479xx8.duckdns.org
 s14rhu5uu.duckdns.org
 s15odogn5.duckdns.org
@@ -338402,6 +338404,7 @@ sagliklidesteklerbasvuru.epizy.com
 sagliklievdekaliniz.com
 saglikligunler.gq
 saglikligunler.life
+saglikligunlerr.com
 sagliklinternetevdekal.com
 saglikliyasam.cfd
 saglikliyasamhemen.com
