@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-20 14:44:07 UTC
-# Toplam: 449766 Domain
+# Son Güncelleme: 2026-04-20 16:00:24 UTC
+# Toplam: 449774 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -101050,6 +101050,7 @@ clicksentaccound.me
 clickspiren.com
 clicktobtc.com
 clicktogethers.info
+clickupa.com
 clicled-sipal.com
 cliclsresercheker.com
 clicmaislopla.zapto.org
@@ -262467,6 +262468,7 @@ m2umyhome.tk
 m2w9c4qaqdj8x1o.net
 m2wf2kup2.duckdns.org
 m2wzsvu.duckdns.org
+m2x8k4q9f6b3n7vzat.sbs
 m2xyqh.duckdns.org
 m3.haikiss.net
 m345b.zapto.org
@@ -340170,6 +340172,7 @@ sahibinden.e-guvenli-odeme.sa.com
 sahibinden.e-guvenlialisveris-tr.sa.com
 sahibinden.e-guvenlialisveris.sa.com
 sahibinden.e-hizmetlerin.com.tr
+sahibinden.e-ilan-online-pazar.com
 sahibinden.e-islemler-siparis-tr.sa.com
 sahibinden.e-islemlerim-tr.online
 sahibinden.e-ode.com.tr
@@ -340404,6 +340407,7 @@ sahibinden.guvenli-eticaret.online
 sahibinden.guvenli-hizmet.ru.com
 sahibinden.guvenli-ilaniniz.org
 sahibinden.guvenli-ileode.com
+sahibinden.guvenli-odeme-get.online
 sahibinden.guvenli-odeme.com
 sahibinden.guvenli-odeme.sa.com
 sahibinden.guvenli-odeme.site
@@ -341061,6 +341065,7 @@ sahibinden.sepetim-onayli-satinal.com
 sahibinden.sepetim-online.com
 sahibinden.sepetim-tedarikte.com
 sahibinden.sepetimde-aktif.com.tr
+sahibinden.sepetimde-ilanlar.pro
 sahibinden.sepetimde-ode.com.tr
 sahibinden.sepetimizde.com
 sahibinden.sepetin-tamamla.com.tr
@@ -351126,6 +351131,7 @@ sf3-ttcdn-tos.pstatp.com
 sf3.zapto.org
 sf344.ddns.net
 sf3s7ceh8.duckdns.org
+sf4654dsfdd45df54.cfd
 sf4ovr.duckdns.org
 sf50wx7xw4sxo6araxo.ddns.net
 sf8i.us
@@ -395414,6 +395420,7 @@ tuvturk-sorgul4m4-alaxninizmu4yne.net
 tuvturk-sorgul4m4-alaxninvisfldks.net
 tuvturk-ss.app
 tuvturk-ss.digital
+tuvturk-sse.digital
 tuvturk-ssl.com
 tuvturk-w.digital
 tuvturk-xssl.com
@@ -409622,6 +409629,7 @@ vivgirislemenule.com
 vivhshl.duckdns.org
 vivid.smshero.vip
 vividassortment.top
+vividbranch.com
 vividcaptcha.top
 vividdetention.top
 vividgetaway.com
