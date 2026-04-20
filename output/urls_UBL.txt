@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-20 07:07:54 UTC
-! Total: 358949 rules
+! Last modified: 2026-04-20 09:29:24 UTC
+! Total: 358985 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -15605,6 +15605,7 @@
 *://*.a101yilbasiindirimleri.com/*
 *://*.a101yilbasikampanyan.online/*
 *://*.a101zincirmarketleri.com/*
+*://*.a102indirimliurunleral.com.tr/*
 *://*.a10a01.com/*
 *://*.a10a1-asdqwezxc.xyz/*
 *://*.a10a1skkmpynlar.xyz/*
@@ -25899,6 +25900,7 @@
 *://*.akintvvebsubem3.sbs/*
 *://*.akintwebsub9.xyz/*
 *://*.akintwebsubem3.shop/*
+*://*.akinvesment.com/*
 *://*.akipress.news/*
 *://*.akira-cuddles-blahajs.pirate/*
 *://*.akirateam.com/*
@@ -34032,7 +34034,6 @@
 *://*.arackakacarson.com/*
 *://*.arackakakacarsxn.net/*
 *://*.arackampanya.com.tr/*
-*://*.arackampanya.com/*
 *://*.arackapiyateslim.online/*
 *://*.arackargo.com/*
 *://*.arackayid.net/*
@@ -36885,6 +36886,7 @@
 *://*.assetbusiness.top/*
 *://*.assetfinder.org/*
 *://*.assetfuturenow.online/*
+*://*.assetgrove.shop/*
 *://*.assetgrowthunity.com/*
 *://*.assethomify.com/*
 *://*.assetmage.com/*
@@ -55966,6 +55968,7 @@
 *://*.bireysel-satislar.com.tr/*
 *://*.bireysel-secure-ilan.com/*
 *://*.bireysel-servis-aktarim-cep-tr.com/*
+*://*.bireysel-siparis-extra-tr.site/*
 *://*.bireysel-sonbaharacikdenizv2denizbank.com/*
 *://*.bireysel-sube---giris-tr.com/*
 *://*.bireysel-sube--giris-tr.com/*
@@ -64795,6 +64798,7 @@
 *://*.brandcaresolutions.co/*
 *://*.brandclearrance.com/*
 *://*.brandenelde.com/*
+*://*.brandexops.com/*
 *://*.brandgrowthsolutions.site/*
 *://*.brandguidelines.cloud/*
 *://*.brandhomo.top/*
@@ -65736,6 +65740,7 @@
 *://*.bsfrbrdfanaldkbsdas.cyou/*
 *://*.bsfrolarsdgsadg.bond/*
 *://*.bsfrynldryrsnzbrayaa.my/*
+*://*.bsgfij.cc/*
 *://*.bsglanstklask.space/*
 *://*.bsguvende.online/*
 *://*.bshallcel.net/*
@@ -67189,6 +67194,7 @@
 *://*.bugildbett.top/*
 *://*.bugiplaysec.com/*
 *://*.bugitsolution.com/*
+*://*.bugjfd.help/*
 *://*.buglobalfirsatlaribance.tech/*
 *://*.bugncalsmagundi.cfd/*
 *://*.bugnencokbahrfirstlarikacrmam.sbs/*
@@ -72496,6 +72502,7 @@
 *://*.cartcollective.art/*
 *://*.cartdisplacement.top/*
 *://*.cartermayorhour.com/*
+*://*.cartflow.gifts/*
 *://*.cartifyat.com/*
 *://*.cartlino.tr/*
 *://*.cartloop.top/*
@@ -72512,6 +72519,7 @@
 *://*.cartrasfa.online/*
 *://*.cartridgecave.co.za/*
 *://*.cartsadnessa.top/*
+*://*.cartscope.gifts/*
 *://*.carujgalz.shop/*
 *://*.carve842.xyz/*
 *://*.carveavenge.top/*
@@ -78084,6 +78092,7 @@
 *://*.cloudbasvurunutamamla.cloud/*
 *://*.cloudbluefox.com/*
 *://*.cloudboats.vip/*
+*://*.cloudbranch.shop/*
 *://*.cloudbrocloud.com/*
 *://*.cloudcanvas.homes/*
 *://*.cloudcanvrtyas.info/*
@@ -80189,6 +80198,7 @@
 *://*.compacpro.pics/*
 *://*.compact-miracle-abounds.top/*
 *://*.compact.link/*
+*://*.compact.sbs/*
 *://*.compactembed.ml/*
 *://*.compactmediate.top/*
 *://*.compactrejoice.top/*
@@ -83504,6 +83514,7 @@
 *://*.craftlymc.com/*
 *://*.craftpopshop.com/*
 *://*.craftscapes.info/*
+*://*.craftsignal.cfd/*
 *://*.craftstoryco.com/*
 *://*.craftyouownworld.com/*
 *://*.crahdhduf.com/*
@@ -84494,6 +84505,7 @@
 *://*.csnaver.com/*
 *://*.csndglcnkubnlaridhablmzsn.digital/*
 *://*.csndjsabak-ansbsn-indirm.cyou/*
+*://*.csnisf.cc/*
 *://*.csnv19.com/*
 *://*.csok997.com/*
 *://*.csomfdujfgpwkot.cn/*
@@ -123546,6 +123558,7 @@
 *://*.extractionpedal.top/*
 *://*.extractionprotocol.top/*
 *://*.extractix.xyz/*
+*://*.extractstore.shop/*
 *://*.extractturnout.top/*
 *://*.extradoldur.xyz/*
 *://*.extradolum.xyz/*
@@ -125785,6 +125798,7 @@
 *://*.fbverification.link/*
 *://*.fbvn.info/*
 *://*.fbwafuryp.info/*
+*://*.fbwbgo.cc/*
 *://*.fbwebnstagramglobal.com/*
 *://*.fbwjbz.ru/*
 *://*.fbyonlendir.click/*
@@ -130609,6 +130623,7 @@
 *://*.flashl1ght.top/*
 *://*.flashmaster.pw/*
 *://*.flashmnt.top/*
+*://*.flashnewsline.online/*
 *://*.flashnewsservice.org/*
 *://*.flashorbitnews.com/*
 *://*.flashplayeer.xyz/*
@@ -132779,6 +132794,7 @@
 *://*.frsaatanala.cfd/*
 *://*.frsat-indrmleri-siz-bize-hbr-vxhshsn.com.tr/*
 *://*.frsat-katalog.com/*
+*://*.frsat-obilet-kmpyandayz.shop/*
 *://*.frsat.com.tr/*
 *://*.frsat0vergikmpanyasonteslim.com/*
 *://*.frsataddass1.xyz/*
@@ -140445,6 +140461,7 @@
 *://*.gifts-whells-july.net/*
 *://*.giftsaway.click/*
 *://*.giftshop.club/*
+*://*.giftstyle.gifts/*
 *://*.giftvip.xyz/*
 *://*.giftwallets.org/*
 *://*.giftwave.gifts/*
@@ -198938,6 +198955,7 @@
 *://*.kftraldlsmvzx.net/*
 *://*.kfura.com/*
 *://*.kfwpr.com/*
+*://*.kfx-options.live/*
 *://*.kfxuc4hx2g.com/*
 *://*.kfy1.xyz/*
 *://*.kg-mgh.life/*
@@ -201079,6 +201097,7 @@
 *://*.klxkdsmdjxjx.net/*
 *://*.klyanrahgaey.com/*
 *://*.klyislemler.xyz/*
+*://*.klyndex.website/*
 *://*.klynrifz.com/*
 *://*.klyptao.store/*
 *://*.klypto.info/*
@@ -208609,6 +208628,7 @@
 *://*.linkrequest.live/*
 *://*.links-dolap.com/*
 *://*.links-sponsor-mobilde-tr.click/*
+*://*.links-sponsor-mobilde-tr.lol/*
 *://*.linksa.asia/*
 *://*.linksafe.life/*
 *://*.linksammosupply.com/*
@@ -217873,6 +217893,7 @@
 *://*.mfawdjada.shop/*
 *://*.mfcvll.top/*
 *://*.mfdemlkhvshvers.net/*
+*://*.mferje.cc/*
 *://*.mffkiblekyoxnefn.com/*
 *://*.mfgdmyvu.info/*
 *://*.mfgrhjygfdc234as.digital/*
@@ -217927,6 +217948,7 @@
 *://*.mggiftendgg.com/*
 *://*.mghandymanplumber.com/*
 *://*.mgitpiuhqulsfh.me/*
+*://*.mgjfud.cc/*
 *://*.mgjmz.cn/*
 *://*.mgkservicesfee.pw/*
 *://*.mglelytvhbsf.com/*
@@ -229424,6 +229446,7 @@
 *://*.newsdash.world/*
 *://*.newsdashline.com/*
 *://*.newsdaysmoneys.com/*
+*://*.newsdelta.org/*
 *://*.newsdensgerler.com/*
 *://*.newsdirect.online/*
 *://*.newsdora.online/*
@@ -229900,6 +229923,7 @@
 *://*.ngfpwil.com/*
 *://*.nghny.tk/*
 *://*.nghvzyf.com/*
+*://*.nghyfd.cc/*
 *://*.ngiabpbcxcovfcx.ru/*
 *://*.ngin.live/*
 *://*.ngjwe.com/*
@@ -231324,6 +231348,7 @@
 *://*.northforkbrewtours.net/*
 *://*.northgamotor.com/*
 *://*.northglitter.top/*
+*://*.northgrove.vu/*
 *://*.northi-worvak.cfd/*
 *://*.northi-worvak.cyou/*
 *://*.northice.xyz/*
@@ -235710,6 +235735,7 @@
 *://*.okize.store/*
 *://*.okjanmzsdc.click/*
 *://*.okjeinvdbkbfvhb.net/*
+*://*.okjnfg.cc/*
 *://*.okjqyib.com/*
 *://*.okkifamily.com/*
 *://*.okkkuvveeyttttyurrkkommobiildde2023.online/*
@@ -269065,6 +269091,7 @@
 *://*.routechx.com/*
 *://*.routeforge.shop/*
 *://*.routegrove.cfd/*
+*://*.routehaven.cfd/*
 *://*.routeofgrowth.com/*
 *://*.routepebble.com/*
 *://*.routermanager.ga/*
@@ -288285,6 +288312,7 @@
 *://*.sonlardabrdabzvrdkszn.shop/*
 *://*.sonlardan-kazanip-ileriye-devam-eder.com/*
 *://*.sonlardancandansad.shop/*
+*://*.sonlardansonkzler.shop/*
 *://*.sonlari-biraz-tahmin-ederek-iyiden-gidin.com/*
 *://*.sonlaridabilirkibizden.cfd/*
 *://*.sonlarinda-buragibi-ilkine-getirdikce-aliriz.top/*
@@ -304144,6 +304172,7 @@
 *://*.tinderdestek.tk/*
 *://*.tinderdogrulanmisuye.tk/*
 *://*.tinderpluschat.com/*
+*://*.tindgb.cc/*
 *://*.tindytrezig.com/*
 *://*.tinendorsement.top/*
 *://*.tinerbabis.top/*
@@ -310590,6 +310619,7 @@
 *://*.trendcurrent.online/*
 *://*.trenddofficial.com.co/*
 *://*.trenddyol.net/*
+*://*.trendengine.world/*
 *://*.trendeniz-cekilis.click/*
 *://*.trendfactoryhub.com/*
 *://*.trendfirstlar101leyilsonu.com/*
@@ -312776,6 +312806,7 @@
 *://*.true-lie.com/*
 *://*.true-start.com/*
 *://*.trueaerned.com/*
+*://*.truebeacon.cfd/*
 *://*.truecarfilo.com/*
 *://*.trueemigrat.top/*
 *://*.truefashionnews.com/*
@@ -316697,6 +316728,7 @@
 *://*.tutboncekestomeses.xyz/*
 *://*.tutdmjbrjxmv.xyz/*
 *://*.tutello.shop/*
+*://*.tutfox.cfd/*
 *://*.tutgutlu-marketle-hiz-pesinde.shop/*
 *://*.tuthit.ru/*
 *://*.tutiurkikiyse.online/*
@@ -349720,6 +349752,7 @@
 *://*.ydpi.pw/*
 *://*.ydpikredi.com/*
 *://*.ydpkmf.top/*
+*://*.ydqoks.cc/*
 *://*.ydqriusovdajqcdwoicdl.pw/*
 *://*.ydsyii.com/*
 *://*.yduyyoxu.io/*
@@ -354166,6 +354199,7 @@
 *://*.ytykslktlstnm.com/*
 *://*.ytyukai.cn/*
 *://*.ytzhtazhong.cn/*
+*://*.ytznay.cc/*
 *://*.yuafaas.com/*
 *://*.yual.top/*
 *://*.yuanchuang0088.com/*
@@ -357908,6 +357942,7 @@
 *://*.zireet.sbs/*
 *://*.zireetbankasi.com/*
 *://*.ziret.sbs/*
+*://*.zirex.bond/*
 *://*.zirfirsati.com/*
 *://*.zirfirsatkacmaz.com/*
 *://*.zirfirsatkacmaz.online/*
@@ -358720,6 +358755,7 @@
 *://*.zxc-tok.click/*
 *://*.zxc.global/*
 *://*.zxc3421.xyz/*
+*://*.zxcbvcnasdfjdsa1.cfd/*
 *://*.zxcccsxsvs.net/*
 *://*.zxcewq18.pw/*
 *://*.zxcladvct-csdvt.com/*
