@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-20 20:33:29 UTC
-# Toplam: 449794 Domain
+# Son Güncelleme: 2026-04-20 21:35:19 UTC
+# Toplam: 449799 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -59250,6 +59250,7 @@ bankasi-iscep.com
 bankasi-kampanya.com
 bankasi-kredi.com
 bankasi-yatirim-pro.pages.dev
+bankasi-yatirim.pro
 bankasi.club
 bankasi.com
 bankasi.fit
@@ -74856,6 +74857,7 @@ bireysel-kampanya-hediye-900tl-online-com.cf
 bireysel-kampanya-iscep-firsati.club
 bireysel-kampanya-iscep-firsati.online
 bireysel-kampanya-iscep-firsati.xyz
+bireysel-kampanya-teb.my-homeip.de
 bireysel-kampanya.com
 bireysel-kampanya1000tlonline-basvur-com.cf
 bireysel-kampanya1000tlonline-basvur-com.ga
@@ -203386,6 +203388,7 @@ hizlicagricilarkartal.duckdns.org
 hizlicahasarddurumuorren.net
 hizlicahemenhizlandi.shop
 hizlicahizlandi.shop
+hizlicaislemlerinxz.com
 hizlicaislemmhxrs.org
 hizlicakapidabizle.org
 hizlicakapidafrsattlarr.xyz
@@ -402400,6 +402403,7 @@ va928h0cq570sy4.duckdns.org
 vaakifbankasi.com
 vaakiiiifmobllkampanyalari.gq
 vaakkkifffdd.net
+vaameazsf.webredirect.org
 vaarolasifirsatgirisim.com
 vaasasakaf.com
 vab1krku.duckdns.org
@@ -449474,6 +449478,7 @@ zxc.global
 zxc228.ddns.net
 zxc3421.xyz
 zxcbvcnasdfjdsa1.cfd
+zxcbvcnasdfjdsa1.lol
 zxcccsxsvs.net
 zxcczxcc.ddns.net
 zxcewq18.pw
