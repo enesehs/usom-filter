@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-20 17:04:03 UTC
-! Total: 359027 rules
+! Last modified: 2026-04-20 19:53:19 UTC
+! Total: 359038 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -15976,6 +15976,7 @@
 *://*.a1z1h2xendd.biz/*
 *://*.a2-tickets.ru/*
 *://*.a23sks.com/*
+*://*.a23zaa34d4tg4s.cfd/*
 *://*.a26604d6e1d94cd4c729dde8867b28b7.au/*
 *://*.a2700ou.com/*
 *://*.a28jtj9s4cy7ujmh.ru/*
@@ -33454,6 +33455,7 @@
 *://*.aq1o1wxdwxw.life/*
 *://*.aqadawucux.com/*
 *://*.aqarco.com/*
+*://*.aqasasghfafa1.cfd/*
 *://*.aqbwyuahufssefhok.me/*
 *://*.aqditoruf.com/*
 *://*.aqeeappaea.com/*
@@ -70580,6 +70582,7 @@
 *://*.cadrkap.shop/*
 *://*.cadsangiorgio.com/*
 *://*.cadscadstats.xyz/*
+*://*.cadscsaklklqeclqwe.lol/*
 *://*.cadunelopix.com/*
 *://*.cae9bd15b5d4.com/*
 *://*.caeerrerasss.xyz/*
@@ -141679,6 +141682,7 @@
 *://*.girr-is-parabu.com/*
 *://*.girris-para-bu.com/*
 *://*.girriss-parabu.com/*
+*://*.girs17gorgir.sbs/*
 *://*.girsakbhmnpjkkdj.click/*
 *://*.girsakbnc4b1opjkkdj.click/*
 *://*.girsbnnstrllogn.xyz/*
@@ -183466,6 +183470,7 @@
 *://*.istanbulbelediye1453.net/*
 *://*.istanbulbelediyebuyuksehir.com/*
 *://*.istanbulbelediyesidolum.net/*
+*://*.istanbulbenim.xyz/*
 *://*.istanbulbenle.shop/*
 *://*.istanbulberrakhalis.shop/*
 *://*.istanbulbezlss.net/*
@@ -189030,6 +189035,7 @@
 *://*.jawpvlnko.com/*
 *://*.jax-link.click/*
 *://*.jaxbasvurakfirsat.online/*
+*://*.jaxdurek.buzz/*
 *://*.jaxfirsatlari.online/*
 *://*.jaxjpkyximhyfpl.ru/*
 *://*.jaxoliro.com/*
@@ -226700,6 +226706,7 @@
 *://*.mylrendyphone.com/*
 *://*.myltafarmtr.cfd/*
 *://*.mylxzmerm3eke.net/*
+*://*.mylzavex.buzz/*
 *://*.mymachub.com/*
 *://*.mymacsoft.com/*
 *://*.mymagnethub.one/*
@@ -274910,6 +274917,7 @@
 *://*.sayfaonline-bireyselkampanya-katilimformu-2022ozel.tk/*
 *://*.sayfapaributeknolojidogehediyesi-com.tk/*
 *://*.sayfatek.digital/*
+*://*.sayfaya-gittl.cfd/*
 *://*.sayfedsofedtomezdomez.com/*
 *://*.saygi-hakedilene-sevgi-hissettirene-en-guzel-yakisir.com/*
 *://*.saygi-sart-olanlar-biraz-fazla-gorurler.com/*
@@ -278034,6 +278042,7 @@
 *://*.sepet-satinal.com/*
 *://*.sepet-servis.com.tr/*
 *://*.sepet-servisler.com.tr/*
+*://*.sepet-siparisler.com/*
 *://*.sepet-takip.com/*
 *://*.sepet-tedarikte.com/*
 *://*.sepet-tr.com.tr/*
@@ -350428,6 +350437,7 @@
 *://*.yenidijitaldenizmobilv2finansalaltin.com/*
 *://*.yenidijitaldoviz-mobildeniz.com/*
 *://*.yenidijtaldenizv2denizmobil.com/*
+*://*.yenidn-resmi-duyuru.sbs/*
 *://*.yenidnmiad-efrsti.com/*
 *://*.yenidogandernegi.com/*
 *://*.yenidonembas-vurusu.com/*
@@ -355309,6 +355319,7 @@
 *://*.zalimsiniz2.com.tr/*
 *://*.zalimsiniz3.com.tr/*
 *://*.zaliphone.com/*
+*://*.zalkemir.media/*
 *://*.zallesman.ru/*
 *://*.zalm37.be/*
 *://*.zalofilescdn.com/*
