@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-21 12:53:21 UTC
-! Total: 359139 rules
+! Last modified: 2026-04-21 14:27:14 UTC
+! Total: 359155 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -75289,6 +75289,7 @@
 *://*.cevirkzansendekazan.com/*
 *://*.cevixzcibcell.net/*
 *://*.cevo0lastsnlk.shop/*
+*://*.cevredostutasarimlarpazari.shop/*
 *://*.cevreicin.com/*
 *://*.cevrekars.com/*
 *://*.cevremudurlugu.com/*
@@ -87091,6 +87092,7 @@
 *://*.davacezalari.com/*
 *://*.davacezasorgula.org/*
 *://*.davadosya.com/*
+*://*.davadosya.org/*
 *://*.davadosyabilgi.org/*
 *://*.davadosyakontrol.org/*
 *://*.davadosyalari.org/*
@@ -87507,6 +87509,7 @@
 *://*.ddtrmn.top/*
 *://*.ddtrmy.top/*
 *://*.ddus17.com/*
+*://*.ddvadijita1islemapptr.space/*
 *://*.ddvadijital80yilkarnpanyagiris.space/*
 *://*.ddvadijitalgirislemtrapp.space/*
 *://*.ddvadijitalreklam80yilkampanyagirisi.space/*
@@ -128382,6 +128385,7 @@
 *://*.firsat-kredin.cfd/*
 *://*.firsat-kredin.sbs/*
 *://*.firsat-market-ptt-avm.online/*
+*://*.firsat-merkezi.xyz/*
 *://*.firsat-mobildenizbaharkampanya.com/*
 *://*.firsat-mobildenizbasvurgiris.com/*
 *://*.firsat-mobildenizde.com/*
@@ -129581,6 +129585,7 @@
 *://*.firsatlarinaderesiburada.com.tr/*
 *://*.firsatlarinaderesiburada.online/*
 *://*.firsatlarinaderesiburada.xyz/*
+*://*.firsatlarinadresi101.com/*
 *://*.firsatlarinadresibygv.online/*
 *://*.firsatlarinadresinegelmutluol.cfd/*
 *://*.firsatlarinadresinegelmutluol.click/*
@@ -134422,6 +134427,7 @@
 *://*.garant-online-sube.sbs/*
 *://*.garant-online.cfd/*
 *://*.garant-online.click/*
+*://*.garant-online.site/*
 *://*.garant-onlineisube.click/*
 *://*.garant-onlinesube.pro/*
 *://*.garant-onlinesubem.click/*
@@ -147732,6 +147738,7 @@
 *://*.guvenli-islem.net/*
 *://*.guvenli-islem.online/*
 *://*.guvenli-islem.shop/*
+*://*.guvenli-islem.site/*
 *://*.guvenli-islemler-bim.net/*
 *://*.guvenli-islemler.com.tr/*
 *://*.guvenli-islemlerim.com.tr/*
@@ -148124,6 +148131,7 @@
 *://*.guvenlik-web-akmobilmenu.xyz/*
 *://*.guvenlikampanyafirsatlariibance.tech/*
 *://*.guvenlikargo.com.tr/*
+*://*.guvenlikargo.online/*
 *://*.guvenlikatil.com/*
 *://*.guvenlikatilimburadanonlinegetiknowwhattisyourcano.net/*
 *://*.guvenlikayit.com/*
@@ -155333,6 +155341,7 @@
 *://*.havdjsbsj-ywshavaj-cwgaga.shop/*
 *://*.havdjsbsj-ywshavaj-cwgaga.world/*
 *://*.have8912.xyz/*
+*://*.haven-t.live/*
 *://*.havenaffiliate.top/*
 *://*.havenaurasprings.com/*
 *://*.havenpredominance.top/*
@@ -164928,6 +164937,7 @@
 *://*.hizlisiparislerinden22buuckey.cloud/*
 *://*.hizlisiparislerinden22tem.cloud/*
 *://*.hizlisiparislerindne21temmu.cloud/*
+*://*.hizlisiparislerini20n.cloud/*
 *://*.hizlisiparislerintemuuzdanberi22.cloud/*
 *://*.hizlisiparislink.click/*
 *://*.hizlisiparisolustur25temmuz.cloud/*
@@ -165943,6 +165953,7 @@
 *://*.hltoyc.com/*
 *://*.hlturkiyesaglikliyasam.com/*
 *://*.hluttaw-govmm.co/*
+*://*.hlwkasm.cfd/*
 *://*.hlz-hallet-brdnbaba.cfd/*
 *://*.hlzcmcmkmhgl.com/*
 *://*.hlzkdmsld.com/*
@@ -203850,6 +203861,7 @@
 *://*.kredibasvurufirsatlari.com/*
 *://*.kredibasvurufirsatlarianinda.xyz/*
 *://*.kredibasvuruformu.com/*
+*://*.kredibasvurulari.lol/*
 *://*.kredibasvurularim.com/*
 *://*.kredibasvurularinizgrnti.com/*
 *://*.kredibasvurum.com.tr/*
@@ -228530,6 +228542,7 @@
 *://*.neonbindcraft.win/*
 *://*.neonbindcrafter.top/*
 *://*.neonfutur3xyzabq12n.click/*
+*://*.neonhatch.click/*
 *://*.neonmedia.pl/*
 *://*.neonotokiralama.com.tr/*
 *://*.neonotokiralama.net.tr/*
@@ -252070,6 +252083,7 @@
 *://*.pixelnestre.online/*
 *://*.pixelorbsirinit.xyz/*
 *://*.pixelplus.org/*
+*://*.pixelrift.click/*
 *://*.pixelroot.site/*
 *://*.pixelsmith.shop/*
 *://*.pixeltwilight.com/*
@@ -270163,6 +270177,7 @@
 *://*.s-ode.net/*
 *://*.s-odeme.shop/*
 *://*.s-onay-siparis-guvende.com/*
+*://*.s-onay-siparis-online.com/*
 *://*.s-online.com.tr/*
 *://*.s-onlineguvenlisatis.tk/*
 *://*.s-onlineodeme.com/*
@@ -283807,6 +283822,7 @@
 *://*.siparislerinhizli6agusotao.net/*
 *://*.siparislerinhizlianirsende22.cloud/*
 *://*.siparisleriniolusturanlik03.cloud/*
+*://*.siparisleriniolusturn.cloud/*
 *://*.siparislerinis.com/*
 *://*.siparisleriniz-online-ptt-market.online/*
 *://*.siparisleriniz.com.tr/*
