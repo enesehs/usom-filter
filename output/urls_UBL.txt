@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-21 10:08:13 UTC
-! Total: 359073 rules
+! Last modified: 2026-04-21 11:53:27 UTC
+! Total: 359111 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32700,6 +32700,7 @@
 *://*.apbauto.net/*
 *://*.apbbsq.ru/*
 *://*.apbtminuy.com/*
+*://*.apbuir.buzz/*
 *://*.apbyhgxwinosjxl.com/*
 *://*.apczdn1.click/*
 *://*.apczdn2.click/*
@@ -33415,6 +33416,7 @@
 *://*.aps90tel.ru/*
 *://*.apsgw881ol7rs.life/*
 *://*.apsptt.xyz/*
+*://*.apspttgovtr.icu/*
 *://*.apssainikschoolinrajasthan.com/*
 *://*.apstori.ru/*
 *://*.apt-apt.cfd/*
@@ -70138,6 +70140,7 @@
 *://*.byramlndrm-kapdiaaa.net/*
 *://*.byrdraffst.quest/*
 *://*.byretyo0nsnal.online/*
+*://*.byrlpz.buzz/*
 *://*.byrls-unfar-tankka.com/*
 *://*.byrm-ikramysi-al-hemn-tikla.site/*
 *://*.byrmalisversleriuyugunsepettte.online/*
@@ -84564,6 +84567,7 @@
 *://*.ct1g.com/*
 *://*.ct2krsawt.top/*
 *://*.ctasigorta.site/*
+*://*.ctbcol.click/*
 *://*.ctcco.rest/*
 *://*.ctci.ir/*
 *://*.ctdtgwag.biz/*
@@ -98532,6 +98536,7 @@
 *://*.dnizsubatkredikmpya.xyz/*
 *://*.dnj55avp.net/*
 *://*.dnjegkdzxox.net/*
+*://*.dnjelq.cc/*
 *://*.dnkayyyd.info/*
 *://*.dnklymbasit.online/*
 *://*.dnm777.xyz/*
@@ -99169,6 +99174,7 @@
 *://*.dogluramamerkezin.com/*
 *://*.dogmaassertive.top/*
 *://*.dogmauggle.top/*
+*://*.dogmds.click/*
 *://*.dogmemed.dog/*
 *://*.dogmuncher.xyz/*
 *://*.dogratanet.xyz/*
@@ -108115,6 +108121,7 @@
 *://*.eatrepeatindia.com/*
 *://*.eatrgrise.com/*
 *://*.eatside.es/*
+*://*.eauawn.click/*
 *://*.eaubasa.gdn/*
 *://*.eaucrq.com/*
 *://*.eauth0.com/*
@@ -108559,6 +108566,7 @@
 *://*.ebpegt.top/*
 *://*.ebqyeeiulwvu.space/*
 *://*.ebrarsanaasigim.xyz/*
+*://*.ebrgis.click/*
 *://*.ebrjpkfwsvst.xyz/*
 *://*.ebru3d.xyz/*
 *://*.ebruok3oam.digital/*
@@ -119606,6 +119614,7 @@
 *://*.errhgsc.com/*
 *://*.errhgsm.com/*
 *://*.errinborn.top/*
+*://*.errkta.help/*
 *://*.errngr-efsllc.top/*
 *://*.errngraefsllc.top/*
 *://*.errngreefeslelc.top/*
@@ -125020,6 +125029,7 @@
 *://*.faq-help-center.com/*
 *://*.faqserv.com/*
 *://*.faqwqazaa.com/*
+*://*.faqzru.buzz/*
 *://*.far20mu.cn/*
 *://*.faraclarmuayeneli.net/*
 *://*.faramizdakalsinlersif.click/*
@@ -131371,6 +131381,7 @@
 *://*.fnoyuhfvvaoyysm.cn/*
 *://*.fnporg.top/*
 *://*.fnpvcvsxgjwuwbq.su/*
+*://*.fnrjme.help/*
 *://*.fnsave.com/*
 *://*.fnsdfmsnsdmnfm.net/*
 *://*.fnsfdbbsn.net/*
@@ -149642,6 +149653,7 @@
 *://*.haberkapital.life/*
 *://*.haberkatilimbasvurusu.com/*
 *://*.haberkaynagim.online/*
+*://*.haberkaynagim.shop/*
 *://*.haberkaynagim.site/*
 *://*.haberkaynagim.website/*
 *://*.haberkek.club/*
@@ -166346,6 +166358,7 @@
 *://*.hojestlertok.click/*
 *://*.hojgklks.org/*
 *://*.hojlshg.org/*
+*://*.hojulm.cc/*
 *://*.hoki66.com/*
 *://*.hokidemezlerksasrlar31.cloud/*
 *://*.hokishadelerrfleks.cloud/*
@@ -168353,6 +168366,7 @@
 *://*.htiyatgovcttr.club/*
 *://*.htjxnrmamv.net/*
 *://*.htkmlebcn.com/*
+*://*.htlgid.help/*
 *://*.htlgnjg-gwenivcls.com/*
 *://*.htmerkezisbilgi.sbs/*
 *://*.htmjnklkrmxg.space/*
@@ -169160,6 +169174,7 @@
 *://*.hxckrdscxsa.net/*
 *://*.hxcrkanvxma.net/*
 *://*.hxcrlvpyd.site/*
+*://*.hxcuue.click/*
 *://*.hxczzzw.com/*
 *://*.hxdciyl.info/*
 *://*.hxdfgdfyyle.net/*
@@ -171644,6 +171659,7 @@
 *://*.ibistanbulbdolmc.net/*
 *://*.ibitonrege.top/*
 *://*.ibivmhcellmsl.ml/*
+*://*.ibizll.click/*
 *://*.ibjsri.top/*
 *://*.ibkartykleme.net/*
 *://*.ibkartyklemeler.net/*
@@ -172597,6 +172613,7 @@
 *://*.idwdopingodeme.rsvp/*
 *://*.idwp.ru/*
 *://*.idxup.com/*
+*://*.idytog.buzz/*
 *://*.idzykle.com/*
 *://*.ie-aikarcahome.shop/*
 *://*.ie-hgs.xyz/*
@@ -190178,6 +190195,7 @@
 *://*.jpwwssmlkjcc.org/*
 *://*.jpyxbq.com/*
 *://*.jpz9w9yw7.ga/*
+*://*.jpzjeu.buzz/*
 *://*.jqdenizbank.com/*
 *://*.jqeoq0r1hgf03ds.in/*
 *://*.jqgkxc.xyz/*
@@ -200621,6 +200639,7 @@
 *://*.kjjceey.com/*
 *://*.kjk96aioqicu0bdf.info/*
 *://*.kjkdndskjl.info/*
+*://*.kjkdvj.buzz/*
 *://*.kjke.pw/*
 *://*.kjkhgss.com/*
 *://*.kjko.pw/*
@@ -225557,6 +225576,7 @@
 *://*.munitioners.com/*
 *://*.munodvdpbi.cfd/*
 *://*.munodvdpbi.sbs/*
+*://*.munovj.cc/*
 *://*.munurfitness.net/*
 *://*.munurhocafitness.net/*
 *://*.munzurtadnqdqk52k11-12125125.com/*
@@ -233691,6 +233711,7 @@
 *://*.nwxdrspsptlardnvualmamrk.net/*
 *://*.nwxi-rndefularxalmservsi.net/*
 *://*.nwyftr.top/*
+*://*.nwyynz.click/*
 *://*.nx-rxndebularial.net/*
 *://*.nxasvirndxu.net/*
 *://*.nxbcsjdghwyehywe.net/*
@@ -242784,6 +242805,7 @@
 *://*.otshqsz.casa/*
 *://*.otshqsz.xyz/*
 *://*.otsp.xyz/*
+*://*.otswbz.buzz/*
 *://*.otszkwja.com/*
 *://*.ott2hgs-tr.org/*
 *://*.ottmekes.com/*
@@ -251250,6 +251272,7 @@
 *://*.pfjajk214s5ds.xyz/*
 *://*.pfjajk214sds.xyz/*
 *://*.pfjdbkw.org/*
+*://*.pfknlm.help/*
 *://*.pflfipbxwlukrqwibtofargl.org/*
 *://*.pfmmain.vip/*
 *://*.pfmvzi.com/*
@@ -261321,6 +261344,7 @@
 *://*.qmdtqvgivuaqcpm.ru/*
 *://*.qmfxnweou.com/*
 *://*.qmhomyowwqcdfpq.ru/*
+*://*.qmjcne.cc/*
 *://*.qmlhs.com/*
 *://*.qmlpqhwjjcqh.space/*
 *://*.qmmmshpqan.info/*
@@ -262925,6 +262949,7 @@
 *://*.qtpinftjdnvl.site/*
 *://*.qtpinftjdnvl.website/*
 *://*.qtqpfipofcuc.xyz/*
+*://*.qtqvkr.click/*
 *://*.qtrek.info/*
 *://*.qtrsdg-24-dgsdg.space/*
 *://*.qtrsearch.com/*
@@ -268582,6 +268607,7 @@
 *://*.rmsrmpnewh.org/*
 *://*.rmu.ac.th/*
 *://*.rmulty.com/*
+*://*.rmwdfr.help/*
 *://*.rmwztbrr.com/*
 *://*.rmygo.com/*
 *://*.rmyvzhk.com/*
@@ -271379,6 +271405,7 @@
 *://*.saglikbilgisistem.ml/*
 *://*.saglikbilgisistemi.ml/*
 *://*.saglikbsasvurunuz.com/*
+*://*.saglikburaada.com/*
 *://*.saglikcalisanlarinasiddetehayir.tk/*
 *://*.saglikcimer-ajanshaberler.com/*
 *://*.saglikciyadestek.tk/*
@@ -291382,6 +291409,7 @@
 *://*.srgislemler.cfd/*
 *://*.srgouosehohedohaeoh.ru/*
 *://*.srgouosehohedohaeohu.info/*
+*://*.srgu-onlayynn-isslem.sbs/*
 *://*.srgudama.online/*
 *://*.srgukmaninda.com/*
 *://*.srgulama-ve-geri-alma-ekrani.cyou/*
@@ -307052,6 +307080,7 @@
 *://*.tozkapicihasereyeson.site/*
 *://*.tozmwg.com/*
 *://*.tozsigortam.com.tr/*
+*://*.tozsqk.click/*
 *://*.tozymos.com/*
 *://*.tp-aoturk.com/*
 *://*.tp-globa.xyz/*
@@ -312350,6 +312379,7 @@
 *://*.trprtalgrskrmsal.com/*
 *://*.trps-packer.com/*
 *://*.trpstrwebhgsavbilgis.sbs/*
+*://*.trptt-go.top/*
 *://*.trptt-gov.click/*
 *://*.trptt-gov.cyou/*
 *://*.trptt-gov.top/*
@@ -319893,6 +319923,7 @@
 *://*.uptovein.store/*
 *://*.upttgov.top/*
 *://*.upttplc.cc/*
+*://*.upufxu.cc/*
 *://*.upunilateral.top/*
 *://*.upupdate.cn/*
 *://*.upuygnsiqorta.xyz/*
@@ -333628,6 +333659,7 @@
 *://*.wihotitbu.com/*
 *://*.wijgzsfh.com/*
 *://*.wijmau.click/*
+*://*.wijqqw.click/*
 *://*.wikaba.com/*
 *://*.wikeneweb.com/*
 *://*.wiki-text.xyz/*
@@ -345870,6 +345902,7 @@
 *://*.xurhaym.com/*
 *://*.xurs.ru/*
 *://*.xurum.com/*
+*://*.xurwuc.help/*
 *://*.xusezo.com/*
 *://*.xusloc6.com/*
 *://*.xut1.com/*
@@ -351894,6 +351927,7 @@
 *://*.yg9.me/*
 *://*.yg9e67.vip/*
 *://*.ygalgpiwettudlp.ru/*
+*://*.ygbnni.help/*
 *://*.ygcimnwhk.com/*
 *://*.ygclamp.com/*
 *://*.ygdponigowwf.info/*
@@ -354274,6 +354308,7 @@
 *://*.ytrsrg.online/*
 *://*.ytsynergy.com/*
 *://*.ytszkampcfrs.cfd/*
+*://*.yttqna.buzz/*
 *://*.yttrsiqorta.com.tr/*
 *://*.yttrsiqorta.xyz/*
 *://*.ytube888.info/*
@@ -355646,6 +355681,7 @@
 *://*.zbankonline.com/*
 *://*.zbcpda.com/*
 *://*.zbdenizbank.com/*
+*://*.zbdkdx.help/*
 *://*.zbdrixk.com/*
 *://*.zbecs.com/*
 *://*.zbgtrqlu.com/*
@@ -358756,6 +358792,7 @@
 *://*.zullaoyun.ml/*
 *://*.zulmira.store/*
 *://*.zulpichat.com/*
+*://*.zulyjo.help/*
 *://*.zumadapepe.site/*
 *://*.zumbanet.net/*
 *://*.zumkoshapsret.com/*
@@ -358812,6 +358849,7 @@
 *://*.zvvbgf.icu/*
 *://*.zw52.ru/*
 *://*.zwasjfknfd.com/*
+*://*.zwcrzi.cc/*
 *://*.zwdaticbhalm.online/*
 *://*.zwdwcw.click/*
 *://*.zwepdo.com/*
