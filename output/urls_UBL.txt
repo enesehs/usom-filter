@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-22 06:27:15 UTC
-! Total: 359207 rules
+! Last modified: 2026-04-22 08:22:57 UTC
+! Total: 359222 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2740,6 +2740,7 @@
 *://*.1327.live/*
 *://*.1327.pro/*
 *://*.132ekxttrr-amrktstindnrmllrinde.xyz/*
+*://*.132xkacskldc213x12.cfd/*
 *://*.133-tre.info/*
 *://*.1332345com.com/*
 *://*.1337.day/*
@@ -35900,6 +35901,7 @@
 *://*.arzantara.com/*
 *://*.arzima.ir/*
 *://*.arzqyn.com/*
+*://*.arzumbaharindirimi.com.tr/*
 *://*.arzumceyiz.com/*
 *://*.arzumokka.online/*
 *://*.as-aidatt-iade.ml/*
@@ -37239,6 +37241,7 @@
 *://*.atb-lit.com/*
 *://*.atba3li.com/*
 *://*.atbankgold.com/*
+*://*.atbedk.click/*
 *://*.atbicofr.com/*
 *://*.atbkonline.com/*
 *://*.atbmqucijqvkbs.info/*
@@ -114571,6 +114574,7 @@
 *://*.ekranmerkez-tr-web.space/*
 *://*.ekransorgulama-sistemiveonlline.cyou/*
 *://*.ekransrgulaveaktar.cyou/*
+*://*.ekranzirgirislerinle.sbs/*
 *://*.ekrdiverbasvur.net/*
 *://*.ekrdlrbasvur.net/*
 *://*.ekredimi.com/*
@@ -128402,6 +128406,7 @@
 *://*.firsat-kredin.cfd/*
 *://*.firsat-kredin.sbs/*
 *://*.firsat-market-ptt-avm.online/*
+*://*.firsat-mbl.click/*
 *://*.firsat-merkezi.xyz/*
 *://*.firsat-mobildenizbaharkampanya.com/*
 *://*.firsat-mobildenizbasvurgiris.com/*
@@ -145246,6 +145251,7 @@
 *://*.groupewadesecurity.com/*
 *://*.groupexercise.top/*
 *://*.groupfroad.sbs/*
+*://*.groupgiren-onnle.sbs/*
 *://*.groupgoes.net/*
 *://*.grouphelp.top/*
 *://*.groupmt.vn/*
@@ -150435,6 +150441,7 @@
 *://*.haftanintelefonuu1001.com/*
 *://*.haftanintrendfirsati.xyz/*
 *://*.haftanintrendlerinesendebirbak.shop/*
+*://*.haftanintryildizlari.shop/*
 *://*.haftaninurunleri.sbs/*
 *://*.haftaninurunlerii.com.tr/*
 *://*.haftaninurunleris.com.tr/*
@@ -200824,6 +200831,7 @@
 *://*.kkhandedomain.com/*
 *://*.kkharmonydomsom.click/*
 *://*.kkhhnndsadsa.space/*
+*://*.kkhnng.click/*
 *://*.kkhomes.site/*
 *://*.kkhydy.cyou/*
 *://*.kkiadeislemleri.com/*
@@ -201595,6 +201603,7 @@
 *://*.kmpnyaparmsynnbsvr.live/*
 *://*.kmpnyaprmsnyngrntt.info/*
 *://*.kmpnyaprmsnyngrntt.pro/*
+*://*.kmpnyaprmsynbsvrmrkzz.pro/*
 *://*.kmpnyaprmsynbsvrusendekatl.info/*
 *://*.kmpnyaprmsynbsvrusendekatl.live/*
 *://*.kmpnyaprmsyngrntt.info/*
@@ -204989,6 +204998,7 @@
 *://*.kumandalarimiz.site/*
 *://*.kumansalar.cc/*
 *://*.kumarbas.shop/*
+*://*.kumarborcu.click/*
 *://*.kumb.cf/*
 *://*.kumbuyartyty.net/*
 *://*.kumdanara.cc/*
@@ -219507,6 +219517,7 @@
 *://*.mmi-elr.xyz/*
 *://*.mmifkxjwugxeepu.su/*
 *://*.mmj93rnfk.ru/*
+*://*.mmjhnb.buzz/*
 *://*.mmkemal59.com/*
 *://*.mmkkk445.com/*
 *://*.mmklm41.com/*
@@ -230110,6 +230121,7 @@
 *://*.nhdnertr.net/*
 *://*.nhdurahavu.net/*
 *://*.nheritancehard.top/*
+*://*.nhffdd.click/*
 *://*.nhgfehde.net/*
 *://*.nhgj.ml/*
 *://*.nhh-yardim-talep-olustur.com/*
@@ -243098,6 +243110,7 @@
 *://*.ovalturtle.top/*
 *://*.ovatoconical.com/*
 *://*.ovcqyq.pw/*
+*://*.ovczrg.buzz/*
 *://*.ovduzokc33.click/*
 *://*.ovelas.top/*
 *://*.ovelsavn.net/*
@@ -263472,6 +263485,7 @@
 *://*.qweqwer.com/*
 *://*.qwerfasdfbasyuru.net/*
 *://*.qwernqw.com/*
+*://*.qwerqthdgasfas1.cfd/*
 *://*.qwerqthdgasfas1.shop/*
 *://*.qwert.xyz/*
 *://*.qwertyuopledefcezdoelpalsedoreszeyertlerezeozedz.com/*
@@ -278597,6 +278611,7 @@
 *://*.serahanem.com/*
 *://*.serakyz.click/*
 *://*.seralkurumlari.org/*
+*://*.seramyck-coff.cfd/*
 *://*.seraphankled.com/*
 *://*.seraphicstay.com/*
 *://*.seraphicwinds.org/*
