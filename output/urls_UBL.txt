@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-22 16:57:06 UTC
-! Total: 359286 rules
+! Last modified: 2026-04-22 17:53:33 UTC
+! Total: 359289 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -137316,6 +137316,7 @@
 *://*.gaymeneshaseresgomes.net/*
 *://*.gaynemonesdencenes.site/*
 *://*.gayrimenkuldamlakent.com/*
+*://*.gayrimenkulhukuk.com/*
 *://*.gayrimesrusal.online/*
 *://*.gayserihaseresonilaclama.net/*
 *://*.gaysescons.site/*
@@ -194668,6 +194669,7 @@
 *://*.kamudansikayetimvar.site/*
 *://*.kamudava.com/*
 *://*.kamudava.net/*
+*://*.kamudava.org/*
 *://*.kamudavalarim.org/*
 *://*.kamudavasorgulama.org/*
 *://*.kamudavauzlasma.com/*
@@ -278381,6 +278383,7 @@
 *://*.sepetimde-aktif.com.tr/*
 *://*.sepetimde-ilanlar.pro/*
 *://*.sepetimde-ode.com.tr/*
+*://*.sepetimde-siparisler.com/*
 *://*.sepetimde.xyz/*
 *://*.sepetimdealisveris.online/*
 *://*.sepetimdealisveris.shop/*

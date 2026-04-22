@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-22 16:57:06 UTC
-# Toplam: 450105 Domain
+# Son Güncelleme: 2026-04-22 17:53:33 UTC
+# Toplam: 450109 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -58946,6 +58946,7 @@ bamtong5.com
 bamtong6.com
 bamtong7.com
 bamunsntr.vercel.app
+bamvurulas.hegikeiroz.workers.dev
 bamxcells.net
 bamxfqivmw.duckdns.org
 ban457.xyz
@@ -222388,6 +222389,7 @@ intvakifbankasi.com
 intvboxx.com
 intvd-gib-gov-tr.com
 intvd-gibb-govv.com
+intvd-mtv.gayrimenkulhukuk.com
 intvd-mtv.icu
 intvd-sorgula.com
 intvdd-gib-gov.com
@@ -240126,6 +240128,7 @@ kamucezatakip.org
 kamudansikayetimvar.site
 kamudava.com
 kamudava.net
+kamudava.org
 kamudavalarim.org
 kamudavasorgulama.org
 kamudavauzlasma.com
@@ -349437,6 +349440,7 @@ sepetim1o1brda.sbs
 sepetim7.tk
 sepetimanindakapimda.com.tr
 sepetimde-ilanlar.pro
+sepetimde-siparisler.com
 sepetimde.xyz
 sepetimdealisveris.online
 sepetimdealisveris.shop
