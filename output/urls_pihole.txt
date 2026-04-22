@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-22 04:35:18 UTC
-# Toplam: 449977 Domain
+# Son Güncelleme: 2026-04-22 06:27:15 UTC
+# Toplam: 449981 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40972,6 +40972,7 @@ akutakviyekitin.click
 akutel101.shop
 akutelaldinaldin.store
 akutelcebinde.com
+akutelcebinde.xyz
 akutelceplerde.com
 akutelceplerdec.com
 akutelfirsati.shop
@@ -154220,6 +154221,7 @@ evrakdogrulama-uyap-gov.com
 evrakdogrulama.online
 evrakdogrulamaturkiyegov.web1337.net
 evrakiadesi.com
+evrakkontrol.org
 evraklariade.com
 evrakrandevu.blogspot.com
 evraksorgulama.net
@@ -162123,6 +162125,7 @@ firsatlar-sizlerle.ru.com
 firsatlar-sizlerle.sa.com
 firsatlar-teb-giris.com
 firsatlar-tekadres.pro
+firsatlar-tepdecepte.my-homeip.net
 firsatlar-vakif-eylul.online
 firsatlar-yagmuru-buhafta-ozel-indirim.com
 firsatlar-yagmuru-buhafta-ozel-indirim.xyz
@@ -442658,6 +442661,7 @@ yonlendiriliyorderser22.duckdns.org
 yonlendiriliyordunli.duckdns.org
 yonlendiriliyordunuszw3.duckdns.org
 yonlendiriliyorjssyhsb.duckdns.org
+yonlendiriliyors314.duckdns.org
 yonlendiriliyorsun-wsynx.sbs
 yonlendiriliyorsundawea.duckdns.org
 yonlendiriliyorsundj.duckdns.org
