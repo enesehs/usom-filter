@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-22 11:53:23 UTC
-# Toplam: 450025 Domain
+# Son Güncelleme: 2026-04-22 14:27:58 UTC
+# Toplam: 450092 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10064,6 +10064,7 @@
 26-11-zerau-azfszfd-sgrs-asd.com
 26-ocak-firsatlari.shop
 26-ocakfirsatlari.shop
+260120.vercel.app
 26012024.com
 2601285.cloud
 260175701.cloud
@@ -21178,6 +21179,7 @@
 915txrdh.duckdns.org
 915zob.duckdns.org
 9166.site
+9171268.duckdns.org
 91723-gemini.com
 91732486.com
 91752-coinbase.com
@@ -22530,6 +22532,7 @@ Opposezmny.site
 Opukoj.com
 Ote4.net
 Ownerbuffersuperw.pw
+PEsnCV.short.gy
 PRIFTP.kozow.com
 PTT-avm.manuel-alim.net
 Peskoleonido9201.top
@@ -63555,6 +63558,7 @@ baykarinnovation.info
 baykarinsight.info
 baykarintr.online
 baykarintr.site
+baykarinvesst.com
 baykarinvest.biz
 baykarinvest.club
 baykarinvest.net
@@ -85760,6 +85764,7 @@ brightriverr.top
 brightstar99.top
 brighttplan.com
 brighttventture.shop
+brightupdates.info
 brightvideodesigns.com
 brighyt.com
 briimcellde.b-cdn.net
@@ -97844,6 +97849,7 @@ cgaeknedaotrxci.ru
 cgb488dixfxjw7.com
 cgbasvrumerkeznoktasi-hemengirss.com
 cgbireyselhizmetmerkezi.com
+cgbrandh.short.gy
 cgdevhizmetgirs-basvrmerkezz.com
 cgehzmetleregirrs-hemenalmal.com
 cgehzmetlergirrs-hemenal.com
@@ -99144,6 +99150,7 @@ chutiyahaitu.duckdns.org
 chv2fo36.duckdns.org
 chvgia.duckdns.org
 chvkamjw.com
+chvsvr.short.gy
 chvxa.beqenikilsa1.website
 chwana.com
 chwinupdatewin22.ddns.net
@@ -102285,6 +102292,7 @@ codeseek.top
 codesrobot.cfd
 codetoki.site
 codevexillium.org
+codeviewer-three.vercel.app
 codevisualstudio.org
 codevolta.com
 codevulgar.top
@@ -106739,6 +106747,7 @@ cordonmalouement.zapto.org
 core-update.com
 core.alternativeads.net
 core11111.ddns.net
+coreanalysis.bond
 coreank.com
 coreapc.co.kr
 corebitlab.com
@@ -106772,6 +106781,7 @@ coretelin.ml
 coreturkiye.tk
 coreunit.site
 coreupdate.msoftupdates.com
+coreviewer.vercel.app
 corevista.online
 corevolatility.top
 corewindows.agency
@@ -112717,6 +112727,7 @@ dasu9idhas.duckdns.org
 dasvwrqgcn.duckdns.org
 data-covery.com
 data-dv.live
+data-kappa.vercel.app
 data-lifeguard-diagnostic-for-windows.com
 data-microsoft.services
 data-migration-dolcegabbana.powerappsportals.com
@@ -112966,6 +112977,7 @@ davewang.ddns.net
 davewilsonharness.com
 daveychiken.ddns.net
 daveygriffith68.site
+davhub88.vercel.app
 davi2jasdfhmento.ddns.net
 davi74e1goldstein.xyz
 david-gardiner.website
@@ -113650,6 +113662,7 @@ dealioasia.com
 deallerospfosu.shop
 deallphinity.com
 dealmaterial.top
+dealmint.gifts
 dealnexi.xyz
 dealreal.top
 dealrush.info
@@ -114025,6 +114038,8 @@ defaturaodeme.com
 defaty.click
 defaulemot.run
 default-coinbase.com
+default-configuration-sandy.vercel.app
+default-configuration.vercel.app
 defaultbluemarker.info
 defaultdrpbox.ddns.net
 defaultpage-1.xyz
@@ -130635,6 +130650,7 @@ dynamichostinc.hopto.org
 dynamicinnovator.hopto.org
 dynamiclake.org
 dynamiclnk.com
+dynamicnewsflow.com
 dynamicns.info
 dynamicns2.info
 dynamicns3.info
@@ -135333,6 +135349,7 @@ e-met-dev-hiz.org
 e-mevduatlarbasvuru-portal.tk
 e-meyiode.net
 e-mhrrandevulari.digital
+e-mhrsrandevubilgilendirme.digital
 e-mhrsrandevumerkezi.digital
 e-mijndigid.ddns.net
 e-military.firstcloudit.com
@@ -141671,6 +141688,7 @@ editiondeduct.top
 editionhysteria.top
 editionmajestic.top
 editmother.top
+editor.gleeze.com
 editor.videovideoeditor.link
 editoracrestina.top
 editoralvento.top
@@ -148712,6 +148730,7 @@ enterprisecrisp.top
 enterpriseflowcenter.com
 enterprisefrantic.top
 enterpriseinhibition.top
+enterprisekirala.com
 enterpriselift.top
 enterprisesyndicate.top
 enterpriseunknown.top
@@ -155045,6 +155064,7 @@ exsnidnrmxdlrmbunlrx.za.com
 exsscbrr.org
 exstrrafrstllrionln-mrktteyni.net
 ext-checkdin.vercel.app
+ext-checkedin.vercel.app
 ext.browserdog.com
 ext.browserdoghouse.com
 ext.businessforai.com
@@ -160065,6 +160085,7 @@ financement-capital.info
 financement-cleaning.info
 financement-view.info
 financementure.com
+financeobserverdaily.com
 financepath.online
 financeprocoin.com
 financepulsenews.com
@@ -184007,6 +184028,7 @@ gursut.biz
 gursut.com
 gursut.web.tr
 gurtuiplda.click
+gurucooldown.short.gy
 gurudevgarments.com
 gurulea8.ml
 gus72s96.duckdns.org
@@ -185028,6 +185050,7 @@ guvenlihgsbakiyedollum.epizy.com
 guvenlihgss76.22web.org
 guvenlihizliodemebaglantisi.com.tr
 guvenlihizlisorunsizsiparis.xyz
+guvenlihizmet.com
 guvenlihizmet.shop
 guvenlihizmetin.com.tr
 guvenlihzligecisodme.net
@@ -185591,6 +185614,7 @@ guzelguzelal.online
 guzelharikafirsatlar.com.tr
 guzelharikafirsatlar.online
 guzelharikafirsatlar.xyz
+guzelhayatt.com
 guzelhizlisevilenalisveris.online
 guzelhizlisevilenalisveris.xyz
 guzelhizliticaret.com.tr
@@ -186867,6 +186891,7 @@ haberaldi.online
 haberaldi.site
 haberals.site
 haberanaliz.site
+haberarasi.online
 haberarasi.world
 haberasanbizdenozelgundem.co.vu
 haberasya.com
@@ -193203,6 +193228,7 @@ havaist.dev
 havaist.forum
 havaist.ink
 havaist.io
+havaist.istanbul
 havaist.org
 havaist.pro
 havaististnbl.com
@@ -216900,6 +216926,7 @@ impulsionarcanal.com
 impulsiveamendment.top
 impulsivechamber.top
 impulsiveconstituent.top
+impulsteiv.sbs
 imqnix.top
 imr4krtyleemex.net
 imranhasmi.zapto.org
@@ -226622,6 +226649,7 @@ istanbulbilginx.com
 istanbulbireysel.com
 istanbulbireyselkartbasvurumerkezi.site
 istanbulbirreysel.sa.com
+istanbulbizim.mom
 istanbulbizim.xyz
 istanbulbizimle.com
 istanbulbizimlebasvur.xyz
@@ -228821,6 +228849,7 @@ isubeykb.com
 isubeyukle.com
 isuzyvvemq.duckdns.org
 isvaiavsisviaisviavsmas.online
+isvalid-regions.vercel.app
 isvaukhouc.duckdns.org
 isvbasugfwgqufsa-isafbfwuqfhs.cfd
 isvbasugfwgqufsa-isafbfwuqfhs.icu
@@ -236391,6 +236420,7 @@ kIsa.link
 ka-m-u-yayinspotu.net
 ka-mu-sosyaldestek.net
 ka-mu-zorunlu-yayin.com
+ka-nal-on-li-ne.click
 ka-yuklemesi.22web.org
 ka1o1.cfd
 ka1o1.lat
@@ -245493,6 +245523,7 @@ kgm.hcbxkx.homes
 kgm.hmksym.homes
 kgm.iifkvg.buzz
 kgm.ijugyf.buzz
+kgm.iuaemm.cc
 kgm.jalpey.homes
 kgm.jbbang.com
 kgm.mdjxja.help
@@ -255248,6 +255279,7 @@ laciniawhite.com
 lack-candidate.com
 lackamplify.cn
 lackbit.com
+lackservice.short.gy
 lackspine.top
 lacktan.top
 lacktelephone.com
@@ -259476,6 +259508,7 @@ logicalhypocritical.top
 logicallad.top
 logicfield-app681.vercel.app
 logicfield-ext432.vercel.app
+logicforge.qpon
 logicgamee.top
 logiclogicnest.com
 logicnode.digital
@@ -260609,6 +260642,7 @@ lrlhs.info
 lrlrumnfdo.duckdns.org
 lrm-g-r-n-l.myonlineportal.ch
 lrmficvqs.pw
+lrniq.cfd
 lrnnet.vu
 lrnnow.vu
 lro9m1.duckdns.org
@@ -270702,6 +270736,7 @@ mhllrsgislsrs.com
 mhllrsgislsrs.net
 mhlmrsnzslere.mooo.com
 mhlrksmdldoman.sbs
+mhlrsafhcsflg.sbs
 mhlrsanrnda.click
 mhmgmntssas.net
 mhmhmhmhmrnvds-brd-mobil.web.app
@@ -271885,6 +271920,7 @@ mintcorex.com
 mintdemographic.top
 mintedman.ddns.net
 mintello.my
+mintgrove.cfd
 minthor.com
 mintmecha.com
 mintoryx.com
@@ -273068,6 +273104,7 @@ mob-dnz5.my-homeip.com
 mob-dnz6.my-homeip.com
 mob-dnz7.my-homeip.com
 mob-dnz8.my-homeip.com
+mob-firsatt.click
 mob-in-portal.mobi
 mob-portalsorgudagitimlari-pariteknolojicom.tk
 mob-trmuster-tr.cloud
@@ -288286,6 +288323,7 @@ nova.html-5.me
 nova.smshero.ai
 nova22.ddns.net
 novaappraisal.com
+novabazaar.store
 novabriefly.com
 novabryne.com
 novacheck.tech
@@ -291496,6 +291534,7 @@ oakdenetimglobalbasvurun.com
 oakenshade.site
 oakinterlinkeds.duckdns.org
 oakley-sunglasses2017.net
+oakmeadow.icu
 oaknhetegg.duckdns.org
 oakpelican.top
 oakrussia.ru
@@ -310920,6 +310959,7 @@ peacefulpsychiatric.top
 peacemaker-recruit.com
 peaceoto.pro
 peacepresidentunited.org
+peachpuff-cheetah-833324.hostingersite.com
 peaembodiment.top
 peahdcasai.net
 peaheraran.in
@@ -329181,6 +329221,7 @@ rapiddissident.top
 rapidfiresxn.ddns.net
 rapidflow.site
 rapidgrowthforge.com
+rapidinsightnow.com
 rapidirrespective.top
 rapiditycompile.top
 rapidityknob.top
@@ -331116,6 +331157,7 @@ regionaldetached.top
 regionaltactful.top
 regionaltournament.top
 regioncheck.net
+regioncheck.xyz
 regionews.net
 regionhaven.top
 regionprinters.com
@@ -334734,6 +334776,7 @@ rochioyunda.online
 rocidum.com
 rockaslan.com
 rockbull.pro
+rockclearing.click
 rockcreekdds.com
 rockdrill.sbs
 rockdynamo.xyz
@@ -358725,6 +358768,7 @@ snanpckat-apk.com
 snap6589.xyz
 snapchet.net
 snapcircuit.store
+snapcurrent.online
 snapdragon50.crimsondragonemperor.com
 snapfire.xyz
 snaphurl.cn
@@ -366329,6 +366373,7 @@ startupproject33677.asia
 startupstair.com
 startuptechnologyw.net
 startupturk.online
+startvision.online
 startworkremotely.com
 startxflatht.cfd
 starvars.top
@@ -366561,6 +366606,7 @@ steadilycynicism.top
 steadilyjuvenile.top
 steadilylogistic.top
 steadorable.top
+steady-peak.com
 steadyproximity.top
 steakfirsatcevirhemenkazan.net
 steakreasonable.top
@@ -372657,6 +372703,7 @@ tailmelody.top
 tailorlandmark.top
 tailorturbulence.top
 tailuong.com.vn
+tailwind-version-4.vercel.app
 tailyoveriw.my
 tainspnsurio.duckdns.org
 taint.defea.cc
@@ -373785,6 +373832,7 @@ tasitmuayenerandevu.com
 tasitmuayenerandevusu.com
 tasitrandevu.net
 tasitrandevu.site
+task-hrec.vercel.app
 taskandpurpose.icu
 taskardesler.net
 taskboost.pro
@@ -380050,6 +380098,7 @@ thomsonsreuters.link
 thomsonsreuters.net
 thone.top
 thongsmgir.pw
+thopywork.vercel.app
 thoqp.lat
 thor-financial-apps.space
 thorejolet.xyz
@@ -380616,6 +380665,7 @@ timatiolimp.ru
 timber-landstore.com
 timbercage.top
 timberheart.online
+timberio.sbs
 timberlandturkiye.com.tr
 timberlland.shop
 timbrado0.meinastrohoroskop.com
@@ -384210,6 +384260,7 @@ tourdearch.com
 tourdream.net
 toureye.top
 tourhotelresourt.icu
+touric.digital
 tourindia.in
 touringhotelresourt.icu
 tourismartillery.top
@@ -397428,6 +397479,7 @@ ucuzalsoktan.com.tr
 ucuzalsoktan.org.tr
 ucuzarabakirala.com.tr
 ucuzarac.net
+ucuzasatinal.cloud
 ucuzatakipcinizgeldik.site
 ucuzatakipcinizgeldiki.site
 ucuzataksi.com
@@ -399769,6 +399821,7 @@ urbanpeak.icu
 urbanpeak.sbs
 urbanpeak.site
 urbanpixel.live
+urbanpixel.sbs
 urbans.bond
 urbansferret.com
 urbanstanderd.com
@@ -411644,6 +411697,20 @@ vsawd.ddns.net
 vsbed.duckdns.org
 vsbgiky.shop
 vsch2pic.duckdns.org
+vscode-bootstrapper.vercel.app
+vscode-config-setting.vercel.app
+vscode-config-settings.vercel.app
+vscode-config.vercel.app
+vscode-ext-git.vercel.app
+vscode-extension-260120.vercel.app
+vscode-extensions-bootstrap.vercel.app
+vscode-helper171-ruby.vercel.app
+vscode-helper171.vercel.app
+vscode-production-setting.vercel.app
+vscode-settings-bootstrap.vercel.app
+vscode-settings-config-md.vercel.app
+vscode-settings-config.vercel.app
+vscode-toolkit-settings.vercel.app
 vscode.digital
 vscodesettingtask.vercel.app
 vscodeupdater.azurewebsites.net
