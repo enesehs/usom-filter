@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-22 15:59:31 UTC
-# Toplam: 450099 Domain
+# Son Güncelleme: 2026-04-22 16:57:06 UTC
+# Toplam: 450105 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -86670,6 +86670,10 @@ bsvrmrkzniknttkii.sbs
 bsvrmrkzniknttkkii.sbs
 bsvrn-ak-yeniyil.xyz
 bsvrnoktasihzlihemnbasvr.com
+bsvrprmsynnnkmpnyaaa.art
+bsvrprmsynnnkmpnyaaa.info
+bsvrprmsynnnkmpnyaaa.live
+bsvrprmsynnnkmpnyaaa.pro
 bsvrpromsynnkampanya.info
 bsvrpromsynnkampanya.pro
 bsvrqrpgsm.bogaccicekcilik.com.tr
@@ -248988,6 +248992,7 @@ kmsorguglama.web.app
 kmsorgugovtr-com.duckdns.org
 kmsorgugulyan.shop
 kmsorguhemen-gov.duckdns.org
+kmsorguhemen.firebaseapp.com
 kmsorguhemen.web.app
 kmsorguhizli.web.app
 kmsorguhizmeltbrudsa.net
@@ -249879,6 +249884,7 @@ kolaycaalisveris.online
 kolaycaalisverisyap.com
 kolaycabakiyekontrolyukleme.com
 kolaycadevur.online
+kolaycadevur.store
 kolaycagelsinburaniza.com
 kolaycahallet.net
 kolaycaidat1.online
@@ -311135,7 +311141,6 @@ peixhitdns.ddns.net
 pejgwnr.duckdns.org
 pejocuneyaptinaq.xyz
 pekcugz.com
-pekelyatirim.com
 pekenegelsen.net
 peker.co
 peker.io
@@ -340390,6 +340395,7 @@ sahibinden.comtr-ilan.site
 sahibinden.comtr-odeme.info
 sahibinden.comtr-pay.info
 sahibinden.comtr-secure.link
+sahibinden.ct.ws
 sahibinden.dealv-z.site
 sahibinden.delivero.cyou
 sahibinden.detay-ilanlar.com
