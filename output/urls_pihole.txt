@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-23 11:53:11 UTC
-# Toplam: 450146 Domain
+# Son Güncelleme: 2026-04-23 12:53:08 UTC
+# Toplam: 450152 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -75112,6 +75112,7 @@ bireysel-tanim.org
 bireysel-tanim.xyz
 bireysel-tanimlama.xyz
 bireysel-te-b-subesi.com
+bireysel-teb-kampanya-girisler.my-homeip.net
 bireysel-teb-kampanyam.my-homeip.net
 bireysel-teb-subesi-onlinetr.com
 bireysel-teb-tr.com
@@ -248328,6 +248329,7 @@ kmbilgi.firebaseapp.com
 kmbilgi.web.app
 kmbilgiburdaogren.cfd
 kmbilgilendirme.cfd
+kmbilgisi.web.app
 kmbjjpqnbgxjfmh.ru
 kmbnbnv.shop
 kmbralardaszlericn.gleeze.com
@@ -271895,6 +271897,7 @@ minikhayatlar.online
 miniklanssstoezya.ru
 minikme.cyou
 minikpatiler.xyz
+minilec.kulsofttech.com
 minimalderailment.top
 minimalive.digital
 minimalreputable.top
@@ -356073,6 +356076,7 @@ siparislerinhizli6agusotao.net
 siparislerinhizlianirsende22.cloud
 siparisleriniolusturanlik03.cloud
 siparisleriniolusturn.cloud
+siparisleriniolusturs.cloud
 siparislerinis.com
 siparisleriniz-online-ptt-market.online
 siparisleriniz.com.tr
@@ -381084,6 +381088,7 @@ tjnxbuwc.com
 tjox7ua.duckdns.org
 tjpatbcppj.duckdns.org
 tjqj.no-ip.biz
+tjqlgn.cc
 tjqqpcmdbycian.156953coinbase.com
 tjr3u646.duckdns.org
 tjslc.com
@@ -406891,6 +406896,7 @@ velvetwish.gifts
 velvinet6.unovetsnahels.org
 velvlmobillisllemllerigiriisslem.com
 vembemsenden.site
+vemdarok.vu
 vemoxv.ddnsgeek.com
 vemri.31-133-0-176.plesk.page
 vemvemserver.duckdns.org
