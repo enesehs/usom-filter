@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-23 20:53:05 UTC
-! Total: 359375 rules
+! Last modified: 2026-04-23 21:34:53 UTC
+! Total: 359377 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -114934,6 +114934,7 @@
 *://*.elektronik-alisveris.com.tr/*
 *://*.elektronik-alisverisim.com.tr/*
 *://*.elektronik-alisverisim.com/*
+*://*.elektronik-alisverisleriniz.com/*
 *://*.elektronik-app.net/*
 *://*.elektronik-cihazlar-deposu.com/*
 *://*.elektronik-dosyam.com.tr/*
@@ -275854,6 +275855,7 @@
 *://*.sdgsdfhdasfs241.sbs/*
 *://*.sdgsdgsdgsd.click/*
 *://*.sdgtmq.top/*
+*://*.sdhafdhafa1.lol/*
 *://*.sdhbqhjbhlu.org/*
 *://*.sdhenbe.com/*
 *://*.sdhguvende.online/*
