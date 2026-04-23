@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-23 12:53:08 UTC
-# Toplam: 450152 Domain
+# Son Güncelleme: 2026-04-23 15:04:14 UTC
+# Toplam: 450172 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11693,6 +11693,7 @@
 321321321321321.space
 321321323.cloud
 32132156112.cloud
+32132543.click
 3213281dsa.com
 3213424234242143243.pozitifcagrimerkezi.com
 3214067458.net
@@ -13615,6 +13616,7 @@
 4122322.com
 41239521838512.cloud
 41241231548123124.online
+4124124.duckdns.org
 4124124125353232.duckdns.org
 41260-coinbase.com
 4128fx.duckdns.org
@@ -20433,6 +20435,7 @@
 8921267492331aabcb4394c801d4e490.shop
 89223.site
 892321saa.com
+89237423.click
 89238746997392-785.com
 8923w9.duckdns.org
 89304-coinbase.com
@@ -44483,7 +44486,9 @@ alyenick.com
 alyerpeldkesdmewdeqwe213sd.com
 alyomptt.com
 alyoptt.com
+alyrmmdombvsaglklgn.b-cdn.net
 alyrmmdombvsaglklgn.cyou
+alyrmmdombvsaglklgn.lol
 alyrmmdombvsaglklgn.quest
 alyssaandrobert2022.com
 alyssiarandevearly.com
@@ -106005,6 +106010,7 @@ connsec.publicvm.com
 connsphotolab.com
 connuwedro.xyz
 connvocaoran.duckdns.org
+conny-tortilla.club
 conpastcon.com
 conqculminate.top
 conquemappe.bond
@@ -176669,6 +176675,7 @@ giris-turkiye.ga
 giris-turkiye.hol.es
 giris-turkiye.ml
 giris-turkiye.mobi
+giris-turkiye.net
 giris-turkiye.online
 giris-turkiye.site
 giris-turkiye.tech
@@ -180204,6 +180211,7 @@ govjobs.top
 govkgm.cc
 govlawentrance.com
 govm.tk
+govmali.org
 govmerkez.77-83-201-133.plesk.pag
 govmm.org
 govmoke2011.xyz
@@ -245593,6 +245601,7 @@ kgmaig.top
 kgmajans2023.com
 kgmajs2022.net
 kgmalg.top
+kgmarackontrol.cfd
 kgmavbilgihgsbrcodeislemler.duckdns.org
 kgmavbilgihgsbrcodeislemleri.duckdns.org
 kgmavbilyeniodeyolhizli.duckdns.org
@@ -248363,6 +248372,7 @@ kmdetay.web.app
 kmdetay.xyz
 kmdetayhmnogren.com
 kmdetayim.web.app
+kmdetaylar.com
 kmdetaylar.shop
 kmdetaylarindan.web.app
 kmdetayogren.com
@@ -248549,6 +248559,7 @@ kmkmsrogruszpttgovavm.com
 kmkmsrogulamagovpttcngz.web.app
 kmkmsrogulamagovpttvelit.web.app
 kmkmsrohgulamabelgin2.web.app
+kmkolayasorgu.firebaseapp.com
 kmkolaysorgu.firebaseapp.com
 kmkolaysorgu.web.app
 kmkontrol.sa.com
@@ -256897,6 +256908,7 @@ lentkartyukleme.net
 lentkrtykle.net
 lentkrtyuklemee.com
 lentzfshare.hopto.org
+lenussystem.shop
 lenvaril.lat
 lenvny.com
 leo-bannk-com-az.cfd
@@ -270903,6 +270915,7 @@ mhsn.edu.bd
 mhsr-randvu.net
 mhsr2.ddns.net
 mhsrasras.duckdns.org
+mhsscfsrsa.sbs
 mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
@@ -298236,6 +298249,7 @@ onlinekampanya101.com
 onlinekampanya101.shop
 onlinekampanya365.com
 onlinekampanyabasvurulari.com
+onlinekampanyabasvurulari.duckdns.org
 onlinekampanyabasvurusutr.com
 onlinekampanyabasvurusutr.xyz
 onlinekampanyabireysel-yilsonu-basvuru.ga
@@ -358326,6 +358340,7 @@ slwtech.com
 slxapl21.app
 slxgxlglenlaym.net
 slxrenobimcell.com
+sly-l-g-r-n-l-t.myonlineportal.ch
 slyhack.duckdns.org
 slyhacklink.wordpress.com
 slymnn.com
@@ -360870,6 +360885,7 @@ sondakikafirsatlaribitmez.online
 sondakikafirsatlaribitmez.xyz
 sondakikafirsatlariicinaciltikla.beauty
 sondakikahab-erler.com
+sondakikahaber360.click
 sondakikahaberi.sbs
 sondakikahaberler.cf
 sondakikahaberler.ga
@@ -371370,6 +371386,7 @@ swh9cpz2xntuge.com
 swhgpimtgporedj.su
 swhrqiuqhrqupk.info
 swidden.wallpapersave.com
+swifchor.com
 swiffina.com
 swift-customer.com
 swift-dcdcdcd0cdc0d.web.app
@@ -384184,6 +384201,7 @@ torskian.com
 torslingtoftof.com
 tortila-wrd.club
 tortilla-cup.art
+tortilla-cup.club
 tortillabuilder.xyz
 tortoiseshell-peppermint-goose.glitch.me
 tortoisgfe.top
@@ -395762,6 +395780,7 @@ tuvturk-ss.digital
 tuvturk-sse.digital
 tuvturk-ssl.com
 tuvturk-w.digital
+tuvturk-xls.com
 tuvturk-xssl.com
 tuvturk-xsxs.com
 tuvturk.ct.ws
@@ -437552,6 +437571,7 @@ yatirimbakis.today
 yatirimbasarisi.com
 yatirimbasvuru.site
 yatirimbaykar.com
+yatirimbaykar.info
 yatirimbilgileri.com
 yatirimbilgisi.info
 yatirimbulteni.online
