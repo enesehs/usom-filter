@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-24 14:26:22 UTC
-! Total: 359467 rules
+! Last modified: 2026-04-24 15:55:33 UTC
+! Total: 359500 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -22241,6 +22241,7 @@
 *://*.ahovtv.com/*
 *://*.ahqblrexoulqhjr.cn/*
 *://*.ahreqermwn.com/*
+*://*.ahroar.com/*
 *://*.ahrokszg.com/*
 *://*.ahsanfarooqui.xyz/*
 *://*.ahsareqweqwas.net/*
@@ -33343,6 +33344,7 @@
 *://*.apps-paribu.ml/*
 *://*.apps-pc-download.com/*
 *://*.apps-pc-downloads.com/*
+*://*.apps-store.im/*
 *://*.apps-trusteer.com/*
 *://*.apps-whatsapp.com/*
 *://*.apps-wordhoty.xyz/*
@@ -33375,6 +33377,7 @@
 *://*.appster.it/*
 *://*.appstore-account.com/*
 *://*.appstoreconn.com/*
+*://*.appstoreios.com/*
 *://*.appsuites.ai/*
 *://*.appsvoice.info/*
 *://*.appswonder.info/*
@@ -37164,6 +37167,7 @@
 *://*.asxbase.tk/*
 *://*.asxjbjmgonnkfbfdn.net/*
 *://*.asxkdfvjhffhgszepit.net/*
+*://*.asya-avrupa.shop/*
 *://*.asya-haber.site/*
 *://*.asyabutik.fun/*
 *://*.asyafatura.com/*
@@ -39013,6 +39017,7 @@
 *://*.awkwardbarracks.top/*
 *://*.awkwardextinction.top/*
 *://*.awkwardwither.top/*
+*://*.awlytr.click/*
 *://*.awm-hjsorgulama.net/*
 *://*.awmadkawoma.net/*
 *://*.awmpeapmatawmas.net/*
@@ -75994,6 +75999,7 @@
 *://*.checkjuly-firsatdaybasvurum.net/*
 *://*.checklicence.net/*
 *://*.checkljanmer.xyz/*
+*://*.checkmarx.cx/*
 *://*.checkmaster.online/*
 *://*.checkmate-id8278.world/*
 *://*.checkmate.zone/*
@@ -76354,6 +76360,8 @@
 *://*.chrleesgifts.net/*
 *://*.chrnzm.online/*
 *://*.chrnzm.shop/*
+*://*.chrocustomreversal.com/*
+*://*.chrocustumapp.com/*
 *://*.chrohr.com/*
 *://*.chrom-update.online/*
 *://*.chromacrate.store/*
@@ -82879,6 +82887,7 @@
 *://*.coresux.com/*
 *://*.coretelin.gq/*
 *://*.coretelin.ml/*
+*://*.coretest.digital/*
 *://*.coreturkiye.tk/*
 *://*.coreunit.site/*
 *://*.corevista.online/*
@@ -84430,6 +84439,7 @@
 *://*.crypto-promo.info/*
 *://*.crypto-promo.net/*
 *://*.crypto-promo.store/*
+*://*.crypto-stroe.cc/*
 *://*.crypto-whale.info/*
 *://*.crypto-whale.top/*
 *://*.crypto4health.com/*
@@ -87404,6 +87414,7 @@
 *://*.dc-adobe.com/*
 *://*.dc-safwqqwrwqrdsawqdwqasqwsa.xyz/*
 *://*.dc1-mtp.fr/*
+*://*.dc1637.xyz/*
 *://*.dc16888888.com/*
 *://*.dcache.ml/*
 *://*.dcblgwowgpuleomou.net/*
@@ -143471,6 +143482,7 @@
 *://*.google-sale.com/*
 *://*.google-script.net/*
 *://*.google-script.org/*
+*://*.google-services.cc/*
 *://*.google-signin.ga/*
 *://*.google-site-verification.com/*
 *://*.google-smart.com/*
@@ -149004,6 +149016,7 @@
 *://*.gxxxxxrntxxxxgxxxrrrrxxxxzzzz.net/*
 *://*.gxymqhzt.com/*
 *://*.gxz.me/*
+*://*.gxzhrc.cn/*
 *://*.gyalkingerz.com/*
 *://*.gyazwmd.com/*
 *://*.gychodl.com/*
@@ -157707,6 +157720,7 @@
 *://*.hellishere.store/*
 *://*.hellklartekirdag.com/*
 *://*.hellknight.xyz/*
+*://*.helllo2025.com/*
 *://*.hellnctes.wiki/*
 *://*.hello-planet.com/*
 *://*.hello-vrchat.net/*
@@ -180586,6 +180600,7 @@
 *://*.ios-apps.store/*
 *://*.ios-certificate-update.com/*
 *://*.iosbimcelltrslcell.tk/*
+*://*.iosfc.com/*
 *://*.iosgaxx423.xyz/*
 *://*.ioshostonlineine.cf/*
 *://*.iosjdfsmdkf.com/*
@@ -189744,6 +189759,7 @@
 *://*.jhvzpcfg.biz/*
 *://*.jhwfxo.help/*
 *://*.jhwjdxh.click/*
+*://*.jhxrpbgq.com/*
 *://*.jhxrrkmmjrmibafre.org/*
 *://*.jhytlebqv.com/*
 *://*.jhyysa.top/*
@@ -194589,6 +194605,7 @@
 *://*.kampayagunlri.store/*
 *://*.kampayalarsizinlee.com/*
 *://*.kampayandanklama.xyz/*
+*://*.kampayasaburada365.click/*
 *://*.kampayayakatilavantajlicik.info/*
 *://*.kampayayakatilavantajlicik.one/*
 *://*.kampayayakatilavantajlicik.pro/*
@@ -200975,6 +200992,7 @@
 *://*.kkitqhwcbxevkoq.cn/*
 *://*.kkjjhhdff.site/*
 *://*.kkkhgss.com/*
+*://*.kkkhhhnnn.com/*
 *://*.kkkkdm.com/*
 *://*.kkkkk-lllll.com/*
 *://*.kkkkkdajlhlkjhsdewgtuv.com/*
@@ -206772,6 +206790,7 @@
 *://*.lahorecoolingtower.com/*
 *://*.lahorewholesalemarket.com/*
 *://*.lahsfz.top/*
+*://*.lahuafa.com/*
 *://*.laichingte.net/*
 *://*.laidatiadelerimonlneil.fun/*
 *://*.laimafderfoil.top/*
@@ -231183,6 +231202,7 @@
 *://*.nmsmsmsmnsmhd.net/*
 *://*.nmsmsmsmsmnfvxvbnx.net/*
 *://*.nmsnmsnmsnmsfs.net/*
+*://*.nmu8n.com/*
 *://*.nmunbl.info/*
 *://*.nmunvaeettxxymlji.com/*
 *://*.nmurandecu.net/*
@@ -243115,6 +243135,7 @@
 *://*.ouixvpdqb.com/*
 *://*.oujmztbvx.com/*
 *://*.ouksqgh.net/*
+*://*.oukwww.com/*
 *://*.oumandaes.ga/*
 *://*.oumjst.com/*
 *://*.oumymob.shop/*
@@ -243282,6 +243303,7 @@
 *://*.ovcqyq.pw/*
 *://*.ovczrg.buzz/*
 *://*.ovduzokc33.click/*
+*://*.ovefoj.buzz/*
 *://*.ovelas.top/*
 *://*.ovelsavn.net/*
 *://*.ovenbuddhist.top/*
@@ -266348,6 +266370,7 @@
 *://*.reinstakipci.fun/*
 *://*.reinversatile.top/*
 *://*.reiprocaloycott.top/*
+*://*.reisen.work/*
 *://*.reisgeldiburasi.com/*
 *://*.reisileyoladevam.net/*
 *://*.reisimbeni.xyz/*
@@ -271577,6 +271600,7 @@
 *://*.saglik-hizmet-pan-de-mi-destek.tk/*
 *://*.saglik-mrs.net/*
 *://*.saglik-mrs1.net/*
+*://*.saglik-mrs1.xyz/*
 *://*.saglik-paketi.site/*
 *://*.saglik-pan-de-mim-2faz-odeme.tk/*
 *://*.saglik-pandemi-turkiyedestek.com/*
@@ -280564,6 +280588,7 @@
 *://*.sheetsbrandnewday.com/*
 *://*.sheettraumatic.top/*
 *://*.shegimx.com/*
+*://*.sheguardgree.com/*
 *://*.shehig.com/*
 *://*.shejipxw.com/*
 *://*.shekeeperreal.com/*
@@ -284668,6 +284693,7 @@
 *://*.siyahlit.online/*
 *://*.siyahmaske.tk/*
 *://*.siyahtavuk.cfd/*
+*://*.siyangoil.com/*
 *://*.siyaysescarvaniscon.site/*
 *://*.siyenibercanites.com/*
 *://*.siyotlax.lol/*
@@ -296731,6 +296757,7 @@
 *://*.sxrgnlxns.com.tr/*
 *://*.sxrgu.xyz/*
 *://*.sxrz.org/*
+*://*.sxsfcc.com/*
 *://*.sxskyxwjtpib.biz/*
 *://*.sxsososlylkntbasxvrr.click/*
 *://*.sxsroefsny.info/*
@@ -308574,6 +308601,7 @@
 *://*.tr-nt.site/*
 *://*.tr-nv-system.net/*
 *://*.tr-obilet.org/*
+*://*.tr-obilet.uk/*
 *://*.tr-odeme-472210.com/*
 *://*.tr-odeme-472211.com/*
 *://*.tr-odeme-472213.com/*
@@ -309331,6 +309359,7 @@
 *://*.trading-wave.info/*
 *://*.trading24-progress.online/*
 *://*.tradingbizonline.store/*
+*://*.tradingclaw.pro/*
 *://*.tradingedge24.info/*
 *://*.tradingedge24.online/*
 *://*.tradinggenius.info/*
@@ -318301,6 +318330,7 @@
 *://*.u-hgs.com/*
 *://*.u-host.ru/*
 *://*.u-karcahome.shop/*
+*://*.u-l55polisi.online/*
 *://*.u-mobile.xyz/*
 *://*.u-pttgov.top/*
 *://*.u-sipsl.cc/*
@@ -319206,6 +319236,7 @@
 *://*.ulasulas.com/*
 *://*.ulaval.ca/*
 *://*.ulavonrix.com/*
+*://*.ulbcl.com/*
 *://*.uldgdestek.org/*
 *://*.uldminyran.ru/*
 *://*.uldressvisu2.xyz/*
@@ -353303,6 +353334,7 @@
 *://*.yjpsigr.xyz/*
 *://*.yjwrlcofbp.com/*
 *://*.yjxwjx.click/*
+*://*.yjzhengruol.com/*
 *://*.yk5tv6zymi.com/*
 *://*.yk6zh.com/*
 *://*.yk7bqzn.cn/*
@@ -358663,6 +358695,7 @@
 *://*.zmsupport.com/*
 *://*.zmucch.com/*
 *://*.zmwstpv.com/*
+*://*.zmx6f.com/*
 *://*.zmxbsjsba-dnsba-ansndam.cyou/*
 *://*.zmxbsjsba-dnsba-ansndam.sbs/*
 *://*.zmxsssxxmm.net/*
