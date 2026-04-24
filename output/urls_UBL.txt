@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-24 04:43:41 UTC
-! Total: 359380 rules
+! Last modified: 2026-04-24 06:56:35 UTC
+! Total: 359381 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -291815,6 +291815,7 @@
 *://*.ssdfostingz.one/*
 *://*.ssdgsgdsgdsgds.xyz/*
 *://*.ssdktsad1.com/*
+*://*.ssdp3252spsh322.com/*
 *://*.ssdrgkd.xyz/*
 *://*.ssdru.info/*
 *://*.sse-express.com/*
