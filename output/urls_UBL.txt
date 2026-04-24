@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-24 11:53:06 UTC
-! Total: 359436 rules
+! Last modified: 2026-04-24 12:53:02 UTC
+! Total: 359447 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -130659,6 +130659,7 @@
 *://*.fkvmfdbkfgb.com/*
 *://*.fkvykdkql.cn/*
 *://*.fkwvfthi.biz/*
+*://*.fkzeis.help/*
 *://*.fl-pass.com/*
 *://*.fl-road.com/*
 *://*.fl-vpn.com/*
@@ -139631,6 +139632,7 @@
 *://*.getdremixy.shop/*
 *://*.getdremixy.site/*
 *://*.getdunaro.site/*
+*://*.getduodeal.com/*
 *://*.getegroup.com/*
 *://*.getelyntis.shop/*
 *://*.getelythra.shop/*
@@ -173589,6 +173591,7 @@
 *://*.iknv.top/*
 *://*.ikofcuiow.net/*
 *://*.ikofed.com/*
+*://*.ikonbireysel.com/*
 *://*.ikongo.pw/*
 *://*.ikonmdtr.com/*
 *://*.ikonmenkuldeger.com/*
@@ -173597,6 +173600,7 @@
 *://*.ikonmenkulplatform.com/*
 *://*.ikonmenkulsube.com/*
 *://*.ikonmenkulyatirim.com/*
+*://*.ikonmobil.com/*
 *://*.ikonmuraktona.net/*
 *://*.ikopl.online/*
 *://*.ikoqhrey.com/*
@@ -201241,6 +201245,7 @@
 *://*.kllp1.site/*
 *://*.kllp2.site/*
 *://*.kllp3.site/*
+*://*.klm-air.com/*
 *://*.klm-alndrmm-lerr.com/*
 *://*.klm2136.click/*
 *://*.klmaa-lndrmgunu.com/*
@@ -207460,6 +207465,7 @@
 *://*.ldbpmn.top/*
 *://*.ldbxmr.top/*
 *://*.ldcaslkx123csacjkd.cfd/*
+*://*.ldcaslkx123csacjkd.shop/*
 *://*.ldcqmq.top/*
 *://*.ldcyr.com/*
 *://*.ldddmp.top/*
@@ -271553,6 +271559,7 @@
 *://*.saglik-hayat-kurtarir.com/*
 *://*.saglik-hizmet-pan-de-mi-destek.tk/*
 *://*.saglik-mrs.net/*
+*://*.saglik-mrs1.net/*
 *://*.saglik-paketi.site/*
 *://*.saglik-pan-de-mim-2faz-odeme.tk/*
 *://*.saglik-pandemi-turkiyedestek.com/*
@@ -296767,6 +296774,7 @@
 *://*.syhs8u.com/*
 *://*.syifux.bar/*
 *://*.syinnovation.com.my/*
+*://*.syjzvw.help/*
 *://*.syloger.com/*
 *://*.sylphstream.site/*
 *://*.sylr.gq/*
@@ -325572,6 +325580,7 @@
 *://*.vbbank.online/*
 *://*.vbbbxw.click/*
 *://*.vbbisdptwudshqf.ru/*
+*://*.vbbnbvsbnfgs1.shop/*
 *://*.vbburasibskakcmahd.com.tr/*
 *://*.vbcapitalizm.live/*
 *://*.vbcheck-onlineislemler.com/*
@@ -329525,6 +329534,7 @@
 *://*.vr341zxxx312.sbs/*
 *://*.vr4gjcicjode.net/*
 *://*.vra4.com/*
+*://*.vrakudeli.com/*
 *://*.vrandvula647.click/*
 *://*.vraneskadolina.com/*
 *://*.vrapus.name.tr/*
@@ -341242,6 +341252,7 @@
 *://*.xelj.net/*
 *://*.xelltrio.in/*
 *://*.xelnas.com/*
+*://*.xelnbr.help/*
 *://*.xeloriax.com/*
 *://*.xelpersx.click/*
 *://*.xelphoria.store/*
