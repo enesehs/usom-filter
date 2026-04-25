@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-25 04:24:53 UTC
-# Toplam: 450381 Domain
+# Son Güncelleme: 2026-04-25 06:13:12 UTC
+# Toplam: 450383 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38342,6 +38342,7 @@ akbilzmir.net
 akbin.cloud
 akbireysal.xyz
 akbireysel-basvuru.bounceme.net
+akbireysel-kredimcepte.duckdns.org
 akbireysel.net
 akbireyselbasvuurr.com
 akbireyselekim.com
@@ -377287,6 +377288,7 @@ tektiklaevlnegellr.com
 tektiklafaturaode.com
 tektiklagir.xyz
 tektiklahaber.shop
+tektiklahaberim.shop
 tektiklaiade.online
 tektiklakapinda.online
 tektiklakapindaa101kampny.xyz
