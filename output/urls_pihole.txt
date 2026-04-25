@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-25 15:29:28 UTC
-# Toplam: 450425 Domain
+# Son Güncelleme: 2026-04-25 16:27:07 UTC
+# Toplam: 450431 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -196872,6 +196872,7 @@ hemenguzelalisveris.xyz
 hemenguzelticaret.online
 hemenhaber.club
 hemenhaber.online
+hemenhaber.shop
 hemenhaber.site
 hemenhaftas.online
 hemenhallederiz.click
@@ -237633,6 +237634,7 @@ kadlnaslddetehaylr.org
 kadnasiddetehayir.ml
 kadnasiiddetehayir.xyz
 kadnaslddetehayir.org
+kadncelerdegnler.cfd
 kadnemnd.online
 kadnemnd.site
 kadobaba.click
@@ -270978,6 +270980,7 @@ mhpnhwwvsfimcij.cn
 mhrandevugov.net
 mhrdrandsveu.com
 mhreseranedeual.net
+mhrhrmrmsn.online
 mhrmhrdsmsd.click
 mhrmhrdsmsdd.click
 mhrmhrdsmsdxdd.click
@@ -271535,6 +271538,7 @@ migros-indirim.com.tr
 migros-mall.com
 migros-marketcepte.vercel.app
 migros-mobilmarket.vercel.app
+migros-online.vercel.app
 migros-onlineextra.vercel.app
 migros-sanalalisveris.com.tr
 migros-sanalmarket.com.tr
@@ -349767,6 +349771,7 @@ sepetler.com.tr
 sepetlerim.com.tr
 sepetlerimiz.com.tr
 sepetlerinizeaksin.xyz
+sepetlerlmlzdeucuzluklarvar.com
 sepetlertukeniyor.site
 sepetligunlergeldi.com
 sepetmagazas.com
@@ -395098,6 +395103,7 @@ turkiyemgov.cloud
 turkiyemgov.online
 turkiyemgovntr.com
 turkiyemgovtr.org
+turkiyemhaber.shop
 turkiyemiade.blogspot.com
 turkiyemiadegov.com
 turkiyemkandilozelturkiy-aidat.20-42-95-49.plesk.page
