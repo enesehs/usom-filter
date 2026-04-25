@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-25 10:32:11 UTC
-# Toplam: 450402 Domain
+# Son Güncelleme: 2026-04-25 11:28:53 UTC
+# Toplam: 450411 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -234,6 +234,7 @@
 010109434-111.duckdns.org
 01014522566dsas.com
 0101650301-123.cloud
+0101basvrularmerkezi0102.com
 0101ksmvlsk2140.com
 0101sv.ddns.net
 0102020022-222.cloud
@@ -160317,6 +160318,7 @@ finansalekimduyurusuak.online
 finansalem.space
 finansalgelir.org
 finansalgundem.click
+finansalhaber.shop
 finansalhizmet-hediye.com
 finansalhizmetler.click
 finansaliadegirisi.com
@@ -187247,6 +187249,7 @@ habermasal.website
 habermedya365.sbs
 habermedyaadresi.xyz
 habermedyam.xyz
+habermedyasi.shop
 habermercegi.com
 habermercek.online
 habermerkez.my-homeip.com
@@ -271058,6 +271061,7 @@ mhsscfsrsa3.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhsscfsrsa7.sbs
+mhsscfsrsa9.sbs
 mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
@@ -336627,6 +336631,7 @@ s-85283.gotocdn.com
 s-adroll.com
 s-ahibinden-paramguvende-hizmetleri.xyz
 s-ahibnden-paramguvende.com
+s-alicibilgilerilanim.com
 s-alicibilgilerinigoruntule.com
 s-alisverisguvende.com
 s-alisverisim-tr.sa.com
@@ -401153,6 +401158,7 @@ ut7fmvet52cfuxu.ddns.net
 ut7fsdkhspubqna.ddns.net
 ut9ro80a.duckdns.org
 uta1o1.net
+utacanon2xs.cfd
 utagscript.com
 utah.gov-etcfr.win
 utaidemand.rientinebi.ru
@@ -443040,6 +443046,7 @@ yonlen-artik-310131.com
 yonlen-buradan-anlik.sbs
 yonlen.click
 yonlenci.webredirect.org
+yonlendieiliyorsunuzi2334.duckdns.org
 yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
@@ -448789,9 +448796,11 @@ zirex.bond
 zirfirsati.com
 zirfirsatkacmaz.com
 zirfirsatkacmaz.online
+zirgirismobildenekrani.sbs
 ziriatbank.com
 zirkitktedera453632621.online
 zirkttrtrakte.online
+zirmobilaktifekran.sbs
 zirmobilbasvurularim.sbs
 zirmobilekranlarim.sbs
 ziroat.sbs
