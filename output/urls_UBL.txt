@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-25 18:31:56 UTC
-! Total: 359568 rules
+! Last modified: 2026-04-25 19:35:55 UTC
+! Total: 359571 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -147277,6 +147277,7 @@
 *://*.guv3nlihizliod3.net/*
 *://*.guvafe.com/*
 *://*.guvebilrifaturamerkez.net/*
+*://*.guvedekalin.com/*
 *://*.guveenlialisveriss-gts.com/*
 *://*.guveenlialisveriss-gts.xyz/*
 *://*.guveenlodemepay.com/*
@@ -174037,6 +174038,7 @@
 *://*.ilanlar-mobilde.com/*
 *://*.ilanlar-mobile.com/*
 *://*.ilanlar-odemeler.com/*
+*://*.ilanlar-online.com/*
 *://*.ilanlar-ozelsepetim.com/*
 *://*.ilanlar-paramguvende.com/*
 *://*.ilanlar-s-get.com/*
@@ -278680,6 +278682,7 @@
 *://*.sepetlerinizeaksin.xyz/*
 *://*.sepetlerlmlzdeucuzluklarvar.com/*
 *://*.sepetlertukeniyor.site/*
+*://*.sepetlerveucuzluklarvar.com/*
 *://*.sepetligunlergeldi.com/*
 *://*.sepetmagazas.com/*
 *://*.sepetmagazasa.com/*
