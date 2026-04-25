@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-25 09:39:32 UTC
-# Toplam: 450398 Domain
+# Son Güncelleme: 2026-04-25 10:32:11 UTC
+# Toplam: 450402 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -97869,6 +97869,7 @@ cfrfwsaa.icu
 cfrhsw.xyz
 cfrsakan.cfd
 cfrsnline.cfd
+cfsddfmrkt.xyz
 cfsdklkasxjk12kj3xxads.sbs
 cfsdmrkettt.xyz
 cfsdmrkt.xyz
@@ -252266,6 +252267,7 @@ kredikullandirimdenizbank.com
 kredikuveytt.com
 kredikuveytt.com.fbkisal.cc
 kredilemvakifbanktrd.tk
+krediler-merkezi.com
 krediler-turkiye.site
 krediler-turkiye.xyz
 krediler.ailegencbasvurular.com
@@ -392019,6 +392021,7 @@ tt8qiy.duckdns.org
 tt8xrqaq.duckdns.org
 tt9wezu34.duckdns.org
 ttaecxu.duckdns.org
+ttakcanbamanca.xyz
 ttakip.com
 ttakip.net
 ttakipislemlerinizim.shop
@@ -420714,6 +420717,7 @@ wsaxfgvt.com
 wsb-tapurndevulari.com
 wsbank.co
 wsbekbsxtl.duckdns.org
+wsbyqi.buzz
 wscript.ddns.net
 wsdenizbank.com
 wsdenizbanks.com

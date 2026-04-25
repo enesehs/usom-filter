@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-25 09:39:32 UTC
-! Total: 359535 rules
+! Last modified: 2026-04-25 10:32:11 UTC
+! Total: 359539 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -75565,6 +75565,7 @@
 *://*.cfrhsw.xyz/*
 *://*.cfrsakan.cfd/*
 *://*.cfrsnline.cfd/*
+*://*.cfsddfmrkt.xyz/*
 *://*.cfsdklkasxjk12kj3xxads.sbs/*
 *://*.cfsdmrkettt.xyz/*
 *://*.cfsdmrkt.xyz/*
@@ -204324,6 +204325,7 @@
 *://*.kredikullandirimdenizbank.com/*
 *://*.kredikuveytt.com/*
 *://*.kredilemvakifbanktrd.tk/*
+*://*.krediler-merkezi.com/*
 *://*.krediler-turkiye.site/*
 *://*.krediler-turkiye.xyz/*
 *://*.kredilerdenizdekrediler.com/*
@@ -313820,6 +313822,7 @@
 *://*.tt111t11t111.info/*
 *://*.tt2025hmnktlsndbrda.com/*
 *://*.tt286.com/*
+*://*.ttakcanbamanca.xyz/*
 *://*.ttakip.com/*
 *://*.ttakip.net/*
 *://*.ttakipislemlerinizim.shop/*
@@ -336013,6 +336016,7 @@
 *://*.wsaxfgvt.com/*
 *://*.wsb-tapurndevulari.com/*
 *://*.wsbank.co/*
+*://*.wsbyqi.buzz/*
 *://*.wsdenizbank.com/*
 *://*.wsdenizbanks.com/*
 *://*.wsdertejwqrf.com/*
