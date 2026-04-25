@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-25 12:33:38 UTC
-# Toplam: 450416 Domain
+# Son Güncelleme: 2026-04-25 13:55:15 UTC
+# Toplam: 450420 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6055,6 +6055,7 @@
 192032390139.gleeze.com
 19213491564.cloud
 1921680100.ddns.net
+1922331123.click
 1923-istanbul-12.xyz
 1923236846.dfgqdsd.ru
 1923den.com
@@ -20225,6 +20226,7 @@
 872i3gav7.duckdns.org
 87312-coinbase.com
 8731293129521.cloud
+873218331.click
 873333com.com
 8736353546808.duckdns.org
 87423768798.online
@@ -246477,6 +246479,7 @@ kilometrekaydi.sa.com
 kilometrekaydim.blogspot.com
 kilometrekayitlari.sa.com
 kilometrekayitlarim.web.app
+kilometrekontrol.com
 kilometrekontrol.sa.com
 kilometrelerinizleogren.cfd
 kilometrem.sa.com
@@ -249276,6 +249279,7 @@ kmsorgulmazss.info
 kmsorgumerkezi.web.app
 kmsorgunzlamx.com
 kmsorgupatronu.cfd
+kmsorgupratik.web.app
 kmsorgupttavmgotr.duckdns.org
 kmsorgupttavmgov-ttr.duckdns.org
 kmsorguptthemengov.duckdns.org
