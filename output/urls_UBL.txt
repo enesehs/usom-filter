@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-25 11:28:53 UTC
-! Total: 359547 rules
+! Last modified: 2026-04-25 12:33:38 UTC
+! Total: 359551 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13422,6 +13422,7 @@
 *://*.9999560.cc/*
 *://*.9999665478.cloud/*
 *://*.99998453369.cloud/*
+*://*.999993333.biz/*
 *://*.99999444442222.cloud/*
 *://*.9999992223.cloud/*
 *://*.99999944112.cloud/*
@@ -204329,6 +204330,7 @@
 *://*.kredikuveytt.com/*
 *://*.kredilemvakifbanktrd.tk/*
 *://*.krediler-merkezi.com/*
+*://*.krediler-merkezim.com/*
 *://*.krediler-turkiye.site/*
 *://*.krediler-turkiye.xyz/*
 *://*.kredilerdenizdekrediler.com/*
@@ -217414,6 +217416,7 @@
 *://*.meritkinngg1059.com/*
 *://*.meritoshop.com/*
 *://*.meritsbuisness.com/*
+*://*.merityenhaber.shop/*
 *://*.merivaara.xyz/*
 *://*.meriwethershaquila.net/*
 *://*.meriwethertatianna.net/*
@@ -218428,6 +218431,7 @@
 *://*.mhsscfsrsa4.sbs/*
 *://*.mhsscfsrsa6.sbs/*
 *://*.mhsscfsrsa7.sbs/*
+*://*.mhsscfsrsa8.sbs/*
 *://*.mhsscfsrsa9.sbs/*
 *://*.mht-tickets.ru/*
 *://*.mhtevents.com/*
