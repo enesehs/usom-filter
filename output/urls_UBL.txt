@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-26 17:29:08 UTC
-! Total: 359625 rules
+! Last modified: 2026-04-26 18:32:39 UTC
+! Total: 359627 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -47266,6 +47266,7 @@
 *://*.bdtymf.top/*
 *://*.bduinf.com/*
 *://*.bdunp.com/*
+*://*.bdv-bsvcmpgn.lat/*
 *://*.bdv-garanti-mobil-giris.com/*
 *://*.bdva-kampanyalar.net/*
 *://*.bdvimcceelll.com/*
@@ -202534,6 +202535,7 @@
 *://*.kolaybasvuru.shop/*
 *://*.kolaybasvurubntr.com/*
 *://*.kolaybirsekildeyapiniz.shop/*
+*://*.kolaybiryol.com/*
 *://*.kolayca-hallet.online/*
 *://*.kolayca-kapinda-aarass-hizzmetleri.com/*
 *://*.kolayca-ode.com.tr/*
