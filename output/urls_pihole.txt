@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-26 12:35:21 UTC
-# Toplam: 450468 Domain
+# Son Güncelleme: 2026-04-26 13:57:03 UTC
+# Toplam: 450478 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -57940,6 +57940,7 @@ babaparayapmakta.com
 babapiyasadayine.net
 babapiyasasddas.net
 babapro.pro
+babarandevu.gleeze.com
 babarenclave.pk
 babasadasadansada.site
 babasahin.duckdns.org
@@ -181931,6 +181932,7 @@ grntttprmsynnnkmpnya.info
 grntttprmsynnnkmpnya.live
 grntttprmsynnnkmpnya.pro
 grnttttbasvursuuprsmyn.pro
+grntttttprmsynbsvrrrr.pro
 grntudfrstkmp024.online
 grntwebsisonline.sbs
 grntyeniyil.online
@@ -210105,6 +210107,7 @@ hydepark-london.com
 hydeparklane-merchant.com
 hydeparksuites.world
 hydisndegelstnlytermslarburada.world
+hydr3xx32lll43343.shop
 hydra-gratuitybnannce.cloud
 hydra-vip-project.us
 hydraart.duckdns.org
@@ -248944,6 +248947,7 @@ kmpnyaabsvrrrrprmsynn.live
 kmpnyaabsvru.info
 kmpnyaabsvru.live
 kmpnyaabsvru.pro
+kmpnyaabvvrrsprmsynn.art
 kmpnyaabvvrrsprmsynn.info
 kmpnyaabvvrrsprmsynn.live
 kmpnyaabvvrrsprmsynn.pro
@@ -295935,6 +295939,7 @@ online-denizbank.com
 online-denizbanka-tr-cep.cf
 online-denizhizmeti.com
 online-denizkampanya-enforumkampanya.ml
+online-dersaadet.shop
 online-desdekbasvur-com.ml
 online-destek-gov.xyz
 online-destek-hizmetler.store
@@ -299846,6 +299851,7 @@ onsiparis.org
 onsiparistogg.xyz
 onspotlinks.co.za
 onstruction-jobs-92972.bond
+onsversyn.net
 onsvrsyss.net
 onsvserssy.net
 onsxnjqyfzf.ru
@@ -329223,6 +329229,7 @@ randevumnvii.b-cdn.net
 randevumportali.info
 randevumtakip.com
 randevumu-hizlica-goster.mooo.com
+randevumuafynneem.com.tr
 randevumualnvii.net
 randevumualsana.net
 randevumuayene.net
@@ -349837,6 +349844,7 @@ sepette-odemem.com.tr
 sepette-onayli-aktif.com
 sepette-onayli-ilan.com
 sepette-onayli.com.tr
+sepette-siparis.com
 sepette-urunum.com.tr
 sepette101.online
 sepette1o1indirimi.great-site.net
@@ -350184,6 +350192,7 @@ serkanismayilgorls.tk
 serke4334cxx.duckdns.org
 serkerdehefer.online
 serkerterasd.duckdns.org
+serkgftn5jydr4324.duckdns.org
 serkketftn2431231.duckdns.org
 serks215435.cloud
 serlyuklemeler.sg-host.com
@@ -371456,6 +371465,7 @@ svr-sec2-system.com
 svrbsmceal.com
 svrici7u.duckdns.org
 svrlmo.com
+svrsondanismanlik.blogspot.com
 svrwood.com
 svsbsos.com
 svsbsos.org
