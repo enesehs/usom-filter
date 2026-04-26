@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-26 11:29:59 UTC
-! Total: 359587 rules
+! Last modified: 2026-04-26 12:35:21 UTC
+! Total: 359593 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -40936,6 +40936,7 @@
 *://*.baba-biisteeee-12.buzz/*
 *://*.baba-enfejaaaaaaar-1.buzz/*
 *://*.baba-motaaaaabaaar.buzz/*
+*://*.baba-randevu.com/*
 *://*.babaa.org/*
 *://*.babababsssbeebee.net/*
 *://*.bababubaba.ga/*
@@ -183705,6 +183706,7 @@
 *://*.istanbulbasvuruyap.shop/*
 *://*.istanbulbbislemleriniz.click/*
 *://*.istanbulbbl.com/*
+*://*.istanbulbe.biz/*
 *://*.istanbulbe.click/*
 *://*.istanbulbelbim.net/*
 *://*.istanbulbelediye1453.net/*
@@ -183720,6 +183722,7 @@
 *://*.istanbulbireysel.com/*
 *://*.istanbulbireyselkartbasvurumerkezi.site/*
 *://*.istanbulbizim.biz/*
+*://*.istanbulbizim.cfd/*
 *://*.istanbulbizim.click/*
 *://*.istanbulbizim.lol/*
 *://*.istanbulbizim.mom/*
@@ -184438,6 +184441,7 @@
 *://*.istbh.com/*
 *://*.istbhkart.com/*
 *://*.istbibbyklemex.net/*
+*://*.istbizim.biz/*
 *://*.istbizim.sbs/*
 *://*.istbizim.xyz/*
 *://*.istbizimle.xyz/*
@@ -284370,6 +284374,7 @@
 *://*.siradakampanyalarvar.shop/*
 *://*.siradakieglencegelmis.com/*
 *://*.siraklemeden.com/*
+*://*.siralarolmadan.com/*
 *://*.siralu.xyz/*
 *://*.sirasendefirsatiyakalahemen.online/*
 *://*.sirasi-geldi.com/*
@@ -341302,6 +341307,7 @@
 *://*.xcxbvabalarlal.com/*
 *://*.xcxd8o7h1.ru/*
 *://*.xcxxcxxsubemmcxzdvletiadaee.fun/*
+*://*.xcziby.click/*
 *://*.xcznvmvasmv.net/*
 *://*.xczsrg.cf/*
 *://*.xd2kdw.lol/*
