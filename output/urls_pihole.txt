@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-27 14:53:22 UTC
-# Toplam: 450618 Domain
+# Son Güncelleme: 2026-04-27 17:57:28 UTC
+# Toplam: 450662 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11843,6 +11843,7 @@
 3289kqv.duckdns.org
 32917229.xyz
 32954329532.shop
+329838912.sbs
 329i19.duckdns.org
 32be43eefed4.com
 32c4idz0t908t.y968bu6.ru
@@ -17422,6 +17423,7 @@
 6785423782345.life
 678543423423423.online
 678567453354.online
+678678456354.net
 67874973.dfgqdsd.ru
 67876765343242.cloud
 6788678765436354.online
@@ -18755,6 +18757,7 @@
 765010679.corolain.ru
 76543545112.duckdns.org
 7654456543.online
+765453435243.net
 7654654387654356.cloud
 7655651525412.com.tr
 7655651525412.online
@@ -30892,6 +30895,7 @@ acikdnzv2-v116dnizbnk.tk
 acikdovizaltinmobildeniz.com
 acikdovizdenizbank.com
 acikdovizv2denizbank.com
+acikekranbasvurulari.sbs
 acikesube-teb.com
 acikfdenizimbsvuruonaydskekrani.site
 acikfinansmobildovizdenizbank.com
@@ -38102,6 +38106,7 @@ akbankingforwinning.duckdns.org
 akbankingpoint.xyz
 akbankinteraktifislemler.com
 akbankinternetbankacilik.com
+akbankinvest.com
 akbankislemler.com
 akbankislemlerim.com
 akbankislemteyit.duckdns.org
@@ -50357,6 +50362,7 @@ arccmuaneds.web.app
 arccmuaynessdwe.web.app
 arccmyzznxx.com
 arccssdmuaynessi.net
+arcdemo.com.tr
 arceiik.com
 arceliik.com
 arceliikindirim.xyz
@@ -93795,6 +93801,7 @@ cargokoehler.de
 cargosavage.top
 cargosconvcy.top
 cargosorgulama.net
+cargozent.com
 carhartt-turkiye.com
 cari-properti.info
 cariamae.com
@@ -146754,6 +146761,7 @@ emotionaldetach.top
 emotionalfamily.top
 emotionbizarre.top
 emotioncardspy.zapto.org
+emotionfacts.com
 empackaged.sa.com
 emparam.club
 empathyforengineers.com
@@ -160665,6 +160673,7 @@ finansimyanimda.vercel.app
 finansinbahargunleri.com
 finansinbankasiyiz.com
 finansinc.co.ua
+finansindexraporlarimla.sbs
 finansinternetkazan.com
 finansinyaninda-mobil.vercel.app
 finansipuclari.info
@@ -173883,6 +173892,7 @@ gelnlerialinindmarlkda.com
 gelnzolsiparscm.com
 gelode.sg-host.com
 gelonarituk.gifts
+gelonaviku.com
 gelosmedia.co.za
 gelovosaja.club
 gelparakazan.com
@@ -190547,6 +190557,7 @@ halkbasvurum.com
 halkbbanksubesitr.com
 halkbenk.com
 halkbilgi.info
+halkbilgialani.com
 halkbintl.cf
 halkbintl.com
 halkbireysel-bankacilik-com.cf
@@ -195093,6 +195104,7 @@ headlinehub.world
 headlineobserver.com
 headlinepulse.online
 headlineurine.top
+headlinevoyage.com
 headlineza.online
 headlio.online
 headmasterillicit.top
@@ -224201,6 +224213,7 @@ isbank.financial
 isbank.fit
 isbank.ga
 isbank.giize.com
+isbank.hpyoe.top
 isbank.icu
 isbank.in
 isbank.intsube.com
@@ -227418,6 +227431,7 @@ istanbulparlakhalis.shop
 istanbulpazargunu.net
 istanbulpazartesiye.site
 istanbulport.webredirect.org
+istanbulportfoydanismanlik.com
 istanbulprestijhalis.shop
 istanbulqxac.net
 istanbulr.ml
@@ -233002,6 +233016,7 @@ j71x75.duckdns.org
 j721422.myjino.ru
 j728870.myjino.ru
 j731449.myjino.ru
+j784745.click
 j793svlj.duckdns.org
 j7ajhg3i6.duckdns.org
 j7arqluyye94.storage.googleapis.com
@@ -236600,6 +236615,7 @@ k7-oslo.com
 k70hjlwtm.duckdns.org
 k71qb7.duckdns.org
 k71tm5euu.duckdns.org
+k748368.click
 k75neay.duckdns.org
 k76sadasdhashdahshdd29asdasd.click
 k7asdhahsdhashdahsdhahsd.click
@@ -241492,6 +241508,7 @@ karacahome-mutfak.com
 karacahome-mutfak.online
 karacahome-mutfak.xyz
 karacahome.site
+karacahome.vercel.app
 karacaiindirrim.click
 karacaiindirrim.com
 karacailepazartesi.com
@@ -241942,6 +241959,7 @@ karfoursa.store
 karfouryag.shop
 karfurrsa-ramazan-indirimleri.com.tr
 karfursa-firsat-indirimleri-ramazan.com.tr
+karg00-vakti.sbs
 karg00-vaktii.sbs
 kargdlurumpt.com
 kargdurumbillgi.com
@@ -242703,6 +242721,7 @@ kartlasenka.com
 kartlimitimisorgula.com
 kartmadlmyapxx.net
 kartmadolxmyxpp.net
+kartmat.opik.net
 kartmayuklemeller.org
 kartodemeleri.com
 kartodemelilbbls.net
@@ -248713,6 +248732,7 @@ kmislemlersmdic.za.com
 kmist.sa.com
 kmiumw.org
 kmizim.firebaseapp.com
+kmizim.web.app
 kmiziniz.firebaseapp.com
 kmiziniz.web.app
 kmizle.web.app
@@ -249118,6 +249138,7 @@ kmpnymrkziprmsynnktasi.info
 kmpnymrkziprmsynnktasi.pro
 kmpnymrkziprmsynnktasi.site
 kmpnynzsizlerleburada.com
+kmpnyprmsynckls0.info
 kmpnyprmsynckls0.live
 kmpnyprmsynckls0.pro
 kmpnysprmsyncklss.info
@@ -271081,6 +271102,7 @@ mhmtensylmzrndvudm.com
 mhmtnrsylmz.net
 mhnckvxgwcomksj.ru
 mhnrs.net
+mhns.randevu-bilgi.it.com
 mhost.ddns.net
 mhost1789.ddns.net
 mhotel2025.world
@@ -273004,6 +273026,7 @@ mmgqn2uhp.duckdns.org
 mmhhhhrrrrrrrss.sbs
 mmhhhhrrrrrrrsss.sbs
 mmhhhhrrrrrrrssss.sbs
+mmhhrhhrhrrs1.sbs
 mmhkmazlh.duckdns.org
 mmhp.link
 mmhrsnrndvs.net
@@ -278020,6 +278043,7 @@ mrrwqwrprs.in
 mrrxr.duckdns.org
 mrryy.duckdns.org
 mrs-saglik.com
+mrs1-saglk.com
 mrsanmskfx.best
 mrsavbilgitr.sbs
 mrsbhais.com
@@ -288447,6 +288471,7 @@ nortonservice.net
 norturbulent.top
 norulless.com
 norvencora.info
+norvexa.live
 norvianis.com
 norwaylandhost.info
 norwayy.co
@@ -292627,6 +292652,7 @@ ocv8xjhqt.duckdns.org
 ocvepi.top
 ocvp6xrrn.duckdns.org
 ocwkqpthkn.duckdns.org
+ocxvoldf.net
 oczan-wave.online
 od-pttgov.top
 od.lk
@@ -300206,6 +300232,7 @@ openapplicationcheck.azurewebsites.net
 openarackiralama.com
 openattachment.net
 openbankcard.ru
+openbaykar.info
 openbaykar.info.jpg
 openbaykar.site.jpg
 openboxclue.ddns.net
@@ -327327,6 +327354,7 @@ quarrelintercourse.top
 quarrelpatriotic.top
 quarrelslump.top
 quarrelsomethorn.top
+quarrix.sbs
 quarrpottery.top
 quarryz.com
 quarsshhmaa.shop
@@ -329221,6 +329249,7 @@ randevu-almuayen.net
 randevu-arac.com
 randevu-aracmuayen.net
 randevu-aracmuayenemlsk.net
+randevu-bilgi.it.com
 randevu-eportal.online
 randevu-gov-tr.net
 randevu-gov-tr.org
@@ -334994,6 +335023,7 @@ rnlolbab.duckdns.org
 rnlwl.duckdns.org
 rnmabikjuetdryh.cn
 rnmdvshuzbrusdds.online
+rnmdvshuzbrusdds.store
 rnmljhzvtp.duckdns.org
 rnnankf.com
 rnndsvsusal.net
@@ -337927,6 +337957,7 @@ sabinaengineering.com
 sabines-marmeladen.de
 sabioqalimthingjascareers.com
 sabir.yankeecap.cfd
+sabirallahsabir.sbs
 sabirbuyur.sbs
 sabirlabekliyoruz.net
 sabirpo.ru
@@ -343396,6 +343427,7 @@ saleandwin.club
 saleapi.org
 saleba9.shop
 salebrend.info
+salecraft.store
 salederimodshop.com
 saleetitoer.top
 salegrid.store
@@ -348533,6 +348565,7 @@ sellgfvs.best
 sellgiggle.top
 sellgrove.gifts
 sellhaven.gifts
+sellhub.sbs
 sellifypro.com
 sellindd1omains.click
 sellitron.store
@@ -352377,6 +352410,7 @@ sharegoogldrive.online
 shareholderery.com
 shareholderma.com
 sharelarge.top
+sharemax.best
 sharemoc.space
 sharemydrives.com
 shareone.live
@@ -352416,6 +352450,7 @@ sharongary6.duckdns.org
 sharongrace.ddns.net
 sharonjohnson.zapto.org
 sharp-dev-40d.ivx9ctza.workers.dev
+sharpbrief.world
 sharped.top
 sharpensubscriber.top
 sharpestubcdwikifemale.agehowofu1990.workers.dev
@@ -358358,6 +358393,7 @@ slap1432.xyz
 slapintins.publicvm.com
 slaprepertoire.top
 slapstall.top
+slardankardanlardan1234.click
 slardar.icu
 slartybartfast.com
 slashelastic.top
@@ -371592,6 +371628,8 @@ svrsondanismanlik.blogspot.com
 svrwood.com
 svsbsos.com
 svsbsos.org
+svscnrsondanismanlik.blogspot.com
+svscrsondanismanlik.blogspot.com
 svsguvende.online
 svshost.zapto.org
 svsleyekgmhizligecis.net
@@ -387050,6 +387088,7 @@ tradeexhaust.top
 tradegrow-online.store
 tradeiifox.top
 tradeinfo.pro
+tradelio.gifts
 tradelk.com
 tradellab.com
 trademagnet.online
@@ -396137,6 +396176,7 @@ tuvturk-aracrandev.net
 tuvturk-aracrandevusu.net
 tuvturk-d.digital
 tuvturk-dijital.site
+tuvturk-gtr.com
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
 tuvturk-kss.com
@@ -396408,6 +396448,7 @@ tuvutukrandevual.com
 tuvuturk-onl-randvu.click
 tuvuturkrandevuolustur.com
 tuvuvutuvtkr.net
+tuvv-turkhizlislemler.com
 tuvvedec.website
 tuvvrandevuoperation.site
 tuvvrandevuopertion.site
@@ -400271,6 +400312,7 @@ urbancinema.net
 urbanclump.top
 urbanexp.digital
 urbanfinancewire.com
+urbanforge.vu
 urbanhill.sbs
 urbaniak.waw.pl
 urbanievolatility.top
@@ -410403,6 +410445,7 @@ vividbranch.com
 vividcaptcha.top
 vividdetention.top
 vividgetaway.com
+vividharbor.bond
 vividhoodfeaturerelax.com
 vividmeadowopf.com
 vividradar.com
@@ -410980,6 +411023,7 @@ vlarn.top
 vlascx.xyz
 vlast-news.com
 vlb5ddgv.duckdns.org
+vlbaqg.cc
 vlbrjomf.com
 vlburasibskakcmahd.com.tr
 vlc-updates.ddns.net
