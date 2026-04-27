@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-27 10:01:49 UTC
-# Toplam: 450559 Domain
+# Son Güncelleme: 2026-04-27 12:13:43 UTC
+# Toplam: 450572 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15970,6 +15970,7 @@
 567687843.site
 567834200.net
 5678567834534543.blogspot.com
+567891.sbs
 56789iugtfrd5t69i9ei9die9di9eidy7u889.rhiltons.com
 567999com.com
 567ff6675657656.blogspot.com
@@ -19006,6 +19007,7 @@
 788557358356312.com
 78900999.site
 78901744.cloud
+78909.sbs
 78966541235486.duckdns.org
 78989754.xyz
 78994879234798.com
@@ -20503,6 +20505,7 @@
 898541256.duckdns.org
 89873g3282h38b37327.cyou
 898884654654.cloud
+898890.sbs
 89889687989.cloud
 8989237878129090343.cloud
 898932990-1279840.cloud
@@ -61813,6 +61816,7 @@ basvurufirsatindabugun.online
 basvurufirsatisimdibance.space
 basvurufirsatiziraatim.com
 basvurufirsatkuveeetty.com
+basvurufirsatlari81.com
 basvurufirsatlarigaranti.com
 basvurufirsatlarimsimdibasladi.net
 basvurufirsatlarimsimdibasladim.net
@@ -88982,6 +88986,7 @@ buradakacmazfirsarlat.online
 buradakacmazfirsarlat.xyz
 buradakampanya.life
 buradakampanya.online
+buradakampanyabeklyor81.click
 buradakampanyacok.shop
 buradakampanyalar.com.tr
 buradakampanyalar.online
@@ -245772,6 +245777,7 @@ kgm.wklxda.homes
 kgm.xabkks.homes
 kgm.xelnbr.help
 kgm.xseowz.world
+kgm.zmvevj.cc
 kgm2023plakam.blogspot.com
 kgm2023plakams.blogspot.com
 kgmaa.top
@@ -248682,6 +248688,7 @@ kmislemlerionlines.ru.com
 kmislemlersmdic.za.com
 kmist.sa.com
 kmiumw.org
+kmizim.firebaseapp.com
 kmiziniz.firebaseapp.com
 kmiziniz.web.app
 kmizle.web.app
@@ -317589,6 +317596,10 @@ prmsynnnbsvrrkmpnyaa.click
 prmsynnnbsvrrqnb.info
 prmsynnnbsvrrrqnbbb.click
 prmsynnngrnttbsvr.xyz
+prmsynnnkmpnyaa25bsvrr.art
+prmsynnnkmpnyaa25bsvrr.info
+prmsynnnkmpnyaa25bsvrr.live
+prmsynnnkmpnyaa25bsvrr.pro
 prmsynnnkmpnyaaabsvrr.art
 prmsynnnkmpnyaaabsvrr.info
 prmsynnnkmpnyaaabsvrrr.art
@@ -322685,6 +322696,7 @@ pttibkdslzoibb.com
 pttibldsaozpdobb.net
 ptticin.com
 pttid.xyz
+pttigov-tr.homes
 pttigov.cfd
 pttigov.com
 pttigov.live
@@ -401560,6 +401572,7 @@ uwklxp.com
 uwlglp3.duckdns.org
 uwlljzswedzhcebuyprwlrvc.net
 uwmbqu.com
+uwmedupl.webflow.io
 uwmkgcytui.duckdns.org
 uwmujaweipw.org
 uwnkjjomuzmiy.com
