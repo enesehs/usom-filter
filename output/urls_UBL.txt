@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-26 23:27:24 UTC
-! Total: 359645 rules
+! Last modified: 2026-04-27 01:23:37 UTC
+! Total: 359648 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12589,6 +12589,7 @@
 *://*.8787478324324.space/*
 *://*.878761237812312.com/*
 *://*.8787657g53w092156j.store/*
+*://*.87878787.sbs/*
 *://*.87888885464.cloud/*
 *://*.87894564854.com/*
 *://*.878nrtl-onllinemrkktxfirsllryla.net/*
@@ -31178,6 +31179,7 @@
 *://*.anadolukilim.org/*
 *://*.anadolukolaygiris.top/*
 *://*.anadolukultur.net/*
+*://*.anadolulinked.com/*
 *://*.anadolumd-portfoy.com/*
 *://*.anadolumd.com/*
 *://*.anadolumdportfoy.com/*
@@ -232333,6 +232335,7 @@
 *://*.nsolpivxr.com/*
 *://*.nsopi.com/*
 *://*.nsorgula.org/*
+*://*.nsortasikrca.cfd/*
 *://*.nspectionzea.top/*
 *://*.nspromalbums.com/*
 *://*.nsptrfk.dev/*
