@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-28 19:13:58 UTC
-! Total: 359872 rules
+! Last modified: 2026-04-28 20:55:24 UTC
+! Total: 359891 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -24264,6 +24264,7 @@
 *://*.airporttaxi-uk.co.uk/*
 *://*.airrdropboxpairbu.com/*
 *://*.airrent.net/*
+*://*.airrentarackiralama.com/*
 *://*.airsamolit.com/*
 *://*.airscompany.com/*
 *://*.airsendengelenbizlenol.com/*
@@ -41449,6 +41450,7 @@
 *://*.bahria-maritime-services.com/*
 *://*.bahrialive.com/*
 *://*.bahriatownservices.com/*
+*://*.bahrihkdgtttyyuo.click/*
 *://*.bahsegell892.com/*
 *://*.bahsetbizeparadan.net/*
 *://*.bahsisaylik.com/*
@@ -75613,6 +75615,7 @@
 *://*.cfie-gnest-hbenv.click/*
 *://*.cflayerprotection.com/*
 *://*.cflfpmnrfvuofwy.ru/*
+*://*.cflkasdkladskl123x132.cfd/*
 *://*.cfltsxhjgktvutd.su/*
 *://*.cfm.com.pk/*
 *://*.cfm.com.ua/*
@@ -96639,6 +96642,7 @@
 *://*.dijital-ziraatwebgiris.sbs/*
 *://*.dijital-ziraatwebhizli.sbs/*
 *://*.dijital-ziraatwebmobil.com/*
+*://*.dijital-zirmobil.com/*
 *://*.dijital.shop/*
 *://*.dijital1.site/*
 *://*.dijital111.xyz/*
@@ -127438,6 +127442,7 @@
 *://*.filoocars.com/*
 *://*.filoocarss.com/*
 *://*.filoonlinemaulling.com/*
+*://*.filoportarackiralama.com/*
 *://*.filorent.com.tr/*
 *://*.filorentacarkiralama.com/*
 *://*.filorentacars.com/*
@@ -133263,6 +133268,7 @@
 *://*.fsdfsvfn.net/*
 *://*.fsdkfsdmsmd.xyz/*
 *://*.fsdklcaslkdx213cksaads.cyou/*
+*://*.fsdklcaslkdx213cksaads.shop/*
 *://*.fsdlaowaa.top/*
 *://*.fsdmfsmdfmsdf.xyz/*
 *://*.fsegitimsaglikvakfi.org/*
@@ -147609,6 +147615,7 @@
 *://*.guvendesiparis.online/*
 *://*.guvendeticaret-tr.com/*
 *://*.guvendeticaret.online/*
+*://*.guvendeticaretlerim.online/*
 *://*.guvendetr.co/*
 *://*.guvendetr.com/*
 *://*.guvendetr.net/*
@@ -147642,6 +147649,7 @@
 *://*.guvenilesatinal.shop/*
 *://*.guvenilesatiyoruz.xyz/*
 *://*.guvenilir-aidatt-iade.com/*
+*://*.guvenilir-alisveris.com/*
 *://*.guvenilir-alisveris.online/*
 *://*.guvenilir-alisveris.org/*
 *://*.guvenilir-alisverisler.com/*
@@ -157033,6 +157041,7 @@
 *://*.headlinegrove.com/*
 *://*.headlinehub.world/*
 *://*.headlineobserver.com/*
+*://*.headlineporter.com/*
 *://*.headlinepulse.online/*
 *://*.headlineurine.top/*
 *://*.headlinevoyage.com/*
@@ -220614,6 +220623,7 @@
 *://*.mobil-markette-tr.online/*
 *://*.mobil-nakit.com/*
 *://*.mobil-numara-hat-tasima.com/*
+*://*.mobil-obilet.nl/*
 *://*.mobil-obilet.online/*
 *://*.mobil-on-guvenli-e-aidat-basvuru-formu-2021.xyz/*
 *://*.mobil-on-guvenli-e-aidat-basvuru-formu.xyz/*
@@ -221875,6 +221885,7 @@
 *://*.mobilfirsat-denzkampanya.xyz/*
 *://*.mobilfirsat-kampanyasi-usulsuzisyapanusom.online/*
 *://*.mobilfirsat.site/*
+*://*.mobilfirsatimburada.xyz/*
 *://*.mobilfirsatindenizle2023.xyz/*
 *://*.mobilfirsatinizde2023.xyz/*
 *://*.mobilfirsatlar-ak.xyz/*
@@ -227228,6 +227239,7 @@
 *://*.mylrendyphone.com/*
 *://*.myltafarmtr.cfd/*
 *://*.mylxzmerm3eke.net/*
+*://*.mylzarek.buzz/*
 *://*.mylzavex.buzz/*
 *://*.mymachub.com/*
 *://*.mymacsoft.com/*
@@ -290595,6 +290607,7 @@
 *://*.sozireo.com/*
 *://*.sozlerineinanmistim.click/*
 *://*.sozlesmeli.com.tr/*
+*://*.sozlesmepolice.org/*
 *://*.sozlesmepolicem.net/*
 *://*.sozlesmepolicesi.net/*
 *://*.sozumuzu-tuttuk.net/*
@@ -316560,6 +316573,7 @@
 *://*.turkiyefirsatindasiniz.xyz/*
 *://*.turkiyefirsatinlahersey.xyz/*
 *://*.turkiyefirsatlarihemenonayla.xyz/*
+*://*.turkiyefocus.com/*
 *://*.turkiyegbnk.com/*
 *://*.turkiyegeliridareveduzenleme.com/*
 *://*.turkiyegenelgeiadeportaligovtr.com/*
@@ -316727,6 +316741,7 @@
 *://*.turkiyegowz.pw/*
 *://*.turkiyegumruk-gov-tr.com/*
 *://*.turkiyegundemi.online/*
+*://*.turkiyegundemplatform.com/*
 *://*.turkiyeguvenligiris.cf/*
 *://*.turkiyehaber.store/*
 *://*.turkiyehaberler.net/*
@@ -318602,6 +318617,7 @@
 *://*.typicalmerge.top/*
 *://*.typiconsult.com/*
 *://*.typlhkntid.com/*
+*://*.tyqelvor.media/*
 *://*.tyqglpovd.com/*
 *://*.tyqpldvsf.com/*
 *://*.tyr3s3g1bson11.xyz/*
@@ -329784,6 +329800,7 @@
 *://*.vornaqix.com/*
 *://*.vornelli.site/*
 *://*.vorneti.com/*
+*://*.vornuqel.buzz/*
 *://*.vornuqem.buzz/*
 *://*.voroad.org/*
 *://*.vorobecccc.top/*
@@ -353892,6 +353909,7 @@
 *://*.yllbasinanaozellll.com/*
 *://*.yllcumacente.site/*
 *://*.ylloer.org/*
+*://*.yllrdnsnlrdansdasds.click/*
 *://*.ylncarefourhmnal.org/*
 *://*.ylogi.ru/*
 *://*.ylosi.com/*
@@ -358465,6 +358483,7 @@
 *://*.ziraatofficial.online/*
 *://*.ziraatoffshore.com.tr/*
 *://*.ziraatoffshore.com/*
+*://*.ziraatoffshore.online/*
 *://*.ziraatoffshorebankasi.com/*
 *://*.ziraatonay.cfd/*
 *://*.ziraatonay.vip/*
