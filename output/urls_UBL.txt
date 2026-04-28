@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-28 10:11:52 UTC
-! Total: 359788 rules
+! Last modified: 2026-04-28 12:23:28 UTC
+! Total: 359823 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9780,6 +9780,7 @@
 *://*.4ko.top/*
 *://*.4kontravolta.cfd/*
 *://*.4lavista.com/*
+*://*.4lifetips.com/*
 *://*.4lkakxservicessorgusystem.com/*
 *://*.4lmmw85977x2.xyz/*
 *://*.4lnv-irxndevlrxm.net/*
@@ -16764,6 +16765,7 @@
 *://*.acarmenkuldegerler.com/*
 *://*.acarmenkuldegerler.online/*
 *://*.acarmenkulkiymetler.com/*
+*://*.acarmenkulkiymetler.org/*
 *://*.acarmenkulonline.com.tr/*
 *://*.acarmenkulonline.com/*
 *://*.acarmenkultr.com/*
@@ -20693,6 +20695,7 @@
 *://*.adsblockforyoutube.site/*
 *://*.adsbook.co.za/*
 *://*.adsbusinesscampaingscoupons.com/*
+*://*.adscdaksa32xcs.shop/*
 *://*.adsclick.me/*
 *://*.adsclubpartners.ru/*
 *://*.adscounter.com.ua/*
@@ -47517,6 +47520,7 @@
 *://*.bedavasorgula.com/*
 *://*.bedavasorgupaneli.online/*
 *://*.bedavasorgupaneli.site/*
+*://*.bedavasorgupaneli.xyz/*
 *://*.bedavatabletdevletdestegi.com/*
 *://*.bedavatakipci.ml/*
 *://*.bedavatakipcim.com/*
@@ -67178,6 +67182,7 @@
 *://*.bufelec.yachts/*
 *://*.buferingo.shop/*
 *://*.bufetgarrigosa.com/*
+*://*.buffalosolpe.top/*
 *://*.buffalotemperament.top/*
 *://*.bufferbud.top/*
 *://*.bufferdetention.top/*
@@ -72515,6 +72520,7 @@
 *://*.carrierpack.net/*
 *://*.carrierpacket.online/*
 *://*.carriersetup.net/*
+*://*.carrolvassin.top/*
 *://*.carrotaptly.top/*
 *://*.carrotbuffalo.top/*
 *://*.carrotconsolation.top/*
@@ -75952,6 +75958,7 @@
 *://*.chatnow2.eu/*
 *://*.chaton.life/*
 *://*.chaton.live/*
+*://*.chatorizon.com/*
 *://*.chatprism.icu/*
 *://*.chatrash.cn/*
 *://*.chatsaigpt.com/*
@@ -77647,6 +77654,7 @@
 *://*.claim-serv.me/*
 *://*.claim-your-reward.cfd/*
 *://*.claim346.xyz/*
+*://*.claimandwins.com/*
 *://*.claimbrowglot.pro/*
 *://*.claimdome.top/*
 *://*.claimeprogressive.com/*
@@ -79327,6 +79335,7 @@
 *://*.colneex-plalform.cloud/*
 *://*.colnhouse-fr.us/*
 *://*.colniyejes.cfd/*
+*://*.colnsdital.com/*
 *://*.colobran.party/*
 *://*.colocarantino.xyz/*
 *://*.colocauto.com/*
@@ -83663,6 +83672,7 @@
 *://*.craftscapes.info/*
 *://*.craftsignal.cfd/*
 *://*.craftstoryco.com/*
+*://*.craftwatchhub.com/*
 *://*.craftyouownworld.com/*
 *://*.crahdhduf.com/*
 *://*.craig-wright.org/*
@@ -106497,6 +106507,7 @@
 *://*.e-mhrrandevulari.digital/*
 *://*.e-mhrsrandevubilgilendirme.digital/*
 *://*.e-mhrsrandevumerkezi.digital/*
+*://*.e-mhrssrandevumerkezii.digital/*
 *://*.e-mlzbsvrgirsonayhediye.com/*
 *://*.e-mobil-bbvakredim.sbs/*
 *://*.e-mobil-bilgiler-girishizmetler.com/*
@@ -126476,6 +126487,7 @@
 *://*.fenquorlabs.store/*
 *://*.fensolnnimtor.com/*
 *://*.fensterfaliraki.com/*
+*://*.fentclearance.live/*
 *://*.fenthis.store/*
 *://*.fenthishubs.store/*
 *://*.fentivv.com/*
@@ -133375,6 +133387,7 @@
 *://*.fuesrfjnkjwebfb.top/*
 *://*.fuettern24.de/*
 *://*.fufaklklskw.cfd/*
+*://*.fufecarrol.top/*
 *://*.fufick.icu/*
 *://*.fugobiy.info/*
 *://*.fugoboss.net/*
@@ -145358,6 +145371,7 @@
 *://*.grntttprmsynnnkmpnya.pro/*
 *://*.grnttttbasvursuuprsmyn.pro/*
 *://*.grntttttprmsynbsvrrrr.info/*
+*://*.grntttttprmsynbsvrrrr.live/*
 *://*.grntttttprmsynbsvrrrr.pro/*
 *://*.grntudfrstkmp024.online/*
 *://*.grntwebsisonline.sbs/*
@@ -159584,6 +159598,7 @@
 *://*.herbizm.com/*
 *://*.herbkap.com/*
 *://*.herbkveytpu-angol-daltinfirsatal.com/*
+*://*.herbosfinx.com/*
 *://*.herbswallow.com/*
 *://*.herbtytox.com/*
 *://*.herbutceyeuygunurunler.com/*
@@ -173546,6 +173561,7 @@
 *://*.iistinfirsati.net/*
 *://*.iistinfirsatii.net/*
 *://*.iistmhkbxcbvc.com/*
+*://*.iistmhknbcvn.com/*
 *://*.iistnblkrt.net/*
 *://*.iisube-kuveytturk.com/*
 *://*.iisube-kuveyturk.ga/*
@@ -173721,6 +173737,7 @@
 *://*.ikofcuiow.net/*
 *://*.ikofed.com/*
 *://*.ikonbireysel.com/*
+*://*.ikonfinansmenkuldegerler.com/*
 *://*.ikongo.pw/*
 *://*.ikonmdtr.com/*
 *://*.ikonmenkuldeger.com/*
@@ -173731,6 +173748,7 @@
 *://*.ikonmenkulyatirim.com/*
 *://*.ikonmobil.com/*
 *://*.ikonmuraktona.net/*
+*://*.ikonsube.com/*
 *://*.ikopl.online/*
 *://*.ikoqhrey.com/*
 *://*.ikores.sbs/*
@@ -212490,6 +212508,7 @@
 *://*.mackenziemacleod342.xyz/*
 *://*.maclefen.xyz/*
 *://*.macleodphotography.com/*
+*://*.macljksave.life/*
 *://*.maclois-tr.com/*
 *://*.macmafia.top/*
 *://*.macnavicat.com/*
@@ -214913,6 +214932,7 @@
 *://*.marquery.top/*
 *://*.marquiven.shop/*
 *://*.marrahat.click/*
+*://*.marraheltin.com/*
 *://*.marrentora.com/*
 *://*.marriageomit.top/*
 *://*.marriagetuition.top/*
@@ -215365,6 +215385,7 @@
 *://*.matchacayi.name.tr/*
 *://*.matchacayiresmi.xyz/*
 *://*.matchhavoc.top/*
+*://*.matchnewtoday.com/*
 *://*.matchrepute.top/*
 *://*.matchsailmyoperate.live/*
 *://*.matchsarcastic.top/*
@@ -216986,6 +217007,7 @@
 *://*.megaodemeler.com/*
 *://*.megaopac.host/*
 *://*.megapelagios.site/*
+*://*.megaplaylive.com/*
 *://*.megaptera-oi.org/*
 *://*.megascoopsale.org/*
 *://*.megasearch.gq/*
@@ -246115,6 +246137,7 @@
 *://*.panzermanzeryoksizeasker.digital/*
 *://*.panzermanzeryoksizeasker.online/*
 *://*.panzeronline.com/*
+*://*.panzozerrot.com/*
 *://*.paoakl.click/*
 *://*.paodrrdwyyfj.org/*
 *://*.paok-24.com/*
@@ -266892,6 +266915,7 @@
 *://*.remoteinterpretationpro.com/*
 *://*.remoteonlinehub.com/*
 *://*.remotepx.net/*
+*://*.remotesbuffalo.top/*
 *://*.remotesystemday.com/*
 *://*.removalconstraint.top/*
 *://*.removalpamphlet.top/*
@@ -267930,6 +267954,7 @@
 *://*.resmigazete-kararnamesi.com/*
 *://*.resmigazete-karttiade-2020.com/*
 *://*.resmigazete-tccb-govtr.com/*
+*://*.resmigazete.sbs/*
 *://*.resmigazetedeyaziyor.pt/*
 *://*.resmigazetegovtr.com/*
 *://*.resmigazeteiadeislerigovtr152.com/*
@@ -270111,6 +270136,7 @@
 *://*.rudtbchi.com/*
 *://*.rudyhunter54.xyz/*
 *://*.ruecharme.com/*
+*://*.ruelomamuy.com/*
 *://*.ruemmelin.info/*
 *://*.ruepliz.click/*
 *://*.rufaho.com/*
@@ -274856,6 +274882,7 @@
 *://*.sanss.site/*
 *://*.sansyfin.com/*
 *://*.santaclaraparis.icu/*
+*://*.santafebuno.top/*
 *://*.santainstallslights.com/*
 *://*.santajsorgu.com/*
 *://*.santander-conta.net/*
@@ -279202,6 +279229,7 @@
 *://*.serivice.com/*
 *://*.serixbuz1.cfd/*
 *://*.seriyol-oto.xyz/*
+*://*.serkanbas57.sbs/*
 *://*.serkancaratan23.cfd/*
 *://*.serkandiyarii.com/*
 *://*.serkanismayilgorls.tk/*
@@ -279555,6 +279583,7 @@
 *://*.servismobil.xyz/*
 *://*.servismusterihizmeti.com/*
 *://*.servisn-mobilin.com/*
+*://*.servisn-ticaret-guvende.com/*
 *://*.servisnlink.com/*
 *://*.servisnllinkjet.com/*
 *://*.servisofsistemlogingirisinfosystemdemocrasy.com/*
@@ -296838,6 +296867,7 @@
 *://*.swebtrmerkezis.sbs/*
 *://*.swedapart-49013.com/*
 *://*.swedisfmhy.com/*
+*://*.sweeffg.online/*
 *://*.sweep325.xyz/*
 *://*.sweepbill.shop/*
 *://*.sweepbounty.xyz/*
@@ -310558,6 +310588,7 @@
 *://*.transistorendorsement.top/*
 *://*.transistorshorthand.top/*
 *://*.transistortact.top/*
+*://*.transitcaxip.com/*
 *://*.transitionalslack.top/*
 *://*.transitionaltropical.top/*
 *://*.transitionativate.top/*
@@ -327514,6 +327545,7 @@
 *://*.verifysegregation.top/*
 *://*.verifyseoagency.com/*
 *://*.verifysign.ru/*
+*://*.verifysuper.com/*
 *://*.verigfopengo.com/*
 *://*.verigisnizimmi.net/*
 *://*.verigizilerinmiizima.com/*
@@ -328648,6 +328680,7 @@
 *://*.vistaapparel.com/*
 *://*.vistcreative.com/*
 *://*.viste67.com/*
+*://*.vistertransit.com/*
 *://*.vistomi.com/*
 *://*.vistvib.com/*
 *://*.visual-translator.xyz/*
@@ -356326,6 +356359,7 @@
 *://*.zavurnediko.mom/*
 *://*.zawajonly.com/*
 *://*.zawkbntr-shop.club/*
+*://*.zawsterris.com/*
 *://*.zaxhvg.com/*
 *://*.zaxostrafk.xyz/*
 *://*.zaxprint.com/*
@@ -356696,6 +356730,7 @@
 *://*.zerphia.live/*
 *://*.zerqa.bond/*
 *://*.zerrinozeryasamvakfi.com.tr/*
+*://*.zerrotmamil.com/*
 *://*.zertyjim.store/*
 *://*.zeruvo.info/*
 *://*.zesaerteuytde.click/*
