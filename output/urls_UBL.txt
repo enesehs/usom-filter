@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-04-28 20:55:24 UTC
-! Total: 359891 rules
+! Last modified: 2026-04-28 21:53:36 UTC
+! Total: 359893 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -232550,6 +232550,7 @@
 *://*.nth.ch/*
 *://*.ntkbaecnpuxcnov.ru/*
 *://*.ntklntkltklnlkntm.online/*
+*://*.ntkltklnklntlknt.net/*
 *://*.ntkrnlpa.cn/*
 *://*.ntmj.org/*
 *://*.ntnumara-tasima.net/*
@@ -359729,6 +359730,7 @@
 *://*.zxxxz.uno/*
 *://*.zxyncmu.com/*
 *://*.zxzcvzcvxczvxzsax9.cfd/*
+*://*.zxzcvzcvxczvxzsax9.cyou/*
 *://*.zxzmirmizlevrxdn.net/*
 *://*.zxzxknttzxkrtttodeee.net/*
 *://*.zya.me/*
