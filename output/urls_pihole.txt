@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-29 17:12:40 UTC
-# Toplam: 451054 Domain
+# Son Güncelleme: 2026-04-29 19:03:23 UTC
+# Toplam: 451070 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -7089,6 +7089,7 @@
 1o1desepetteindirmfrsati.com
 1o1efsanefrstlrr.xyz
 1o1f4rsa4lar.com
+1o1firsat.com
 1o1firsatbasladi.shop
 1o1firsatgeldi.shop
 1o1firsatimonlineda.shop
@@ -12054,6 +12055,7 @@
 34408q.cn
 3442323kuvvt.com
 34423451111.cloud
+34424firsatbsvuru.com
 34434323.cloud
 34444bimceldeals.net
 344657432543754.com
@@ -63854,6 +63856,7 @@ bayramakkurbanlikfirsati.vercel.app
 bayramaldinaldin.xyz
 bayramaldinaldintestere.xyz
 bayramaldintestere.xyz
+bayramaoblttenblet-oblet.click
 bayramaozel-10gbkampanya.com
 bayramaozel-20gb-hediye.com
 bayramaozel-gratis.com
@@ -90187,6 +90190,7 @@ buzornn.ddns.net
 buzsarkiti.xyz
 buzticaret.net
 buzz4375.xyz
+buzzaro.media
 buzzcase.top
 buzzdeployment.top
 buzzedcompany.com
@@ -162149,6 +162153,7 @@ firsatinyaninda.online
 firsatisbmbonus.com
 firsatiseninle.com
 firsatiseninle.com.tr
+firsatisindeekran.duckdns.org
 firsatistanbul.net
 firsatistanhaziran.xyz
 firsatitermosa1o1.cfd
@@ -183986,6 +183991,7 @@ gundemhaber3.site
 gundemhaber4.site
 gundemhaber5.site
 gundemhaberi.site
+gundemhaberleri-tr.xyz
 gundemhaberleri.icu
 gundemhabermerkezi.com
 gundemhaberonline.com.tr
@@ -184140,6 +184146,7 @@ gunlukarabakiralama.com.tr
 gunlukarackiralamak.com
 gunlukbilgiler.com
 gunlukbilgiler.online
+gunlukbilgilerbrda.sbs
 gunlukbilgilerburadadir.blog
 gunlukbireyselaraclar.online
 gunlukborcum.net
@@ -190702,6 +190709,7 @@ halkbbanksubesitr.com
 halkbenk.com
 halkbilgi.info
 halkbilgialani.com
+halkbilgiplatform.com
 halkbintl.cf
 halkbintl.com
 halkbireysel-bankacilik-com.cf
@@ -252670,6 +252678,7 @@ kredimakbnk.com
 kredimanindacepte.site
 kredimanindadenizde.site
 kredimaniyi.digital
+kredimatik.sbs
 kredimbasvuru.com.tr
 kredimbasvuru.online
 kredimbasvurukvyt.net
@@ -267171,6 +267180,7 @@ masak88.com
 masak88.org
 masakarsiv.org
 masakbildiri.org
+masakbirim.org
 masakblokesi.com
 masakceza.com
 masakcezabilgi.org
@@ -269847,6 +269857,7 @@ mencycheck.online
 mendalserv10.info
 mendaskybrent.info
 mendfy.top
+menduzek.media
 mendzy.xyz
 meneksemor.net
 meneksevakfi.org
@@ -323353,6 +323364,7 @@ pttotcep.xyz
 pttoti.top
 pttoutlet.online
 pttov-tr.top
+pttov.bond
 pttov.vip
 pttownc.buzz
 pttoycc.cfd
@@ -336993,6 +337005,7 @@ ryctiejscyuhlp.com
 ryderlawns.xyz
 rydezbfgc.wcnv20.cn
 rydfddersadasdasda.com
+rydjfgyhrfrefddfs.sbs
 ryezbc.org
 ryfuhol4n.duckdns.org
 rygcgf73.top
@@ -346376,6 +346389,7 @@ sdkfjhskdjfhskjf20.click
 sdkfkrkfkrkd.com.tr
 sdkgvosaowhhgd.net
 sdkl1bcdev5xm4i8y2g0g8y.ddns.net
+sdklcflsd231xasc123x12.lol
 sdkpw8c6ux5vgrgr54e.ddns.net
 sdkscontrol.pw
 sdksdkjdssdsdsdmsdksksddssjj.duckdns.org
@@ -381386,6 +381400,7 @@ tiklagel.club
 tiklagel.xyz
 tiklagelsin.shop
 tiklagelsinn.com
+tiklagir101.xyz
 tiklaglell.com
 tiklagor.club
 tiklahaber.club
@@ -428359,6 +428374,7 @@ xashjgshjdbcsdjkbcsd.com.tr
 xashm.com
 xasistx.com.tr
 xasjhbxuaysg523314.net
+xasklj12k3lxjscdlasjkd.shop
 xasz.ddns.net
 xaszsqbwkj.duckdns.org
 xaten.ddns.net
