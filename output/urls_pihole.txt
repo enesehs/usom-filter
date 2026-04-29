@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-29 05:15:08 UTC
-# Toplam: 450857 Domain
+# Son Güncelleme: 2026-04-29 07:57:24 UTC
+# Toplam: 450874 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22869,6 +22869,7 @@ a-101-comtr.sbs
 a-101-de-bugune-ozel-firsatlar-tr.mobil-store-sepet-tr-ekle.site
 a-101-de-bugune-ozel-mobil-tr.internete-ozel-mobil-store-tr.site
 a-101-de-bugune-ozel.online-sponsor-web-tr.com
+a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
 a-101-de-extra-sadece-bugune-ozel-firsat.onlinecep-tr.site
 a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
 a-101-de-sadece-bugune-ozel-tr.online-shop-tr.site
@@ -26029,6 +26030,7 @@ a1o1onlinefirsaltr.blogspot.com
 a1o1onlinefirsat.online
 a1o1onlinefirsatlarrxyz.com
 a1o1onlinehizmetler.com
+a1o1onlinenisanfirsat.blogdns.com
 a1o1onlineozelkampanyalar.com
 a1o1onlineozelkampanyalar.online
 a1o1onlineozelkampanyas.net
@@ -44046,6 +44048,7 @@ alphacoronavirusvaccine.com
 alphadock.online
 alphahelixconsulting.com
 alphainvestors.com.au
+alphallinktech.com
 alphamike.com.mv
 alphamodel.cyou
 alphanextt.com
@@ -57664,6 +57667,7 @@ b8-crypt0x.com
 b8254jt.duckdns.org
 b836a3a9b51a99e6d566e805d079c3ea.com
 b83dnjam.duckdns.org
+b85230d8.sibforms.com
 b87b6c54b2d4.com
 b87fnlq.duckdns.org
 b88bz8.duckdns.org
@@ -65412,6 +65416,7 @@ bdtymf.top
 bduinf.com
 bdunp.com
 bdv-bsvcmpgn.lat
+bdv-bsvcmpgn.shop
 bdv-garanti-mobil-giris.com
 bdva-kampanyalar.net
 bdva.com.ru
@@ -86596,6 +86601,7 @@ bsvrdnuz.click
 bsvrdnuz20.click
 bsvrdnuz40.click
 bsvrdstk.online
+bsvrdyek32x23.duckdns.org
 bsvrdyssongunkatl.duckdns.org
 bsvrdznzz.click
 bsvrdznzz10.click
@@ -120104,6 +120110,7 @@ denzbnk.umhl.com
 denzbnkcima.tech
 denzbnkmobil.run.place
 denzbnkmobilgq.cf
+denzburadagazede.click
 denzceptkgiris.cf
 denzden-kredi.bio
 denzden-kredi.live
@@ -166843,6 +166850,8 @@ frstrtb1kmp0brd1glal.com
 frsttkmpnyya.xyz
 frsttlari-kacrmaaa-klmaci.com
 frsttlrr-trndy.xyz
+frsttsnnkmpnyabsvrrr.click
+frsttsnnkmpnyabsvrrr.live
 frsturnlericf.online
 frstvktinikcirmavkt.com.tr
 frstxburdxxx.com.tr
@@ -177496,6 +177505,7 @@ girisleravantajlatr-webgirisitr.xyz
 girislerbbnrtr-online.com
 girislerbnacastr.com
 girislerbnacestr.com
+girislerbnaseaktiftr.com
 girislerbnnaceaktiftr.com
 girislerbnnacektiftr.com
 girislerbnnacesktiftr.com
@@ -252237,6 +252247,7 @@ kredibasvurunkuveytt-tr.com
 kredibasvuruonaymerkezi.live
 kredibasvuruonaymerkezi.net
 kredibasvuruonline.com.tr
+kredibasvuruonline.sbs
 kredibasvurusistemi.com
 kredibasvurusitesi.com
 kredibasvurusonuclarimonline.tk
@@ -270981,6 +270992,7 @@ mfcvll.top
 mfcytoivup.duckdns.org
 mfdemlkhvshvers.net
 mfegedaqrr.duckdns.org
+mfekqfwqmwl.com
 mferje.cc
 mffatool.ddns.net
 mffkiblekyoxnefn.com
@@ -274406,6 +274418,7 @@ mobilbasvuruuygulamasi-guncel.tk
 mobilbasvuurularinadresitekdeniz.click
 mobilbbva.top
 mobilbbvam.net
+mobilbet.my-homeip.net
 mobilbildirim-kredi.top
 mobilbildirim-kredideniz.top
 mobilbildirimgirisim.ga
@@ -348354,6 +348367,7 @@ sefakindir.cc.dvrlists.com
 sefburada.com
 sefcreditunion.ddns.net
 sefcucreditunion.ddns.net
+sefer.obilet.nl
 seferberlik20gb.com
 seferlik1.com
 seferlik4.com
@@ -361688,6 +361702,7 @@ sonfrsatlar.sbs
 sonfrsatzmani.cfd
 sonfrstbugun.online
 sonfrstkmpnyabsvrr.pro
+sonfrstkmpnyabsvrr.xyz
 sonfrstlar.shop
 sonfrstlarburda1o1tukenyr.shop
 sonfrstlarburdatukenyr1o1.shop
@@ -398608,6 +398623,7 @@ ugkbcrifp.com
 ugkfagjrvejwqjeya.com
 ugkgbkhjpy.duckdns.org
 ugkih.com
+ugl-y-lisan-g-rn.myonlineportal.ch
 uglgvkx1f.duckdns.org
 uglinesscoconut.top
 uglinessnavigate.top
@@ -420336,6 +420352,7 @@ wqrtew-bberw-rh-rb-w-wr.site
 wqrtqwtyyqqq.click
 wqrw-wrew-qwewq.space
 wqrwasfasf.click
+wqrwqewqerwqrwqed.com
 wqsaede3q2w1.za.com
 wqssfqqwe.sbs
 wqssmsphwh.in
