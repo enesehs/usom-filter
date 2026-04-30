@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-30 22:38:53 UTC
-# Toplam: 451337 Domain
+# Son Güncelleme: 2026-04-30 23:39:35 UTC
+# Toplam: 451342 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17441,6 +17441,7 @@
 6788678765436354.online
 67891.sbs
 679045-112312.duckdns.org
+67add67sadas.lol
 67e5143a9ca7d2240c137ef80f2641d6.pages.dev
 67g57j44k7h.ws
 67g6ll51.duckdns.org
@@ -67616,6 +67617,7 @@ bgxmxcell.com
 bgxuqiwxki.duckdns.org
 bgynpvjfghrwyeewr.cc
 bgyosxw.com
+bgyuy.dynamicsforever.su
 bgzdco.duckdns.org
 bgzojsqmx.com
 bh-cll.com
@@ -123944,6 +123946,7 @@ dijital-kampanya-vakif-org.ml
 dijital-kampanya-vakif.cf
 dijital-kampanya-vakif.ga
 dijital-kampanya-vakif.tk
+dijital-kampanya.com
 dijital-kampanya.net
 dijital-kampanya.org
 dijital-katilim.net
@@ -167124,6 +167127,7 @@ fsdfsjdfsjcvx.xyz
 fsdfsvfn.net
 fsdgsgads.duckdns.org
 fsdkfsdmsmd.xyz
+fsdklcaslkdx213cksaads.cfd
 fsdklcaslkdx213cksaads.cyou
 fsdklcaslkdx213cksaads.shop
 fsdlaowaa.top
@@ -432393,6 +432397,7 @@ xn--nfsrandevum-thbb.com
 xn--nfusehliyetsonu1-qpb77a.xyz
 xn--ngaaaaaaaaaaaaaaa.com.tr
 xn--ninewesttrkiye-osb.com
+xn--nisan-aynda-kampanyalar-burada-9qe.com.tr
 xn--nisan-aynda-kampanyalar-burada-9qe.net.tr
 xn--nlinegiriimcom-pqd.net
 xn--nosereward-1s6e.top
