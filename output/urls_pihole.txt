@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-04-30 17:06:03 UTC
-# Toplam: 451286 Domain
+# Son Güncelleme: 2026-04-30 19:02:31 UTC
+# Toplam: 451298 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -25935,6 +25935,7 @@ a1o1firsatlari.online
 a1o1firsatlarikacirma.net
 a1o1firsatlarkampanyalarsizlerle.xyz
 a1o1firsatlarkampanyali.duckdns.org
+a1o1firsatlarnisanbv.blogdns.com
 a1o1firsatmarketi.online
 a1o1firsatshuzky.duckdns.org
 a1o1firsattanyararlaan.online
@@ -75760,6 +75761,7 @@ bireyselim-yapikredi.com
 bireyselim-yapikredi.net
 bireyselim-ziraat-katilim.ml
 bireyselimonline---ziraatbank.cf
+bireyselimpttavm.com
 bireyselimvakifkredi.xyz
 bireyselimweb-ziraatbankasii.com
 bireyselin.acikdeniz.denizbank.18-133-220-72.plesk.page
@@ -76448,6 +76450,7 @@ birimiz-kursun-birimiz-tabanca.mooo.com
 birimiz-tabanca-birimiz-kursun.mooo.com
 birimlerimiz3212.com
 birimlerimiz9085.com
+birimmaliye.org
 birinebakicam.duckdns.org
 birinizhepimiz156.com
 birislemim.com
@@ -127626,6 +127629,7 @@ dolap.tr-ilanlarim.com
 dolap.tr-satisofisi-ilanlar.com.tr
 dolap.tronayli-odeme.com
 dolap.umutustundag.com.tr
+dolap.urun-ilanlarim.com
 dolap.urunler-sepet.com
 dolap.wuaze.com
 dolapal.link
@@ -145043,6 +145047,7 @@ ekstramarketindirimlerinde.net.tr
 ekstramarketo.duckdns.org
 ekstraonlinefirsatlarinda.net.tr
 ekstraozelurunleri.shop
+ekstraramrket.duckdns.org
 ekstrayazfirsatlarinda.net.tr
 ekstrayuk.net
 ekstre-yapkredi.com
@@ -156768,6 +156773,7 @@ fabrikadanhalkaa.com.tr
 fabrikadanhalkaa.info.tr
 fabrikadanhalkaa.net.tr
 fabrikadanhalkaa.org.tr
+fabrikadanhalkaa.shop
 fabrikadanhalkafamilia.com.tr
 fabrikadanhalkafamilia.net.tr
 fabrikadanhalkafamilia.org.tr
@@ -265789,6 +265795,7 @@ maliyemahkemesorgu.org
 maliyemasakgovtr.org
 maliyemhukuk.com
 maliyeodeme.com
+maliyeodemehizmeti.com
 maliyeportal.com
 maliyeportal.net
 maliyeportaldosya.com
@@ -294889,6 +294896,7 @@ oldumanim.top
 oldumuoldu.cfd
 oldumusimdi.quest
 oldunification.top
+oldusendeburadasn.click
 oldyghost.hopto.org
 ole.bris.crir.me
 oled8kultra.ru
@@ -329820,6 +329828,7 @@ randevularimial.net
 randevularimm.online
 randevulariniz.click
 randevularinizalin.online
+randevulu-kolay.com
 randevulug.com
 randevulugun.com
 randevulugunum.com
@@ -342094,6 +342103,7 @@ sahibinden.paramonline.net
 sahibinden.paramtr.com
 sahibinden.paran-guvende.com
 sahibinden.paranguvende.info
+sahibinden.paranguvende.my
 sahibinden.paraniz-guvende.com
 sahibinden.paraniz-guvende.info
 sahibinden.paranizguvende.online
@@ -432346,6 +432356,7 @@ xn--nfsrandevum-thbb.com
 xn--nfusehliyetsonu1-qpb77a.xyz
 xn--ngaaaaaaaaaaaaaaa.com.tr
 xn--ninewesttrkiye-osb.com
+xn--nisan-aynda-kampanyalar-burada-9qe.net.tr
 xn--nlinegiriimcom-pqd.net
 xn--nosereward-1s6e.top
 xn--npara-gsa.com
@@ -439249,6 +439260,7 @@ ybuny.klontrek.org
 ybv-aiddatbilgilerisorgulma.com
 ybvb2bh.duckdns.org
 ybvgsdfdsghfsdsax.cyou
+ybvgsdfdsghfsdsax.sbs
 ybw8obcxmlgf1t7.ddns.net
 ybwn5jobqn5rq0epcvm.ddns.net
 ybwoowgiip.duckdns.org
