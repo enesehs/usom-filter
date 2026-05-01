@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-01 07:56:03 UTC
-# Toplam: 451354 Domain
+# Son Güncelleme: 2026-05-01 09:24:15 UTC
+# Toplam: 451363 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3858,6 +3858,7 @@
 1232423.com
 123242342213.click
 1232423trkuvt.shop
+1232fafsas227fgsar24.cfd
 123321.zapto.org
 12332111215.duckdns.org
 123321123.fun
@@ -39099,6 +39100,7 @@ akislemleriniziicincebinizdenfirsat.online
 akisllemler.xyz
 akismax.info
 akiso.blasters.biz
+akiste-l-entegre.myonlineportal.ch
 akita14.ddns.net
 akitar.persemberossy.com
 akitel.agustfirsatmx12.com
@@ -40161,6 +40163,7 @@ aktifyilbasi-kampanyamistecebim.vercel.app
 aktifyklememerkezlerimiz.net
 aktifyklememmerkezlerimiz.net
 aktifyuklememerkezinizmir.net
+aktifziraatekrandijtal.duckdns.org
 aktiifbk.com
 aktikf-onlineyapicep.vercel.app
 aktindrm.com
@@ -149237,6 +149240,7 @@ enuygunalisverislerburada.xyz
 enuygunaracinikirala.com
 enuygunarackirala.rest
 enuygunarackiralama.rest
+enuygunarackiralamalar.com
 enuygunburadanalinir.net
 enuygunburda.com.tr
 enuygunevinterneti.com
@@ -225889,6 +225893,7 @@ isledimay.xyz
 islegs.ru.com
 isleguzelhayat.sbs
 islehayatbaska.sbs
+islehaytinkolaylassin.sbs
 islekampanyalarkacirmayin.com
 islem-123554.online
 islem-233156.online
@@ -271451,6 +271456,7 @@ mhcjuvqrehgradmbkv10qri.ddns.net
 mhcjy157.duckdns.org
 mhcxrmhdto.duckdns.org
 mhcztnautq.duckdns.org
+mhddyy.click
 mhdosoksaccf9sni9icp.appsync-api.eu-west-1.avsvmcloud.com
 mhdresrndevvsu.com
 mhdrnhbvws.duckdns.org
@@ -273458,6 +273464,7 @@ mmhhrhhrhrrs11.sbs
 mmhhrhhrhrrs12.sbs
 mmhhrhhrhrrs13.sbs
 mmhhrhhrhrrs14.sbs
+mmhhrhhrhrrs15.sbs
 mmhhrhhrhrrs17.sbs
 mmhhrhhrhrrs2.sbs
 mmhhrhhrhrrs4.sbs
@@ -286908,6 +286915,7 @@ ngonlu957.duckdns.org
 ngorogo.com
 ngoview.com
 ngpaj4.duckdns.org
+ngpmit.cc
 ngrakta.ddns.net
 ngrattcp123.ddns.net
 ngsbahis732.com
@@ -451020,6 +451028,7 @@ zx7o8gu.duckdns.org
 zx85im.duckdns.org
 zxaqjnoq.com
 zxasdfafdsagda.cfd
+zxasdfafdsagda.lol
 zxaxqxq.click
 zxb.isdun.com
 zxbfyxy8.duckdns.org
