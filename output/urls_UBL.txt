@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-02 01:23:13 UTC
-! Total: 360403 rules
+! Last modified: 2026-05-02 04:54:28 UTC
+! Total: 360410 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -65996,6 +65996,7 @@
 *://*.bstrdbot.com/*
 *://*.bstz2txp.tw/*
 *://*.bsukgq4lfpg864xovqd.com/*
+*://*.bsv-capmng.shop/*
 *://*.bsv-mbl.cfd/*
 *://*.bsv-online.cfd/*
 *://*.bsvakonlinekampanyalar.online/*
@@ -150068,6 +150069,8 @@
 *://*.haberguns.website/*
 *://*.haberguru.co/*
 *://*.haberguru.net/*
+*://*.haberhizliplatform.com/*
+*://*.haberhizlitaksi.com/*
 *://*.haberhizliweb.com/*
 *://*.haberhome.club/*
 *://*.haberhome.online/*
@@ -159798,6 +159801,7 @@
 *://*.heranfirsatlaryakinlardasizleribekliyor.cyou/*
 *://*.heranfirsatlaryakinlardasizleribekliyor.xyz/*
 *://*.heranimated.top/*
+*://*.heranimsenledunyine.sbs/*
 *://*.heraninmekani.com/*
 *://*.herankampanyalarseninle.online/*
 *://*.heransigorta.net/*
@@ -160014,6 +160018,7 @@
 *://*.herkimrxndevuhizmet.net/*
 *://*.herkimseler-bukadarina-gerekirse-illede-gorulur.top/*
 *://*.herkosesindedehset.site/*
+*://*.herksbrudasannerdeesanden84.click/*
 *://*.herlhierarchy.top/*
 *://*.herlia.net.tr/*
 *://*.hermesteeeh.com/*
@@ -241611,6 +241616,7 @@
 *://*.onlnhzmtlrs.xyz/*
 *://*.onlnie-isllemlerim.com/*
 *://*.onlnie-kont.net/*
+*://*.onlnie-onaylan-islmminiz.sbs/*
 *://*.onlniehzmet-srguislem.sbs/*
 *://*.onlnielndrmlerperakende.com/*
 *://*.onlniemarkt32.cfd/*
@@ -316134,6 +316140,7 @@
 *://*.turkgrm.com/*
 *://*.turkgsmbayiden.online/*
 *://*.turkhaber.site/*
+*://*.turkhaberhizliyayin.com/*
 *://*.turkhavasahasi1.net/*
 *://*.turkhavayollari.cfd/*
 *://*.turkhavayollari.cyou/*
