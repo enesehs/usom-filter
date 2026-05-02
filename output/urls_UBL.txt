@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-02 17:34:33 UTC
-! Total: 360436 rules
+! Last modified: 2026-05-02 18:38:38 UTC
+! Total: 360441 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -115355,6 +115355,8 @@
 *://*.elhemzelhem.cyou/*
 *://*.elhizmet.app/*
 *://*.elhoumaupload.com/*
+*://*.eliaeni549.online/*
+*://*.eliaeni549.store/*
 *://*.elicitendow.top/*
 *://*.elicitprosperity.top/*
 *://*.elidaclothes.shop/*
@@ -170289,6 +170291,7 @@
 *://*.hztt-denetleme-kurrum.com/*
 *://*.hzttr-gzttr-dntlme.online/*
 *://*.hzusdkueeasdstydns.online/*
+*://*.hzusdkueestydns.online/*
 *://*.hzusdkueestydns.store/*
 *://*.hzvipsrgu.buzz/*
 *://*.hzxlcgcsnx.net/*
@@ -289433,6 +289436,7 @@
 *://*.sonhaberler2026xl.com/*
 *://*.sonhaberler360tr.shop/*
 *://*.sonhaberler365tr.cfd/*
+*://*.sonhaberler565.com/*
 *://*.sonhaberlergovtr.ga/*
 *://*.sonhaberleri365tr.cfd/*
 *://*.sonhaberleriade.net/*
@@ -360176,6 +360180,7 @@
 *://*.zwgr.org/*
 *://*.zwhousyl.com/*
 *://*.zwillingsaletr.com/*
+*://*.zwkddo.click/*
 *://*.zwkdgxi.com/*
 *://*.zwnxpd.com/*
 *://*.zwon-network.click/*

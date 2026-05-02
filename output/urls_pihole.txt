@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-02 17:34:33 UTC
-# Toplam: 451459 Domain
+# Son Güncelleme: 2026-05-02 18:38:38 UTC
+# Toplam: 451465 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -145567,6 +145567,8 @@ elhemzelhem.cyou
 elhizmet.app
 elhoumaupload.com
 elhxcwf.duckdns.org
+eliaeni549.online
+eliaeni549.store
 elianamaria.zapto.org
 elianisgalidon3020.duckdns.org
 elianwebste.duckdns.org
@@ -210944,6 +210946,7 @@ hzteam.org
 hztt-denetleme-kurrum.com
 hzttr-gzttr-dntlme.online
 hzusdkueeasdstydns.online
+hzusdkueestydns.online
 hzusdkueestydns.store
 hzvipsrgu.buzz
 hzvmmj07q.duckdns.org
@@ -226583,6 +226586,7 @@ ismobildenbasvurbosnus-com.ml
 ismobilgeriodemesizbasvuru.duckdns.org
 ismobiliadetalep.vercel.app
 ismobilim.ml
+ismobilinfirsatinim.duckdns.org
 ismobilisgeriodemesiz.duckdns.org
 ismobilisicinismobil.duckdns.org
 ismobilislemlerim.com
@@ -362443,6 +362447,7 @@ sonhaberler2026tr.com
 sonhaberler2026xl.com
 sonhaberler360tr.shop
 sonhaberler365tr.cfd
+sonhaberler565.com
 sonhaberlergovtr.ga
 sonhaberleri365tr.cfd
 sonhaberleriade.net
@@ -451072,6 +451077,7 @@ zwikqtxagm.duckdns.org
 zwillingsaletr.com
 zwirrppixm.duckdns.org
 zwjkrcq.duckdns.org
+zwkddo.click
 zwkdgxi.com
 zwkhgeaxuj.duckdns.org
 zwkjhdzyui.duckdns.org
