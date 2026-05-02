@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-02 18:38:38 UTC
-# Toplam: 451465 Domain
+# Son Güncelleme: 2026-05-02 19:44:23 UTC
+# Toplam: 451486 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3570,6 +3570,7 @@
 114ht2t1k.duckdns.org
 114i33o9.duckdns.org
 114oldest.com
+115-polistr.online
 1151ll1151151ll1.duckdns.org
 1152-432-785-985.site
 1152-698-785-985.site
@@ -164054,6 +164055,7 @@ fl0st.hldns.ru
 fl1jz1ib.duckdns.org
 fl1r.com
 fl1toxdz.ddns.net
+fl55polisi.online
 fl70ih.duckdns.org
 fl7fzu.duckdns.org
 fl7z4o.duckdns.org
@@ -215609,6 +215611,7 @@ il-cert.net
 il-truffatore-di-instagram.com
 il2d1nvi.duckdns.org
 il527toy9.duckdns.org
+il55polis.online
 il69zsk.duckdns.org
 ilacc.cfd
 ilademisorgula.dev
@@ -233275,6 +233278,7 @@ j0yv1js5c.duckdns.org
 j1120440.myjino.ru
 j1145058.myjino.ru
 j13kgbc21.duckdns.org
+j155polisi.online
 j18cjo2o3.duckdns.org
 j1b9sgf.duckdns.org
 j1d3c3mex.homesecuritypc.com
@@ -235852,6 +235856,7 @@ jtqa.duckdns.org
 jtqbehgs-resmihgsyukle.ga
 jtqbehgs-sunucumpor.work
 jtqtx540.duckdns.org
+jtrl55polisi.online
 jtrwngz.com
 jtspmkyuea.duckdns.org
 jtt8.bg
@@ -248258,6 +248263,8 @@ kk.hgsyuklemeyerii.net
 kk.yillik-aidatiade-basvurusu.online
 kk0xxzyn.duckdns.org
 kk112040111.cloud
+kk155polis.online
+kk155polisi.online
 kk2.ddns.net
 kk331122kk.cloud
 kk3f4zpk.duckdns.org
@@ -255734,6 +255741,7 @@ kzyihayat.org
 kzyzcixzta.duckdns.org
 l----web-ledgerlive.webflow.io
 l-101sendegelal.com
+l-155polis.online
 l-1o1comtr.online
 l-arena.com
 l-basvur-acikdenizv2denizbank.com
@@ -255859,8 +255867,11 @@ l4wu3x.duckdns.org
 l52uws.duckdns.org
 l55l55polisi.online
 l55polis155polisi.online
+l55polisil55polis.online
+l55polisitr.shop
 l55polisitr155tr.online
 l55polistr.online
+l55polistr.shop
 l55tr-polis.shop
 l55tr-polistr.online
 l55trpolisii.shop
@@ -262274,6 +262285,7 @@ lwvjwwvihb.duckdns.org
 lwwlbbgowmth.org
 lwwrjjchmkkr.me.uk
 lwww-cumhurbaskanligi.com
+lwwwl55polis.online
 lwxa.eu
 lwxjtndssd.duckdns.org
 lwxxwvxobd.duckdns.org
@@ -292167,6 +292179,7 @@ nzxtsh.duckdns.org
 nzxvjej7337bjsdl232nsdlsfa.com
 nzy3tvbb72g3.top
 nzyokhcycq.duckdns.org
+o-155polis.online
 o-1fast.click
 o-1o1comtr.online
 o-adidas.buzz
@@ -292226,6 +292239,8 @@ o11uez8.duckdns.org
 o13c0hm.duckdns.org
 o14aq4m1m.duckdns.org
 o14ovo.avjjx.ru
+o155-polis.online
+o155polis.online
 o155polisi.online
 o16v52.duckdns.org
 o1b7bye6e.duckdns.org
@@ -330014,6 +330029,8 @@ randevunuvaktindeal.net
 randevunuzicnske.com
 randevunuzikne.com
 randevunuzmhrs.net
+randevunuzuolustu.com
+randevunuzuolusturun.com
 randevunuzuyap.com
 randevunuzyapiliyor.com
 randevunvgovtr.net
@@ -385789,6 +385806,7 @@ tr-101-internete-ozel-indirim-siparis-ver.com
 tr-101-mobil-internet-ozel-online-siparis-firsat.com
 tr-101-online-alisveris-internete-ozel.com
 tr-10yilkampanyasiozel.com
+tr-115-polistr.online
 tr-115polistr.online
 tr-155-polis-tr.online
 tr-155-polistr.online
@@ -387068,6 +387086,7 @@ tr-placeanorder.sbs
 tr-platform.com.tr
 tr-pococo.com
 tr-polis-155tr.online
+tr-polisi.online
 tr-portal-herkezi-ilgilendiren.com
 tr-post.site
 tr-post3401.site
@@ -392242,6 +392261,7 @@ trtrrt-aidat-iade-hzt.online
 trtrtr.my.canva.site
 trtrtr.net
 trtrtrfkodmememgsdlk.com
+trtrtrtr-siberpolis.online
 trtrwebler-diyalogu-irtibat.com
 trtsizdenizlikalmasin.com
 trtsorgu-turkiyegirisyap.com
@@ -400872,6 +400892,7 @@ upnkhftplh.duckdns.org
 upnmsgdlz.com
 upnwtufpbwdwuji.cn
 upo-minecraft.ddns.net
+upolisi155.online
 uponangels-id824.world
 uponangels-id8425.world
 uponfamily.top
