@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-01 23:39:21 UTC
-# Toplam: 451412 Domain
+# Son Güncelleme: 2026-05-02 01:23:13 UTC
+# Toplam: 451415 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -75293,6 +75293,7 @@ bireysel-te-b-subesi.com
 bireysel-teb-firsati.my-homeip.de
 bireysel-teb-kampanya-girisler.my-homeip.net
 bireysel-teb-kampanyam.my-homeip.net
+bireysel-teb-promosyon.my-homeip.de
 bireysel-teb-subesi-onlinetr.com
 bireysel-teb-tr.com
 bireysel-teb.my-homeip.net
@@ -228168,6 +228169,7 @@ istecep-internet.com
 istecep-isbank.com
 istecep-kampanya.vercel.app
 istecep.online
+istecep.site
 istecep2019.tk
 istecep2019com.tk
 istecep2019hediyeler.tk
@@ -349587,6 +349589,7 @@ sendegaraaantilebasvr-tr2.net
 sendegarantilebasvr-tr.net
 sendegarantilebasvr-tr.org
 sendegarantilebasvr-tr2.net
+sendegarantlolsendekazan80.click
 sendegelal.uk
 sendegelartkbasvur82.click
 sendegelbenimlegrntyee.net
