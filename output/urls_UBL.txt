@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-02 15:35:21 UTC
-! Total: 360429 rules
+! Last modified: 2026-05-02 16:33:25 UTC
+! Total: 360433 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -166475,6 +166475,7 @@
 *://*.hmb-gov-tr-com.com/*
 *://*.hmb-gov-tr-esnaf-ve-emekli-paketi.tk/*
 *://*.hmb-govtr.com/*
+*://*.hmbceza.net/*
 *://*.hmbceza.org/*
 *://*.hmbgovtr.com/*
 *://*.hmbgovtr.info/*
@@ -170285,6 +170286,7 @@
 *://*.hzteam.org/*
 *://*.hztt-denetleme-kurrum.com/*
 *://*.hzttr-gzttr-dntlme.online/*
+*://*.hzusdkueeasdstydns.online/*
 *://*.hzusdkueestydns.store/*
 *://*.hzvipsrgu.buzz/*
 *://*.hzxlcgcsnx.net/*
@@ -220259,6 +220261,7 @@
 *://*.mmhhrhhrhrrs18.sbs/*
 *://*.mmhhrhhrhrrs2.sbs/*
 *://*.mmhhrhhrhrrs20.sbs/*
+*://*.mmhhrhhrhrrs23.sbs/*
 *://*.mmhhrhhrhrrs4.sbs/*
 *://*.mmhhrhhrhrrs5.sbs/*
 *://*.mmhhrhhrhrrs6.sbs/*
@@ -294702,6 +294705,7 @@
 *://*.suanfirsatbanceicinbasvurukampanyasi.tech/*
 *://*.suantamzamani.net/*
 *://*.suaporta-shokcfd-sokkdd22.cfd/*
+*://*.suaraileti.com/*
 *://*.suarapapua.co/*
 *://*.suarinecnderate.top/*
 *://*.suatxasdf.com.tr/*

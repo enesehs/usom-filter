@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-02 15:35:21 UTC
-# Toplam: 451446 Domain
+# Son Güncelleme: 2026-05-02 16:33:25 UTC
+# Toplam: 451455 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -18933,6 +18933,7 @@
 77777001255.cloud
 7777777772.no-ip.org
 777777777777777754212.duckdns.org
+7777778454546894654.duckdns.org
 77778745577.cloud
 777846522777.xyz
 7779315.xyz
@@ -87590,6 +87591,7 @@ bu-cagri-sizle-bizle-cogalacak-keyifler.com
 bu-cll.com
 bu-coskularda.net
 bu-cuma-a-101-de-aldin-aldin.sa.com
+bu-cumartesi.dynv6.net
 bu-cumasizdeyiz.org
 bu-da-oyunun-bir-parcasi-alsanda-kurtulsan.xyz
 bu-davet-sizle-gore-sezon-sonunda.com
@@ -145715,6 +145717,7 @@ ellistorey64375.xyz
 ellisuchu2025.xyz
 ellkkrsbsuvru.bekranin.net
 elllisdoninc.com
+elllsrer.dns.navy
 ellokodell00.hopto.org
 ellonline.website
 ellraaenne.cfd
@@ -206268,6 +206271,7 @@ hmawerhmeh.net
 hmb-gov-tr-com.com
 hmb-gov-tr-esnaf-ve-emekli-paketi.tk
 hmb-govtr.com
+hmbceza.net
 hmbceza.org
 hmbgovtr.com
 hmbgovtr.info
@@ -210937,6 +210941,7 @@ hztavbilgi.sbs
 hzteam.org
 hztt-denetleme-kurrum.com
 hzttr-gzttr-dntlme.online
+hzusdkueeasdstydns.online
 hzusdkueestydns.store
 hzvipsrgu.buzz
 hzvmmj07q.duckdns.org
@@ -273515,6 +273520,7 @@ mmhhrhhrhrrs17.sbs
 mmhhrhhrhrrs18.sbs
 mmhhrhhrhrrs2.sbs
 mmhhrhhrhrrs20.sbs
+mmhhrhhrhrrs23.sbs
 mmhhrhhrhrrs4.sbs
 mmhhrhhrhrrs5.sbs
 mmhhrhhrhrrs6.sbs
@@ -289374,6 +289380,7 @@ noya.kristianodomald.com
 noya.mitskiforev.com
 noya.mooo.com
 noya.pocikerimsenta.com
+noya.suaraileti.com
 noyalandinixcv.com
 noyamicokseviyorum.com
 noyewa7162.ddns.net
@@ -444058,6 +444065,7 @@ yonlen-buradan-anlik.sbs
 yonlen.click
 yonlenci.webredirect.org
 yonlendieiliyorsunuzi2334.duckdns.org
+yonlendiliyorsudi2sa.duckdns.org
 yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
@@ -449809,6 +449817,7 @@ zirbob.ddns.net
 zirbsvuryni7.xyz
 zirbwkd.click
 zirbwks.click
+zirdefisatkacmaz.duckdns.org
 zireatbank-internetsube.com
 zireatbank-internetsubem.com
 zireatbank-mobilsube.com
