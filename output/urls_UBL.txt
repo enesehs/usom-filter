@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-03 14:03:36 UTC
-! Total: 360504 rules
+! Last modified: 2026-05-03 15:35:25 UTC
+! Total: 360510 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -191608,6 +191608,7 @@
 *://*.k0bidestegi.com/*
 *://*.k0bidestek.cfd/*
 *://*.k0bidestek.click/*
+*://*.k0bidesteke.click/*
 *://*.k0bidestekl.cfd/*
 *://*.k0bidestekleri.click/*
 *://*.k0bidestekmerkezi.com/*
@@ -204355,6 +204356,7 @@
 *://*.krddoldur.net/*
 *://*.krdeibasvuru.com/*
 *://*.krdentz.xyz/*
+*://*.krdeslercendrm.cfd/*
 *://*.krdgarntbrdatkla.click/*
 *://*.krdi-aidat-odemesi.com/*
 *://*.krdi-basvru-hmn-annda-hesap-yatsn.online/*
@@ -209815,6 +209817,7 @@
 *://*.livingthefuturetoday.live/*
 *://*.livingway.space/*
 *://*.livingwithbadkidny.xyz/*
+*://*.livinlavidaloca.site/*
 *://*.livinoompausible.top/*
 *://*.livinsie.com/*
 *://*.livockrepi.click/*
@@ -217436,6 +217439,7 @@
 *://*.meharasee.net/*
 *://*.meharese.com/*
 *://*.meharese1.app/*
+*://*.meharese1.org/*
 *://*.mehdizayani.com/*
 *://*.mehenltd.com/*
 *://*.meherese.com/*
@@ -231629,6 +231633,7 @@
 *://*.nkaac.net/*
 *://*.nkaees.help/*
 *://*.nkagfxxyknbgonu.su/*
+*://*.nkaknakltanlalnalna.net/*
 *://*.nkamaskas.net/*
 *://*.nkapeq.com/*
 *://*.nkarlkanklamam.online/*
@@ -275449,6 +275454,7 @@
 *://*.saogeraldoshoping.com/*
 *://*.saoldostmsd.net/*
 *://*.saonline.xyz/*
+*://*.saouk.top/*
 *://*.sap45alimbizden76.space/*
 *://*.sapakoy.com/*
 *://*.sapancaarabakiralama.com.tr/*
