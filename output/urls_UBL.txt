@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-03 05:24:01 UTC
-! Total: 360491 rules
+! Last modified: 2026-05-03 07:42:47 UTC
+! Total: 360493 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36081,6 +36081,7 @@
 *://*.asbyow8su7h3i0mdydz1.xyz/*
 *://*.asc-bnetkinliksorgulamalari.net/*
 *://*.asc-yeniglobalbaglantilarbnsorgulakayit.net/*
+*://*.ascakcl123x123c.click/*
 *://*.ascarajvvadi.net/*
 *://*.ascarskiralama.com/*
 *://*.ascasnuasdi.cfd/*
@@ -182464,6 +182465,7 @@
 *://*.isceb-kampanya.com/*
 *://*.isceb-tr-guncelkampanya.club/*
 *://*.isceb-web.com/*
+*://*.iscebbasvuru.sbs/*
 *://*.iscebim-bayramhaftasi.com/*
 *://*.iscebim-iadetr.com/*
 *://*.iscebimavantali.com/*
