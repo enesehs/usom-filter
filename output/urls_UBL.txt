@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-03 22:27:29 UTC
-! Total: 360531 rules
+! Last modified: 2026-05-03 23:32:25 UTC
+! Total: 360533 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -174541,6 +174541,7 @@
 *://*.ilansepetim.com/*
 *://*.ilansepetler.com.tr/*
 *://*.ilansepetler.com/*
+*://*.ilanservis-jethizmet.com/*
 *://*.ilanticaret-siparisodeme.shop/*
 *://*.ilantr-sahibinden.com/*
 *://*.ilanurunlerim.com.tr/*
@@ -259363,6 +259364,7 @@
 *://*.pttavxhizliyklemeservisler.net/*
 *://*.pttavxm-hizliodemelerrr.com/*
 *://*.pttavxm-hizliodemelxler.com/*
+*://*.pttawmbireysel.com/*
 *://*.pttawmhgsgecisleriniz.net/*
 *://*.pttawmhgsuzmanlariniz.net/*
 *://*.pttaxodemeler-hizliavm.com/*
