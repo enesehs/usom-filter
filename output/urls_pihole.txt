@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-05 22:42:26 UTC
-# Toplam: 452923 Domain
+# Son Güncelleme: 2026-05-05 23:37:01 UTC
+# Toplam: 452929 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -64516,6 +64516,7 @@ bbaptl-3e6932925674.herokuapp.com
 bbaptl1-ee5aae1d5f8e.herokuapp.com
 bbaptl122-22f327531af7.herokuapp.com
 bbaptl1222-1dd3ca35093d.herokuapp.com
+bbasvru-yyap.cfd
 bbasvuru-giristr.com
 bbasvurularfinansmerkezi.vercel.app
 bbasvuruloginsrvciesbv-a.com
@@ -194720,6 +194721,7 @@ hayatrmnea.click
 hayatsarisemalari.xyz
 hayatsartlarieiadelericin.org
 hayatseninleeguzelbasvur.xyz
+hayatseninleguzel.store
 hayatseninleguzelbasvurr.xyz
 hayatsifresi.name.tr
 hayatsigort.net
@@ -358405,6 +358407,7 @@ sitem12.ga
 sitemails.info
 sitemangarlandconsulting.com
 sitemaps.baykar-news.info
+sitemegit.click
 sitemimsanadoktor.xyz
 sitemobilsube.com
 sitemsizlebirlikteakmenuler.xyz
@@ -392326,6 +392329,7 @@ trkvytrrrksglmbnk.jumpingcrab.com
 trkvyttrz.shop
 trkxcllislm.net
 trkycarkkbaracsahibiyapiyor75.net
+trkydesnzmanlrdabrdaclsyrz.shop
 trkye-vergi.blogspot.com
 trkyeegoovtrr.com
 trkyeegovvtrr.com
@@ -409146,6 +409150,7 @@ vdcrokfbnm.duckdns.org
 vdcvn.com
 vdczzyjzbcs.info
 vddnx63.duckdns.org
+vde43aswdsg443.nicepage.io
 vdemelerimhizli.net
 vdemvltr-vert.com
 vdenizbank-basvur.com
@@ -409190,6 +409195,7 @@ vdplby.biz
 vdpotzcgsa.duckdns.org
 vdrapljies.duckdns.org
 vdrpky.xyz
+vds54gf4r4r3th5.nicepage.io
 vdsabhkjdfsdsd.com
 vdsafsaf.it.com
 vdsasweqrtry.click
