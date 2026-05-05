@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-05 20:07:38 UTC
-# Toplam: 452902 Domain
+# Son Güncelleme: 2026-05-05 21:53:30 UTC
+# Toplam: 452922 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -2937,6 +2937,7 @@
 101siparisver.shop
 101smarketuygun.com
 101sokflrsatlar.com
+101sonbrdandrim.com
 101sondakikakampanyalari.vercel.app
 101songunsonfirsat.com.tr
 101songunsonfirsat.xyz
@@ -13787,6 +13788,7 @@
 432320830.dfgqdsd.ru
 43234435486384.com
 43242132195-111.cloud
+43242332.click
 4324234234234.cloud
 43242524324423.com
 432432321213.cloud
@@ -18332,6 +18334,7 @@
 712616890.duckdns.org
 712734218431278217412.cloud
 71281l116146463.duckdns.org
+7128321.click
 712842568.site
 713mtauburnctcolumbusoh43085.st
 7152231321.cloud
@@ -25955,6 +25958,7 @@ a1o1et.net
 a1o1ey.net
 a1o1fir.com
 a1o1firnisanfirsatlari.blogdns.com
+a1o1firnisanfirsatlbtry.blogdns.com
 a1o1firnisanfirsatlnisb.blogdns.com
 a1o1firnisanfirstlanistr.blogdns.com
 a1o1firsaltyubirsatsubat.blogdns.com
@@ -26060,6 +26064,7 @@ a1o1marketalisvverislerikacirmaa.online
 a1o1martlmndrmlerifrsatkacrma.blogspot.com
 a1o1martsizinleguzel.online
 a1o1mayiskampanyasii.com
+a1o1maysdortsonan.blogspot.com
 a1o1mng.net
 a1o1n.net
 a1o1nisanindirlm.shop
@@ -26078,6 +26083,7 @@ a1o1onlinefirsatlarrxyz.com
 a1o1onlinehizmetler.com
 a1o1onlinenisanfirsat.blogdns.com
 a1o1onlinenisankarctrs.blogspot.com
+a1o1onlinenisankarctrsg.blogspot.com
 a1o1onlineozelkampanyalar.com
 a1o1onlineozelkampanyalar.online
 a1o1onlineozelkampanyas.net
@@ -31949,6 +31955,7 @@ adbupdates.ddns.net
 adbvvarmform.link
 adc.flyermobi.com
 adc3sjlx.duckdns.org
+adceonlaylardaa1o1.duckdns.org
 adcgqgkei.duckdns.org
 adcknttogydsbmgow.com
 adclakcskdlacskklsdflkckladca.cfd
@@ -42277,6 +42284,7 @@ aldinaynigunscay.net
 aldinbuguncay.site
 aldinbugundecaypaketi.store
 aldinbunualdin.click
+aldinburadancaylariniz.store
 aldincarsambatesterekampanyasi.xyz
 aldincaylaripaket6.store
 aldincaypaketleri.net
@@ -125424,6 +125432,7 @@ dijitalwebtr-denizacik.com.tr
 dijitalwebtr-ziraatbireysel.com
 dijitalwebtrdenizacik.com
 dijitalwebvarliklar-ziraatbireysel.com
+dijitalyapi.click
 dijitalyatirim-acikmobildenizbank.com
 dijitalyatirimim-acikdenizbank.com
 dijitalyenidenizbasvurum.co.vu
@@ -185558,6 +185567,7 @@ guvenli-alisverislerim.sa.com
 guvenli-alisverislerim.tk
 guvenli-alisverislerimadresim.tk
 guvenli-alisverislerimbilgiler.tk
+guvenli-alisverislerin.shop
 guvenli-alisveriss.com.tr
 guvenli-alisveriss101.com.tr
 guvenli-alisverissonaytr.nl
@@ -199199,6 +199209,7 @@ herseneyazayikampanlari.shop
 hersetlergen.com
 herseuxshop.info
 hersey-halkla-ic-ice.cyou
+hersey-indirimlerile.info
 hersey-indirimlerile.online
 hersey-online-geridonuk-isleminiz.sbs
 hersey-temmxzda-buradaa.com
@@ -262039,6 +262050,7 @@ lsbankkprasmasyonasfkfasjkf.xyz
 lsbanklaherzaman.cf
 lsbhuuvdto.duckdns.org
 lsbnkbyram40000.ct.ws
+lsbnkdijisube.xyz
 lsbnkdjital.cfd
 lsbnkfrsatburda.rf.gd
 lsbnkmbl.sbs
@@ -262066,7 +262078,9 @@ lsdsadsaf22.duckdns.org
 lsdxsdwxw.click
 lseaaewa4wa.duckdns.org
 lsevibags.net
+lsfckcas31xcas.lat
 lsfckcas31xcas.shop
+lsfckcas31xcas.xyz
 lsfctgjywrjifok.su
 lsfmhmlsfhl.net
 lsfsdscsrlndrmsl.mooo.com
@@ -284503,6 +284517,7 @@ nasjkdsa.net
 nasjxsuat.com.tr
 nask-pl.com
 naslkazandmprmo.click
+naslolsa.click
 naslsa.2kool4u.net
 naslsnbbk.com
 nasmasterservice.com
@@ -292771,6 +292786,7 @@ nzxczbchbasax1.lol
 nzxcznxzhlz.b-cdn.net
 nzxgye.com
 nzxhsmfafr.ankeshwarmet.ru
+nzxjhczghhgasyfdhasax.xyz
 nzxsxn.98kk89.com
 nzxtsh.duckdns.org
 nzxvjej7337bjsdl232nsdlsfa.com
@@ -338620,6 +338636,7 @@ s-sahibinden-param-guvende-s.xyz
 s-sahibinden-param-guvende.cf
 s-sahibinden-param-guvende.com
 s-sahibinden-param-guvende.ga
+s-sahibinden-param-guvende.store
 s-sahibinden-paramguvende.cf
 s-sahibinden-paramguvende.com
 s-sahibinden-paramguvende.tk
@@ -399438,6 +399455,7 @@ tyrnqwenqwe.click
 tyrrt.icu
 tyrturkiyegov.org
 tyru3f.duckdns.org
+tyrucakoene.xyz
 tyrusiqor.com.tr
 tyrxaabtlaklbry.com
 tyrzor-qom-strttz.webflow.io
@@ -436741,6 +436759,7 @@ y-ml.co
 y-pakt.blogspot.com
 y-pttgov.top
 y-u-r-t-i-c-i-k-a-r-g-o-t-a-k-i-p.com.tr
+y-uygun-l-g.myonlineportal.ch
 y-vb-magaza.ml
 y.p.formaxprime.co.uk
 y.szmr.org
@@ -449031,6 +449050,7 @@ zhengdeyaogenpangu.top
 zheniaratnikov.ddns.net
 zhgcqnkgvx.duckdns.org
 zhggwutuvq.duckdns.org
+zhghggffghsax6.lol
 zhgmrjum.site
 zhgtcaejkp.duckdns.org
 zhhgsc.com
