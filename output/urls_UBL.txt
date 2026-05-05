@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-05 13:02:47 UTC
-! Total: 360897 rules
+! Last modified: 2026-05-05 17:10:20 UTC
+! Total: 360919 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10101,6 +10101,7 @@
 *://*.50binkonutbasvurusnutamamla.cloud/*
 *://*.50gb-kampanyasi-turkcell.com/*
 *://*.50gb-kampanyasi-turkcell.net/*
+*://*.50gbfirsat.online/*
 *://*.50gbkazan.online/*
 *://*.50ltaracbuzdolabi.xyz/*
 *://*.50ltdemonbuzdolabins.sbs/*
@@ -28652,6 +28653,7 @@
 *://*.aldingeldinaldin.org.tr/*
 *://*.aldinguvenle.online/*
 *://*.aldinhaftaninbasini.com/*
+*://*.aldinhesapliaynigun.xyz/*
 *://*.aldinibunu.click/*
 *://*.aldinina1o1.net/*
 *://*.aldinisanpaketcay.net/*
@@ -57034,6 +57036,7 @@
 *://*.bireyselsanalsube.com/*
 *://*.bireyselsat.com/*
 *://*.bireyselsatici.com.tr/*
+*://*.bireyselsatici.com/*
 *://*.bireyselsatici.online/*
 *://*.bireyselsaticim.com.tr/*
 *://*.bireyselsaticionline.com.tr/*
@@ -84945,6 +84948,7 @@
 *://*.ctrbxoxyh.io/*
 *://*.ctre.me/*
 *://*.ctrlcapaserc.com/*
+*://*.ctroocankaa.xyz/*
 *://*.cts-comcast.com/*
 *://*.ctsemxlkcj.net/*
 *://*.ctsihgjjxj.net/*
@@ -97055,6 +97059,7 @@
 *://*.dijitalgarantiglobalgirisim.net/*
 *://*.dijitalgarantiisllemenu100yil.com/*
 *://*.dijitalgarantislemenu100yil.com/*
+*://*.dijitalgarantitalepyonetimsistemi.space/*
 *://*.dijitalgelir.org/*
 *://*.dijitalgib-tr.com/*
 *://*.dijitalgib.com.tr/*
@@ -148915,6 +148920,7 @@
 *://*.guvenlis-iades-basvurusu-ucret-al.xyz/*
 *://*.guvenlisahibinden.tk/*
 *://*.guvenlisahibindenodemeyonlendirme.xyz/*
+*://*.guvenlisaticisi.com/*
 *://*.guvenlisaticisi.online/*
 *://*.guvenlisatin-al.com/*
 *://*.guvenlisatinal-tr.com/*
@@ -155737,6 +155743,7 @@
 *://*.hastaneisleriogren.cfd/*
 *://*.hastanemrveriyayini.xyz/*
 *://*.hastanemuayeneverileri.xyz/*
+*://*.hastaneninonunde.cyou/*
 *://*.hastanepersonelmodulu.xyz/*
 *://*.hastanerandevu-mhrs.cfd/*
 *://*.hastanerandevu.online/*
@@ -184297,6 +184304,8 @@
 *://*.istanbulbizimba.xyz/*
 *://*.istanbulbizimle.com/*
 *://*.istanbulbizimlebasvur.xyz/*
+*://*.istanbulbizimm.xyz/*
+*://*.istanbulbizimmm.xyz/*
 *://*.istanbulblu.com/*
 *://*.istanbulbolgemerkezi3d.xyz/*
 *://*.istanbulbozum.com/*
@@ -200745,6 +200754,7 @@
 *://*.kimberleymillicent.net/*
 *://*.kimberlys-portfolio.com/*
 *://*.kimbilir.name.tr/*
+*://*.kimbilirziya.click/*
 *://*.kimbirnumara.com/*
 *://*.kimekoyonakoya.online/*
 *://*.kimen76dhyunto.com/*
@@ -211512,6 +211522,7 @@
 *://*.lsdenizbank.com/*
 *://*.lsdxsdwxw.click/*
 *://*.lsevibags.net/*
+*://*.lsfckcas31xcas.shop/*
 *://*.lsfctgjywrjifok.su/*
 *://*.lsfmhmlsfhl.net/*
 *://*.lsgg54e8ye.shop/*
@@ -215792,6 +215803,7 @@
 *://*.masakinfaz.net/*
 *://*.masakkamuportal.com/*
 *://*.masakkamutr.com/*
+*://*.masakmali.org/*
 *://*.masakmaliye.com/*
 *://*.masakmaliye.org/*
 *://*.masakonline.com/*
@@ -227309,6 +227321,7 @@
 *://*.mvlnet.com.smartplay/*
 *://*.mvlocrwb.com/*
 *://*.mvlrwupz.com/*
+*://*.mvlsvlslvs099.sbs/*
 *://*.mvmkasdkmsakdm.com/*
 *://*.mvmtvpazartesi.org/*
 *://*.mvmvsn.com/*
@@ -229583,6 +229596,7 @@
 *://*.nelervarneler.cfd/*
 *://*.nelivo.com/*
 *://*.nellgill6.xyz/*
+*://*.nelokoz.top/*
 *://*.neloree.com/*
 *://*.nelpersx.click/*
 *://*.nelson3081.tk/*
@@ -244083,6 +244097,7 @@
 *://*.ouavzdwc.com/*
 *://*.oucesesstor.xyz/*
 *://*.ouchar.ru/*
+*://*.oucmdsaic.net/*
 *://*.oudatoansaka1.net/*
 *://*.oudax.com/*
 *://*.oudiniscen.ru/*
@@ -244862,6 +244877,7 @@
 *://*.ozelyildizliurunlertr.net/*
 *://*.ozelyildrimvkf.org/*
 *://*.ozelyilsonu-kampanyalari-birey-basvuru.ml/*
+*://*.ozenay.buzz/*
 *://*.ozenirleramacozemezler.cfd/*
 *://*.ozeniyorlar-ama-cozemezler.net/*
 *://*.ozeozel-ihtiyaclarile.net/*
@@ -259540,6 +259556,7 @@
 *://*.pttavmsale.online/*
 *://*.pttavmsanalpazar.com/*
 *://*.pttavmsaticim.com/*
+*://*.pttavmsatinal.com/*
 *://*.pttavmsatis.com/*
 *://*.pttavmsatis.online/*
 *://*.pttavmsatisbireysel.com/*
@@ -270959,6 +270976,7 @@
 *://*.ruelomamuy.com/*
 *://*.ruemmelin.info/*
 *://*.ruepliz.click/*
+*://*.rueuk.cn/*
 *://*.rufaho.com/*
 *://*.rufdusolu.one/*
 *://*.rufercbkbxullvna.com/*
@@ -276727,6 +276745,7 @@
 *://*.sciuropterus.com/*
 *://*.scjtb.cloud/*
 *://*.sck1111.xyz/*
+*://*.sckancalon.xyz/*
 *://*.scketioruka.online/*
 *://*.scldvbtlvt-dcvvt.com/*
 *://*.scldvvt-dsct.com/*
@@ -290499,6 +290518,7 @@
 *://*.sorgumaliye.com/*
 *://*.sorgumaliyehukuku.com/*
 *://*.sorgumaliyeuzlasma.com/*
+*://*.sorgumasak.org/*
 *://*.sorgumasakdosya.org/*
 *://*.sorgumbiz.xyz/*
 *://*.sorgumerkez2021.com/*
@@ -299620,6 +299640,7 @@
 *://*.tarara.click/*
 *://*.tararfararta.xyz/*
 *://*.tarasmacerxcew.net/*
+*://*.tarbil-antikortitre.info/*
 *://*.tarbil.golf/*
 *://*.tarbilsistemkullanici.ml/*
 *://*.tarbilsistemyetki.ml/*
@@ -316739,6 +316760,7 @@
 *://*.turkiy-govtr-tr.org/*
 *://*.turkiy-tr-gov-tr.org/*
 *://*.turkiy-tr-govtr.com/*
+*://*.turkiyapostatr.com/*
 *://*.turkiye---gov---tr.org/*
 *://*.turkiye--dyson.com.tr/*
 *://*.turkiye--finans-tr.com/*

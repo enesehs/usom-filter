@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-05 13:02:47 UTC
-# Toplam: 452861 Domain
+# Son Güncelleme: 2026-05-05 17:10:20 UTC
+# Toplam: 452889 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15350,6 +15350,7 @@
 50g.vf32.xyz
 50gb-kampanyasi-turkcell.com
 50gb-kampanyasi-turkcell.net
+50gbfirsat.online
 50gbkazan.online
 50gf8dbxj.duckdns.org
 50gfs63i.duckdns.org
@@ -25953,6 +25954,7 @@ a1o1et.net
 a1o1ey.net
 a1o1fir.com
 a1o1firnisanfirsatlari.blogdns.com
+a1o1firnisanfirsatlnisb.blogdns.com
 a1o1firnisanfirstlanistr.blogdns.com
 a1o1firsaltyubirsatsubat.blogdns.com
 a1o1firsat.misecure.com
@@ -26065,6 +26067,7 @@ a1o1o.net
 a1o1ocandrimmleri.net
 a1o1onl1ne.com
 a1o1onldnfirsatlarm.blogdns.com
+a1o1onlifirsatlnistbsf.blogspot.com
 a1o1online.jumpingcrab.com
 a1o1online.net
 a1o1onlinealisveriz.com
@@ -42306,6 +42309,7 @@ aldingeldinaldin.info.tr
 aldingeldinaldin.org.tr
 aldinguvenle.online
 aldinhaftaninbasini.com
+aldinhesapliaynigun.xyz
 aldinibunu.click
 aldinina1o1.net
 aldinisanpaketcay.net
@@ -76450,6 +76454,7 @@ bireyselsahibindenparamgetguvende.com
 bireyselsahibindenparamguvende.com
 bireyselsahibindenurun.com
 bireyselsanalsube.com
+bireyselsatici.com
 bireyselsatici.com.tr
 bireyselsatici.online
 bireyselsaticim.com.tr
@@ -108122,6 +108127,7 @@ cozycoforts.store
 cozydwarf.top
 cozyhowl.top
 cozykernel.com
+cp-is-statik.myonlineportal.ch
 cp.4jhlti79.ru
 cp.envisionfonddulac.biz
 cp00jx0.duckdns.org
@@ -110242,6 +110248,7 @@ ctrl.a8e9b187c0.fm
 ctrl.a8e9b187c0.vin
 ctrl.a8e9b187c0.vip
 ctrlcapaserc.com
+ctroocankaa.xyz
 cts-comcast.com
 ctsemxlkcj.net
 ctsihgjjxj.net
@@ -124717,6 +124724,7 @@ dijitalgarantigirisim.live
 dijitalgarantiglobalgirisim.net
 dijitalgarantiisllemenu100yil.com
 dijitalgarantislemenu100yil.com
+dijitalgarantitalepyonetimsistemi.space
 dijitalgelir.org
 dijitalgib-tr.com
 dijitalgib.com
@@ -186238,6 +186246,7 @@ guvenlironaldo.duckdns.org
 guvenlis-iades-basvurusu-ucret-al.xyz
 guvenlisahibinden.tk
 guvenlisahibindenodemeyonlendirme.xyz
+guvenlisaticisi.com
 guvenlisaticisi.online
 guvenlisatin-al.com
 guvenlisatinal-tr.com
@@ -194019,6 +194028,7 @@ hastanehizmetplatformu.xyz
 hastaneisleriogren.cfd
 hastanemrveriyayini.xyz
 hastanemuayeneverileri.xyz
+hastaneninonunde.cyou
 hastanepersonelmodulu.xyz
 hastanerandevsu.mooo.com
 hastanerandevu-mhrs.cfd
@@ -227755,6 +227765,8 @@ istanbulbizim.xyz
 istanbulbizimba.xyz
 istanbulbizimle.com
 istanbulbizimlebasvur.xyz
+istanbulbizimm.xyz
+istanbulbizimmm.xyz
 istanbulblu.com
 istanbulbolgemerkezi3d.xyz
 istanbulbozum.com
@@ -237912,6 +237924,7 @@ kacmayacakalisverislerisnadresi.com.tr
 kacmayacakalisverislerisnadresi.online
 kacmayacakalisverislerisnadresi.xyz
 kacmayanbblva.ddns-ip.net
+kacmayanblva.linkpc.net
 kacmayanfirsat.com.tr
 kacmayanfirsat.online
 kacmayanfirsat.xyz
@@ -247781,6 +247794,7 @@ kimbeech.cfd
 kimberleymillicent.net
 kimberlys-portfolio.com
 kimbilir.name.tr
+kimbilirziya.click
 kimbirnumara.com
 kimekoyonakoya.online
 kimen76dhyunto.com
@@ -262046,6 +262060,7 @@ lsdsadsaf22.duckdns.org
 lsdxsdwxw.click
 lseaaewa4wa.duckdns.org
 lsevibags.net
+lsfckcas31xcas.shop
 lsfctgjywrjifok.su
 lsfmhmlsfhl.net
 lsfsdscsrlndrmsl.mooo.com
@@ -267992,6 +268007,7 @@ masakinfaz.com
 masakinfaz.net
 masakkamuportal.com
 masakkamutr.com
+masakmali.org
 masakmaliye.com
 masakmaliye.org
 masakonline.com
@@ -282257,6 +282273,7 @@ mvlbgxk.com
 mvlnet.com.smartplay
 mvlocrwb.com
 mvlrwupz.com
+mvlsvlslvs099.sbs
 mvmkasdkmsakdm.com
 mvmtvpazartesi.org
 mvmvsn.com
@@ -285564,6 +285581,7 @@ nelivo.com
 nellexuwu.hopto.org
 nellgill6.xyz
 nelnpplhcb.duckdns.org
+nelokoz.top
 neloree.com
 nelpersx.click
 nelson3081.tk
@@ -303572,6 +303590,7 @@ ouamar.ddns.net
 ouavzdwc.com
 oucesesstor.xyz
 ouchar.ru
+oucmdsaic.net
 oucpfnq.duckdns.org
 oudatoansaka1.net
 oudax.com
@@ -304548,6 +304567,7 @@ ozelyenilikler.xyz
 ozelyildizliurunlertr.net
 ozelyildrimvkf.org
 ozelyilsonu-kampanyalari-birey-basvuru.ml
+ozenay.buzz
 ozenirleramacozemezler.cfd
 ozeniyorlar-ama-cozemezler.net
 ozenleyukle.sg-host.com
@@ -322549,6 +322569,7 @@ pttavms.com
 pttavmsale.online
 pttavmsanalpazar.com
 pttavmsaticim.com
+pttavmsatinal.com
 pttavmsatis.com
 pttavmsatis.online
 pttavmsatisbireysel.com
@@ -337545,6 +337566,7 @@ ruemmelin.info
 rueo6oii.duckdns.org
 ruepliz.click
 ruetsm.mkuspt.com
+rueuk.cn
 rufaho.com
 rufdusolu.one
 rufercbkbxullvna.com
@@ -346871,6 +346893,7 @@ scissorstiger.top
 scitie.ddns.net
 sciuropterus.com
 sck1111.xyz
+sckancalon.xyz
 scketioruka.online
 sckreemzin.hopto.org
 sckuqcmgye.duckdns.org
@@ -363922,6 +363945,7 @@ sorgum.xyz
 sorgumaliye.com
 sorgumaliyehukuku.com
 sorgumaliyeuzlasma.com
+sorgumasak.org
 sorgumasakdosya.org
 sorgumbiz.xyz
 sorgumenu-985501fc214d.herokuapp.com
@@ -375899,6 +375923,7 @@ tarara.click
 tararfararta.xyz
 tarasmacerxcew.net
 taraulembigode.ddns.net
+tarbil-antikortitre.info
 tarbil.golf
 tarbilsistemkullanici.ml
 tarbilsistemyetki.ml
@@ -395133,6 +395158,7 @@ turkcell-paket.com
 turkcell-pasaj-online.click
 turkcell-pasaj.click
 turkcell-pasaj.com
+turkcell-sans-carki.pages.dev
 turkcell-sarigunler-20gb.com
 turkcell-service.com
 turkcell-servis.com
@@ -396133,6 +396159,7 @@ turkishairlinerewards.com
 turkishairlines-anniversaire.com
 turkishairlines-biletler.com
 turkishairlines-comores.com
+turkishairlines-emeklikampanyasi.kimbilirziya.click
 turkishairlines-survey.com
 turkishairlines-tr.site
 turkishairlines.com-boarding.club
@@ -396241,6 +396268,7 @@ turkiy-govtr-tr-tr.org
 turkiy-govtr-tr.org
 turkiy-tr-gov-tr.org
 turkiy-tr-govtr.com
+turkiyapostatr.com
 turkiye---gov---tr.org
 turkiye--dyson.com.tr
 turkiye--finans-tr.com
