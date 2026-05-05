@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-05 17:10:20 UTC
-# Toplam: 452889 Domain
+# Son Güncelleme: 2026-05-05 19:01:50 UTC
+# Toplam: 452900 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15229,6 +15229,7 @@
 500bintoplukonutprojeleri-toki-basladi-2025.sbs
 500bintplu-knt.com
 500bintplukntbsvru2026.com
+500binucak.sbs
 500binyerlesim.com
 500binyerlesimi.com
 500binyerlesimkonut.com
@@ -55023,6 +55024,7 @@ avisfiloacenta.com
 avisfilobayi.com
 avisfilokiralama.com
 avisfilokiralama.com.tr
+avisfilokurumsal.com
 avisfilom.tk
 avisglobal.com.tr
 avisgonder.com
@@ -111286,6 +111288,7 @@ curfewprotocol.top
 curiget.xyz
 curiousaide.top
 curiousbanana.com
+curkaonucakle.xyz
 curldesignation.top
 curlnomination.top
 curmumleodendeee.cyou
@@ -185015,6 +185018,7 @@ gutmannfw.net
 gutoptical.top
 gutos.xyz
 guttshost.ddns.net
+guuak.cn
 guuglekurumsal.cfd
 guusalqsfi.duckdns.org
 guuvvgsbiuludp.me
@@ -320436,6 +320440,7 @@ prtgdagitimhediyeleri-bnb.tk
 prtgov.pics
 prtgov.skin
 prtgscan.com
+prtkcanocanak.xyz
 prtl-b-rn-g.myonlineportal.ch
 prtl-grn-b.my-homeip.com
 prtonlinemobilislern.online
@@ -362643,6 +362648,7 @@ sonbhrfirsatlarixx.com
 sonbhri-yakala.com
 sonbildirim.eu
 sonbildirimler.com
+sonbilet.com.tr
 sonbinancekampanyabilgi.net
 sonbirdefa.click
 sonbirvakif.co.vu
@@ -363345,6 +363351,7 @@ sonrasinada-buralarda-kalirsanizda-bulunun.top
 sonrasinda-kalana-kadarda-buralari-getirir.com
 sonrasinin-bunabenzer-degisime-yakalanir.top
 sonrentcar.com
+sonrx2odso12xll32.duckdns.org
 sons-chubby-pushing-habits.trycloudflare.com
 sonsaatfirsatlarinikacirmaurunlersepette.com.tr
 sonsaatfirsatlarinikacirmaurunlersepette.online
@@ -392367,6 +392374,7 @@ trmaliidari.org
 trmaliye.org
 trmaliyebilgi.org
 trmaliyeceza.org
+trmaliyedosya.com
 trmaliyeportal.com
 trmaliyetc.org
 trmalmiadmx1.net
@@ -398273,6 +398281,7 @@ tuvturk-dijital.site
 tuvturk-gtr.com
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
+tuvturk-kse.com
 tuvturk-kss.com
 tuvturk-li.com
 tuvturk-lle.app
@@ -403457,6 +403466,7 @@ ustcorpp.com
 ustduzeyyardim.com
 usteouraph.com
 usteuste.site
+ustkoanicaken.xyz
 ustktrrnodeme.net
 ustodyr.pics
 ustoyna.click
@@ -429843,6 +429853,7 @@ x111kh8ru.duckdns.org
 x115gkgr.duckdns.org
 x1221.zapto.org
 x12lksalclcl123x1ksc.cfd
+x12lksalclcl123x1ksc.lat
 x12lksalclcl123x1ksc.sbs
 x12vn2.duckdns.org
 x12y.restrice.ru
