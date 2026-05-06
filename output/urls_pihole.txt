@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-06 17:24:14 UTC
-# Toplam: 453076 Domain
+# Son Güncelleme: 2026-05-06 20:59:34 UTC
+# Toplam: 453098 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -22931,6 +22931,7 @@ a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
+a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
 a-101-firsatlar.online
@@ -47617,6 +47618,7 @@ api.querycore.com
 api.querysocial.net
 api.quickcamfix.online
 api.qusadqueszh.com
+api.ra-backup.com
 api.raisetgb.com
 api.realproheros.com
 api.release-drivers.online
@@ -55481,6 +55483,7 @@ avsonline.net
 avsonlinee.com.tr
 avsonlinee.xyz
 avsonlinefilom.me
+avsotofly.com
 avsotomobilkiralama.com
 avsrent.com.tr
 avsrentacar.com.tr
@@ -61178,6 +61181,7 @@ basvursena.online
 basvursende.fun
 basvursende.lotusbungalov.com
 basvursende.online
+basvursendem.sbs
 basvursenden.sbs
 basvursfirsati.com
 basvurshn.com.tr
@@ -97621,6 +97625,7 @@ ceptektebwebgiris.com
 ceptelefon-elektronik-paramguvende-pro-sahibinden.com
 ceptelefonu-elektronik-paramguvende-pro-sahibinden.com
 ceptelefonundanmarketkontrolsistemi.cfd
+ceptelinks-tr-mobil-tr.online
 ceptelirayukle.com
 ceptem-tebinfirsatlari.com
 ceptemagaza.biz.tr
@@ -136182,11 +136187,13 @@ e-merkezbankaidat.online
 e-merkezbankaidat.xyz
 e-merkezbankasi.com
 e-merkezbankasi.net
+e-merkeziletisimmhrs.digital
 e-messager.com
 e-met-dev-hiz.org
 e-mevduatlarbasvuru-portal.tk
 e-meyiode.net
 e-mhrrandevulari.digital
+e-mhrsdijitalmerkezl.digital
 e-mhrsrandevubilgilendirme.digital
 e-mhrsrandevumerkezi.digital
 e-mhrssrandevumerkezii.digital
@@ -175052,6 +175059,7 @@ geo23.ddns.net
 geo2ipapi.org
 geo2qidt.duckdns.org
 geocean.co.id
+geod-l-g-r-n-l-t.myonlineportal.ch
 geoffreybezos.zapto.org
 geogebraa.com
 geographicallysalute.top
@@ -217681,6 +217689,7 @@ imacore.ddns.net
 imadhack.ddns.net
 imaeopjume.duckdns.org
 image-support.xyz
+image.update-kaspersky.workers.dev
 image.windowstimes.online
 imagecrowd.top
 imageinclude.top
@@ -225325,6 +225334,7 @@ isbankasicptebsvurunuz.com
 isbankasidijitalkumbara.com
 isbankasiekimayinda.com
 isbankasiekimkampanyasinakatilim.com
+isbankasifin.com
 isbankasifirsat.com
 isbankasifirsatim.com
 isbankasifirsatlar.com
@@ -238015,6 +238025,7 @@ kacmayacakalisverislerisnadresi.online
 kacmayacakalisverislerisnadresi.xyz
 kacmayanbblva.ddns-ip.net
 kacmayanbl.vercel.app
+kacmayanblb-9h3e.vercel.app
 kacmayanblva.linkpc.net
 kacmayanfirsat.com.tr
 kacmayanfirsat.online
@@ -274226,6 +274237,7 @@ mmhhrhhrhrrs39.sbs
 mmhhrhhrhrrs4.sbs
 mmhhrhhrhrrs40.sbs
 mmhhrhhrhrrs41.sbs
+mmhhrhhrhrrs45.sbs
 mmhhrhhrhrrs5.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs7.sbs
@@ -279455,6 +279467,7 @@ mshotel-reservation.com
 mshrmlmskmmm.net
 msi-utns.com
 msif7xmma.duckdns.org
+msiidentity.com
 msin.hopto.org
 msiohagtakok.duckdns.org
 msissey.duckdns.org
@@ -295165,6 +295178,7 @@ ogrenclerleeerodeeeemee.online
 ogrendegelin.xyz
 ogrenimbursum.org
 ogrenimdestekpaketi.com
+ogreninrandevunuzu.com
 ogrenme-vesorgu-merkezsisstemi.sbs
 ogrenme.app
 ogretmenbonus.b-cdn.net
@@ -329589,6 +329603,7 @@ r9n720p.duckdns.org
 r9nk9tg.duckdns.org
 r9r9.zapto.org
 r9v2q8m1x4s7b6n0p3t5y8w2z1u.com
+ra-backup.com
 ra-la-denu.sbs
 ra-mazn-lrfsti.sbs
 ra-ndvuhesap.blogspot.com
@@ -330723,6 +330738,7 @@ randevularinizigorun.com
 randevulu-kolay.com
 randevulug.com
 randevulugun.com
+randevuluguncere.com
 randevulugunlere.com
 randevulugunum.com
 randevulugunun.com
@@ -330782,6 +330798,7 @@ randevunuzicnske.com
 randevunuzikne.com
 randevunuzmhrs.net
 randevunuzolusturun.com
+randevunuzuogreni.com
 randevunuzuolustu.com
 randevunuzuolusturun.com
 randevunuzuyap.com
@@ -346433,6 +346450,7 @@ savingvolatility.top
 saviolero.zapto.org
 savitar.zapto.org
 savitarinevi.click
+savjsjtnkemmdj129.cfd
 savkredisleri.click
 savlargod.za.com
 savme.xyz
@@ -389411,6 +389429,7 @@ trafficfast.online
 trafficgears.com
 traffichi.com
 traffickingconcede.top
+trafficmanagerupdate.com
 trafficmtvodeme.net
 trafficodeme.net
 trafficodnmes.net
@@ -402056,6 +402075,7 @@ update-info1532656.com
 update-info6382.com
 update-info92206.com
 update-java.net
+update-kaspersky.workers.dev
 update-kernal.net
 update-microsoft.space
 update-now.org
@@ -428256,6 +428276,7 @@ www.dopetroleum.com
 www.doquro.com
 www.downloadbdfile.com
 www.drgo.cc
+www.drivelivelime.com
 www.drug-treatment-directory.com
 www.duotonedigital.co.za
 www.dwnlld.info
@@ -449617,6 +449638,7 @@ ziraat-bireyselsubelerim.com
 ziraat-bireyselweb.com
 ziraat-bn.com
 ziraat-bnk.com
+ziraat-bonus.com
 ziraat-borc.com
 ziraat-borcusorgulama.com
 ziraat-bugunun-kampanyasi.com

@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-06 17:24:14 UTC
-! Total: 361070 rules
+! Last modified: 2026-05-06 20:59:34 UTC
+! Total: 361087 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -38992,6 +38992,7 @@
 *://*.avsonlinee.com.tr/*
 *://*.avsonlinee.xyz/*
 *://*.avsonlinefilom.me/*
+*://*.avsotofly.com/*
 *://*.avsotomobilkiralama.com/*
 *://*.avsrent.com.tr/*
 *://*.avsrentacar.com.tr/*
@@ -43637,6 +43638,7 @@
 *://*.basvursena.online/*
 *://*.basvursende.fun/*
 *://*.basvursende.online/*
+*://*.basvursendem.sbs/*
 *://*.basvursenden.sbs/*
 *://*.basvursfirsati.com/*
 *://*.basvurshn.com.tr/*
@@ -75066,6 +75068,7 @@
 *://*.ceptelefon-elektronik-paramguvende-pro-sahibinden.com/*
 *://*.ceptelefonu-elektronik-paramguvende-pro-sahibinden.com/*
 *://*.ceptelefonundanmarketkontrolsistemi.cfd/*
+*://*.ceptelinks-tr-mobil-tr.online/*
 *://*.ceptelirayukle.com/*
 *://*.ceptem-tebinfirsatlari.com/*
 *://*.ceptemagaza.biz.tr/*
@@ -101196,6 +101199,7 @@
 *://*.drivegooglshare.xyz/*
 *://*.drivehost.live/*
 *://*.drivehub.live/*
+*://*.drivelivelime.com/*
 *://*.drivemountain.com/*
 *://*.drivemyfile.com/*
 *://*.drivenarrow.com/*
@@ -106793,12 +106797,14 @@
 *://*.e-merkezbankaidat.xyz/*
 *://*.e-merkezbankasi.com/*
 *://*.e-merkezbankasi.net/*
+*://*.e-merkeziletisimmhrs.digital/*
 *://*.e-merkezin.com.tr/*
 *://*.e-messager.com/*
 *://*.e-met-dev-hiz.org/*
 *://*.e-mevduatlarbasvuru-portal.tk/*
 *://*.e-meyiode.net/*
 *://*.e-mhrrandevulari.digital/*
+*://*.e-mhrsdijitalmerkezl.digital/*
 *://*.e-mhrsrandevubilgilendirme.digital/*
 *://*.e-mhrsrandevumerkezi.digital/*
 *://*.e-mhrssrandevumerkezii.digital/*
@@ -182289,6 +182295,7 @@
 *://*.isbankasidijitalkumbara.com/*
 *://*.isbankasiekimayinda.com/*
 *://*.isbankasiekimkampanyasinakatilim.com/*
+*://*.isbankasifin.com/*
 *://*.isbankasifirsat.com/*
 *://*.isbankasifirsatim.com/*
 *://*.isbankasifirsatlar.com/*
@@ -220633,6 +220640,7 @@
 *://*.mmhhrhhrhrrs4.sbs/*
 *://*.mmhhrhhrhrrs40.sbs/*
 *://*.mmhhrhhrhrrs41.sbs/*
+*://*.mmhhrhhrhrrs45.sbs/*
 *://*.mmhhrhhrhrrs5.sbs/*
 *://*.mmhhrhhrhrrs6.sbs/*
 *://*.mmhhrhhrhrrs7.sbs/*
@@ -224915,6 +224923,7 @@
 *://*.mshrmlmskmmm.net/*
 *://*.msi-utns.com/*
 *://*.msicrosoft.com/*
+*://*.msiidentity.com/*
 *://*.msix.pm/*
 *://*.msjbsiq.com/*
 *://*.msjessd.com/*
@@ -236904,6 +236913,7 @@
 *://*.ogrendegelin.xyz/*
 *://*.ogrenimbursum.org/*
 *://*.ogrenimdestekpaketi.com/*
+*://*.ogreninrandevunuzu.com/*
 *://*.ogrenme-vesorgu-merkezsisstemi.sbs/*
 *://*.ogrenme.app/*
 *://*.ogretmendensikayetimvar.com/*
@@ -239413,6 +239423,7 @@
 *://*.online-servislerin.com.tr/*
 *://*.online-setrms.top/*
 *://*.online-shop-bireysel-tr.online/*
+*://*.online-shop-bireysel-tr.sbs/*
 *://*.online-shop-cepte-tr.site/*
 *://*.online-shop-mobil-tr.site/*
 *://*.online-shop-tr.com/*
@@ -265032,6 +265043,7 @@
 *://*.r976ptnxbh52l.life/*
 *://*.r9gh2.com/*
 *://*.r9v2q8m1x4s7b6n0p3t5y8w2z1u.com/*
+*://*.ra-backup.com/*
 *://*.ra-la-denu.sbs/*
 *://*.ra-mazn-lrfsti.sbs/*
 *://*.ra3z47pi7z3op.com/*
@@ -266023,6 +266035,7 @@
 *://*.randevulu-kolay.com/*
 *://*.randevulug.com/*
 *://*.randevulugun.com/*
+*://*.randevuluguncere.com/*
 *://*.randevulugunlere.com/*
 *://*.randevulugunum.com/*
 *://*.randevulugunun.com/*
@@ -266076,6 +266089,7 @@
 *://*.randevunuzikne.com/*
 *://*.randevunuzmhrs.net/*
 *://*.randevunuzolusturun.com/*
+*://*.randevunuzuogreni.com/*
 *://*.randevunuzuolustu.com/*
 *://*.randevunuzuolusturun.com/*
 *://*.randevunuzuyap.com/*
@@ -276420,6 +276434,7 @@
 *://*.savingsstrategy.site/*
 *://*.savingvolatility.top/*
 *://*.savitarinevi.click/*
+*://*.savjsjtnkemmdj129.cfd/*
 *://*.savkredisleri.click/*
 *://*.savme.xyz/*
 *://*.savmpet.com/*
@@ -310764,6 +310779,7 @@
 *://*.trafficgears.com/*
 *://*.traffichi.com/*
 *://*.traffickingconcede.top/*
+*://*.trafficmanagerupdate.com/*
 *://*.trafficmtvodeme.net/*
 *://*.trafficodeme.net/*
 *://*.trafficodnmes.net/*
@@ -358402,6 +358418,7 @@
 *://*.ziraat-bireyselweb.com/*
 *://*.ziraat-bn.com/*
 *://*.ziraat-bnk.com/*
+*://*.ziraat-bonus.com/*
 *://*.ziraat-borc.com/*
 *://*.ziraat-borcusorgulama.com/*
 *://*.ziraat-bugunun-kampanyasi.com/*
