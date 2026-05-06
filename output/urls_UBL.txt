@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-06 12:23:31 UTC
-! Total: 361011 rules
+! Last modified: 2026-05-06 15:23:31 UTC
+! Total: 361043 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -637,6 +637,7 @@
 *://*.1-320-fsa-gsa-rw1-42214fsagadsarwqfsa.com.tr/*
 *://*.1-44-4-4-4-1-4221.sbs/*
 *://*.1-5-2-6-156.fun/*
+*://*.1-5-8.com/*
 *://*.1-bayistrpanel.com/*
 *://*.1-beyaz-kedi.org/*
 *://*.1-bncdestektr.com/*
@@ -10301,6 +10302,7 @@
 *://*.53435434.net/*
 *://*.5343982232.cloud/*
 *://*.534514274568123.xyz/*
+*://*.534534543.net/*
 *://*.534561883.com/*
 *://*.53456326.store/*
 *://*.5348123738340023o12300.xyz/*
@@ -12105,6 +12107,7 @@
 *://*.79845618465320561.net/*
 *://*.798464364613146413131611216-ss.cloud/*
 *://*.79867547654.cloud/*
+*://*.7987565.click/*
 *://*.7987567563453.cloud/*
 *://*.798work.com/*
 *://*.79d339b8ec11h.net/*
@@ -45865,6 +45868,7 @@
 *://*.baykar-invest.com/*
 *://*.baykar-invest.team/*
 *://*.baykar-investment-opportunity.com/*
+*://*.baykar-investment-program.com/*
 *://*.baykar-investmentopportunity.com/*
 *://*.baykar-news.info/*
 *://*.baykar-opt.com.ua/*
@@ -73222,6 +73226,7 @@
 *://*.caynannews.com/*
 *://*.cayrasab.ml/*
 *://*.cayrezlokizyonezdom.net/*
+*://*.caytarifleri.sbs/*
 *://*.cazayer.com/*
 *://*.cazekontrol.com/*
 *://*.cazibeee.com/*
@@ -86729,6 +86734,7 @@
 *://*.daemon-mailer.com/*
 *://*.daemon-update.com/*
 *://*.daemonschool.shop/*
+*://*.daemontools.cc/*
 *://*.daer33obicwise.top/*
 *://*.daerakyz.click/*
 *://*.daeyhkvsrohfwln.ru/*
@@ -94938,6 +94944,7 @@
 *://*.devamtr.net/*
 *://*.devamtr.online/*
 *://*.devamtr.org/*
+*://*.devapp.digital/*
 *://*.devarachizmet.dev/*
 *://*.devarachizmeti.dev/*
 *://*.devasaaktuelindirimlerii.com/*
@@ -166674,6 +166681,7 @@
 *://*.hlsmvqiww.info/*
 *://*.hlsodeme-hzliodeme.com/*
 *://*.hlsowt.com/*
+*://*.hlssistlnbsvr.com/*
 *://*.hlsxcvbmkyk.info/*
 *://*.hltonln-wrkout.com/*
 *://*.hltoyc.com/*
@@ -172387,6 +172395,7 @@
 *://*.ibexflint.online/*
 *://*.ibexglobai.com/*
 *://*.ibfcl.net/*
+*://*.ibflkf.buzz/*
 *://*.ibfmuqs.cn/*
 *://*.ibfseed.com/*
 *://*.ibfvpi.com/*
@@ -184222,6 +184231,7 @@
 *://*.istanbu5l.click/*
 *://*.istanbu6l.click/*
 *://*.istanbu7l.click/*
+*://*.istanbubizimx.sbs/*
 *://*.istanbudlaeglen.com.tr/*
 *://*.istanbuikart.com/*
 *://*.istanbuikart.net/*
@@ -185252,6 +185262,7 @@
 *://*.istekurumsalkampanyasi.gq/*
 *://*.istekurumsalkampanyasi.ml/*
 *://*.istekurumsalkampanyasi.tk/*
+*://*.istekuzerineistanbul.xyz/*
 *://*.istekyapmalisiniz.com/*
 *://*.istel-islemminiz.xyz/*
 *://*.istelebnk.online/*
@@ -198012,6 +198023,7 @@
 *://*.kaspersky-security.com/*
 *://*.kaspersky-support.com/*
 *://*.kaspersky.host/*
+*://*.kaspersky.icu/*
 *://*.kaspersky.science/*
 *://*.kaspersky.team/*
 *://*.kasperskysecurity.club/*
@@ -204175,6 +204187,7 @@
 *://*.kozel.online/*
 *://*.kozhgsz.com/*
 *://*.kozler.store/*
+*://*.kozlrmszbrdpylsyrz.xyz/*
 *://*.kozmetr.online/*
 *://*.kozmik-soguk-taraf-kulvar.sbs/*
 *://*.kozmiksessizlik.com/*
@@ -208617,6 +208630,7 @@
 *://*.legoparcasi.gq/*
 *://*.legoval.top/*
 *://*.legrandbellevue.com/*
+*://*.legs-krc.vip/*
 *://*.legspak.site/*
 *://*.legtmcyabrupt.top/*
 *://*.legtxal.click/*
@@ -215853,6 +215867,7 @@
 *://*.masakinfaz.net/*
 *://*.masakkamuportal.com/*
 *://*.masakkamutr.com/*
+*://*.masakkurum.org/*
 *://*.masakmali.org/*
 *://*.masakmaliye.com/*
 *://*.masakmaliye.org/*
@@ -218350,6 +218365,7 @@
 *://*.merkezdukkanim.xyz/*
 *://*.merkezebasvur.com/*
 *://*.merkezgirisim-hizlibasvurma.com/*
+*://*.merkezhaberlerlerle.sbs/*
 *://*.merkezhizligecisistemi.xyz/*
 *://*.merkezi-aktarim.online/*
 *://*.merkezi-bankasi-aidat.tk/*
@@ -219196,6 +219212,7 @@
 *://*.mhmrmrmrmss.online/*
 *://*.mhmrmsannsm.org/*
 *://*.mhmrmsnbzlermsn.org/*
+*://*.mhmrmsnesnmzsnds.org/*
 *://*.mhmrmsnlerrebrdal.com/*
 *://*.mhmrmsnmnrsm.org/*
 *://*.mhmrmsnmznsmdfn.org/*
@@ -220391,6 +220408,7 @@
 *://*.mjesafar.com/*
 *://*.mjet.pw/*
 *://*.mjewnjiwmtka.info/*
+*://*.mjhgrb.click/*
 *://*.mjhnsal.com/*
 *://*.mjiqpcyxa.com/*
 *://*.mjlog-vn.com/*
@@ -224772,6 +224790,7 @@
 *://*.mrsmrandvmnmetonet.net/*
 *://*.mrss-saglikk2.com/*
 *://*.mrss-saglk.com/*
+*://*.mrssaglik.com/*
 *://*.mrssaglk.com/*
 *://*.mrsshlllmssllll.net/*
 *://*.mrsvoitlerkt.xyz/*
@@ -228829,6 +228848,7 @@
 *://*.nasiloldidabuboyleoldi.sbs/*
 *://*.nasilpaketyuklenir.net/*
 *://*.nasilsporabaslarim.com/*
+*://*.nasilyapilirrr.sbs/*
 *://*.nasilyuklemeyapilir.net/*
 *://*.nasinvited.top/*
 *://*.nasisiolcafak.info/*
@@ -235245,6 +235265,7 @@
 *://*.oakcloudhi-erg.world/*
 *://*.oakcourtpress.com/*
 *://*.oakdenetimglobalbasvurun.com/*
+*://*.oakenfjrod.ru/*
 *://*.oakenshade.site/*
 *://*.oakley-sunglasses2017.net/*
 *://*.oakmeadow.icu/*
@@ -236076,6 +236097,7 @@
 *://*.odemegunluk.net/*
 *://*.odemegunlukleri.com/*
 *://*.odemeguvencesi.com.tr/*
+*://*.odemeguvencesi.online/*
 *://*.odemeguvende.com/*
 *://*.odemeguvendeget.ml/*
 *://*.odemeguvendeget.tk/*
@@ -236626,6 +236648,7 @@
 *://*.office360share.com/*
 *://*.office365-management.com/*
 *://*.office365-technical.info/*
+*://*.office365-update.com/*
 *://*.office365cloudhub.com/*
 *://*.office365microdesk.com/*
 *://*.office365onlinehome.com/*
@@ -259553,6 +259576,7 @@
 *://*.pttavmguvenlisepet.com/*
 *://*.pttavmgvnliodeme.com/*
 *://*.pttavmgx-hizliodemelerr.com/*
+*://*.pttavmhemenal.com/*
 *://*.pttavmhftasnu.com/*
 *://*.pttavmhgs.autos/*
 *://*.pttavmhgs.com/*
@@ -265984,6 +266008,7 @@
 *://*.randevulu-kolay.com/*
 *://*.randevulug.com/*
 *://*.randevulugun.com/*
+*://*.randevulugunlere.com/*
 *://*.randevulugunum.com/*
 *://*.randevulugunun.com/*
 *://*.randevuluislemler.com/*
@@ -272957,6 +272982,7 @@
 *://*.saglikuygulamasi5.com/*
 *://*.saglikvedestekzamani.com/*
 *://*.saglkgnlerderndvalnyrz.click/*
+*://*.saglkgnlrdlyrzbrdans.forum/*
 *://*.saglkgnlrdylrzbrdanmhrsss.cfd/*
 *://*.saglkgnlrdylrzbrdanmhrsss.click/*
 *://*.sagolasin.help/*
@@ -314960,6 +314986,7 @@
 *://*.tsdakcskacxczx.net/*
 *://*.tsdffwdw.click/*
 *://*.tsdfsfdggfsddf.click/*
+*://*.tsdfyldrm.site/*
 *://*.tsdkskcsczxczx.net/*
 *://*.tsdpkn.com/*
 *://*.tsep13.com/*
@@ -321671,6 +321698,7 @@
 *://*.uquatbub.com/*
 *://*.uqw.futbol/*
 *://*.uqyumxqlwttwcqd.ru/*
+*://*.uqzvdu.buzz/*
 *://*.ur95ztyb07nro560.fun/*
 *://*.urafnor.net/*
 *://*.ural-pelmeny.ru/*
@@ -332676,6 +332704,7 @@
 *://*.weakopen.net/*
 *://*.weakrequ.online/*
 *://*.wealth-classifier.com/*
+*://*.wealth-monero.com/*
 *://*.wealth-orbit.online/*
 *://*.wealthandstock.info/*
 *://*.wealthbridge.cash/*
@@ -348908,6 +348937,7 @@
 *://*.yapidernegi.com/*
 *://*.yapidestek-mobilsubemiz.com/*
 *://*.yapidigitalislemler.ml/*
+*://*.yapidijisube.xyz/*
 *://*.yapidijitalbanka.com/*
 *://*.yapiduyurulartr.com/*
 *://*.yapiduyurumtr.com/*
@@ -351776,6 +351806,7 @@
 *://*.yeeesssmikrofon.cyou/*
 *://*.yeenidengeldikk.net/*
 *://*.yeeniilmzda-girisler.com/*
+*://*.yeezyhost.net/*
 *://*.yefgweoiuhf.xyz/*
 *://*.yegakks.com/*
 *://*.yegelsdwe.wtf/*
@@ -356078,6 +356109,7 @@
 *://*.yrkakprimefinans.com/*
 *://*.yrkeafdidqwjegksaewgonline.live/*
 *://*.yrksxmv432.com/*
+*://*.yrkuoc.buzz/*
 *://*.yrldydrmbngkni.net/*
 *://*.yrlmz.xyz/*
 *://*.yrn-bgn-bgnlr.shop/*
