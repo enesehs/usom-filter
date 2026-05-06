@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-06 10:25:38 UTC
-! Total: 361003 rules
+! Last modified: 2026-05-06 12:23:31 UTC
+! Total: 361011 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -194,6 +194,7 @@
 *://*.01bimcell.net/*
 *://*.01domck.click/*
 *://*.01eylul-comtr.art/*
+*://*.01firsatlarkacirmayin0102.com/*
 *://*.01hgs.com/*
 *://*.01i392yu2387783y73.icu/*
 *://*.01iade-hizmetlerin.com/*
@@ -35684,6 +35685,7 @@
 *://*.arorafabrikaonline.com/*
 *://*.arorafabrikasatis.com/*
 *://*.aroramodelleri.com/*
+*://*.aroramotorluaraclar.com/*
 *://*.aroramotors.com/*
 *://*.aroramusterihizmetleri.com/*
 *://*.aroraonline.com.tr/*
@@ -127360,6 +127362,7 @@
 *://*.fibaonlinetr.com/*
 *://*.fibapank.cyou/*
 *://*.fibapank.store/*
+*://*.fibaplatform.org/*
 *://*.fibaportalgiris.tk/*
 *://*.fibaportfoy.com/*
 *://*.fibasubesizkredihizmeti.net/*
@@ -148733,6 +148736,7 @@
 *://*.guvenlihizmetin.com.tr/*
 *://*.guvenlihizmetler.com/*
 *://*.guvenlihizmetler.online/*
+*://*.guvenlihizmetleri.online/*
 *://*.guvenlihzligecisodme.net/*
 *://*.guvenlihzligecisykle.net/*
 *://*.guvenlii-al.com.tr/*
@@ -174752,6 +174756,7 @@
 *://*.ilansepetler.com.tr/*
 *://*.ilansepetler.com/*
 *://*.ilanservis-jethizmet.com/*
+*://*.ilanservisiniz-jet.com/*
 *://*.ilanticaret-siparisodeme.shop/*
 *://*.ilantr-sahibinden.com/*
 *://*.ilanurunlerim.com.tr/*
@@ -216172,6 +216177,7 @@
 *://*.matmazelgibisin.com/*
 *://*.matmonarch.top/*
 *://*.matodentro.com/*
+*://*.matodorbet1094.com/*
 *://*.matokan.store/*
 *://*.matpapinkampani.xyz/*
 *://*.matpincscr.com/*
@@ -355991,6 +355997,7 @@
 *://*.ypidjitalcebte.click/*
 *://*.ypikrd-prmsy.online/*
 *://*.ypikrd.com/*
+*://*.ypikrddijisube.xyz/*
 *://*.ypikredi.com/*
 *://*.ypikyradifnansprmsyn.online/*
 *://*.ypimobl.tr/*
@@ -357224,6 +357231,7 @@
 *://*.zairexservices.fun/*
 *://*.zaita.pro/*
 *://*.zaitingyirangjindian.top/*
+*://*.zajema.top/*
 *://*.zajil.shop/*
 *://*.zajjizev.club/*
 *://*.zakariyahgilmour82.xyz/*
