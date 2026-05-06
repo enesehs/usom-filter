@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-06 15:23:31 UTC
-# Toplam: 453041 Domain
+# Son Güncelleme: 2026-05-06 17:24:14 UTC
+# Toplam: 453076 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -14340,6 +14340,7 @@
 484sa1rj.duckdns.org
 485-8-888.duckdns.org
 485-8-8881.duckdns.org
+485489541268.cloud
 485756757.vercel.app
 48596720123.top
 485h48393995hb34836g4.icu
@@ -61177,6 +61178,7 @@ basvursena.online
 basvursende.fun
 basvursende.lotusbungalov.com
 basvursende.online
+basvursenden.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -93078,6 +93080,7 @@ callt.co.uk
 calltan.com
 calltask.im
 callusrsas.xyz
+calm-wildflower-1349.hellohiall.workers.dev
 calmcompassion.top
 calmequate.top
 calmingtefxtures.run
@@ -102267,6 +102270,7 @@ cloudflareaddons.com
 cloudflarecdn.com
 cloudflorepageglobalcatilim.online
 cloudfoxhub.com
+cloudfront-021.s3.us-west-2.amazonaws.com
 cloudfront.site
 cloudglbalfirsatcampanyabuguneozel.com
 cloudguardins.ru.com
@@ -107778,6 +107782,7 @@ cosmeticshop.store
 cosmeticsurgeryisb.pk
 cosmetify.pk
 cosmic-burst.com
+cosmic-nebula.cc
 cosmicbilisim.com
 cosmicbriar.space
 cosmicdiscover.com
@@ -129588,6 +129593,7 @@ dravencia.sbs
 dravenquish.shop
 dravikon.click
 dravinex-tr.com
+dravionix.pro
 dravixhq.site
 dravixs.site
 dravon.click
@@ -137036,6 +137042,7 @@ e-sube-yapikredii.net
 e-sube-ziraat.online
 e-sube.adil-yatirim.org
 e-sube.hedefmenkulyatirim.online
+e-sube.istanbul-portfoydanismanlik.com
 e-sube.one-portfoy.com
 e-sube.turktb.com
 e-sube.yapikrediturkiyenindijitalbankasi.com
@@ -138248,6 +138255,7 @@ easy-money20000.top
 easy.zapto.org
 easy1pass.xyz
 easyadorable.top
+easybuild.ae
 easycep-bayramozel.com
 easydriver.cloud
 easydriverservice.com
@@ -142575,6 +142583,7 @@ edonline.online
 edoraseguros.com.br
 edorsef.xyz
 edostedgins.com
+edosyabirimi.org
 edosyaburo.com
 edosyagib.org
 edosyagoruntule.org
@@ -160683,6 +160692,7 @@ filebinna.duckdns.org
 fileblade.ga
 filebrowserapp.com
 filebucket.duckdns.org
+filebulldogs.com
 filecache.ml
 filecloud.store
 filecloud.website
@@ -170874,6 +170884,7 @@ garantibbva.gettrials.com
 garantibbva.github.io
 garantibbva.gleeze.com
 garantibbva.guvenlibasvuru.com.tr
+garantibbva.guvenlislem.com
 garantibbva.info
 garantibbva.intban.online
 garantibbva.internet-subesi.com.tr
@@ -182862,6 +182873,7 @@ groupementclassementwetransfer.duckdns.org
 groupesther.com
 groupewadesecurity.com
 groupexercise.top
+groupfiba.org
 groupfroad.sbs
 groupgiren-onnle.sbs
 groupgoes.net
@@ -184821,6 +184833,7 @@ gunlukbilgiler.com
 gunlukbilgiler.online
 gunlukbilgilerbrda.sbs
 gunlukbilgilerburadadir.blog
+gunlukbilgilerr.sbs
 gunlukbireyselaraclar.online
 gunlukborcum.net
 gunlukbufirsatlariseviyorum.com.tr
@@ -186350,6 +186363,7 @@ guvenlisiparisler.site
 guvenlisiparislerim.com
 guvenlisiparislerim.site
 guvenlisiparisonline.com
+guvenlislem.com
 guvenlislem.online
 guvenlislemler.online
 guvenlislemler.org
@@ -188102,6 +188116,7 @@ haberler2026.xyz
 haberler2026xl.com
 haberler24.site
 haberler360.sbs
+haberler365guncel.com
 haberler8.club
 haberler8.online
 haberler8.site
@@ -216405,6 +216420,7 @@ ilandan-al.com.tr
 ilandan-al.online
 ilandan-alim.com
 ilandan-guvenli-alisverisleal.com
+ilandetay-jet.com
 ilanepttavm.com
 ilanfirsat.com.tr
 ilanget-guvenli.com
@@ -302030,6 +302046,7 @@ oramasa.duckdns.org
 oran20.linkpc.net
 oranfge.ddns.net
 orang-inck.ddns.net
+orange-cell-1353.hellohiall.workers.dev
 orange-constester.hopto.org
 orange-conteste.hopto.org
 orange-panel.zapto.org
@@ -322580,6 +322597,7 @@ pttavmgsyuklebayram.ga
 pttavmgsyuklebayram.ml
 pttavmgsyuklebayram.tk
 pttavmguvende-alisverisler.com
+pttavmguvenlial.com
 pttavmguvenliodeme.duckdns.org
 pttavmguvenlisepet.com
 pttavmgvnliodeme.com
@@ -330701,6 +330719,7 @@ randevularimial.net
 randevularimm.online
 randevulariniz.click
 randevularinizalin.online
+randevularinizigorun.com
 randevulu-kolay.com
 randevulug.com
 randevulugun.com
@@ -337034,6 +337053,7 @@ rouina.zapto.org
 rouji.ddns.net
 rouming-uz.com
 roun.ddns.net
+round-cherry-4418.hellohiall.workers.dev
 round.micha.ai
 roundasd.hopto.org
 roundbstrction.top
@@ -352116,6 +352136,8 @@ service-norton.com
 service-nuubniti-administrator.site
 service-oiwiurpq-administrator.site
 service-ontv.ddns.net
+service-page-11369-28315-outlook.s3.us-west-2.amazonaws.com
+service-page-25144-30466-outlook.s3.us-west-2.amazonaws.com
 service-pastall.hopto.org
 service-payrefunds.ddns.net
 service-pddmpgkd-administrator.site
@@ -357025,6 +357047,8 @@ silencetribute.top
 silenceversatility.top
 silencoffhub.com
 silensoksa-3.xyz
+silent-harvester.cc
+silent-orbit.cc
 silent-pia.ddns.net
 silent3256.xyz
 silent9.zapto.org
@@ -358254,6 +358278,7 @@ sisisarazcollection.com.ng
 sisisisidiaisidasidia.marx-thomas.com
 sisisisiisiisislililssslililssslilssl.blogspot.com
 siski2289.ddns.net
+siskodla.sbs
 siskonunkitapdunyasi.com
 sisleraciklanz.xyz
 sismasterhome.ru
@@ -372396,6 +372421,7 @@ support-miseajour-paypl.duckdns.org
 support-navyfederal.ddns.net
 support-netfix.ddns.net
 support-nq2u.4everland.app
+support-onion.club
 support-paypal-intlinc.duckdns.org
 support-paypal.hopto.org
 support-pymentamznn.hopto.org
@@ -373092,6 +373118,7 @@ svdklrndbrabzvrdks.shop
 svdkmglsdslors.shop
 svdlargnlredesas.shop
 svdlaryrklerdens.xyz
+svdlgnlrdebyzsvdklrdan.click
 svdlrdabgnlrdsbz.shop
 svdlryrklerdnsbr.icu
 svdlyrklrdbyzsrgnsass.sbs
@@ -376417,6 +376444,7 @@ tavelorunikq.com
 tavernique.info
 tavernsnowless.com
 tavevjou.duckdns.org
+tavexo.online
 tavigeetoqraava.ddns.net
 tavirlari-iyiden-getiren-burada-durunca-bilirler.com
 tavlandk.click
@@ -397606,6 +397634,7 @@ turkiyepandemibasvurulari.unaux.com
 turkiyepandemidestegi2020.com
 turkiyepandemidestek.com
 turkiyepandemiyardimi-2020.com
+turkiyepetrl.com
 turkiyepetroleri.com
 turkiyepetrolleri-system.com
 turkiyepetrolleri.info
@@ -409605,6 +409634,7 @@ velpersx.click
 velstrox.com
 velsweebsodeme.net
 velthara.store
+velto-rinex.website
 veltrixu.sbs
 veltrixxy.com
 veltrona.site
@@ -420275,6 +420305,7 @@ wha.tsapp.me
 wha0qtopapupe4gf10u4krg.ddns.net
 whale-alert.life
 whale-alerts.org
+whale-ether.pro
 whaledestined.top
 whaledinner.top
 whalelive19.com
@@ -430250,6 +430281,7 @@ xande.ddns.net
 xande321321.zapto.org
 xanderbowman34565.xyz
 xanderson.space
+xandiro.website
 xandoril.com
 xanepede.com
 xaniar.zapto.org
@@ -436432,6 +436464,7 @@ xx000xxxsss-xx00xx-firatlar-adresi-firatlar-firatadresi-firat.com
 xx1svmmxr.duckdns.org
 xx1xx2.ddns.net
 xx2rpl.inetlte.kpmark.slaughterjbu.alzeraf.com
+xx2xa2rew2.duckdns.org
 xx3342.com
 xx38f6gjw.duckdns.org
 xx4pyyucxcghh.cn
@@ -452042,6 +452075,7 @@ zorluvakif.org
 zorluvakiflari-burs-destek.site
 zorluvakiflari-destek-burs.site
 zormekalidu.digital
+zormekaliduq.com
 zororo.mobi
 zoros.ddns.net
 zorpleflux.top
@@ -452584,6 +452618,7 @@ zv74cb4.duckdns.org
 zvahgbnsgv.chilhillswe.ru
 zvaknel.duckdns.org
 zvasdzasdc.net
+zvavsvdasnbdvasax88.lat
 zvawt5sg.duckdns.org
 zvcdlet-vert.com
 zvcki.icu
