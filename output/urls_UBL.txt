@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-06 20:59:34 UTC
-! Total: 361087 rules
+! Last modified: 2026-05-06 22:37:24 UTC
+! Total: 361105 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -13634,6 +13634,7 @@
 *://*.9q1ng6.icu/*
 *://*.9qaxkaskxservicessorgusystem.com/*
 *://*.9qiz.com/*
+*://*.9qplmz4k.sbs/*
 *://*.9rivl0.sbs/*
 *://*.9s8f.cn/*
 *://*.9simvip.cfd/*
@@ -28782,6 +28783,7 @@
 *://*.aldnaldnnfirssxtllri-szllerleyni.net/*
 *://*.aldnaldnnnnnozlfrstlrkpidaaa.tech/*
 *://*.aldnaldnpzrts.store/*
+*://*.aldnbrdayazfrsatlari.com/*
 *://*.aldngeliadi.art/*
 *://*.aldnhizlifirstlaryakindaherzamansizlerleyiz.com.tr/*
 *://*.aldnhizlifirstlaryakindasizlerle.com.tr/*
@@ -43640,6 +43642,8 @@
 *://*.basvursende.online/*
 *://*.basvursendem.sbs/*
 *://*.basvursenden.sbs/*
+*://*.basvursendes.com.tr/*
+*://*.basvursendez.sbs/*
 *://*.basvursfirsati.com/*
 *://*.basvurshn.com.tr/*
 *://*.basvurshn.xyz/*
@@ -64883,6 +64887,7 @@
 *://*.bozro62.xyz/*
 *://*.bozuldudengemxlzlx.com/*
 *://*.bozuntiyz.site/*
+*://*.bozzl.top/*
 *://*.bp-petrol.co/*
 *://*.bp10283.com/*
 *://*.bp4prsdxo3vfexul.com/*
@@ -84638,6 +84643,7 @@
 *://*.crsshoponln.cfd/*
 *://*.crtrskadnkards.cfd/*
 *://*.crtruiofhjg.info/*
+*://*.crtttsaaaonlakcan.xyz/*
 *://*.crucialaggregate.top/*
 *://*.crucialanonymity.top/*
 *://*.crucialdubus.top/*
@@ -120169,6 +120175,7 @@
 *://*.ertesigunkapida26tr.cfd/*
 *://*.ertesigunkapida26trc.com/*
 *://*.ertesssgunlerteslimat1o1le.com/*
+*://*.erthanguvenilir.site/*
 *://*.erthgsc.com/*
 *://*.erthgsm.com/*
 *://*.erthgsv.com/*
@@ -127293,6 +127300,7 @@
 *://*.fibabankhazirkredim.com/*
 *://*.fibabankia.com/*
 *://*.fibabankkredi.ml/*
+*://*.fibabankmenkul.com/*
 *://*.fibabankmobil.com/*
 *://*.fibabankodeme.ml/*
 *://*.fibabankonlinesube.buzz/*
@@ -131009,6 +131017,7 @@
 *://*.fixuplink.com/*
 *://*.fixwap.in/*
 *://*.fixxedlab.com/*
+*://*.fixxsuccess.com/*
 *://*.fiyat-teklifi.com.tr/*
 *://*.fiyatfestivali.online/*
 *://*.fiyati-dusen-urunler-seninle-burada.top/*
@@ -204327,6 +204336,7 @@
 *://*.kpzip.com/*
 *://*.kpzjyui5989608.ua/*
 *://*.kq06diz51h.com/*
+*://*.kq7x2pvm4r.cfd/*
 *://*.kq9m2x4bb7.click/*
 *://*.kqaajpwoyi.gg/*
 *://*.kqbajcansaidska.click/*
@@ -220641,6 +220651,7 @@
 *://*.mmhhrhhrhrrs40.sbs/*
 *://*.mmhhrhhrhrrs41.sbs/*
 *://*.mmhhrhhrhrrs45.sbs/*
+*://*.mmhhrhhrhrrs46.sbs/*
 *://*.mmhhrhhrhrrs5.sbs/*
 *://*.mmhhrhhrhrrs6.sbs/*
 *://*.mmhhrhhrhrrs7.sbs/*
@@ -256815,6 +256826,7 @@
 *://*.prmsynkmpnyanoktasi10.info/*
 *://*.prmsynkmpnyanoktasi10.live/*
 *://*.prmsynkmpnyanoktasi10.pro/*
+*://*.prmsynlarlaaqbkns.com/*
 *://*.prmsynnay.com.tr/*
 *://*.prmsynnbasvrrrrgrntt.click/*
 *://*.prmsynnbsvrrkmpnya.info/*
@@ -266090,6 +266102,7 @@
 *://*.randevunuzmhrs.net/*
 *://*.randevunuzolusturun.com/*
 *://*.randevunuzuogreni.com/*
+*://*.randevunuzuogrenin.com/*
 *://*.randevunuzuolustu.com/*
 *://*.randevunuzuolusturun.com/*
 *://*.randevunuzuyap.com/*
@@ -288984,6 +288997,7 @@
 *://*.sokzincirmarketler.com/*
 *://*.sol-domain.org/*
 *://*.solaceroyalsuper.com/*
+*://*.solakrmas.click/*
 *://*.solananetworkinstance.info/*
 *://*.solaraics.com/*
 *://*.solaraixcs.com/*
@@ -298720,6 +298734,7 @@
 *://*.t1o1comtr.online/*
 *://*.t2bot.ru/*
 *://*.t2lep.site/*
+*://*.t2xq7mv9z.cfd/*
 *://*.t3-tr4m2rs-h2.com/*
 *://*.t31.xyz/*
 *://*.t333rfbtg-yedkanlk.com/*
@@ -334350,6 +334365,7 @@
 *://*.website.tk/*
 *://*.websitedesign.com.mm/*
 *://*.websitedesignhouston.com/*
+*://*.websitegit.lol/*
 *://*.websitekampanyasi.tk/*
 *://*.websitemajesty.top/*
 *://*.websitemo.top/*
@@ -356552,6 +356568,7 @@
 *://*.yuom7.net/*
 *://*.yuordelsoedl.net/*
 *://*.yuosuyoudadaseda.site/*
+*://*.yuotkcaonecaksa.xyz/*
 *://*.yuphgss.com/*
 *://*.yuphsa6qwtg5.online/*
 *://*.yupikredi.com/*
@@ -360658,6 +360675,7 @@
 *://*.zrtfrstlrrrsas.xyz/*
 *://*.zrtfzkrdm.site/*
 *://*.zrtkalim.com/*
+*://*.zrtkmprnsyz.click/*
 *://*.zrtnburdam.com.tr/*
 *://*.zrtnburdam.cyou/*
 *://*.zrtoogbayramaozel.net/*
