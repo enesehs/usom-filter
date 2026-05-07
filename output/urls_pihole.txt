@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-07 21:43:08 UTC
-# Toplam: 453364 Domain
+# Son Güncelleme: 2026-05-07 22:53:49 UTC
+# Toplam: 453377 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26085,9 +26085,11 @@ a1o1nlneee.ru.com
 a1o1o.net
 a1o1ocandrimmleri.net
 a1o1onfskaracandirm.blogdns.com
+a1o1onfskaracandirmpl.blogdns.com
 a1o1onl1ne.com
 a1o1onldnfirsatlarm.blogdns.com
 a1o1onlifirsatlnistbsf.blogspot.com
+a1o1onlifirsatlnistbsfghf.blogspot.com
 a1o1online.jumpingcrab.com
 a1o1online.net
 a1o1onlinealisveriz.com
@@ -52992,6 +52994,7 @@ asweiomex.com
 aswenedo.space
 aswvesgrantifaizsizkrdixass.com
 asx1odetr.net
+asxadl12kl3c12jkx1l23x1.lat
 asxajkymegtfsxqlv.org
 asxasas.2kool4u.net
 asxasx.dravencia.sbs
@@ -96156,6 +96159,7 @@ cebini-mutlu-eden-destekcin-hep-bizdik.com
 cebinizdedenizfirsatin.online
 cebinizdehediyeniz.com
 cebinizdeki-mutluluk-yuzunuze-vuruyor-burada.com.tr
+cebinizdekiglobalekran.duckdns.org
 cebinizden-bonuslar.gq
 cebinize-guzellik-getirdik-simdi-yaninda.com
 cebinize-mutlu-edecek-etkinlik-burada.com
@@ -184866,6 +184870,7 @@ guninfo.guru
 gunisigivakfi.com
 gunivory.top
 gunkampanyasi.net
+gunler-may-lifty.myonlineportal.ch
 gunlerden-kampanya.shop
 gunlerden1701.sbs
 gunlerdenbirguldolanadolana.cfd
@@ -199325,6 +199330,7 @@ hermtheatre.ru
 hernealdiysansimdial.xyz
 hernegelder.com
 hernegligence.top
+hernerdysebolysamam.sbs
 hernetselcan.com
 hernyreklamyn.com
 hero01.press
@@ -206226,6 +206232,7 @@ hizmetiniz-online.com
 hizmetinizburda.com
 hizmetinizin.com.tr
 hizmetinkalitesi-atolyesi.shop
+hizmetinkalitesi-burada.shop
 hizmetinkalitesi-dunyasi.shop
 hizmetinkalitesi-eksperi.shop
 hizmetinkalitesi-farki.shop
@@ -286514,6 +286521,7 @@ netiletisim.org
 netint.digital
 netinternets-my.cloud
 netisube-qnbfinansbank.com
+netkamrfanparaya.2mydns.net
 netkayitresmigiristok-i-govtr.com
 netkirlama.site
 netklop.life
@@ -296633,6 +296641,7 @@ onaylisiparis.com.tr
 onaylisistemselekranlar.sbs
 onaylitekliflerim.com
 onayliurun.name.tr
+onaylnnan-girisvehizmetislemleri.sbs
 onaymerkezi-destek.ml
 onaymerkezi.xyz
 onaymerkezicetelemteb.net
@@ -306308,6 +306317,7 @@ paleshrubbery.top
 palestrand.top
 paletolife.com
 paletsirih.com
+paleturquoise-crow-440042.hostingersite.com
 palevioletred-seahorse-695827.hostingersite.com
 paley.zapto.org
 palifaxbul.com
@@ -363559,6 +363569,7 @@ sonhaberler2026tr.com
 sonhaberler2026xl.com
 sonhaberler360tr.shop
 sonhaberler365tr.cfd
+sonhaberler45331.com
 sonhaberler54465.com
 sonhaberler565.com
 sonhaberlergovtr.ga
@@ -430318,6 +430329,7 @@ x1xsw8mv.duckdns.org
 x20ya3mt.duckdns.org
 x21bxo4v.duckdns.org
 x23k1j2ck312x123k123c12.cfd
+x23k1j2ck312x123k123c12.lat
 x23k1j2ck312x123k123c12.sbs
 x263g.cpapf3.com
 x27bmhta1.duckdns.org
@@ -449986,6 +449998,7 @@ ziraat-islemm.nicepage.io
 ziraat-isube.com
 ziraat-kampanya.com
 ziraat-kampanya.ml
+ziraat-kampanyalar-basvurularin.vercel.app
 ziraat-kampanyalari250.tk
 ziraat-kampanyamiz.com
 ziraat-kampanyasi-besbintl.xyz
