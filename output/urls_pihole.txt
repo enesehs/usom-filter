@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-07 17:28:50 UTC
-# Toplam: 453346 Domain
+# Son Güncelleme: 2026-05-07 19:24:00 UTC
+# Toplam: 453353 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -11596,6 +11596,7 @@
 3123132132131321.duckdns.org
 312323232.duckdns.org
 31234511143343.cloud
+3123x12m3asdm123x.sbs
 31251231.de
 3125123125.cloud
 312545.site
@@ -67183,6 +67184,7 @@ besinciyilozel2022.com
 besinciyilparibozel.com
 besinciylozel.letkstfiindagplaecearwabyfromtheswoxrld.net
 besiol.store
+besiprogrami.nicepage.io
 besjejs.wordpress.com
 beskentgecisyukle.sg-host.com
 beskerebesden.com
@@ -81971,6 +81973,7 @@ bn.mdata.cool
 bn.networkbn.click
 bn0116254team-acc.com
 bn0116254team-acsc1222.com
+bn0b1cvb0c2s2.duckdns.org
 bn14-slcap.com
 bn14-vnblackpacket.com
 bn14-vnblassawkspacket.online
@@ -331023,6 +331026,7 @@ randevuturkiyem.blogspot.com
 randevuu-8e03b839a9da.herokuapp.com
 randevuumda.vip
 randevuzamanim.blogspot.com
+randevuzamanlarida.com
 randevvuumx.b-cdn.net
 randexuc.net
 randkwesd.pro
@@ -391288,6 +391292,7 @@ trcep-bn-tekno-giris2022cfa.ertenler.club
 trcepprbdestek-prbbx2022.com
 trcepte-tebde.com
 trceza.org
+trcezadosya.org
 trcezaesorgu.org
 trcezakamu.org
 trcezamali.org
@@ -405037,6 +405042,7 @@ uzlasmadosyatakip.org
 uzlasmadosyauyap.org
 uzlasmaesorgu.org
 uzlasmagirisuyap.com
+uzlasmagov.org
 uzlasmahukuksorgu.com
 uzlasmakontrol.com
 uzlasmamaliyedosya.com
@@ -411967,6 +411973,7 @@ vgadvznixj.duckdns.org
 vgakfjwxn.com
 vgako.duckdns.org
 vgames2021.com
+vgarantiveyonetimmerkezi.space
 vgasamwsa.shop
 vgatplo.com
 vgazbwj.net
