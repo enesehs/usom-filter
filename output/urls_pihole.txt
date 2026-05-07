@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-07 01:28:33 UTC
-# Toplam: 453121 Domain
+# Son Güncelleme: 2026-05-07 05:23:12 UTC
+# Toplam: 453139 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9573,6 +9573,7 @@
 2375enliler.sbs
 2375lerdeyiz.sbs
 2375liler.sbs
+237727232basvuru.fixip.org
 237873221.corolain.ru
 23789462-8475322.com
 23796125497812560986.com
@@ -45616,6 +45617,7 @@ anadolutakibmarketing.blogspot.com
 anadolutakibmarketing.com
 anadolutrack.com
 anadolutrafiksigorta.com
+anadolutrend.com
 anadoluvakifbursu.com
 anadoluya.org
 anadoluyatirim-portfoy.com
@@ -60406,6 +60408,7 @@ basvru-destek-platformu-aidat-iadesi-ozel.xyz
 basvru-destek-platformu-aidat-iadesi.xyz
 basvru-eiadesorguportal.com
 basvru-eiadesorguportl.com
+basvru-merkkzei.cfd
 basvru-online.com.tr
 basvru-tr-tr-tr.shop
 basvru-tr-tr.shop
@@ -101541,6 +101544,7 @@ claroic.top
 claronqual.gruposenhordobonfim.org
 clarvix.sbs
 clas-c7.biz
+clasare.com.tr
 clases.pastorluiscastro.com
 clashbenevolent.top
 clashshrewd.top
@@ -187887,6 +187891,7 @@ haber250.club
 haber250.online
 haber250.site
 haber250.website
+haber2543.cfd
 haber256.com
 haber258tr.shop
 haber350.online
@@ -188225,6 +188230,7 @@ habermerkez.website
 habermerkez.xyz
 habermerkez55.shop
 habermerkezgenel.com
+habermerkezi.cfd
 habermerkezi.my-homeip.com
 habermerkezi.shop
 habermerkezi1.site
@@ -210779,6 +210785,7 @@ hwng8dpx.pro
 hwnhnhpqen.net
 hwnppemeea.net
 hwnvh0h.duckdns.org
+hwol683028.fixip.org
 hwomfxrpvdzkavlxhxj.xyz
 hword.xyz
 hwoyxq7.duckdns.org
@@ -235483,6 +235490,7 @@ jkknml7j.duckdns.org
 jkl111best.blogspot.com
 jklvmnbvnd.net
 jklwang.com
+jkmghfnvkhjnvhbg.xyz
 jkmrhefu.duckdns.org
 jkn9gmpd.duckdns.org
 jknexwgvlf.duckdns.org
@@ -258100,6 +258108,7 @@ legensdarycin.com
 leger--wilteliv.webflow.io
 leger-livelogoonz.webflow.io
 leggelatez.lat
+legi-mi-g-r-t.myonlineportal.ch
 legimos.gt.tc
 legioo8w.duckdns.org
 legislateconvergence.top
@@ -275628,6 +275637,7 @@ mobildefirrsatlar.vercel.app
 mobildefirsatincepteonline.tech
 mobildefirsatv2-deniz.top
 mobildefirsatv2deniz.top
+mobildehizmetlerimsizde.duckdns.org
 mobildekampanya.com
 mobildekazan.site
 mobildeki-giris.vip
@@ -318817,6 +318827,7 @@ privacysign.org
 privacytools.xyz
 privacytoolsforyou.site
 privacyvault-coinbase.com
+privalnexor.com
 privat-bankau.com
 privatbank-ua.com
 privatdoma.cfd
@@ -326212,6 +326223,7 @@ qeloravi.com
 qelundo.pro
 qelvorni.vu
 qemaxilur.com
+qemlavun.buzz
 qemswwsqhh.info
 qemszieppg.duckdns.org
 qemtd0e.duckdns.org
@@ -329592,6 +329604,7 @@ r7nx1um.duckdns.org
 r7qmcw6bk.duckdns.org
 r7v0g9lt.duckdns.org
 r7vvvoy8l.duckdns.org
+r7vx2m.cfd
 r7woez9f.duckdns.org
 r7ypuav.duckdns.org
 r8.ddns.net
@@ -345377,6 +345390,7 @@ sanalavmp-ttmarket.com
 sanalbireysel-ziraat.website
 sanalcilar.online
 sanalcilar.org
+sanalcilarsystem.pro
 sanalclar.site
 sanaldabrdacalsyor.org
 sanaldaire.siradabeklemeden.biz
@@ -411991,6 +412005,7 @@ vid4droid.com
 vidacircular.cl
 vidalocasonormale.org
 vidar.red
+vidasana-diaria.life
 vidassesspro.com
 vidayvalor.org
 viddeos.red
@@ -430110,6 +430125,7 @@ x2zu3y.duckdns.org
 x311x1313.great-site.net
 x320a4or.duckdns.org
 x3283473248.click
+x32bc232.duckdns.org
 x34529495962.xyz
 x39ik0.duckdns.org
 x39ks3su.cn
@@ -438003,6 +438019,7 @@ yapidan-hediye.epizy.com
 yapidan-kampanya.epizy.com
 yapidan-kampanyalarimiz.epizy.com
 yapidan-veriyoruzhediyeler.epizy.com
+yapidan.fixip.org
 yapidan.kolayislemler.com
 yapidan10gbhediyeler.com
 yapidan1hediyee.com
@@ -443579,6 +443596,7 @@ ygfpc59gu.duckdns.org
 ygha02.duckdns.org
 yghah6z.top
 yghjbuaoxa.duckdns.org
+yghsajfsjagfasax99.xyz
 yghtfghe.duckdns.org
 yghvivvvij.ddns.net
 ygidisy.sg-host.com
