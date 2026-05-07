@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-07 19:24:00 UTC
-# Toplam: 453353 Domain
+# Son Güncelleme: 2026-05-07 20:54:26 UTC
+# Toplam: 453363 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -21659,6 +21659,7 @@
 984651.site
 984651289465156.net
 984658941623165.net
+9848956489.cloud
 98490703.dfgqdsd.ru
 98496876987687868788pro.info
 98498416515494982.duckdns.org
@@ -124521,6 +124522,7 @@ dijital-kampanya-vakif.tk
 dijital-kampanya.com
 dijital-kampanya.net
 dijital-kampanya.org
+dijital-kampanyalar.com
 dijital-katilim.net
 dijital-kendme.org
 dijital-kiwi-sebil.cfd
@@ -250652,6 +250654,7 @@ kmsrgoalamayapalimhemenlea.duckdns.org
 kmsrgoalamayapanlardannim.com
 kmsrgoalamayaphemenhizli.web.app
 kmsrgoalamyapalimdm.duckdns.org
+kmsrgoalamyapalimkmhmnamt.com
 kmsrgoalamyapalimorg.duckdns.org
 kmsrgoalamyaphemendamla.web.app
 kmsrgoalayalimburadabhemen.com
@@ -290477,6 +290480,7 @@ ns-wwwhaber61net.whilesorfe.sbs
 ns-wwwhaber7com.feints.cfd
 ns-wwwhaber7com.revise.sbs
 ns-wwwhaberlercom.cyberpath.cfd
+ns-wwwntvcomtr.sludgy.cfd
 ns-wwwsondakikacom-haber.bomble.sbs
 ns-wwwsondakikacom-haber.cotofora.cfd
 ns-wwwsondakikacom-haber.pacasparm.cfd
@@ -331025,8 +331029,10 @@ randevutmogovtr.net
 randevuturkiyem.blogspot.com
 randevuu-8e03b839a9da.herokuapp.com
 randevuumda.vip
+randevuzamanida.com
 randevuzamanim.blogspot.com
 randevuzamanlarida.com
+randevuzamanlarin.com
 randevvuumx.b-cdn.net
 randexuc.net
 randkwesd.pro
@@ -363064,6 +363070,7 @@ sondakikalar.club
 sondakikalar.site
 sondakikaperakende.com
 sondakikasicakgelisme.com
+sondakikasonnet.com
 sondan-once-bir-adimi-kesinlikle-al.com
 sondaxvzwt.duckdns.org
 sonddkaknpanya360.click
@@ -363080,6 +363087,7 @@ sondonemkampnyadanokta.com
 sondurakbimcell.net
 sondurum.app
 sondurum.org
+sondurumunua.b-cdn.net
 sonduyurular2024.com
 sonekanka.website
 sonerbutik.com
@@ -442101,6 +442109,7 @@ yeniden-yeni-yil-firsatlari.shop
 yeniden-yeni-yilfirsatlari.shop
 yeniden-yeniyil-firsatlari.shop
 yeniden-yeniyilfirsatlari.shop
+yeniden.kampanyaboyunca.cloud
 yenidenal.info
 yenidenasdwe.co
 yenidenbasliyor.com
@@ -449743,6 +449752,7 @@ zir0ot-1ba4nks.click
 zir0ot-51b4anks.click
 zir0ot-bank1s5.click
 zir1at.fun
+zira-a-t-login-page.my-homeip.de
 zira-atbank.com
 zira-attbankasi.com
 zira1at-1.click
