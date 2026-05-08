@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-08 04:44:51 UTC
-# Toplam: 453388 Domain
+# Son Güncelleme: 2026-05-08 06:25:37 UTC
+# Toplam: 453417 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15988,6 +15988,7 @@
 565412325123.cloud
 5654343.duckdns.org
 56545123.cloud
+5654886546413216.duckdns.org
 565545454xc4312321.cfd
 565554657879.cloud
 5655788777.cloud
@@ -40367,6 +40368,7 @@ aktuel-kampnylarfirsa34tlari334.com
 aktuel-kapida.name.tr
 aktuel-kapinda-marketi-tr.online
 aktuel-kasimfirsatlari.com
+aktuel-katalogumm.shop
 aktuel-kurumsal-satis.com
 aktuel-kurumsal-satisi.com
 aktuel-kurumsalsatis.com
@@ -51334,6 +51336,7 @@ artistikconcepts.com
 artistlogistics.net
 artistryhab.shop
 artistsavage.top
+artivun.sbs
 artizaa.com
 artkom-apps.ddns.net
 artlifelondon.com
@@ -67246,6 +67249,7 @@ best4x.online
 best85best.online
 bestadll.fghytr.com
 bestallcounter.ru
+bestandboy.shop
 bestappall.top
 bestartdonecontrol.com
 bestasonline.com
@@ -85917,6 +85921,7 @@ brasqeni.live
 brass.snailtracebrass.com
 brasscivic.top
 brasscompassionate.top
+brassframeweapon.com
 brasshawk.top
 brassintercourse.top
 brasssue.top
@@ -89925,6 +89930,7 @@ burdayiz.app
 burdayizsizler.shop
 burdayuzbirs.duckdns.org
 burdayzhepsiznleyiz.site
+burdayzsendegelkatl89.click
 burdbulduklarinizdnsize.com
 burdbulduklarinizdnsize.info
 burdbulduklarinizdnsize.online
@@ -107928,6 +107934,7 @@ couchwealth.top
 coucou.zapto.org
 coudzoom.ru
 couelconser.top
+cougarhookjaw.com
 coughpreorder.com
 couimp.com
 couinbaixetnion.webflow.io
@@ -129839,6 +129846,7 @@ dremom2.duckdns.org
 dremrentsfilo.online
 drenkihs.zapto.org
 drenostavik.digital
+drenostavik.gifts
 drerseesx2.dns.navy
 dresatl.info
 dresoklanfirsatlan1o1.xyz
@@ -151959,6 +151967,7 @@ esnoptdkkiirzewlpgmccbwuynvxjumf.name
 esnupote.site
 esnuxi.site
 esnxkus.duckdns.org
+esoayfo.finksbish.sbs
 esofiuyrddfedd.xyz
 esofmansetleri.store
 esoftwareupdates.com
@@ -172241,6 +172250,7 @@ garantionlineislemler.click
 garantionlineislemler.co.vu
 garantionlinekredi.help
 garantionlinemobil-sube.com
+garantionlinemobil.site
 garantionlinemobilsube.com
 garantionlinenb.com
 garantionlinestr.com
@@ -180225,6 +180235,7 @@ goldapple.156953coinbase.com
 goldass.fundeble.com
 goldauth.ddns.net
 goldberg6.xyz
+goldblueapp.shop
 goldbutik.xyz
 goldcarsrental.com
 goldclick.net
@@ -205364,6 +205375,7 @@ hizlikmsorglma.web.app
 hizlikmsorgular.web.app
 hizlikmsorgularim.xyz
 hizlikmsorgularimchp.web.app
+hizlikmsrglma.xyz
 hizliknle-295115bb51f1.herokuapp.com
 hizlikntbsvurular.duckdns.org
 hizlikntyuklemesi.2kool4u.net
@@ -253909,6 +253921,7 @@ krekaneilogin.webflow.io
 krekcenlogin.webflow.io
 krekspeks.site
 krelavonuti.digital
+krelavonuti.gifts
 krellix.com
 krelmora.com
 krelora.store
@@ -262829,6 +262842,7 @@ luminowox.com
 lumisurge.live
 lumivaroc.com
 lumivo.sbs
+lumixin.xyz
 lumixors.com
 lumlummlekko.com
 lummeenvara.com
@@ -271663,6 +271677,7 @@ metabizisevmiyor.myvnc.com
 metabluebadgecenter.com
 metabluebadgeq.com
 metabolicbenevolence.top
+metabolicflux.com
 metabolicpoised.top
 metabolismaristocrat.top
 metabolismcluster.top
@@ -282542,6 +282557,7 @@ mvdllll102lllllmvd.store
 mvdlllll102llllllmvd.store
 mvdpfjgembpjlckjr.me
 mvdt-bsvr-cdyt.com
+mvduatw221xe2.duckdns.org
 mvfglpztdk.com
 mvfjnuvqqhkk.ru
 mvfnbqfbigsoywvmj.com
@@ -286577,6 +286593,7 @@ netnet.name.tr
 netobe0abc65628e.duckdns.org
 netoftime.com
 netolr.fanclub.rocks
+netorbit.sbs
 netovrema.pw
 netoyun.org
 netpairbxiardrop.com
@@ -290226,6 +290243,7 @@ novinitie.com
 novinsazvar.com
 novipppp.com
 novitium.ca
+novixun.com
 novkhany.xyz
 novmintservices.com
 novnox.ddns.net
@@ -315490,6 +315508,7 @@ plausiblespiral.top
 plaveient.store
 plavton.com
 plaxenorudi.digital
+plaxenorudi.gifts
 play-google-com-store-hl-tr-e-devlet.tk
 play-google.site
 play-googyle.com
@@ -332148,6 +332167,7 @@ realtimeecho.online
 realtimenews.tk
 realtradebot.icu
 realtrustcoin.com.tr
+realturk.company
 realturkprof.com
 realty.yourpgcountyliving.com
 realtyypro.com
@@ -337236,6 +337256,7 @@ rosycorporal.top
 rosyparcel.com
 rosypct.top
 rosyperch.top
+rosytouch.news
 rosywish.com
 rota.itemdb.com
 rotaflex.com.tr
@@ -341175,7 +341196,9 @@ sahibinden-get.guvenilir-odeme.com
 sahibinden-get.guvenli-alisverislerim.sa.com
 sahibinden-get.guvenli-odemelerim.pro
 sahibinden-get.hizmetl1.com
+sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanlarimiz.com.pl
+sahibinden-get.ilanservisnhizmet.com
 sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
 sahibinden-get.islem-guvence-hizmet.com.tr
@@ -352679,6 +352702,7 @@ servis-garanti.my-homeip.com
 servis-hizmeti.online
 servis-hizmetim.online
 servis-hizmetin.online
+servis-hizmetlerim.online
 servis-muayene.net
 servis-onayla.com
 servis-onlinetrafik12.dev
@@ -361888,6 +361912,7 @@ sokalisveris.com
 sokalisverls.com.tr
 sokampanya.net.tr
 sokaralikindirimleri.com
+sokayfrstlar.sudehzndrogl.workers.dev
 sokbavulkampanya.com.tr
 sokbayramaozel.online
 sokbayramaozel.xyz
@@ -378893,6 +378918,7 @@ tebdendenebasvurukredilerini.click
 tebdenemesc.duckdns.org
 tebdenhemen-basvuru.com
 tebdenonline-basvurun.com
+tebdenpromosyon.my-homeip.de
 tebdeonlinebasvurlarimylk.site
 tebdestek.com.tr
 tebdevasbuvurular.site
@@ -390910,6 +390936,7 @@ travelvault.pics
 traversecityspringbreak.com
 travessantheria.lat
 travewlio.shop
+travimin.org
 travinfor.com
 traviscos.ddns.net
 traviskiralama.site
@@ -391612,6 +391639,7 @@ trendauto.buzz
 trendav.vip
 trendbasket.click
 trendbayat.com
+trendbeat.world
 trendbeatr.website
 trendbolster.top
 trendburasigelal.online
@@ -409965,6 +409993,7 @@ vendflow.xyz
 vendigo.gifts
 vendivity.com
 vendjksld.duckdns.org
+vendora.bond
 vendorax.gifts
 vendorilleracy.top
 vendorplateau.top

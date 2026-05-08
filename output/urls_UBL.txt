@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-08 04:44:51 UTC
-! Total: 361333 rules
+! Last modified: 2026-05-08 06:25:37 UTC
+! Total: 361357 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -27020,6 +27020,7 @@
 *://*.aktuel-kapida.name.tr/*
 *://*.aktuel-kapinda-marketi-tr.online/*
 *://*.aktuel-kasimfirsatlari.com/*
+*://*.aktuel-katalogumm.shop/*
 *://*.aktuel-kurumsal-satis.com/*
 *://*.aktuel-kurumsal-satisi.com/*
 *://*.aktuel-kurumsalsatis.com/*
@@ -35956,6 +35957,7 @@
 *://*.artistlogistics.net/*
 *://*.artistryhab.shop/*
 *://*.artistsavage.top/*
+*://*.artivun.sbs/*
 *://*.artizaa.com/*
 *://*.artlifelondon.com/*
 *://*.artlimp.top/*
@@ -48699,6 +48701,7 @@
 *://*.best4x.online/*
 *://*.best85best.online/*
 *://*.bestallcounter.ru/*
+*://*.bestandboy.shop/*
 *://*.bestappall.top/*
 *://*.bestartdonecontrol.com/*
 *://*.bestarticlespinnerr.com/*
@@ -65164,6 +65167,7 @@
 *://*.brasqeni.live/*
 *://*.brasscivic.top/*
 *://*.brasscompassionate.top/*
+*://*.brassframeweapon.com/*
 *://*.brasshawk.top/*
 *://*.brassintercourse.top/*
 *://*.brasssue.top/*
@@ -68696,6 +68700,7 @@
 *://*.burdayiz.app/*
 *://*.burdayizsizler.shop/*
 *://*.burdayzhepsiznleyiz.site/*
+*://*.burdayzsendegelkatl89.click/*
 *://*.burdbulduklarinizdnsize.com/*
 *://*.burdbulduklarinizdnsize.info/*
 *://*.burdbulduklarinizdnsize.online/*
@@ -83531,6 +83536,7 @@
 *://*.couchwealth.top/*
 *://*.coudzoom.ru/*
 *://*.couelconser.top/*
+*://*.cougarhookjaw.com/*
 *://*.coughpreorder.com/*
 *://*.couimp.com/*
 *://*.couits.org/*
@@ -101165,6 +101171,7 @@
 *://*.dremrentsfilo.online/*
 *://*.drennonmarketingreviews.com/*
 *://*.drenostavik.digital/*
+*://*.drenostavik.gifts/*
 *://*.dresatl.info/*
 *://*.dresoklanfirsatlan1o1.xyz/*
 *://*.dresokunavi.gifts/*
@@ -128595,6 +128602,7 @@
 *://*.finiteddictive.top/*
 *://*.finitedepreciate.top/*
 *://*.finitehypocrisy.top/*
+*://*.finksbish.sbs/*
 *://*.finlaysir.com/*
 *://*.finleyvillez.com/*
 *://*.finlocalnews.com/*
@@ -136948,6 +136956,7 @@
 *://*.garantionlineislemler.click/*
 *://*.garantionlinekredi.help/*
 *://*.garantionlinemobil-sube.com/*
+*://*.garantionlinemobil.site/*
 *://*.garantionlinemobilsube.com/*
 *://*.garantionlinenb.com/*
 *://*.garantionlinestr.com/*
@@ -143608,6 +143617,7 @@
 *://*.gold6hunter.xyz/*
 *://*.gold7chain.xyz/*
 *://*.goldberg6.xyz/*
+*://*.goldblueapp.shop/*
 *://*.goldbutik.xyz/*
 *://*.goldcarsrental.com/*
 *://*.goldclick.net/*
@@ -165444,6 +165454,7 @@
 *://*.hizlikmomo.cfd/*
 *://*.hizlikmpnyaalour.xyz/*
 *://*.hizlikmsorgularim.xyz/*
+*://*.hizlikmsrglma.xyz/*
 *://*.hizlikolay.shop/*
 *://*.hizlikolaypaketal.net/*
 *://*.hizlikontoryukle.xyz/*
@@ -174880,6 +174891,7 @@
 *://*.ilansepetler.com/*
 *://*.ilanservis-jethizmet.com/*
 *://*.ilanservisiniz-jet.com/*
+*://*.ilanservisnhizmet.com/*
 *://*.ilanticaret-siparisodeme.shop/*
 *://*.ilantr-sahibinden.com/*
 *://*.ilanurunlerim.com.tr/*
@@ -205459,6 +205471,7 @@
 *://*.kreiedek23152375.online/*
 *://*.krekspeks.site/*
 *://*.krelavonuti.digital/*
+*://*.krelavonuti.gifts/*
 *://*.krellix.com/*
 *://*.krelmora.com/*
 *://*.krelora.store/*
@@ -212106,6 +212119,7 @@
 *://*.lumisurge.live/*
 *://*.lumivaroc.com/*
 *://*.lumivo.sbs/*
+*://*.lumixin.xyz/*
 *://*.lumixors.com/*
 *://*.lumlummlekko.com/*
 *://*.lummeenvara.com/*
@@ -218808,6 +218822,7 @@
 *://*.metabluebadgecenter.com/*
 *://*.metabluebadgeq.com/*
 *://*.metabolicbenevolence.top/*
+*://*.metabolicflux.com/*
 *://*.metabolicpoised.top/*
 *://*.metabolismaristocrat.top/*
 *://*.metabolismcluster.top/*
@@ -230389,6 +230404,7 @@
 *://*.netneredenetyoklanet.net/*
 *://*.netnet.name.tr/*
 *://*.netoftime.com/*
+*://*.netorbit.sbs/*
 *://*.netovrema.pw/*
 *://*.netoyun.org/*
 *://*.netpairbxiardrop.com/*
@@ -233115,6 +233131,7 @@
 *://*.novinsazvar.com/*
 *://*.novipppp.com/*
 *://*.novitium.ca/*
+*://*.novixun.com/*
 *://*.novkhany.xyz/*
 *://*.novmintservices.com/*
 *://*.novo-dime.com/*
@@ -254036,6 +254053,7 @@
 *://*.plaveient.store/*
 *://*.plavton.com/*
 *://*.plaxenorudi.digital/*
+*://*.plaxenorudi.gifts/*
 *://*.play-google-com-store-hl-tr-e-devlet.tk/*
 *://*.play-google-store.ru/*
 *://*.play-google.site/*
@@ -266961,6 +266979,7 @@
 *://*.realtimenews.tk/*
 *://*.realtradebot.icu/*
 *://*.realtrustcoin.com.tr/*
+*://*.realturk.company/*
 *://*.realturkprof.com/*
 *://*.realtyypro.com/*
 *://*.realvar.com/*
@@ -270810,6 +270829,7 @@
 *://*.rosyparcel.com/*
 *://*.rosypct.top/*
 *://*.rosyperch.top/*
+*://*.rosytouch.news/*
 *://*.rosywish.com/*
 *://*.rotaflex.com.tr/*
 *://*.rotaflex.xyz/*
@@ -280698,6 +280718,7 @@
 *://*.servis-hizmeti.online/*
 *://*.servis-hizmetim.online/*
 *://*.servis-hizmetin.online/*
+*://*.servis-hizmetlerim.online/*
 *://*.servis-islem.online/*
 *://*.servis-muayene.net/*
 *://*.servis-onayla.com/*
@@ -312021,6 +312042,7 @@
 *://*.traversecityspringbreak.com/*
 *://*.travessantheria.lat/*
 *://*.travewlio.shop/*
+*://*.travimin.org/*
 *://*.travinfor.com/*
 *://*.traviskiralama.site/*
 *://*.travislekirala.com.tr/*
@@ -312637,6 +312659,7 @@
 *://*.trendav.vip/*
 *://*.trendbasket.click/*
 *://*.trendbayat.com/*
+*://*.trendbeat.world/*
 *://*.trendbeatr.website/*
 *://*.trendbolster.top/*
 *://*.trendburasigelal.online/*
@@ -327769,6 +327792,7 @@
 *://*.vendflow.xyz/*
 *://*.vendigo.gifts/*
 *://*.vendivity.com/*
+*://*.vendora.bond/*
 *://*.vendorax.gifts/*
 *://*.vendorilleracy.top/*
 *://*.vendorplateau.top/*
