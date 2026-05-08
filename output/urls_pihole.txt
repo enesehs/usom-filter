@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-08 21:45:20 UTC
-# Toplam: 453507 Domain
+# Son Güncelleme: 2026-05-08 22:42:26 UTC
+# Toplam: 453524 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -15240,6 +15240,7 @@
 500bintoplukonutprojeleri-toki-basladi-2025.sbs
 500bintplu-knt.com
 500bintplukntbsvru2026.com
+500binucak.cyou
 500binucak.sbs
 500binyerlesim.com
 500binyerlesimi.com
@@ -65810,6 +65811,7 @@ bdwwvussbz.duckdns.org
 bdxmcellaksam.com
 bdxmcellsabahim.com
 bdydkteklsnki.mooo.com
+bdyoutube.com
 bdzdfsdf.cf
 bdzdfsdf.gq
 bdzdfsdf.ml
@@ -89699,6 +89701,7 @@ buradayiz.850numara.com.tr
 buradayiz.app
 buradayiz.shop
 buradayizbiz.net
+buradayizbiz.sbs
 buradayizteb.online
 buradayuzunuzgulecek.com
 buradnxaa.cfd
@@ -144424,6 +144427,7 @@ ehmyvsb.duckdns.org
 ehngcmiaw.com
 ehnnquhlpt.duckdns.org
 ehoeqemwswx.net
+ehome-grn-gir.pro
 ehomedxy.net
 ehonlionetodo.com
 ehostapps.space
@@ -169423,6 +169427,7 @@ gamerhub.forum
 gameriot.top
 gamerly.sbs
 gamerocker.net
+gamerol.click
 gamerpin34laalin.com
 gamerx133.ddns.net
 gamerzz.ddns.net
@@ -240359,6 +240364,7 @@ kampanyaizinleri.com
 kampanyak6.store
 kampanyakacirmaal.duckdns.org
 kampanyakanali.com
+kampanyakapimizdayakalamaburada.xyz
 kampanyakapinda.com.tr
 kampanyakapinda.trade
 kampanyakapisi.biz.tr
@@ -273076,6 +273082,7 @@ migros-indirim.com.tr
 migros-mall.com
 migros-marketcepte.vercel.app
 migros-marketsanal.vercel.app
+migros-mobilgiris.vercel.app
 migros-mobilmarket.vercel.app
 migros-online.vercel.app
 migros-onlineextra.vercel.app
@@ -331888,6 +331895,7 @@ rcmsf100.net
 rcnfirmappcheck.duckdns.org
 rcnfrms-safety-app.duckdns.org
 rco.ddns.net
+rconekttutk.online
 rconhomne.ddns.net
 rcpk.co.za
 rcqpumostn.duckdns.org
@@ -363673,6 +363681,7 @@ sonhaber.xyz
 sonhaber24.hol.es
 sonhaberbox.gifts
 sonhaberler.online
+sonhaberler1122.com
 sonhaberler2026.co
 sonhaberler2026bilgi.com
 sonhaberler2026tr.com
@@ -369367,6 +369376,7 @@ stockdepletion.top
 stockfocus.info
 stockholm-blog.hopto.org
 stockholmenginer.com
+stockib.com
 stockinfo.io
 stockingauctioneer.top
 stockingdiscord.top
@@ -373172,6 +373182,7 @@ surekli-gelmez-sizlere-yeniden-bizimle.com
 surekli-kargotakibi360.com
 surekligir8.b-cdn.net
 surekliguncel.online
+sureklihissettiren.click
 surekliyedek.online
 sureknob.top
 surelifrsatlara1o1kazanda.duckdns.org
@@ -390819,6 +390830,7 @@ transfer-google.tk
 transfer-hizmet-iadesi-portal-guvenli-devlet2021.xyz
 transfer-hizmet-iadesi-portal-guvenli-e-devlet2021.xyz
 transfer-intranet.ru.com
+transfer-merketin.com
 transfer-mortgage.za.com
 transfer-online.xyz
 transferai-all.s3.dualstack.ap-southeast-1.amazonaws.com
@@ -400126,6 +400138,7 @@ u1od2xue.duckdns.org
 u1q5rrr3.forms.app
 u1sh52.duckdns.org
 u1smraxi.duckdns.org
+u1xm0ctj7nxa5eo1.passau-kleinanzeigen.de
 u20ka3r7j.duckdns.org
 u20qxs.duckdns.org
 u21xa4kth.duckdns.org
@@ -441028,6 +441041,7 @@ yaz-kampan-yazi.org
 yaz-kampanyamiz.art
 yaz-kampanyamz.net
 yaz-kampanyasi.com
+yaz-promosyonu-tebden.my-homeip.de
 yaz-sicaginda-rahat-konforlu-yasam.com
 yaz-sn-kmp.sbs
 yaz-try-loginweb.xyz
@@ -448631,6 +448645,7 @@ zamankampanyazamani.online
 zamankampanyazamani.xyz
 zamankaybetmez.xyz
 zamankayibin.xyz
+zamanlagelengidermi.com
 zamanlar-hayaller-derinlikler-uzaklar.com
 zamanlari-com-tr.sbs
 zamanlari.com
@@ -449333,6 +449348,7 @@ zephyrhive.online
 zephyrhype.com
 zephyrorbit.shop
 zephyroswindlab.click
+zephyrty.top
 zeplin.atwebpages.com
 zeplinsca3rs2.site
 zeptn.com
@@ -449929,6 +449945,7 @@ ziraaattm0billemeklibsvruu.ip-ddns.com
 ziraaattrkyckls.com
 ziraaaxtttkredddi.xyz
 ziraab.com
+ziraabasvu.nicepage.io
 ziraabasvuri.com
 ziraabasvurl.com
 ziraabasvurukayit.com
