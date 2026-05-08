@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-08 12:01:58 UTC
-! Total: 361383 rules
+! Last modified: 2026-05-08 14:28:01 UTC
+! Total: 361401 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -12352,6 +12352,7 @@
 *://*.808checker.pro/*
 *://*.808checker.shop/*
 *://*.808checker.site/*
+*://*.808checker.space/*
 *://*.808checker.store/*
 *://*.808checker.website/*
 *://*.808checker.xyz/*
@@ -49582,6 +49583,7 @@
 *://*.bigddunnriteroofinginc.net/*
 *://*.bigddunnriteroofinginc.org/*
 *://*.bigdealcenter.world/*
+*://*.bigdes.site/*
 *://*.bigerfriend.com/*
 *://*.bigextreme22.xyz/*
 *://*.bigeznola.com/*
@@ -162217,6 +162219,7 @@
 *://*.hgsgztykleme.net/*
 *://*.hgshaciz.in/*
 *://*.hgshasarkaydi.com/*
+*://*.hgshasdsaf.xyz/*
 *://*.hgshasoyilmazykle.net/*
 *://*.hgshayathayatbtw.tk/*
 *://*.hgshayattir.tk/*
@@ -174749,6 +174752,7 @@
 *://*.ilaninizguvende.com/*
 *://*.ilaninizmobil.com/*
 *://*.ilanislemleri.com/*
+*://*.ilanjet-hizmetler.com/*
 *://*.ilanlar-aktif.com.tr/*
 *://*.ilanlar-al.com.tr/*
 *://*.ilanlar-anasayfa.com/*
@@ -184913,6 +184917,8 @@
 *://*.istanbullyklmss.com/*
 *://*.istanbulm-yukleme.online/*
 *://*.istanbulmaxi.shop/*
+*://*.istanbulmefbizim.xyz/*
+*://*.istanbulmefbizimle.xyz/*
 *://*.istanbulmemis.com/*
 *://*.istanbulmerkez.click/*
 *://*.istanbulmerkezler.com.tr/*
@@ -202674,6 +202680,7 @@
 *://*.kmpnyaprmsyngrntt.info/*
 *://*.kmpnyaprmsyngrntt.live/*
 *://*.kmpnyaprmsyngrntt.pro/*
+*://*.kmpnyaprmsynn0nb.info/*
 *://*.kmpnyaprmsynn0nb.live/*
 *://*.kmpnyaprmsynn0nb.pro/*
 *://*.kmpnyaprmsynnnncklss.pro/*
@@ -214292,6 +214299,7 @@
 *://*.malimusavirariyoruz.cfd/*
 *://*.malimusavirariyoruz2.cfd/*
 *://*.malinapps2.xyz/*
+*://*.maliportal.net/*
 *://*.malisorgu.net/*
 *://*.malisorgusistem.com/*
 *://*.malisorgutc.org/*
@@ -219369,6 +219377,7 @@
 *://*.mhgtheatre.ru/*
 *://*.mhhfzxt.info/*
 *://*.mhhhrrrrrrrrrrs.sbs/*
+*://*.mhhmmhrs.app/*
 *://*.mhhrrss.com/*
 *://*.mhhrrssrandvvunal.com/*
 *://*.mhhrsrsrhshrscs.net/*
@@ -220808,6 +220817,10 @@
 *://*.mmhhrhhrhrrs46.sbs/*
 *://*.mmhhrhhrhrrs47.sbs/*
 *://*.mmhhrhhrhrrs5.sbs/*
+*://*.mmhhrhhrhrrs50.sbs/*
+*://*.mmhhrhhrhrrs51.sbs/*
+*://*.mmhhrhhrhrrs52.sbs/*
+*://*.mmhhrhhrhrrs54.sbs/*
 *://*.mmhhrhhrhrrs6.sbs/*
 *://*.mmhhrhhrhrrs7.sbs/*
 *://*.mmhhrhhrhrrs9.sbs/*
@@ -220816,6 +220829,7 @@
 *://*.mmhrxsranndevv.org/*
 *://*.mmi-elr.xyz/*
 *://*.mmifkxjwugxeepu.su/*
+*://*.mmisjr.cc/*
 *://*.mmj93rnfk.ru/*
 *://*.mmjhnb.buzz/*
 *://*.mmkemal59.com/*
@@ -227835,8 +227849,10 @@
 *://*.my-redirect-1000.online/*
 *://*.my-redirect-120.top/*
 *://*.my-redirect-125.top/*
+*://*.my-redirect-130.top/*
 *://*.my-redirect-145.top/*
 *://*.my-redirect-2.online/*
+*://*.my-redirect-210.top/*
 *://*.my-redirect-3.online/*
 *://*.my-redirect-4.online/*
 *://*.my-redirect-5.online/*
@@ -319001,6 +319017,7 @@
 *://*.tuvturaracmuaynehizmeti.com/*
 *://*.tuvturaracmuayneservislerimiz.com/*
 *://*.tuvturk-a.digital/*
+*://*.tuvturk-adk.com/*
 *://*.tuvturk-aps.app/*
 *://*.tuvturk-arac-islem.net/*
 *://*.tuvturk-arac.com/*
@@ -358113,6 +358130,7 @@
 *://*.zendesk.com/*
 *://*.zeneditor.tech/*
 *://*.zenform.online/*
+*://*.zenfract.vip/*
 *://*.zengin-gelenler-bizi-bulurlar-burada.com/*
 *://*.zenginemekli.com/*
 *://*.zengingunlerekimay.com.tr/*
