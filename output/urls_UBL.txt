@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-08 06:25:37 UTC
-! Total: 361357 rules
+! Last modified: 2026-05-08 10:13:30 UTC
+! Total: 361373 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21012,6 +21012,7 @@
 *://*.aebjhsxosq.com/*
 *://*.aebnzgmul.com/*
 *://*.aecajdwadxnjfpm.cn/*
+*://*.aecgvc.buzz/*
 *://*.aeconafrica.com/*
 *://*.aecpost.top/*
 *://*.aecsdiga1o1.net/*
@@ -73706,6 +73707,7 @@
 *://*.cebimdeki-tebim.com/*
 *://*.cebimdekifirsatim.com/*
 *://*.cebimdekifirsatlar.com/*
+*://*.cebimdekimobilsubelerim.sbs/*
 *://*.cebimdekinakit.com/*
 *://*.cebimdekisube.com/*
 *://*.cebimdekitebinfirsatlari.com/*
@@ -87951,6 +87953,7 @@
 *://*.ddpdmp.top/*
 *://*.ddqcmf.top/*
 *://*.ddqgmn.top/*
+*://*.ddqlub.click/*
 *://*.ddr-vereter.com/*
 *://*.ddrnmy.top/*
 *://*.ddrpmn.top/*
@@ -99375,6 +99378,7 @@
 *://*.dobetrix.ru/*
 *://*.dobki-mobki.cfd/*
 *://*.doblosolfar.club/*
+*://*.doblosolfar.sbs/*
 *://*.dobloyaozelbuzdolabi.cfd/*
 *://*.dobra.in/*
 *://*.dobulunoktafirsatlari.com.tr/*
@@ -160866,6 +160870,7 @@
 *://*.hfc1fsb0ngl1sbrsk.com/*
 *://*.hfcbrd10skcmz1.com/*
 *://*.hfccayannes1brs0zka1cmzxposche.com/*
+*://*.hfcrbt.buzz/*
 *://*.hfcs1snglb0rdcmz1kal.com/*
 *://*.hfcsivo.cn/*
 *://*.hfdcxbhds.shop/*
@@ -162163,6 +162168,7 @@
 *://*.hgsgecisihalili.in/*
 *://*.hgsgecisihlal.in/*
 *://*.hgsgecisimm.net/*
+*://*.hgsgecisin.com/*
 *://*.hgsgecisistemleriniz.org/*
 *://*.hgsgecislerindeyuzdeyuzindirim.com/*
 *://*.hgsgecislerivetramerislemleri.com/*
@@ -170915,6 +170921,7 @@
 *://*.iaccamacase.net/*
 *://*.iacikdeniz-bireysel.com/*
 *://*.iacnadisd.net/*
+*://*.iacvqp.buzz/*
 *://*.iad-eparib-u.com/*
 *://*.iadaeehhx-hiizmettleriicx.com/*
 *://*.iadaidtadlerinizbasladi.com/*
@@ -208429,6 +208436,7 @@
 *://*.lcsntrvergltd.net/*
 *://*.lcvbyjcwbrsvkex.cn/*
 *://*.lcwaikikiuniversitesi.tk/*
+*://*.lcwdkp.click/*
 *://*.lcwpaketleme.com/*
 *://*.lcxwj.com.cn/*
 *://*.lcyaolu.com/*
@@ -219285,6 +219293,7 @@
 *://*.mfszki.gopher/*
 *://*.mfthrx.com/*
 *://*.mftvcuma.org/*
+*://*.mfzbyr.click/*
 *://*.mg-turkiye.online/*
 *://*.mg1a.top/*
 *://*.mg77bi.us/*
@@ -233206,6 +233215,7 @@
 *://*.npnjs.com/*
 *://*.nponay.com/*
 *://*.npqctzge.com/*
+*://*.npqhfu.buzz/*
 *://*.nptemp.net/*
 *://*.npttgov.top/*
 *://*.npufww.help/*
@@ -241764,6 +241774,7 @@
 *://*.onlinesorgusistemi.com/*
 *://*.onlinesorgusistemlerim.com/*
 *://*.onlinesorgusualsistemigovtr.sbs/*
+*://*.onlinesorgutursab.org.tr/*
 *://*.onlinesorguveodeme.com/*
 *://*.onlinesorguyap.xyz/*
 *://*.onlinesozlesmeler.org/*
@@ -270045,6 +270056,7 @@
 *://*.ripristino-applicazione-aggiornamento.info/*
 *://*.riprotation.top/*
 *://*.ripxccpiytpc.info/*
+*://*.riqvaj.buzz/*
 *://*.riranughone.com/*
 *://*.rirbg.com/*
 *://*.rirethenheg.com/*
@@ -317667,6 +317679,7 @@
 *://*.turkiyebddkiadesi.com/*
 *://*.turkiyebddkmerkezigovtr.com/*
 *://*.turkiyebdkbasvuru.online/*
+*://*.turkiyebilgiagi.com/*
 *://*.turkiyebilgialani.com/*
 *://*.turkiyebilgihatti.com/*
 *://*.turkiyebimcell.com/*
@@ -327254,6 +327267,7 @@
 *://*.vaybeknk231.xyz/*
 *://*.vaybeknks33.xyz/*
 *://*.vaybesporir.xyz/*
+*://*.vaybetekbasina.lat/*
 *://*.vaycanina.xyz/*
 *://*.vaycasinosupport.net/*
 *://*.vayd234losda.site/*
@@ -356312,6 +356326,7 @@
 *://*.yoyortadrejgeliyo.top/*
 *://*.yoyufoods.com/*
 *://*.yoywvfw.top/*
+*://*.yozatw.buzz/*
 *://*.yozgat.fun/*
 *://*.yozgathasereyesonilaclamaci.site/*
 *://*.yp02.xyz/*
@@ -357029,6 +357044,7 @@
 *://*.yurttasyardim.site/*
 *://*.yurttasyardim.xyz/*
 *://*.yurttayardim.com/*
+*://*.yurttici-kargo.com/*
 *://*.yurttickargo.com/*
 *://*.yurttkpmerkezi.uk/*
 *://*.yurtyys-newlife.xyz/*

@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-08 06:25:37 UTC
-# Toplam: 453417 Domain
+# Son Güncelleme: 2026-05-08 10:13:30 UTC
+# Toplam: 453440 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -33084,6 +33084,7 @@ aeat-tgss.com
 aebjhsxosq.com
 aebnzgmul.com
 aecajdwadxnjfpm.cn
+aecgvc.buzz
 aeconafrica.com
 aecpost.top
 aecsdiga1o1.net
@@ -53093,6 +53094,7 @@ ataev2.claydc.top
 ataglobal.com.tr
 atakan.com
 atakantarimci.com.tr
+atakarackiralama.duckdns.org
 atakaylar.com
 ataklerkester.duckdns.org
 ataklojistik.com
@@ -96099,6 +96101,7 @@ cebimdeislemim.sg-host.com
 cebimdeki-tebim.com
 cebimdekifirsatim.com
 cebimdekifirsatlar.com
+cebimdekimobilsubelerim.sbs
 cebimdekinakit.com
 cebimdekisube.com
 cebimdekitebinfirsatlari.com
@@ -114386,6 +114389,7 @@ ddpwqw.duckdns.org
 ddqcmf.top
 ddqcsl2x.duckdns.org
 ddqgmn.top
+ddqlub.click
 ddqqdasdef.duckdns.org
 ddqqqdad.duckdns.org
 ddqxlhald.duckdns.org
@@ -127471,6 +127475,7 @@ doberabokaseno.top
 dobetrix.ru
 dobki-mobki.cfd
 doblosolfar.club
+doblosolfar.sbs
 dobloyaozelbuzdolabi.cfd
 doboudix1024.mywire.org
 dobra.in
@@ -177337,6 +177342,7 @@ gir-turkiyem.org
 gir-web.my-homeip.com
 gir-ya-para-bi.com
 gir.yapii-kredm.online
+gir101tkl.xn--tt-8ja.net
 giradresim.online
 girartikvergi.net
 girasakza.top
@@ -191702,6 +191708,7 @@ halkformdoldur.com
 halkgir.com
 halkgiris-online.com
 halkgiris.club
+halkgiris.duckdns.org
 halkgiriscep.com
 halkgirisim-online.com
 halkgirisimonline.com
@@ -199884,6 +199891,7 @@ hfc1fsb0ngl1sbrsk.com
 hfcbpnniys.duckdns.org
 hfcbrd10skcmz1.com
 hfccayannes1brs0zka1cmzxposche.com
+hfcrbt.buzz
 hfcs1snglb0rdcmz1kal.com
 hfcsivo.cn
 hfcsoljfcz.duckdns.org
@@ -201458,6 +201466,7 @@ hgsgecisbocroderemelsih.duckdns.org
 hgsgecisihalili.in
 hgsgecisihlal.in
 hgsgecisimm.net
+hgsgecisin.com
 hgsgecisistemleriniz.org
 hgsgecislerindeyuzdeyuzindirim.com
 hgsgecislerivetramerislemleri.com
@@ -212118,6 +212127,7 @@ iaccamacase.net
 iaceteynlv.duckdns.org
 iacikdeniz-bireysel.com
 iacnadisd.net
+iacvqp.buzz
 iad-eparib-u.com
 iada.birey-basvurulari-ucret-geri-iadelerimiz.ml
 iadaeehhx-hiizmettleriicx.com
@@ -257800,6 +257810,7 @@ lctsyoajam.duckdns.org
 lcvbyjcwbrsvkex.cn
 lcvqxuf-giseotoyoletiket.is-best.net
 lcwaikikiuniversitesi.tk
+lcwdkp.click
 lcwlhlmq.duckdns.org
 lcwpaketleme.com
 lcxwj.com.cn
@@ -272269,6 +272280,7 @@ mfyd9urfj.duckdns.org
 mfyn34a4c4wb7ne8mx7.ddns.net
 mfyudq.duckdns.org
 mfz6y0s.vsble.me
+mfzbyr.click
 mg-turkiye.online
 mg.primeinterholding.com
 mg1a.top
@@ -275259,6 +275271,7 @@ mobil-kapimda.net.tr
 mobil-kapinda-extra.online
 mobil-kart-iade-basvuru-form-edvlt.ml
 mobil-kartaidatiadesistem-gov.com
+mobil-katlimfirsatim.duckdns.org
 mobil-kisa-link.linkpc.net
 mobil-kisalt-links.linkpc.net
 mobil-kkde-aidat-iadeleri-gov-tr-com.com
@@ -290363,6 +290376,7 @@ npoddu.duckdns.org
 nponay.com
 npq2k5i.duckdns.org
 npqctzge.com
+npqhfu.buzz
 npspwrap.duckdns.org
 npt.vnptnet.info
 npttgov.top
@@ -300797,6 +300811,7 @@ onlinesorgusistem.com
 onlinesorgusistemi.com
 onlinesorgusistemlerim.com
 onlinesorgusualsistemigovtr.sbs
+onlinesorgutursab.org.tr
 onlinesorguveodeme.com
 onlinesorguyap.xyz
 onlinesozlesmeler.org
@@ -336127,6 +336142,7 @@ ripristino-applicazione-aggiornamento.info
 riprotation.top
 ripx.duckdns.org
 ripxccpiytpc.info
+riqvaj.buzz
 riranughone.com
 rirbg.com
 rirethenheg.com
@@ -339011,6 +339027,7 @@ s-sahibinden-param-guvende.cf
 s-sahibinden-param-guvende.com
 s-sahibinden-param-guvende.ga
 s-sahibinden-param-guvende.store
+s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-paramguvende.cf
 s-sahibinden-paramguvende.com
 s-sahibinden-paramguvende.tk
@@ -366508,6 +366525,7 @@ sponsorlubasvuru-2.online
 sponsorlubasvuru-3.online
 sponsorlubasvuru-5.online
 sponsorlubasvuruekranlari.sbs
+sponsorlubasvuruhizmetlerim.duckdns.org
 sponsorlubasvurularimsize.duckdns.org
 sponsorlubasvurum.click
 sponsorlubasvurum.sbs
@@ -397305,6 +397323,7 @@ turkiyebddkiademerkezigovtr.com
 turkiyebddkiadesi.com
 turkiyebddkmerkezigovtr.com
 turkiyebdkbasvuru.online
+turkiyebilgiagi.com
 turkiyebilgialani.com
 turkiyebilgihatti.com
 turkiyebimcell.com
@@ -401556,6 +401575,7 @@ umosic.com
 umpaqv.duckdns.org
 umqiqyudtooo.info
 umqsqqmcgg.duckdns.org
+umr2xx12e31x2.duckdns.org
 umranerbay.buzz
 umre3423453543biz.online
 umrecekilisi.click
@@ -409304,6 +409324,7 @@ vaybabm23.up.railway.app
 vaybeknk231.xyz
 vaybeknks33.xyz
 vaybesporir.xyz
+vaybetekbasina.lat
 vaycanina.xyz
 vaycasinosupport.net
 vayd234losda.site
@@ -446478,6 +446499,7 @@ yoyohuhuferde.myonlineportal.de
 yoyortadrejgeliyo.top
 yoyufoods.com
 yoywvfw.top
+yozatw.buzz
 yozgat.fun
 yozgathasereyesonilaclamaci.site
 yp02.xyz
@@ -447529,6 +447551,7 @@ yurttasyardim.com
 yurttasyardim.site
 yurttasyardim.xyz
 yurttayardim.com
+yurttici-kargo.com
 yurttickargo.com
 yurttkpmerkezi.uk
 yurtumawat.wwwhost.us
