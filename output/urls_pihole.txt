@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-08 18:01:49 UTC
-# Toplam: 453494 Domain
+# Son Güncelleme: 2026-05-08 20:01:54 UTC
+# Toplam: 453505 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -95447,6 +95447,7 @@ caxtuxs.duckdns.org
 caxxxtrlgw.duckdns.org
 cay-firsati-yakala.net
 cay-makinesi.online
+cay-paketi-al0l.xyz
 cay6pp.duckdns.org
 cayatiw.xyz
 caydanlik-firsat.biz.tr
@@ -174896,6 +174897,7 @@ gencellertlyukleme.com
 gencertemizlik.cfd
 gencertemizlik.click
 gencertemizlik.club
+gencertemizlik.sbs
 gencgelecekvakfi.online
 gencgelecekvakfi.org
 gencgelisimvakfi.online
@@ -199450,6 +199452,7 @@ herseyfirsatlarinlaguzeldenizbonus.xyz
 herseyhasd.com
 herseyhasd.net
 herseyhediyeli.com
+herseyherkessesylsin.sbs
 herseyigorensen.net
 herseyimfirsatimla.xyz
 herseyimfirsatlarimin.xyz
@@ -201126,6 +201129,7 @@ hgsbakiyeniz.com
 hgsbakiyenize.com
 hgsbakiyenizz.com
 hgsbakiyenncede.com
+hgsbakiyenoktaniz.xyz
 hgsbakiyeodemeservisi.ml
 hgsbakiyeogren.xyz
 hgsbakiyeonline7.com
@@ -228021,7 +228025,9 @@ istanbulbizimba.xyz
 istanbulbizimle.com
 istanbulbizimlebasvur.xyz
 istanbulbizimm.xyz
+istanbulbizimmeeef.xyz
 istanbulbizimmm.xyz
+istanbulbizimmmefe.xyz
 istanbulblu.com
 istanbulbolgemerkezi3d.xyz
 istanbulbozum.com
@@ -241407,6 +241413,7 @@ kampix.click
 kampixo.xyz
 kamplia.xyz
 kamplog1o1.online
+kampma-sorgnu.cfd
 kampmicadir.store
 kampmyaprmsynnbasvuru.info
 kampmyaprmsynnbasvuru.pro
@@ -274464,6 +274471,7 @@ mmhhrhhrhrrs52.sbs
 mmhhrhhrhrrs53.sbs
 mmhhrhhrhrrs54.sbs
 mmhhrhhrhrrs55.sbs
+mmhhrhhrhrrs56.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs7.sbs
 mmhhrhhrhrrs9.sbs
@@ -296566,6 +296574,7 @@ onaylamaservisiglobal.dropei.de
 onaylamobil.fun
 onaylamobil.online
 onaylanan-basvurulariniz-kontrol-ediniz.sbs
+onaylanan-hizmetgirisveislemleri.sbs
 onaylanan-ilan.com.tr
 onaylandi-fbbasvuru.vercel.app
 onaylanir-onaylanir.com
@@ -316710,6 +316719,7 @@ popwdkxw.click
 popyerrema.vercel.app
 poqwjoemqzmemzgqegzqzf.online
 poratal-edevlet.ga
+porbasvuzira.nicepage.io
 porc5ol7.duckdns.org
 porcay.click
 porcelaincontrive.top
@@ -419363,6 +419373,7 @@ website66249323.nicepage.io
 website662493231.nicepage.io
 website6634234234.nicepage.io
 website6634654.nicepage.io
+website6647428.nicepage.io
 website665454654565.nicepage.io
 website665454654df4234.nicepage.io
 website66555242414.nicepage.io
