@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-08 16:06:11 UTC
-# Toplam: 453480 Domain
+# Son Güncelleme: 2026-05-08 18:01:49 UTC
+# Toplam: 453494 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12630,6 +12630,8 @@
 3833467833.cloud
 38335648.cloud
 383728372grt.click
+38383834.sbs
+38383835.sbs
 38468-coinbase.com
 38468288.xyz
 3847287338gtr.click
@@ -19021,6 +19023,7 @@
 78.46.212.52
 780a.makeki0x1.com
 78112351235.cfd
+7829346792392765982439237.app
 782y376280ki327.icu
 783410583.cloud
 7834216376219410.com.tr
@@ -64208,6 +64211,7 @@ bayramadakrediniz.xyz
 bayramaflrsatsburda.com
 bayramahediyem.com
 bayramakkurbanlikfirsati.vercel.app
+bayramaktuli101de.com
 bayramaldinaldin.xyz
 bayramaldinaldintestere.xyz
 bayramaldintestere.xyz
@@ -69086,6 +69090,7 @@ bilgiler-kartiadelerimedevletgirisgovtr.tk
 bilgiler-onlinedevletgovtr.tk
 bilgiler.name.tr
 bilgilerahge.click
+bilgilerburada.sbs
 bilgilerformdaveti-portal.tk
 bilgilerigoruntuleme.com
 bilgilerim-aidatiadehizmetler.com
@@ -151081,6 +151086,7 @@ erdogankoltuktta.xyz
 erdogansevdalisi.net
 erdoofirarr.sbs
 erdsaagefasdmas.xyz
+erdsecsoakemecsa.shop
 erdtkccc.com
 erdxmexdrecmhearvxodx.net
 erdxmexdremerdxm.net
@@ -183620,6 +183626,7 @@ guddms9130.hopto.org
 gudepour.ddns.net
 gudfelips.site
 gudguy.zapto.org
+gudkoarancasa.cfd
 gudonenksxgfsaw.ru
 guduo.xyz
 gueastr-booikcheks.com
@@ -203020,6 +203027,7 @@ hgsyukleyelim.com
 hgsyukleyici10111ptt.com
 hgsyukleyin-com.xyz
 hgsyukleyin.com
+hgsyukleyinyeri.xyz
 hgsyuklle.tk
 hgsyukllle.net
 hgsyuklmeislemleri.online
@@ -231529,6 +231537,7 @@ izamaasahotsan.net
 izambysv.net
 izan.live
 izanassssxd.com
+izaoroppqs.blogspot.com
 izapk.xyz
 izasd4.blogspot.com
 izasgfasgas.blogspot.com
@@ -231821,6 +231830,7 @@ izltaslignlerin.xyz
 izltgcd.blogspot.com
 izlthdd.blogspot.com
 izltossdgg.blogspot.com
+izltsbobdd.duckdns.org
 izltsbotr3.blogspot.com
 izltsbrada.xyz
 izltsfopaps.dns.navy
@@ -274453,6 +274463,7 @@ mmhhrhhrhrrs51.sbs
 mmhhrhhrhrrs52.sbs
 mmhhrhhrhrrs53.sbs
 mmhhrhhrhrrs54.sbs
+mmhhrhhrhrrs55.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs7.sbs
 mmhhrhhrhrrs9.sbs
@@ -315218,6 +315229,7 @@ pkqont.com
 pkqqsl.com
 pkrdela.com
 pks65u.duckdns.org
+pksaonracalara.xyz
 pkserverkeyfisi.xyz
 pkslabc.cn
 pkslacmynlraintbrdyz.mooo.com
@@ -403814,6 +403826,7 @@ usombaset.com.tr
 usombasicakgelmesin.net
 usombasvuru.space
 usombelbimle.com.tr
+usomcanavari.duckdns.org
 usomdacalismakistiyorum.org
 usomdayiz.xyz
 usomdusyakamdan.net
@@ -446085,6 +446098,7 @@ yonlendiriliyokserndaw.duckdns.org
 yonlendiriliyordawnsafw.duckdns.org
 yonlendiriliyordawsprof1.duckdns.org
 yonlendiriliyorderser22.duckdns.org
+yonlendiriliyordsunus12.duckdns.org
 yonlendiriliyordunli.duckdns.org
 yonlendiriliyordunuszw3.duckdns.org
 yonlendiriliyordustahk1.duckdns.org
