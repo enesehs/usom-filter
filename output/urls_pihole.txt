@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-09 22:30:12 UTC
-# Toplam: 453600 Domain
+# Son Güncelleme: 2026-05-09 23:34:14 UTC
+# Toplam: 453607 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -26097,6 +26097,7 @@ a1o1o.net
 a1o1ocandrimmleri.net
 a1o1onfskaracandirm.blogdns.com
 a1o1onfskaracandirmpl.blogdns.com
+a1o1onfskaracndirrmm.blogspot.com
 a1o1onl1ne.com
 a1o1onldnfirsatlarm.blogdns.com
 a1o1onlifirsatlnistbsf.blogspot.com
@@ -42478,6 +42479,7 @@ aldn-zaldnnxfirstllariyla.net.tr
 aldnaladndagadhadbadnad.store
 aldnaladndagadhadbadnadnasd.store
 aldnaldlnlyglsn.com
+aldnaldn-cay.xyz
 aldnaldn-kmpnya.xyz
 aldnaldn101frsatlar.hopto.org
 aldnaldna1o1deredm.duckdns.org
@@ -64198,6 +64200,7 @@ bayram-sizinle.site
 bayram-sonrasi-ihtiyac.com
 bayram-viivo-vakiff.website
 bayram-viivo-vakiff.xyz
+bayram.ucuz-obilet.nl
 bayram2000tldesteklemeleri.co.vu
 bayram2000tlnakdionlinedestek.co.vu
 bayram2000tlonlinedestek.co.vu
@@ -152232,6 +152235,7 @@ estimationsmgir.pw
 estirzgarimdeligibi.org
 estivahali.online
 estmongolia.com
+estobasvuru.84945184465.cloud
 estoniaforall.com
 estonlineest.com
 estonlinest.com
@@ -178746,6 +178750,7 @@ girsakbhmnpjkkdj.click
 girsakbnc4b1opjkkdj.click
 girsbnnstrllogn.xyz
 girsenebaskan.cc.dvrlists.com
+girsgelsmesocnu.sbs
 girsi-site-onlline.sbs
 girsibbrncntr.com
 girsiebl.shop
@@ -269410,6 +269415,7 @@ mayissonnu-firsstlrimm.com
 mayisss-firsatlariim.com
 mayisss-firsatlarimm.com
 mayista-finans-kazandiriyor.gq
+mayista-ucuzluk.com.tr
 mayistabuindrimiyakala.com
 mayistadenizvurgunlari.click
 mayistaharcligin.com
@@ -302102,6 +302108,7 @@ opoufqgxtdumju.me
 opowhhece.biz
 oppalcit.fit
 oppernusium.ddns.net
+oppiwallet.cloud
 oppo-rtunity-campaign.net
 oppocahute.duckdns.org
 oppocunuzfirsatiniz.cfd
