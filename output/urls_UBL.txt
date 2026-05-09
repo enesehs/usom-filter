@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-09 21:31:33 UTC
-! Total: 361495 rules
+! Last modified: 2026-05-09 22:30:12 UTC
+! Total: 361500 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -205056,6 +205056,7 @@
 *://*.kredibasvuruonaymerkezi.net/*
 *://*.kredibasvuruonline.com.tr/*
 *://*.kredibasvuruonline.sbs/*
+*://*.kredibasvuruportal.club/*
 *://*.kredibasvurusistemi.com/*
 *://*.kredibasvurusitesi.com/*
 *://*.kredibasvurusonuclarimonline.tk/*
@@ -216994,6 +216995,7 @@
 *://*.mayisfrsatlarimbenm.online/*
 *://*.mayisgecesijethizinda.site/*
 *://*.mayisguncelkampanyalari.click/*
+*://*.mayisgunlerimizden.com/*
 *://*.mayisgunlerimzs.club/*
 *://*.mayisgunlerimzs.net/*
 *://*.mayisgunlerimzs.xyz/*
@@ -220513,6 +220515,7 @@
 *://*.mississaugaaccountant.net/*
 *://*.mississippics.com/*
 *://*.misskokoshop.com/*
+*://*.misslink.click/*
 *://*.missrein.top/*
 *://*.misss-tem.com/*
 *://*.missselfridge.top/*
@@ -319157,6 +319160,7 @@
 *://*.tuvturk-xls.com/*
 *://*.tuvturk-xssl.com/*
 *://*.tuvturk-xsxs.com/*
+*://*.tuvturk-xxk.com/*
 *://*.tuvturk.io/*
 *://*.tuvturk.live/*
 *://*.tuvturk.online/*
@@ -319228,6 +319232,7 @@
 *://*.tuvturklr.digital/*
 *://*.tuvturklsa.digital/*
 *://*.tuvturklse.sbs/*
+*://*.tuvturklsl.digital/*
 *://*.tuvturklsw.digital/*
 *://*.tuvturklsx.digital/*
 *://*.tuvturkluloaw.net/*
