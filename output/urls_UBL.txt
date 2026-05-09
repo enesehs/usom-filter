@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-09 17:39:14 UTC
-! Total: 361486 rules
+! Last modified: 2026-05-09 18:39:48 UTC
+! Total: 361490 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -96963,6 +96963,7 @@
 *://*.dijital-web.net/*
 *://*.dijital-webden.net/*
 *://*.dijital-webgarantonline.tk/*
+*://*.dijital-webkampanyalar.com/*
 *://*.dijital-ziraat-sube.mobi/*
 *://*.dijital-ziraatbank.com/*
 *://*.dijital-ziraatbankasi.ml/*
@@ -129031,6 +129032,7 @@
 *://*.firsat-mobildenizonaygirisi.com/*
 *://*.firsat-mobildenizv2basvuru.com/*
 *://*.firsat-nisankapisi.net.tr/*
+*://*.firsat-obilet.nl/*
 *://*.firsat-obilet.online/*
 *://*.firsat-ode.com/*
 *://*.firsat-odeme.com/*
@@ -195684,6 +195686,7 @@
 *://*.kamudosyasistemi.org/*
 *://*.kamudosyasorgu.org/*
 *://*.kamudosyasorgula.org/*
+*://*.kamudosyatr.org/*
 *://*.kamuedevlet.org/*
 *://*.kamuehizmet.com/*
 *://*.kamuesorgu.org/*
@@ -323311,6 +323314,7 @@
 *://*.uyapeislem.com/*
 *://*.uyapeportal.org/*
 *://*.uyapforex.com/*
+*://*.uyapgib.org/*
 *://*.uyapgiris.online/*
 *://*.uyapgirisceza.com/*
 *://*.uyapgov.org/*
