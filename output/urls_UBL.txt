@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-09 18:39:48 UTC
-! Total: 361490 rules
+! Last modified: 2026-05-09 19:53:11 UTC
+! Total: 361494 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -75089,6 +75089,7 @@
 *://*.ceptegirisonline.online/*
 *://*.ceptegirisonline.xyz/*
 *://*.ceptegiristebonline.life/*
+*://*.ceptehabaerglobalim.shop/*
 *://*.ceptehaber.shop/*
 *://*.ceptehaber3445.shop/*
 *://*.ceptehaber45.shop/*
@@ -150626,6 +150627,7 @@
 *://*.habers360try.shop/*
 *://*.habers360turk.shop/*
 *://*.habersal.site/*
+*://*.habersbs45.shop/*
 *://*.habersen.club/*
 *://*.habersen.live/*
 *://*.habersen.xyz/*
@@ -223280,6 +223282,7 @@
 *://*.mobilservisler-23.sbs/*
 *://*.mobilservisler-25.sbs/*
 *://*.mobilservisler-26.sbs/*
+*://*.mobilservisler-27.sbs/*
 *://*.mobilservisler.com/*
 *://*.mobilservisler.online/*
 *://*.mobilservisler.store/*
@@ -256279,6 +256282,7 @@
 *://*.prbonlinegiristr.com/*
 *://*.prbonlinekampanyagiris.com/*
 *://*.prbonlinetr.com/*
+*://*.prbonlnebsvurulartr.com/*
 *://*.prbozelhediye5yildoge-com.tk/*
 *://*.prbsduyurutr.com/*
 *://*.prbsenin.click/*
