@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-09 04:57:44 UTC
-! Total: 361450 rules
+! Last modified: 2026-05-09 07:02:34 UTC
+! Total: 361458 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28350,6 +28350,7 @@
 *://*.aldinadlinfirsatzamani.online/*
 *://*.aldinadlintr.online/*
 *://*.aldinadlinyuzbirbosch.shop/*
+*://*.aldinaktuelcay.xyz/*
 *://*.aldinaktuelkampanyalari.shop/*
 *://*.aldinal.net/*
 *://*.aldinaldiin.com/*
@@ -46694,6 +46695,7 @@
 *://*.bbva.istanbul/*
 *://*.bbva.online/*
 *://*.bbva2021.com/*
+*://*.bbvaaguvencsburdasendegel85.click/*
 *://*.bbvabank.org/*
 *://*.bbvabanktransfer.com/*
 *://*.bbvabasvur.com.tr/*
@@ -50237,6 +50239,7 @@
 *://*.bilgilendirmevakifdijitaldunyasi.com/*
 *://*.bilgilendirmevatandasbasvurulari2021.com/*
 *://*.bilgilendirmevatandasbasvurulari2021giris.com/*
+*://*.bilgilendirmeyeni.online/*
 *://*.bilgilendirmeyonlendirme.com.tr/*
 *://*.bilgilendirmezamani.online/*
 *://*.bilgilenebilmebilgilendirmek33.com/*
@@ -160401,6 +160404,7 @@
 *://*.hernealdiysansimdial.xyz/*
 *://*.hernegelder.com/*
 *://*.hernegligence.top/*
+*://*.hernerdeyseniz.sbs/*
 *://*.hernerdysebolysamam.sbs/*
 *://*.hernetselcan.com/*
 *://*.hernyreklamyn.com/*
@@ -285583,6 +285587,7 @@
 *://*.siparisimguvende.com/*
 *://*.siparisimiz-secure.online/*
 *://*.siparisimonline.com.tr/*
+*://*.siparisimpttavm.com/*
 *://*.siparisin-magazada.com/*
 *://*.siparisin.com.tr/*
 *://*.siparisinaninndakapinda.com/*
@@ -308866,6 +308871,7 @@
 *://*.torslingtoftof.com/*
 *://*.torstation.li/*
 *://*.tortila-wrd.club/*
+*://*.tortila-wrd.vip/*
 *://*.tortilla-cup.art/*
 *://*.tortilla-cup.club/*
 *://*.tortillabuilder.xyz/*
@@ -311938,6 +311944,7 @@
 *://*.transfer-google.tk/*
 *://*.transfer-hizmet-iadesi-portal-guvenli-devlet2021.xyz/*
 *://*.transfer-hizmet-iadesi-portal-guvenli-e-devlet2021.xyz/*
+*://*.transfer-merketim.com/*
 *://*.transfer-merketin.com/*
 *://*.transfer-online.xyz/*
 *://*.transferbonushediyelerinisendekap.online/*
@@ -315782,6 +315789,7 @@
 *://*.tujxhu.top/*
 *://*.tukadulos.site/*
 *://*.tukangtamanasri.com/*
+*://*.tukendiamanabizatiyo.sbs/*
 *://*.tukeniyrbyramindrmleri1o1.shop/*
 *://*.tukenmedenalinsepetteurunler.xyz/*
 *://*.tukenmedenfirsatlargelsinkapiniza.com/*
