@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-10 09:24:01 UTC
-# Toplam: 453620 Domain
+# Son Güncelleme: 2026-05-10 10:53:23 UTC
+# Toplam: 453623 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -247101,6 +247101,7 @@ kgm.suoesu.homes
 kgm.txhppa.help
 kgm.upipid.cc
 kgm.vnzjgi.homes
+kgm.vtgfwh.cc
 kgm.wklxda.homes
 kgm.xabkks.homes
 kgm.xelnbr.help
@@ -346892,6 +346893,7 @@ sawwgoal.xyz
 sawx.online
 sawyido.duckdns.org
 sawyjbqnu.com
+saxashdsaghdgha11.cyou
 saxecocnak.live
 saxghasdasdagi33.shop
 saxhibinden-guvenli-odeme.app
@@ -447765,6 +447767,7 @@ yuths.2kool4u.net
 yutmak.com
 yutmsr.duckdns.org
 yutnckaoneca.cfd
+yutngjg3434.click
 yutqmiesqn.duckdns.org
 yutricikargo-takip.com
 yutricl.kargoi.top
