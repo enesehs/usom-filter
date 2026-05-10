@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-10 12:45:14 UTC
-# Toplam: 453626 Domain
+# Son Güncelleme: 2026-05-10 14:14:02 UTC
+# Toplam: 453635 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -138073,6 +138073,7 @@ eadaitgirisi-turkeygovtri.com
 eadaitgirisim-turkeygovtri.com
 eadalet.live
 eadalet.org
+eadaletceza.com
 eadaletdosyasorgulama.org
 eadaletmasak.org
 eadaletsorgu.org
@@ -170532,6 +170533,7 @@ garanti29ekimozel.cfd
 garanti29ekimozel.lat
 garanti29ekimozel.lol
 garanti29ekimozel.sbs
+garanti45465456465465.duckdns.org
 garantiadebasvuru.com
 garantiadebirimi.com
 garantiadebirimleri.com
@@ -219561,6 +219563,7 @@ indirimburada101.com
 indirimburada101onlinehizmetler.com
 indirimburada1o1.com
 indirimceindirim.xyz
+indirimcell.site
 indirimcepte.com.tr
 indirimceptefirsat.com
 indirimci.site
@@ -219802,6 +219805,7 @@ indirimkapida.org.tr
 indirimkapilari.online
 indirimkapinda.com
 indirimkapinda.net.tr
+indirimkapinda.tekrardanpiyasadayiz.cloud
 indirimkapindalar.cfd
 indirimkapindalar.sbs
 indirimkapindatr.icu
@@ -250430,6 +250434,7 @@ kmpnyaprmsyngrntt.pro
 kmpnyaprmsynn0nb.info
 kmpnyaprmsynn0nb.live
 kmpnyaprmsynn0nb.pro
+kmpnyaprmsynnnncklss.live
 kmpnyaprmsynnnncklss.pro
 kmpnyaprsmynnktsii.info
 kmpnyasdias1c.cfd
@@ -272534,6 +272539,7 @@ mhlrksmdldoman.sbs
 mhlrrskastozrvas.com
 mhlrsafhcsflg.sbs
 mhlrsanrnda.click
+mhlsrsaars.cfd
 mhmgmntssas.net
 mhmhhmhmhrsbsvbvvs.click
 mhmhmhmhmrnvds-brd-mobil.web.app
@@ -322555,6 +322561,7 @@ pttavm-alisveriscim.xyz
 pttavm-annelergunu.com
 pttavm-bireysel.com
 pttavm-bireyselilan-adresiniz.com
+pttavm-bireyselonline.com
 pttavm-com.cfd
 pttavm-com.my
 pttavm-com.sbs
@@ -346894,6 +346901,7 @@ sawwgoal.xyz
 sawx.online
 sawyido.duckdns.org
 sawyjbqnu.com
+saxashdsaghdgha11.cfd
 saxashdsaghdgha11.cyou
 saxecocnak.live
 saxghasdasdagi33.shop
@@ -450019,6 +450027,7 @@ zira-attbankasi.com
 zira1at-1.click
 zira4t-firsat-zamani.duckdns.org
 ziraa-at.cfd
+ziraa-t-bireysel-giris-yap-internet.my-homeip.de
 ziraa-tofficalfirsat.com
 ziraaaat--us.cfd
 ziraaaaturkye.com
