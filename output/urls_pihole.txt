@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-10 23:37:59 UTC
-# Toplam: 453698 Domain
+# Son Güncelleme: 2026-05-11 01:53:06 UTC
+# Toplam: 453707 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -121598,6 +121598,7 @@ destek-kbasvuruu.com
 destek-kollari.digital
 destek-kredisi-2000tl.com
 destek-kredisi.com.tr
+destek-le.nicepage.io
 destek-maliye-pandemi.com
 destek-maliye-pandemi.xyz
 destek-merkezi.com
@@ -124604,6 +124605,7 @@ dijital-kredi-oa.com
 dijital-kredibasvur.sbs
 dijital-kredikampanya.net
 dijital-kredikampanya.org
+dijital-limit.com
 dijital-linkim.net
 dijital-linkim.org
 dijital-linkimiz.org
@@ -188481,6 +188483,7 @@ habertr724.com
 habertr788.xyz
 habertrend.online
 habertrend.site
+habertrendhaber.com
 habertrt.shop
 habertry.shop
 habertry24.shop
@@ -272512,6 +272515,7 @@ mgxztl.com
 mgybx.net
 mgyrs.online
 mh-rdnvlrm-buradan-m.web.app
+mh-rsgiris.cyou
 mh-service.ru
 mh-sns.com
 mh.bestshopingday.com
@@ -302316,6 +302320,7 @@ optimizeme.in
 optimizly.info
 optimpres.xyz
 optimsticindienous.top
+optimum-gernta-lif.myonlineportal.ch
 optimumceiling.top
 optimumconceited.top
 optimumdemographic.top
@@ -336346,6 +336351,7 @@ rirethenheg.com
 risabaattorneys.com
 risalaencryptor.com
 risdwmesd.wtf
+rise-advance.com
 riseagain.top
 riseanalyze.click
 riseappbucket.s3.ap-southeast-1.amazonaws.com
@@ -344153,6 +344159,7 @@ sahibindenguvenlialsat.com
 sahibindenguvenligetodeme.com
 sahibindenguvenligetsatis.gq
 sahibindenguvenlihizmet.site
+sahibindenguvenlikargo.com
 sahibindenguvenlim.ml
 sahibindenguvenlinakliyat.net
 sahibindenguvenliode.cf
@@ -344252,6 +344259,7 @@ sahibindenisleminizgvnde-get.net
 sahibindenk.com
 sahibindenkampanya.com
 sahibindenkargo.com
+sahibindenkargoilan.com
 sahibindenkiralikaraclar.com
 sahibindenkisaodeme.tk
 sahibindenkontrol.com
@@ -452123,6 +452131,7 @@ zirt-evnmb-ddfq.icu
 zirtaabnnkss.camdvr.org
 zirtbastvsu.nicepage.io
 zirtbox.duckdns.org
+zirtolar-ggsd.cfd
 zirtpirt2fa-fitwb.wordpress.com
 zirttarimisletmeleri.com
 ziruecwwol.duckdns.org
