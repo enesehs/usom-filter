@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-12 05:27:23 UTC
-! Total: 361677 rules
+! Last modified: 2026-05-12 11:08:29 UTC
+! Total: 361696 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -9057,6 +9057,7 @@
 *://*.3mays1ndmrlr.com/*
 *://*.3melnibjsc.com/*
 *://*.3mkorealtd.com/*
+*://*.3mys2087q.art/*
 *://*.3n022h2.cn/*
 *://*.3n1411-salcapca12.com/*
 *://*.3nazi.com/*
@@ -29182,6 +29183,7 @@
 *://*.alinporney.xyz/*
 *://*.alinsd-burdsa-aldsn-adln.shop/*
 *://*.aliopak.com.tr/*
+*://*.aliozdemir.tr/*
 *://*.aliranelnamakmu.xyz/*
 *://*.alirimayagiminaltina.cfd/*
 *://*.alirizakomur.online/*
@@ -106512,6 +106514,7 @@
 *://*.e-ikametbasvuru.com/*
 *://*.e-ikametrandevu.com.tr/*
 *://*.e-il-toki.digital/*
+*://*.e-ilan-alisveris-sepet.com/*
 *://*.e-ilan-alisveris-sepeti.com/*
 *://*.e-ilan-alisveris-sepeti.online/*
 *://*.e-ilan-online-pazar.com/*
@@ -114107,6 +114110,7 @@
 *://*.ehliyetsorgulama.online/*
 *://*.ehliyetsorgusu2.xyz/*
 *://*.ehliytsorgusayfasi.xyz/*
+*://*.ehlswp.cc/*
 *://*.ehlzmetadsres-turkiyegovtrrc.com/*
 *://*.ehlzmset-turkiyegovtrc.com/*
 *://*.ehmengrsbasvradrsi.com/*
@@ -175168,6 +175172,7 @@
 *://*.ile-isleminiyap.com/*
 *://*.ile-islemler.com.tr/*
 *://*.ile-islemler.com/*
+*://*.ile-islemlerim.com.tr/*
 *://*.ile-islemleriniz-webde.com/*
 *://*.ile-kampanya-ilan.com/*
 *://*.ile-kampanya-ilanlar.com/*
@@ -184003,6 +184008,7 @@
 *://*.isletmedestekleri.click/*
 *://*.isletmedestekleri.com/*
 *://*.isletmedestekleri2026.cfd/*
+*://*.isletmedesteklerii.com/*
 *://*.isletmedestekmerkezi.click/*
 *://*.isletmedestekmerkezi.com/*
 *://*.isletmedesteksorgula.com/*
@@ -184933,6 +184939,7 @@
 *://*.istanbulkk.ml/*
 *://*.istanbulkkrts.online/*
 *://*.istanbulknk.net/*
+*://*.istanbulkolaybe.xyz/*
 *://*.istanbulkqartmsd.store/*
 *://*.istanbulkqhilzsartmsd.store/*
 *://*.istanbulkrd-gelsende.net/*
@@ -202084,6 +202091,7 @@
 *://*.kkmmsrglgmagovptt.com/*
 *://*.kkmocmndasd.click/*
 *://*.kkmomossdasdsa.com/*
+*://*.kkmpnyasonnnnfrstkbsvrr.live/*
 *://*.kkmzkassssskkaa.top/*
 *://*.kknm1.xyz/*
 *://*.kkntxdmnskmcjhv.cn/*
@@ -205074,6 +205082,7 @@
 *://*.kredi-kartt-aidat-iadeleri-tbbmmi.com/*
 *://*.kredi-kuveytgirisbasvurformu.com/*
 *://*.kredi-merkezi.com/*
+*://*.kredi-merkezison.com/*
 *://*.kredi-mobil.com.tr/*
 *://*.kredi-mobildenizv2basvuru.com/*
 *://*.kredi-net-basvuru.com.tr/*
@@ -207117,6 +207126,7 @@
 *://*.kuveyttutrk-sec.com/*
 *://*.kuveyttuurkmobil.com/*
 *://*.kuveytumre.life/*
+*://*.kuveytumre.online/*
 *://*.kuveyturk-basvuru.com/*
 *://*.kuveyturk-bayramkredisi.com/*
 *://*.kuveyturk-online.com/*
@@ -236756,6 +236766,7 @@
 *://*.odemeyap-get.com/*
 *://*.odemeyap-guvenlesahibinden.com/*
 *://*.odemeyap-satinal.com.tr/*
+*://*.odemeyap.digital/*
 *://*.odemeyap.info/*
 *://*.odemeyap.online/*
 *://*.odemeyap.site/*
@@ -255897,6 +255908,7 @@
 *://*.ppmwrsnqqa.in/*
 *://*.ppnaltddykduocrxf.org/*
 *://*.ppogkvmsja.xyz/*
+*://*.pporscsic.net/*
 *://*.ppowerwin.click/*
 *://*.ppowwerfulcourse.site/*
 *://*.ppppssp.net/*
@@ -274704,6 +274716,7 @@
 *://*.sahibindenilan-ver.com/*
 *://*.sahibindenilan.tk/*
 *://*.sahibindenilanimz.online/*
+*://*.sahibindenilankargoo.com/*
 *://*.sahibindenilanlari.com/*
 *://*.sahibindenilanlarim.net/*
 *://*.sahibindenilanonay.com/*
@@ -276584,6 +276597,7 @@
 *://*.satin-alimlarin.online/*
 *://*.satin-alkolay-sat.com.tr/*
 *://*.satin-alsana.club/*
+*://*.satin-alsiparis.com/*
 *://*.satin-ile-alimim.com.tr/*
 *://*.satin1.xyz/*
 *://*.satinal-a101.online/*
@@ -280975,6 +280989,7 @@
 *://*.servis-hizmeti.online/*
 *://*.servis-hizmetim.online/*
 *://*.servis-hizmetin.online/*
+*://*.servis-hizmetleri.online/*
 *://*.servis-hizmetlerim.online/*
 *://*.servis-islem.online/*
 *://*.servis-muayene.net/*
@@ -304756,6 +304771,7 @@
 *://*.termosdunyasi.world/*
 *://*.termosfirsatlari-101ozel.com/*
 *://*.termosfrsstlrgunu.online/*
+*://*.termosindiriml.com/*
 *://*.termosindirimleriqaea101.shop/*
 *://*.termoskampanyasi.store/*
 *://*.termoslndrlmslerideavama101.shop/*
@@ -331242,6 +331258,7 @@
 *://*.voidcheck.online/*
 *://*.voidcheck.site/*
 *://*.voidcheck.store/*
+*://*.voidcipher.vip/*
 *://*.voidenjoy.top/*
 *://*.voidfoil.top/*
 *://*.voidlubricate.top/*
@@ -346152,6 +346169,7 @@
 *://*.xn--kampanyakatilimiburadanyaplyorhemenodulalcleaning-vihb.net/*
 *://*.xn--kampanyakatlm-ebcb.online/*
 *://*.xn--kampanyal-frsatlar-m0cch.com.tr/*
+*://*.xn--kampanyalarkarma-opb34kda.com/*
 *://*.xn--kampanyalarm-c5b.com.tr/*
 *://*.xn--kampanyayannda-ggc.online/*
 *://*.xn--kampcasdrktelfburdsa-pbdg.com/*
@@ -358216,6 +358234,7 @@
 *://*.zbiryag.site/*
 *://*.zbiryagg.site/*
 *://*.zbmkrt.help/*
+*://*.zbnznbhassaxas33.cfd/*
 *://*.zbnznbhassaxas33.cyou/*
 *://*.zbnznbhassaxas33.lat/*
 *://*.zbonbak.com/*

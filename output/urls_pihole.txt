@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-12 05:27:23 UTC
-# Toplam: 453835 Domain
+# Son Güncelleme: 2026-05-12 11:08:29 UTC
+# Toplam: 453861 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9283,6 +9283,7 @@
 222vx0b4p.duckdns.org
 222zikzavarzuvar24324.com
 22312313213.duckdns.org
+22312534123213.duckdns.org
 22314521332.com
 22317b7a.dj-hd5kfu.shop
 223213213213.cloud
@@ -13205,6 +13206,7 @@
 3mtbsecure.ddns.net
 3mtsuccess.duckdns.org
 3mvoclvo.duckdns.org
+3mys2087q.art
 3mz88q.duckdns.org
 3n022h2.cn
 3n04dwua.duckdns.org
@@ -43026,6 +43028,7 @@ alinporney.xyz
 alinsd-burdsa-aldsn-adln.shop
 alionm.zapto.org
 aliopak.com.tr
+aliozdemir.tr
 aliqwe.zapto.org
 aliranelnamakmu.xyz
 aliresulthostlogininc.duckdns.org
@@ -86970,6 +86973,7 @@ bryselislemacikdenizv2denizbank.co.vu
 brysl-yapkredi.com
 bryslbsvrlrak.com
 bryslistnbllkrtsbkym.com
+bryslmobilkatilimm.duckdns.org
 bryslvibihepsizlerle.com
 bryynlyrzbrdansnrdsa.sbs
 bryzanok.vu
@@ -124811,6 +124815,7 @@ dijitalbasvuruonaylslemim.shop
 dijitalbasvuruweb-ziraat.com
 dijitalbayii2.shop
 dijitalbbva.com
+dijitalbilgilendirmelerrim.duckdns.org
 dijitalbimcellyukle.net
 dijitalbinancekampanya.net
 dijitalbireysel-ziraat.com
@@ -144496,6 +144501,7 @@ ehliyetsorgulama.online
 ehliyetsorgusu2.xyz
 ehliytsorgusayfasi.xyz
 ehlowsfcaa.duckdns.org
+ehlswp.cc
 ehlzmetadsres-turkiyegovtrrc.com
 ehlzmset-turkiyegovtrc.com
 ehm76a.duckdns.org
@@ -222861,6 +222867,7 @@ internetbankacilik--ziraatbank.ml
 internetbankacilik-akbank.com
 internetbankacilik-ziraatbank.com
 internetbankacilk.com
+internetbasvukanallari.duckdns.org
 internetbasvur-qnbfinans.com
 internetbasvur-yapikredi.com
 internetbasvur.info
@@ -227411,6 +227418,7 @@ isletmedestekk.com
 isletmedestekleri.click
 isletmedestekleri.com
 isletmedestekleri2026.cfd
+isletmedesteklerii.com
 isletmedestekmerkezi.click
 isletmedestekmerkezi.com
 isletmedesteksorgula.com
@@ -228545,6 +228553,7 @@ istanbulkk.ml
 istanbulkkkart.gleeze.com
 istanbulkkrts.online
 istanbulknk.net
+istanbulkolaybe.xyz
 istanbulkqartmsd.store
 istanbulkqhilzsartmsd.store
 istanbulkrd-gelsende.net
@@ -249452,6 +249461,7 @@ kkmmtt.duckdns.org
 kkmmwebgcshgsyol.duckdns.org
 kkmocmndasd.click
 kkmomossdasdsa.com
+kkmpnyasonnnnfrstkbsvrr.live
 kkmzkassssskkaa.top
 kkmzzupbfu.onflue.ru
 kknm1.xyz
@@ -253399,6 +253409,7 @@ kredi-kartt-aidat-iadeleri-tbbmm-g-o-v-tr.com
 kredi-kartt-aidat-iadeleri-tbbmmi.com
 kredi-kuveytgirisbasvurformu.com
 kredi-merkezi.com
+kredi-merkezison.com
 kredi-mobildenizv2basvuru.com
 kredi-net-basvuru.com.tr
 kredi-odakli.online
@@ -255956,6 +255967,7 @@ kuveytuk-bank.fcredit247.com
 kuveytuk-bank.startfast247.com
 kuveytuk.fcuservices.com
 kuveytumre.life
+kuveytumre.online
 kuveytumrefirsati.duckdns.org
 kuveyturk-basvuru.com
 kuveyturk-bayramkredisi.com
@@ -276846,6 +276858,7 @@ mobileizmirr.net
 mobilejpsecure01.ddns.net
 mobilekonomipanelim.xyz
 mobilekraniade.duckdns.org
+mobilekranlardakayitlar.duckdns.org
 mobilekranndeniz.shop
 mobilekrannvakif.shop
 mobilekredipanelim.sbs
@@ -294926,6 +294939,7 @@ odemeyap-alim.com
 odemeyap-get.com
 odemeyap-guvenlesahibinden.com
 odemeyap-satinal.com.tr
+odemeyap.digital
 odemeyap.info
 odemeyap.online
 odemeyap.site
@@ -317955,6 +317969,7 @@ ppogkvmsja.xyz
 ppoorrt55522.ddns.net
 ppoortu8.beget.tech
 ppopolasfz.duckdns.org
+pporscsic.net
 ppostastsa.duckdns.org
 ppowerwin.click
 ppowwerfulcourse.site
@@ -339151,6 +339166,7 @@ s-paramguvende.sahibinden-org.tk
 s-paramguvende.sahibinden-s.ml
 s-paramguvende.sahibinnden-org.tk
 s-paramguvende.satin-al-tr.com.tr
+s-paramguvende.servis-hizmetleri.online
 s-paramguvende.shop
 s-paramguvende.site
 s-paramguvende.store
@@ -342872,6 +342888,7 @@ sahibinden.e-guvenli-odeme.sa.com
 sahibinden.e-guvenlialisveris-tr.sa.com
 sahibinden.e-guvenlialisveris.sa.com
 sahibinden.e-hizmetlerin.com.tr
+sahibinden.e-ilan-alisveris-sepet.com
 sahibinden.e-ilan-online-pazar.com
 sahibinden.e-ilan-online-satici.com
 sahibinden.e-ilan-online-sepeti.com
@@ -343354,6 +343371,7 @@ sahibinden.ile-internetten-alisveris.com
 sahibinden.ile-islemini-guvenlice-yap.com
 sahibinden.ile-islemini-guvenliceyap.com
 sahibinden.ile-isleminiguvenliceyap.com
+sahibinden.ile-islemlerim.com.tr
 sahibinden.ile-islemleriniz-webde.com
 sahibinden.ile-kampanya-ilanlar.com
 sahibinden.ile-magazam-siparis.com
@@ -343674,6 +343692,7 @@ sahibinden.satin-alimlar.com.tr
 sahibinden.satin-alimlarimiz.xyz
 sahibinden.satin-alimlarin.click
 sahibinden.satin-alkolay-sat.com.tr
+sahibinden.satin-alsiparis.com
 sahibinden.satinal-aninda.com
 sahibinden.satinal-guvenli.com.tr
 sahibinden.satinal.site
@@ -344331,6 +344350,7 @@ sahibindenilan-ver.com
 sahibindenilan.com-ilandetayi.com.tr
 sahibindenilan.tk
 sahibindenilanimz.online
+sahibindenilankargoo.com
 sahibindenilanlari.com
 sahibindenilanlarim.net
 sahibindenilanonay.com
@@ -366883,6 +366903,7 @@ sponsorlugonderixc78s.xyz
 sponsorluhaberajansi1.duckdns.org
 sponsorluhaberajansi4.xyz
 sponsorluhaberlim.site
+sponsorluhizmettler.duckdns.org
 sponsorluk-6549262827.online
 sponsorlukampanya.shop
 sponsorlukampanya.site
@@ -381877,6 +381898,7 @@ termosdunyasi.world
 termosfirsatlari-101ozel.com
 termosfrsstlrgunu.online
 termosindirim.duckdns.org
+termosindiriml.com
 termosindirimlerihemen.duckdns.org
 termosindirimleriqaea101.shop
 termoskampanyasi.store
@@ -414414,6 +414436,7 @@ void.mefound.com
 voidcheck.online
 voidcheck.site
 voidcheck.store
+voidcipher.vip
 voidd.ddns.net
 voidenjoy.top
 voidfoil.top
@@ -434471,6 +434494,7 @@ xn--kampanyagunlerim-oqc.shop
 xn--kampanyakatilimiburadanyaplyorhemenodulalcleaning-vihb.net
 xn--kampanyakatlm-ebcb.online
 xn--kampanyal-frsatlar-m0cch.com.tr
+xn--kampanyalarkarma-opb34kda.com
 xn--kampanyalarm-c5b.com.tr
 xn--kampanyayannda-ggc.online
 xn--kampcasdrktelfburdsa-pbdg.com
@@ -449270,6 +449294,7 @@ zbltfglbye.duckdns.org
 zbmdanaclaim.duckdns.org
 zbmknz.duckdns.org
 zbmkrt.help
+zbnznbhassaxas33.cfd
 zbnznbhassaxas33.cyou
 zbnznbhassaxas33.lat
 zbonbak.com
@@ -450217,6 +450242,7 @@ zir0ot-1ba4nks.click
 zir0ot-51b4anks.click
 zir0ot-bank1s5.click
 zir1at.fun
+zira-a-t-bireysel-basvuru-ekran.my-homeip.de
 zira-a-t-login-page.my-homeip.de
 zira-atbank.com
 zira-attbankasi.com
