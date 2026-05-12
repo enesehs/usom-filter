@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-12 16:09:39 UTC
-! Total: 361755 rules
+! Last modified: 2026-05-12 18:27:46 UTC
+! Total: 361776 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -32212,6 +32212,7 @@
 *://*.ankarakrt.net/*
 *://*.ankarakrtbkye06-yuklee.net/*
 *://*.ankaralinamik.xyz/*
+*://*.ankaralunex.com/*
 *://*.ankarama.site/*
 *://*.ankaramehteri.com/*
 *://*.ankaramerkezsube.online/*
@@ -37278,6 +37279,7 @@
 *://*.astronomysneak.top/*
 *://*.astroomicalmeative.top/*
 *://*.astroplay98.com/*
+*://*.astrosastro.live/*
 *://*.astrosphere.world/*
 *://*.astrumtechnologies.co.za/*
 *://*.astservice.net/*
@@ -39046,6 +39048,7 @@
 *://*.avsrent.com.tr/*
 *://*.avsrentacar.com.tr/*
 *://*.avsrentacar.online/*
+*://*.avsrentacar.org/*
 *://*.avsrental.com/*
 *://*.avsserradecor.com/*
 *://*.avsvmcloud.com/*
@@ -64700,6 +64703,7 @@
 *://*.boso6ka.com/*
 *://*.bosphorgaz.com/*
 *://*.bosphorugaz.world/*
+*://*.bosphorusbase.com/*
 *://*.bosphorusbreeze.online/*
 *://*.bosphoruscore.com/*
 *://*.bosphorusflow.com/*
@@ -72475,6 +72479,7 @@
 *://*.carhartt-turkiye.com/*
 *://*.cari-properti.info/*
 *://*.cariamae.com/*
+*://*.caribb.ru/*
 *://*.caribgutt.net/*
 *://*.carien-shafii.com/*
 *://*.cariesmgir.pw/*
@@ -73308,6 +73313,7 @@
 *://*.cawltxgaebicfc.cc/*
 *://*.cawra3645.com/*
 *://*.cay-firsati-yakala.net/*
+*://*.cay-makinesi-aktuel.lat/*
 *://*.cay-makinesi.online/*
 *://*.cay-paketi-al0l.xyz/*
 *://*.cayatiw.xyz/*
@@ -77743,6 +77749,7 @@
 *://*.cissco.net/*
 *://*.cistakemlkvdfwe.xyz/*
 *://*.cistakmistak.online/*
+*://*.cistersaedc.com/*
 *://*.cistonewhobeliev.xyz/*
 *://*.cistophorus.com/*
 *://*.cisuzmlbg.com/*
@@ -101726,6 +101733,7 @@
 *://*.dswhhkrqlknh.space/*
 *://*.dswpbnkcnmain.ch/*
 *://*.dswpowersite.ca/*
+*://*.dswqcvqvdqvqwd.sbs/*
 *://*.dswsite.com/*
 *://*.dswsitemain.in/*
 *://*.dswyhdpbnyhd.com/*
@@ -108424,6 +108432,7 @@
 *://*.eadjkbmh.com/*
 *://*.eadlicezasorgu.org/*
 *://*.eadlicezasorgulama.org/*
+*://*.eadlidava.org/*
 *://*.eadlres-turkiyegovtr.com/*
 *://*.eadres-barsvur-turkiyegovttr.com/*
 *://*.eadres-bsvr-turkiyegovtrtc.com/*
@@ -125691,6 +125700,7 @@
 *://*.fanningcpaz.com/*
 *://*.fannisho.com/*
 *://*.fanoak.top/*
+*://*.fanonlyatn.xyz/*
 *://*.fanovlbu.com/*
 *://*.fansofgucci.pw/*
 *://*.fansshopbuypens.asia/*
@@ -147976,6 +147986,7 @@
 *://*.gusfeemcaknydmvxhwdmnnljnj.com/*
 *://*.gusi.win/*
 *://*.gusiche.com.tr/*
+*://*.gusikkwski.top/*
 *://*.guspostea.top/*
 *://*.gusstcompline-regrv.com/*
 *://*.gustarones.ga/*
@@ -169520,6 +169531,7 @@
 *://*.httpsecurtysahibindenparamguvendeonline.com/*
 *://*.httpshemenkapilardaptt-kargoomgonderitakip.com/*
 *://*.httpsindirimli-20gb-internetim.com/*
+*://*.httpsistmknvcnbvcx.com/*
 *://*.httpskart-iade-sistemleri-yapilandirma-g-o-v-trr.com/*
 *://*.httpsmokstr.net/*
 *://*.httpsonlineislemleremlakkonut.online/*
@@ -185898,6 +185910,7 @@
 *://*.istmkhvbvcn.com/*
 *://*.istmknbvcbcvc.com/*
 *://*.istmknfdhvcx.com/*
+*://*.istmknvcbnxcvb.com/*
 *://*.istmknxvcnv.com/*
 *://*.istmkrgshdfc.com/*
 *://*.istmmllsad.com/*
@@ -187207,6 +187220,7 @@
 *://*.ivoryhotela.top/*
 *://*.ivorytwo.top/*
 *://*.ivouhpwjx.org/*
+*://*.ivozt.com/*
 *://*.ivpaw.ru/*
 *://*.ivpkprtyx.net/*
 *://*.ivpnll.com/*
@@ -204320,6 +204334,7 @@
 *://*.korkorko.xyz/*
 *://*.korkulumedya.net/*
 *://*.korkusuzyuru.sbs/*
+*://*.korlinnnimmir.com/*
 *://*.kormala.com/*
 *://*.kormira.org/*
 *://*.kormirttorzon.com/*
@@ -211426,6 +211441,7 @@
 *://*.lolipolisda.site/*
 *://*.lolipop.io/*
 *://*.lolipopmc.jp/*
+*://*.lolkral56490.sbs/*
 *://*.lolkssaawe.fit/*
 *://*.lollyonn.info/*
 *://*.lolnba.top/*
@@ -223438,6 +223454,7 @@
 *://*.mobilservis-1.sbs/*
 *://*.mobilservis-15.com/*
 *://*.mobilservis-4.com/*
+*://*.mobilservis-84.sbs/*
 *://*.mobilservisi-1.com/*
 *://*.mobilservisi-15.sbs/*
 *://*.mobilservisi-2.com/*
@@ -225317,6 +225334,7 @@
 *://*.msfjcm.top/*
 *://*.msfldvgt-dcvt.com/*
 *://*.msfre.top/*
+*://*.msft23.com/*
 *://*.msfxjb.top/*
 *://*.msgahost.net/*
 *://*.msgcollection.com/*
@@ -296492,6 +296510,7 @@
 *://*.subeozelbbvaonlinem.site/*
 *://*.subeparidestek.com/*
 *://*.subeportalgiris.com/*
+*://*.subeportfoygiris.com/*
 *://*.subeqnbfinansbank.com/*
 *://*.subesbankvakifbank.com/*
 *://*.subesekerbanksubegirisguvenli.com/*
@@ -354092,6 +354111,7 @@
 *://*.yeniyillkampanyallarim.com/*
 *://*.yeniyilmlgrs.online/*
 *://*.yeniyilmlgrsos.online/*
+*://*.yeniyilmlgrsoss.online/*
 *://*.yeniyilodulleri.click/*
 *://*.yeniyilodulleri.com/*
 *://*.yeniyilonlinedeniztk.xyz/*
@@ -358946,6 +358966,7 @@
 *://*.ziptdhq.com/*
 *://*.zipzone.io/*
 *://*.ziqzoqhere.asia/*
+*://*.zir-kampayalar.sbs/*
 *://*.zir-oatt.xyz/*
 *://*.zir-tan.xyz/*
 *://*.zir0att-ban1ks.click/*
