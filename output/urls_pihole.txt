@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-12 22:58:00 UTC
-# Toplam: 454057 Domain
+# Son Güncelleme: 2026-05-12 23:54:36 UTC
+# Toplam: 454160 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -33233,6 +33233,7 @@ aesytr1.xyz
 aetherc2.duckdns.org
 aetherexe.com
 aethergrid.site
+aetherlabd.info
 aetheronix.shop
 aetherpanel.online
 aethertechno.site
@@ -52662,6 +52663,7 @@ aspectrulesme.ddns.net
 aspectwelcome.top
 aspeimoveis342235.online
 aspektnn.ru
+aspenglideupd.info
 aspernatur-quis.site
 asphgsz.com
 aspidochirota.com
@@ -56004,6 +56006,7 @@ axgmz1mr.duckdns.org
 axhackxa.ddns.net
 axhppv.duckdns.org
 axid.online
+axiomtalcu.top
 axionapp.shop
 axionapp.store
 axionhq.shop
@@ -65338,6 +65341,7 @@ bd-cll.com
 bd-dkaidatason.com
 bd-dkdaaidatson.com
 bd0n59.cn
+bd155polisi.online
 bd17bxc09.duckdns.org
 bd1vfzzwd.duckdns.org
 bd29p1au.duckdns.org
@@ -65927,6 +65931,7 @@ beamusdt.top
 beamversatile.cn
 beanappeasement.top
 beanblisscafe.com
+beandew.com
 beaned.ddns.net
 beanrabbit.top
 beansdeals-static.s3.amazonaws.com
@@ -79732,6 +79737,7 @@ blank-recommend.com
 blankbluff.top
 blankcapsule.top
 blankeligibility.top
+blanketsmoke.com
 blankorder.zapto.org
 blankwebagency.com
 blaoewoen.xyz
@@ -79816,6 +79822,7 @@ blcturkethbasvurusu.com
 blcturkkampanya.com
 blcturktrx.com
 bld.ddns.net
+bld155polisi.online
 bld155polisi155.online
 bldaradanrdansans.click
 bldgmelose.net
@@ -85178,6 +85185,7 @@ borg.wtf
 borgognoseriobattista.ml
 borgognoseriobattista.tk
 boriarent.online
+borilune.pro
 boring-diffie.31-210-39-124.plesk.page
 boringafloat.top
 boringemigrant.top
@@ -85910,6 +85918,7 @@ bralardmsdnyervarglsmzn.com
 braldatyzsdsaxc.com
 bralntree.com
 bralrasdmdsdsfk.com
+bramblefrondrty.top
 bramloosveld.be
 bramolekivu.com
 brancertrgris.com.tr
@@ -86403,6 +86412,7 @@ briaydawe.net
 briberyconcurrent.top
 bribestatic.top
 brickcloth.info
+brickcost.com
 brickgore.com
 brickrecur.top
 brickrotation.top
@@ -93241,6 +93251,7 @@ callusrsas.xyz
 calm-wildflower-1349.hellohiall.workers.dev
 calmcompassion.top
 calmequate.top
+calmerafireld.top
 calmingtefxtures.run
 calmlake07.top
 calmlass.top
@@ -95344,6 +95355,7 @@ catalogsumut.com
 catalogueincorporate.top
 catalogwise.top
 catalystexperience.com
+catalystfluxd.info
 catalystort.com
 catapeebisk.ddns.net
 catapultlearning.zapto.org
@@ -101893,6 +101905,7 @@ clearservice4upgrading.win
 clearsestaryrunek.com
 clearsflowsystems.com
 clearsystemwo.net
+clearthghinking.pro
 cleartnfzj.com
 cleartrajectory.live
 cleartransient.top
@@ -107682,6 +107695,7 @@ coral-quetzal-980490.hostingersite.com
 coralhearth.store
 coralsunmarine.com
 coraltribe.top
+coralveiltyd.pro
 coralyna.top
 corana-virus.healthcare
 corapalsat.com
@@ -107711,6 +107725,7 @@ coredale-pg.cloud
 coredeal2.vercel.app
 coreductase.com
 coreeevalue.com
+corefluxd.pro
 corefwdgroup.tk
 coreglide.site
 corei1amdx.cfd
@@ -107726,6 +107741,7 @@ corendonairlinestr.com
 corenext.site
 coreos.rest
 coreoven.top
+corephylli.pro
 coreservice224.ddns.net
 coreshex.click
 coresphere.cfd
@@ -107736,6 +107752,7 @@ coretest.digital
 coreturkiye.tk
 coreunit.site
 coreupdate.msoftupdates.com
+corevanter.info
 coreviewer.vercel.app
 corevista.online
 corevolatility.top
@@ -114160,6 +114177,7 @@ db-sorgulama-bilgilendirme.tk
 db.anindaislemmerkezi.com
 db.jpro-llc.com
 db.sistemonlinehizmet.com
+db155polis.online
 db155polisi.online
 db155polisi.site
 db155polisi155polisi.online
@@ -114927,6 +114945,7 @@ deepaichats.com
 deepallergic.top
 deepbluebay.com
 deepbroke.net
+deepconnghection.info
 deepextract.click
 deepface.pro
 deepfish.com.tr
@@ -121958,6 +121977,7 @@ destekkurumlari.org
 destekkurumu.com
 destekkvhgts.com
 destekkyardimmerkezzi.ml
+desteklem.nicepage.io
 destekleme-basvur.cfd
 desteklemebaskanligi.com
 desteklemehaberleri.com
@@ -129068,6 +129088,7 @@ dorhgsz.xyz
 doribre.pics
 doril.site
 dorinel.ddns.net
+dorinelum.pro
 dorjenmar.com
 dorkn.ddns.net
 dornaxa.shop
@@ -130043,6 +130064,7 @@ drifajizo.fun
 drifana.com
 drifftlogic.com
 driftcompan.top
+driftcoredf.top
 driftinexhaustible.top
 driftlance.org
 driftlucrative.top
@@ -131732,6 +131754,7 @@ dynamkloupet.info
 dynamo-fc-moscow.ru
 dynamobilet.ru
 dynamodevicegadgets.com
+dynamoforged.pro
 dynasstyl0gins.hopto.org
 dynastyjusticecollective.site
 dynastyvibration.top
@@ -146852,6 +146875,7 @@ emberedgegocolo.xyz
 emberfall.info
 embergocologlow.xyz
 emberlane.store
+emberlord.info
 emberpath.click
 emberpulsefun.com
 emberss.com
@@ -147119,6 +147143,7 @@ emg-sorgulama.net
 emg-sorgum.org
 emg-sorgusu.net
 emggsorgu.org
+emghotionalsupport.top
 emgmgqrq.cn
 emgr-efsillc.top
 emgr-efsllic.com
@@ -154389,6 +154414,7 @@ evengrollighromsof.net
 evengthetordo.com
 evengtounty.com
 evenindetation.top
+eveninggranite.info
 eveningsingle.net
 evenislem.22web.org
 evenportrait.top
@@ -159995,6 +160021,7 @@ fertileideology.top
 fertilelife.top
 fertileover.top
 fertilityamass.top
+fertilitysaving.com
 fertilizercustody.top
 fertilizerdeprive.top
 fertilizereligibility.top
@@ -165026,6 +165053,7 @@ flatterovturn.top
 flatteryadhere.top
 flatterysuite.top
 flatteryunderlying.top
+flattimesn.info
 flattopp.site
 flattranquil.top
 flatulently.com
@@ -165680,6 +165708,7 @@ fluxden.site
 fluxdens.crd.co
 fluxffortex.com
 fluxflare.online
+fluxgardena.pro
 fluxhorizon.online
 fluxio.digital
 fluxitoki.site
@@ -166248,6 +166277,7 @@ forficate.com
 forgame.bazar
 forgecosmetic.cn
 forgededuction.top
+forgejadei.pro
 forget-canal-chancellor-mas.trycloudflare.com
 forgetabout.top
 forgetfulcalcium.top
@@ -167624,6 +167654,7 @@ frontonasal.com
 frontpagereport.com
 frostcelery.top
 frostey92.ddns.net
+frostgiantd.info
 frostgocolochill.xyz
 frosthq.store
 frostiva.click
@@ -168530,6 +168561,7 @@ fusioncore.online
 fusioncore32023.hopto.org
 fusionlayer-app463.vercel.app
 fusionlayer-ext807.vercel.app
+fusionpeakd.pro
 fusionpulse.sbs
 fusionweary.top
 fusom.net
@@ -169435,6 +169467,7 @@ gaiwell-being.shop
 gaiwise.shop
 gaiwonderful.top
 gaixinh5.zapto.org
+gajingalews.pro
 gajnoyuoms.duckdns.org
 gak7naffekw.ru
 gakgala.sbs
@@ -177160,6 +177193,7 @@ ghost157.ddns.net
 ghost2212.ddns.net
 ghost23111.ddns.net
 ghost28.ddns.net
+ghostbladed.info
 ghostchecker.rf.gd
 ghostdns.ddns.net
 ghostegro.co
@@ -177477,6 +177511,7 @@ gildhroge.wcnv20.cn
 gilfonts.com
 gilforsenate.com
 gilgroup.com
+giliandersi.top
 gilimanbuhudirsan.hopto.org
 gilisautomoakilinesd.duckdns.org
 giliso7897.ddns.net
@@ -180498,6 +180533,7 @@ goldenminarets.site
 goldenmodule.com
 goldenpixel.cfd
 goldenprey.top
+goldenriftway.pro
 goldenring-kassa.ru
 goldenscent.net
 goldenscint.com
@@ -188373,6 +188409,7 @@ haberguns.website
 haberguru.co
 haberguru.net
 haberhizliplatform.com
+haberhizlisistem.com
 haberhizlitaksi.com
 haberhizliweb.com
 haberhome.club
@@ -211213,6 +211250,7 @@ hx2hchf.duckdns.org
 hx5i4ae0.duckdns.org
 hx7pmx.duckdns.org
 hx8elupi.duckdns.org
+hx92mvkq7.cfd
 hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 hxae.bnnhs.ru
 hxafxatnxixnxfxixrxsxaxxtlxaxrxi.xyz
@@ -211565,6 +211603,7 @@ hypercheck.ml
 hypercorex9smz.click
 hypercosine.ml
 hyperdrivealpha21vz8n.click
+hyperiondo.info
 hyperlanetech.com
 hypernovaecho.online
 hyperr.hopto.org
@@ -220781,6 +220820,7 @@ infformationews.com
 infi.web1337.net
 infikuje.freevnn.com
 infiniboosts.com
+infinilabd.info
 infinit-world.info
 infinite-7.com
 infinite-coinrewards.site
@@ -221297,6 +221337,7 @@ ingervolus.erophyderb.ru
 ingesube.com
 ingexion.ddns.net
 ingfirsatlari.tk
+inghnerstrength.info
 inghome-bank.icu
 inghome-online.icu
 inghosgeldin2019.com
@@ -224354,6 +224395,7 @@ iolio.top
 iolpf84ij.duckdns.org
 iomnorekavh.info
 iomsape.com
+ioncraftds.pro
 ionkgdylur.duckdns.org
 ionline-qnbfinansbank.com
 ionline-qnbfinansbankasi.com
@@ -237113,6 +237155,7 @@ jump.taucepan.com
 jump1ng.net
 jumpbasicgatebread.top
 jumpclutch.top
+jumperfloate.top
 jumpinthedream.com
 jumplixo.com
 jumplyx.com
@@ -259331,6 +259374,7 @@ liablesynthetic.top
 liagand.cn
 liaghohinc.duckdns.org
 liamelston.com
+liamseitfor.top
 lian-xing.com.tw
 liangtuqiche.com
 liangzhoujunyiquanbutui.top
@@ -259397,6 +259441,7 @@ licenseodqwmqn.shop
 licenseschool.top
 licfpnda.wcnv20.cn
 lichenkuan.workers.dev
+lichenwispupd.info
 lick.web1337.net
 licm29.com
 licuzhw6.duckdns.org
@@ -259448,6 +259493,7 @@ life23551cx12312.duckdns.org
 life272ptt.wordpress.com
 life4mono.xyz
 lifearacfilo.com
+lifebalghance.pro
 lifebegin.online
 lifebpg.com
 lifecars.com.tr
@@ -261458,7 +261504,9 @@ logicstationery.top
 logicstreamsystems.com
 logictrackngs.com
 logicunfair.top
+logifelsic.info
 logiin-yapikredii.com
+logikcraft.pro
 logikfermound.pro
 logili.duckdns.org
 logimetumasuiiiff.webflow.io
@@ -262195,6 +262243,7 @@ lorenvibek.top
 lorenzomorales.duckdns.org
 loretico.duckdns.org
 lorettawarner4875.xyz
+lorevantpoint.top
 loribarker.ca
 lorimartwork.com
 lorina.click
@@ -262410,6 +262459,7 @@ lownak.com
 lowrizm.xyz
 lowspeed121.ddns.net
 lowsubsistence.top
+lowtidecorner.info
 lowturmoi.top
 lowwl4iog.duckdns.org
 lowyergrens.top
@@ -265410,6 +265460,7 @@ maidallocation.top
 maidany-azady.zapto.org
 maidarm.ru
 maidcompletee.com
+maideloyaro.pro
 maidenheadll.ddns.net
 maidentower.site
 maidnegligent.top
@@ -268542,6 +268593,7 @@ marvalk.click
 marvb1stfrom.shop
 marvelcalcium.top
 marveleaster.top
+marvelionstreet.pro
 marvellouspeep.top
 marvellousportfolio.top
 marvellousreputable.top
@@ -269055,6 +269107,7 @@ matterdrive.top
 matterenforce.top
 matterinnious.top
 matterpasta.top
+matterposter.pro
 mattertoast.top
 mattewigs.com
 matthacking.duckdns.org
@@ -271122,6 +271175,7 @@ melonyc.com
 melooyna03.com
 melord.ddns.net
 melorintguy.xyz
+melorinu.top
 melosamz.com
 melosentoduro.ddns.net
 melosiar.com
@@ -272422,6 +272476,7 @@ metrikbrandels.pro
 metrikcs.com
 metris1nolu.net
 metrixdev.icu
+metrixfolers.pro
 metro-exodus.ddns.net
 metro-internet.com
 metro-onlinaccess.com
@@ -274595,6 +274650,7 @@ ml.warzonedns.com
 ml13fyq5dchdm.zapto.org
 ml22krz.com
 ml3.freeddns.org
+ml55polisi.online
 mlabgp.top
 mlanlmanmla.net
 mlasanna.net
@@ -279166,6 +279222,7 @@ mosquitomelt.top
 mossadapi.tk
 mossadapii.tk
 mossatelier.store
+mossgroved.top
 mosslano.in
 mossory.asia
 mossovet-afisa.ru
@@ -282532,6 +282589,7 @@ musterigiris.online
 musterigiris.site
 musterigiris.xyz
 musterigirisak.click
+musterigirisekranim.sbs
 musterigirisi-yapikredi.com
 musterigirisi.online
 musterigirisivakfbankmobil.tk
@@ -288031,8 +288089,10 @@ nexusbusinesscore.com
 nexuscoveinccorp.com
 nexusfern.com
 nexusfleck.com
+nexusforged.pro
 nexuslagoon.com
 nexusquirk.com
+nexussapro.pro
 nexussolutionspk.com
 nexusstore.co.th
 nexusweb.online
@@ -288582,6 +288642,7 @@ nightnaive.top
 nightovermurdamerostaraterd.net
 nightpieceenergy.top
 nightskyco.com
+nightstalkerd.pro
 nightstreet.toh.info
 nightvector.vu
 nightywear.com
@@ -290325,6 +290386,7 @@ northice.xyz
 northlong.top
 northogden572.xyz
 northpoleroute.com
+northquietude.top
 northside.hopto.org
 northsidegrowco.com
 northtracing.net
@@ -293529,6 +293591,7 @@ o-n-l-i-n-e-b-a-s-v-u-r-u.net.tr
 o-n-l-i-n-e-b-a-s-v-u-r-u.org.tr
 o-nlineislemtrismobilgiris.online
 o-nlinemenuishaberinmerkezigiris.online
+o-o155polisi.online
 o-oo.vip
 o-pan.online
 o-panel.online
@@ -293564,6 +293627,7 @@ o13c0hm.duckdns.org
 o14aq4m1m.duckdns.org
 o14ovo.avjjx.ru
 o155-polis.online
+o155-polisi.online
 o155polis.online
 o155polisi.online
 o155polisi155.online
@@ -296239,6 +296303,7 @@ ol1pez123.ddns.net
 ol22alsdsdf213.site
 ol2d.nicepage.io
 ol4d1f.duckdns.org
+ol55polis.online
 ol55polisi.online
 ol5t621z8.duckdns.org
 ol8yj.uqauv.cn
@@ -302759,6 +302824,7 @@ orbitallyv.com
 orbitalpulse.online
 orbitalreherse.top
 orbitalunderlie.top
+orbitalynd.pro
 orbitaran.com
 orbitaranto.com
 orbiter.pm
@@ -302770,6 +302836,7 @@ orbitisan.com
 orbitisn.com
 orbitlane.click
 orbitont.com
+orbitpeakd.top
 orbitpettystudio.fun
 orbitstack-app318.vercel.app
 orbitstack-ext592.vercel.app
@@ -303305,6 +303372,7 @@ osdsykasto.net
 osdvnkdfnss.hopto.org
 osedctoscamse1.net
 oseeujmg.org
+oselt-lgrnlsaok.myonlineportal.ch
 osenamoney.top
 osendelsdgc.com
 osenfginsedo.com
@@ -313390,6 +313458,7 @@ pearvh.ddns.net
 peasanteloquent.top
 peasantlawsuit.top
 peasplecore.net
+peatreachlessd.info
 peatship.com
 peawhereby.top
 pebbletrail.site
@@ -318835,6 +318904,7 @@ preconcertedness.com
 precondemnation.com
 pred.loveslife.biz
 predador12.ddns.net
+predatomaise.top
 predator.host
 predatord.top
 predatordesolate.top
@@ -319437,6 +319507,7 @@ prise-l-g-r-n-l-p.myonlineportal.ch
 prisectos.top
 prisirsimnova.xyz
 prism-west-candy.glitch.me
+prismaticd.pro
 prismisq.com
 prison-gov-bd.dwnlld.info
 prisonersprinkle.top
@@ -325747,6 +325818,7 @@ pulsario.online
 pulse.herosms.cc
 pulseadnetwork.com
 pulseathermakf.com
+pulsebasap.pro
 pulsecelebrity.top
 pulsecorner.life
 pulseheadline.online
@@ -325758,6 +325830,7 @@ pulseriseglobal.com
 pulsetreinkom.info
 pulseverse.website
 pulsevictory.top
+pulsewarde.top
 pulsewhiz.com
 pulsewiremedia.com
 pulwce.duckdns.org
@@ -329414,6 +329487,7 @@ quantumlighthouse.top
 quantummora.com
 quantummyself.top
 quantumoptimum.top
+quantumpathd.top
 quantumpeak.store
 quantumshift.website
 quantumsirinwave.xyz
@@ -332650,6 +332724,7 @@ realtradebot.icu
 realtrustcoin.com.tr
 realturk.company
 realturkprof.com
+realturkupdate.com
 realty.yourpgcountyliving.com
 realtyypro.com
 realvar.com
@@ -334062,6 +334137,7 @@ releasesubordination.top
 relentlessesteem.top
 relentlessindulgent.top
 relentlessnoteworthy.top
+reletionquest.pro
 relevanceclearing.top
 relevancedisarmament.top
 relevancediscourse.top
@@ -334358,6 +334434,7 @@ renouvel-cartevital.ddns.net
 renouvellement-info.ddns.net
 renouvellementsante.ddns.net
 renouvinfo-ameli.ddns.net
+renovantcorner.top
 renovateai.pages.dev
 renovatemonopoly.top
 renovatica.online
@@ -348054,6 +348131,7 @@ sd26z5toc.duckdns.org
 sd8yq6i4.duckdns.org
 sd9jyj1n7.duckdns.org
 sda254wa.cf
+sda321314.duckdns.org
 sdaallah53453.com
 sdaceconlaneozelfrsat.blogdns.org
 sdadasdas.net
@@ -350324,6 +350402,7 @@ sedenburdayk.xyz
 sedenizbank.com
 sedentariness.com
 sedforgodu.com
+sedgepufftyd.pro
 sedhe.shop
 sediragaci.tk
 sedisbozum.com
@@ -352660,6 +352739,7 @@ sernientrega.sbs
 sero3d.xyz
 seroboybyli.net
 serohgs3d.xyz
+seroluni.pro
 serotlyuklecll.net
 serozha-mxt.ru
 serpa-id2891.world
@@ -352707,6 +352787,7 @@ serv3-app-system4.com
 serv33gver23.duckdns.org
 serv545-09cod88.ddns.net
 serv98.obs.af-south-1.myhuaweicloud.com
+servalingarden.pro
 servalserv.hopto.org
 servant.squareducks.download
 servantadvice.xyz
@@ -354566,6 +354647,7 @@ shadowlord.ddns.net
 shadownet77.zapto.org
 shadowone.ddns.net
 shadowraze.pw
+shadowreaper.pro
 shadowtix.zapto.org
 shadowtoxicsgarden.ddns.net
 shadpcsverification.zapto.org
@@ -357851,6 +357933,7 @@ silentcourier.ru
 silentderto.ddns.net
 silentember.top
 silentframenow.com
+silentharbor.top
 silenthil.top
 silenthill88.top
 silentlegion.duckdns.org
@@ -360563,6 +360646,7 @@ skttxrdwucbw.hbmc.net
 skudarevon.com
 skulbntr.online
 skull247.cf
+skullcrusherd.pro
 skullisland.ml
 skullsalmon.top
 skullservices.tk
@@ -363104,6 +363188,7 @@ solaoscar-fibra.ddns.net
 solaraics.com
 solaraixcs.com
 solaralvuraboutique.com
+solaraxisd.top
 solarbayz.com
 solarcitythat.click
 solarcomplexion.top
@@ -363283,6 +363368,7 @@ solve.jenj.org
 solveconcise.top
 solvedilute.top
 solvenix.art
+solvenorview.top
 solvent-arc.online
 solventrecurrence.top
 solventretrospect.top
@@ -365026,6 +365112,7 @@ sorhaasrr.net
 sorhsgz.xyz
 sorihino.com
 sorimavex.com
+sorimel.pro
 sorjxavfp.com
 sorklamabakyedw.com
 sorksasalt.duckdns.org
@@ -369092,6 +369179,7 @@ starlightfb.top
 starlightforge.online
 starlightforge.shop
 starlightforge.space
+starlinkprod.pro
 starnhere.com
 starofliught.top
 starplatform.xyz
@@ -369541,6 +369629,7 @@ steliro.pro
 stellacheck.com
 stellacy.tk
 stellar-stable-faith.top
+stellardockd.top
 stellarforge.store
 stellargocolorift.xyz
 stellarhaven.store
@@ -370220,6 +370309,7 @@ stream.vanindsdb.com
 stream.zoeltwsaw.com
 streamable-vid.com
 streamable.com.tr
+streambepro.top
 streamblend.website
 streambyte.cyou
 streamcommunity.hopto.org
@@ -383602,6 +383692,7 @@ thosespace.net
 thotiana.live
 thou21ghtfultrigger.top
 thoughdressing.top
+thoughghtleader.pro
 thoughlegacy.top
 thoughnothing.net
 thoughpalyse.top
@@ -409049,6 +409140,7 @@ valentinpaketleme.site
 valentinvest37.patrickbonfim.net
 valentoro.top
 valeraservice.hopto.org
+valerionpark.pro
 valerius.online
 valero-vip.com
 valerocolection.co.id
@@ -409904,6 +409996,7 @@ vaytiennhanh.us
 vayvonvietcombank24h.net
 vaywcrsqesbynxs.su
 vayyapma.net
+vayziraeewks.nicepage.io
 vazawoweso.online
 vazbcnvcabncvanb.net
 vazwymj.com
@@ -410533,6 +410626,7 @@ veltru.digital
 veltrunz.com
 velttrixora.com
 velunaxi.com
+velunori.top
 veluntra-technology-productivity-boost-cold-pine-8f29.ellenplum9.workers.dev
 velupra.pro
 veluranoq.com
@@ -412220,6 +412314,7 @@ vernuxet1.website
 verodmehzmt.net
 verolalia.dyndns.org
 verolineengineers.com
+verolumi.pro
 veronllinemislemenutr.space
 veroxus.duckdns.org
 verperterning.com
@@ -412292,6 +412387,8 @@ verta.my-homeip.com
 vertedfe.b-cdn.net
 vertenrg.org
 vertexgl.pro
+vertexlabd.info
+vertexserp.info
 vertgji-22odemse.net
 vertia-zcea001.click
 vertia-zcea001.info
@@ -414626,6 +414723,7 @@ voidfoil.top
 voidlubricate.top
 voidpartisan.top
 voidquery.top
+voidreaver.pro
 voidrover-hjsi.xyz
 voidsentinel.space
 voidspark.online
@@ -415023,6 +415121,7 @@ vpodmosk.ru
 vpogywaxxs.duckdns.org
 vpojwxdw.click
 vpokgjtyih.info
+vpolisi155.online
 vppaieqoxo.duckdns.org
 vppapara.com
 vppwvynzct.duckdns.org
@@ -420544,6 +420643,7 @@ welfareregime.top
 welfaretermination.top
 welfaretibet.tk
 welfmem.net
+welghlbeingguide.info
 welingz.com
 welkorfe.com
 well-beingbeak.top
@@ -430934,6 +431034,7 @@ x12lksalclcl123x1ksc.sbs
 x12vn2.duckdns.org
 x12y.restrice.ru
 x133ed344.eu
+x13kkaskckl123x123.shop
 x14.xxxatat456.com
 x155polisi.online
 x17dxaqaw.duckdns.org
@@ -437669,6 +437770,7 @@ xyzyuklemelere1.sg-host.com
 xz.apps-store.im
 xz0naj.duckdns.org
 xz1cc9ons.duckdns.org
+xz21x513z123c321.cyou
 xz21x513z123c321.shop
 xz23x123dsdsas.duckdns.org
 xz26c.xyz
@@ -449815,6 +449917,7 @@ zenithflow-ext156.vercel.app
 zenithmono.cfd
 zenithotel.world
 zenithploumex.pro
+zenithpointd.top
 zenithwin661.info
 zenitorizon.com
 zenixmedia.com.tr
