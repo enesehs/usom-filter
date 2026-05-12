@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-12 13:28:56 UTC
-# Toplam: 453899 Domain
+# Son Güncelleme: 2026-05-12 16:09:39 UTC
+# Toplam: 453927 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20028,6 +20028,7 @@
 826r20a.duckdns.org
 8271431043.duckdns.org
 8274514.dfgqdsd.ru
+82762724224.duckdns.org
 8276912.brizy.site
 82813.club
 828282-111-11.com
@@ -47649,6 +47650,7 @@ api.kkkkkdajlhlkjhsdewgtuv.com
 api.kpzip.com
 api.lokrrclk.com
 api.m-vasdms2.nth.c
+api.masscan.cloud
 api.metrics-trustwallet.com
 api.microsofed.com
 api.microsoft-ns1.com
@@ -92056,6 +92058,7 @@ byrmda-birlikteyiz-heran-variz.pro
 byrmfirsatlari.click
 byrmfirsatlaristnly.xyz
 byrmfrlekcmz.com
+byrmkmpn-yasi.xyz
 byrmlr-1hzirans1.com
 byrmmda-birlikteyiz-heran-variz.com
 byrmmda-birlikteyiz-heran-variz.pro
@@ -102478,6 +102481,7 @@ clouds.rf.gd
 cloudsave.duckdns.org
 cloudsbox.net
 cloudsecure.space
+cloudservbr.com
 cloudserve.online
 cloudserverapi.com
 cloudservice.tw
@@ -108332,6 +108336,7 @@ cozyhowl.top
 cozykernel.com
 cp-is-statik.myonlineportal.ch
 cp.4jhlti79.ru
+cp.dene.de.com
 cp.envisionfonddulac.biz
 cp00jx0.duckdns.org
 cp0apbe.duckdns.org
@@ -123839,6 +123844,7 @@ diarycruise.top
 diaryheroin.top
 diarypasture.top
 diarypudding.top
+diarysafe.cyou
 diarysuitepause.com
 diarywaive.top
 diaryxpect.top
@@ -177365,6 +177371,7 @@ gigabitsoftware.com
 gigabrainsmp.ddns.net
 gigaga.de
 gigakolors.club
+gigalocker.bond
 gigamarket.club
 gigantichavoc.top
 giganticideology.top
@@ -178907,6 +178914,7 @@ git-basvuruyapv.cfd
 git-hub.me
 git-idarixodemeai.com
 git-sahibindeguvendeparam.com
+git-tanstack.com
 git.tc
 git.tzsafe.com
 git1ab.com
@@ -214928,6 +214936,7 @@ idarigise.xyz
 idarikamudosya.org
 idarikamusorgu.org
 idarikamusorgulama.org
+idarikurum.org
 idarimerkezdenetleme.com
 idarisorgu.org
 idarisorgubilgi.org
@@ -215994,6 +216003,7 @@ ihtiras.420community.tech
 ihtiyabasvurudepartmaniv.com
 ihtiyac-kredi.com
 ihtiyacal.site
+ihtiyacbasvurularsim.duckdns.org
 ihtiyacformuacikdenizv2denizbank.co.vu
 ihtiyacgenelbasvurukabul.com
 ihtiyacgunlerin-sokta.com.tr
@@ -221084,6 +221094,7 @@ infoyatirim.pro
 infoyatirim.work.gd
 infoyatirimsube.com
 infozoompulse.shop
+infra-telemetry.com
 infraction.ddns.net
 infrahive.shop
 infraoccipital.com
@@ -247477,6 +247488,8 @@ kgmoo.top
 kgmos.cc
 kgmos.top
 kgmostrgov.cyou
+kgmostrgov.sbs
+kgmostrgov.top
 kgmotogcsodmeler.duckdns.org
 kgmotoyollari-merkezitakipsistemleri.com
 kgmotoyolmobilgc.duckdns.org
@@ -258786,6 +258799,7 @@ lesswatt.top
 lestemps.ru
 lesvi.com
 lesvtqonh.com
+lesyatsmhzmt.com
 let-go-guvenli-alisveris.com.tr
 letbaablclmoutsin.duckdns.org
 letcalneeveng.com
@@ -258928,6 +258942,7 @@ levkrut.hopto.org
 levocumbut.com
 levoeuevents.com
 levonside.space
+levri.cfd
 levsbacs.com
 levscasale.shop
 levsvalix31.com
@@ -259987,6 +260002,7 @@ lino4glaca.today
 linoo.wenxinzhineng.top
 linpttinteraktif.com
 linq.ink
+linrtp.makeup
 linshenlubosuxingwenqingsilansixin.top
 linshor.com
 lint-g-r-n-l.my-homeip.de
@@ -284361,6 +284377,7 @@ n11task.cc
 n11task.com
 n122345.ddns.net
 n12eas-fasq2363f.com
+n155polisi.online
 n17u2847j.duckdns.org
 n19som6.cn
 n1bhuq.duckdns.org
@@ -323156,6 +323173,7 @@ pttavmbireyselim.com
 pttavmbireyselpos.wixsite.com
 pttavmbireyselsatici.com
 pttavmbireyselsaticim.com
+pttavmbireyselsepetim.com
 pttavmbireyselticaret.com
 pttavmcebimde.com
 pttavmcma.com
@@ -352664,6 +352682,7 @@ serverguarditweb.com
 serverhost88.hopto.org
 serverhoster2.hopto.org
 serverhosthack.ddns.net
+serverhubx.cyou
 serverhug.zapto.org
 serverid-itm90124.duckdns.org
 serverinfo0verify.ddns.net
@@ -359867,6 +359886,7 @@ sizleri-taniriz-kalbinizden-bag-kurduk-burada.com
 sizleri-taniriz-kalbinize-bizle-kurduk-burada.xyz
 sizleri-yilbasina-girerken-burada-mutlu-ederiz-kacirma.com
 sizleriagirlar.duckdns.org
+sizleribeklerizzz.sbs
 sizleribekleyenharikafirsatlar.com.tr
 sizleribekleyenharikafirsatlar.online
 sizleribekleyenharikafirsatlar.xyz
@@ -362830,6 +362850,7 @@ sokoltech.ir
 sokonline.com.tr
 sokozelfirsat.com
 sokozelfirsatlar.com.tr
+sokozelmarketekrani.sbs
 sokpazarfirsati.shop
 sokpctfsrtkclmzasyfaa.com
 sokramazan.cfd
@@ -402974,6 +402995,7 @@ updaterituals.com
 updaterputty.com
 updaterweb.com
 updates-installer.store
+updates.checkmarx.cx
 updates.dailydownloads.net
 updates.utyuytjn.com
 updates.wiki
@@ -412456,6 +412478,7 @@ vfsqlobel.com
 vftluqmg.com
 vfuco.com.au
 vfuedcvxgjir.space
+vfvdsdsdfs.sbs
 vfwda0.duckdns.org
 vfzlfxrfzd.duckdns.org
 vg1cwn.duckdns.org
@@ -423156,6 +423179,7 @@ wps.wpsonline.co
 wpseed.com
 wpsice.com
 wpsizyeri.com
+wpsock.com
 wpt04l.duckdns.org
 wpthemify.com
 wptium.com
@@ -423984,6 +424008,7 @@ wrmineryy.top
 wrminerza.top
 wrmqmhvdom.com
 wrncxvfgij.duckdns.org
+wrned.com
 wrnpy7r.xdk8ax.cn
 wrny.ddns.net
 wrocha000.zapto.org
@@ -446578,6 +446603,7 @@ yonlendirmesfsadsssfa.xyz
 yonlendirmeveaktarimservisi.my
 yonlendirmveaktarimekrani.lat
 yonlendirsiliyorsunu2a.duckdns.org
+yonlendiryorsesd2d.space
 yonlendlrmeadresleklm.duckdns.org
 yonlendrci.webredirect.org
 yonlendrici-guvenli.sbs
@@ -447085,6 +447111,7 @@ yrdim-online-destek-gov.club
 yrdmdestek-paketi-gov.club
 yrdmelivkf.org
 yrdr1.xyz
+yreosaocaknsaaca.cfd
 yrffgt.click
 yrfnbihotedc.com
 yrgu07.duckdns.org
@@ -448410,6 +448437,7 @@ yyds2222226.xyz
 yyds222222best.cyou
 yydsma.com
 yydsmd.com
+yydzdcfsrmrket.cfd
 yydzdsrmrket.cfd
 yyedafx0.duckdns.org
 yyeeessshhh.xyz
