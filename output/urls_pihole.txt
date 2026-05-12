@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-12 20:23:02 UTC
-# Toplam: 453956 Domain
+# Son Güncelleme: 2026-05-12 21:59:16 UTC
+# Toplam: 454057 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -42346,6 +42346,7 @@ aldinburadancaylariniz.store
 aldincarsambatesterekampanyasi.xyz
 aldincaylarinizindirimli.sbs
 aldincaylaripaket6.store
+aldincaymakine.lat
 aldincaypaketleri.net
 aldincaypaketli6.net
 aldinda1.com
@@ -45285,6 +45286,7 @@ amironhubs.shop
 amironhubs.site
 amironhubs.store
 amironlabs.shop
+amironlabs.site
 amironlabs.store
 amirziv.info
 amishaiscomeback.net
@@ -50759,6 +50761,8 @@ arefulretrieva.top
 aregreatyouperfect.buzz
 arekateaksal.online
 arekm.hopto.org
+areluxo.shop
+areluxo.store
 aremexss549.blogspot.com
 aremfurnoejvuut.ru
 arena-abudhabi.com
@@ -52141,6 +52145,7 @@ asentishq.store
 asentishubs.shop
 asentishubs.site
 asentishubs.store
+asentislabs.shop
 asentislabs.site
 asentislabs.store
 aseqhqeadasdiqeg.net
@@ -79782,6 +79787,8 @@ blazeston.com
 blazingpack.ddns.net
 blazingradiancesolar.com
 blazingsupport.ws
+blazora.shop
+blazora.site
 blazywound.ignorelist.com
 blazzert.hopto.org
 blb-i.blogspot.com
@@ -86561,6 +86568,7 @@ britishofficefitout.com
 britorikanosa.top
 britstep.digital
 brivanahubs.shop
+brivanahubs.store
 brixc.hopto.org
 brixxxpizza.com
 brizalor.com
@@ -89672,6 +89680,7 @@ buradakiler-son-saniyeler-cok-onemli-burada.com
 buradakimlervar.sbs
 buradakisimdidefirsatlar.xyz
 buradakiurnlerikcrmayinsakin.shop
+buradamutluveucuz.com
 buradan-aktarvesorgu.cyou
 buradan-al.club
 buradan-aldin-nereden-geldi.com
@@ -92027,7 +92036,9 @@ bynedestin.com
 byneq.com
 bynerader.buzz
 bynsb116.duckdns.org
+byntra.store
 byntrahubs.shop
+byntrahubs.store
 byocefgs.com
 byolf159.duckdns.org
 byolllc.net
@@ -93279,6 +93290,9 @@ calverohubs.store
 calverolabs.shop
 calverolabs.site
 calverolabs.store
+calvex.site
+calvex.store
+calvexapp.site
 calvexhubs.site
 calvexo.shop
 calvexo.site
@@ -98968,8 +98982,10 @@ chanmiraiserver1.duckdns.org
 channel-review.org
 channelaffirm.top
 channelapp.shop
+channelapp.site
 channelengine-market1.app
 channelfacet.top
+channelhq.shop
 channelhq.site
 channelhubs.shop
 channelhubs.site
@@ -102266,6 +102282,7 @@ cloors-exramen.com
 clooudarity.com
 clopanel.com
 clopser.com
+clorentaly.store
 clork.ru
 clos.my-style.in
 close-h.xyz
@@ -115455,6 +115472,7 @@ delvys.com
 delwafn.com
 delyra.shop
 delyrahubs.shop
+delyrahubs.store
 delyvora.pics
 delzdigi.com
 dem.businessdeep.com
@@ -115503,6 +115521,7 @@ demicileremlak.com
 demigengsi-amazon.duckdns.org
 demileighthorne2.xyz
 demir-oren-haber-ajans.com
+demira.store
 demirbasvruonay.net
 demirbasvuru.net
 demirbursyardim.org
@@ -126490,6 +126509,7 @@ distributorgalvalumeimport.com
 distributors-marble-saddam-much.trycloudflare.com
 districtjudiciarycharsadda.gov.pk
 districtobsess.top
+districtsop.com
 districtspectacular.top
 distrilyy.net
 distrimuelles.com
@@ -146637,7 +146657,10 @@ elvedaseneler.net
 elverenler.com
 elversymdestek.org
 elvfdjdzkx.duckdns.org
+elviroapp.store
+elvirohubs.store
 elvirolabs.shop
+elvirolabs.site
 elviyekodiker.com
 elvjhdkxe.info
 elvkrlkrfmdm.net
@@ -146650,12 +146673,14 @@ elxcuvfkz.com
 elxmklroaldemela.net
 elyassavage325.xyz
 elyeso.ip-ddns.com
+elyntis.shop
 elyntis.site
 elyntis.store
 elyntisapp.shop
 elyntisapp.store
 elyntishubs.shop
 elyntishubs.site
+elyntishubs.store
 elyntislabs.shop
 elyntislabs.site
 elyntislabs.store
@@ -153283,6 +153308,7 @@ etrmsrmsrnszcma.net
 etrn-bash.net
 etrngq.com
 etrnobiledigitalereklam.space
+etrona.shop
 etronlineduyuru.com
 etronlinehizmetimiz.ga
 etronlinehizmetimiz.ml
@@ -155669,6 +155695,7 @@ examplelounge.top
 exampleporter.info
 examplepresuably.top
 examplevicious.top
+exanova.shop
 exasearch.fun
 exat.dnset.com
 exata-contabil.com.br
@@ -159823,7 +159850,9 @@ fenoraapp.shop
 fenorahq.shop
 fenorahq.store
 fenorahubs.shop
+fenorahubs.site
 fenoralabs.shop
+fenoralabs.site
 fenoralabs.store
 fenoraxis.sbs
 fenory.store
@@ -165065,6 +165094,7 @@ flerix.site
 flerix.store
 flerixapp.shop
 flerixapp.site
+flerixapp.store
 flerixhq.shop
 flerixhq.site
 flerixhq.store
@@ -168771,6 +168801,7 @@ fyn001.ddns.net
 fynlith.com
 fynthera.qpon
 fyntor.shop
+fyntor.site
 fyntraapp.shop
 fyntrahq.store
 fyntrahubs.store
@@ -168782,6 +168813,7 @@ fypfbanking-adminstorrepodt.duckdns.org
 fyqbzi.top
 fyqemo.site
 fyqlrcotolxsrnnav.org
+fyralex.store
 fyrazome.store
 fyrenzas.com
 fyrrststs32.xyz
@@ -176393,6 +176425,7 @@ getnoventra.site
 getnovira.site
 getns54tope.top
 getnymira.shop
+getnymira.site
 getobject49.marginisbi.ru
 getodeme-guvende.com
 getodeme-tr.online
@@ -176401,9 +176434,12 @@ getodemesahibindentr.app
 getodemesahibnden.com
 getodemesisahibinden.com
 getodentihizmetleri.com
+getolthira.shop
 getolyra.shop
+getolyra.site
 getolyra.store
 getolytrix.shop
+getolytrix.site
 geton-param-guvende-get-guvenli-odeme.com
 getonlineparamguvende.com
 getonlinesubesi.gq
@@ -176452,9 +176488,11 @@ getphalven.store
 getpolnex.store
 getprofit-bankislam.com
 getpromo.me
+getpupple.site
 getpupple.store
 getpwnedlmfao.ddns.net
 getpyratex.store
+getpyrithos.shop
 getpyrithos.site
 getqeptot.store
 getqilven.shop
@@ -176556,6 +176594,7 @@ getsahibndenguvende.cfd
 getsahibnndenilan-satsguvnde-com.ml
 getsahiibiindentr-paramguvende.ml
 getsaldora.shop
+getsaldora.site
 getsaldora.store
 getsales.com.tr
 getsatis-sahibinden.com
@@ -176625,6 +176664,7 @@ gettarvion.site
 gettarvion.store
 gettdnzweb.site
 gettguvenliodeme.ru.com
+gettharix.shop
 getthe.fun
 getthe.online
 getthe.tech
@@ -184465,6 +184505,7 @@ guncelhasarbilginiz.blogspot.com
 guncelhat.online
 guncelhgsborcsorgu.org
 guncelhizli-aldatsistemi.online
+guncelhizlihikaye.com
 guncelhizliyuklemeler.sg-host.com
 guncelhizmet.online
 guncelhizmetler.xyz
@@ -215665,6 +215706,8 @@ igmedia-assistant.com
 igmenkuldegerler.com
 igmetacopyrightportal.ml
 igmetaportal.com
+ignara.shop
+ignara.site
 ignflt.duckdns.org
 ignite123.xyz
 ignite8563.xyz
@@ -236306,6 +236349,7 @@ jolytur.com.tr
 jom85g.duckdns.org
 jomamba.best
 jomehjob.com
+jomera.shop
 jomesterest.com.tr
 jomesterr.com.tr
 jomestet.com.tr
@@ -239509,6 +239553,7 @@ kaliteliurunlesr.com
 kalitem.xyz
 kalitenin-adresi.com
 kaliteninadresii.com.tr
+kalithra.shop
 kalivenashsizicokseviooorrr.net
 kalivesarta.com
 kalkalma.com
@@ -264716,6 +264761,7 @@ maan.hopto.org
 maansmeahs.in
 maantfragility.top
 maarrtta-indiirrrmmlleriina1o1de.shop
+maaspromosyon.my-homeip.de
 maasssa.duckdns.org
 maasyapi.xyz
 maat.f5network.com.br
@@ -269642,6 +269688,7 @@ mayistadenizvurgunlari.click
 mayistaharcligin.com
 mayistaharcliginiz.com
 mayistaki-firsatlar-kapinda.online
+mayistamutluyuz.com
 mayistanharcigincepte.com
 mayistasonhizmet.com
 mayisyonlendrlme.com
@@ -270705,6 +270752,7 @@ meetralvoro.shop
 meetralvoro.store
 meetroomonlin1925.w3spaces.com
 meets-gooie.com
+meetsmedias.com
 meettrek.top
 meetvelora.shop
 meetviberapi.com
@@ -274756,6 +274804,7 @@ mmhhrhhrhrrs58.sbs
 mmhhrhhrhrrs59.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs61.sbs
+mmhhrhhrhrrs62.sbs
 mmhhrhhrhrrs7.sbs
 mmhhrhhrhrrs9.sbs
 mmhkmazlh.duckdns.org
@@ -284041,6 +284090,7 @@ myredirectch.hopto.org
 myrepository.name
 myrepositoryx.com
 myridian.site
+myrionix.shop
 myrjyfmqja.duckdns.org
 myrnicrosoft.com
 myrobdithet.ru
@@ -286445,6 +286495,7 @@ nerelerden-geldim-bunlari-almak.com
 nerelerden-geldin-buralarda-buldun.com
 nerelere-geldiniz-burdayiz-bizler.com
 nereleregidelim.net
+nerelix.site
 neremedysoft.com
 neresteh.com
 nerevstoys.xyz
@@ -293889,6 +293940,7 @@ obilet-kampanya.uk
 obilet-online.com
 obilet-tr.com
 obilet-www.nl
+obilet-www.online
 obilet.info
 obilet.live
 obilet.pro
@@ -302124,18 +302176,24 @@ opendisclosure.org.za
 opendnsapi.net
 opendnscloud.com
 opendocument.shop
+opendocument.site
+opendocument.store
 opendoorcdn.com
 opendrivecouldrsafinder.com
+openelement.site
 openelement.store
 openertrivial.top
 openevent.shop
 openfile-attachment.com
 openformat.shop
+openformat.site
 openformat.store
 openfunction.shop
 opengroup.homeunix.org
 openheartljiving.tech
 openinformation.shop
+openinformation.site
+openinformation.store
 openingfile.net
 openingoverture.store
 openingpatriot.top
@@ -302147,6 +302205,7 @@ openlayerd.com
 openlibrary.ignorelist.com
 openlimit.shop
 openlimit.store
+openlist.site
 openlist.store
 openlyintellect.top
 openlymgir.pw
@@ -302156,9 +302215,11 @@ openmatrix-ext539.vercel.app
 openmd5.com
 openmeadow.click
 openmeasure.shop
+openmeasure.site
 openmeasure.store
 openmeltoxa.store
 openmessage.shop
+openmessage.site
 openmessage.store
 openmethod.shop
 openmindway.online
@@ -302176,11 +302237,14 @@ openprojectgate.com
 openralvoro.shop
 openralvoro.store
 openrecord.shop
+openrecord.site
 openrecord.store
 openreserve.shop
 openresponse.shop
+openresponse.site
 openresponse.store
 openroadsolutions.com
+openrovexa.store
 openscope.online
 opensea-player.com
 openseapromohub.store
@@ -302199,15 +302263,19 @@ opensteak.top
 openstore.club
 openstreetpro.com
 openstructure.shop
+openstructure.site
 openstructure.store
 opentechcorp.net
 opentop.store
 openunit.shop
 openversion.shop
+openversion.site
+openversion.store
 openvireon.store
 openvista.click
 openvista.club
 openvolume.shop
+openvolume.site
 openvolume.store
 openweb-agency.online
 openweip.shop
@@ -302503,10 +302571,18 @@ optiohit.cfd
 option678.xyz
 optionalapplication.azurewebsites.net
 optionapp.shop
+optionapp.site
+optionapp.store
 optiondeals.xyz
 optionhq.shop
+optionhq.site
+optionhq.store
 optionhubs.shop
+optionhubs.site
+optionhubs.store
 optionlabs.shop
+optionlabs.site
+optionlabs.store
 options-implement.at.ply.gg
 options-implemented.at.ply.gg
 optique-harksen.be
@@ -303180,6 +303256,9 @@ orwmmdckoq.duckdns.org
 orwpat3xm0mnkjc.ddns.net
 orxmz.com
 oryn32y4ivq4qp3.ddns.net
+orynda.shop
+orynda.site
+orynda.store
 oryndors.com
 orynthal.net
 oryphhix.com
@@ -318359,6 +318438,7 @@ prawinzinbil66.clienteasciendig.world
 prawinzinbil66.clienteascindig.world
 prawze.top
 praxemolinu.mom
+praxena.shop
 praxenolavi.icu
 praxlonfire73.live
 praxont.com
@@ -319112,6 +319192,7 @@ previousthrill.site
 previousyearning.top
 prewall.shop
 prewall.site
+prewall.store
 prewe.66ghz.com
 prey.fit
 prey225.xyz
@@ -329634,6 +329715,7 @@ quolzmncev.nioestampad.ru
 quookking.com
 quoqacihahudn.ddns.net
 quorblim.site
+quorion.site
 quorixia.pro
 quorixs.store
 quorresist.com
@@ -332807,18 +332889,23 @@ record-file.com
 record.powdershapesensei.com
 record1346.xyz
 recordapp.shop
+recordapp.store
 recordar-simmco.s3.sa-east-1.amazonaws.com
 recordcaught.net
 recorderannex.top
 recorderschool.top
 recordhq.shop
 recordhq.site
+recordhq.store
 recordhubs.shop
+recordhubs.site
+recordhubs.store
 recording125.xyz
 recordingbouquet.top
 recordingpleasewait.zapto.org
 recordingsovereign.top
 recordlabs.shop
+recordlabs.site
 recordlabs.store
 recordneedle.net
 recordportins.icu
@@ -335478,12 +335565,17 @@ response-loginportal.com
 response16-sendgrid.com
 response20-sendgrid.com
 responseapp.shop
+responseapp.site
+responseapp.store
 responseassassin.top
 responsecradle.top
 responseguard.top
 responsehq.shop
 responsehq.site
+responsehq.store
 responsehubs.shop
+responsehubs.site
+responsehubs.store
 responseinquiry-tos.com
 responselabs.shop
 responselabs.site
@@ -337764,6 +337856,7 @@ routstreetcars.com
 rovanstouk.com
 roveecomsdosllc.com
 rovercrc.com
+rovexahq.site
 roviraq.com
 rovley.10001mb.com
 rovm.cn
@@ -383234,6 +383327,7 @@ therokver.store
 theroomatberryfields.com
 theroots.in
 theroseofsharonsalon.com
+therovexa.store
 thersupre54.xyz
 therustytacommn.com
 thes.my-style.in
@@ -394940,6 +395034,8 @@ tryatra.com
 tryazhazransenlikfirsat-giris.xyz
 tryblnnce.click
 trybmailev.ddns.net
+tryclorenta.site
+tryclorenta.store
 trycloset.top
 trycopyrsystemservice.com
 trydai.000webhostapp.com
@@ -404112,6 +404208,7 @@ userlogins.hopto.org
 userlprotected82.hopto.org
 userltsmeonline.ddns.net
 usernaver.com
+userovexa.store
 userparasi.top
 userportl.wine
 userprof.hopto.org
@@ -416012,6 +416109,7 @@ vxj2r36es.duckdns.org
 vxkbxnksbasvuru.com
 vxlsxicolqcbrel.ru
 vxlvunpzvpzv.com
+vxm92kq7r.cfd
 vxouyjct.com
 vxqt.us
 vxqwkerom.com
@@ -437571,6 +437669,7 @@ xyzyuklemelere1.sg-host.com
 xz.apps-store.im
 xz0naj.duckdns.org
 xz1cc9ons.duckdns.org
+xz21x513z123c321.shop
 xz23x123dsdsas.duckdns.org
 xz26c.xyz
 xz3cs.cloud
@@ -441662,6 +441761,7 @@ yazkampanyalarina1o1de.shop
 yazkampanyam.com
 yazkampanyamiz.net
 yazkampanyamobildenizbank.com
+yazkampanyasi.beer
 yazkampanyasi.cf
 yazkampanyasi.cfd
 yazkampanyasi.com
@@ -450265,6 +450365,7 @@ zimvopk.duckdns.org
 zina-sookrah.zapto.org
 zinaatkampanyam.shop
 zinarhdlkkhl.com
+zinavolabs.store
 zincir-aktuel.net
 zincirmarketfirsatlari.com.tr
 zincirmarketfirsatlari.online
