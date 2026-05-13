@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-13 13:57:39 UTC
-# Toplam: 454225 Domain
+# Son Güncelleme: 2026-05-13 16:14:01 UTC
+# Toplam: 454236 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -17034,6 +17034,7 @@
 62615462266-2025.xyz
 626168106.cloud
 6262.hopto.org
+6262111.lat
 6262777.com
 6265465132bnc165651651tr.pro
 6266615354.cloud
@@ -55131,6 +55132,7 @@ avisfilokiralama.com
 avisfilokiralama.com.tr
 avisfilokurumsal.com
 avisfilom.tk
+avisfilorent.com
 avisglobal.com.tr
 avisgonder.com
 avisgroup.com.tr
@@ -63629,6 +63631,7 @@ bavulindirimikapinda.com
 bavullmsokttan.com
 bavulseti.cfd
 bavulsokfirsat.com.tr
+bavurd.netlify.app
 bavurkredi.turkuazkredi.com
 bavuru-online.odoo.com
 bavurun-tki.click
@@ -64380,6 +64383,7 @@ bayrametkinliklerindenyararlanin.net
 bayrameventleri.net
 bayrameventlerinitakiple.net
 bayramevllktekrdin.b-cdn.net
+bayramfirsat10.duckdns.org
 bayramfirsati.b-cdn.net
 bayramfirsati.online-sahane.online
 bayramfirsati101debitmez.vercel.app
@@ -123468,6 +123472,7 @@ dfg23gsdgc.com
 dfg45dfg45.best
 dfg4gf23r.duckdns.org
 dfgdfgdfgdfg.great-site.net
+dfgdfge4gfdgfd.nicepage.io
 dfgdfgweqnasn.com
 dfgdfmgdmfgmdf.xyz
 dfgdgdfgdgdhghg.sbs
@@ -175904,6 +175909,7 @@ get-app-data1.xyz
 get-arnow.site
 get-badge-appeal-just-now.vercel.app
 get-badge-becomeverified.vercel.app
+get-basvrru-yap.cfd
 get-bireysel-ilan.com.tr
 get-bireysel.com
 get-bireysel.com.tr
@@ -227432,6 +227438,7 @@ islemleriniziburdanyapin.com
 islemleriniziburdanyapin.pro
 islemlerinizihementamamlayin.com
 islemlerinizssorguerkaniii.xyz
+islemlerinizzzizz.sbs
 islemleriyonet.de
 islemlerkm.org
 islemlerkolaydirnface.net
@@ -248913,6 +248920,7 @@ kiredetttedo3.xyz
 kiredibasvurularim.online
 kiredihaberfiirsatlarii.buzz
 kiredihaberfirsatlarii.buzz
+kireiu.eu
 kirelavonu.gifts
 kirhwf.top
 kirijdnka15ca.pro
@@ -263691,6 +263699,7 @@ lynda-tricks.online
 lynea10k.com
 lynmzvqbmf.duckdns.org
 lynnnaz.ddns.net
+lynorvexa.com
 lynoujsnxx.duckdns.org
 lyntrivexa.com
 lynxback.pro
@@ -296253,6 +296262,7 @@ okrfgvvwym.duckdns.org
 okrilways.com
 okrnekajshwkka.online
 oksadlwesd.net
+oksaocanesa.cfd
 oksautodoor.com
 oksdoor.com
 okservermytool.ddns.net
@@ -446820,6 +446830,7 @@ yonlendiriliyrsundunz.duckdns.org
 yonlendirilmekicintiklayin.shop
 yonlendirilmekicintiklayiniz.cfd
 yonlendirilmeler.online
+yonlendirilyordusunksi.duckdns.org
 yonlendirimveraktarimekrani.cfd
 yonlendirisjdaws.webredirect.org
 yonlendiriyorsyuhfjvhghm.duckdns.org
