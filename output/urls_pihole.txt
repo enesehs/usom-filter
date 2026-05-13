@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-13 08:28:03 UTC
-# Toplam: 454195 Domain
+# Son Güncelleme: 2026-05-13 13:57:39 UTC
+# Toplam: 454225 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50983,6 +50983,7 @@ arkt-frst.online
 arktupala.com
 arkwrightus.com
 arkypc.com
+arlentaarackiralama.com
 arlesinfor.com
 arleuf.com
 arlh6tpd.duckdns.org
@@ -61284,6 +61285,7 @@ basvursendez.sbs
 basvursends.com.tr
 basvursendv.com.tr
 basvursendz.com.tr
+basvursendzk.com.tr
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -64400,6 +64402,7 @@ bayramfirsatlarim.com
 bayramfirsatlarimburada.com
 bayramfirsatlarimiz.pw
 bayramfirsatlarimyapida.com
+bayramfirsatlariniz.com
 bayramfirsatlarisiizinle.top
 bayramfirsatlarison.click
 bayramfirsatlarlageldi.xyz
@@ -77188,6 +77191,7 @@ bitacid.net
 bitakimsorunsallar.click
 bitandbyte62.com
 bitanem.app
+bitarafsiyah.cyou
 bitaslem.online
 bitaxcc.zapto.org
 bitay.one
@@ -102222,6 +102226,7 @@ clmat73.duckdns.org
 clmcokprana.net
 clmtlp.site
 clmxh.com
+clndonlinesube.com
 clndrm-kllmasatnal.com
 clnfirm-id66775.com
 clo4q41v1v85ed814bogstepb5jwkbxtj.oast.fun
@@ -130597,6 +130602,7 @@ dslnck.duckdns.org
 dslsvdvtl-svvt.com
 dsmadjker423432.com
 dsmart.internet-kampanyasi.org
+dsmdwnqkdw.sbs
 dsmezkalkmazallah.za.com
 dsmuvbphbowmflk.ru
 dsn.k4dr.xyz
@@ -138225,6 +138231,7 @@ eadgkouytvn.xyz
 eadiati-turkiyegovtri.com
 eadikesghtalapurcareers.com
 eadjkbmh.com
+eadliceza.org
 eadlicezasorgu.org
 eadlicezasorgulama.org
 eadlidava.org
@@ -142587,6 +142594,7 @@ edevleturkiyeiadenoktasigovtr.com
 edevletuyap-sistem.com
 edevletuyap-veri.com
 edevletuyap.org
+edevletuyapgiris.com
 edevletuyeis.com
 edevletuygulamasi.com
 edevletuzlasma.com
@@ -155498,6 +155506,7 @@ evrryday.com
 evruni.top
 evs.grupotuis.buzz
 evs6t0n3pt5p.icu
+evsahibi.online
 evsahibibasvuru.com
 evsahibiiturkiye.org
 evsahibikonut.com.tr
@@ -160680,6 +160689,7 @@ fibatoggkmpn.com
 fibatr.com
 fibavarlikmenkuldeger.com
 fibawebsitesi.cfd
+fibayatirimenkul.com
 fibayatirimmenkuldeger.com
 fibayatirimtrade.com
 fibayeniyildaguzel.ml
@@ -165170,6 +165180,7 @@ flexiblemate.hopto.org
 flexiblepottery.top
 flexiblweariess.top
 flexipagez.com
+flexirentarackiralama.com
 flexix.xyz
 flexorr.com
 flexpak-th.com
@@ -198754,6 +198765,7 @@ hemnburadahizli.xyz
 hemnebasvuruyap.co.vu
 hemnebinmeyebasla.com.tr
 hemnebinmeyebasla.xyz
+hemnehemehsmsxmsm.cyou
 hemnenkosfirsatlara.com.tr
 hemnenkosfirsatlara.online
 hemneonlasinislem.online
@@ -227315,6 +227327,7 @@ islemler-yapikredi.com
 islemler-yapikredi.net
 islemler-yapikredibankasi.com
 islemler.bgturadahyipz.me
+islemler.duckdns.org
 islemler.name.tr
 islemler.online-basvur-konut.sbs
 islemler.sorgulayin.workers.dev
@@ -241919,6 +241932,7 @@ kamukontrol.org
 kamukpssgirisleri.tk
 kamulitariunas.com
 kamulumemuru.com
+kamumahkeme.com
 kamumahkeme.org
 kamumahkemeleri.org
 kamumahkemesi.com
@@ -242042,6 +242056,7 @@ kanpanyabimcell.com
 kanpanyalar-ozel-bireysel-basvurumuz.xyz
 kanpasydmdkorada.click
 kanpaypktrecnf.click
+kanpyasunfursathemnbashur3498023209.click
 kansahibi.app
 kansahibiyim.app
 kansahibiyiz.app
@@ -255410,6 +255425,7 @@ kurumsalbayidyson.online
 kurumsalbimcelltlodeme-com-tr.tk
 kurumsalbimcelltlyukleme-tr.com
 kurumsalbireyselgirisdenizhak.tk
+kurumsalbirkurumsal.click
 kurumsalbursvakfi.org
 kurumsaldark.cfd
 kurumsaldeniz.net
@@ -270948,6 +270964,7 @@ meharese1.app
 meharese1.net
 meharese1.org
 meharese1.xyz
+meharrese.com
 mehdef.duckdns.org
 mehdibaba.cc.dvrlists.com
 mehdibennour.zapto.org
@@ -272922,6 +272939,7 @@ mhrr.tsdfyldrm.site
 mhrrndvcasfc.com
 mhrrnvdmhstne.net
 mhrrrshastanerandevu.giize.com
+mhrrsdsrnadevusiteds.online
 mhrrsserndvsal.net
 mhrs-gov-randevu.cfd
 mhrs-guvenli-hastane-randevu.click
@@ -279129,6 +279147,7 @@ moristaetdfertal9002.ddnsgeek.com
 morivahq.shop
 morivahubs.shop
 morivalabs.site
+morixaarackiralama.com
 morjestler.com
 morker.info
 morkestker.com
@@ -304204,6 +304223,7 @@ otorentmax.online
 otorezervasyon.com
 otoritem.pro
 otoritem.xyz
+otorotaarackiralama.com
 otorqworqwos21.com
 otosektorl.com
 otoservisdesinbizle.net
@@ -323520,6 +323540,7 @@ pttavmsiparisim.com
 pttavmsiparisler.net
 pttavmsiparisleri.com
 pttavmsiparislerim.com
+pttavmsiparisodeme.com
 pttavmsiparisonline-sepet.com
 pttavmsitetr.com
 pttavmstore.com
@@ -334628,6 +334649,7 @@ rentguarantee.org
 rentguest.world
 renthizmeeeti.com.tr
 renthizmeeeti.xyz
+renticoarackiralama.com
 rentiko-arackirala.bond
 rentiko-arackirala.click
 rentiko-arackirala.ink
@@ -335703,6 +335725,7 @@ responsiblestroll.top
 responsiveallocation.top
 responsivepredominate.top
 resr.configure.8c1.net
+resrsacakosanca.shop
 resrsfds.dns.navy
 resrvationsbook.world
 ressetnt.hopto.org
@@ -396158,6 +396181,7 @@ turishisbankasi.com
 turismoelsalto.cl
 turismoruralcordoba.com
 turistikmx.com
+turixarackiralama.com
 turizmbakanligi.com
 turizmbakanligisorgu.com
 turk-aidat.com.tr
@@ -397300,6 +397324,7 @@ turkishairlines-anniversaire.com
 turkishairlines-biletler.com
 turkishairlines-comores.com
 turkishairlines-emeklikampanyasi.kimbilirziya.click
+turkishairlines-emeklikampanyasi.vaybetekbasina.lat
 turkishairlines-survey.com
 turkishairlines-tr.site
 turkishairlines.com-boarding.club
@@ -399117,6 +399142,7 @@ tursil-cepte.biz.tr
 tursil-cepte.click
 tursil-cepte.com.tr
 tursil-cepte.name.tr
+tursil-cepte.web.tr
 tursil-martta.sbs
 tursil-stability.xyz
 tursiteptts.help
@@ -399422,6 +399448,7 @@ tuvturk-dijital.site
 tuvturk-gtr.com
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
+tuvturk-kio.com
 tuvturk-kse.com
 tuvturk-kss.com
 tuvturk-li.com
@@ -413355,6 +413382,7 @@ violinglove.top
 violinlegitimate.top
 violinlocomotive.top
 viona.hopto.org
+vionaarackiralama.com
 viosalkampanya.online
 viosanterendtingher.duckdns.org
 vip-02.fit
@@ -446593,12 +446621,14 @@ yolgecisodemesleri.info
 yolgecisveznesi.xyz
 yolgecsotohgs.duckdns.org
 yolgezgin.com
+yolgoarackiralama.com
 yolharitasi.space
 yolhgczwkg.duckdns.org
 yolhgdbzok.duckdns.org
 yolhgsodeme.com
 yolhgss.com
 yolipfasda.one
+yolixarackiralama.com
 yolkaramhgsgecisbilgi.com
 yolkun.click
 yollar-bilgilendirme.com

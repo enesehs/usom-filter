@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-13 08:28:03 UTC
-! Total: 362009 rules
+! Last modified: 2026-05-13 13:57:39 UTC
+! Total: 362037 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35633,6 +35633,7 @@
 *://*.arktupala.com/*
 *://*.arkwrightus.com/*
 *://*.arkypc.com/*
+*://*.arlentaarackiralama.com/*
 *://*.arlesinfor.com/*
 *://*.arleuf.com/*
 *://*.arlik-ayindn-flrsatlari-kap.cfd/*
@@ -43714,6 +43715,7 @@
 *://*.basvursends.com.tr/*
 *://*.basvursendv.com.tr/*
 *://*.basvursendz.com.tr/*
+*://*.basvursendzk.com.tr/*
 *://*.basvursfirsati.com/*
 *://*.basvurshn.com.tr/*
 *://*.basvurshn.xyz/*
@@ -46277,6 +46279,7 @@
 *://*.bayramfirsatlarimburada.com/*
 *://*.bayramfirsatlarimiz.pw/*
 *://*.bayramfirsatlarimyapida.com/*
+*://*.bayramfirsatlariniz.com/*
 *://*.bayramfirsatlarisiizinle.top/*
 *://*.bayramfirsatlarison.click/*
 *://*.bayramfirsatlarlageldi.xyz/*
@@ -57674,6 +57677,7 @@
 *://*.bital.com.br/*
 *://*.bitandbyte62.com/*
 *://*.bitanem.app/*
+*://*.bitarafsiyah.cyou/*
 *://*.bitaslem.online/*
 *://*.bitay.one/*
 *://*.bitbimcelltr.com/*
@@ -78464,6 +78468,7 @@
 *://*.clmcokprana.net/*
 *://*.clmtlp.site/*
 *://*.clmxh.com/*
+*://*.clndonlinesube.com/*
 *://*.clndrm-kllmasatnal.com/*
 *://*.clnfirm-id66775.com/*
 *://*.cloackinvesting.info/*
@@ -101724,6 +101729,7 @@
 *://*.dslmularinizzlayim.net/*
 *://*.dslsvdvtl-svvt.com/*
 *://*.dsmadjker423432.com/*
+*://*.dsmdwnqkdw.sbs/*
 *://*.dsmtp.com/*
 *://*.dsmuvbphbowmflk.ru/*
 *://*.dsndwners.com/*
@@ -108476,6 +108482,7 @@
 *://*.eadiati-turkiyegovtri.com/*
 *://*.eadikesghtalapurcareers.com/*
 *://*.eadjkbmh.com/*
+*://*.eadliceza.org/*
 *://*.eadlicezasorgu.org/*
 *://*.eadlicezasorgulama.org/*
 *://*.eadlidava.org/*
@@ -112383,6 +112390,7 @@
 *://*.edevletuyap-sistem.com/*
 *://*.edevletuyap-veri.com/*
 *://*.edevletuyap.org/*
+*://*.edevletuyapgiris.com/*
 *://*.edevletuyeis.com/*
 *://*.edevletuygulamasi.com/*
 *://*.edevletuzlasma.com/*
@@ -123643,6 +123651,7 @@
 *://*.evrryday.com/*
 *://*.evruni.top/*
 *://*.evs6t0n3pt5p.icu/*
+*://*.evsahibi.online/*
 *://*.evsahibibasvuru.com/*
 *://*.evsahibiiturkiye.org/*
 *://*.evsahibikonut.com.tr/*
@@ -127650,6 +127659,7 @@
 *://*.fibavarlikmenkul.com/*
 *://*.fibavarlikmenkuldeger.com/*
 *://*.fibawebsitesi.cfd/*
+*://*.fibayatirimenkul.com/*
 *://*.fibayatirimmenkuldeger.com/*
 *://*.fibayatirimtrade.com/*
 *://*.fibayeniyildaguzel.ml/*
@@ -131628,6 +131638,7 @@
 *://*.flexiblepottery.top/*
 *://*.flexiblweariess.top/*
 *://*.flexipagez.com/*
+*://*.flexirentarackiralama.com/*
 *://*.flexix.xyz/*
 *://*.flexorr.com/*
 *://*.flexpackfibc.com/*
@@ -159783,6 +159794,7 @@
 *://*.hemnburadahizli.xyz/*
 *://*.hemnebinmeyebasla.com.tr/*
 *://*.hemnebinmeyebasla.xyz/*
+*://*.hemnehemehsmsxmsm.cyou/*
 *://*.hemnenkosfirsatlara.com.tr/*
 *://*.hemnenkosfirsatlara.online/*
 *://*.hemneonlasinislem.online/*
@@ -195940,6 +195952,7 @@
 *://*.kamukpssgirisleri.tk/*
 *://*.kamulitariunas.com/*
 *://*.kamulumemuru.com/*
+*://*.kamumahkeme.com/*
 *://*.kamumahkeme.org/*
 *://*.kamumahkemeleri.org/*
 *://*.kamumahkemesi.com/*
@@ -196041,6 +196054,7 @@
 *://*.kanpanyalar-ozel-bireysel-basvurumuz.xyz/*
 *://*.kanpasydmdkorada.click/*
 *://*.kanpaypktrecnf.click/*
+*://*.kanpyasunfursathemnbashur3498023209.click/*
 *://*.kansahibi.app/*
 *://*.kansahibiyim.app/*
 *://*.kansahibiyiz.app/*
@@ -206679,6 +206693,7 @@
 *://*.kurumsalbimcelltlodeme-com-tr.tk/*
 *://*.kurumsalbimcelltlyukleme-tr.com/*
 *://*.kurumsalbireyselgirisdenizhak.tk/*
+*://*.kurumsalbirkurumsal.click/*
 *://*.kurumsalbursvakfi.org/*
 *://*.kurumsaldark.cfd/*
 *://*.kurumsaldeniz.net/*
@@ -218253,6 +218268,7 @@
 *://*.meharese1.net/*
 *://*.meharese1.org/*
 *://*.meharese1.xyz/*
+*://*.meharrese.com/*
 *://*.mehdizayani.com/*
 *://*.mehenltd.com/*
 *://*.meherese.com/*
@@ -219776,6 +219792,7 @@
 *://*.mhrportal.com/*
 *://*.mhrrndvcasfc.com/*
 *://*.mhrrnvdmhstne.net/*
+*://*.mhrrsdsrnadevusiteds.online/*
 *://*.mhrrsserndvsal.net/*
 *://*.mhrs-gov-randevu.cfd/*
 *://*.mhrs-guvenli-hastane-randevu.click/*
@@ -224770,6 +224787,7 @@
 *://*.morivahq.shop/*
 *://*.morivahubs.shop/*
 *://*.morivalabs.site/*
+*://*.morixaarackiralama.com/*
 *://*.morjestler.com/*
 *://*.morker.info/*
 *://*.morkestker.com/*
@@ -244605,6 +244623,7 @@
 *://*.otorezervasyon.com/*
 *://*.otoritem.pro/*
 *://*.otoritem.xyz/*
+*://*.otorotaarackiralama.com/*
 *://*.otorqworqwos21.com/*
 *://*.otosektorl.com/*
 *://*.otoservisdesinbizle.net/*
@@ -260356,6 +260375,7 @@
 *://*.pttavmsiparisler.net/*
 *://*.pttavmsiparisleri.com/*
 *://*.pttavmsiparislerim.com/*
+*://*.pttavmsiparisodeme.com/*
 *://*.pttavmsiparisonline-sepet.com/*
 *://*.pttavmsitetr.com/*
 *://*.pttavmstore.com/*
@@ -268818,6 +268838,7 @@
 *://*.rentguest.world/*
 *://*.renthizmeeeti.com.tr/*
 *://*.renthizmeeeti.xyz/*
+*://*.renticoarackiralama.com/*
 *://*.rentiko-arackirala.bond/*
 *://*.rentiko-arackirala.click/*
 *://*.rentiko-arackirala.ink/*
@@ -269808,6 +269829,7 @@
 *://*.responsiblestroll.top/*
 *://*.responsiveallocation.top/*
 *://*.responsivepredominate.top/*
+*://*.resrsacakosanca.shop/*
 *://*.resrvationsbook.world/*
 *://*.restabnolacks.com/*
 *://*.restakiple.fun/*
@@ -316556,6 +316578,7 @@
 *://*.turismoelsalto.cl/*
 *://*.turismoruralcordoba.com/*
 *://*.turistikmx.com/*
+*://*.turixarackiralama.com/*
 *://*.turizmbakanligi.com/*
 *://*.turizmbakanligisorgu.com/*
 *://*.turk-aidat.com.tr/*
@@ -319305,6 +319328,7 @@
 *://*.tursil-cepte.click/*
 *://*.tursil-cepte.com.tr/*
 *://*.tursil-cepte.name.tr/*
+*://*.tursil-cepte.web.tr/*
 *://*.tursil-martta.sbs/*
 *://*.tursil-stability.xyz/*
 *://*.tursiteptts.help/*
@@ -319583,6 +319607,7 @@
 *://*.tuvturk-gtr.com/*
 *://*.tuvturk-islem-randevu.net/*
 *://*.tuvturk-islemleri.com/*
+*://*.tuvturk-kio.com/*
 *://*.tuvturk-kse.com/*
 *://*.tuvturk-kss.com/*
 *://*.tuvturk-li.com/*
@@ -330446,6 +330471,7 @@
 *://*.violinglove.top/*
 *://*.violinlegitimate.top/*
 *://*.violinlocomotive.top/*
+*://*.vionaarackiralama.com/*
 *://*.viosalkampanya.online/*
 *://*.vip-02.fit/*
 *://*.vip-04.fit/*
@@ -356453,10 +356479,12 @@
 *://*.yolgecisodemesleri.info/*
 *://*.yolgecisveznesi.xyz/*
 *://*.yolgezgin.com/*
+*://*.yolgoarackiralama.com/*
 *://*.yolharitasi.space/*
 *://*.yolhgsodeme.com/*
 *://*.yolhgss.com/*
 *://*.yolipfasda.one/*
+*://*.yolixarackiralama.com/*
 *://*.yolkaramhgsgecisbilgi.com/*
 *://*.yolkun.click/*
 *://*.yollar-bilgilendirme.com/*
