@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-13 05:37:51 UTC
-! Total: 361981 rules
+! Last modified: 2026-05-13 08:28:03 UTC
+! Total: 362009 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -28318,6 +28318,7 @@
 *://*.aldin-aldins.com.tr/*
 *://*.aldin-cay-firsatlari.net/*
 *://*.aldin-cay-paketi.com/*
+*://*.aldin-caymakinesi.lat/*
 *://*.aldin-cepte.com.tr/*
 *://*.aldin-ekstra.biz.tr/*
 *://*.aldin-ekstra.info.tr/*
@@ -39012,6 +39013,7 @@
 *://*.avrw34v3q4fcq34cw.net/*
 *://*.avsa-adasi.gen.tr/*
 *://*.avsa1.com/*
+*://*.avsarackirala.com.tr/*
 *://*.avsarackiralamahizmet.com.tr/*
 *://*.avsarackiralamahizmet.xyz/*
 *://*.avsaraclarkirala.xyz/*
@@ -64745,6 +64747,7 @@
 *://*.bosugras.xyz/*
 *://*.bosunadenemeyin.cfd/*
 *://*.bosunadeniyosunuzanlayinartik.cfd/*
+*://*.bosvia.org/*
 *://*.bosx100xkxdmdxmmdxmd.fund/*
 *://*.bosxlfw.com/*
 *://*.bosyd.com/*
@@ -87645,6 +87648,7 @@
 *://*.daum.net.pl/*
 *://*.dauspouexoc.xyz/*
 *://*.dauswopqclz.xyz/*
+*://*.dava-dosya.click/*
 *://*.dava-dosyalarim.net/*
 *://*.dava-sorgu.info/*
 *://*.dava-sorgula.com/*
@@ -113743,10 +113747,12 @@
 *://*.egokartyukles.net/*
 *://*.egolab.space/*
 *://*.egomanyukle.net/*
+*://*.egonova.vip/*
 *://*.egonullulerivakfi.org/*
 *://*.egoogle.xyz/*
 *://*.egor555.su/*
 *://*.egoradioactive.top/*
+*://*.egori.cyou/*
 *://*.egosasld.ml/*
 *://*.egov--cimer.org/*
 *://*.egov-1000tl.com/*
@@ -119071,6 +119077,7 @@
 *://*.enuygunfiyatlimarkethaftalikfirsatlari.cfd/*
 *://*.enuygunkampanyalardasenin.click/*
 *://*.enuygunkaskovesigorta.com/*
+*://*.enuygunkirala.net/*
 *://*.enuygunkiralik.space/*
 *://*.enuygunkiralikarabalar.com/*
 *://*.enuygunkiralikoto.com/*
@@ -131187,6 +131194,7 @@
 *://*.fitpulsean.com/*
 *://*.fitrtefast.com/*
 *://*.fitstation.name.tr/*
+*://*.fitstorage.pics/*
 *://*.fitstore.name.tr/*
 *://*.fitt50.in/*
 *://*.fittnesty.com/*
@@ -147704,6 +147712,7 @@
 *://*.gundembolgesi.cfd/*
 *://*.gundemburada.name.tr/*
 *://*.gundemden.site/*
+*://*.gundemguncelhaber.com/*
 *://*.gundemhaber.org/*
 *://*.gundemhaber.site/*
 *://*.gundemhaber1.site/*
@@ -150616,6 +150625,7 @@
 *://*.haberhizlisistem.com/*
 *://*.haberhizlitaksi.com/*
 *://*.haberhizliweb.com/*
+*://*.haberhizliyorum.com/*
 *://*.haberhome.club/*
 *://*.haberhome.online/*
 *://*.haberim.fun/*
@@ -156374,6 +156384,7 @@
 *://*.have8912.xyz/*
 *://*.haven-t.live/*
 *://*.havenaffiliate.top/*
+*://*.havenaura.click/*
 *://*.havenaurasprings.com/*
 *://*.havenpredominance.top/*
 *://*.havenvibes.net/*
@@ -202219,6 +202230,7 @@
 *://*.kkmmsrglgmagovptt.com/*
 *://*.kkmocmndasd.click/*
 *://*.kkmomossdasdsa.com/*
+*://*.kkmpnyasonnnnfrstkbsvrr.info/*
 *://*.kkmpnyasonnnnfrstkbsvrr.live/*
 *://*.kkmzkassssskkaa.top/*
 *://*.kknm1.xyz/*
@@ -203496,6 +203508,7 @@
 *://*.kocamankocamancuzdanlar.com/*
 *://*.kocamankocamanjuzdanlar.com/*
 *://*.kocamanstand.store/*
+*://*.kocarackiralama.com/*
 *://*.kocavakfi.com/*
 *://*.kocavmpt.com/*
 *://*.kocbasvuru.online/*
@@ -205773,6 +205786,7 @@
 *://*.kreerdisonuc.org/*
 *://*.kreiedek23152375.online/*
 *://*.krekspeks.site/*
+*://*.krelastonui.icu/*
 *://*.krelavonuti.digital/*
 *://*.krelavonuti.gifts/*
 *://*.krellix.com/*
@@ -216103,6 +216117,7 @@
 *://*.marrahat.click/*
 *://*.marraheltin.com/*
 *://*.marrentora.com/*
+*://*.marri.vu/*
 *://*.marriageomit.top/*
 *://*.marriagetuition.top/*
 *://*.marrklkkelllekke.com/*
@@ -231290,6 +231305,7 @@
 *://*.news-twitter.gq/*
 *://*.news-uk.net/*
 *://*.news24.website/*
+*://*.news243.shop/*
 *://*.news24ua.info/*
 *://*.news4you.digital/*
 *://*.news9pakistan.com/*
@@ -244492,6 +244508,7 @@
 *://*.otokiramaviss.tk/*
 *://*.otoko-cfilo.xyz/*
 *://*.otokoc2elkutahya.com/*
+*://*.otokocarackirala.com/*
 *://*.otokocarackiralama.com/*
 *://*.otokocfilo.com/*
 *://*.otokocfilosu.com/*
@@ -255758,6 +255775,7 @@
 *://*.postarspost.click/*
 *://*.postasssk.top/*
 *://*.postasuben.com/*
+*://*.postaturk24.com/*
 *://*.postaup.sbs/*
 *://*.postavetelgraf.online/*
 *://*.postazz.com/*
@@ -260148,6 +260166,7 @@
 *://*.pttavm-odemelerrr.com/*
 *://*.pttavm-odemelerrrm.com/*
 *://*.pttavm-odemelerw.com/*
+*://*.pttavm-odemenizguvende.com/*
 *://*.pttavm-odemeportal.com/*
 *://*.pttavm-online-sepet.online/*
 *://*.pttavm-online.com.tr/*
@@ -260322,6 +260341,7 @@
 *://*.pttavmsepeti.com/*
 *://*.pttavmsepetim.com/*
 *://*.pttavmsepetimde.com/*
+*://*.pttavmsepetimdenal.com/*
 *://*.pttavmsepetimdeonline.com/*
 *://*.pttavmsepetiniz.com/*
 *://*.pttavmsepette.com/*
@@ -266751,8 +266771,11 @@
 *://*.randevunuzikne.com/*
 *://*.randevunuzmhrs.net/*
 *://*.randevunuzolusturun.com/*
+*://*.randevunuzu-goruntuleyin.com/*
 *://*.randevunuzubelirlenin.com/*
 *://*.randevunuzubelirleyin.com/*
+*://*.randevunuzugoruntu.com/*
+*://*.randevunuzugoruntuyin.com/*
 *://*.randevunuzuogreni.com/*
 *://*.randevunuzuogrenin.com/*
 *://*.randevunuzuolustu.com/*
@@ -275691,6 +275714,7 @@
 *://*.sakirlerimbnm.xyz/*
 *://*.sakiw.top/*
 *://*.sakjfsakj1254.xyz/*
+*://*.sakjhsadkjdsakhjs.site/*
 *://*.saklhada.world/*
 *://*.sakliknt.com/*
 *://*.saklitarif.name.tr/*
@@ -287745,6 +287769,7 @@
 *://*.skytrigger.sbs/*
 *://*.skyubia-spb.ru/*
 *://*.skyvakiflimitkredi.xyz/*
+*://*.skyverge.cfd/*
 *://*.skyvk.com/*
 *://*.skyvorfuture.com/*
 *://*.skyvventure.com/*
@@ -324032,7 +324057,9 @@
 *://*.uygunalisverisler.xyz/*
 *://*.uygunalisverisleronline.xyz/*
 *://*.uygunalisverlerler.rest/*
+*://*.uygunarabakirala.net/*
 *://*.uygunarackirala.net/*
+*://*.uygunarackiralama.org/*
 *://*.uygunarackirama-avis.com/*
 *://*.uygunasendealkargonnkapiaaa.com/*
 *://*.uygunasigort.net/*
@@ -330157,6 +330184,7 @@
 *://*.videohosting23c.cf/*
 *://*.videohosting32-e.cf/*
 *://*.videohosting62-b.tk/*
+*://*.videolane.gifts/*
 *://*.videoparama.top/*
 *://*.videoplayeri.xyz/*
 *://*.videoplayeriyukleme.ml/*
