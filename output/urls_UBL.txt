@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-14 13:24:14 UTC
-! Total: 362187 rules
+! Last modified: 2026-05-14 16:01:59 UTC
+! Total: 362203 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -203,6 +203,7 @@
 *://*.01iade-hizmetlerin.com/*
 *://*.01na6a419a.net/*
 *://*.01power.net/*
+*://*.01sa20203dsas.com/*
 *://*.01tbbmmcc.ga/*
 *://*.01vergi-iade.com/*
 *://*.02-12-aesxer-chtc-xg.com/*
@@ -43727,6 +43728,7 @@
 *://*.basvursendem.sbs/*
 *://*.basvursenden.sbs/*
 *://*.basvursender.com.tr/*
+*://*.basvursenders.sbs/*
 *://*.basvursendes.com.tr/*
 *://*.basvursendez.com.tr/*
 *://*.basvursendez.sbs/*
@@ -64206,6 +64208,7 @@
 *://*.bonusuniversalydontmisstheseptembercampaign.cloud/*
 *://*.bonusunuzparibuda.com/*
 *://*.bonusvar.click/*
+*://*.bonusveren512siteler.click/*
 *://*.bonuswrecka.top/*
 *://*.bonusxxl.fun/*
 *://*.bonusyanimda.ga/*
@@ -116454,6 +116457,7 @@
 *://*.ememode.com/*
 *://*.emeniyecenesescendenes.site/*
 *://*.emenkul.com/*
+*://*.emenugarantipluscozummerkezi.space/*
 *://*.emeprqhmar.ws/*
 *://*.emeraldbarrow.site/*
 *://*.emeraldbazaars.site/*
@@ -122144,6 +122148,7 @@
 *://*.euyyryuiy74yyrujcdbbv67indjbyyodcu.com/*
 *://*.euzlasma.org/*
 *://*.euzlasmaavukat.org/*
+*://*.euzlasmagib.org/*
 *://*.ev-araba-acikdenizv2mobilonay-com.tk/*
 *://*.ev-basvurunuyap.com/*
 *://*.ev-dekorasyonunda-yeni-ve-fonksiyonel-fikirler.top/*
@@ -141296,6 +141301,7 @@
 *://*.ghura.pl/*
 *://*.ghvenliyuklemelr.net/*
 *://*.ghwhdx.click/*
+*://*.ghwhdx.cyou/*
 *://*.ghxbvil.com/*
 *://*.gi2nl0uepw.com/*
 *://*.giadinhvabe.net/*
@@ -150571,6 +150577,7 @@
 *://*.haber40.site/*
 *://*.haber40s.site/*
 *://*.haber456.com/*
+*://*.haber456.shop/*
 *://*.haber456.xyz/*
 *://*.haber46.club/*
 *://*.haber46.xyz/*
@@ -165122,6 +165129,7 @@
 *://*.hizlibasvurubasladi.cloud/*
 *://*.hizlibasvurubonushaziran.online/*
 *://*.hizlibasvuruekislemonaylari.com/*
+*://*.hizlibasvuruekranim.sbs/*
 *://*.hizlibasvuruform.online/*
 *://*.hizlibasvuruforms.online/*
 *://*.hizlibasvuruforumlarim.com/*
@@ -185157,6 +185165,7 @@
 *://*.istanbulkkrts.online/*
 *://*.istanbulknk.net/*
 *://*.istanbulkolaybe.xyz/*
+*://*.istanbulkolaysop.xyz/*
 *://*.istanbulkqartmsd.store/*
 *://*.istanbulkqhilzsartmsd.store/*
 *://*.istanbulkrd-gelsende.net/*
@@ -215995,6 +216004,7 @@
 *://*.marketinkapida.net.tr/*
 *://*.marketinkapida.org.tr/*
 *://*.marketinsidedata.com/*
+*://*.marketinsightpro.online/*
 *://*.marketinsinirlistokbasarisi.cfd/*
 *://*.marketinternetsatis.com.tr/*
 *://*.marketinvolve.sbs/*
@@ -225585,6 +225595,7 @@
 *://*.msi-utns.com/*
 *://*.msicrosoft.com/*
 *://*.msiidentity.com/*
+*://*.msiparisinizi-tamamla.com/*
 *://*.msix.pm/*
 *://*.msjbsiq.com/*
 *://*.msjessd.com/*
@@ -235849,6 +235860,7 @@
 *://*.o-bbwamenugirislemonlinemiz.com/*
 *://*.o-bilet-biletsatinal.net/*
 *://*.o-bilet.com/*
+*://*.o-bilet.eu/*
 *://*.o-bilet.online/*
 *://*.o-bilet.site/*
 *://*.o-bilet.store/*
@@ -290984,6 +290996,7 @@
 *://*.sonnkazzandiraanfirsatlarrr.online/*
 *://*.sonnktadabrayaynlrsnzs.monster/*
 *://*.sonnnnfrstkkkmpnyabsvrr.art/*
+*://*.sonnnnfrstkkkmpnyabsvrr.info/*
 *://*.sonnnnfrstkkkmpnyabsvrr.pro/*
 *://*.sonnoktakta.com/*
 *://*.sonnyelectric.com/*
@@ -295269,6 +295282,7 @@
 *://*.steliro.pro/*
 *://*.stellacheck.com/*
 *://*.stellacy.tk/*
+*://*.stellaonline.com.tr/*
 *://*.stellar-stable-faith.top/*
 *://*.stellardockd.top/*
 *://*.stellarforge.store/*
@@ -297979,6 +297993,7 @@
 *://*.superindirimliurunlerburada.cfd/*
 *://*.superindirimmarket.click/*
 *://*.superindirimmarket.com/*
+*://*.superindirimmerkezi1.sbs/*
 *://*.superindirimnisan.com/*
 *://*.superindirimsepet101.xyz/*
 *://*.superintendentindulge.top/*
@@ -300340,6 +300355,7 @@
 *://*.talepbasvuruisle.online/*
 *://*.talepdestekim.tk/*
 *://*.talepformudoldur-portal.tk/*
+*://*.talepgirisekranim.sbs/*
 *://*.talepiade.online/*
 *://*.talepkayit.com/*
 *://*.talepkontrolet.com/*
