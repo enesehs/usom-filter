@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-14 21:57:28 UTC
-! Total: 362244 rules
+! Last modified: 2026-05-14 22:53:29 UTC
+! Total: 362252 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -94338,6 +94338,7 @@
 *://*.designereradicate.top/*
 *://*.designerslyjgangnam.com/*
 *://*.designflow.courses/*
+*://*.designflow.gifts/*
 *://*.designgiri.pw/*
 *://*.designjaumguest.com/*
 *://*.designloop.top/*
@@ -133796,6 +133797,7 @@
 *://*.frsatlaryaninda-trgirisweb.xyz/*
 *://*.frsatna.xyz/*
 *://*.frsatstisekstraxt.online/*
+*://*.frsattayzbir.com/*
 *://*.frsattemmzkacmaz1o1.com/*
 *://*.frsattlrrbzlll.org/*
 *://*.frsattttlarkappidangitmezzzz.online/*
@@ -205416,6 +205418,7 @@
 *://*.kredibasvurufirsatlari.com/*
 *://*.kredibasvurufirsatlarianinda.xyz/*
 *://*.kredibasvuruformu.com/*
+*://*.kredibasvurulari.lat/*
 *://*.kredibasvurulari.lol/*
 *://*.kredibasvurularim.com/*
 *://*.kredibasvurularinizgrnti.com/*
@@ -254188,6 +254191,7 @@
 *://*.pismandegilim.online/*
 *://*.pisof-lu.xyz/*
 *://*.pisolduda.site/*
+*://*.pisolink.click/*
 *://*.pisosg8tr.xyz/*
 *://*.pispsii.com/*
 *://*.pissispissman.com/*
@@ -277496,6 +277500,7 @@
 *://*.sbctoto.info/*
 *://*.sbdestekfaydasi.com/*
 *://*.sbdgloubmdvbxwk.su/*
+*://*.sbendekealsldjnsnkanprnauso23r9248353984985.click/*
 *://*.sbenizkaptndablskt.site/*
 *://*.sber-cloud.info/*
 *://*.sbershit.com/*
@@ -349172,6 +349177,7 @@
 *://*.xyzuruy.com/*
 *://*.xyzxyzxyzyxz.xyz/*
 *://*.xz21x513z123c321.cyou/*
+*://*.xz21x513z123c321.lat/*
 *://*.xz21x513z123c321.shop/*
 *://*.xz26c.xyz/*
 *://*.xz3cs.cloud/*
@@ -354303,6 +354309,7 @@
 *://*.yeniyeni6.net/*
 *://*.yeniyeni7.net/*
 *://*.yeniyenigeldik.net/*
+*://*.yeniyepyenifirsatlar.com/*
 *://*.yeniyetkibayi.com/*
 *://*.yeniyigor.cf/*
 *://*.yeniyigor.ga/*
@@ -358337,6 +358344,7 @@
 *://*.z7azbit7zvqeyayz7z.biz/*
 *://*.z7elljx.cn/*
 *://*.z7k4x9m2q6b8fht3na.cfd/*
+*://*.z7m2rpq4.sbs/*
 *://*.z7qj3htylsop4.click/*
 *://*.z7ra1t.cfd/*
 *://*.z7s.org/*
