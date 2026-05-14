@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-14 16:01:59 UTC
-! Total: 362203 rules
+! Last modified: 2026-05-14 18:25:52 UTC
+! Total: 362230 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46024,6 +46024,7 @@
 *://*.baykaress.icu/*
 *://*.baykarfirsati.online/*
 *://*.baykarfly.com/*
+*://*.baykarforge.xyz/*
 *://*.baykarform.com/*
 *://*.baykarfuture.com/*
 *://*.baykarglobal.info/*
@@ -47048,6 +47049,7 @@
 *://*.bd-cll.com/*
 *://*.bd-dkaidatason.com/*
 *://*.bd-dkdaaidatson.com/*
+*://*.bd-l55polisi.online/*
 *://*.bd0n59.cn/*
 *://*.bd155polisi.online/*
 *://*.bd7ee280ae11h.net/*
@@ -61505,6 +61507,7 @@
 *://*.bmjzdgcell.net/*
 *://*.bmjzxhsovwhtqcqpvxxcmzk.com/*
 *://*.bmkapnayazamanicll.com/*
+*://*.bmkbasvur.com/*
 *://*.bmkewsx.net/*
 *://*.bmkjhceel67.com/*
 *://*.bmkldxswqd.net/*
@@ -66108,6 +66111,7 @@
 *://*.brynlnrdwvrasd.bond/*
 *://*.brynlyrzbrdnasndrs.icu/*
 *://*.bryntaris.net/*
+*://*.bryqelun.cyou/*
 *://*.brysel-garanti.com/*
 *://*.brysel-kredi-zaman.click/*
 *://*.brysel-onlne.site/*
@@ -72807,6 +72811,7 @@
 *://*.carrefoursamarketzinciri.com/*
 *://*.carrefoursamobil.com/*
 *://*.carrefoursanalomo.cfd/*
+*://*.carrefoursanelazimsa.com/*
 *://*.carrefoursas.com/*
 *://*.carrefoursasonbaharindirimleri.xyz/*
 *://*.carrefoursaturkiye.online/*
@@ -102576,6 +102581,7 @@
 *://*.dxafscgds-qwfdxcad-afdas.cfd/*
 *://*.dxautomotive.com/*
 *://*.dxava-sorgulamalarimm.com/*
+*://*.dxaxdasklcklqwexl123x1.cyou/*
 *://*.dxchkevidh.top/*
 *://*.dxdxdxdx.click/*
 *://*.dxemg.com/*
@@ -133872,6 +133878,7 @@
 *://*.frsttsnnkmpnyabsvrrr.click/*
 *://*.frsttsnnkmpnyabsvrrr.live/*
 *://*.frsttsnnkmpnyabsvrrr.xyz/*
+*://*.frstttkmpnylariiibsvrrrr.info/*
 *://*.frsturnlericf.online/*
 *://*.frstvktinikcirmavkt.com.tr/*
 *://*.frstxburdxxx.com.tr/*
@@ -151104,6 +151111,7 @@
 *://*.hadia101aktifaktuelurunalindirim.site/*
 *://*.hadia101aktifaktuelurunalindirimsite.site/*
 *://*.hadiabsvursende.com.tr/*
+*://*.hadiaktivasyon.com/*
 *://*.hadialalhadial.com.tr/*
 *://*.hadialalhadial.online/*
 *://*.hadialalhadial.xyz/*
@@ -175064,6 +175072,7 @@
 *://*.ilanim-odemeler.com/*
 *://*.ilanim-odemelerim.com/*
 *://*.ilanim-onay-762211.com/*
+*://*.ilanim-onay-762212.com/*
 *://*.ilanim-ozel.com/*
 *://*.ilanim-ozelsepetim.com/*
 *://*.ilanim-pttavm.com/*
@@ -185166,6 +185175,7 @@
 *://*.istanbulknk.net/*
 *://*.istanbulkolaybe.xyz/*
 *://*.istanbulkolaysop.xyz/*
+*://*.istanbulkolaysopa.xyz/*
 *://*.istanbulkqartmsd.store/*
 *://*.istanbulkqhilzsartmsd.store/*
 *://*.istanbulkrd-gelsende.net/*
@@ -200534,6 +200544,7 @@
 *://*.kglhyk.info/*
 *://*.kglicxipuudfirq.ru/*
 *://*.kglo.link/*
+*://*.kgm--gov.icu/*
 *://*.kgm--gov.xyz/*
 *://*.kgm-aog.com/*
 *://*.kgm-apps.help/*
@@ -205221,6 +205232,7 @@
 *://*.kreaatkred.online/*
 *://*.kreadivstudios.com/*
 *://*.krealbimcell.xyz/*
+*://*.kreatif-destek.com/*
 *://*.kreatingcslosina.net/*
 *://*.kreativelife.net/*
 *://*.krebashem.pw/*
@@ -213829,6 +213841,7 @@
 *://*.madelainesullivan.net/*
 *://*.madeleinegriselda.net/*
 *://*.madembukadarkotu.xyz/*
+*://*.madena.qpon/*
 *://*.madencoks22.com/*
 *://*.madenegitim.com/*
 *://*.maderagloise.pro/*
@@ -213870,6 +213883,7 @@
 *://*.maefu1tejdt.net/*
 *://*.maekathni.xyz/*
 *://*.maellisromance.com/*
+*://*.maequvor.vu/*
 *://*.maestro-bntr.club/*
 *://*.maestrocar.cloud/*
 *://*.maestrodelamarreefectivo.com/*
@@ -224579,6 +224593,7 @@
 *://*.monitor-websystem.net/*
 *://*.monitoramentopacote.online/*
 *://*.monitorclutch.top/*
+*://*.monitorix.cyou/*
 *://*.monitorrobot.top/*
 *://*.monitorsystem.net/*
 *://*.monitorthorny.top/*
@@ -237294,6 +237309,7 @@
 *://*.oeredrt.com/*
 *://*.oerkz.com/*
 *://*.oertdelipsi.site/*
+*://*.oesiskola.sbs/*
 *://*.oeugtxmh.xyz/*
 *://*.oeunc.com/*
 *://*.oeusom.xyz/*
@@ -239346,6 +239362,7 @@
 *://*.online-bireysel-2021-aidat-basvurusu.xyz/*
 *://*.online-bireysel-garanti.com/*
 *://*.online-bireysel-hizmetlerimiz.com/*
+*://*.online-bireysel-mobil-tr.site/*
 *://*.online-bireysel-s-hizmetleri.com/*
 *://*.online-bireysel-secure-ilan.com/*
 *://*.online-bireysell.website/*
@@ -241888,6 +241905,7 @@
 *://*.onlinemedic.biz/*
 *://*.onlinemedicalcardpennsylvania.com/*
 *://*.onlinememoffsecured.com/*
+*://*.onlinemenubasvurulari.sbs/*
 *://*.onlinemerkez.net/*
 *://*.onlinemerkez1.info/*
 *://*.onlinemerkezavm.com/*
@@ -257431,6 +257449,7 @@
 *://*.prismaticd.pro/*
 *://*.prismisq.com/*
 *://*.prismlab.xyz/*
+*://*.prismtrail.cfd/*
 *://*.prisonersprinkle.top/*
 *://*.prisonfarm.top/*
 *://*.pristineglobalinvestmentbank.com/*
@@ -278369,6 +278388,7 @@
 *://*.secondshop.online/*
 *://*.secondshop.store/*
 *://*.secondsing.top/*
+*://*.secondturkiye.shop/*
 *://*.secondvocal.top/*
 *://*.secotext.top/*
 *://*.secpert.com/*
@@ -281235,6 +281255,7 @@
 *://*.servernoworky.geek/*
 *://*.serverop-parametrs.com/*
 *://*.serveroperation.com/*
+*://*.serverping.cyou/*
 *://*.serverrouter.cf/*
 *://*.serverrouter.ga/*
 *://*.serverrouter.tk/*
@@ -286551,6 +286572,7 @@
 *://*.sisilimide4.com/*
 *://*.sisipiciliko.pro/*
 *://*.sisisarazcollection.com.ng/*
+*://*.siskodadwdaadwadaddla.sbs/*
 *://*.siskodla.sbs/*
 *://*.siskonunkitapdunyasi.com/*
 *://*.sisleraciklanz.xyz/*
@@ -290395,6 +290417,7 @@
 *://*.sondakikakredi.online/*
 *://*.sondakikalar.club/*
 *://*.sondakikalar.site/*
+*://*.sondakikalarweb.com/*
 *://*.sondakikaperakende.com/*
 *://*.sondakikasicakgelisme.com/*
 *://*.sondakikasonnet.com/*
@@ -295283,6 +295306,7 @@
 *://*.stellacheck.com/*
 *://*.stellacy.tk/*
 *://*.stellaonline.com.tr/*
+*://*.stellaonline.net.tr/*
 *://*.stellar-stable-faith.top/*
 *://*.stellardockd.top/*
 *://*.stellarforge.store/*
@@ -300742,6 +300766,7 @@
 *://*.tarentrycommunity.com/*
 *://*.target2cloud.com/*
 *://*.targeter.su/*
+*://*.targetlaneim.com/*
 *://*.targetnest.site/*
 *://*.targetpremature.top/*
 *://*.targetsname-cms.com/*
@@ -317713,6 +317738,7 @@
 *://*.turkhaber.site/*
 *://*.turkhaberbilgileri.com/*
 *://*.turkhaberhizliyayin.com/*
+*://*.turkhaberonlineportal.com/*
 *://*.turkhaberplatform.com/*
 *://*.turkhavasahasi1.net/*
 *://*.turkhavayollari.cfd/*
@@ -318969,6 +318995,7 @@
 *://*.turkiyeneedsyou.net/*
 *://*.turkiyeneedsyou.org/*
 *://*.turkiyenet.website/*
+*://*.turkiyenexus.com/*
 *://*.turkiyengovtr.com/*
 *://*.turkiyenin-ziraatbankasii.com/*
 *://*.turkiyeninalisverissitesi.online/*
