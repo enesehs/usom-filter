@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-14 08:24:00 UTC
-# Toplam: 454337 Domain
+# Son Güncelleme: 2026-05-14 11:06:26 UTC
+# Toplam: 454385 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -322,6 +322,9 @@
 019506.cn
 01991545555.cloud
 019949393111.cloud
+019d442a-endpoint.com
+019d442e-endpoint.com
+019d6860-endpoint.com
 01a1b6l2612li013.duckdns.org
 01a2b4b1.ns-u629df.shop
 01aga01.com
@@ -1074,6 +1077,7 @@
 0faizlikredibasvurusu.com
 0fcgh3gl3.duckdns.org
 0fcja792.duckdns.org
+0fdba029e6a5-endpoint.com
 0fex140.duckdns.org
 0ff2mft71jarf.gq
 0ffic35.duckdns.org
@@ -10750,6 +10754,7 @@
 2d73.ru
 2dah1mrr6.duckdns.org
 2dakkadadomain.com
+2dc62559e005-endpoint.com
 2description.consentesto.ru
 2devlet.com
 2dfam.com
@@ -12267,6 +12272,7 @@
 354046793.net
 354157841634165413545431.com
 3542233342543478.com
+354323223.net
 35432nfds4321.duckdns.org
 3543432343343.cloud
 3545625465232.click
@@ -14562,6 +14568,7 @@
 4d491a3833bb4835dd602d1d4409fd98.sbs
 4d4f4fa2.blogspot.com
 4d67ecaf.top
+4daa2aea93db-endpoint.com
 4dc8bxk.xdk8ax.cn
 4dcc76936d54.net
 4dce4a9d9ed4.com
@@ -17777,6 +17784,7 @@
 6dc2sgw2x.duckdns.org
 6dcex4.duckdns.org
 6dct7l.duckdns.org
+6dd5fd945b34-endpoint.com
 6ddyyzaa.duckdns.org
 6de9tdmf.duckdns.org
 6degf234324.duckdns.org
@@ -19042,6 +19050,7 @@
 78-966-54-95.cfd
 78.128.114.66
 78.46.212.52
+7806d4cf9366-endpoint.com
 780a.makeki0x1.com
 78112351235.cfd
 7829346792392765982439237.app
@@ -32430,6 +32439,7 @@ admin-rsm-rply-managements.xyz
 admin-shoopiffy.com
 admin-shopffy.cc
 admin-supportextranet.com
+admin-treyripple-com-s-account.workers.dev
 admin.177954coinbase.com
 admin.benefitsnotebook.com
 admin.furstoutountzi.com
@@ -107064,6 +107074,7 @@ consistencystudy.top
 consistencytuck.top
 consistentbleach.top
 consistentblink.top
+consistentdigital.de
 consistlongevity.top
 consistnumerical.top
 consolationnotorious.top
@@ -109357,6 +109368,7 @@ credentialglamor.top
 credentials-telekom.online
 credianindaonayal.epizy.com
 credibilitybrisk.top
+crediblebizextension.de
 crediblepamphlet.top
 crediblepredominance.top
 credit-agricoie.ddns.net
@@ -124257,6 +124269,7 @@ digitalblue.co.za
 digitalboxparbuu.com
 digitalcdn.ru
 digitalcollege.org
+digitalcontinuity.de
 digitalcreativityhub.xyz
 digitalcurrencymining.sa.com
 digitaldeniz-acikdenizbank.com
@@ -124375,6 +124388,7 @@ digitalprbgiris.com
 digitalqualitymark.online
 digitalreklamobilislernap.space
 digitalreklamobiltrislernap.space
+digitalreliability.de
 digitalresolve.live
 digitals-erisim.com
 digitals-pages.net
@@ -139598,6 +139612,7 @@ ed2z.ddns.net
 ed3vqn7hyterqpo.ddns.net
 ed4.zapto.org
 ed4f-178-233-93-165.ngrok-free.app
+ed5ce47d835f-endpoint.com
 ed6cb332883c0f635a69d0a49c320548.site
 ed6f8bc4b4e7ab8a469ecb1b6c6a47b6.cf
 ed7sn51te.duckdns.org
@@ -143214,6 +143229,7 @@ ee-plakayayukleme.xyz
 ee-softs.com
 ee.evaluationbill-method.com
 ee.securbillingreview.help
+ee10bbf6c689-endpoint.com
 ee13765q3.duckdns.org
 ee14ca41ee.hopto.org
 ee305.ddns.net
@@ -153650,6 +153666,7 @@ eurohive.store
 eurohotelbooking.com
 eurolocked.ddns.net
 eurolord.duckdns.org
+euromarketsignal.de
 euromopy.tech
 euronews.ink
 euroonlnesorgulamaeglobaliletisimsorgutrbinance.run.place
@@ -153668,9 +153685,11 @@ europegdprsec.onmypc.org
 europeinlive24.com
 europeislem.22web.org
 europejetset.tours
+europesignaltrust.de
 europeswipe.com
 europetourtravels.link
 europetourtravels.world
+europetrustwave.de
 europetur.com
 euroservise.com
 eurosmart24.com
@@ -156349,6 +156368,7 @@ extendedpropagate.top
 extendoverstate.top
 extendstagnation.top
 extendthriller.top
+extendyourcredibility.de
 extenioningral.top
 extensiion-metamsks.webflow.io
 extensionbuysell.com
@@ -157457,6 +157477,7 @@ f2yw0he.top
 f2znco7.duckdns.org
 f2zood.duckdns.org
 f33fje.duckdns.org
+f36c2774f013-endpoint.com
 f3aswg6ef.duckdns.org
 f3c65.haranib89.com
 f3cl3pk31.duckdns.org
@@ -168396,6 +168417,7 @@ fullconfidentbinnceguvenlik.online
 fullcountrysave7.live
 fullemancipation.top
 fullembody.top
+fullerjp09.workers.dev
 fullgrown.zapto.org
 fullhdvideoizlemesitesi2527.xyz
 fullhdvideoizlemesitesi8007.xyz
@@ -197210,6 +197232,7 @@ heighttrivial.top
 heigsssaxgsxs.net
 heiiasjournai.com
 heikickgn.com
+heilbronner-fruehlingssymposium.de
 heimao-131.com
 heimao-132.com
 heimao-134.com
@@ -210309,6 +210332,7 @@ htgh8y76.duckdns.org
 htgqcyfiyltkbdigqptohwt.net
 htgs-demo.xyz
 htgsmerkezisbilgi.sbs
+hti-245401512.hs-sites-na2.com
 htiyatgovcttr.club
 htjo0sddq.duckdns.org
 htjxnrmamv.net
@@ -236230,6 +236254,7 @@ jnzvbpfiw.com
 jo15oimn.ru
 jo15y.xyz
 jo1b9.co
+jo2c9ada427c6-endpoint.com
 jo3lk.xyz
 joannehawkins.com
 joannslnper.org
@@ -243532,6 +243557,7 @@ kardesimiz.org
 kardeslerbutik.sbs
 kardeslercheckersalon.com
 kardeslerkokorec.com
+kardeslerorda.click
 kardesleryikama.xyz
 kardesx.com
 kardinalartisan.com
@@ -251708,6 +251734,7 @@ kohaicorp.com
 kohdk.ct.ws
 kohftitgfjvvxty.site
 kohjey.ddns.net
+kohlhoff-edelstahlverarbeitung.de
 kohliads.in
 kohpsdslaw.click
 koiiniim.org
@@ -267972,6 +267999,7 @@ marivi.info
 marixpanel.ga
 mariyamadv.com
 marjnpnl.com
+mark-squires-expressrancnes-com-s-account.workers.dev
 mark-tsok-firsat-lari.com.tr
 mark123456.zapto.org
 mark1234567.ddns.net
@@ -268165,6 +268193,7 @@ marketcilerburadacom.com
 marketcinburadam.com
 marketcinizfirsatlarcim.com
 marketcinizimbr.com
+marketcredibilitysignals.de
 marketde.enyenifirsaturunu.com.tr
 marketegel.cfd
 marketekimkampcarreefour.cfd
@@ -272502,6 +272531,7 @@ methodhq.shop
 methodhq.site
 methodicaldenounce.top
 methodicaldespise.top
+methodicalness.de
 methodicaltimid.top
 methodologyfeminism.top
 methodologyoperative.top
@@ -285779,6 +285809,7 @@ nbtci-eczane.website
 nbtci-eczane.xyz
 nbtkb92y0.duckdns.org
 nbtyukleme.22web.org
+nbuckley-cambek-com-s-account.workers.dev
 nbul.me
 nbumtkox.com
 nbuomve.duckdns.org
@@ -305690,6 +305721,7 @@ ozzd3rller0z.net
 ozzfpb.top
 p-1o1comtr.online
 p-23231111-11.cloud
+p-9jluifuu.workers.dev
 p-a-n-d-e-m-i-2faz-odemeleri.ml
 p-a-n-d-e-m-i-son-faz-destek.ml
 p-a-n-d-e-m-i-turkiyegovtr.com
@@ -326187,6 +326219,7 @@ pv38jh.duckdns.org
 pv7fr1d.cn
 pv7ncprq.storage.googleapis.com
 pvalsangia.weebly.com
+pvasquez-princetonpartners-com-s-account.workers.dev
 pvbjnkr.com
 pvbpuvfkudqvdqd.su
 pvcfsltqvvcffob.cn
@@ -334290,9 +334323,11 @@ reliabledetention.top
 reliabledmwqj.shop
 reliableevade.top
 reliableignite.top
+reliableinteractions.de
 reliablenova.club
 reliablenova.online
 reliablerelic.top
+reliablesupport.de
 reliance44.xyz
 reliance673.xyz
 relianceappeasement.top
@@ -343274,6 +343309,7 @@ sahibinden.e-guvenlialisveris-tr.sa.com
 sahibinden.e-guvenlialisveris.sa.com
 sahibinden.e-hizmetlerin.com.tr
 sahibinden.e-ilan-alisveris-sepet.com
+sahibinden.e-ilan-alisveris-sepetim.com
 sahibinden.e-ilan-online-pazar.com
 sahibinden.e-ilan-online-satici.com
 sahibinden.e-ilan-online-sepeti.com
@@ -350543,6 +350579,7 @@ sedefkurumlari.com
 seden-sd.cloud
 sedenburdayk.xyz
 sedenizbank.com
+sedennc4b1jelldc4.garden
 sedentariness.com
 sedforgodu.com
 sedgepufftyd.pro
@@ -353406,6 +353443,7 @@ serviceverifyinfos.ddns.net
 servicevinted.ddns.net
 servicevocalmms.ddns.net
 serviceware-world.life
+servicewithoutinterruption.de
 serviceworkersjs.sytes.net
 servicewrap-go.com
 servicewrap.pro
@@ -368739,6 +368777,7 @@ stablehouses.info
 stablepropeller.top
 stablesense.top
 stablestrainnose.com
+stablewebsystems.de
 stablewindowsapp.com
 stablishatrocit.top
 stabwupcrind.host
@@ -371235,6 +371274,7 @@ sube-iade-garanti-bbva.net
 sube-iade-garanti-bbva.org
 sube-iadebasvuru.com
 sube-iadelerzamani.com
+sube-infoyatirim.com
 sube-internet.xyz
 sube-is-bireysel.com
 sube-isbank.com
@@ -378930,6 +378970,7 @@ tclhcbjag.duckdns.org
 tclink.info
 tcljwq.com
 tclliqrlqrmerpj.su
+tcmahkeme.net
 tcmahkeme.org
 tcmali.org
 tcmaliidari.org
@@ -380040,6 +380081,7 @@ techoryx.online
 techpenopen.com
 techplaginapp.com
 techpowerup-gpu-z.com
+techroboticslabmade-techie-com-s-account.workers.dev
 techroute.click
 techrovia.online
 techrulez.xyz
@@ -395016,6 +395058,7 @@ trustconnectsoftware.com
 trustcore.space
 trustd.biz
 trustedcarehub360.azurewebsites.net
+trustedengagement.de
 trustedfiles.org
 trustedsecurityav.net
 trustedtesisast.com
@@ -399062,7 +399105,6 @@ turktuvracmuyne.net
 turkuaidsippt.info
 turkuazbujiteri.xyz
 turkuazhaber.shop
-turkuazkredi.com
 turkuazvillam.com
 turkulturuniverse.online
 turkumyukleme.live
@@ -399798,6 +399840,7 @@ tuvturkunuz.net
 tuvturkwebhizmet.com
 tuvturkwls.digital
 tuvturkyuklekac.com
+tuvturkyys.com
 tuvturkz.digital
 tuvturkzz.digital
 tuvturmuaynesistemleri.com
@@ -402717,6 +402760,7 @@ unimgir.pw
 unin.icu
 uninalloy.top
 uninol.ru.com
+uninterruptedperformance.de
 union122.xyz
 union3.xyz
 union436.xyz
@@ -434798,6 +434842,7 @@ xn--imfigeeldihaber-75c.app
 xn--immunecrunch-nz9f.top
 xn--imobil-wjb.site
 xn--incidentallypartition-uc9l.site
+xn--indiirimmgnlkleri3-v6bac.xyz
 xn--indirimfirsatlar-pqc.online
 xn--indirimler-frsatlar-bu-hafta-burada-ohf.com.tr
 xn--indirimlirnler-osbb.com
@@ -438396,6 +438441,7 @@ yaepa1o1.com
 yafikredi.com
 yag-kampanyasi-basladi-2026.cfd
 yag101.online
+yaga9b286ae2c101-endpoint.com
 yagami3g.zapto.org
 yagap9.duckdns.org
 yagarservisbab.net
@@ -443221,6 +443267,7 @@ yenifirsatkaylt.com
 yenifirsatlar.net.tr
 yenifirsatlar.org.tr
 yenifirsatlarikacirmayin.com
+yenifirsatlarizle.com
 yenifirsatlarkapida.online
 yenifirsatlarkapida.xyz
 yenifirsatlarsizinle.site
@@ -449119,6 +449166,7 @@ z636b25vf.duckdns.org
 z68wpen0u.duckdns.org
 z69w39n3.duckdns.org
 z6d3dm.duckdns.org
+z6e43e5886fe-endpoint.com
 z6lkpc.duckdns.org
 z6mh9f.duckdns.org
 z6myfe1.duckdns.org

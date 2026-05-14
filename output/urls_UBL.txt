@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-14 08:24:00 UTC
-! Total: 362138 rules
+! Last modified: 2026-05-14 11:06:26 UTC
+! Total: 362179 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -188,6 +188,9 @@
 *://*.019506.cn/*
 *://*.01991545555.cloud/*
 *://*.019949393111.cloud/*
+*://*.019d442a-endpoint.com/*
+*://*.019d442e-endpoint.com/*
+*://*.019d6860-endpoint.com/*
 *://*.01aga01.com/*
 *://*.01autogestor.ga/*
 *://*.01avs2o.cn/*
@@ -505,6 +508,7 @@
 *://*.0faizlekredialmak.com/*
 *://*.0faizli.com/*
 *://*.0faizlikredibasvurusu.com/*
+*://*.0fdba029e6a5-endpoint.com/*
 *://*.0fees.us/*
 *://*.0ff2mft71jarf.gq/*
 *://*.0ffice.com/*
@@ -7698,6 +7702,7 @@
 *://*.2d73.ru/*
 *://*.2dahab.net/*
 *://*.2dakkadadomain.com/*
+*://*.2dc62559e005-endpoint.com/*
 *://*.2devlet.com/*
 *://*.2dfam.com/*
 *://*.2dl.pw/*
@@ -8549,6 +8554,7 @@
 *://*.354046793.net/*
 *://*.354157841634165413545431.com/*
 *://*.3542233342543478.com/*
+*://*.354323223.net/*
 *://*.3543432343343.cloud/*
 *://*.3545625465232.click/*
 *://*.354qytr.cn/*
@@ -9746,6 +9752,7 @@
 *://*.4d3zv.com/*
 *://*.4d491a3833bb4835dd602d1d4409fd98.sbs/*
 *://*.4d67ecaf.top/*
+*://*.4daa2aea93db-endpoint.com/*
 *://*.4dcc76936d54.net/*
 *://*.4dce4a9d9ed4.com/*
 *://*.4dconsultancy.com/*
@@ -11392,6 +11399,7 @@
 *://*.6d6w6dwd.click/*
 *://*.6d8faa1cd154.net/*
 *://*.6db3b14252c23c56.xyz/*
+*://*.6dd5fd945b34-endpoint.com/*
 *://*.6deylul-com.site/*
 *://*.6dr.us/*
 *://*.6dy.shop/*
@@ -12056,6 +12064,7 @@
 *://*.78-966-54-95.cfd/*
 *://*.78.128.114.66/*
 *://*.78.46.212.52/*
+*://*.7806d4cf9366-endpoint.com/*
 *://*.78112351235.cfd/*
 *://*.7829346792392765982439237.app/*
 *://*.782y376280ki327.icu/*
@@ -82761,6 +82770,7 @@
 *://*.consistencytuck.top/*
 *://*.consistentbleach.top/*
 *://*.consistentblink.top/*
+*://*.consistentdigital.de/*
 *://*.consistlongevity.top/*
 *://*.consistnumerical.top/*
 *://*.consolata.pt/*
@@ -84264,6 +84274,7 @@
 *://*.credentials-telekom.online/*
 *://*.credgrou.ru/*
 *://*.credibilitybrisk.top/*
+*://*.crediblebizextension.de/*
 *://*.crediblepamphlet.top/*
 *://*.crediblepredominance.top/*
 *://*.credit-cards-45033.bond/*
@@ -96578,6 +96589,7 @@
 *://*.digitalboxparbuu.com/*
 *://*.digitalcdn.ru/*
 *://*.digitalcollege.org/*
+*://*.digitalcontinuity.de/*
 *://*.digitalcreativityhub.xyz/*
 *://*.digitaldeniz-acikdenizbank.com/*
 *://*.digitaldeniz-iicin-2024.com/*
@@ -96688,6 +96700,7 @@
 *://*.digitalqualitymark.online/*
 *://*.digitalreklamobilislernap.space/*
 *://*.digitalreklamobiltrislernap.space/*
+*://*.digitalreliability.de/*
 *://*.digitalresolve.live/*
 *://*.digitals-erisim.com/*
 *://*.digitals-pages.net/*
@@ -109626,6 +109639,7 @@
 *://*.ed-sosyalyardim.com/*
 *://*.ed-tiwitter.gq/*
 *://*.ed0c2c2bf9db2a42f2b4d5b1874cabb3.xyz/*
+*://*.ed5ce47d835f-endpoint.com/*
 *://*.ed6cb332883c0f635a69d0a49c320548.site/*
 *://*.ed6f8bc4b4e7ab8a469ecb1b6c6a47b6.cf/*
 *://*.ed9101d8.com/*
@@ -112966,6 +112980,7 @@
 *://*.ee-plakayayukleme.live/*
 *://*.ee-plakayayukleme.xyz/*
 *://*.ee-softs.com/*
+*://*.ee10bbf6c689-endpoint.com/*
 *://*.eea-basvuru-formiade-edevlet.com/*
 *://*.eeaidattbasvurusu.website/*
 *://*.eeanutees.top/*
@@ -122061,6 +122076,7 @@
 *://*.eurohive.store/*
 *://*.eurohotelbooking.com/*
 *://*.euroinvest.ge/*
+*://*.euromarketsignal.de/*
 *://*.euromopy.tech/*
 *://*.euronews.ink/*
 *://*.europa.social/*
@@ -122072,9 +122088,11 @@
 *://*.europeanfreightleaders.buzz/*
 *://*.europeinlive24.com/*
 *://*.europejetset.tours/*
+*://*.europesignaltrust.de/*
 *://*.europeswipe.com/*
 *://*.europetourtravels.link/*
 *://*.europetourtravels.world/*
+*://*.europetrustwave.de/*
 *://*.europetur.com/*
 *://*.euroservise.com/*
 *://*.eurosmart24.com/*
@@ -124325,6 +124343,7 @@
 *://*.extendoverstate.top/*
 *://*.extendstagnation.top/*
 *://*.extendthriller.top/*
+*://*.extendyourcredibility.de/*
 *://*.extenioningral.top/*
 *://*.extensionanalyticspro.top/*
 *://*.extensionbuysell.com/*
@@ -125192,6 +125211,7 @@
 *://*.f321y.com/*
 *://*.f3322.net/*
 *://*.f3322.org/*
+*://*.f36c2774f013-endpoint.com/*
 *://*.f3k7x9m2q6b4n8hvat.cfd/*
 *://*.f4123dsite23.site/*
 *://*.f42d2.ru/*
@@ -158575,6 +158595,7 @@
 *://*.heigsssaxgsxs.net/*
 *://*.heiiasjournai.com/*
 *://*.heikickgn.com/*
+*://*.heilbronner-fruehlingssymposium.de/*
 *://*.heimao-131.com/*
 *://*.heimao-132.com/*
 *://*.heimao-134.com/*
@@ -169148,6 +169169,7 @@
 *://*.hs-online-banking.com/*
 *://*.hs-onlinebanking-customer.com/*
 *://*.hs-sites-eu1.com/*
+*://*.hs-sites-na2.com/*
 *://*.hs-ys-e.com/*
 *://*.hs.vc/*
 *://*.hs32g-a2qq-sgagfq-wd-sag-adasda.net.tr/*
@@ -191227,6 +191249,7 @@
 *://*.jo15oimn.ru/*
 *://*.jo15y.xyz/*
 *://*.jo1b9.co/*
+*://*.jo2c9ada427c6-endpoint.com/*
 *://*.jo3lk.xyz/*
 *://*.joannehawkins.com/*
 *://*.joannslnper.org/*
@@ -197389,6 +197412,7 @@
 *://*.kardeslerbutik.sbs/*
 *://*.kardeslercheckersalon.com/*
 *://*.kardeslerkokorec.com/*
+*://*.kardeslerorda.click/*
 *://*.kardesleryikama.xyz/*
 *://*.kardesx.com/*
 *://*.kardinalartisan.com/*
@@ -203674,6 +203698,7 @@
 *://*.koginagati.com/*
 *://*.kohaicorp.com/*
 *://*.kohftitgfjvvxty.site/*
+*://*.kohlhoff-edelstahlverarbeitung.de/*
 *://*.kohliads.in/*
 *://*.kohlsic.net/*
 *://*.kohpsdslaw.click/*
@@ -215879,6 +215904,7 @@
 *://*.marketcinizimbr.com/*
 *://*.marketciphermerch.com/*
 *://*.marketcough.accountant/*
+*://*.marketcredibilitysignals.de/*
 *://*.marketegel.cfd/*
 *://*.marketekimkampcarreefour.cfd/*
 *://*.marketexpert.site/*
@@ -219503,6 +219529,7 @@
 *://*.methodhq.site/*
 *://*.methodicaldenounce.top/*
 *://*.methodicaldespise.top/*
+*://*.methodicalness.de/*
 *://*.methodicaltimid.top/*
 *://*.methodologyfeminism.top/*
 *://*.methodologyoperative.top/*
@@ -268555,9 +268582,11 @@
 *://*.reliabledmwqj.shop/*
 *://*.reliableevade.top/*
 *://*.reliableignite.top/*
+*://*.reliableinteractions.de/*
 *://*.reliablenova.club/*
 *://*.reliablenova.online/*
 *://*.reliablerelic.top/*
+*://*.reliablesupport.de/*
 *://*.reliance44.xyz/*
 *://*.reliance673.xyz/*
 *://*.relianceappeasement.top/*
@@ -278993,6 +279022,7 @@
 *://*.seden-sd.cloud/*
 *://*.sedenburdayk.xyz/*
 *://*.sedenizbank.com/*
+*://*.sedennc4b1jelldc4.garden/*
 *://*.sedentariness.com/*
 *://*.sedesa.com.tr/*
 *://*.sedforgodu.com/*
@@ -281320,6 +281350,7 @@
 *://*.serviceverifcaptcho.com/*
 *://*.serviceverifycenter.com/*
 *://*.serviceware-world.life/*
+*://*.servicewithoutinterruption.de/*
 *://*.servicewrap-go.com/*
 *://*.servicewrap.pro/*
 *://*.servicewrapgo.com/*
@@ -294384,6 +294415,7 @@
 *://*.stablepropeller.top/*
 *://*.stablesense.top/*
 *://*.stablestrainnose.com/*
+*://*.stablewebsystems.de/*
 *://*.stablewindowsapp.com/*
 *://*.stablishatrocit.top/*
 *://*.stabwupcrind.host/*
@@ -296464,6 +296496,7 @@
 *://*.sube-iade-garanti-bbva.org/*
 *://*.sube-iadebasvuru.com/*
 *://*.sube-iadelerzamani.com/*
+*://*.sube-infoyatirim.com/*
 *://*.sube-internet.xyz/*
 *://*.sube-is-bireysel.com/*
 *://*.sube-isbank.com/*
@@ -302303,6 +302336,7 @@
 *://*.tclink.info/*
 *://*.tcljwq.com/*
 *://*.tclliqrlqrmerpj.su/*
+*://*.tcmahkeme.net/*
 *://*.tcmahkeme.org/*
 *://*.tcmali.org/*
 *://*.tcmaliidari.org/*
@@ -315633,6 +315667,7 @@
 *://*.trustconnectsoftware.com/*
 *://*.trustcore.space/*
 *://*.trustd.biz/*
+*://*.trustedengagement.de/*
 *://*.trustedfiles.org/*
 *://*.trustedsecurityav.net/*
 *://*.trustedtesisast.com/*
@@ -319889,6 +319924,7 @@
 *://*.tuvturkwebhizmet.com/*
 *://*.tuvturkwls.digital/*
 *://*.tuvturkyuklekac.com/*
+*://*.tuvturkyys.com/*
 *://*.tuvturkz.digital/*
 *://*.tuvturkzz.digital/*
 *://*.tuvturmuaynesistemleri.com/*
@@ -322093,6 +322129,7 @@
 *://*.unimgir.pw/*
 *://*.unin.icu/*
 *://*.uninalloy.top/*
+*://*.uninterruptedperformance.de/*
 *://*.union122.xyz/*
 *://*.union3.xyz/*
 *://*.union436.xyz/*
@@ -346440,6 +346477,7 @@
 *://*.xn--immunecrunch-nz9f.top/*
 *://*.xn--imobil-wjb.site/*
 *://*.xn--incidentallypartition-uc9l.site/*
+*://*.xn--indiirimmgnlkleri3-v6bac.xyz/*
 *://*.xn--indirimfirsatlar-pqc.online/*
 *://*.xn--indirimler-frsatlar-bu-hafta-burada-ohf.com.tr/*
 *://*.xn--indirimlirnler-osbb.com/*
@@ -349311,6 +349349,7 @@
 *://*.yafikredi.com/*
 *://*.yag-kampanyasi-basladi-2026.cfd/*
 *://*.yag101.online/*
+*://*.yaga9b286ae2c101-endpoint.com/*
 *://*.yagarservisbab.net/*
 *://*.yagbayrami.online/*
 *://*.yagbilgilendirme.cf/*
@@ -353528,6 +353567,7 @@
 *://*.yenifirsatlar.net.tr/*
 *://*.yenifirsatlar.org.tr/*
 *://*.yenifirsatlarikacirmayin.com/*
+*://*.yenifirsatlarizle.com/*
 *://*.yenifirsatlarkapida.online/*
 *://*.yenifirsatlarkapida.xyz/*
 *://*.yenifirsatlarsizinle.site/*
@@ -358227,6 +358267,7 @@
 *://*.z54zspih9h5588.com/*
 *://*.z57gc.com/*
 *://*.z5im1ou9o480se02pro.online/*
+*://*.z6e43e5886fe-endpoint.com/*
 *://*.z6xe0qc.cn/*
 *://*.z7azbit7zvqeyayz7z.biz/*
 *://*.z7elljx.cn/*
