@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-14 05:37:06 UTC
-# Toplam: 454281 Domain
+# Son Güncelleme: 2026-05-14 08:24:00 UTC
+# Toplam: 454337 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -47589,6 +47589,7 @@ api-cdnw5.net
 api-google.cf
 api-hw.com
 api-kaax-servis.wuaze.com
+api-microservice-us1.com
 api-pretty.cool
 api-profit.com
 api-resource.youzicheng.net
@@ -53749,6 +53750,7 @@ audisportrs7.com
 audit-kg.com
 audit-pvv.com
 audit.checkmarx.cx
+audita101.fecrux.com
 auditdiamond.top
 auditelecom-ticket.ddns.net
 auditembed.top
@@ -61291,6 +61293,7 @@ basvursendes.com.tr
 basvursendez.com.tr
 basvursendez.sbs
 basvursends.com.tr
+basvursendsz.com.tr
 basvursendv.com.tr
 basvursendz.com.tr
 basvursendzk.com.tr
@@ -85341,6 +85344,7 @@ bosdistort.top
 bose.kittyechopages.net
 bosee.peaceofcode.net
 bosegena.com
+bosflux.gifts
 boshgbsmatkapucuz.site
 boshman09.com
 boshmatkapucuz.site
@@ -86951,6 +86955,7 @@ brunelolabs.shop
 brunelolabs.site
 brunelolabs.store
 brunestavok.digital
+brunestavok.gifts
 brunetadoli.gifts
 brunoboss.zapto.org
 brunoman.top
@@ -88446,6 +88451,7 @@ buchgsyolcu.is-best.net
 buchnation.com
 buckar.ddns.net
 bucket-aws-s1.com
+bucket-aws-s2.com
 bucket00716.s3.ap-southeast-2.amazonaws.com
 bucket49.xyz
 bucketapp.shop
@@ -90868,6 +90874,7 @@ buzticaret.net
 buzz4375.xyz
 buzzaro.media
 buzzcase.top
+buzzdaily.online
 buzzdeployment.top
 buzzedcompany.com
 buzzentry.site
@@ -100108,6 +100115,7 @@ churchman.ddns.net
 churchmon.ddns.net
 churchmon21.ddns.net
 churchmon22.ddns.net
+churchring.com
 churchs.myftp.biz
 churchxx.ddns.net
 churka.hopto.org
@@ -109827,6 +109835,7 @@ cropeagram99.xyz
 cropenlist.top
 cropomhxty.duckdns.org
 cropp-arena.ru
+cropsurname.com
 crosce.ru.com
 crosionpreoccupy.top
 crosleyconsulting.com
@@ -113040,6 +113049,7 @@ dailycurrent.online
 dailydownloads.net
 dailyemploy.com
 dailyflare.world
+dailyflash.today
 dailyflash.world
 dailyfront.digital
 dailyfront.site
@@ -142900,6 +142910,7 @@ edqwaedrwaqej.com
 edqwasedqaw.store
 edqwasedrjfqjwa.com
 edqwedqadqeadwsz.com
+edr-security-bucket1.cc
 edr4fliw.duckdns.org
 edrak4197.ddns.net
 edremitlid.cfd
@@ -157842,6 +157853,7 @@ facs.pw
 fact-times.live
 fact.hairshydrovibe.com
 factalia-ofh2cutija-uc.a.run.app
+factgrove.news
 factheologissi.com
 facthq.store
 factionalleviation.top
@@ -161063,6 +161075,7 @@ filehubspot.com
 filejurere23.hopto.org
 filekarlmilkkm.com
 filekeso.com
+fileless-storage-s3.cc
 filelinkallezcompany.com
 filelinkallsimple.com
 filelinks.live
@@ -164447,6 +164460,7 @@ firstdataa.com
 firstdatac.com
 firstdecide.top
 firstdoxed.space
+firstdrivehill.com
 firstdunyasi101lekapinda.com
 firstdunyasi101leyilsonu.com
 firstechsnms.duckdns.org
@@ -175143,7 +175157,6 @@ gen.fbi.cab
 gen5-dyson.com.tr
 genafut.top
 genasispony.hopto.org
-genbeedigital.com
 gencburseli.online
 gencdeadlaser.cfd
 gencdestek.tech
@@ -184107,6 +184120,7 @@ gui.dnsdojo.net
 guiadosabor.com
 guiaemportugues.com
 guiandoempreendedores.com
+guicopt.shop
 guidancespaghetti.top
 guidassembler.com
 guide-gemini.com
@@ -184574,6 +184588,7 @@ guncelhaber.site
 guncelhaber2026.proxydns.com
 guncelhaberajansi.xyz
 guncelhabercilik.net
+guncelhaberfan.com
 guncelhaberler.club
 guncelhaberler.today
 guncelhaberlerimiz.net
@@ -184604,6 +184619,7 @@ guncelisikayetler.com
 guncelislemlerx.net
 guncelislemmerkezi.xyz
 guncelislemmerkezleri-tr10.net
+gunceliz.site
 guncelkakkindasikayetler.vartr.ru.com
 guncelkal.name.tr
 guncelkalmakicin.name.tr
@@ -188431,6 +188447,7 @@ haberekon.site
 haberekon.website
 haberekon.xyz
 haberev724.com
+haberfirsatiyeri.com
 haberfirsatlariduyuru.com
 habergazeteres.xyz
 habergazetetrler.xyz
@@ -188585,6 +188602,7 @@ haberlergirisondakika.b-cdn.net
 haberlerguncel.merseine.com
 haberlerim724.com
 haberlerimizi-dinleyin.online
+haberlerinadresim.com
 haberlerinfo.club
 haberlerinfo.co
 haberlerinfo.online
@@ -193223,6 +193241,7 @@ handicraftcalcium.top
 handicraftverdict.top
 handinhand.blogdns.org
 handkindadiet.com
+handle-me-sv1.com
 handle.pamphler.com
 handling.ddns.net
 handluifow.run
@@ -193810,6 +193829,7 @@ hardshiptickle.top
 hardsuperstition.top
 hardswarehub.today
 hardtony.com
+hardware-office.cc
 hardwarelife.top
 hardwarestunning.top
 hardyel.ml
@@ -196457,12 +196477,16 @@ headzees.com
 heaglap.info
 heagsmerkezi232.blogspot.com
 heal.lancebarkerwa.com
+healcare.bond
 healgeni.live
 healmind.study
 healsanctum.azurewebsites.net
 health-and-beauty.pw
 health-check-today.com
 health-ray-id.com
+health-smooth-eu1.com
+health-smooth-eu2.com
+health-smooth-eu3.com
 health.aqlifecare.com
 health264.xyz
 healthaidhub.org
@@ -228918,6 +228942,7 @@ istanbulpazartesiye.site
 istanbulport.webredirect.org
 istanbulportfoydanismanlik.com
 istanbulprestijhalis.shop
+istanbulpropertyfund.com
 istanbulqxac.net
 istanbulr.ml
 istanbulrmzntoplu.shop
@@ -229710,6 +229735,7 @@ istleanerseazleans.duckdns.org
 istlen.com
 istlesybasvr.com
 istlgsbasvr.click
+istline.gifts
 istllkart.net
 istlmfkasd.com
 istlmstndldf.com
@@ -234218,6 +234244,7 @@ izv2-onay.xyz
 izv77b.duckdns.org
 izvchftbakiyem.net
 izvcmonlineislem.net
+izvera.live
 izvestiyahall.ru
 izvilvililvik.net
 izviri11mslm.net
@@ -253805,6 +253832,7 @@ kredibasvuruonaymerkezi.net
 kredibasvuruonline.com.tr
 kredibasvuruonline.sbs
 kredibasvuruportal.club
+kredibasvuruportali.lat
 kredibasvurusistemi.com
 kredibasvurusitesi.com
 kredibasvurusonuclarimonline.tk
@@ -258850,6 +258878,7 @@ lengthyjurisdiction.top
 lengthypreside.top
 lengthyrefugee.top
 leniencypatronize.top
+leniencyskirttray.com
 leniencysubsidise.top
 leniencyupeintedent.top
 leniencyuranium.top
@@ -259117,6 +259146,7 @@ levisvergi.com
 levitating.app
 leviw.ddns.net
 levkrut.hopto.org
+levline.gifts
 levocumbut.com
 levoeuevents.com
 levonside.space
@@ -260567,6 +260597,7 @@ livesupport-instagram.cf
 livesupportclient.com
 livesystemperu.com
 livetalentpro.com
+liveturk24.world
 livetvaz.org
 liveuamap.live
 liveupdate.dyndns.biz
@@ -268381,6 +268412,7 @@ markettrcepte.info.tr
 markettrcepte.net.tr
 markettrcepte.org.tr
 markettrendingcenter.com
+markettrendinsight.online
 markettrunner.com
 markettscope.com
 markettsignal.com
@@ -268453,6 +268485,7 @@ marlexcheck.xyz
 marlexnow.xyz
 marli27.duckdns.org
 marlieskasberger.com
+marline.gifts
 marlyn.zapto.org
 marmar1.linkpc.net
 marmara-budapest.com
@@ -271389,6 +271422,9 @@ memon.hopto.org
 memoneyonline.com
 memorableevents.click
 memorizeerode.buzz
+memory-protection-layer1.cc
+memory-protection-layer2.cc
+memory-scanner.cc
 memos.ddns.net
 memosigla.su
 memotech.cf
@@ -273207,6 +273243,7 @@ microsearchstat.com
 microsecurhostx2.fagdns.com
 microsecurx3.ddns.net
 microservice-update-s1-bucket.cc
+microservice-update-s2-bucket.cc
 microservice.zapto.org
 microsfot.org
 microsft-update.com
@@ -286578,6 +286615,7 @@ ner1do67tm6etoxypirw.ddns.net
 nerakar.duckdns.org
 nerape4774.ddns.net
 nerapo.com
+neraviona.xyz
 nerbzdcm.com
 nerd6ebuhzalkimbenim82.net
 nerdealibabacif.duckdns.org
@@ -287811,6 +287849,7 @@ newsarox.com
 newsat.duckdns.org
 newsattacker.zapto.org
 newsaxisflow.com
+newsbeacon.today
 newsbeaconer.com
 newsbeast.gr.com
 newsbizshow.net
@@ -287852,6 +287891,7 @@ newserviciosnao.duckdns.org
 newsesthetics.top
 newsexam.com
 newsfeeds-microsoft.press
+newsflash.today
 newsfor.newss.nl
 newsforgehub.com
 newsforgoodlife.com
@@ -287932,6 +287972,7 @@ newsshop.top
 newssilk.top
 newssparkle.com
 newssprint.world
+newssprout.world
 newsstory.online
 newsstory.pro
 newssu.com
@@ -290847,6 +290888,7 @@ nowosci-pl.cloud
 nowose.com
 nowpetrochemical.top
 nowprobisd-htchekid.com
+nowscoop.site
 nowsmartinfo.online
 nowsmartmodern.online
 nowstartfuture.online
@@ -303751,6 +303793,7 @@ otauww.duckdns.org
 otbabrewri.com
 otbimcell.com
 otbrana.com
+otcast.pics
 otccjifgvjyu.pw
 otcsalliance.sa.com
 otdohalurc.duckdns.org
@@ -316304,6 +316347,7 @@ plinqok.com
 plint.ddns.net
 plintergov.info
 plirenokadu.com
+plirenokadu.gifts
 plirenovikax.gifts
 plirweb.com
 plivoradenu.com
@@ -320940,6 +320984,7 @@ promsyonlar.com.tr
 promsyonlar.cyou
 promsyonlarbasvr.click
 promsyonlarbasvr2.click
+promsyonvakti.cfd
 promtechnolak.ru
 promyzor.xyz
 promzeus.com
@@ -326769,6 +326814,7 @@ qamkhw.com
 qan1.top
 qandeblari.xyz
 qanokey.com
+qanor.bond
 qaok5hty3.vraudo.es
 qapara.com
 qapnyf6ay.duckdns.org
@@ -339948,6 +339994,7 @@ s2xg23lp9.duckdns.org
 s3-contemp.s3.sa-east-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-microsoft.com
+s3-updatehub.cc
 s3.amazonaws.com
 s3.fikofiko.top
 s3.megawoc.com
@@ -360606,6 +360653,7 @@ skinnytactful.top
 skinover.top
 skinpoise.com
 skinrespect.site
+skinritual.beauty
 skinsml-free16.hopto.org
 skinstocks.com
 skinvaultre.com
@@ -360788,6 +360836,7 @@ skyfall08.zapto.org
 skyfformlabs.com
 skygroupt6.zapto.org
 skyhaivex.com
+skyhanni.cloud
 skyhgsz.com
 skyhighdream.info
 skyhosttech.hopto.org
@@ -361747,6 +361796,7 @@ snakenest.zapto.org
 snakes3.site
 snakescream.ddns.net
 snakesna.online
+snaketwig.com
 snaknmpylrdfsrttgelr.com
 snanpckat-apk.com
 snap6589.xyz
@@ -367525,6 +367575,7 @@ sportgymmm32.xyz
 sportive.co.za
 sportive.tk
 sportlotovukraine.ru
+sportmort.xyz
 sportnow.news
 sportotosorgu.com.tr
 sportotosorgu.net
@@ -398871,6 +398922,7 @@ turkpltfonline.com
 turkproam.com
 turkpropertyinvest.com
 turkptrl.com
+turkpulsenow.company
 turkrendavu.net
 turkrent.net
 turkrezervasyon.com
@@ -399067,6 +399119,7 @@ turkyolu.info
 turladikca.com
 turlcell.com
 turlentscn.top
+turline.xyz
 turlkiyegovtr.xyz
 turluindirimler.com.tr
 turluindirimler.online
@@ -412698,6 +412751,7 @@ veyaf1.s3.eu-north-1.amazonaws.com
 veyarexcarsfilo.com
 veygzqdl.com
 veykstar.com
+veyloriax.cfd
 veynstoun.com
 veyrouna.com
 veyselgeliyorumdiyarbakir.tk
@@ -415355,6 +415409,7 @@ vregimerkezi.com
 vregm0xme.com
 vregmerkez.com
 vrelastonid.digital
+vrelastonid.gifts
 vreldmrnz.blogspot.com
 vrengim.blogspot.com
 vrenodakilu.info
@@ -449638,6 +449693,7 @@ zavidolkjadfc.xyz
 zavlu.bond
 zavmoc.com
 zavonoe.com
+zavorionix.cyou
 zavsizjk.duckdns.org
 zavurnediko.mom
 zawajonly.com
