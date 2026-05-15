@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-15 13:23:20 UTC
-# Toplam: 454604 Domain
+# Son Güncelleme: 2026-05-15 15:53:15 UTC
+# Toplam: 454650 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -3870,6 +3870,7 @@
 12315645645646515.blogspot.com
 123162743768927849312892.site
 1231x1x1.great-site.net
+123213212112.duckdns.org
 12321323333.cloud
 123213541800560725.xyz
 12323232322.cloud
@@ -23128,6 +23129,7 @@ a-101flrsxtlxr.org
 a-101harcaharcabitmez.net
 a-101harcaharcabitmezz.com
 a-101hizmetleri.karlaparalaras.com
+a-101indirim.com
 a-101indirimfirsatlarisubatayikatalog.com
 a-101indirimlisiparisler.xyz
 a-101indirimsepeti.cfd
@@ -23448,6 +23450,7 @@ a.doko.moe
 a.doulbeclick.org
 a.dravencia.sbs
 a.fertuferer.cfd
+a.garantibbvakredibasvuru.com
 a.googie.pw
 a.hahauahjsklalapskananzmanah.net
 a.idat.gov-tr.org
@@ -47923,6 +47926,7 @@ app-adresler-045995caf21f.herokuapp.com
 app-alim.net
 app-amznalertlogin1687.duckdns.org
 app-baglan.online
+app-bbva.garantibbvakredibasvuru.com
 app-bbva.online
 app-btcturk.com
 app-bx2atu1ym6-lxd6r0o9y69g.duckdns.org
@@ -61327,6 +61331,7 @@ basvursendv.com.tr
 basvursendz.com.tr
 basvursendz.sbs
 basvursendzk.com.tr
+basvursendzk.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -64704,6 +64709,7 @@ bbasvurusu.wixsite.com
 bbav--firsat-kampanyan.xyz
 bbav-kmpfrstlrbbav.site
 bbav.bbvaprmsynkmpnyabsvr.info
+bbav.garantibbvakredibasvuru.com
 bbavfiesjth.online
 bbavfratlari-kmp.site
 bbavgirislimitsorgu.site
@@ -65016,6 +65022,7 @@ bbva-webgarantibayrami.com
 bbva-webgarantifirsat.com
 bbva.cepten-basvurum.site
 bbva.fit
+bbva.garantibbvakredibasvuru.com
 bbva.giris-anlik-web-internet.online
 bbva.istanbul
 bbva.online
@@ -101974,6 +101981,7 @@ clearlyretarded.top
 clearmindhealthandwellness.com
 clearnetfab.net
 clearpact.top
+clearpass.garantibbvakredibasvuru.com
 clearplow.com
 clearrsteps.com
 clearservice4upgrade.date
@@ -106946,6 +106954,7 @@ connect.clevelandskin.org
 connect.clinkvl.com
 connect.codigodebarra.co
 connect.contractorquote.info
+connect.garantibbvakredibasvuru.com
 connect.heritageagencies.com
 connect.infinitybackup.net
 connect.infinitycloud.info
@@ -127137,6 +127146,7 @@ dlynankz.biz
 dlyxypnjmz.duckdns.org
 dlz7ao.duckdns.org
 dlzygoe.com
+dm.garantibbvakredibasvuru.com
 dm2m21fe.duckdns.org
 dm5de7.duckdns.org
 dm6beg.duckdns.org
@@ -145666,6 +145676,7 @@ ekonomi-analizi.info
 ekonomi-bakanligi-kayit-basvuru-katilim-forumu-tc.forumu.tc
 ekonomi-destek.info
 ekonomi-finansal.info
+ekonomi-finansci.info
 ekonomi-gelecegi.info
 ekonomi-gelecek.info
 ekonomi-gundem.online
@@ -146874,6 +146885,7 @@ email-qnbfinansbank.com
 email-trackingverification.click
 email-verify-account-apple.com
 email-verify-apple.com
+email.garantibbvakredibasvuru.com
 email.gov.in.attachment.drive.servicesmail.site
 email.gov.in.maildrive.email
 email.mg-d0.substack.com
@@ -147927,6 +147939,8 @@ empresainfects.zapto.org
 empresariosindependientes.com
 empresas-formulario-2008-2009-2000.duckdns.org
 empresas.duckdns.org
+empresas.garantibbvakredibasvuru.com
+empresasbbavnet.garantibbvakredibasvuru.com
 empresaswctelsalvador-sv.duckdns.org
 empressgroup.top
 empresspilgrim.top
@@ -151862,6 +151876,7 @@ erzurumsubesi.xyz
 es-bbva-movil.com
 es-bbva-online.com
 es-bbva-seguridad.com
+es-bbva.garantibbvakredibasvuru.com
 es-d-5476003920260404-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 es-facebook.com
 es-k4rtyxleme34gng.net
@@ -151873,6 +151888,7 @@ es-qparamguvendehizmeti.com
 es-tickets.ru
 es-verification.com
 es-verifications.com
+es.garantibbvakredibasvuru.com
 es.hgsyuklemeyerii.net
 es.ngrok.tzsafe.com
 es.sslhermanos.com
@@ -154519,6 +154535,7 @@ evdeyizturkiyem.com
 evdigitaliscepislemenu.online
 evdisaridandahzrlu.sbs
 evdkaldiye.club
+evdnmkcnevdecktk.co
 evdufyoi.com
 eve-06.ddns.net
 evedairhersey.club
@@ -161320,6 +161337,7 @@ filorentacars.com
 filorentcars.com
 filorentecar.com.tr
 filorenthizlikirala.online
+filorentistkurumsal.com
 filorentkirala.com
 filorenttkiralama.com
 filormo.site
@@ -180359,6 +180377,7 @@ go.clicksme.org
 go.clss.cl
 go.everli-killz.xyz
 go.finanskaynak.online
+go.garantibbvakredibasvuru.com
 go.kriptoinfo.online
 go.ktspace.p-e.kr
 go.ofo.ac
@@ -198381,6 +198400,7 @@ hemengeldi.net
 hemengeldiislem.net
 hemengeldikaldi.online
 hemengeldm.com
+hemengelenekranlarburada.duckdns.org
 hemengelenfirsatgiller.com
 hemengelenfirsatlarim.com
 hemengelfirsattanyararlan.online
@@ -206102,6 +206122,7 @@ hizliresim.22web.org
 hizliresmirandevu.com
 hizlirezervasyon.com
 hizlirezervasyonislemleri.online
+hizlirgec.click
 hizlirhbrmbl.site
 hizlirnd-vu.net
 hizlirndevler.com
@@ -208820,6 +208841,7 @@ homuscanfleskem.com
 homusedtoh.xyz
 homyme.hopto.org
 hondaplayout.shop
+hondaturkiyee.com
 hondaza.duckdns.org
 hondchain.com
 hondreti.sambal.web.id
@@ -224068,6 +224090,7 @@ intraktifvergidairesi.net
 intraktifvergiodeme.net
 intrane-web.online
 intranet-web.click
+intranet.garantibbvakredibasvuru.com
 intranet.mcasavaya.com
 intranet.ohchr.account-protect.work
 intranetiniz.com
@@ -236389,6 +236412,7 @@ jobiloapro.site
 jobintro.linkpc.net
 jobless56.xyz
 joblly.com
+jobs.garantibbvakredibasvuru.com
 jobs.illaewinstralinc.com
 jobscholar.com
 jobsdigital.duckdns.org
@@ -237345,6 +237369,7 @@ july-sixth-yearspecial-campaign.net
 july.mypressonline.com
 july202022.ddns.net
 july20220spread.ddns.net
+july8494589.click
 julyburdadayfirsatbsvurum.net
 julycheck-hediyekmpanysi.net
 julyday-checkhediyembasvru.online
@@ -260335,6 +260360,7 @@ links-sponsor-mobilde-tr.sbs
 links-tr.email-tr.com
 links-tr.strangled.net
 links-tr.webredirect.org
+links.garantibbvakredibasvuru.com
 links.heliohost.org
 linksa.asia
 linksafe.life
@@ -261913,6 +261939,7 @@ login.dviznov.com
 login.five9-hr.com
 login.forticloud.online
 login.freshworks-hr.com
+login.garantibbvakredibasvuru.com
 login.gddss36.live
 login.giaoxuchuson.com
 login.gmail-account.gq
@@ -268660,6 +268687,7 @@ marnead.cyou
 marno.zapto.org
 marokinoement.zapto.org
 maronler.com
+maroon-fish-421768.hostingersite.com
 maroplo.com
 maroui.xyz
 marperplexity.top
@@ -286346,6 +286374,7 @@ nebtoizi.ru
 nebube.com
 nebudeco.com
 nebula.amongothel.com
+nebula.garantibbvakredibasvuru.com
 nebula111.xyz
 nebulacheck.cloud
 nebulachecker.online
@@ -288485,6 +288514,7 @@ nfha96.duckdns.org
 nfhbpyr.com
 nfhc8zp6dl.ml
 nfhgisisis.net
+nfhvu87348348.click
 nfinx.info
 nfiru.buzz
 nfiru.monster
@@ -290847,6 +290877,7 @@ notificationsmanagersec.com
 notificationstatus.com
 notifincochasez.ddns.net
 notify-service.biz
+notify.garantibbvakredibasvuru.com
 notifyalert-bankingwellsfargo-adm.duckdns.org
 notifyblush.top
 notifyexposition.top
@@ -296243,6 +296274,7 @@ ohotechnologies.com
 ohoyaheydehey.site
 ohpceazus.com
 ohqaphal.net
+ohqbtbbavnet.garantibbvakredibasvuru.com
 ohqdeprl.com
 ohrfrost.com
 ohridblue.com
@@ -296952,6 +296984,7 @@ om8e6clc.duckdns.org
 om8nlk.duckdns.org
 omabim.net
 omacwkgd.com
+omada.garantibbvakredibasvuru.com
 omaee435.ddns.net
 omagadambatukam.ddns.net
 omagas.hopto.org
@@ -305317,6 +305350,7 @@ oyakcmento.shop
 oyakegitimvakfi.com
 oyakglobal.com
 oyakglobal.com.tr
+oyaktrade.com
 oyapikredi.com
 oyarculfic.rpexylakeg.ru
 oyaw.club
@@ -317670,6 +317704,7 @@ portal.eaidamerkezi.com.tr
 portal.eiadelerim.com.tr
 portal.eiademerkezi.net
 portal.evsahibibasvuru.com
+portal.garantibbvakredibasvuru.com
 portal.gucluvip.com
 portal.infura-ipfs.io
 portal.miaariacademy.com
@@ -317707,6 +317742,7 @@ portalbasvur.com
 portalbasvuruml.online
 portalbasvuruyap.com
 portalbbua.bbvaprmsynkmpnyabsvr.info
+portalbbua.garantibbvakredibasvuru.com
 portalbilet.kz
 portalbileti.ge
 portalbonus.my-homeip.com
@@ -318002,6 +318038,7 @@ post-track.help
 post-up.sbs
 post-word.top
 post.convstats.com
+post.garantibbvakredibasvuru.com
 post.mfa-uz.com
 post656.xyz
 posta-romana.ddns.net
@@ -319284,6 +319321,7 @@ preferableretrospect.top
 preferableturnover.top
 preferchampion.top
 preferdetach.top
+preference.garantibbvakredibasvuru.com
 preferencer.shop
 preferenciales12.duckdns.org
 preferentialdestined.top
@@ -329577,6 +329615,7 @@ qrkarekod-kampanya.com
 qrkazananlaryapisi.com
 qrkazanmayapisi-tr.com
 qrkpcvx.com
+qrlwkemail.garantibbvakredibasvuru.com
 qrmdzo.duckdns.org
 qrnigroup.xyz
 qromationqooros.com
@@ -330516,6 +330555,7 @@ r-pttgov.top
 r-sok.com.tr
 r-sponsor-crs.web.tr
 r.crazy-pare.34-125-197-109.plesk.page
+r.garantibbvakredibasvuru.com
 r.lolbrogg123424.com
 r.netluc.live
 r.p.formaxprime.co.uk
@@ -367079,6 +367119,7 @@ spkdeutshnewsupp.com
 spktakp.com
 spl-express.help
 splanchnolith.com
+splash.garantibbvakredibasvuru.com
 splashmanifestation.top
 splashstoreofficial.com
 splashweb.lat
@@ -392383,6 +392424,7 @@ trcepprbdestek-prbbx2022.com
 trcepte-tebde.com
 trceza.org
 trcezadosya.org
+trcezaesorgu.net
 trcezaesorgu.org
 trcezakamu.org
 trcezamali.org
@@ -402931,6 +402973,7 @@ unie.ga
 unie.ml
 uniedpureevenywjk.shop
 unifarmex.net
+unifi.garantibbvakredibasvuru.com
 unificationstunning.top
 unifiedfloor.com
 unifiedrealm.com
@@ -422660,6 +422703,7 @@ wircyduwwx.duckdns.org
 wire.devainsulineer.com
 wire.mtcc.me
 wireheighten.top
+wireless.garantibbvakredibasvuru.com
 wirelessaccountxfin.duckdns.org
 wirelessale.top
 wirelessdrive.zapto.org
@@ -439039,6 +439083,7 @@ yapcepmobilgiris.com
 yapdanbasvrular-aktiflestirildi.vercel.app
 yapec.com
 yapepsiyacola1.site
+yapgelyapgelkrdbersdwefen7238473.click
 yapi-75yil-ozel-kampanya.com
 yapi-76-a3-girisim.com
 yapi-76ozel-kampanya.com
@@ -451554,6 +451599,7 @@ ziraatbank-kampanya.com
 ziraatbank-kampanyasi.com
 ziraatbank-kampayalar.com
 ziraatbank-kolaybasvur.pages.dev
+ziraatbank-kolaybasvurlar.vercel.app
 ziraatbank-kolaybasvurum.github.io
 ziraatbank-kolayislemler.github.io
 ziraatbank-kredihazir.github.io
