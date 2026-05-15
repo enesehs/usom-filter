@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-14 23:43:02 UTC
-! Total: 362262 rules
+! Last modified: 2026-05-15 01:53:30 UTC
+! Total: 362322 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -35467,6 +35467,7 @@
 *://*.aregreatyouperfect.buzz/*
 *://*.arekateaksal.online/*
 *://*.areluxo.shop/*
+*://*.areluxo.site/*
 *://*.areluxo.store/*
 *://*.aremfurnoejvuut.ru/*
 *://*.arena-abudhabi.com/*
@@ -65699,6 +65700,7 @@
 *://*.brightoakbank.com/*
 *://*.brightquestinc.com/*
 *://*.brightriverr.top/*
+*://*.brightslunar.com/*
 *://*.brightstar99.top/*
 *://*.brighttplan.com/*
 *://*.brighttventture.shop/*
@@ -72070,6 +72072,7 @@
 *://*.captureintegral.top/*
 *://*.capturelateral.top/*
 *://*.captureme.qpon/*
+*://*.capvero.gifts/*
 *://*.capxw.xyz/*
 *://*.capyvyhuhiva.com/*
 *://*.caqaudfkebxshq.com/*
@@ -84159,6 +84162,9 @@
 *://*.craveakin.top/*
 *://*.craveinjection.top/*
 *://*.cravioxx.com/*
+*://*.cravira.shop/*
+*://*.cravira.site/*
+*://*.cravira.store/*
 *://*.cravowired.top/*
 *://*.crawllchecker.xyz/*
 *://*.crawloofle.com/*
@@ -88975,6 +88981,7 @@
 *://*.demicileremlak.com/*
 *://*.demileighthorne2.xyz/*
 *://*.demir-oren-haber-ajans.com/*
+*://*.demira.site/*
 *://*.demira.store/*
 *://*.demirbasvruonay.net/*
 *://*.demirbasvuru.net/*
@@ -116099,6 +116106,7 @@
 *://*.elvlslfkskfjsjdja.net/*
 *://*.elvlturkisllemenugirisimlleri.online/*
 *://*.elvmakdjsjdjsj.net/*
+*://*.elvorilla.sbs/*
 *://*.elwbxmcell.net/*
 *://*.elxcchavxooiddmxanmandda.click/*
 *://*.elxcuvfkz.com/*
@@ -116109,6 +116117,7 @@
 *://*.elyntis.site/*
 *://*.elyntis.store/*
 *://*.elyntisapp.shop/*
+*://*.elyntisapp.site/*
 *://*.elyntisapp.store/*
 *://*.elyntishubs.shop/*
 *://*.elyntishubs.site/*
@@ -116122,12 +116131,14 @@
 *://*.elysianecho.org/*
 *://*.elythra.shop/*
 *://*.elythra.site/*
+*://*.elythra.store/*
 *://*.elythraapp.shop/*
 *://*.elythrahubs.shop/*
 *://*.elythrahubs.site/*
 *://*.elythrahubs.store/*
 *://*.elythralabs.shop/*
 *://*.elythralabs.site/*
+*://*.elythralabs.store/*
 *://*.elyvoraq.com/*
 *://*.elzsistem.com/*
 *://*.em-rply.me/*
@@ -121911,6 +121922,8 @@
 *://*.etrngq.com/*
 *://*.etrnobiledigitalereklam.space/*
 *://*.etrona.shop/*
+*://*.etrona.site/*
+*://*.etrona.store/*
 *://*.etronlineduyuru.com/*
 *://*.etronlinehizmetimiz.ga/*
 *://*.etronlinehizmetimiz.ml/*
@@ -123904,6 +123917,8 @@
 *://*.examplepresuably.top/*
 *://*.examplevicious.top/*
 *://*.exanova.shop/*
+*://*.exanova.site/*
+*://*.exanova.store/*
 *://*.exasearch.fun/*
 *://*.exata-contabil.com.br/*
 *://*.exatrect.pics/*
@@ -134570,6 +134585,8 @@
 *://*.fyqbzi.top/*
 *://*.fyqemo.site/*
 *://*.fyqlrcotolxsrnnav.org/*
+*://*.fyralex.shop/*
+*://*.fyralex.site/*
 *://*.fyralex.store/*
 *://*.fyrazome.store/*
 *://*.fyrenzas.com/*
@@ -139674,6 +139691,9 @@
 *://*.genmaa.club/*
 *://*.genmkh.xyz/*
 *://*.genn-tr.com/*
+*://*.gennora.shop/*
+*://*.gennora.site/*
+*://*.gennora.store/*
 *://*.genodigit.store/*
 *://*.genomdevelsites.org/*
 *://*.genoves-avsnsfrst.info.tr/*
@@ -140500,8 +140520,10 @@
 *://*.getduodeal.com/*
 *://*.getegroup.com/*
 *://*.getelyntis.shop/*
+*://*.getelyntis.store/*
 *://*.getelythra.shop/*
 *://*.getelythra.site/*
+*://*.getelythra.store/*
 *://*.getengine.shop/*
 *://*.getengine.site/*
 *://*.getenjoyment.net/*
@@ -140551,6 +140573,8 @@
 *://*.getguvenlisiparisa.com.tr/*
 *://*.getguvenlisipariset.com.tr/*
 *://*.getgylora.shop/*
+*://*.getgylora.site/*
+*://*.getgylora.store/*
 *://*.gethalfwaythere.xyz/*
 *://*.gethandle.shop/*
 *://*.gethandle.site/*
@@ -140663,6 +140687,7 @@
 *://*.getlintout.co/*
 *://*.getlirithas.shop/*
 *://*.getlirithas.site/*
+*://*.getlirithas.store/*
 *://*.getlock.shop/*
 *://*.getlock.site/*
 *://*.getloryn.shop/*
@@ -140690,6 +140715,7 @@
 *://*.getmiralyx.site/*
 *://*.getmiralyx.store/*
 *://*.getmivora.shop/*
+*://*.getmivora.store/*
 *://*.getmobilodeme.com.tr/*
 *://*.getmoney.company/*
 *://*.getmonit.site/*
@@ -140713,6 +140739,7 @@
 *://*.getns54tope.top/*
 *://*.getnymira.shop/*
 *://*.getnymira.site/*
+*://*.getnymira.store/*
 *://*.getodeme-guvende.com/*
 *://*.getodeme-tr.online/*
 *://*.getodemesahibindentr.app/*
@@ -140778,6 +140805,7 @@
 *://*.getpyratex.store/*
 *://*.getpyrithos.shop/*
 *://*.getpyrithos.site/*
+*://*.getpyrithos.store/*
 *://*.getqeptot.store/*
 *://*.getqilven.shop/*
 *://*.getqilven.site/*
@@ -140787,6 +140815,7 @@
 *://*.getralvoro.shop/*
 *://*.getralvoro.store/*
 *://*.getravionis.shop/*
+*://*.getravionis.site/*
 *://*.getravionis.store/*
 *://*.getrayton.online/*
 *://*.getrdigitalgirislemenutr100yil.com/*
@@ -145780,6 +145809,7 @@
 *://*.gresmina.xyz/*
 *://*.gresse.io/*
 *://*.grestonadim.digital/*
+*://*.grestonadim.gifts/*
 *://*.grestonadimq.com/*
 *://*.gretit.yachts/*
 *://*.grewlsofubmeuqk.su/*
@@ -147804,6 +147834,7 @@
 *://*.gundemburada.name.tr/*
 *://*.gundemden.site/*
 *://*.gundemguncelhaber.com/*
+*://*.gundemguncelplatform.com/*
 *://*.gundemhaber.org/*
 *://*.gundemhaber.site/*
 *://*.gundemhaber1.site/*
@@ -151245,6 +151276,9 @@
 *://*.hadjer.boutique/*
 *://*.hadramout21.com/*
 *://*.hadrianresorts.com/*
+*://*.hadrion.shop/*
+*://*.hadrion.site/*
+*://*.hadrion.store/*
 *://*.hadsaldkaflkadmf.live/*
 *://*.hadsizkucik.cyou/*
 *://*.haedhal.com/*
@@ -157922,6 +157956,7 @@
 *://*.headlinecorehub.com/*
 *://*.headlinecurrent.com/*
 *://*.headlineforge.online/*
+*://*.headlineforge.world/*
 *://*.headlinefusion.world/*
 *://*.headlinegenerator.app/*
 *://*.headlinegrove.com/*
@@ -174142,6 +174177,7 @@
 *://*.igmetaportal.com/*
 *://*.ignara.shop/*
 *://*.ignara.site/*
+*://*.ignara.store/*
 *://*.ignite123.xyz/*
 *://*.ignite8563.xyz/*
 *://*.ignitedeport.top/*
@@ -187960,6 +187996,7 @@
 *://*.izerm.net/*
 *://*.izeselet.hu/*
 *://*.izfmirgenckart.net/*
+*://*.izfocus.gifts/*
 *://*.izforum-bireyselkampanya-basvur-online.ml/*
 *://*.izgwna.click/*
 *://*.izhaftaykleme.net/*
@@ -190473,6 +190510,7 @@
 *://*.jaxbasvurakfirsat.online/*
 *://*.jaxdurek.buzz/*
 *://*.jaxdurem.com/*
+*://*.jaxdurev.buzz/*
 *://*.jaxfirsatlari.online/*
 *://*.jaxjpkyximhyfpl.ru/*
 *://*.jaxoliro.com/*
@@ -191429,6 +191467,8 @@
 *://*.jomamba.best/*
 *://*.jomehjob.com/*
 *://*.jomera.shop/*
+*://*.jomera.site/*
+*://*.jomera.store/*
 *://*.jomesterest.com.tr/*
 *://*.jomesterr.com.tr/*
 *://*.jomestet.com.tr/*
@@ -193941,6 +193981,8 @@
 *://*.kalitenin-adresi.com/*
 *://*.kaliteninadresii.com.tr/*
 *://*.kalithra.shop/*
+*://*.kalithra.site/*
+*://*.kalithra.store/*
 *://*.kalivenashsizicokseviooorrr.net/*
 *://*.kalivesarta.com/*
 *://*.kalkalma.com/*
@@ -209003,6 +209045,7 @@
 *://*.leadlifearkformyphone.com/*
 *://*.leadmarket.top/*
 *://*.leadpages.co/*
+*://*.leadpro.click/*
 *://*.leads-management.net/*
 *://*.leadstepz.click/*
 *://*.leadtipz.pw/*
@@ -211794,6 +211837,7 @@
 *://*.looksuperintendent.top/*
 *://*.lookupkitchen.com/*
 *://*.lookwhoscookingtv.com/*
+*://*.lookzone.digital/*
 *://*.loom.pw/*
 *://*.loommurmur.top/*
 *://*.loop-is.com/*
@@ -228820,6 +228864,8 @@
 *://*.myriambras.fr/*
 *://*.myridian.site/*
 *://*.myrionix.shop/*
+*://*.myrionix.site/*
+*://*.myrionix.store/*
 *://*.myrms.pw/*
 *://*.myrnicrosoft.com/*
 *://*.myrobdithet.ru/*
@@ -230575,7 +230621,9 @@
 *://*.nerelerden-geldin-buralarda-buldun.com/*
 *://*.nerelere-geldiniz-burdayiz-bizler.com/*
 *://*.nereleregidelim.net/*
+*://*.nerelix.shop/*
 *://*.nerelix.site/*
+*://*.nerelix.store/*
 *://*.neremedysoft.com/*
 *://*.neresteh.com/*
 *://*.nerevstoys.xyz/*
@@ -238209,6 +238257,7 @@
 *://*.olutrapo.ru/*
 *://*.oluwahkudi2017.ml/*
 *://*.olvasner.net/*
+*://*.olverina.cyou/*
 *://*.olvykwljxnchchcnn.com/*
 *://*.olwaysul.ru/*
 *://*.olx.website/*
@@ -244024,6 +244073,9 @@
 *://*.orthodoxmeadow.top/*
 *://*.orthoscan-sso.com/*
 *://*.ortigueiramais.com.br/*
+*://*.ortilix.shop/*
+*://*.ortilix.site/*
+*://*.ortilix.store/*
 *://*.ortitoftors.com/*
 *://*.ortk22.com/*
 *://*.ortkbayigiris.net/*
@@ -254944,6 +254996,7 @@
 *://*.pluriva.sbs/*
 *://*.plurnedakio.gifts/*
 *://*.plurnostavi.digital/*
+*://*.plurnostavi.gifts/*
 *://*.plus-a101.com/*
 *://*.plus-billing.sbs/*
 *://*.plus-cdn.ml/*
@@ -256578,6 +256631,8 @@
 *://*.prawze.top/*
 *://*.praxemolinu.mom/*
 *://*.praxena.shop/*
+*://*.praxena.site/*
+*://*.praxena.store/*
 *://*.praxenolavi.icu/*
 *://*.praxlonfire73.live/*
 *://*.praxont.com/*
@@ -276283,6 +276338,7 @@
 *://*.samuelbrannan.com/*
 *://*.samuelelena.co/*
 *://*.samulaskrt.net/*
+*://*.samurestivon.com/*
 *://*.samurmakina.com.tr/*
 *://*.samusoc.top/*
 *://*.samwinchester.club/*
@@ -283226,6 +283282,7 @@
 *://*.shortygram.com/*
 *://*.shorx.link/*
 *://*.shoshanna.at/*
+*://*.shotlab.mom/*
 *://*.shotmalnutrition.top/*
 *://*.shotsmob.sbs/*
 *://*.shotsruts.com/*
@@ -290114,6 +290171,7 @@
 *://*.soluvibes.info/*
 *://*.soluxury.co.uk/*
 *://*.solvarento.info/*
+*://*.solvarion.live/*
 *://*.solvater.space/*
 *://*.solvbyte.sbs/*
 *://*.solve-management-riskverifys.net/*
@@ -327520,6 +327578,7 @@
 *://*.valueroutes.com/*
 *://*.valveaffiliate.top/*
 *://*.valveairborne.top/*
+*://*.valvenira.vu/*
 *://*.valveoptic.top/*
 *://*.valvevolatility.top/*
 *://*.valye1nvestts1ng.info/*
@@ -330418,6 +330477,7 @@
 *://*.videohosting32-e.cf/*
 *://*.videohosting62-b.tk/*
 *://*.videolane.gifts/*
+*://*.videonest.gifts/*
 *://*.videoparama.top/*
 *://*.videoplayeri.xyz/*
 *://*.videoplayeriyukleme.ml/*

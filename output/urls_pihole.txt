@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-14 23:43:02 UTC
-# Toplam: 454489 Domain
+# Son Güncelleme: 2026-05-15 01:53:30 UTC
+# Toplam: 454550 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -50790,6 +50790,7 @@ aregreatyouperfect.buzz
 arekateaksal.online
 arekm.hopto.org
 areluxo.shop
+areluxo.site
 areluxo.store
 aremexss549.blogspot.com
 aremfurnoejvuut.ru
@@ -86560,6 +86561,7 @@ brightoakbank.com
 brighton.fesder.com
 brightquestinc.com
 brightriverr.top
+brightslunar.com
 brightstar99.top
 brighttplan.com
 brighttventture.shop
@@ -94123,6 +94125,7 @@ captr.b-cdn.net
 captureintegral.top
 capturelateral.top
 captureme.qpon
+capvero.gifts
 capxw.xyz
 capyvyhuhiva.com
 caq.xv8ta.com
@@ -109231,6 +109234,9 @@ crave-tickets.com
 craveakin.top
 craveinjection.top
 cravioxx.com
+cravira.shop
+cravira.site
+cravira.store
 cravowired.top
 crawfordssqcom-b7ce8f.ingress-bonde.ewp.live
 crawllchecker.xyz
@@ -115609,6 +115615,7 @@ demicileremlak.com
 demigengsi-amazon.duckdns.org
 demileighthorne2.xyz
 demir-oren-haber-ajans.com
+demira.site
 demira.store
 demirbasvruonay.net
 demirbasvuru.net
@@ -146780,6 +146787,7 @@ elvkrlkrfmdm.net
 elvlslfkskfjsjdja.net
 elvlturkisllemenugirisimlleri.online
 elvmakdjsjdjsj.net
+elvorilla.sbs
 elwbxmcell.net
 elxcchavxooiddmxanmandda.click
 elxcuvfkz.com
@@ -146790,6 +146798,7 @@ elyntis.shop
 elyntis.site
 elyntis.store
 elyntisapp.shop
+elyntisapp.site
 elyntisapp.store
 elyntishubs.shop
 elyntishubs.site
@@ -146804,12 +146813,14 @@ elysees-hotel.com
 elysianecho.org
 elythra.shop
 elythra.site
+elythra.store
 elythraapp.shop
 elythrahubs.shop
 elythrahubs.site
 elythrahubs.store
 elythralabs.shop
 elythralabs.site
+elythralabs.store
 elyvoraq.com
 elzsistem.com
 elzy.ddns.net
@@ -153427,6 +153438,8 @@ etrn-bash.net
 etrngq.com
 etrnobiledigitalereklam.space
 etrona.shop
+etrona.site
+etrona.store
 etronlineduyuru.com
 etronlinehizmetimiz.ga
 etronlinehizmetimiz.ml
@@ -155820,6 +155833,8 @@ exampleporter.info
 examplepresuably.top
 examplevicious.top
 exanova.shop
+exanova.site
+exanova.store
 exasearch.fun
 exat.dnset.com
 exata-contabil.com.br
@@ -168955,6 +168970,8 @@ fypfbanking-adminstorrepodt.duckdns.org
 fyqbzi.top
 fyqemo.site
 fyqlrcotolxsrnnav.org
+fyralex.shop
+fyralex.site
 fyralex.store
 fyrazome.store
 fyrenzas.com
@@ -175456,6 +175473,9 @@ genlytec.us
 genmaa.club
 genmkh.xyz
 genn-tr.com
+gennora.shop
+gennora.site
+gennora.store
 genodigit.store
 genova.drennonmarketingreviews.com
 genoves-avsnsfrst.info.tr
@@ -176345,8 +176365,10 @@ getdunaro.site
 getduodeal.com
 getegroup.com
 getelyntis.shop
+getelyntis.store
 getelythra.shop
 getelythra.site
+getelythra.store
 getengine.shop
 getengine.site
 getepiphany.store
@@ -176397,6 +176419,8 @@ getguvenliodemesahibinden.org
 getguvenlisiparisa.com.tr
 getguvenlisipariset.com.tr
 getgylora.shop
+getgylora.site
+getgylora.store
 gethalfwaythere.xyz
 gethandle.shop
 gethandle.site
@@ -176515,6 +176539,7 @@ getlinkpayment.com
 getlintout.co
 getlirithas.shop
 getlirithas.site
+getlirithas.store
 getlitigeservices.ddns.net
 getlock.shop
 getlock.site
@@ -176546,6 +176571,7 @@ getmidjourney.tech
 getmiralyx.site
 getmiralyx.store
 getmivora.shop
+getmivora.store
 getmobilodeme.com.tr
 getmoney247.ddns.net
 getmoney3004.duckdns.org
@@ -176569,6 +176595,7 @@ getnovira.site
 getns54tope.top
 getnymira.shop
 getnymira.site
+getnymira.store
 getobject49.marginisbi.ru
 getodeme-guvende.com
 getodeme-tr.online
@@ -176637,6 +176664,7 @@ getpwnedlmfao.ddns.net
 getpyratex.store
 getpyrithos.shop
 getpyrithos.site
+getpyrithos.store
 getqeptot.store
 getqilven.shop
 getqilven.site
@@ -176647,6 +176675,7 @@ getralvoro.shop
 getralvoro.store
 getrattedskid.ddns.net
 getravionis.shop
+getravionis.site
 getravionis.store
 getrayton.online
 getrdigitalgirislemenutr100yil.com
@@ -182795,6 +182824,7 @@ greptwor.net
 greshunka.com
 gresmina.xyz
 grestonadim.digital
+grestonadim.gifts
 grestonadimq.com
 gretit.yachts
 grewlsofubmeuqk.su
@@ -185161,6 +185191,7 @@ gundembolgesi.cfd
 gundemburada.name.tr
 gundemden.site
 gundemguncelhaber.com
+gundemguncelplatform.com
 gundemhaber.org
 gundemhaber.site
 gundemhaber1.site
@@ -189219,6 +189250,9 @@ hadjer.boutique
 hadoopspark.ddns.net
 hadramout21.com
 hadrianresorts.com
+hadrion.shop
+hadrion.site
+hadrion.store
 hadsaldkaflkadmf.live
 hadsizkucik.cyou
 haduh982.ddns.net
@@ -196498,6 +196532,7 @@ headlinecore.online
 headlinecorehub.com
 headlinecurrent.com
 headlineforge.online
+headlineforge.world
 headlinefusion.world
 headlinegenerator.app
 headlinegrove.com
@@ -215894,6 +215929,7 @@ igmetacopyrightportal.ml
 igmetaportal.com
 ignara.shop
 ignara.site
+ignara.store
 ignflt.duckdns.org
 ignite123.xyz
 ignite8563.xyz
@@ -232157,6 +232193,7 @@ izeres.ml
 izerm.net
 izeselet.hu
 izfmirgenckart.net
+izfocus.gifts
 izforum-bireyselkampanya-basvur-online.kampanya-basvuru-sayfa.xyz
 izforum-bireyselkampanya-basvur-online.ml
 izfvcnn.blogspot.com
@@ -235089,6 +235126,7 @@ jax-link.click
 jaxbasvurakfirsat.online
 jaxdurek.buzz
 jaxdurem.com
+jaxdurev.buzz
 jaxfirsatlari.online
 jaxjpkyximhyfpl.ru
 jaxoliro.com
@@ -236556,6 +236594,8 @@ jom85g.duckdns.org
 jomamba.best
 jomehjob.com
 jomera.shop
+jomera.site
+jomera.store
 jomesterest.com.tr
 jomesterr.com.tr
 jomestet.com.tr
@@ -239761,6 +239801,8 @@ kalitem.xyz
 kalitenin-adresi.com
 kaliteninadresii.com.tr
 kalithra.shop
+kalithra.site
+kalithra.store
 kalivenashsizicokseviooorrr.net
 kalivesarta.com
 kalkalma.com
@@ -258491,6 +258533,7 @@ leadger.online
 leadgrowth.top
 leadjenerals.top
 leadmarket.top
+leadpro.click
 leads-management.net
 leadstepz.click
 leadtipz.pw
@@ -262323,6 +262366,7 @@ lookrefuge.top
 looksuperintendent.top
 lookup.hopto.org
 lookupkitchen.com
+lookzone.digital
 loolhack.zapto.org
 loombre48.zapto.org
 loommurmur.top
@@ -284358,6 +284402,8 @@ myrepository.name
 myrepositoryx.com
 myridian.site
 myrionix.shop
+myrionix.site
+myrionix.store
 myrjyfmqja.duckdns.org
 myrnicrosoft.com
 myrobdithet.ru
@@ -286765,7 +286811,9 @@ nerelerden-geldim-bunlari-almak.com
 nerelerden-geldin-buralarda-buldun.com
 nerelere-geldiniz-burdayiz-bizler.com
 nereleregidelim.net
+nerelix.shop
 nerelix.site
+nerelix.store
 neremedysoft.com
 neresteh.com
 nerevstoys.xyz
@@ -296827,6 +296875,7 @@ oluwa104.hopto.org
 oluwahkudi2017.ml
 oluwashowmercy.hopto.org
 olvasner.net
+olverina.cyou
 olvvjb22.ddns.net
 olvykwljxnchchcnn.com
 olw4gfyj1bef58g4y01x1bc.ddns.net
@@ -303515,6 +303564,9 @@ ortgddasm.com
 orthodoxmeadow.top
 orthoscan-sso.com
 ortigueiramais.com.br
+ortilix.shop
+ortilix.site
+ortilix.store
 ortitoftors.com
 ortk22.com
 ortkbayigiris.net
@@ -316598,6 +316650,7 @@ plurgew.com
 pluriva.sbs
 plurnedakio.gifts
 plurnostavi.digital
+plurnostavi.gifts
 plus-a101.com
 plus-condos-thy-redeem.trycloudflare.com
 plus-dolap.com.tr
@@ -318740,6 +318793,8 @@ prawinzinbil66.clienteascindig.world
 prawze.top
 praxemolinu.mom
 praxena.shop
+praxena.site
+praxena.store
 praxenolavi.icu
 praxlonfire73.live
 praxont.com
@@ -346343,6 +346398,7 @@ samuelpally.ddns.net
 samuelsfasfagaegv.ddns.net
 samulaskrt.net
 samuraylesa.ddns.net
+samurestivon.com
 samurmakina.com.tr
 samus988.hopto.org
 samusoc.top
@@ -353564,6 +353620,7 @@ servis-hizmet-tr.online
 servis-hizmeti.online
 servis-hizmetim.online
 servis-hizmetin.online
+servis-hizmetleri.online
 servis-hizmetlerim.online
 servis-muayene.net
 servis-onayla.com
@@ -355722,6 +355779,7 @@ shoshone.needlepixform.cc
 shostcom.ddns.net
 shostyour122r8.zapto.org
 shotacon.dyndns.info
+shotlab.mom
 shotmalnutrition.top
 shotsmob.sbs
 shotsruts.com
@@ -363634,6 +363692,7 @@ solutionsseccloud.com
 soluvibes.info
 soluxury.co.uk
 solvarento.info
+solvarion.live
 solvater.space
 solve-management-riskverifys.net
 solve.jenj.org
@@ -409614,6 +409673,7 @@ valueshare.ddns.net
 valus.hopto.org
 valveaffiliate.top
 valveairborne.top
+valvenira.vu
 valveoptic.top
 valvevolatility.top
 valye1nvestts1ng.info
@@ -413296,6 +413356,7 @@ videohosting32-e.cf
 videohosting62-b.tk
 videolane.gifts
 videomoithang4.ddns.net
+videonest.gifts
 videoparama.top
 videoplayeri.xyz
 videoplayeriyukleme.ml
