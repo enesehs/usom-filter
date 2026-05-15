@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-15 11:08:48 UTC
-! Total: 362351 rules
+! Last modified: 2026-05-15 13:23:20 UTC
+! Total: 362366 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -123,6 +123,7 @@
 *://*.006999.xyz/*
 *://*.007d3a199954.net/*
 *://*.00857cca77b615c369f48ead5f8eb7f3.com/*
+*://*.00898933.sbs/*
 *://*.008php.com/*
 *://*.008usa-xxf.com/*
 *://*.008ykv.cn/*
@@ -11101,6 +11102,7 @@
 *://*.653348732543754.com/*
 *://*.653422656552.com/*
 *://*.65368123790.xyz/*
+*://*.654234234.net/*
 *://*.65423432442.cloud/*
 *://*.6543487855.cloud/*
 *://*.65436543-836541211.com/*
@@ -36123,6 +36125,7 @@
 *://*.arzqyn.com/*
 *://*.arzumbaharindirimi.com.tr/*
 *://*.arzumceyiz.com/*
+*://*.arzumindirimleri.com/*
 *://*.arzumokka.online/*
 *://*.as-aidatt-iade.ml/*
 *://*.as-pttgov.top/*
@@ -36444,6 +36447,7 @@
 *://*.asdhasdfasdj.click/*
 *://*.asdhasdva.click/*
 *://*.asdhashdfasf.com/*
+*://*.asdhashdhas2asdahsd827sad.click/*
 *://*.asdhashdhashdahsdk6.site/*
 *://*.asdhashdhashdhasdhsb877.site/*
 *://*.asdhashdhashdhashdhashdhashdhask2.click/*
@@ -43745,6 +43749,7 @@
 *://*.basvursendsz.com.tr/*
 *://*.basvursendv.com.tr/*
 *://*.basvursendz.com.tr/*
+*://*.basvursendz.sbs/*
 *://*.basvursendzk.com.tr/*
 *://*.basvursfirsati.com/*
 *://*.basvurshn.com.tr/*
@@ -57712,6 +57717,7 @@
 *://*.bitanem.app/*
 *://*.bitarafsiyah.cyou/*
 *://*.bitarafsiyah.lat/*
+*://*.bitarafsiyah.sbs/*
 *://*.bitaslem.online/*
 *://*.bitay.one/*
 *://*.bitbimcelltr.com/*
@@ -105402,6 +105408,7 @@
 *://*.e-devletkapisi.co/*
 *://*.e-devletkapisi.com.tr/*
 *://*.e-devletkapisi.net/*
+*://*.e-devletkapisi.online/*
 *://*.e-devletkapisi.org/*
 *://*.e-devletkapisi.xyz/*
 *://*.e-devletkapisi2019iadeleriniz.com/*
@@ -175315,6 +175322,7 @@
 *://*.ilanservis-detay1.com/*
 *://*.ilanservis-jethizmet.com/*
 *://*.ilanservisiniz-jet.com/*
+*://*.ilanservisn1hizmet.com/*
 *://*.ilanservisnhizmet.com/*
 *://*.ilanservisnzhizmet.com/*
 *://*.ilanticaret-siparisodeme.shop/*
@@ -231658,6 +231666,7 @@
 *://*.newssilk.top/*
 *://*.newssparkle.com/*
 *://*.newssprint.world/*
+*://*.newssprout.company/*
 *://*.newssprout.world/*
 *://*.newsstory.online/*
 *://*.newsstory.pro/*
@@ -286486,6 +286495,7 @@
 *://*.siparisvergelsindekapina.xyz/*
 *://*.siparisveriniz.com.tr/*
 *://*.siparisvpay.online/*
+*://*.siparisweb.net/*
 *://*.siparisyolda.site/*
 *://*.siparisyolla.site/*
 *://*.siparisyonlendirm21.cloud/*
@@ -302472,6 +302482,7 @@
 *://*.tck-aidat-iadeniz.ml/*
 *://*.tcka-e-form-iiade.com/*
 *://*.tckamuportal.org/*
+*://*.tckamusorgu.org/*
 *://*.tckartaidatmobil.com/*
 *://*.tckartodemeler.com/*
 *://*.tckgm.cc/*
@@ -319988,6 +319999,7 @@
 *://*.tuvturkk-rezervasyon.com/*
 *://*.tuvturkk-tr.net/*
 *://*.tuvturkkey.digital/*
+*://*.tuvturkkyr.com/*
 *://*.tuvturkl-d.digital/*
 *://*.tuvturkl-e.digital/*
 *://*.tuvturkl.digital/*
@@ -324456,6 +324468,7 @@
 *://*.uygunkiralikarachizmeti.xyz/*
 *://*.uygunkonumateslim.online/*
 *://*.uygunkundura13.top/*
+*://*.uygunkurumsalfilo.com/*
 *://*.uygunlar.org/*
 *://*.uygunlarkisasureli.sbs/*
 *://*.uygunluk-getirip-gitmeden-sizlere-gorunduk.com/*
@@ -353735,6 +353748,7 @@
 *://*.yenifirsatlar.net.tr/*
 *://*.yenifirsatlar.org.tr/*
 *://*.yenifirsatlarikacirmayin.com/*
+*://*.yenifirsatlarimss.com/*
 *://*.yenifirsatlarizle.com/*
 *://*.yenifirsatlarkapida.online/*
 *://*.yenifirsatlarkapida.xyz/*
@@ -354777,6 +354791,7 @@
 *://*.yepyeniaktuelindiirm.online/*
 *://*.yepyeniaktuelindiirm.xyz/*
 *://*.yepyenialisverisfirsatlari.com.tr/*
+*://*.yepyenifirsaatlarsk.com/*
 *://*.yepyenifirsatlar.com/*
 *://*.yepyenifirsatlarr.com/*
 *://*.yepyeniislm.net/*
