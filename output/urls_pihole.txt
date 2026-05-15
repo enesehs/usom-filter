@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-15 21:44:50 UTC
-# Toplam: 454668 Domain
+# Son Güncelleme: 2026-05-15 22:41:14 UTC
+# Toplam: 454685 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -19138,6 +19138,7 @@
 78yilgiriskampanya.com
 78yilgiriskampanya.pro
 79-133-56-131.plesk.page
+790315482.lat
 7907-45-61-166-234.ngrok-free.app
 790hk06.duckdns.org
 790wolseleymanagement.com
@@ -58793,6 +58794,7 @@ baharkampanyalarinda.com.tr
 baharkampanyalarinisorgula.net
 baharkampanyaliurunler.com.tr
 baharkampanyam.com
+baharkampanyamsokta.xyz
 baharkampanyasi.com
 baharkampanyasidenizde.com
 baharkampanyasiformu.surge.sh
@@ -61333,6 +61335,7 @@ basvursendz.com.tr
 basvursendz.sbs
 basvursendzk.com.tr
 basvursendzk.sbs
+basvursendzn.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -113675,6 +113678,7 @@ darkservice.zapto.org
 darksidestrength.com
 darkskulls.duckdns.org
 darkslategray-baboon-853641.hostingersite.com
+darkslategrey-butterfly-656809.hostingersite.com
 darksoftasaskartalflesd.cloud
 darksoftlespleskkajzdans.xyz
 darksolomon.xyz
@@ -184367,6 +184371,7 @@ gumrukcekilisekatil.ml
 gumrukgsm.com
 gumrukhazinebakani.com
 gumruksahibindenodeme.com
+gumrukurunleri101.com
 gumrukurunleriaa101a.sbs
 gumuscuzdani.com
 gumushizmetleradresinizburadasizlerlebeklemektedir.wordpress.com
@@ -253718,6 +253723,7 @@ kredbasvrugranti.com.tr
 kredbnn.vercel.app
 kredbnttir.vercel.app
 kredbnttr.vercel.app
+kreddii-merkezisonn.com
 kredetede.online
 kredfirsatllari.xyz
 kredgaran.digital
@@ -275007,6 +275013,7 @@ mlgpmlqtgrwvwf1.ddns.net
 mlgros0nl1ne.shop
 mlgxf.com
 mlhkasersxrgfv.net
+mlhlrosralndevu.shop
 mlidkpydnwcx.com
 mlidkpydnwcx.info
 mlidsdof.com
@@ -295720,6 +295727,7 @@ oerdemkerdsads.xyz
 oerkz.com
 oertdelipsi.site
 oesiskola.sbs
+oesiswadawdawdwadkola.sbs
 oest.web1337.net
 oetppvh.duckdns.org
 oetyuwmsek.duckdns.org
@@ -312123,6 +312131,7 @@ parola-teb-do.my-homeip.net
 parolacenter.com
 parolaparabasvuru.xyz
 parolaparatest.softrobotics.lt
+parolas.click
 parolearrogant.top
 parolecelebrity.top
 parolespotnet.ddns.net
@@ -319583,6 +319592,7 @@ preteressential.com
 pretextcompilation.top
 pretextspectator.top
 pretilo.store
+pretonixgroup.com
 pretorya.site
 pretrain.shop
 pretrain.site
@@ -320105,6 +320115,8 @@ prmsynkmpnyabsvrus.pro
 prmsynkmpnyanoktasi10.info
 prmsynkmpnyanoktasi10.live
 prmsynkmpnyanoktasi10.pro
+prmsynkmpnyssonfrsttt.info
+prmsynkmpnyssonfrsttt.pro
 prmsynladenzm.vercel.app
 prmsynladenzzban.vercel.app
 prmsynlarlaaqbkns.com
@@ -332016,6 +332028,7 @@ randevuzamanlarin.com
 randevuzubelirleyin.com
 randevvuumx.b-cdn.net
 randexuc.net
+randkkellaldf.net
 randkwesd.pro
 randolphbfcu.ddns.net
 randolphbfcub.ddns.net
@@ -370064,6 +370077,7 @@ stellacy.tk
 stellaonline.com.tr
 stellaonline.info.tr
 stellaonline.net.tr
+stellaonline.org.tr
 stellar-stable-faith.top
 stellardockd.top
 stellarforge.store
@@ -399959,6 +399973,7 @@ tuvturkeisl.digital
 tuvturkemexed.net
 tuvturkeys.com
 tuvturkeys.digital
+tuvturkeysz.com
 tuvturkhizliaracrndvu.web.app
 tuvturkhizmetler.com
 tuvturkhizmetleri.com
@@ -399977,6 +399992,7 @@ tuvturkj-muayene.net
 tuvturkk-rezervasyon.com
 tuvturkk-tr.net
 tuvturkkey.digital
+tuvturkkx.com
 tuvturkkyr.com
 tuvturkl-d.digital
 tuvturkl-e.digital
@@ -447259,6 +447275,7 @@ yonlendirisjdaws.webredirect.org
 yonlendiriyorsyuhfjvhghm.duckdns.org
 yonlendiriyorum-bekle-o-c-wsynxmorbid.shop
 yonlendiriyoruzgarantikazancpro.com
+yonlendiriyotrsunez.duckdns.org
 yonlendirler.click
 yonlendirmatic.com
 yonlendirme-2025.cfd
