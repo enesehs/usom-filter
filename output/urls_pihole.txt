@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-16 17:43:21 UTC
-# Toplam: 454753 Domain
+# Son Güncelleme: 2026-05-16 18:43:40 UTC
+# Toplam: 454767 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -89096,6 +89096,7 @@ bugunozelcampanya.click
 bugunozelkampanya.click
 bugunozelkampnya.xyz
 bugunpanel.cfd
+bugunrandevual.com
 bugunseninleyiz.net
 bugunsepetfirsatlarinikacirma.online
 bugunsepetfirsatlarinikacirma.xyz
@@ -104715,6 +104716,7 @@ comedisposition.top
 comedydeployment.top
 comedyglider.top
 comedytrashisfun.ddns.net
+comedyworld.lol
 comefromsmoke.ddns.net
 comehomelesteat.ddns.net
 comeimp.icu
@@ -143060,6 +143062,7 @@ edugay.ddns.net
 edujikim.com
 edukid.info
 eduloria.com
+edumind.digital
 edumind.icu
 edunans.zapto.org
 edupoliceam.info
@@ -254866,6 +254869,7 @@ krono999.chickenkiller.com
 kronol-elips-g-r.myonlineportal.ch
 krontoroplastoraforti.net
 krorm65he8kfkfy.ddns.net
+krosapcsaeceka.cfd
 kroshitnameniazachemtomu.com
 krot.ddns.net
 krotvejuvt.espressobik.ru
@@ -275223,6 +275227,7 @@ mmhhrhhrhrrs59.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs61.sbs
 mmhhrhhrhrrs62.sbs
+mmhhrhhrhrrs68.sbs
 mmhhrhhrhrrs7.sbs
 mmhhrhhrhrrs9.sbs
 mmhkmazlh.duckdns.org
@@ -287213,6 +287218,7 @@ netcant.com
 netcatclink.ddns.net
 netcatkit.com
 netcdn-cachefly.network
+netcheckr.cyou
 netcio.space
 netco302.ddns.net
 netco305.ddns.net
@@ -287447,6 +287453,7 @@ netpairbxiardrop.com
 netpapara.com
 netplatform.com.tr
 netplatforms.xyz
+netprobe.vu
 netpttgov.click
 netpttgovs.click
 netpulsex.shop
@@ -383124,6 +383131,7 @@ tethesigorta.net
 tetiksakakta.com
 tetmoijsa.ddns.net
 tetojor1.zapto.org
+tetpop.skin
 tetra.email
 tetra.talk4fun.net
 tetrabromid.com
@@ -386288,6 +386296,7 @@ togbongon.shop
 togcekilisziro.net
 togetherbetterdependnothing.click
 togethernet.site
+togethernow.sbs
 togetverifmtbuser.hopto.org
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
@@ -403918,6 +403927,7 @@ uploaderis.ru
 uploadina.com
 uploadirect.online
 uploadjet.net
+uploadnow.icu
 uploadrobot.download
 uploadsfiles.xyz
 uploadsfre.com
@@ -403998,6 +404008,7 @@ upstreamy.com
 upsystems.one
 uptemp.icu
 uptight.su
+uptimecore.xyz
 uptimisedmc.com
 uption.mobibnc.online
 upto.hopto.org
@@ -404122,6 +404133,7 @@ urbankindle.com
 urbanlattice.shop
 urbanlight.top
 urbanlytic.com
+urbanova.gifts
 urbanovaim.com
 urbanpathz.com
 urbanpeak.icu
@@ -426020,6 +426032,7 @@ www-1-o-1.com
 www-101-firsat-kapimda.name.tr
 www-101-firsatlar2024.shop
 www-101-kasim-firsatlari.shop
+www-155polisi.online
 www-1cumhurbaskanligi.com
 www-2021sizinicinburadayizgirisimvakifbank.com
 www-2021sizinicinburadayizgirisvakifbank.com
@@ -428589,6 +428602,7 @@ www-perabet30.com
 www-plataform-berry-lso.blogspot.com
 www-platin-world-com.tk
 www-plt-awm.online
+www-polisi155.online
 www-presidentsoffice-gov-lk.dwnlld.com
 www-profile-bakanlari-ogren-com.tk
 www-profilekimlerbakiyor.tk
