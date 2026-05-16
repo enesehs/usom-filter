@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-16 01:29:30 UTC
-# Toplam: 454695 Domain
+# Son Güncelleme: 2026-05-16 07:44:01 UTC
+# Toplam: 454717 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -6364,6 +6364,7 @@
 198-178-1-2-4.shop
 198-185-175-3-0.online
 198-185-175-3-0.shop
+198-189-120-225.site
 198-197-195-1-1.org
 198-254-589-1-2.shop
 198-257-14-251-0.online
@@ -46737,6 +46738,7 @@ ankaraxkrt.net
 ankaraziraati.com
 ankaraziraatibankasi.com
 ankarmysmhg.net
+ankaro.gifts
 ankartyukleme.net
 ankayardim.net
 ankdanyukle.net
@@ -85403,6 +85405,7 @@ boshmatkapucuz.site
 bosjuzdanlar.com
 bosjuzdanlardolsun.com
 boskatrem.ru
+boslina.gifts
 bosluklar.name.tr
 boslxkkvvs.duckdns.org
 bosmoitan.top
@@ -102591,6 +102594,7 @@ cloudlive.pub
 cloudly.live
 cloudmane.online
 cloudmatrixsf.cfd
+cloudmatter.vu
 cloudmediaportal.com
 cloudmetric-analytics.com
 cloudmgrtracker.com
@@ -121618,6 +121622,7 @@ designjaumguest.com
 designloop.top
 designloose.click
 designlq.com
+designnest.gifts
 designordie.ca
 designqueen.cn
 designs.sigweb.co.uk
@@ -138665,6 +138670,7 @@ easylexsz7.app
 easylexz4.app
 easylexztr7.net
 easylifestyle004.workers.dev
+easylocker.locker
 easylxs7.app
 easyman.ddns.net
 easymarketing101.com
@@ -164760,6 +164766,7 @@ fitkorse.club
 fitkorse.live
 fitkorse.site
 fitkorsetr.club
+fitlino.gifts
 fitlook.shop
 fitlovekorse.bid
 fitlovekorse.co
@@ -165380,6 +165387,7 @@ flingpermeate.top
 flingtrench.top
 flingxfinder.com
 flinstonees.us
+flintwaver.cfd
 flinyx68.ddns.net
 flip2nockliber.website
 flipbird.top
@@ -166275,6 +166283,7 @@ foodbikers.ch
 foodbloggermax.com
 foodendow.top
 foodgefy.com
+foodhavenx.com
 foodhcrnews.xyz
 foodnavi.gifts
 foodnews.top
@@ -168567,6 +168576,7 @@ fun1995.net
 fun4kidz.co.za
 funabbreviation.cn
 funarch.top
+funarchive.pics
 funbid.top
 funblock-40971.portmap.host
 funcallback.com
@@ -208472,6 +208482,7 @@ homeoffice365login.myportfolio.com
 homeofficeisimkani.online
 homeofficenotice.co.uk
 homeopencgel.cloud
+homeorbitx.com
 homeotypical.com
 homeownersinsurance.ca
 homepage----suite---trozor.webflow.io
@@ -225211,6 +225222,7 @@ ironry.click
 ironsource.go2cloud.org
 irontunnel.world
 ironxmaster.com
+irony.lat
 ironyequity.top
 irqxvpn.site
 irrawddy.com
@@ -259297,6 +259309,7 @@ levandovski1.hair
 levandovski1.lol
 levandovski1.pics
 levandovski1.shop
+levariq.gifts
 levarisnetqlsvc.net
 levarit.store
 levatorser.com
@@ -274208,6 +274221,7 @@ mindfuei.com
 mindfulmacro.com
 mindobserved.com
 mindorbittest.com
+mindpeak.icu
 mindservo.com
 mindsetabiguous.top
 mindsetydit.org
@@ -284287,6 +284301,7 @@ mylimitedinfo.online
 mylingocoin.com
 mylinks.lat
 mylocalfoodie.com.au
+mylocker.locker
 mylockyou.hopto.org
 myloginsetting93230.ddns.net
 mylogresultzkol.hopto.org
@@ -314709,6 +314724,7 @@ petlebim.com
 petlelec.quest
 petlingerr.com
 petmgov.com
+petmora.gifts
 petosafollari.com
 petoyaj.digital
 petpangaea.com
@@ -353328,6 +353344,7 @@ servermint.click
 servermolink.ddns.net
 servermorales.ddns.net
 servernbd.hopto.org
+servernest.sbs
 servernoworky.geek
 serverop-parametrs.com
 serveroperation.com
@@ -375092,6 +375109,7 @@ sync-tokens.com
 sync.chatit.club
 sync.wonderbackup.com
 sync.zapto.org
+syncdock.click
 synchoilas.xyz
 syncr.ddns.net
 syncscheduler.com
@@ -377463,6 +377481,7 @@ tarbilsistemkullanici.ml
 tarbilsistemyetki.ml
 tarcin12.app
 tardis.bauerj.eu
+taredovimukx.com
 tarek10.hopto.org
 tarek90.zapto.org
 taremsrweraa.app
@@ -399451,6 +399470,7 @@ turluindirimler.xyz
 turlututu.zapto.org
 turmash.ru
 turmaze.com
+turmira.gifts
 turmklause.com
 turmoilcounteract.top
 turmoiltime.top
@@ -406374,6 +406394,7 @@ uzulursunbirclickle-32b04bbe57d9.herokuapp.com
 uzum-market-onlain.sbs
 uzum-market-online.cfd
 uzum-market-online.top
+uzumm-market-online.xyz
 uzun-adamm.cf
 uzun-mehmet-oylamak.dnsuser.de
 uzun-zamandir-burada-bitti-bitiyor-almadan-gitme-burada.online
@@ -431540,6 +431561,7 @@ x12lksalclcl123x1ksc.sbs
 x12vn2.duckdns.org
 x12y.restrice.ru
 x133ed344.eu
+x13kkaskckl123x123.sbs
 x13kkaskckl123x123.shop
 x14.xxxatat456.com
 x155polisi.online
