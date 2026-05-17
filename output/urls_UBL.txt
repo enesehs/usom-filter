@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-16 23:38:16 UTC
-! Total: 362495 rules
+! Last modified: 2026-05-17 05:37:03 UTC
+! Total: 362499 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2460,6 +2460,7 @@
 *://*.123162743768927849312892.site/*
 *://*.12321323333.cloud/*
 *://*.123213541800560725.xyz/*
+*://*.12321512633.lat/*
 *://*.12323232322.cloud/*
 *://*.1232423.com/*
 *://*.123242342213.click/*
@@ -47059,6 +47060,7 @@
 *://*.bcturkeysscgrs.com/*
 *://*.bcturkonline.com/*
 *://*.bcv-lat.top/*
+*://*.bcv-start.lat/*
 *://*.bcvbcndfds.click/*
 *://*.bcvgdf.icu/*
 *://*.bcvimcxllgpz.com/*
@@ -160727,6 +160729,7 @@
 *://*.herkes-mutlu-olmayi-hak-eder.com/*
 *://*.herkesbeklyorkanao0osndas28285268956.click/*
 *://*.herkesbulusuyor.click/*
+*://*.herkesburdasendenerdesnbbvasda1455285.click/*
 *://*.herkesburdesedegelart250.click/*
 *://*.herkese-20-gb-internet.com/*
 *://*.herkese-gelen-burada-senle.com/*
@@ -358898,6 +358901,7 @@
 *://*.zantocusus99.xyz/*
 *://*.zantrao.pro/*
 *://*.zantrio.website/*
+*://*.zantrivox.com/*
 *://*.zantrix.sbs/*
 *://*.zanudorexil.com/*
 *://*.zanunath.com/*
