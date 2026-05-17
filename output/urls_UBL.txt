@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-17 22:40:25 UTC
-! Total: 362522 rules
+! Last modified: 2026-05-17 23:44:04 UTC
+! Total: 362542 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -2293,6 +2293,7 @@
 *://*.11bwy.com/*
 *://*.11bwyone.com/*
 *://*.11canissiparislerini.cloud/*
+*://*.11canistassiparislerin.cloud/*
 *://*.11cyclesforest.com/*
 *://*.11dsskd255asds.com/*
 *://*.11ekim-cumartesimm.com/*
@@ -24230,6 +24231,7 @@
 *://*.aileveqenclikxbasvurunuz.online/*
 *://*.ailevesaglikbakanligi-1000tl.com/*
 *://*.ailevesaglikbakanligi-pandemiyardimi.com/*
+*://*.ailevesosyalcom.icu/*
 *://*.ailevesosyalhizmetbakanligi.com/*
 *://*.ailevesosyalhizmetler-onlinedestekbasvuru.com/*
 *://*.ailevesosyalhizmetlerbakanligi.com/*
@@ -28779,6 +28781,7 @@
 *://*.aldinperakendelerialdin.com/*
 *://*.aldinramazankampanya.com/*
 *://*.aldins-aldins.com.tr/*
+*://*.aldinsenbura.club/*
 *://*.aldinsimdiburada.shop/*
 *://*.aldinsimdifirsatlar.shop/*
 *://*.aldinsimdiindirim.shop/*
@@ -36136,6 +36139,7 @@
 *://*.arzumbaharindirimi.com.tr/*
 *://*.arzumceyiz.com/*
 *://*.arzumindirimleri.com/*
+*://*.arzumnova.xyz/*
 *://*.arzumokka.online/*
 *://*.as-aidatt-iade.ml/*
 *://*.as-pttgov.top/*
@@ -36336,6 +36340,7 @@
 *://*.asdasddasquez.net/*
 *://*.asdasddfgdfhfgasd.net/*
 *://*.asdasddwqd2025.info/*
+*://*.asdasdhsahd89sadh89sad.click/*
 *://*.asdasdjsgdkgdkfasdas.shop/*
 *://*.asdasdlkasdpzx.net/*
 *://*.asdasdnafqjsjahf.xyz/*
@@ -47061,6 +47066,7 @@
 *://*.bcturkbasvuru.com/*
 *://*.bcturkeysscgrs.com/*
 *://*.bcturkonline.com/*
+*://*.bcv-invest.sbs/*
 *://*.bcv-lat.top/*
 *://*.bcv-start.lat/*
 *://*.bcvbcndfds.click/*
@@ -48082,6 +48088,7 @@
 *://*.belfortsecurity.com/*
 *://*.belgardsas.com/*
 *://*.belgarrzens.com/*
+*://*.belgasuplock.cfd/*
 *://*.belgeaidatiadeleriniz.com/*
 *://*.belgeal.com/*
 *://*.belgealim.net/*
@@ -199276,6 +199283,7 @@
 *://*.kayitdevami.xyz/*
 *://*.kayitekrani.online/*
 *://*.kayitekrani2025.sbs/*
+*://*.kayitekranimobilde.sbs/*
 *://*.kayitekranlari.sbs/*
 *://*.kayitekranlariacildi.sbs/*
 *://*.kayitfirsati724.com/*
@@ -203274,6 +203282,7 @@
 *://*.kmpnyprmsynckls0.pro/*
 *://*.kmpnysprmsyncklss.info/*
 *://*.kmpnysprmsyncklss.live/*
+*://*.kmpnysprmsyncklss.pro/*
 *://*.kmpnytaaaqnbbbsvrrr.click/*
 *://*.kmpnyxgranxt.shop/*
 *://*.kmpnyyaaaaceeeekilisssssstoogggg.cloud/*
@@ -203746,6 +203755,7 @@
 *://*.kobidestekmerkeziniz.sbs/*
 *://*.kobidestekplatformu.cfd/*
 *://*.kobidestekprojesi.com/*
+*://*.kobihaberleri.com/*
 *://*.kobihibebasvuru.sbs/*
 *://*.kobihibedestegi.cfd/*
 *://*.kobihibedestegi2026.cfd/*
@@ -203771,6 +203781,7 @@
 *://*.kobimerkezi.click/*
 *://*.kobiprojeleri.com/*
 *://*.kobisi.com/*
+*://*.kobiyardimerkezi.com/*
 *://*.kobiyardimi.cfd/*
 *://*.kobopro.top/*
 *://*.kobprastoniskarmonisyakrofbaslanmba.net/*
@@ -205558,6 +205569,7 @@
 *://*.kredibasvuru-finansbank.com/*
 *://*.kredibasvuru-ziraatbireysel.com/*
 *://*.kredibasvuru.com/*
+*://*.kredibasvuru.lat/*
 *://*.kredibasvuru.site/*
 *://*.kredibasvuru.tk/*
 *://*.kredibasvuru2025.com/*
@@ -217613,6 +217625,7 @@
 *://*.mayisodemeleriniz.info/*
 *://*.mayisodemeleriniz.net/*
 *://*.mayisodemeleriniz.org/*
+*://*.mayisozel.cfd/*
 *://*.mayisozel.com/*
 *://*.mayisplus101indirimleri.com/*
 *://*.mayiss-firsatlarmm.com/*
@@ -260742,6 +260755,7 @@
 *://*.pttavmsiparis.com/*
 *://*.pttavmsiparis.online/*
 *://*.pttavmsiparisim.com/*
+*://*.pttavmsiparisimonline.com/*
 *://*.pttavmsiparisler.net/*
 *://*.pttavmsiparisleri.com/*
 *://*.pttavmsiparislerim.com/*
@@ -268227,6 +268241,7 @@
 *://*.redirectservicesx.com/*
 *://*.redirectservicex.com/*
 *://*.redirectsev.click/*
+*://*.redirectsi1.sbs/*
 *://*.redirectss.click/*
 *://*.redirecttrt.com/*
 *://*.redirectx.click/*
@@ -269607,6 +269622,7 @@
 *://*.reporterupt.click/*
 *://*.reporterversatile.top/*
 *://*.reportextraction.top/*
+*://*.reporthive.company/*
 *://*.reportlane.online/*
 *://*.reportlatin.top/*
 *://*.reportsenlo.top/*
@@ -283275,6 +283291,7 @@
 *://*.shop-sahibinden-guven.ml/*
 *://*.shop-sigortam.name.tr/*
 *://*.shop-tr-online-mobil.sbs/*
+*://*.shop-tr-online-mobil.site/*
 *://*.shop-tr.online/*
 *://*.shop-yap.com/*
 *://*.shop34.cf/*
@@ -322053,6 +322070,7 @@
 *://*.uludagbilisimdenprojem.com/*
 *://*.uludagburs.org/*
 *://*.uludagdestek.net/*
+*://*.ululink.click/*
 *://*.uluorta.net/*
 *://*.ulusal-cumhurbaskanligi.com/*
 *://*.ulusalbirim.com/*
@@ -334440,6 +334458,7 @@
 *://*.web-landmonitor-tr.click/*
 *://*.web-landtr.click/*
 *://*.web-likidite.xyz/*
+*://*.web-links-mobil-tr.click/*
 *://*.web-links-mobil-tr.sbs/*
 *://*.web-login-monitor.site/*
 *://*.web-login-try.pro/*
@@ -353965,6 +353984,7 @@
 *://*.yeniguncellenmis7giris43.com/*
 *://*.yenigundemburadan.net/*
 *://*.yenigunesvakfi.com/*
+*://*.yeniguzelgunlerkapida.com/*
 *://*.yenihaafgaxftaninyildizlarri.site/*
 *://*.yenihaaftayamutlubasla.site/*
 *://*.yenihaberler.club/*
