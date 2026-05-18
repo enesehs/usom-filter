@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-18 20:59:04 UTC
-! Total: 362715 rules
+! Last modified: 2026-05-18 22:01:36 UTC
+! Total: 362728 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -71659,6 +71659,7 @@
 *://*.camplyro.xyz/*
 *://*.campnydayhazirnbrda.net/*
 *://*.campnytodayfirsatbrda.net/*
+*://*.camporaq.com/*
 *://*.camporya.xyz/*
 *://*.campoxo.com/*
 *://*.camprowd.com/*
@@ -72094,6 +72095,7 @@
 *://*.capitalistcelebrity.top/*
 *://*.capitalium.company/*
 *://*.capitalizerutc.com/*
+*://*.capitalldesk.com/*
 *://*.capitallexis.com/*
 *://*.capitallgrowers.com/*
 *://*.capitalorm.com/*
@@ -72499,6 +72501,7 @@
 *://*.careffouerrsa.com/*
 *://*.careffouersa.com/*
 *://*.careffoursa.care/*
+*://*.careffuoersa.com/*
 *://*.careffuorsa.com/*
 *://*.careforsadanalweb2026tr.com/*
 *://*.careforsadanalwebtrc.com/*
@@ -147987,6 +147990,7 @@
 *://*.gundemodagi.com/*
 *://*.gundemodeme.tk/*
 *://*.gundemora.today/*
+*://*.gundemraporum.com/*
 *://*.gundemworld.world/*
 *://*.gundemyatirim.online/*
 *://*.gundemyolu.online/*
@@ -197851,6 +197855,7 @@
 *://*.karncahomer.com/*
 *://*.karnelix.bond/*
 *://*.karnovia.one/*
+*://*.karnpanyalarirn.xyz/*
 *://*.karoanpa.ru/*
 *://*.karonipux.com/*
 *://*.karovajazekojyd.pro/*
@@ -206901,6 +206906,7 @@
 *://*.kurbanfirsati-yapikredi.com/*
 *://*.kurbaninn-sonngunllerindee.com/*
 *://*.kurbanozel.site/*
+*://*.kurbanpaket.icu/*
 *://*.kurbantakipdestek.online/*
 *://*.kurbanvergisi.net/*
 *://*.kurbasvurkazan.life/*
@@ -220148,6 +220154,7 @@
 *://*.mhllrsgislsrs.com/*
 *://*.mhllrsgislsrs.net/*
 *://*.mhlrksmdldoman.sbs/*
+*://*.mhlrlrsa.shop/*
 *://*.mhlrrskastozrvas.com/*
 *://*.mhlrsafhcsflg.sbs/*
 *://*.mhlrsanrnda.click/*
@@ -245618,6 +245625,7 @@
 *://*.owlickelea.ru/*
 *://*.owline.com/*
 *://*.owlintermediary.top/*
+*://*.owlstoryweapon.com/*
 *://*.owltraumatic.top/*
 *://*.owne32wy.click/*
 *://*.ownemail.me/*
@@ -247054,6 +247062,7 @@
 *://*.paketllemeyapkaazan.gq/*
 *://*.paketlmeisleri.online/*
 *://*.paketoldukamadurmadik.net/*
+*://*.paketredirect.icu/*
 *://*.paketsatinal.net/*
 *://*.paketsistempanel.com/*
 *://*.pakettakipci.cf/*
@@ -258428,6 +258437,7 @@
 *://*.profitutor.pro/*
 *://*.profitvault.sbs/*
 *://*.profitvisionary.online/*
+*://*.profitzs.com/*
 *://*.profjohnmaple.com/*
 *://*.profjsterflkrester.click/*
 *://*.profkeretyapi.click/*
@@ -271444,6 +271454,7 @@
 *://*.rndvuhzmetleri.net/*
 *://*.rndvuhzxmetial.net/*
 *://*.rndvumkabul.net/*
+*://*.rndvunuzuayirten.com/*
 *://*.rndvunuzuayirtin.com/*
 *://*.rndvunv.net/*
 *://*.rndvunvialdiyatik.net/*
@@ -289979,6 +289990,7 @@
 *://*.sokmaarketceptefirsat.com/*
 *://*.sokmaarketlerceptefirsat.com/*
 *://*.sokmagazalari.com.tr/*
+*://*.sokmalrket.shop/*
 *://*.sokmarkatlar.com/*
 *://*.sokmarkeet-cepte.site/*
 *://*.sokmarkemtesd.online/*
@@ -318173,6 +318185,7 @@
 *://*.turkhaberhizliyayin.com/*
 *://*.turkhaberonlineportal.com/*
 *://*.turkhaberplatform.com/*
+*://*.turkhaberplatformu.com/*
 *://*.turkhaberzinciri.com/*
 *://*.turkhavasahasi1.net/*
 *://*.turkhavayollari.cfd/*
