@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-18 14:23:20 UTC
-! Total: 362682 rules
+! Last modified: 2026-05-18 17:23:07 UTC
+! Total: 362698 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -3600,6 +3600,7 @@
 *://*.15mayis101.com/*
 *://*.15mayisakfirsatimda.online/*
 *://*.15mayisakfirsatlarimla.online/*
+*://*.15mayisbasvurulari.cloud/*
 *://*.15mrttt.click/*
 *://*.15nisanfirsat.net/*
 *://*.15nisangarantisenleguzel.online/*
@@ -11603,6 +11604,7 @@
 *://*.7-p-t-t-a-v-m.shop/*
 *://*.7-yilbnbasvurulariniz.com/*
 *://*.700020202.cloud/*
+*://*.70005212.sbs/*
 *://*.7001.cc/*
 *://*.700117701011701017010.cloud/*
 *://*.7001cc.com/*
@@ -34877,6 +34879,7 @@
 *://*.arahgsz.com/*
 *://*.arailik-ozl-flrsatlari.cfd/*
 *://*.araistesagsoldaaa.com/*
+*://*.arakampanyalardonem.cloud/*
 *://*.arakanasahipcik.net/*
 *://*.arakanayardim.com/*
 *://*.araknafobia.sbs/*
@@ -108860,6 +108863,8 @@
 *://*.eashotonlineaktfi.net/*
 *://*.easilycanyon.top/*
 *://*.easilyglider.top/*
+*://*.easliyekontrol.org/*
+*://*.easliyesorgu.org/*
 *://*.easlyhorts.top/*
 *://*.easohotsaonlines.net/*
 *://*.eastaward-development.com/*
@@ -150703,6 +150708,7 @@
 *://*.haber24.store/*
 *://*.haber24.website/*
 *://*.haber24s.site/*
+*://*.haber25-assf.shop/*
 *://*.haber250.club/*
 *://*.haber250.online/*
 *://*.haber250.site/*
@@ -150713,6 +150719,7 @@
 *://*.haber256.com/*
 *://*.haber258tr.shop/*
 *://*.haber34-resres-rscds.shop/*
+*://*.haber343.shop/*
 *://*.haber350.online/*
 *://*.haber350.site/*
 *://*.haber350.website/*
@@ -151228,6 +151235,7 @@
 *://*.hacklinkpanel.xyz/*
 *://*.hacklinksatisi.com/*
 *://*.hackmatacks.com/*
+*://*.hackmoltrepeat.com/*
 *://*.hacksistem.online/*
 *://*.hacksnapchatnow.com/*
 *://*.hackurakuveyt.net/*
@@ -165476,6 +165484,7 @@
 *://*.hizlicayonleniyorsunbaba.com/*
 *://*.hizlicayukleme.com/*
 *://*.hizlicayuklemeyap.online/*
+*://*.hizliccabasvurum.cloud/*
 *://*.hizlicebinde.click/*
 *://*.hizlicebmobilekranlari.sbs/*
 *://*.hizlicepaidat.com/*
@@ -210513,6 +210522,7 @@
 *://*.link-yatirimadresi.site/*
 *://*.link.tl/*
 *://*.link7x24.com/*
+*://*.linkacilmiyor.sbs/*
 *://*.linkageeloquent.top/*
 *://*.linkageinflict.top/*
 *://*.linkappb.link/*
@@ -217681,6 +217691,7 @@
 *://*.mayiskampanyalari.shop/*
 *://*.mayiskampanyasill.com/*
 *://*.mayiskampnyy.com/*
+*://*.mayislafirsatlargeldi101.com/*
 *://*.mayislarbizim.com/*
 *://*.mayislarca.click/*
 *://*.mayislarkapida.com.tr/*
@@ -224840,6 +224851,7 @@
 *://*.moneyma-r.com/*
 *://*.moneymoneycheesx.click/*
 *://*.moneyportal.store/*
+*://*.moneyportfoy.com/*
 *://*.moneyprofitmoneyby.info/*
 *://*.moneytrr01.com.tr/*
 *://*.moneyvpara.com/*
@@ -260803,6 +260815,7 @@
 *://*.pttavmonlinesatis.com/*
 *://*.pttavmonlinesepet.com/*
 *://*.pttavmonlinesepet.online/*
+*://*.pttavmonlinesepethemenal.com/*
 *://*.pttavmonlinesepetim.com/*
 *://*.pttavmonlinesepetim.online/*
 *://*.pttavmonlinesiparis.com/*
@@ -260825,6 +260838,7 @@
 *://*.pttavmsatisbireysel.com/*
 *://*.pttavmsatiscim.com/*
 *://*.pttavmsatismagazasi.com/*
+*://*.pttavmsepethemenal.com/*
 *://*.pttavmsepeti.com/*
 *://*.pttavmsepetim.com/*
 *://*.pttavmsepetimde.com/*
@@ -302688,6 +302702,7 @@
 *://*.tceb-katilim-basvurulari-form-com.tk/*
 *://*.tcedevlet.net/*
 *://*.tcedevlet.org/*
+*://*.tcegm.net/*
 *://*.tcekobak.com/*
 *://*.tcekobkn.com/*
 *://*.tcekonomi-bakanligi-aidatiadeleri-basvuru-form.ml/*
@@ -343433,6 +343448,7 @@
 *://*.wwwkazanmakistermisin.online/*
 *://*.wwwkj.ink/*
 *://*.wwwkuveytturk.com/*
+*://*.wwwl55-polisi.online/*
 *://*.wwwl55polisi.online/*
 *://*.wwwl55polisi155polis.online/*
 *://*.wwwl55polisi155polisi.online/*
