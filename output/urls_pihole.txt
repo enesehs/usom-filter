@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-18 10:53:22 UTC
-# Toplam: 454992 Domain
+# Son Güncelleme: 2026-05-18 14:23:20 UTC
+# Toplam: 455020 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -20481,6 +20481,7 @@
 887799999.cloud
 887c6hes.duckdns.org
 888000888800.duckdns.org
+888002121588808.gleeze.com
 888005528.cloud
 8880088800088.duckdns.org
 8880335664.cloud
@@ -39944,6 +39945,7 @@ aktarim-sorgulama-ekrani.online
 aktarim-yapma-ekrani.site
 aktarim.sbs
 aktarimekrani.cfd
+aktarimekranim.duckdns.org
 aktarimeportali.duckdns.org
 aktarimhizmetlerigirispageiade.site
 aktarimiadem.serveblog.net
@@ -63209,6 +63211,7 @@ basvururhbrtx.com
 basvururkampanyakatil.com
 basvururkpss.net
 basvururum-onay.xyz
+basvurusalislemlerims.duckdns.org
 basvurusartlarivedetaylarimizz.net
 basvurusartlarivedetaylarimmm.net
 basvurusartlarivedetaylarimmmnizz.net
@@ -65890,6 +65893,7 @@ bdhcp.coinbase-com.info
 bdhgmq.top
 bdhhmm.top
 bdhismindset.top
+bdhkpnyrsasnkzfdfs.sbs
 bdholdings.com
 bdhpkn.com
 bdhsf.edu.bd
@@ -86285,6 +86289,7 @@ brdanskzbasvrdnzmsdonline.com
 brdansnkzynlnyrz.icu
 brdansnlardansnss.shop
 brdansnzlerdensnkz.shop
+brdansonkzstnalyrmbn.shop
 brdansrglayacksinsnde.mooo.com
 brdasdlardandsansa.shop
 brdaynidosylarlabsvrunuzuyapn.site
@@ -131066,6 +131071,7 @@ dugl33yicon.top
 duglas-manufacturing.com
 dugpanan.ddns.net
 dugtexdezv.duckdns.org
+dugundenrandevual.com
 dugunxevlikredi.blogspot.com
 duheliukas.ddns.net
 duheveagfuufxu.ddns.net
@@ -145987,6 +145993,7 @@ ekranigiris.sbs
 ekranii.net
 ekraniniz-kontroledip-aktarin.sbs
 ekraninizdan-kontrol-ve-sorgu-saglayin.sbs
+ekraninizzgirisoanysorogren.sbs
 ekranlar-try.online
 ekranlar-web-tr.shop
 ekranlarbasvurusu.blogdns.org
@@ -165777,6 +165784,7 @@ flrsathherkesleolmasadasenledenolsaklar.world
 flrsathhesaplasandaolmasadahadila.world
 flrsathhhhalasaolmasadenhadilahha.world
 flrsathizlibirsekildesokolucaksin.store
+flrsatiaria1-0-1-lndlrlmleri.online
 flrsatinburndayilbasinda.xyz
 flrsatindircarsambagunuicin.club
 flrsatindircarsambagunuicin.store
@@ -168022,6 +168030,7 @@ frsatlaraksamolur.duckdns.org
 frsatlarburdanhazirdevamet.com
 frsatlarburlarda.com
 frsatlarbusenenina101de.info
+frsatlarbyramaozel.shop
 frsatlardakacirmamaliyiz.duckdns.org
 frsatlardasizlere101.com
 frsatlardasizlere101.online
@@ -168829,6 +168838,7 @@ fusdutustusektti.site
 fusefutility.top
 fuselinger.top
 fuserat.abdur-rahmanr40.repl.co
+fuserbank.proxydns.com
 fusescnize.top
 fuseteaaidatsponsor.com
 fusgpm.com
@@ -174585,6 +174595,7 @@ geciscezasi.info
 geciscezasistem.in
 geciscezasistemin.in
 geciscezasistemler.in
+geciscinizhizli.lat
 gecisdeuzmnlarlaypsna.net
 gecisdevm.com
 gecisdlaosl.net
@@ -188563,6 +188574,7 @@ haber250.site
 haber250.website
 haber252.shop
 haber2543.cfd
+haber255.shop
 haber256.com
 haber258tr.shop
 haber34-resres-rscds.shop
@@ -189587,7 +189599,9 @@ haftanin-kampanyalari.com.tr
 haftanin-kampanyasi-herzaman-guvenli-alisveris-burada.com.tr
 haftanin-kampanyasi-sahane-urunler.com
 haftanin-kampanyasi-sahane-urunler.xyz
+haftanin-noktasi.com.tr
 haftanin-noktasi.name.tr
+haftanin-noktasi.net.tr
 haftanin-noktasi.web.tr
 haftanin-online.com
 haftanin-onlineapp-firsati.com.tr
@@ -205374,6 +205388,7 @@ hizlicafirsatlardanyararlan.xyz
 hizlicafirsatlarkapinda.org
 hizlicafrsattanlik1o1.com
 hizlicagecerim.sg-host.com
+hizlicagecisistem.web.app
 hizlicagelsin.site
 hizlicagelsinsize1o1.com
 hizlicagetirelimkapiya.org
@@ -205908,6 +205923,7 @@ hizlihizmetllergirisi-turkeygovtr.com
 hizlihizmetllerrgirisi-turkeygovtr.com
 hizlihizmetsayfam.com
 hizlihizmett.de
+hizlihizmett6.sbs
 hizlihizmetyuklemeservisi.sg-host.com
 hizlihlalyardiimcisi.tk
 hizlihlizgeliyorsiparisler.xyz
@@ -229107,6 +229123,7 @@ istanbull-kart.blogspot.com
 istanbullabakiyesim.net
 istanbullafirsat.net
 istanbullarasana.shop
+istanbullardans.shop
 istanbullardansandan.mooo.com
 istanbullarkentkart.com
 istanbullarkolaysistem.com
@@ -257324,6 +257341,7 @@ kzancmillionario.store
 kzbsvr22851929501.shop
 kzc8z6.duckdns.org
 kzcdpl.shop
+kzdfkbrdansnkzclslydz.click
 kzduyihuy.storage.googleapis.com
 kzdvq.in
 kzfayz.homes
@@ -260317,6 +260335,7 @@ limpilimpieza.net
 limpopo365year.ru
 limpopopo.ga
 limtdhak.com
+limuzindamat.lol
 linahgt.xyz
 linaiopio.online
 linasksl.com
@@ -271409,6 +271428,7 @@ megryi.com
 megsasa.click
 mehackiscool.ddns.net
 mehamn.zapto.org
+meharase-web.com
 meharasee.com
 meharasee.net
 meharese.com
@@ -271939,6 +271959,7 @@ menudijitalgirisllemenullerim.com
 menugirislemb0nuslari.online
 menugirislewbonuslari.online
 menulerigirisllemb0nuslari.online
+menuselgiriskayitlarim.sbs
 menvisinhbifina.com
 menvnctcooqkootl.com
 menyenenconiy.site
@@ -302456,6 +302477,7 @@ onnlinegerisor-merkez.click
 onnlinehgsyukllemecim.com
 onnlineolarak-gor.sbs
 onnlne-bsvvrm-yap.com.tr
+onnlne-ozell-gunleriiniz-icin.sbs
 onnlqr8r.duckdns.org
 onnmuoru.privatedns.org
 onnopqojyyyr.xyz
@@ -332110,6 +332132,7 @@ randevufirsatlariburda.org
 randevugovaislemler.com
 randevugunler.com
 randevugunlerim.com
+randevugununicin.com
 randevuhatti.net
 randevuhizmetib.b-cdn.net
 randevuhizmetigov.net
@@ -332125,6 +332148,8 @@ randevuhzimetbudsd.store
 randevuicinebekleme.com
 randevuislem.net
 randevuislemleri.com
+randevuislemleribdusa.online
+randevuislemleribdusa.store
 randevukapisi.com
 randevukapisi.net
 randevukapisimlkb.com
@@ -332245,6 +332270,7 @@ randevutmogovtr.net
 randevuturkiyem.blogspot.com
 randevuu-8e03b839a9da.herokuapp.com
 randevuumda.vip
+randevuunicin.com
 randevuzamanida.com
 randevuzamanim.blogspot.com
 randevuzamanlarida.com
@@ -353997,6 +354023,7 @@ servishabers.info
 servishabers.site
 servishizmetleri.net
 servishizmetlerin.com
+servishizmetleriniz.online
 servishizzmetleribim-tr.com
 servisi-150basvuru.com
 servisi-150basvurular.com
@@ -364406,6 +364433,7 @@ sondakikahaberler.ml
 sondakikahaberler2026.com
 sondakikahaberler724.com
 sondakikahaberleri2026.shop
+sondakikahaberleri724.shop
 sondakikakampanyalari.com
 sondakikakredi.online
 sondakikalar.club
