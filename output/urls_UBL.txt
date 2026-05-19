@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-19 11:53:00 UTC
-! Total: 362768 rules
+! Last modified: 2026-05-19 14:26:21 UTC
+! Total: 362774 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -138390,6 +138390,7 @@
 *://*.gazettalumero.pro/*
 *://*.gazettaverono.online/*
 *://*.gazhgsm.com/*
+*://*.gaziantepkocakbaklava.com/*
 *://*.gazianteprecorddss.com/*
 *://*.gazikars.xyz/*
 *://*.gazisondakika.com/*
@@ -259730,6 +259731,7 @@
 *://*.ptt-avm-aysonukampanyalari.online/*
 *://*.ptt-avm-bakiye.ml/*
 *://*.ptt-avm-bakiyesi.ml/*
+*://*.ptt-avm-bireysel-sepetim.com/*
 *://*.ptt-avm-dolumm.fun/*
 *://*.ptt-avm-firsat-alisverisleri.online/*
 *://*.ptt-avm-firsat-haziran-kampanylari.online/*
@@ -289311,6 +289313,7 @@
 *://*.snpkfhd.com/*
 *://*.snrkakindmgn.cfd/*
 *://*.snrlsaydcakm.cfd/*
+*://*.snrlsayocadaoneaca.cfd/*
 *://*.snrlstoklonllne-indrmllr.net/*
 *://*.snrmfxko.cn/*
 *://*.snrsz20gbinternet.com/*
@@ -309590,6 +309593,7 @@
 *://*.top-drawer-t.life/*
 *://*.top-game.online/*
 *://*.top-id.com/*
+*://*.top-la-gel-e-hrs-ey-bur-adan.life/*
 *://*.top-pro.space/*
 *://*.top-red.ru/*
 *://*.top-sso3.top/*
@@ -328574,6 +328578,7 @@
 *://*.vaydaslans231.site/*
 *://*.vaydl00losd2a.site/*
 *://*.vayhoeldbavedvevtyopdafnezloptopsosledkladrezyez.top/*
+*://*.vaylele.cfd/*
 *://*.vayleslir.digital/*
 *://*.vaylinsasde.site/*
 *://*.vaylorsansd.digital/*
@@ -359942,6 +359947,7 @@
 *://*.zintray.site/*
 *://*.zionbrand.su/*
 *://*.zionsystem.live/*
+*://*.ziosescsi.net/*
 *://*.ziostohou.digital/*
 *://*.ziparbitration.top/*
 *://*.ziparchive.xyz/*
