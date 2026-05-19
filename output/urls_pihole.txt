@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-19 22:54:42 UTC
-# Toplam: 455187 Domain
+# Son Güncelleme: 2026-05-19 23:53:16 UTC
+# Toplam: 455202 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -171,6 +171,7 @@
 00898933.sbs
 008c.hugeversapi.com
 008nq.escont1.com
+008ogwe.icu
 008usa-xxf.com
 008ykv.cn
 0090ofis.com
@@ -9774,6 +9775,7 @@
 24512512.work
 24523512.xyz
 2452423423662.com
+2452521.sbs
 24536516.xyz
 2453739412166300.xyz
 2453739412166310.com.tr
@@ -15036,6 +15038,7 @@
 4ugyjide.duckdns.org
 4uhkfds2.duckdns.org
 4ukazandiriyor.com
+4ukwxgexo.icu
 4ul4d6x.duckdns.org
 4ulkwhlz.duckdns.org
 4upx8xe4z.duckdns.org
@@ -16232,6 +16235,7 @@
 58ef8a5eb954.net
 58f667d2.dsfiurb-u.shop
 58feh85t6.duckdns.org
+58h0wzk70k8d.icu
 58j13nh.duckdns.org
 58jbhk.duckdns.org
 58mf84s37.duckdns.org
@@ -23146,6 +23150,7 @@ a-101c0lmtl.cyou
 a-101c0m-tlr.cyou
 a-101c0m.cyou
 a-101c0mtl.cfd
+a-101c0mtlc.shop
 a-101c0mtor.lol
 a-101c0myr.cyou
 a-101cl0mlt.cyou
@@ -97008,6 +97013,7 @@ celsiusrusty.top
 celsodns.zapto.org
 celsperial.hopto.org
 celssa.com
+celte-sok.shop
 celticso.ru
 celvin.ddns.net
 celvonex.com
@@ -179098,6 +179104,7 @@ giriss-akbnkkx.com
 giriss-aktif-mobill.cfd
 giriss-basvurular.cfd
 giriss-iadresleri.space
+giriss-times.cfd
 giriss-web-e-devlet-iade-gov-tr.com
 girissayfabaslangiconline.site
 girissbitexen.com
@@ -194750,6 +194757,7 @@ hasarvekm.pro
 hasarvekmsorgu.blogspot.com
 hasasomaye.net
 hasasorgasogren.net
+hasat5dsa.nicepage.io
 hasatepsas.net
 hasatzamani.net
 hasatzamani.shop
@@ -260301,6 +260309,7 @@ lillllllllllllll.duckdns.org
 lilnest.mom
 lilninop.ga
 liloacldtna.ddns.net
+lilokokobilmem.click
 liloupb.zapto.org
 lilqwt.duckdns.org
 lilqyhqjhibgbpj.cn
@@ -260755,6 +260764,7 @@ lionking-ticket.com
 lionleese.cc
 lionmoan.top
 lionoi.adygeya.su
+lionsdenclub.co
 lionsdenim.xyz
 lionsdl.fit
 lionsguard.ddns.net
@@ -269361,6 +269371,7 @@ masetanan.net
 masfbsafn.net
 masfgfg.cn
 masfyconsultants.com
+masghfasgfaasax2ds.cyou
 masgraves.ddns.net
 masguqhsqheiqd.cfd
 masguqhsqheiqd.sbs
@@ -310272,6 +310283,7 @@ pardwo.com
 parekendenizeozel.com
 parenceo.net
 parenda23x.site
+parendalikla.click
 parenei.com
 parentalincorporation.top
 parentarye.top
@@ -378042,6 +378054,7 @@ tarsussubelerindekampanya.online
 tarsussubesi.com.tr
 tarsussubesi.online
 tartarcusp.com
+tartarks.nicepage.io
 tartarorder23.site
 tartarugazuada666.duckdns.org
 tarteoutletstore.online
@@ -378057,6 +378070,7 @@ tarzini-yansit-cuzdani-yorma-burada.top
 tarzlarimiz-burdan-daha-iyi-gelecekler-hep.com
 tarzoose.com
 tas1x1x1.sbs
+tasagda.nicepage.io
 tasagera.duckdns.org
 tasameh.com
 tasangrc.com
@@ -432017,6 +432031,7 @@ x12lksalclcl123x1ksc.sbs
 x12vn2.duckdns.org
 x12y.restrice.ru
 x133ed344.eu
+x13kkaskckl123x123.cyou
 x13kkaskckl123x123.sbs
 x13kkaskckl123x123.shop
 x14.xxxatat456.com
