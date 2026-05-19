@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-19 21:08:54 UTC
-# Toplam: 455172 Domain
+# Son Güncelleme: 2026-05-19 22:54:42 UTC
+# Toplam: 455187 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -10695,6 +10695,7 @@
 2aralikkampanyalari.online
 2aralikkampanyalari.xyz
 2aralikturkiyeaidatiadeleri.org
+2as1d5e65sd1sad54sd.duckdns.org
 2as2krb85.duckdns.org
 2as5d1sa98d8a6s.digital
 2as68xc1a86sd44a6f.digital
@@ -24365,6 +24366,7 @@ a101.efsanemayisayifirsatlarii.com.tr
 a101.efsanetemmuzayifirsatlari.com.tr
 a101.efsanetemmuzayifirsatlarim.com.tr
 a101.efsanetemmuzfirsatlarim.com.tr
+a101.empordafibra.com
 a101.eniyiindirimlerin.com.tr
 a101.eniyiindirimlerin.online
 a101.esepetiniz.com.tr
@@ -51645,6 +51647,7 @@ arzizd0ok.duckdns.org
 arzqyn.com
 arzumbaharindirimi.com.tr
 arzumceyiz.com
+arzumforge.xyz
 arzumindirimleri.com
 arzumnova.xyz
 arzumokka.online
@@ -51815,6 +51818,7 @@ asd1axa1x5a.digital
 asd1sad242330sd.duckdns.org
 asd213312d21d.click
 asd222ga.strangled.net
+asd231256sad03as2d6.duckdns.org
 asd23asdashdhashd2k2sadhashdh.click
 asd2e3w4e.nicepage.io
 asd33r.is-best.net
@@ -89918,6 +89922,7 @@ buradanfirsatlarialicaksin.cfd
 buradanfirsatlarialicaksin.sbs
 buradanfirsatlarintakensineulasirsiniz.com.tr
 buradangel.com
+buradangelsin.xyz
 buradangerceklestir.com
 buradangirsende.online
 buradangirsenesende.com
@@ -107162,6 +107167,7 @@ connsphotolab.com
 connuwedro.xyz
 connvocaoran.duckdns.org
 conny-tortilla.club
+conny-tortilla.vip
 conpastcon.com
 conqculminate.top
 conquemappe.bond
@@ -188576,6 +188582,7 @@ haber-net.website
 haber-o.site
 haber-okuru.site
 haber-sermayesitr.com.tr
+haber-seszka-lam-send-engel-265696.life
 haber-show.club
 haber-tr.online
 haber-trend.online
@@ -196703,6 +196710,7 @@ hdtgmz.top
 hdtodc.totalh.net
 hducretsizvideoizle58452.xyz
 hducretsizvideoizle67715.xyz
+hduifvnsp.info
 hdupt.com
 hduzmhwxg.site
 hdvideoizle3824.xyz
@@ -232557,6 +232565,7 @@ izlaopopags.dns.navy
 izlaowqooaa.blogspot.com
 izlappaoq.dns.navy
 izlasmlsabmanskam.blogspot.com
+izlatqwrwq.blogspot.com
 izldas656tgfdx.blogspot.com
 izldasgc.blogspot.com
 izldasgsdhd.blogspot.com
@@ -232628,6 +232637,7 @@ izltsbobdd.duckdns.org
 izltsboss.duckdns.org
 izltsbotr3.blogspot.com
 izltsbrada.xyz
+izltsfirsatis.duckdns.org
 izltsfopaps.dns.navy
 izltsfot.dns.navy
 izltsfrstim.dnsup.net
@@ -251262,6 +251272,7 @@ kmpnyybsvrrrprmsynn.click
 kmpnyyfinnnnnasabsvr.click
 kmpnyyfrrrst.xyz
 kmpnyyybsvrrrrprmsynn.click
+kmpnyyyfrstlarrrbsvrsss.art
 kmpnyyygrrntw.chickenkiller.com
 kmpnyyyprmsynnbsvrr.info
 kmpnyyyprmsynnbsvrr.live
@@ -261593,6 +261604,7 @@ lncruez.com
 lnddrmm-klmmaaa.com
 lndenizbank.com
 lndenizlbank.com
+lndiriimeglidici.shop
 lndirim-ekimayi.com
 lndirim-firsatlar-sizinle.com
 lndirim-geldi.com.tr
@@ -271528,6 +271540,7 @@ meharese1.net
 meharese1.org
 meharese1.xyz
 meharrese.com
+meharsee.com
 mehdef.duckdns.org
 mehdibaba.cc.dvrlists.com
 mehdibennour.zapto.org
@@ -275479,6 +275492,7 @@ mmhhrhhrhrrs70.sbs
 mmhhrhhrhrrs71.sbs
 mmhhrhhrhrrs72.sbs
 mmhhrhhrhrrs73.sbs
+mmhhrhhrhrrs74.sbs
 mmhhrhhrhrrs9.sbs
 mmhkmazlh.duckdns.org
 mmhp.link
@@ -363606,6 +363620,7 @@ sokma-rketcom-aadd22.cfd
 sokmaarketceptefirsat.com
 sokmaarketlerceptefirsat.com
 sokmagazalari.com.tr
+sokmakket.shop
 sokmalrket.shop
 sokmarkatlar.com
 sokmarkeet-cepte.site
