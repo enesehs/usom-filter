@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-20 14:26:58 UTC
-! Total: 362899 rules
+! Last modified: 2026-05-20 19:58:01 UTC
+! Total: 362922 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -26867,6 +26867,7 @@
 *://*.aktifduyuruprbonline.com/*
 *://*.aktifduyuruprbtr.com/*
 *://*.aktifeczane.name.tr/*
+*://*.aktiff-kal-onnlne-ssrggusstemi.sbs/*
 *://*.aktiffaturamerkezi.com/*
 *://*.aktiffiz.net/*
 *://*.aktifgeri.net/*
@@ -41927,6 +41928,7 @@
 *://*.bakkalufukbey.online/*
 *://*.bakkatmlastanda.com/*
 *://*.baklaa31la.com/*
+*://*.baklavakocak.com/*
 *://*.bakldx.com/*
 *://*.baklmdtndl.com/*
 *://*.bakloomedya.net/*
@@ -43811,6 +43813,7 @@
 *://*.basvursendzk.com.tr/*
 *://*.basvursendzk.sbs/*
 *://*.basvursendzn.sbs/*
+*://*.basvursenn.sbs/*
 *://*.basvursens.sbs/*
 *://*.basvursenv.sbs/*
 *://*.basvursenz.sbs/*
@@ -58561,6 +58564,7 @@
 *://*.bizimburadanfirsatlarintakensineulasirsiniz.com.tr/*
 *://*.bizimburadanfirsatlarintakensineulasirsiniz.xyz/*
 *://*.bizimburalargzl.click/*
+*://*.bizimcberecendere.sbs/*
 *://*.bizimdanismanlik.com.tr/*
 *://*.bizimekip.net/*
 *://*.bizimev.click/*
@@ -65504,6 +65508,8 @@
 *://*.brdnvrnsnkzlerdens.shop/*
 *://*.brdrkydumtekydilabu.xyz/*
 *://*.brdvkffzszvr.cfd/*
+*://*.brdyzevgldksznmrd.lol/*
+*://*.brdyzevgldksznmrd.xyz/*
 *://*.brdyzgrgldksznrdsnzbsf.click/*
 *://*.breachmaternal.top/*
 *://*.breadmagistrate.top/*
@@ -150761,6 +150767,7 @@
 *://*.haber112.online/*
 *://*.haber112.site/*
 *://*.haber112.website/*
+*://*.haber1174.shop/*
 *://*.haber123.click/*
 *://*.haber123.shop/*
 *://*.haber132.shop/*
@@ -169292,6 +169299,7 @@
 *://*.hppynweyreadaddies9.xyz/*
 *://*.hpqrcy.com/*
 *://*.hpqubyhhbz.info/*
+*://*.hprmcrfsthipermrk.cfd/*
 *://*.hps1brda0kcmaz1glal.com/*
 *://*.hpsbrd.xyz/*
 *://*.hpsburada-kepguncelleme.com.tr/*
@@ -171298,6 +171306,7 @@
 *://*.hzyhxlxx.com/*
 *://*.hzyzn.com/*
 *://*.hzzlcakmsgula.buzz/*
+*://*.hzzlgcs.com/*
 *://*.hzzligcissodemeslim.net/*
 *://*.hzzlisube.com/*
 *://*.hzzvipkargo.buzz/*
@@ -179141,6 +179150,7 @@
 *://*.infowavequest.shop/*
 *://*.infoxesubem.com/*
 *://*.infoyatirim.pro/*
+*://*.infoyatirimenkul.com/*
 *://*.infoyatirimsube.com/*
 *://*.infozoompulse.shop/*
 *://*.infra-telemetry.com/*
@@ -185208,6 +185218,7 @@
 *://*.istanbuldanucamgelbsvr.sbs/*
 *://*.istanbuldasin.net/*
 *://*.istanbuldasin.site/*
+*://*.istanbuldayapilan.shop/*
 *://*.istanbuldazipla.shop/*
 *://*.istanbulddollmyeri.net/*
 *://*.istanbuldealflow.com/*
@@ -219502,6 +219513,7 @@
 *://*.merkezisuztbilgi.sbs/*
 *://*.merkeziswebsorgu.com/*
 *://*.merkeziswebtr.com/*
+*://*.merkeziteknikgarantimenucozumleri.space/*
 *://*.merkezitelifhaklari.com/*
 *://*.merkezitelifkontrolleri.com/*
 *://*.merkezitr.app/*
@@ -221717,6 +221729,10 @@
 *://*.mmhhrhhrhrrs72.sbs/*
 *://*.mmhhrhhrhrrs73.sbs/*
 *://*.mmhhrhhrhrrs74.sbs/*
+*://*.mmhhrhhrhrrs75.sbs/*
+*://*.mmhhrhhrhrrs76.sbs/*
+*://*.mmhhrhhrhrrs77.sbs/*
+*://*.mmhhrhhrhrrs78.sbs/*
 *://*.mmhhrhhrhrrs9.sbs/*
 *://*.mmhp.link/*
 *://*.mmhrsnrndvs.net/*
@@ -271579,6 +271595,7 @@
 *://*.rndvuhzxmetial.net/*
 *://*.rndvumkabul.net/*
 *://*.rndvunuzuayirin.com/*
+*://*.rndvunuzuayirt.com/*
 *://*.rndvunuzuayirten.com/*
 *://*.rndvunuzuayirtin.com/*
 *://*.rndvunv.net/*
@@ -273399,6 +273416,7 @@
 *://*.s0k-malrket.shop/*
 *://*.s0k.com.tr/*
 *://*.s0kagustosyakal.com/*
+*://*.s0kf1rsatlr.com/*
 *://*.s0kfi-rsatiar-s1mdi-sibura.shop/*
 *://*.s0kfirsatlardayiz.click/*
 *://*.s0kfirsatlarinizdayiz.click/*
@@ -293633,6 +293651,7 @@
 *://*.spindexed.site/*
 *://*.spinend.com/*
 *://*.spinepolytechnic.top/*
+*://*.spinetabided.cfd/*
 *://*.spinicerebellar.com/*
 *://*.spinlogos.com/*
 *://*.spinmorph.com/*
@@ -303999,6 +304018,7 @@
 *://*.teevcnhjoucfspi.ru/*
 *://*.teeyaipakin.com/*
 *://*.tefas.trade/*
+*://*.tefasglobal.com/*
 *://*.tefdee.cfd/*
 *://*.tefdiposda.site/*
 *://*.tefesa1.net/*
@@ -320376,6 +320396,7 @@
 *://*.tuvturk-aracmuaynealanixodemesrgu4muayne.net/*
 *://*.tuvturk-aracrandev.net/*
 *://*.tuvturk-aracrandevusu.net/*
+*://*.tuvturk-brem.com/*
 *://*.tuvturk-cio.com/*
 *://*.tuvturk-cun.com/*
 *://*.tuvturk-d.digital/*
@@ -332186,6 +332207,7 @@
 *://*.vmdopx.top/*
 *://*.vmdskavmdasasd.com/*
 *://*.vmdszbetw.com/*
+*://*.vmehfxdafrdebrdyz.sbs/*
 *://*.vmerdybrnosgcec.ru/*
 *://*.vmerkezbankasi.com/*
 *://*.vmfare.com/*
@@ -347754,6 +347776,7 @@
 *://*.xn--ortakoporotr-fjb.com/*
 *://*.xn--ortaksayfanz-c5b.com/*
 *://*.xn--oruytimcsc-x6aa7pla2g12ab14ap3ala.online/*
+*://*.xn--otokootomotiv-mgb.com/*
 *://*.xn--pabu-cza3v.com/*
 *://*.xn--pabu-mza9s.com/*
 *://*.xn--pabu-rpa55d.com/*
