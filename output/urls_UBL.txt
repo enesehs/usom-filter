@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-20 08:54:19 UTC
-! Total: 362865 rules
+! Last modified: 2026-05-20 11:39:20 UTC
+! Total: 362869 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -150777,6 +150777,7 @@
 *://*.haber250.site/*
 *://*.haber250.website/*
 *://*.haber252.shop/*
+*://*.haber254.cfd/*
 *://*.haber2543.cfd/*
 *://*.haber255.shop/*
 *://*.haber256.com/*
@@ -224094,6 +224095,7 @@
 *://*.mobilservis-1.sbs/*
 *://*.mobilservis-15.com/*
 *://*.mobilservis-4.com/*
+*://*.mobilservis-82.sbs/*
 *://*.mobilservis-84.sbs/*
 *://*.mobilservisi-1.com/*
 *://*.mobilservisi-15.sbs/*
@@ -313776,6 +313778,7 @@
 *://*.trcxmsfcuasd.com/*
 *://*.trczerpronex.net/*
 *://*.trd-finlink.com/*
+*://*.trdava.org/*
 *://*.trdavaesorgu.com/*
 *://*.trdavaesorgu.net/*
 *://*.trdavasorgu.net/*
@@ -328662,6 +328665,7 @@
 *://*.vayhoeldbavedvevtyopdafnezloptopsosledkladrezyez.top/*
 *://*.vaylele.cfd/*
 *://*.vaylele.click/*
+*://*.vaylele.lat/*
 *://*.vayleslir.digital/*
 *://*.vaylinsasde.site/*
 *://*.vaylorsansd.digital/*
