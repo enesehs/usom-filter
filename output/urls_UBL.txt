@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-21 09:28:31 UTC
-! Total: 362975 rules
+! Last modified: 2026-05-21 12:36:57 UTC
+! Total: 362992 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -38934,6 +38934,7 @@
 *://*.avisrentacarr.com/*
 *://*.avisrentacarr.xyz/*
 *://*.avisrentaccar.space/*
+*://*.avisrental.fun/*
 *://*.avisrentalcar.com.tr/*
 *://*.avisrentalcars.com.tr/*
 *://*.avisrentascar.com/*
@@ -43800,6 +43801,7 @@
 *://*.basvursbr.online/*
 *://*.basvursena.com.tr/*
 *://*.basvursena.online/*
+*://*.basvursenc.sbs/*
 *://*.basvursend.sbs/*
 *://*.basvursende.fun/*
 *://*.basvursende.online/*
@@ -46110,6 +46112,7 @@
 *://*.baykardrone.com/*
 *://*.baykareserve.site/*
 *://*.baykaress.icu/*
+*://*.baykarfinans-algoritmasi.com/*
 *://*.baykarfirsati.online/*
 *://*.baykarfly.com/*
 *://*.baykarforge.xyz/*
@@ -46141,6 +46144,7 @@
 *://*.baykarlabs.com/*
 *://*.baykarnetwork.info/*
 *://*.baykarnews.com/*
+*://*.baykarnews.gifts/*
 *://*.baykarnews.info/*
 *://*.baykarnews25.pro/*
 *://*.baykarnow.com/*
@@ -115949,6 +115953,7 @@
 *://*.elevatebruise.top/*
 *://*.elevatecanvas.top/*
 *://*.elevatedock.art/*
+*://*.elevatefitness.life/*
 *://*.elevateinnovatepro.com/*
 *://*.elevateprone.top/*
 *://*.elevatescholar.com/*
@@ -138857,6 +138862,7 @@
 *://*.gecasansastoym.net/*
 *://*.gecastondsmy.net/*
 *://*.gecccshgssserv.tk/*
+*://*.gecchizli.click/*
 *://*.geccsmmhgssserv.tk/*
 *://*.gece-frsatlarda-brdayz.shop/*
 *://*.gece-gunduz-demeden-mutluluk.com/*
@@ -142969,6 +142975,7 @@
 *://*.git-idarixodemeai.com/*
 *://*.git-repos.de/*
 *://*.git-sahibindeguvendeparam.com/*
+*://*.git-service.com/*
 *://*.git-tanstack.com/*
 *://*.git.tc/*
 *://*.git1ab.com/*
@@ -152716,6 +152723,7 @@
 *://*.hakozye.com/*
 *://*.hakreklam.lol/*
 *://*.haksikayetvar.com/*
+*://*.haksizfil.cfd/*
 *://*.haksuara.com/*
 *://*.haktalepbasvuru.com/*
 *://*.haktancell.net/*
@@ -185236,6 +185244,7 @@
 *://*.istanbulcuyuzbiz.online/*
 *://*.istanbulcxna.xyz/*
 *://*.istanbuldakal.shop/*
+*://*.istanbuldakasanlar.shop/*
 *://*.istanbuldankaldim.shop/*
 *://*.istanbuldanoldum.shop/*
 *://*.istanbuldanucamgelbsvr.sbs/*
@@ -186423,6 +186432,7 @@
 *://*.istlnx.shop/*
 *://*.istlnx.xyz/*
 *://*.istltnbllkartl.com/*
+*://*.istltnesac.com/*
 *://*.istlz.com/*
 *://*.istmakinehemenh.com/*
 *://*.istmalsma.com/*
@@ -219479,6 +219489,7 @@
 *://*.merkezibankasi.com/*
 *://*.merkezibilgilendirmesistemi.com/*
 *://*.merkezibilgisistemi.com/*
+*://*.merkezigarantimenucozumlerim.cc/*
 *://*.merkezihekiim.cfd/*
 *://*.merkezihekiim.lol/*
 *://*.merkezihekiim.vip/*
@@ -221635,6 +221646,7 @@
 *://*.mlgxf.com/*
 *://*.mlhkasersxrgfv.net/*
 *://*.mlhlrosralndevu.shop/*
+*://*.mlhrsrandelu2.sbs/*
 *://*.mlidkpydnwcx.com/*
 *://*.mlidkpydnwcx.info/*
 *://*.mlidsdof.com/*
@@ -267501,6 +267513,7 @@
 *://*.randevunvu.xyz/*
 *://*.randevuonay.com/*
 *://*.randevurandevuu.net/*
+*://*.randevusaatiolun.com/*
 *://*.randevusabah.net/*
 *://*.randevusabahh.net/*
 *://*.randevusabahim.net/*
@@ -271602,6 +271615,7 @@
 *://*.rndsbhrizmetburds.store/*
 *://*.rndsbvjhrizmrbuds.online/*
 *://*.rndsrvbzurhizmetlbruds.store/*
+*://*.rndsuvhhizmetburdss.online/*
 *://*.rndsuvhhizmetburdss.store/*
 *://*.rndsvsusal.net/*
 *://*.rndv-islemleriniz.com/*
@@ -296044,6 +296058,7 @@
 *://*.stikerscloud.com/*
 *://*.stilesmcgraw.com/*
 *://*.stilingfreen.com/*
+*://*.still-out.sbs/*
 *://*.stillevery.net/*
 *://*.stillfoster.top/*
 *://*.stilsalon.com/*
@@ -344353,6 +344368,7 @@
 *://*.xaidatlariiadeniz.com/*
 *://*.xainfo3fa.xyz/*
 *://*.xaitwoe.com/*
+*://*.xaj1k23xjksadkl12.cyou/*
 *://*.xajyzwjks.com/*
 *://*.xakasdlk123jk12sca.lol/*
 *://*.xalaka.xyz/*
@@ -350371,6 +350387,7 @@
 *://*.yanimdamobil.buzz/*
 *://*.yanimdayoksun.space/*
 *://*.yanimizdahalkinbankasi.com/*
+*://*.yanimizrahat.cfd/*
 *://*.yaninda-kazanan-herkese-mutluluk-geldi.com/*
 *://*.yaninda-olanlar-cebinize-yakisiyor-burada.com/*
 *://*.yaninda.app/*
