@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-21 01:54:22 UTC
-! Total: 362957 rules
+! Last modified: 2026-05-21 05:58:12 UTC
+! Total: 362967 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -36179,6 +36179,7 @@
 *://*.arzumindirimleri.com/*
 *://*.arzumnova.xyz/*
 *://*.arzumokka.online/*
+*://*.arzumprime.xyz/*
 *://*.arzumverse.xyz/*
 *://*.as-aidatt-iade.ml/*
 *://*.as-pttgov.top/*
@@ -63751,6 +63752,7 @@
 *://*.bodyclassics.org/*
 *://*.bodycommon.top/*
 *://*.bodydetergent.top/*
+*://*.bodyfishsidewalk.com/*
 *://*.bodyfurnace.top/*
 *://*.bodyhemisphere.top/*
 *://*.bodyprecinct.com.au/*
@@ -126773,6 +126775,7 @@
 *://*.fbasbdasbjfma.net/*
 *://*.fbassociados.com.br/*
 *://*.fbasvuru.com/*
+*://*.fbavarlik.com/*
 *://*.fbc8213450838f7ae251d4519c195138.xyz/*
 *://*.fbc8aef1.net/*
 *://*.fbcatehu.com/*
@@ -145984,6 +145987,7 @@
 *://*.grelonatiku.gifts/*
 *://*.grelvarin.com/*
 *://*.gremonakidu.gifts/*
+*://*.gremonakidux.com/*
 *://*.grempeloksa.pro/*
 *://*.gremscd.pro/*
 *://*.gremsot.pl/*
@@ -148042,6 +148046,7 @@
 *://*.gundemhaber3.site/*
 *://*.gundemhaber4.site/*
 *://*.gundemhaber5.site/*
+*://*.gundemhaberfirsat.com/*
 *://*.gundemhaberi.site/*
 *://*.gundemhaberleri-tr.xyz/*
 *://*.gundemhaberleri.icu/*
@@ -266400,6 +266405,7 @@
 *://*.r4p3.com/*
 *://*.r4uamrr7fueez.cf/*
 *://*.r4uamrr7fueez.ga/*
+*://*.r4xq7mv2.sbs/*
 *://*.r4xservices.com/*
 *://*.r6.nz/*
 *://*.r6bq8yv.cn/*
@@ -268039,6 +268045,7 @@
 *://*.reach457.xyz/*
 *://*.reachalternate.top/*
 *://*.reachclub.net/*
+*://*.reachenit.com/*
 *://*.reachhhack.com/*
 *://*.reachlyx.com/*
 *://*.reachmodern.online/*
@@ -287339,6 +287346,7 @@
 *://*.sitegiris.online/*
 *://*.sitegov1.lat/*
 *://*.siteholder.ru/*
+*://*.siteinfo.shop/*
 *://*.sitekcnnrjsrvpbn.fr/*
 *://*.sitekgms.click/*
 *://*.siteleaf.net/*
@@ -292957,6 +292965,7 @@
 *://*.soulcarelife.org/*
 *://*.soulconceited.top/*
 *://*.soulflaya.xyz/*
+*://*.soulmaywas.shop/*
 *://*.soulopaque.top/*
 *://*.souloverar.best/*
 *://*.soulreaver.at/*
@@ -306093,6 +306102,7 @@
 *://*.testsamuel.click/*
 *://*.testsider.dk/*
 *://*.testswork.ru/*
+*://*.testterms.com/*
 *://*.testtesttest.com/*
 *://*.testtrickle.top/*
 *://*.testtttttttt111.com/*
