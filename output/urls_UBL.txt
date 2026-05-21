@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-21 12:36:57 UTC
-! Total: 362992 rules
+! Last modified: 2026-05-21 16:10:16 UTC
+! Total: 363022 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -58758,6 +58758,7 @@
 *://*.bizmlerandevuislemlerkolaycaaaa.net/*
 *://*.bizmmmliolc.com/*
 *://*.bizmodern.sbs/*
+*://*.bizmora.digital/*
 *://*.bizmsicell.com/*
 *://*.biznesbusteg.click/*
 *://*.biznesplanet-bnpparlba.com/*
@@ -65162,6 +65163,7 @@
 *://*.bpecuniaimmobili.xyz/*
 *://*.bpee.pw/*
 *://*.bpelgdqadbrcnjb.cn/*
+*://*.bpfi.digital/*
 *://*.bpgirisadresi.art/*
 *://*.bphwnhffrhuvmxsgi.me/*
 *://*.bpimcell.com/*
@@ -66036,6 +66038,7 @@
 *://*.bronwynhayward46357.xyz/*
 *://*.bronzalti.xyz/*
 *://*.bronze457.xyz/*
+*://*.bronzelocker.bond/*
 *://*.broo21msoup.top/*
 *://*.broodaptly.top/*
 *://*.broodexemption.top/*
@@ -71918,6 +71921,7 @@
 *://*.canimturkiye.cyou/*
 *://*.canimulkemturkiyem.com/*
 *://*.canimyrkmycc.com/*
+*://*.canine-vers.xyz/*
 *://*.caninelerister.ga/*
 *://*.canister7.xyz/*
 *://*.canizizrrim.net/*
@@ -87204,6 +87208,7 @@
 *://*.dailydownloads.net/*
 *://*.dailyemploy.com/*
 *://*.dailyflare.world/*
+*://*.dailyflash.online/*
 *://*.dailyflash.today/*
 *://*.dailyflash.world/*
 *://*.dailyfront.digital/*
@@ -87855,6 +87860,7 @@
 *://*.dava-sorgula.com/*
 *://*.davabilgi.org/*
 *://*.davabilgilendirme.site/*
+*://*.davabirimi.org/*
 *://*.davaceza.com/*
 *://*.davaceza.net/*
 *://*.davacezalari.com/*
@@ -94498,6 +94504,7 @@
 *://*.designloop.top/*
 *://*.designloose.click/*
 *://*.designlq.com/*
+*://*.designly.gifts/*
 *://*.designnest.gifts/*
 *://*.designordie.ca/*
 *://*.designqueen.cn/*
@@ -94544,6 +94551,7 @@
 *://*.desktops-download-pc.com/*
 *://*.desktops-downloads-app.com/*
 *://*.desktops-pc-download.com/*
+*://*.deskvakfi.com/*
 *://*.deskvakfi.org/*
 *://*.desmalazooor.cyou/*
 *://*.desmkedltd.online/*
@@ -102969,6 +102977,7 @@
 *://*.dz0.top/*
 *://*.dz3zmcv4ju.top/*
 *://*.dzanhua.com/*
+*://*.dzbank.capital/*
 *://*.dzbmcxzbmnk.com/*
 *://*.dzelonline.shop/*
 *://*.dzfiyobc.com/*
@@ -126783,6 +126792,7 @@
 *://*.fbassociados.com.br/*
 *://*.fbasvuru.com/*
 *://*.fbavarlik.com/*
+*://*.fbavarlikmenkul.com/*
 *://*.fbc8213450838f7ae251d4519c195138.xyz/*
 *://*.fbc8aef1.net/*
 *://*.fbcatehu.com/*
@@ -134008,6 +134018,8 @@
 *://*.frsattayzbir.com/*
 *://*.frsattemmzkacmaz1o1.com/*
 *://*.frsattlrrbzlll.org/*
+*://*.frsattsonnnbsvrrkmpnyyaaa.art/*
+*://*.frsattsonnnbsvrrkmpnyyaaa.click/*
 *://*.frsattttlarkappidangitmezzzz.online/*
 *://*.frsatzmani.cfd/*
 *://*.frsbasvrkmpnykatlm.com.tr/*
@@ -138951,6 +138963,7 @@
 *://*.gecis3dodeme3d.xyz/*
 *://*.gecisadresi.net/*
 *://*.gecisavhizliihlal.bond/*
+*://*.gecisbakiycis.lat/*
 *://*.gecisbakiyeyukle.xyz/*
 *://*.gecisbildiri-websis.icu/*
 *://*.gecisbilgi-ihlalsis.icu/*
@@ -147166,6 +147179,7 @@
 *://*.guide-gemini.com/*
 *://*.guideability.top/*
 *://*.guideappraisal.top/*
+*://*.guidelin.com/*
 *://*.guidelineencyclopaedia.top/*
 *://*.guidelinelubricate.top/*
 *://*.guidelineregiment.top/*
@@ -165764,6 +165778,7 @@
 *://*.hizligecisistemi-yukleme.com/*
 *://*.hizligecisistemi.com/*
 *://*.hizligecisistemi.online/*
+*://*.hizligecisistemi.sbs/*
 *://*.hizligecisistemiodeme.net/*
 *://*.hizligecisistemiyukleniyap.ml/*
 *://*.hizligecisistemleri-tr.net/*
@@ -175039,6 +175054,7 @@
 *://*.iklok.us/*
 *://*.ikmoqn.cfd/*
 *://*.ikmtrust.com/*
+*://*.iknmusteri.online/*
 *://*.iknowaustinhom.com.tr/*
 *://*.iknowaustinhom.xyz/*
 *://*.iknowaustinhomes.com.tr/*
@@ -175392,6 +175408,7 @@
 *://*.ilanim-odemelerim.com/*
 *://*.ilanim-onay-762211.com/*
 *://*.ilanim-onay-762212.com/*
+*://*.ilanim-onay-762213.com/*
 *://*.ilanim-ozel.com/*
 *://*.ilanim-ozelsepetim.com/*
 *://*.ilanim-pttavm.com/*
@@ -185233,6 +185250,8 @@
 *://*.istanbulcardbakiyem.net/*
 *://*.istanbulcardx.net/*
 *://*.istanbulcihangir3d.xyz/*
+*://*.istanbulcokoolaya.xyz/*
+*://*.istanbulcokoolayd.xyz/*
 *://*.istanbulcokpardon.net/*
 *://*.istanbulcscac.net/*
 *://*.istanbulcubakim.pro/*
@@ -185251,6 +185270,7 @@
 *://*.istanbuldasin.net/*
 *://*.istanbuldasin.site/*
 *://*.istanbuldayapilan.shop/*
+*://*.istanbuldaynasilharvr.sbs/*
 *://*.istanbuldazipla.shop/*
 *://*.istanbulddollmyeri.net/*
 *://*.istanbuldealflow.com/*
@@ -205816,6 +205836,7 @@
 *://*.kredibasvurunkuveytt-tr.com/*
 *://*.kredibasvuruonaymerkezi.live/*
 *://*.kredibasvuruonaymerkezi.net/*
+*://*.kredibasvuruonline.click/*
 *://*.kredibasvuruonline.com.tr/*
 *://*.kredibasvuruonline.sbs/*
 *://*.kredibasvuruportal.club/*
@@ -216479,6 +216500,7 @@
 *://*.marketlerzincirindefirsatlar.icu/*
 *://*.marketlerzincirindefirsatlar.sbs/*
 *://*.marketlink.space/*
+*://*.marketlino.digital/*
 *://*.marketlynx.store/*
 *://*.marketmagazaorla.com/*
 *://*.marketmagazazinciri.com/*
@@ -230885,6 +230907,7 @@
 *://*.nemkslkfskf.net/*
 *://*.nemo9.website/*
 *://*.nemoclin.com/*
+*://*.nemoine.shop/*
 *://*.nemojmob.online/*
 *://*.nemosexpresscarwash.com/*
 *://*.nemplomentt.top/*
@@ -254109,6 +254132,7 @@
 *://*.philipxturner.com/*
 *://*.philkassa-spb.com/*
 *://*.philliesmgir.pw/*
+*://*.phillipcapital-trd.com/*
 *://*.phillipcapitaltrade.com/*
 *://*.phillipis.cfd/*
 *://*.phillips679.xyz/*
@@ -301318,6 +301342,7 @@
 *://*.tapprandevum.click/*
 *://*.taprananivum.online/*
 *://*.taprananivume.online/*
+*://*.taprnfbvsudhzusd.store/*
 *://*.taprnrsbhziemtleburs.store/*
 *://*.taprnsdhrbsudsd.store/*
 *://*.taprnsdhrsdbsudsd.store/*
@@ -313012,6 +313037,7 @@
 *://*.trakwebdecep.com/*
 *://*.trakyadabizhaliyikamaci.site/*
 *://*.trakyadernegi.com/*
+*://*.tralalarkefe.com/*
 *://*.tralisveris.com.tr/*
 *://*.tralisverisim.com/*
 *://*.tralisverislerim.shop/*
@@ -320496,6 +320522,7 @@
 *://*.tuvturk-randevularim.net/*
 *://*.tuvturk-randevusistemi.net/*
 *://*.tuvturk-rd.digital/*
+*://*.tuvturk-rov.com/*
 *://*.tuvturk-sorgul4m4-alaxninizmu4yne.net/*
 *://*.tuvturk-sorgul4m4-alaxninvisfldks.net/*
 *://*.tuvturk-ss.app/*
@@ -325316,6 +325343,7 @@
 *://*.uzlasmasorgunuz.com/*
 *://*.uzlasmasorguportal.org/*
 *://*.uzlasmasorgusumaliye.com/*
+*://*.uzlasmasorgutr.com/*
 *://*.uzlasmasorgutr.net/*
 *://*.uzlasmasorusturmamaliye.com/*
 *://*.uzlasmatakip.com/*
@@ -336456,6 +336484,7 @@
 *://*.webwatch.world/*
 *://*.webwebegovdvtr.net/*
 *://*.webwebegovdvtr.org/*
+*://*.webwise.vu/*
 *://*.webwww-cepsubeleri-qnbfinansbank-com.tk/*
 *://*.webwww-cepsubem-qnbfinansbank-yeni-com.tk/*
 *://*.webwww-denizbank-yenilenen-cepsubem-com.tk/*
@@ -346845,6 +346874,7 @@
 *://*.xn--guzel-kampanyalar-son-gun-ihc.xyz/*
 *://*.xn--gvenbizeistanbul-jzb.net/*
 *://*.xn--gvendeparam-thb.com.tr/*
+*://*.xn--gvenfinans24-dlb.com/*
 *://*.xn--gvenleodetr-thb.com/*
 *://*.xn--gvenlialisveris-get-tr-slc.com/*
 *://*.xn--gvenlideme-jcb0e.com.tr/*
