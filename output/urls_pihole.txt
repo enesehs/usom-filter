@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-21 22:07:42 UTC
-# Toplam: 455473 Domain
+# Son Güncelleme: 2026-05-21 23:45:38 UTC
+# Toplam: 455485 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -78396,6 +78396,7 @@ bizlereozelfirsatlarsimdiyayinda.online
 bizlereozelkampanyalarguncel.com.tr
 bizlereozelkampanyalarguncel.xyz
 bizlereulasipbilgisaglayinavislenin.net
+bizlerhepburadankalin.com
 bizlerhizmeticinvariz20.com
 bizleri-sizleri-burada-mutlu-etmek-icin-dusunuyoruz-songun.com
 bizlericin.com
@@ -272525,6 +272526,7 @@ merkezibank.com
 merkezibankasi.com
 merkezibasvuru.misecure.com
 merkezibilgilendirmesistemi.com
+merkezibilgileri.com
 merkezibilgisistemi.com
 merkezicezaodeme.sg-host.com
 merkezicuzdaninaylamamerkeziozelonline.run.place
@@ -298329,6 +298331,7 @@ onelineodeqmerlm.ml
 onelivedrv.com
 oneliveforcopser.com
 onelove03.duckdns.org
+onem-loft-sofisgrn.myonlineportal.ch
 onemanforest.com
 onemascot.com
 onemasterscorer.com
@@ -302761,6 +302764,7 @@ onlyscaredivideriot.top
 onlysportsfitnessam.com
 onlystage.top
 onlysvrkvr.click
+onlytaste.site
 onlythefamily.ddns.net
 onlyturkish.cc
 onlyturkish.online
@@ -317658,6 +317662,7 @@ pokimokito.xyz
 pokis-to.hopto.org
 poko.b-cdn.net
 pokshd654.duckdns.org
+pokushokus.xyz
 pol.motorcyclesonthehighway.com
 pol.vm-clouds.net
 pol155polisi.online
@@ -319220,6 +319225,7 @@ ppupkjacmazbavl.com
 pputy.com
 ppuueefgdnyb.xyz
 ppv4ifm.duckdns.org
+ppvagirisgoniz1ernenutrapp.space
 ppvarekllarngirisdijitall80yill.space
 ppwng.zapto.org
 ppxmu9.duckdns.org
@@ -340765,6 +340771,7 @@ s0kfrsatbtmezbizde.com
 s0kfrsatbziimlehizlaa.com
 s0kfrstlkmcmmcmzkflrmsmc.store
 s0kkta-firstlrm.net
+s0kmalrketller.shop
 s0kyilbasialdinaldin.org
 s0mh58307lop1t1vo6oda2c.ddns.net
 s0mzamangldi1br0d1a.com
@@ -360468,6 +360475,7 @@ sitem12.ga
 sitemails.info
 sitemangarlandconsulting.com
 sitemaps.baykar-news.info
+sitemegit.cfd
 sitemegit.click
 sitemimsanadoktor.xyz
 sitemobilsube.com
@@ -363096,6 +363104,7 @@ soa5r8n.duckdns.org
 soa7.zapto.org
 soaaujn7gg.storage.googleapis.com
 soadaarlar.online
+soadlakadsa.shop
 soakantagonism.top
 soakascendance.top
 soakexponential.top
@@ -375533,6 +375542,7 @@ sxalimxrketim32.com
 sxaplutn.com
 sxatqwee.tk
 sxavanx.sxtxaxr-dxrxmxler.xyz
+sxaxsafgdgsad.sbs
 sxbzsistemi.wiki
 sxcdsssqqsderff.duckdns.org
 sxdbimcell.com
@@ -432526,6 +432536,7 @@ xahutxrjun.duckdns.org
 xaidatlariiadeniz.com
 xainfo3fa.xyz
 xaitwoe.com
+xaj1k23xjksadkl12.cfd
 xaj1k23xjksadkl12.cyou
 xajx5x6e.duckdns.org
 xajyzwjks.com
@@ -450563,6 +450574,7 @@ zamanindahaber.website
 zamanindayukle.sg-host.com
 zamaninguctusevinyasan.xyz
 zamaninnazikdokunusu.com
+zamaninotesinde.click
 zamaninyenikusu.online
 zamaninyonleri.online
 zamaniyilik.com
