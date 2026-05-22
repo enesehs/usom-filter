@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-22 05:55:53 UTC
-# Toplam: 455508 Domain
+# Son Güncelleme: 2026-05-22 08:45:05 UTC
+# Toplam: 455519 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -38621,6 +38621,7 @@ akbireyselbasvuurr.com
 akbireyselekim.com
 akbireyselesel.xyz
 akbireyselhizmetler.com
+akbireyselislemkanali.duckdns.org
 akbireyselmobil50yilozel.online
 akbiryslkmpnya.com
 akbizmezbitemez.com
@@ -45117,6 +45118,7 @@ ambitionjiciary.top
 ambitiouslogistical.top
 ambitiousradiate.top
 ambiusjue.top
+ambivalencesmislabor.site
 amblecorrelativ.top
 ambofue.pro
 ambrogiauto.com
@@ -143901,6 +143903,7 @@ efsanefirsatlarbrda.com
 efsanefirsatlarinizizinhepsismdiburda.duckdns.org
 efsanefirsatlarsimdiayaginizageldihemenal.xyz
 efsanefirsatlarsimdibayramaozel.xyz
+efsanefirsatlartektikla.com
 efsaneflrsatlarikacirma8agustos.duckdns.org
 efsaneflrsatlarkacmaz.duckdns.org
 efsanefrstlar1o1kapinda.shop
@@ -205793,6 +205796,7 @@ hizligecisalimmerkezi.sg-host.com
 hizligecisbakiyemerkezi.web.app
 hizligecisbakiyeniz.firebaseapp.com
 hizligecisbakiyeniz.web.app
+hizligecisbays.lat
 hizligecisbizimlegelsene.blogspot.com
 hizligecisbizimleglsene.blogspot.com
 hizligecisburada.xyz
@@ -205860,6 +205864,7 @@ hizligecislerodemeler.blogspot.com
 hizligecislerodemelerorg.blogspot.com
 hizligecislerotomatikodemelerindirimli.net
 hizligecisleyiz.blogspot.com
+hizligecislimuzin.lat
 hizligecislme.net
 hizligecismarketi.com
 hizligecismerkezi.com
@@ -247396,6 +247401,7 @@ kepadresaktiflestirme.net
 kepadresbilgilerim.com
 kepadresdogrulama.com
 kepadresguncel.com
+kepadresiguncel.com
 kepadresim-aktif.com
 kepadresim-guncel.com
 kepadresim-tekno-sa.com
@@ -254149,6 +254155,7 @@ kreadivstudios.com
 krealbimcell.xyz
 kreatif-destek.com
 kreatingcslosina.net
+kreautopagne.de
 krebashem.pw
 krebi.aldinal3din.sa.com
 krebsec.anondns.net
@@ -293127,6 +293134,7 @@ nvirande.org
 nvirandervum.net
 nvirandeuv.blogspot.com
 nvirandev.com
+nvirandev.org
 nvirandevhmzetixtwtz.net
 nvirandevksykldklfdls.net
 nvirandevskdkyjfklds.net
@@ -337233,6 +337241,7 @@ rf6cy1.duckdns.org
 rf8w28k.duckdns.org
 rf9z40.cn
 rfa.ink
+rfalimobiliaria.com
 rfamk8ic.duckdns.org
 rfapn.duckdns.org
 rfaqzh.duckdns.org
@@ -348989,6 +348998,7 @@ scootkey.xyz
 scope-chat.xyz
 scopecommoran.top
 scopecorrosion.top
+scopetoday.click
 score-adams-coastal-moreover.trycloudflare.com
 score-told.craft.ply.gg
 score-youraccount.info
@@ -406195,6 +406205,7 @@ uxeeft.duckdns.org
 uxeph50th.duckdns.org
 uxeqbeqiifo.ddns.net
 uxfjl.cn
+uxgbyieldwscz.com
 uxgdcrybig.duckdns.org
 uxgsttvkksbm.online
 uxhyqbmalm.duckdns.org
