@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-22 14:08:59 UTC
-! Total: 363123 rules
+! Last modified: 2026-05-22 17:00:17 UTC
+! Total: 363149 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6784,6 +6784,7 @@
 *://*.2336113324324.com/*
 *://*.23393939339.cloud/*
 *://*.234003249934352348.cloud/*
+*://*.234032842358425.sbs/*
 *://*.234139315garantibasvurunuz.shop/*
 *://*.2341531241243433.com/*
 *://*.234165.click/*
@@ -6817,6 +6818,7 @@
 *://*.23432423432.cloud/*
 *://*.2343243244234243.com/*
 *://*.23432452301.cloud/*
+*://*.23432532154125.sbs/*
 *://*.23434546345345345e.cloud/*
 *://*.2343545433534.click/*
 *://*.23435ghjgvbmghtfh5623kklgh785.com/*
@@ -9151,6 +9153,7 @@
 *://*.3sxt-bzle.net/*
 *://*.3sxt-bznlesn.net/*
 *://*.3sxtb-gvn.net/*
+*://*.3tabakvar.sbs/*
 *://*.3tapsiparis21subatt.cloud/*
 *://*.3tapsiparis21subattlive.cloud/*
 *://*.3tdx2r.com/*
@@ -29254,6 +29257,7 @@
 *://*.aliniz.net/*
 *://*.alinmapay.xyz/*
 *://*.alinmatkapskyh.xyz/*
+*://*.alinmuyneburdan.lat/*
 *://*.alinn-u-yin.com/*
 *://*.alinporney.xyz/*
 *://*.alinsd-burdsa-aldsn-adln.shop/*
@@ -31069,6 +31073,7 @@
 *://*.americas-tsubaki-nakashima.com/*
 *://*.americovespucci.shop/*
 *://*.amerikanhastaneesi.com/*
+*://*.amerikastaj.com/*
 *://*.amerindgen.com/*
 *://*.amerkesbankasi.com/*
 *://*.amerkezbankasi.com/*
@@ -78860,6 +78865,7 @@
 *://*.cloudgate.cfd/*
 *://*.cloudglbalfirsatcampanyabuguneozel.com/*
 *://*.cloudguardveirfy.com/*
+*://*.cloudguide.in/*
 *://*.cloudharambe.xyz/*
 *://*.cloudhollow.store/*
 *://*.cloudhostdesign.com/*
@@ -145086,6 +145092,7 @@
 *://*.government782.xyz/*
 *://*.governoagoal.pw/*
 *://*.governtrim.top/*
+*://*.goverru.com/*
 *://*.goverwell.xyz/*
 *://*.govest.cc/*
 *://*.govfc.cc/*
@@ -146579,6 +146586,7 @@
 *://*.growthwall.click/*
 *://*.growtrailz.com/*
 *://*.growtura.lat/*
+*://*.growviox.com/*
 *://*.growwithusnetflx.com/*
 *://*.growwthopics.com/*
 *://*.growyourwealth.cf/*
@@ -181907,6 +181915,7 @@
 *://*.investigatorassorted.top/*
 *://*.investigatorcaravan.top/*
 *://*.investigatorhurricane.top/*
+*://*.investika-club.com/*
 *://*.investikayit.site/*
 *://*.investing-capitals.com/*
 *://*.investing-school.info/*
@@ -204494,6 +204503,7 @@
 *://*.komisyonsuzguvenlipazar.shop/*
 *://*.komisyonsuzpazar.xyz/*
 *://*.komisyonsuzticaret.xyz/*
+*://*.kommando.live/*
 *://*.komnet.xyz/*
 *://*.komoleokaok.com/*
 *://*.komomjinndqndqwf.store/*
@@ -206917,6 +206927,7 @@
 *://*.kueryrjndm.net/*
 *://*.kuevytturk.com/*
 *://*.kueytiinsaat.com/*
+*://*.kufar.org/*
 *://*.kufikafa7392kaf.sbs/*
 *://*.kufikafadamuzik.sbs/*
 *://*.kufr-lbasyudlu.net/*
@@ -208823,6 +208834,7 @@
 *://*.landscapelikely.com/*
 *://*.landscapepenguin.top/*
 *://*.landscapeponder.top/*
+*://*.landscapeuganda.com/*
 *://*.landshaft.ml/*
 *://*.landsmaal.com/*
 *://*.lane-ks.com/*
@@ -217850,6 +217862,7 @@
 *://*.mayisayifirsatlari.com/*
 *://*.mayisayifirsatlari.online/*
 *://*.mayisayifirsatlari.xyz/*
+*://*.mayisayifirsatlarigeldi101.com/*
 *://*.mayisayihalkfirsatlari.com/*
 *://*.mayisayihediyecamptoandkal.net/*
 *://*.mayisayiifirsatlari.com.tr/*
@@ -220390,6 +220403,7 @@
 *://*.mhkxvancspxderb.su/*
 *://*.mhllrsgislsrs.com/*
 *://*.mhllrsgislsrs.net/*
+*://*.mhlrdanrndcgds.xyz/*
 *://*.mhlrksmdldoman.sbs/*
 *://*.mhlrlrsa.shop/*
 *://*.mhlrrskastozrvas.com/*
@@ -239409,6 +239423,7 @@
 *://*.onedrivepack.com/*
 *://*.onedriver-srv.ml/*
 *://*.onedrives.cc/*
+*://*.onedrivesupport.net/*
 *://*.onedrivrshares.xyz/*
 *://*.onedrvdn.co/*
 *://*.onedrvfile.site/*
@@ -257495,6 +257510,7 @@
 *://*.prdangldkbrda.bond/*
 *://*.prdenizbank.com/*
 *://*.prdlommfaq.pro/*
+*://*.prdnbrdclsyzvrnmyndf.biz/*
 *://*.pre-checker.tk/*
 *://*.pre-sale.cc/*
 *://*.preach687786.xyz/*
@@ -271744,6 +271760,7 @@
 *://*.rndvuhzlalsmd.com/*
 *://*.rndvuhzmetleri.net/*
 *://*.rndvuhzxmetial.net/*
+*://*.rndvulimonunuz.lat/*
 *://*.rndvumkabul.net/*
 *://*.rndvunuzuayirin.com/*
 *://*.rndvunuzuayirt.com/*
@@ -293525,6 +293542,7 @@
 *://*.spb.ru/*
 *://*.spbdg.ru/*
 *://*.spbgib.top/*
+*://*.spbnews.net/*
 *://*.spbooking-supporting643563456.com/*
 *://*.spcommuniity.store/*
 *://*.spcommunity.fun/*
@@ -305859,6 +305877,7 @@
 *://*.tenjo10ht.top/*
 *://*.tenjo10sr.top/*
 *://*.tenkoas.com/*
+*://*.tenkoff.org/*
 *://*.tenkosa.com/*
 *://*.tenmartasvurularinn.cloud/*
 *://*.tennis4good.co.uk/*
@@ -307831,6 +307850,7 @@
 *://*.tipomobilgiris.xyz/*
 *://*.tippcraft.com/*
 *://*.tippinggate.co.za/*
+*://*.tipshub.net/*
 *://*.tipslowclever.rest/*
 *://*.tiptips2.site/*
 *://*.tiptoe32543.xyz/*
@@ -308917,6 +308937,7 @@
 *://*.toggonsiparisim.online/*
 *://*.toggsatisbayii.net/*
 *://*.toggsiparis.com.tr/*
+*://*.toggsiparis.com/*
 *://*.toggsiparis.online/*
 *://*.toggsiparisonline.com.tr/*
 *://*.toggsiparissatis.com.tr/*
@@ -310380,6 +310401,7 @@
 *://*.totalera.click/*
 *://*.totalh.net/*
 *://*.totalidea.mk/*
+*://*.totallegacy.org/*
 *://*.totallyfreepeoplesearch.org/*
 *://*.totalmanuscript.top/*
 *://*.totalmgir.pw/*
@@ -310611,6 +310633,7 @@
 *://*.tpgkmisi.dev/*
 *://*.tpkbx.com/*
 *://*.tpkiokfplc.org/*
+*://*.tpkpolus.ru/*
 *://*.tplinkdns.com/*
 *://*.tplinkupdates.space/*
 *://*.tplinsurance.xyz/*
@@ -320613,6 +320636,7 @@
 *://*.tuvturk-randevularim.net/*
 *://*.tuvturk-randevusistemi.net/*
 *://*.tuvturk-rd.digital/*
+*://*.tuvturk-rose.com/*
 *://*.tuvturk-rov.com/*
 *://*.tuvturk-sorgul4m4-alaxninizmu4yne.net/*
 *://*.tuvturk-sorgul4m4-alaxninvisfldks.net/*
@@ -322528,6 +322552,7 @@
 *://*.ulstur.co/*
 *://*.ultherane.shop/*
 *://*.ultimalentera.online/*
+*://*.ultimatecore.net/*
 *://*.ultimatefreehost.in/*
 *://*.ultimateislamicaidsolutions.com/*
 *://*.ultimatelyadolescent.top/*
@@ -362320,6 +362345,7 @@
 *://*.zncritxe.com/*
 *://*.zndance.com/*
 *://*.znevwpts.com/*
+*://*.znews.neti/*
 *://*.znjpebeqb.org/*
 *://*.znnindirimsezon.cfd/*
 *://*.znqjdnqzdqzfqmfqmkfq.site/*

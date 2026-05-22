@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-22 14:08:59 UTC
-# Toplam: 455577 Domain
+# Son Güncelleme: 2026-05-22 17:00:17 UTC
+# Toplam: 455605 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9500,6 +9500,7 @@
 23393939339.cloud
 233comm-bank.ddns.net
 234003249934352348.cloud
+234032842358425.sbs
 234139315garantibasvurunuz.shop
 2341531241243433.com
 234165.click
@@ -9536,6 +9537,7 @@
 23432423432.cloud
 2343243244234243.com
 23432452301.cloud
+23432532154125.sbs
 23434546345345345e.cloud
 2343545433534.click
 23435ghjgvbmghtfh5623kklgh785.com
@@ -13459,6 +13461,7 @@
 3t5f4tccn.duckdns.org
 3t5z5n.duckdns.org
 3t8g5l.duckdns.org
+3tabakvar.sbs
 3tapsiparis21subatt.cloud
 3tapsiparis21subattlive.cloud
 3tc6f49f8.duckdns.org
@@ -43142,6 +43145,7 @@ aliniz.net
 alinmapay.xyz
 alinmasicingerekli.za.com
 alinmatkapskyh.xyz
+alinmuyneburdan.lat
 alinporney.xyz
 alinsd-burdsa-aldsn-adln.shop
 alionm.zapto.org
@@ -45305,6 +45309,7 @@ americanwestmedia.com
 americas-tsubaki-nakashima.com
 americovespucci.shop
 amerikanhastaneesi.com
+amerikastaj.com
 amerkesbankasi.com
 amerkezbankasi.com
 amerkiiler.ddns.net
@@ -102757,6 +102762,7 @@ cloudfront.site
 cloudglbalfirsatcampanyabuguneozel.com
 cloudguardins.ru.com
 cloudguardveirfy.com
+cloudguide.in
 cloudharambe.xyz
 cloudharbor-app239.vercel.app
 cloudharbor-ext664.vercel.app
@@ -162645,6 +162651,7 @@ firsaattttmarketsokmarkeett.duckdns.org
 firsadaasdsadaaruar.cfd
 firsadadadaatlaruar.cfd
 firsado.click
+firsai.tipshub.net
 firsakarcara.duckdns.org
 firsalarsizlerlednzkatil.xyz
 firsaltar.sg-host.com
@@ -181992,6 +181999,7 @@ governoagoal.pw
 governor.sa.com
 governorromrunworkbyvbsubmitworrkddayforlong.ydns.eu
 governtrim.top
+goverru.com
 goverwell.xyz
 govest.cc
 govger.ddns.net
@@ -183800,6 +183808,7 @@ growthwall.click
 growtopiaheys.duckdns.org
 growtrailz.com
 growtura.lat
+growviox.com
 growwithusnetflx.com
 growwthopics.com
 growyourwealth.cf
@@ -224805,6 +224814,7 @@ investigatorassorted.top
 investigatorcaravan.top
 investigatorhurricane.top
 investigators-boxing-trademark-threatened.trycloudflare.com
+investika-club.com
 investing-capitals.com
 investing-school.info
 investing-top2.offersallcpa.com
@@ -252792,6 +252802,7 @@ komisyonsuzpazar.xyz
 komisyonsuzticaret.xyz
 komisyonyok.sg-host.com
 komiticento.ddns.net
+kommando.live
 komnet.xyz
 komoleokaok.com
 komomjinndqndqwf.store
@@ -255764,6 +255775,7 @@ kueryrjndm.net
 kuevytturk.22web.org
 kuevytturk.com
 kueytiinsaat.com
+kufar.org
 kufikafa7392kaf.sbs
 kufikafadamuzik.sbs
 kufpn.duckdns.org
@@ -258312,6 +258324,7 @@ landscapeextraction.top
 landscapelikely.com
 landscapepenguin.top
 landscapeponder.top
+landscapeuganda.com
 landshaft.ml
 landsmaal.com
 lane-ks.com
@@ -270454,6 +270467,7 @@ mayisayifirsatlari.com
 mayisayifirsatlari.com.tr
 mayisayifirsatlari.online
 mayisayifirsatlari.xyz
+mayisayifirsatlarigeldi101.com
 mayisayihalkfirsatlari.com
 mayisayihediyecamptoandkal.net
 mayisayiifirsatlari.com.tr
@@ -273692,6 +273706,7 @@ mhlks1uu.duckdns.org
 mhllrsgislsrs.com
 mhllrsgislsrs.net
 mhlmrsnzslere.mooo.com
+mhlrdanrndcgds.xyz
 mhlrksmdldoman.sbs
 mhlrlrsa.shop
 mhlrrskastozrvas.com
@@ -298336,6 +298351,7 @@ onedriver-srv.ml
 onedrives.cc
 onedriveshar.hopto.org
 onedrivess.ddns.net
+onedrivesupport.net
 onedriveupdate.publicvm.com
 onedrivework.zapto.org
 onedrivrshares.xyz
@@ -301347,6 +301363,7 @@ onlineislemler-ailevesosyal.com
 onlineislemler-bimcell.net
 onlineislemler-buguneozelbasvuru.com
 onlineislemler-buguneozelbasvuru.globalislemlerehemensimdibasvurun.com
+onlineislemler-canliyardim.duckdns.org
 onlineislemler-en-para.com
 onlineislemler-en-para.net
 onlineislemler-en-para.org
@@ -307824,6 +307841,7 @@ palestrand.top
 paletolife.com
 paletsirih.com
 paleturquoise-crow-440042.hostingersite.com
+paleturquoise-dragonfly-364512.hostingersite.com
 palevioletred-seahorse-695827.hostingersite.com
 paley.zapto.org
 palifaxbul.com
@@ -319847,6 +319865,7 @@ prdangldkbrda.bond
 prdanjana01.ddnsfree.com
 prdenizbank.com
 prdlommfaq.pro
+prdnbrdclsyzvrnmyndf.biz
 pre-checker.tk
 pre.alwayswait.site
 pre.giize.com
@@ -338281,6 +338300,7 @@ rndvuhmn.b-cdn.net
 rndvuhzlalsmd.com
 rndvuhzmetleri.net
 rndvuhzxmetial.net
+rndvulimonunuz.lat
 rndvumak.b-cdn.net
 rndvumkabul.b-cdn.net
 rndvumkabul.net
@@ -367519,6 +367539,7 @@ spb-bekosupport.ru
 spb.clayfenrirhuy.top
 spbdg.ru
 spbgib.top
+spbnews.net
 spbooking-supporting643563456.com
 spcg.lunaticfridge.com
 spcommuniity.store
@@ -383218,6 +383239,7 @@ tenisairconfort.site
 tenjo10ht.top
 tenjo10sr.top
 tenkoas.com
+tenkoff.org
 tenkosa.com
 tenmartasvurularinn.cloud
 tennis4good.co.uk
@@ -387082,6 +387104,7 @@ toggonsatis.site
 toggonsiparisim.online
 toggsatisbayii.net
 toggsbasvurular.hopto.org
+toggsiparis.com
 toggsiparis.com.tr
 toggsiparis.online
 toggsiparisonline.com.tr
@@ -389078,6 +389101,7 @@ totalfudpano.zapto.org
 totalgp.ddns.net
 totalh.net
 totalidea.mk
+totallegacy.org
 totallyfreepeoplesearch.org
 totallylegit.duckdns.org
 totallysafe.duckdns.org
@@ -389359,6 +389383,7 @@ tpic.seoajansi.net
 tpkbx.com
 tpkezugavs.duckdns.org
 tpkiokfplc.org
+tpkpolus.ru
 tplgbykeba.duckdns.org
 tpliecrnmk.duckdns.org
 tplinkforward.ddns.net
@@ -400703,6 +400728,7 @@ tuvturk-randevual.net
 tuvturk-randevularim.net
 tuvturk-randevusistemi.net
 tuvturk-rd.digital
+tuvturk-rose.com
 tuvturk-rov.com
 tuvturk-sorgul4m4-alaxninizmu4yne.net
 tuvturk-sorgul4m4-alaxninvisfldks.net
@@ -403349,6 +403375,7 @@ ulstur.co
 ult6xfm9.duckdns.org
 ultherane.shop
 ultimalentera.online
+ultimatecore.net
 ultimateislamicaidsolutions.com
 ultimatelyadolescent.top
 ultimatelyapron.top
@@ -454327,6 +454354,7 @@ zncritxe.com
 zndance.com
 znets.ddns.net
 znevwpts.com
+znews.neti
 znfrisgvmnt.ddns.net
 znga8x3.duckdns.org
 znj1x3y3p76fu.bwakal.ru
