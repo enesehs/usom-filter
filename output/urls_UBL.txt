@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-22 17:00:17 UTC
-! Total: 363149 rules
+! Last modified: 2026-05-22 18:54:20 UTC
+! Total: 363159 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -10400,6 +10400,7 @@
 *://*.543535345001.cloud/*
 *://*.54354354343.cloud/*
 *://*.5435934934.cloud/*
+*://*.543765423.net/*
 *://*.54389573489.xyz/*
 *://*.543902-coinbase.com/*
 *://*.5439271.net/*
@@ -46401,6 +46402,7 @@
 *://*.bayramfirsatlari-a101.online/*
 *://*.bayramfirsatlari.com/*
 *://*.bayramfirsatlari.net/*
+*://*.bayramfirsatlari.online/*
 *://*.bayramfirsatlari.shop/*
 *://*.bayramfirsatlari.top/*
 *://*.bayramfirsatlaria1o1deee.shop/*
@@ -185769,6 +185771,7 @@
 *://*.istanbulsistemibb.net/*
 *://*.istanbulsizinizindjddd.com/*
 *://*.istanbulsizlakdarhemarim.shop/*
+*://*.istanbulsizlerle900.shop/*
 *://*.istanbulsizlerleolurvarim.shop/*
 *://*.istanbulskart.net/*
 *://*.istanbulskartsbasvuru.com/*
@@ -212320,6 +212323,7 @@
 *://*.lopolasfba.online/*
 *://*.lopornix.ru/*
 *://*.loppo.host/*
+*://*.loprdasdmngdsa.biz/*
 *://*.loqahpj.com/*
 *://*.loraninkikapliyms.net/*
 *://*.loraninvergspualmark.net/*
@@ -215226,6 +215230,7 @@
 *://*.malidava.org/*
 *://*.malidosya.net/*
 *://*.malidosyalarim.org/*
+*://*.maliegm.net/*
 *://*.maliegm.org/*
 *://*.malifalinali.work/*
 *://*.malignantsymposium.top/*
@@ -221871,6 +221876,7 @@
 *://*.mmhhrhhrhrrs78.sbs/*
 *://*.mmhhrhhrhrrs81.sbs/*
 *://*.mmhhrhhrhrrs9.sbs/*
+*://*.mmhhrhhrhrrs90.sbs/*
 *://*.mmhp.link/*
 *://*.mmhrsnrndvs.net/*
 *://*.mmhrxsranndevv.org/*
@@ -286147,6 +286153,7 @@
 *://*.silce-mikona-isrti.lol/*
 *://*.silcom.com/*
 *://*.silcroadseevers.net/*
+*://*.silemiyosankarala.org/*
 *://*.silencedweller.top/*
 *://*.silenceoffmusic.com/*
 *://*.silenceprotocol.com/*
@@ -297202,6 +297209,7 @@
 *://*.sube-ehalkbank.com/*
 *://*.sube-enparamobilsube.com/*
 *://*.sube-enparamobilsube.ws/*
+*://*.sube-fiba.com/*
 *://*.sube-fibavarlikmenkul.com/*
 *://*.sube-finans.net/*
 *://*.sube-firsat-halk.com/*
@@ -301781,6 +301789,7 @@
 *://*.tasllxwx.click/*
 *://*.tasmambaweb.xyz/*
 *://*.tasmeemgroup.com/*
+*://*.taso1uqxq.cyou/*
 *://*.tasopx.click/*
 *://*.tasopx.xyz/*
 *://*.taspbu.com/*
@@ -356846,6 +356855,7 @@
 *://*.yingguo.top/*
 *://*.yinghuxy.cn/*
 *://*.yinternetbasvuru.com/*
+*://*.yinveyang.sbs/*
 *://*.yinveyannng.net/*
 *://*.yiooolf.tk/*
 *://*.yip.su/*

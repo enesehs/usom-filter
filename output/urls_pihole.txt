@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-22 17:00:17 UTC
-# Toplam: 455605 Domain
+# Son Güncelleme: 2026-05-22 18:54:20 UTC
+# Toplam: 455624 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1296,6 +1296,7 @@
 0n11inegr0upislemenu.com
 0n1inegr0upis1emenu.com
 0n29t3y.duckdns.org
+0n33-onlineislemler.duckdns.org
 0n3tpgxa1.duckdns.org
 0n5blr.duckdns.org
 0n733fbop.duckdns.org
@@ -4525,6 +4526,7 @@
 1421212511245221122590.xyz
 1421212511245221122591.xyz
 142127831123.com
+14214124124.duckdns.org
 14215415445545991.xyz
 14215415445545992.xyz
 14215415445545993.xyz
@@ -15812,6 +15814,7 @@
 5435tldevletdestegi.blogspot.com
 5435tldevletdestegi.co.vu
 5436573545773.duckdns.org
+543765423.net
 54389573489.xyz
 543902-coinbase.com
 5439271.net
@@ -40435,6 +40438,7 @@ aktlmrktn-urnnlrii.com
 aktlndrmx.com
 aktlramadan101.shop
 aktlsdmiserdn.store
+aktlurunler.blogspot.com
 aktmarktindirimi.cfd
 aktmmuzfirsatasa.com
 aktogbasvur2025togbasvuruicin.shop
@@ -64577,6 +64581,7 @@ bayramfirsatiniz.click
 bayramfirsatlari-a101.online
 bayramfirsatlari.com
 bayramfirsatlari.net
+bayramfirsatlari.online
 bayramfirsatlari.shop
 bayramfirsatlari.top
 bayramfirsatlaria1o1deee.shop
@@ -214605,6 +214610,7 @@ ibbbyuklemeesssi.ml
 ibbbyuklemesis.ml
 ibbcannnn.net
 ibbcrdbsrt.duckdns.org
+ibbcrdsrbsvr.duckdns.org
 ibbcrdsrdbsvr.duckdns.org
 ibbcrt34-yukle.tk
 ibbctsk.net
@@ -214676,6 +214682,7 @@ ibbkrsnowwwmcccc.net
 ibbkrt-yklkkm.net
 ibbkrt-yklkm.net
 ibbkrtaktiff.net
+ibbkrtbsvr6.duckdns.org
 ibbkrtdolum.gq
 ibbkrth34-yuklee.net
 ibbkrtodemeyklee.net
@@ -229564,6 +229571,7 @@ istanbulshemim.shop
 istanbulsistemibb.net
 istanbulsizinizindjddd.com
 istanbulsizlakdarhemarim.shop
+istanbulsizlerle900.shop
 istanbulsizlerleolurvarim.shop
 istanbulskart.net
 istanbulskartlar.blogspot.com
@@ -263012,6 +263020,7 @@ lopoefnoogv.ddns.net
 lopolasfba.online
 lopornix.ru
 loppo.host
+loprdasdmngdsa.biz
 lopuspl4.duckdns.org
 loqahpj.com
 loqfttwomo.duckdns.org
@@ -267472,6 +267481,7 @@ malidava.com
 malidava.org
 malidosya.net
 malidosyalarim.org
+maliegm.net
 maliegm.org
 malifalinali.work
 malignantsymposium.top
@@ -275747,6 +275757,7 @@ mmhhrhhrhrrs77.sbs
 mmhhrhhrhrrs78.sbs
 mmhhrhhrhrrs81.sbs
 mmhhrhhrhrrs9.sbs
+mmhhrhhrhrrs90.sbs
 mmhkmazlh.duckdns.org
 mmhp.link
 mmhrsnrndvs.net
@@ -328007,6 +328018,7 @@ qeerndmjxfjqrersq.com
 qeewmmeaen.info
 qeezzy.ddns.net
 qefeawkffb.duckdns.org
+qefefsdcvd.duckdns.org
 qefg.info
 qefoslsgsvigfeuhfty.pw
 qegfw-qwg-wefvh.online
@@ -339937,6 +339949,7 @@ rwf24klk21.xyz
 rwfhif0.duckdns.org
 rwfqjgtscemopax.cn
 rwfxkcsfjtsjvcurc.net
+rwgerwgsdfgfg.duckdns.org
 rwgpgcgusx.duckdns.org
 rwgpxhqyyimm.com
 rwh9kz.duckdns.org
@@ -359085,6 +359098,7 @@ silce-mikona-isrti.lol
 silcom.com
 silcroadseevers.net
 sildelanoe2.zapto.org
+silemiyosankarala.org
 silencedweller.top
 silenceoffmusic.com
 silenceprotocol.com
@@ -372180,6 +372194,7 @@ sube-digitall.website
 sube-ehalkbank.com
 sube-enparamobilsube.com
 sube-enparamobilsube.ws
+sube-fiba.com
 sube-fibavarlikmenkul.com
 sube-finans.net
 sube-firsat-halk.com
@@ -378506,6 +378521,7 @@ taslirf.click
 tasllxwx.click
 tasmambaweb.xyz
 tasmeemgroup.com
+taso1uqxq.cyou
 tasopx.click
 tasopx.xyz
 taspbu.com
@@ -398590,6 +398606,7 @@ turkishairlines.support
 turkishairlines.truf.tr
 turkishairlinesair.com
 turkishairlineskampanya.olumedavet.sbs
+turkishairlineskampanyalari.3tabakvar.sbs
 turkishairlinesmilles.com
 turkishairlinesmilles.ml
 turkishairlinesreservations.org
@@ -447058,6 +447075,7 @@ yinghuxy.cn
 yiniyenidensigorta.b-cdn.net
 yinksey.zapto.org
 yinternetbasvuru.com
+yinveyang.sbs
 yinveyannng.net
 yiooolf.tk
 yip.su
@@ -448181,6 +448199,7 @@ yonlendirilmeler.online
 yonlendirilyordusunksi.duckdns.org
 yonlendirimveraktarimekrani.cfd
 yonlendirisjdaws.webredirect.org
+yonlendirisordunsinuz63.duckdns.org
 yonlendiriyorsyuhfjvhghm.duckdns.org
 yonlendiriyorum-bekle-o-c-wsynxmorbid.shop
 yonlendiriyoruzgarantikazancpro.com
