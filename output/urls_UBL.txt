@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-22 11:35:30 UTC
-! Total: 363084 rules
+! Last modified: 2026-05-22 14:08:59 UTC
+! Total: 363123 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -4003,6 +4003,7 @@
 *://*.18276-coinbase.com/*
 *://*.18290185-coinbase.com/*
 *://*.182967-coinbase.com/*
+*://*.182internettee.com/*
 *://*.182marsbahis.tech/*
 *://*.1833.site/*
 *://*.1835304-coinbase.com/*
@@ -9378,6 +9379,7 @@
 *://*.43535434firstlargeldi.com.tr/*
 *://*.4354354353.cloud/*
 *://*.43544435486384.com/*
+*://*.43554323.net/*
 *://*.43565.click/*
 *://*.435676787873.cloud/*
 *://*.43587127865.net/*
@@ -11128,6 +11130,7 @@
 *://*.65368123790.xyz/*
 *://*.654234234.net/*
 *://*.65423432442.cloud/*
+*://*.65432342.net/*
 *://*.6543487855.cloud/*
 *://*.65436543-836541211.com/*
 *://*.654365437566256.com/*
@@ -29729,6 +29732,7 @@
 *://*.aliveli-konya-usta.lol/*
 *://*.aliveli.site/*
 *://*.alivelibir.site/*
+*://*.alivelikrdokuselli4950.online/*
 *://*.aliveri234s-promo.click/*
 *://*.aliverisguvende-get.com/*
 *://*.aliverispromo54.xyz/*
@@ -45830,6 +45834,8 @@
 *://*.battlediscrepancy.top/*
 *://*.battlefi.world/*
 *://*.battlefieldant.com/*
+*://*.battleflight.org/*
+*://*.battleflight.pro/*
 *://*.battleiste.click/*
 *://*.battloeaxes.digital/*
 *://*.battoc.online/*
@@ -75863,6 +75869,7 @@
 *://*.certaintime.top/*
 *://*.certapletion.top/*
 *://*.certbooster.com/*
+*://*.certcheck.online/*
 *://*.certerianshndieony24.net/*
 *://*.certexvpn.com/*
 *://*.certezatributaria.mx/*
@@ -78805,6 +78812,7 @@
 *://*.cloud-sync.org/*
 *://*.cloud1dv.com/*
 *://*.cloud341.click/*
+*://*.cloudanalitics.net/*
 *://*.cloudapp.net/*
 *://*.cloudaskquestionanswers.com/*
 *://*.cloudbasvurunutamamla.cloud/*
@@ -83535,6 +83543,7 @@
 *://*.corei1amdx.cfd/*
 *://*.corei6amdx.cfd/*
 *://*.corei7amdx.cfd/*
+*://*.corelith.vip/*
 *://*.corelynxx.com/*
 *://*.coremailxt5mainjsp.com/*
 *://*.coreme.store/*
@@ -96893,6 +96902,7 @@
 *://*.digitals-search-gather.com/*
 *://*.digitals-study.biz/*
 *://*.digitalsayfa-basvuru.com/*
+*://*.digitalscrappingworld.com/*
 *://*.digitalservice365cloud.com/*
 *://*.digitalservices-selfservice.net/*
 *://*.digitalsifre.net/*
@@ -107448,6 +107458,7 @@
 *://*.e-online-iade-sistemi.ml/*
 *://*.e-online-iade.cf/*
 *://*.e-online-iade.com/*
+*://*.e-online-ilan-sepet.com/*
 *://*.e-online-ilan.com/*
 *://*.e-online-islemler.sbs/*
 *://*.e-online-istikraraidatiadeleri.com/*
@@ -123295,6 +123306,7 @@
 *://*.evimtokibasvurkmpnya.live/*
 *://*.evimtokibasvurkmpnya.pro/*
 *://*.evimtokide500basvuruekrani.com/*
+*://*.evimyuvanolsun.org/*
 *://*.evimzinherseyi.com/*
 *://*.evinde-bns-lging.info/*
 *://*.evindeawm.com.tr/*
@@ -132742,6 +132754,7 @@
 *://*.for-your.site/*
 *://*.for.ug/*
 *://*.for2cas2.site/*
+*://*.for8service.net/*
 *://*.forandremodeling.com/*
 *://*.forasanalgidapzrlama.online/*
 *://*.forasanalpazarlama.online/*
@@ -135311,6 +135324,7 @@
 *://*.gameilllllllll.buzz/*
 *://*.gameillllllllll.buzz/*
 *://*.gameilllllllllll.buzz/*
+*://*.gameingarea.com/*
 *://*.gamelab.sbs/*
 *://*.gameplatform.net/*
 *://*.gameplinkempire.top/*
@@ -148662,6 +148676,7 @@
 *://*.guvendeilaniniz.com.tr/*
 *://*.guvendeileal.xyz/*
 *://*.guvendeileodeme.com/*
+*://*.guvendeilesatinal.com/*
 *://*.guvendekalsin.com/*
 *://*.guvendeode.com/*
 *://*.guvendeodeme-ilansiparis.com/*
@@ -155378,6 +155393,7 @@
 *://*.hanecaklaw.com/*
 *://*.hanedanisconiyces.site/*
 *://*.hanederbacanesilaclama.site/*
+*://*.hanegeliryardimlari.com/*
 *://*.haneler.cfd/*
 *://*.hanelere3000tl-e-devlet.com/*
 *://*.hanemaddidestek.com/*
@@ -185173,6 +185189,7 @@
 *://*.istanbul1453.shop/*
 *://*.istanbul2023pazar.ml/*
 *://*.istanbul2023um.ml/*
+*://*.istanbul24k.shop/*
 *://*.istanbul34favela.net/*
 *://*.istanbul34kart.com/*
 *://*.istanbul34online.org/*
@@ -185730,6 +185747,7 @@
 *://*.istanbuls.ml/*
 *://*.istanbulsa.net/*
 *://*.istanbulsalarnim.shop/*
+*://*.istanbulsasas.xyz/*
 *://*.istanbulsdks.com/*
 *://*.istanbulsehiric.shop/*
 *://*.istanbulsemalarinda.shop/*
@@ -192486,6 +192504,7 @@
 *://*.justsikhthings.com/*
 *://*.justskin.pk/*
 *://*.juststandart.com.tr/*
+*://*.justupdatednews.com/*
 *://*.justvaccination.top/*
 *://*.justviyayp.cfd/*
 *://*.justviyayp.sbs/*
@@ -194361,6 +194380,7 @@
 *://*.kalktank.com/*
 *://*.kalktramef.net/*
 *://*.kallentra.art/*
+*://*.kalmahabersc4b1zbbadebed.life/*
 *://*.kalmambeoglumnelergordumneler.sbs/*
 *://*.kalmasendehava.online/*
 *://*.kalmdreansanalpzr.xyz/*
@@ -197269,6 +197289,7 @@
 *://*.kapisi-turkiyemsen.com/*
 *://*.kapisicimerdestksayfaniztgr.com/*
 *://*.kapisilalimmiii.click/*
+*://*.kapiskara.lat/*
 *://*.kapital-haber.club/*
 *://*.kapital-haber.life/*
 *://*.kapital-news.com/*
@@ -218877,6 +218898,7 @@
 *://*.meharese1.net/*
 *://*.meharese1.org/*
 *://*.meharese1.xyz/*
+*://*.mehareseinternet.com/*
 *://*.meharrese.com/*
 *://*.meharrrese.com/*
 *://*.meharsee.com/*
@@ -224248,6 +224270,7 @@
 *://*.mobilservisler-28.sbs/*
 *://*.mobilservisler-29.sbs/*
 *://*.mobilservisler-3.sbs/*
+*://*.mobilservisler-30.sbs/*
 *://*.mobilservisler.com/*
 *://*.mobilservisler.online/*
 *://*.mobilservisler.store/*
@@ -229391,6 +229414,7 @@
 *://*.mysrver-chbackend.com/*
 *://*.mysslserver.org/*
 *://*.myssonusak12f.shop/*
+*://*.mystarlink.org/*
 *://*.mystay-id6674.com/*
 *://*.mysteriousscornful.top/*
 *://*.mysterioussubtle.top/*
@@ -236421,6 +236445,7 @@
 *://*.o-bilet.online/*
 *://*.o-bilet.site/*
 *://*.o-bilet.store/*
+*://*.o-bilets.com/*
 *://*.o-bjlet.xyz/*
 *://*.o-demeler-geri-aidati.net/*
 *://*.o-facebook.com/*
@@ -240270,6 +240295,7 @@
 *://*.online-hizmet-com.tk/*
 *://*.online-hizmet-ekrani.site/*
 *://*.online-hizmet-ekrani.website/*
+*://*.online-hizmet-islemleri.com/*
 *://*.online-hizmet-islemleriniz.com/*
 *://*.online-hizmet-link.com/*
 *://*.online-hizmet-tr.com.tr/*
@@ -258404,6 +258430,7 @@
 *://*.procompass.org/*
 *://*.procrediti.com.ua/*
 *://*.procuremgir.pw/*
+*://*.prodacserv.net/*
 *://*.prodamdamkazanc.com/*
 *://*.prodano.store/*
 *://*.prodeal-traders.site/*
@@ -268118,6 +268145,7 @@
 *://*.re-checkid2455.world/*
 *://*.re-confirmationstay.com/*
 *://*.re-hiizmet-servisde-deeevam-co.top/*
+*://*.re-link.space/*
 *://*.re-tdm-sec.live/*
 *://*.re-tdm-sec.online/*
 *://*.re-tdmsec.live/*
@@ -271463,6 +271491,7 @@
 *://*.rixifabed.org/*
 *://*.rixoria.xyz/*
 *://*.rixosbelekpremium.com/*
+*://*.rixoshotelresort.com/*
 *://*.rixospremiumspa.com/*
 *://*.rixosrugs.com/*
 *://*.riyadgo.com/*
@@ -277651,6 +277680,7 @@
 *://*.satin-al-odeme.com.tr/*
 *://*.satin-al-odemem.com.tr/*
 *://*.satin-al-online-101.xyz/*
+*://*.satin-al-siparis.com/*
 *://*.satin-al-tr.com.tr/*
 *://*.satin-al.club/*
 *://*.satin-al.com.tr/*
@@ -281932,6 +281962,7 @@
 *://*.servers-omnnicrosoft365.com/*
 *://*.serverscheckippool.xyz/*
 *://*.serverscreen.host/*
+*://*.serverscreen.net/*
 *://*.serverseistemasatu.com/*
 *://*.servershieldme.com/*
 *://*.serversomnicrosoft365.com/*
@@ -282016,6 +282047,7 @@
 *://*.servicedlimitedchronicles.com/*
 *://*.servicedny.site/*
 *://*.servicedoc-kg.com/*
+*://*.servicefor8.com/*
 *://*.serviceglobal.com.tr/*
 *://*.servicehelpscopyrights.com/*
 *://*.serviceicloud.co/*
@@ -282198,6 +282230,7 @@
 *://*.servsnjethzmet.com/*
 *://*.servsonline.tk/*
 *://*.servsrg01.online/*
+*://*.servupdate.net/*
 *://*.servyxa.com/*
 *://*.serwhegese.net/*
 *://*.serysaglik.ml/*
@@ -299931,7 +299964,9 @@
 *://*.sync-time.info/*
 *://*.sync-tokens.com/*
 *://*.syncdock.click/*
+*://*.syncheaven.online/*
 *://*.synchoilas.xyz/*
+*://*.synchro-service.com/*
 *://*.syncscheduler.com/*
 *://*.syncservices.one/*
 *://*.syncswsap.com/*
@@ -309839,6 +309874,7 @@
 *://*.toolproo.com/*
 *://*.toolsathomes.com/*
 *://*.toolscare.net/*
+*://*.toolsserv.com/*
 *://*.toolzzup.com/*
 *://*.toook-i.click/*
 *://*.tooook-i.click/*
@@ -323361,6 +323397,7 @@
 *://*.updates.wiki/*
 *://*.updates4you.xyz/*
 *://*.updatesbrows.app/*
+*://*.updateserv.net/*
 *://*.updateserver1.com/*
 *://*.updateservice.center/*
 *://*.updateservice.store/*
@@ -323377,6 +323414,7 @@
 *://*.updatetime.zone/*
 *://*.updateui.com/*
 *://*.updateva.com/*
+*://*.updatewin.net/*
 *://*.updating-infos.xyz/*
 *://*.updating-server-community.com/*
 *://*.updating-services.com/*
@@ -362383,6 +362421,7 @@
 *://*.zoo-ciry.shop/*
 *://*.zoofv.com/*
 *://*.zoogamous.com/*
+*://*.zookenta.com/*
 *://*.zoom-download.fun/*
 *://*.zoom-download.host/*
 *://*.zoom-download.space/*
