@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-22 18:54:20 UTC
-# Toplam: 455624 Domain
+# Son Güncelleme: 2026-05-22 20:26:16 UTC
+# Toplam: 455631 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -188815,6 +188815,7 @@ haber365.site
 haber365.xyz
 haber3652.xyz
 haber3655tr.cfd
+haber365gun.shop
 haber365tr.com
 haber366.club
 haber366.online
@@ -196598,6 +196599,7 @@ hcakbars.ru
 hcarrefirsatgunleri.info
 hcarregunsonu.sbs
 hcbpiyasa.com
+hcbrseyolmuyoryargyedk50.click
 hcbsft.com
 hccccccber.duckdns.org
 hccr.hopto.org
@@ -199045,6 +199047,7 @@ hemenmayisfirsatlaribugece.xyz
 hemenmayissokfirsatibasvurusu.live
 hemenmigeliyor.sbs
 hemenmitemen.click
+hemenmuz.lat
 hemenn-geri.net
 hemenn-kapinizza-tesliim.com.tr
 hemenn-kapinizzdaa.com
@@ -202059,6 +202062,7 @@ hgsbakjyeyuykle.com
 hgsbakjytkle.com
 hgsbakyejyklye.com
 hgsbakyeyukle.net
+hgsbakyiebayi.web.app
 hgsbalciode22.com
 hgsbaliklariyy.blogspot.com
 hgsbankacilik.com
@@ -229140,6 +229144,7 @@ istanbulkadarsanhemengel.shop
 istanbulkafrt.net
 istanbulkahveci.myshopify.com
 istanbulkalbim.shop
+istanbulkaldansenneolma.shop
 istanbulkaldirimda.shop
 istanbulkamyonu.shop
 istanbulkankisi.net
@@ -263021,6 +263026,7 @@ lopolasfba.online
 lopornix.ru
 loppo.host
 loprdasdmngdsa.biz
+loprdasdmngdsa.shop
 lopuspl4.duckdns.org
 loqahpj.com
 loqfttwomo.duckdns.org
@@ -280998,6 +281004,7 @@ msg2.zapto.org
 msgahost.net
 msgbox.zapto.org
 msgcollection.com
+mshandebu31.sbs
 msharedoc.ddns.net
 msharedocs.ddns.net
 mshealthmetrics.com
