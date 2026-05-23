@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-23 05:29:03 UTC
-! Total: 363194 rules
+! Last modified: 2026-05-23 08:01:43 UTC
+! Total: 363222 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -74855,6 +74855,7 @@
 *://*.cepbngirissbakiyeiadesi.net/*
 *://*.cepbsvrsndnyrrlnmkbsvrsjzlrzzz.xyz/*
 *://*.cepbxmc3llode.com/*
+*://*.cepc4b1scepc4b1sburda84.live/*
 *://*.cepcardfinans.com/*
 *://*.cepcellykle.net/*
 *://*.cepci-yapikredim.com/*
@@ -116343,6 +116344,8 @@
 *://*.elythra.site/*
 *://*.elythra.store/*
 *://*.elythraapp.shop/*
+*://*.elythraapp.site/*
+*://*.elythraapp.store/*
 *://*.elythrahubs.shop/*
 *://*.elythrahubs.site/*
 *://*.elythrahubs.store/*
@@ -140973,6 +140976,7 @@
 *://*.getmiralyx.site/*
 *://*.getmiralyx.store/*
 *://*.getmivora.shop/*
+*://*.getmivora.site/*
 *://*.getmivora.store/*
 *://*.getmobilodeme.com.tr/*
 *://*.getmoney.company/*
@@ -140992,6 +140996,7 @@
 *://*.getnokta-onaysiparis.com.tr/*
 *://*.getnote.shop/*
 *://*.getnovara.shop/*
+*://*.getnovara.site/*
 *://*.getnoventra.site/*
 *://*.getnovira.site/*
 *://*.getns54tope.top/*
@@ -141006,11 +141011,14 @@
 *://*.getodemeyap.com/*
 *://*.getodentihizmetleri.com/*
 *://*.getolthira.shop/*
+*://*.getolthira.site/*
+*://*.getolthira.store/*
 *://*.getolyra.shop/*
 *://*.getolyra.site/*
 *://*.getolyra.store/*
 *://*.getolytrix.shop/*
 *://*.getolytrix.site/*
+*://*.getolytrix.store/*
 *://*.geton-param-guvende-get-guvenli-odeme.com/*
 *://*.getonline-arackiralama.com/*
 *://*.getonlineparamguvende.com/*
@@ -141179,6 +141187,7 @@
 *://*.getsguvendeparam.com/*
 *://*.getsguvenlialisveris.com.tr/*
 *://*.getshelf.shop/*
+*://*.getship.store/*
 *://*.getshombasvuru.com/*
 *://*.getsignalapps.com/*
 *://*.getsignalapps.live/*
@@ -141224,6 +141233,7 @@
 *://*.gett-sahibindenparamguvende.ml/*
 *://*.gett-sahibindenparamguvende.tk/*
 *://*.gett-secure-sahibindenn.com/*
+*://*.gettag.site/*
 *://*.gettarvion.site/*
 *://*.gettarvion.store/*
 *://*.gettdnzweb.site/*
@@ -141245,6 +141255,7 @@
 *://*.gettravelright.com/*
 *://*.gettrbinance.cfd/*
 *://*.gettrials.com/*
+*://*.gettrivora.shop/*
 *://*.gettrivora.site/*
 *://*.gettrivora.store/*
 *://*.getts-sahbindenpramguvende-com.ml/*
@@ -141283,6 +141294,7 @@
 *://*.getyourapi.site/*
 *://*.getyourproduct.net/*
 *://*.getzamvex.store/*
+*://*.getzoom.store/*
 *://*.geupdate-service.bond/*
 *://*.gevcmsfglsmsf.net/*
 *://*.geveresintl.ga/*
@@ -147964,6 +147976,7 @@
 *://*.guncelsikayyet.tk/*
 *://*.guncelsiparis19olusut.cloud/*
 *://*.guncelsiqqortateklif.pw/*
+*://*.guncelsistemhaber.com/*
 *://*.guncelsistemler.lol/*
 *://*.guncelsite.website/*
 *://*.guncelsiteblaze4mx9qlzp.click/*
@@ -212304,6 +212317,7 @@
 *://*.lookzone.digital/*
 *://*.loom.pw/*
 *://*.loommurmur.top/*
+*://*.loooorddddnzbrdaaa.click/*
 *://*.loop-is.com/*
 *://*.loop4test.com/*
 *://*.loopdesolate.top/*
@@ -218803,6 +218817,7 @@
 *://*.meetasfor.site/*
 *://*.meetbit.site/*
 *://*.meetbit.store/*
+*://*.meetclick.store/*
 *://*.meeten.us/*
 *://*.meetevxicraatxkdr.tk/*
 *://*.meetfundexis.com/*
@@ -231546,6 +231561,7 @@
 *://*.netkorumam.site/*
 *://*.netkorumatalep.sbs/*
 *://*.netkorummamam.site/*
+*://*.netlabs.site/*
 *://*.netlify.app/*
 *://*.netlify.com/*
 *://*.netluc.live/*
@@ -233699,6 +233715,7 @@
 *://*.nodecraft.buzz/*
 *://*.nodecraft.online/*
 *://*.nodedisclose.pw/*
+*://*.nodehubs.store/*
 *://*.nodeline.xyz/*
 *://*.nodenvoy.top/*
 *://*.nodeonylahu.sbs/*
@@ -243762,9 +243779,11 @@
 *://*.opencartmodules.biz/*
 *://*.opencategory.site/*
 *://*.opencausefoundation.org/*
+*://*.openclick.site/*
 *://*.openclimb.top/*
 *://*.opencloudstorage.info/*
 *://*.opencode.site/*
+*://*.opencube.store/*
 *://*.opendisclosure.org.za/*
 *://*.opendnsapi.net/*
 *://*.opendnscloud.com/*
@@ -243793,6 +243812,7 @@
 *://*.openjoiter.shop/*
 *://*.openjoiter.site/*
 *://*.openjovexar.site/*
+*://*.openjump.site/*
 *://*.openkilopretiv.com/*
 *://*.openlane.click/*
 *://*.openlayerd.com/*
@@ -243820,8 +243840,10 @@
 *://*.openorder.site/*
 *://*.openphase.shop/*
 *://*.openport.site/*
+*://*.openport.store/*
 *://*.openprocess.shop/*
 *://*.openprojectgate.com/*
+*://*.openpush.store/*
 *://*.openralvoro.shop/*
 *://*.openralvoro.store/*
 *://*.openrecord.shop/*
@@ -254621,6 +254643,7 @@
 *://*.pinewood-financial.com/*
 *://*.pinflour.com/*
 *://*.pingaksh.com/*
+*://*.pingapp.site/*
 *://*.pingconnect.net/*
 *://*.pingddns.com/*
 *://*.pingrequest.com/*
@@ -256060,6 +256083,8 @@
 *://*.poornight.cn/*
 *://*.poorwatt.top/*
 *://*.popaosjkasjsk.click/*
+*://*.popapp.site/*
+*://*.popapp.store/*
 *://*.popclickene.xyz/*
 *://*.popcornogluekmrem.tk/*
 *://*.popcornvolcano.info/*
@@ -256414,6 +256439,7 @@
 *://*.portionplight.top/*
 *://*.portionstgnant.top/*
 *://*.portionsurpass.top/*
+*://*.portlabs.store/*
 *://*.portlgib.click/*
 *://*.portlgib.com.tr/*
 *://*.portlgibxc.click/*
@@ -263495,6 +263521,7 @@
 *://*.pushapp.site/*
 *://*.pushconsole.com/*
 *://*.pushehotel.world/*
+*://*.pushlabs.site/*
 *://*.pushup-tayt.club/*
 *://*.pushuptayt.club/*
 *://*.pusikuracbre.me/*
@@ -306971,6 +306998,7 @@
 *://*.therierg.ru/*
 *://*.therightagency.pro/*
 *://*.therightyears56.com/*
+*://*.thering.site/*
 *://*.therivexio.com/*
 *://*.thermaldedut.top/*
 *://*.thermalobessive.top/*
