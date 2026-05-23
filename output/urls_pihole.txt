@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-23 16:44:43 UTC
-# Toplam: 455723 Domain
+# Son Güncelleme: 2026-05-23 17:53:38 UTC
+# Toplam: 455732 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -93759,6 +93759,7 @@ campingnonediet.com
 campingyuzbirr.sbs
 campingyuzde25bnkampanya.net
 campingyuzde25bnkampanyagiris.net
+campixo.media
 campkapinda2heykwt.net
 campkwtburadaaa.net
 campkwtthehead.net
@@ -206425,6 +206426,7 @@ hizlimobil.gq
 hizlimobil.ml
 hizlimobil.tk
 hizlimobilbasvuru.mefound.com
+hizlimobilbasvurular.sbs
 hizlimobilegiris.cfd
 hizlimobilegirisim.cfd
 hizlimobilegiristc.cfd
@@ -236116,6 +236118,7 @@ jesusdeuber.hopto.org
 jesussorgu.0hi.me
 jeswfpbttqkisbl.cn
 jet-e-islem-hizmetim.online
+jet-eservis-hizmetlerin.online
 jet-hizmet-mobil.online
 jet-pay.online
 jet-servis.online
@@ -273773,6 +273776,7 @@ mhisp.com
 mhizlimuayenemiz.com
 mhjjj.duckdns.org
 mhkjnlxv.com
+mhkrdsasdh.com
 mhksdvscxv.com
 mhkxvancspxderb.su
 mhlbsrppvj.duckdns.org
@@ -315395,6 +315399,7 @@ peterzag63.ddns.net
 petesesrt.net
 petete.online
 peteteislemleri.com
+petflow.gifts
 petgaztech-proje.com
 peticaonline.com
 peticaonline.comv
@@ -407210,6 +407215,7 @@ uzlasmacozumburosu.com
 uzlasmadavalari.com
 uzlasmadavamiz.com
 uzlasmadavasi.com
+uzlasmadosya.com
 uzlasmadosya.org
 uzlasmadosyalar.org
 uzlasmadosyalari.org
@@ -416954,6 +416960,7 @@ vrmeartklan.com
 vrmgzns-prsmbnzs.net
 vrmlodemelibb.net
 vrmlvri.net
+vrmynartkbktkblfdr.sbs
 vrngncimodeme.blogspot.com
 vrnjhwspmi.duckdns.org
 vrnmmondays.duckdns.org
@@ -447174,6 +447181,8 @@ yiniyenidensigorta.b-cdn.net
 yinksey.zapto.org
 yinternetbasvuru.com
 yinveyang.sbs
+yinveyang2.sbs
+yinveyang3.sbs
 yinveyannng.net
 yiooolf.tk
 yip.su
