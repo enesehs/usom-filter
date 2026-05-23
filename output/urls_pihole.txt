@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-23 21:41:18 UTC
-# Toplam: 455742 Domain
+# Son Güncelleme: 2026-05-23 22:39:36 UTC
+# Toplam: 455748 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -144013,6 +144013,7 @@ efsanelndldlrmlvaktlerl.com
 efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbasladdill.com
 efsanelndlrlmsaatlerlbasladdl.com
+efsanelndlrlmsaatlerlbassladl.com
 efsanemartindiriimleri.com
 efsanemartindirimleri.click
 efsanemartindirimlerii.com
@@ -168372,6 +168373,7 @@ frsttsnnkmpnyabsvrrr.live
 frsttsnnkmpnyabsvrrr.xyz
 frstttkmpnylariiibsvrrrr.info
 frstttsonnnkmpnyaabsvrrr.art
+frstttsonnnkmpnyaabsvrrr.online
 frsturnlericf.online
 frstvktinikcirmavkt.com.tr
 frstxburdxxx.com.tr
@@ -238631,6 +238633,7 @@ k0bidesteke.click
 k0bidestekl.cfd
 k0bidestekleri.click
 k0bidestekmerkezi.com
+k0bihaberl.com
 k0bihizmet.click
 k0bihizmetl.click
 k0bihizmetler.click
@@ -272652,6 +272655,7 @@ merkezgirisim-hizlibasvurma.com
 merkezhaberlerlerle.sbs
 merkezhgs.sg-host.com
 merkezhizligecisistemi.xyz
+merkezhobil.click
 merkezi-aktarim.online
 merkezi-bankasi-aidat.tk
 merkezi-destek-com-tr.cf
@@ -364464,6 +364468,7 @@ sokucuzmarket.com
 sokucuzmarketindirim.site
 sokucuzsokkalite.online
 sokucuzz.shop
+sokundasoku.click
 sokvalizfirsat.com.tr
 sokvamencm.s0k.workers.dev
 sokvamsm.s0k.workers.dev
@@ -439992,6 +439997,7 @@ yamenswash.com
 yamleg.fu8.com
 yamotrax.com
 yampaw.hegikeiroz.workers.dev
+yampejbro.duckdns.org
 yamyamrav.shop
 yamyeba.click
 yan-yukleme.22web.org
