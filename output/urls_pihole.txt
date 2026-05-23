@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-22 23:53:52 UTC
-# Toplam: 455656 Domain
+# Son Güncelleme: 2026-05-23 05:29:03 UTC
+# Toplam: 455669 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -40408,6 +40408,7 @@ aktiveller101.online
 aktivelmarkt101.online
 aktiveltelefon.online
 aktivesystem100.online
+aktivetealla.vercel.app
 aktivitedunyasi.com
 aktkfirst.site
 aktl-fln.shop
@@ -115230,6 +115231,7 @@ dedicationstatic.top
 dedik-ki-sizlere.com
 dedikodukazani.online
 dedilersohbrdf.net
+dedora.vu
 dedoshop.pw
 dedr43rf.com
 dedr43rf.online
@@ -126536,6 +126538,7 @@ dirtymonopolise.top
 dirupun.com
 dirwinstat.com
 dirxmansmbxk.net
+dis-ak-kampaing.myonlineportal.ch
 dis-cover.hopto.org
 dis.ru.com
 disabel.hopto.org
@@ -147349,6 +147352,7 @@ emeklifirsasakalmayilbakmony.shop
 emeklifirsatimkmpynalasdasd.site
 emekliiprmsnynkmnpya.art
 emekliiprmsnynkmnpya.info
+emekliiprmsynnkmpnybsvrr.online
 emekliiziraattt-krdiiibsvruu.ip-ddns.com
 emeklikampanya.site
 emeklikampanyasi.site
@@ -182628,6 +182632,7 @@ grantayashd.com
 grantbank.us
 grantbasvrkred.com.tr
 grantbayii.site
+grantc4b1burdabbvakapy.life
 granteddeadlock.top
 grantedlyaeuge.com
 grantedplight.top
@@ -189035,6 +189040,7 @@ haberkaynagim.website
 haberkek.club
 haberkonut24.com
 haberkonut724.com
+haberkrali.shop
 haberkucugu.com
 haberlarivizyon.com
 haberleer.club
@@ -189068,6 +189074,7 @@ haberler2026xl.com
 haberler24.site
 haberler360.sbs
 haberler365guncel.com
+haberler554.shop
 haberler8.club
 haberler8.online
 haberler8.site
@@ -241514,6 +241521,7 @@ kampanyalar-haftasi.cfd
 kampanyalar-indirim.com
 kampanyalar-indirimler-turkcell.com
 kampanyalar-kampanyalistesi.com
+kampanyalar-karaca.vercel.app
 kampanyalar-maximum.com
 kampanyalar-merkezi-ak.com
 kampanyalar-merkezi.com
@@ -249962,6 +249970,7 @@ kitebenevolent.top
 kitecatastrophic.top
 kitecruise.top
 kiteextinction.top
+kitemailpocket.com
 kitinizgeldi.click
 kitjlpaaptmx.com
 kitkat.zapto.org
@@ -254267,6 +254276,7 @@ kredi-ak-ile-guvende-2024.net
 kredi-al.com
 kredi-al.online
 kredi-atolyesi.online
+kredi-basvur-online.sbs
 kredi-basvur.pages.dev
 kredi-basvuru-formu.ml
 kredi-basvuru-online.lat
@@ -319904,6 +319914,7 @@ prdanjana01.ddnsfree.com
 prdenizbank.com
 prdlommfaq.pro
 prdnbrdclsyzvrnmyndf.biz
+prdnbrdyzgnvrfdgscc.click
 pre-checker.tk
 pre.alwayswait.site
 pre.giize.com
@@ -363729,6 +363740,7 @@ sok2firsatlarinizla.space
 soka-gela2l-kacirma1aadd34.cfd
 sokaciklamalar-12-05.o-oo.vip
 sokaginmeselesi.pro
+sokagirdim.xyz
 sokakdadostlar.com
 sokakfirsatlari.store
 sokakhayvanlarinadestek.com
@@ -381215,6 +381227,7 @@ techtonics.fun
 techtrendy.tech
 techtrimax.com
 techturkpro.com
+techvera.digital
 techverseasx.world
 techvibeszone.xyz
 techvisit.info
