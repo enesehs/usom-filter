@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-23 10:23:17 UTC
-# Toplam: 455704 Domain
+# Son Güncelleme: 2026-05-23 11:53:41 UTC
+# Toplam: 455707 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -151210,6 +151210,7 @@ eportalasliye.org
 eportalcimer-aidathizmetigov-tr.com
 eportalduyuru-evdekal.org
 eportaledevletiade.com
+eportalgib.org
 eportalgirisim.com
 eportalgirislerr.com
 eportalgirisszamani.com
@@ -251517,6 +251518,7 @@ kmpnyhmnbrd1o1.info
 kmpnyhmnbrd1o1.online
 kmpnylrbrdsizlerle.space
 kmpnylrsonayuz.shop
+kmpnymrkzfrstbsvr.info
 kmpnymrkziprmsynnktasi.info
 kmpnymrkziprmsynnktasi.pro
 kmpnymrkziprmsynnktasi.site
@@ -372268,6 +372270,7 @@ sube-digitall.website
 sube-ehalkbank.com
 sube-enparamobilsube.com
 sube-enparamobilsube.ws
+sube-fba.com
 sube-fiba.com
 sube-fibavarlikmenkul.com
 sube-finans.net

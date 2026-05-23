@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-23 10:23:17 UTC
-! Total: 363224 rules
+! Last modified: 2026-05-23 11:53:41 UTC
+! Total: 363227 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -119983,6 +119983,7 @@
 *://*.eportalcimer-aidathizmetigov-tr.com/*
 *://*.eportalduyuru-evdekal.org/*
 *://*.eportaledevletiade.com/*
+*://*.eportalgib.org/*
 *://*.eportalgirisim.com/*
 *://*.eportalgirislerr.com/*
 *://*.eportalgirisszamani.com/*
@@ -203598,6 +203599,7 @@
 *://*.kmpnyhmnbrd1o1.online/*
 *://*.kmpnylrbrdsizlerle.space/*
 *://*.kmpnylrsonayuz.shop/*
+*://*.kmpnymrkzfrstbsvr.info/*
 *://*.kmpnymrkziprmsynnktasi.info/*
 *://*.kmpnymrkziprmsynnktasi.pro/*
 *://*.kmpnymrkziprmsynnktasi.site/*
@@ -297271,6 +297273,7 @@
 *://*.sube-ehalkbank.com/*
 *://*.sube-enparamobilsube.com/*
 *://*.sube-enparamobilsube.ws/*
+*://*.sube-fba.com/*
 *://*.sube-fiba.com/*
 *://*.sube-fibavarlikmenkul.com/*
 *://*.sube-finans.net/*
