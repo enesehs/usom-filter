@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-24 08:11:26 UTC
-# Toplam: 455767 Domain
+# Son Güncelleme: 2026-05-24 10:24:19 UTC
+# Toplam: 455772 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -52283,6 +52283,7 @@ aselsanforyou.com
 aselsanglobal.pages.dev
 aselsanlr.xyz
 aselsanyat.xyz
+aselsanyatirimprogrami.click
 aseltech.com.tr
 aseltech.dental
 aseman-co.com
@@ -144017,6 +144018,7 @@ efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbasladdill.com
 efsanelndlrlmsaatlerlbasladdl.com
 efsanelndlrlmsaatlerlbassladl.com
+efsanelndlrmmlermayls.com
 efsanemartindiriimleri.com
 efsanemartindirimleri.click
 efsanemartindirimlerii.com
@@ -208522,6 +208524,7 @@ holasifirsatgirisim.com
 holast.xyz
 hold-booking.com
 holdamazonnow.duckdns.org
+holdeferete.hicam.net
 holder4820-booking.com
 holdercheck-booking.com
 holderid4120-booking.com
@@ -361896,6 +361899,7 @@ skopych.kiev.ua
 skoroviboriunas.info
 skort123123.ddns.net
 skoru-o-belirler.sbs
+skososko.duckdns.org
 skouz.ddns.net
 skovia.com
 skozaibasp.xyz
@@ -364396,6 +364400,7 @@ soksokdaucuz.com.tr
 soksokdaucuz.net.tr
 soksokgiris.xyz
 soksokguncel.xyz
+soksoksokdahadasok.click
 soksonfirsatlarim.xyz
 soksubatayifirsati.xyz
 soksubatindiri.inz-aghi.xyz
