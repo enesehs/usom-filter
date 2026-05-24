@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-24 21:42:42 UTC
-# Toplam: 455825 Domain
+# Son Güncelleme: 2026-05-24 22:43:43 UTC
+# Toplam: 455836 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9566,6 +9566,7 @@
 234723oi32947p1207481.website
 234812852507.site
 234872374823894.online
+2348932749832432.net
 2348sdks230df834sd03272nsd.com
 234921h9t193g198371.duckdns.org
 23496823garantimobilbasvuru.shop
@@ -41226,6 +41227,7 @@ aktuelurunlersokda.com
 aktuelurunlerveindirimkataloglari.cfd
 aktuelvakaitlerin.click
 aktuelvakitilerin.click
+aktuelvefirsatlarim.xyz
 aktuelvmarket.com.tr
 aktuelvmarket.net.tr
 aktuelvmarket.org.tr
@@ -45997,6 +45999,7 @@ anasayfavitrini.site
 anasayfhgs.com
 anasaykampanyalari-bim.com
 anasegbasv.net
+anasfa.duckdns.org
 anaskoki.ddns.net
 anastasovsworkshop.com
 anasube.online
@@ -124454,6 +124457,7 @@ dig1talnovapqxr.click
 diga1.ddns.net
 digbasmerk.com
 digbyhirst364.xyz
+diger-ofansif-grenade.myonlineportal.ch
 digergeecis.is-best.net
 digerimnagerim.top
 digerimnagerim.uno
@@ -173930,6 +173934,7 @@ gartibbva.com
 gartiolasifirsatgirisim.com
 garulouscuto.com
 garwebbonusklff.xyz
+garxabecan.webredirect.org
 garxntcampanyforr.com.tr
 garxntibaharbasvur.online
 garxntibbva-250-000.duckdns.org
@@ -229917,6 +229922,7 @@ istbankhediye.ml
 istbarobelgim.com
 istbas1.com
 istbasim.net
+istbassvuruogren.cfd
 istbasvlradimz.gleeze.com
 istbasvrdklarimizdayizhemn.com
 istbasvrklmrza.com
@@ -271914,6 +271920,7 @@ meharese1.net
 meharese1.org
 meharese1.xyz
 mehareseinternet.com
+mehareseinternette.com
 meharrese.com
 meharrrese.com
 meharsee.com
@@ -297538,6 +297545,7 @@ oleggamer.hopto.org
 olegrn.com
 oleketec.store
 olekm0dbl.duckdns.org
+olelea6as5.nicepage.io
 olemanage-dashboard.azurewebsites.net
 olenfex.com
 olenoj.com
@@ -360775,6 +360783,7 @@ sites--itrustcapetal-auth.webflow.io
 sites-google-trezorr.webflow.io
 sites-phantom.com
 sites.denztatilde.online
+sitesaddsacve.nicepage.io
 sitesafecdn.hopto.org
 sitesatmisnndmd.sa.com
 sitescope.today
@@ -388771,6 +388780,7 @@ topicaltow.top
 topicclearing.top
 topicdesignation.top
 topicingenious.top
+topiclibrary.com
 topiclistes.icu
 topicportrayal.top
 topics-junior.at.ply.gg
@@ -400791,6 +400801,7 @@ tuvrandevu-muayene.net
 tuvrandevu.net
 tuvrandevusistemi.net
 tuvrandevusistemi.org
+tuvrandvyukekkeasf.net
 tuvrarmcmuyane.net
 tuvrezervasyon-tuvturk.com
 tuvrklee.digital
