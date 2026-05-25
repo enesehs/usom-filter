@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-25 06:26:40 UTC
-# Toplam: 455855 Domain
+# Son Güncelleme: 2026-05-25 11:01:53 UTC
+# Toplam: 455879 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -12137,6 +12137,7 @@
 344657432543754.com
 34473626131740936.com
 34487vbnhg453jgjmgh23hmmasd.com
+345043674984032.net
 34510516238243819756.com
 3452234342234234.xyz
 34522508902.duckdns.org
@@ -23052,6 +23053,7 @@ a-101-extra-internete-ozel-indirim.internete-ozel-mobil-store-tr.site
 a-101-extra-internete-ozel-indirimler.online-mobil-sponsor.lat
 a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
 a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
+a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
@@ -59225,6 +59227,7 @@ bakiyeyuklemevezne.xyz
 bakiyeyuklemeveznesi.xyz
 bakiyeyukleonline.tk
 bakiyeyukllhgs.xyz
+bakiyeyuklmhgs.lat
 bakiymi.net
 bakiyorduyuldu.sbs
 bakkalufukbey.online
@@ -93522,6 +93525,7 @@ called-sayfalar-info1.sa.com
 callejas2013.publicvm.com
 callh3re3181212.tk
 callhere31712123456789.tk
+callidusventure.com
 callik.com
 callingbest302011234567.tk
 callingcall324121234.tk
@@ -170323,6 +170327,7 @@ garaaanaaaaaaaa.com
 garaannntiii.site
 garaanti.com
 garaantibbva.site
+garabcanx.gleeze.com
 garabtibbvaonlinekredigroup.click
 garaclarinm.net
 garacoins.blog
@@ -202152,6 +202157,7 @@ hgsbakiyeyuklemexibb.com
 hgsbakiyeyuklesen.xyz
 hgsbakiyeyuklesin.com
 hgsbakiyeyukletr.com
+hgsbakiyeyuklme.web.app
 hgsbakiyeyuklucenmitrptt.com
 hgsbakiyukle.com
 hgsbakiyukleme.com
@@ -205738,6 +205744,7 @@ hizlicafirsatlardanyararlan.xyz
 hizlicafirsatlarkapinda.org
 hizlicafrsattanlik1o1.com
 hizlicagecerim.sg-host.com
+hizlicagecisbakiyniz.firebaseapp.com
 hizlicagecisistem.web.app
 hizlicagelsin.site
 hizlicagelsinsize1o1.com
@@ -205916,6 +205923,7 @@ hizligechgs.com
 hizligechgyukle.com
 hizligecidimhgs.com
 hizligeciisode.xyz
+hizligecinbakiyesi.firebaseapp.com
 hizligecinbakiyesi.web.app
 hizligecirmehgs.com
 hizligecis-devletodemeler.gq
@@ -205944,6 +205952,7 @@ hizligecisbakiyemerkezi.web.app
 hizligecisbakiyeniz.firebaseapp.com
 hizligecisbakiyeniz.web.app
 hizligecisbays.lat
+hizligecisbaysi.web.app
 hizligecisbizimlegelsene.blogspot.com
 hizligecisbizimleglsene.blogspot.com
 hizligecisburada.xyz
@@ -206075,6 +206084,7 @@ hizligecisyuklemehg.com
 hizligecisyuklemesi.net
 hizligecisyuklemesi.tk
 hizligecisyuklesorgula.com
+hizligecisyuklme.web.app
 hizligecixuzmani.blogspot.com
 hizligecixuzmanlari.net
 hizligecls.xyz
@@ -260794,6 +260804,7 @@ limk.one
 limn55gva.duckdns.org
 limogesshgxer.life
 limon.click
+limoncubakie.lat
 limonhgsz.com
 limoni.cfd
 limonira.store
@@ -268169,6 +268180,7 @@ malkafali222.com
 malkafaniskm.com
 malkauywersix.club
 malkim.com
+malkocbakie.lat
 malkom66.zapto.org
 mall-ministryoffinance-np.netlify.app
 mall.greydermalls.com
@@ -274960,6 +274972,7 @@ minepool.in
 mineralbazaar.shop
 mineraldiesel.top
 minerallongitude.top
+mineralpeak.icu
 mineralpltfdigital-tr.com
 mineralroute.com
 mineraltechplatformu.com
@@ -286849,6 +286862,7 @@ ncokiitvcnoeqm.me
 ncome-platinum.info
 nconfhz.com
 ncoresnew.hopto.org
+ncorex.media
 ncowubtuuovxmgf.cn
 ncp44-insaat.online
 ncp66-insaat.online
@@ -306572,6 +306586,7 @@ ozeltarife-turkcell.com
 ozeltarifeler.com
 ozeltasarimkonteyner.com
 ozeltechnologies.net
+ozeltrack-lifonsi-statik.myonlineportal.ch
 ozelveznemm.com
 ozelyenilikler.xyz
 ozelyildizliurunlertr.net
@@ -314087,6 +314102,7 @@ pazaralanindayiz.cfd
 pazaralisverisy.com
 pazarama-com.hizli-guvenli-satin-alim.online
 pazarama-firsaturunleri.com
+pazarama-kurban.duckdns.org
 pazarama-react-final-project-ulas.netlify.app
 pazarama.anindaonlinesiparis.com.tr
 pazarama.bireyselalim.com.tr
@@ -315925,6 +315941,7 @@ philkassa-spb.com
 philliesmgir.pw
 phillipcapital-trd.com
 phillipcapitaltrade.com
+phillipcapitaltrader.com
 phillipis.cfd
 phillips679.xyz
 phillipys.com
@@ -318436,6 +318453,7 @@ portail-swisscomch.duckdns.org
 portailornge2.ddns.net
 portakal.sbs
 portakalhgsz.com
+portakalisoydum.lat
 portakallisubeleri.online
 portakallisubeleri.xyz
 portakallisubelerindekampanya.online
@@ -321482,6 +321500,7 @@ profitbymoney.info
 profitcryptproffi.info
 profitcurve.sbs
 profitearnmoneycashinvest.info
+profitew.com
 profitfact.xyz
 profitgrowthlinx.site
 profitinherent.top
@@ -330722,6 +330741,7 @@ quantum-dreamlab.online
 quantum-mindfusion.sbs
 quantumai.tools
 quantumal.xyz
+quantumbudget.icu
 quantumburstkxy.click
 quantumcheck.shop
 quantumcorps.online
@@ -377273,6 +377293,7 @@ tabburandab.net
 tabiklimagicinizden.xyz
 tabilenn.site
 tabipara.xyz
+tabkherkersegeleceksennerdesn85.info
 table6532.xyz
 table9876.xyz
 tableadjust.top
@@ -395010,6 +395031,7 @@ trmerdsk.com
 trmerhersorglasn.net
 trmerimiz.app
 trmerkez-bankasi.com
+trmerkezigarantimenucozumlerim.online
 trmerodemebayi.net
 trmerpsmdnsc.net
 trmerpzrgnumz.net
@@ -451648,6 +451670,7 @@ zentrivo.site
 zentroxio.pro
 zenvalis.site
 zenvella.xyz
+zenvira.vu
 zenvorra.store
 zenwise.biz
 zenyoga.icu
@@ -455197,6 +455220,7 @@ zs6xpw8qk.duckdns.org
 zs7gnp.duckdns.org
 zsa16.ddns.net
 zsaddvtds-vdvtt.com
+zsafdsaghfdassax.sbs
 zsaude.com.br
 zsbovj1zc.duckdns.org
 zsbx93psf.duckdns.org
