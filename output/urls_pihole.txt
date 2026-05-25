@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-25 21:58:44 UTC
-# Toplam: 455932 Domain
+# Son Güncelleme: 2026-05-25 22:56:16 UTC
+# Toplam: 455942 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9012,6 +9012,7 @@
 20prbcoin.click
 20prbcoinler.click
 20saka.net
+20sitestar.nicepage.io
 20subatfirsatdeniz.online
 20subatfirsatdenizle.online
 20subatfirsatindeniz.online
@@ -16691,6 +16692,7 @@
 5oj4fpdym.duckdns.org
 5ojuo4.duckdns.org
 5ok2mk.duckdns.org
+5onaylskd.nicepage.io
 5online31sks.com
 5oo8z2s.duckdns.org
 5oppsc.duckdns.org
@@ -64567,6 +64569,7 @@ bayramdakifirstlrrm.com
 bayramdakredi.com
 bayramdamavi.com
 bayramdamerakedenler.com
+bayramdamutlutatillere.com
 bayramdan-10gbsana.com
 bayramdan-aidatiniz.com
 bayramdapandemidestek.unaux.com
@@ -210813,6 +210816,7 @@ hsnewqerea.net
 hsnkyf1.xyz
 hsns.hopto.org
 hsnxugyukleme.ml
+hsnytenkjj.lol
 hsohgsyuklemez.net
 hsorgula.online
 hsp-bs.1und1.de
@@ -269238,6 +269242,7 @@ marketonlinefirsatlari.com.tr
 marketonlinep.com
 marketonlinet.com
 marketoptical.top
+marketora.digital
 marketory.company
 marketou.com
 marketp-ttalfirsat.cfd
@@ -270752,6 +270757,7 @@ mayislafirsatlargeldi101.com
 mayislarbizim.com
 mayislarca.click
 mayislarkapida.com.tr
+mayislarsizin.com
 mayismobilbasvurukampanyafirsatinaozel.live
 mayismobilislemler.com
 mayisndrmleri.com
@@ -281200,6 +281206,7 @@ msgahost.net
 msgbox.zapto.org
 msgcollection.com
 mshandebu1.sbs
+mshandebu23.sbs
 mshandebu28.sbs
 mshandebu31.sbs
 msharedoc.ddns.net
@@ -359635,6 +359642,7 @@ simdilik-yaninda-olanlar-bitmeden-yakala.com
 simdilikburadageldi.com
 simdilikburayageldi.com
 simdiliksizlerehadigeldik.cfd
+simdilikyaninageldi.com
 simdilikyanindaburda.com
 simdillerdegelir1-11indirimlercm.com
 simdimialdinburaya.store
@@ -377713,6 +377721,7 @@ takimaletedavatsa.shop
 takimaletibi.shop
 takimaletindirimibasladi.com
 takimaletlerindesinirlisayilar.sbs
+takimaletleriyapimarket.com
 takimaletleriyapimarkethirdavat.sbs
 takimcantasi62.vip
 takimcantasiindirimi.sbs
@@ -378655,6 +378664,7 @@ tarimorman-gov.weebly.com
 tarimormangovtr.info
 tarimrandevusu.app
 tarimziraati.xyz
+tarimzr.cfd
 tariqalr.zapto.org
 tarizoriosteirt.webflow.io
 tarjetaciudadanafuengirola.com
