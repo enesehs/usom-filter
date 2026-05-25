@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-25 11:01:53 UTC
-# Toplam: 455879 Domain
+# Son Güncelleme: 2026-05-25 14:26:27 UTC
+# Toplam: 455904 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -42704,6 +42704,7 @@ alebeniyemenicesdos13.site
 alecattic.com
 alecredibility.top
 alecs1337.ddns.net
+alectronixzone.com
 aledreklam25.com
 aleenasgiftbox.com
 alef78.duckdns.org
@@ -59192,6 +59193,7 @@ bakiyenizinyuzdeyirmibesnianindagerialinhemenkatil.net
 bakiyenkadaral.net
 bakiyenkadarkazan.online
 bakiyenkadarkazanin.online
+bakiyenzhgsshadsa.lat
 bakiyeodemesi.ml
 bakiyeonay.net
 bakiyepttcel.com
@@ -74660,6 +74662,7 @@ binancetrhub.sbs
 binancetrhztoaste.vercel.app
 binancetrio.sbs
 binancetrjore.vercel.app
+binancetrkampanya.com
 binancetrkampanyagirisislemi2022.com
 binancetrkampanyagirisislemi2022.net
 binancetrkampanyagirisislemi2022.org
@@ -114306,6 +114309,7 @@ davadosyalarim.org
 davadosyasi.com
 davadosyasorgula.org
 davadosyatakip.org
+davadurum.org
 davaesorgu.org
 davakontrol.org
 davalayap.com
@@ -130328,6 +130332,7 @@ dreamarabalar.online
 dreamarabanikirala.online
 dreamaracfilo.online
 dreamaracfilosu.online
+dreamarchive.cyou
 dreamaxis.online
 dreambig1.workers.dev
 dreambignet.com
@@ -139671,6 +139676,7 @@ ecewm6gg7x.duckdns.org
 eceyeasigim.cyou
 eceza-sorgu.site
 ecezabayiode.com
+ecezaegm.org
 ecezahukuk.org
 ecezamaliye.org
 ecezaportal.org
@@ -168997,6 +169003,7 @@ funemarketim.com
 funeral-engineering-expression.top
 funeralbusinesssolution.com
 funescalation.top
+funflix.lol
 funhsgz.com
 funisalodge.co.za
 funituretech.ddns.net
@@ -188915,6 +188922,7 @@ haber365gun.shop
 haber365tr.com
 haber366.club
 haber366.online
+haber366.shop
 haber366.site
 haber366ttr.sbs
 haber369.com
@@ -200415,6 +200423,7 @@ herseyhasd.com
 herseyhasd.net
 herseyhediyeli.com
 herseyherkessesylsin.sbs
+herseyherkezgusecelyenguncel65.info
 herseyigorensen.net
 herseyimfirsatimla.xyz
 herseyimfirsatlarimin.xyz
@@ -203556,6 +203565,7 @@ hgstamzamaninizzim.com
 hgstartsearch.xyz
 hgstasitbayi.sg-host.com
 hgstdolmu.com
+hgstekburadaaa.xyz
 hgstektuk.net
 hgstikla-yuklemenihemenyap-comtr.tk
 hgstiklhizliyukle.tk
@@ -206026,6 +206036,8 @@ hizligecismarketi.com
 hizligecismerkezi.com
 hizligecismerkezi.net
 hizligecismerkezindesin.blogspot.com
+hizligecismesafesi.firebaseapp.com
+hizligecismesafesi.web.app
 hizligecismsl1odeyn.blogspot.com
 hizligecismtvindirimlernikacirma.blogspot.com
 hizligecisode.info
@@ -219685,6 +219697,7 @@ indexadbloucetsg.duckdns.org
 indexagrar.duckdns.org
 indexar.click
 indexasgasfrmesbtpsgts.duckdns.org
+indexban.com
 indexbatpmlbgtsvst.duckdns.org
 indexcamainmibloutclots.duckdns.org
 indexconex.duckdns.org
@@ -251543,6 +251556,7 @@ kmpnyaaprmsynnnbsvrrr.art
 kmpnyaaprmsynnnbsvrrr.info
 kmpnyaaprmsynnnbsvrrr.pro
 kmpnyaaqnbbbsvrr.click
+kmpnyaasonfirsaattbsvrr.art
 kmpnyabasvurckls.live
 kmpnyabasvurckls.pro
 kmpnyabasvurckls.site
@@ -252379,6 +252393,7 @@ kobidestekmerkezii.com
 kobidestekmerkeziniz.sbs
 kobidestekplatformu.cfd
 kobidestekprojesi.com
+kobihaberleri.click
 kobihaberleri.com
 kobihibebasvuru.sbs
 kobihibedestegi.cfd
@@ -258778,6 +258793,7 @@ latysale7.quest
 lauagsndbfud.top
 laudioko.zapto.org
 laughclub.lol
+laughhouse.lol
 laughing-chaplygin.5-199-139-56.plesk.page
 laughing-chatelet.167-86-112-89.plesk.page
 laughing-hoover.20-121-50-101.plesk.page
@@ -266044,6 +266060,7 @@ madibarohillafour.duckdns.org
 madibarohillathree.duckdns.org
 madibeng.ddns.net
 madipach.ddns.net
+madiro.bond
 madisonbootcamps.com
 madisontaylormarketingdata.com
 madisontaylormarketingwork.com
@@ -291777,6 +291794,7 @@ novanew24.online
 novanosa5org.org
 novanot.ddns.net
 novapath.sbs
+novapilot.sbs
 novaposhta.website
 novapostxx.icu
 novaradar.world
@@ -317143,6 +317161,7 @@ platelet.pondernotebook.com
 platemango.top
 plateready.top
 plateturbulent.top
+platfade.tr
 platfom.yatirim-garanti.com
 platform-appses.appspot.com
 platform-dizinitr-web.sa.com
@@ -332666,6 +332685,7 @@ randenvlnhzbrd.blogspot.com
 randervni.net
 randervuni.net
 randesajkewqnv.b-cdn.net
+randesavuluzamhenassnninicin.com
 randesexrengar.dev
 randesexrengar.net
 randesvuxncebindesx.xyz
@@ -356025,6 +356045,7 @@ shadowgocolospire.xyz
 shadowhome.zapto.org
 shadowlegion.ddns.net
 shadowlegion.duckdns.org
+shadowlocker.bond
 shadowlord.ddns.net
 shadownet77.zapto.org
 shadowone.ddns.net
@@ -365150,6 +365171,7 @@ sondakikakredi.online
 sondakikalar.club
 sondakikalar.site
 sondakikalarweb.com
+sondakikamegaport.com
 sondakikaperakende.com
 sondakikasicakgelisme.com
 sondakikasonnet.com
@@ -387398,6 +387420,7 @@ tojqvmse.com
 tok-a.click
 tok-a.com
 tok-as.click
+tok-asd.click
 tok-basvur-dabur.genelmerkezidirresmiyet.com
 tok-bsvr.com
 tok-bsvr.com.tr
@@ -398708,6 +398731,7 @@ turkgrayhold.fun
 turkgrm.com
 turkgsmbayiden.online
 turkhaber.site
+turkhaberaktiflink.com
 turkhaberbilgileri.com
 turkhaberhizliyayin.com
 turkhaberonlineportal.com
@@ -412360,6 +412384,7 @@ venturemusic-data.com
 venturesabanci.com
 venturesindia.co.in
 venturessabanci.com
+venturevault.pics
 venturisx.com
 venturs.digital
 venuecarton.top
