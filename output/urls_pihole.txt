@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-25 01:59:48 UTC
-# Toplam: 455847 Domain
+# Son Güncelleme: 2026-05-25 06:26:40 UTC
+# Toplam: 455855 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -43882,6 +43882,7 @@ allianz.com.pe
 allianzdirekt.online
 allianzsigortaaracilikhizmetleri.com
 allianztr.com
+alligatorbirdwaste.com
 allinclusiveroyale.com
 allinenated.com
 allinino.xyz
@@ -52750,6 +52751,7 @@ asliyecezamahkeme.org
 asliyedava.org
 asliyegov.org
 asliyemahkeme.org
+asliyesorgusu.org
 aslkamask.cfd
 aslkm65m.com
 aslmmny3.com
@@ -97041,6 +97043,7 @@ celebrnewz.xyz
 celebsnightmares.com
 celebvip.click
 celebvvire.com
+celebwise.info
 celed11314.ddns.net
 celekersedenemederhe.online
 celery16.xyz
@@ -173937,6 +173940,7 @@ gartibbva.com
 gartiolasifirsatgirisim.com
 garulouscuto.com
 garwebbonusklff.xyz
+garxabcan.gleeze.com
 garxabecan.webredirect.org
 garxefscan.opik.net
 garxntcampanyforr.com.tr
@@ -232888,6 +232892,7 @@ izkrtbkyeklemesi.com
 izktlqlqss.blogspot.com
 izlakopqps.dns.navy
 izlaopopags.dns.navy
+izlaopqds.duckdns.org
 izlaowqooaa.blogspot.com
 izlappaoq.dns.navy
 izlasmlsabmanskam.blogspot.com
@@ -232908,6 +232913,7 @@ izleditummahalle.com
 izledurit.cfd
 izlee.site
 izlekudurrrrrrrr-ac15389fdcc4.herokuapp.com
+izleltooqqq.blogspot.com
 izlema.com
 izlemeyedevammi.cfd
 izlence.name.tr
@@ -273851,6 +273857,7 @@ mhizlimuayenemiz.com
 mhjjj.duckdns.org
 mhkjnlxv.com
 mhkrdsasdh.com
+mhkrsvzcv.sbs
 mhksdvscxv.com
 mhkxvancspxderb.su
 mhlbsrppvj.duckdns.org
@@ -362466,6 +362473,7 @@ slpsrgpsrhojifdij.ru
 slpsrgpsrhojifdij.su
 slqhpq.duckdns.org
 slqlsuuwsl.duckdns.org
+slrdandsbrdansgfgh.click
 slrndevuje.net
 slrpnlcontrlintrface.com
 slrv-g-t-rnl.my-homeip.de
