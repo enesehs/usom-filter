@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-26 05:55:30 UTC
-# Toplam: 455962 Domain
+# Son Güncelleme: 2026-05-26 09:28:30 UTC
+# Toplam: 455969 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -1818,6 +1818,7 @@
 1001buhaftaninindinirimlerri.com
 1001cesitindirim.online
 1001chromokeyz.site
+1001harcabitmez.click
 1001incifirsatlar.com
 1001indirimburada.net
 1001magazaaralikayikampanyasi.online
@@ -42426,6 +42427,7 @@ aldinaldinredmigirdekleriburada.sbs
 aldinaldins.blogspot.com
 aldinaldinsalitestere.shop
 aldinaldinsantimelerin.com
+aldinaldinsende.click
 aldinaldinsepetfirsx.sbs
 aldinaldinsimdi.icu
 aldinaldinsimdi.online
@@ -202278,6 +202280,7 @@ hgsborcode.duckdns.org
 hgsborcodeme.cf
 hgsborcodeme.com
 hgsborcodeme2022.tk
+hgsborcodemeguncl.com
 hgsborcodemekaravizemenlo.duckdns.org
 hgsborcodemem.ga
 hgsborcugeicodemelerse.duckdns.org
@@ -252225,6 +252228,7 @@ knowapril.net
 knowbee4.ddns.net
 knowdebris.top
 knowdiminish.top
+knowfa.com
 knowflow.study
 knowhowhygiene.top
 knowhowstumble.top
@@ -269968,6 +269972,7 @@ mat3ssa.fun
 matabbrevition.top
 matadorfitnesspro.com
 matadormedya.xyz
+matadurk.com
 matakerbau.com
 matalangit.org
 matamasklloghjn.webflow.io
@@ -316583,6 +316588,7 @@ piramitonline.com
 piramitonlineislem.com
 piramitonlinemenkul.com
 piramitonlineyatirim.com
+piramitsube.com
 piramityatirim.com
 piramityatirimonline.com
 pirana-tech.com
@@ -318585,6 +318591,7 @@ portal-ledgerauth-pro.webflow.io
 portal-login2020.hopto.org
 portal-mijnics.ddns.net
 portal-mijnoverheid.ddns.net
+portal-netgsm.co
 portal-netgsm.com
 portal-nettry-g.my-homeip.net
 portal-nowsystem.duckdns.org
