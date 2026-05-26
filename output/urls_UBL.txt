@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-26 21:24:13 UTC
-! Total: 363477 rules
+! Last modified: 2026-05-26 22:58:03 UTC
+! Total: 363491 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -31376,6 +31376,7 @@
 *://*.anadolu2019webs.com/*
 *://*.anadoluajans.blog/*
 *://*.anadoluajansgovtr.com/*
+*://*.anadoluajanslari.com/*
 *://*.anadoluaksasigorta.com.tr/*
 *://*.anadoluaksasigorta.xyz/*
 *://*.anadoluatesigenclik.online/*
@@ -36672,6 +36673,7 @@
 *://*.asehgss.com/*
 *://*.aseismat.ru/*
 *://*.asekent.click/*
+*://*.aselite.xyz/*
 *://*.aselsan-tr.com/*
 *://*.aselsan.store/*
 *://*.aselsan.tech/*
@@ -102778,6 +102780,7 @@
 *://*.dvrlists.com/*
 *://*.dvrmxencell.com/*
 *://*.dvs5kt1.cn/*
+*://*.dvsc-secure.sbs/*
 *://*.dvso.pw/*
 *://*.dvt-rtrede.com/*
 *://*.dvtortkbnk.online/*
@@ -115461,6 +115464,7 @@
 *://*.ekonomikguven.org/*
 *://*.ekonomikhaber.org/*
 *://*.ekonomikilerleme.online/*
+*://*.ekonomikmarketler.click/*
 *://*.ekonomikokusu.online/*
 *://*.ekonomikontrol.online/*
 *://*.ekonomikontrol.org/*
@@ -120082,6 +120086,7 @@
 *://*.epostacozum24.com/*
 *://*.epostasistemi.xyz/*
 *://*.epostatavsiyesi24x.com/*
+*://*.epostaturk24.com/*
 *://*.epowersoftware.com/*
 *://*.epowoe.com/*
 *://*.epox1.xyz/*
@@ -147736,6 +147741,7 @@
 *://*.guncelhaber.sbs/*
 *://*.guncelhaber.site/*
 *://*.guncelhaberajansi.xyz/*
+*://*.guncelhaberaktif.com/*
 *://*.guncelhabercilik.net/*
 *://*.guncelhaberfan.com/*
 *://*.guncelhaberler.club/*
@@ -177352,6 +177358,7 @@
 *://*.index-consulting.jp/*
 *://*.indexar.click/*
 *://*.indexban.com/*
+*://*.indexfa.com/*
 *://*.indexlin.com/*
 *://*.indexnaria.info/*
 *://*.indexsinas.me/*
@@ -245948,6 +245955,7 @@
 *://*.outlook-services.com/*
 *://*.outlook360.net/*
 *://*.outlook360.org/*
+*://*.outlookcozumtr24.com/*
 *://*.outlookfurious.top/*
 *://*.outlookhediyesi.com/*
 *://*.outlookmicrosoftonline.com/*
@@ -256100,6 +256108,7 @@
 *://*.poleneturkiye.com/*
 *://*.polenfbvc.cfd/*
 *://*.polenkan.net/*
+*://*.polentaq.com/*
 *://*.polesn.net/*
 *://*.polewithcandy.com/*
 *://*.polhgss.com/*
@@ -258970,6 +258979,7 @@
 *://*.profitew.com/*
 *://*.profitfact.xyz/*
 *://*.profitgrowthlinx.site/*
+*://*.profitib.com/*
 *://*.profitinherent.top/*
 *://*.profitmasonbilly.com/*
 *://*.profitmaxinvestments.site/*
@@ -280291,6 +280301,7 @@
 *://*.seksever.com/*
 *://*.sektorecoktukkardes.sbs/*
 *://*.sektorecoktumoccccistediginkadarusomathahaha.dev/*
+*://*.sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com/*
 *://*.sekubar.com/*
 *://*.selaattisad.xyz/*
 *://*.selajkk18444.site/*
@@ -291683,6 +291694,7 @@
 *://*.sonfrstlartukenmkuzere1o1.shop/*
 *://*.sonfrstlrbgnx.xyz/*
 *://*.sonfrstlrm.shop/*
+*://*.sonfrsttbsvrrkmpnyaa.art/*
 *://*.songbleryenylagrs.shop/*
 *://*.songcamp.net/*
 *://*.songenelge.com/*
@@ -301577,6 +301589,7 @@
 *://*.tameabdity.top/*
 *://*.tamedgeesy.sbs/*
 *://*.tamelamanntrue.com/*
+*://*.tamelux.com/*
 *://*.tamer.info/*
 *://*.tamerika.site/*
 *://*.tameshabby.top/*
@@ -363079,6 +363092,7 @@
 *://*.zsaddvtds-vdvtt.com/*
 *://*.zsafdsaghfdassax.sbs/*
 *://*.zsaude.com.br/*
+*://*.zsaxsadsadssax.sbs/*
 *://*.zscaler-api.org/*
 *://*.zsdkeb.com/*
 *://*.zsdlcvt-dcrt.com/*
