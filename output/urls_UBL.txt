@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-26 19:11:02 UTC
-! Total: 363467 rules
+! Last modified: 2026-05-26 21:24:13 UTC
+! Total: 363477 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -151046,6 +151046,7 @@
 *://*.haber7472.shop/*
 *://*.haber7495.shop/*
 *://*.haber752.shop/*
+*://*.haber78456.shop/*
 *://*.haber7gazetesi.com/*
 *://*.haber900.club/*
 *://*.haber900.online/*
@@ -151194,6 +151195,7 @@
 *://*.haberiniz-olsun.club/*
 *://*.haberiniz-olsun.life/*
 *://*.haberinkaynagi145.shop/*
+*://*.haberinkaynagindan.shop/*
 *://*.haberinnoktasi.shop/*
 *://*.haberinolsolar.site/*
 *://*.haberinolsun.site/*
@@ -210201,6 +210203,7 @@
 *://*.leveragemomentum.top/*
 *://*.leveragemultitude.top/*
 *://*.leverempirically.top/*
+*://*.levexionmedia.com/*
 *://*.levhanizayaginizageldi.org/*
 *://*.leviathanfish.com/*
 *://*.levideskteleri.com/*
@@ -219119,6 +219122,7 @@
 *://*.mehdizayani.com/*
 *://*.mehenltd.com/*
 *://*.meherese.com/*
+*://*.meheresebayram7.sbs/*
 *://*.mehersharrow.com/*
 *://*.mehhearse.com/*
 *://*.mehhsds.com/*
@@ -252943,6 +252947,7 @@
 *://*.pazaramaanelergunuozel.com/*
 *://*.pazaramafirsaturunleri.com.tr/*
 *://*.pazaramahizlionay.com/*
+*://*.pazaramahizlionay.net/*
 *://*.pazaramaindirimleri.com/*
 *://*.pazarandavu.app/*
 *://*.pazarbayrami.com/*
@@ -255995,6 +256000,7 @@
 *://*.pofuhostvip.cfd/*
 *://*.pofustelx.cfd/*
 *://*.pogcav21.xyz/*
+*://*.pogdifirterese.lat/*
 *://*.pogfbromsffimf.me/*
 *://*.poghinfc.com/*
 *://*.pogkdkmdfgdfgd.sbs/*
@@ -294907,6 +294913,7 @@
 *://*.sptljwhx.sbs/*
 *://*.sptlrdelndrmguncel.com/*
 *://*.sptlrflrsatlrsizinlee.com/*
+*://*.sptlrfrsltlrguncell.com/*
 *://*.sptsigorta.site/*
 *://*.spttgov.top/*
 *://*.spua1o1.com/*
@@ -336318,6 +336325,7 @@
 *://*.webkveytpuangoldaltinfirsatalonline.com/*
 *://*.weblibscdn.com/*
 *://*.weblines.gr/*
+*://*.webliosy.online/*
 *://*.webloan.world/*
 *://*.weblogin-yapikredi.com/*
 *://*.weblogin-yapikredis.com/*
@@ -339868,6 +339876,7 @@
 *://*.wumniq.com/*
 *://*.wunchilm.com/*
 *://*.wunixeacau.life/*
+*://*.wunzarek.media/*
 *://*.wuonxoqii.xyz/*
 *://*.wuopnnilektla.net/*
 *://*.wuoppin.live/*
@@ -357157,6 +357166,7 @@
 *://*.yinveyang3.sbs/*
 *://*.yinveyang4.sbs/*
 *://*.yinveyang5.sbs/*
+*://*.yinveyang8.sbs/*
 *://*.yinveyannng.net/*
 *://*.yiooolf.tk/*
 *://*.yip.su/*
