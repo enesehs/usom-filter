@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-27 03:30:44 UTC
-! Total: 363500 rules
+! Last modified: 2026-05-27 07:53:15 UTC
+! Total: 363519 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -21141,6 +21141,7 @@
 *://*.aeketgbjyunxvbc.su/*
 *://*.aelmarix.com/*
 *://*.aelthorin.com/*
+*://*.aelunor.business/*
 *://*.aelunora.com/*
 *://*.aelvinar.net/*
 *://*.aem.live/*
@@ -48370,6 +48371,7 @@
 *://*.beltglacier.top/*
 *://*.beltofcurse.xyz/*
 *://*.beltoxer.com/*
+*://*.beltrainstormsnowman.com/*
 *://*.beltsymd.org/*
 *://*.beltturkey785.com/*
 *://*.beltweasel.top/*
@@ -50144,6 +50146,7 @@
 *://*.bikegreenberlin.live/*
 *://*.bikehypocritical.top/*
 *://*.bikekaidee.com/*
+*://*.bikelasagnaroof.com/*
 *://*.bikemediate.top/*
 *://*.bikenil.top/*
 *://*.bikeontop.shop/*
@@ -63935,6 +63938,7 @@
 *://*.bolt-food.site/*
 *://*.boltappeasement.top/*
 *://*.boltarch.top/*
+*://*.boltcamelfortitude.com/*
 *://*.boltecosystem.top/*
 *://*.boltencyclopaedia.top/*
 *://*.bolterbunny.com/*
@@ -66316,6 +66320,7 @@
 *://*.bryslvibihepsizlerle.com/*
 *://*.bryynlyrzbrdansnrdsa.sbs/*
 *://*.bryzanok.vu/*
+*://*.bryzelun.media/*
 *://*.brzdanynlynyrsnszdnsgl.shop/*
 *://*.brzdanynlyrsnzbrya.shop/*
 *://*.brzjmnnccell.com/*
@@ -68447,6 +68452,7 @@
 *://*.bunasilisya.com/*
 *://*.bunchderail.top/*
 *://*.bunchlogistic.top/*
+*://*.buncloset.com/*
 *://*.bunda-kalarak-herhangi-aylara-ugramaz.cfd/*
 *://*.bundan-boyle-mutluyuz.com/*
 *://*.bundan-son.shop/*
@@ -73117,6 +73123,7 @@
 *://*.carrolvassin.top/*
 *://*.carrotaptly.top/*
 *://*.carrotbuffalo.top/*
+*://*.carrotclothelevation.com/*
 *://*.carrotconsolation.top/*
 *://*.carrotfriction.top/*
 *://*.carrrefoursa.com/*
@@ -96245,6 +96252,7 @@
 *://*.dewarejeki.info/*
 *://*.dewekasadito.biz/*
 *://*.dewfugjxvzz.info/*
+*://*.dewhurricaneicicle.com/*
 *://*.dewi.tk/*
 *://*.dewibebaris.com/*
 *://*.dewifal.com/*
@@ -120367,6 +120375,7 @@
 *://*.equitypath.sbs/*
 *://*.equityrise.bond/*
 *://*.equitysalmon.top/*
+*://*.equityycraft.com/*
 *://*.equivalenceanalogy.top/*
 *://*.equivalencehumanism.top/*
 *://*.equivalencethreshold.top/*
@@ -123949,6 +123958,7 @@
 *://*.evokewholesale.top/*
 *://*.evokgtis.gq/*
 *://*.evoko.ae/*
+*://*.evolanexgroup.com/*
 *://*.evolaok.com/*
 *://*.evoltoki.digital/*
 *://*.evolutionarycrisp.top/*
@@ -126022,6 +126032,7 @@
 *://*.famacunopar.com.br/*
 *://*.fambeyconiscarbanis.site/*
 *://*.famebranch.com/*
+*://*.famepath.info/*
 *://*.famfindtree.com/*
 *://*.famiilia.net.tr/*
 *://*.famiilia.org.tr/*
@@ -139929,6 +139940,7 @@
 *://*.genelgeyayinaraci.com/*
 *://*.genelgeyayinaracigovtr.com/*
 *://*.genelgeyayinkapisigovtr.com/*
+*://*.genelgundem7.com/*
 *://*.genelhgshizmetin.ml/*
 *://*.genelhizmetler.online/*
 *://*.genelhizmetleriniz.online/*
@@ -147338,6 +147350,7 @@
 *://*.guide-gemini.com/*
 *://*.guideability.top/*
 *://*.guideappraisal.top/*
+*://*.guideib.com/*
 *://*.guidelin.com/*
 *://*.guidelineencyclopaedia.top/*
 *://*.guidelinelubricate.top/*
@@ -201522,6 +201535,7 @@
 *://*.kgmmu.cc/*
 *://*.kgmng.life/*
 *://*.kgmng.top/*
+*://*.kgmngov.cfd/*
 *://*.kgmngov.top/*
 *://*.kgmnm.top/*
 *://*.kgmnu.top/*
@@ -201771,6 +201785,7 @@
 *://*.kick.am/*
 *://*.kickersflyers.bid/*
 *://*.kickervideo.com/*
+*://*.kickknifeprice.com/*
 *://*.kickstar-xbloom.info/*
 *://*.kickykiduz.lat/*
 *://*.kictdzewa.com/*
@@ -264318,6 +264333,7 @@
 *://*.qemaxilur.com/*
 *://*.qemlavun.buzz/*
 *://*.qemswwsqhh.info/*
+*://*.qemuzari.media/*
 *://*.qemvaril.shop/*
 *://*.qemyxsdigi.info/*
 *://*.qenbdenlerdens.com/*
@@ -268230,6 +268246,7 @@
 *://*.ravitucker5325.xyz/*
 *://*.ravogachem.com/*
 *://*.ravonel.com/*
+*://*.ravonella.com/*
 *://*.ravtonic.com/*
 *://*.ravumo.com/*
 *://*.ravunixel.com/*
@@ -291128,6 +291145,7 @@
 *://*.soluxury.co.uk/*
 *://*.solvarento.info/*
 *://*.solvarion.live/*
+*://*.solvariona.com/*
 *://*.solvater.space/*
 *://*.solvbyte.sbs/*
 *://*.solve-management-riskverifys.net/*
@@ -320378,6 +320396,7 @@
 *://*.turksmerkeziodeme.tk/*
 *://*.turksmtv.com/*
 *://*.turksmtvode.gq/*
+*://*.turksondakikadunyasi.com/*
 *://*.turkssssmtvodeme.tk/*
 *://*.turksticaretbankasi.com/*
 *://*.turksticaretbankasi.org/*
