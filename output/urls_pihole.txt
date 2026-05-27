@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-26 23:59:13 UTC
-# Toplam: 456042 Domain
+# Son Güncelleme: 2026-05-27 03:30:44 UTC
+# Toplam: 456051 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -9584,6 +9584,7 @@
 234sfdf.duckdns.org
 234xn-xn-garanti.com.tr
 2351236236.sa.com
+2351245.click
 2351578.xyz
 2352343242.cloud
 235235234623652.dpdns.org
@@ -49049,6 +49050,7 @@ ar62xg.duckdns.org
 ar8v.ddns.net
 ar98etv.duckdns.org
 ara-gov-tr.com
+ara1.me
 ara1o1.net
 ara41bux1nshqpi.ddns.net
 araaacmynetvuk.net
@@ -131944,6 +131946,7 @@ dvrodiqfah.duckdns.org
 dvrsoc.ddns.net
 dvs5kt1.cn
 dvs7j07.duckdns.org
+dvsc-go.top
 dvsc-secure.sbs
 dvso.pw
 dvssssssss.blogspot.com
@@ -189388,6 +189391,7 @@ habertrt.shop
 habertry.shop
 habertry1453.shop
 habertry24.shop
+habertry4561.shop
 habertur.club
 habertur.site
 habertur.xyz
@@ -194195,6 +194199,7 @@ harcaharca-bitmez.com.tr
 harcaharca-bitmez.net
 harcaharca-bitmez.online
 harcaharca-bitmez.shop
+harcaharca-co.liveon.site
 harcaharca.globalsec.sbs
 harcaharcaabitmez.com.tr
 harcaharcaabitmez.shop
@@ -218102,6 +218107,7 @@ ile-online-alim.com.tr
 ile-onlinealisveris.com.tr
 ile-pasajkampanya.com
 ile-s-al.com
+ile-saitin-al.online
 ile-satin-al.com
 ile-satin-alim.com
 ile-satinalim.com.tr
@@ -243644,6 +243650,7 @@ kapindakifirsat.online
 kapindakifirsatlarin.xyz
 kapindakimutlulukgeldi.cfd
 kapindakimutlulukhemenal.com
+kapindakimutlulukhemenal.org
 kapindaluxmasaset.click
 kapindamarket.site
 kapindana.com.tr
@@ -379352,6 +379359,7 @@ tbqgwduj3.duckdns.org
 tbrklm.click
 tbrklm25.click
 tbs.takas-bist.trade
+tbsaxashfdsasf.sbs
 tbsn10373829krklm.site
 tbsoha.weebly.com
 tbsooicyyv.duckdns.org
@@ -396895,6 +396903,7 @@ ts4eji.duckdns.org
 ts637cj8a.duckdns.org
 ts723sq.duckdns.org
 ts9kkvp6j.duckdns.org
+tsacsacgassax1.cfd
 tsadmostmogvnll.net
 tsapp.me
 tsarackiralama.com

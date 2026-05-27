@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-26 23:59:13 UTC
-! Total: 363491 rules
+! Last modified: 2026-05-27 03:30:44 UTC
+! Total: 363500 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -6855,6 +6855,7 @@
 *://*.234db37e5e2f5a7fbc0fe1fee5b311.com/*
 *://*.234kt24ktk2.xyz/*
 *://*.234xn-xn-garanti.com.tr/*
+*://*.2351245.click/*
 *://*.2351578.xyz/*
 *://*.2352343242.cloud/*
 *://*.23523523akbnk.xyz/*
@@ -33833,6 +33834,7 @@
 *://*.ar4cmuay3n3e.net/*
 *://*.ar500arnor.com/*
 *://*.ara-gov-tr.com/*
+*://*.ara1.me/*
 *://*.ara1o1.net/*
 *://*.araaacmynetvuk.net/*
 *://*.araabasigorta.site/*
@@ -102780,6 +102782,7 @@
 *://*.dvrlists.com/*
 *://*.dvrmxencell.com/*
 *://*.dvs5kt1.cn/*
+*://*.dvsc-go.top/*
 *://*.dvsc-secure.sbs/*
 *://*.dvso.pw/*
 *://*.dvt-rtrede.com/*
@@ -151422,6 +151425,7 @@
 *://*.habertry.shop/*
 *://*.habertry1453.shop/*
 *://*.habertry24.shop/*
+*://*.habertry4561.shop/*
 *://*.habertur.club/*
 *://*.habertur.site/*
 *://*.habertur.xyz/*
@@ -176001,6 +176005,7 @@
 *://*.ile-onlinealisveris.com.tr/*
 *://*.ile-pasajkampanya.com/*
 *://*.ile-s-al.com/*
+*://*.ile-saitin-al.online/*
 *://*.ile-satin-al.com/*
 *://*.ile-satin-alim.com/*
 *://*.ile-satinalim.com.tr/*
@@ -197386,6 +197391,7 @@
 *://*.kapindakifirsatlarin.xyz/*
 *://*.kapindakimutlulukgeldi.cfd/*
 *://*.kapindakimutlulukhemenal.com/*
+*://*.kapindakimutlulukhemenal.org/*
 *://*.kapindaluxmasaset.click/*
 *://*.kapindamarket.site/*
 *://*.kapindana.com.tr/*
@@ -211328,6 +211334,7 @@
 *://*.liveoakbank.cm/*
 *://*.liveoakbank.co/*
 *://*.liveoakbank.online/*
+*://*.liveon.site/*
 *://*.liveone-ppc.com/*
 *://*.liveonedrvshare.xyz/*
 *://*.liveonemusicalbumsppc.com/*
@@ -302488,6 +302495,7 @@
 *://*.tbpum-buisness.net/*
 *://*.tbrklm.click/*
 *://*.tbrklm25.click/*
+*://*.tbsaxashfdsasf.sbs/*
 *://*.tbsn10373829krklm.site/*
 *://*.tbstarbil.info/*
 *://*.tbt-sceitech.com/*
@@ -317141,6 +317149,7 @@
 *://*.ts1usj.cn/*
 *://*.ts3cardd.com/*
 *://*.ts3host.net/*
+*://*.tsacsacgassax1.cfd/*
 *://*.tsadmostmogvnll.net/*
 *://*.tsapp.me/*
 *://*.tsarackiralama.com/*
