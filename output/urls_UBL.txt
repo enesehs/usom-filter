@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-28 05:57:22 UTC
-! Total: 363544 rules
+! Last modified: 2026-05-28 09:53:44 UTC
+! Total: 363553 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -100953,6 +100953,7 @@
 *://*.dorvenis.com/*
 *://*.dorvenix.com/*
 *://*.dorvexa.in/*
+*://*.dorzu.pro/*
 *://*.dosageautonomy.top/*
 *://*.dosagesnap.top/*
 *://*.dosdevelopers.com/*
@@ -156737,6 +156738,7 @@
 *://*.hastaneguvensistemiapp.xyz/*
 *://*.hastanehizmetplatformu.xyz/*
 *://*.hastaneisleriogren.cfd/*
+*://*.hastaneminrandevusu.cfd/*
 *://*.hastanemrveriyayini.xyz/*
 *://*.hastanemuayeneverileri.xyz/*
 *://*.hastaneninonunde.cyou/*
@@ -165601,6 +165603,7 @@
 *://*.hizliarabalarkirala.xyz/*
 *://*.hizliaracadreseteslimat.online/*
 *://*.hizliaracbzdolabi.xyz/*
+*://*.hizliaracgecisilieriniz.sbs/*
 *://*.hizliaracinikirala.com/*
 *://*.hizliaracinikiralama.com/*
 *://*.hizliaracinikiralamak.com/*
@@ -229000,6 +229003,7 @@
 *://*.mwsveylcu.com/*
 *://*.mwupyqhre.com/*
 *://*.mwuqcq.top/*
+*://*.mwvqt9a1uv.lol/*
 *://*.mwyipeuxphcj.me.uk/*
 *://*.mwyzq7.cyou/*
 *://*.mwzxh.com/*
@@ -272272,6 +272276,7 @@
 *://*.rockstareats.com/*
 *://*.rockstarsyard.com/*
 *://*.rocksv.com/*
+*://*.rockvault.shop/*
 *://*.rockwellroyalhomes.com/*
 *://*.rocky-bolbao.cfd/*
 *://*.rocky.page/*
@@ -288813,6 +288818,7 @@
 *://*.skillgrove.sbs/*
 *://*.skillhub.icu/*
 *://*.skillmasteryhub.us/*
+*://*.skillnest.study/*
 *://*.skillpharmacy.top/*
 *://*.skillquestions.com/*
 *://*.skimescalator.top/*
@@ -290191,6 +290197,7 @@
 *://*.softether.net/*
 *://*.softethng.top/*
 *://*.softfaremiks.icu/*
+*://*.softflow.vu/*
 *://*.softgap.top/*
 *://*.softhearth.store/*
 *://*.softhouse.store/*
@@ -320969,6 +320976,7 @@
 *://*.tuvturk-cun.com/*
 *://*.tuvturk-d.digital/*
 *://*.tuvturk-dijital.site/*
+*://*.tuvturk-dis.com/*
 *://*.tuvturk-gtr.com/*
 *://*.tuvturk-islem-randevu.net/*
 *://*.tuvturk-islemleri.com/*
@@ -338912,6 +338920,7 @@
 *://*.wotbu.top/*
 *://*.wotiferbosoa.com/*
 *://*.wotonline.site/*
+*://*.wotpoc.shop/*
 *://*.wotugfq.com/*
 *://*.wouatiareves.ru/*
 *://*.woudausdnw.com/*

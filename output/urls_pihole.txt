@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-28 05:57:22 UTC
-# Toplam: 456111 Domain
+# Son Güncelleme: 2026-05-28 09:53:44 UTC
+# Toplam: 456121 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -129599,6 +129599,7 @@ dorvenis.com
 dorvenix.com
 dorvexa.in
 dorwjb.duckdns.org
+dorzu.pro
 dosageautonomy.top
 dosagesnap.top
 dosdkd.mo
@@ -195279,6 +195280,7 @@ hastanegunlerim.cfd
 hastaneguvensistemiapp.xyz
 hastanehizmetplatformu.xyz
 hastaneisleriogren.cfd
+hastaneminrandevusu.cfd
 hastanemrveriyayini.xyz
 hastanemuayeneverileri.xyz
 hastaneninonunde.cyou
@@ -205630,6 +205632,7 @@ hizliaracadreseteslimat.online
 hizliaracbayiksies.blogspot.com
 hizliaracbayiksiess.blogspot.com
 hizliaracbzdolabi.xyz
+hizliaracgecisilieriniz.sbs
 hizliaracinikirala.com
 hizliaracinikiralama.com
 hizliaracinikiralamak.com
@@ -284375,6 +284378,7 @@ mwuqcq.top
 mwusonbxkm.duckdns.org
 mwvgq.duckdns.org
 mwvidcwqeg.duckdns.org
+mwvqt9a1uv.lol
 mwxa6j.duckdns.org
 mwyipeuxphcj.me.uk
 mwymjidzca.duckdns.org
@@ -338976,6 +338980,7 @@ rockstareats.com
 rockstargames.ddns.net
 rockstarsyard.com
 rocksv.com
+rockvault.shop
 rocky-bolbao.cfd
 rockybalboa.at
 rockyndawn.com
@@ -352065,6 +352070,7 @@ sefkatvakfim.com
 sefkxkkxwj.duckdns.org
 sefopi.info
 seforalghamdi.ddns.net
+sefore.netlify.app
 seftali.site
 sefuhsuifhishfe.com
 sefuhsuifhishfy.in
@@ -362079,6 +362085,7 @@ skillgrove.sbs
 skillhub.icu
 skillissue.ddns.net
 skillmasteryhub.us
+skillnest.study
 skillpharmacy.top
 skillquestions.com
 skillsoumiealorixo.ddns.net
@@ -363846,6 +363853,7 @@ softeruplive.com
 softetal.com
 softethng.top
 softfaremiks.icu
+softflow.vu
 softgap.top
 softh.blogsky.com
 softhearth.store
@@ -401153,6 +401161,7 @@ tuvturk-cio.com
 tuvturk-cun.com
 tuvturk-d.digital
 tuvturk-dijital.site
+tuvturk-dis.com
 tuvturk-gtr.com
 tuvturk-islem-randevu.net
 tuvturk-islemleri.com
@@ -425140,6 +425149,7 @@ wotads.com
 wotbu.top
 wotiferbosoa.com
 wotonline.site
+wotpoc.shop
 wotugfq.com
 wouatiareves.ru
 woudausdnw.com
