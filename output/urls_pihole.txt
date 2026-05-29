@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-29 17:23:28 UTC
-# Toplam: 456198 Domain
+# Son Güncelleme: 2026-05-29 20:02:31 UTC
+# Toplam: 456204 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -5844,6 +5844,7 @@
 182-mehharese.com
 182-webhati.com
 182043-coinbase.com
+1822-mehares.com
 1824345355535.cloud
 18256262660.xyz
 18263062152.com
@@ -9507,6 +9508,7 @@
 232ekxttrr-asdsdmrktstindnrmllrinde.xyz
 232x243232.duckdns.org
 2332273355754.com
+233311111111.theworkpc.com
 23333473355333.com
 233443223.cloud
 2335233242324com.com
@@ -101923,6 +101925,7 @@ ckakdeniz-gov-tr.com
 ckara482.ru.com
 ckara482.sa.com
 ckara482.shop
+ckascnaoen.duckdns.org
 ckav.ru
 ckay4real.hopto.org
 ckbimcellibbx.com
@@ -221475,6 +221478,7 @@ indirmli15aralik.online
 indirmli15aralik.xyz
 indirmlivergiodeme.net
 indirmlraktuelfrstlr.duckdns.org
+indirmsznle.com
 indirnmli-katalog.com
 indirr-basvur-bireysel-ucret-geri-iasesi.ml
 indirr-basvuru-bireysel-ucret-iadesi.tk
@@ -305450,6 +305454,7 @@ otokiramaviss.tk
 otokocarackirala.com
 otokocarackiralama.com
 otokocfilo.com
+otokocfilokurumsal.com
 otokocfilorentacar.net
 otokocfilosu.com
 otokocilan.info
@@ -401270,6 +401275,7 @@ tuvturk-ss.digital
 tuvturk-sse.digital
 tuvturk-ssl.com
 tuvturk-w.digital
+tuvturk-wir.com
 tuvturk-xls.com
 tuvturk-xssl.com
 tuvturk-xsxs.com
