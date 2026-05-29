@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-29 10:35:58 UTC
-! Total: 363607 rules
+! Last modified: 2026-05-29 13:52:59 UTC
+! Total: 363611 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -125802,6 +125802,7 @@
 *://*.fackboddy45.com/*
 *://*.facs.pw/*
 *://*.fact-times.live/*
+*://*.factban.com/*
 *://*.factfa.com/*
 *://*.factgrove.news/*
 *://*.factheologissi.com/*
@@ -214957,6 +214958,7 @@
 *://*.mahkemedosyatrakip.org/*
 *://*.mahkemeler.pro/*
 *://*.mahkemelerim.org/*
+*://*.mahkemelik.help/*
 *://*.mahkememaliye.org/*
 *://*.mahkemesorgu.info/*
 *://*.mahkemesorgu.net/*
@@ -245597,6 +245599,7 @@
 *://*.otokockirala.net/*
 *://*.otokockiralama.online/*
 *://*.otokockutahya.com/*
+*://*.otokocrentfilo.com/*
 *://*.otokocrezervasyon.com/*
 *://*.otokocsamsun.com/*
 *://*.otokocsivas.com/*
@@ -358779,6 +358782,7 @@
 *://*.yuhgsz.com/*
 *://*.yuhiguhajusi.store/*
 *://*.yuhsuldur.site/*
+*://*.yuhuguderdere.click/*
 *://*.yuidskadjna.com/*
 *://*.yuika72v.xyz/*
 *://*.yuinlabe.com/*
