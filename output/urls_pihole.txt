@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-30 22:43:35 UTC
-# Toplam: 456255 Domain
+# Son Güncelleme: 2026-05-30 23:53:06 UTC
+# Toplam: 456266 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -34908,6 +34908,7 @@ ahns.zapto.org
 ahnungslos.no-ip.biz
 ahnunuvs.vercel.app
 ahofi.com
+ahohbvvtxlsa.shop
 ahojmost.ddns.net
 ahongdeash.net
 ahookent.net
@@ -68255,6 +68256,7 @@ bgjuknsx.com
 bgkfnx.com
 bgkurumsalgiris-hemenalbasvur.com
 bgleak.site
+bgleotmbrkhpdr.sbs
 bgleovebncalstkcabrd.shop
 bgltnbvvlvada.duckdns.org
 bgltnkmpnykatla.space
@@ -114066,6 +114068,7 @@ darmasealeands.giize.com
 darmelis.mom
 darnelis.com
 darnovexium.shop
+darolix.cfd
 daronop.info
 darraarat.com
 darrylgordon473.xyz
@@ -215209,6 +215212,7 @@ ibncadestektr.com
 ibncagirisdestektr.com
 ibncdestektr.com
 ibnelsahra.ddns.net
+ibnncexh.webredirect.org
 ibns-zamani.duckdns.org
 ibnsdestektr.com
 ibo.ddns.net
@@ -239032,6 +239036,7 @@ k2sts1q.site
 k2sts2q.site
 k2t6i2yeodm.biz
 k2tcarj-sjena.click
+k2uveyt.duckdns.org
 k2zbz1yeodm.info
 k30asdhashdhashdahsdhashdhashdh.click
 k30td2.duckdns.org
@@ -274647,6 +274652,7 @@ midnightcoat.com
 midnightfashion.top
 midnightgocoloshade.xyz
 midnightmoon.top
+midnightmotion.digital
 midnightsanitary.top
 midnightthrifty.top
 midnigthwaall.com
@@ -284778,6 +284784,7 @@ my365maujanivagoalsr.duckdns.org
 my53rdbank.hopto.org
 my8001.duckdns.org
 mya8k9k.duckdns.org
+myacc-portal.myonlineportal.de
 myacccount-login-google.com
 myaccess-account.ddns.net
 myaccont.zapto.org
@@ -315720,6 +315727,7 @@ pesticidebeckon.top
 pestinglongie.hopto.org
 pestomustafa.tk
 pet-shopping.net
+petalara.com
 petalbella.gifts
 petalia.digital
 petalservices.top
@@ -341369,6 +341377,7 @@ s0kfrsatbziimlehizlaa.com
 s0kfrstlkmcmmcmzkflrmsmc.store
 s0kkta-firstlrm.net
 s0kmalrketller.shop
+s0kmarlket.shop
 s0kyilbasialdinaldin.org
 s0mh58307lop1t1vo6oda2c.ddns.net
 s0mzamangldi1br0d1a.com
@@ -348297,6 +348306,7 @@ santospanel.com.tr
 santospanel.xyz
 santoxpri.duckdns.org
 santrobsrvrkloxamz.duckdns.org
+santyonaxa.xyz
 santysnewy.buzz
 sanuzu.cn
 sanvikevents.com
@@ -417188,6 +417198,7 @@ vrapus.name.tr
 vraq-new.click
 vraqelun.com
 vrastinar.info
+vraxolim.media
 vrbrke.click
 vrbtek.top
 vrcacqkghghnsjr.su
