@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-30 02:54:09 UTC
-! Total: 363632 rules
+! Last modified: 2026-05-30 06:11:53 UTC
+! Total: 363639 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -46581,6 +46581,7 @@
 *://*.bayrampandemi-destekkredisi.tc/*
 *://*.bayrampandemidestek.com/*
 *://*.bayrampasabocekilaclama.net/*
+*://*.bayrampromosyon.com/*
 *://*.bayramrahat.com/*
 *://*.bayramsabahimrkt.com/*
 *://*.bayramsalislem.com/*
@@ -127828,6 +127829,7 @@
 *://*.fglixzups.com/*
 *://*.fglpdkilohbjuxmow.com/*
 *://*.fgmindia.com/*
+*://*.fgnan.pics/*
 *://*.fgndfmnfsdv.xyz/*
 *://*.fgobezwn.com/*
 *://*.fgpcw-kr.edu.pk/*
@@ -155416,6 +155418,7 @@
 *://*.haltsigortam.net/*
 *://*.haltsigortta.net/*
 *://*.haltviable.top/*
+*://*.haluce.online/*
 *://*.halukkkk.online/*
 *://*.halwvsjnxzb.com/*
 *://*.halyk-bank.club/*
@@ -200460,6 +200463,7 @@
 *://*.kekekelemenek.club/*
 *://*.kekekxntkxrtileodeme.net/*
 *://*.kekelerarabayiyanastirir.click/*
+*://*.kekemgeldisohretkekemgeldipara.cfd/*
 *://*.kekemnaber21.xyz/*
 *://*.kekempepe.xyz/*
 *://*.kekhgss.com/*
@@ -209800,6 +209804,7 @@
 *://*.leapindy.org/*
 *://*.leappoach.info/*
 *://*.learn74.xyz/*
+*://*.learnban.com/*
 *://*.learncrafty.com/*
 *://*.learndarkcan.com/*
 *://*.learndigitalseo.com/*
@@ -231399,6 +231404,7 @@
 *://*.neqd.org/*
 *://*.nequienttroll.com/*
 *://*.nerapo.com/*
+*://*.neravella.com/*
 *://*.neraviona.xyz/*
 *://*.nerbzdcm.com/*
 *://*.nerd6ebuhzalkimbenim82.net/*
@@ -264409,6 +264415,7 @@
 *://*.qelmorav.media/*
 *://*.qeloravi.com/*
 *://*.qelundo.pro/*
+*://*.qelvazor.cfd/*
 *://*.qelvorni.vu/*
 *://*.qemaxilur.com/*
 *://*.qemlavun.buzz/*
