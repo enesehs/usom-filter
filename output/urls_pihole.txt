@@ -1,6 +1,6 @@
 # USOM Zararlı Domain Listesi (Pi-hole Format)
-# Son Güncelleme: 2026-05-31 21:44:45 UTC
-# Toplam: 456317 Domain
+# Son Güncelleme: 2026-05-31 22:44:44 UTC
+# Toplam: 456328 Domain
 
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
@@ -23073,6 +23073,7 @@ a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
 a-101-de-extra-sadece-bugune-ozel-firsat.onlinecep-tr.site
 a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
+a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click
 a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
 a-101-de-sadece-bugune-ozel-tr.online-shop-tr.site
 a-101-de-sadece-bugune-ozel-tr.ozel-online-cepte-tr.site
@@ -77278,6 +77279,7 @@ biriz-burada-seninle-unutmadan-unutma.com
 birizgencvakfi.net
 birkacbilgi.name.tr
 birkanvakfi.com
+birkezaktarm.duckdns.org
 birkikenpara.info
 birlassanalpos.com
 birlesik-odeme-hizmetleri.online
@@ -109973,6 +109975,7 @@ crfr-sa.net.tr
 crfrbrdasnndlrerdasd.bond
 crfrcix.sbs
 crfreousszeozel.online
+crfrfsafas.duckdns.org
 crfrikibinyirmibes.shop
 crfrlsdayilsnu.com
 crfrm.it.com
@@ -189029,6 +189032,7 @@ haber1174.shop
 haber123.click
 haber123.shop
 haber132.shop
+haber1420.shop
 haber1453.club
 haber1453.online
 haber1453.site
@@ -254251,6 +254255,7 @@ kraca-kasim-indrirmleri.net
 kraca-kcmz-frsttlarrxs.xyz
 kraca-kmpnya-yilbsi.site
 kracahom.click
+kracahomedemlik.click
 kracakampnya.site
 kracakampnyabuhfta.site
 kracannekmi.cfd
@@ -271022,6 +271027,7 @@ mayistadenizvurgunlari.click
 mayistaharcligin.com
 mayistaharcliginiz.com
 mayistaki-firsatlar-kapinda.online
+mayistakimutluluklar.com
 mayistamutluyuz.com
 mayistanharcigincepte.com
 mayistasonhizmet.com
@@ -296676,6 +296682,7 @@ odkhcmjq.com
 odkmtbuecjbhe.net
 odkydl4.cn
 odkywdbttwhxrhp.ru
+odlassadan.shop
 odlnbiltuvtrkk.net
 odls5urx.duckdns.org
 odm-yapmak.net
@@ -341420,6 +341427,7 @@ s0kfrsatbziimlehizlaa.com
 s0kfrstlkmcmmcmzkflrmsmc.store
 s0kkta-firstlrm.net
 s0kmalrketller.shop
+s0kmarkel.lat
 s0kmarlket.shop
 s0kyilbasialdinaldin.org
 s0mh58307lop1t1vo6oda2c.ddns.net
@@ -366982,6 +366990,7 @@ sorunsuzcagecisim.sg-host.com
 sorunsuzdevamediniz.net
 sorunsuzdevamedinizz.net
 sorunsuzgunler.sbs
+sorunsuzhepburdayizbiz.com
 sorunsuzhizmetlrm.cfd
 sorunsuzislemler.sg-host.com
 sorunsuzpaketlerim.sg-host.com
@@ -439722,6 +439731,7 @@ xxxxxxxxxxxxxxxx.zapto.org
 xxxxxxzzzzzxxxxzzzzzz.cfd
 xxxyuklegeccxxx.sg-host.com
 xxxyukleme.xyz
+xxy23ycx23y.sbs
 xxyuklemenizxx.sg-host.com
 xxyuzbirfrstlarii.online
 xxzz.zapto.org
@@ -456224,6 +456234,7 @@ zz4kzt27u8.ru
 zz55550005555.duckdns.org
 zz7kx2mq.click
 zz7l5w5.duckdns.org
+zz8880000888.duckdns.org
 zz88880008888.duckdns.org
 zz98ytnhn.duckdns.org
 zz9990000999.duckdns.org
