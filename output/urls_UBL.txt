@@ -7,8 +7,8 @@
 ! Contact: https://enesehs.me#contact
 ! WritingRules: https://adblockplus.org/filters
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! Last modified: 2026-05-31 22:44:44 UTC
-! Total: 363706 rules
+! Last modified: 2026-05-31 23:52:53 UTC
+! Total: 363708 rules
 
 *://*.0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com/*
 *://*.0--loook.net/*
@@ -89939,6 +89939,7 @@
 *://*.deniz26yilozel.com/*
 *://*.deniz26yilozelbmwx3.com/*
 *://*.deniz29yilarabacekilisi.com/*
+*://*.deniz535283637293638.lol/*
 *://*.deniz75tlbonus.com/*
 *://*.deniz9subatfirsati.online/*
 *://*.denizaazbankw.com/*
@@ -322017,6 +322018,7 @@
 *://*.tyldoreq.media/*
 *://*.tylify.site/*
 *://*.tylron.at/*
+*://*.tylvaruna.buzz/*
 *://*.tylxv.com/*
 *://*.tymvd.xyz/*
 *://*.tynarmek.surf/*
