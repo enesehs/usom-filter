@@ -1,5 +1,5 @@
 # USOM Zararlı URL Listesi
-# Son Güncelleme: 2026-08-07 06:01:59 UTC
+# Son Güncelleme: 2026-08-07 08:02:33 UTC
 # Toplam: 18 URL
 
 http:///>
@@ -17,6 +17,6 @@ http://<meta charset="utf-8" />
 http://<meta name="viewport" content="width=device-width, initial-scale=1" />
 http://<script src="swagger-ui-bundle.js"></script>
 http://<script src="usom.js"></script>
-http://<title>T.C. Siber Güvenlik Başkanlığı</title>
+http://<title>USOM API</title>
 http://content="SwaggerIU"
 http://name="description"
